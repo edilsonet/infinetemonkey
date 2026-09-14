@@ -1,0 +1,37 @@
+id: rbac-rbac-135-a135-23-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.23
+section_title: Acessórios e controles do grupo motopropulsor
+subsection_id: a
+cite: A135.23(a)
+title: A135.23(a)
+text: (a) Controles do motor. Se as manetes ou alavancas de controle de potência de aviões
+  com motores turboélice forem tais que uma certa posição desses controles reduza o fluxo
+  de combustível para os motores abaixo daquele necessário para a operação satisfatória e
+  segura em marcha lenta, com o avião em voo, devem ser providos meios para impedir movimentação
+  inadvertida desses controles para a referida posição. Os meios providos devem incorporar
+  uma trava positiva ou batente na posição de marcha lenta e devem requerer uma operação separada
+  e distinta, por parte do tripulante, para deslocar o controle da faixa normal de operação
+  do motor.
+keywords:
+- taxi-aereo
+- operacoes
+- controles
+- operacao
+- posicao
+- controle
+- desses
+- lenta
+- marcha
+- meios
+- motor
+- motores
+- providos
+- a135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

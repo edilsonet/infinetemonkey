@@ -1,0 +1,41 @@
+id: rbac-rbac-23-23-2500-body
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2500'
+section_title: Requisitos de sistemas a nível avião.
+subsection_id: body
+cite: '23.2500'
+title: Requisitos de sistemas a nível avião.
+text: '23.2500 Requisitos de sistemas a nível avião.
+
+
+  Em termos gerais, esta seção se aplica a equi-
+
+  pamentos e sistemas instalados, a menos que
+
+  uma seção deste regulamento imponha requisi-
+
+  tos para uma parte específica do equipamento,
+
+  sistema ou sistemas.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- sistemas
+- aviao
+- nivel
+- requisitos
+- secao
+- aplica
+- deste
+- equi
+- equipamento
+- especifica
+- gerais
+- imponha
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

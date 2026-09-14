@@ -1,0 +1,51 @@
+id: rbac-rbac-27-preambulo-v
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: v
+cite: preambulo(v)
+title: preambulo(v)
+text: '(v)
+
+  Autorotation;
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR 27.141
+
+  14 CFR 27.143(a)(2)(v) (enhanced display)
+
+  page 17 of 126
+
+
+  (vi)
+
+  Landing (power on and power off); and
+
+  (vii)
+
+  Recovery to power-on flight from a balked autorotative approach.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- power
+- preambulo
+- airworthiness
+- approach
+- autorotation
+- autorotative
+- balked
+- category
+- date
+- display
+- enhanced
+- flight
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

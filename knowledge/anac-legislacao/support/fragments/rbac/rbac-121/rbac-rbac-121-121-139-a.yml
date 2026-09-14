@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-139-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.139'
+section_title: Requisitos para manual a bordo de aviões. Operações não regulares
+subsection_id: a
+cite: 121.139(a)
+title: 121.139(a)
+text: (a) Exceto como previsto no parágrafo (b) desta seção, cada detentor de certificado
+  conduzindo operações não regulares deve transportar a totalidade ou partes apropriadas de
+  seu sistema de manuais em cada um dos seus aviões que esteja fora da sede operacional. Tais
+  partes devem estar disponíveis para uso de pessoal de voo e de solo. Se qualquer porção
+  da parte referente à manutenção estiver sob outra forma que não a impressa, o avião deve
+  transportar, também, um dispositivo de leitura dos mesmos que proporcione imagem claramente
+  legível das informações e instruções de manutenção ou um sistema que permita recuperar tais
+  informações.
+keywords:
+- transporte-aereo
+- operacoes
+- avioes
+- cada
+- informacoes
+- manutencao
+- partes
+- regulares
+- sistema
+- tais
+- transportar
+- apropriadas
+- aviao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

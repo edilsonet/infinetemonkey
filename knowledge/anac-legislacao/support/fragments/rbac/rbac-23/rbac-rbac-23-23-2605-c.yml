@@ -1,0 +1,40 @@
+id: rbac-rbac-23-23-2605-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2605'
+section_title: Instalação e operação.
+subsection_id: c
+cite: 23.2605(c)
+title: 23.2605(c)
+text: '(c) As informações relativas a uma condição
+
+  insegura de operação do sistema devem ser
+
+  fornecidas em tempo hábil ao tripulante res-
+
+  ponsável por tomar medidas corretivas. A in-
+
+  formação deve ser clara o suficiente para evitar
+
+  erros prováveis da tripulação.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- operacao
+- clara
+- condicao
+- corretivas
+- erros
+- evitar
+- formacao
+- fornecidas
+- habil
+- informacoes
+- insegura
+- instalacao
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

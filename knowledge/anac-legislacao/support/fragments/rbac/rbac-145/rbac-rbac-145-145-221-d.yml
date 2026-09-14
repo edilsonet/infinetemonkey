@@ -1,0 +1,43 @@
+id: rbac-rbac-145-145-221-d
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.221'
+section_title: Relatórios de dificuldade em serviço
+subsection_id: d
+cite: 145.221(d)
+title: 145.221(d)
+text: '(d) Cada organização de manutenção certificada pode enviar um relatório de dificuldade
+  em
+
+  serviço em nome de:
+
+  (1) um detentor de certificado segundo o RBAC 121, desde que o relatório atenda aos
+
+  requisitos do RBAC 121 e dos manuais do operador, conforme apropriado;
+
+  (2) [reservado]; e
+
+  (3) um detentor de certificado segundo o RBAC 135, desde que o relatório atenda aos
+
+  requisitos do RBAC 135 e dos manuais do operador, conforme apropriado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- relatorio
+- apropriado
+- atenda
+- certificado
+- desde
+- detentor
+- dificuldade
+- manuais
+- operador
+- requisitos
+- segundo
+- servico
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

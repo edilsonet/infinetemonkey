@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-211-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.211'
+section_title: 'Voo VFR em rota: limitações operacionais'
+subsection_id: b
+cite: 135.211(b)
+title: 135.211(b)
+text: '(b) a aeronave for operada sob as seguintes condições:
+
+  (1) para aeronaves multimotoras, se as condições atmosféricas permitirem que, em caso de
+  falha do motor crítico, a aeronave desça ou continue o voo dentro das condições mínimas
+  de visibilidade exigidas; e
+
+  (2) para aeronaves monomotoras, se as condições atmosféricas permitirem que, em caso de
+  falha do motor, a aeronave desça para pouso mantendo as condições mínimas de visibilidade
+  exigidas.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- condicoes
+- aeronave
+- aeronaves
+- atmosfericas
+- caso
+- desca
+- exigidas
+- falha
+- minimas
+- motor
+- permitirem
+- visibilidade
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

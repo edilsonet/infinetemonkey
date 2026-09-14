@@ -1,0 +1,52 @@
+id: rbac-rbac-26-26-43-d
+kind: rbac
+document: rbac-26
+family: '26'
+section_id: '26.43'
+section_title: 'Detentores ou requerentes de certificado de tipo: reparos.'
+subsection_id: d
+cite: 26.43(d)
+title: 26.43(d)
+text: '(d) Dados de reparo ainda não publicados. Para dados de reparo desenvolvidos por um
+  detentor
+
+  de certificado de tipo aprovados após 22/03/2010 e que ainda não foram publicados, o detentor
+  do
+
+  certificado de tipo deve realizar o que segue para reparos especificados nos dados de reparo
+  que
+
+  afetam uma estrutura básica crítica a fadiga:
+
+  (1) realizar a Avaliação de Tolerância ao Dano e desenvolver a Inspeção de Tolerância ao
+
+  Dano;
+
+  (2) submeter os dados de Tolerância ao Dano requeridos no parágrafo (d)(1) desta seção para
+
+  análise e aprovação da ANAC; e
+
+  (3) uma vez aprovado, tornar a Inspeção de Tolerância ao Dano disponível para as pessoas
+  re-
+
+  queridas a cumprir com os RBAC 121.1109 e 129.109.'
+keywords:
+- aeronavegabilidade
+- envelhecimento
+- dados
+- dano
+- tolerancia
+- certificado
+- reparo
+- tipo
+- detentor
+- inspecao
+- publicados
+- realizar
+- reparos
+- afetam
+categories:
+- aeronavegabilidade
+- envelhecimento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-26.md

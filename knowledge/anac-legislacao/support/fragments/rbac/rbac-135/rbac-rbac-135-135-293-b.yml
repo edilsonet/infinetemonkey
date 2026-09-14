@@ -1,0 +1,44 @@
+id: rbac-rbac-135-135-293-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.293'
+section_title: Requisitos de exame inicial e periódico para pilotos
+subsection_id: b
+cite: 135.293(b)
+title: 135.293(b)
+text: (b) O detentor de certificado somente pode utilizar uma pessoa como piloto e uma pessoa
+  somente pode trabalhar como piloto em um voo se, dentro dos 12 meses calendáricos precedendo
+  esse voo, esse piloto tiver passado em um exame de proficiência aplicado por um servidor
+  designado pela ANAC ou por um piloto examinador credenciado na classe da aeronave, se avião
+  monomotor outro que não a reação, ou no tipo da aeronave, se helicóptero, avião multimotor
+  ou avião a reação, visando determinar a proficiência do piloto na execução prática das manobras
+  e técnicas nessa aeronave ou classe de aeronaves. A extensão do exame de proficiência será
+  determinada pelo servidor designado pela ANAC ou examinador credenciado conduzindo o exame.
+  O exame de proficiência pode incluir qualquer das manobras e procedimentos normalmente requeridos
+  para a emissão original da particular licença de piloto requerida para as operações autorizadas
+  e apropriadas para a categoria, classe ou tipo da aeronave envolvida. Para os propósitos
+  deste parágrafo, tipo, para um avião, significa um grupo qualquer de aviões que a ANAC considere
+  ter meios similares de propulsão, mesmo fabricante e sem significativas diferenças de maneabilidade
+  ou de características de voo. Para os propósitos deste parágrafo, tipo, para um helicóptero,
+  significa um modelo básico do mesmo fabricante.
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- exame
+- aeronave
+- aviao
+- proficiencia
+- tipo
+- classe
+- pode
+- credenciado
+- designado
+- deste
+- examinador
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

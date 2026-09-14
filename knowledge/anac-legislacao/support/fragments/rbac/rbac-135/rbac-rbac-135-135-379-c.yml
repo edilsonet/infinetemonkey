@@ -1,0 +1,53 @@
+id: rbac-rbac-135-135-379-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.379'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de decolagem'
+subsection_id: c
+cite: 135.379(c)
+title: 135.379(c)
+text: '(c) No caso de um grande avião categoria transporte com motores a turbina, de tipo
+  certificado em seu país de origem após 25 de setembro de 1959, é vedado decolar com esse
+  avião com um peso maior do que aquele indicado no manual de voo do avião, para permitir
+  atender ao seguinte:
+
+  (1) a distância de aceleração e parada, como definida na seção 25.109 do RBAC nº 25, não
+  pode exceder o comprimento da pista, mais o comprimento de um eventual “
+
+  stopway
+
+  ”;
+
+  (2) a distância de decolagem não pode exceder o comprimento da pista mais o comprimento
+  do “
+
+  clearway
+
+  ”, sendo que o comprimento do “
+
+  clearway
+
+  ” considerado não pode exceder metade do comprimento da pista; e
+
+  (3) a corrida de decolagem não pode ser maior que o comprimento da pista.'
+keywords:
+- taxi-aereo
+- operacoes
+- comprimento
+- pista
+- pode
+- aviao
+- decolagem
+- exceder
+- categoria
+- clearway
+- distancia
+- maior
+- motores
+- transporte
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

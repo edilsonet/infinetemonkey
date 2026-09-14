@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-345-m
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.345'
+section_title: '155.345'
+subsection_id: m
+cite: 155.345(m)
+title: 155.345(m)
+text: '(m)
+
+  O sistema deve dispor de um controle de intensidade adequado de forma a permitir ajustes
+  que atendam às condições prevalecentes e que evitem o ofuscamento do piloto durante a aproximação
+  e pouso.'
+keywords:
+- seguranca-aeroportuaria
+- adequado
+- ajustes
+- aproximacao
+- atendam
+- condicoes
+- controle
+- dispor
+- durante
+- evitem
+- forma
+- intensidade
+- ofuscamento
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

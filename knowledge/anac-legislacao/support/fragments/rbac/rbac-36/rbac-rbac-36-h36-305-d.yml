@@ -1,0 +1,92 @@
+id: rbac-rbac-36-h36-305-d
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: H36.305
+section_title: H36.305
+subsection_id: d
+cite: H36.305(d)
+title: H36.305(d)
+text: '(d)
+
+  Aircraft testing procedures.
+
+  (1) The aircraft testing procedures and noise measurements must be
+
+  conducted and procesed in a maner that yields the noise evaluation measure designated as
+
+  Efective Perceived Noise Lev
+
+  el (EPNL) in units of EPNdB, as prescribed in Apendix A of this
+
+  part.
+
+
+  (2) The helicopter height and lateral position relative to the reference flight track (which
+  pases
+
+  through the flight track noise measuring station) must be determined using an FA
+
+  - ap
+
+  roved
+
+  method. The equipment used to make the determination must be independent of normal flight
+
+  instrumentation. Aplicable independent systems are radar tracking, theodolite triangulation,
+  laser
+
+  trajectography, photo scaling, or diferential global positi
+
+  oning system.
+
+
+  (3) The helicopter position along the flight path must be related to the noise recorded
+  at the noise
+
+  measuring stations by means of synchronized signals recorded at an aproved sampling rate.
+  The
+
+  helicopter position must be recorded relative
+
+  to the reference flight track during the entire time
+
+  interval in which the recorded signal is within 10 dB of PNLTM. Measuring and sampling
+
+  equipment must be aproved by the FA before testing.
+
+
+  (4) Aircraft performance data suficient to make the corectio
+
+  ns required under section H36.205 of
+
+  this apendix must be recorded at an FA
+
+  - aproved sampling rate using FA
+
+  - aproved equipment.
+
+
+  Section H36.103
+
+  Takeof test conditions.'
+keywords:
+- ruido
+- meio-ambiente
+- must
+- noise
+- flight
+- recorded
+- aproved
+- aircraft
+- equipment
+- helicopter
+- measuring
+- position
+- sampling
+- testing
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

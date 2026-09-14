@@ -1,0 +1,34 @@
+id: rbac-rbac-175-175-201-b
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.201'
+section_title: Requisitos gerais aplicáveis a todas as classes, exceto Classe 7
+subsection_id: b
+cite: 175.201(b)
+title: 175.201(b)
+text: '(b) As embalagens devem ser apropriadas ao seu conteúdo.
+
+  (1) As embalagens em contato direto com artigos perigosos devem ser resistentes às ações,
+
+  químicas ou de outra natureza, desses artigos.'
+keywords:
+- artigos-perigosos
+- carga
+- artigos
+- embalagens
+- acoes
+- aplicaveis
+- apropriadas
+- classe
+- classes
+- contato
+- conteudo
+- desses
+- direto
+- exceto
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

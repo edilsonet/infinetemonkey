@@ -1,0 +1,33 @@
+id: rbac-rbac-155-155-101-f
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.101'
+section_title: '155.101'
+subsection_id: f
+cite: 155.101(f)
+title: 155.101(f)
+text: '(f)
+
+  A acurácia do levantamento de campo deve ser de forma que os dados da navegação operacional
+  resultantes, utilizados nas fases de voo, estejam dentro dos limites de desvios máximos,
+  no que tange à base de referência apropriada, conforme indicado nas tabelas constantes do
+  Apêndice A.'
+keywords:
+- seguranca-aeroportuaria
+- acuracia
+- apendice
+- apropriada
+- base
+- campo
+- constantes
+- dados
+- dentro
+- desvios
+- estejam
+- fases
+- forma
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

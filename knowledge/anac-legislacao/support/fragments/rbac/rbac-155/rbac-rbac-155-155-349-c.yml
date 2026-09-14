@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-349-c
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.349'
+section_title: Sistema de iluminação da área de aproximação final e decolagem (FATO)
+subsection_id: c
+cite: 155.349(c)
+title: 155.349(c)
+text: '(c)
+
+  As luzes da FATO devem ser onidirecionais, fixas na cor branca. Quando a intensidade for
+  variável, as luzes devem apresentar variação na cor branca.'
+keywords:
+- seguranca-aeroportuaria
+- branca
+- fato
+- luzes
+- apresentar
+- aproximacao
+- area
+- decolagem
+- final
+- fixas
+- iluminacao
+- intensidade
+- onidirecionais
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

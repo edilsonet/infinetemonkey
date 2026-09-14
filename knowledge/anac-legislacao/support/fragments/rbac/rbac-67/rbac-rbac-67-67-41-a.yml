@@ -1,0 +1,27 @@
+id: rbac-rbac-67-67-41-a
+kind: rbac
+document: rbac-67
+family: '67'
+section_id: '67.41'
+section_title: Requisitos para cadastramento de médicos
+subsection_id: a
+cite: 67.41(a)
+title: 67.41(a)
+text: (a) A ANAC pode cadastrar médicos para emitir CMA de 4ª classe.
+keywords:
+- saude
+- certificado-medico
+- pessoal
+- medicos
+- cadastramento
+- cadastrar
+- classe
+- emitir
+- pode
+- requisitos
+categories:
+- saude
+- certificado-medico
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-67.md

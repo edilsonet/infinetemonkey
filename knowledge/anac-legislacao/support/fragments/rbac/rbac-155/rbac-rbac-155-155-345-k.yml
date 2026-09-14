@@ -1,0 +1,29 @@
+id: rbac-rbac-155-155-345-k
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.345'
+section_title: '155.345'
+subsection_id: k
+cite: 155.345(k)
+title: 155.345(k)
+text: '(k)
+
+  O formato do sinal deve ser de modo que o sistema seja único e visível em todos os ambientes
+  operacionais.'
+keywords:
+- seguranca-aeroportuaria
+- ambientes
+- formato
+- modo
+- operacionais
+- seja
+- sinal
+- sistema
+- todos
+- unico
+- visivel
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

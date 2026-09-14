@@ -1,0 +1,51 @@
+id: rbac-rbac-035-35-38-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.38'
+section_title: '35.38'
+subsection_id: body
+cite: '35.38'
+title: '35.38'
+text: '35.38
+
+  Impacto de descargas atmosféricas
+
+
+  O requerente deve demonstrar, por ensaios,
+
+  análises baseadas em ensaios ou experiência em
+
+  projetos similares, que a hélice pode suportar
+
+  um impacto de descargas atmosféricas sem que
+
+  isto cause um efeito major ou hazardous de
+
+  hélice. O limite até o qual a hélice foi qualifica-
+
+  da deve ser documentado nos manuais apropria-
+
+  dos. Esta seção não se aplica a hélices de passo
+
+  fixo de madeira com projeto convencional.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- atmosfericas
+- descargas
+- ensaios
+- impacto
+- analises
+- aplica
+- apropria
+- baseadas
+- cause
+- convencional
+- demonstrar
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

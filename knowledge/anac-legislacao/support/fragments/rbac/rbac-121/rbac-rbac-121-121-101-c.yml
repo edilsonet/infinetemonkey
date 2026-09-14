@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-101-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.101'
+section_title: Serviços de informações meteorológicas
+subsection_id: c
+cite: 121.101(c)
+title: 121.101(c)
+text: (c) Cada detentor de certificado conduzindo operações regulares que utilize previsões
+  meteorológicas para exercer o controle operacional deve utilizar previsões providas pelas
+  fontes especificadas no parágrafo (b) desta seção ou pelas fontes aprovadas sob o sistema
+  adotado nos termos do parágrafo (d) desta seção.
+keywords:
+- transporte-aereo
+- operacoes
+- desta
+- fontes
+- meteorologicas
+- paragrafo
+- pelas
+- previsoes
+- secao
+- adotado
+- aprovadas
+- cada
+- certificado
+- conduzindo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

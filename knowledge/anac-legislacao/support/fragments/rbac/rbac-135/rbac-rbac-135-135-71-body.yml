@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-71-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.71'
+section_title: Verificação de aeronavegabilidade
+subsection_id: body
+cite: '135.71'
+title: Verificação de aeronavegabilidade
+text: '135.71 Verificação de aeronavegabilidade
+
+  Um piloto em comando somente pode iniciar um voo se ele verificar que as inspeções de aeronavegabilidade
+  requeridas pela seção 91.409 do RBAC nº 91, ou pelas seções 135.419 ou 135.425, o que for
+  aplicável, foram realizadas.
+
+  (Redação dada pela Resolução nº 612, de 09.03.2021)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronavegabilidade
+- verificacao
+- aplicavel
+- comando
+- dada
+- foram
+- iniciar
+- inspecoes
+- pelas
+- piloto
+- pode
+- realizadas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

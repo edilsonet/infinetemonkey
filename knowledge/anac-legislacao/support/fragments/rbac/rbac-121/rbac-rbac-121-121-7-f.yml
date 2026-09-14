@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-7-f
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.7'
+section_title: Definições
+subsection_id: f
+cite: 121.7(f)
+title: 121.7(f)
+text: '(f)
+
+  Tempo de desvio máximo
+
+  , para propósitos de planejamento da rota ETOPS, significa o maior tempo de desvio autorizado
+  para uma operação ETOPS do detentor de certificado calculado considerando-se velocidade
+  de cruzeiro com um motor inoperante sob atmosfera padrão e ar calmo;'
+keywords:
+- transporte-aereo
+- operacoes
+- desvio
+- etops
+- tempo
+- atmosfera
+- autorizado
+- calculado
+- calmo
+- certificado
+- considerando
+- cruzeiro
+- definicoes
+- detentor
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

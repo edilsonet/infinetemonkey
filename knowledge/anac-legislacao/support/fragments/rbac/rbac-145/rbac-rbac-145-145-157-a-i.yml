@@ -1,0 +1,37 @@
+id: rbac-rbac-145-145-157-a-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.157'
+section_title: Pessoal autorizado para aprovar um artigo para retorno ao serviço
+subsection_id: a-i
+cite: 145.157(a-I)
+title: 145.157(a-I)
+text: '(a)-I Cada organização de manutenção certificada localizada fora do Brasil deve assegurar
+  que
+
+  cada pessoa autorizada a aprovar um artigo para retorno ao serviço conforme o certificado
+  de
+
+  organização de manutenção e suas especificações operativas tenha treinamento e experiência
+
+  adequados para assegurar nível de segurança equivalente ao do parágrafo (a).'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- aprovar
+- artigo
+- assegurar
+- cada
+- organizacao
+- retorno
+- servico
+- adequados
+- autorizada
+- autorizado
+- brasil
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

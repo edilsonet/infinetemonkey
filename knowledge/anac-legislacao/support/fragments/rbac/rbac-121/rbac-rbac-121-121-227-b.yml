@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-227-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.227'
+section_title: Sistema de alimentação cruzada por pressão
+subsection_id: b
+cite: 121.227(b)
+title: 121.227(b)
+text: (b) Tubulações que possam ser isoladas do restante do sistema de combustível por válvulas
+  colocadas em cada uma das extremidades devem incorporar provisões para alívio de pressões
+  excessivas resultantes da exposição de tais tubulações, quando isoladas, a altas temperaturas.
+keywords:
+- transporte-aereo
+- operacoes
+- isoladas
+- sistema
+- tubulacoes
+- alimentacao
+- alivio
+- altas
+- cada
+- colocadas
+- combustivel
+- cruzada
+- excessivas
+- exposicao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

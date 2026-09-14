@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-398-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.398'
+section_title: 'Limitações operacionais de desempenho: aviões categoria transporte regional'
+subsection_id: e
+cite: 135.398(e)
+title: 135.398(e)
+text: (e) Para os propósitos desta seção, é assumido que o avião não é inclinado até atingir
+  a altura de 50 pés, como mostrado nos dados da trajetória líquida de decolagem do manual
+  de voo do avião e, em seguida, a inclinação máxima não pode ultrapassar 15°.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- altura
+- assumido
+- atingir
+- avioes
+- categoria
+- dados
+- decolagem
+- desempenho
+- desta
+- inclinacao
+- inclinado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

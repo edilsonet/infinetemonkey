@@ -1,0 +1,55 @@
+id: rbac-rbac-107-107-27-body
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.27'
+section_title: '107.27'
+subsection_id: body
+cite: '107.27'
+title: '107.27'
+text: '107.27
+
+  Segurança Cibernética
+
+  Dispensado.
+
+  Recomendado.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  Seção
+
+  Descrição
+
+  Aeródromos
+
+  Classe AP-0
+
+  Classe AP-1
+
+  Classe AP-2
+
+  Classe AP-3
+
+  SUBPARTE C - SISTEMA DE COORDENAÇÃO E COMUNICAÇÃO'
+keywords:
+- seguranca
+- aeroporto
+- classe
+- obrigatorio
+- aerodromos
+- cibernetica
+- comunicacao
+- coordenacao
+- descricao
+- dispensado
+- recomendado
+- secao
+- sistema
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

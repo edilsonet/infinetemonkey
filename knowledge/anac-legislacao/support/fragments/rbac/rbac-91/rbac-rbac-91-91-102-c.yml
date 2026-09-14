@@ -1,0 +1,38 @@
+id: rbac-rbac-91-91-102-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.102'
+section_title: Regras gerais
+subsection_id: c
+cite: 91.102(c)
+title: 91.102(c)
+text: '(c) Somente pode dar partida nos motores ou taxiar uma aeronave:
+
+  (1) um piloto habilitado na aeronave; ou
+
+  (2) no caso de aviões, uma pessoa vinculada e autorizada por um operador certificado segundo
+
+  o RBAC nº 119 ou organização de manutenção certificada segundo o RBAC nº 145 que atenda,
+
+  adicionalmente, aos seguintes requisitos:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- segundo
+- adicionalmente
+- atenda
+- autorizada
+- avioes
+- caso
+- certificada
+- certificado
+- gerais
+- habilitado
+- manutencao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-110-emd-02-110-61-d
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.61'
+section_title: Certificado AVSEC
+subsection_id: d
+cite: 110.61(d)
+title: 110.61(d)
+text: (d) O certificado AVSEC é um documento pessoal do profissional, sendo vedada sua retenção
+  pelo centro de instrução ou pela organização para qual o profissional presta serviço.
+keywords:
+- carga
+- operacoes
+- avsec
+- certificado
+- profissional
+- centro
+- documento
+- instrucao
+- organizacao
+- pessoal
+- presta
+- qual
+- retencao
+- servico
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

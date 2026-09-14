@@ -1,0 +1,32 @@
+id: rbac-rbac-135-a135-10-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.10
+section_title: Manual de voo do avião
+subsection_id: d
+cite: A135.10(d)
+title: A135.10(d)
+text: (d) Altitude máxima de operação. Deve ser especificada no manual de voo do avião a altitude
+  máxima na qual a operação é permitida, como limitada por características de voo, estruturais,
+  do grupo motopropulsor, funcionais ou de equipamentos.
+keywords:
+- taxi-aereo
+- operacoes
+- altitude
+- aviao
+- manual
+- maxima
+- operacao
+- a135
+- caracteristicas
+- equipamentos
+- especificada
+- estruturais
+- funcionais
+- grupo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

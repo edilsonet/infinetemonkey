@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-429-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.429'
+section_title: Requisitos para pessoal de inspeção obrigatória
+subsection_id: a
+cite: 135.429(a)
+title: 135.429(a)
+text: (a) Somente é permitido utilizar uma pessoa para executar inspeções obrigatórias se
+  essa pessoa for apropriadamente habilitada, treinada, qualificada e designada para tanto.
+keywords:
+- taxi-aereo
+- operacoes
+- pessoa
+- apropriadamente
+- designada
+- executar
+- habilitada
+- inspecao
+- inspecoes
+- obrigatoria
+- obrigatorias
+- permitido
+- pessoal
+- qualificada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

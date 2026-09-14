@@ -1,0 +1,49 @@
+id: rbac-rbac-135-a135-11-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.11
+section_title: Requisitos da célula - cargas em voo
+subsection_id: i
+cite: A135.11(i)
+title: A135.11(i)
+text: '(i) em velocidades entre VMO e VD, as cargas resultantes de falha de potência em virtude
+  de interrupção do fluxo de combustível são consideradas como cargas limites;
+
+  (ii) em velocidades entre VMO e VC, as cargas resultantes da desconexão entre o compressor
+  do motor e a turbina, ou resultantes da perda de palhetas da turbina, são consideradas como
+  cargas finais;
+
+  (iii) o histórico no tempo da diminuição da tração e do aumento do arrasto, decorrentes
+  das falhas de motor estabelecidas, deve ser substanciado por ensaios ou outros dados aplicáveis
+  à particular combinação motor-hélice; e
+
+  (iv) a demora e a magnitude da provável ação corretiva do piloto devem ser estimadas conservativamente,
+  considerando as características da particular combinação motor-hélice-avião.
+
+  (2) A ação corretiva do piloto pode ser assumida como iniciando-se no momento em que é atingida
+  a velocidade máxima de guinada, mas não antes de 2 segundos após a falha do motor. A magnitude
+  da ação corretiva pode ser baseada nas forças de controle do RBAC nº 23, exceto que podem
+  ser consideradas forças menores se for demonstrado, por análise ou por ensaio, que com essas
+  forças é possível controlar a guinada e o rolamento resultante da condição de falha de motor
+  estabelecida.'
+keywords:
+- taxi-aereo
+- operacoes
+- motor
+- cargas
+- acao
+- consideradas
+- corretiva
+- falha
+- forcas
+- resultantes
+- combinacao
+- guinada
+- helice
+- magnitude
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

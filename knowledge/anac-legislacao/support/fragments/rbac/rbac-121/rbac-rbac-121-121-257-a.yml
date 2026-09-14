@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-257-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.257'
+section_title: Válvulas de corte de fluxo
+subsection_id: a
+cite: 121.257(a)
+title: 121.257(a)
+text: (a) Cada motor deve possuir meios de cortar (ou evitar por outro meio) o fluxo de quantidades
+  perigosas de combustível, óleo, líquido degelador e outros líquidos inflamáveis que possam
+  fluir para dentro, circular no interior, ou passar através de uma zona designada de fogo.
+  Entretanto, não há necessidade de cortar o fluxo em tubulações que fazem parte integral
+  do motor.
+keywords:
+- transporte-aereo
+- operacoes
+- fluxo
+- cortar
+- motor
+- atraves
+- cada
+- circular
+- combustivel
+- corte
+- degelador
+- dentro
+- designada
+- entretanto
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-129-129-19-b
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.19'
+section_title: Regras de tráfego aéreo e outros procedimentos
+subsection_id: b
+cite: 129.19(b)
+title: 129.19(b)
+text: (b) Cada empresa estrangeira de transporte aéreo deve estabelecer procedimentos que
+  garantam que cada um dos seus pilotos tenha os conhecimentos requeridos pelo parágrafo (a)
+  desta seção e deve verificar a capacidade de cada um de seus pilotos em conduzir as operações
+  com segurança e de acordo com as regras e procedimentos aplicáveis.
+keywords:
+- operador-estrangeiro
+- operacoes
+- cada
+- procedimentos
+- aereo
+- pilotos
+- regras
+- acordo
+- aplicaveis
+- capacidade
+- conduzir
+- conhecimentos
+- desta
+- empresa
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

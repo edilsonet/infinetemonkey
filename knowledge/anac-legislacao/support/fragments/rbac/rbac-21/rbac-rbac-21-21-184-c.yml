@@ -1,0 +1,43 @@
+id: rbac-rbac-21-21-184-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.184'
+section_title: Emissão de certificado de aeronavegabilidade especial para aeronaves categoria
+  primária
+subsection_id: c
+cite: 21.184(c)
+title: 21.184(c)
+text: (c) Aeronaves que já possuem um certificado de aeronavegabilidade padrão brasileiro.
+  O requerente de um certificado de aeronavegabilidade especial para uma aeronave categoria
+  primária que atende aos critérios do parágrafo 21.24(a)(1) e que já possui um certificado
+  de aeronavegabilidade padrão válido em outra categoria pode obter o certificado requerido,
+  em substituição ao antigo certificado, através de um processo de certificação suplementar
+  de tipo. Para os propósitos deste parágrafo, um certificado de aeronavegabilidade padrão
+  válido significa que a aeronave está conforme seu projeto de tipo aprovado na categoria
+  normal, utilidade ou acrobática, atende a todas as diretrizes de aeronavegabilidade aplicáveis,
+  foi inspecionada e considerada aeronavegável dentro dos últimos 12 (doze) meses calendáricos
+  de acordo com o parágrafo 91.409(a)(1) do RBHA 91, ou dispositivo correspondente do RBAC
+  que venha a substituí-lo, e foi considerada pela ANAC como estando em condições de operação
+  segura.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- categoria
+- padrao
+- paragrafo
+- aeronave
+- aeronaves
+- atende
+- considerada
+- especial
+- primaria
+- tipo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

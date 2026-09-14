@@ -1,0 +1,35 @@
+id: rbac-rbac-91-91-1021-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1021'
+section_title: Sistema de gerenciamento de segurança operacional (SGSO)
+subsection_id: c
+cite: 91.1021(c)
+title: 91.1021(c)
+text: '(c) O gestor responsável do administrador de programa deve implantar um SGSO compatível
+  com
+
+  o tamanho, natureza e complexidade das operações a serem conduzidas no programa, considerando
+
+  suas especificações administrativas e os perigos e riscos relacionados com suas atividades.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- programa
+- sgso
+- administrador
+- administrativas
+- atividades
+- compativel
+- complexidade
+- conduzidas
+- considerando
+- especificacoes
+- gerenciamento
+- gestor
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,86 @@
+id: rbac-rbac-36-h36-205-d
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: H36.205
+section_title: of this apendix.
+subsection_id: d
+cite: H36.205(d)
+title: H36.205(d)
+text: '(d)
+
+  Validity of results.
+
+  (1) The test results must produce thre average EPNL values within the 90
+
+  percen
+
+  t confidence limits, each value consisting of the arithmetic average of the corected noise
+
+  measurements for al valid test runs at the takeof, level flyovers, and aproach conditions.
+  The 90
+
+  percent confidence limit aplies separately to takeof, flyover
+
+  , and aproach.
+
+
+  (2) The minimum sample size aceptable for each takeof, aproach, and flyover certification
+
+  measurements is six. The number of samples must be large enough to establish statisticaly
+  for each
+
+  of the thre average noise certification levels
+
+  a 90 percent confidence limit which does not exced
+
+  ±1.5 EPNdB. No test result may be omited from the averaging proces, unles otherwise specified
+
+  by the FA.
+
+
+  (3) To comply with this apendix, a minimum of six takeofs, six aproaches, and six level
+  fly
+
+  overs
+
+  is required. To be counted toward this requirement, each flight event must be validly recorded
+  at al
+
+  thre noise measuring stations.
+
+
+  (4) The aproved values of V
+
+  H and V
+
+  y used in calculating test and reference conditions and flight
+
+  profiles must be rep
+
+  orted along with measured and corected sound presure levels.
+
+
+  Section H36.13
+
+  Atmospheric atenuation of sound.'
+keywords:
+- ruido
+- meio-ambiente
+- each
+- must
+- test
+- aproach
+- average
+- confidence
+- noise
+- takeof
+- this
+- thre
+- apendix
+- certification
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

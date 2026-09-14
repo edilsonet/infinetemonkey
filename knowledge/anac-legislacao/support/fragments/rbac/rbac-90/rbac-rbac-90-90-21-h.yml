@@ -1,0 +1,39 @@
+id: rbac-rbac-90-90-21-h
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: h
+cite: 90.21(h)
+title: 90.21(h)
+text: '(h) A tripulação operacional para voos IFR deverá ser composta por:
+
+  (1) um piloto em comando, segundo a seção 90.23 deste Regulamento;
+
+  (2) um piloto segundo em comando, segundo a seção 90.25 deste Regulamento;
+
+  (3) um operador aerotático ou operador de suporte médico, se aplicável; e
+
+  (4) número de comissários de voo, segundo o RBHA 91, ou RBAC que venha a substituí-lo, conforme
+  aplicável.'
+keywords:
+- regras-de-voo
+- operacoes
+- segundo
+- aplicavel
+- comando
+- deste
+- operador
+- piloto
+- regulamento
+- secao
+- tripulacao
+- aerotatico
+- comissarios
+- composta
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

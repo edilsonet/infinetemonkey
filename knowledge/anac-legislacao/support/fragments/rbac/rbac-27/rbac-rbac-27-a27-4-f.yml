@@ -1,0 +1,35 @@
+id: rbac-rbac-27-a27-4-f
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.4
+section_title: Airworthiness Limitations section.
+subsection_id: f
+cite: A27.4(f)
+title: A27.4(f)
+text: '(f)
+
+  All data relative to structural fasteners such as identification, discarded recommendations,
+  and torque
+
+  values.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- airworthiness
+- data
+- discarded
+- fasteners
+- identification
+- limitations
+- recommendations
+- relative
+- section
+- structural
+- such
+- torque
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

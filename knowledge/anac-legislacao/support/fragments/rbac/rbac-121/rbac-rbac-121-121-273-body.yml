@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-273-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.273'
+section_title: Sistema de detecção de fogo
+subsection_id: body
+cite: '121.273'
+title: Sistema de detecção de fogo
+text: '121.273 Sistema de detecção de fogo
+
+  Um número suficiente de detectores de fogo de ação rápida deve ser colocado em cada zona
+  designada de fogo, de modo a assegurar a detecção de qualquer incêndio que possa ocorrer
+  nessa zona.'
+keywords:
+- transporte-aereo
+- operacoes
+- fogo
+- deteccao
+- sistema
+- zona
+- acao
+- assegurar
+- cada
+- colocado
+- designada
+- detectores
+- incendio
+- modo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-193-v
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.193'
+section_title: 'Aviões categoria transporte com motores a turbina: limitações de rota com
+  dois motores inoperantes'
+subsection_id: v
+cite: 121.193(v)
+title: 121.193(v)
+text: (v) o consumo de combustível e óleo, após a falha dos motores, é o mesmo consumo indicado
+  nos dados de trajetória líquida de voo do AFM para o avião.
+keywords:
+- transporte-aereo
+- operacoes
+- motores
+- consumo
+- aviao
+- avioes
+- categoria
+- combustivel
+- dados
+- dois
+- falha
+- indicado
+- inoperantes
+- limitacoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

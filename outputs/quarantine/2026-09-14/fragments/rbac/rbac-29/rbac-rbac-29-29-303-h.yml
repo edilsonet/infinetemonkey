@@ -1,0 +1,49 @@
+id: rbac-rbac-29-29-303-h
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.303'
+section_title: need not be used.
+subsection_id: h
+cite: 29.303(h)
+title: 29.303(h)
+text: '(h)
+
+  Rear wheel turning loads in the static ground attitude. In the static ground attitude, and
+  with the shock
+
+  absorbers and tires in their static positions, the rotorcraft must be designed for rear
+  wheel turning loads
+
+  as follows:
+
+  (1)
+
+  A vertical ground reaction equal to the static load on the rear wheel must be combined with
+  an
+
+  equal side load.
+
+  (2)
+
+  The load specified in paragraph (h)(1) of this section must be applied to the rear landing
+  gear -'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- rear
+- static
+- ground
+- load
+- must
+- wheel
+- attitude
+- equal
+- loads
+- turning
+- with
+- absorbers
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

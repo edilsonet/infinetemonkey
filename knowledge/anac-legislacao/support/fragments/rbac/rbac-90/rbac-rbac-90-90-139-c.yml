@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-139-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.139'
+section_title: Componente 3 - garantia da segurança operacional
+subsection_id: c
+cite: 90.139(c)
+title: 90.139(c)
+text: '(c) Elemento 3.3 - Processo de melhoria contínua do SGSO.
+
+  (1) A UAP deverá monitorar e avaliar a efetividade dos processos do SGSO de modo a permitir
+  a melhoria contínua do desempenho global do sistema.'
+keywords:
+- regras-de-voo
+- operacoes
+- continua
+- melhoria
+- sgso
+- avaliar
+- componente
+- desempenho
+- devera
+- efetividade
+- elemento
+- garantia
+- global
+- modo
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

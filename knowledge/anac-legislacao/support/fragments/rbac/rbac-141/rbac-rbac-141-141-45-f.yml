@@ -1,0 +1,33 @@
+id: rbac-rbac-141-141-45-f
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.45'
+section_title: Requisitos de aeronaves
+subsection_id: f
+cite: 141.45(f)
+title: 141.45(f)
+text: (f) Toda aeronave utilizada para instrução de voo pelo CIAC deve possuir pelo menos
+  dois postos de pilotagem, com manetes de potência e comandos de voo que possam ser facilmente
+  alcançados e operados por ambos os postos, exceto planadores, aeronaves agrícolas ou, se
+  tecnicamente justificado pelo CIAC e aprovado pela ANAC, qualquer outra aeronave.
+keywords:
+- escolas
+- treinamento
+- aeronave
+- aeronaves
+- ciac
+- postos
+- agricolas
+- alcancados
+- ambos
+- aprovado
+- comandos
+- dois
+- exceto
+- facilmente
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

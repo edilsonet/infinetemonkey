@@ -1,0 +1,42 @@
+id: rbac-rbac-91-91-223-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.223'
+section_title: Sistema de percepção e alarme de proximidade do solo (TAWS)
+subsection_id: a
+cite: 91.223(a)
+title: 91.223(a)
+text: '(a) Exceto como previsto no parágrafo (d) desta seção, somente é permitido operar um
+  avião com
+
+  motores a turbina registrado no Brasil com uma configuração aprovada de seis ou mais assentos
+  para
+
+  passageiros, excluindo qualquer assento para piloto, se o avião for equipado com um TAWS
+  que
+
+  atenda aos requisitos para equipamento Classe B da OTP (TSO) C151 (equipamento dotado da
+  função
+
+  de detecção de terreno à frente do avião).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aviao
+- equipamento
+- taws
+- alarme
+- aprovada
+- assento
+- assentos
+- atenda
+- brasil
+- c151
+- classe
+- configuracao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

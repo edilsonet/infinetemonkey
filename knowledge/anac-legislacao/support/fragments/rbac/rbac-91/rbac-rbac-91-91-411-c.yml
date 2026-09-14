@@ -1,0 +1,33 @@
+id: rbac-rbac-91-91-411-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.411'
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+subsection_id: c
+cite: 91.411(c)
+title: 91.411(c)
+text: '(c) Os altímetros e equipamentos automáticos de informação de altitude, aprovados conforme
+  uma
+
+  OTP (TSO), são considerados testados e inspecionados quando da data de sua fabricação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- equipamentos
+- altimetro
+- altimetros
+- altitude
+- aprovados
+- automaticos
+- considerados
+- data
+- equipamento
+- fabricacao
+- informacao
+- inspecionados
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-135-a135-11-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.11
+section_title: Requisitos da célula - cargas em voo
+subsection_id: c
+cite: A135.11(c)
+title: A135.11(c)
+text: '(c) Cargas assimétricas devidas a falha de motor.
+
+  (1) Aviões turboélice devem ser projetados para as cargas assimétricas resultantes da falha
+  do motor crítico, incluindo as condições abaixo combinadas com um mau funcionamento simples
+  do sistema limitador de arrasto da hélice e considerando, ainda, a provável ação corretiva
+  do piloto sobre os controles de voo:'
+keywords:
+- taxi-aereo
+- operacoes
+- cargas
+- assimetricas
+- falha
+- motor
+- a135
+- abaixo
+- acao
+- arrasto
+- avioes
+- celula
+- combinadas
+- condicoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

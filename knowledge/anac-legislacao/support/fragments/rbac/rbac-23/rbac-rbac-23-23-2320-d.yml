@@ -1,0 +1,38 @@
+id: rbac-rbac-23-23-2320-d
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2320'
+section_title: Ambiente físico para o ocupante.
+subsection_id: d
+cite: 23.2320(d)
+title: 23.2320(d)
+text: '(d) Se um sistema de pressurização estiver ins-
+
+  talado no avião, ele deve ser projetado para
+
+  proteger contra:
+
+  (1) Descompressão para um nível inseguro; e
+
+  (2) Pressão diferencial excessiva.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- ambiente
+- aviao
+- contra
+- descompressao
+- diferencial
+- estiver
+- excessiva
+- fisico
+- inseguro
+- nivel
+- ocupante
+- pressao
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-219-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.219'
+section_title: Ventilação
+subsection_id: body
+cite: '121.219'
+title: Ventilação
+text: '121.219 Ventilação
+
+  Cada cabine de comando ou de passageiros deve ser adequadamente ventilada. A concentração
+  de monóxido de carbono não pode ser maior que uma parte em 20.000 partes de ar e não devem
+  existir vapores de combustível. Sempre que as separações entre as cabines possuírem venezianas
+  ou outros dispositivos que permitam fluxo de ar entre eles, deve existir uma maneira conveniente
+  para a tripulação fechar esse fluxo de ar, se necessário.'
+keywords:
+- transporte-aereo
+- operacoes
+- ventilacao
+- existir
+- fluxo
+- adequadamente
+- cabine
+- cabines
+- cada
+- carbono
+- comando
+- combustivel
+- concentracao
+- conveniente
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

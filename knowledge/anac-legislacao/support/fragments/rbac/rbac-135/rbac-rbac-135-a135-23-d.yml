@@ -1,0 +1,33 @@
+id: rbac-rbac-135-a135-23-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.23
+section_title: Acessórios e controles do grupo motopropulsor
+subsection_id: d
+cite: A135.23(d)
+title: A135.23(d)
+text: (d) Acessórios do grupo motopropulsor. Os acessórios do grupo motopropulsor devem atender
+  ao previsto no RBAC nº 23 e, se o prosseguimento da rotação de qualquer acessório acionado
+  remotamente pelo motor for perigoso quando ocorrer um mau funcionamento, deve haver meios
+  para impedir essa rotação, sem interferir com a continuação da operação do motor.
+keywords:
+- taxi-aereo
+- operacoes
+- acessorios
+- grupo
+- motopropulsor
+- motor
+- rotacao
+- a135
+- acessorio
+- acionado
+- atender
+- continuacao
+- controles
+- funcionamento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-110-emd-02-110-15-f
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.15'
+section_title: Certificação dos profissionais em Segurança da Aviação Civil - AVSEC
+subsection_id: f
+cite: 110.15(f)
+title: 110.15(f)
+text: (f) Os tripulantes de aeronave com matrícula estrangeira que possuam treinamento em
+  AVSEC reconhecido pela autoridade de aviação civil do país de origem ficam isentos da certificação
+  de AVSEC para Tripulantes, quando atuarem em operações internacionais.
+keywords:
+- carga
+- operacoes
+- avsec
+- aviacao
+- certificacao
+- civil
+- tripulantes
+- aeronave
+- atuarem
+- autoridade
+- estrangeira
+- ficam
+- internacionais
+- isentos
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

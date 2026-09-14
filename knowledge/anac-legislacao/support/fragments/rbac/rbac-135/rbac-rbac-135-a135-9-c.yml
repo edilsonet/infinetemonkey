@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-9-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.9
+section_title: Informações e limitações operacionais
+subsection_id: c
+cite: A135.9(c)
+title: A135.9(c)
+text: (c) Indicador de velocidade. O indicador de velocidade deve atender aos requisitos aplicáveis
+  do RBAC nº 23, exceto que as marcas e placas em termos de VNO e VNE devem ser substituídas
+  por marcas e placas em termos de VMO / MMO. As marcas do indicador de velocidade devem ser
+  facilmente legíveis e inteligíveis pelo piloto. Uma placa adjacente ao indicador de velocidade
+  é um meio aceitável para cumprir o previsto no RBAC nº 23.
+keywords:
+- taxi-aereo
+- operacoes
+- indicador
+- velocidade
+- marcas
+- placas
+- termos
+- a135
+- aceitavel
+- adjacente
+- aplicaveis
+- atender
+- cumprir
+- exceto
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

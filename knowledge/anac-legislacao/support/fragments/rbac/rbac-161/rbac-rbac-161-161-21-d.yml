@@ -1,0 +1,121 @@
+id: rbac-rbac-161-161-21-d
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.21'
+section_title: Disposições Gerais
+subsection_id: d
+cite: 161.21(d)
+title: 161.21(d)
+text: '(d)
+
+  O operador de aeródromo deve fornecer todas as coordenadas geográficas em formato grau,
+  minuto e segundo, com prévio estabelecimento do Sistema Geodésico de Referência - preferencialmente
+  o WGS 84 ou SIRGAS 2000, que deve ser o mesmo para todos os pontos.
+
+  FIGURA C-1- Curvas de Ruído
+
+  de 75 e 65
+
+  Legenda:
+
+  L1:
+
+  distância horizontal, medida sobre o prolongamento do eixo da pista, entre a cabeceira e
+  o centro do semicírculo de raio R1.
+
+  L2:
+
+  distância horizontal, medida sobre o prolongamento do eixo da pista, entre a cabeceira e
+  o centro do semicírculo de raio R2.
+
+  R1:
+
+  raio do semicírculo da curva de ruído de 75 com centro sobre o prolongamento do eixo da
+  pista.
+
+  R2:
+
+  raio do semicírculo da curva de ruído de 65 com centro sobre o prolongamento do eixo da
+  pista.
+
+  TABELA C-1- Dimensões (em metros) das Curvas de Ruído de 75 e 65
+
+  (Alterada pela Resolução nº 609, de 23.02.2021)
+
+  Número médio de movimentos de aeronaves nos últimos 3 (três) anos
+
+  Classe
+
+  L1
+
+  R1
+
+  L2
+
+  R2
+
+  Até 400
+
+  1
+
+  70
+
+  30
+
+  90
+
+  60
+
+  De 401 a 2.000
+
+  2
+
+  240
+
+  60
+
+  440
+
+  160
+
+  De 2.001 a 4.000
+
+  3
+
+  400
+
+  100
+
+  600
+
+  300
+
+  De 4.001 a 7.000
+
+  4
+
+  550
+
+  160
+
+  700
+
+  500'
+keywords:
+- centro
+- eixo
+- pista
+- prolongamento
+- raio
+- ruido
+- semicirculo
+- cabeceira
+- curva
+- curvas
+- distancia
+- horizontal
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

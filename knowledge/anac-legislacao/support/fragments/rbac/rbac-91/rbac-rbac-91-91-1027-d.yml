@@ -1,0 +1,42 @@
+id: rbac-rbac-91-91-1027-d
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1027'
+section_title: Requisitos de conservação de registros
+subsection_id: d
+cite: 91.1027(d)
+title: 91.1027(d)
+text: '(d) O piloto em comando de uma aeronave deve ter consigo, até o destino do voo, uma
+  via desse
+
+  manifesto. Outra via do manifesto deve ser mantida em solo pelo menos até o final do voo,
+  salvo se
+
+  de outra forma aprovada pela ANAC. O administrador de programa deve conservar o original
+  ou uma
+
+  via do manifesto de carga, em sua base principal de operações ou em outro local aprovado
+  pela
+
+  ANAC, por, pelo menos, 90 (noventa) dias após a realização do voo.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- manifesto
+- menos
+- outra
+- administrador
+- aeronave
+- aprovada
+- aprovado
+- base
+- carga
+- comando
+- conservacao
+- conservar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

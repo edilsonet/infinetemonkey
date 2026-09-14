@@ -1,0 +1,38 @@
+id: rbac-rbac-21-21-145-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.145'
+section_title: Prerrogativas
+subsection_id: a
+cite: 21.145(a)
+title: 21.145(a)
+text: '(a) O detentor de um certificado de organização de produção pode:
+
+  (1) obter um certificado de aeronavegabilidade da aeronave sem comprovações adicionais mediante
+  a apresentação de uma declaração de conformidade na forma e maneira aceitável pela ANAC.
+  Entretanto, a ANAC pode inspecionar a aeronave quanto à conformidade com o projeto de tipo,
+  antes da emissão do referido certificado;
+
+  (2) no caso de outros produtos, obter aprovação da ANAC para instalação em aeronaves certificadas.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- aeronave
+- conformidade
+- obter
+- pode
+- aceitavel
+- adicionais
+- aeronaves
+- apresentacao
+- aprovacao
+- caso
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

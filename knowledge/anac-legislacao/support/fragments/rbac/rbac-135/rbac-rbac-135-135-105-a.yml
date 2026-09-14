@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-105-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.105'
+section_title: 'Exceção a requisitos de piloto segundo em comando: utilização do sistema de
+  piloto automático aprovado'
+subsection_id: a
+cite: 135.105(a)
+title: 135.105(a)
+text: (a) Ressalvado o disposto nas seções 135.99 e 135.111 deste Regulamento e exceto se
+  forem necessários dois pilotos para operações VFR, uma pessoa pode operar uma aeronave sem
+  um piloto segundo em comando desde que a aeronave esteja equipada com um sistema de piloto
+  automático aprovado em funcionamento e que sua utilização esteja autorizada pelas especificações
+  operativas apropriadas.
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- aeronave
+- aprovado
+- automatico
+- comando
+- esteja
+- segundo
+- sistema
+- utilizacao
+- apropriadas
+- autorizada
+- desde
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

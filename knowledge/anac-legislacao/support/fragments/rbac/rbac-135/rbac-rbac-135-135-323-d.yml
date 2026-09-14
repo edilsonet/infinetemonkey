@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-323-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.323'
+section_title: 'Programa de treinamento: geral'
+subsection_id: d
+cite: 135.323(d)
+title: 135.323(d)
+text: (d) Assuntos aplicáveis a mais de uma aeronave ou mais de uma função a bordo que tenham
+  sido satisfatoriamente completados durante treinamentos previamente feitos pelo detentor
+  de certificado para outra aeronave ou outra função a bordo não precisam ser repetidos durante
+  treinamentos subsequentes que não sejam treinamentos periódicos.
+keywords:
+- taxi-aereo
+- operacoes
+- treinamentos
+- aeronave
+- bordo
+- durante
+- funcao
+- outra
+- aplicaveis
+- assuntos
+- certificado
+- completados
+- detentor
+- feitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

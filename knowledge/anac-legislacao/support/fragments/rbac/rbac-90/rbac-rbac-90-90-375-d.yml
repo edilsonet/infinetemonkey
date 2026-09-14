@@ -1,0 +1,39 @@
+id: rbac-rbac-90-90-375-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.375'
+section_title: Equipamentos para amarração da carga externa
+subsection_id: d
+cite: 90.375(d)
+title: 90.375(d)
+text: '(d) A UAP deverá estabelecer critérios de segurança para uso dos equipamentos nas operações
+  de carga externa, incluindo:
+
+  (1) procedimentos e política de identificação e/ou descarte dos equipamentos considerados
+  impróprios ou inadequados;
+
+  (2) inspeção dos equipamentos antes de cada utilização, a fim de verificar se características
+  mínimas de segurança e proteção estão preservadas; e
+
+  (3) outros procedimentos a critério da UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- equipamentos
+- carga
+- externa
+- procedimentos
+- seguranca
+- amarracao
+- cada
+- caracteristicas
+- considerados
+- criterio
+- criterios
+- descarte
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

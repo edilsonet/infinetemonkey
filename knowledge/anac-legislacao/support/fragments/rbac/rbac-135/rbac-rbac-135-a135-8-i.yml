@@ -1,0 +1,40 @@
+id: rbac-rbac-135-a135-8-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.8
+section_title: 'Instrumentos: instalação'
+subsection_id: i
+cite: A135.8(i)
+title: A135.8(i)
+text: '(i) o instrumento que mais efetivamente indicar a atitude deve ficar na posição central
+  superior do painel;
+
+  (ii) o instrumento que mais efetivamente indicar a velocidade deve ficar adjacente e diretamente
+  à esquerda do instrumento colocado na posição central superior do painel;
+
+  (iii) o instrumento que mais efetivamente indicar a altitude deve ficar adjacente e diretamente
+  à direita do instrumento colocado na posição central superior do painel; e
+
+  (iv) o instrumento que mais efetivamente indicar a direção do voo deve ficar adjacente e
+  diretamente abaixo do instrumento colocado na posição central superior do painel.'
+keywords:
+- taxi-aereo
+- operacoes
+- instrumento
+- central
+- efetivamente
+- ficar
+- indicar
+- painel
+- posicao
+- superior
+- adjacente
+- colocado
+- diretamente
+- a135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

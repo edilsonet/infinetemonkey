@@ -1,0 +1,38 @@
+id: rbac-rbac-105-105-19-body
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.19'
+section_title: Saltos dentro ou sobre espaços aéreos classes A, B, C e D
+subsection_id: body
+cite: '105.19'
+title: Saltos dentro ou sobre espaços aéreos classes A, B, C e D
+text: '105.19 Saltos dentro ou sobre espaços aéreos classes A, B, C e D
+
+  Ninguém pode realizar um salto de paraquedas e nenhum piloto em comando de uma aeronave
+  pode
+
+  autorizar saltos de paraquedas de sua aeronave dentro ou sobre espaços aéreos classe A,
+  classe B,
+
+  classe C ou classe D sem, ou em violação de, uma autorização do controle de tráfego aéreo.'
+keywords:
+- paraquedismo
+- operacoes
+- aereos
+- classe
+- dentro
+- espacos
+- saltos
+- classes
+- aeronave
+- paraquedas
+- pode
+- aereo
+- autorizacao
+- autorizar
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

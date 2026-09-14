@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-221-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.221'
+section_title: Requisitos gerais
+subsection_id: g
+cite: 90.221(g)
+title: 90.221(g)
+text: '(g) A avaliação teórica e/ou prática para operador de suporte médico da UAP deverá:
+
+  (1) ser realizada no modelo de aeronave na qual serão desempenhadas as operações aéreas
+  da UAP;
+
+  (2) ser realizada no formato definido pela UAP; e
+
+  (3) ser registrada em formulário próprio e arquivado na pasta individual do operador de
+  suporte médico.'
+keywords:
+- regras-de-voo
+- operacoes
+- medico
+- operador
+- realizada
+- suporte
+- aereas
+- aeronave
+- arquivado
+- avaliacao
+- definido
+- desempenhadas
+- devera
+- formato
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

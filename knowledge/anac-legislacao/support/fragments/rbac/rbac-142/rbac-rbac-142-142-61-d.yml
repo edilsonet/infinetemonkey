@@ -1,0 +1,41 @@
+id: rbac-rbac-142-142-61-d
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.61'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 142.61(d)
+title: 142.61(d)
+text: '(d) O gestor responsável do detentor de certificado de CTAC deve assegurar-se que:
+
+  (1) não sejam utilizados nos dispositivos de treinamento para simulação de voo, durante
+  o(s)
+
+  exame(s), recursos tais como: “freeze”, “slow motion” ou reposicionamento; exceto se necessário
+
+  para otimizar o(s) exame(s); e
+
+  (2) o recurso de reposicionamento seja utilizado somente para avançar de um ponto ao longo
+
+  de uma rota para o ponto que inicia a fase de descida e aproximação, durante uma simulação
+  de
+
+  operação em rota para LOFT ou exame orientado para operações em rota.'
+keywords:
+- exame
+- rota
+- durante
+- ponto
+- reposicionamento
+- simulacao
+- aproximacao
+- assegurar
+- avancar
+- certificado
+- ctac
+- descida
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

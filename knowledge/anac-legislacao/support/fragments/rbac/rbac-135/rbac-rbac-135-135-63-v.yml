@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-63-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.63'
+section_title: Requisitos de conservação de registros
+subsection_id: v
+cite: 135.63(v)
+title: 135.63(v)
+text: '(v) a data de emissão e a classe do certificado médico aeronáutico (CMA);
+
+  (vi) a data e o resultado, incluindo as fichas de avaliação, de cada exame requerido por
+  este Regulamento e, quando aplicável, o tipo de aeronave voada durante os exames;
+
+  (vii) os registros de jornada de trabalho e o número de horas de voo do piloto com detalhes
+  suficientes para determinar conformidade com as limitações de voo deste Regulamento;
+
+  (viii) o credenciamento como piloto examinador, se houver;
+
+  (ix) qualquer ação tomada referente a dispensa da vinculação do piloto por desqualificação
+  física ou profissional;'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- data
+- registros
+- regulamento
+- acao
+- aeronautico
+- aeronave
+- aplicavel
+- avaliacao
+- cada
+- certificado
+- classe
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

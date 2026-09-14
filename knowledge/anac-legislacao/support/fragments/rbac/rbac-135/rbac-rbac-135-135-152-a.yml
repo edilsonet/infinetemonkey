@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-152-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: a
+cite: 135.152(a)
+title: 135.152(a)
+text: '(a) Exceto como previsto no parágrafo (f) desta seção, somente é permitido um avião
+  com motores a turbina tendo uma configuração para passageiros, excluindo qualquer assento
+  requerido para tripulantes, de 10 a 19 assentos e que tenha sido apresentado para registro
+  no Brasil ou que tenha sido registrado fora do Brasil e incorporado às especificações operativas
+  de um operador brasileiro após 11 de outubro de 1991, se ele estiver equipado com um ou
+  mais gravadores de dados de voo aprovados que utilizarem um método digital para gravar e
+  conservar dados e para, prontamente, recuperar esses dados a partir da gravação. Aviões
+  apresentados para registro no Brasil após 11 de outubro de 1991, devem atender aos requisitos
+  desta seção ou aos requisitos aplicáveis dos parágrafos da seção 135.152 deste Regulamento.
+  Adicionalmente:
+
+  (1) os parâmetros listados nos parágrafos 135.152(h)(1) a (h)(18) deste Regulamento devem
+  ser gravados dentro das faixas, precisões e resoluções especificadas no Apêndice B deste
+  Regulamento, exceto que:'
+keywords:
+- taxi-aereo
+- operacoes
+- dados
+- brasil
+- deste
+- regulamento
+- secao
+- desta
+- exceto
+- gravadores
+- outubro
+- paragrafos
+- registro
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

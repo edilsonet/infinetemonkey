@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-185-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.185'
+section_title: 'Peso vazio e centro de gravidade: atualização requerida'
+subsection_id: a
+cite: 135.185(a)
+title: 135.185(a)
+text: '(a) Somente é permitido operar uma aeronave se o peso vazio e o centro de gravidade
+  tiverem sido calculados com valores estabelecidos por pesagem real da aeronave dentro dos
+  36 meses precedentes.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- centro
+- gravidade
+- peso
+- vazio
+- atualizacao
+- calculados
+- dada
+- dentro
+- estabelecidos
+- meses
+- operar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

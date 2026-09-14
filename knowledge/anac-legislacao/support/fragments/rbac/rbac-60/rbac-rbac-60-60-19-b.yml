@@ -1,0 +1,166 @@
+id: rbac-rbac-60-60-19-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.19'
+section_title: Requisitos de inspeção, avaliação
+subsection_id: b
+cite: 60.19(b)
+title: 60.19(b)
+text: '(b) Avaliação para qualificação recorrente.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  (1) This evaluation consists of objective
+
+  tests, and subjective tests, as described in the
+
+  QPS, or in the original qualification basis of
+
+  the FSTD, or as may be amended by an FSTD
+
+  directive.
+
+
+  (1) Esta avaliação consiste de testes
+
+  objetivos e subjetivos, como descrito pelo
+
+  QPS, ou pela base de qualificação original do
+
+  FSTD, ou como requerido por uma diretriz de
+
+  FSTD.
+
+  (2) The sponsor must contact ANAC to
+
+  schedule the FSTD for continuing qualification
+
+  evaluations not later than 60 days before the
+
+  evaluation is due, which must be confirmed by
+
+  ANAC.
+
+
+  (2) O operador deve entrar em contato
+
+  com a ANAC para agendar a avaliação para
+
+  qualificação recorrente do FSTD com pelo
+
+  menos 60 dias de antecedência ao dia da
+
+  avaliação pretendida, cuja confirmação dar-
+
+  se-á de acordo com a disponibilidade da
+
+  ANAC.
+
+  (3) The sponsor must provide the ANAC
+
+  access to the objective test results in the
+
+  MQTG and access to the FSTD for the length
+
+  of time necessary to complete the required
+
+  continuing qualification evaluations.
+
+
+  (3) O operador deve fornecer a ANAC
+
+  acesso aos resultados dos testes objetivos do
+
+  MQTG e acesso ao FSTD o tempo necessário
+
+  para completar a avaliação para qualificação
+
+  recorrente.
+
+  (4) The frequency of ANAC-conducted
+
+  continuing qualification evaluations for each
+
+  FSTD will be established by the ANAC and
+
+  specified in the Statement of Qualification.
+
+
+  (4) A frequência das avaliações para
+
+  qualificação recorrente conduzidas pela
+
+  ANAC para cada FSTD será estabelecida pela
+
+  ANAC e especificada no seu Certificado de
+
+  Qualificação.
+
+  (5) Continuing qualification evaluation
+
+  may occur at any time in the three months
+
+  preceding the expiration date of the Statement
+
+  of Qualification.
+
+
+  (5) A avaliação para qualificação
+
+  recorrente pode ocorrer a qualquer momento
+
+  nos três meses que antecedem o vencimento
+
+  do Certificado de Qualificação vigente.
+
+  (6) No sponsor may use an FSTD unless
+
+  the FSTD has passed an ANAC-conducted
+
+  continuing evaluation within the period
+
+  specified in the Statement of Qualification.
+
+
+  (6) Nenhum operador pode utilizar um
+
+  FSTD a menos que o FSTD tenha passado por
+
+  uma avaliação para qualificação recorrente,
+
+  conduzida pela ANAC, dentro do período
+
+  especificado
+
+  no
+
+  seu
+
+  Certificado
+
+  de
+
+  Qualificação.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- qualificacao
+- avaliacao
+- qualification
+- recorrente
+- continuing
+- evaluation
+- certificado
+- evaluations
+- must
+- operador
+- sponsor
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

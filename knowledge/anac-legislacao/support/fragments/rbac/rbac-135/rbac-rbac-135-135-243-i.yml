@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-243-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.243'
+section_title: Qualificações para piloto em comando
+subsection_id: i
+cite: 135.243(i)
+title: 135.243(i)
+text: '(i) para um avião, possua habilitação IFR para avião ou uma licença de piloto de linha
+  aérea com habilitação categoria avião; ou
+
+  (ii) para helicóptero, possua habilitação IFR para helicópteros ou uma licença de piloto
+  de linha aérea com habilitação categoria helicóptero.'
+keywords:
+- taxi-aereo
+- operacoes
+- habilitacao
+- aviao
+- piloto
+- aerea
+- categoria
+- helicoptero
+- licenca
+- linha
+- possua
+- comando
+- helicopteros
+- qualificacoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

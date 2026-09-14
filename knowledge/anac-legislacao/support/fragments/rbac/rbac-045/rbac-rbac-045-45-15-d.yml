@@ -1,0 +1,39 @@
+id: rbac-rbac-045-45-15-d
+kind: rbac
+document: rbac-045
+family: '45'
+section_id: '45.15'
+section_title: Marcação de peças PAA, OTP e componentes críticos
+subsection_id: d
+cite: 45.15(d)
+title: 45.15(d)
+text: '(d) Se a ANAC considerar que a peça é muito pequena ou que, por qualquer motivo, é
+
+  impraticável marcá-la com todas as informações requeridas pelos parágrafos (a), (b) ou (c)
+  desta
+
+  seção, é aceitável a colocação das informações que não puderam ser marcadas na peça em uma
+
+  etiqueta ou na embalagem da peça.
+
+  (Redação dada pela Resolução nº 364, de 20.10.2015)'
+keywords:
+- identificacao
+- aeronavegabilidade
+- peca
+- informacoes
+- aceitavel
+- colocacao
+- componentes
+- considerar
+- criticos
+- dada
+- desta
+- embalagem
+- etiqueta
+- impraticavel
+categories:
+- identificacao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-045.md

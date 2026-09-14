@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-123-f
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.123'
+section_title: Produção sob certificado de tipo
+subsection_id: f
+cite: 21.123(f)
+title: 21.123(f)
+text: (f) identificar qualquer parte do produto (por exemplo, subconjuntos, componentes ou
+  peças de reposição) que deixar as instalações do fabricante, como aprovado pela ANAC, com
+  o número da peça, nome, marca e símbolo ou outra forma de identificação aprovada pela ANAC;
+  e
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aprovada
+- aprovado
+- certificado
+- componentes
+- deixar
+- exemplo
+- fabricante
+- forma
+- identificacao
+- identificar
+- instalacoes
+- marca
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

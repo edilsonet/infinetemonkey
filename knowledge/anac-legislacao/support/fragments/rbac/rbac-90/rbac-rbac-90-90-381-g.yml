@@ -1,0 +1,46 @@
+id: rbac-rbac-90-90-381-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.381'
+section_title: Requisitos gerais para operação
+subsection_id: g
+cite: 90.381(g)
+title: 90.381(g)
+text: '(g) As cordas utilizadas nas operações
+
+  fast rope
+
+  deverão possuir características adequadas à referida operação e deverão:
+
+  (1) ser inspecionadas e testadas antes de cada operação;
+
+  (2) possuir pequeno coeficiente elástico;
+
+  (3) possuir fator de segurança compatível;
+
+  (4) ter carga de ruptura apropriada e com a devida margem de segurança;
+
+  (5) dispor de tecnologia compatível com a operação; e
+
+  (6) apresentar outras características a critério da UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacao
+- possuir
+- caracteristicas
+- compativel
+- deverao
+- seguranca
+- adequadas
+- apresentar
+- apropriada
+- cada
+- carga
+- coeficiente
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

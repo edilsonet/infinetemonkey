@@ -1,0 +1,36 @@
+id: rbac-rbac-105-105-25-body
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.25'
+section_title: Saltos dentro ou sobre outros espaços aéreos
+subsection_id: body
+cite: '105.25'
+title: Saltos dentro ou sobre outros espaços aéreos
+text: '105.25 Saltos dentro ou sobre outros espaços aéreos
+
+  Ninguém pode realizar um salto de paraquedas e nenhum piloto em comando pode autorizar saltos
+
+  de paraquedas de sua aeronave dentro ou sobre qualquer espaço aéreo, a menos que tenha um
+
+  NOTAM.'
+keywords:
+- paraquedismo
+- operacoes
+- dentro
+- saltos
+- aereos
+- espacos
+- outros
+- paraquedas
+- pode
+- aereo
+- aeronave
+- autorizar
+- comando
+- espaco
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

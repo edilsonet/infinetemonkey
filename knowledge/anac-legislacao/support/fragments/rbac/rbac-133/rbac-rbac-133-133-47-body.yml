@@ -1,0 +1,41 @@
+id: rbac-rbac-133-133-47-body
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.47'
+section_title: Manual de Voo da Combinação Aeronave-Carga Externa
+subsection_id: body
+cite: '133.47'
+title: Manual de Voo da Combinação Aeronave-Carga Externa
+text: '133.47 Manual de Voo da Combinação Aeronave-Carga Externa
+
+  O requerente deve elaborar (ou fazer com que seja preparado) um Manual de Voo da Combinação
+
+  Aeronave-Carga e deve submetê-lo à aprovação da ANAC. O manual deve ser elaborado de acordo
+
+  com as provisões para manual de voo da subparte G dos RBAC 27 ou 29, conforme aplicável.
+  Os
+
+  dados do envelope de limitação de altura-velocidade não precisam ser listados como limitação
+
+  operacional. O manual deve conter:'
+keywords:
+- carga-externa
+- helicoptero
+- manual
+- aeronave
+- carga
+- combinacao
+- externa
+- limitacao
+- acordo
+- altura
+- aplicavel
+- aprovacao
+- conter
+- dados
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

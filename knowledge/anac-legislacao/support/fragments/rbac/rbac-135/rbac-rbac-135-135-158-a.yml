@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-158-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.158'
+section_title: Sistema de indicação do aquecimento do “
+subsection_id: a
+cite: 135.158(a)
+title: 135.158(a)
+text: '(a) Somente é permitido operar um avião categoria transporte equipado com um sistema
+  de aquecimento do tubo de “
+
+  pitot
+
+  ” dos instrumentos de voo se o avião estiver equipado, também, com um sistema de indicação
+  do funcionamento do sistema de aquecimento que atenda à seção 25.1326 do RBHA 25 (ou disposição
+  equivalente), vigente em 12 de abril de 1978.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- sistema
+- aquecimento
+- aviao
+- equipado
+- indicacao
+- abril
+- atenda
+- categoria
+- dada
+- disposicao
+- equivalente
+- estiver
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

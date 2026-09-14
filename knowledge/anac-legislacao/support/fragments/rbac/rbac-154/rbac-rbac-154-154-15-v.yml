@@ -1,0 +1,72 @@
+id: rbac-rbac-154-154-15-v
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.15'
+section_title: Definições
+subsection_id: v
+cite: 154.15(v)
+title: 154.15(v)
+text: '(v) método de avaliação.
+
+  (56) NOTAM (Aviso ao Aeronavegante) significa o aviso que contém informação relativa ao
+
+  estabelecimento, condição ou modificação de quaisquer instalações, serviços, procedimentos
+  ou
+
+  perigos aeronáuticos, cujo conhecimento seja indispensável à segurança, eficiência e rapidez
+  da
+
+  navegação aérea.
+
+  (57) Número de Classificação de Aeronaves (ACN) significa o número que expressa o efeito
+
+  relativo de uma aeronave sobre um pavimento para uma categoria padrão de subleito especificada.
+
+  NOTA - O número de classificação de aeronaves é calculado em relação à localização do centro
+  de
+
+  gravidade (CG) que fornece o carregamento crítico sobre o trem de pouso crítico. Normalmente,
+  a
+
+  posição mais à ré do CG, apropriada ao peso máximo de rampa, é utilizada para calcular o
+  ACN. Em
+
+  casos excepcionais, a posição mais à[ frente do CG pode resultar no carregamento do trem
+  de pouso
+
+  dianteiro como sendo o mais crítico.
+
+  (58) Número de Classificação de Pavimentos (PCN) significa o número que expressa a
+
+  capacidade de suporte de um pavimento para operações sem restrição.
+
+  (59) Objeto frangível significa um objeto de pouca massa projetado para quebrar, deformar
+  ou
+
+  ceder mediante impacto, de modo a apresentar menor perigo às aeronaves. (Redação dada pela
+
+  Resolução nº 628, de 11.06.2021)
+
+  (60) Obstáculo significa um objeto de natureza permanente ou temporária, fixo ou móvel,
+  ou
+
+  parte dele, que:'
+keywords:
+- seguranca-aeroportuaria
+- numero
+- significa
+- aeronaves
+- classificacao
+- critico
+- objeto
+- aviso
+- carregamento
+- expressa
+- pavimento
+- posicao
+- pouso
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

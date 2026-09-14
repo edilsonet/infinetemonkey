@@ -1,0 +1,47 @@
+id: rbac-rbac-90-90-111-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.111'
+section_title: Requisitos gerais
+subsection_id: a
+cite: 90.111(a)
+title: 90.111(a)
+text: '(a) O MOP deverá:
+
+  (1) ser um mecanismo de padronização para o alcance do desempenho da segurança operacional
+  da UAP;
+
+  (2) ser aprovado pelo gestor da UAP;
+
+  (3) prover instruções detalhadas das atividades da UAP, com orientações relativas à segurança
+  operacional;
+
+  (4) ser aplicado com consistência e uniformidade dentro da UAP;
+
+  (5) incentivar o reporte de discrepâncias, melhorias, atualizações, melhores práticas para
+  a implantação e revisão desta publicação;
+
+  (6) ser integrado ao SGSO do órgão ou ente público; e
+
+  (7) ser utilizado durante os treinamentos.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- alcance
+- aplicado
+- aprovado
+- atividades
+- atualizacoes
+- consistencia
+- dentro
+- desempenho
+- desta
+- detalhadas
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

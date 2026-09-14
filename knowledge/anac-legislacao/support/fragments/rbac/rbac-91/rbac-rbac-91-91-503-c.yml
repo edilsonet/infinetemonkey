@@ -1,0 +1,41 @@
+id: rbac-rbac-91-91-503-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.503'
+section_title: Equipamentos de voo e informações operacionais
+subsection_id: c
+cite: 91.503(c)
+title: 91.503(c)
+text: '(c) Cada lista de verificação da cabine em emergência requerida pelo parágrafo (b)(7)
+  desta seção
+
+  deve conter os seguintes procedimentos, como apropriado:
+
+  (1) operação em emergência dos sistemas de combustível, hidráulico, elétrico e mecânicos;
+
+  (2) operação em emergência dos instrumentos e controles de voo;
+
+  (3) procedimentos com motor inoperante; e
+
+  (4) qualquer outro procedimento necessário à segurança.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- emergencia
+- operacao
+- procedimentos
+- apropriado
+- cabine
+- cada
+- combustivel
+- conter
+- controles
+- desta
+- eletrico
+- equipamentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

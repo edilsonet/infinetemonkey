@@ -1,0 +1,43 @@
+id: rbac-rbac-145-145-3-a-ii
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.3'
+section_title: Definições
+subsection_id: a-ii
+cite: 145.3(a-II)
+title: 145.3(a-II)
+text: '(a)-II Gestor do Sistema de Gerenciamento de Segurança Operacional - Gestor SGSO significa
+  a
+
+  pessoa única e identificável, na estrutura da organização de manutenção, formalmente designado
+
+  pelo GR, que é responsável por prover orientações e coordenação ao planejamento, implementação
+
+  e operacionalização do Sistema de Gerenciamento de Segurança Operacional da organização.
+  O
+
+  Gestor do SGSO representa a organização perante a ANAC nos assuntos referentes ao Sistema
+  de
+
+  Gerenciamento de Segurança Operacional. (Redação dada pela Resolução nº 610, de 23.02.2021)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- gerenciamento
+- gestor
+- operacional
+- organizacao
+- seguranca
+- sistema
+- sgso
+- assuntos
+- coordenacao
+- dada
+- definicoes
+- designado
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,47 @@
+id: rbac-rbac-43-43-13-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.13'
+section_title: Regras de execução (geral)
+subsection_id: c
+cite: 43.13(c)
+title: 43.13(c)
+text: '(c) Provisões especiais para empresas de transporte aéreo detentoras de certificado
+  de
+
+  operação segundo os RBAC 121 ou 135 e para operadores segundo o RBAC 129, detentores de
+
+  especificações operativas. Os requisitos desta seção devem ser cumpridos com os métodos,
+  técnicas
+
+  e práticas contidas no manual de manutenção ou na seção de manutenção do manual de uma
+
+  empresa de transporte aéreo que opera conforme especificações operativas emitidas segundo
+  os
+
+  RBAC 121, 135 ou RBAC 129, que requeiram programa de controle da qualidade, programa de
+
+  inspeção estrutural suplementar ou outros requisitos para manutenção continuada de
+
+  aeronavegabilidade, a menos que seja determinado de outra maneira pela ANAC. (Redação dada
+
+  pela Resolução nº 348, de 02.12.2014)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- segundo
+- aereo
+- especificacoes
+- manual
+- operativas
+- programa
+- requisitos
+- secao
+- transporte
+- certificado
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

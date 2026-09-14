@@ -1,0 +1,70 @@
+id: rbac-rbac-23-23-1457-i
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.1457'
+section_title: Gravadores de voz de cabine
+subsection_id: i
+cite: 23.1457(i)
+title: 23.1457(i)
+text: '(i) Que forneça 10 ± 1 minutos de energia elé-
+
+  trica para operação conjunta do gravador de
+
+  voz da cabine de comando e do microfone da
+
+  área da cabine de comando;
+
+  (ii) Que esteja localizada o mais próximo pos-
+
+  sível do gravador de voz da cabine de coman-
+
+  do; e
+
+  (iii) Para a qual o gravador de voz da cabine de
+
+  comando e o microfone de área da cabine de
+
+  comando sejam comutados automaticamente
+
+  no caso em que todas as outras fontes de ener-
+
+  gia para o gravador de voz da cabine de co-
+
+  mando sejam interrompidas, seja por desliga-
+
+  mento normal ou por qualquer outra perda de
+
+  energia no barramento de energia elétrica;
+
+  (6) Esteja em um receptáculo separado do gra-
+
+  vador de dados de voo quando ambos forem
+
+  requeridos. Se usado para cumprir apenas os
+
+  requisitos do gravador de voz da cabine de co-
+
+  mando, uma unidade combinada pode ser insta-
+
+  lada.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- cabine
+- gravador
+- comando
+- energia
+- area
+- esteja
+- mando
+- microfone
+- sejam
+- ambos
+- automaticamente
+- barramento
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

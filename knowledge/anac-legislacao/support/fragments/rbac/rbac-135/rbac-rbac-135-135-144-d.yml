@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-144-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.144'
+section_title: Dispositivos eletrônicos portáteis
+subsection_id: d
+cite: 135.144(d)
+title: 135.144(d)
+text: '(d) Ressalvado o estabelecido no parágrafo (a) desta seção, os detentores de certificado
+  podem autorizar o uso de telefones celulares a bordo de aviões desde que:
+
+  (1) sejam aviões com configuração para passageiros com mais de 20 assentos e com sistema
+  de reabastecimento de combustível sob pressão;
+
+  (2) esses aviões estejam estacionados no local designado para embarque ou desembarque de
+  passageiros, com os motores desligados, com a(s) porta(s) aberta(s) e com sistemas sensíveis
+  a interferências eletromagnéticas desativados; e
+
+  (3) o detentor de certificado tenha estabelecido um procedimento adequado às circunstâncias
+  e constante do manual geral da empresa requerido pela seção 135.21 deste Regulamento.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- avioes
+- certificado
+- estabelecido
+- passageiros
+- secao
+- aberta
+- adequado
+- assentos
+- autorizar
+- bordo
+- celulares
+- circunstancias
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

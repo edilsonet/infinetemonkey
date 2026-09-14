@@ -1,0 +1,35 @@
+id: rbac-rbac-137-137-201-g
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.201'
+section_title: Requisitos para operação
+subsection_id: g
+cite: 137.201(g)
+title: 137.201(g)
+text: '(g) Somente é permitido começar uma operação aeroagrícola se:
+
+  (1) para operações de translado de ou para o local de operação: forem cumpridos os requisitos
+  do RBAC nº 91; e
+
+  (2) para as demais operações: considerando vento e condições meteorológicas conhecidas,
+  houver combustível e óleo suficiente para a operação prevista, mais o combustível de contingência
+  determinado pelo operador.'
+keywords:
+- aeroagricola
+- operacoes
+- operacao
+- combustivel
+- requisitos
+- comecar
+- condicoes
+- conhecidas
+- considerando
+- contingencia
+- cumpridos
+- demais
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

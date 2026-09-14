@@ -1,0 +1,64 @@
+id: rbac-rbac-107-107-95-body
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.95'
+section_title: '107.95'
+subsection_id: body
+cite: '107.95'
+title: '107.95'
+text: '107.95
+
+  Controle de Credenciais e Autorizações
+
+  Dispensado.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  107.95(c)
+
+  Alteração de modelo de credencial
+
+  Dispensado
+
+  Recomendado.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  107.95(f)
+
+  Verificação de conformidade de entidade cadastrada
+
+  Dispensado
+
+  Recomendado.
+
+  Obrigatório.
+
+  Obrigatório.'
+keywords:
+- seguranca
+- aeroporto
+- obrigatorio
+- dispensado
+- recomendado
+- alteracao
+- autorizacoes
+- cadastrada
+- conformidade
+- controle
+- credenciais
+- credencial
+- entidade
+- modelo
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

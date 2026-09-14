@@ -1,0 +1,34 @@
+id: rbac-rbac-135-g135-2-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: d
+cite: G135.2(d)
+title: G135.2(d)
+text: (d) Requisitos de informação da tripulação. O detentor de certificado deve assegurar-se
+  que a tripulação tenha acesso, em voo, a informações meteorológicas atualizadas e aspectos
+  operacionais necessários para cumprir com as seções 135.83, 135.225 e 135.229. Isso inclui
+  informações sobre todos os aeródromos de alternativa em rota ETOPS, todos os destinos alternativos
+  e o aeródromo de destino proposto para cada voo ETOPS.
+keywords:
+- taxi-aereo
+- operacoes
+- etops
+- informacoes
+- requisitos
+- todos
+- tripulacao
+- acesso
+- aerodromo
+- aerodromos
+- alternativa
+- alternativos
+- aspectos
+- assegurar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

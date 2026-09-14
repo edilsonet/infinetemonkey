@@ -1,0 +1,28 @@
+id: rbac-rbac-e-94-e94-403-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.403
+section_title: Determinação dos requisitos aplicáveis para autorização do projeto do RPAS
+subsection_id: a
+cite: E94.403(a)
+title: E94.403(a)
+text: (a) Os RPAS Classe 2 que se destinam exclusivamente a operações VLOS devem demonstrar
+  cumprimento com os requisitos das seções E94.405 e E94.409 deste Regulamento Especial.
+keywords:
+- requisitos
+- rpas
+- aplicaveis
+- autorizacao
+- classe
+- cumprimento
+- demonstrar
+- deste
+- destinam
+- determinacao
+- especial
+- exclusivamente
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

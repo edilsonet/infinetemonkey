@@ -1,0 +1,44 @@
+id: rbac-rbac-21-21-610-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.610'
+section_title: Inspeções e ensaios
+subsection_id: body
+cite: '21.610'
+title: Inspeções e ensaios
+text: '21.610 Inspeções e ensaios
+
+  Cada requerente ou detentor de um certificado de produto aeronáutico aprovado segundo uma
+  OTP e/ou certificado de organização de produção deve permitir que a ANAC inspecione o seu
+  sistema da qualidade, instalações, dados técnicos, e quaisquer artigos manufaturados e testemunhar
+  quaisquer ensaios, incluindo as inspeções ou ensaios em uma instalação de fornecedor, necessários
+  para determinar o cumprimento com os RBAC aplicáveis.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- inspecoes
+- certificado
+- quaisquer
+- aeronautico
+- aplicaveis
+- aprovado
+- artigos
+- cada
+- cumprimento
+- dada
+- dados
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

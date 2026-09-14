@@ -1,0 +1,37 @@
+id: rbac-rbac-91-91-609-j
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.609'
+section_title: Gravadores de dados de voo e de voz na cabine
+subsection_id: j
+cite: 91.609(j)
+title: 91.609(j)
+text: '(j) Todas as aeronaves que, segundo esta seção, devam possuir um gravador de voz na
+  cabine de
+
+  comando e um gravador de dados de voo, devem gravar todas as mensagens geradas pelo
+
+  equipamento de comunicação por datalink, conforme requerido pela regulamentação de certificação
+
+  aplicável à aeronave, caso possuam tal equipamento instalado.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- cabine
+- dados
+- equipamento
+- gravador
+- todas
+- aeronave
+- aeronaves
+- aplicavel
+- caso
+- certificacao
+- comando
+- comunicacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-035-35-24-d
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.24'
+section_title: '35.24'
+subsection_id: d
+cite: 35.24(d)
+title: 35.24(d)
+text: '(d) O sistema de controle da hélice deve ser
+
+  projetado e construído tal que a falha ou corrup-
+
+  ção de dados supridos pelo avião não resulte em
+
+  efeitos hazardous de hélice.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- aviao
+- construido
+- controle
+- corrup
+- dados
+- efeitos
+- falha
+- hazardous
+- projetado
+- resulte
+- sistema
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

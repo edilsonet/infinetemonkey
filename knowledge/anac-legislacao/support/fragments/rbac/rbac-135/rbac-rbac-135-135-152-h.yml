@@ -1,0 +1,277 @@
+id: rbac-rbac-135-135-152-h
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: h
+cite: 135.152(h)
+title: 135.152(h)
+text: '(h) Os parâmetros operacionais que devem ser gravados pelos gravadores digitais de
+  dados de voo requeridos pelos parágrafos (i) e (j) desta seção são os abaixo (a frase “quando
+  a fonte de informação estiver instalada” indica que a gravação do parâmetro não é requerida
+  se precisar modificar o equipamento instalado):
+
+  (1) tempo;
+
+  (2) altitude;
+
+  (3) velocidade;
+
+  (4) proa - referência primária da tripulação (se selecionável, gravar, discreto, verdadeira
+  ou magnética);
+
+  (5) aceleração normal (vertical);
+
+  (6) atitude de arfagem;
+
+  (7) atitude de rolamento;
+
+  (8) acionamento manual do rádio transmissor ou referência da sincronização CVR/DFDR;
+
+  (9) empuxo/potência de cada motor - referência primária da tripulação;
+
+  (10) situação de engajamento do piloto automático;
+
+  (11) aceleração longitudinal;
+
+  (12) acionamento do controle de arfagem;
+
+  (13) acionamento do controle de rolamento;
+
+  (14) acionamento do pedal de direção;
+
+  (15) posição da superfície primária de controle de arfagem;
+
+  (16) posição da superfície primária de controle lateral;
+
+  (17) posição da superfície primária de controle de guinada;
+
+  (18) aceleração lateral;
+
+  (19) posição da superfície do compensador de profundidade ou os parâmetros do parágrafo
+  (a)(82) desta seção se gravados correntemente;
+
+  (20) posição do flape de bordo de fuga ou do controle do mesmo na cabine (exceto quando
+  forem aplicáveis os parâmetros do parágrafo (h)(85) desta seção);
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (21) posição do flape de bordo de ataque ou do controle do mesmo na cabine (exceto quando
+  forem aplicáveis os parâmetros do parágrafo (h)(86) desta seção);
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (22) posição de cada reversor de empuxo (ou equivalente para aviões com hélices);
+
+  (23) seleção do “
+
+  spoiler
+
+  ” de solo ou do freio aerodinâmico (exceto quando forem aplicáveis os parâmetros do parágrafo
+  (h)(87) desta seção);
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (24) temperatura total do ar ou temperatura do ar externo;
+
+  (25) modos e situação de engajamento do Sistema Automático de Controle de voo (AFCS), incluindo
+  “
+
+  autothrottle
+
+  ”;
+
+  (26) altitude rádio (quando a fonte de informação estiver instalada);
+
+  (27) desvio do “
+
+  localizer
+
+  ”, azimute do MLS;
+
+  (28) desvio do “
+
+  glideslope
+
+  ”, elevação do MLS;
+
+  (29) passagem pelo “
+
+  marker beacon
+
+  ”;
+
+  (30) alarme geral (“
+
+  master warning
+
+  ”);
+
+  (31) sensor ar/solo (sistema primário do avião: trem de pouso principal ou bequilha);
+
+  (32) ângulo de ataque (quando a fonte de informação estiver instalada);
+
+  (33) baixa pressão hidráulica (cada sistema);
+
+  (34) velocidade no solo (quando a fonte de informação estiver instalada);
+
+  (35) sistema de alarme de proximidade do solo (GPWS);
+
+  (36) posição do trem de pouso ou do comando do mesmo na cabine de comando;
+
+  (37) ângulo de deriva (quando a fonte de informação estiver instalada);
+
+  (38) direção e velocidade do vento (quando a fonte de informação estiver instalada);
+
+  (39) latitude e longitude (quando a fonte de informação estiver instalada);
+
+  (40) “
+
+  stick shaker
+
+  /
+
+  pusher
+
+  ” (quando a fonte de informação estiver instalada);
+
+  (41) tesoura de vento - “
+
+  windshear
+
+  ” (quando a fonte de informação estiver instalada);
+
+  (42) posição das manetes;
+
+  (43) parâmetros adicionais dos motores (como designados no Apêndice F deste Regulamento);
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (44) sistema embarcado de prevenção de colisões - ACAS;
+
+  (45) distâncias DME 1 e 2;
+
+  (46) frequências selecionadas em Nav 1 e Nav 2;
+
+  (47) ajuste do altímetro selecionado (quando a fonte de informação estiver instalada);
+
+  (48) altitude selecionada (quando a fonte de informação estiver instalada);
+
+  (49) velocidade selecionada (quando a fonte de informação estiver instalada);
+
+  (50) no
+
+  Mach
+
+  selecionado (quando a fonte de informação estiver instalada);
+
+  (51) velocidade vertical selecionada (quando a fonte de informação estiver instalada);
+
+  (52) proa selecionada (quando a fonte de informação estiver instalada);
+
+  (53) trajetória de voo selecionada (quando a fonte de informação estiver instalada);
+
+  (54) altura de decisão - DH - selecionada (quando a fonte de informação estiver instalada);
+
+  (55) formato de apresentação do EFIS;
+
+  (56) formato da apresentação do dispositivo de alertas múltiplos;
+
+  (57) comando do empuxo (quando a fonte de informação estiver instalada);
+
+  (58) empuxo desejado (quando a fonte de informação estiver instalada);
+
+  (59) quantidade de combustível no tanque de compensação (quando a fonte de informação estiver
+  instalada);
+
+  (60) sistema primário para referência de navegação;
+
+  (61) gelo (quando a fonte de informação estiver instalada);
+
+  (62) alarme de vibração de cada motor (quando a fonte de informação estiver instalada);
+
+  (63) alarme de sobre temperatura de cada motor (quando a fonte de informação estiver instalada);
+
+  (64) alarme de baixa pressão de óleo de cada motor (quando a fonte de informação estiver
+  instalada);
+
+  (65) alarme de sobre rotação de cada motor (quando a fonte de informação estiver instalada);
+
+  (66) posição da superfície do compensador de direção;
+
+  (67) posição da superfície do compensador de rolamento;
+
+  (68) pressão do freio (sistema selecionado);
+
+  (69) aplicação do pedal do freio (direito e esquerdo);
+
+  (70) ângulo de glissada ou de derrapagem (quando a fonte de informação estiver instalada);
+
+  (71) posição da válvula de sangria do motor (quando a fonte de informação estiver instalada);
+
+  (72) seleção de sistema antigelo ou de degelo (quando a fonte de informação estiver instalada);
+
+  (73) centro de gravidade computado (quando a fonte de informação estiver instalada);
+
+  (74) estado da barra elétrica AC;
+
+  (75) estado da barra elétrica DC;
+
+  (76) posição da válvula de sangria do APU (quando a fonte de informação estiver instalada);
+
+  (77) pressão hidráulica (cada sistema);
+
+  (78) perda de pressão na cabine;
+
+  (79) falha do computador;
+
+  (80) apresentador (display) “
+
+  heads-up
+
+  ” (quando a fonte de informação estiver instalada);
+
+  (81) apresentador (display) “para-visual” (quando a fonte de informação estiver instalada);
+
+  (82) posição do comando do compensador de arfagem na cabine;
+
+  (83) posição do comando do compensador de rolamento na cabine;
+
+  (84) posição do comando do compensador de direção na cabine;
+
+  (85) posição dos flapes de bordo de fuga e de seu controle na cabine;
+
+  (86) posição dos flapes de bordo de ataque e de seu controle na cabine;
+
+  (87) posição do “
+
+  spoiler
+
+  ” de solo e seleção do freio aerodinâmico; e
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (88) todas as forças de comando dos controles de voo da cabine (volante, coluna e pedais).
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- estiver
+- fonte
+- informacao
+- instalada
+- posicao
+- cabine
+- controle
+- sistema
+- cada
+- comando
+- alarme
+- compensador
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,82 @@
+id: rbac-rbac-035-35-5-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.5'
+section_title: '35.5'
+subsection_id: a
+cite: 35.5(a)
+title: 35.5(a)
+text: '(a) Propeller ratings and operating limitations
+
+  must:
+
+  (1) be established by the applicant and ap-
+
+  proved by ANAC;
+
+  (2) be included directly or by reference in the
+
+  propeller type certificate data sheet, as specified
+
+  in section 21.41 of RBAC 21;
+
+  (3) be based on the operating conditions
+
+  demonstrated during the tests required by this
+
+  RBAC as well as any other information ANAC
+
+  (1) incluam a descrição dos modos operacio-
+
+  nais do sistema de controle da hélice e a interfa-
+
+  ce funcional do sistema de controle com os sis-
+
+  temas do avião e do motor;
+
+  (2) especifiquem as interfaces físicas e funci-
+
+  onais com o avião, os equipamentos e o motor
+
+  do avião;
+
+  (3) definam as condições limites nas interfa-
+
+  ces citadas no parágrafo (a) (2) desta seção;
+
+  (4) listem as limitações estabelecidas na se-
+
+  ção 35.5 deste RBAC;
+
+  (5) definam os fluidos hidráulicos aprovados
+
+  para uso na hélice, incluindo grau e especifica-
+
+  ção, pressão de operação relacionada e níveis de
+
+  filtragem; e
+
+  (6) estabeleçam as premissas feitas para
+
+  cumprir com os requisitos deste RBAC.'
+keywords:
+- helices
+- aeronavegabilidade
+- aviao
+- controle
+- definam
+- deste
+- helice
+- interfa
+- motor
+- operating
+- propeller
+- sistema
+- applicant
+- aprovados
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

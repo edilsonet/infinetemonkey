@@ -1,0 +1,45 @@
+id: rbac-rbac-43-43-10-b
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.10'
+section_title: Controle de peças com limite de vida
+subsection_id: b
+cite: 43.10(b)
+title: 43.10(b)
+text: '(b) Remoção temporária de peças de produtos com certificado de tipo. Quando uma peça
+  com
+
+  limite de vida é temporariamente removida e reinstalada com o propósito de realizar manutenção,
+
+  não é requerido qualquer controle segundo o parágrafo (c) desta seção se:
+
+  (1) a situação de vida da peça não foi alterada;
+
+  (2) a remoção e reinstalação foi realizada em produto com o mesmo número de série; e
+
+
+  Data da emissão: 15 de março de 2021
+
+
+  (3) o produto não acumulou tempo em serviço enquanto a peça esteve removida.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- peca
+- vida
+- controle
+- limite
+- pecas
+- produto
+- remocao
+- removida
+- acumulou
+- alterada
+- certificado
+- data
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

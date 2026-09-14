@@ -1,0 +1,33 @@
+id: rbac-rbac-107-107-187-d
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.187'
+section_title: Registro das Atividades de Controle de Qualidade
+subsection_id: d
+cite: 107.187(d)
+title: 107.187(d)
+text: (d) Quaisquer informações que derivem das atividades de controle de qualidade AVSEC,
+  tais como relatórios e resultados de testes, que contenham dados reais sobre a segurança
+  da aviação civil contra atos de interferência ilícita, devem ser tratadas pelo operador
+  de aeródromo de forma a prevenir sua divulgação indevida.
+keywords:
+- seguranca
+- aeroporto
+- atividades
+- controle
+- qualidade
+- aerodromo
+- atos
+- aviacao
+- avsec
+- civil
+- contenham
+- contra
+- dados
+- derivem
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

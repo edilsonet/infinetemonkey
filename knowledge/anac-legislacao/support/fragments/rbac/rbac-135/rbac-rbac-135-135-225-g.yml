@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-225-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.225'
+section_title: '135.225'
+subsection_id: g
+cite: 135.225(g)
+title: 135.225(g)
+text: (g) Se não forem especificados mínimos operacionais para decolagem de um determinado
+  aeródromo, um piloto não pode decolar IFR desse aeródromo quando as condições meteorológicas
+  reportadas em conformidade com a seção 135.213 estiverem abaixo dos mínimos gerais para
+  IFR estabelecidos pelo Estado do Aeródromo.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- minimos
+- abaixo
+- condicoes
+- conformidade
+- decolagem
+- decolar
+- desse
+- determinado
+- especificados
+- estabelecidos
+- estado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

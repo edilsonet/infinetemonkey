@@ -1,0 +1,39 @@
+id: is-is-91-005-c2-4-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: C2.4
+section_title: C2.4
+subsection_id: body
+cite: C2.4
+title: C2.4
+text: 'C2.4
+
+  Correção do erro da tomada de pressão estática (SSEC):
+
+  se o projeto e características da aeronave e do seu sistema altimétrico não puderem satisfazer
+  os padrões do Apêndice D desta IS devido unicamente à localização e geometria das tomadas
+  estáticas, então deve ser aplicada automaticamente a SSEC apropriada dentro dos aviônicos
+  do sistema altimétrico. O objetivo de projeto da correção de erro da tomada de pressão estática
+  deve ser produzir um erro residual mínimo da fonte de pressão estática, porém em todos os
+  casos deve satisfazer os requisitos do Apêndice D desta IS de modo apropriado.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- erro
+- estatica
+- pressao
+- altimetrico
+- apendice
+- correcao
+- desta
+- projeto
+- satisfazer
+- sistema
+- ssec
+- tomada
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

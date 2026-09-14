@@ -1,0 +1,34 @@
+id: rbac-rbac-129-129-13-a
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.13'
+section_title: Certificados de Aeronavegabilidade e de Matrícula
+subsection_id: a
+cite: 129.13(a)
+title: 129.13(a)
+text: (a) Nenhuma empresa estrangeira de transporte aéreo pode operar qualquer aeronave dentro
+  do Brasil, a menos que essa aeronave possua os Certificados de Aeronavegabilidade e de Matrícula
+  válidos, emitidos ou validados pelo país do operador e de registro da aeronave e exiba as
+  marcas de nacionalidade e de matrícula desse país nos locais externos como previsto na Convenção
+  de Aviação Civil Internacional.
+keywords:
+- operador-estrangeiro
+- operacoes
+- aeronave
+- matricula
+- aeronavegabilidade
+- certificados
+- pais
+- aereo
+- aviacao
+- brasil
+- civil
+- convencao
+- dentro
+- desse
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

@@ -1,0 +1,118 @@
+id: rbac-rbac-90-90-341-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.341'
+section_title: Requisitos gerais
+subsection_id: c
+cite: 90.341(c)
+title: 90.341(c)
+text: '(c) São requisitos para operações de paraquedismo:
+
+  (1) que esteja sob VMC;
+
+  (2) que sejam previamente coordenadas com o piloto em comando;
+
+  (3) que a tripulação, outras pessoas com função a bordo e o paraquedista possuam treinamento
+  adequado para este tipo de operação, segundo estabelecido pela UAP;
+
+  (4) que o risco de impacto com o rotor de cauda e/ou principal, estabilizador ou qualquer
+  outra superfície da aeronave seja mitigado;
+
+  (5) que cada paraquedista possua os equipamentos de segurança necessários à operação segura,
+  conforme estabelecido pela UAP;
+
+  (6) que a ZL possua as dimensões adequadas para mitigar erros de mira em decorrência da
+  movimentação da aeronave;
+
+  (7) que haja uma avaliação quanto à natureza do terreno onde o paraquedista será lançado;
+
+  (8) que sejam observadas as limitações da aeronave, segundo o AFM ou AOM;
+
+  (9) que o CG da aeronave seja mantido dentro dos limites durante toda a operação, isto é,
+  antes, durante e depois do lançamento;
+
+  (10) que a porta de acesso à cabine da aeronave tenha sido removida ou que a aeronave disponha
+  de porta deslizante conforme previsto no AFM. É vedado o lançamento de paraquedista com
+  aeronaves que disponham de portas de acesso com dobradiças ou similares;
+
+  (11) que o risco de colisão/impacto com outras aeronaves dentro do espaço aéreo seja eliminado;
+
+  (12) que o paraquedas principal tenha sido dobrado por profissional qualificado (dobrador);
+
+  (13) que o paraquedas reserva tenha sido dobrado por profissional qualificado (
+
+  rigger
+
+  ) nos últimos 120 (cento e vinte) dias ou dentro do prazo estabelecido pelo fabricante do
+  paraquedas, o que for menor;
+
+  (14) que o paraquedas seja aprovado nos termos do RBAC nº 91;
+
+  (Redação dada pela Resolução nº 695, de 09.11.2022)
+
+  (15) que o piloto em comando seja detentor da habilitação de LPQA/H, segundo o RBAC nº 61;
+
+  (16) que, para salto duplo (
+
+  tandem
+
+  ), a UAP defina a experiência mínima do paraquedista responsável pela operação no MOP;
+
+  (17) que haja uma avaliação do local da operação, a observar se os terceiros no solo estão
+  a uma distância mínima de segurança;
+
+  (18) que somente os envolvidos na operação estejam a bordo;
+
+  (19) que os procedimentos operacionais e de segurança sejam definidos e aprovados nos SOP
+  e no MOP pela UAP;
+
+  (20) que os parâmetros de desempenho da aeronave, incluído peso e balanceamento, sejam mantidos
+  dentro dos limites durante todo o voo;
+
+  (21) que o paraquedista, a tripulação e outras pessoas com função a bordo tenham recebido
+
+  briefing
+
+  de segurança sobre os procedimentos normais, de emergências, sinais e comunicações;
+
+  (22) que, sempre que possível, haja equipe de segurança em terra para apoio de primeiros
+  socorros;
+
+  (23) que se mantenha contato rádio bilateral com o órgão ATC correspondente, caso o voo
+  esteja sujeito ao serviço de controle de tráfego aéreo segundo estabelecido pelo DECEA;
+
+  (24) que, para operações realizadas entre o pôr e o nascer do sol, a UAP mitigue os riscos
+  para manutenção do NADSO e que o paraquedista disponha da iluminação necessária para sua
+  segurança, de terceiros e propriedades no solo;
+
+  (25) que a documentação do paraquedista esteja válida, incluindo sua identificação como
+  paraquedista e caderneta de dobragem do paraquedas reserva assinada e datada por profissional
+  qualificado (
+
+  rigger
+
+  ); e
+
+  (26) que outros procedimentos julgados pertinentes pela UAP, pela tripulação e demais pessoas
+  com função a bordo sejam observados.'
+keywords:
+- regras-de-voo
+- operacoes
+- paraquedista
+- aeronave
+- operacao
+- seguranca
+- paraquedas
+- seja
+- sejam
+- bordo
+- dentro
+- estabelecido
+- segundo
+- durante
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

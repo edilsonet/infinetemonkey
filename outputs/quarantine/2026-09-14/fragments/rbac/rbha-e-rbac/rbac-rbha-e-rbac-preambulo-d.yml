@@ -1,0 +1,41 @@
+id: rbac-rbha-e-rbac-preambulo-d
+kind: rbac
+document: rbha-e-rbac
+family: '1'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: d
+cite: preambulo(d)
+title: preambulo(d)
+text: '(d) Se o certificado de tipo não tiver sido emitido ou se ficar evidente que o mesmo
+  não será emitido dentro do limite de tempo estabelecido no parágrafo (c) desta seção, o
+  requerente pode:
+
+  (1) fazer novo requerimento de certificado de tipo e cumprir com todos os requisitos do
+  parágrafo (a) desta seção aplicáveis ao novo requerimento; ou
+
+  (2) fazer um pedido de adiamento do requerimento original e cumprir com os requisitos de
+  aeronavegabilidade que estiverem vigentes em uma nova data a ser escolhida pelo requerente,
+  desde que a data respeite o período de tempo estabelecido no parágrafo (c) desta seção e
+  desde que esta nova data esteja entre ela e a data prevista para emissão do certificado
+  de tipo. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- data
+- certificado
+- desta
+- paragrafo
+- requerimento
+- secao
+- tipo
+- cumprir
+- desde
+- emitido
+- estabelecido
+- fazer
+categories:
+- legislacao
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

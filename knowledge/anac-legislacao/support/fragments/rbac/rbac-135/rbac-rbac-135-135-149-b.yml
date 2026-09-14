@@ -1,0 +1,30 @@
+id: rbac-rbac-135-135-149-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.149'
+section_title: 'Requisitos de equipamento: geral'
+subsection_id: b
+cite: 135.149(b)
+title: 135.149(b)
+text: (b) um equipamento de aquecimento ou de degelo para cada carburador ou, para carburadores
+  sob pressão, uma fonte alternada de ar;
+keywords:
+- taxi-aereo
+- operacoes
+- equipamento
+- alternada
+- aquecimento
+- cada
+- carburador
+- carburadores
+- degelo
+- fonte
+- geral
+- pressao
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

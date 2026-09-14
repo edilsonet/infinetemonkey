@@ -1,0 +1,40 @@
+id: rbac-rbac-107-107-211-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.211'
+section_title: Programa de Segurança Aeroportuária (PSA)
+subsection_id: c
+cite: 107.211(c)
+title: 107.211(c)
+text: '(c) O PSA deve possuir como parte integrante os seguintes planos e programas, quando
+  aplicáveis:
+
+  (1) Plano de Segurança de Transporte Aéreo de Valores (PSTAV);
+
+  (2) Plano de Contingência de AVSEC do Aeródromo (PCA);
+
+  (3) Programa de Instrução de AVSEC do operador de aeródromo, nos termos do PNIAVSEC; e
+
+  (4) Programa de Controle de Qualidade AVSEC do Aeródromo (PCQ/AVSEC).
+
+  (Redação dada pela Resolução nº 500, de 12.12.2018)'
+keywords:
+- seguranca
+- aeroporto
+- avsec
+- aerodromo
+- programa
+- plano
+- aereo
+- aeroportuaria
+- aplicaveis
+- contingencia
+- controle
+- dada
+- instrucao
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

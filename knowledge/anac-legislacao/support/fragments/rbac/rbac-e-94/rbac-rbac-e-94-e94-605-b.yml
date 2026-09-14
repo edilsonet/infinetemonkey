@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-605-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.605
+section_title: Manutenção requerida para RPAS Classe 1
+subsection_id: b
+cite: E94.605(b)
+title: E94.605(b)
+text: (b) assegurar-se de que o pessoal de manutenção tenha feito as anotações apropriadas
+  nos registros de manutenção do RPAS, indicando que este tenha sido aprovado para retorno
+  ao serviço.
+keywords:
+- manutencao
+- rpas
+- tenha
+- anotacoes
+- apropriadas
+- aprovado
+- assegurar
+- classe
+- feito
+- indicando
+- pessoal
+- registros
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

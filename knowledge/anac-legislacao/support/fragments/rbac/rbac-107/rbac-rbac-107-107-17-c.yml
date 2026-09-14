@@ -1,0 +1,33 @@
+id: rbac-rbac-107-107-17-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.17'
+section_title: Avaliação de Risco e Planejamento Aeroportuário
+subsection_id: c
+cite: 107.17(c)
+title: 107.17(c)
+text: (c) O operador de aeródromo deve estabelecer e implementar a infraestrutura e os procedimentos
+  para garantir a aplicação dos controles de segurança, adotando o conceito de imprevisibilidade
+  de medida de segurança, conforme disposto nas subpartes seguintes deste regulamento, e impedir
+  que sejam introduzidas armas, explosivos, artefatos químicos, biológicos, radiológicos e
+  nucleares (QBRN) ou substâncias e materiais proibidos em ARS.
+keywords:
+- seguranca
+- aeroporto
+- adotando
+- aerodromo
+- aeroportuario
+- aplicacao
+- armas
+- artefatos
+- avaliacao
+- biologicos
+- conceito
+- controles
+- deste
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

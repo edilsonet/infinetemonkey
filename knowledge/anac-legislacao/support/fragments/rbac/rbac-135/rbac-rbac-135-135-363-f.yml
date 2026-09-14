@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-363-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.363'
+section_title: Geral
+subsection_id: f
+cite: 135.363(f)
+title: 135.363(f)
+text: (f) Os dados de desempenho do manual de voo do avião aplicam-se na determinação de conformidade
+  com as seções 135.365 a 135.387. Quando as condições forem diferentes daquelas nas quais
+  os dados de desempenho foram baseados, a conformidade é determinada por interpolação ou
+  por computação dos efeitos da mudança nas variáveis específicas, desde que os resultados
+  da interpolação ou computação sejam substancialmente tão precisos quanto os resultados de
+  ensaios em voo.
+keywords:
+- taxi-aereo
+- operacoes
+- computacao
+- conformidade
+- dados
+- desempenho
+- interpolacao
+- resultados
+- aplicam
+- aviao
+- baseados
+- condicoes
+- daquelas
+- desde
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

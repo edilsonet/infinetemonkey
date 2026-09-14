@@ -1,0 +1,35 @@
+id: rbac-rbac-90-90-383-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.383'
+section_title: Condições suplementares para transporte de artigos perigosos como carga externa
+subsection_id: d
+cite: 90.383(d)
+title: 90.383(d)
+text: (d) A UAP, a tripulação e outras pessoas com função a bordo deverão gerenciar e mitigar
+  os riscos associados à eletricidade estática durante o processo de carregamento (engate
+  ou desengate) da carga externa perigosa de natureza inflamável, explosiva ou ainda aqueles
+  associados à radiação (RADHAZ), uma vez que as transmissões de rádio de alta frequência
+  (HF) da aeronave podem afetar o acionamento elétrico de alguns explosivos (EEDS) ou ainda
+  dos mecanismos de alguns armamentos.
+keywords:
+- regras-de-voo
+- operacoes
+- alguns
+- associados
+- carga
+- externa
+- acionamento
+- aeronave
+- afetar
+- alta
+- aqueles
+- armamentos
+- artigos
+- bordo
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

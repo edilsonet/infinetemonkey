@@ -1,0 +1,53 @@
+id: rbac-rbac-135-135-150-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.150'
+section_title: Sistemas de aviso aos passageiros e de interfone para os tripulantes
+subsection_id: a
+cite: 135.150(a)
+title: 135.150(a)
+text: '(a) um sistema de avisos aos passageiros que:
+
+  (1) seja capaz de operar independentemente do sistema de interfone para os tripulantes requerido
+  pelo parágrafo (b) desta seção, exceto quanto a microfones, fones, monofones, interruptores
+  seletores e dispositivos de sinalização;
+
+  (2) seja aprovado em conformidade com a seção 21.305 do RBAC nº 21;
+
+  (3) seja accessível para uso imediato de cada uma das duas posições de pilotagem da cabine
+  de comando;
+
+  (4) para cada saída de emergência exigida ao nível do assoalho que tenha adjacentemente
+  a ela um assento para comissário, possua um microfone prontamente acessível ao comissário
+  sentado, exceto quando um único microfone puder servir a mais de uma saída e que a proximidade
+  entre as saídas permita comunicação verbal não assistida entre os comissários sentados;
+
+  (5) seja capaz de entrar em operação dentro de 10 segundos em cada um dos postos de comissário
+  na cabine de passageiros nos quais é acessível para uso;
+
+  (6) seja audível em todos os assentos para passageiros, lavatórios, assentos para comissários
+  e nos postos de trabalho dos comissários; e
+
+  (7) para aviões categoria transporte fabricados em, ou após, 27 de novembro de 1990, atenda
+  aos requisitos da seção 25.1423 do RBAC nº 25.'
+keywords:
+- taxi-aereo
+- operacoes
+- seja
+- passageiros
+- cada
+- comissario
+- comissarios
+- secao
+- acessivel
+- assentos
+- cabine
+- capaz
+- exceto
+- interfone
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

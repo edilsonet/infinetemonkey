@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-221-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.221'
+section_title: Programa de Controle de Qualidade AVSEC do Aeródromo (PCQ/AVSEC)
+subsection_id: a
+cite: 107.221(a)
+title: 107.221(a)
+text: (a) O operador de aeródromo deve elaborar, implementar e manter um Programa de Controle
+  de Qualidade AVSEC (PCQ/AVSEC) com o objetivo de conduzir as atividades de controle de qualidade
+  AVSEC de forma padronizada, eficiente e segura.
+keywords:
+- seguranca
+- aeroporto
+- avsec
+- controle
+- qualidade
+- aerodromo
+- programa
+- atividades
+- conduzir
+- eficiente
+- elaborar
+- forma
+- implementar
+- manter
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

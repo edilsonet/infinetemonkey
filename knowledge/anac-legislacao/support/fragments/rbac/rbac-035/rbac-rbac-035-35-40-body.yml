@@ -1,0 +1,57 @@
+id: rbac-rbac-035-35-40-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.40'
+section_title: '35.40'
+subsection_id: body
+cite: '35.40'
+title: '35.40'
+text: '35.40
+
+  Ensaio funcional
+
+
+  O sistema de hélice de passo variável deve
+
+  ser submetido aos ensaios funcionais aplicáveis
+
+  desta seção. O mesmo sistema de hélice usado
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 35
+
+
+  the endurance test (section 35.39 of this RBAC)
+
+  must be used in the functional tests and must be
+
+  driven by a representative engine on a test stand
+
+  or on an airplane. The propeller must complete
+
+  these tests without evidence of failure or
+
+  malfunction. This test may be combined with
+
+  the endurance test for accumulation of cycles.'
+keywords:
+- helices
+- aeronavegabilidade
+- test
+- must
+- endurance
+- helice
+- sistema
+- tests
+- this
+- accumulation
+- agosto
+- airplane
+- aplicaveis
+- combined
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

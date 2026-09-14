@@ -1,0 +1,22 @@
+id: rbac-rbac-135-a135-11-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.11
+section_title: Requisitos da célula - cargas em voo
+subsection_id: body
+cite: A135.11
+title: Requisitos da célula - cargas em voo
+text: A135.11 Requisitos da célula - cargas em voo
+keywords:
+- taxi-aereo
+- operacoes
+- cargas
+- celula
+- requisitos
+- a135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

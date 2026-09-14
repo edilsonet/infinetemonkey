@@ -1,0 +1,41 @@
+id: rbac-rbac-21-21-142-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.142'
+section_title: Registro de limitações de produção
+subsection_id: body
+cite: '21.142'
+title: Registro de limitações de produção
+text: '21.142 Registro de limitações de produção
+
+  A ANAC emite o registro de limitação de produção como parte de um certificado de organização
+  de produção. O registro lista o número do documento de aprovação do projeto, o acordo de
+  licença (caso aplicável), a data do certificado de organização de produção e o modelo de
+  cada produto que o detentor do certificado de organização de produção está autorizado a
+  fabricar, e identifica todos os componentes de interface que o detentor de certificado de
+  organização de produção está autorizado a fabricar e instalar de acordo com este regulamento.
+
+  (Redação dada pela Resolução nº 495, de 14.11.2018)'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- producao
+- registro
+- certificado
+- organizacao
+- limitacoes
+- acordo
+- autorizado
+- detentor
+- fabricar
+- aplicavel
+- aprovacao
+- cada
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-133-133-21-c
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.21'
+section_title: Pessoal
+subsection_id: c
+cite: 133.21(c)
+title: 133.21(c)
+text: '(c) O detentor de uma autorização para operações com cargas externas deve informar
+  à ANAC
+
+  qualquer mudança na designação do piloto-chefe ou dos pilotos assistentes. Um novo piloto-chefe
+
+  deve ser designado e deve estar em condições de atender ao estabelecido na seção 133.23
+  dentro de
+
+  30 dias, sob pena de o operador não poder mais conduzir operações sob a autorização para
+  operação
+
+  com cargas externas (a menos que de outra forma autorizado pela ANAC).'
+keywords:
+- carga-externa
+- helicoptero
+- autorizacao
+- cargas
+- chefe
+- externas
+- operacoes
+- piloto
+- assistentes
+- atender
+- autorizado
+- condicoes
+- conduzir
+- dentro
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

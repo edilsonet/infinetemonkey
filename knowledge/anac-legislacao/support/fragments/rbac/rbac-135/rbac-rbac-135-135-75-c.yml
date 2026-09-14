@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-75-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.75'
+section_title: 'Assento dianteiro do observador: admissão à cabine de pilotos: credencial
+  de servidor designado pela ANAC'
+subsection_id: c
+cite: 135.75(c)
+title: 135.75(c)
+text: '(c) Uma pessoa só pode ocupar o assento para observador na cabine de pilotos durante
+  decolagens e pousos se essa pessoa for:
+
+  (1) um servidor designado pela ANAC em verificação de piloto ou de procedimentos de operação;
+
+  (2) um controlador de tráfego aéreo, devidamente autorizado pela ANAC e pelo detentor de
+  certificado, observando procedimentos de controle de tráfego;
+
+  (3) um tripulante do detentor de certificado devidamente qualificado;
+
+  (4) um tripulante de outro detentor de certificado, devidamente qualificado, autorizado
+  pelo detentor de certificado operador da aeronave a fazer viagens específicas em uma rota;
+  ou
+
+  (5) um representante técnico do fabricante da aeronave ou de seus componentes cujas obrigações
+  estejam diretamente relacionadas com o acompanhamento em voo de equipamentos ou de procedimentos
+  operacionais, desde que sua presença na cabine de voo seja indispensável para o cumprimento
+  de suas obrigações e que tenha autorização escrita do supervisor responsável, listado no
+  manual geral da empresa do detentor de certificado como tendo essa autoridade.'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- detentor
+- cabine
+- devidamente
+- procedimentos
+- aeronave
+- assento
+- autorizado
+- designado
+- obrigacoes
+- observador
+- pessoa
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

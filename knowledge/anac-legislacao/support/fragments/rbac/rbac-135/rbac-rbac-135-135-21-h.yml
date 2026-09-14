@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-21-h
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.21'
+section_title: Requisitos do manual geral da empresa
+subsection_id: h
+cite: 135.21(h)
+title: 135.21(h)
+text: (h) Se um detentor de certificado conduzir inspeções ou manutenção de aeronaves em bases
+  específicas onde ele mantém partes do manual geral da empresa com o programa de inspeções
+  aprovado, ele não precisa transportar essas partes do manual a bordo de aeronaves em rota
+  para essas bases.
+keywords:
+- taxi-aereo
+- operacoes
+- manual
+- aeronaves
+- bases
+- empresa
+- essas
+- geral
+- inspecoes
+- partes
+- aprovado
+- bordo
+- certificado
+- conduzir
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

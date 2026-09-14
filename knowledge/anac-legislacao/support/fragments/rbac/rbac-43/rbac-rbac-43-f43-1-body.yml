@@ -1,0 +1,59 @@
+id: rbac-rbac-43-f43-1-body
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: body
+cite: F43.1
+title: Testes e inspeções no transponder
+text: 'F43.1 Testes e inspeções no transponder
+
+
+  Os testes de transponder requeridos pela seção 91.413 do RBAC nº 91 podem ser conduzidos
+
+  usando um banco de testes ou equipamento portátil de teste e devem atender aos requisitos
+
+  estabelecidos nos parágrafos (a) até (j) deste apêndice. Se for usado equipamento portátil
+  de teste
+
+  com apropriado acoplamento ao sistema de antena da aeronave, operar o equipamento de teste
+  para
+
+  transponders ATCRBS (Air Traffic Control Radio Beacon System) a uma razão nominal de 235
+
+  interrogações por segundo para evitar possíveis interferências com o sistema de controle
+  do tráfego
+
+  aéreo. Operar o equipamento de teste do Mode S a uma razão nominal de 50 interrogações Mode
+  S
+
+  por segundo. Uma perda adicional de 3 dB é aceitável, para compensar possíveis erros de
+
+  acoplamento de antena durante as medidas de sensibilidade do receptor conduzidas de acordo
+  com o
+
+  parágrafo (c)(1) deste apêndice usando equipamento portátil. (Redação dada pela Resolução
+  nº 612,
+
+  de 09.03.2021)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- equipamento
+- testes
+- teste
+- transponder
+- inspecoes
+- portatil
+- acoplamento
+- antena
+- apendice
+- deste
+- interrogacoes
+- mode
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

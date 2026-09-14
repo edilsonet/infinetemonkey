@@ -1,0 +1,50 @@
+id: rbac-rbac-23-23-2110-body
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2110'
+section_title: Velocidade de estol.
+subsection_id: body
+cite: '23.2110'
+title: Velocidade de estol.
+text: '23.2110 Velocidade de estol.
+
+  O requerente deve determinar a velocidade de
+
+  estol do avião ou a velocidade mínima de voo
+
+  estabilizado para cada configuração de voo
+
+  utilizada durante operações normais da aerona-
+
+  ve, incluindo decolagem, subida, cruzeiro, des-
+
+  cida, aproximação e pouso. A determinação da
+
+  velocidade de estol ou da velocidade mínima
+
+  de voo estabilizado deve levar em conta as
+
+  condições mais adversas de cada configuração
+
+  de voo com potência configurada em:'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- velocidade
+- estol
+- cada
+- configuracao
+- estabilizado
+- minima
+- adversas
+- aerona
+- aproximacao
+- aviao
+- cida
+- condicoes
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

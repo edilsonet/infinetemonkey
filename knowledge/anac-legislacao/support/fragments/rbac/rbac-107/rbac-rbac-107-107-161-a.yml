@@ -1,0 +1,41 @@
+id: rbac-rbac-107-107-161-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.161'
+section_title: Aceitação da Carga e Mala Postal
+subsection_id: a
+cite: 107.161(a)
+title: 107.161(a)
+text: '(a) No terminal de carga cuja operação de aceitação da carga ou mala postal estiver
+  sob a responsabilidade do operador de aeródromo, este deve:
+
+  (1) exigir informações documentadas, física ou eletronicamente, suficientes para caracterizar
+  o volume a ser recebido e processado, como carga conhecida ou carga desconhecida;
+
+  (2) verificar as condições do volume a ser recebido, de forma a garantir que os volumes
+  com indícios de violação ou adulteração sejam identificados, notificados e negados para
+  embarque; e
+
+  (3) processar os volumes recebidos através de fluxos segregados, em função da sua caracterização
+  em carga conhecida ou desconhecida, evitando a contaminação dos volumes de carga.'
+keywords:
+- seguranca
+- aeroporto
+- carga
+- volumes
+- aceitacao
+- conhecida
+- desconhecida
+- mala
+- postal
+- recebido
+- volume
+- adulteracao
+- aerodromo
+- atraves
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

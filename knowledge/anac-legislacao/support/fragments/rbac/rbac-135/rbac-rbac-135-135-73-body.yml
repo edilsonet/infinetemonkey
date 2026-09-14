@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-73-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.73'
+section_title: Inspeções e exames da ANAC
+subsection_id: body
+cite: '135.73'
+title: Inspeções e exames da ANAC
+text: '135.73 Inspeções e exames da ANAC
+
+  O detentor de certificado e cada pessoa a ele vinculada deve permitir, a qualquer tempo,
+  que a ANAC faça inspeções ou exames (incluindo voo de acompanhamento) para verificar a conformidade
+  do detentor com o Código Brasileiro de Aeronáutica, com os RBAC aplicáveis e com o seu certificado
+  de certificação e suas especificações operativas.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- exames
+- inspecoes
+- certificado
+- detentor
+- acompanhamento
+- aeronautica
+- aplicaveis
+- brasileiro
+- cada
+- certificacao
+- codigo
+- conformidade
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

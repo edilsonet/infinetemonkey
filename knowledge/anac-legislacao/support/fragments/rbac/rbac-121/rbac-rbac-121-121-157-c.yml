@@ -1,0 +1,54 @@
+id: rbac-rbac-121-121-157-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.157'
+section_title: Requisitos de certificação dos aviões
+subsection_id: c
+cite: 121.157(c)
+title: 121.157(c)
+text: '(c) Aviões tipo C-46: Nenhum detentor de certificado pode operar um avião C-46 em operações
+  transportando passageiros, a menos que esse avião seja operado de acordo com as limitações
+  operacionais para aviões categoria transporte e atenda aos requisitos do parágrafo (b) desta
+  seção ou atenda aos requisitos da Part 4b do “Civil Air Regulation”, dos Estados Unidos
+  da América, efetiva em 20 de julho de 1950 e os requisitos de 121.173(a), (b), (d) e (e),
+  exceto que:
+
+  (1) os requisitos das seções 4b.0 até 4b.19, efetivas em 18 de maio de 1954 devem ser atendidos;
+
+  (2) os requisitos de para-brisas à prova de pássaros da seção 4b.352 não precisam ser atendidos;
+
+  (3) as provisões das seções 4b.480 até 4b.490 (exceto 4b.484(a)(1) e 4b.487(e), efetivas
+  em 20 de julho de 1953, devem ser atendidas; e
+
+  (4) as provisões do parágrafo 4b.484(a)(1), efetivas em 20 de julho de 1950, devem ser atendidas.
+
+  Na determinação da trajetória de decolagem de acordo com a seção 4b.116 e da subida com
+  um motor inoperante de acordo com a seção 4b.120(a) e (b), pode-se assumir que a hélice
+  do motor inoperante está embandeirada se o avião for equipado com um meio aprovado para
+  indicar, automaticamente, a falha de um particular motor ou com um meio aprovado para, automaticamente,
+  embandeirar a hélice do motor inoperante. A ANAC pode autorizar desvios de conformidade
+  com as seções 4b.130 até 4b.190 e com as subpartes C, D, E e F da Part 4b ( como designada
+  neste parágrafo) se for considerado que (considerando o efeito de mudanças no projeto) a
+  conformidade é extremamente difícil de ser conseguida e a experiência em serviço com aviões
+  C-46 justifica os desvios.'
+keywords:
+- transporte-aereo
+- operacoes
+- requisitos
+- avioes
+- motor
+- secao
+- acordo
+- aviao
+- efetivas
+- inoperante
+- julho
+- paragrafo
+- pode
+- secoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,49 @@
+id: rbac-rbac-145-145-221-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.221'
+section_title: Relatórios de dificuldade em serviço
+subsection_id: b
+cite: 145.221(b)
+title: 145.221(b)
+text: '(b) O relatório requerido pelo parágrafo (a) desta seção deve incluir, tanto quanto
+  disponível, as
+
+  seguintes informações:
+
+  (1) marcas de nacionalidade e matrícula da aeronave;
+
+  (2) tipo, fabricante, modelo e número de série ou lote do artigo;
+
+  (3) data da constatação do evento;
+
+  (4) natureza do evento;
+
+  (5) tempo desde a última revisão geral, se aplicável;
+
+  (6) causa aparente do evento; e
+
+  (7) outras informações pertinentes, necessárias a uma identificação mais completa,
+
+  determinação da gravidade ou ação corretiva.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- evento
+- informacoes
+- acao
+- aeronave
+- aparente
+- aplicavel
+- artigo
+- causa
+- completa
+- constatacao
+- corretiva
+- data
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,43 @@
+id: rbac-rbac-91-91-207-i
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.207'
+section_title: Transmissores localizadores de emergência (ELT) e Personal Locator Beacon (PLB)
+subsection_id: i
+cite: 91.207(i)
+title: 91.207(i)
+text: '(i) somente é permitido operar o avião se os registros de manutenção contiverem a data
+  de
+
+  remoção, o fabricante, o modelo, o número de série e as razões pelas quais o ELT foi removido
+  e que
+
+  haja, à vista do piloto em comando, uma placa informando que o ELT não está instalado; e
+
+  (ii) é vedado operar o avião se o ELT permanecer removido por mais de 90 dias
+
+  consecutivos. Nos aviões em que é requerido possuir mais de um ELT, somente um deles pode
+  ser
+
+  removido do avião por vez segundo as disposições deste parágrafo.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aviao
+- removido
+- operar
+- somente
+- avioes
+- beacon
+- comando
+- consecutivos
+- contiverem
+- data
+- deles
+- deste
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

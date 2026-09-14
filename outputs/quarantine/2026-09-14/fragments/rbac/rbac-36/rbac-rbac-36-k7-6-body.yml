@@ -1,0 +1,34 @@
+id: rbac-rbac-36-k7-6-body
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K7.6
+section_title: The tiltrotor airspeed must not vary from the reference airspeed appropriate
+  to the flight
+subsection_id: body
+cite: K7.6
+title: The tiltrotor airspeed must not vary from the reference airspeed appropriate to the
+  flight
+text: 'K7.6 The tiltrotor airspeed must not vary from the reference airspeed appropriate to
+  the flight
+
+  demonstration by more than 5 kts (9 km/h) throughout the 10 dB-down time interval.'
+keywords:
+- ruido
+- meio-ambiente
+- airspeed
+- appropriate
+- flight
+- from
+- must
+- reference
+- tiltrotor
+- vary
+- demonstration
+- down
+- interval
+- more
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-101-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 90.101(d)
+title: 90.101(d)
+text: (d) Os programas de treinamento e a MEL serão aprovados pela ANAC, respectivamente segundo
+  a seção 90.155 e a seção 90.87 deste Regulamento. As demais publicações deverão ser aprovadas
+  apenas pelo gestor da UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- secao
+- aprovadas
+- aprovados
+- demais
+- deste
+- deverao
+- gerais
+- gestor
+- programas
+- publicacoes
+- regulamento
+- requisitos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-91-91-229-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.229'
+section_title: Requisitos dos equipamentos eletrônicos de bordo
+subsection_id: a
+cite: 91.229(a)
+title: 91.229(a)
+text: '(a) Todos os equipamentos eletrônicos de bordo requeridos por este Regulamento e pelos
+
+  regulamentos operacionais de operadores certificados segundo o RBAC nº 119 que recebem e/ou
+
+  transmitem sinais rádio de/para órgãos ATS, de meteorologia e de busca e salvamento devem
+  atender
+
+  às regras e especificações estabelecidas pelo DECEA.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- bordo
+- eletronicos
+- equipamentos
+- atender
+- busca
+- certificados
+- decea
+- especificacoes
+- estabelecidas
+- meteorologia
+- operacionais
+- operadores
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

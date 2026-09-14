@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-151-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.151'
+section_title: Gravador de voz na cabine
+subsection_id: d
+cite: 135.151(d)
+title: 135.151(d)
+text: (d) Para aquelas aeronaves equipadas para gravar ininterruptamente sinais de áudio recebidos
+  por um labiofone ou um microfone de máscara, é requerido que os tripulantes de voo usem
+  o labiofone abaixo de 18.000 pés acima do nível médio do mar. Somente é permitido operar
+  um grande avião com motores a turbina fabricado após 11 de outubro de 1991, ou no qual um
+  gravador de voz tenha sido instalado após 11 de outubro de 1995, se o avião estiver equipado
+  para gravar ininterruptamente os sinais de áudio recebidos por um labiofone ou um microfone
+  de máscara, de acordo com o parágrafo 25.1457(c)(5) do RBAC nº 25.
+keywords:
+- taxi-aereo
+- operacoes
+- labiofone
+- audio
+- aviao
+- gravador
+- gravar
+- ininterruptamente
+- mascara
+- microfone
+- outubro
+- recebidos
+- sinais
+- abaixo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

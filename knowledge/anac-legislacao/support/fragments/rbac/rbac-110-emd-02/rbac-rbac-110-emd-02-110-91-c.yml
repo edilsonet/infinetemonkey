@@ -1,0 +1,33 @@
+id: rbac-rbac-110-emd-02-110-91-c
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.91'
+section_title: Fiscalização da ANAC
+subsection_id: c
+cite: 110.91(c)
+title: 110.91(c)
+text: (c) O centro de instrução, a organização com responsabilidade AVSEC e o profissional
+  com certificação AVSEC prevista neste Regulamento devem disponibilizar todo e qualquer registro
+  de instrução ou certificação requerido pela ANAC para fins de comprovação ou verificação
+  de cumprimento dos requisitos normativos.
+keywords:
+- carga
+- operacoes
+- avsec
+- certificacao
+- instrucao
+- centro
+- comprovacao
+- cumprimento
+- disponibilizar
+- fins
+- fiscalizacao
+- normativos
+- organizacao
+- profissional
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

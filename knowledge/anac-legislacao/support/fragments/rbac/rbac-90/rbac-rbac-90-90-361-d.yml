@@ -1,0 +1,65 @@
+id: rbac-rbac-90-90-361-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.361'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 90.361(d)
+title: 90.361(d)
+text: '(d) As operações especiais de aviação pública realizadas com aeronaves a distâncias
+  reduzidas só poderão ser realizadas se:
+
+  (1) as aeronaves envolvidas na operação forem registradas segundo a seção 90.81 deste Regulamento;
+
+  (2) houver uma distância de separação vertical e horizontal segura;
+
+  (3) sob VMC;
+
+  (4) a tripulação e outras pessoas com função a bordo estiverem devidamente treinadas para
+  este tipo de operação;
+
+  (5) forem empregadas as técnicas adequadas de CRM;
+
+  (6) forem mitigados os riscos de colisão entre as aeronaves;
+
+  (7) forem mitigados os riscos relacionados à esteira de turbulência das aeronaves;
+
+  (8) forem mitigados os riscos relacionados ao tipo de terreno, iluminação, hora do dia,
+  localização do sol, visibilidade, fumaça, comunicação bilateral, etc.;
+
+  (9) para operação com helicópteros, seja estebelecida distância de separação horizontal
+  segura entre eles. Este valor poderá ser aumentado dependendo do tipo de operação e do tempo
+  de exposição;
+
+  (10) somente os envolvidos na operação estiverem a bordo;
+
+  (11) as aeronaves possuírem rádio instalado para comunicação bilateral;
+
+  (12) estiverem em conformidade com os SOP e o MOP da UAP;
+
+  (13) for realizado
+
+  briefing
+
+  de segurança com todos os envolvidos incluindo, no mínimo os seguintes assuntos:'
+keywords:
+- regras-de-voo
+- operacoes
+- aeronaves
+- forem
+- operacao
+- estiverem
+- mitigados
+- riscos
+- tipo
+- bilateral
+- bordo
+- comunicacao
+- distancia
+- envolvidos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

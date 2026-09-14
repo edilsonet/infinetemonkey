@@ -1,0 +1,31 @@
+id: rbac-rbac-43-f43-1-k
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: k
+cite: F43.1(k)
+title: F43.1(k)
+text: '(k) Registros. Atender à seção 43.9 do RBAC 43 no que diz respeito ao conteúdo, forma
+  e
+
+  disposição dos registros de manutenção.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- registros
+- atender
+- conteudo
+- disposicao
+- forma
+- inspecoes
+- respeito
+- secao
+- testes
+- transponder
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

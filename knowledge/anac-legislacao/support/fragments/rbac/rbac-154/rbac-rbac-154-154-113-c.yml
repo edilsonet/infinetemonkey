@@ -1,0 +1,37 @@
+id: rbac-rbac-154-154-113-c
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.113'
+section_title: Ponto de teste de altímetro antes do voo
+subsection_id: c
+cite: 154.113(c)
+title: 154.113(c)
+text: '(c) A elevação de um ponto de teste de altímetro antes do voo deve ser dada como a
+  elevação
+
+  média, arredondada com precisão de um metro (ou um pé), da área na qual esse ponto se encontra.
+  A
+
+  elevação de qualquer porção de um ponto de teste de altímetro antes do voo deve estar dentro
+  de 3 m
+
+  da elevação média desse ponto.'
+keywords:
+- seguranca-aeroportuaria
+- ponto
+- elevacao
+- altimetro
+- teste
+- media
+- area
+- arredondada
+- dada
+- dentro
+- desse
+- encontra
+- estar
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

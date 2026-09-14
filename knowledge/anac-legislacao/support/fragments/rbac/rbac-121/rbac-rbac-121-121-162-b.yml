@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-162-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.162'
+section_title: Base de aprovação de tipo para operações ETOPS
+subsection_id: b
+cite: 121.162(b)
+title: 121.162(b)
+text: (b) aviões bimotores cuja combinação avião-motor não tenha recebido a aprovação da ANAC
+  para ETOPS até 180 minutos antes de 15 de fevereiro de 2007, o documento CMP para aquela
+  nova combinação avião-motor emitida de acordo com a seção 25.3(b)(1) do RBAC 25.
+keywords:
+- transporte-aereo
+- operacoes
+- aprovacao
+- aviao
+- combinacao
+- etops
+- motor
+- acordo
+- aquela
+- avioes
+- base
+- bimotores
+- cuja
+- documento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,112 @@
+id: rbac-rbac-23-23-1459-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.1459'
+section_title: Gravadores de dados de voo.
+subsection_id: b
+cite: 23.1459(b)
+title: 23.1459(b)
+text: '(b) Each non-ejectable record container must
+
+  be located and mounted so as to minimize the
+
+  probability of container rupture resulting from
+
+  crash impact and subsequent damage to the
+
+  record from fire. In meeting this requirement,
+
+  the record container must be located as far aft
+
+  as practicable, but need not be aft of the pres-
+
+  surized compartment, and may not be where
+
+  aft-mounted engines may crush the container
+
+  ramento que fornece a máxima confiabilidade
+
+  para o funcionamento do gravador de dados de
+
+  voo sem comprometer o fornecimento de ali-
+
+  mentação elétrica aos equipamentos essenciais
+
+  ou de emergência;
+
+  (ii) Permaneça alimentado durante o maior
+
+  tempo possível sem comprometer a operação
+
+  em emergência do avião;
+
+  (4) Exista uma meio aural ou visual para a veri-
+
+  ficação pré-voo do gravador quanto à adequada
+
+  gravação de dados no dispositivo de armaze-
+
+  namento;
+
+  (5) Exceto para os gravadores alimentados uni-
+
+  camente pelo sistema de geração elétrica do
+
+  motor, exista um meio automático para parar
+
+  simultaneamente um gravador que possua re-
+
+  curso de apagamento de dados e evitar o funci-
+
+  onamento de cada função de apagamento, den-
+
+  tro de 10 minutos após o impacto;
+
+  (6) Qualquer falha elétrica simples externa ao
+
+  gravador não desative conjuntamente o grava-
+
+  dor de voz da cabine e o gravador de dados de
+
+  voo; e
+
+  (7) Esteja em um receptáculo separado do gra-
+
+  vador de voz da cabine de comando quando
+
+  ambos forem requeridos. Se usado para cum-
+
+  prir apenas os requisitos de gravação de dados
+
+  de voo, uma unidade combinada pode ser insta-
+
+  lada. Se uma unidade combinada estiver insta-
+
+  lada como gravador de voz da cabine para
+
+  cumprir o parágrafo 23.1457(e)(2), uma unida-
+
+  de combinada deve ser usada para cumprir este
+
+  requisito de gravadores de dados de voo.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- dados
+- gravador
+- container
+- cabine
+- combinada
+- eletrica
+- gravadores
+- record
+- apagamento
+- comprometer
+- cumprir
+- emergencia
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

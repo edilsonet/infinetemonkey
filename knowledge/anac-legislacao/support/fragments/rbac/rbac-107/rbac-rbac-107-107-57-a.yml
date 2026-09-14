@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-57-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.57'
+section_title: Áreas Controladas e Áreas Restritas de Segurança
+subsection_id: a
+cite: 107.57(a)
+title: 107.57(a)
+text: '(a) As áreas delimitadas pelo perímetro operacional (lado ar) devem ser classificadas
+  em Áreas Controladas (AC) ou Áreas Restritas de Segurança (ARS), de acordo com a avaliação
+  de risco realizada pelo operador de aeródromo.
+
+  (1) As áreas do lado ar de um aeródromo, avaliadas com grau de risco prioritário, devem
+  ser classificadas como ARS, devendo incluir, pelo menos, os pátios de aeronaves utilizados
+  pela aviação comercial regular ou operação charter, áreas de embarque de passageiros entre
+  o ponto de inspeção e a aeronave, áreas de manuseio e armazenamento de bagagens, áreas de
+  manuseio e armazenamento de carga e mala postal conhecidos, de provisões, de materiais de
+  limpeza ou de outros suprimentos a serem direcionados às aeronaves da aviação comercial
+  regular ou operação charter.
+
+  (2) As demais áreas do lado ar, avaliadas com grau de risco não prioritário, devem ser classificadas
+  como AC.'
+keywords:
+- seguranca
+- aeroporto
+- areas
+- classificadas
+- lado
+- risco
+- aerodromo
+- aeronaves
+- armazenamento
+- avaliadas
+- aviacao
+- charter
+- comercial
+- controladas
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

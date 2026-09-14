@@ -1,0 +1,50 @@
+id: rbac-rbac-031-31-12-a
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.12'
+section_title: '31.12'
+subsection_id: a
+cite: 31.12(a)
+title: 31.12(a)
+text: '(a) Cada requisito deste RBAC deve ser cumprido
+
+  para cada peso, dentro dos limites das condições de
+
+  carregamento, para o qual a certificação é requerida.
+
+  Isto deve ser demonstrado por meio de:
+
+
+  (1) Ensaios em um balão do tipo para o qual a certi-
+
+  ficação é requerida, ou por cálculos baseados em, e
+
+  iguais em precisão a, resultados de ensaios; e
+
+
+  (2) Investigação sistemática de cada peso, se o
+
+  cumprimento não puder ser razoavelmente deduzido
+
+  dos pesos investigados.'
+keywords:
+- aeronavegabilidade
+- baloes
+- cada
+- ensaios
+- peso
+- qual
+- requerida
+- balao
+- baseados
+- calculos
+- carregamento
+- certi
+- certificacao
+- condicoes
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-127-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.127'
+section_title: Requisitos de avisos aos passageiros e proibição de fumar a bordo
+subsection_id: d
+cite: 135.127(d)
+title: 135.127(d)
+text: (d) É vedado obstruir, desligar ou destruir um detector de fumaça instalado no lavatório
+  de uma aeronave.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- avisos
+- bordo
+- desligar
+- destruir
+- detector
+- fumaca
+- fumar
+- instalado
+- lavatorio
+- obstruir
+- passageiros
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

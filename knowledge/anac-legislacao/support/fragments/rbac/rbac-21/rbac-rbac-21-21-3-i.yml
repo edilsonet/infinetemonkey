@@ -1,0 +1,39 @@
+id: rbac-rbac-21-21-3-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.3'
+section_title: Comunicação de falhas, mau funcionamento e defeitos
+subsection_id: i
+cite: 21.3(i)
+title: 21.3(i)
+text: '(i) tenha determinado que foi provocado por manutenção imprópria ou uso impróprio;
+
+  (ii) saiba já ter sido comunicado à ANAC por outra pessoa; ou
+
+  (iii) saiba já ter sido comunicado ao órgão de investigação de acidente aeronáutico devido
+  à ocorrência de um acidente aeronáutico.
+
+  (2) falhas, mau funcionamento ou defeitos em produtos ou artigos:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- acidente
+- aeronautico
+- comunicado
+- defeitos
+- falhas
+- funcionamento
+- saiba
+- artigos
+- comunicacao
+- determinado
+- devido
+- impropria
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

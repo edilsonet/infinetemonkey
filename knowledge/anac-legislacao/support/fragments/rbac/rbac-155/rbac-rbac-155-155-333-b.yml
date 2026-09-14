@@ -1,0 +1,55 @@
+id: rbac-rbac-155-155-333-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.333'
+section_title: '155.333'
+subsection_id: b
+cite: 155.333(b)
+title: 155.333(b)
+text: '(b)
+
+  A sinalização horizontal de orientação de alinhamento de trajetória de voo consiste de uma
+  ou mais setas indicadas na superfície da FATO, conforme Figura 155.333-1.
+
+  (1)
+
+  Caso a superfície seja empregada para aproximação e saída de helicópteros, consistirá de
+  duas setas com a mesma direção e sentidos opostos. O eixo médio das direções destas setas
+  coincidirá com o eixo da superfície de aproximação e de saída. A seta da esquerda sempre
+  deve apontar para a região central da TLOF, considerando um observador localizado fora da
+  FATO em um procedimento de aproximação.
+
+  (2)
+
+  Caso a superfície seja empregada apenas para aproximação de helicópteros, consistirá de
+  uma seta apontando para a parte central da TLOF. A direção desta seta coincidirá com o eixo
+  da superfície de aproximação final.
+
+  (3)
+
+  Caso a superfície seja empregada apenas para saída de helicópteros, consistirá de uma seta
+  apontando para a parte externa à FATO. A direção desta seta coincidirá com o eixo da superfície
+  de saída.
+
+  Figura 155.333-1 - Exemplo
+
+  de sinalização horizontal de orientação de alinhamento de trajetória de voo'
+keywords:
+- seguranca-aeroportuaria
+- superficie
+- aproximacao
+- seta
+- eixo
+- saida
+- caso
+- coincidira
+- consistira
+- direcao
+- empregada
+- fato
+- helicopteros
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

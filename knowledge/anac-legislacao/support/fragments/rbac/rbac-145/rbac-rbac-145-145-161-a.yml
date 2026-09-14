@@ -1,0 +1,53 @@
+id: rbac-rbac-145-145-161-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.161'
+section_title: Registros do pessoal de administração, supervisão e inspeção
+subsection_id: a
+cite: 145.161(a)
+title: 145.161(a)
+text: '(a) Cada organização de manutenção certificada deve manter disponível para a ANAC:
+
+  (1) uma lista do pessoal de administração e supervisão, com os nomes dos representantes
+  da
+
+  organização de manutenção que são responsáveis por sua administração e com os nomes dos
+
+  supervisores que monitoram as funções de manutenção;
+
+  (2) uma lista dos nomes de todo pessoal de inspeção;
+
+  (3) uma lista do pessoal autorizado a aprovar para retorno ao serviço um artigo que passou
+  por
+
+  manutenção, manutenção preventiva ou alteração; e
+
+  (4) um sumário histórico de trabalho de cada pessoa cujo nome está nas listas de pessoal
+
+  requeridas pelos parágrafos (a)(1) a (a)(3) desta seção. O sumário deve conter informações
+  de cada
+
+  pessoa listada, suficientes para demonstrar cumprimento com os requisitos de experiência
+  deste
+
+  RBAC, e deve incluir o seguinte:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- pessoal
+- administracao
+- cada
+- lista
+- nomes
+- inspecao
+- organizacao
+- pessoa
+- sumario
+- supervisao
+- alteracao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

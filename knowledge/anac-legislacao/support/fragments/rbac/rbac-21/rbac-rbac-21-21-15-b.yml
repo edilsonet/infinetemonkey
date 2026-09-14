@@ -1,0 +1,33 @@
+id: rbac-rbac-21-21-15-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.15'
+section_title: Requerimento para certificado de tipo
+subsection_id: b
+cite: 21.15(b)
+title: 21.15(b)
+text: (b) O requerimento para obtenção de um certificado de tipo de aeronave deve ser acompanhado
+  do desenho das 3 (três) vistas da aeronave e dos dados básicos preliminares disponíveis
+  do respectivo projeto.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- certificado
+- requerimento
+- tipo
+- acompanhado
+- basicos
+- dados
+- desenho
+- disponiveis
+- obtencao
+- preliminares
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

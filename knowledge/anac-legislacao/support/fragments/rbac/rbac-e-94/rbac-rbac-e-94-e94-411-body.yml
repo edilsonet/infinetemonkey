@@ -1,0 +1,31 @@
+id: rbac-rbac-e-94-e94-411-body
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.411
+section_title: Projeto de RPAS Classe 1
+subsection_id: body
+cite: E94.411
+title: Projeto de RPAS Classe 1
+text: 'E94.411 Projeto de RPAS Classe 1
+
+  Os RPAS Classe 1 devem obter um Certificado de Tipo conforme o RBAC 21. O Certificado de
+  Tipo será emitido para a RPA, porém deverá englobar todo o RPAS, incluindo as interdependências
+  entre os seus componentes.'
+keywords:
+- rpas
+- classe
+- projeto
+- certificado
+- tipo
+- componentes
+- devera
+- emitido
+- englobar
+- incluindo
+- interdependencias
+- obter
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

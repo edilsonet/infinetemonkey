@@ -1,0 +1,170 @@
+id: rbac-rbac-154-apendice-d-do-rbac-154-d
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: apendice-d-do-rbac-154
+section_title: APÊNDICE D DO RBAC 154
+subsection_id: d
+cite: apendice-d-do-rbac-154(d)
+title: apendice-d-do-rbac-154(d)
+text: '(d) Caso um ponto de coordenadas fique no limite entre um caractere e o fundo, o ponto
+  de
+
+  coordenadas deve ser levemente deslocado de forma a ficar completamente fora do caractere.
+
+  NOTA 2 - Outros pontos de coordenadas podem ser necessários para garantir que cada caractere
+
+  inclua, no mínimo, cinco pontos de coordenadas igualmente espaçados.
+
+  NOTA 3 - Caso uma unidade inclua dois tipos de sinalizações verticais, uma coordenada separada
+
+  deve ser estabelecida para cada tipo.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AD-1. Pontos de coordenadas para calcular a luminância média de uma sinalização vertical
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AD-2. Formas dos caracteres (Alterado pela Resolução nº 465, de 13.03.2018)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AD-2 (cont.)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AD-2 (cont.)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AD-2 (cont.)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AD-2 (cont.)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Sinalização vertical de pista livre
+
+
+  Sinalização vertical de entrada proibida (“NO ENTRY”)
+
+
+  NOTA 1 - A largura do traço da flecha, o diâmetro do ponto e a largura e comprimento do
+  traço
+
+  devem ser proporcionais às larguras do traço do caractere.
+
+  NOTA 2 - As dimensões da flecha devem permanecer constantes para um tamanho específico de
+
+  sinalização vertical, independente da orientação.
+
+  H/2
+
+  H
+
+  H/2
+
+  SINALIZAÇÃO VERTICAL DE PISTA DE POUSO E DECOLAGEM LIVRE (com sinalização tipo de localização)
+
+  H
+
+  H
+
+  H
+
+  H/2
+
+  H
+
+  H/2
+
+  ENTRADA PROIBIDA
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Tabela AD-1. Larguras de números e letras e espaçamento entre números ou letras
+
+
+  INSTRUÇÕES
+
+  1. Para determinar o ESPAÇO adequado entre letras ou números, obtenha o código
+
+  a partir da tabela a ou b e relacione-o na tabela c à altura da letra ou número
+
+  desejado.
+
+  2. O espaço entre palavras ou grupos de caracteres que formam uma abreviação
+
+  ou símbolo deveria ser de 0,5 a 0,75 da altura dos caracteres usados, ressalvando-
+
+  se que, quando houver uma flecha com um único caractere, como “A→”, o espaço
+
+  pode ser reduzido para não menos que um quarto do caractere da altura para
+
+  proporcionar um bom equilíbrio visual.
+
+  3. Caso o numeral venha após uma letra ou vice-versa, utilize o código 1.
+
+  4. Caso um hífen, ponto ou barra venha após um caractere ou vice-versa, utilize o
+
+  código 1.
+
+  5. Para a sinalização vertical com indicativo de comprimento de pista de
+
+  decolagem, a altura da letra “m” minúscula é 75% do tamanho da altura do número
+
+  “0” precedente e deve ser espaçada em relação a este número de acordo com
+
+  código 1.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AD-3. Dimensões das placas de sinalização vertical (Alterado pela Resolução nº 628,
+  de
+
+  11.06.2021)
+
+
+  NOTA - “H” significa a altura da descrição. (Incluído pela Resolução nº 628, de 11.06.2021)
+
+
+  Data da emissão: 16 de junho de 2021.'
+keywords:
+- seguranca-aeroportuaria
+- data
+- emissao
+- junho
+- sinalizacao
+- caractere
+- figura
+- vertical
+- altura
+- coordenadas
+- nota
+- caso
+- codigo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

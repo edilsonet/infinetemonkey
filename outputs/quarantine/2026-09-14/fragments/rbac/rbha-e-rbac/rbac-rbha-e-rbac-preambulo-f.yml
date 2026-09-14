@@ -1,0 +1,44 @@
+id: rbac-rbha-e-rbac-preambulo-f
+kind: rbac
+document: rbha-e-rbac
+family: '1'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: f
+cite: preambulo(f)
+title: preambulo(f)
+text: '(f) Para aeronaves categoria primária, os requisitos são:
+
+  (1) os de aeronavegabilidade aplicáveis contidos nos RBAC 23, 27, 31, 33, 35 ou outros critérios
+  de aeronavegabilidade que a ANAC considerar aplic&aacaacute;veis e apropriados ao projeto
+  de tipo em questão, proporcionando à aeronave um nível de segurança aceitável; e
+
+  (2) os de ruído do RBAC 36 aplicáveis à aeronave envolvida.
+
+  21.19 Modificações que requerem um novo certificado de tipo
+
+  Qualquer pessoa que se proponha a modificar um produto deve submeter um requerimento para
+  um novo certificado de tipo se a ANAC considerar que a modificação proposta para o projeto,
+  para a potência, para o empuxo ou para o peso é tão extensa que exige uma investigação completa
+  quanto à concordância com os regulamentos requeridos.
+
+  21.20 Cumprimento com os requisitos aplicáveis
+
+  O requerente de um certificado de tipo, incluindo uma emenda ou certificado suplementar
+  de tipo, deve:'
+keywords:
+- tipo
+- certificado
+- aplicaveis
+- aeronave
+- aeronavegabilidade
+- considerar
+- novo
+- preambulo
+- projeto
+- requisitos
+- aacaacute
+- aceitavel
+categories:
+- legislacao
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-142-142-111-c
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.111'
+section_title: Requisitos gerais
+subsection_id: c
+cite: 142.111(c)
+title: 142.111(c)
+text: '(c) O gestor responsável do requerente ou detentor de certificado de CTAC deve implantar
+  um
+
+  SGSO compatível com o tamanho, natureza e complexidade das operações a serem conduzidas
+  no
+
+  CTAC, considerando suas Especificações de Treinamento e os perigos e riscos relacionados
+  com suas
+
+  atividades.'
+keywords:
+- ctac
+- atividades
+- certificado
+- compativel
+- complexidade
+- conduzidas
+- considerando
+- detentor
+- especificacoes
+- gerais
+- gestor
+- implantar
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

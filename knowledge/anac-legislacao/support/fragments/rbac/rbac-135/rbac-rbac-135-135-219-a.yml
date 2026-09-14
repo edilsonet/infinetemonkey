@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-219-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.219'
+section_title: '135.219'
+subsection_id: a
+cite: 135.219(a)
+title: 135.219(a)
+text: '(a) Para um voo a ser conduzido de acordo com as regras de voo por instrumentos (IFR),
+  o detentor de certificado deve garantir que:
+
+  (1) com exceção do disposto em 135.218(b), informações meteorológicas atualizadas indicam
+  que as condições meteorológicas no aeródromo de destino estarão, no horário estimado de
+  utilização, iguais ou acima dos mínimos operacionais para pouso no aeródromo; e
+
+  (2) informações meteorológicas atualizadas indicam que as condições meteorológicas em cada
+  aeródromo de alternativa em rota e de alternativa de destino requerido estarão, no horário
+  estimado de utilização, iguais ou acima dos respectivos mínimos de planejamento para pouso
+  em cada aeródromo.'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- meteorologicas
+- acima
+- alternativa
+- atualizadas
+- cada
+- condicoes
+- destino
+- estarao
+- estimado
+- horario
+- iguais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

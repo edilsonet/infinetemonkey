@@ -1,0 +1,47 @@
+id: rbac-rbac-121-121-221-f
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.221'
+section_title: Precauções contra incêndio
+subsection_id: f
+cite: 121.221(f)
+title: 121.221(f)
+text: '(f) Classe E. Em aviões usados para o transporte exclusivo de cargas, a área da cabine
+  de passageiros pode ser considerada como compartimento de classe "E". Cada compartimento
+  classe E deve cumprir os seguintes requisitos:
+
+  (1) deve ser completamente forrado com material resistente ao fogo;
+
+  (2) deve possuir um sistema próprio de detecção de fogo ou fumaça, aprovado, alertando o
+  piloto ou o mecânico de voo sentado em seu posto normal de serviço;
+
+  (3) deve possuir um meio de cortar o fluxo de ar de ventilação para o compartimento e dentro
+  dele. O controle desse meio deve ser acessível para os tripulantes de voo, na cabine dos
+  mesmos;
+
+  (4) deve possuir um meio de impedir que quantidades perigosas de fumaça, chamas ou gases
+  tóxicos penetrem na cabine da tripulação de voo;
+
+  (5) as saídas de emergência para os tripulantes devem ser acessíveis, qualquer que seja
+  o arranjo da carga a bordo.'
+keywords:
+- transporte-aereo
+- operacoes
+- cabine
+- classe
+- compartimento
+- meio
+- possuir
+- fogo
+- fumaca
+- tripulantes
+- acessiveis
+- acessivel
+- alertando
+- aprovado
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

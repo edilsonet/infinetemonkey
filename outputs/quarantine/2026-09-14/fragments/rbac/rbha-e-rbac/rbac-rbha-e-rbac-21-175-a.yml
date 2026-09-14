@@ -1,0 +1,33 @@
+id: rbac-rbha-e-rbac-21-175-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.175'
+section_title: Classificação dos certificados de aeronavegabilidade
+subsection_id: a
+cite: 21.175(a)
+title: 21.175(a)
+text: (a) Certificados de aeronavegabilidade padrão são certificados de aeronavegabilidade
+  emitidos para aeronaves de tipo certificado nas categorias normal, utilidade, acrobática,
+  transporte regional ou transporte ou, ainda, para balões livres tripulados e para aeronaves
+  de classe especial.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificados
+- aeronaves
+- transporte
+- acrobatica
+- baloes
+- categorias
+- certificado
+- classe
+- classificacao
+- emitidos
+- especial
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

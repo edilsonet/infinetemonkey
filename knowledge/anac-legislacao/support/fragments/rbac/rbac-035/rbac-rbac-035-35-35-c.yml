@@ -1,0 +1,50 @@
+id: rbac-rbac-035-35-35-c
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.35'
+section_title: '35.35'
+subsection_id: c
+cite: 35.35(c)
+title: 35.35(c)
+text: '(c) Components used with or attached to the
+
+  propeller (for example, spinners, de-icing
+
+  equipment, and blade erosion shields) must be
+
+  subjected to a load equivalent to 159 percent of
+
+  the maximum centrifugal load to which the
+
+  component would be subjected during operation
+
+  at the maximum rated rotational speed. This
+
+  must be performed by either:
+
+  (1) Testing at the required load for a period
+
+  of 30 minutes; or
+
+  (2) Analysis based on test.'
+keywords:
+- helices
+- aeronavegabilidade
+- load
+- maximum
+- must
+- subjected
+- analysis
+- attached
+- based
+- blade
+- centrifugal
+- component
+- components
+- during
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-119-119-43-c
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.43'
+section_title: Obrigações do detentor de certificado em relação às suas especificações operativas
+subsection_id: c
+cite: 119.43(c)
+title: 119.43(c)
+text: '(c) Cada detentor de certificado deve manter cada uma das pessoas empregadas em suas
+  operações
+
+  informadas das provisões de suas especificações operativas aplicáveis aos deveres e
+
+  responsabilidades da pessoa.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- cada
+- certificado
+- detentor
+- especificacoes
+- operativas
+- aplicaveis
+- deveres
+- empregadas
+- informadas
+- manter
+- obrigacoes
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

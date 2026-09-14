@@ -1,0 +1,31 @@
+id: rbac-rbac-121-121-208-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.208'
+section_title: Sistema de controle do desempenho do avião
+subsection_id: a
+cite: 121.208(a)
+title: 121.208(a)
+text: (a) O explorador estabelecerá um sistema, aprovado pela ANAC, para obter, manter e disponibilizar
+  ao pessoal de operações apropriado dados de desempenho e obstáculos.
+keywords:
+- transporte-aereo
+- operacoes
+- desempenho
+- sistema
+- apropriado
+- aprovado
+- aviao
+- controle
+- dados
+- disponibilizar
+- estabelecera
+- explorador
+- manter
+- obstaculos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

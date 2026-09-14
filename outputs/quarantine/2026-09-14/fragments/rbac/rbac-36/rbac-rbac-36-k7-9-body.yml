@@ -1,0 +1,34 @@
+id: rbac-rbac-36-k7-9-body
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K7.9
+section_title: The tiltrotor altitude must not vary during each flyover by more than 30 ft
+  (9 m) from the
+subsection_id: body
+cite: K7.9
+title: The tiltrotor altitude must not vary during each flyover by more than 30 ft (9 m) from
+  the
+text: 'K7.9 The tiltrotor altitude must not vary during each flyover by more than 30 ft (9
+  m) from the
+
+  reference altitude throughout the 10 dB-down time interval.'
+keywords:
+- ruido
+- meio-ambiente
+- altitude
+- during
+- each
+- flyover
+- from
+- more
+- must
+- than
+- tiltrotor
+- vary
+- down
+- interval
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

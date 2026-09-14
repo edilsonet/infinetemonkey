@@ -1,0 +1,53 @@
+id: rbac-rbac-27-preambulo-d
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: d
+cite: preambulo(d)
+title: preambulo(d)
+text: '(d)
+
+  Maximum nose-up attitude with only the rear wheel contacting the ground. The attitude for
+  this condition
+
+  must be the maximum nose-up attitude expected in normal operation, including autorotative
+  landings. In
+
+  this attitude -
+
+  (1)
+
+  The appropriate ground loads specified in paragraphs (b)(1) and (2) of this section must
+  be
+
+  determined and applied, using a rational method to account for the moment arm between the
+  rear
+
+  wheel ground reaction and the rotorcraft center of gravity; or
+
+  (2)
+
+  The probability of landing with initial contact on the rear wheel must be shown to be extremely
+
+  remote.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- attitude
+- ground
+- must
+- rear
+- this
+- wheel
+- maximum
+- nose
+- preambulo
+- with
+- account
+- applied
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

@@ -1,0 +1,118 @@
+id: rbac-rbac-26-26-41-body
+kind: rbac
+document: rbac-26
+family: '26'
+section_id: '26.41'
+section_title: Definições
+subsection_id: body
+cite: '26.41'
+title: Definições
+text: '26.41 Definições
+
+
+  Afeta (ou Afetado), significa que a estrutura foi fisicamente reparada, alterada, ou modificada,
+  ou
+
+  o valor das cargas estruturais, atuando na estrutura, foram aumentadas ou redistribuídas.
+
+  Estrutura Básica significa a estrutura projetada sob o certificado de tipo original ou sob
+  a emen-
+
+  da ao certificado de tipo para aquele modelo de aeronave.
+
+  Avaliação de Tolerância ao Dano significa um processo que leva a determinação de ações de
+
+  manutenção necessárias para detectar ou evitar trincas por fadiga que possam contribuir
+  para uma
+
+  falha catastrófica. Tal como aplicado em reparos e alterações, uma Avaliação de Tolerância
+  ao Da-
+
+  no inclui a avaliação do reparo ou alteração e da estrutura crítica a fadiga afetada pelo
+  reparo ou
+
+  alteração.
+
+  Inspeção de Tolerância ao Dano significa a inspeção desenvolvida como resultado de uma Ava-
+
+  liação de Tolerância ao Dano. A Inspeção de Tolerância ao Dano inclui as áreas a serem inspecio-
+
+  nadas, o método de inspeção, os procedimentos de inspeção, incluindo os critérios de aceitação
+  e
+
+  rejeição, a referência para o início da inspeção e qualquer intervalo para reinspeção associado
+  com
+
+  estas inspeções. A Inspeção de Tolerância ao Dano pode especificar um tempo limite quando
+  um
+
+  reparo ou alteração necessita ser substituído ou modificado. Se a Avaliação de Tolerância
+  ao Dano
+
+  concluir que inspeções estruturais suplementares baseadas em Tolerância ao Dano não são
+  necessá-
+
+  rias, a Inspeção de Tolerância ao Dano deve conter uma declaração nesse sentido.
+
+  Dados de Tolerância ao Dano significam a documentação de Avaliação de Tolerância ao Dano
+  e
+
+  de Inspeção de Tolerância ao Dano.
+
+  Documentação de Avaliação de Tolerância ao Dano significa os dados que identificam a estru-
+
+  tura crítica a fadiga avaliada, as suposições básicas aplicadas na Avaliação de Tolerância
+  ao Dano e
+
+  os resultados dessa avaliação.
+
+  Estrutura crítica a fadiga, significa a estrutura do avião que é suscetível a trincas por
+  fadiga que
+
+  podem contribuir para uma falha catastrófica, determinado de acordo com o RBHA/RBAC 25.571.
+
+  A estrutura crítica a fadiga inclui a estrutura que, se reparada ou alterada, possa tornar-se
+  suscetível
+
+  a trincas por fadiga e contribuir para uma falha catastrófica. Tal estrutura pode ser parte
+  da estrutura
+
+  básica ou parte de uma alteração.
+
+  Programação para implementação consiste da documentação que estabelece os prazos para rea-
+
+  lizar as ações necessárias para o desenvolvimento dos dados de Tolerância ao Dano para reparos
+  e
+
+  alterações, e para a incorporação daqueles dados no programa de manutenção de aeronavegabilida-
+
+  de continuada do operador. A documentação deve identificar quando as ações devem ser tomadas,
+
+  de forma numérica e em termos de horas de voo, ciclos de voo, ou ambos.
+
+  Dados de reparo publicados significam as instruções para a realização de reparos, as quais
+  são
+
+  publicados para uso geral nos manuais de reparo estrutural e boletins de serviço (ou documentos
+
+  equivalentes).'
+keywords:
+- aeronavegabilidade
+- envelhecimento
+- tolerancia
+- dano
+- estrutura
+- inspecao
+- avaliacao
+- fadiga
+- significa
+- dados
+- reparo
+- alteracao
+- critica
+- documentacao
+categories:
+- aeronavegabilidade
+- envelhecimento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-26.md

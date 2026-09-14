@@ -1,0 +1,50 @@
+id: rbac-rbac-23-23-2510-body
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2510'
+section_title: Equipment, systems, and installa-
+subsection_id: body
+cite: '23.2510'
+title: Equipment, systems, and installa-
+text: '23.2510 Equipment, systems, and installa-
+
+  tions.
+
+  For any airplane system or equipment whose
+
+  failure or abnormal operation has not been spe-
+
+  cifically addressed by another requirement in
+
+  this regulation, the applicant must design and
+
+  install each system and equipment, such that
+
+  there is a logical and acceptable inverse rela-
+
+  tionship between the average probability and
+
+  the severity of failure conditions to the extent
+
+  that:'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- equipment
+- installa
+- systems
+- failure
+- system
+- that
+- abnormal
+- acceptable
+- addressed
+- airplane
+- another
+- applicant
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

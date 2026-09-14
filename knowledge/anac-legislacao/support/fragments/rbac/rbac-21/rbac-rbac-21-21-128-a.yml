@@ -1,0 +1,43 @@
+id: rbac-rbac-21-21-128-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.128'
+section_title: 'Ensaios: motores de aeronaves ('
+subsection_id: a
+cite: 21.128(a)
+title: 21.128(a)
+text: '(a) Cada pessoa que fabrique motores sob um certificado de tipo deve submeter cada
+  motor (exceto motores foguetes, para os quais o fabricante deve estabelecer uma técnica
+  de avaliação por amostragem) a ensaios de operação aceitáveis que incluam o seguinte:
+
+  (1) verificações para determinação do consumo de óleo e de combustível e determinação da
+  potência ou empuxo nominal máximo contínuo e, quando aplicável, da potência ou empuxo nominal
+  de decolagem; e
+
+  (2) pelo menos 5 (cinco) horas de operação com potência ou empuxo nominal máximo contínuo.
+  Para motores com potência ou empuxo nominal de decolagem superior à potência ou empuxo máximo
+  contínuo, as 5 (cinco) horas de operação devem incluir 30 (trinta) minutos com a potência
+  ou empuxo nominal de decolagem.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- empuxo
+- potencia
+- nominal
+- motores
+- continuo
+- decolagem
+- maximo
+- operacao
+- cada
+- cinco
+- determinacao
+- ensaios
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

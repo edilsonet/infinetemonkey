@@ -1,0 +1,56 @@
+id: rbac-rbac-43-e43-1-d
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: E43.1
+section_title: Testes e inspeções do sistema do altímetro
+subsection_id: d
+cite: E43.1(d)
+title: E43.1(d)
+text: '(d) Registros. Cumprir as provisões da seção 43.9 no que diz respeito ao conteúdo e
+  forma dos
+
+  registros. A pessoa que estiver executando os testes de altímetro deve marcar em cada altímetro
+  a
+
+  data e a altitude máxima na qual o altímetro foi testado e as pessoas que estiverem aprovando
+  o
+
+  retorno ao serviço da aeronave devem anotar nos seus registros de manutenção os mesmos dados.
+
+
+  Data da emissão: 15 de março de 2021
+
+
+  TABELA I
+
+
+  ALTITUDE
+
+  PRESSÃO
+
+  EQUIVALENTE
+
+  TOLERÂNCIA
+
+  (pés)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- altimetro
+- registros
+- altitude
+- data
+- testes
+- aeronave
+- anotar
+- aprovando
+- cada
+- conteudo
+- cumprir
+- dados
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

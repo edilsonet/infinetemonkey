@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-151-h
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.151'
+section_title: Gravador de voz na cabine
+subsection_id: h
+cite: 135.151(h)
+title: 135.151(h)
+text: '(h) Todas as aeronaves que, por esta seção, devam possuir um gravador de voz na cabine
+  de comando e um gravador de dados de voo, a partir de 7 de abril de 2012, devem gravar todas
+  as mensagens geradas pelo equipamento de comunicação por
+
+  datalink
+
+  , como requerido pela regulamentação de certificação aplicável à aeronave, caso possuam
+  esse equipamento instalado.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- gravador
+- cabine
+- equipamento
+- todas
+- abril
+- aeronave
+- aeronaves
+- aplicavel
+- caso
+- certificacao
+- comando
+- comunicacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

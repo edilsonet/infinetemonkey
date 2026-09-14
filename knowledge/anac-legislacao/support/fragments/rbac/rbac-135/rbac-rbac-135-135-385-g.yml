@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-385-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.385'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de pouso
+  no aeródromo de destino'
+subsection_id: g
+cite: 135.385(g)
+title: 135.385(g)
+text: (g) Um avião a reação, que estaria proibido de decolar por não cumprir o parágrafo (b)(2)
+  desta seção, poderá decolar se for indicado um aeródromo de alternativa onde possa atender
+  todos os requisitos do parágrafo (b) desta seção.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- decolar
+- desta
+- paragrafo
+- secao
+- alternativa
+- atender
+- aviao
+- avioes
+- categoria
+- cumprir
+- destino
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

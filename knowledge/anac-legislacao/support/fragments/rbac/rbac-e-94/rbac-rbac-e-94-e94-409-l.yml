@@ -1,0 +1,28 @@
+id: rbac-rbac-e-94-e94-409-l
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: l
+cite: E94.409(l)
+title: E94.409(l)
+text: (l) todos os sistemas devem ser projetados para minimizar erros de operação que possam
+  contribuir para a geração de perigos;
+keywords:
+- classe
+- contribuir
+- erros
+- geracao
+- minimizar
+- operacao
+- perigos
+- possam
+- projetados
+- projeto
+- rpas
+- sistemas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

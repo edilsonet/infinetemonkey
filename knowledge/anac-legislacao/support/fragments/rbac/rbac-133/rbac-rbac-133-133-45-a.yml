@@ -1,0 +1,33 @@
+id: rbac-rbac-133-133-45-a
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.45'
+section_title: Limitações operacionais
+subsection_id: a
+cite: 133.45(a)
+title: 133.45(a)
+text: '(a) a combinação aeronave-carga só pode ser operada dentro das limitações de peso e
+  de posição
+
+  do centro de gravidade estabelecidas no parágrafo 133.43(c);'
+keywords:
+- carga-externa
+- helicoptero
+- limitacoes
+- aeronave
+- carga
+- centro
+- combinacao
+- dentro
+- estabelecidas
+- gravidade
+- operacionais
+- operada
+- paragrafo
+- peso
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-107-107-143-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.143'
+section_title: Inspeção da Bagagem Despachada
+subsection_id: a
+cite: 107.143(a)
+title: 107.143(a)
+text: '(a) O operador de aeródromo deve prover os recursos físicos necessários para que os
+  operadores aéreos realizem a inspeção da bagagem despachada para seguir em voos internacionais,
+  incluindo as bagagens em conexão e trânsito, neste último caso somente se vierem a ser retiradas
+  da aeronave durante a parada no aeródromo intermediário.
+
+  (1) A bagagem despachada para seguir em voo internacional que tenha sido submetida a controle
+  de segurança equivalente no aeródromo de origem não necessita ser novamente inspecionada
+  no aeródromo de trânsito ou conexão, salvo no caso de suspeita em relação ao seu conteúdo.
+
+  (2) Os aeródromos que possuem controles de segurança equivalentes serão determinados pela
+  ANAC e informados aos operadores aéreos e operadores de aeródromos por meio de DAVSEC.'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- bagagem
+- despachada
+- operadores
+- aereos
+- aerodromos
+- caso
+- conexao
+- inspecao
+- seguir
+- transito
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

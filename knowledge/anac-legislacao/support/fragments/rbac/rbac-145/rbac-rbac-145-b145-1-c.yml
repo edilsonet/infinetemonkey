@@ -1,0 +1,33 @@
+id: rbac-rbac-145-b145-1-c
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: B145.1
+section_title: Designação do Gestor Responsável
+subsection_id: c
+cite: B145.1(c)
+title: B145.1(c)
+text: '(c) A designação do Gestor Responsável deve refletir as prerrogativas e responsabilidades
+
+  atribuídas a esta função, em conformidade com os atos constitutivos do detentor de um certificado
+
+  de organização de manutenção registrados na ANAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- designacao
+- gestor
+- responsavel
+- atos
+- atribuidas
+- b145
+- certificado
+- conformidade
+- constitutivos
+- detentor
+- funcao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

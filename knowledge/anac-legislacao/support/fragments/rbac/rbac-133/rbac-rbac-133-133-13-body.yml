@@ -1,0 +1,38 @@
+id: rbac-rbac-133-133-13-body
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.13'
+section_title: Duração da autorização
+subsection_id: body
+cite: '133.13'
+title: Duração da autorização
+text: '133.13 Duração da autorização
+
+  Uma autorização para operação com carga externa expira ao fim do vigésimo quarto mês após
+  o
+
+  mês no qual ela foi emitida, a menos que, antes desse prazo, ela seja cassada, suspensa
+  ou revogada,
+
+  ou seu detentor a devolva à ANAC.'
+keywords:
+- carga-externa
+- helicoptero
+- autorizacao
+- duracao
+- carga
+- cassada
+- desse
+- detentor
+- devolva
+- emitida
+- expira
+- externa
+- menos
+- operacao
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

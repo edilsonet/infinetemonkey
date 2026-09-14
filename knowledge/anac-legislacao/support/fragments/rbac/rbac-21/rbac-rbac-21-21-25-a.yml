@@ -1,0 +1,43 @@
+id: rbac-rbac-21-21-25-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.25'
+section_title: 'Emissão de certificado de tipo: aeronave categoria restrita'
+subsection_id: a
+cite: 21.25(a)
+title: 21.25(a)
+text: '(a) O requerente faz jus a um certificado de tipo para uma aeronave categoria restrita,
+  para operações com propósitos especiais, se ele demonstrar cumprimento com os requisitos
+  de ruído aplicáveis estabelecidos pelo RBAC 36 e se demonstrar que a aeronave não apresenta
+  nenhum aspecto ou característica insegura quando operada dentro das limitações estabelecidas
+  para o uso pretendido e se a aeronave:
+
+  (1) satisfizer aos requisitos de aeronavegabilidade de uma determinada categoria, exceto
+  aqueles considerados pela ANAC não apropriados aos propósitos especiais para os quais a
+  aeronave será usada; ou
+
+  (2) for de um tipo fabricado de acordo com requisitos ou especificações militares, com aceitação
+  de uma das Forças Armadas do Brasil e tiver sido posteriormente modificado para um propósito
+  especial.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- categoria
+- requisitos
+- tipo
+- certificado
+- demonstrar
+- especiais
+- propositos
+- restrita
+- aceitacao
+- acordo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

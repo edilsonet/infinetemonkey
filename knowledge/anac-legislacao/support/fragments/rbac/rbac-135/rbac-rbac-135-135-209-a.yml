@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-209-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.209'
+section_title: Autonomia para voo VFR
+subsection_id: a
+cite: 135.209(a)
+title: 135.209(a)
+text: '(a)
+
+  Somente é permitido iniciar uma operação VFR em um avião se, considerando as informações
+  meteorológicas conhecidas (incluindo o vento), esse avião tenha combustível e óleo lubrificante
+  suficiente para voar até o aeródromo de destino e, assumindo consumo normal de combustível
+  e óleo lubrificante em cruzeiro:
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)
+
+  (1) durante o dia, voar pelo menos mais 30 minutos; e
+
+  (2) à noite, voar pelo menos mais 45 minutos.'
+keywords:
+- taxi-aereo
+- operacoes
+- voar
+- aviao
+- combustivel
+- lubrificante
+- menos
+- minutos
+- oleo
+- aerodromo
+- assumindo
+- autonomia
+- conhecidas
+- considerando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

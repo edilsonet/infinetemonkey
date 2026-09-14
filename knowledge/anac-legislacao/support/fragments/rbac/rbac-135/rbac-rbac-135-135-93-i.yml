@@ -1,0 +1,55 @@
+id: rbac-rbac-135-135-93-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: i
+cite: 135.93(i)
+title: 135.93(i)
+text: '(i) a uma altura maior ou igual a duas vezes a perda máxima de altura para mau funcionamento
+  do piloto automático, se mais alto que a altura de 50 pés abaixo da altura de decisão (DH)
+  / altitude de decisão (DA) ou altitude mínima de descida (MDA);
+
+  (ii) a uma altura maior ou igual a 50 pés acima da perda de altura para mau funcionamento
+  do piloto automático, quando as seguintes condições forem atendidas:
+
+  (A) as condições meteorológicas reportadas estiverem abaixo das condições visuais;
+
+  (B) as referências visuais adequadas para o procedimento de aproximação utilizado tiverem
+  sido estabelecidas; e
+
+  (C) o piloto automático estiver engajado e recebendo referências laterais e verticais;
+
+  (iii) à maior altura entre a perda máxima de altura para mau funcionamento do piloto automático
+  especificada no manual de voo do avião e a altura de 50 pés acima da altitude da zona de
+  contato (TZDE), quando as seguintes condições forem atendidas:
+
+  (A) as condições meteorológicas reportadas estiverem abaixo das condições visuais; e
+
+  (B) o piloto automático estiver engajado e recebendo referências laterais e verticais; ou
+
+  (iv) a uma altura maior especificada pela ANAC;
+
+  (2) para pilotos automáticos com limitações em altura de aproximação especificadas no manual
+  de voo do avião, a maior altura entre:'
+keywords:
+- taxi-aereo
+- operacoes
+- altura
+- automatico
+- condicoes
+- piloto
+- maior
+- abaixo
+- altitude
+- funcionamento
+- perda
+- referencias
+- visuais
+- acima
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

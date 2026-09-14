@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-371-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.371'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  em rota com um motor inoperante'
+subsection_id: a
+cite: 135.371(a)
+title: 135.371(a)
+text: '(a) Exceto como previsto no parágrafo (b) desta seção, no caso de um grande avião categoria
+  transporte com motores convencionais, é vedado decolar com esse avião com um peso, considerando
+  consumo normal de combustível e óleo, que não permita uma razão de subida (em pés por minuto),
+  com um motor inoperante, de pelo menos (0,079 - 0,106 / N)Vso² (onde N é o número de motores
+  instalados e Vso é expresso em nós) a uma altitude de pelo menos 1000 pés acima da maior
+  elevação ou obstrução dentro de 10 milhas para cada lado do curso pretendido. No entanto,
+  para os propósitos deste parágrafo, a razão de subida para aviões categoria transporte certificados
+  segundo a parte 4a do “
+
+  Civil Air Regulations
+
+  ” dos Estados Unidos da América é de 0,026 Vso².'
+keywords:
+- taxi-aereo
+- operacoes
+- categoria
+- motores
+- transporte
+- aviao
+- avioes
+- convencionais
+- inoperante
+- menos
+- motor
+- paragrafo
+- razao
+- subida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

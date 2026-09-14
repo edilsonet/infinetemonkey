@@ -1,0 +1,55 @@
+id: rbac-rbac-36-h36-205-f
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: H36.205
+section_title: of this apendix.
+subsection_id: f
+cite: H36.205(f)
+title: H36.205(f)
+text: '(f)
+
+  PNLT corections.
+
+  If the measured ambient atmospheric conditions of temperature and relative
+
+  humidity difer from those prescribed as reference condi
+
+  tions under this apendix (7 degres F and
+
+  70 percent, respectively), corections to the EPNL values must be calculated from the measured
+
+  data under paragraph (a) of this section as folows:
+
+
+  (1)
+
+  Takeof flight path.
+
+  For the takeof flight path shown in Fi
+
+  gure H1, the spectrum of PNLTM
+
+  observed at station A for the aircraft at position L is decomposed into its individual SPL(
+
+  i ) values.'
+keywords:
+- ruido
+- meio-ambiente
+- this
+- apendix
+- corections
+- flight
+- from
+- measured
+- path
+- takeof
+- under
+- values
+- aircraft
+- ambient
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

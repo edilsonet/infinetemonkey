@@ -1,0 +1,33 @@
+id: rbac-rbac-21-21-239-i-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: 21.239-I
+section_title: Sistema de garantia do projeto
+subsection_id: c
+cite: 21.239-I(c)
+title: 21.239-I(c)
+text: (c) A organização de projeto deve especificar o modo como o sistema de garantia do projeto
+  assegura a aceitação dos artigos projetados, ou das tarefas realizadas pelos fornecedores,
+  em conformidade com os métodos descritos nos procedimentos documentados.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- garantia
+- sistema
+- aceitacao
+- artigos
+- assegura
+- conformidade
+- descritos
+- documentados
+- especificar
+- fornecedores
+- metodos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

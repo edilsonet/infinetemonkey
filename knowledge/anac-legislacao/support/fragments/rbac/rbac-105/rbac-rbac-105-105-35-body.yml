@@ -1,0 +1,37 @@
+id: rbac-rbac-105-105-35-body
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.35'
+section_title: Álcool e drogas
+subsection_id: body
+cite: '105.35'
+title: Álcool e drogas
+text: '105.35 Álcool e drogas
+
+  Nenhuma pessoa pode executar um salto de paraquedas e nenhum piloto em comando de uma
+
+  aeronave pode autorizar que uma pessoa salte de paraquedas de sua aeronave se essa pessoa
+  aparentar
+
+  estar:'
+keywords:
+- paraquedismo
+- operacoes
+- alcool
+- drogas
+- pessoa
+- aeronave
+- paraquedas
+- pode
+- aparentar
+- autorizar
+- comando
+- estar
+- executar
+- nenhum
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

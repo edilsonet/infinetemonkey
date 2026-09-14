@@ -1,0 +1,32 @@
+id: rbac-rbac-142-142-117-b
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.117'
+section_title: Envio e processo de aceitação inicial do MGSO
+subsection_id: b
+cite: 142.117(b)
+title: 142.117(b)
+text: '(b) O MGSO deve ser enviado para análise da ANAC, assinado pelo gerente de segurança
+
+  operacional e pelo gestor responsável do requerente ou detentor de certificado de CTAC,
+  em uma
+
+  cópia impressa e uma cópia digital em mídia eletrônica (em arquivo do tipo “pdf”).'
+keywords:
+- copia
+- mgso
+- aceitacao
+- analise
+- arquivo
+- assinado
+- certificado
+- ctac
+- detentor
+- digital
+- eletronica
+- enviado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

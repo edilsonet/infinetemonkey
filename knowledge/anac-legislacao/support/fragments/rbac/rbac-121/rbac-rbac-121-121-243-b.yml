@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-243-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.243'
+section_title: Linhas de respiro do motor
+subsection_id: b
+cite: 121.243(b)
+title: 121.243(b)
+text: (b) As linhas de respiro do motor devem descarregar em um ponto que não apresente perigo
+  de fogo em caso de formação de espuma e nem em um ponto em o óleo emitido dessas linhas
+  não atinja os para-brisas dos pilotos.
+keywords:
+- transporte-aereo
+- operacoes
+- linhas
+- motor
+- ponto
+- respiro
+- apresente
+- atinja
+- brisas
+- caso
+- descarregar
+- dessas
+- emitido
+- espuma
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

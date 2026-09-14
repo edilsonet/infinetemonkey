@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-89-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.89'
+section_title: 'Requisitos para piloto: uso de oxigênio'
+subsection_id: a
+cite: 135.89(a)
+title: 135.89(a)
+text: '(a) Aeronave não pressurizada. O piloto de uma aeronave não pressurizada deve usar
+  oxigênio continuamente quando voando:
+
+  (1) em altitudes acima de 10.000 pés e até 12.000 pés MSL, por toda a parte do voo a essas
+  altitudes que tenha mais de 30 minutos de duração; e
+
+  (2) acima de 12.000 pés MSL.'
+keywords:
+- taxi-aereo
+- operacoes
+- acima
+- aeronave
+- altitudes
+- oxigenio
+- piloto
+- pressurizada
+- continuamente
+- duracao
+- essas
+- minutos
+- parte
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

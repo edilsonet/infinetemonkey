@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-180-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.180'
+section_title: Sistema embarcado de prevenção de colisões (ACAS)
+subsection_id: d
+cite: 135.180(d)
+title: 135.180(d)
+text: '(d) Somente é permitido operar um avião equipado com um TCAS II em espaço aéreo RVSM
+  se esse equipamento for do tipo TCAS II, tipo 7.0 (ACAS II), ou posterior.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- acas
+- tcas
+- tipo
+- aereo
+- aviao
+- colisoes
+- dada
+- embarcado
+- equipado
+- equipamento
+- espaco
+- operar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

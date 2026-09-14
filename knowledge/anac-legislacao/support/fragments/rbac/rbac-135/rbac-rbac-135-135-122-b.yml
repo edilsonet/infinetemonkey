@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-122-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.122'
+section_title: Guarda de alimentos, bebidas e equipamentos de serviços aos passageiros durante
+  movimentação da aeronave na superfície e nas decolagens e pousos
+subsection_id: b
+cite: 135.122(b)
+title: 135.122(b)
+text: (b) Um detentor de certificado somente pode movimentar na superfície, decolar ou pousar
+  uma aeronave, se bandejas e mesas utilizadas para alimentos e bebidas dos passageiros estiverem
+  colocadas e fixadas nos locais onde são guardadas.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- alimentos
+- bebidas
+- passageiros
+- superficie
+- bandejas
+- certificado
+- colocadas
+- decolagens
+- decolar
+- detentor
+- durante
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,26 @@
+document: is-141-005
+kind: is
+title: IS 141-005B
+ementa: Guia para implementação e manutenção do SGSO em Centros de Instrução de Aviação Civil
+  certificados conforme o RBAC 141 Em vigor em 1° de janeiro de 2025
+family: '141'
+categories:
+- escolas
+- treinamento
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-005
+pdf_url: ''
+archive_url: https://arquivo.pt/wayback/20251114021803id_/https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-005
+language: pt
+foreign_annex: false
+sections:
+- 01.01.2025
+- 5.2.5.8
+- 5.4.9
+- preambulo
+fragment_count: 4
+fragment_ids:
+- is-is-141-005-preambulo-body
+- is-is-141-005-01-01-2025-body
+- is-is-141-005-5-2-5-8-body
+- is-is-141-005-5-4-9-body
+parser_version: 6

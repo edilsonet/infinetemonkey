@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-105-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.105'
+section_title: 'Exceção a requisitos de piloto segundo em comando: utilização do sistema de
+  piloto automático aprovado'
+subsection_id: e
+cite: 135.105(e)
+title: 135.105(e)
+text: '(e) A emenda deve conter qualquer condição ou limitação sobre o uso do sistema de piloto
+  automático que a ANAC julgue necessário ser de interesse da segurança.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- automatico
+- sistema
+- aprovado
+- comando
+- condicao
+- conter
+- dada
+- excecao
+- interesse
+- julgue
+- limitacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-155-155-209-h
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.209'
+section_title: '155.209'
+subsection_id: h
+cite: 155.209(h)
+title: 155.209(h)
+text: '(h)
+
+  A área de segurança de uma FATO destinada a operação por instrumento deve se estender, conforme
+  Figura 155.209-3:
+
+  (1)
+
+  lateralmente a uma distância de pelo menos 45 m para cada lado do eixo da FATO; e
+
+  (2)
+
+  longitudinalmente a uma distância de pelo menos 60 m além do final da FATO.
+
+  Figura 155.209-3 - Área de segurança para FATO com operação por instrumento'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- area
+- distancia
+- figura
+- instrumento
+- menos
+- operacao
+- seguranca
+- alem
+- cada
+- destinada
+- eixo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-63-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.63'
+section_title: Requisitos de conservação de registros
+subsection_id: e
+cite: 135.63(e)
+title: 135.63(e)
+text: (e) O detentor de certificado deve manter um registro do consumo de combustível e de
+  óleo em cada voo por pelo menos 90 dias após a realização do voo.
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- certificado
+- combustivel
+- conservacao
+- consumo
+- detentor
+- dias
+- manter
+- menos
+- oleo
+- realizacao
+- registro
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-120-120-7-m
+kind: rbac
+document: rbac-120
+family: '120'
+section_id: '120.7'
+section_title: Definições
+subsection_id: m
+cite: 120.7(m)
+title: 120.7(m)
+text: '(m)
+
+  Médico revisor
+
+  significa um profissional médico devidamente habilitado para referendar um resultado positivo
+  para um ETSP requerido e para desempenhar as funções descritas na seção 120.333.'
+keywords:
+- antidrogas
+- saude
+- medico
+- definicoes
+- descritas
+- desempenhar
+- devidamente
+- etsp
+- funcoes
+- habilitado
+- positivo
+- profissional
+- referendar
+- requerido
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-120.md

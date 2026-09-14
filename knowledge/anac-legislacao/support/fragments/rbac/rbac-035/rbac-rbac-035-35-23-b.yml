@@ -1,0 +1,65 @@
+id: rbac-rbac-035-35-23-b
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.23'
+section_title: '35.23'
+subsection_id: b
+cite: 35.23(b)
+title: 35.23(b)
+text: '(b) The propeller control system must be de-
+
+  signed and constructed so that, in addition to
+
+  compliance with section 35.15 of this RBAC:
+
+
+  (1) No single failure or malfunction of elec-
+
+  trical or electronic components in the control
+
+  system results in a hazardous propeller effect.
+
+
+  (2) Failures or malfunctions directly affect-
+
+  ing the propeller control system in a typical air-
+
+  plane, such as structural failures of attachments
+
+  to the control, fire, or overheat, do not lead to a
+
+  hazardous propeller effect.
+
+
+  (3) The loss of normal propeller pitch control
+
+  does not cause a hazardous propeller effect un-
+
+  der the intended operating conditions.
+
+  (4) The failure or corruption of data or sig-
+
+  nals shared across propellers does not cause a
+
+  hazardous propeller effect.'
+keywords:
+- helices
+- aeronavegabilidade
+- propeller
+- control
+- effect
+- hazardous
+- system
+- cause
+- does
+- failure
+- failures
+- across
+- addition
+- affect
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

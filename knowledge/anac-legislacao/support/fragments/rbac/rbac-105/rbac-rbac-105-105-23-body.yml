@@ -1,0 +1,38 @@
+id: rbac-rbac-105-105-23-body
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.23'
+section_title: Saltos dentro ou sobre áreas de controle positivo ou áreas terminais.
+subsection_id: body
+cite: '105.23'
+title: Saltos dentro ou sobre áreas de controle positivo ou áreas terminais.
+text: '105.23 Saltos dentro ou sobre áreas de controle positivo ou áreas terminais.
+
+  Ninguém pode realizar um salto de paraquedas e nenhum piloto em comando de uma aeronave
+  pode
+
+  autorizar saltos de paraquedas de sua aeronave dentro ou sobre área de controle positivo
+  ou área
+
+  terminal sem, ou em violação de, uma autorização do controle de tráfego aéreo.'
+keywords:
+- paraquedismo
+- operacoes
+- areas
+- controle
+- dentro
+- positivo
+- saltos
+- terminais
+- aeronave
+- area
+- paraquedas
+- pode
+- aereo
+- autorizacao
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

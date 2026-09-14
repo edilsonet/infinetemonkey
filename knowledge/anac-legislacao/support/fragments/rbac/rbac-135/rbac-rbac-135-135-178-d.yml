@@ -1,0 +1,51 @@
+id: rbac-rbac-135-135-178-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.178'
+section_title: Equipamentos adicionais de emergência
+subsection_id: d
+cite: 135.178(d)
+title: 135.178(d)
+text: '(d) Operação das luzes de emergência. Exceto para as luzes que fazem parte do subsistema
+  de luzes de emergência provido para atender ao RBAC nº 25.812(h) (como descrito no parágrafo
+  (h) desta seção), que servem a não mais que um dos meios de auxílio para evacuação, que
+  sejam independentes do sistema principal de iluminação do avião e que são automaticamente
+  acionadas quando o meio de auxílio é acionado, cada luz requerida pelos parágrafos (c) e
+  (h) desta seção deve:
+
+  (1) ser operável manualmente não só da cabine de pilotos, mas também de um ponto na cabine
+  dos passageiros facilmente acessível de um assento normal de comissário de bordo;
+
+  (2) possuir um meio para evitar atuação inadvertida dos controles manuais;
+
+  (3) quando armada ou ligada, de ambos os locais de acionamento, permanecer acesa ou acender
+  ao ser interrompido o sistema normal de energia elétrica do avião;
+
+  (4) ser armada ou ligada durante rolagem, decolagens e pousos. Na demonstração de conformidade
+  com este parágrafo a separação transversal da fuselagem não precisa ser considerada;
+
+  (5) prover o nível requerido de iluminação durante, pelo menos, 10 minutos nas condições
+  ambientais críticas causadas por um pouso de emergência; e
+
+  (6) possuir um dispositivo de controle que possua as posições “ON”, “OFF” e “ARMED”.'
+keywords:
+- taxi-aereo
+- operacoes
+- emergencia
+- luzes
+- armada
+- auxilio
+- aviao
+- cabine
+- desta
+- durante
+- iluminacao
+- ligada
+- meio
+- normal
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

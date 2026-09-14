@@ -1,0 +1,43 @@
+id: rbac-rbac-90-90-385-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.385'
+section_title: Alijamento de emergência ou inadvertido de carga externa
+subsection_id: b
+cite: 90.385(b)
+title: 90.385(b)
+text: '(b) No caso de alijamento de emergência ou inadvertido da carga externa transportada,
+  os seguintes procedimentos deverão ser observados:
+
+  (1) as operações deverão ser suspensas pela UAP até que uma nova análise do risco seja realizada
+  e os riscos sejam mitigados;
+
+  (2) as autoridades competentes devem ser devidamente informadas, nos casos de alijamento
+  de artigos perigosos;
+
+  (3) os procedimentos estabelecidos no PRE devem ser cumpridos, conforme aplicável; e
+
+  (4) a ANAC deverá ser informada em até 10 (dez) dias, contados a partir da data do referido
+  alijamento, para os casos de alijamento de emergência ou inadvertido envolvendo artigos
+  perigosos.'
+keywords:
+- regras-de-voo
+- operacoes
+- alijamento
+- emergencia
+- inadvertido
+- artigos
+- carga
+- casos
+- deverao
+- externa
+- perigosos
+- procedimentos
+- analise
+- aplicavel
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

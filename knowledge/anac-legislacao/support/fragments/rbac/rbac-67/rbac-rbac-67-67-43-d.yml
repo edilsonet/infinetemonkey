@@ -1,0 +1,44 @@
+id: rbac-rbac-67-67-43-d
+kind: rbac
+document: rbac-67
+family: '67'
+section_id: '67.43'
+section_title: Requisitos para revalidação de credenciamento de MC e CLC e revalidação de
+  cadastramento
+subsection_id: d
+cite: 67.43(d)
+title: 67.43(d)
+text: '(d) O prazo de validade para a revalidação será contado a partir da data de expiração
+  do credenciamento
+
+  ou cadastramento anterior. Caso ultrapasse 6 (seis) meses da data de expiração do credenciamento
+  ou do
+
+  cadastramento anterior, o processo de revalidação será descontinuado, devendo ser tratado
+  como novo
+
+  credenciamento ou cadastramento.
+
+  (Redação dada pela Resolução nº 547, de 19.03.2020)'
+keywords:
+- saude
+- certificado-medico
+- pessoal
+- cadastramento
+- credenciamento
+- revalidacao
+- anterior
+- data
+- expiracao
+- caso
+- contado
+- dada
+- descontinuado
+- devendo
+- meses
+categories:
+- saude
+- certificado-medico
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-67.md

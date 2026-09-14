@@ -1,0 +1,38 @@
+id: rbac-rbha-e-rbac-21-137-e
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.137'
+section_title: Sistema da qualidade
+subsection_id: e
+cite: 21.137(e)
+title: 21.137(e)
+text: '(e) inspeção e testes. Procedimentos para inspeções e testes utilizados para garantir
+  que cada produto e artigo está em conformidade com seu projeto aprovado. Estes procedimentos
+  devem incluir o seguinte, conforme aplicável:
+
+  (1) um ensaio em voo para cada aeronave produzida a menos que ela seja exportada como uma
+  aeronave desmontada.
+
+  (2) um teste funcional de cada motor de aeronave e cada hélice produzidos.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- cada
+- aeronave
+- procedimentos
+- testes
+- aplicavel
+- aprovado
+- artigo
+- conformidade
+- desmontada
+- ensaio
+- estes
+- exportada
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

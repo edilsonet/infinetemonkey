@@ -1,0 +1,48 @@
+id: rbac-rbac-145-145-55-e-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.55'
+section_title: Validade e renovação do certificado
+subsection_id: e-i
+cite: 145.55(e-I)
+title: 145.55(e-I)
+text: '(e)-I Um certificado de organização de manutenção pode ser:
+
+  (1) suspenso, por solicitação da organização ou por decisão da ANAC, enquanto a ANAC não
+
+  constatar que a organização cumpre com os RBAC aplicáveis; (Redação dada pela Resolução
+  nº
+
+  610, de 23.02.2021)
+
+  (2) cassado, quando a ANAC julgar que a organização não tem mais direito a um certificado
+
+  conforme este regulamento; ou (Redação dada pela Resolução nº 610, de 23.02.2021)
+
+  (3) cancelado, se a ANAC julgar que a organização ainda não satisfaz aos RBAC após um
+
+  período de suspensão maior do que 1 (um) ano, ou após a aceitação da ANAC para a solicitação
+  de
+
+  cancelamento por seu detentor. (Incluído pela Resolução nº 610, de 23.02.2021)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- organizacao
+- certificado
+- resolucao
+- dada
+- julgar
+- redacao
+- solicitacao
+- aceitacao
+- aplicaveis
+- cancelado
+- cancelamento
+- cassado
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

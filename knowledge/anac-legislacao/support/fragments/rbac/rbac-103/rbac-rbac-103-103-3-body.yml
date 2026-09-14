@@ -1,0 +1,36 @@
+id: rbac-rbac-103-103-3-body
+kind: rbac
+document: rbac-103
+family: '103'
+section_id: '103.3'
+section_title: Inspeções
+subsection_id: body
+cite: '103.3'
+title: Inspeções
+text: '103.3 Inspeções
+
+  Sempre que solicitado pela ANAC, pelo DECEA ou por autoridade policial, o operador de veículo
+
+  ultraleve ou balão livre tripulado deve permitir inspeções em sua aeronave e fornecer evidências
+
+  suficientes para comprovar a aplicabilidade e sua adequação a este regulamento.'
+keywords:
+- ultraleves
+- operacoes
+- inspecoes
+- adequacao
+- aeronave
+- aplicabilidade
+- autoridade
+- balao
+- comprovar
+- decea
+- evidencias
+- fornecer
+- livre
+- operador
+categories:
+- ultraleves
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-103.md

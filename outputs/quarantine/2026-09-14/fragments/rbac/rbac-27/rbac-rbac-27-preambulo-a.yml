@@ -1,0 +1,38 @@
+id: rbac-rbac-27-preambulo-a
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: a
+cite: preambulo(a)
+title: preambulo(a)
+text: '(a)
+
+  General. Rotorcraft with landing gear with skids must be designed for the loading conditions
+  specified in
+
+  this section. In showing compliance with this section, the following apply:
+
+  (1)
+
+  The design maximum weight, center of gravity, and load factor must be determined under §§'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- with
+- must
+- preambulo
+- section
+- this
+- apply
+- center
+- compliance
+- conditions
+- design
+- designed
+- determined
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

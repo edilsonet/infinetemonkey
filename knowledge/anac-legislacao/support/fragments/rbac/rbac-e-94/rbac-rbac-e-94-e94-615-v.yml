@@ -1,0 +1,35 @@
+id: rbac-rbac-e-94-e94-615-v
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.615
+section_title: Registros de manutenção de RPAS Classe 1
+subsection_id: v
+cite: E94.615(v)
+title: E94.615(v)
+text: '(v) a situação atualizada, quando aplicável, das diretrizes de aeronavegabilidade e
+  diretrizes de segurança aplicáveis, incluindo, para cada uma, o método para cumpri-la, o
+  número da diretriz de aeronavegabilidade ou da diretriz de segurança e a data de revisão.
+  Se a diretriz de aeronavegabilidade ou diretriz de segurança requerer ações periódicas,
+  o tempo e a data em que a próxima ação será requerida; e
+
+  (vi) cópias dos formulários requeridos pelo parágrafo 43.9(a) do RBAC 43 para cada grande
+  alteração ou grande reparo da célula, motores, hélices, rotores e equipamentos correntemente
+  instalados no RPAS.'
+keywords:
+- diretriz
+- aeronavegabilidade
+- seguranca
+- cada
+- data
+- diretrizes
+- grande
+- rpas
+- acao
+- acoes
+- alteracao
+- aplicaveis
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

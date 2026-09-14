@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-179-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.179'
+section_title: Instrumentos e equipamentos inoperantes
+subsection_id: b
+cite: 135.179(b)
+title: 135.179(b)
+text: '(b) Somente é permitido decolar com uma aeronave com instrumentos e equipamentos inoperantes
+  instalados se as seguintes condições forem atendidas:
+
+  (1) deve existir uma lista de equipamentos mínimos (MEL) aprovada para a aeronave;
+
+  (2) deve haver uma carta da ANAC autorizando operações de acordo com a MEL aprovada. A tripulação
+  de voo deve ter acesso direto antes de cada voo a todas as informações contidas na MEL aprovada
+  por meio de documentação impressa ou outros meios aprovados nas especificações operativas
+  do detentor de certificado e colocados à sua disposição. Uma MEL aprovada como autorizada
+  pelas especificações operativas constitui uma alteração aprovada ao projeto de tipo de aeronave
+  sem requerer nova certificação;
+
+  (3) a MEL aprovada deve:'
+keywords:
+- taxi-aereo
+- operacoes
+- aprovada
+- aeronave
+- equipamentos
+- especificacoes
+- inoperantes
+- instrumentos
+- operativas
+- acesso
+- acordo
+- alteracao
+- aprovados
+- atendidas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

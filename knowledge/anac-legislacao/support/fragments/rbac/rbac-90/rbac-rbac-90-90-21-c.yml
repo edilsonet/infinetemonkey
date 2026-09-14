@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-21-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: c
+cite: 90.21(c)
+title: 90.21(c)
+text: '(c) Não obstante o previsto na legislação complementar do Ministério da Saúde, a tripulação
+  operacional para helicópteros com configuração aeromédica certificada pela ANAC e com restrição
+  na cabine de pilotagem para atuação do piloto segundo em comando, deverá ser composta por,
+  no mínimo:
+
+  (1) um piloto em comando, segundo a seção 90.23 deste Regulamento; e
+
+  (2) um operador aerotático ou operador de suporte médico, segundo as seções 90.31 e 90.43
+  deste Regulamento, respectivamente.'
+keywords:
+- regras-de-voo
+- operacoes
+- segundo
+- comando
+- deste
+- operador
+- piloto
+- regulamento
+- tripulacao
+- aeromedica
+- aerotatico
+- atuacao
+- cabine
+- certificada
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

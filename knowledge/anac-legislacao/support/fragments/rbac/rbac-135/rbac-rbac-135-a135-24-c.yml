@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-24-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.24
+section_title: Proteção do grupo motopropulsor contra fogo
+subsection_id: c
+cite: A135.24(c)
+title: A135.24(c)
+text: '(c) Proteção contra fogo em fluidos inflamáveis. Se líquidos ou vapores inflamáveis
+  puderem ser liberados pelo vazamento de sistemas de fluidos em outras áreas que não os compartimentos
+  dos motores, deve haver meios para:
+
+  (1) evitar a ignição desses fluidos por qualquer outro equipamento; ou
+
+  (2) controlar qualquer incêndio resultante dessa ignição.'
+keywords:
+- taxi-aereo
+- operacoes
+- fluidos
+- contra
+- fogo
+- ignicao
+- inflamaveis
+- protecao
+- a135
+- areas
+- compartimentos
+- controlar
+- dessa
+- desses
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

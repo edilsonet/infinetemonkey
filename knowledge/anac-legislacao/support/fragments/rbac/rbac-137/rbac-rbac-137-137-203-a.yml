@@ -1,0 +1,27 @@
+id: rbac-rbac-137-137-203-a
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.203'
+section_title: Requisitos de manutenção
+subsection_id: a
+cite: 137.203(a)
+title: 137.203(a)
+text: (a) A manutenção das aeronaves engajadas nas operações aeroagrícolas deve ser executada
+  de acordo com os requisitos dos RBAC nº 43 e 145, bem como da subparte E do RBAC nº 91.
+keywords:
+- aeroagricola
+- operacoes
+- manutencao
+- requisitos
+- acordo
+- aeroagricolas
+- aeronaves
+- engajadas
+- executada
+- subparte
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

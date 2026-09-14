@@ -1,0 +1,40 @@
+id: rbac-rbac-43-e43-1-b
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: E43.1
+section_title: Testes e inspeções do sistema do altímetro
+subsection_id: b
+cite: E43.1(b)
+title: E43.1(b)
+text: '(b)(1)(i) a (vi) e (b)(2) deste apêndice. Cada um dos testes de desempenho pode ser
+  conduzido com
+
+  o instrumento sujeito à vibração, entretanto, tal procedimento só é necessário quando
+
+  especificamente requerido. Quando os testes forem conduzidos com uma temperatura ambiente
+
+  substancialmente diferente de 25ºC, devem ser acrescentadas tolerâncias para a variação
+  das
+
+  condições especificadas:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- testes
+- 25oc
+- acrescentadas
+- altimetro
+- ambiente
+- apendice
+- cada
+- condicoes
+- conduzido
+- conduzidos
+- desempenho
+- deste
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

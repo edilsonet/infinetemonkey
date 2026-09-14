@@ -1,0 +1,34 @@
+id: rbac-rbac-133-133-33-b
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.33'
+section_title: Regras de operação
+subsection_id: b
+cite: 133.33(b)
+title: 133.33(b)
+text: '(b) Ninguém pode conduzir uma operação de aeronave com cargas externas a menos que:
+
+  (1) a aeronave atenda aos requisitos da seção 133.19; e
+
+  (2) a aeronave e a combinação aeronave-carga conste da autorização do operador.'
+keywords:
+- carga-externa
+- helicoptero
+- aeronave
+- operacao
+- atenda
+- autorizacao
+- carga
+- cargas
+- combinacao
+- conduzir
+- conste
+- externas
+- menos
+- ninguem
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

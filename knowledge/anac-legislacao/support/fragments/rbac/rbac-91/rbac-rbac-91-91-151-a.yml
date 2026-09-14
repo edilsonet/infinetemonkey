@@ -1,0 +1,41 @@
+id: rbac-rbac-91-91-151-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.151'
+section_title: Requisitos de combustível e óleo para voos visuais (VFR)
+subsection_id: a
+cite: 91.151(a)
+title: 91.151(a)
+text: '(a) Somente é permitido começar um voo VFR em um avião se, considerando vento e condições
+
+  meteorológicas conhecidas, houver combustível e óleo suficiente para voar até o local previsto
+  para
+
+  primeiro pouso e, assumindo velocidade normal de cruzeiro:
+
+  (1) durante o dia, voar mais, pelo menos, 30 minutos, exceto para voos acrobáticos afastados
+
+  no máximo 50 km (27 NM) de um aeródromo; ou
+
+  (2) durante a noite, voar mais, pelo menos, 45 minutos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- voar
+- combustivel
+- durante
+- menos
+- minutos
+- oleo
+- voos
+- acrobaticos
+- aerodromo
+- afastados
+- assumindo
+- aviao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,70 @@
+id: rbac-rbac-135-a135-16-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.16
+section_title: Acomodações para pessoal e para cargas
+subsection_id: i
+cite: A135.16(i)
+title: A135.16(i)
+text: '(i) para uma capacidade total de assentos igual ou inferior a 15 assentos, são requeridas
+  duas saídas de emergência, uma em cada lado da fuselagem, como definidas no RBAC nº 23;
+  e
+
+  (ii) para uma capacidade total de assentos de 16 a 23 assentos, são requeridas 3 saídas
+  de emergência, como definidas no RBAC nº 23, com uma do mesmo lado da porta e duas no lado
+  da fuselagem oposto à porta;
+
+  (4) deve ser conduzida uma demonstração de evacuação do avião, utilizando o número máximo
+  de ocupantes para o qual a certificação foi requerida. A demonstração deve ser conduzida
+  sob condições noturnas simuladas, utilizando apenas as saídas de emergência do lado mais
+  crítico do avião. Os participantes devem representar os passageiros médios de um detentor
+  de certificado, sem prática ou ensaio anterior à demonstração. A evacuação deve ser completada
+  em 90 segundos;
+
+  (5) cada saída de emergência deve ser marcada com uma placa com a palavra “Saída” escrita
+  em letras brancas com 2,54 cm (1 pol.) de altura sobre um fundo vermelho com 5,08 cm (2
+  pol.) de altura; a placa deve ser auto iluminada ou ser independentemente iluminada internamente
+  por eletricidade, devendo possuir uma luminescência (brilho) mínima de 160 microlamberts.
+  As cores podem ser invertidas se a iluminação do compartimento dos passageiros for, essencialmente,
+  a mesma;
+
+  (6) o acesso a uma saída de emergência do tipo janela não pode ser obstruído por assentos
+  ou encostos de assentos; e
+
+  (7) a largura do corredor principal dos passageiros, em qualquer ponto entre assentos, deve
+  igualar ou exceder os valores da tabela abaixo:
+
+  Capacidade total de assentos
+
+  Largura mínima do corredor principal dos passageiros
+
+  A menos de 63,5 cm (25 pol.) acima do assoalho
+
+  A 63,5 cm (25 pol.) ou mais acima do assoalho
+
+  10 a 23
+
+  22,9 cm (9 pol.)
+
+  38 cm (15 pol.)'
+keywords:
+- taxi-aereo
+- operacoes
+- assentos
+- emergencia
+- lado
+- passageiros
+- capacidade
+- demonstracao
+- saida
+- saidas
+- total
+- acima
+- altura
+- assoalho
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

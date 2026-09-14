@@ -1,0 +1,104 @@
+id: rbac-rbac-031-31-65-b
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.65'
+section_title: Position lights.
+subsection_id: b
+cite: 31.65(b)
+title: 31.65(b)
+text: '(b) Each light must provide 360° hori-
+
+  zontal coverage at the intensities pre-
+
+  scribed in this paragraph. The following
+
+  light intensities must be determined with
+
+  the light source operating at a steady state
+
+  and with all light covers and color filters
+
+  in place and at the manufacturer''s rated
+
+  mimimum voltage. For the flashing avia-
+
+  tion red light, the measured values must be
+
+  adjusted to correspond to a red filter tem-
+
+  perature of at least 130 °F (54,4°C):
+
+
+  (1) The intensities in the horizontal
+
+  plane passing through the light unit must
+
+  equal or exceed the following values:
+
+
+  Position light
+
+  Minimum intensity
+
+  (candles)
+
+  Steady white
+
+  20
+
+  Flashing red or
+
+  white
+
+  40
+
+
+  (2) The intensities in vertical planes
+
+  must equal or exceed the following values.
+
+  An intensity of one unit corresponds to the
+
+  applicable horizontal plane intensity speci-
+
+  fied in paragraph (b)(1) of this section.
+
+
+  Angles above
+
+  and below the
+
+  horizontal in
+
+  any vertical
+
+  plane (degrees)
+
+  Minimum intensity
+
+  (units)
+
+  0
+
+  1.00'
+keywords:
+- aeronavegabilidade
+- baloes
+- light
+- must
+- intensities
+- intensity
+- following
+- horizontal
+- plane
+- values
+- equal
+- exceed
+- flashing
+- minimum
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

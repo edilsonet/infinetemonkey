@@ -1,0 +1,63 @@
+id: rbac-rbac-121-121-285-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.285'
+section_title: Transporte de carga na cabine de passageiros
+subsection_id: b
+cite: 121.285(b)
+title: 121.285(b)
+text: '(b) Carga pode ser transportada em qualquer lugar da cabine de passageiros, desde que
+  seja transportada em compartimento aprovado que cumpra os seguintes requisitos:
+
+  (1) o compartimento deve resistir aos fatores de carga e às condições de pouso de emergência
+  aplicáveis aos assentos de passageiros do avião no qual é instalado multiplicados por um
+  fator de 1,15 usando o peso combinado do compartimento com o peso máximo de carga que pode
+  ser transportada no mesmo;
+
+  (2) o peso máximo de carga que o compartimento aprovado pode transportar, assim como as
+  instruções necessárias à apropriada distribuição de massa dentro do compartimento, devem
+  estar escritas claramente no mesmo;
+
+  (3) o compartimento não pode impor nenhuma carga no assoalho ou em outra estrutura do avião
+  que exceda as limitações de carregamento dessa estrutura;
+
+  (4) o compartimento pode ser fixado aos trilhos dos assentos ou à estrutura do assoalho
+  do avião e essa fixação deve suportar os fatores de carga e as condições de pousos de emergência
+  aplicáveis aos assentos de passageiros do avião em que o mesmo está instalado, multiplicados
+  pelo fator de 1,15 ou pelo fator de fixação de assentos especificado para o avião, o que
+  for maior, usando o peso combinado do compartimento com o peso máximo de carga que pode
+  ser transportado no mesmo;
+
+  (5) o compartimento não pode ser instalado em local que restrinja o acesso e o uso de qualquer
+  saída de emergência requerida ou do corredor da cabine de passageiros;
+
+  (6) o compartimento deve ser totalmente fechado e ser feito de material pelo menos resistente
+  a chamas;
+
+  (7) dispositivos adequados de segurança devem ser instalados para evitar que a carga dentro
+  do porta-carga deslize em condições de pouso de emergência;
+
+  (8) o porta-carga não pode ser instalado em local que obstrua a visão de qualquer passageiro
+  em relação aos sinais de "não fume", "use cintos" ou de qualquer sinal de saída requerido,
+  a menos que existam sinais auxiliares ou outros meios aprovados de adequado aviso aos passageiros.'
+keywords:
+- transporte-aereo
+- operacoes
+- carga
+- compartimento
+- pode
+- passageiros
+- aviao
+- peso
+- assentos
+- emergencia
+- instalado
+- mesmo
+- cabine
+- condicoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

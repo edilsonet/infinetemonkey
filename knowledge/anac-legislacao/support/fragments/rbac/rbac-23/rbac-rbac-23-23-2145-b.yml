@@ -1,0 +1,50 @@
+id: rbac-rbac-23-23-2145-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2145'
+section_title: Estabilidade.
+subsection_id: b
+cite: 23.2145(b)
+title: 23.2145(b)
+text: '(b) No airplane may exhibit any divergent lon-
+
+  gitudinal stability characteristic so unstable as
+
+  to increase the pilot''s workload or otherwise
+
+  endanger the airplane and its occupants.
+
+  (1) Ter estabilidade estática longitudinal, late-
+
+  ral e direcional em operações normais.
+
+  (2) Ter estabilidade dinâmica em curto período
+
+  e em Dutch roll em operações normais; e
+
+  (3) Fornecer uma resposta estável às forças
+
+  exercidas nos comandos ao longo de todo o
+
+  envelope operacional.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- estabilidade
+- airplane
+- normais
+- operacoes
+- characteristic
+- comandos
+- curto
+- dinamica
+- direcional
+- divergent
+- dutch
+- endanger
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

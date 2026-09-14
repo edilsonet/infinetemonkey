@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-29-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.29'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: e
+cite: 135.29(e)
+title: 135.29(e)
+text: '(e) O programa de acompanhamento e análise de dados de voo mencionado no parágrafo
+  anterior não pode ser utilizado com finalidade punitiva e deve conter salvaguardas adequadas
+  para proteger as fontes dos dados.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- dados
+- acompanhamento
+- adequadas
+- analise
+- anterior
+- conter
+- dada
+- finalidade
+- fontes
+- gerenciamento
+- mencionado
+- operacional
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

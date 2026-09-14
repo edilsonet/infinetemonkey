@@ -1,0 +1,48 @@
+id: rbac-rbac-91-91-102-g
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.102'
+section_title: Regras gerais
+subsection_id: g
+cite: 91.102(g)
+title: 91.102(g)
+text: '(g) Somente é permitido autorizar o abastecimento de uma aeronave enquanto passageiros
+
+  estiverem a bordo, embarcando ou desembarcando, se:
+
+  (1) houver um procedimento aprovado e um tripulante de voo na cabine de pilotagem da
+
+  aeronave supervisionando esse procedimento;
+
+  (2) houver no mínimo 50% do número de comissários requeridos e/ou pessoas adequadamente
+
+  treinadas para dirigir uma evacuação de emergência, bem como os meios de evacuação de emergência
+
+  estiverem disponíveis;
+
+  (3) os motores da aeronave estiverem desligados (desconsiderando APU), assim como os
+
+  sistemas não necessários à operação; e
+
+  (4) for possível a comunicação entre o pessoal de solo e o tripulante na cabine dos pilotos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- estiverem
+- cabine
+- emergencia
+- evacuacao
+- houver
+- procedimento
+- tripulante
+- abastecimento
+- adequadamente
+- aprovado
+- assim
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-175-175-311-b
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.311'
+section_title: Inspeções e testes para aprovação do projeto de embalagem
+subsection_id: b
+cite: 175.311(b)
+title: 175.311(b)
+text: '(b) A embalagem deve apresentar resultado satisfatório em todos os testes aplicáveis
+  ao tipo de
+
+  embalagem e ao tipo de artigo perigoso que será transportado.'
+keywords:
+- artigos-perigosos
+- carga
+- embalagem
+- testes
+- tipo
+- aplicaveis
+- apresentar
+- aprovacao
+- artigo
+- inspecoes
+- perigoso
+- projeto
+- resultado
+- satisfatorio
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

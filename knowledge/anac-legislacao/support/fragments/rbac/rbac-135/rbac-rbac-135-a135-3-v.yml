@@ -1,0 +1,31 @@
+id: rbac-rbac-135-a135-3-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.3
+section_title: Desempenho
+subsection_id: v
+cite: A135.3(v)
+title: A135.3(v)
+text: '(v) dados de decolagem baseados em uma pista de superfície lisa, seca e dura.
+
+  (2) Velocidades de decolagem:'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- a135
+- baseados
+- dados
+- desempenho
+- dura
+- lisa
+- pista
+- seca
+- superficie
+- velocidades
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

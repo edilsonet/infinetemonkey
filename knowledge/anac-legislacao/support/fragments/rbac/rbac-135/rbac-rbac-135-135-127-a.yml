@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-127-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.127'
+section_title: Requisitos de avisos aos passageiros e proibição de fumar a bordo
+subsection_id: a
+cite: 135.127(a)
+title: 135.127(a)
+text: (a) Somente é permitido conduzir operações sob este Regulamento se os sinais luminosos
+  de aviso aos passageiros “Não Fume” (ou similar) permanecerem acessos durante todo o voo
+  ou um ou mais letreiros “Não Fume” (ou similar), atendendo aos requisitos das seções 23.1541,
+  25.1541, 27.1541 e 29.1541 dos RBAC nº 23, 25, 27 ou 29 conforme aplicável, ficarem expostos
+  durante todo o voo. Se forem utilizados tanto letreiros como sinais luminosos, estes últimos
+  devem ficar acesos durante todo o voo.
+keywords:
+- taxi-aereo
+- operacoes
+- durante
+- todo
+- fume
+- letreiros
+- luminosos
+- passageiros
+- requisitos
+- similar
+- sinais
+- acesos
+- acessos
+- aplicavel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

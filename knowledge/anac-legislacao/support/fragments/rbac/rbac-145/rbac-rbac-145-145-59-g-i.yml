@@ -1,0 +1,48 @@
+id: rbac-rbac-145-145-59-g-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.59'
+section_title: Categorias e Classes
+subsection_id: g-i
+cite: 145.59(g-I)
+title: 145.59(g-I)
+text: '(g)-I Categoria Serviços Especializados: Classe Única - Atividades específicas de execução
+  de
+
+  manutenção que a ANAC julgar procedente caso não esteja sob outras certificações de organização
+
+  de manutenção, por tipo de serviço (ex.: ensaios não destrutivos, serviços de soldagem,
+  pintura,
+
+  pesagem de aeronaves, trabalhos em revestimentos de tela, serviços especializados em pás
+  de
+
+  rotores, análises de vibração e balanceamento dinâmico, análises de performance, serviços
+  de
+
+  tapeçaria e interiores, , inspeções e testes do sistema anemométrico, inspeção boroscópica,
+  lavagem
+
+  de compressores de motores à reação, banhos galvânicos, shot peening, limpeza por jateamento
+
+  abrasivo, inspeção por ataque ácido, inspeções/ensaios de vasos de pressão).'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- servicos
+- analises
+- ensaios
+- especializados
+- inspecao
+- inspecoes
+- abrasivo
+- acido
+- aeronaves
+- anemometrico
+- ataque
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

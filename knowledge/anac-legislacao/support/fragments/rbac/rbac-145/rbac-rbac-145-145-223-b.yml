@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-223-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.223'
+section_title: Inspeções pela ANAC
+subsection_id: b
+cite: 145.223(b)
+title: 145.223(b)
+text: '(b) Cada organização de manutenção certificada somente pode subcontratar pessoa não
+
+  certificada para executar funções de manutenção em um artigo se estiver especificado no
+  contrato
+
+  (ou outro documento equivalente) com essa pessoa que a ANAC pode realizar inspeções e observar
+
+  o desempenho de seu trabalho neste artigo.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- artigo
+- certificada
+- inspecoes
+- pessoa
+- pode
+- cada
+- contrato
+- desempenho
+- documento
+- equivalente
+- especificado
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

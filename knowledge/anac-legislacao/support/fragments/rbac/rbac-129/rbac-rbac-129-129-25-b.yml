@@ -1,0 +1,34 @@
+id: rbac-rbac-129-129-25-b
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.25'
+section_title: Segurança contra atos de interferência ilícita
+subsection_id: b
+cite: 129.25(b)
+title: 129.25(b)
+text: (b) No caso de pouso não previsto em aeródromo brasileiro não listado nas Especificações
+  Operativas da empresa estrangeira de transporte aéreo, a menos que o aeródromo disponha
+  de autoridades do Brasil para fazer cumprir as normas de segurança previstas no plano de
+  segurança aprovado, a empresa estrangeira de transporte aéreo fica responsável pelo cumprimento
+  dessas normas perante o governo brasileiro.
+keywords:
+- operador-estrangeiro
+- operacoes
+- seguranca
+- aereo
+- aerodromo
+- brasileiro
+- empresa
+- estrangeira
+- normas
+- transporte
+- aprovado
+- atos
+- autoridades
+- brasil
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

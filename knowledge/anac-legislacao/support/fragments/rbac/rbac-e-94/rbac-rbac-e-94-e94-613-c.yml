@@ -1,0 +1,32 @@
+id: rbac-rbac-e-94-e94-613-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.613
+section_title: Testes e inspeções do transponder de RPAS Classe 1
+subsection_id: c
+cite: E94.613(c)
+title: E94.613(c)
+text: '(c) Os testes e inspeções requeridos por esta Seção devem ser conduzidos:
+
+  (1) por uma organização de manutenção certificada pela ANAC; ou
+
+  (2) pelo fabricante da aeronave na qual o transponder a ser testado está instalado, se este
+  tiver sido instalado pelo próprio fabricante.'
+keywords:
+- fabricante
+- inspecoes
+- instalado
+- testes
+- transponder
+- aeronave
+- certificada
+- classe
+- conduzidos
+- manutencao
+- organizacao
+- proprio
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-031-31-23-body
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.23'
+section_title: '31.23'
+subsection_id: body
+cite: '31.23'
+title: '31.23'
+text: '31.23
+
+  Fator de carga de voo.
+
+
+  Na determinação das cargas limites, o fator de car-
+
+  ga limite de voo deve ser no mínimo de 1,4.'
+keywords:
+- aeronavegabilidade
+- baloes
+- fator
+- carga
+- cargas
+- determinacao
+- limite
+- limites
+- minimo
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

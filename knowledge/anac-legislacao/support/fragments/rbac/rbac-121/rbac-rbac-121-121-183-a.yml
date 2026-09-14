@@ -1,0 +1,42 @@
+id: rbac-rbac-121-121-183-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.183'
+section_title: 'Aviões categoria transporte (RBAC 25) com quatro ou mais motores convencionais:
+  limitações em rota com dois motores inoperantes'
+subsection_id: a
+cite: 121.183(a)
+title: 121.183(a)
+text: '(a) Ninguém pode operar um avião certificado sob o RBAC 25 que possua quatro ou mais
+  motores convencionais a menos que:
+
+  (1) não exista nenhum local ao longo do curso pretendido que esteja a mais de 90 minutos
+  (com todos os motores operando em potência de cruzeiro) de um aeródromo que atenda aos requisitos
+  de 121.187; ou
+
+  (2) seja operado com um peso que permita que o avião, com os dois motores críticos inoperantes,
+  suba a 0,013 VSO2 pés por minuto (isto é, o número de pés por minuto é obtido pela multiplicação
+  do quadrado do número de nós por 0,013) a uma altitude de 1000 pés acima da maior elevação
+  ou obstrução dentro de 10 milhas para cada lado do curso pretendido ou a uma altitude de
+  5000 pés, o que for mais alto.'
+keywords:
+- transporte-aereo
+- operacoes
+- motores
+- altitude
+- aviao
+- convencionais
+- curso
+- dois
+- inoperantes
+- minuto
+- numero
+- pretendido
+- quatro
+- acima
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

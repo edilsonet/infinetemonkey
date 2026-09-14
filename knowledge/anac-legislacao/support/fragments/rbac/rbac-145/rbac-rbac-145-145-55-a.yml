@@ -1,0 +1,38 @@
+id: rbac-rbac-145-145-55-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.55'
+section_title: Validade e renovação do certificado
+subsection_id: a
+cite: 145.55(a)
+title: 145.55(a)
+text: '(a) Um certificado emitido pela ANAC para uma organização de manutenção localizada
+  no
+
+  Brasil tem validade a partir da data de sua emissão até que seja solicitado o seu cancelamento
+  pelo
+
+  seu detentor e este seja aceito pela ANAC, ou seja suspenso ou cassado pela ANAC. (Redação
+
+  dada pela Resolução nº 610, de 23.02.2021)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- seja
+- certificado
+- validade
+- aceito
+- brasil
+- cancelamento
+- cassado
+- dada
+- data
+- detentor
+- emissao
+- emitido
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

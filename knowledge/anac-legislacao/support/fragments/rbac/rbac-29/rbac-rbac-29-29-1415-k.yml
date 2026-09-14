@@ -1,0 +1,119 @@
+id: rbac-rbac-29-29-1415-k
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.1415'
+section_title: must be near an exit available during an unplanned ditching.
+subsection_id: k
+cite: 29.1415(k)
+title: 29.1415(k)
+text: '(k)
+
+  Before the start of the demonstration, approximately one-half of the total average amount
+  of carry-on
+
+  baggage, blankets, pillows, and other similar articles must be distributed at several locations
+  in the aisles
+
+  and emergency exit access ways to create minor obstructions.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR Appendix-D-to-Part-29(a)
+
+  14 CFR Appendix-D-to-Part-29(k) (enhanced display)
+
+  page 164 of 167
+
+
+  Appendix E to Part 29 - HIRF Environments and Equipment HIRF Test Levels
+
+  This appendix specifies the HIRF environments and equipment HIRF test levels for electrical
+  and electronic systems
+
+  under § 29.1317. The field strength values for the HIRF environments and laboratory equipment
+  HIRF test levels are
+
+  expressed in root-mean-square units measured during the peak of the modulation cycle.
+
+  Table I. - HIRF Environment I
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  10 kHz-2 MHz
+
+  50
+
+  50
+
+  2 MHz-30 MHz
+
+  100
+
+  100
+
+  30 MHz-100 MHz
+
+  50
+
+  50
+
+  100 MHz-400 MHz
+
+  100
+
+  100
+
+  400 MHz-700 MHz
+
+  700
+
+  50
+
+  700 MHz-1 GHz
+
+  700
+
+  100
+
+  1 GHz-2 GHz
+
+  2,000
+
+  200
+
+  2 GHz-6 GHz
+
+  3,000
+
+  200'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- hirf
+- appendix
+- part
+- environments
+- equipment
+- levels
+- test
+- average
+- during
+- exit
+- field
+- must
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

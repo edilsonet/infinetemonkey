@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-331-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.331'
+section_title: Treinamento de emergências para tripulantes
+subsection_id: a
+cite: 135.331(a)
+title: 135.331(a)
+text: (a) Cada programa de treinamento deve prover treinamento de emergências de acordo com
+  esta seção, para cada tipo, modelo e configuração de aeronave, cada tripulante e cada espécie
+  de operação conduzida, conforme adequado para cada tripulante e para o detentor de certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- treinamento
+- emergencias
+- tripulante
+- acordo
+- adequado
+- aeronave
+- certificado
+- conduzida
+- configuracao
+- detentor
+- especie
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

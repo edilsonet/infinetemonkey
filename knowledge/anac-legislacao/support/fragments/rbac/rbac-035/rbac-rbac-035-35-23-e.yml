@@ -1,0 +1,42 @@
+id: rbac-rbac-035-35-23-e
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.23'
+section_title: '35.23'
+subsection_id: e
+cite: 35.23(e)
+title: 35.23(e)
+text: '(e) The propeller control system must be de-
+
+  signed and constructed so that the loss, interrup-
+
+  tion or abnormal characteristic of airplane-
+
+  supplied electrical power does not result in haz-
+
+  ardous propeller effects. The power quality re-
+
+  quirements must be described in the appropriate
+
+  manuals.'
+keywords:
+- helices
+- aeronavegabilidade
+- must
+- power
+- propeller
+- abnormal
+- airplane
+- appropriate
+- ardous
+- characteristic
+- constructed
+- control
+- described
+- does
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

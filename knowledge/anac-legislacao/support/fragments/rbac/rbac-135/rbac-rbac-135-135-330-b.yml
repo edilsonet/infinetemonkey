@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-330-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.330'
+section_title: Treinamento em gerenciamento de recursos de equipes (CRM)
+subsection_id: b
+cite: 135.330(b)
+title: 135.330(b)
+text: (b) O detentor de certificado somente pode utilizar uma pessoa como membro da tripulação
+  de voo se essa pessoa tiver completado o treinamento em gerenciamento de recursos de equipes,
+  inicial e, a cada 24 meses, periódico, conforme o programa de treinamento aprovado do detentor
+  do certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- treinamento
+- certificado
+- detentor
+- equipes
+- gerenciamento
+- pessoa
+- recursos
+- aprovado
+- cada
+- completado
+- inicial
+- membro
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,90 @@
+id: rbac-rbac-60-60-19-i
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.19'
+section_title: Requisitos de inspeção, avaliação
+subsection_id: i
+cite: 60.19(i)
+title: 60.19(i)
+text: '(i) seja incluída no registro a
+
+  descrição da discrepância e esta permaneça
+
+  no registro até que seja corrigida conforme
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  corrected as specified in paragraph 60.25(b) of
+
+  this regulation;
+
+  especificado no parágrafo 60.25(b) deste
+
+  regulamento;
+
+  (ii) the description of the corrective
+
+  action taken, the identity of the individual who
+
+  made the correction and the date that the
+
+  corrective action was taken is included in the
+
+  discrepancy log; and
+
+
+  (ii) seja incluída no registro a ação
+
+  corretiva adotada, a identificação do autor da
+
+  correção e a data em que ela ocorreu; e
+
+  (iii) the discrepancy log is kept in a
+
+  form and manner acceptable by ANAC, within
+
+  the FSTD or in an adjacent location. An
+
+  electronic register that can be accessed by a
+
+  computer or display located in the FSTD or in
+
+  an adjacent location is acceptable.
+
+
+  (iii) que o registro de discrepâncias
+
+  seja mantido em uma forma aceitável pela
+
+  ANAC, dentro do FSTD ou em local
+
+  adjacente. Um registro eletrônico que possa
+
+  ser acessado por um terminal ou monitor
+
+  localizado no FSTD ou em local adjacente é
+
+  aceitável.'
+keywords:
+- simuladores
+- treinamento
+- registro
+- fstd
+- seja
+- acceptable
+- aceitavel
+- action
+- adjacent
+- adjacente
+- corrective
+- data
+- discrepancy
+- incluida
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

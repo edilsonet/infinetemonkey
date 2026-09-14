@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-339-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.339'
+section_title: 'Treinamento inicial, de transição e exames: examinador em aeronave e examinador
+  em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: c
+cite: 135.339(c)
+title: 135.339(c)
+text: '(c) O treinamento de solo inicial para um piloto examinador deve incluir o seguinte:
+
+  (1) atribuições, responsabilidades e funções de um piloto examinador;
+
+  (2) as aplicáveis provisões deste Regulamento, dos regulamentos aeronáuticos e das políticas
+  e procedimentos do detentor de certificado;
+
+  (3) os apropriados métodos, procedimentos e técnicas para conduzir os exames requeridos;
+
+  (4) a adequada avaliação do desempenho de um piloto, incluindo a identificação de:'
+keywords:
+- taxi-aereo
+- operacoes
+- examinador
+- piloto
+- treinamento
+- exames
+- inicial
+- procedimentos
+- adequada
+- aeronauticos
+- aeronave
+- aplicaveis
+- apropriados
+- aprovado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

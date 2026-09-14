@@ -1,0 +1,55 @@
+id: rbac-rbac-153-153-105-a
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.105'
+section_title: '153.105'
+subsection_id: a
+cite: 153.105(a)
+title: 153.105(a)
+text: '(a) O operador de aeródromo deve solicitar a atualização das informações do aeródromo
+  no AIS
+
+  mediante anuência da ANAC nos seguintes casos:
+
+  (1)
+
+  inscrição, atualização ou alteração do cadastro;
+
+  (2)
+
+  alteração de especificações operativas;
+
+  (3)
+
+  operações temporárias fora das especificações operativas;
+
+  (4)
+
+  obra ou serviço de manutenção na área operacional;
+
+  (5)
+
+  elevação da CAT acima do nível validado pela ANAC, conforme parágrafo
+
+  153.403(b). (Redação dada pela Resolução nº 517, de 14.05.2019)'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- aerodromo
+- alteracao
+- atualizacao
+- especificacoes
+- operativas
+- acima
+- anuencia
+- area
+- cadastro
+- casos
+- dada
+- elevacao
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

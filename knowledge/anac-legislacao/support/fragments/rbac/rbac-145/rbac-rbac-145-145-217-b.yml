@@ -1,0 +1,44 @@
+id: rbac-rbac-145-145-217-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.217'
+section_title: Manutenção subcontratada
+subsection_id: b
+cite: 145.217(b)
+title: 145.217(b)
+text: '(b) Cada organização de manutenção certificada pode subcontratar uma função de manutenção
+
+  de uma pessoa não certificada, desde que:
+
+  (1) garanta que a pessoa não certificada siga um sistema de controle da qualidade equivalente
+
+  ao sistema seguido pela organização de manutenção certificada;
+
+  (2) seja diretamente responsável pelo serviço executado pela pessoa não certificada; e
+
+  (3) verifique, por meio de teste e/ou inspeção, que o trabalho foi executado satisfatoriamente
+
+  pela pessoa não certificada e que o artigo está aeronavegável, antes de aprová-lo para retorno
+  ao
+
+  serviço.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- certificada
+- pessoa
+- executado
+- organizacao
+- servico
+- sistema
+- aeronavegavel
+- aprova
+- artigo
+- cada
+- controle
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

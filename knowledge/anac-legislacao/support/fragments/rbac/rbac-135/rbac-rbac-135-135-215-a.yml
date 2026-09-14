@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-215-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.215'
+section_title: 'Voo IFR: limitações operacionais'
+subsection_id: a
+cite: 135.215(a)
+title: 135.215(a)
+text: '(a) Exceto como previsto nos parágrafos (b), (c) e (d) desta seção, é vedado operar
+  uma aeronave em voo IFR fora do espaço aéreo controlado ou em um aeródromo que não tenha
+  um procedimento de aproximação por instrumentos aprovado.
+
+  (1)
+
+  [Reservado]
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- aereo
+- aerodromo
+- aeronave
+- aprovado
+- aproximacao
+- controlado
+- dada
+- desta
+- espaco
+- exceto
+- fora
+- instrumentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

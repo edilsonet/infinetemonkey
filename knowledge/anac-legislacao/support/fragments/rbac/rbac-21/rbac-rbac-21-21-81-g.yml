@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-81-g
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.81'
+section_title: Requisitos para emissão de certificado de tipo provisório Classe I e de suas
+  emendas
+subsection_id: g
+cite: 21.81(g)
+title: 21.81(g)
+text: (g) O requerente deve demonstrar que um protótipo da aeronave voou um mínimo de 50 (cinquenta)
+  horas sob um certificado de autorização de voo experimental emitido de acordo com as seções
+  21.191 até 21.195 ou sob os auspícios das Forças Armadas do Brasil. No caso de uma emenda
+  ao certificado de tipo provisório, a ANAC pode reduzir o número exigido de horas de voo.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- horas
+- provisorio
+- tipo
+- acordo
+- aeronave
+- armadas
+- auspicios
+- autorizacao
+- brasil
+- caso
+- cinquenta
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

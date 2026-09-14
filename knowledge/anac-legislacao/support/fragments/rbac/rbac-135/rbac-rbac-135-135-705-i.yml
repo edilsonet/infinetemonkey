@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-705-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.705'
+section_title: Política e objetivos de segurança operacional
+subsection_id: i
+cite: 135.705(i)
+title: 135.705(i)
+text: '(i) identificar claramente o gestor responsável que, independentemente de outras funções,
+  tenha a responsabilidade final e a obrigação de prestar contas, em nome da organização,
+  pela implementação e manutenção de um SGSO efetivo;
+
+  (ii) definir claramente prerrogativas e responsabilidades sobre segurança operacional em
+  toda a organização, incluindo prerrogativas e responsabilidades sobre segurança operacional
+  da alta direção;
+
+  (iii) identificar as responsabilidades de todos os gestores, independentemente de outras
+  funções, bem como de funcionários, em relação ao desempenho de segurança operacional;
+
+  (iv) documentar e comunicar as informações relativas às prerrogativas, responsabilidades
+  e autoridades sobre segurança operacional de toda a organização; e'
+keywords:
+- taxi-aereo
+- operacoes
+- operacional
+- seguranca
+- responsabilidades
+- organizacao
+- prerrogativas
+- claramente
+- funcoes
+- identificar
+- independentemente
+- outras
+- toda
+- alta
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

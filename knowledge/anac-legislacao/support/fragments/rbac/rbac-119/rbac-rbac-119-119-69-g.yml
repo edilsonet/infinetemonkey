@@ -1,0 +1,39 @@
+id: rbac-rbac-119-119-69-g
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.69'
+section_title: Pessoal de administração requerido para operações conduzidas segundo o RBAC
+  135
+subsection_id: g
+cite: 119.69(g)
+title: 119.69(g)
+text: '(g) Cada empresa deve adotar uma estrutura administrativa que permita a implantação
+  e a
+
+  manutenção de um SGSO, visando atingir o nível aceitável de segurança a ser estabelecido
+  pela
+
+  ANAC. Cabe ao Diretor ou Gerente de Segurança Operacional a administração do referido sistema
+
+  dentro da empresa. (Incluído pela Resolução nº 503, de 07.02.2019)'
+keywords:
+- certificacao-de-operador
+- operacoes
+- administracao
+- empresa
+- seguranca
+- aceitavel
+- administrativa
+- adotar
+- atingir
+- cabe
+- cada
+- conduzidas
+- dentro
+- diretor
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

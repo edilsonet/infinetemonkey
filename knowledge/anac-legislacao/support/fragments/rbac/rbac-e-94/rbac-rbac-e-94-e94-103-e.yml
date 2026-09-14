@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-103-e
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.103
+section_title: Regras gerais para a operação de aeronaves não tripuladas
+subsection_id: e
+cite: E94.103(e)
+title: E94.103(e)
+text: (e) A operação de aeromodelos de peso máximo de decolagem acima de 250 gramas somente
+  é permitida pela ANAC em áreas distantes de terceiros, sob total responsabilidade do seu
+  operador, conforme permitido o uso do espaço aéreo pelo DECEA.
+keywords:
+- operacao
+- acima
+- aereo
+- aeromodelos
+- aeronaves
+- areas
+- decea
+- decolagem
+- distantes
+- espaco
+- gerais
+- gramas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

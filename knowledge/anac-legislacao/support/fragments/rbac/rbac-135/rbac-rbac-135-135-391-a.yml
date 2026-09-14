@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-391-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.391'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações em rota com
+  um motor inoperante'
+subsection_id: a
+cite: 135.391(a)
+title: 135.391(a)
+text: (a) Exceto como previsto no parágrafo (b) desta seção, no caso de um grande avião não
+  incluído na categoria transporte, é vedado decolar este avião com um peso que não permita
+  uma razão de subida de pelo menos 50 pés por minuto, com o motor critico inoperante, a altitude
+  de no mínimo 1000 pés acima da mais alta obstrução dentro da faixa de 5 milhas para cada
+  lado da trajetória pretendida, ou 5000 pés, o que for maior.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- categoria
+- inoperante
+- motor
+- transporte
+- acima
+- alta
+- altitude
+- avioes
+- cada
+- caso
+- critico
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

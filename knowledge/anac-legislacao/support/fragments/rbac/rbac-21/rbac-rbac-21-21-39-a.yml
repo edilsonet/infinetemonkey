@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-39-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.39'
+section_title: Calibração da instrumentação de ensaios em voo e respectivos relatórios
+subsection_id: a
+cite: 21.39(a)
+title: 21.39(a)
+text: (a) O requerente de um certificado de tipo de aeronave das categorias normal, utilidade,
+  acrobática, transporte regional ou transporte deve submeter à apreciação da ANAC um relatório
+  apresentando os cálculos e ensaios requeridos para a calibração da instrumentação a ser
+  usada nos ensaios em voo e para a redução dos dados de ensaios às condições atmosféricas
+  padrão.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- calibracao
+- instrumentacao
+- transporte
+- acrobatica
+- aeronave
+- apreciacao
+- apresentando
+- atmosfericas
+- calculos
+- categorias
+- certificado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

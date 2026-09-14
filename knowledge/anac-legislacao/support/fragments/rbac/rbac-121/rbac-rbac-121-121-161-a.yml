@@ -1,0 +1,40 @@
+id: rbac-rbac-121-121-161-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.161'
+section_title: Limitações dos aviões. Tipo de rota
+subsection_id: a
+cite: 121.161(a)
+title: 121.161(a)
+text: '(a) A menos que aprovado pela ANAC de acordo com o Apêndice P deste regulamento e autorizado
+  nas especificações operativas, nenhum detentor de certificado pode operar um avião com motores
+  à turbina em uma rota que possua um ponto:
+
+  (1) a mais de um tempo de voo, de um Aeródromo Adequado (em velocidade de cruzeiro, em condições
+  padrões e ar calmo com um motor inoperante) de 75 minutos para um avião bimotor ou 180 minutos
+  para um avião com mais de dois motores transportando passageiros;
+
+  (2) na área polar norte; ou
+
+  (3) na área polar sul.'
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- area
+- minutos
+- motores
+- polar
+- rota
+- acordo
+- adequado
+- aerodromo
+- apendice
+- aprovado
+- autorizado
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

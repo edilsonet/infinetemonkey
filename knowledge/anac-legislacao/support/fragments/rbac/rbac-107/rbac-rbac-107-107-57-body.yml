@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-57-body
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.57'
+section_title: '107.57'
+subsection_id: body
+cite: '107.57'
+title: '107.57'
+text: '107.57
+
+  Áreas Controladas e Áreas Restritas de Segurança
+
+  Obrigatório a classificação da área operacional como Área Controlada. Dispensada a classificação
+  como ARS.
+
+  Obrigatório, quando o aeródromo atende voo de aeronave com capacidade superior a 30 assentos.
+  Em aeródromo que atenda voo com até 30 assentos, a classificação pode ser feita como AC
+  ou ARS.
+
+  Obrigatório.
+
+  Obrigatório.'
+keywords:
+- seguranca
+- aeroporto
+- obrigatorio
+- classificacao
+- aerodromo
+- area
+- areas
+- assentos
+- aeronave
+- atenda
+- atende
+- capacidade
+- controlada
+- controladas
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

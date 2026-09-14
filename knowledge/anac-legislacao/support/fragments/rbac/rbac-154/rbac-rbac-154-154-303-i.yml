@@ -1,0 +1,97 @@
+id: rbac-rbac-154-154-303-i
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.303'
+section_title: Sinalização horizontal
+subsection_id: i
+cite: 154.303(i)
+title: 154.303(i)
+text: '(i) A sinalização horizontal de designação de pista de pouso e decolagem consiste em
+  um
+
+  número de dois dígitos, podendo ser complementada com uma letra em pistas de pouso e decolagem
+
+  paralelas. Em pistas de pouso e decolagem únicas, duplas paralelas e triplas paralelas,
+  o número de
+
+  dois dígitos deve ser o número inteiro decimal mais próximo, considerando o Norte Magnético
+  como
+
+  parâmetro de direção, quando visto da direção de aproximação. Em quatro ou mais pistas de
+  pouso e
+
+  decolagem paralelas, um conjunto de pistas adjacentes deve ser numerado com o azimute magnético
+
+  decimal mais próximo e o outro conjunto de pistas adjacentes deve ser numerado com o azimute
+
+  magnético decimal posterior mais próximo. Quando a norma acima causar um número de um único
+
+  dígito, este deve ser precedido por um zero.
+
+  (ii) No caso de pistas de pouso e decolagem paralelas, cada número de designação de pista
+
+  deve ser complementado com uma letra, como segue, na ordem demonstrada da esquerda para
+  a
+
+  direita, quando vistas da direção de aproximação:
+
+  (A) para duas pistas paralelas: “L” “R”;
+
+  (B) para três pistas paralelas: “L” “C” “R”;
+
+  (C) para quatro pistas paralelas: “L” “R” “L” “R”;
+
+  (D) para cinco pistas paralelas: “L” “C” “R” “L” “R” ou “L” “R” “L” “C” “R”; e
+
+  (E) para seis pistas paralelas: “L” “C” “R” “L” “C” “R”.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura D-2. Sinalização horizontal de designação de pista de pouso e decolagem, de eixo
+  e
+
+  cabeceira (Alterado pela Resolução nº 465, de 13.03.2018)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura D-3. Formato e proporções dos números e letras para sinalização horizontal de designação
+
+  de pistas de pouso e decolagem (dimensões em m). (Alterado pela Resolução nº 465, de
+
+  13.03.2018)
+
+  (iii) Os números e as letras devem ser conforme os formatos e proporções demonstrados na
+
+  Figura D-3. As dimensões não devem ser menores que as dimensões descritas na Figura D-3,
+  mas
+
+  quando os números forem incluídos na sinalização horizontal de cabeceira, dimensões maiores
+  devem
+
+  ser utilizadas de modo a preencher adequadamente o vão entre as faixas da sinalização horizontal
+  da
+
+  cabeceira.'
+keywords:
+- seguranca-aeroportuaria
+- pistas
+- paralelas
+- decolagem
+- pouso
+- horizontal
+- sinalizacao
+- numero
+- designacao
+- dimensoes
+- figura
+- cabeceira
+- decimal
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

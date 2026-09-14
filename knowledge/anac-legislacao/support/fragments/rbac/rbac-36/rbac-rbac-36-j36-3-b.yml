@@ -1,0 +1,160 @@
+id: rbac-rbac-36-j36-3-b
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: J36.3
+section_title: of this apendix, then with FA aproval, the reference test conditions used under
+  this
+subsection_id: b
+cite: J36.3(b)
+title: J36.3(b)
+text: '(b)
+
+  Noise unit definition.
+
+  (1) The value of sound exposure level (SEL, or as denoted by symbol,
+
+  L
+
+  AE
+
+  ), is defined as the level, in dec
+
+  ibels, of the time integ
+
+  - weighted sound
+
+  presure (P
+
+  A ) over a given time period or event, with reference to the square of the standard
+
+  reference sound presure (P
+
+  O ) of 20 micropascals and a reference duration of one second.
+
+
+  (2) This unit i
+
+  s defined by the expresion:
+
+
+  Where T
+
+  O is the reference integration time of one second and (t
+
+  2 - t 1 ) is the integration time interval.
+
+
+  (3) The integral equation of paragraph (b)(2) of this section can also
+
+  be expresed as:
+
+
+  Where L
+
+  A (t) is the time varying A
+
+  - weighted sound level.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  10
+
+  7 / 121
+
+
+  (4) The integration time (t
+
+  2 - t 1 ) in practice shal not be les than the time interval during which L
+
+  A (t)
+
+  first rises to within
+
+  10 dB(A) of its maximum value (L
+
+  AMAX
+
+  ) and last fals below 10 dB(A) of its
+
+  maximum value.
+
+
+  (5) The SEL may be aproximated by the folowing expresion:
+
+
+  L
+
+  AE
+
+  =L
+
+  AMAX
+
+  + <delta> A
+
+
+  where <delta> A is the duration alowance given by:
+
+
+  <delta> A=10 log
+
+  10 (T)
+
+
+  where T=(t
+
+  2 - t 1 )/2 and L
+
+  AMAX
+
+  is defined as the maximum level, in decibels, of the A
+
+  - weighted sound
+
+  presure (slow response) with reference to the square of the standard reference sound presure
+  (P
+
+  0 ).'
+keywords:
+- ruido
+- meio-ambiente
+- reference
+- time
+- sound
+- level
+- presure
+- this
+- where
+- amax
+- defined
+- delta
+- integration
+- maximum
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-110-emd-02-110-27-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.27'
+section_title: Requisitos para obtenção de autorização de centro de instrução
+subsection_id: a
+cite: 110.27(a)
+title: 110.27(a)
+text: '(a) São requisitos para a obtenção de autorização de centro de instrução:
+
+  (1) ser pessoa jurídica;
+
+  (2) possuir sede administrativa localizada no Brasil;
+
+  (3) possuir em seu quadro funcional, no mínimo, um responsável técnico, com certificação
+  em Instrutor AVSEC válida.
+
+  (4) possuir MPCI aprovado pela ANAC e em conformidade com os requisitos previstos neste
+  Regulamento.'
+keywords:
+- carga
+- operacoes
+- possuir
+- requisitos
+- autorizacao
+- centro
+- instrucao
+- obtencao
+- administrativa
+- aprovado
+- avsec
+- brasil
+- certificacao
+- conformidade
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

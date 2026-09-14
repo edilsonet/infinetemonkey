@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-283-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.283'
+section_title: Prevenção de gelo no sistema de indução de ar
+subsection_id: body
+cite: '121.283'
+title: Prevenção de gelo no sistema de indução de ar
+text: '121.283 Prevenção de gelo no sistema de indução de ar
+
+  Cada avião deve possuir um sistema que evite mau funcionamento de cada motor devido ao acumulo
+  de gelo no sistema de indução de ar desse motor.'
+keywords:
+- transporte-aereo
+- operacoes
+- sistema
+- gelo
+- inducao
+- prevencao
+- cada
+- motor
+- acumulo
+- aviao
+- desse
+- devido
+- evite
+- funcionamento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

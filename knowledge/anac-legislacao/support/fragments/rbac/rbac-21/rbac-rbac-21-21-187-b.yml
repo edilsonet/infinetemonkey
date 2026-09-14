@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-187-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.187'
+section_title: Emissão de certificado de aeronavegabilidade múltiplo
+subsection_id: b
+cite: 21.187(b)
+title: 21.187(b)
+text: (b) O operador de uma aeronave detentora de certificado de aeronavegabilidade emitido
+  segundo esta seção deve submeter a aeronave a uma inspeção conduzida pela ANAC, ou por uma
+  pessoa com habilitação de mecânico de célula, para verificar a aeronavegabilidade da aeronave
+  após cada conversão da categoria restrita para outra categoria, se a conversão tiver por
+  objetivo o transporte aéreo público de passageiros, a menos que a ANAC considere, para um
+  caso particular, tal exigência desnecessária para a segurança.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- categoria
+- certificado
+- conversao
+- aereo
+- cada
+- caso
+- celula
+- conduzida
+- considere
+- desnecessaria
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

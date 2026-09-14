@@ -1,0 +1,78 @@
+id: rbac-rbac-153-153-55-d
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.55'
+section_title: '153.55'
+subsection_id: d
+cite: 153.55(d)
+title: 153.55(d)
+text: '(d) O resultado do processo de gerenciamento de risco deve ser consolidado em um formulário
+
+  padronizado de Análise de Impacto sobre a Segurança Operacional (AISO), o qual deve apresentar:
+
+  (1)
+
+  descrição e motivação do objeto da AISO;
+
+  (2)
+
+  perigos identificados;
+
+  (3)
+
+  análise dos perigos identificados;
+
+  (4)
+
+  estimativa das consequências relacionadas a cada perigo identificado;
+
+  (5)
+
+  risco associado a cada consequência e sua tolerabilidade em função de defesas existentes;
+
+  (6)
+
+  proposição de medidas adicionais para eliminação ou mitigação dos riscos, quando
+
+  aplicável;
+
+  (7)
+
+  risco de cada consequência e sua tolerabilidade em função das defesas existentes e das
+
+  medidas adicionais estabelecidas;
+
+
+  Data da emissão: 15 de março de 2021.
+
+
+  (8)
+
+  indicação do responsável por cada medida adicional proposta ou defesas existentes;
+
+  (9)
+
+  indicação do prazo de execução ou de implantação para cada medida adicional proposta
+
+  ou defesas existentes, quando aplicável.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- cada
+- defesas
+- existentes
+- risco
+- adicionais
+- adicional
+- aiso
+- analise
+- aplicavel
+- consequencia
+- funcao
+- identificados
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

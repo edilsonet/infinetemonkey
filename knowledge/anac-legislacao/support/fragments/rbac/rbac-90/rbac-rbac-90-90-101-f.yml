@@ -1,0 +1,30 @@
+id: rbac-rbac-90-90-101-f
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: f
+cite: 90.101(f)
+title: 90.101(f)
+text: (f) A UAP deverá elaborar e submeter à aprovação do gestor da UAP o sistema de manuais
+  e suas revisões antes de sua implantação.
+keywords:
+- regras-de-voo
+- operacoes
+- aprovacao
+- devera
+- elaborar
+- gerais
+- gestor
+- implantacao
+- manuais
+- requisitos
+- revisoes
+- sistema
+- submeter
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,52 @@
+id: rbac-rbac-90-90-101-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 90.101(b)
+title: 90.101(b)
+text: '(b) Cada publicação do sistema de manuais estabelecido no parágrafo (a) desta seção
+  deverá:
+
+  (1) ser aprovada pelo gestor da UAP;
+
+  (2) ser aprovada pela ANAC, somente para as publicações de programa de treinamento e MEL;
+
+  (3) estabelecer os procedimentos para revisão, distribuição e controle;
+
+  (4) estar atualizada com o AFM ou AOM;
+
+  (5) estar à disposição de todo o pessoal de solo e de voo envolvido da UAP;
+
+  (6) ser clara, objetiva e coesa;
+
+  (7) compor o programa de treinamento da UAP;
+
+  (8) ser implantada de tal forma que os profissionais envolvidos na operação compreendam
+  as razões de cada publicação e para cada procedimento definido pela UAP;
+
+  (9) conter instruções para cumprimento das atribuições da UAP e de seu pessoal; e
+
+  (10) incentivar o processo de revisões por parte do pessoal da UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- cada
+- pessoal
+- aprovada
+- estar
+- programa
+- publicacao
+- treinamento
+- atribuicoes
+- atualizada
+- clara
+- coesa
+- compor
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

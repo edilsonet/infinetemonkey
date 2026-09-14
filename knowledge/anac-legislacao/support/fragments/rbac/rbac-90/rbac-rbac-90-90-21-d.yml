@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-21-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: d
+cite: 90.21(d)
+title: 90.21(d)
+text: (d) A tripulação operacional de helicópteros nas operações aéreas de carga externa,
+  onde as limitações de desempenho da aeronave puderem comprometer o nível de segurança operacional,
+  deverá ser composta por, no mínimo, um piloto em comando, segundo a seção 90.23 deste Regulamento.
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- tripulacao
+- aereas
+- aeronave
+- carga
+- comando
+- composta
+- comprometer
+- desempenho
+- deste
+- devera
+- externa
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

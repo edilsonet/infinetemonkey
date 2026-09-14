@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-431-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.431'
+section_title: Análise e supervisão continuada
+subsection_id: c
+cite: 135.431(c)
+title: 135.431(c)
+text: (c) O detentor do certificado pode requerer à ANAC reconsideração da notificação determinando
+  mudança de um programa. O requerimento deve ser submetido à ANAC no máximo 30 dias após
+  o recebimento da notificação. Exceto no caso de uma emergência requerendo ação imediata,
+  no interesse da segurança, a submissão de um requerimento de reconsideração suspende a entrada
+  em vigor da modificação, até a decisão final da ANAC.
+keywords:
+- taxi-aereo
+- operacoes
+- notificacao
+- reconsideracao
+- requerimento
+- acao
+- analise
+- caso
+- certificado
+- continuada
+- decisao
+- detentor
+- determinando
+- dias
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

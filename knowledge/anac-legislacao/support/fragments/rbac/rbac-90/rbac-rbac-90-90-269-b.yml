@@ -1,0 +1,31 @@
+id: rbac-rbac-90-90-269-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.269'
+section_title: Registro de horas de voo NVIS
+subsection_id: b
+cite: 90.269(b)
+title: 90.269(b)
+text: (b) A UAP poderá realizar a comprovação de horas de voo em operações aéreas NVIS por
+  meio de declaração de comprovação de horas, assinada pelo gestor da UAP, segundo a subparte
+  D deste Regulamento.
+keywords:
+- regras-de-voo
+- operacoes
+- horas
+- comprovacao
+- nvis
+- aereas
+- assinada
+- declaracao
+- deste
+- gestor
+- meio
+- realizar
+- registro
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

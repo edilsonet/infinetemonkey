@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-19-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.19
+section_title: Componentes do sistema de combustível
+subsection_id: a
+cite: A135.19(a)
+title: A135.19(a)
+text: (a) Bombas de combustível. Para aviões com motores turboélice, deve ser provida uma
+  fonte de potência confiável e independente para cada bomba usada com motores a turbina que
+  não possuam provisões para acionar mecanicamente as bombas principais. Deve ser demonstrado
+  que as instalações das bombas proporcionam confiabilidade e durabilidade equivalentes às
+  previstas no RBAC nº 23.
+keywords:
+- taxi-aereo
+- operacoes
+- bombas
+- combustivel
+- motores
+- a135
+- acionar
+- avioes
+- bomba
+- cada
+- componentes
+- confiabilidade
+- confiavel
+- demonstrado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

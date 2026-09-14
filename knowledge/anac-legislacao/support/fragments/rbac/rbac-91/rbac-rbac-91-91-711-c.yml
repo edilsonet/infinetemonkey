@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-711-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.711'
+section_title: Requisitos para aeronaves civis
+subsection_id: c
+cite: 91.711(c)
+title: 91.711(c)
+text: '(c) Somente é permitido operar uma aeronave
+
+  civil estrangeira em voo IFR se:
+
+  (1) that aircraft is equipped with:
+
+  (1) a aeronave estiver equipada com:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- aeronaves
+- aircraft
+- civil
+- civis
+- equipada
+- equipped
+- estiver
+- estrangeira
+- operar
+- permitido
+- requisitos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

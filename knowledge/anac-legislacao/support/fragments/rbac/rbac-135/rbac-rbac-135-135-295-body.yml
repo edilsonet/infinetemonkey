@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-295-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.295'
+section_title: Requisitos de exame inicial e periódico para comissários
+subsection_id: body
+cite: '135.295'
+title: Requisitos de exame inicial e periódico para comissários
+text: '135.295 Requisitos de exame inicial e periódico para comissários
+
+  O detentor de certificado somente pode utilizar uma pessoa como comissário e uma pessoa
+  somente pode trabalhar como comissário em um voo se, dentro dos 12 meses calendáricos precedendo
+  esse voo, o detentor de certificado tiver verificado por apropriado exame inicial ou periódico,
+  aplicado por servidor designado pela ANAC ou por um comissário examinador credenciado, que
+  essa pessoa tem conhecimento e competência nas seguintes áreas, como apropriado para os
+  deveres e responsabilidades que lhe serão atribuídos:'
+keywords:
+- taxi-aereo
+- operacoes
+- exame
+- inicial
+- periodico
+- comissario
+- comissarios
+- pessoa
+- requisitos
+- apropriado
+- certificado
+- detentor
+- pode
+- somente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

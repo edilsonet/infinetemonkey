@@ -1,0 +1,1217 @@
+id: rbac-rbac-60-apendice-c-appendix-c-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: apendice-c-appendix-c
+section_title: APÊNDICE C (APPENDIX C)
+subsection_id: b
+cite: apendice-c-appendix-c(b)
+title: apendice-c-appendix-c(b)
+text: '(b) Cada FFS deve possuir um QTG, aceito
+
+  pela ANAC, contendo:
+
+  (1) Objective data obtained from
+
+  traditional aircraft testing or another approved
+
+  source;
+
+  (1) Dados objetivos obtidos de ensaio
+
+  em voo da aeronave ou outra fonte de dados
+
+  aprovada;
+
+  (2) The results of FFS objective tests;
+
+  (2) Os resultados dos testes objetivos do
+
+  FFS;
+
+  (3) The results of FFS subjective tests;
+
+  and
+
+  (3) Os resultados dos testes subjetivos
+
+  do FFS; e
+
+  (4) A description of the equipment
+
+  necessary to perform the evaluation for initial
+
+  qualification and the continuing qualification
+
+  evaluations.
+
+  (4) Uma descrição do equipamento
+
+  necessário para executar as avaliações para
+
+  qualificação inicial e para qualificação
+
+  recorrente.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table C1 - General technical requirements for level B, C and D full-flight simulators -
+
+  Helicopter
+
+
+  Qualification Level
+
+  General technical requirements
+
+  B
+
+  The lowest level of FFS technical complexity for a helicopter.
+
+  An enclosed full-scale replica of the helicopter cockpit with representative pilots’
+
+  seats, including simulation of all systems, instruments, navigational equipment,
+
+  communications and caution and warning systems.
+
+  An instructor’s station with seat should be provided and at least one additional seat
+
+  for inspectors/observers.
+
+  Static control forces and displacement characteristics should correspond to that of
+
+  the replicated helicopter and they should reflect the helicopter under the same static
+
+  flight conditions.
+
+  Motion, visual and sound systems sufficient to support the training, testing and
+
+  checking credits sought are required.
+
+  The response to control inputs should not be greater than 150 ms more than that
+
+  experienced on the helicopter.
+
+  Validation flight test data should be used as the basis for flight and performance
+
+  and systems characteristics.
+
+  Additionally ground handling and aerodynamics programming to include ground
+
+  effect reaction and handling characteristics should be derived from validation flight
+
+  test data.
+
+  A motion system having a minimum of three degrees of freedom (pitch, roll, and
+
+  heave) to accomplish the required training tasks should be provided. A reduced six-
+
+  axis motion performance envelope is acceptable.
+
+  See table C2 for more simulator requirements.
+
+  C
+
+  The second highest level of simulator performance. As for level B plus: A
+
+  daylight/dusk/night visual system is required with a continuous field of view per
+
+  pilot of not less than 146° horizontal and 36º vertical.
+
+  The sound simulation should include the sounds of precipitation and significant
+
+  helicopter noises perceptible to the pilot and should be able to reproduce the sounds
+
+  of a crash landing.
+
+  The response to control inputs should not be greater than 100 ms more than that
+
+  experienced on the helicopter.
+
+  Turbulence and other atmospheric models should be provided to support the
+
+  training, testing and checking credit sought.
+
+  See table C2 for more simulator requirements.
+
+  D
+
+  The highest level of simulator performance.
+
+  As for level C plus:
+
+  A full daylight/dusk/night visual system is required with a continuous field of view
+
+  per pilot of not less than 176° horizontal and 56° vertical and an extended set of
+
+  sound and motion buffet tests.
+
+  See table C2 for more simulator requirements.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table C2 - General Simulator Requirements
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  1.
+
+  General Flight Deck Configuration.
+
+  See next
+
+  None
+
+  1.a.
+
+  The simulator must have a flight deck that is a replica of the helicopter being simulated.
+
+  The simulator must have controls, equipment, observable flight deck indicators, circuit
+
+  breakers, and bulkheads properly located, functionally accurate and replicating the
+
+  helicopter. The direction of movement of controls and switches must be identical to that
+
+  in the helicopter. Pilot seats must afford the capability for the occupant to be able to
+
+  achieve the design “eye position” established for the helicopter being simulated.
+
+  Equipment for the operation of the flight deck windows must be included, but the actual
+
+  windows need not be operable. Fire axes, extinguishers, and spare light bulbs must be
+
+  available in the FFS but may be relocated to a suitable location as near as practical to
+  the
+
+  original position. Fire axes, landing gear pins, and any similar purpose instruments need
+
+  only be represented in silhouette.
+
+  B,C,D
+
+  For simulator purposes, the
+
+  flight deck consists of all that
+
+  space forward of a cross section
+
+  of the fuselage at the most
+
+  extreme aft setting of the pilots''
+
+  seats including additional,
+
+  required flight crewmember duty
+
+  stations and those required
+
+  bulkheads aft of the pilot seats.
+
+  For clarification, bulkheads
+
+  containing only items such as
+
+  landing gear pin storage
+
+  compartments, fire axes and
+
+  extinguishers, spare light bulbs,
+
+  and aircraft documents pouches
+
+  are not considered essential and
+
+  may be omitted.
+
+  1.b.
+
+  Those circuit breakers that affect procedures or result in observable flight deck indications
+
+  must be properly located and functionally accurate.
+
+  B,C,D
+
+  None
+
+  2.
+
+  Programming.
+
+  See next
+
+  None
+
+  2.a.
+
+  A flight dynamics model that accounts for various combinations of air speed and power
+
+  normally encountered in flight must correspond to actual flight conditions, including the
+
+  effect of change in helicopter attitude, aerodynamic and propulsive forces and moments,
+
+  altitude, temperature, mass, center of gravity location, and configuration.
+
+  An SOC is required.
+
+  B,C,D
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  2.b.
+
+  The simulator must have the computer capacity, accuracy, resolution, and dynamic
+
+  response needed to meet the qualification level sought.
+
+  An SOC is required.
+
+  B,C,D
+
+  None
+
+  2.c.
+
+  Ground handling (where appropriate) and aerodynamic programming must include the
+
+  following:
+
+  See next
+
+  None
+
+  2.c.1.
+
+  Ground effect.
+
+  Level B does not require hover programming. An SOC is required.
+
+  B,C,D
+
+  Applicable areas include flare
+
+  and touch down from a running
+
+  landing as well as for in-ground-
+
+  effect (IGE) hover. A reasonable
+
+  simulation of ground effect
+
+  includes modeling of lift, drag,
+
+  pitching moment, trim, and
+
+  power while in ground effect.
+
+  2.c.2.
+
+  Ground reaction.
+
+  Level B does not require hover programming. An SOC is required.
+
+  B,C,D
+
+  Reaction of the helicopter upon
+
+  contact with the landing surface
+
+  during landing (e.g., strut
+
+  deflection, tire or skid friction,
+
+  side forces) may differ with
+
+  changes in gross weight,
+
+  airspeed, rate of descent on
+
+  touchdown, and slide slip.
+
+  2.d.
+
+  The simulator must provide for manual and automatic testing of simulator hardware and
+
+  software programming to determine compliance with simulator objective tests.
+
+  An SOC is required.
+
+  C,D
+
+  This may include an automated
+
+  system, which could be used for
+
+  conducting at least a portion of
+
+  the QTG tests. Automatic
+
+  “flagging” of out-of-tolerance
+
+  situations is encouraged.
+
+  2.e.
+
+  The relative responses of the motion system, visual system, and flight deck instruments
+
+  See next
+
+  The intent is to verify that the
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  must be measured by latency tests or transport delay tests. Motion onset must occur
+
+  before the end of the scan of that video field. Instrument response may not occur prior
+  to
+
+  motion onset. Test results must be within the following limits:
+
+  simulator provides instrument,
+
+  motion, and visual cues that are
+
+  like the helicopter responses
+
+  within the stated time delays. It
+
+  is preferable motion onset occur
+
+  before the start of the visual
+
+  scene change (the start of the
+
+  scan of the first video field
+
+  containing different
+
+  information). For helicopter
+
+  response, acceleration in the
+
+  appropriate corresponding
+
+  rotational axis is preferred.
+
+  2.e.1.
+
+  Response must be within 150 milliseconds of the helicopter response.
+
+  B
+
+  None
+
+  2.e.2.
+
+  Response must be within 100 milliseconds of the helicopter response.
+
+  C,D
+
+  None
+
+  2.f.
+
+  The simulator must simulate brake and tire failure dynamics (including antiskid failure,
+  if
+
+  appropriate).
+
+  An SOC is required.
+
+  C,D
+
+  The simulator should represent
+
+  the motion (in the appropriate
+
+  axes) and the directional control
+
+  characteristics of the helicopter
+
+  when experiencing simulated
+
+  brake or tire failures.
+
+  2.g.
+
+  The aerodynamic modeling in the simulator must include:
+
+  (1) Ground effect,
+
+  (2) Effects of airframe and rotor icing (if applicable),
+
+  (3) Aerodynamic interference effects between the rotor wake and fuselage,
+
+  (4) Influence of the rotor on control and stabilization systems,
+
+  (5) Representations of settling with power, and
+
+  C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  (6) Retreating blade stall. An SOC is required.
+
+  2.h.
+
+  The simulator must provide for realistic mass properties, including gross weight, center
+  of
+
+  gravity, and moments of inertia as a function of payload and fuel loading
+
+  An SOC is required.
+
+  B,C,D
+
+  None
+
+  3.
+
+  Equipment Operation.
+
+  See next
+
+  None
+
+  3.a.
+
+  All relevant instrument indications involved in the simulation of the helicopter must
+
+  automatically respond to control movement or external disturbances to the simulated
+
+  helicopter; e.g., turbulence or windshear. Numerical values must be presented in the
+
+  appropriate units.
+
+  B,C,D
+
+  None
+
+  3.b.
+
+  Communications, navigation, caution, and warning equipment must be installed and
+
+  operate within the tolerances applicable for the helicopter being simulated.
+
+  B,C,D
+
+  NA
+
+  3.c.
+
+  Simulated helicopter systems must operate as the helicopter systems operate under
+
+  normal, abnormal, and emergency operating conditions on the ground and in flight.
+
+  B,C,D
+
+  None
+
+  3.d.
+
+  The simulator must provide pilot controls with control forces and control travel that
+
+  correspond to the simulated helicopter. The simulator must also react in the same manner
+
+  as the helicopter under the same flight conditions.
+
+  B,C,D
+
+  None
+
+  3.e.
+
+  Simulator control feel dynamics must replicate the helicopter simulated. This must be
+
+  determined by comparing a recording of the control feel dynamics of the simulator to
+
+  helicopter measurements. For initial and upgrade evaluations, the control dynamic
+
+  characteristics must be measured and recorded directly from the flight deck controls, and
+
+  must be accomplished in takeoff, cruise, and landing conditions and configurations.
+
+  C,D
+
+  None
+
+  4.
+
+  Instructor / Evaluator Facilities.
+
+  See next
+
+  None
+
+  4.a.
+
+  In addition to the flight crewmember stations, the simulator must have at least two
+
+  suitable seats for the instructor/check airman and ANAC inspector. These seats must
+
+  provide adequate vision to the pilot''s panel and forward windows. All seats other than
+
+  flight crew seats need not represent those found in the helicopter but must be adequately
+
+  B,C,D
+
+  The ANAC will consider
+
+  alternatives to this standard for
+
+  additional seats based on unique
+
+  flight deck configurations
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  secured to the floor and equipped with similar positive restraint devices.
+
+  4.b.
+
+  The simulator must have controls that enable the instructor/evaluator to control all
+
+  required system variables and insert all abnormal or emergency conditions into the
+
+  simulated helicopter systems as described in the sponsor’s ANAC-approved
+
+  training program, or as described in the relevant operating manual as appropriate.
+
+  B,C,D
+
+  None
+
+  4.c.
+
+  The simulator must have instructor controls for all environmental effects expected to be
+
+  available at the IOS; e.g., clouds, visibility, icing, precipitation, temperature, storm
+  cells,
+
+  and wind speed and direction.
+
+  B,C,D
+
+  None
+
+  4.d.
+
+  The simulator must provide the instructor or evaluator the ability to present ground and
+  air
+
+  hazards.
+
+  C,D
+
+  For example, another aircraft
+
+  crossing the active runway and
+
+  converging airborne traffic.
+
+  4.e.
+
+  The simulator must provide the instructor or evaluator the ability to present the effect
+  of
+
+  re-circulating dust, water vapor, or snow conditions that develop as a result of rotor
+
+  downwash.
+
+  C,D
+
+  This is a selectable condition
+
+  that is not required for all
+
+  operations on or near the
+
+  surface.
+
+  5.
+
+  Motion System.
+
+  See next
+
+  5.a.
+
+  The simulator must have motion (force) cues perceptible to the pilot that are
+
+  representative of the motion in a helicopter.
+
+  B,C,D
+
+  For example, touchdown cues
+
+  should be a function of the rate
+
+  of descent (RoD) of the
+
+  simulated helicopter.
+
+  5.b.
+
+  The simulator must have a motion (force cueing) system with a minimum of three degrees
+
+  of freedom (at least pitch, roll, and heave).
+
+  An SOC is required.
+
+  B
+
+  None
+
+  5.c.
+
+  The simulator must have a motion (force cueing) system that produces cues at least
+
+  equivalent to those of a six-degrees-of-freedom, synergistic platform motion system (i.e.,
+
+  pitch, roll, yaw, heave, sway, and surge).
+
+  C,D
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  An SOC is required.
+
+  5.d.
+
+  The simulator must provide for the recording of the motion system response time.
+
+  An SOC is required.
+
+  B,C,D
+
+  None
+
+  5.e.
+
+  The simulator must provide motion effects programming to include the following:
+
+  See next
+
+  None
+
+  5.e.
+
+  (1) Runway rumble, oleo deflections, effects of ground speed, uneven runway,
+
+  characteristics.
+
+  (2) Buffets due to transverse flow effects.
+
+  (3) Buffet during extension and retraction of landing gear.
+
+  (4) Buffet due to retreating blade stall.
+
+  (5) Buffet due to vortex ring (settling with power).
+
+  (6) Representative cues resulting from touchdown.
+
+  (7) High speed rotor vibrations.
+
+  B,C,D
+
+  None
+
+  (8) Tire failure dynamics.
+
+  (9) Engine malfunction and engine damage.
+
+  (10) Airframe ground strike.
+
+  C,D
+
+  None
+
+  5.e.
+
+  (11) Motion vibrations that result from atmospheric disturbances.
+
+  D
+
+  For air turbulence, general
+
+  purpose disturbance models are
+
+  acceptable if, when used, they
+
+  produce test results that
+
+  approximate demonstrable flight
+
+  test data.
+
+  5.f.
+
+  The simulator must provide characteristic motion vibrations that result from operation of
+
+  the helicopter (for example, retreating blade stall, extended landing gear, settling with
+
+  power) in so far as vibration marks an event or helicopter state, which can be sensed in
+  the
+
+  D
+
+  The simulator should be
+
+  programmed and instrumented
+
+  in such a manner that the
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  flight deck.
+
+  characteristic buffet modes can
+
+  be measured and compared to
+
+  helicopter data.
+
+  6.
+
+  Visual System.
+
+  See next
+
+  Additional horizontal field-of-
+
+  view capability may be added at
+
+  the sponsor’s discretion
+
+  provided the minimum field-of-
+
+  view is retained.
+
+  6.a.
+
+  The simulator must have a visual system providing an out-of-the-flight deck view.
+
+  B,C,D
+
+  None
+
+  6.b.
+
+  The simulator must provide a continuous field-of-view of at least 75º horizontally and 30º
+
+  vertically per pilot seat. Both pilot seat visual systems must be operable simultaneously.
+
+  The minimum horizontal field-of-view coverage must be plus and minus one-half (½) of
+
+  the minimum continuous field-of-view requirement, centered on the zero degree azimuth
+
+  line relative to the aircraft fuselage. An SOC must explain the geometry of the
+
+  installation.
+
+  An SOC is required.
+
+  B
+
+  None
+
+  6.c.
+
+  The simulator must provide a continuous visual field-of-view of at least 146° horizontally
+
+  and 36° vertically per pilot seat. Both pilot seat visual systems must be operable
+
+  simultaneously. Horizontal field-of-view is centered on the zero degree azimuth line
+
+  relative to the aircraft fuselage. The minimum horizontal field-of-view coverage must be
+
+  plus and minus one-half (½) of the minimum continuous field-of-view requirement,
+
+  centered on the zero degree azimuth line relative to the aircraft fuselage. An SOC must
+
+  explain the geometry of the installation. Capability for a field-of-view in excess of the
+
+  minimum is not required for qualification at Level C. However, where specific tasks
+
+  require extended fields of view beyond the 146º by 36º (e.g., to accommodate the use of
+
+  “chin windows” where the accommodation is either integral with or separate from the
+
+  primary visual system display), then the extended fields of view must be provided. When
+
+  considering the installation and use of augmented fields of view, the sponsor must meet
+
+  with the ANAC to determine the training, testing, checking, and experience tasks for
+
+  C
+
+  Optimization of the vertical
+
+  field-of-view may be considered
+
+  with respect to the specific
+
+  helicopter flight deck cut-off
+
+  angle.
+
+  The sponsor may request the
+
+  ANAC to evaluate the FFS for
+
+  specific authorization(s) for the
+
+  following:
+
+  Specific areas within the
+
+  database needing higher
+
+  resolution to support landings,
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  which the augmented field-of-view capability may be required.
+
+  An SOC is required.
+
+  take-offs and ground cushion
+
+  exercises and training away
+
+  from a heliport, including
+
+  elevated heliport, helidecks and
+
+  confined areas.
+
+  For cross-country flights,
+
+  sufficient scene details to allow
+
+  for ground to map navigation
+
+  over a sector length equal to 30
+
+  minutes at an average cruise
+
+  speed.
+
+  For offshore airborne radar
+
+  approaches (ARA), harmonized
+
+  visual/radar representations of
+
+  installations.
+
+  6.d.
+
+  The simulator must provide a continuous visual field-of-view of at least 176° horizontally
+
+  and 56° vertically per pilot seat. Both pilot seat visual systems must be operable
+
+  simultaneously. Horizontal field-of-view is centered on the zero degree azimuth line
+
+  relative to the aircraft fuselage. The minimum horizontal field-of-view coverage must be
+
+  plus and minus one-half (½) of the minimum continuous field-of-view requirement,
+
+  centered on the zero degree azimuth line relative to the aircraft fuselage. An SOC must
+
+  explain the geometry of the installation. Capability for a field-of-view in excess of the
+
+  minimum is not required for qualification at Level D. However, where specific tasks
+
+  require extended fields of view beyond the 176º by 56º (e.g., to accommodate the use of
+
+  “chin windows” where the accommodation is either integral with or separate from the
+
+  primary visual system display), then the extended fields of view must be provided. When
+
+  considering the installation and use of augmented fields of view, the sponsor must meet
+
+  with the ANAC to determine the training, testing, checking, and experience tasks for
+
+  which the augmented field-of-view capability may be required.
+
+  D
+
+  Optimization of the vertical
+
+  field-of-view may be considered
+
+  with respect to the specific
+
+  helicopter flight deck cut-off
+
+  angle.
+
+  The sponsor may request the
+
+  ANAC to evaluate the FFS for
+
+  specific authorization(s) for the
+
+  following:
+
+  Specific areas within the
+
+  database needing higher
+
+  resolution to support landings,
+
+  take-offs and ground cushion
+
+  exercises and training away
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  An SOC is required.
+
+  from a heliport, including
+
+  elevated heliport, helidecks and
+
+  confined areas.
+
+  For cross-country flights,
+
+  sufficient scene details to allow
+
+  for ground to map navigation
+
+  over a sector length equal to 30
+
+  minutes at an average cruise
+
+  speed.
+
+  For offshore airborne radar
+
+  approaches (ARA), harmonized
+
+  visual/radar representations of
+
+  installations.
+
+  6.e.
+
+  The visual system must be free from optical discontinuities and artifacts that create non-
+
+  realistic cues.
+
+  B,C,D
+
+  Non-realistic cues might include
+
+  image “swimming” and image
+
+  “roll-off,” that may lead a pilot
+
+  to make incorrect assessments of
+
+  speed, acceleration and/or
+
+  situational awareness.
+
+  6.f.
+
+  The simulator must have operational landing lights for night scenes.
+
+  Where used, dusk (or twilight) scenes require operational landing lights.
+
+  B,C,D
+
+  None
+
+  6.g.
+
+  The simulator must have instructor controls for the following:
+
+  (1) Visibility in statute miles (kilometers) and runway visual range (RVR) in ft.
+
+  (meters).
+
+  (2) Airport or landing area selection.
+
+  (3) Airport or landing area lighting.
+
+  B,C,D
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  6.h.
+
+  Each airport scene displayed must include the following:
+
+  (1) Airport runways and taxiways.
+
+  (2) Runway definition:'
+keywords:
+- simuladores
+- treinamento
+- must
+- simulator
+- helicopter
+- view
+- flight
+- none
+- required
+- field
+- that
+- motion
+- visual
+- with
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

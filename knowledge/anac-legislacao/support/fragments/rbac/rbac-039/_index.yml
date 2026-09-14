@@ -1,0 +1,56 @@
+document: rbac-039
+kind: rbac
+title: RBAC 039 EMD 00
+ementa: Diretrizes de aeronavegabilidade
+family: '39'
+categories:
+- diretrizes-de-aeronavegabilidade
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-039
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-039/@@display-file/arquivo_norma/RBAC%2039.pdf
+archive_url: ''
+language: pt
+foreign_annex: false
+sections:
+- '39.1'
+- '39.11'
+- 39.13-I
+- '39.15'
+- '39.17'
+- '39.19'
+- '39.21'
+- '39.23'
+- '39.25'
+- '39.27'
+- '39.3'
+- 39.3-I
+- '39.5'
+- 39.5-I
+- '39.7'
+- '39.9'
+- preambulo
+fragment_count: 23
+fragment_ids:
+- rbac-rbac-039-preambulo-body
+- rbac-rbac-039-39-1-body
+- rbac-rbac-039-39-3-body
+- rbac-rbac-039-39-3-i-body
+- rbac-rbac-039-39-5-body
+- rbac-rbac-039-39-5-i-body
+- rbac-rbac-039-39-7-body
+- rbac-rbac-039-39-9-body
+- rbac-rbac-039-39-11-body
+- rbac-rbac-039-39-13-i-body
+- rbac-rbac-039-39-15-body
+- rbac-rbac-039-39-17-body
+- rbac-rbac-039-39-19-body
+- rbac-rbac-039-39-21-body
+- rbac-rbac-039-39-23-body
+- rbac-rbac-039-39-25-body
+- rbac-rbac-039-39-27-body
+- rbac-rbac-039-39-5-a
+- rbac-rbac-039-39-5-b
+- rbac-rbac-039-39-19-a
+- rbac-rbac-039-39-19-b
+- rbac-rbac-039-39-23-a
+- rbac-rbac-039-39-23-b
+parser_version: 6

@@ -1,0 +1,125 @@
+id: rbac-rbac-90-90-121-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.121'
+section_title: Requisitos gerais
+subsection_id: a
+cite: 90.121(a)
+title: 90.121(a)
+text: '(a) Os SOP deverão:
+
+  (1) ser um mecanismo de padronização para o alcance do desempenho da segurança operacional
+  da UAP;
+
+  (2) ser aprovados pelo gestor da UAP;
+
+  (3) ser elaborados por modelo de aeronave quando houver diferenças significativas na operação
+  dos diversos modelos da frota da UAP, independentemente da habilitação requerida para sua
+  pilotagem. No entanto, para manter uma filosofia operacional única, as diferenças entre
+  os SOP para cada modelo de aeronave devem se limitar às diferenças e às especificidades
+  de cada modelo, facilitando a transição dos tripulantes (ou de outras pessoas com função
+  a bordo) entre os referidos modelos;
+
+  (4) ser uma publicação formal, clara e abrangente, que verse sobre atividades rotineiras
+  da UAP e que tenha como objetivo o estabelecimento de um padrão adequado para a realização
+  da tarefa, de forma segura, organizada, coerente e sustentável;
+
+  (5) ser mantidos a bordo da aeronave, para consulta dos tripulantes e das outras pessoas
+  com função a bordo;
+
+  (6) basear-se em conceitos centrais de CRM que visam uma coordenação de cabine eficaz, associada
+  ao desempenho da tripulação e das outras pessoas com função a bordo para as atividades relativas
+  a cada função;
+
+  (7) orientar os membros da tripulação e as outras pessoas com função a bordo quanto às operações,
+  em todas as fases de voo, de maneira segura, eficiente, lógica e previsível;
+
+  (8) abarcar os procedimentos normais, anormais e de emergência;
+
+  (9) compor o programa de treinamento da UAP;
+
+  (10) prover instruções detalhadas da atividade a ser realizada, além de apresentar orientações
+  de segurança operacional;
+
+  (11) estabelecer procedimentos práticos e apropriados para cada situação/operação;
+
+  (12) fornecer um modelo mental consistente e padronizado de cada tarefa que será realizada,
+  por tripulante e pessoa com função a bordo, durante cada fase do voo e durante qualquer
+  situação de emergência razoavelmente previsível;
+
+  (13) descrever parâmetros para a realização das atividades com definição das atribuições
+  para cada tripulante e pessoa com função a bordo e para cada função (piloto voando, piloto
+  monitorando, piloto em comando, piloto segundo em comando), em cada fase do voo, com critérios
+  para a escolha entre os diferentes procedimentos possíveis, caso existam;
+
+  (14) refletir a operação padrão da UAP, bem como seu dia a dia, não devendo seu uso ser
+  relegado apenas a treinamento, avaliações, exames de proficiência e/ou de observação;
+
+  (15) ser aplicados com consistência e uniformidade dentro da UAP;
+
+  (16) conter descrições detalhadas e/ou cartazes pictóricos das manobras aplicáveis;
+
+  (17) ser redigidos de forma concisa, passo a passo, de fácil leitura e entendimento. Suas
+  informações deverão evitar a ambiguidade. A voz ativa e os verbos no infinitivo deverão
+  ser utilizados. A informação deverá ser clara e explícita, de forma que não exista qualquer
+  dúvida quando aplicada;
+
+  (18) apresentar procedimentos preferencialmente sequenciais, com uma nova ação iniciando-se
+  apenas após o término da ação que a precede;
+
+  (19) ser redigidos no idioma português. Caso o órgão apresente os SOP, ou partes deles,
+  em língua inglesa, a UAP deverá garantir que o pessoal envolvido com a referida publicação
+  possua proficiência no referido idioma;
+
+  (20) estabelecer uma rotina para que estes procedimentos estejam sempre atualizados de acordo
+  com o AFM,
+
+  checklists
+
+  , boletins, relatórios e diretrizes emitidas pelo fabricante ou autoridades de aviação;
+
+  (21) ser constantemente avaliados e revistos pelos tripulantes da UAP, assim como pelas
+  pessoas com função a bordo;
+
+  (22) incentivar seus tripulantes e pessoas com função a bordo a reportarem discrepâncias,
+  melhorias, atualizações, melhores práticas para a implantação e revisão desta publicação;
+
+  (23) ser integrados ao SGSO do órgão ou ente público. Idealmente as revisões dos SOP deverão
+  ser discutidas em reuniões da CSO, a fim de verificar seu impacto na segurança das operações.
+  Ademais, as revisões dos SOP poderão ser propostas como forma de mitigar riscos detectados
+  pelo órgão ou ente público;
+
+  (24) estar disponíveis na cabine de comando da aeronave ou local de trabalho do profissional
+  envolvido na operação;
+
+  (25) ser elaborados com a participação dos profissionais da UAP, conforme aplicável;
+
+  (26) fornecer, aos tripulantes e pessoas com função a bordo, linhas gerais para a condução
+  dos
+
+  briefings
+
+  , bem como o conteúdo a ser abordado; e
+
+  (27) observar outros aspectos julgados relevantes pela UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- funcao
+- bordo
+- cada
+- pessoas
+- procedimentos
+- tripulantes
+- aeronave
+- deverao
+- forma
+- modelo
+- operacao
+- outras
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

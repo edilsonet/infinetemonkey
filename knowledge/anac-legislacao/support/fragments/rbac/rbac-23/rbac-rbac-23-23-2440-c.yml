@@ -1,0 +1,54 @@
+id: rbac-rbac-23-23-2440-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2440'
+section_title: Proteção contra fogo do grupo mo-
+subsection_id: c
+cite: 23.2440(c)
+title: 23.2440(c)
+text: '(c) Cada componente, linha, conexões e contro-
+
+  le sujeitos a condições de fogo devem:
+
+  (1) Ser projetados e localizados para evitar pe-
+
+  rigos resultantes de fogo, incluindo qualquer
+
+  item localizado adjacente a uma zona definida
+
+  como de fogo que possa ser afetada por fogo
+
+  dentro dessa zona;
+
+  (2) Ser resistentes ao fogo caso transporte flui-
+
+  dos inflamáveis, gás ou ar ou item necessário
+
+  para operação em caso de fogo; e
+
+  (3) Ser à prova de fogo ou recobertos por uma
+
+  proteção contra fogo, caso armazene fluidos
+
+  inflamáveis concentrados.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- fogo
+- caso
+- contra
+- inflamaveis
+- protecao
+- zona
+- adjacente
+- afetada
+- armazene
+- cada
+- componente
+- concentrados
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

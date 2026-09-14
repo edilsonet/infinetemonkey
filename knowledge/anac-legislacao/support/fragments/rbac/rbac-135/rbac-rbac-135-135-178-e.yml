@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-178-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.178'
+section_title: Equipamentos adicionais de emergência
+subsection_id: e
+cite: 135.178(e)
+title: 135.178(e)
+text: '(e) Mecanismo de abertura das saídas de emergência.
+
+  (1) Para um avião transportando passageiros para o qual o requerimento para certificação
+  de tipo foi apresentado antes de 1º de maio de 1972, a localização do mecanismo de abertura
+  de cada saída de emergência e as instruções para sua abertura devem ser mostradas por marcas
+  colocadas na saída ou próximas a ela e essas marcas devem ser legíveis de uma distância
+  de 30 pol. Adicionalmente, para cada saída tipo I ou II com um mecanismo de travamento liberado
+  por movimento de rotação de uma alavanca, as instruções para abertura devem constar de:'
+keywords:
+- taxi-aereo
+- operacoes
+- abertura
+- emergencia
+- mecanismo
+- saida
+- cada
+- instrucoes
+- marcas
+- tipo
+- adicionais
+- adicionalmente
+- alavanca
+- apresentado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

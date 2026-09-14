@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-439-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.439'
+section_title: Requisitos de registros de manutenção
+subsection_id: b
+cite: 135.439(b)
+title: 135.439(b)
+text: '(b) O detentor de certificado deve conservar os registros requeridos por esta seção
+  durante os seguintes períodos de tempo:
+
+  (1) exceto quanto aos registros da última revisão geral de cada célula, motor, hélice, rotor
+  e equipamento, os registros especificados no parágrafo (a)(1) desta seção devem ser conservados
+  até que o trabalho seja repetido ou seja suplantado por outro, ou por 1 ano após o término
+  do trabalho, o que for maior;
+
+  (2) os registros da última revisão geral de cada célula, motor, hélice, rotor e equipamento
+  devem ser conservados até que esse trabalho seja suplantado por trabalho com equivalente
+  objetivo e detalhe, ou por 1 ano, o que for maior; e
+
+  (3) os registros especificados no parágrafo (a)(2) desta seção devem ser conservados permanentemente
+  e transferidos com a aeronave, se a mesma for vendida para outra pessoa.'
+keywords:
+- taxi-aereo
+- operacoes
+- registros
+- trabalho
+- conservados
+- secao
+- seja
+- cada
+- celula
+- desta
+- equipamento
+- especificados
+- geral
+- helice
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

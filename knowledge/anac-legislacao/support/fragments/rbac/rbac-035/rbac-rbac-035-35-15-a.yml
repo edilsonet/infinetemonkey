@@ -1,0 +1,56 @@
+id: rbac-rbac-035-35-15-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.15'
+section_title: 'must be established by:'
+subsection_id: a
+cite: 35.15(a)
+title: 35.15(a)
+text: '(a) A defined engineering process for ensur-
+
+  ing the integrity of the propeller critical part
+
+  throughout its service life,
+
+  (2) Verificação do funcionamento satisfatório
+
+  de dispositivos de segurança ou outros disposi-
+
+  tivos no cheque pré-voo ou em outros períodos
+
+  estabelecidos. Os detalhes deste funcionamento
+
+  satisfatório devem ser publicados no manual
+
+  apropriado.
+
+  (3) Provisão de instrumentação específica
+
+  não requerida em outras circunstâncias. Tal ins-
+
+  trumentação deve ser publicada na documenta-
+
+  ção apropriada.
+
+  (4) Uma avaliação de fadiga.'
+keywords:
+- helices
+- aeronavegabilidade
+- funcionamento
+- outros
+- satisfatorio
+- apropriada
+- apropriado
+- avaliacao
+- cheque
+- circunstancias
+- critical
+- defined
+- deste
+- detalhes
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-163-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.163'
+section_title: 'Requisitos de equipamentos: aeronaves transportando passageiros em voo IFR'
+subsection_id: a
+cite: 135.163(a)
+title: 135.163(a)
+text: '(a) Somente é permitido operar uma aeronave em voo IFR transportando passageiros se
+  ela possuir os seguintes equipamentos e instrumentos:
+
+  (1) um indicador de velocidade vertical para cada piloto requerido;
+
+  (2) um indicador de temperatura externa;
+
+  (3) um tubo “
+
+  pitot
+
+  ”, com aquecimento, para cada indicador de velocidade requerido;
+
+  (4) um dispositivo de alarme de falha de energia ou um indicador de vácuo para mostrar a
+  energia disponível para instrumentos giroscópicos de cada fonte de energia;
+
+  (5) uma fonte alternada de pressão estática para os indicadores de altitude, velocidade
+  e velocidade vertical;
+
+  (6) para aeronaves monomotoras:'
+keywords:
+- taxi-aereo
+- operacoes
+- indicador
+- velocidade
+- cada
+- energia
+- aeronaves
+- equipamentos
+- fonte
+- instrumentos
+- passageiros
+- requerido
+- transportando
+- vertical
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

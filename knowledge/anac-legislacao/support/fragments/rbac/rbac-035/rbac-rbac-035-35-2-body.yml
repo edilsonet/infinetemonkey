@@ -1,0 +1,45 @@
+id: rbac-rbac-035-35-2-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.2'
+section_title: '35.2'
+subsection_id: body
+cite: '35.2'
+title: '35.2'
+text: '35.2
+
+  Configuração da hélice
+
+
+  O requerente deve fornecer uma lista de to-
+
+  dos os componentes, incluindo referências aos
+
+  desenhos relevantes e aos dados de projeto de
+
+  software, que definem o projeto de tipo da héli-
+
+  ce a ser aprovado segundo a seção 21.31 do
+
+  RBAC 21.'
+keywords:
+- helices
+- aeronavegabilidade
+- projeto
+- aprovado
+- componentes
+- configuracao
+- dados
+- definem
+- desenhos
+- fornecer
+- heli
+- helice
+- incluindo
+- lista
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

@@ -1,0 +1,62 @@
+id: rbac-rbac-91-91-411-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.411'
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+subsection_id: a
+cite: 91.411(a)
+title: 91.411(a)
+text: '(a) Somente é permitido operar um avião ou helicóptero em espaço aéreo controlado,
+  em voo IFR,
+
+  se:
+
+  (1) dentro dos 24 meses precedentes, cada sistema de pressão estática, cada altímetro e
+  cada
+
+  equipamento automático de informação de altitude (se requerido na área de operação) tiver
+  sido
+
+  testado, inspecionado e considerado conforme com o Apêndice E do RBAC nº 43;
+
+  (2) esse sistema tiver sido testado, inspecionado e considerado conforme com o parágrafo
+  (a)
+
+  do Apêndice E do RBAC nº 43, exceto quanto à abertura dos drenos do sistema ou das válvulas
+  de
+
+  fonte alternada de pressão estática, seguindo-se a qualquer abertura e fechamento do sistema
+  de
+
+  pressão estática; e
+
+  (3) após a instalação ou manutenção do sistema automático de informação de altitude ou do
+
+  transponder, quando erros na correspondência dos dados de altitude podem ser introduzidos,
+  o
+
+  sistema como um todo tiver sido testado, inspecionado e considerado conforme com o parágrafo
+  (c)
+
+  do Apêndice E do RBAC nº 43.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- altitude
+- apendice
+- cada
+- considerado
+- estatica
+- inspecionado
+- pressao
+- testado
+- tiver
+- abertura
+- altimetro
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

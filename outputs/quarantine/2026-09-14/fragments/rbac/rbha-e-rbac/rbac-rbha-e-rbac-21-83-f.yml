@@ -1,0 +1,41 @@
+id: rbac-rbha-e-rbac-21-83-f
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.83'
+section_title: Requisitos para emissão de certificado de tipo provisório Classe II e de suas
+  emendas
+subsection_id: f
+cite: 21.83(f)
+title: 21.83(f)
+text: '(f) O requerente ou, no caso de aeronave fabricada no exterior, o país no qual a aeronave
+  foi fabricada deve declarar que:
+
+  (1) a aeronave foi projetada e construída de acordo com os requisitos de aeronavegabilidade
+  aplicáveis à emissão do certificado de tipo requerido para ela;
+
+  (2) a aeronave satisfaz, substancialmente, aos requisitos de características de voo aplicáveis
+  à emissão do certificado de tipo requerido para ela;
+
+  (3) a aeronave pode ser operada com segurança de acordo com as limitações operacionais apropriadas
+  estabelecidas segundo os RBAC aplicáveis.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- aplicaveis
+- certificado
+- emissao
+- requisitos
+- tipo
+- acordo
+- fabricada
+- requerido
+- apropriadas
+- caracteristicas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

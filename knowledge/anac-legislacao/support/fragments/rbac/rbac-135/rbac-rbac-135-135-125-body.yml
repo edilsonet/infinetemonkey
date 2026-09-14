@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-125-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.125'
+section_title: Segurança da aeronave
+subsection_id: body
+cite: '135.125'
+title: Segurança da aeronave
+text: '135.125 Segurança da aeronave
+
+  O detentor de certificado conduzindo operações segundo este Regulamento deve cumprir os
+  requisitos de segurança geral estabelecidos pela ANAC no Programa Nacional de Segurança
+  da Aviação Civil Contra Atos de Interferência Ilícita (PNAVSEC) e na regulamentação dele
+  decorrente.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- seguranca
+- aeronave
+- atos
+- aviacao
+- certificado
+- civil
+- conduzindo
+- contra
+- cumprir
+- dada
+- decorrente
+- dele
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

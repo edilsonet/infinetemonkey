@@ -1,0 +1,60 @@
+id: rbac-rbac-141-141-27-v
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.27'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: v
+cite: 141.27(v)
+title: 141.27(v)
+text: '(v) descrição da documentação que suporta o SGSO, incluindo o MGSO:
+
+  (A) O CIAC deve desenvolver e manter atualizada a documentação do SGSO que descreva:
+
+  ( 1 )
+
+  a política e os objetivos de segurança operacional;
+
+  ( 2 )
+
+  os requisitos de segurança operacional do SGSO;
+
+  ( 3 )
+
+  os processos e procedimentos do SGSO;
+
+  ( 4 )
+
+  as obrigações, responsabilidades e atribuições dos membros da organização em relação aos
+  processos e procedimentos do SGSO; e
+
+  ( 5 )
+
+  os registros do SGSO e os respectivos controles necessários para sua identificação, armazenamento,
+  proteção, retenção e descarte; e
+
+  (B) O CIAC deve desenvolver e manter atualizado um manual de gerenciamento da segurança
+  operacional (MGSO), que é parte do manual geral da empresa, como parte da documentação de
+  seu SGSO;
+
+  (2) gerenciamento de riscos à segurança operacional:'
+keywords:
+- escolas
+- treinamento
+- sgso
+- operacional
+- seguranca
+- documentacao
+- gerenciamento
+- ciac
+- desenvolver
+- manter
+- manual
+- mgso
+- parte
+- procedimentos
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

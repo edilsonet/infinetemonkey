@@ -1,0 +1,36 @@
+id: rbac-rbac-110-emd-02-110-71-c
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.71'
+section_title: Treinamento em Serviço para profissionais que desempenham atividade de inspeção
+  de segurança da aviação civil
+subsection_id: c
+cite: 110.71(c)
+title: 110.71(c)
+text: '(c) A organização com responsabilidade AVSEC deve designar um responsável para realizar
+  o acompanhamento e a avaliação desta etapa da certificação dos profissionais.
+
+  (1) O responsável pelo acompanhamento do Treinamento em Serviço deve ser um profissional
+  com certificação válida em um dos seguintes cursos: Inspeção de Segurança da Aviação Civil,
+  AVSEC para Operadores de Aeródromos ou AVSEC para Operadores Aéreos.'
+keywords:
+- carga
+- operacoes
+- avsec
+- acompanhamento
+- aviacao
+- certificacao
+- civil
+- inspecao
+- operadores
+- profissionais
+- responsavel
+- seguranca
+- servico
+- treinamento
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

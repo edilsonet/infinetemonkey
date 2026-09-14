@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-411-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.411'
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+subsection_id: b
+cite: 91.411(b)
+title: 91.411(b)
+text: '(b) Os testes requeridos pelo parágrafo (a) desta seção devem ser conduzidos:
+
+  (1) pelo fabricante da aeronave na qual os testes e inspeções devem ser realizados;
+
+  (2) por uma organização de manutenção detentora de Categoria, classe e Especificações
+
+  Operativas apropriadas, e autorização da ANAC para:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- testes
+- inspecoes
+- aeronave
+- altimetro
+- apropriadas
+- autorizacao
+- categoria
+- classe
+- conduzidos
+- desta
+- detentora
+- equipamento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

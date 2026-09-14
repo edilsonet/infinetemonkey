@@ -1,0 +1,42 @@
+id: rbac-rbac-155-155-223-h
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.223'
+section_title: '155.223'
+subsection_id: h
+cite: 155.223(h)
+title: 155.223(h)
+text: '(h)
+
+  Os objetos que, devido às suas funções, precisam estar localizados na área de segurança
+  devem ser frangíveis e atender aos seguintes requisitos:
+
+  (1)
+
+  se localizados ao longo da borda da FATO, não podem penetrar o plano originado na altura
+  de 25 cm acima do plano da FATO; e
+
+  (2)
+
+  se localizados a partir da borda da FATO, não podem penetrar o plano originado na altura
+  de 25 cm acima do plano da FATO e inclinando-se para cima e para fora da margem da FATO
+  a uma rampa de 5%.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- plano
+- localizados
+- acima
+- altura
+- borda
+- originado
+- penetrar
+- podem
+- area
+- atender
+- cima
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

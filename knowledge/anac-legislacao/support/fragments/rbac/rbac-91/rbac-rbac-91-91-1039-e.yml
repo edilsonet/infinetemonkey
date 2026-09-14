@@ -1,0 +1,43 @@
+id: rbac-rbac-91-91-1039-e
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1039'
+section_title: Decolagem IFR; mínimos de aproximação e de pouso
+subsection_id: e
+cite: 91.1039(e)
+title: 91.1039(e)
+text: '(e) Somente é permitido decolar uma aeronave de um aeródromo em voo IFR onde as condições
+
+  meteorológicas estejam nos mínimos ou acima dos mínimos para decolagem, mas abaixo dos
+
+  mínimos autorizados para pouso, se existir um aeródromo de alternativa:
+
+  (1) a menos de 1 hora de voo do aeródromo de decolagem (considerando velocidade normal de
+
+  cruzeiro, com ar calmo); e
+
+  (2) para aviões multimotores a uma distância que não exceda o equivalente a uma hora de
+  tempo
+
+  de voo, a uma velocidade de cruzeiro, com um motor inoperante.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- minimos
+- aerodromo
+- decolagem
+- cruzeiro
+- hora
+- pouso
+- velocidade
+- abaixo
+- acima
+- aeronave
+- alternativa
+- aproximacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

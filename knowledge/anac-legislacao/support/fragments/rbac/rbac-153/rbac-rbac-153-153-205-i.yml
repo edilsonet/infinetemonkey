@@ -1,0 +1,156 @@
+id: rbac-rbac-153-153-205-i
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.205'
+section_title: '153.205'
+subsection_id: i
+cite: 153.205(i)
+title: 153.205(i)
+text: '(i)
+
+  O monitoramento deve ser documentado em relatório de medição do coeficiente de
+
+  atrito e enviado à ANAC no prazo máximo de 15 (quinze) dias após a conclusão da referida
+  medição.
+
+  (2)
+
+  A medição do valor do coeficiente de atrito do pavimento deve ser realizada conforme
+
+  frequência definida na Tabela 153.205-2.
+
+  Tabela 153.205-2 - Frequência mínima de medições de atrito
+
+  Faixas
+
+  [1]
+
+  Média de pousos diários de aeronaves de asa fixa com
+
+  motor à reação, na cabeceira predominante, no último ano
+
+  [2]
+
+  Frequência de
+
+  medições de atrito
+
+  [3]
+
+  1
+
+  Menor que 16
+
+  Cada 360 dias
+
+  2
+
+  Maior ou igual a 16 e menor que 31
+
+  Cada 180 dias
+
+  3
+
+  Maior ou igual a 31 e menor que 91
+
+  Cada 90 dias
+
+  4
+
+  Maior ou igual a 91 e menor que 151
+
+  Cada 60 dias
+
+
+  Data da emissão: 15 de março de 2021.
+
+
+  5
+
+  Maior ou igual a 151 e menor ou igual a 210
+
+  Cada 30 dias
+
+  6
+
+  Maior que 210
+
+  Cada 15 dias
+
+  (3)
+
+  Aeródromos com frequência de medição enquadrados nas faixas 5 ou 6, conforme coluna
+
+  [1] da Tabela 153.205-2, podem realizar as medições de atrito com a frequência estabelecida
+  nas
+
+  faixas 4 ou 5, respectivamente, desde que as 4 (quatro) últimas medições realizadas tenham
+  resultado
+
+  em valores do coeficiente de atrito atendendo ao nível de manutenção disposto em Instrução
+
+  Suplementar específica ou aprovado pela ANAC. (Vide IS nº 153.205-001)
+
+  (4)
+
+  O operador de aeródromo deve avaliar a necessidade de medição do coeficiente de atrito
+
+  após execução de obra ou serviço de manutenção, levando em consideração a natureza, localização
+  e
+
+  extensão da intervenção.
+
+  (5)
+
+  Os parâmetros de referência, nível de manutenção e nível mínimo, para o ensaio serão
+
+  definidos em Instrução Suplementar específica https://www.anac.gov.br/assuntos/legislacaoou
+  em
+
+  processo de aprovação de método alternativo de medição do coeficiente de atrito do pavimento.
+  (Vide
+
+  IS nº 153.205-001)
+
+  (6)
+
+  Quando o valor do coeficiente de atrito não atender ao nível de manutenção disposto em
+
+  Instrução Suplementar específica ou aprovado pela ANAC, o operador de aeródromo deve informar
+
+  à ANAC, juntamente com o envio do relatório de medição de atrito, quais ações foram ou serão
+
+  adotadas para restabelecer valores iguais ou superiores ao nível de manutenção. (Vide IS
+  nº 153.205-
+
+  001)
+
+  (7)
+
+  Quando o valor do coeficiente de atrito não atender ao nível mínimo disposto em
+
+  Instrução Suplementar específica ou aprovado pela ANAC, o operador de aeródromo deve: (Vide
+  IS
+
+  nº 153.205-001)'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- atrito
+- coeficiente
+- dias
+- medicao
+- cada
+- nivel
+- frequencia
+- igual
+- maior
+- manutencao
+- menor
+- especifica
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

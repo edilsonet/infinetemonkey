@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-441-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.441'
+section_title: Transferência de registros de manutenção
+subsection_id: body
+cite: '135.441'
+title: Transferência de registros de manutenção
+text: '135.441 Transferência de registros de manutenção
+
+  O detentor de certificado que venda uma aeronave registrada no Brasil deve transferir ao
+  comprador, no momento da venda, os seguintes registros da aeronave, em linguagem clara ou
+  em forma codificada que permita a conservação e a recuperação das informações de maneira
+  aceitável pela ANAC:'
+keywords:
+- taxi-aereo
+- operacoes
+- registros
+- manutencao
+- transferencia
+- aeronave
+- venda
+- aceitavel
+- brasil
+- certificado
+- clara
+- codificada
+- comprador
+- conservacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

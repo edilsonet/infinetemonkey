@@ -1,0 +1,39 @@
+id: rbac-rbha-e-rbac-21-190-i-body
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: 21.190-I
+section_title: Emissão de certificado de aeronavegabilidade para aeronave recém-fabricada
+subsection_id: body
+cite: 21.190-I
+title: Emissão de certificado de aeronavegabilidade para aeronave recém-fabricada
+text: '21.190-I Emissão de certificado de aeronavegabilidade para aeronave recém-fabricada
+
+  Este certificado é emitido pela ANAC para aeronaves novas que foram fabricadas no Brasil
+  de acordo com um certificado de organização de produção ou somente com um certificado de
+  tipo, após vistoriar e se certificar que a aeronave está conforme com o projeto de tipo
+  e apresenta condições de operação segura. Este certificado tem por objetivo permitir o voo
+  da aeronave entre a data em que foi realizada sua vistoria inicial e a data de entrega ao
+  seu primeiro comprador ou operador. Este certificado substitui o certificado referido no
+  parágrafo 21.175(a) e o certificado de matrícula e só permite que a aeronave seja operada
+  pelo fabricante ou seus representantes.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- aeronave
+- emissao
+- fabricada
+- recem
+- data
+- tipo
+- acordo
+- aeronaves
+- apresenta
+- brasil
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

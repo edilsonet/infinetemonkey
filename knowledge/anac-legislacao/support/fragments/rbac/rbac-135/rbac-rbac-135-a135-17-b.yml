@@ -1,0 +1,44 @@
+id: rbac-rbac-135-a135-17-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.17
+section_title: Diversos
+subsection_id: b
+cite: A135.17(b)
+title: A135.17(b)
+text: '(b) Proteção contra gelo. Se for desejada certificação para provisões para proteção
+  contra gelo, deve ser demonstrada conformidade com o seguinte:
+
+  (1) os procedimentos recomendados para o uso do equipamento de proteção contra gelo devem
+  ser incluídos no manual de voo do avião;
+
+  (2) deve ser feita uma análise para estabelecer, com base nas necessidades operacionais
+  do avião, a adequabilidade do sistema para proteger contra gelo os vários componentes do
+  avião. Em adição, devem ser conduzidos ensaios do sistema de proteção contra gelo, visando
+  demonstrar que o avião é capaz de operar com segurança nas condições de gelo máxima contínua
+  e máxima intermitente descritas no Apêndice C do RBAC nº 25; e
+
+  (3) a conformidade com o parágrafo (b) desta seção ou com partes dele pode ser demonstrada
+  por referência, quando aplicável por similaridade de projeto, às análises e ensaios executados
+  pelo requerente em um modelo de tipo certificado.'
+keywords:
+- taxi-aereo
+- operacoes
+- gelo
+- contra
+- aviao
+- protecao
+- conformidade
+- demonstrada
+- ensaios
+- maxima
+- sistema
+- a135
+- adequabilidade
+- adicao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

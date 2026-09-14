@@ -1,0 +1,39 @@
+id: rbac-rbac-121-121-227-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.227'
+section_title: Sistema de alimentação cruzada por pressão
+subsection_id: a
+cite: 121.227(a)
+title: 121.227(a)
+text: '(a) Tubulações de alimentação cruzada pressurizadas não podem passar através de partes
+  do avião usadas para transportar cargas ou pessoas, a menos que:
+
+  (1) haja meios que permitam aos tripulantes cortar o fluxo de combustível dessas tubulações;
+  ou
+
+  (2) as tubulações estejam contidas em compartimentos a prova de combustível e vapores, ventilados
+  e drenados para o exterior do avião. Entretanto, tais compartimentos não precisam ser usados
+  se as tubulações não incorporarem nenhuma conexão dentro das áreas de transporte de pessoas
+  ou cargas e forem adequadamente posicionadas e protegidas para prevenir danos acidentais.'
+keywords:
+- transporte-aereo
+- operacoes
+- tubulacoes
+- alimentacao
+- aviao
+- cargas
+- combustivel
+- compartimentos
+- cruzada
+- pessoas
+- acidentais
+- adequadamente
+- areas
+- atraves
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,102 @@
+id: rbac-rbac-36-j36-1-c
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: J36.1
+section_title: of this apendix.
+subsection_id: c
+cite: J36.1(c)
+title: J36.1(c)
+text: '(c) Aproach reference noise measurement points
+
+  - As shown in Figure
+
+  K3 below:
+
+
+  (1) The centerline noise measurement flight path reference point, designated A, is located
+  on the
+
+  ground 394 fet (120 m) verticaly below the reference aproach flight path. The measurement
+
+  point is defined by the aproach reference procedure in
+
+  section K6.4 of this apendix. On level
+
+  ground, the measurement point coresponds to a position 3,740 fet (1,140 m) from the intersection
+
+  of the 6.0 degre aproach path with the ground plane;
+
+
+  (2) Two sideline noise measurement points, designated as S(st
+
+  arboard) and S(port), are located on
+
+  the ground perpendicular to and symetricaly stationed at 492 fet (150 m) on each side of
+  the
+
+  aproach reference flight path. The measurement points bisect the centerline flight path
+  reference
+
+  point A.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  16
+
+  / 121
+
+
+  Section K4 N
+
+  oise Limits
+
+
+  For a tiltrotor, the maximum noise levels, as determined in acordance with the noise evaluation
+  in
+
+  EPNdB and calculation method described in section H36.201 of Apendix H of this RBAC, must
+
+  not exced the noise limits as folows:'
+keywords:
+- ruido
+- meio-ambiente
+- measurement
+- noise
+- reference
+- aproach
+- path
+- flight
+- ground
+- point
+- apendix
+- points
+- section
+- this
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

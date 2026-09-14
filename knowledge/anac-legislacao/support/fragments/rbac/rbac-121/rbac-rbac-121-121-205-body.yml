@@ -1,0 +1,38 @@
+id: rbac-rbac-121-121-205-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.205'
+section_title: 'Aviões não incluídos na categoria transporte: limitações de pouso no aeródromo
+  de alternativa'
+subsection_id: body
+cite: '121.205'
+title: 'Aviões não incluídos na categoria transporte: limitações de pouso no aeródromo de
+  alternativa'
+text: '121.205 Aviões não incluídos na categoria transporte: limitações de pouso no aeródromo
+  de alternativa
+
+  Ninguém pode listar, em um despacho ou liberação de voo, um aeródromo como aeródromo de
+  alternativa para um avião não incluído na categoria transporte, a menos que esse avião (no
+  peso previsto no horário esperado de chegada), baseado nas premissas de 121.203, possa ser
+  trazido a uma parada total após o pouso dentro de 70% do comprimento efetivo da pista.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- alternativa
+- categoria
+- pouso
+- transporte
+- avioes
+- incluidos
+- limitacoes
+- aviao
+- baseado
+- chegada
+- comprimento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

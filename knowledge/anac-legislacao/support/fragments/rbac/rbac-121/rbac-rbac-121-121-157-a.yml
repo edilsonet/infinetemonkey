@@ -1,0 +1,39 @@
+id: rbac-rbac-121-121-157-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.157'
+section_title: Requisitos de certificação dos aviões
+subsection_id: a
+cite: 121.157(a)
+title: 121.157(a)
+text: '(a) Aviões com certificado de tipo emitido antes de 01 de julho de 1942. Nenhum detentor
+  de certificado pode operar um avião que tenha recebido um certificado de tipo antes de 01
+  de julho de 1942, a menos que:
+
+  (1) o avião atenda aos requisitos de 121.173(c); ou
+
+  (2) o avião e todos os outros aviões de mesmo tipo ou de tipo relacionado operados pelo
+  detentor de certificado atendam aos requisitos de desempenho das secções 4a.737-T até 4a.750-T
+  do “Civil Air Regulation”, dos Estados Unidos da América, efetivas em 31 de janeiro de 1965
+  ou das seções 25.45 até 25.75 do RBAC 25 e 121.173(a), (b), (d) e (e) deste regulamento.'
+keywords:
+- transporte-aereo
+- operacoes
+- certificado
+- tipo
+- aviao
+- avioes
+- requisitos
+- detentor
+- julho
+- america
+- atenda
+- atendam
+- certificacao
+- civil
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

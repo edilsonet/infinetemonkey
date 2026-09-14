@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-619-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.619'
+section_title: Modificações de projeto
+subsection_id: a
+cite: 21.619(a)
+title: 21.619(a)
+text: (a) Pequenas modificações. O fabricante de um artigo, de acordo com um certificado de
+  produto aeronáutico aprovado segundo uma OTP, pode fazer pequenas modificações no projeto
+  aprovado sem precisar solicitar aprovação da ANAC. Nesse caso, o artigo modificado deve
+  conservar o número do modelo original (números de peça podem ser usados para identificar
+  a pequena modificação) e o fabricante deve enviar à ANAC todos os dados revisados que se
+  fizerem necessários para atender ao parágrafo 21.603(b).
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacoes
+- aprovado
+- artigo
+- fabricante
+- pequenas
+- acordo
+- aeronautico
+- aprovacao
+- atender
+- caso
+- certificado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

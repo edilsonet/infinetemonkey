@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-257-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.257'
+section_title: Válvulas de corte de fluxo
+subsection_id: b
+cite: 121.257(b)
+title: 121.257(b)
+text: (b) Os meios de corte de fluxo devem permitir uma sequência de operação em emergência
+  compatível com a operação em emergência de outros equipamentos, tais como embandeiramento
+  de hélices, visando facilitar o controle rápido e efetivo de incêndios.
+keywords:
+- transporte-aereo
+- operacoes
+- corte
+- emergencia
+- fluxo
+- operacao
+- compativel
+- controle
+- efetivo
+- embandeiramento
+- equipamentos
+- facilitar
+- helices
+- incendios
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

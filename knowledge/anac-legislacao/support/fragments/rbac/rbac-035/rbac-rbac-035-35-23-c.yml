@@ -1,0 +1,40 @@
+id: rbac-rbac-035-35-23-c
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.23'
+section_title: '35.23'
+subsection_id: c
+cite: 35.23(c)
+title: 35.23(c)
+text: '(c) Electronic propeller control system im-
+
+  bedded software must be designed and imple-
+
+  mented by a method approved by ANAC that is
+
+  consistent with the criticality of the performed
+
+  functions and that minimizes the existence of
+
+  software errors.'
+keywords:
+- helices
+- aeronavegabilidade
+- software
+- that
+- approved
+- bedded
+- consistent
+- control
+- criticality
+- designed
+- electronic
+- errors
+- existence
+- functions
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

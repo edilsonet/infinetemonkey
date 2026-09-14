@@ -1,0 +1,44 @@
+id: rbac-rbac-120-120-333-a
+kind: rbac
+document: rbac-120
+family: '120'
+section_id: '120.333'
+section_title: Funções e requisitos do médico revisor
+subsection_id: a
+cite: 120.333(a)
+title: 120.333(a)
+text: '(a) A empresa responsável deve designar um médico revisor para desempenhar as seguintes
+  funções:
+
+  (1) determinar se o resultado positivo não referendado de um ETSP é devido a um tratamento
+  legítimo ou outra fonte inócua;
+
+  (2) avaliar se um indivíduo não pôde realizar um ETSP por não poder produzir a amostra corporal
+  necessária em razão de uma condição médica específica;
+
+  (3) demais funções relativas aos ETSP e às responsabilidades descritas na seção 120.343;
+  e
+
+  (4) notificar conforme 120.331(f)(3).
+
+  (Redação dada pela Resolução nº 605, de 11.02.2021)'
+keywords:
+- antidrogas
+- saude
+- etsp
+- funcoes
+- medico
+- revisor
+- amostra
+- avaliar
+- condicao
+- corporal
+- dada
+- demais
+- descritas
+- desempenhar
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-120.md

@@ -1,0 +1,28 @@
+id: rbac-rbac-90-90-21-m
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: m
+cite: 90.21(m)
+title: 90.21(m)
+text: (m) É vedado o exercício de duas ou mais funções simultâneas a bordo de uma aeronave.
+keywords:
+- regras-de-voo
+- operacoes
+- aeronave
+- bordo
+- duas
+- exercicio
+- funcoes
+- gerais
+- requisitos
+- simultaneas
+- tripulacao
+- vedado
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

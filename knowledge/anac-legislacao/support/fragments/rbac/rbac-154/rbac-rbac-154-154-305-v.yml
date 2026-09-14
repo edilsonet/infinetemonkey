@@ -1,0 +1,203 @@
+id: rbac-rbac-154-154-305-v
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.305'
+section_title: Luzes
+subsection_id: v
+cite: 154.305(v)
+title: 154.305(v)
+text: '(v) Um controle apropriado de intensidade deve ser disposto de forma a permitir ajustes
+  para
+
+  suprir as condições prevalecentes e evitar o ofuscamento do piloto durante a aproximação
+  e o pouso.
+
+  (vi) Cada unidade de luz deve ser capaz de ser ajustada na elevação, de modo que o limite
+
+  mais baixo da parte branca do feixe possa ser fixado em qualquer ângulo desejado de elevação
+  entre
+
+  1º30’ e, no mínimo, 4º30’ acima da horizontal.
+
+  (vii) As unidades de luz devem ser desenvolvidas de modo que depósitos de condensação,
+
+  gelo, poeira etc., sobre as superfícies de transmissão ótica e refletoras, interfiram o
+  mínimo possível
+
+  nos sinais de luz, e não deve afetar o contraste entre os sinais branco e vermelho e na
+  elevação do
+
+  setor de transição.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura D-15. Localização do PAPI e do APAPI (Alterado pela Resolução nº 628, de 11.06.2021)
+
+  D1
+
+  10 m
+
+  (± 1m)
+
+  6 m
+
+  (± 1m)
+
+  a)
+
+  Quando um PAPI ou um APAPI for instalado em uma
+
+  pista não equipada com um ILS ou um MLS, a distância D1 deve
+
+  ser calculada para garantir que a altura mais baixa na qual um
+
+  piloto irá ver uma identificação correta da trajetória de
+
+  identificação (Figura D-16, ângulo B para PAPI e ângulo A para
+
+  APAPI) fornece a desobstrução para as rodas sobre a cabeceira
+
+  especificada na tabela D-5 para as aeronaves mais exigentes
+
+  entre as que normalmente utilizam a pista.
+
+  b)
+
+  Quando um PAPI ou um APAPI for instalado em uma
+
+  pista equipada com ILS e/ou MLS, a distância D1 deve ser
+
+  calculada para garantir a melhor compatibilidade entre os
+
+  auxílios visuais e por instrumentos para a variação das alturas
+
+  visuais das aeronaves que utilizem a pista regularmente. A
+
+  distância deve ser igual à distância entre a cabeceira e a
+
+  origem efetiva da trajetória de descida do ILS ou a trajetória
+
+  mínima de descida do MLS, conforme for o caso, mais um fator
+
+  de correção para a variação das alturas visuais e por
+
+  instrumentos das aeronaves envolvidas. O fator de correção
+
+  para a variação das alturas visuais e por instrumentos das
+
+  aeronaves envolvidas. O fator de correção é obtido
+
+  multiplicando-se a média da altura visual e por instrumentos
+
+  dessas aeronaves pela cotangente do ângulo de aproximação.
+
+  No entanto, a distância deve ser tal que, em nenhuma hipótese,
+
+  a desobstrução das rodas sobre a cabeceira seja menor do que
+
+  a especificada na coluna (3) da Tabela D-5.
+
+  c)
+
+  Se a desobstrução das rodas for maior do que a
+
+  especificada no item a) acima, caso seja necessário para uma
+
+  determinada aeronave, isso pode ser conseguido aumentando
+
+  o D1.
+
+  d)
+
+  A distância D1 deve ser ajustada para compensar as
+
+  diferenças na elevação entre os centros das lentes das
+
+  unidades de luzes e a cabeceira.
+
+  e)
+
+  Para garantir que as unidades sejam montadas o
+
+  mais baixo possível e para possibilitar quaisquer inclinações
+
+  transversais, pequenos ajustes de altura de até 5 cm entre as
+
+  unidades são aceitáveis. Um gradiente lateral não maior que
+
+  1.25 por cento pode ser aceito, desde que seja aplicado
+
+  uniformemente nas unidades.
+
+  f)
+
+  Um espaçamento de 6 m (+/- 1 m) entre as unidades
+
+  PAPI deve ser utilizado quando os números de código de pista
+
+  forem 1 e 2. Nesse caso, a unidade PAPI deve ser situada a não
+
+  menos que 10 m (+/- 1 m) da borda da pista.
+
+  Nota: - reduzir o espaçamento entre as unidades de luz
+
+  irá resultar na redução da variação utilizável do sistema.
+
+  g)
+
+  O espaçamento lateral entre as unidades APAPI pode
+
+  ser aumentado até 9 m (+/- 1 m), caso uma variação maior for
+
+  necessária ou uma conversão posterior para PAPI completo for
+
+  prevista. Neste último caso, a unidade APAPI mais interna deve
+
+  estar situada a 15 m (+/- 1 m) da borda da pista.
+
+  D1
+
+  15 m
+
+  (± 1m)
+
+  9 m
+
+  (± 1m)
+
+  9 m
+
+  (± 1m)
+
+  9 m
+
+  (± 1m)
+
+  TOLERÂNCIA DE INSTALAÇÃO
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  (4) Rampa de aproximação e configuração de elevação das unidades de luz'
+keywords:
+- seguranca-aeroportuaria
+- unidades
+- papi
+- pista
+- apapi
+- distancia
+- aeronaves
+- caso
+- elevacao
+- variacao
+- angulo
+- cabeceira
+- instrumentos
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

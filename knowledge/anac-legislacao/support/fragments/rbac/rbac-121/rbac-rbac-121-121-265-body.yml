@@ -1,0 +1,40 @@
+id: rbac-rbac-121-121-265-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.265'
+section_title: Agentes extintores de incêndio
+subsection_id: body
+cite: '121.265'
+title: Agentes extintores de incêndio
+text: '121.265 Agentes extintores de incêndio
+
+  Somente o brometo de metila, o dióxido de carbono e outros agentes que tenham demonstrado
+  prover ação extintora equivalente podem ser usados como agente extintor de incêndio. Se
+  o brometo de metila ou outro agente tóxico for usado, deve haver provisões para evitar que
+  concentrações perigosas de fluido ou vapor entrem na cabine durante operação normal ou descarga
+  acidental dos extintores de incêndio, no solo ou em voo. Se forem usados extintores de brometo
+  de metila, os cilindros devem ser carregados com agente seco e selados pelo fabricante do
+  extintor ou por pessoa autorizada que possua equipamento de recarga adequado. Se forem usados
+  extintores de dióxido de carbono, não deve ser possível descarregar uma quantidade de gás
+  que crie perigo de asfixia para os ocupantes da cabine.'
+keywords:
+- transporte-aereo
+- operacoes
+- extintores
+- incendio
+- agentes
+- agente
+- brometo
+- metila
+- usados
+- cabine
+- carbono
+- dioxido
+- extintor
+- forem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

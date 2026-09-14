@@ -1,0 +1,33 @@
+id: rbac-rbac-175-175-201-e
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.201'
+section_title: Requisitos gerais aplicáveis a todas as classes, exceto Classe 7
+subsection_id: e
+cite: 175.201(e)
+title: 175.201(e)
+text: '(e) As embalagens cuja função básica seja a retenção de líquidos devem ser capazes
+  de resistir sem
+
+  vazamento às pressões estabelecidas nas Instruções Técnicas.'
+keywords:
+- artigos-perigosos
+- carga
+- aplicaveis
+- basica
+- capazes
+- classe
+- classes
+- cuja
+- embalagens
+- estabelecidas
+- exceto
+- funcao
+- gerais
+- instrucoes
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

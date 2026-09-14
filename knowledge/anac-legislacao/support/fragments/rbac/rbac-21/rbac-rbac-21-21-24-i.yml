@@ -1,0 +1,51 @@
+id: rbac-rbac-21-21-24-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.24'
+section_title: 'Emissão de certificado de tipo: aeronave categoria primária'
+subsection_id: i
+cite: 21.24(i)
+title: 21.24(i)
+text: '(i) exceto como previsto no parágrafo (c) desta seção, um termo, na forma e maneira
+  aceitáveis pela ANAC, declarando que: ele executou as análises de engenharia necessárias
+  à demonstração de conformidade com os requisitos de aeronavegabilidade aplicáveis; ele conduziu
+  os apropriados ensaios em voo, estruturais, de propulsão e de sistemas necessários à demonstração
+  de que a aeronave, seus componentes e seus equipamentos são confiáveis e funcionam apropriadamente;
+  o projeto de tipo cumpre com os requisitos de aeronavegabilidade e de ruído estabelecidos
+  para a aeronave segundo o parágrafo 21.17(f); e nenhuma particularidade ou característica
+  da aeronave torna-a insegura para o uso pretendido;
+
+  (ii) o manual de voo requerido pelo parágrafo 21.5(b), incluindo qualquer informação que
+  deva ser fornecida segundo os requisitos aplicáveis de aeronavegabilidade;
+
+  (iii) as instruções para aeronavegabilidade continuada de acordo com o parágrafo 21.50(b);
+  e
+
+  (iv) um relatório que: resuma como o cumprimento com cada prescrição da base de certificação
+  foi determinada; liste os documentos específicos que contêm os dados e informações requeridos
+  para a certificação de tipo; liste todos os desenhos e os documentos usados para definir
+  o projeto de tipo; liste todos os relatórios de ensaio e de cálculo que ele precisa preservar
+  e apresentar, conforme estabelecido na seção 21.49, para substanciar o cumprimento com os
+  requisitos de aeronavegabilidade aplicáveis.
+
+  (3) a ANAC considerar que:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- paragrafo
+- requisitos
+- tipo
+- aplicaveis
+- liste
+- cumprimento
+- demonstracao
+- documentos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

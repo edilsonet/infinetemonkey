@@ -1,0 +1,63 @@
+id: rbac-rbac-29-29-1415-f
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.1415'
+section_title: must be near an exit available during an unplanned ditching.
+subsection_id: f
+cite: 29.1415(f)
+title: 29.1415(f)
+text: '(f)
+
+  Equipment HIRF Test Level 3. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests,
+  starting at
+
+  a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5
+  mA at 500
+
+  kHz.
+
+  (2)
+
+  From 500 kHz to 40 MHz, use conducted susceptibility tests at a minimum of 7.5 mA.
+
+  (3)
+
+  From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 7.5
+  mA at
+
+  40 MHz, decreasing 20 dB per frequency decade to a minimum of 0.75 mA at 400 MHz.
+
+  (4)
+
+  From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR Appendix-E-to-Part-29(d)
+
+  14 CFR Appendix-E-to-Part-29(f)(4) (enhanced display)
+
+  page 167 of 167'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- minimum
+- from
+- susceptibility
+- tests
+- conducted
+- part
+- appendix
+- decade
+- frequency
+- starting
+- airworthiness
+- available
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

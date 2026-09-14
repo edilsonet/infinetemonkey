@@ -1,0 +1,52 @@
+id: rbac-rbac-119-119-63-a
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.63'
+section_title: Operação recente
+subsection_id: a
+cite: 119.63(a)
+title: 119.63(a)
+text: '(a) Exceto como previsto no parágrafo (b) desta seção, nenhum detentor de certificado
+  pode
+
+  conduzir uma operação com determinada característica para a qual ele está autorizado em
+  suas
+
+  especificações operativas, a menos que tenha conduzido tal operação dentro do número de
+  dias
+
+  calendáricos consecutivos conforme este parágrafo;
+
+  (1) para operações regulares - 60 dias; e
+
+
+  Data da emissão: 11 de fevereiro de 2021.
+
+
+  (2) para operações não regulares - 90 dias, exceto que este parágrafo não se aplica se o
+  detentor
+
+  de certificado tiver autorização para conduzir operações regulares e tiver conduzido tais
+  operações
+
+  dentro dos 30 dias anteriores.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- dias
+- operacao
+- paragrafo
+- regulares
+- certificado
+- conduzido
+- conduzir
+- dentro
+- detentor
+- exceto
+- tiver
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

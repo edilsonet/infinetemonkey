@@ -1,0 +1,39 @@
+id: rbac-rbac-154-154-107-b
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.107'
+section_title: Temperatura de referência do aeródromo
+subsection_id: b
+cite: 154.107(b)
+title: 154.107(b)
+text: '(b) A temperatura de referência do aeródromo deve ser a média mensal das temperaturas
+  máximas
+
+  diárias para o mês mais quente do ano (sendo que o mês mais quente será o mês com maior
+
+  temperatura mensal média). Essa temperatura deve ser calculada ao longo de um período de
+  alguns
+
+  anos.
+
+
+  Data da emissão: 16 de junho de 2021.'
+keywords:
+- seguranca-aeroportuaria
+- temperatura
+- aerodromo
+- media
+- mensal
+- quente
+- referencia
+- alguns
+- anos
+- calculada
+- data
+- diarias
+- emissao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

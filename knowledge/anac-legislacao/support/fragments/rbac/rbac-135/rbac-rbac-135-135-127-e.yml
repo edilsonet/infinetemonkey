@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-127-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.127'
+section_title: Requisitos de avisos aos passageiros e proibição de fumar a bordo
+subsection_id: e
+cite: 135.127(e)
+title: 135.127(e)
+text: (e) Durante todos os segmentos do voo, o sinal luminoso de “Não Fume” (ou similar) deve
+  estar ligado, ou o letreiro “Não Fume” (ou similar) deve estar visível, durante todo o movimento
+  da aeronave na superfície, para cada decolagem ou pouso, e em qualquer outro tempo considerado
+  necessário pelo piloto em comando.
+keywords:
+- taxi-aereo
+- operacoes
+- durante
+- estar
+- fume
+- similar
+- aeronave
+- avisos
+- bordo
+- cada
+- comando
+- considerado
+- decolagem
+- fumar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

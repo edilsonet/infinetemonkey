@@ -1,0 +1,38 @@
+id: rbac-rbac-136-136-25-g
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.25'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: g
+cite: 136.25(g)
+title: 136.25(g)
+text: '(g) Registros do SGSO:
+
+  (1) o detentor de certificado deve registrar dados relevantes à segurança das operações
+  do
+
+  detentor de certificado e mantê-los armazenados por, no mínimo, 5 (cinco) anos; e
+
+  (2) o detentor de certificado deve enviar à ANAC relatórios periódicos a respeito de suas
+
+  operações e de seu SGSO, nos prazos e modelos definidos pela ANAC.'
+keywords:
+- turismo
+- operacoes
+- certificado
+- detentor
+- sgso
+- seguranca
+- anos
+- armazenados
+- cinco
+- dados
+- definidos
+- enviar
+- gerenciamento
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

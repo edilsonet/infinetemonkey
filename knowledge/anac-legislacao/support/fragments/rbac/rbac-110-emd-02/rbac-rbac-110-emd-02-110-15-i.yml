@@ -1,0 +1,31 @@
+id: rbac-rbac-110-emd-02-110-15-i
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.15'
+section_title: Certificação dos profissionais em Segurança da Aviação Civil - AVSEC
+subsection_id: i
+cite: 110.15(i)
+title: 110.15(i)
+text: (i) Instrutor AVSEC é uma certificação que dispensa a etapa de horas-aula dos cursos
+  AVSEC, incluindo apenas a aferição dos critérios de aprovação pela ANAC.
+keywords:
+- carga
+- operacoes
+- avsec
+- certificacao
+- afericao
+- aprovacao
+- aula
+- aviacao
+- civil
+- criterios
+- cursos
+- dispensa
+- etapa
+- horas
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

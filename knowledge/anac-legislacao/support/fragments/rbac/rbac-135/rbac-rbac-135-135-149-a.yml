@@ -1,0 +1,29 @@
+id: rbac-rbac-135-135-149-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.149'
+section_title: 'Requisitos de equipamento: geral'
+subsection_id: a
+cite: 135.149(a)
+title: 135.149(a)
+text: (a) um altímetro sensível ajustável pela pressão barométrica para cada piloto requerido;
+keywords:
+- taxi-aereo
+- operacoes
+- ajustavel
+- altimetro
+- barometrica
+- cada
+- equipamento
+- geral
+- piloto
+- pressao
+- requerido
+- requisitos
+- sensivel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

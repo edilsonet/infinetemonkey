@@ -1,0 +1,39 @@
+id: rbac-rbac-91-91-151-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.151'
+section_title: Requisitos de combustível e óleo para voos visuais (VFR)
+subsection_id: b
+cite: 91.151(b)
+title: 91.151(b)
+text: '(b) Somente é permitido começar um voo VFR em um helicóptero se, considerando vento
+  e
+
+  condições meteorológicas conhecidas, houver combustível e óleo suficiente para voar até
+  o local
+
+  previsto para primeiro pouso e, assumindo consumo normal de cruzeiro, voar mais, pelo menos,
+  20
+
+  minutos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- combustivel
+- oleo
+- voar
+- assumindo
+- comecar
+- condicoes
+- conhecidas
+- considerando
+- consumo
+- cruzeiro
+- helicoptero
+- houver
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

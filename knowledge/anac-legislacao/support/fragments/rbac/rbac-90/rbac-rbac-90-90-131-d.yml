@@ -1,0 +1,41 @@
+id: rbac-rbac-90-90-131-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.131'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 90.131(d)
+title: 90.131(d)
+text: '(d) O órgão ou ente deverá cumprir com os seguintes requisitos gerais para o gerenciamento
+  do risco:
+
+  (1) integração do gerenciamento de risco em todas as fases de voo, setores e operações da
+  UAP;
+
+  (2) os responsáveis pela aceitação do risco deverão possuir o nível hierárquico e conhecimento
+  compatível com a decisão a ser tomada;
+
+  (3) não se admitir nenhum risco fora do NADSO; e
+
+  (4) aplicar o gerenciamento do risco de forma cíclica e continuada.'
+keywords:
+- regras-de-voo
+- operacoes
+- risco
+- gerenciamento
+- gerais
+- requisitos
+- aceitacao
+- admitir
+- aplicar
+- ciclica
+- compativel
+- conhecimento
+- continuada
+- cumprir
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

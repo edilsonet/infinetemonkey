@@ -1,0 +1,44 @@
+id: rbac-rbac-90-90-263-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.263'
+section_title: Requisitos operacionais
+subsection_id: b
+cite: 90.263(b)
+title: 90.263(b)
+text: '(b) São requisitos para operação NVIS abaixo de 500 pés AGL:
+
+  (1) gerenciamento do risco para casos de falha ou mau funcionamento do NVG, de maneira a
+  garantir que a operação ocorra dentro do NADSO;
+
+  (2) aeronave equipada com duplo comando acessível ao piloto em comando e ao piloto segundo
+  em comando;
+
+  (3) tripulação e outras pessoas com função a bordo capacitadas para retornar imediatamente
+  ao voo noturno não assistido por NVG;
+
+  (4) tripulação e outras pessoas com função a bordo com experiência em operação aérea NVIS,
+  segundo a UAP; e
+
+  (5) disposição expressa da referida operação no MOP e nos SOP.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacao
+- comando
+- bordo
+- funcao
+- nvis
+- outras
+- pessoas
+- piloto
+- requisitos
+- segundo
+- tripulacao
+- abaixo
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

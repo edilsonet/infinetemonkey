@@ -1,0 +1,36 @@
+id: rbac-rbac-90-90-137-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.137'
+section_title: Componente 2 - gerenciamento de riscos à segurança operacional
+subsection_id: a
+cite: 90.137(a)
+title: 90.137(a)
+text: '(a) Elemento 2.1 - Processo de identificação de perigos.
+
+  (1) O órgão ou ente público deverá desenvolver e manter processo de identificação de perigos
+  associados às operações aéreas.
+
+  (2) O processo de identificação de perigos deverá ser baseado em uma combinação de métodos
+  reativos e proativos a partir de coleta de dados de segurança operacional.'
+keywords:
+- regras-de-voo
+- operacoes
+- identificacao
+- perigos
+- processo
+- devera
+- operacional
+- seguranca
+- aereas
+- associados
+- baseado
+- coleta
+- combinacao
+- componente
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

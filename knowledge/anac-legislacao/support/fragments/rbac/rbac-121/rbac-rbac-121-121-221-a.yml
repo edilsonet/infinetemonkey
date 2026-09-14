@@ -1,0 +1,46 @@
+id: rbac-rbac-121-121-221-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.221'
+section_title: Precauções contra incêndio
+subsection_id: a
+cite: 121.221(a)
+title: 121.221(a)
+text: '(a) Cada compartimento quando usado para guardar carga ou bagagem deve ser projetado
+  de modo a atender aos seguintes requisitos:
+
+  (1) nenhum compartimento pode incluir controles, fiação, tubulação ou acessórios que possam,
+  no caso de falha ou dano, afetar a operação segura do avião a menos que o item seja adequadamente
+  blindado, isolado ou de qualquer maneira protegido, de modo que não possa ser danificado
+  pela movimentação de carga no compartimento e que dano ou falha do item não crie perigo
+  de incêndio no compartimento;
+
+  (2) a carga ou a bagagem não pode prejudicar o funcionamento dos dispositivos contra incêndio
+  do compartimento;
+
+  (3) os materiais usados na construção dos compartimentos, incluindo equipamento de amarração,
+  devem ser pelo menos resistentes à chama;
+
+  (4) cada compartimento deve incluir provisões de proteção contra incêndio de acordo com
+  as classificações estabelecidas nos parágrafos de (b) até (f) desta seção.'
+keywords:
+- transporte-aereo
+- operacoes
+- compartimento
+- incendio
+- carga
+- contra
+- bagagem
+- cada
+- dano
+- falha
+- incluir
+- menos
+- modo
+- pode
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

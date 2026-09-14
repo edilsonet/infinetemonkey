@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-21-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.21'
+section_title: Requisitos do manual geral da empresa
+subsection_id: a
+cite: 135.21(a)
+title: 135.21(a)
+text: (a) O detentor de certificado deve preparar e submeter à aceitação prévia da ANAC um
+  sistema de documentos de segurança operacional, na forma de um manual geral da empresa,
+  estabelecendo procedimentos e políticas. Este manual deve ser utilizado pelo pessoal de
+  voo, de solo e de manutenção do detentor de certificado, na condução de suas operações.
+  No entanto, a ANAC pode autorizar desvios deste parágrafo se for considerado que, em função
+  do tamanho limitado das operações, o manual, ou parte dele, não é necessário para a orientação
+  do pessoal de voo, de solo e de manutenção.
+keywords:
+- taxi-aereo
+- operacoes
+- manual
+- certificado
+- detentor
+- empresa
+- geral
+- manutencao
+- pessoal
+- solo
+- aceitacao
+- autorizar
+- conducao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

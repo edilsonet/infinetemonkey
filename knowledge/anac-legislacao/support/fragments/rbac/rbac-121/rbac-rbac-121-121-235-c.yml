@@ -1,0 +1,31 @@
+id: rbac-rbac-121-121-235-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.235'
+section_title: Válvulas de combustível
+subsection_id: c
+cite: 121.235(c)
+title: 121.235(c)
+text: (c) ser fixada de modo a suportar as cargas de sua operação e das condições de aceleração
+  em voo, não as transmitindo às tubulações a ela conectadas.
+keywords:
+- transporte-aereo
+- operacoes
+- aceleracao
+- cargas
+- combustivel
+- condicoes
+- conectadas
+- fixada
+- modo
+- operacao
+- suportar
+- transmitindo
+- tubulacoes
+- valvulas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

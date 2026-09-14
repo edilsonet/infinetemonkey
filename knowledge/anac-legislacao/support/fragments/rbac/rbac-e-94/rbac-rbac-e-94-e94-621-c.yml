@@ -1,0 +1,35 @@
+id: rbac-rbac-e-94-e94-621-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.621
+section_title: Aeronavegabilidade continuada de RPAS Classe 2
+subsection_id: c
+cite: E94.621(c)
+title: E94.621(c)
+text: '(c) A manutenção, manutenção preventiva, reparos ou alterações e aprovações para o
+  retorno ao serviço devem ser realizados:
+
+  (1) pelo fabricante; ou
+
+  (2) por organização de manutenção credenciada pelo fabricante; ou
+
+  (3) por pessoa qualificada e devidamente treinada pelo fabricante ou instituição credenciada
+  pelo fabricante.'
+keywords:
+- fabricante
+- manutencao
+- credenciada
+- aeronavegabilidade
+- alteracoes
+- aprovacoes
+- classe
+- continuada
+- devidamente
+- instituicao
+- organizacao
+- pessoa
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

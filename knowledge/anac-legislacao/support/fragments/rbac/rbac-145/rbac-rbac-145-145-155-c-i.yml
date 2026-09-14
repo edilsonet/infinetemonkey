@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-155-c-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.155'
+section_title: Requisitos do pessoal de inspeção
+subsection_id: c-i
+cite: 145.155(c-I)
+title: 145.155(c-I)
+text: '(c)-I O pessoal de inspeção deve ser capaz de ler e entender o(s) idioma(s) em que
+  são
+
+  apresentados os dados técnicos e as instruções para aeronavegabilidade continuada necessárias
+  para
+
+  a realização dos serviços constantes em suas especificações operativas.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- pessoal
+- aeronavegabilidade
+- apresentados
+- capaz
+- constantes
+- continuada
+- dados
+- entender
+- especificacoes
+- idioma
+- instrucoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

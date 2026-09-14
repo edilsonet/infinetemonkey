@@ -1,0 +1,95 @@
+id: rbac-rbac-107-107-185-body
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.185'
+section_title: '107.185'
+subsection_id: body
+cite: '107.185'
+title: '107.185'
+text: '107.185
+
+  Atividades de Controle de Qualidade AVSEC
+
+  Dispensado.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  107.185(a)(1)
+
+  Auditorias Internas
+
+  Dispensado.
+
+  Obrigatório, quando o aeródromo atende voo de aeronave com capacidade superior a 60 assentos.
+  1 (uma) a cada intervalo máximo de 36 (trinta e seis) meses
+
+  Obrigatório. 1 (uma) a cada intervalo máximo de 24 (vinte e quatro) meses
+
+  Obrigatório. 1 (uma) a cada intervalo máximo de 12 (doze) meses
+
+  107.185(a)(2)
+
+  Inspeções Internas
+
+  Dispensado.
+
+  Obrigatório, quando o aeródromo atende voo de aeronave com capacidade superior a 60 assentos.
+  1 (uma) a cada intervalo máximo de 12 (doze) meses
+
+  Obrigatório. 1 (uma) a cada intervalo máximo de 6 (seis) meses
+
+  Obrigatório. 1 (uma) a cada intervalo máximo de 6 (seis) meses
+
+  107.185(a)(3)
+
+  Testes
+
+  Dispensado.
+
+  Obrigatório, quando atende voo de aeronave com capacidade superior a 60 assentos. 1 (um)
+  conjunto de testes a cada intervalo máximo de 18 (dezoito) meses
+
+  Obrigatório. 1 (um) conjunto de testes a cada intervalo máximo de 6 (seis) meses
+
+  Obrigatório. 1 (um) conjunto de testes a cada intervalo máximo de 6 (seis) meses
+
+  107.185(a)(4)
+
+  Exercícios
+
+  Dispensado.
+
+  Dispensado.
+
+  Obrigatório. 1 (um) exercício simulado de mesa a cada intervalo máximo de 12 (doze) meses.
+  Para aeroportos que operam voos regulares internacionais, 1 (um) exercício simulado a cada
+  intervalo máximo de 12 (doze) meses, alternadamente entre: 1 (um) exercício simulado de
+  mesa e 1 (um) exercício simulado de escala real.
+
+  Obrigatório. 1 (um) exercício simulado a cada intervalo máximo de 12 (doze) meses, alternadamente
+  entre: 1 (um) exercício simulado de mesa e 1 (um) exercício simulado de escala real.'
+keywords:
+- seguranca
+- aeroporto
+- obrigatorio
+- cada
+- intervalo
+- maximo
+- meses
+- exercicio
+- simulado
+- dispensado
+- doze
+- seis
+- testes
+- aeronave
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

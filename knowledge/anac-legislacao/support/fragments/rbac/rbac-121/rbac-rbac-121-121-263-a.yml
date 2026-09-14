@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-263-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.263'
+section_title: Sistemas de extinção de incêndio
+subsection_id: a
+cite: 121.263(a)
+title: 121.263(a)
+text: (a) Devem existir sistemas de extinção de incêndio atendendo a todas as zonas designadas
+  de fogo. Entretanto, se for demonstrado que o uso de material a prova de fogo na nacele
+  e em outros componentes sujeitos a fogo proporciona uma proteção equivalente contra a destruição
+  do avião em caso de incêndio, os sistemas de extinção podem ser dispensados.
+keywords:
+- transporte-aereo
+- operacoes
+- extincao
+- fogo
+- incendio
+- sistemas
+- atendendo
+- aviao
+- caso
+- componentes
+- contra
+- demonstrado
+- designadas
+- destruicao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

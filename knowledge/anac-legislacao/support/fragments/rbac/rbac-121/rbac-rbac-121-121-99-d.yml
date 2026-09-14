@@ -1,0 +1,38 @@
+id: rbac-rbac-121-121-99-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.99'
+section_title: Facilidades de comunicações
+subsection_id: d
+cite: 121.99(d)
+title: 121.99(d)
+text: (d) Cada detentor de certificado envolvido na condução de operações ETOPS além de 180
+  minutos deve possuir um sistema de comunicação adicional, além do requerido pelo parágrafo
+  (c) desta seção. Este sistema deve prover comunicação por voz via satélite com a mesma fidelidade
+  de um sistema telefônico terrestre, ademais deve ser capaz de prover comunicações entre
+  a tripulação e os serviços de controle de tráfego aéreo e entre a tripulação e o detentor
+  do certificado. Para determinar a disponibilidade destas comunicações, o detentor do certificado
+  deve considerar rotas e altitudes potenciais necessárias no caso de desvios para os aeródromos
+  de alternativa em rota ETOPS. Se o sistema de comunicação por satélite não estiver disponível
+  ou for de baixa qualidade outro sistema de comunicações deve ser disponibilizado.
+keywords:
+- transporte-aereo
+- operacoes
+- sistema
+- comunicacoes
+- certificado
+- comunicacao
+- detentor
+- alem
+- etops
+- prover
+- satelite
+- tripulacao
+- ademais
+- adicional
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

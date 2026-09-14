@@ -1,0 +1,160 @@
+id: rbac-rbac-36-b36-8-i
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: B36.8
+section_title: B36.8
+subsection_id: i
+cite: B36.8(i)
+title: B36.8(i)
+text: '(i) In the case of multi
+
+  - engine airplanes, level flight with one engine inoperative.
+
+
+  (3) For the purpose of determining the lateral noise level, the reference flight path must
+  be
+
+  calculated using ful takeof
+
+  f power throughout the test run without a reduction in thrust or power.
+
+  For tests conducted before August 7, 202, a single reference flight path that includes thrust
+  cutback
+
+  in acordance with paragraph (b)(2) of this section, is an aceptable alternative
+
+  in determining the
+
+  lateral noise level.
+
+
+  (4) The takeof reference sped is the al
+
+  - engine operating takeof climb sped selected by the
+
+  aplicant for use in normal operation; this sped must be at least V2+10kt (V2+19km/h) but
+  may
+
+  not be greater than V2+2
+
+  0kt (V2+37km/h). This sped must be atained as son as practicable after
+
+  lift
+
+  - of and be maintained throughout the takeof noise certification test. For Concorde airplanes,
+  the
+
+  test day speds and the acoustic day reference sped are the minimum aproved
+
+  value of V2+35
+
+  knots, or the al
+
+  - engines
+
+  - operating sped at 35 fet, whichever sped is greater as determined under
+
+  the regulations constituting the type certification basis of the airplane; this reference
+  sped may not
+
+  exced 250 knots. For al airplanes,
+
+  noise values measured at the test day speds must be corected
+
+  to the acoustic day reference sped.
+
+
+  (5) The takeof configuration selected by the aplicant must be maintained constantly throughout
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  67
+
+  / 121
+
+
+  the takeof reference procedure, except that the landing g
+
+  ear may be retracted. Configuration means
+
+  the center of gravity position, and the status of the airplane systems that can afect airplane
+
+  performance or noise. Examples include, the position of lift augmentation devices, whether
+  the
+
+  APU is operating, and w
+
+  hether air bleds and engine power take
+
+  - ofs are operating;
+
+
+  (6) The weight of the airplane at the brake release must be the maximum takeof weight at
+  which
+
+  the noise certification is requested, which may result in an operating limitation as specified
+  in
+
+  §3
+
+  6.1581(d); and
+
+
+  (7) The average engine is defined as the average of al the certification compliant engines
+  used
+
+  during the airplane flight tests, up to and during certification, when operating within
+  the limitations
+
+  and acording to the procedures given in
+
+  the Flight Manual. This wil determine the relationship of
+
+  thrust/power to control parameters (e.g., N
+
+  1 or EPR). Noise measurements made during certification
+
+  tests must be corected using this relationship.'
+keywords:
+- ruido
+- meio-ambiente
+- sped
+- must
+- noise
+- reference
+- takeof
+- certification
+- operating
+- this
+- airplane
+- engine
+- flight
+- power
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

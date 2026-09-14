@@ -1,0 +1,37 @@
+id: rbac-rbac-90-90-389-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.389'
+section_title: Requisitos de aeronavegabilidade
+subsection_id: b
+cite: 90.389(b)
+title: 90.389(b)
+text: '(b) As cordas, o puçá, as redes de carga, os estropos, os equipamentos de uso pessoal
+  e os demais artigos utilizados na amarração da carga externa:
+
+  (1) não estarão sujeitos à certificação da ANAC; no entanto, deverão seguir critérios mínimos
+  de segurança estabelecidos pela UAP no MOP; e
+
+  (2) deverão ser mantidos, armazenados e inspecionados antes da operação com carga externa,
+  conforme as exigências e os procedimentos definidos pela UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- carga
+- deverao
+- externa
+- aeronavegabilidade
+- amarracao
+- armazenados
+- artigos
+- certificacao
+- cordas
+- criterios
+- definidos
+- demais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

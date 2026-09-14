@@ -1,0 +1,34 @@
+id: rbac-rbha-e-rbac-21-83-e
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.83'
+section_title: Requisitos para emissão de certificado de tipo provisório Classe II e de suas
+  emendas
+subsection_id: e
+cite: 21.83(e)
+title: 21.83(e)
+text: (e) O programa oficial de ensaios em voo da ANAC, ou o programa de ensaios em voo conduzido
+  pela autoridade de aviação civil do país no qual a aeronave foi fabricada, visando à emissão
+  do certificado de tipo, deve estar concluído ou em andamento.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- emissao
+- ensaios
+- programa
+- tipo
+- aeronave
+- andamento
+- autoridade
+- aviacao
+- civil
+- classe
+- concluido
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

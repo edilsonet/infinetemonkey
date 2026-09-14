@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-141-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.141'
+section_title: Manual de voo dos aviões
+subsection_id: a
+cite: 121.141(a)
+title: 121.141(a)
+text: (a) Cada detentor de certificado deve possuir um Manual de Voo do Avião (AFM) ou Manual
+  de Operações do Avião (AOM) atualizado para cada tipo de avião que ele opera, exceto para
+  tipos não certificados na categoria transporte antes de 01 de janeiro de 1965.
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- manual
+- cada
+- atualizado
+- avioes
+- categoria
+- certificado
+- certificados
+- detentor
+- exceto
+- janeiro
+- opera
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

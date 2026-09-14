@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-117-i
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.117'
+section_title: Aeródromos. Informações requeridas
+subsection_id: i
+cite: 121.117(i)
+title: 121.117(i)
+text: '(i) equipamento de medida de alcance visual de pista (RVR);
+
+  (ii) ventos predominantes em condições de baixa visibilidade;
+
+  (iii) procedimentos especiais em casos de falha de motor na decolagem.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromos
+- alcance
+- baixa
+- casos
+- condicoes
+- decolagem
+- equipamento
+- especiais
+- falha
+- informacoes
+- medida
+- motor
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

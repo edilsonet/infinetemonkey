@@ -1,0 +1,46 @@
+id: rbac-rbac-21-21-101-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.101'
+section_title: Determinação dos requisitos aplicáveis
+subsection_id: c
+cite: 21.101(c)
+title: 21.101(c)
+text: '(c) Um requerente de uma modificação para uma aeronave (que não seja uma aeronave de
+  asa rotativa) com peso máximo de até 2.724 kg (6.000 libras) ou para uma aeronave de asa
+  rotativa com peso máximo de até 1.362 kg (3.000 libras) equipada com motor que não seja
+  à reação ou para um avião de baixa velocidade nível 1 ou para para um avião de baixa velocidade
+  nível 2 pode demonstrar que a modificação e as áreas afetadas pela modificação cumprem com
+  os regulamentos referenciados no certificado de tipo. No entanto, se a ANAC considerar que
+  a modificação é significativa em uma área, a ANAC pode determinar o cumprimento com uma
+  emenda ao regulamento referenciado no certificado de tipo aplicável à modificação e com
+  qualquer outro regulamento que a ANAC julgar diretamente relacionado, a menos que a ANAC
+  também julgue que o cumprimento com aquela emenda ou regulamento não contribuiria significativamente
+  para o nível de segurança do produto modificado ou seria impraticável. (
+
+  Redação dada pela Resolução nº 524, de 02.08.2019
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- aeronave
+- nivel
+- regulamento
+- aviao
+- baixa
+- certificado
+- cumprimento
+- libras
+- maximo
+- peso
+- pode
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

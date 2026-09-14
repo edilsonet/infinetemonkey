@@ -1,0 +1,34 @@
+id: rbac-rbac-e-94-e94-409-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: b
+cite: E94.409(b)
+title: E94.409(b)
+text: '(b) os sistemas de geração, armazenamento e distribuição de energia para qualquer sistema
+  do RPAS devem ser capazes de:
+
+  (1) fornecer a energia requerida para a operação adequada de cargas conectadas durante todas
+  as condições pretendidas de operação; e
+
+  (2) alimentar as cargas essenciais requeridas para voo e pouso seguros mesmo na ocorrência
+  de qualquer falha simples ou mau funcionamento;'
+keywords:
+- cargas
+- energia
+- operacao
+- rpas
+- adequada
+- alimentar
+- armazenamento
+- capazes
+- classe
+- condicoes
+- conectadas
+- distribuicao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

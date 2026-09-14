@@ -1,0 +1,40 @@
+id: rbac-rbac-60-60-23-d
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.23'
+section_title: Modificações a FSTDs
+subsection_id: d
+cite: 60.23(d)
+title: 60.23(d)
+text: '(d) Quando uma modificação for realizada
+
+  em um FSTD e esta afetar o Certificado de
+
+  Qualificação, conforme a parágrafo 60.23(a)
+
+  deste regulamento, o operador deve anexar o
+
+  adendo ao Certificado até que seja emitido
+
+  um Certificado de Qualificação atualizado.'
+keywords:
+- simuladores
+- treinamento
+- certificado
+- qualificacao
+- adendo
+- afetar
+- anexar
+- atualizado
+- deste
+- emitido
+- fstd
+- fstds
+- modificacao
+- modificacoes
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

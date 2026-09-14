@@ -1,0 +1,31 @@
+id: rbac-rbac-90-90-389-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.389'
+section_title: Requisitos de aeronavegabilidade
+subsection_id: a
+cite: 90.389(a)
+title: 90.389(a)
+text: (a) As aeronaves e os equipamentos fixos à aeronave para operação de carga externa deverão
+  cumprir com os requisitos de aeronavegabilidade segundo o regramento específico da ANAC.
+keywords:
+- regras-de-voo
+- operacoes
+- aeronavegabilidade
+- requisitos
+- aeronave
+- aeronaves
+- carga
+- cumprir
+- deverao
+- equipamentos
+- especifico
+- externa
+- fixos
+- operacao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-e-94-e94-505-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.505
+section_title: Emissão de Certificado de Aeronavegabilidade Especial para RPA Classe 2 ou
+  3
+subsection_id: a
+cite: E94.505(a)
+title: E94.505(a)
+text: '(a) O requerente de um Certificado de Aeronavegabilidade Especial para uma RPA Classe
+  2 ou 3 que se destina a operações não experimentais faz jus a esse certificado mediante
+  o cadastro da RPA e a apresentação de uma declaração de conformidade do RPAS com seu projeto
+  autorizado pela ANAC, emitida pelo seu fabricante.
+
+  (Redação dada pela Resolução nº 649, de 30.11.2021)'
+keywords:
+- certificado
+- aeronavegabilidade
+- classe
+- especial
+- apresentacao
+- autorizado
+- cadastro
+- conformidade
+- dada
+- declaracao
+- destina
+- emissao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

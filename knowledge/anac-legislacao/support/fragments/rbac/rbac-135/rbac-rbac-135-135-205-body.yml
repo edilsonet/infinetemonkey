@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-205-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.205'
+section_title: 'VFR: condições meteorológicas'
+subsection_id: body
+cite: '135.205'
+title: 'VFR: condições meteorológicas'
+text: '135.205 VFR: condições meteorológicas
+
+  Somente é permitido realizar um voo VFR se informações meteorológicas atualizadas indicarem
+  que as condições meteorológicas ao longo da rota, ou da parte da rota a ser voada sob VFR,
+  permitirão, nos horários apropriados, o cumprimento dessas regras de voo.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- meteorologicas
+- condicoes
+- rota
+- apropriados
+- atualizadas
+- cumprimento
+- dada
+- dessas
+- horarios
+- indicarem
+- informacoes
+- longo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

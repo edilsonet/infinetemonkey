@@ -1,0 +1,24 @@
+id: rbac-rbac-135-135-93-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: body
+cite: '135.93'
+title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+text: '135.93 Piloto automático: altitudes mínimas de utilização para aviões'
+keywords:
+- taxi-aereo
+- operacoes
+- altitudes
+- automatico
+- avioes
+- minimas
+- piloto
+- utilizacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,51 @@
+id: rbac-rbac-135-a135-26-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.26
+section_title: Sistemas e equipamentos geral
+subsection_id: i
+cite: A135.26(i)
+title: A135.26(i)
+text: '(i) ser de espécie e de projeto apropriado à sua função pretendida;
+
+  (ii) ser rotulado com sua identificação, função e limitações de operação, ou com qualquer
+  combinação aplicável dessas informações, exceto se erro em seu uso ou sua atuação inadvertida
+  não puder criar riscos;
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (iii) ser instalado de acordo com as limitações especificadas para o equipamento; e
+
+  (iv) funcionar apropriadamente quando instalado;
+
+  (2) os sistemas e instalações devem ser projetados para proteger o avião contra riscos no
+  evento de mau funcionamento ou falhas dos mesmos; e
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (3) quando uma instalação, cujo funcionamento é necessário para demonstrar conformidade
+  com os requisitos aplicáveis, requerer um suprimento de energia, essa instalação deve ser
+  considerada como uma carga essencial do suprimento de energia e as fontes de energia, assim
+  como seus sistemas de distribuição, devem ser capazes de alimentar as seguintes cargas de
+  potência, nas combinações prováveis de operação e durante os prováveis tempos de operação:'
+keywords:
+- taxi-aereo
+- operacoes
+- energia
+- operacao
+- sistemas
+- dada
+- funcao
+- funcionamento
+- instalacao
+- instalado
+- limitacoes
+- provaveis
+- redacao
+- resolucao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

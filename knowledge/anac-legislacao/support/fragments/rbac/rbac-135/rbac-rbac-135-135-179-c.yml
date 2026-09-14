@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-179-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.179'
+section_title: Instrumentos e equipamentos inoperantes
+subsection_id: c
+cite: 135.179(c)
+title: 135.179(c)
+text: '(c) Os seguintes instrumentos e equipamentos não podem ser incluídos na MEL:
+
+  (1) instrumentos e equipamentos que sejam especificamente ou de qualquer outra maneira requeridos
+  pelos requisitos de aeronavegabilidade segundo as quais a aeronave recebeu certificação
+  de tipo e que sejam essenciais para a operação segura sob todas as condições de operação;
+
+  (2) instrumentos e equipamentos que uma diretriz de aeronavegabilidade requeira estarem
+  em condições de funcionamento, exceto se a própria diretriz de aeronavegabilidade der outra
+  orientação; e
+
+  (3) os instrumentos e equipamentos requeridos por este Regulamento para operações específicas.'
+keywords:
+- taxi-aereo
+- operacoes
+- equipamentos
+- instrumentos
+- aeronavegabilidade
+- condicoes
+- diretriz
+- operacao
+- outra
+- requeridos
+- sejam
+- aeronave
+- certificacao
+- especificamente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-110-emd-02-110-51-h
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.51'
+section_title: Responsabilidade na certificação em Segurança da Aviação Civil - AVSEC
+subsection_id: h
+cite: 110.51(h)
+title: 110.51(h)
+text: '(h) O centro de instrução é o responsável por informar à ANAC, em até 30 (trinta) dias
+  após a data de término do curso AVSEC, os índices dos critérios de aprovação atingidos pelos
+  profissionais durante processo de certificação AVSEC.
+
+  (1) Nos casos da certificação de Formação em Inspeção de Segurança da Aviação Civil, o centro
+  de instrução deve informar à ANAC, em até 12 (doze) meses, o “apto” ou “não-apto” do Treinamento
+  em Serviço, conforme avaliação da organização com responsabilidade AVSEC.
+
+  (2) Nos casos da certificação de Formação em Inspeção de Segurança da Aviação Civil, a validade
+  da certificação de Formação e Atualização em Inspeção de Segurança da Aviação Civil iniciará
+  somente após a obtenção do “apto” no Treinamento em Serviço.'
+keywords:
+- carga
+- operacoes
+- certificacao
+- aviacao
+- avsec
+- civil
+- seguranca
+- apto
+- formacao
+- inspecao
+- casos
+- centro
+- informar
+- instrucao
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

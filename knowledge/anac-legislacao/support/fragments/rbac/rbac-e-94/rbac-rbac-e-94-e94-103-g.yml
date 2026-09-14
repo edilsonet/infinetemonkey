@@ -1,0 +1,38 @@
+id: rbac-rbac-e-94-e94-103-g
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.103
+section_title: Regras gerais para a operação de aeronaves não tripuladas
+subsection_id: g
+cite: E94.103(g)
+title: E94.103(g)
+text: '(g) A operação de RPA de peso máximo de decolagem acima de 250 gramas de um órgão de
+  segurança pública, de polícia, de fiscalização tributária e aduaneira, de combate a vetores
+  de transmissão de doenças, de defesa civil e/ou do corpo de bombeiros, ou de operador a
+  serviço de um destes, somente é permitida pela ANAC, conforme permitido o uso do espaço
+  aéreo pelo DECEA, sob total responsabilidade do órgão ou do operador, em quaisquer áreas,
+  nas seguintes condições:
+
+  (1) se forem atendidas as demais exigências deste Regulamento Especial; e
+
+  (2) se houver uma avaliação de risco operacional, contemplando cada modalidade de operação,
+  nos termos de Instrução Suplementar específica, que deve estar atualizada dentro dos últimos
+  12 meses calendáricos prévios à operação.'
+keywords:
+- operacao
+- operador
+- orgao
+- acima
+- aduaneira
+- aereo
+- aeronaves
+- areas
+- atendidas
+- atualizada
+- avaliacao
+- bombeiros
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,86 @@
+id: rbac-rbac-035-35-15-e
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.15'
+section_title: '35.15'
+subsection_id: e
+cite: 35.15(e)
+title: 35.15(e)
+text: '(e) Se a análise de segurança depender de um
+
+  ou mais dos seguintes itens, estes itens devem
+
+  ser identificados na análise e apropriadamente
+
+  fundamentados.
+
+  (1) Ações de manutenção conduzidas a inter-
+
+  valos estabelecidos. Isto inclui a verificação de
+
+  que itens que poderiam falhar de forma latente
+
+  estão funcionando apropriadamente. Quando
+
+  necessário para evitar efeitos hazardous de
+
+  hélice, essas ações e intervalos de manutenção
+
+  devem ser publicados nas instruções para aero-
+
+  navegabilidade continuada requeridas pela se-
+
+  ção 35.4 deste RBAC. Adicionalmente, se erros
+
+  na manutenção do sistema de hélice puderem
+
+  levar a efeitos hazardous de hélice, os proce-
+
+  dimentos apropriados de manutenção devem ser
+
+  incluídos nos manuais relevantes da hélice.
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 35
+
+
+  (2) Verification of the satisfactory function-
+
+  ing of safety or other devices at pre-flight or
+
+  other stated periods. The details of this satisfac-
+
+  tory functioning must be published in the ap-
+
+  propriate manual.
+
+  (3) The provision of specific instrumentation
+
+  not otherwise required. Such instrumentation
+
+  must be published in the appropriate documen-
+
+  tation.
+
+  (4) A fatigue assessment.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- manutencao
+- acoes
+- analise
+- apropriadamente
+- efeitos
+- hazardous
+- instrumentation
+- must
+- other
+- published
+- adicionalmente
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

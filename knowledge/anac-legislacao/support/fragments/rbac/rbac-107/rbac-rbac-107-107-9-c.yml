@@ -1,0 +1,49 @@
+id: rbac-rbac-107-107-9-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.9'
+section_title: Classificações dos Aeródromos
+subsection_id: c
+cite: 107.9(c)
+title: 107.9(c)
+text: '(c) As classes definidas para os aeródromos, segundo o tipo de serviço aéreo em operação
+  e o número de passageiros processados, são:
+
+  (1) Classe AP-0: Aeródromo com operação exclusiva de aviação geral, de serviço de táxi aéreo
+  e/ou de aviação comercial na modalidade de operação de fretamento;
+
+  (2) Classe AP-1: Aeródromo com operação da aviação comercial regular ou na modalidade de
+  operação charter e com média aritmética anual de passageiros processados nessas operações
+  nos últimos 3 (três) anos inferior a 600.000 (seiscentos mil);
+
+  (3) Classe AP-2: Aeródromo com operação da aviação comercial regular ou na modalidade de
+  operação charter e com média aritmética anual de passageiros processados nessas operações
+  nos últimos 3 (três) anos superior ou igual a 600.000 (seiscentos mil) e inferior a 5.000.000
+  (cinco milhões);
+
+  (4) Classe AP-3: Aeródromo com operação da aviação comercial regular ou na modalidade de
+  operação charter e com média aritmética anual de passageiros processados nessas operações
+  nos últimos 3 (três) anos superior ou igual a 5.000.000 (cinco milhões).
+
+  (Redação dada pela Resolução nº 500, de 12.12.2018)'
+keywords:
+- seguranca
+- aeroporto
+- operacao
+- aviacao
+- aerodromo
+- classe
+- comercial
+- modalidade
+- passageiros
+- processados
+- anos
+- anual
+- aritmetica
+- charter
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

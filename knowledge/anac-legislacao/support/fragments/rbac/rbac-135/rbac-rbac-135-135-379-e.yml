@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-379-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.379'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de decolagem'
+subsection_id: e
+cite: 135.379(e)
+title: 135.379(e)
+text: (e) Na determinação de pesos máximos e distâncias mínimas dos parágrafos de (a) até
+  (c) desta seção, devem ser feitas as correções para a altitude dos aeródromos, o gradiente
+  efetivo das pistas, a temperatura ambiente e a componente de vento existente na decolagem
+  e, se o manual de voo do avião contiver informações de desempenho com a pista molhada, as
+  condições da superfície da pista (se seca ou molhada). Distâncias em pistas molhadas associadas
+  com pistas ranhuradas ou com camada porosa de atrito, se constantes no manual de voo do
+  avião, só podem ser utilizadas para pistas que sejam realmente ranhuradas ou tratadas com
+  camada porosa de atrito e que o operador verifique que foram projetadas, construídas e mantidas
+  de maneira aceitável pela ANAC.
+keywords:
+- taxi-aereo
+- operacoes
+- pistas
+- atrito
+- aviao
+- camada
+- decolagem
+- distancias
+- manual
+- molhada
+- pista
+- porosa
+- ranhuradas
+- aceitavel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

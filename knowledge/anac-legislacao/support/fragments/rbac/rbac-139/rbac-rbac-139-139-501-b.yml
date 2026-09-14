@@ -1,0 +1,32 @@
+id: rbac-rbac-139-139-501-b
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.501'
+section_title: Análise e aprovação de isenções
+subsection_id: b
+cite: 139.501(b)
+title: 139.501(b)
+text: (b) Uma petição de isenção deve ser fundamentada por Análise de Impacto sobre a Segurança
+  Operacional (AISO), Estudo Aeronáutico ou Estudo de Compatibilidade, demonstrando que as
+  operações podem ser mantidas dentro de um nível aceitável de segurança operacional.
+keywords:
+- aerodromos
+- infraestrutura
+- analise
+- estudo
+- operacional
+- seguranca
+- aceitavel
+- aeronautico
+- aiso
+- aprovacao
+- compatibilidade
+- demonstrando
+- dentro
+- fundamentada
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

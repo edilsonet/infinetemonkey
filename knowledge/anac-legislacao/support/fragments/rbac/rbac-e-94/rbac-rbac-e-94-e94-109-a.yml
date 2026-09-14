@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-109-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.109
+section_title: Requisitos de autonomia
+subsection_id: a
+cite: E94.109(a)
+title: E94.109(a)
+text: (a) Somente é permitido iniciar uma operação de aeronave não tripulada se, considerando
+  vento e demais condições meteorológicas conhecidas, houver autonomia suficiente para realizar
+  o voo e pousar em segurança no local previsto.
+keywords:
+- autonomia
+- aeronave
+- condicoes
+- conhecidas
+- considerando
+- demais
+- houver
+- iniciar
+- local
+- meteorologicas
+- operacao
+- permitido
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-90-90-139-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.139'
+section_title: Componente 3 - garantia da segurança operacional
+subsection_id: b
+cite: 90.139(b)
+title: 90.139(b)
+text: '(b) Elemento 3.2 - Processo de gerenciamento de mudanças.
+
+  (1) A UAP deve desenvolver e manter um processo para identificar alterações que podem afetar
+  o nível de risco à segurança operacional de seus produtos ou serviços e para identificar
+  e gerenciar os riscos à segurança operacional que podem surgir a partir dessas mudanças.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- identificar
+- mudancas
+- podem
+- processo
+- afetar
+- alteracoes
+- componente
+- desenvolver
+- dessas
+- elemento
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-129-129-13-c
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.13'
+section_title: Certificados de Aeronavegabilidade e de Matrícula
+subsection_id: c
+cite: 129.13(c)
+title: 129.13(c)
+text: (c) Nenhuma empresa estrangeira de transporte aéreo pode operar uma aeronave, dentro
+  do Brasil, a menos que a operação seja conduzida dentro das limitações de certificação e
+  operação da aeronave aprovadas pelo país de fabricação da aeronave.
+keywords:
+- operador-estrangeiro
+- operacoes
+- aeronave
+- dentro
+- operacao
+- aereo
+- aeronavegabilidade
+- aprovadas
+- brasil
+- certificacao
+- certificados
+- conduzida
+- empresa
+- estrangeira
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

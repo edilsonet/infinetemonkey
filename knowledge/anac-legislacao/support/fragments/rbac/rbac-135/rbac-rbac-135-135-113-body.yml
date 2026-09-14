@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-113-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.113'
+section_title: Ocupação de assento para piloto
+subsection_id: body
+cite: '135.113'
+title: Ocupação de assento para piloto
+text: '135.113 Ocupação de assento para piloto
+
+  O detentor de certificado não pode operar uma aeronave de tipo certificado após 15 de outubro
+  de 1971, que tenha uma configuração para passageiros com mais de 8 assentos excluído qualquer
+  assento para piloto, se qualquer dos assentos de piloto for ocupado por uma pessoa que não
+  seja um piloto em comando, um piloto segundo em comando, um examinador credenciado do detentor
+  de certificado ou um servidor designado pela ANAC autorizado.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- assento
+- certificado
+- ocupacao
+- assentos
+- comando
+- detentor
+- aeronave
+- autorizado
+- configuracao
+- credenciado
+- dada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

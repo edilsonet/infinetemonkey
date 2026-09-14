@@ -1,0 +1,857 @@
+id: is-is-91-005-01-01-2025-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: 01.01.2025
+section_title: 01.01.2025
+subsection_id: body
+cite: 01.01.2025
+title: 01.01.2025
+text: '01.01.2025
+
+  OBJETIVO
+
+  1.1.
+
+  A presente Instrução Suplementar fornece material de orientação para a autorização operacional
+  para operação em espaço aéreo com separação vertical mínima reduzida (RVSM).
+
+  REVOGAÇÃO
+
+  2.1. Esta IS revoga a IS nº 91-005, Revisão E.
+
+  FUNDAMENTOS
+
+  A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar
+  - IS, norma suplementar de caráter geral editada pelo superintendente da área competente,
+  objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC.
+
+  O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito
+  previsto em RBAC, poderá:
+
+  a) adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse
+  caso, a análise e concordância expressa do órgão competente da Anac.
+
+  O meio ou procedimento alternativo mencionado no parágrafo 3.2b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro
+  ato normativo.
+
+  Esta IS é fundamentada e objetiva oferecer método de cumprimento à seção 91.1703 do RBAC
+  nº 91.
+
+  DEFINIÇÕES
+
+  4.1. A presente IS utiliza termos e abreviaturas na língua inglesa por entender que os mesmos
+  já são amplamente utilizados pela indústria e pelos operadores.
+
+  4.2. No escopo da presente Instrução Suplementar, são válidas todas as definições contidas
+  no RBAC nº 01, no RBAC nº 91, no RBAC nº 121 e no RBAC nº 135.
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  Aplicabilidade
+
+  Esta IS se aplica a qualquer operador regido pelos RBAC nº 121, 135 ou 91, que tenha ou
+  solicite autorização operacional para RVSM.
+
+  Introdução
+
+  O Painel de Revisão do Conceito Geral de Separação (RGCSP -
+
+  Review of the General Concept of Separation Panel
+
+  ) da OACI, em sua quarta reunião (RGCSP/4) em 1980, concluiu que os potenciais benefícios
+  da redução da separação vertical mínima (VSM -
+
+  Vertical Separation Minimum
+
+  ) acima do Nível de Voo 290 (FL 290), de 600 metros (2.000 pés) para 300 metros (1.000 pés)
+  seriam tão grandes que os Estados deveriam ser encorajados a realizar os estudos e avaliações
+  necessárias para determinar a viabilidade da medida, apesar dos consideráveis custos, tempo
+  e esforços que seriam necessários.
+
+  À luz das orientações do RGCSP, em 1982 vários Estados iniciaram abrangentes grupos de trabalho
+  para avaliar a viabilidade de reduzir a separação vertical mínima acima do nível de voo
+  290 (FL 290). Os estudos foram conduzidos pelo Canadá, Japão, União das Repúblicas Socialistas
+  Soviéticas (URSS), Estados Unidos da América e por quatro Estados-Membro do EUROCONTROL
+  (
+
+  European Organization for the Safety of Air Navigation
+
+  - Organização Europeia para a Segurança da Navegação Aérea) - França, República Federal
+  da Alemanha, Países Baixos e Reino Unido. Esses estudos foram coordenados pelo EUROCONTROL.
+
+  Os objetivos primários dos estudos eram avaliar se a implementação global da RVSM seria
+  capaz de:
+
+  a) satisfazer os requisitos de segurança pré-determinados;
+
+  b) ser técnica e operacionalmente viável; e
+
+  c) ter uma relação custo/benefício favorável.
+
+  Os estudos empregaram métodos quantitativos de avaliação de risco como base para as decisões
+  operacionais relativas à segurança e viabilidade de se reduzir a separação vertical mínima.
+  O processo de avaliação de risco englobou dois elementos:
+
+  a) estimar o risco, que consiste em elaborar e aplicar métodos e técnicas que permitam estimar
+  o nível real de risco de uma atividade; e
+
+  b) avaliar o risco, que consiste em determinar o nível máximo de risco que pode ser tolerado
+  em um sistema considerado seguro.
+
+  Para o nível de risco que se considera aceitável foi dado o nome de Nível Desejado de Segurança
+  (TLS -
+
+  Target Level of Safety
+
+  ).
+
+  A base do processo de estimativa do risco foi a determinação da precisão relativa à capacidade
+  de manutenção de altitude das aeronaves operando no nível de voo 290 e acima. Isso foi feito
+  por meio do uso de radares de alta precisão para medir a altitude das aeronaves em voo reto
+  e nivelado. Essas medições foram então comparadas com as altitudes designadas para cada
+  aeronave, determinando o Erro Vertical Total (TVE -
+
+  Total Vertical Error
+
+  ). Por meio desse processo, foram obtidos os dados de TVE de uma amostra representativa
+  das aeronaves. De posse desses dados, juntamente com o conhecimento de outros parâmetros-chave
+  (como densidade de tráfego e características do espaço aéreo), foi possível estimar o risco
+  de colisão em voo em decorrência de erros de navegação vertical das aeronaves, em voo reto
+  e nivelado, e para as quais haviam sido empregado os procedimentos corretos de separação
+  vertical. Foi então estimado um TLS de 2,5 x 10
+
+  -9
+
+  acidentes fatais por hora de voo (2,5 acidentes a cada bilhão de horas de voo) para determinar
+  a viabilidade técnica e para se elaborarem os requisitos relativos à capacidade de manutenção
+  de altitude das aeronaves para operações RVSM.
+
+  Utilizando o TLS estimado, o RGCSP chegou à conclusão que uma VSM de 300 metros (1.000 pés)
+  acima do FL 290 era tecnicamente possível. Essa viabilidade técnica refere-se à capacidade
+  intrínseca dos sistemas de manutenção de altitude das aeronaves, que podem ser fabricados,
+  mantidos e operados de tal maneira que a performance esperada, ou típica, permita a implementação
+  e utilização de uma VSM reduzida. Ao chegar a essa conclusão, o painel considerou necessário
+  estabelecer:
+
+  a) requisitos de performance de aeronavegabilidade, incorporados em uma Especificação Mínima
+  de Performance dos Sistemas de Aeronaves (MASPS -
+
+  Minimum Aircraft System Performance Specification
+
+  ) para todas as aeronaves que realizem voos utilizando a separação reduzida;
+
+  b) novos procedimentos operacionais; e
+
+  c) um método completo de verificação do funcionamento seguro do sistema.
+
+  Como o TLS não cobre todas as causas de risco de colisão no plano vertical e uma vez que
+  a região do Atlântico Norte (NAT) passou a ser a primeira região da OACI a aplicar o RVSM,
+  o Grupo de Planejamento de Sistemas Atlântico Norte (NAT SPG -
+
+  North Atlantic Systems Planning Group
+
+  ) convencionou que seria necessário aumentar o TLS para aquelas operações de 2,5 x10
+
+  -9
+
+  para 5,0 x 10
+
+  -9
+
+  acidentes fatais por hora de voo como resultado de perda de separação vertical devido a
+  qualquer causa (erros técnicos ou operacionais).
+
+  Processo de autorização operacional para RVSM
+
+  Embora seja único, o processo de autorização operacional para RVSM observa aspectos referentes
+  tanto a requisitos de aeronavegabilidade quanto a requisitos de operações.
+
+  Não se deve confundir os aspectos deste processo de autorização operacional para RVSM referentes
+  à aeronavegabilidade com aprovações de aeronavegabilidade de processos de certificação de
+  tipo (CT) ou certificação suplementar de tipo (CST). Embora muitos dos aspectos de aeronavegabilidade
+  sejam os mesmos, nos dois últimos verifica-se a instalação de equipamentos de navegação
+  de área em aeronaves novas ou modificadas, para emissão de CT, de CST, ou documento equivalente.
+  Para o processo de autorização operacional para RVSM, o equipamento de navegação de área
+  já deve estar instalado e certificado.
+
+  A coordenação dos processos de autorização operacional para RVSM é de responsabilidade da
+  SPO por meio de suas gerências: a GCTA, para operadores regidos pelo RBAC nº 121, e a GOAG
+  para operadores segundo o RBAC nº 135 e o RBAC nº 91. Portanto, os processos de autorização
+  operacional para RVSM são conduzidos por estas gerências. Os aspectos referentes à aeronavegabilidade
+  da autorização operacional para RVSM são tratados pela GCAC.
+
+  Os processos de autorização operacional para RVSM seguem o conceito de processo de cinco
+  fases, conforme preconizado pela OACI no DOC 8335, sendo que apenas na última fase (Fase
+  5), após o operador ter demonstrado atendimento a todos os requisitos aplicáveis, será emitida
+  a autorização operacional para RVSM da Anac para que sejam realizadas as operações pretendidas.
+  As fases do processo são descritas a seguir:
+
+  a)
+
+  Fase 1 - pré-solicitação
+
+  : os representantes da Anac e do operador devem possuir um entendimento comum em relação
+  à autorização operacional para RVSM, estabelecendo os requisitos aplicáveis e os documentos
+  de orientação que serão utilizados na condução do processo. Com este intuito, uma reunião
+  de orientação prévia (ROP) pode ser agendada, a critério da Anac, para que as informações
+  pertinentes e os detalhes do processo sejam apresentados, tanto por parte do requerente,
+  quanto por parte da Anac;
+
+  b)
+
+  Fase 2 - solicitação formal
+
+  : o requerente deve enviar à Anac o pedido formal de autorização operacional para RVSM e
+  toda a documentação pertinente ao processo;
+
+  c)
+
+  Fase 3 - análise da documentação
+
+  : a documentação submetida pelo operador será analisada pela Anac para verificação de sua
+  adequabilidade às operações pretendidas. Como resultado desta fase, a Anac aceitará ou rejeitará
+  a documentação enviada, de acordo com a análise documental realizada. Caso a Anac julgue
+  as informações fornecidas como suficientes para cumprirem todas as exigências estabelecidas
+  para as operações propostas, a documentação e solicitação formal serão aceitas e, em caso
+  contrário, o processo de autorização operacional para RVSM será sobrestado e o requerente
+  será notificado com um descritivo das não-conformidades encontradas;
+
+  d)
+
+  Fase 4 - demonstrações e inspeções
+
+  : o acompanhamento dos currículos de solo e seções de simulador para os diferentes programas
+  de treinamento propostos, voos de avaliação, exames de proficiência, e a verificação de
+  equipamentos instalados na aeronave constituem algumas das atividades passíveis de ser objeto
+  de demonstrações com acompanhamento por parte dos servidores da Anac. É pertinente enfatizar
+  que somente depois de concluída toda a análise documental é que devem ter início as inspeções
+  e demonstrações; e
+
+  e)
+
+  Fase 5 - aprovação
+
+  : após a finalização de todas as análises, inspeções e demonstrações, tendo o requerente
+  demonstrado atendimento satisfatório a todas as exigências estabelecidas, a Anac emitirá
+  uma autorização operacional, permitindo ao requerente conduzir a operação RVSM. A autorização
+  operacional para RVSM constitui a Fase 5 do processo, sendo concluída por meio da emissão
+  das EO para as operações realizadas de acordo com os RBAC nº 121 e 135, por meio de EA para
+  as operações realizadas de acordo com a Subparte K do RBAC nº 91 e por meio de carta de
+  autorização (LOA), para as operações realizadas pelo RBAC nº 91, exceto Subparte K.
+
+  Aeronaves cujos operadores são regidos pelos RBAC nº 121, 135 ou pela Subparte K do RBAC
+  nº 91 e que ainda não fazem parte da frota, ou seja, aeronaves cujos modelos ainda não estão
+  inclusos em EO ou EA, poderão possuir autorização operacional para RVSM de acordo com as
+  regras do RBAC nº 91 por meio de LOA.
+
+  Representantes e pessoas de contato da organização requerente
+
+  A adequada condução do processo depende da efetividade da comunicação entre a Anac e o interessado.
+  Portanto, é essencial que interessado realize e mantenha atualizado seu cadastro no protocolo
+  eletrônico da Anac, bem como as indicações dos representantes legais e procuradores especiais
+  no Sistema Eletrônico de Informações (SEI).
+
+  As comunicações oficiais acerca do processo de autorização operacional para RVSM serão encaminhadas
+  exclusivamente por meio do SEI, para os representantes legais e procuradores cadastrados
+  para o CNPJ ou CPF do interessado no sistema.
+
+  O processo eletrônico da Anac está previsto na Resolução nº 520/2019 e maiores informações
+  podem ser consultadas no seguinte endereço:
+
+  https://www.gov.br/anac/pt-br/sistemas/protocolo-eletronico-sei
+
+  .
+
+  Todas as comunicações, interações e documentos necessários ao processo de autorização operacional
+  para RVSM somente serão aceitos se realizados pelas pessoas legalmente designadas pelo interessado,
+  respeitadas as respectivas áreas de atuação.
+
+  São consideradas pessoas legalmente designadas pelo interessado os procuradores cadastrados
+  no SEI como procuradores especiais ou pessoas legalmente constituídas, que apresentem procuração,
+  contrato de trabalho ou prestação de serviços ou outro documento que comprove a legalidade
+  e efetividade da representação.
+
+  Autorização operacional para RVSM conforme tipo de operação
+
+  Operação RVSM para operações regidas pelo RBAC nº 91 (incluindo as regidas pelo RBAC nº
+  90)
+
+  Para obtenção da LOA concedendo autorização operacional para RVSM, o operador da aeronave
+  deve remeter à GTCE os seguintes documentos:
+
+  a)
+
+  Documento de solicitação formal.
+
+  É o documento submetido à Anac que formaliza as intenções do operador em obter a autorização
+  operacional para RVSM. O envio deste documento, juntamente com o restante da documentação
+  pertinente e sua aceitação por parte desta Agência, constitui a fase 2 do processo. O preenchimento
+  e envio do Relatório Técnico é realizado por meio de formulário digital diretamente no sistema
+  SEI.
+
+  O Relatório Técnico deve ter seu preenchimento completo, incluindo a informação do código
+  hexadecimal ou binário fornecido pelo CGNA para o transponder da aeronave.
+
+  b)
+
+  Formulário F-900-44 (Laudo RVSM) - Laudo de Aeronave Operação RVSM.
+
+  Deve ser preenchido por organização de manutenção certificada pela Anac, obedecendo a todas
+  as seguintes condições:
+
+  I - O Laudo RVSM deve ser preenchido e assinado por organizações de manutenção aeronáutica
+  (OM), certificadas para o modelo da aeronave, ou pelas OMs que incorporaram uma grande modificação
+  ou alteração que tornou a aeronave apta a realizar as operações RVSM. Cópia da documentação
+  utilizada na análise da capacidade da aeronave deve ser arquivada na OM por, pelo menos,
+  5 (cinco) anos, e deve ser apresentada à Anac quando requerida;
+
+  II - Para análise da capacidade RVSM da aeronave e preenchimento do formulário F-900-44,
+  o operador deve cumprir com os critérios estabelecidos no Apêndice C desta IS; e
+
+  III - O Laudo RVSM da aeronave tem validade de 2 (dois) anos a contar da data de assinatura
+  do documento.
+
+  c)
+
+  Declaração de familiarização com os procedimentos e práticas.
+
+  Para a execução das operações RVSM, o operador deve declarar no Relatório Técnico que a
+  tripulação sempre estará familiarizada com os procedimentos e práticas descritas nesta IS.
+
+  Relatório de monitoramento do sistema de altimetria da aeronave.
+
+  O operador pode apresentar, em conjunto com a documentação do parágrafo 5.5.1.1 desta IS,
+  um relatório de monitoramento do sistema de altimetria da aeronave, que deve ser obtido
+  junto a entidades certificadas e tem por objetivo emitir parecer quanto à capacidade do
+  sistema de altimetria da aeronave sobre a manutenção dos padrões de performance RVSM definidos
+  no Apêndice D desta IS. Caso o operador não apresente este relatório, deverá conduzir o
+  voo para emissão do relatório em até 6 meses decorridos após a data de emissão da LOA, submetendo
+  o relatório à Anac.
+
+  5.5.1.2.1 O relatório de monitoramento deve ser atualizado a cada 24 (vinte e quatro) meses
+  ou 1.000 (mil) horas totais voadas, o que for maior. Para cálculo das 1.000 horas de voo,
+  deve ser considerado o período a partir da data do último voo de monitoramento satisfatório
+  realizado.
+
+  Após emitida, a LOA será válida desde que mantidas as condições estabelecidas por esta IS
+  e em conformidade com a Subparte N do RBAC nº 91.
+
+  A LOA é uma autorização do operador, de forma que aeronaves com mais de um operador podem:
+
+  a) possuir mais de uma LOA;
+
+  b) possuir LOA com mais de um operador autorizado; ou
+
+  c) ser autorizadas a operar RVSM apenas com operadores específicos.
+
+  O operador da aeronave é responsável por utilizar somente tripulação treinada conforme os
+  requisitos descritos nesta IS. O treinamento RVSM possui validade de 24 meses.
+
+  Caso o operador possua uma Lista de Equipamentos Mínimos (MEL), ela deve ser adequada e
+  submetida para aprovação da Anac refletindo as condições requeridas para o despacho de suas
+  aeronaves com relação aos equipamentos utilizados nos procedimentos RVSM pretendidos. A
+  MEL deve contemplar a degradação das operações RVSM ao menos nos equipamentos listados no
+  formulário de capacidade da aeronave. Entretanto, havendo lista mais extensa gerada pelo
+  fabricante da aeronave, todos os equipamentos incluídos nessa lista devem constar na MEL.
+
+  Os interessados poderão iniciar o processo de obtenção de autorização operacional para RVSM
+  para aeronaves com reserva de marcas ou em processo de transferência de posse e/ou atualização
+  de registro. Nesses casos, deve ser apresentada documentação que vincule a aeronave ao futuro
+  operador (contrato de compra/
+
+  leasing
+
+  etc.). A finalização do processo e a emissão da autorização operacional para RVSM ficará
+  condicionada à regularização do registro da aeronave em nome do operador junto ao RAB.
+
+  Operação RVSM para operações regidas pela Subparte K do RBAC nº 91
+
+  Para inclusão de autorização operacional para RVSM na EA de operador aéreo regido pela Subparte
+  K do RBAC nº 91, doravante denominado “Operador 91K”, esse operador deve seguir a orientação
+  constante da seção 5.3 da IS nº 91-013. As alterações nos manuais do Operador 91K para inclusão
+  de operação RVSM em suas EA devem seguir o exposto nos Apêndices desta IS.
+
+  Nota
+
+  : aeronaves ainda não inclusas em EA poderão ser autorizadas a operar RVSM de acordo com
+  as regras do RBAC nº 91 por meio de LOA.
+
+  Em adição ao exposto no parágrafo anterior, o Operador 91K deve fazer constar do seu pacote
+  de solicitação:
+
+  a)
+
+  Carta ou ofício contendo detalhamento da solicitação de alteração de EA
+
+  , incluindo o código hexadecimal do Modo S do
+
+  transponder
+
+  das aeronaves afetadas;
+
+  b)
+
+  Formulário F-900-44 (Laudo RVSM)
+
+  . Deve ser preenchido por organização de manutenção certificada para o modelo, utilizando
+  uma matrícula a ser operada como amostra do modelo da aeronave para o qual se solicita autorização
+  operacional para RVSM. Para análise da capacidade RVSM da aeronave e preenchimento do Formulário
+  F-900-44, o operador deve cumprir com os critérios estabelecidos no Apêndice C deste documento;
+
+  Nota:
+
+  o Formulário F-900-44 pode ser encaminhado até a Fase 4 do processo de certificação.
+
+  c)
+
+  Manual de operações (MO).
+
+  Deve conter procedimentos atualizados de acordo com os Apêndices E e G desta IS;
+
+  d)
+
+  Programa de treinamento operacional (PTO).
+
+  Deve conter currículo ou segmento de currículo de treinamento especial RVSM, conforme o
+  Apêndice F desta IS;
+
+  e)
+
+  Lista de equipamentos mínimos (MEL).
+
+  Caso aplicável, deve ser apresentada revisão atualizada da MEL das aeronaves afetadas, incluindo
+  provisões e restrições específicas de equipamentos para a operação em espaço aéreo RVSM;
+  e
+
+  f)
+
+  Relatório de monitoramento.
+
+  Deve seguir o estabelecido no parágrafo 5.5.1.2 desta IS, para a aeronave representando
+  o modelo envolvido na autorização operacional para RVSM, inclusive com relação à necessidade
+  de manutenção deste citado relatório atualizado. O relatório de monitoramento pode ser dispensado
+  caso o operador apresente e obtenha aprovação de um programa de monitoramento, conforme
+  descrito na seção 5.6 desta IS.
+
+  Matrículas de aeronaves recém incluídas na frota devem ser avaliadas em até 6 (seis) meses,
+  a contar da inclusão na Lista de Matrículas de Aeronaves, caso não tenha sido possível garantir
+  que as aeronaves tenham sido monitoradas anteriormente ou que tenham estado sujeitas a um
+  programa de monitoramento RVSM. Este parágrafo não se aplica a aeronaves recém-fabricadas.
+
+  Nota:
+
+  aeronaves que passaram por processo de preservação ou inatividade de ao menos 24 (vinte
+  e quatro) meses devem ser avaliadas em até 6 (seis) meses, não sendo válida a operação RVSM
+  anterior da aeronave como forma de demonstração, exceto se de outra forma autorizado pela
+  Anac.
+
+  Operadores que não possuem programa de monitoramento RVSM devem respeitar a validade dos
+  relatórios altimétricos de 24 (vinte e quatro) meses ou 1.000 (um mil) horas totais voadas,
+  o que for maior, para toda a sua frota.
+
+  Caso os manuais do operador, listados acima, já tenham sido enviados para avaliação da Anac
+  e tenham sido considerados satisfatórios, o operador estará dispensado de apresentá-los
+  juntamente com a solicitação de alteração de EA.
+
+  Na maioria dos casos, o conteúdo do pedido de autorização operacional para RVSM será suficiente
+  para verificar o desempenho e os procedimentos da aeronave. No entanto, a Anac pode exigir
+  a realização de inspeções e demonstrações (verificação de equipamentos instalados na aeronave,
+  voo de avaliação operacional, inspeção de acompanhamento de treinamento, inspeções de acompanhamento
+  de centro de despacho de voo etc.), para verificar se os procedimentos relevantes são aplicados
+  de forma eficiente.
+
+  Estando todos os manuais revisados e considerados satisfatórios, com a respectiva aceitação
+  ou aprovação da Anac; e sendo o voo de avaliação operacional também satisfatório ou dispensado
+  pela Anac, o operador terá suas EA revisadas para incluir a autorização operacional para
+  RVSM.
+
+  Operação RVSM para operações regidas pelo RBAC nº 135
+
+  Para inclusão de autorização operacional para RVSM na EO de operador aéreo regido pelo RBAC
+  nº 135, doravante denominado “Operador 135”, esse operador deve seguir a orientação constante
+  da seção 5.4 da IS nº 119-004. As alterações nos manuais do Operador 135 para inclusão de
+  operação RVSM em suas EO devem seguir o exposto nos Apêndices desta IS.
+
+  Nota
+
+  : aeronaves ainda não inclusas em EO poderão ser autorizadas a operar RVSM de acordo com
+  as regras do RBAC nº 91 por meio de LOA.
+
+  Em adição ao exposto no parágrafo anterior, o Operador 135 deve fazer constar do seu pacote
+  de solicitação:
+
+  a)
+
+  FOP 219.
+
+  Solicitação de alteração de EO, incluindo o código hexadecimal do Modo S do
+
+  transponder
+
+  das aeronaves afetadas;
+
+  b)
+
+  Formulário F-900-44 (Laudo RVSM)
+
+  . Deve ser preenchido pelo operador da aeronave ou organização de manutenção certificada
+  para o modelo, utilizando uma matrícula a ser operada como amostra do modelo da aeronave
+  para o qual se solicita autorização operacional para RVSM. Para análise da capacidade RVSM
+  da aeronave e preenchimento do Formulário F-900-44, o operador deve cumprir com os critérios
+  estabelecidos no Apêndice C deste documento;
+
+  Nota:
+
+  o Formulário F-900-44 pode ser encaminhado até a Fase 4 do processo de certificação.
+
+  c)
+
+  Manual geral de operações (MGO).
+
+  Deve conter procedimentos atualizados de acordo com o Apêndice E desta IS;
+
+  d)
+
+  Programa de treinamento operacional (PTO).
+
+  Deve conter currículo ou segmento de currículo de treinamento especial RVSM, conforme o
+  Apêndice F desta IS;
+
+  e)
+
+  Lista de equipamentos mínimos (MEL).
+
+  Caso aplicável, deve ser apresentada revisão atualizada da MEL das aeronaves afetadas, incluindo
+  provisões e restrições específicas de equipamentos para a operação em espaço aéreo RVSM;
+
+  f)
+
+  Manuais de aeronavegabilidade continuada.
+
+  Devem conter procedimentos, tarefas e treinamento de manutenção atualizados para as aeronaves
+  envolvidas, de acordo com o Apêndice G desta IS; e
+
+  Nota
+
+  : o programa de monitoramento (se aplicável) e o programa de reporte de erros e desvios
+  de altitude de voo fazem parte dos manuais de aeronavegabilidade continuada.
+
+  g)
+
+  Relatório de monitoramento.
+
+  Deve seguir o estabelecido no parágrafo 5.5.1.2 desta IS, para a aeronave representando
+  o modelo envolvido na autorização operacional para RVSM, inclusive com relação à necessidade
+  de manutenção deste citado relatório atualizado.
+
+  O relatório de monitoramento pode ser dispensado caso o operador apresente e obtenha aprovação
+  de um programa de monitoramento, conforme descrito na seção 5.6 desta IS.
+
+  Matrículas de aeronaves recém incluídas na frota devem ser avaliadas em até 6 (seis) meses,
+  a contar da inclusão na Lista de Matrículas de Aeronaves, caso não tenha sido possível garantir
+  que as aeronaves tenham sido monitoradas anteriormente ou que tenham estado sujeitas a um
+  programa de monitoramento RVSM. Este parágrafo não se aplica a aeronaves recém-fabricadas.
+
+  Nota:
+
+  aeronaves que passaram por processo de preservação ou inatividade de ao menos 24 (vinte
+  e quatro) meses devem ser avaliadas em até 6 (seis) meses, não sendo válida a operação RVSM
+  anterior da aeronave como forma de demonstração, exceto se de outra forma autorizado pela
+  Anac.
+
+  Operadores que não possuem programa de monitoramento RVSM devem respeitar a validade dos
+  relatórios altimétricos de 24 (vinte e quatro) meses ou 1.000 (um mil) horas totais voadas,
+  o que for maior, para toda a sua frota.
+
+  Caso os manuais do operador, listados acima, já tenham sido enviados para avaliação da Anac
+  e tenham sido considerados satisfatórios, o operador estará dispensado de apresentá-los
+  juntamente com o FOP 219.
+
+  Na maioria dos casos, o conteúdo do pedido de autorização operacional para RVSM será suficiente
+  para verificar o desempenho e os procedimentos da aeronave. No entanto, a Anac pode exigir
+  a realização de inspeções e demonstrações (verificação de equipamentos instalados na aeronave,
+  voo de avaliação operacional, inspeção de acompanhamento de treinamento, inspeções de acompanhamento
+  de centro de despacho de voo etc.), para verificar se os procedimentos relevantes são aplicados
+  de forma eficiente.
+
+  Estando todos os manuais revisados e considerados satisfatórios, com a respectiva aceitação
+  ou aprovação da Anac; e sendo o voo de avaliação operacional também satisfatório ou dispensado
+  pela Anac, o operador terá suas EO revisadas para incluir a autorização operacional para
+  RVSM.
+
+  Operação RVSM para operadores e operações regidas pelo RBAC nº 121
+
+  Para inclusão de autorização operacional para RVSM na EO de operador aéreo regido pelas
+  regras contidas no RBAC nº 121, doravante denominado “Operador 121”, deve seguir a orientação
+  constante da IS nº 119-001, para o processo de alteração de EO. As alterações nos manuais
+  do Operador 121 para inclusão de autorização operacional para RVSM em suas EO devem seguir
+  o exposto nos apêndices desta IS.
+
+  O Operador 121 deve encaminhar os seguintes documentos para o início do processo de alteração
+  de EO:
+
+  a)
+
+  FOP 119.
+
+  Solicitação de alteração de EO, incluindo o código hexadecimal do Modo S do
+
+  transponder
+
+  das aeronaves afetadas;
+
+  b)
+
+  Formulário F-900-44 (Laudo RVSM).
+
+  Deve ser preenchido pelo operador da aeronave ou organização de manutenção certificada para
+  o modelo, , utilizando uma matrícula a ser operada como amostra do modelo da aeronave para
+  o qual se solicita autorização operacional para RVSM. Para análise da capacidade RVSM da
+  aeronave e preenchimento do Formulário F-900-44, o operador deve cumprir com os critérios
+  estabelecidos no Apêndice C deste documento;
+
+  Nota:
+
+  o Formulário F-900-44 pode ser encaminhado até a Fase 4 do processo de certificação.
+
+  c)
+
+  Manual geral de operações (MGO).
+
+  Deve apresentar procedimentos atualizados de acordo com o Apêndice E desta IS;
+
+  d)
+
+  Programa de treinamento operacional (PTO).
+
+  Deve conter currículo ou seguimento de currículo de treinamento especial RVSM, conforme
+  o Apêndice F desta IS;
+
+  e)
+
+  Lista de equipamentos mínimos (MEL).
+
+  Deve ser apresentada revisão atualizada da MEL das aeronaves afetadas, incluindo provisões
+  e restrições específicas de equipamentos para a operação em espaço aéreo RVSM; e
+
+  f)
+
+  Manuais de Aeronavegabilidade Continuada.
+
+  Deve apresentar procedimentos, tarefas e treinamento de manutenção atualizados para as aeronaves
+  envolvidas, de acordo com o Apêndice G desta IS.
+
+  Nota
+
+  :
+
+  o programa de monitoramento e o programa de reporte de erros e desvios de altitude de voo
+  fazem parte dos manuais de aeronavegabilidade continuada.
+
+  Caso os manuais do operador, listados acima, já tenham sido enviados para avaliação da Anac
+  e tenham sido considerados satisfatórios, o operador estará dispensado de apresentá-los
+  juntamente com o FOP 119.
+
+  Na maioria dos casos, o conteúdo do pedido de autorização operacional para RVSM será suficiente
+  para verificar o desempenho e os procedimentos da aeronave. No entanto, a Anac pode exigir
+  a realização de inspeções e demonstrações (verificação de equipamentos instalados na aeronave,
+  voo de avaliação operacional, inspeção de acompanhamento de treinamento, inspeções de acompanhamento
+  de centro de despacho de voo etc.), para verificar se os procedimentos relevantes são aplicados
+  de forma eficiente.
+
+  Estando todos os manuais revisados e considerados satisfatórios, com a respectiva aceitação
+  ou aprovação da Anac; e sendo o voo de avaliação operacional também satisfatório ou dispensado
+  pela Anac, o operador terá suas EO revisadas para incluir a autorização operacional para
+  RVSM.
+
+  Programa de monitoramento RVSM
+
+  O programa de monitoramento RVSM é obrigatório para operadores sob o RBAC nº 121 e opcional
+  para operadores sob o RBAC nº 135 (conforme parágrafo 5.5.3.2g) desta IS) ou 91K (conforme
+  parágrafo 5.5.2.2f) desta IS). O programa será aprovado pela Anac, para amostragem da frota
+  de aeronaves do operador, realizada por um sistema de monitoramento de altitude independente,
+  e deve conter:
+
+  a) monitoramento de amostra de aeronaves, conforme documentos aceitos pela Carsamma, a cada
+  ciclo de 24 (vinte e quatro) meses ou 1.000 (mil) horas, o que for maior. As 1.000 horas
+  devem ser calculadas com base na aeronave mais voada da frota, para um dado modelo, a contar
+  da última amostragem da frota;
+
+  b) método a ser utilizado na amostragem. Não é permitida a utilização das mesmas matrículas
+  em amostragens consecutivas bem-sucedidas (a cada ciclo), exceto em situações em que isso
+  não seja possível, devido à limitação no número de aeronaves disponíveis;
+
+  c) procedimento a ser adotado, em caso de rejeição da amostragem. No mínimo, além da correção
+  da aeronave reprovada e investigação da causa raiz do problema detectado, de modo a verificar
+  se ele é pontual ou sistêmico na frota, deve ser selecionada uma aeronave adicional, de
+  modo aleatório, para nova verificação, dentro do mesmo ciclo, exceto em situações em que
+  isso não seja possível devido à limitação no número de aeronaves disponíveis; e
+
+  d) método de monitoramento a ser utilizado (equipamento embarcado ou voo em área monitorada).
+
+  Carsamma
+
+  A Carsamma, órgão pertencente ao DECEA e vinculado à ICAO, é responsável pelo monitoramento
+  dos voos RVSM na região da América Latina e Caribe.
+
+  Dentre as atribuições da Carsamma estão:
+
+  a) confeccionar a carta ASE referente aos voos de monitoramento realizados; e
+
+  b) manter lista atualizada das aeronaves autorizadas a operar RVSM na região.
+
+  Toda comunicação com a Carsamma deve ser realizada por meio da Anac, e utilizando os formulários
+  abaixo descritos:
+
+  a) F2 - Registro de aprovação para operar no espaço aéreo RVSM das regiões CAR/SAM;
+
+  b) F3 - Cancelamento de aprovação para operar no espaço aéreo RVSM das regiões CAR/SAM;
+  ou
+
+  c) F6 - Solicitação de Convalidação de Monitoração ASE Carsamma. Utilizado para solicitação
+  de Carta ASE à Carsamma referente a voo de monitoramento já realizado.
+
+  Nota:
+
+  os formulários encontram-se disponíveis em
+
+  http://portal.cgna.decea.mil.br/carsamma/home/formularios
+
+  .
+
+  Os operadores 91K, 121 e 135 devem possuir procedimentos para preencher e enviar à Anac,
+  para validação, os formulários da Carsamma relativos às suas autorizações operacionais,
+  conforme aplicáveis, para cada matrícula de aeronave operada.
+
+  A Carsamma deve ser atualizada sempre que uma aeronave recebe ou perde sua autorização operacional
+  para RVSM.
+
+  Encerramento compulsório do processo
+
+  Caso a solicitação seja rejeitada pela 3ª vez por não-conformidade ou incapacidade de demonstração
+  por parte do requerente, o processo será indeferido e arquivado compulsoriamente, independentemente
+  do prazo.
+
+  Os detentores de certificado de operador aéreo (COA) emitido segundo o RBAC nº 119 terão
+  o prazo máximo de 30 (trinta) dias para apresentar as ações requeridas durante qualquer
+  fase do processo ou as respostas a cada comunicação de não-conformidade.
+
+  A não observância do prazo de 30 (trinta) dias, ou outro prazo eventualmente definido, sem
+  qualquer manifestação por parte do requerente para a apresentação das ações requeridas,
+  poderá caracterizar desistência e poderá ensejar o encerramento do processo.
+
+  Processo de supervisão dos operadores
+
+  Os operadores devem estabelecer um processo para análise e envio de reportes de erros de
+  navegação, de modo que se possa estabelecer a necessidade de tomar alguma ação corretiva.
+  Repetidas ocorrências de erros de navegação atribuídas a um determinado equipamento de navegação
+  necessitam de acompanhamento próximo e ações no sentido de se mitigar a causa do erro detectado.
+
+  Conforme o parágrafo 91.1709(b)(2) do RBAC nº 91, deve ser reportado à Anac, no prazo de
+  3 dias úteis, quando for observado um evento no qual a aeronave tenha apresentado o seguinte
+  desempenho de manutenção de altitude:
+
+  a) erro vertical total de 300 pés ou mais;
+
+  b) ASE de 245 pés ou mais; ou
+
+  c) desvio da altitude autorizada de 300 pés ou mais.
+
+  A natureza da fonte do erro irá determinar as ações corretivas associadas, que podem incluir
+  a necessidade de treinamento corretivo, adequação do programa de treinamento, restrições
+  de aplicação do sistema ou mudanças de requisitos de
+
+  software
+
+  dos sistemas de navegação.
+
+  A natureza e severidade do erro podem levar à suspensão da autorização das operações até
+  que a causa do problema seja identificada e o problema sanado.
+
+  A qualquer momento, a Anac poderá solicitar que os operadores detentores de autorização
+  operacional para RVSM apresentem evidências do cumprimento dos requisitos aplicáveis para
+  a manutenção de tais autorizações.
+
+  A ausência de resposta ou falha do operador em comprovar o atendimento dos requisitos no
+  prazo estipulado pela Anac poderá ensejar na revogação da autorização operacional para RVSM
+  emitida.
+
+  As comunicações e solicitações relativas à vigilância continuada serão feitas por meio eletrônico,
+  conforme descrito na seção 5.4 desta IS.
+
+  apêndices
+
+  Apêndice A - Controle de alterações
+
+  Apêndice B - Lista de reduções
+
+  Apêndice C - Sistemas das aeronaves
+
+  Apêndice D - Performance RVSM
+
+  Apêndice E - Procedimentos operacionais específicos - atualizações de MGO
+
+  Apêndice F - Ementário de treinamento para operações RVSM - atualização de PTO
+
+  Apêndice G - Manuais de Aeronavegabilidade Continuada
+
+  Apêndice H - Modelo de solicitação formal
+
+  DISPOSIÇÕES FINAIS
+
+  7.1. Os casos omissos serão dirimidos pela SPO.
+
+  APÊNDICE A - CONTROLE DE ALTERAÇÕES
+
+  ALTERAÇÕES REALIZADAS NA REVISÃO F
+
+  ITEM ALTERADO
+
+  ALTERAÇÃO REALIZADA
+
+  5.1 (antigo 1.2)
+
+  Incluído. Renumerado os seguintes
+
+  5.3 (antigo 5.2)
+
+  Alterado.
+
+  5.5 (antigo 5.4)
+
+  Alterado, com destaque para inclusão do 5.5.2.
+
+  5.6
+
+  Incluído. Renumerado os seguintes
+
+  5.7
+
+  Incluído. Renumerado os seguintes.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rvsm
+- operacional
+- operador
+- autorizacao
+- aeronave
+- aeronaves
+- processo
+- desta
+- monitoramento
+- apendice
+- operacoes
+- procedimentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

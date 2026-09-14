@@ -1,0 +1,33 @@
+id: rbac-rbac-107-107-123-d
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.123'
+section_title: Proteção de Passageiros e seus Pertences de Mão
+subsection_id: d
+cite: 107.123(d)
+title: 107.123(d)
+text: (d) No caso de falha na segregação e algum passageiro entrar em contato com outra pessoa
+  não inspecionada, o operador do aeródromo, em coordenação com o(s) operador(es) aéreo(s),
+  deve garantir que seja realizada outra inspeção antes do embarque na aeronave e a varredura
+  da área contaminada.
+keywords:
+- seguranca
+- aeroporto
+- operador
+- outra
+- aereo
+- aerodromo
+- aeronave
+- algum
+- area
+- caso
+- contaminada
+- contato
+- coordenacao
+- embarque
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-142-142-71-h
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.71'
+section_title: Requisitos para emissão, conservação e envio de registros à ANAC
+subsection_id: h
+cite: 142.71(h)
+title: 142.71(h)
+text: '(h) O gestor responsável do detentor de certificado de CTAC deve registrar os aspectos
+
+  relacionados ao cumprimento do plano de implantação de seu SGSO ou de sua operação, processos
+
+  de segurança operacional e ciclos de gerenciamento de risco desenvolvidos no CTAC.'
+keywords:
+- ctac
+- aspectos
+- certificado
+- ciclos
+- conservacao
+- cumprimento
+- desenvolvidos
+- detentor
+- emissao
+- envio
+- gerenciamento
+- gestor
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

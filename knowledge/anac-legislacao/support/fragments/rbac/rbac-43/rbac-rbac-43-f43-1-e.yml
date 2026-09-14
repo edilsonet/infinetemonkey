@@ -1,0 +1,38 @@
+id: rbac-rbac-43-f43-1-e
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: e
+cite: F43.1(e)
+title: F43.1(e)
+text: '(e) Isolamento dos Canais de Transmissão de Mode S Múltiplo. Para qualquer classe de
+
+  transponder Mode S que incorpora operação múltipla, verificar se o pico de saída de potência
+  de RF
+
+  transmitida através da antena selecionada excede a potência transmitida através de antena
+  não
+
+  selecionada por pelo menos 20 dB.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- antena
+- atraves
+- mode
+- potencia
+- selecionada
+- transmitida
+- transponder
+- canais
+- classe
+- excede
+- incorpora
+- inspecoes
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

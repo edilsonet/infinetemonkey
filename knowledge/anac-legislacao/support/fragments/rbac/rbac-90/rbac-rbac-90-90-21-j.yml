@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-21-j
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: j
+cite: 90.21(j)
+title: 90.21(j)
+text: (j) O piloto em comando poderá autorizar o desembarque do operador aerotático ou do
+  operador de suporte médico para atuar no cenário da missão pública, desde que os riscos
+  atrelados a este procedimento sejam mitigados e o procedimento esteja previsto no MOP e
+  no SOP da UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- operador
+- procedimento
+- aerotatico
+- atrelados
+- atuar
+- autorizar
+- cenario
+- comando
+- desde
+- desembarque
+- esteja
+- gerais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

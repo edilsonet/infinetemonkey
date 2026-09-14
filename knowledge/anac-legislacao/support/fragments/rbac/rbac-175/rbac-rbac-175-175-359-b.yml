@@ -1,0 +1,45 @@
+id: rbac-rbac-175-175-359-b
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.359'
+section_title: Restrições de carregamento em cabine de comando e em aeronaves de passageiros
+subsection_id: b
+cite: 175.359(b)
+title: 175.359(b)
+text: '(b) Artigos perigosos somente podem ser transportados num compartimento de carga localizado
+
+  no piso principal de uma aeronave de passageiros se:
+
+  (1) esse compartimento cumprir com todos os requisitos de certificação de um compartimento
+
+  de carga Classe B ou Classe C; ou
+
+
+  Data da emissão: 12 de fevereiro de 2021.
+
+
+  (2) sob as condições descritas em norma específica da ANAC, for outorgada uma aprovação
+
+  para o transporte de artigos perigosos num compartimento que não cumpra os requisitos de
+
+  175.359(a)(1).'
+keywords:
+- artigos-perigosos
+- carga
+- compartimento
+- artigos
+- classe
+- passageiros
+- perigosos
+- requisitos
+- aeronave
+- aeronaves
+- aprovacao
+- cabine
+- carregamento
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-110-emd-02-110-75-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.75'
+section_title: Apresentação de aeronaves para verificação e inspeção
+subsection_id: a
+cite: 110.75(a)
+title: 110.75(a)
+text: (a) O operador aéreo deve prover a apresentação das características de cada modelo de
+  aeronave que opera ao profissional que desempenhe as atividades de inspeção ou verificação
+  de aeronaves, a fim de orientar sua atuação.
+keywords:
+- carga
+- operacoes
+- aeronaves
+- apresentacao
+- inspecao
+- verificacao
+- aereo
+- aeronave
+- atividades
+- atuacao
+- cada
+- caracteristicas
+- desempenhe
+- modelo
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

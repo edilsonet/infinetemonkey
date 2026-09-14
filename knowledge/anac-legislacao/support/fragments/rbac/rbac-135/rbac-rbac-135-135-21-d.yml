@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-21-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.21'
+section_title: Requisitos do manual geral da empresa
+subsection_id: d
+cite: 135.21(d)
+title: 135.21(d)
+text: (d) O manual geral da empresa não pode contrariar nenhuma legislação ou regulamentação
+  federal aplicável, nenhuma regulamentação estrangeira aplicável às operações do detentor
+  de certificado em outros países, nem o COA ou especificações operativas do detentor de certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- aplicavel
+- certificado
+- detentor
+- empresa
+- geral
+- manual
+- nenhuma
+- regulamentacao
+- contrariar
+- especificacoes
+- estrangeira
+- federal
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

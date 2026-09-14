@@ -1,0 +1,42 @@
+id: rbac-rbac-145-145-153-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.153'
+section_title: Requisitos do pessoal de supervisão
+subsection_id: a
+cite: 145.153(a)
+title: 145.153(a)
+text: '(a) Cada organização de manutenção certificada deve assegurar que exista um número
+  suficiente
+
+  de supervisores para dirigir as tarefas executadas conforme o certificado de organização
+  de
+
+  manutenção e respectivas especificações operativas. Os supervisores devem monitorar os trabalhos
+
+  executados por pessoas que não estão familiarizadas com os métodos, técnicas, práticas,
+  auxílios,
+
+  equipamentos e ferramentas usadas para a execução da manutenção, manutenção preventiva ou
+
+  alteração.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- organizacao
+- supervisores
+- alteracao
+- assegurar
+- auxilios
+- cada
+- certificada
+- certificado
+- dirigir
+- equipamentos
+- especificacoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

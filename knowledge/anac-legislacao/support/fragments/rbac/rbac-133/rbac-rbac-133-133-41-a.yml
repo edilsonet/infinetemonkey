@@ -1,0 +1,43 @@
+id: rbac-rbac-133-133-41-a
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.41'
+section_title: Requisitos de características de voo
+subsection_id: a
+cite: 133.41(a)
+title: 133.41(a)
+text: '(a) O requerente deve demonstrar à ANAC, pela execução das verificações operacionais
+  em voo
+
+  estabelecidas pelos parágrafos (b), (c) e (d) desta seção, como aplicável, que a combinação
+
+  aeronave-carga possui características satisfatórias de voo, a menos que tais verificações
+  já tenham
+
+  sido previamente realizadas, demonstrando que as características de voo da combinação são
+
+  satisfatórias. Para os propósitos dessa demonstração, o peso da carga externa (incluindo
+  os meios de
+
+  fixação de carga) é o peso máximo para o qual a autorização foi requerida.'
+keywords:
+- carga-externa
+- helicoptero
+- caracteristicas
+- carga
+- combinacao
+- peso
+- satisfatorias
+- verificacoes
+- aeronave
+- aplicavel
+- autorizacao
+- demonstracao
+- demonstrando
+- demonstrar
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

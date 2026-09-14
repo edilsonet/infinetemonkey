@@ -1,0 +1,38 @@
+id: rbac-rbac-121-121-223-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.223'
+section_title: Prova de conformidade com os requisitos de 121.221
+subsection_id: body
+cite: '121.223'
+title: Prova de conformidade com os requisitos de 121.221
+text: '121.223 Prova de conformidade com os requisitos de 121.221
+
+  A conformidade com o previsto em 121.221 no que se refere à acessibilidade do compartimento,
+  à entrada de quantidades perigosas de fumaça ou de agente extintor na cabine ocupada por
+  tripulantes ou passageiros e à distribuição de agente extintor em compartimento classe "C"
+  deve ser demonstrada em voo. Durante esses ensaios deve ser demonstrado que não ocorre operação
+  inadvertida de detectores de fogo ou fumaça em outros compartimentos do avião como resultado
+  de incêndio contido em um compartimento qualquer nem durante nem depois do combate ao incêndio,
+  a menos que o agente extintor preencha tais compartimentos simultaneamente'
+keywords:
+- transporte-aereo
+- operacoes
+- conformidade
+- agente
+- compartimento
+- extintor
+- prova
+- requisitos
+- compartimentos
+- durante
+- fumaca
+- incendio
+- acessibilidade
+- aviao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

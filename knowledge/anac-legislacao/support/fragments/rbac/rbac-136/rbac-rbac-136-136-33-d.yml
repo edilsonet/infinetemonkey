@@ -1,0 +1,39 @@
+id: rbac-rbac-136-136-33-d
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.33'
+section_title: Requisitos de aeronaves
+subsection_id: d
+cite: 136.33(d)
+title: 136.33(d)
+text: '(d) Cada aeronave utilizada pelo detentor de certificado para realizar voo panorâmico
+  deve:
+
+  (1) possuir certificado de aeronavegabilidade padrão ou certificado de aeronavegabilidade
+
+  especial na categoria primária e certificado de matrícula válidos, emitidos pela ANAC; e
+
+  (2) ser mantida e inspecionada conforme os requisitos aplicáveis da Subparte E do RBAC nº
+
+  91.'
+keywords:
+- turismo
+- operacoes
+- certificado
+- aeronavegabilidade
+- requisitos
+- aeronave
+- aeronaves
+- aplicaveis
+- cada
+- categoria
+- detentor
+- emitidos
+- especial
+- inspecionada
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

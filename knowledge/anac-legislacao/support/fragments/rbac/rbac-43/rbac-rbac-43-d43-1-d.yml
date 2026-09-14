@@ -1,0 +1,70 @@
+id: rbac-rbac-43-d43-1-d
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: D43.1
+section_title: Objetivos e detalhes de itens a serem incluídos nas inspeções anuais e inspeções
+  de 100
+subsection_id: d
+cite: D43.1(d)
+title: D43.1(d)
+text: '(d) Cada pessoa que estiver executando uma inspeção anual ou inspeção de 100 horas
+  deve
+
+  inspecionar (como aplicável) os seguintes componentes do grupo motopropulsor e suas naceles:
+
+  (1) área do motor quanto a sinais evidentes de excessivo vazamento de óleo, combustível
+  e
+
+  fluido hidráulico e quanto a origens de tais vazamentos;
+
+  (2) parafusos e porcas quanto a torque de aperto inadequado e defeitos óbvios;
+
+  (3) motor quanto à compressão dos cilindros e limalhas ou objetos estranhos nos filtros,
+  telas
+
+  e tampas de dreno. Se houver baixa compressão nos cilindros, inspecionar quanto a condições
+
+  internas e tolerâncias internas impróprias;
+
+
+  Data da emissão: 15 de março de 2021
+
+
+  (4) berço do motor quanto a trincas, folgas na fixação do berço e folgas na fixação do motor;
+
+  (5) amortecedores flexíveis de vibração quanto a más condições e deterioração;
+
+  (6) controles do motor quanto a defeitos, curso incorreto e frenagem imprópria;
+
+  (7) tubulações, mangueiras e braçadeiras quanto a vazamentos, condições impróprias e folgas;
+
+  (8) conjuntos de escapamento quanto a trincas, defeitos e fixação imprópria;
+
+  (9) acessórios quanto a defeitos aparentes e segurança na montagem;
+
+  (10) todos os sistemas quanto à instalação imprópria, más condições gerais, defeitos e
+
+  fixações inadequadas; e
+
+  (11) capota do motor quanto a trincas e defeitos.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- quanto
+- defeitos
+- motor
+- condicoes
+- fixacao
+- folgas
+- impropria
+- trincas
+- berco
+- cilindros
+- compressao
+- improprias
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

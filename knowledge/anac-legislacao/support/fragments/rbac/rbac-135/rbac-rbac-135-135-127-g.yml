@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-127-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.127'
+section_title: Requisitos de avisos aos passageiros e proibição de fumar a bordo
+subsection_id: g
+cite: 135.127(g)
+title: 135.127(g)
+text: '(g) Cada passageiro deve obedecer às instruções verbais ou visuais referentes aos assuntos
+  desta seção.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- assuntos
+- avisos
+- bordo
+- cada
+- dada
+- desta
+- fumar
+- instrucoes
+- obedecer
+- passageiro
+- passageiros
+- proibicao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-105-105-17-a
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.17'
+section_title: Saltos sobre ou com pouso em aeródromos
+subsection_id: a
+cite: 105.17(a)
+title: 105.17(a)
+text: '(a) Nenhuma pessoa pode realizar uma operação de paraquedas e nenhum piloto em comando
+  de
+
+  uma aeronave pode autorizar uma operação de paraquedas a ser realizada de uma aeronave sobre
+  ou
+
+  em um aeródromo, a menos que:
+
+  (1) possua um NOTAM válido;
+
+  (2) para saltos de paraquedas em um aeródromo com torre de controle operacional:'
+keywords:
+- paraquedismo
+- operacoes
+- paraquedas
+- aerodromo
+- aeronave
+- operacao
+- pode
+- saltos
+- aerodromos
+- autorizar
+- comando
+- controle
+- menos
+- nenhum
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

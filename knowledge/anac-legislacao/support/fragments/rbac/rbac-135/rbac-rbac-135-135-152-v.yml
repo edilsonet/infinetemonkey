@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-152-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: v
+cite: 135.152(v)
+title: 135.152(v)
+text: '(v) proa;
+
+  (vi) tempo de cada transmissão-rádio entre aeronave-controle de tráfego aéreo;
+
+  (vii) atitude de arfagem;
+
+  (viii) atitude de rolamento;
+
+  (ix) aceleração longitudinal;'
+keywords:
+- taxi-aereo
+- operacoes
+- atitude
+- aceleracao
+- aereo
+- aeronave
+- arfagem
+- cada
+- controle
+- dados
+- gravadores
+- longitudinal
+- proa
+- radio
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

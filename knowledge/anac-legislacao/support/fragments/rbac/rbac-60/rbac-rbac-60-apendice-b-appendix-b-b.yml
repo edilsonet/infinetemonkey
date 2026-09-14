@@ -1,0 +1,2625 @@
+id: rbac-rbac-60-apendice-b-appendix-b-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: apendice-b-appendix-b
+section_title: APÊNDICE B (APPENDIX B)
+subsection_id: b
+cite: apendice-b-appendix-b(b)
+title: apendice-b-appendix-b(b)
+text: '(b) Exceto para FTD nível 4, cada FTD
+
+  deve possuir um QTG, aceito pela ANAC,
+
+  contendo:
+
+  (1) Objective data obtained from
+
+  traditional aircraft testing or another approved
+
+  source;
+
+  (1) Dados objetivos obtidos de ensaio
+
+  em voo da aeronave ou outra fonte de dados
+
+  aprovada;
+
+  (2) The results of FTD objective tests;
+
+  (2) Os resultados dos testes objetivos do
+
+  FTD;
+
+  (3) The results of FTD subjective tests;
+
+  and
+
+  (3) Os resultados dos testes subjetivos
+
+  do FTD; e
+
+  (4) A description of the equipment
+
+  necessary to perform the evaluation for initial
+
+  qualification and the continuing qualification
+
+  evaluations.
+
+  (4) Uma descrição do equipamento
+
+  necessário para executar as avaliações para
+
+  qualificação inicial e para qualificação
+
+  recorrente.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table B1 - General technical requirements for FTD levels - Airplane
+
+
+  FTD Level
+
+  General technical requirements
+
+  4
+
+  A device that may have an open airplane-specific flight deck area, or an enclosed
+
+  airplane-specific flight deck and at least one operating system.
+
+  Air/ground logic is required (no aerodynamic programming required). All displays
+
+  may be flat/LCD panel representations or actual representations of displays in the
+
+  aircraft.
+
+  All controls, switches, and knobs may be touch sensitive activation (not capable of
+
+  manual manipulation of the flight controls) or may physically replicate the aircraft in
+
+  control operation.
+
+  See table B2 for more FTD requirements.
+
+  5
+
+  A device that may have an open airplane-specific flight deck area, or an enclosed
+
+  airplane-specific flight deck; generic aerodynamic programming; at least one
+
+  operating system; and control loading that is representative of the simulated airplane
+
+  only at an approach speed and configuration.
+
+  All displays may be flat/LCD panel representations or actual representations of
+
+  displays in the aircraft.
+
+  Primary and secondary flight controls (e.g., rudder, aileron, elevator, flaps,
+
+  spoilers/speed brakes, engine controls, landing gear, nosewheel steering, trim, brakes)
+
+  must be physical controls.
+
+  All other controls, switches, and knobs may be touch sensitive activation.
+
+  See table B2 for more FTD requirements.
+
+  6
+
+  A device that has an enclosed airplane-specific flight deck; airplane-specific
+
+  aerodynamic programming; all applicable airplane systems operating; control loading
+
+  that is representative of the simulated airplane throughout its ground and flight
+
+  envelope; and significant sound representation.
+
+  All displays may be flat/LCD panel representations or actual representations of
+
+  displays in the aircraft, but all controls, switches, and knobs must physically replicate
+
+  the aircraft in control operation.
+
+  See table B2 for more FTD requirements.
+
+  7
+
+  A Level 7 device is one that has an enclosed airplane-specific flight deck and
+
+  aerodynamic program with all applicable airplane systems operating and control
+
+  loading that is representative of the simulated airplane throughout its ground and flight
+
+  envelope and significant sound representation.
+
+  All displays may be flat/LCD panel representations or actual representations of
+
+  displays in the aircraft, but all controls, switches, and knobs must physically replicate
+
+  the aircraft in control operation.
+
+  It also has a visual system that provides an out-of-the-flight deck view, providing
+
+  cross-flight deck viewing (for both pilots simultaneously) of a field-of-view of at least
+
+  180° horizontally and 40° vertically.
+
+  See table B2 for more FTD requirements.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table B2 - General FTD Requirements
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  1.
+
+  General Flight deck Configuration.
+
+  See next
+
+  NA
+
+  1.a.
+
+  The FTD must have a flight deck that is a replica of the airplane simulated with
+
+  controls, equipment, observable flight deck indicators, circuit breakers, and bulkheads
+
+  properly located, functionally accurate and replicating the airplane. The direction of
+
+  movement of controls and switches must be identical to that in the airplane. Pilot
+
+  seat(s) must afford the capability for the occupant to be able to achieve the design “eye
+
+  position.” Equipment for the operation of the flight deck windows must be included,
+
+  but the actual windows need not be operable. Fire axes, extinguishers, and spare light
+
+  bulbs must be available in the flight FTD, but may be relocated to a suitable location
+
+  as near as practical to the original position. Fire axes, landing gear pins, and any
+
+  similar purpose instruments need only be represented in silhouette.
+
+  The use of electronically displayed images with physical overlay or masking for FTD
+
+  instruments and/or instrument panels is acceptable provided:
+
+  (1) All instruments and instrument panel layouts are dimensionally correct with
+
+  differences, if any, being imperceptible to the pilot;
+
+  (2) Instruments replicate those of the airplane including full instrument
+
+  functionality and embedded logic;
+
+  (3) Instruments displayed are free of quantization (stepping);
+
+  (4) Instrument display characteristics replicate those of the airplane including:
+
+  resolution, colors, luminance, brightness, fonts, fill patterns, line styles and
+
+  symbology;
+
+  (5) Overlay or masking, including bezels and bugs, as applicable, replicates the
+
+  airplane panel(s);
+
+  (6) Instrument controls and switches replicate and operate with the same
+
+  technique, effort, travel and in the same direction as those in the
+
+  6,7
+
+  For FTD purposes, the flight deck
+
+  consists of all that space forward of
+
+  a cross section of the fuselage at the
+
+  most extreme aft setting of the
+
+  pilots'' seats including additional,
+
+  required flight crewmember duty
+
+  stations and those required
+
+  bulkheads aft of the pilot seats. For
+
+  clarification, bulkheads containing
+
+  only items such as landing gear pin
+
+  storage compartments, fire axes and
+
+  extinguishers, spare light bulbs,
+
+  aircraft documents pouches are not
+
+  considered essential and may be
+
+  omitted.
+
+
+  For Level 6 FTDs, flight deck
+
+  window panes may be omitted
+
+  where non-distracting and
+
+  subjectively acceptable to conduct
+
+  qualified training tasks.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  airplane;
+
+  (7) Instrument lighting replicates that of the airplane and is operated from the
+
+  FSTD control for that lighting and, if applicable, is at a level commensurate
+
+  with other lighting operated by that same control; and
+
+  (8) As applicable, instruments must have faceplates that replicate those in the
+
+  airplane; and
+
+  Level 7 FTD only;
+
+  The display image of any three dimensional instrument, such as an electro- mechanical
+
+  instrument, should appear to have the same three dimensional depth as the replicated
+
+  instrument. The appearance of the simulated instrument, when viewed from the
+
+  principle operator’s angle, should replicate that of the actual airplane instrument. Any
+
+  instrument reading inaccuracy due to viewing angle and parallax present in the actual
+
+  airplane instrument should be duplicated in the simulated instrument display image.
+
+  Viewing angle error and parallax must be minimized on shared instruments such and
+
+  engine displays and standby indicators.
+
+  1.b.
+
+  The FTD must have equipment (e.g., instruments, panels, systems, circuit breakers,
+
+  and controls) simulated sufficiently for the authorized training/checking events to be
+
+  accomplished. The installed equipment must be located in a spatially correct location
+
+  and may be in a flight deck or an open flight deck area. Additional equipment required
+
+  for the authorized training/checking events must be available in the FTD, but may be
+
+  located in a suitable location as near as practical to the spatially correct position.
+
+  Actuation of equipment must replicate the appropriate function in the airplane. Fire
+
+  axes, landing gear pins, and any similar purpose instruments need only be represented
+
+  in silhouette.
+
+  4,5
+
+  None
+
+  1.c.
+
+  Those circuit breakers that affect procedures or result in observable flight deck
+
+  indications must be properly located and functionally accurate.
+
+  7
+
+  None
+
+  2.
+
+  Programming.
+
+  See next
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  2.a.1
+
+  The FTD must provide the proper effect of aerodynamic changes for the combinations
+
+  of drag and thrust normally encountered in flight. This must include the effect of
+
+  change in airplane attitude, thrust, drag, altitude, temperature, and configuration.
+
+  Level 6 additionally requires the effects of changes in gross weight and center of
+
+  gravity.
+
+  Level 5 requires only generic aerodynamic programming. An SOC is required.
+
+  5,6
+
+  None
+
+  2.a.2
+
+  A flight dynamics model that accounts for various combinations of drag and thrust
+
+  normally encountered in flight must correspond to actual flight conditions, including
+
+  the effect of change in airplane attitude, thrust, drag, altitude, temperature, gross
+
+  weight, moments of inertia, center of gravity location, and configuration.
+
+  The effects of pitch attitude and of fuel slosh on the aircraft center of gravity must be
+
+  simulated.
+
+  An SOC is required.
+
+  7
+
+  None
+
+  2.b.
+
+  The FTD must have the computer capacity, accuracy, resolution, and dynamic
+
+  response needed to meet the qualification level sought.
+
+  An SOC is required.
+
+  4,5,6,7
+
+  None
+
+  2.c.1
+
+  Relative responses of the flight deck instruments must be measured by latency tests, or
+
+  transport delay tests, and may not exceed 300 milliseconds. The instruments must
+
+  respond to abrupt input at the pilot''s position within the allotted time, but not before
+
+  the time when the airplane responds under the same conditions.
+
+  (1) Latency: The FTD instrument and, if applicable, the motion system and the
+
+  visual system response must not be prior to that time when the airplane
+
+  responds and may respond up to 300 milliseconds after that time under the
+
+  same conditions.
+
+  (2) Transport Delay: As an alternative to the Latency requirement, a transport
+
+  delay objective test may be used to demonstrate that the FTD system does not
+
+  5,6
+
+  The intent is to verify that the FTD
+
+  provides instrument cues that are,
+
+  within the stated time delays, like
+
+  the airplane responses. For
+
+  airplane response, acceleration in
+
+  the appropriate, corresponding
+
+  rotational axis is preferred.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  exceed the specified limit. The sponsor must measure all the delay
+
+  encountered by a step signal migrating from the pilot’s control through all the
+
+  simulation software modules in the correct order, using a handshaking
+
+  protocol, finally through the normal output interfaces to the instrument
+
+  display and, if applicable, the motion system, and the visual system.
+
+  2.c.2.
+
+  Relative responses of the motion system, visual system, and flight deck instruments,
+
+  measured by latency tests or transport delay tests. Motion onset should occur before
+
+  the start of the visual scene change (the start of the scan of the first video field
+
+  containing different information) but must occur before the end of the scan of that
+
+  video field. Instrument response may not occur prior to motion onset. Test results must
+
+  be within the following limits:
+
+  100 ms for the motion (if installed) and instrument systems; and 120 ms for the visual
+
+  system.
+
+  7
+
+  The intent is to verify that the FTD
+
+  provides instrument, motion, and
+
+  visual cues that are, within the
+
+  stated time delays, like the airplane
+
+  responses. For airplane response,
+
+  acceleration in the appropriate,
+
+  corresponding rotational axis is
+
+  preferred.
+
+  2.d.
+
+  Ground handling and aerodynamic programming must include the following:
+
+  See next
+
+  None
+
+  2.d.1.
+
+  Ground effect.
+
+  7
+
+  Ground effect includes modeling
+
+  that accounts for roundout, flare,
+
+  touchdown, lift, drag, pitching
+
+  moment, trim, and power while in
+
+  ground effect.
+
+  2.d.2.
+
+  Ground reaction.
+
+  7
+
+  Ground reaction includes modeling
+
+  that accounts for strut deflections,
+
+  tire friction, and side forces. This is
+
+  the reaction of the airplane upon
+
+  contact with the runway during
+
+  landing, and may differ with
+
+  changes in factors such as gross
+
+  weight, airspeed, or rate of descent
+
+  on touchdown.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  2.d.3.
+
+  Ground handling characteristics, including aerodynamic and ground reaction modeling
+
+  including steering inputs, operations with crosswind, gusting crosswind, braking,
+
+  thrust reversing, deceleration, and turning radius.
+
+  7
+
+  None
+
+  2.e.
+
+  If the aircraft being simulated is one of the aircraft listed in section 121.358 of RBAC
+
+  121, Low- altitude windshear system equipment requirements, the FTD must employ
+
+  windshear models that provide training for recognition of windshear phenomena and
+
+  the execution of recovery procedures. Models must be available to the
+
+  instructor/evaluator for the following critical phases of flight:
+
+  (1) Prior to takeoff rotation;
+
+  (2) At liftoff;
+
+  (3) During initial climb; and
+
+  (4) On final approach, below 500 ft AGL.
+
+  The addition of realistic levels of turbulence associated with each required windshear
+
+  profile must be available and selectable to the instructor.
+
+  In addition to the four basic windshear models required for qualification, at least two
+
+  additional “complex” windshear models must be available to the instructor which
+
+  represent the complexity of actual windshear encounters. These models must be
+
+  available in the takeoff and landing configurations and must consist of independent
+
+  variable winds in multiple simultaneous components. The Windshear Training Aid
+
+  provides two such example “complex” windshear models that may be used to satisfy
+
+  this requirement.
+
+  7
+
+  Windshear models may consist of
+
+  independent variable winds in
+
+  multiple simultaneous components.
+
+  The FTD should employ a method
+
+  to ensure the required survivable
+
+  and non-survivable windshear
+
+  scenarios are repeatable in the
+
+  training environment.
+
+  For Level 7 FTDs, windshear
+
+  training tasks may only be qualified
+
+  for aircraft equipped with a
+
+  synthetic stall warning system. The
+
+  qualified windshear profile(s) are
+
+  evaluated to ensure the synthetic
+
+  stall warning (and not the stall
+
+  buffet) is first indication of the stall.
+
+  2.f.
+
+  The FTD must provide for manual and automatic testing of FTD hardware and
+
+  software programming to determine compliance with FTD objective tests.
+
+  An SOC is required.
+
+  7
+
+  Automatic “flagging” of out-of-
+
+  tolerance situations is encouraged.
+
+  2.g.
+
+  The FTD must accurately reproduce the following runway conditions:
+
+  7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  (1) Dry;
+
+  (2) Wet;
+
+  (3) Icy;
+
+  (4) Patchy Wet;
+
+  (5) Patchy Icy; and
+
+  (6) Wet on Rubber Residue in Touchdown Zone.
+
+  An SOC is required.
+
+  2.h.
+
+  The FTD must simulate:
+
+  (1) brake and tire failure dynamics, including antiskid failure; and
+
+  (2) decreased brake efficiency due to high brake temperatures, if applicable.
+
+  An SOC is required
+
+  7
+
+  FTD pitch, side loading, and
+
+  directional control characteristics
+
+  should be representative of the
+
+  airplane.
+
+  2.i.
+
+  Engine and Airframe Icing
+
+  Modeling that includes the effects of icing, where appropriate, on the airframe,
+
+  aerodynamics, and the engine(s). Icing models must simulate the aerodynamic
+
+  degradation effects of ice accretion on the airplane lifting surfaces including loss of
+
+  lift, decrease in stall angle of attack, change in pitching moment, decrease in control
+
+  effectiveness, and changes in control forces in addition to any overall increase in drag.
+
+  Aircraft systems (such as the stall protection system and autoflight system) must
+
+  respond properly to ice accretion consistent with the simulated aircraft.
+
+  Aircraft OEM data or other acceptable analytical methods must be utilized to develop
+
+  ice accretion models that are representative of the simulated aircraft’s performance
+
+  degradation in a typical in-flight icing encounter. Acceptable analytical methods may
+
+  include wind tunnel analysis and/or engineering analysis of the aerodynamic effects of
+
+  icing on the lifting surfaces coupled with tuning and supplemental subjective
+
+  7
+
+  SOC should be provided describing
+
+  the effects which provide training in
+
+  the specific skills required for
+
+  recognition of icing phenomena and
+
+  execution of recovery. The SOC
+
+  should describe the source data and
+
+  any analytical methods used to
+
+  develop ice accretion models
+
+  including verification that these
+
+  effects have been tested.
+
+  Icing effects simulation models are
+
+  only required for those airplanes
+
+  authorized for operations in icing
+
+  conditions. Icing simulation models
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  assessment by a subject matter expert pilot.
+
+  SOC required.
+
+  should be developed to provide
+
+  training in the specific skills
+
+  required for recognition of ice
+
+  accumulation and execution of the
+
+  required response.
+
+  2.j.
+
+  The aerodynamic modeling in the FTD must include:
+
+  (1) Low-altitude level-flight ground effect;
+
+  (2) Mach effect at high altitude;
+
+  (3) Normal and reverse dynamic thrust effect on control surfaces;
+
+  (4) Aeroelastic representations; and
+
+  (5) Nonlinearities due to sideslip.
+
+  An SOC is required and must include references to computations of aeroelastic
+
+  representations and of nonlinearities due to sideslip.
+
+  7
+
+  NA
+
+  2.k.
+
+  The FTD must have aerodynamic and ground reaction modeling for the effects of
+
+  reverse thrust on directional control, if applicable.
+
+  An SOC is required.
+
+  7
+
+  None
+
+  3.
+
+  Equipment Operation.
+
+  See next
+
+  None
+
+  3.a.
+
+  All relevant instrument indications involved in the simulation of the airplane must
+
+  automatically respond to control movement or external disturbances to the simulated
+
+  airplane; e.g., turbulence or windshear. Numerical values must be presented in the
+
+  appropriate units.
+
+  For Level 7 FTDs, instrument indications must also respond to effects resulting from
+
+  icing.
+
+  5,6,7
+
+  None
+
+  3.b.1.
+
+  Navigation equipment must be installed and operate within the tolerances applicable
+
+  5,6
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  for the airplane.
+
+  Levels 6 must also include communication equipment (inter-phone and air/ground)
+
+  like that in the airplane and, if appropriate to the operation being conducted, an oxygen
+
+  mask microphone system.
+
+  Level 5 need have only that navigation equipment necessary to fly an instrument
+
+  approach.
+
+  3.b.2.
+
+  Communications, navigation, caution, and warning equipment must be installed and
+
+  operate within the tolerances applicable for the airplane.
+
+  Instructor control of internal and external navigational aids. Navigation aids must be
+
+  usable within range or line-of-sight without restriction, as applicable to the geographic
+
+  area.
+
+  7
+
+  NA
+
+  3.b.3.
+
+  Complete navigation database for at least 3 airports with corresponding precision and
+
+  non-precision approach procedures, including navigational database updates.
+
+  7
+
+  None
+
+  3.c.1.
+
+  Installed systems must simulate the applicable airplane system operation, both on the
+
+  ground and in flight. Installed systems must be operative to the extent that applicable
+
+  normal, abnormal, and emergency operating procedures included in the sponsor’s
+
+  training programs can be accomplished.
+
+  Level 6 must simulate all applicable airplane flight, navigation, and systems operation.
+
+  Level 5 must have at least functional flight and navigational controls, displays, and
+
+  instrumentation.
+
+  Level 4 must have at least one airplane system installed and functional.
+
+  4,5,6
+
+  None
+
+  3.c.2.
+
+  Simulated airplane systems must operate as the airplane systems operate under normal,
+
+  abnormal, and emergency operating conditions on the ground and in flight.
+
+  Once activated, proper systems operation must result from system management by the
+
+  crew member and not require any further input from the instructor''s controls.
+
+  7
+
+  Airplane system operation should
+
+  be predicated on, and traceable to,
+
+  the system data supplied by the
+
+  airplane manufacturer, original
+
+  equipment manufacturer or
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  alternative approved data for the
+
+  airplane system or component.
+
+  At a minimum, alternate approved
+
+  data should validate the operation of
+
+  all normal, abnormal, and
+
+  emergency operating procedures
+
+  and training tasks the FSTD is
+
+  qualified to conduct.
+
+  3.d.
+
+  The lighting environment for panels and instruments must be sufficient for the
+
+  operation being conducted.
+
+  4,5,6,7
+
+  Back-lighted panels and instruments
+
+  may be installed but are not
+
+  required.
+
+  3.e.
+
+  The FTD must provide control forces and control travel that corresponds to the
+
+  airplane being simulated. Control forces must react in the same manner as in the
+
+  airplane under the same flight conditions.
+
+  For Level 7 FTDs, control systems must replicate airplane operation for the normal
+
+  and any non-normal modes including back-up systems and should reflect failures of
+
+  associated systems. Appropriate cockpit indications and messages must be replicated.
+
+  6,7
+
+  None
+
+  3.f.
+
+  The FTD must provide control forces and control travel of sufficient precision to
+
+  manually fly an instrument approach.
+
+  5
+
+  None
+
+  3.e.
+
+  FTD control feel dynamics must replicate the airplane. This must be determined by
+
+  comparing a recording of the control feel dynamics of the FTD to airplane
+
+  measurements. For initial and upgrade qualification evaluations, the control dynamic
+
+  characteristics must be measured and recorded directly from the flight deck controls,
+
+  and must be accomplished in takeoff, cruise, and landing flight conditions and
+
+  configurations.
+
+  7
+
+  None
+
+  4.
+
+  Instructor or Evaluator Facilities.
+
+  See next
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  4.a.1.
+
+  In addition to the flight crewmember stations, suitable seating arrangements for an
+
+  instructor/check airman and ANAC Inspector must be available. These seats must
+
+  provide adequate view of crewmember''s panel(s).
+
+  4,5,6
+
+  These seats need not be a replica of
+
+  an aircraft seat and may be as
+
+  simple as an office chair placed in
+
+  an appropriate position.
+
+  4.a.2.
+
+  In addition to the flight crewmember stations, the FTD must have at least two suitable
+
+  seats for the instructor/check airman and ANAC inspector. These seats must provide
+
+  adequate vision to the pilot''s panel and forward windows. All seats other than flight
+
+  crew seats need not represent those found in the airplane, but must be adequately
+
+  secured to the floor and equipped with similar positive restraint devices.
+
+  7
+
+  The ANAC will consider
+
+  alternatives to this standard for
+
+  additional seats based on unique
+
+  flight deck configurations.
+
+  4.b.1.
+
+  The FTD must have instructor controls that permit activation of normal, abnormal, and
+
+  emergency conditions as appropriate. Once activated, proper system operation must
+
+  result from system management by the crew and not require input from the instructor
+
+  controls.
+
+  4,5,6
+
+  None
+
+  4.b.2.
+
+  The FTD must have controls that enable the instructor/evaluator to control all required
+
+  system variables and insert all abnormal or emergency conditions into the simulated
+
+  airplane systems as described in the sponsor’s ANAC-approved training program; or
+
+  as described in the relevant operating manual as appropriate.
+
+  7
+
+  None
+
+  4.c.
+
+  The FTD must have instructor controls for all environmental effects expected to be
+
+  available at the IOS; e.g., clouds, visibility, icing, precipitation, temperature, storm
+
+  cells and microbursts, turbulence, and intermediate and high altitude wind speed and
+
+  direction.
+
+  7
+
+  None
+
+  4.d.
+
+  The FTD must provide the instructor or evaluator the ability to present ground and air
+
+  hazards.
+
+  7
+
+  For example, another airplane
+
+  crossing the active runway or
+
+  converging airborne traffic.
+
+  5.
+
+  Motion System.
+
+  See next
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  5.a.
+
+  The FTD may have a motion system, if desired, although it is not required. If a motion
+
+  system is installed and additional training, testing, or checking credits are being sought
+
+  on the basis of having a motion system, the motion system
+
+  operation may not be distracting and must be coupled closely to provide integrated
+
+  sensory cues. The motion system must also respond to abrupt input at the pilot''s
+
+  position within the allotted time, but not before the time when the airplane responds
+
+  under the same conditions.
+
+  5,6,7
+
+  The motion system standards set out
+
+  in RBAC 60, Appendix A for at
+
+  least Level A simulators is
+
+  acceptable.
+
+  5.b.
+
+  If a motion system is installed, it must be measured by latency tests or transport delay
+
+  tests and may not exceed 300 milliseconds. Instrument response may not occur prior to
+
+  motion onset.
+
+  6,7
+
+  The motion system standards set out
+
+  in RBAC 60, Appendix A for at
+
+  least Level A simulators is
+
+  acceptable.
+
+  6.
+
+  Visual System.
+
+  See next
+
+  None
+
+  6.a.
+
+  The FTD may have a visual system, if desired, although it is not required. If a visual
+
+  system is installed, it must meet the following criteria:
+
+  4,5,6
+
+  None
+
+  6.a.1.
+
+  The visual system must respond to abrupt input at the pilot''s position.
+
+  An SOC is required.
+
+  5,6
+
+  None
+
+  6.a.2.
+
+  The visual system must be at least a single channel, non-collimated display.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.3.
+
+  The visual system must provide at least a field-of-view of 18° vertical / 24° horizontal
+
+  for the pilot flying.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.4.
+
+  The visual system must provide for a maximum parallax of 10° per pilot.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.5.
+
+  The visual scene content may not be distracting.
+
+  4,5,6
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  An SOC is required.
+
+  6.a.6.
+
+  The minimum distance from the pilot’s eye position to the surface of a direct view
+
+  display may not be less than the distance to any front panel instrument.
+
+  An SOC is required.
+
+  None
+
+  6.a.7.
+
+  The visual system must provide for a minimum resolution of 5 arc-minutes for both
+
+  computed and displayed pixel size.
+
+  4,5,6
+
+  None
+
+  An SOC is required.
+
+  6.b.
+
+  If a visual system is installed and additional training, testing, or checking credits are
+
+  being sought on the basis of having a visual system, a visual system meeting the
+
+  standards set out for at least a Level A FFS (see Appendix A of this RBAC) will be
+
+  required. A “direct-view,” non-collimated visual system (with the other requirements
+
+  for a Level A visual system met) may be considered satisfactory for those installations
+
+  where the visual system design “eye point” is appropriately adjusted for each pilot’s
+
+  position such that the parallax error is at or less than 10º simultaneously for each pilot.
+
+  An SOC is required.
+
+  6
+
+  Directly projected, non- collimated
+
+  visual displays may prove to be
+
+  unacceptable for dual pilot
+
+  applications.
+
+  6.c.
+
+  The FTD must have a visual system providing an out-of-the-flight deck view.
+
+  7
+
+  None
+
+  6.d.
+
+  The FTD must provide a continuous visual field-of-view of at least176° horizontally
+
+  and 36° vertically or the number of degrees necessary to meet the visual ground
+
+  segment requirement, whichever is greater. The minimum horizontal field-of-view
+
+  coverage must be plus and minus one-half (½) of the minimum continuous field-of-
+
+  view requirement, centered on the zero degree azimuth line relative to the aircraft
+
+  fuselage.
+
+  An SOC is required and must explain the system geometry measurements including
+
+  system linearity and field-of-view.
+
+  Collimation is not required but parallax effects must be minimized (not greater than
+
+  10° for each pilot when aligned for the point midway between the left and right seat
+
+  7
+
+  The horizontal field-of-view is
+
+  traditionally described as a 180º
+
+  field-of-view. However, the field-
+
+  of-view is technically no less than
+
+  176º. Additional field-of-view
+
+  capability may be added at the
+
+  sponsor’s discretion provided the
+
+  minimum fields of view are
+
+  retained.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  eyepoints).
+
+  6.e.
+
+  The visual system must be free from optical discontinuities and artifacts that create
+
+  non-realistic cues.
+
+  7
+
+  Non-realistic cues might include
+
+  image “swimming” and image “roll-
+
+  off,” that may lead a pilot to make
+
+  incorrect assessments of speed,
+
+  acceleration, or situational
+
+  awareness.
+
+  6.f.
+
+  The FTD must have operational landing lights for night scenes. Where used, dusk (or
+
+  twilight) scenes require operational landing lights.
+
+  7
+
+  None
+
+  6.g.
+
+  The FTD must have instructor controls for the following:
+
+  (1) Visibility in statute miles (km) and runway visual range (RVR) in ft.(m);
+
+  (2) Airport selection; and
+
+  (3) Airport lighting.
+
+  7
+
+  None
+
+  6.h.
+
+  The FTD must provide visual system compatibility with dynamic response
+
+  programming.
+
+  7
+
+  None
+
+  6.i.
+
+  The FTD must show that the segment of the ground visible from the FTD flight deck is
+
+  the same as from the airplane flight deck (within established tolerances) when at the
+
+  correct airspeed, in the landing configuration, at the appropriate height above the
+
+  touchdown zone, and with appropriate visibility.
+
+  7
+
+  This will show the modeling
+
+  accuracy of RVR, glideslope, and
+
+  localizer for a given weight,
+
+  configuration, and speed within the
+
+  airplane''s operational envelope for a
+
+  normal approach and landing.
+
+  6.j.
+
+  The FTD must provide visual cues necessary to assess sink rates (provide depth
+
+  perception) during takeoffs and landings, to include:
+
+  (1) Surface on runways, taxiways, and ramps; and
+
+  (2) Terrain features.
+
+  7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  6.k.
+
+  The FTD must provide for accurate portrayal of the visual environment relating to the
+
+  FTD attitude.
+
+  7
+
+  Visual attitude vs. FTD attitude is a
+
+  comparison of pitch and roll of the
+
+  horizon as displayed in the visual
+
+  scene compared to the display on
+
+  the attitude indicator.
+
+  6.l.
+
+  The FTD must provide for quick confirmation of visual system color, RVR, focus, and
+
+  intensity.
+
+  An SOC is required.
+
+  7
+
+  None
+
+  6.m.
+
+  The FTD must be capable of producing at least 10 levels of occulting.
+
+  7
+
+  None
+
+  6.n.
+
+  Night Visual Scenes. When used in training, testing, or checking activities, the FTD
+
+  must provide night visual scenes with sufficient scene content to recognize the airport,
+
+  the terrain, and major landmarks around the airport. The scene content must allow a
+
+  pilot to successfully accomplish a visual landing. Scenes must include a definable
+
+  horizon and typical terrain characteristics such as fields, roads and bodies of water and
+
+  surfaces illuminated by airplane landing
+
+  lights.
+
+  7
+
+  None
+
+  6.o.
+
+  Dusk (or Twilight) Visual Scenes. When used in training, testing, or checking
+
+  activities, the FTD must provide dusk (or twilight) visual scenes with sufficient scene
+
+  content to recognize the airport, the terrain, and major landmarks around the airport.
+
+  The scene content must allow a pilot to successfully accomplish a visual landing. Dusk
+
+  (or twilight) scenes, as a minimum, must provide full color presentations of reduced
+
+  ambient intensity, sufficient surfaces with appropriate textural cues that include self-
+
+  illuminated objects such as road networks, ramp lighting and airport signage, to
+
+  conduct a visual approach, landing and airport movement (taxi). Scenes must include a
+
+  definable horizon and typical terrain characteristics such as fields, roads and bodies of
+
+  water and surfaces illuminated by airplane landing lights. If provided, directional
+
+  horizon lighting must have correct orientation and be consistent with surface shading
+
+  effects. Total night or dusk (twilight) scene content must be comparable in detail to
+
+  7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  that produced by 10,000 visible textured surfaces and 15,000 visible lights with
+
+  sufficient system capacity to display 16 simultaneously moving objects.
+
+  An SOC is required.
+
+  6.p.
+
+  Daylight Visual Scenes. The FTD must provide daylight visual scenes with sufficient
+
+  scene content to recognize the airport, the terrain, and major
+
+  7
+
+  None
+
+  landmarks around the airport. The scene content must allow a pilot to successfully
+
+  accomplish a visual landing. Any ambient lighting must not “washout” the displayed
+
+  visual scene. Total daylight scene content must be comparable in detail to that
+
+  produced by 10,000 visible textured surfaces and 6,000 visible lights with sufficient
+
+  system capacity to display 16 simultaneously moving objects. The visual display must
+
+  be free of apparent and distracting quantization and other distracting visual effects
+
+  while the FTD is in motion.
+
+  An SOC is required.
+
+  6.q.
+
+  The FTD must provide operational visual scenes that portray physical relationships
+
+  known to cause landing illusions to pilots.
+
+  7
+
+  For example: short runways,
+
+  landing approaches over water,
+
+  uphill or downhill runways, rising
+
+  terrain on the approach path, unique
+
+  topographic features.
+
+  6.r.
+
+  The FTD must provide special weather representations of light, medium, and heavy
+
+  precipitation near a thunderstorm on takeoff and during approach and landing.
+
+  Representations need only be presented at and below an altitude of 2,000 ft. (610 m)
+
+  above the airport surface and within 10 miles (16 km) of the airport.
+
+  7
+
+  None
+
+  6.s.
+
+  The FTD must present visual scenes of wet and snow-covered runways, including
+
+  runway lighting reflections for wet conditions, partially obscured lights for snow
+
+  conditions, or suitable alternative effects.
+
+  7
+
+  None
+
+  6.t.
+
+  The FTD must present realistic color and directionality of all airport lighting.
+
+  7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  6.u.
+
+  The following weather effects as observed on the visual system must be
+
+  simulated and respective instructor controls provided.
+
+  (1) Multiple cloud layers with adjustable bases, tops, sky coverage and scud
+
+  effect;
+
+  (2) Storm cells activation and/or deactivation;
+
+  (3) Visibility and runway visual range (RVR), including fog and patchy fog effect;
+
+  (4) Effects on ownship external lighting;
+
+  (5) Effects on airport lighting (including variable intensity and fog effects);
+
+  (6) Surface contaminants (including wind blowing effect);
+
+  (7) Variable precipitation effects (rain, hail, snow);
+
+  (8) In-cloud airspeed effect; and
+
+  (9) Gradual visibility changes entering and breaking out of cloud.
+
+  7
+
+  Scud effects are low, detached, and
+
+  irregular clouds below a defined
+
+  cloud layer.
+
+  6.v.
+
+  The simulator must provide visual effects for:
+
+  (1) Light poles;
+
+  (2) Raised edge lights as appropriate; and
+
+  (3) Glow associated with approach lights in low visibility before physical lights
+
+  are seen.
+
+  7
+
+  Visual effects for light poles and
+
+  raised edge lights are for the
+
+  purpose of providing additional
+
+  depth perception during takeoff,
+
+  landing, and taxi training tasks.
+
+  Three dimensional modeling of the
+
+  actual poles and stanchions is not
+
+  required.
+
+  6.w
+
+  A minimum of three (3) real-world airport models required for simulator qualification.
+
+  Must be consistent with published data used for airplane operations. Each model
+
+  should be in a different visual scene to permit assessment of FSTD automatic visual
+
+  scene changes.
+
+  7
+
+  The model identifications must be
+
+  acceptable to the sponsor’s TPAA,
+
+  selectable from the IOS, and listed
+
+  on the SOQ.
+
+  7.
+
+  Sound System.
+
+  See next
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  7.a.
+
+  The FTD must provide flight deck sounds that result from pilot actions that correspond
+
+  to those that occur in the airplane.
+
+  6,7
+
+  None
+
+  7.b.
+
+  The volume control must have an indication of sound level setting which meets all
+
+  qualification requirements.
+
+  7
+
+  This indication is of the sound
+
+  level setting as evaluated during
+
+  the FTD’s initial evaluation.
+
+  7.c.
+
+  The FTD must accurately simulate the sound of precipitation, windshield wipers,
+
+  and other significant airplane noises perceptible to the pilot during normal and
+
+  abnormal operations, and include the sound of a crash (when the FTD is landed in
+
+  an unusual attitude or in excess of the structural gear limitations); normal engine
+
+  and thrust reversal sounds; and the sounds of flap, gear, and spoiler extension and
+
+  retraction.
+
+  Sounds must be directionally representative. An SOC is required.
+
+  7
+
+  None
+
+  7.d.
+
+  The FTD must provide realistic amplitude and frequency of flight deck noises and
+
+  sounds. FTD performance must be recorded, subjectively assessed for the initial
+
+  evaluation, and be made a part of the QTG.
+
+  7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table B3 - Table of Tasks vs. FTD Level - Subjective Requirements
+
+  In order to be qualified at the FTD qualification level indicated, the FTD must be able
+  to perform at least the tasks associated with that level of
+
+  qualification. See Notes 1, 2 and 3 at the end of the Table.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  1.
+
+  Preflight Procedures.
+
+  See next
+
+  None
+
+  1.a.
+
+  Preflight Inspection (flight deck only)
+
+  4(a),5(a),6,7
+
+  None
+
+  1.b.
+
+  Engine Start
+
+  4(a),5(a),6,7
+
+  None
+
+  1.c.
+
+  Taxiing
+
+  7(t)
+
+  None
+
+  1.d.
+
+  Pre-takeoff Checks
+
+  4(a),5(a),6,7
+
+  None
+
+  2.
+
+  Takeoff and Departure Phase.
+
+  See next
+
+  None
+
+  2.a.
+
+  Normal and Crosswind Takeoff
+
+  7(t)
+
+  None
+
+  2.b.
+
+  Instrument Takeoff
+
+  7(t)
+
+  None
+
+  2.c.
+
+  Engine Failure During Takeoff
+
+  7(t)
+
+  None
+
+  2.d.
+
+  Rejected Takeoff (requires visual system)
+
+  6(a),7
+
+  None
+
+  2.e.
+
+  Departure Procedure
+
+  5,6,7
+
+  None
+
+  3.
+
+  Inflight Maneuvers.
+
+  See next
+
+  None
+
+  3.a.
+
+  Steep Turns
+
+  5,6,7
+
+  None
+
+  3.b
+
+  Approaches to Stalls
+
+  5(a),6,7
+
+  Approach to stall maneuvers qualified
+
+  only where the aircraft does not
+
+  exhibit stall buffet as the first
+
+  indication of the stall.
+
+  3.c.
+
+  Engine Failure-Multiengine Airplane
+
+  5(a),6,7
+
+  None
+
+  3.d.
+
+  Engine Failure-Single-Engine Airplane
+
+  5(a),6,7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  3.e.
+
+  Specific Flight Characteristics incorporated into the user’s ANAC
+
+  approved flight training program.
+
+  4(a),5(a),6(a),7(a)
+
+  Level 4 FTDs have no minimum
+
+  requirement for aerodynamic
+
+  programming and are generally not
+
+  qualified to conduct in-flight
+
+  maneuvers.
+
+  3.f.
+
+  Windshear Recovery
+
+  7(t)
+
+  For Level 7 FTD, windshear recovery
+
+  may be qualified at the Sponsor’s
+
+  option. See Table B2 for specific
+
+  requirements and limitations.
+
+  4.
+
+  Instrument Procedures.
+
+  See next
+
+  None
+
+  4.a.
+
+  Standard Terminal Arrival / Flight Management System Arrivals
+
+  Procedures
+
+  5(a),6,7
+
+  None
+
+  4.b.
+
+  Holding
+
+  5(a),6,7
+
+  None
+
+  4.c.
+
+  Precision Instrument
+
+  None
+
+  4.c.1.
+
+  All engines operating.
+
+  5(a),6,7
+
+  e.g., Autopilot, Manual (Flt. Dir.
+
+  Assisted), Manual (Raw Data)
+
+  4.c.2.
+
+  One engine inoperative.
+
+  7(t)
+
+  e.g., Manual (Flt. Dir. Assisted),
+
+  Manual (Raw Data)
+
+  4.d.
+
+  Non-precision Instrument Approach
+
+  5(a),6,7
+
+  e.g., NDB, VOR, VOR/DME,
+
+  VOR/TAC, RNAV, LOC, LOC/BC,
+
+  ADF, and SDF.
+
+  4.e.
+
+  Circling Approach (requires visual system)
+
+  6(a),7
+
+  Specific authorization required.
+
+  4.f.
+
+  Missed Approach
+
+  None
+
+  4.f.1.
+
+  Normal.
+
+  5(a),6,7
+
+  None
+
+  4.f.2.
+
+  One engine Inoperative.
+
+  7(t)
+
+  None
+
+  5.
+
+  Landings and Approaches to Landings.
+
+  See next
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  5.a.
+
+  Normal and Crosswind Approaches and Landings
+
+  7(t)
+
+  None
+
+  5.b.
+
+  Landing From a Precision / Non-Precision Approach
+
+  7(t)
+
+  None
+
+  5.c.
+
+  Approach and Landing with (Simulated) Engine Failure - Multiengine
+
+  Airplane
+
+  7(t)
+
+  None
+
+  5.d.
+
+  Landing From Circling Approach
+
+  7(t)
+
+  None
+
+  5.e.
+
+  Rejected Landing
+
+  7(t)
+
+  None
+
+  5.f.
+
+  Landing From a No Flap or a Nonstandard Flap Configuration Approach
+
+  7(t)
+
+  None
+
+  6.
+
+  Normal and Abnormal Procedures.
+
+  See next
+
+  None
+
+  6.a.
+
+  Engine (including shutdown and restart)
+
+  4(a),5(a),6,7
+
+  None
+
+  6.b.
+
+  Fuel System
+
+  4(a),5(a),6,7
+
+  None
+
+  6.c.
+
+  Electrical System
+
+  4(a),5(a),6,7
+
+  None
+
+  6.d.
+
+  Hydraulic System
+
+  4(a),5(a),6,7
+
+  None
+
+  6.e.
+
+  Environmental and Pressurization Systems
+
+  4(a),5(a),6,7
+
+  None
+
+  6.f.
+
+  Fire Detection and Extinguisher Systems
+
+  4(a),5(a),6,7
+
+  None
+
+  6.g.
+
+  Navigation and Avionics Systems
+
+  4(a),5(a),6,7
+
+  None
+
+  6.h.
+
+  Automatic Flight Control System, Electronic Flight Instrument System,
+
+  and Related Subsystems
+
+  4(a),5(a),6,7
+
+  None
+
+  6.i.
+
+  Flight Control Systems
+
+  4(a),5(a),6,7
+
+  None
+
+  6.j.
+
+  Anti-ice and Deice Systems
+
+  4(a),5(a),6,7
+
+  None
+
+  6.k.
+
+  Aircraft and Personal Emergency Equipment
+
+  4(a),5(a),6,7
+
+  None
+
+  7.
+
+  Emergency Procedures.
+
+  See next
+
+  None
+
+  7.a.
+
+  Emergency Descent (Max. Rate)
+
+  5(a),6,7
+
+  None
+
+  7.b.
+
+  Inflight Fire and Smoke Removal
+
+  5(a),6,7
+
+  None
+
+  7.c.
+
+  Rapid Decompression
+
+  5(a),6,7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  7.d.
+
+  Emergency Evacuation
+
+  4(a),5(a),6,7
+
+  None
+
+  8.
+
+  Postflight Procedures.
+
+  See next
+
+  None
+
+  8.a.
+
+  After-Landing Procedures
+
+  4(a),5(a),6,7
+
+  None
+
+  8.b.
+
+  Parking and Securing
+
+  4(a),5(a),6,7
+
+  None
+
+  Note 1: An “(a)” in the table indicates that the system, task, or procedure, although not
+  required to be present, may be examined if the appropriate airplane
+
+  system is simulated in the FTD and is working properly.
+
+  Note 2: Items not installed or not functional on the FTD and not appearing on the SOQ Configuration
+  List, are not required to be listed as exceptions on
+
+  the SOQ.
+
+  Note 3: A “(t)” in the table indicates that the task may only be qualified for introductory
+  initial or recurrent qualification training. These tasks may not be
+
+  qualified for proficiency testing or checking credits in an ANAC approved flight training
+  program.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table B4 - Table of FTD System Tasks - Subjective Requirements
+
+  In order to be qualified at the FTD qualification level indicated, the FTD must be able
+  to perform at least the tasks associated with that level of
+
+  qualification.
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  1.
+
+  Instructor Operating Station (IOS).
+
+  See next
+
+  NA
+
+  1.a.
+
+  Power switch(es).
+
+  4,5,6
+
+  NA
+
+  1.b.
+
+  Airplane conditions.
+
+  4(a),5,6
+
+  e.g., GW, CG, Fuel loading,
+
+  Systems, Ground. Crew
+
+  1.c.
+
+  Airports / Runways.
+
+  4,5,6
+
+  e.g., Selection and Presets; Surface
+
+  and Lighting controls if equipped
+
+  with a visual system.
+
+  1.d.
+
+  Environmental controls.
+
+  4,5,6
+
+  e.g., Temp, Wind.
+
+  1.e.
+
+  Airplane system malfunctions (Insertion / deletion)
+
+  4(a),5,6
+
+  NA
+
+  1.f.
+
+  Locks, Freezes, and Repositioning.
+
+  4,5,6
+
+  NA
+
+  1.g.
+
+  Sound Controls. (On / off / adjustment)
+
+  4,5,6
+
+  NA
+
+  1.h.
+
+  Motion / Control Loading System, as appropriate. On / off / emergency stop
+
+  4(a),5(a),6(a) NA
+
+  2.
+
+  Observer Seats / Stations.
+
+  See next
+
+  NA
+
+  2.a.
+
+  Position / Adjustment / Positive restraint system.
+
+  4,5,6
+
+  NA
+
+  Note 1: An “(a)” in the table indicates that the system, task, or procedure, although not
+  required to be present, may be examined if the appropriate system
+
+  is in the FTD and is working properly.
+
+
+  Data da emissão: 20 de março de 2020.'
+keywords:
+- simuladores
+- treinamento
+- must
+- none
+- system
+- airplane
+- visual
+- flight
+- that
+- level
+- required
+- requirements
+- data
+- with
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

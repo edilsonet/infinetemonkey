@@ -1,0 +1,29 @@
+id: rbac-rbac-135-135-127-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.127'
+section_title: Requisitos de avisos aos passageiros e proibição de fumar a bordo
+subsection_id: c
+cite: 135.127(c)
+title: 135.127(c)
+text: (c) É vedado fumar a bordo de uma aeronave operada segundo este Regulamento.
+keywords:
+- taxi-aereo
+- operacoes
+- bordo
+- fumar
+- aeronave
+- avisos
+- operada
+- passageiros
+- proibicao
+- regulamento
+- requisitos
+- segundo
+- vedado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

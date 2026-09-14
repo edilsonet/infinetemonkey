@@ -1,0 +1,44 @@
+id: rbac-rbac-107-107-103-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.103'
+section_title: Pontos de Acesso à Área Controlada
+subsection_id: a
+cite: 107.103(a)
+title: 107.103(a)
+text: '(a) Os pontos de controle de acesso devem apresentar as seguintes características gerais:
+
+  (1) implementar controle de acesso automatizado ou conduzido por profissional, neste caso
+  apoiado por recursos adequados para a atividade de identificação e vigilância, incluindo
+  cobertura da instalação, iluminação, modelos de credenciais e autorizações válidas;
+
+  (2) disponibilizar aviso de alerta quanto à permissão de acesso apenas de pessoas e veículos
+  autorizados;
+
+  (3) possuir sistema de comunicação e alarme interligado ao setor responsável pelo monitoramento
+  dos pontos de controle de acesso;
+
+  (4) possuir monitoramento através de sistema de CFTV; e
+
+  (5) permanecer fechados e trancados, quando estiverem fora de operação.'
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- controle
+- pontos
+- monitoramento
+- possuir
+- sistema
+- adequados
+- alarme
+- alerta
+- apoiado
+- apresentar
+- area
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

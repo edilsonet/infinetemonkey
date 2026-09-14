@@ -1,0 +1,81 @@
+id: rbac-rbac-60-60-7-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.7'
+section_title: Requisitos para o operador de FSTD
+subsection_id: b
+cite: 60.7(b)
+title: 60.7(b)
+text: '(b) Uma organização é um operador de
+
+  FSTD se as seguintes condições forem
+
+  cumpridas:
+
+  (1) the organization is a certificate holder
+
+  under RBAC 119, 141, or 142;
+
+
+  (1) a organização for detentora de um
+
+  certificado conforme o RBAC nº 119, 141 ou
+
+  142;
+
+  (2) the organization has an ANAC-
+
+  approved training program for an aircraft or set
+
+  of aircraft and at least one FSTD, sponsored by
+
+  the organization, is used within this training
+
+  program, at least once every 12 months;
+
+
+  (2) a organização possuir um programa
+
+  de treinamento aprovado pela ANAC para
+
+  uma aeronave ou conjunto de aeronaves e,
+
+  pelo menos um FSTD, operado pela
+
+  organização, for utilizado neste programa de
+
+  treinamento, pelo menos uma vez a cada 12
+
+  meses;
+
+  (3) the organization has a QMS currently
+
+  approved by the ANAC in accordance with
+
+  section 60.5 of this regulation; and
+
+
+  (3) a organização possuir um QMS
+
+  aprovado pela ANAC de acordo com a seção'
+keywords:
+- simuladores
+- treinamento
+- organizacao
+- fstd
+- organization
+- aircraft
+- approved
+- aprovado
+- least
+- menos
+- operador
+- possuir
+- program
+- programa
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

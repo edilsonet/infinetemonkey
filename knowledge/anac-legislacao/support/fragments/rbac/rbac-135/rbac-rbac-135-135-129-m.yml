@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-129-m
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: m
+cite: 135.129(m)
+title: 135.129(m)
+text: '(m) Um detentor de certificado só pode recusar o transporte de uma pessoa segundo esta
+  seção se:
+
+  (1) o passageiro se recusar a atender as instruções, dadas por um tripulante ou outra pessoa
+  autorizada pelo detentor de certificado, referentes ao cumprimento das restrições à ocupação
+  de assentos de saída estabelecidas por esta seção; ou
+
+  (2) o único assento que poderia acomodar fisicamente essa pessoa for um assento de saída.'
+keywords:
+- taxi-aereo
+- operacoes
+- pessoa
+- saida
+- assento
+- assentos
+- certificado
+- detentor
+- recusar
+- secao
+- acomodar
+- atender
+- autorizada
+- cumprimento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

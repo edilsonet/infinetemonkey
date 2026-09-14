@@ -1,0 +1,35 @@
+id: rbac-rbac-161-161-33-d
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.33'
+section_title: Critérios para cálculo das curvas de ruído para elaboração do PEZR
+subsection_id: d
+cite: 161.33(d)
+title: 161.33(d)
+text: '(d) A documentação das curvas de ruído para elaboração do PEZR deve ser composta por:
+
+  (1) Relatório Técnico assinado pelo profissional responsável pelo cálculo da curva de ruído
+  e aprovado, em caráter administrativo, pelo gestor do aeródromo, contendo a memória de cálculo
+  das cinco curvas de ruído e as justificativas que couberem para os dados de entrada;
+
+  (2) plantas, em escala, com a representação das curvas de ruído atual, futura e a sobreposição
+  dessas duas curvas, sendo possível a identificação de ruas e lotes da região, contendo os
+  seguintes itens, no mínimo:'
+keywords:
+- curvas
+- ruido
+- calculo
+- contendo
+- elaboracao
+- pezr
+- administrativo
+- aerodromo
+- aprovado
+- assinado
+- atual
+- carater
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

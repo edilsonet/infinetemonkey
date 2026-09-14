@@ -1,0 +1,30 @@
+id: rbac-rbac-155-155-209-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.209'
+section_title: '155.209'
+subsection_id: b
+cite: 155.209(b)
+title: 155.209(b)
+text: '(b)
+
+  A área de segurança de uma FATO deve se estender, para além do seu perímetro, por, no mínimo,
+  0,25 D.
+
+  Figura 155.209-1 - FATO e área de segurança associada.'
+keywords:
+- seguranca-aeroportuaria
+- area
+- fato
+- seguranca
+- alem
+- associada
+- estender
+- figura
+- minimo
+- perimetro
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

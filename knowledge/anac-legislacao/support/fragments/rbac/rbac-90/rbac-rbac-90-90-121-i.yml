@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-121-i
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.121'
+section_title: Requisitos gerais
+subsection_id: i
+cite: 90.121(i)
+title: 90.121(i)
+text: '(i) A lista de verificação da aeronave (
+
+  checklist
+
+  ) não deverá apresentar informações conflitantes com o previsto nos SOP.'
+keywords:
+- regras-de-voo
+- operacoes
+- aeronave
+- apresentar
+- checklist
+- conflitantes
+- devera
+- gerais
+- informacoes
+- lista
+- requisitos
+- verificacao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

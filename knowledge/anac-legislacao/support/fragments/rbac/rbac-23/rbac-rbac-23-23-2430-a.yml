@@ -1,0 +1,110 @@
+id: rbac-rbac-23-23-2430-a
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2430'
+section_title: Sistemas de combustível.
+subsection_id: a
+cite: 23.2430(a)
+title: 23.2430(a)
+text: '(a) Cada sistema de combustível deve:
+
+  (1) Ser projetado e organizado para fornecer
+
+  independência entre vários sistemas de arma-
+
+  zenamento e fornecimento de combustível, de
+
+  modo que a falha de qualquer componente in-
+
+  dividual em um sistema não resultará na perda
+
+  de armazenamento ou fornecimento de com-
+
+  bustível de outro sistema;
+
+  (2) Ser projetado e organizado para evitar a
+
+  ignição do combustível dentro do sistema por
+
+  incidência direta de raios ou condução de cor-
+
+  rentes elétricas desta resultante (“swept light-
+
+  ning strokes”)em áreas onde tais ocorrências
+
+  sejam altamente prováveis, ou por efeito coro-
+
+  na ou circulação em saídas de ventilação de
+
+  combustível;
+
+  (3) Fornecer o combustível necessário para
+
+  garantir que cada grupo motopropulsor e uni-
+
+  dade de potência auxiliar funcionem correta-
+
+  mente em todas as condições de operação pro-
+
+  váveis;
+
+  (4) Fornecer à tripulação de voo meios para
+
+  determinar a quantidade total disponível de
+
+  combustível utilizável e prover o fornecimento
+
+  ininterrupto deste combustível quando o siste-
+
+  ma é operado corretamente, levando em conta
+
+  prováveis flutuações de combustível;
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 23
+
+
+  (5) Provide a means to safely remove or isolate
+
+  the fuel stored in the system from the airplane;
+
+
+  (6) Be designed to retain fuel under all likely
+
+  operating conditions and minimize hazards to
+
+  the occupants during any survivable emergency
+
+  landing. For level 4 airplanes, failure due to
+
+  overload of the landing system must be taken
+
+  into account; and
+
+
+  (7) Prevent hazardous contamination of the fuel
+
+  supplied to each powerplant and auxiliary
+
+  power unit.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- combustivel
+- sistema
+- fornecer
+- fornecimento
+- fuel
+- cada
+- landing
+- organizado
+- projetado
+- provaveis
+- sistemas
+- system
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

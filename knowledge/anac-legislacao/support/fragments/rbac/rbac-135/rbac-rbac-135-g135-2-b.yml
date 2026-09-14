@@ -1,0 +1,35 @@
+id: rbac-rbac-135-g135-2-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: b
+cite: G135.2(b)
+title: G135.2(b)
+text: '(b) Experiência exigida do detentor de certificado antes de realização de voo ETOPS.
+  Antes de solicitar a aprovação ETOPS, o detentor de certificado deve ter pelo menos 12 meses
+  de experiência na condução de operações internacionais com avião multimotor a turbina categoria
+  transporte. O detentor de certificado pode considerar a seguinte experiência como operações
+  internacionais:
+
+  (1) experiência ETOPS com outros tipos de aeronaves, na categoria autorizada pela ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- experiencia
+- certificado
+- detentor
+- etops
+- categoria
+- internacionais
+- aeronaves
+- aprovacao
+- autorizada
+- aviao
+- conducao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

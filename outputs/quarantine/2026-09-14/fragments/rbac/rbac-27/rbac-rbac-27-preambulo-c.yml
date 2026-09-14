@@ -1,0 +1,34 @@
+id: rbac-rbac-27-preambulo-c
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: c
+cite: preambulo(c)
+title: preambulo(c)
+text: '(c)
+
+  Level landing attitude with all wheels contacting the ground simultaneously. In this attitude,
+  the rotorcraft
+
+  must be designed for landing loading conditions as prescribed in paragraph (b) of this section.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- attitude
+- landing
+- preambulo
+- this
+- conditions
+- contacting
+- designed
+- ground
+- level
+- loading
+- must
+- paragraph
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

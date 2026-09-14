@@ -1,0 +1,45 @@
+id: rbac-rbac-43-43-3-d
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.3'
+section_title: Pessoas autorizadas a executar manutenção, manutenção preventiva, reconstrução
+  e
+subsection_id: d
+cite: 43.3(d)
+title: 43.3(d)
+text: '(d) Uma pessoa que estiver trabalhando sob a supervisão de um mecânico de manutenção
+
+  aeronáutica pode executar manutenção, manutenção preventiva e alterações para os quais seu
+
+  supervisor esteja habilitado pela ANAC, desde que o supervisor observe pessoalmente a execução
+
+  do trabalho, na extensão requerida para se assegurar que esteja sendo executado apropriadamente,
+  e
+
+  permaneça prontamente disponível, em pessoa, para responder consultas do executante. Entretanto,
+
+  este parágrafo não autoriza a execução de qualquer inspeção requerida pelo RBAC nº 91 ou
+
+  qualquer inspeção executada após um grande reparo ou grande alteração. (Redação dada pela
+
+  Resolução nº 612, de 09.03.2021)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- esteja
+- execucao
+- executar
+- grande
+- inspecao
+- pessoa
+- preventiva
+- requerida
+- supervisor
+- aeronautica
+- alteracao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

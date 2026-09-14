@@ -1,0 +1,36 @@
+id: rbac-rbac-155-155-305-c
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.305'
+section_title: '155.305'
+subsection_id: c
+cite: 155.305(c)
+title: 155.305(c)
+text: '(c)
+
+  As dimensões da sinalização horizontal de identificação de heliponto para FATO tipo pista
+  de pouso e decolagem, letra “H”, são aquelas constantes na Figura 155.303-1, multiplicadas
+  por um fator de 3.
+
+  Figura 155.305-1 - FATO tipo pista de pouso e decola
+
+  gem: exemplo de sinalizações horizontais de identificação de heliponto e designação de FATO.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- figura
+- heliponto
+- identificacao
+- pista
+- pouso
+- tipo
+- aquelas
+- constantes
+- decola
+- decolagem
+- designacao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

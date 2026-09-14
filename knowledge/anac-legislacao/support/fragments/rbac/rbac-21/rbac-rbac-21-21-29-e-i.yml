@@ -1,0 +1,46 @@
+id: rbac-rbac-21-21-29-e-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.29'
+section_title: 'Emissão de certificado de tipo: produtos importados'
+subsection_id: e-i
+cite: 21.29(e-I)
+title: 21.29(e-I)
+text: '(e)-I As disposições do parágrafo (d)-I desta seção podem ser estendidas a outro modelo
+  de aeronave, motor ou hélice, desde que tal modelo seja considerado pela ANAC como substancialmente
+  similar, em termos de projeto e certificação, a um modelo de aeronave, motor ou hélice considerado
+  isento de acordo com o parágrafo (d)-I desta seção, ainda que o novo modelo não esteja incluído
+  no mesmo certificado de tipo (
+
+  type certificate
+
+  ) ou especificação de tipo (
+
+  type certificate data sheet
+
+  ), ou documento equivalente, emitido pela autoridade de aviação civil do país de origem,
+  relativos ao modelo já existente no Brasil. Para gozar deste tratamento, o requerente deverá
+  apresentar todos os dados técnicos que venham a ser exigidos pela ANAC.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modelo
+- tipo
+- aeronave
+- certificado
+- certificate
+- considerado
+- desta
+- helice
+- motor
+- paragrafo
+- secao
+- type
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

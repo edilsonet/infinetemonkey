@@ -1,0 +1,38 @@
+id: rbac-rbac-23-23-2300-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2300'
+section_title: Sistemas de controle de voo.
+subsection_id: b
+cite: 23.2300(b)
+title: 23.2300(b)
+text: '(b) O requerente deve projetar sistemas de
+
+  compensação, se instalados, para:
+
+  (1) Proteger contra a operação inadvertida, in-
+
+  correta ou abrupta do compensador;
+
+  (2) Fornecer um meio para indicar:'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- sistemas
+- abrupta
+- compensacao
+- compensador
+- contra
+- controle
+- correta
+- fornecer
+- inadvertida
+- indicar
+- instalados
+- meio
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

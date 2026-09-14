@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-97-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.97'
+section_title: Aprovação de grande modificação no projeto de tipo
+subsection_id: b
+cite: 21.97(b)
+title: 21.97(b)
+text: (b) A aprovação de uma grande modificação em projeto de tipo de um motor de aeronave
+  é limitada à configuração específica do motor na qual a modificação será incorporada, a
+  menos que o requerente identifique, nos dados descritivos necessários à inclusão da modificação
+  no projeto de tipo, as outras configurações do mesmo tipo de motor para o qual a aprovação
+  é solicitada e demonstre que a modificação é compatível com tais configurações.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- tipo
+- aprovacao
+- motor
+- configuracoes
+- grande
+- qual
+- aeronave
+- compativel
+- configuracao
+- dados
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

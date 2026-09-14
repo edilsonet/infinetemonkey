@@ -1,0 +1,35 @@
+id: rbac-rbac-136-136-25-f
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.25'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: f
+cite: 136.25(f)
+title: 136.25(f)
+text: '(f) O gestor responsável do detentor de certificado deve garantir que o MGSO seja emendado
+
+  sempre que necessário, a fim de que as informações nele presentes reflitam a realidade do
+  que é
+
+  praticado na organização.'
+keywords:
+- turismo
+- operacoes
+- certificado
+- detentor
+- emendado
+- garantir
+- gerenciamento
+- gestor
+- informacoes
+- mgso
+- necessario
+- nele
+- operacional
+- organizacao
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

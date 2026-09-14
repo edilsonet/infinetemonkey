@@ -1,0 +1,29 @@
+id: rbac-rbac-145-145-223-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.223'
+section_title: Inspeções pela ANAC
+subsection_id: a
+cite: 145.223(a)
+title: 145.223(a)
+text: '(a) Cada organização de manutenção certificada deve permitir inspeções da ANAC a qualquer
+
+  tempo para que seja verificado o cumprimento com os RBAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecoes
+- cada
+- certificada
+- cumprimento
+- organizacao
+- permitir
+- seja
+- tempo
+- verificado
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

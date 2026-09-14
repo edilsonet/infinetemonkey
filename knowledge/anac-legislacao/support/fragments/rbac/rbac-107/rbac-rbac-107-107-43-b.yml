@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-43-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.43'
+section_title: Comunicação sobre Assuntos de AVSEC
+subsection_id: b
+cite: 107.43(b)
+title: 107.43(b)
+text: '(b) O operador de aeródromo deve:
+
+  (1) garantir que a comunicação cujo conteúdo trate de atos de interferência ilícita, ameaças,
+  vulnerabilidades, ou demais informações que possam comprometer a segurança da aviação civil
+  seja realizada utilizando meios padronizados e apropriados que previnam sua divulgação indevida;
+
+  (2) manter os registros de comunicação e preservar evidências, por prazo não inferior a
+  12 (doze) meses, visando ao assessoramento de investigações;
+
+  (3) notificar o aeródromo de destino e de escalas quando detectar falha no controle de segurança
+  de responsabilidade do operador do aeródromo, que possa ter afetado um voo de aeronave que
+  já tenha decolado; e
+
+  (4) manter a ANAC atualizada acerca da disponibilidade de órgão de segurança pública no
+  aeródromo.'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- comunicacao
+- manter
+- operador
+- acerca
+- aeronave
+- afetado
+- ameacas
+- apropriados
+- assessoramento
+- assuntos
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

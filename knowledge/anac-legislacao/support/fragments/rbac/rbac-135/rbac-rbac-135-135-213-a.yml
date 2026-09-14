@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-213-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.213'
+section_title: Informações meteorológicas
+subsection_id: a
+cite: 135.213(a)
+title: 135.213(a)
+text: (a) Sempre que uma pessoa operando uma aeronave segundo este Regulamento necessitar
+  utilizar informações meteorológicas, ela deve utilizar as informações providas pelo órgão
+  competente do país sobrevoado ou por provedor reconhecido por esse órgão. No entanto, para
+  operações VFR, o piloto em comando pode usar informações baseadas em suas próprias observações
+  ou em observações de outros pilotos.
+keywords:
+- taxi-aereo
+- operacoes
+- informacoes
+- meteorologicas
+- observacoes
+- orgao
+- utilizar
+- aeronave
+- baseadas
+- comando
+- competente
+- entanto
+- necessitar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,48 @@
+id: rbac-rbac-121-121-191-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.191'
+section_title: 'Aviões com motores a turbina: limitações de rota com um motor inoperante'
+subsection_id: a
+cite: 121.191(a)
+title: 121.191(a)
+text: '(a) Ninguém pode decolar com um avião com motores a turbina com um peso maior do que
+  aquele (segundo os dados da trajetória líquida em rota com um motor inoperante, constante
+  do Manual de Voo Aprovado para o Avião-AFM), considerando consumo normal de combustível
+  e óleo, que permita conformidade com o parágrafo (a)(l) ou (2) desta seção, baseado na temperatura
+  ambiente esperada em rota:
+
+  (1) exista um gradiente positivo em uma altitude de, pelo menos, 1000 pés acima de qualquer
+  elevação ou obstáculo dentro de uma faixa de 5 milhas para cada lado da trajetória pretendida
+  e, em adição, se o avião foi certificado após 29 de agosto de 1959 (SR422B da FAA), proporcione
+  um gradiente positivo a 1500 pés sobre a vertical do aeródromo onde o avião supostamente
+  pousaria após a falha do motor;
+
+  (2) a trajetória líquida de voo permita que o avião continue voando da altitude de cruzeiro
+  para um aeródromo onde pode ser executado um pouso, de acordo com 121.197, livrando todas
+  as elevações e obstruções dentro de uma faixa de 5 milhas para cada lado da trajetória pretendida
+  por, pelo menos, 2.000 pés de altura e com um gradiente positivo a 1000 pés de altura sobre
+  a vertical do aeródromo onde o avião supostamente pousaria após a falha do motor. Se o tipo
+  de avião foi certificado após 30 de setembro de 1958 (SR422A, 422B da FAA), o gradiente
+  positivo deve existir a 1500 pés de altura sobre a vertical do referido aeródromo;'
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- aerodromo
+- gradiente
+- motor
+- positivo
+- trajetoria
+- altura
+- rota
+- vertical
+- altitude
+- cada
+- certificado
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

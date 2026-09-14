@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-50-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.50'
+section_title: Instruções para aeronavegabilidade continuada e manuais de manutenção do fabricante
+  contendo seções de limitações de aeronavegabilidade
+subsection_id: c
+cite: 21.50(c)
+title: 21.50(c)
+text: '(c) Para designar partes comerciais, o detentor de um projeto aprovado, de uma maneira
+  aceitável pela ANAC, deve submeter:
+
+  (1) uma Lista de Partes Comerciais;
+
+  (2) dados para cada parte da lista demonstrando que:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- comerciais
+- lista
+- partes
+- aceitavel
+- aprovado
+- cada
+- contendo
+- continuada
+- dados
+- demonstrando
+- designar
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-100-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.100'
+section_title: Obrigações dos tripulantes de voo
+subsection_id: c
+cite: 135.100(c)
+title: 135.100(c)
+text: '(c) Para os propósitos desta seção, as fases críticas do voo incluem todas as operações
+  de solo envolvendo rolagem, decolagem e pouso e todas as outras operações de voo conduzidas
+  abaixo da altitude de 10.000 pés, exceto voo de cruzeiro.
+
+  Nota
+
+  : rolagem ou táxi é definido como “movimento de uma aeronave, por seus próprios meios, na
+  superfície de um aeródromo”.'
+keywords:
+- taxi-aereo
+- operacoes
+- rolagem
+- todas
+- abaixo
+- aerodromo
+- aeronave
+- altitude
+- conduzidas
+- criticas
+- cruzeiro
+- decolagem
+- definido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

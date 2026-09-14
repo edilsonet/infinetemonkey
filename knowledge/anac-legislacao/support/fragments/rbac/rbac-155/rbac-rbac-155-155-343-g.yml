@@ -1,0 +1,33 @@
+id: rbac-rbac-155-155-343-g
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.343'
+section_title: '155.343'
+subsection_id: g
+cite: 155.343(g)
+title: 155.343(g)
+text: '(g)
+
+  O sistema de iluminação de orientação de alinhamento de trajetória de voo deve ter um controle
+  que permita o ajuste da intensidade da luz para atender às condições prevalecentes e para
+  equilibrar o sistema com outras luzes de heliponto e de iluminação geral que possam estar
+  presentes no entorno.'
+keywords:
+- seguranca-aeroportuaria
+- iluminacao
+- sistema
+- ajuste
+- alinhamento
+- atender
+- condicoes
+- controle
+- entorno
+- equilibrar
+- estar
+- geral
+- heliponto
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

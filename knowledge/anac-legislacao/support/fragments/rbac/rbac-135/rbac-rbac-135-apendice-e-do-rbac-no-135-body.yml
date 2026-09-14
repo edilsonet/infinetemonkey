@@ -1,0 +1,321 @@
+id: rbac-rbac-135-apendice-e-do-rbac-no-135-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: apendice-e-do-rbac-no-135
+section_title: APÊNDICE E DO RBAC Nº 135
+subsection_id: body
+cite: apendice-e-do-rbac-no-135
+title: APÊNDICE E DO RBAC Nº 135
+text: 'APÊNDICE E DO RBAC Nº 135
+
+  ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA HELICÓPTEROS
+
+  PARÁGRAFO 135.152 (b)
+
+  Parâmetros
+
+  Faixa
+
+  Precisão da entrada do sensor no gravador
+
+  Intervalo da amostragem (por segundo)
+
+  Resolução
+
+  da leitura (2)
+
+  Tempo (GMT)
+
+  24 horas
+
+  ± 0,125% por hora
+
+  0,25 (1 por segundo)
+
+  1 seg
+
+  Altitude
+
+  -1000 pés até a altitude certificada para a aeronave
+
+  ± 100 até ± 700 pés (ver tabela 1 da OTP C51-a)
+
+  1
+
+  5 pés a 30 pés
+
+  Velocidade
+
+  Como o sistema de medida instalado
+
+  ± 3%
+
+  1
+
+  1 Kt
+
+  Proa
+
+  360º
+
+  ± 2º
+
+  1
+
+  0,5º
+
+  Aceleração normal (vertical)
+
+  -3g a + 6g
+
+  ±1% da faixa máxima, excluindo erro de referência de ± 5%
+
+  8
+
+  0,01g
+
+  Atitude de arfagem
+
+  ± 75º
+
+  ± 2º
+
+  2
+
+  0,5º
+
+  Atitude de rolamento
+
+  ± 180º
+
+  ± 2º
+
+  2
+
+  0,5º
+
+  Transmissões rádio
+
+  “on”/“off”
+
+  (discreto)
+
+  -
+
+  1
+
+  POTÊNCIA EM CADA MOTOR:
+
+  Rotação da turbina livre
+
+  e
+
+  Torque do motor
+
+  0 a 130% (rotação da turbina)
+
+  faixa total (torque do motor)
+
+  ± 2%
+
+  1 rotação e 1 torque (por motor)
+
+  0,2% a 0,4% (1)
+
+  Rotação do rotor principal
+
+  0 a 130%
+
+  ± 2%
+
+  2
+
+  0,3% (1)
+
+  Razão de altitude
+
+  + 6000 pés/ min
+
+  Como instalado
+
+  2
+
+  0,2% (1)
+
+  Ação do piloto -controles primários (coletivo, cíclico longitudinal, cíclico lateral e pedal)
+
+  Faixa total
+
+  ± 3%
+
+  2
+
+  0,5% (1)
+
+  Baixa pressão da pressão hidráulica dos controles de voo
+
+  Discreto, cada circuito
+
+  -
+
+  1
+
+  -
+
+  Posição do inter-ruptor seletor de pressão do sistema hidráulico dos controles de voo; 1º
+  e 2º estágio
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Parâmetros
+
+  Faixa
+
+  Precisão da entrada do sensor no gravador
+
+  Intervalo da amostragem (por segundo)
+
+  Resolução
+
+  da leitura (2)
+
+  Engajamento do sistema aumentador de estabilidade (SAS)
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Modo e engajamento do AFCS
+
+  Discreto (requerido 5 “bits”)
+
+  -
+
+  1
+
+  -
+
+  Falha do SAS
+
+  Discreto
+
+  -
+
+  0,25
+
+  -
+
+  Baixa temperatura da caixa de redução principal
+
+  Como instalado
+
+  Como instalado
+
+  0,25
+
+  0,5% (1)
+
+  Alta temperatura da caixa de redução principal
+
+  Como instalado
+
+  Como instalado
+
+  0,5
+
+  0,5% (1)
+
+  Posição do estabilizador comandável
+
+  Faixa total
+
+  ± 3%
+
+  2
+
+  0,4% (1)
+
+  Aceleração longitudinal
+
+  ± 1g
+
+  ± 1,5% da faixa total, excluindo erro de referência de ± 5%
+
+  4
+
+  0,01g
+
+  Aceleração lateral
+
+  ± 1g
+
+  ± 1,5% da faixa total, excluindo er-ro de referência de ± 5%
+
+  4
+
+  0,01g
+
+  Alarme mestre
+
+  discreto
+
+  -
+
+  1
+
+  -
+
+  Frequência selecionada no NAV1 e NAV2
+
+  Faixa total
+
+  Como instalado
+
+  0,25
+
+  -
+
+  Temperatura do ar externo
+
+  - 50ºC a + 90ºC
+
+  ± 2ºC
+
+  0,5
+
+  0,3ºC
+
+  (1) Porcentagem da faixa total.
+
+  (2) Esta coluna aplica-se para aeronaves fabricadas após 11 de outubro de 1991.'
+keywords:
+- taxi-aereo
+- operacoes
+- faixa
+- discreto
+- instalado
+- total
+- motor
+- rotacao
+- aceleracao
+- altitude
+- apendice
+- controles
+- excluindo
+- pressao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

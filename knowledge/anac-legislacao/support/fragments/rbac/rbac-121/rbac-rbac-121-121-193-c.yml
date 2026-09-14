@@ -1,0 +1,45 @@
+id: rbac-rbac-121-121-193-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.193'
+section_title: 'Aviões categoria transporte com motores a turbina: limitações de rota com
+  dois motores inoperantes'
+subsection_id: c
+cite: 121.193(c)
+title: 121.193(c)
+text: '(c) Aviões certificados após 29 de agosto de 1959 (SR422B). Ninguém pode operar um
+  avião com motores a turbina ao longo de uma rota, a menos que atenda a uma das duas condições
+  seguintes:
+
+  (1) não exista nenhum ponto ao longo de rota que fique a mais de 90 minutos de voo (com
+  todos os motores funcionando com potência de cruzeiro) de um aeródromo que atenda aos requisitos
+  de 121.197;
+
+  (2) seu peso, de acordo com os dados de trajetória líquida de voo em rota com dois motores
+  inoperantes constantes do AFM, permita ao avião voar do ponto onde se assume a parada simultânea
+  de dois motores até um aeródromo que atenda ao previsto em 121.197, com uma trajetória líquida
+  de voo (levando em conta as temperaturas esperadas ao longo de rota) tendo um gradiente
+  positivo na altitude de 2000 pés acima da maior elevação ou obstáculo existente na faixa
+  de 5 milhas para cada lado da rota pretendida. Para os propósitos deste parágrafo assume-se
+  que:'
+keywords:
+- transporte-aereo
+- operacoes
+- motores
+- rota
+- atenda
+- dois
+- longo
+- aerodromo
+- assume
+- aviao
+- avioes
+- inoperantes
+- liquida
+- ponto
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

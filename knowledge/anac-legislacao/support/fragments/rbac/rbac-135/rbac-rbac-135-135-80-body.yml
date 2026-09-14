@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-80-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.80'
+section_title: Informações sobre equipamentos de emergência e sobrevivência
+subsection_id: body
+cite: '135.80'
+title: Informações sobre equipamentos de emergência e sobrevivência
+text: '135.80 Informações sobre equipamentos de emergência e sobrevivência
+
+  O detentor de certificado deve manter permanentemente disponíveis para comunicação imediata
+  a um centro de coordenação de busca e salvamento, listagens contendo informações sobre os
+  equipamentos de emergência e de sobrevivência existentes a bordo de cada uma de suas aeronaves.
+  Essas informações devem incluir, como aplicável, o número, cor, tipo e capacidade dos botes
+  infláveis e coletes salva-vidas, equipamento pirotécnico de sinalização, detalhes sobre
+  os conjuntos de sobrevivência, de primeiros socorros e de precaução universal, suprimento
+  de água potável, tipos e frequências dos transmissores localizadores de emergência (ELT)
+  portáteis transportados e quaisquer outras informações consideradas relevantes para as operações
+  de busca e salvamento.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- informacoes
+- emergencia
+- sobrevivencia
+- equipamentos
+- busca
+- salvamento
+- aeronaves
+- agua
+- aplicavel
+- bordo
+- botes
+- cada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

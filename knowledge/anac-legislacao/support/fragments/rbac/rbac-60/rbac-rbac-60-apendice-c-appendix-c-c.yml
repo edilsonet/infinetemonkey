@@ -1,0 +1,928 @@
+id: rbac-rbac-60-apendice-c-appendix-c-c
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: apendice-c-appendix-c
+section_title: APÊNDICE C (APPENDIX C)
+subsection_id: c
+cite: apendice-c-appendix-c(c)
+title: apendice-c-appendix-c(c)
+text: '(c) At least one (1) helicopter landing area on a sloped surface where the slope
+
+  is at least 2½°.
+
+  C,D
+
+  The model identifications must
+
+  be acceptable to the ANAC,
+
+  selectable from the IOS, and
+
+  listed on the SOQ.
+
+  7.
+
+  Sound System.
+
+  See next
+
+  None
+
+  7.a.
+
+  The simulator must provide flight deck sounds that result from pilot actions that
+
+  correspond to those that occur in the helicopter.
+
+  B,C,D
+
+  None
+
+  7.b.
+
+  Volume control, if installed, must have an indication of the sound level setting.
+
+  B,C,D
+
+  None
+
+  7.c.
+
+  The simulator must accurately simulate the sound of precipitation, windshield wipers, and
+
+  other significant helicopter noises perceptible to the pilot during normal and abnormal
+
+  operations, and include the sound of a crash (when the simulator is landed in an unusual
+
+  attitude or in excess of the structural gear limitations); normal engine sounds; and the
+
+  sounds of gear extension and retraction.
+
+  An SOC is required.
+
+  C,D
+
+  None
+
+  7.d.
+
+  The simulator must provide realistic amplitude and frequency of flight deck noises and
+
+  sounds. Simulator performance must be recorded, compared to amplitude and frequency
+
+  of the same sounds recorded in the helicopter, and made a part of the QTG.
+
+  D
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table C3 - Table of Tasks vs. Simulator Level - Subjective Requirements
+
+  The simulator must be able to perform the tasks associated with that level of qualification.
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  1.
+
+  Preflight Procedures.
+
+  See next
+
+  None
+
+  1.a.
+
+  Preflight Inspection (Flight deck Only) switches, indicators, systems, and equipment.
+
+  B,C,D
+
+  None
+
+  1.b.
+
+  APU/Engine start and run-up.
+
+  See next
+
+  None
+
+  1.b.1.
+
+  Normal start procedures.
+
+  B,C,D
+
+  None
+
+  1.b.2.
+
+  Alternate start procedures.
+
+  B,C,D
+
+  None
+
+  1.b.3.
+
+  Abnormal starts and shutdowns (hot start, hung start).
+
+  B,C,D
+
+  None
+
+  1.c.
+
+  Taxiing - Ground.
+
+  B,C,D
+
+  None
+
+  1.d.
+
+  Taxiing - Hover.
+
+  B,C,D
+
+  None
+
+  1.e.
+
+  Pre-takeoff Checks.
+
+  B,C,D
+
+  None
+
+  2.
+
+  Takeoff and Departure Phase.
+
+  See next
+
+  None
+
+  2.a.
+
+  Normal takeoff.
+
+  See next
+
+  None
+
+  2.a.1.
+
+  From ground.
+
+  B,C,D
+
+  None
+
+  2.a.2.
+
+  From hover.
+
+  C,D
+
+  None
+
+  2.a.3
+
+  Running.
+
+  B,C,D
+
+  None
+
+  2.b.
+
+  Instrument.
+
+  B,C,D
+
+  None
+
+  2.c.
+
+  Powerplant Failure During Takeoff.
+
+  B,C,D
+
+  None
+
+  2.d.
+
+  Rejected Takeoff.
+
+  B,C,D
+
+  None
+
+  2.e.
+
+  Instrument Departure.
+
+  B,C,D
+
+  None
+
+  3.
+
+  Climb.
+
+  See next
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  3.a.
+
+  Normal.
+
+  B,C,D
+
+  None
+
+  3.b.
+
+  Obstacle clearance.
+
+  B,C,D
+
+  None
+
+  3.c.
+
+  Vertical.
+
+  B,C,D
+
+  None
+
+  3.d.
+
+  One engine inoperative.
+
+  B,C,D
+
+  None
+
+  4.
+
+  In-flight Maneuvers.
+
+  See next
+
+  None
+
+  4.a.
+
+  Turns (timed, normal, steep).
+
+  B,C,D
+
+  None
+
+  4.b.
+
+  Powerplant Failure - Multiengine Helicopters.
+
+  B,C,D
+
+  None
+
+  4.c.
+
+  Powerplant Failure - Single-Engine Helicopters.
+
+  B,C,D
+
+  None
+
+  4.d.
+
+  Recovery From Unusual Attitudes.
+
+  B,C,D
+
+  None
+
+  4.e.
+
+  Settling with Power.
+
+  B,C,D
+
+  None
+
+  4.f.
+
+  Specific Flight Characteristics incorporated into the user’s ANAC approved flight
+
+  training program.
+
+  B(a),C(a),D(a)
+
+  None
+
+  5.
+
+  Instrument Procedures.
+
+  See next
+
+  None
+
+  5.a.
+
+  Instrument Arrival.
+
+  B,C,D
+
+  None
+
+  5.b.
+
+  Holding.
+
+  B,C,D
+
+  None
+
+  5.c.
+
+  Precision Instrument Approach.
+
+  See next
+
+  None
+
+  5.c.1.
+
+  Normal - All engines operating.
+
+  B,C,D
+
+  None
+
+  5.c.2.
+
+  Manually controlled - One or more engines inoperative.
+
+  B,C,D
+
+  None
+
+  5.d.
+
+  Non-precision Instrument Approach.
+
+  B,C,D
+
+  None
+
+  5.e.
+
+  Missed Approach.
+
+  See next
+
+  None
+
+  5.e.1.
+
+  All engines operating.
+
+  B,C,D
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  5.e.2.
+
+  One or more engines inoperative.
+
+  B,C,D
+
+  None
+
+  5.e.3.
+
+  Stability augmentation system failure.
+
+  B,C,D
+
+  None
+
+  6.
+
+  Landings and Approaches to Landings.
+
+  See next
+
+  None
+
+  6.a.
+
+  Visual Approaches (normal, steep, shallow).
+
+  B,C,D
+
+  None
+
+  6.b.
+
+  Landings.
+
+  See next
+
+  None
+
+  6.b.1.
+
+  Normal/crosswind.
+
+  See next
+
+  None
+
+  6.b.1.a.
+
+  Running.
+
+  B,C,D
+
+  None
+
+  6.b.1.b.
+
+  From Hover.
+
+  C,D
+
+  None
+
+  6.b.2.
+
+  One or more engines inoperative.
+
+  B,C,D
+
+  None
+
+  6.b.3.
+
+  Rejected Landing.
+
+  B,C,D
+
+  None
+
+  7.
+
+  Normal and Abnormal Procedures.
+
+  See next
+
+  None
+
+  7.a.
+
+  Powerplant.
+
+  B,C,D
+
+  None
+
+  7.b.
+
+  Fuel System.
+
+  B,C,D
+
+  None
+
+  7.c.
+
+  Electrical System.
+
+  B,C,D
+
+  None
+
+  7.d.
+
+  Hydraulic System.
+
+  B,C,D
+
+  None
+
+  7.e.
+
+  Environmental System(s).
+
+  B,C,D
+
+  None
+
+  7.f.
+
+  Fire Detection and Extinguisher Systems.
+
+  B,C,D
+
+  None
+
+  7.g.
+
+  Navigation and Aviation Systems.
+
+  B,C,D
+
+  None
+
+  7.h.
+
+  Automatic Flight Control System, Electronic Flight Instrument System,
+
+  and Related Subsystems.
+
+  B,C,D
+
+  None
+
+  7.i.
+
+  Flight Control Systems.
+
+  B,C,D
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  7.j.
+
+  Anti-ice and Deice Systems.
+
+  B,C,D
+
+  None
+
+  7.k.
+
+  Aircraft and Personal Emergency Equipment.
+
+  B,C,D
+
+  None
+
+  7.l.
+
+  Special Missions tasks (e.g., Night Vision goggles, Forward Looking Infrared System,
+
+  External Loads and as listed on the SOQ.)
+
+  B(a),C(a),D
+
+  None
+
+  8.
+
+  Emergency procedures (as applicable).
+
+  See next
+
+  None
+
+  8.a.
+
+  Emergency Descent.
+
+  B,C,D
+
+  None
+
+  8.b.
+
+  Inflight Fire and Smoke Removal.
+
+  B,C,D
+
+  None
+
+  8.c.
+
+  Emergency Evacuation.
+
+  B,C,D
+
+  None
+
+  8.d.
+
+  Ditching.
+
+  B,C,D
+
+  None
+
+  8.e.
+
+  Autorotative Landing.
+
+  B,C,D
+
+  None
+
+  8.f.
+
+  Retreating blade stall recovery.
+
+  B,C,D
+
+  None
+
+  8.g.
+
+  Mast bumping.
+
+  B,C,D
+
+  None
+
+  8.h.
+
+  Loss of tail rotor effectiveness.
+
+  B,C,D
+
+  None
+
+  8.i.
+
+  Vortex recovery
+
+  B,C,D
+
+  None
+
+  9.
+
+  Postflight Procedures.
+
+  See next
+
+  None
+
+  9.a
+
+  After-Landing Procedures.
+
+  B,C,D
+
+  None
+
+  9.b.
+
+  Parking and Securing.
+
+  See next
+
+  None
+
+  9.b.1.
+
+  Rotor brake operation.
+
+  B,C,D
+
+  None
+
+  9.b.2.
+
+  Abnormal/emergency procedures.
+
+  B,C,D
+
+  None
+
+  Note: An “(a)” in the table indicates that the system, task, or procedure may be examined
+  if the appropriate aircraft system or control is simulated in the FFS
+
+  and is working properly.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table C4 - Table of Tasks vs. Simulator Level - Subjective Requirements
+
+  The simulator must be able to perform the tasks associated with that level of qualification.
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  1.
+
+  Instructor Operating Station (IOS), as appropriate.
+
+  See next
+
+  None
+
+  1.a.
+
+  Power switch(es).
+
+  B,C,D
+
+  None
+
+  1.b.
+
+  Helicopter conditions.
+
+  B,C,D
+
+  e.g., GW, CG, Fuel loading,
+
+  Systems, Ground. Crew
+
+  1.c.
+
+  Airports / Heliports / Helicopter Landing Areas
+
+  B,C,D
+
+  e.g., Selection, Surface,
+
+  Presets, Lighting controls.
+
+  1.d.
+
+  Environmental controls.
+
+  B,C,D
+
+  e.g., Clouds, Visibility, RVR,
+
+  Temp, Wind, Ice, Snow, Rain,
+
+  and Windshear.
+
+  1.e.
+
+  Helicopter system malfunctions (Insertion / deletion)
+
+  B,C,D
+
+  None
+
+  1.f.
+
+  Locks, Freezes, and Repositioning.
+
+  B,C,D
+
+  None
+
+  2.
+
+  Sound Controls.
+
+  See next
+
+  None
+
+  2.a.
+
+  On / off / adjustment
+
+  B,C,D
+
+  None
+
+  3.
+
+  Motion / Control Loading System.
+
+  See next
+
+  None
+
+  3.a.
+
+  On / off / emergency stop
+
+  B,C,D
+
+  None
+
+  4.
+
+  Observer Seats / Stations.
+
+  See next
+
+  None
+
+  4.a.
+
+  Position / Adjustment / Positive restraint system.
+
+  B,C,D
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.'
+keywords:
+- simuladores
+- treinamento
+- none
+- next
+- simulator
+- system
+- normal
+- flight
+- procedures
+- must
+- helicopter
+- instrument
+- requirements
+- subjective
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

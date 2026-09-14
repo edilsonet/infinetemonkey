@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-93-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: e
+cite: 135.93(e)
+title: 135.93(e)
+text: (e) Arremetida/aproximação perdida. É vedado engajar um piloto automático durante uma
+  arremetida ou uma aproximação perdida a uma altura menor que a altura mínima de engajamento
+  especificada para decolagem e subida inicial estabelecida no parágrafo (b) desta seção.
+  Esta altura mínima de uso do piloto automático não se aplica se a arremetida ou a aproximação
+  perdida for iniciada com o piloto automático engajado. Executar a arremetida ou a aproximação
+  perdida com o piloto automático engajado não pode afetar adversamente a manutenção de separação
+  segura com obstáculos.
+keywords:
+- taxi-aereo
+- operacoes
+- automatico
+- piloto
+- aproximacao
+- arremetida
+- perdida
+- altura
+- engajado
+- minima
+- adversamente
+- afetar
+- altitudes
+- aplica
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

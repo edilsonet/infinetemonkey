@@ -1,0 +1,54 @@
+id: rbac-rbac-155-155-347-y
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: y
+cite: 155.347(y)
+title: 155.347(y)
+text: '(y)
+
+  Onde um estudo aeronáutico indicar que um objeto existente que ultrapasse a superfície de
+  proteção contra obstáculos possa afetar adversamente a segurança das operações dos helicópteros,
+  uma ou mais das seguintes medidas devem ser adotadas, além das demais medidas cabíveis:
+
+  (1)
+
+  aumentar adequadamente a rampa de aproximação do sistema;
+
+  (2)
+
+  reduzir a abertura do azimute do sistema de forma que o objeto fique fora dos limites do
+  feixe;
+
+  (3)
+
+  deslocar o eixo do sistema e a superfície de proteção contra obstáculos correspondente em,
+  no máximo, 5 graus;
+
+  (4)
+
+  deslocar adequadamente a FATO; e
+
+  (5)
+
+  instalar um sistema visual de orientação de alinhamento, conforme seção 155.345.'
+keywords:
+- seguranca-aeroportuaria
+- sistema
+- adequadamente
+- aproximacao
+- contra
+- deslocar
+- medidas
+- objeto
+- obstaculos
+- protecao
+- rampa
+- superficie
+- visual
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

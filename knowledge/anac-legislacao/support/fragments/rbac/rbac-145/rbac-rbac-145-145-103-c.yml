@@ -1,0 +1,41 @@
+id: rbac-rbac-145-145-103-c
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.103'
+section_title: Requisitos para instalações e recursos
+subsection_id: c
+cite: 145.103(c)
+title: 145.103(c)
+text: '(c) Cada organização de manutenção certificada pode executar manutenção, manutenção
+
+  preventiva ou alteração, em áreas externas as suas edificações se ela prover recursos adequados,
+
+  conforme o manual da organização de manutenção aceitável pela ANAC, e atender aos demais
+
+  requisitos do parágrafo (a) desta seção, de modo que o trabalho possa ser feito de acordo
+  com os
+
+  requisitos do RBAC 43.
+
+
+  Data da emissão: 26 de fevereiro de 2021.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- requisitos
+- organizacao
+- recursos
+- aceitavel
+- acordo
+- adequados
+- alteracao
+- areas
+- atender
+- cada
+- certificada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

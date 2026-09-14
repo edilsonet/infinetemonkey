@@ -1,0 +1,36 @@
+id: rbac-rbac-107-107-211-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.211'
+section_title: Programa de Segurança Aeroportuária (PSA)
+subsection_id: b
+cite: 107.211(b)
+title: 107.211(b)
+text: '(b) No PSA devem constar informações gerais do aeródromo e de seu operador, a descrição
+  detalhada da infraestrutura e dos equipamentos de segurança utilizados na AVSEC (tipo, quantidade
+  e localização), as medidas e os procedimentos de segurança empregados no aeródromo, de forma
+  a assegurar que:
+
+  (1) os requisitos deste regulamento sejam cumpridos; e
+
+  (2) na leitura dos procedimentos seja possível esclarecer, no mínimo, os seguintes questionamentos:'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- procedimentos
+- aeroportuaria
+- assegurar
+- avsec
+- constar
+- cumpridos
+- descricao
+- deste
+- detalhada
+- empregados
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

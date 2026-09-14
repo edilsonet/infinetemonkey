@@ -1,0 +1,51 @@
+id: rbac-rbac-91-91-207-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.207'
+section_title: Transmissores localizadores de emergência (ELT) e Personal Locator Beacon (PLB)
+subsection_id: c
+cite: 91.207(c)
+title: 91.207(c)
+text: '(c) As baterias usadas nos ELT requeridos pelo parágrafo (a) desta seção devem ser
+  substituídas
+
+  (ou recarregadas, se forem baterias recarregáveis), e a nova data de substituição (ou recarga)
+  deve ser
+
+  claramente expressa no exterior do ELT ou, no caso de ELT fixos à aeronave, registrada no
+  livro de
+
+  manutenção de bordo, sempre que:
+
+  (1) o ELT tiver sido utilizado por tempo acumulado superior a uma hora; ou
+
+  (2) quando atingidos 50% de sua vida útil (ou vida útil da carga, se baterias recarregáveis),
+
+  como definido nas especificações aprovadas do fabricante. Este parágrafo não se aplica a
+  baterias que
+
+  não sejam significativamente afetadas durante períodos de estocagem (tais como baterias
+  ativadas por
+
+  água).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- baterias
+- paragrafo
+- recarregaveis
+- util
+- vida
+- acumulado
+- aeronave
+- afetadas
+- agua
+- aplica
+- aprovadas
+- atingidos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

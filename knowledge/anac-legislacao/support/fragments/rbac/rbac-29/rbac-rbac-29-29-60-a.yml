@@ -1,0 +1,125 @@
+id: rbac-rbac-29-29-60-a
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.60'
+section_title: is maintained and the descent (loss of height) below the landing surface is
+  determined.
+subsection_id: a
+cite: 29.60(a)
+title: 29.60(a)
+text: '(a)
+
+  The directional controls must operate in such a manner that the sense and direction of motion
+  of the
+
+  rotorcraft following control displacement are in the direction of the pedal motion with
+  throttle and
+
+  collective controls held constant at the trim conditions specified in § 29.175(a), (b),
+  (c), and (d). Sideslip
+
+  angles must increase with steadily increasing directional control deflection for sideslip
+  angles up to the
+
+  lesser of -
+
+  (1)
+
+  ±25 degrees from trim at a speed of 15 knots less than the speed for minimum rate of descent
+
+  varying linearly to ±10 degrees from trim at VNE;
+
+  (2)
+
+  The steady-state sideslip angles established by § 29.351;
+
+  (3)
+
+  A sideslip angle selected by the applicant, which corresponds to a sideforce of at least
+  0.1g; or
+
+  (4)
+
+  The sideslip angle attained by maximum directional control input.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.175(b)(2)
+
+  14 CFR 29.177(a)(4) (enhanced display)
+
+  page 25 of 167
+
+
+  § 29.181 Dynamic stability: Category A rotorcraft.
+
+  Any short-period oscillation occurring at any speed from VY to VNE must be positively damped
+  with the primary flight
+
+  controls free and in a fixed position.
+
+  GROUND AND WATER HANDLING CHARACTERISTICS
+
+  § 29.231 General.
+
+  The rotorcraft must have satisfactory ground and water handling characteristics, including
+  freedom from
+
+  uncontrollable tendencies in any condition expected in operation.
+
+  § 29.235 Taxiing condition.
+
+  The rotorcraft must be designed to withstand the loads that would occur when the rotorcraft
+  is taxied over the
+
+  roughest ground that may reasonably be expected in normal operation.
+
+  § 29.239 Spray characteristics.
+
+  If certification for water operation is requested, no spray characteristics during taxiing,
+  takeoff, or landing may
+
+  obscure the vision of the pilot or damage the rotors, propellers, or other parts of the
+  rotorcraft.
+
+  § 29.241 Ground resonance.
+
+  The rotorcraft may have no dangerous tendency to oscillate on the ground with the rotor
+  turning.
+
+  MISCELLANEOUS FLIGHT REQUIREMENTS
+
+  § 29.251 Vibration.
+
+  Each part of the rotorcraft must be free from excessive vibration under each appropriate
+  speed and power
+
+  condition.
+
+  Subpart C - Strength Requirements
+
+  GENERAL
+
+  § 29.301 Loads.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- must
+- from
+- ground
+- sideslip
+- characteristics
+- speed
+- with
+- angles
+- condition
+- control
+- controls
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

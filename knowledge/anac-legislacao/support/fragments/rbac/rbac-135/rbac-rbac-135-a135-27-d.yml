@@ -1,0 +1,32 @@
+id: rbac-rbac-135-a135-27-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.27
+section_title: Equipamentos e sistemas elétricos
+subsection_id: d
+cite: A135.27(d)
+title: A135.27(d)
+text: (d) Dispositivos protetores de circuito. Os dispositivos protetores dos circuitos elétricos
+  do avião devem atender ao previsto no RBAC nº 23 e, em adição, os circuitos para cargas
+  que sejam essenciais à segurança das operações devem possuir proteção individual e exclusiva.
+keywords:
+- taxi-aereo
+- operacoes
+- circuitos
+- dispositivos
+- eletricos
+- protetores
+- a135
+- adicao
+- atender
+- aviao
+- cargas
+- circuito
+- equipamentos
+- essenciais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

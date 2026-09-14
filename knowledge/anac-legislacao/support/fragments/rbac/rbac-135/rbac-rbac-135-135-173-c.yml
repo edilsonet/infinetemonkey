@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-173-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.173'
+section_title: Requisitos para equipamentos de detecção de trovoadas
+subsection_id: c
+cite: 135.173(c)
+title: 135.173(c)
+text: '(c)
+
+  Somente é permitido iniciar um voo a ser conduzido em condições IMC ou noturnas quando informações
+  meteorológicas indicarem que existem razoáveis probabilidades de que trovoadas ou outras
+  condições atmosféricas potencialmente perigosas, que podem ser detectadas pelos equipamentos
+  de detecção de trovoadas de bordo requeridos pelos parágrafos (a) ou (b) desta seção, ocorram
+  ao longo da rota a ser voada, se o equipamento de detecção instalado estiver em condições
+  satisfatórias de funcionamento
+
+  .
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- condicoes
+- deteccao
+- trovoadas
+- equipamentos
+- pelos
+- atmosfericas
+- bordo
+- conduzido
+- dada
+- desta
+- detectadas
+- equipamento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

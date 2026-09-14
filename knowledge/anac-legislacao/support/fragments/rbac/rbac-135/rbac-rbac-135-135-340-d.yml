@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-340-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.340'
+section_title: 'Treinamento inicial, de transição e exame: instrutor de voo em aeronave e
+  instrutor de voo em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: d
+cite: 135.340(d)
+title: 135.340(d)
+text: (d) O treinamento de solo de transição para instrutores de voo deve incluir métodos,
+  procedimentos e limitações aprovados para desempenhar os procedimentos normais, anormais
+  e de emergência requeridos aplicáveis para o tipo, classe ou categoria da aeronave para
+  a qual o instrutor de voo está em transição.
+keywords:
+- taxi-aereo
+- operacoes
+- instrutor
+- transicao
+- treinamento
+- aeronave
+- procedimentos
+- anormais
+- aplicaveis
+- aprovado
+- aprovados
+- categoria
+- classe
+- desempenhar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

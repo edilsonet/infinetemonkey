@@ -1,0 +1,32 @@
+id: rbac-rbac-141-141-27-b
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.27'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: b
+cite: 141.27(b)
+title: 141.27(b)
+text: '(b) O SGSO deve estar descrito em um MGSO. O SGSO deve conter a seguinte estrutura:
+
+  (1) política e objetivos de segurança operacional:'
+keywords:
+- escolas
+- treinamento
+- sgso
+- operacional
+- seguranca
+- conter
+- descrito
+- estar
+- estrutura
+- gerenciamento
+- mgso
+- objetivos
+- politica
+- seguinte
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

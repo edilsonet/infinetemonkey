@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-205-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.205'
+section_title: Execução de manutenção, manutenção preventiva ou alteração para detentor de
+subsection_id: a
+cite: 145.205(a)
+title: 145.205(a)
+text: '(a) Cada organização de manutenção certificada que execute manutenção, manutenção
+
+  preventiva ou alteração para um detentor de certificado segundo os RBAC 121 ou 135 que tem
+  um
+
+  programa de manutenção de aeronavegabilidade continuada segundo esses regulamentos deve
+
+  seguir o programa desse operador e as seções aplicáveis dos seus manuais.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- alteracao
+- detentor
+- preventiva
+- programa
+- segundo
+- aeronavegabilidade
+- aplicaveis
+- cada
+- certificada
+- certificado
+- continuada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

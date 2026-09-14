@@ -1,0 +1,28 @@
+id: rbac-rbac-135-135-145-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.145'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: g
+cite: 135.145(g)
+title: 135.145(g)
+text: (g) Testes de validação e voos de avaliação operacional podem ser realizados simultaneamente
+  quando apropriado.
+keywords:
+- taxi-aereo
+- operacoes
+- avaliacao
+- operacional
+- testes
+- validacao
+- voos
+- apropriado
+- podem
+- realizados
+- simultaneamente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-155-155-209-c
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.209'
+section_title: '155.209'
+subsection_id: c
+cite: 155.209(c)
+title: 155.209(c)
+text: '(c)
+
+  O entorno da FATO deve ser protegido por uma superfície plana inclinada em 45º ascendente,
+  iniciando-se na borda da área de segurança e prolongando-se a 10 m da mesma, conforme Figura
+  155.209-2. Esta superfície plana não pode ser penetrada por obstáculos, exceto quando localizados
+  em apenas uma das laterais da FATO.
+
+  Figura 155.209-2 - Ramp
+
+  a
+
+  lateral protegida além da área de segurança.'
+keywords:
+- seguranca-aeroportuaria
+- area
+- fato
+- figura
+- plana
+- seguranca
+- superficie
+- alem
+- ascendente
+- borda
+- entorno
+- exceto
+- inclinada
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

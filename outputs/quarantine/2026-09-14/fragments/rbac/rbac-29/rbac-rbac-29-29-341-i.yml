@@ -1,0 +1,72 @@
+id: rbac-rbac-29-29-341-i
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.341'
+section_title: 'and 29.351:'
+subsection_id: i
+cite: 29.341(i)
+title: 29.341(i)
+text: '(i)
+
+  A system to control the charging rate of the battery automatically so as to prevent battery
+
+  overheating;
+
+  (ii)
+
+  A battery temperature sensing and over-temperature warning system with a means for
+
+  disconnecting the battery from its charging source in the event of an over-temperature
+
+  condition; or
+
+  (iii)
+
+  A battery failure sensing and warning system with a means for disconnecting the battery
+  from
+
+  its charging source in the event of battery failure.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.1353
+
+  14 CFR 29.1353(c)(6)(iii) (enhanced display)
+
+  page 127 of 167
+
+
+  § 29.1355 Distribution system.
+
+  (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a),
+  1421, 1423, 1424, and
+
+  1425); and sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))
+
+  § 29.1357 Circuit protective devices.
+
+  § 29.1359 Electrical system fire and smoke protection.
+
+  § 29.1363 Electrical system tests.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- battery
+- system
+- charging
+- temperature
+- disconnecting
+- electrical
+- event
+- failure
+- from
+- means
+- over
+- sensing
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

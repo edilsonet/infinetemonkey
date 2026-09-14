@@ -1,0 +1,48 @@
+id: rbac-rbac-23-23-2120-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2120'
+section_title: Requisitos de subida.
+subsection_id: c
+cite: 23.2120(c)
+title: 23.2120(c)
+text: '(c) For a balked landing, a climb gradient of 3
+
+  percent without creating undue pilot workload
+
+  with the landing gear extended and flaps in the
+
+  landing configuration(s).
+
+  (3) Para aviões nível 3 de alta velocidade e
+
+  todos os aviões de nível 4, um gradiente de
+
+  subida de 2 por cento a 400 pés (122 metros)
+
+  acima da superfície de decolagem com o trem
+
+  de pouso retraído e flapes na(s) configura-
+
+  ção(ões) de aproximação.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- landing
+- avioes
+- nivel
+- subida
+- acima
+- alta
+- aproximacao
+- balked
+- cento
+- climb
+- configura
+- configuration
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-155-155-225-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.225'
+section_title: '155.225'
+subsection_id: a
+cite: 155.225(a)
+title: 155.225(a)
+text: '(a)
+
+  É obrigatória a instalação de grades ou redes de segurança em helipontos elevados quando:
+
+  (1)
+
+  a distância entre o perímetro de uma FATO e o perímetro da edificação for inferior a 1,5
+  m. A exigência da instalação da grade ou rede de segurança é requerida apenas no(s) trecho(s)
+  onde for aplicável; ou
+
+  (2)
+
+  a diferença entre as elevações da FATO e da edificação no seu entorno for igual ou superior
+  a 1,5 m. A exigência da instalação da grade ou rede de segurança é requerida apenas no(s)
+  trecho(s) onde aplicável.'
+keywords:
+- seguranca-aeroportuaria
+- instalacao
+- seguranca
+- aplicavel
+- edificacao
+- exigencia
+- fato
+- grade
+- perimetro
+- rede
+- requerida
+- trecho
+- diferenca
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

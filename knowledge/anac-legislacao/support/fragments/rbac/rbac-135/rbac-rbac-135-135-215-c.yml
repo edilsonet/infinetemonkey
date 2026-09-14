@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-215-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.215'
+section_title: 'Voo IFR: limitações operacionais'
+subsection_id: c
+cite: 135.215(c)
+title: 135.215(c)
+text: '(c) O operador pode operar uma aeronave em voo IFR fora do espaço aéreo controlado,
+  se tiver aprovação para essa operação e se essa operação for necessária para:
+
+  (1) realizar uma aproximação por instrumentos a um aeródromo para o qual esteja aprovado
+  e em uso um procedimento de aproximação por instrumentos atualizado padrão ou especial;
+
+  (2) subir até o espaço aéreo controlado durante um procedimento de aproximação perdida aprovado;
+  ou
+
+  (3) realizar uma saída IFR a partir de um aeródromo que tenha um procedimento de aproximação
+  por instrumentos aprovado.'
+keywords:
+- taxi-aereo
+- operacoes
+- aproximacao
+- aprovado
+- instrumentos
+- procedimento
+- aereo
+- aerodromo
+- controlado
+- espaco
+- operacao
+- realizar
+- aeronave
+- aprovacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

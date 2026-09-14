@@ -1,0 +1,59 @@
+id: rbac-rbac-90-90-323-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.323'
+section_title: 'Lançamento de objetos: condições especiais para lançamento de geradores de
+  fumaça e similares'
+subsection_id: a
+cite: 90.323(a)
+title: 90.323(a)
+text: '(a) São requisitos para operação com geradores de fumaça e similares:
+
+  (1) que a ativação do gerador de fumaça ou similar seja realizada na parte de fora do helicóptero,
+  de maneira que, na ocorrência de um lançamento ou queda acidental, o referido equipamento
+  não cause danos à aeronave, tripulação, pessoas com função a bordo e terceiros;
+
+  (2) que esteja sob VMC;
+
+  (3) que seja previamente coordenado com o piloto em comando;
+
+  (4) que a tripulação e outras pessoas com função a bordo estejam treinadas para este tipo
+  de operação;
+
+  (5) que somente os envolvidos na operação estejam a bordo;
+
+  (6) que haja uma avaliação quanto à natureza do terreno onde o objeto será lançado;
+
+  (7) que a porta de acesso à cabine do helicóptero tenha sido removida ou que o helicóptero
+  disponha de portas deslizantes conforme previsto no AFM. É vedado o lançamento de objetos
+  com helicópteros que disponham de portas de acesso com dobradiças ou similares;
+
+  (8) que o risco de impacto do rotor principal e do rotor de cauda seja mitigado;
+
+  (9) que esteja em conformidade com os SOP e o MOP da UAP;
+
+  (10) que o operador aerotático ou responsável pelo lançamento mantenha comunicação rádio
+  direta com o piloto em comando; e
+
+  (11) que outros procedimentos definidos pela UAP sejam observados.'
+keywords:
+- regras-de-voo
+- operacoes
+- lancamento
+- bordo
+- fumaca
+- helicoptero
+- operacao
+- seja
+- similares
+- acesso
+- comando
+- esteja
+- estejam
+- funcao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-379-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.379'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de decolagem'
+subsection_id: f
+cite: 135.379(f)
+title: 135.379(f)
+text: (f) Para o propósito desta seção, é assumido que o avião não é inclinado antes de alcançar
+  uma altura de 50 pés, como mostrado pela trajetória de decolagem ou nos dados da trajetória
+  líquida de decolagem (como apropriado) no manual de voo do avião e que após a inclinação
+  máxima não é superior a 15°.
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- aviao
+- trajetoria
+- alcancar
+- altura
+- apropriado
+- assumido
+- avioes
+- categoria
+- dados
+- desta
+- grandes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-133-133-35-a
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.35'
+section_title: Transporte de pessoas
+subsection_id: a
+cite: 133.35(a)
+title: 133.35(a)
+text: '(a) Nenhum detentor de autorização para operação com carga externa pode permitir que
+  uma
+
+  pessoa seja transportada em uma operação com carga externa, a menos que essa pessoa:
+
+  (1) seja um dos tripulantes de voo da aeronave;
+
+  (2) seja um tripulante de voo em treinamento;
+
+  (3) execute a bordo uma função essencial relativa à operação em curso; ou
+
+  (4) seja necessária para realizar um trabalho diretamente associado à operação.'
+keywords:
+- carga-externa
+- helicoptero
+- operacao
+- seja
+- carga
+- externa
+- pessoa
+- aeronave
+- associado
+- autorizacao
+- bordo
+- curso
+- detentor
+- diretamente
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

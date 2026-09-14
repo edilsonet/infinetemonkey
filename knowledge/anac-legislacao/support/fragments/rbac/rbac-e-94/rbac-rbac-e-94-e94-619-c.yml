@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-619-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.619
+section_title: Pesagem e balanceamento de RPA Classe 1
+subsection_id: c
+cite: E94.619(c)
+title: E94.619(c)
+text: (c) A ficha de peso e balanceamento de uma aeronave deve ser recalculada sempre que
+  a aeronave sofrer alteração por remoção, instalação ou mudança de posição de equipamentos,
+  acessórios etc.
+keywords:
+- aeronave
+- balanceamento
+- acessorios
+- alteracao
+- classe
+- equipamentos
+- ficha
+- instalacao
+- mudanca
+- pesagem
+- peso
+- posicao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

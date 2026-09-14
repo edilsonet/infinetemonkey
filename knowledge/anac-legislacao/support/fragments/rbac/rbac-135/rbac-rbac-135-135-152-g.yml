@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-152-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: g
+cite: 135.152(g)
+title: 135.152(g)
+text: (g) Cada gravador de dados de voo requerido por esta seção, que grave os dados especificados
+  nos parágrafos (a) e (b) desta seção, deve possuir um dispositivo aprovado que facilite
+  a localização do gravador quando submerso.
+keywords:
+- taxi-aereo
+- operacoes
+- dados
+- gravador
+- secao
+- aprovado
+- cada
+- desta
+- dispositivo
+- especificados
+- facilite
+- gravadores
+- grave
+- localizacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-101-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.101'
+section_title: Serviços de informações meteorológicas
+subsection_id: a
+cite: 121.101(a)
+title: 121.101(a)
+text: (a) Cada detentor de certificado conduzindo operações regulares deve demonstrar que
+  ao longo de cada rota existem suficientes serviços de informações meteorológicas de modo
+  a assegurar um mínimo de informes e previsões meteorológicos necessários à operação, exceto
+  se de outra forma previsto pela ANAC.
+keywords:
+- transporte-aereo
+- operacoes
+- cada
+- informacoes
+- meteorologicas
+- servicos
+- assegurar
+- certificado
+- conduzindo
+- demonstrar
+- detentor
+- exceto
+- existem
+- forma
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

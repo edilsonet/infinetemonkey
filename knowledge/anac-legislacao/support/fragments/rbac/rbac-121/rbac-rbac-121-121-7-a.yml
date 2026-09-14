@@ -1,0 +1,39 @@
+id: rbac-rbac-121-121-7-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.7'
+section_title: Definições
+subsection_id: a
+cite: 121.7(a)
+title: 121.7(a)
+text: '(a)
+
+  Aeródromo Adequado
+
+  significa um aeródromo listado nas especificações operativas de um detentor de certificado,
+  aprovado pela ANAC, que atende as limitações para pouso da seção 121.197 e também:
+
+  (1) [reservado];
+
+  (2) um aeródromo militar ativo e operacional;'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- adequado
+- aprovado
+- atende
+- ativo
+- certificado
+- definicoes
+- detentor
+- especificacoes
+- limitacoes
+- listado
+- militar
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

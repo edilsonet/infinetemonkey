@@ -1,0 +1,54 @@
+id: rbac-rbac-29-29-60-d
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.60'
+section_title: is maintained and the descent (loss of height) below the landing surface is
+  determined.
+subsection_id: d
+cite: 29.60(d)
+title: 29.60(d)
+text: '(d)
+
+  Wind velocities from zero to at least 17 knots, from all azimuths, must be established in
+  which the
+
+  rotorcraft can be operated without loss of control out-of-ground effect, with -
+
+  (1)
+
+  Weight selected by the applicant;
+
+  (2)
+
+  Critical center of gravity;
+
+  (3)
+
+  Rotor r.p.m. selected by the applicant; and
+
+  (4)
+
+  Altitude, from standard sea level conditions to the maximum takeoff and landing altitude
+  capability
+
+  of the rotorcraft.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- from
+- altitude
+- applicant
+- landing
+- loss
+- selected
+- azimuths
+- below
+- capability
+- center
+- conditions
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

@@ -1,0 +1,46 @@
+id: rbac-rbac-107-107-185-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.185'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: c
+cite: 107.185(c)
+title: 107.185(c)
+text: '(c) Na execução das auditorias internas o operador de aeródromo deve observar as seguintes
+  disposições:
+
+  (1) o escopo da auditoria interna deve englobar todos os requisitos AVSEC aplicáveis ao
+  operador de aeródromo nos termos da regulamentação vigente e do PSA aprovado pela ANAC;
+
+  (2) a auditoria deve abranger tanto as medidas e procedimentos operacionalizados pelo próprio
+  operador de aeródromo quanto os operacionalizados por terceiros vinculados ao aeródromo,
+  tais como empresas contratadas e exploradores de áreas aeroportuárias;
+
+  (3) a auditoria deve ser conduzida por Auditor(es) AVSEC que não realize(m) atividade operacional
+  AVSEC sob responsabilidade do operador de aeródromo no aeródromo auditado; e
+
+  (4) a auditoria deve incluir, no mínimo, entrevistas com os profissionais responsáveis por
+  AVSEC, profissionais envolvidos diretamente na execução dos procedimentos de segurança,
+  além das verificações de documentos e procedimentos descritos no PSA e na regulamentação
+  vigente.'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- avsec
+- auditoria
+- operador
+- procedimentos
+- execucao
+- operacionalizados
+- profissionais
+- regulamentacao
+- vigente
+- abranger
+- aeroportuarias
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

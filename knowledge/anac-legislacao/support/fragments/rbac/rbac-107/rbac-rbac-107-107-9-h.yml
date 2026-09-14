@@ -1,0 +1,30 @@
+id: rbac-rbac-107-107-9-h
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.9'
+section_title: Classificações dos Aeródromos
+subsection_id: h
+cite: 107.9(h)
+title: 107.9(h)
+text: (h) O operador de aeródromo que deixar de atender operações que o classifiquem como
+  AP-1, AP-2 ou AP-3, pode solicitar reclassificação à ANAC.
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- aerodromos
+- atender
+- classificacoes
+- classifiquem
+- deixar
+- operacoes
+- operador
+- pode
+- reclassificacao
+- solicitar
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-25-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.25'
+section_title: Requisitos das aeronaves
+subsection_id: a
+cite: 135.25(a)
+title: 135.25(a)
+text: '(a) Um detentor de certificado somente pode operar uma aeronave segundo este Regulamento
+  se essa aeronave:
+
+  (1) for registrada como aeronave civil no Registro Aeronáutico Brasileiro e transporte um
+  certificado de aeronavegabilidade apropriado e válido, emitido segundo os RBAC aplicáveis,
+  e
+
+  (2) estiver em condições aeronavegáveis e atender aos requisitos aplicáveis de aeronavegabilidade
+  dos RBAC, inclusive aqueles relativos à identificação e equipamentos.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- aeronavegabilidade
+- aplicaveis
+- certificado
+- requisitos
+- segundo
+- aeronautico
+- aeronavegaveis
+- aeronaves
+- apropriado
+- aqueles
+- atender
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

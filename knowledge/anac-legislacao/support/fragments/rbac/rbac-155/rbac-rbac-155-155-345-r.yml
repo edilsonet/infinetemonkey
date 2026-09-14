@@ -1,0 +1,128 @@
+id: rbac-rbac-155-155-345-r
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.345'
+section_title: '155.345'
+subsection_id: r
+cite: 155.345(r)
+title: 155.345(r)
+text: '(r)
+
+  As unidades de luz devem ser projetadas de modo que depósitos de condensação, gelo, poeira,
+  etc. sobre as superfícies ópticas transmissoras ou refletoras não interfiram no sinal luminoso
+  e não causem sinais adulterados ou falsos.
+
+  Tabela 155.345-1 - Dimensões e rampas da superfície de proteção contra obstáculos
+
+  SUPERFÍCIE E DIMENSÕES
+
+  FATO operação
+
+  não instrumento
+
+  FATO operação
+
+  não-precisão
+
+  Comprimento da borda interna
+
+  Largura da área de segurança
+
+  Largura da área de segurança
+
+  Distância da extremidade da FATO
+
+  3m mínimo
+
+  60 m
+
+  Divergência
+
+  10%
+
+  15%
+
+  Comprimento total
+
+  2500m
+
+  2500m
+
+  Rampa
+
+  PAPI
+
+  A
+
+  a
+
+  - 0,57°
+
+  PAPI
+
+  A
+
+  a
+
+  - 0,57°
+
+  HAPI
+
+  A
+
+  b
+
+  - 0,65°
+
+  HAPI
+
+  A
+
+  b
+
+  - 0,65°
+
+  APAPI
+
+  A
+
+  a
+
+  - 0,9°
+
+  APAPI
+
+  A
+
+  a
+
+  - 0,9°
+
+  a. Conforme indicado na Figura D-18 do RBAC 154.
+
+  b. Ângulo do limite superior do sinal de “abaixo da rampa”.
+
+  Figura 155.345-2 - Su
+
+  perfície de proteção contra obstáculos para
+
+  sistema indicador visual de rampa de aproximação'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- rampa
+- 2500m
+- apapi
+- area
+- comprimento
+- contra
+- dimensoes
+- figura
+- hapi
+- largura
+- obstaculos
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

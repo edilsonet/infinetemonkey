@@ -1,0 +1,52 @@
+id: rbac-rbac-137-137-521-b
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.521'
+section_title: Diário de bordo
+subsection_id: b
+cite: 137.521(b)
+title: 137.521(b)
+text: '(b) O diário de bordo deve conter as informações requeridas pelo art. 4º e incisos
+  da Resolução nº 457, de 20 de dezembro de 2017, conforme aplicáveis à operação, exceto os
+  incisos I, V, VII e IX, as quais deverão ser substituídos pelas informações a seguir:
+
+  (1) número sequencial cronológico que identifique o registro daquela jornada ou etapa de
+  jornada;
+
+  (2) número de pousos da jornada ou etapa de jornada, para aeronaves que utilizam controle
+  de pousos;
+
+  (3) número de ciclos dos motores, para aeronaves que utilizam controle de ciclos;
+
+  (4) horário do último corte da jornada ou etapa de jornada;
+
+  (5) total de combustível consumido por jornada ou etapa de jornada;
+
+  (6) se a aeronave for compartilhada com mais de um operador, um campo que indique o operador
+  responsável pela jornada;
+
+  (7) quantidade de pessoas a bordo, se a aeronave for certificada para mais de 1 (uma) pessoa;
+  e
+
+  (8) o tempo de voo dentro da jornada, se diferente do tempo da jornada.'
+keywords:
+- aeroagricola
+- operacoes
+- jornada
+- etapa
+- bordo
+- numero
+- aeronave
+- aeronaves
+- ciclos
+- controle
+- diario
+- incisos
+- informacoes
+- operador
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

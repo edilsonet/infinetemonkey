@@ -1,0 +1,43 @@
+id: rbac-rbac-36-b36-8-f
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: B36.8
+section_title: B36.8
+subsection_id: f
+cite: B36.8(f)
+title: B36.8(f)
+text: '(f) If equivalent test procedures diferent from the reference procedures are used,
+  the test procedures
+
+  and al methods for adj
+
+  usting the results to the reference procedures must be aproved by the FA.
+
+  The adjustments may not exced 16 EPNdB on takeof and 8 EPNdB on aproach. If the
+
+  adjustment is more than 8 EPNdB on takeof, or more than 4 EPNdB on aproach, the resulting
+
+  numbe
+
+  rs must be more than 2 EPNdB below the limit noise levels specified in section B36.5.'
+keywords:
+- ruido
+- meio-ambiente
+- epndb
+- procedures
+- more
+- than
+- aproach
+- must
+- reference
+- takeof
+- test
+- adjustment
+- adjustments
+- aproved
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

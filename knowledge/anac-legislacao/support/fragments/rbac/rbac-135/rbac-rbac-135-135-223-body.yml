@@ -1,0 +1,19 @@
+id: rbac-rbac-135-135-223-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.223'
+section_title: Autonomia para voo IFR
+subsection_id: body
+cite: '135.223'
+title: Autonomia para voo IFR
+text: 135.223 Autonomia para voo IFR
+keywords:
+- taxi-aereo
+- operacoes
+- autonomia
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

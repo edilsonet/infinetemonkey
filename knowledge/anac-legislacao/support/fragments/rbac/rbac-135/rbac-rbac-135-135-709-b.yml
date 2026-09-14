@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-709-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.709'
+section_title: Garantia da segurança operacional
+subsection_id: b
+cite: 135.709(b)
+title: 135.709(b)
+text: '(b) Processo de gerenciamento de mudanças.
+
+  (1) O detentor de certificado deve desenvolver e manter um processo para identificar alterações
+  que podem afetar o nível de risco à segurança operacional de seus produtos ou serviços e
+  para identificar e gerenciar os riscos à segurança operacional que podem surgir a partir
+  dessas mudanças.'
+keywords:
+- taxi-aereo
+- operacoes
+- operacional
+- seguranca
+- identificar
+- mudancas
+- podem
+- processo
+- afetar
+- alteracoes
+- certificado
+- desenvolver
+- dessas
+- detentor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-189-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.189'
+section_title: 'Aviões com motores a turbina: limitações de decolagem'
+subsection_id: a
+cite: 121.189(a)
+title: 121.189(a)
+text: (a) Ninguém pode decolar com um avião com motores a turbina com um peso maior que o
+  peso previsto no Manual de Voo do Avião (AFM) para a altitude do aeródromo e para a temperatura
+  ambiente existente na decolagem.
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- decolagem
+- motores
+- peso
+- turbina
+- aerodromo
+- altitude
+- ambiente
+- avioes
+- decolar
+- existente
+- limitacoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-415-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: d
+cite: 135.415(d)
+title: 135.415(d)
+text: '(d) O detentor de certificado deve apresentar cada relatório requerido por esta seção,
+  cobrindo o período de 24 horas com início às 9 horas local de cada dia até as 9 horas local
+  do dia seguinte, para um ponto central de coleta determinado pela ANAC. Cada relatório de
+  ocorrências cobrindo um período de 24 horas deve ser apresentado à ANAC dentro das 96 horas
+  seguintes ao período relatado, descontadas as horas de dias não úteis. Uma cópia desse relatório
+  deve ser apresentada ao detentor do projeto de tipo dentro do mesmo prazo.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- horas
+- relatorio
+- cada
+- periodo
+- cobrindo
+- dentro
+- detentor
+- local
+- apresentada
+- apresentado
+- apresentar
+- central
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

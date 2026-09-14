@@ -1,0 +1,32 @@
+id: rbac-rbac-137-137-201-c
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.201'
+section_title: Requisitos para operação
+subsection_id: c
+cite: 137.201(c)
+title: 137.201(c)
+text: (c) Toda aeronave deve ser equipada com dispositivo de alijamento de carga, capaz de
+  alijar, em emergência, pelo menos metade da carga máxima em estado líquido aprovada para
+  a aeronave, no tempo de 5 (cinco) segundos, se monomotor, e 10 (dez) segundos, se multimotor.
+keywords:
+- aeroagricola
+- operacoes
+- aeronave
+- carga
+- segundos
+- alijamento
+- alijar
+- aprovada
+- capaz
+- cinco
+- dispositivo
+- emergencia
+- equipada
+- estado
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

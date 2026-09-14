@@ -1,0 +1,46 @@
+id: rbac-rbac-107-107-23-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.23'
+section_title: Operação e Manutenção de Equipamentos de Segurança
+subsection_id: a
+cite: 107.23(a)
+title: 107.23(a)
+text: '(a) O operador de aeródromo deve manter os equipamentos em condições normais de operação,
+  observando os requisitos deste regulamento e as recomendações dos fabricantes dos equipamentos.
+
+  (1) Na operação dos equipamentos devem ser observados aspectos gerais sobre fatores humanos,
+  de forma que as limitações de atuação dos profissionais não contribuam para o cometimento
+  de erros que prejudiquem o sistema de segurança.
+
+  (2) Na eventual indisponibilidade de equipamentos de inspeção, o operador do aeródromo deve
+  impedir o acesso de pessoas e objetos às áreas restritas de segurança até que se adote meios
+  alternativos para garantir a continuidade do processo de inspeção.
+
+  (3) A garantia das condições normais de operação deve ser buscada, através de um programa
+  de manutenção preventiva que inclua procedimentos alternativos em caso de falhas.
+
+  (4) Em situação de emergência, o operador de aeródromo deve manter em condição de prontidão
+  operacional permanente os recursos humanos e materiais, para atuar sob a coordenação do
+  Centro de Operações de Emergência (COE), que sejam necessários para garantir a manutenção
+  corretiva dos equipamentos.'
+keywords:
+- seguranca
+- aeroporto
+- equipamentos
+- operacao
+- aerodromo
+- manutencao
+- operador
+- alternativos
+- condicoes
+- emergencia
+- garantir
+- humanos
+- inspecao
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

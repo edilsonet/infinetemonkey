@@ -1,0 +1,29 @@
+id: rbac-rbac-90-90-133-v
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.133'
+section_title: Estrutura
+subsection_id: v
+cite: 90.133(v)
+title: 90.133(v)
+text: '(v) Elemento 1.5 - Documentação do SGSO;
+
+  (2) Componente 2 - Gerenciamento de riscos à segurança operacional:'
+keywords:
+- regras-de-voo
+- operacoes
+- componente
+- documentacao
+- elemento
+- estrutura
+- gerenciamento
+- operacional
+- riscos
+- seguranca
+- sgso
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

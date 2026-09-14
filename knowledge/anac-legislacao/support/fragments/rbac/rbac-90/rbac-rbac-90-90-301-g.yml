@@ -1,0 +1,35 @@
+id: rbac-rbac-90-90-301-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.301'
+section_title: Requisitos gerais para pouso ou decolagem em local não cadastrado pela ANAC
+subsection_id: g
+cite: 90.301(g)
+title: 90.301(g)
+text: '(g) O piloto em comando deverá evitar voos prolongados dentro da área de restrição
+  imposta pelo diagrama altura
+
+  versus
+
+  velocidade (curva do homem morto) previsto no AFM do helicóptero.'
+keywords:
+- regras-de-voo
+- operacoes
+- altura
+- area
+- cadastrado
+- comando
+- curva
+- decolagem
+- dentro
+- devera
+- diagrama
+- evitar
+- gerais
+- helicoptero
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

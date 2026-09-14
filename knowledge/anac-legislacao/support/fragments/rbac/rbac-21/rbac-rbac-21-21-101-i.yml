@@ -1,0 +1,43 @@
+id: rbac-rbac-21-21-101-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.101'
+section_title: Determinação dos requisitos aplicáveis
+subsection_id: i
+cite: 21.101(i)
+title: 21.101(i)
+text: '(i) a configuração geral ou princípio de construção não são mantidos;
+
+  (ii) as hipóteses adotadas para a certificação do produto a ser modificado não permanecem
+  válidas;
+
+  (2) cada área, sistema, componente, equipamento ou aparelho que a ANAC considere não afetado
+  pela modificação;
+
+  (3) cada área, sistema, componente, equipamento ou aparelho que é afetado pela modificação,
+  para o qual a ANAC considere que o cumprimento com o regulamento mencionado no parágrafo
+  (a) desta seção não contribuiria significativamente para o nível de segurança do produto
+  modificado ou seria impraticável.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- afetado
+- aparelho
+- area
+- cada
+- componente
+- considere
+- equipamento
+- modificacao
+- modificado
+- produto
+- sistema
+- adotadas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

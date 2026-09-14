@@ -1,0 +1,35 @@
+id: rbac-rbac-031-31-1-b
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.1'
+section_title: Aplicabilidade.
+subsection_id: b
+cite: 31.1(b)
+title: 31.1(b)
+text: '(b) Qualquer pessoa que requeira, sob o
+
+  RBAC 21, um certificado de tipo ou modifica-
+
+  ção deste, deve demonstrar cumprimento com os
+
+  requisitos aplicáveis deste RBAC.'
+keywords:
+- aeronavegabilidade
+- baloes
+- deste
+- aplicabilidade
+- aplicaveis
+- certificado
+- cumprimento
+- demonstrar
+- modifica
+- pessoa
+- requeira
+- requisitos
+- tipo
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

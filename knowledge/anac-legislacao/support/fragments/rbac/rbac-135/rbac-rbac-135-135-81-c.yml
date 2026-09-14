@@ -1,0 +1,27 @@
+id: rbac-rbac-135-135-81-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.81'
+section_title: Informações operacionais e suas alterações
+subsection_id: c
+cite: 135.81(c)
+title: 135.81(c)
+text: (c) manuais de equipamentos da aeronave e manual de voo da aeronave ou equivalentes;
+  e
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- alteracoes
+- equipamentos
+- equivalentes
+- informacoes
+- manuais
+- manual
+- operacionais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

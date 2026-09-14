@@ -1,0 +1,50 @@
+id: rbac-rbac-035-35-39-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.39'
+section_title: '35.39'
+subsection_id: a
+cite: 35.39(a)
+title: 35.39(a)
+text: '(a) Fixed-pitch and ground adjustable-pitch
+
+  propellers must be subjected to one of the fol-
+
+  lowing tests:
+
+  (1) a 50-hour flight test in level flight or in
+
+  climb. The propeller must be operated at takeoff
+
+  power and rated rotational speed during at least
+
+  five hours of this flight test, and at not less than
+
+  90 percent of the rated rotational speed for the
+
+  remainder of the 50 hours; or
+
+  (2) a 50-hour ground test at takeoff power
+
+  and rated rotational speed.'
+keywords:
+- helices
+- aeronavegabilidade
+- flight
+- rated
+- rotational
+- speed
+- test
+- ground
+- hour
+- hours
+- must
+- pitch
+- power
+- takeoff
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

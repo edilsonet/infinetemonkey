@@ -1,0 +1,25 @@
+id: rbac-rbac-90-90-267-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.267'
+section_title: Aeronavegabilidade continuada NVIS
+subsection_id: e
+cite: 90.267(e)
+title: 90.267(e)
+text: (e) A UAP deverá cumprir com as ICA desenvolvidas pelo fabricante do NVG.
+keywords:
+- regras-de-voo
+- operacoes
+- aeronavegabilidade
+- continuada
+- cumprir
+- desenvolvidas
+- devera
+- fabricante
+- nvis
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

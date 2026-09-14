@@ -1,0 +1,33 @@
+id: rbac-rbac-135-a135-19-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.19
+section_title: Componentes do sistema de combustível
+subsection_id: b
+cite: A135.19(b)
+title: A135.19(b)
+text: '(b) Tela ou filtro de combustível. Para aviões com motores turboélice aplica-se o seguinte:
+
+  (1) deve haver uma tela ou filtro de combustível entre a saída do tanque e o dispositivo
+  medidor de combustível do motor. Em adição, a tela ou filtro deve:'
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- filtro
+- tela
+- a135
+- adicao
+- aplica
+- avioes
+- componentes
+- dispositivo
+- haver
+- medidor
+- motor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

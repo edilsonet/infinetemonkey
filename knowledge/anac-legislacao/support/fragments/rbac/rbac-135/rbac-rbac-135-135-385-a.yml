@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-385-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.385'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de pouso
+  no aeródromo de destino'
+subsection_id: a
+cite: 135.385(a)
+title: 135.385(a)
+text: (a) No caso de um grande avião categoria transporte com motores a turbina, é vedado
+  decolar com esse avião com um peso que (considerando o consumo normal de combustível e óleo
+  durante o voo para o aeródromo de destino ou aeródromo de alternativa) leve o peso do avião,
+  na chegada, a exceder o peso de pouso previsto no manual de voo do avião para a altitude
+  do aeródromo de destino ou de alternativa na temperatura ambiente esperada no horário do
+  pouso.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- aviao
+- destino
+- peso
+- pouso
+- alternativa
+- categoria
+- motores
+- transporte
+- turbina
+- altitude
+- ambiente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

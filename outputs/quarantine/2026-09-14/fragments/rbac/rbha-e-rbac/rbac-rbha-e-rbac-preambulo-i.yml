@@ -1,0 +1,455 @@
+id: rbac-rbha-e-rbac-preambulo-i
+kind: rbac
+document: rbha-e-rbac
+family: '1'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: i
+cite: preambulo(i)
+title: preambulo(i)
+text: '(i) possui características
+
+  fail-safe
+
+  diretamente ligadas ao grau de redundância provido pelo número de motores do avião;
+
+  (ii) é um sistema cuja falha ou mau funcionamento pode resultar em um IFSD, perda de controle
+  do empuxo ou outras perdas de potência;
+
+  (iii) contribui significativamente para a segurança durante um desvio para alternativa ETOPS,
+  por prover redundância adicional para qualquer perda de fonte de energia de um sistema,
+  resultante de um motor inoperante;
+
+  (iv) é essencial para operação prolongada de um avião em altitudes para motor inoperante.
+
+  (2) um sistema significativo ETOPS do grupo 2 significa um sistema significativo ETOPS que
+  não é um sistema significativo ETOPS do grupo 1.
+
+  Sistema de comunicações de longo alcance
+
+  (
+
+  Long-Range Communication System
+
+  - LRCS) significa um sistema que utiliza transmissão por satélite, transmissão de dados
+  digitais, alta frequência ou qualquer outro sistema de comunicações aprovado que se estenda
+  além da linha de visada.
+
+  Sistema de navegação de longo alcance
+
+  (
+
+  Long-Range Navigation System
+
+  - LRNS) significa uma unidade de navegação eletrônica aprovada para utilização sob as regras
+  de voo por instrumentos como meio primário de navegação, e que tenha pelo menos uma fonte
+  de informações de navegação tal como um sistema de navegação inercial, um sistema de posicionamento
+  global, Omega/VLF ou Loran C.
+
+  Sistema de visão sintética
+
+  significa um meio eletrônico de apresentar uma imagem sintética da visão da cena topográfica
+  externa para os tripulantes de voo.
+
+  Sistema intensificador de visibilidade em voo
+
+  (
+
+  Enhanced Flight Vision System
+
+  -
+
+  EFVS) significa um sistema instalado na aeronave que usa meios eletrônicos para prover uma
+  imagem do cenário topográfico externo à frente da aeronave (características naturais ou
+  construídas pelo homem de um local ou região, especialmente de modo a mostrar suas posições
+  relativas e elevações), através de sensores de imagem, como o
+
+  Forward Looking Infrared - FLIR
+
+  , radiometria de onda milimétrica, radar de onda milimétrica, intensificador de imagem em
+  baixo nível de iluminação e outros. Um sistema de EFVS inclui um mostrador de imagem, sensores,
+  computadores, fontes de alimentação, indicações e controles.
+
+  (Redação dada pela Resolução nº 674, de 25.04.2022)
+
+  Sistema RNAV adequado
+
+  significa um sistema RNAV que atende os requisitos de desempenho estabelecidos para o tipo
+  de operação (por exemplo, IFR) e é adequado para a operação sobre a rota a ser voada em
+  termos de qualquer critério de desempenho (incluindo precisão) estabelecido pelo provedor
+  de serviços de navegação aérea para certas rotas (como rotas oceânicas, rotas ATS e procedimentos
+  de aproximação por instrumentos). A adequabilidade de um sistema RNAV é dependente de disponibilidade
+  de auxílios à navegação no solo e/ou em satélites que sejam necessários para atender qualquer
+  critério de desempenho em rota que possa ser estabelecido para navegar a aeronave ao longo
+  da rota a ser voada.
+
+  Sobretorque máximo do motor
+
+  (
+
+  Maximum engine overtorque
+
+  ), no que se refere aos motores turboélice e turboeixo incorporando turbinas de potência
+  livres para todos os regimes de potência, exceto regimes de potência com um motor inoperante
+  (
+
+  one engine inoperative - OEI
+
+  ) de 2 (dois) minutos ou menos, significa o torque máximo do conjunto do rotor da turbina
+  de potência livre, cuja ocorrência inadvertida, por períodos de até 20 (vinte) segundos,
+  não exigirá a retirada de operação do motor, ou qualquer ação de manutenção que não seja
+  para corrigir a causa.
+
+  (Incluído pela Resolução nº 674, de 25.04.2022)
+
+  Substância psicoativa
+
+  significa álcool, opióides, canabinóides, sedativos, hipnóticos e solventes voláteis, excluindo-se
+  café e tabaco.
+
+  Traffic Alert and Collision Avoidance System -
+
+  TCAS I ou ACAS I significa um TCAS que utiliza interrogações e respostas de um radar transponder
+  de bordo, provendo orientações de tráfego para o piloto.
+
+  TCAS II
+
+  significa um TCAS que utiliza interrogações e respostas de um radar transponder de bordo,
+  provendo orientações de tráfego e orientações de resolução no plano vertical para o piloto.
+
+  TCAS III
+
+  significa um TCAS que utiliza interrogações e respostas de um radar transponder de bordo,
+  provendo orientações de tráfego e orientações de resolução nos planos vertical e horizontal
+  para o piloto.
+
+  Tempo de voo
+
+  significa:
+
+  (1) para o piloto de uma aeronave que não as citadas nos parágrafos (2) e (3) abaixo, o
+  tempo que se inicia quando a mesma começa a se movimentar por seus próprios meios com o
+  propósito de voar e termina quando a aeronave para totalmente após o pouso (tempo bloco-a-bloco);
+
+  (2) para o piloto de um planador sem capacidade de autolançamento, o tempo que se inicia
+  quando o planador começa a ser rebocado com o propósito de voar e termina quando o planador
+  volta ao repouso após o pouso; ou
+
+  (3) para um piloto de helicóptero, o tempo total desde o momento em que as pás do rotor
+  começam a girar até o momento em que o helicóptero volta ao repouso, no fim do voo, e as
+  pás do rotor são paradas.
+
+  Tempo de voo por instrumentos
+
+  significa o tempo de voo durante o qual um piloto opera uma aeronave usando como referência
+  somente os instrumentos de bordo, sem pontos externos de referência. O tempo de voo por
+  instrumentos pode ser computado, também, quando um piloto opera, sem referências externas,
+  um simulador ou um dispositivo de treinamento de voo aprovado pela ANAC.
+
+  Tempo em serviço
+
+  , referindo-se a tempos nos registros de manutenção, significa o tempo transcorrido desde
+  o momento em que a aeronave deixa a superfície da terra até o momento em que ela toca essa
+  superfície, no pouso.
+
+  Teto
+
+  significa a altura acima do solo ou água, da base da mais baixa camada de nuvens, abaixo
+  de 6.000 m (20.000 pés) que cobre mais da metade do céu.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Tipo
+
+  significa:
+
+  (1) referindo-se a certificados, habilitações, prerrogativas e limitações de pessoas, um
+  específico tipo e modelo básico de aeronave, incluindo modificações que não alterem as características
+  de voo e de manobrabilidade. Exemplos: MD-11, B767, F100 etc.;
+
+  (2) referindo-se à certificação de aeronaves, aquelas aeronaves que têm projetos similares.
+  Exemplos: DC-7 e DC-7C, 1049 G e 1049 H, F-27 e F-27F etc.; e
+
+  (3) referindo-se à certificação de motores aeronáuticos, aqueles motores que são similares
+  em projeto. Exemplo: JT8D e JT8D-7, JT9D-3A e JT9D-9 etc.
+
+  Tipo de RNP
+
+  significa um valor expresso como uma distância lateral, em milhas marítimas, da rota pretendida,
+  dentro da qual o voo deve permanecer por, pelo menos, 95% do tempo total de voo. Por exemplo,
+  RNP 4 representa uma precisão de mais ou menos 7,4 km (4 NM) para cada lado da rota desejada,
+  em 95% do tempo de voo.
+
+  Tráfego aéreo
+
+  significa todas as aeronaves em voo ou operando na área de manobras de um aeródromo.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Transmissor Localizador de Emergência
+
+  (
+
+  Emergency Locator Transmitter
+
+  - ELT) significa um equipamento que emite sinais específicos, em frequências designadas
+  e que, dependendo da aplicação, pode ser acionado automaticamente por impacto ou acionado
+  manualmente. Um ELT pode ser dos seguintes tipos:
+
+  (1) ELT automático fixo - ELT (AF): é um ELT acionado automaticamente, permanentemente fixado
+  à aeronave;
+
+  (2) ELT automático portátil - ELT (AP): é um ELT acionado automaticamente que é rigidamente
+  fixado à aeronave, mas que pode ser prontamente removido da mesma;
+
+  (3) ELT automático ejetável - ELT (AD), onde D é de
+
+  deployable
+
+  : é um ELT rigidamente fixado à aeronave e que é automaticamente ativado e ejetado por impacto
+  e, em alguns casos, por sensores hidrostáticos. Ejeção manual pode, também, ser provida;
+  e
+
+  (4) ELT de sobrevivência - ELT (S): um ELT removível da aeronave, posicionado em local que
+  possibilite seu pronto uso em uma emergência e que é manualmente ativado por sobreviventes.
+
+  Treinamento aprovado
+
+  significa um programa de instrução aprovado e supervisionado pela autoridade de aviação
+  civil, realizado em organizações de treinamento certificadas pela referida autoridade.
+
+  Tripulante
+
+  significa uma pessoa designada para exercer uma função a bordo de uma aeronave durante o
+  tempo de voo.
+
+  Tripulante de
+
+  voo
+
+  significa um piloto, mecânico de voo ou navegador designado para exercer função a bordo
+  de uma aeronave, na cabine de comando da mesma, durante o tempo de voo.
+
+  Tripulante de cabine
+
+  significa um tripulante que executa, em proveito da segurança dos passageiros, os deveres
+  designados pelo operador ou pelo piloto em comando da aeronave, mas que não pode atuar como
+  tripulante de voo. É também chamado de “comissário de voo”.
+
+  Unidade auxiliar de energia
+
+  (
+
+  Auxiliary Power Unit
+
+  - APU) significa uma fonte auxiliar de energia da aeronave, auto contida, que provê energia
+  elétrica/hidráulica para essa aeronave durante operações no solo e, eventualmente, em voo.
+
+  Veículo ultraleve
+
+  significa a designação genérica de uma aeronave cujas características físicas e operacionais
+  são limitadas conforme o RBAC nº 103.
+
+  (Incluído pela Resolução nº 474, de 07.06.2018)
+
+  Velocidade calibrada
+
+  significa a velocidade indicada de uma aeronave corrigida em relação aos erros de posição
+  e do instrumento. Ao nível do mar, em condições atmosféricas ISA, a velocidade calibrada
+  é igual à velocidade verdadeira.
+
+  Velocidade de subida inicial
+
+  significa, referindo-se a aeronaves de asa rotativa, a velocidade de referência que resulta
+  em uma trajetória de voo dentro do envelope altura/velocidade durante a subida inicial.
+
+  Velocidade de decisão na decolagem
+
+  (V
+
+  1
+
+  ) significa a velocidade máxima na decolagem na qual o piloto deve executar a primeira ação
+  (por exemplo, aplicar freios, reduzir potência, abrir freios aerodinâmicos) para parar o
+  avião dentro da distância da aceleração e parada. Significa, também, a menor velocidade
+  na decolagem, seguindo-se a uma falha do motor crítico na V
+
+  EF,
+
+  na qual o piloto pode continuar a decolagem e atingir a altura requerida acima da superfície
+  de decolagem dentro da distância de decolagem.
+
+  Velocidade de flape baixado
+
+  significa a maior velocidade permissível com os flapes de asa baixados em uma determinada
+  posição.
+
+  Velocidade de operação do trem
+
+  significa a velocidade máxima na qual o trem de pouso pode ser baixado ou recolhido com
+  segurança.
+
+  Velocidade de referência do pouso
+
+  significa a velocidade de um avião, em uma específica configuração de pouso, no ponto da
+  descida em que cruza a altura de 50 ft na determinação de distâncias de pouso.
+
+  Velocidade de trem baixado
+
+  significa a velocidade máxima na qual uma aeronave pode ser voada com segurança com o trem
+  de pouso na posição baixada.
+
+  Velocidade equivalente
+
+  significa a velocidade calibrada de uma aeronave corrigida em relação aos efeitos de compressibilidade
+  adiabática para uma particular altitude. A velocidade equivalente é igual à velocidade calibrada,
+  em atmosfera padrão ao nível do mar.
+
+  Velocidade final de decolagem
+
+  significa a velocidade de um avião existente ao fim da trajetória de decolagem na configuração
+  de rota com um motor inoperante.
+
+  Velocidade indicada
+
+  significa a velocidade de uma aeronave como mostrada pelo seu sistema pitot/estático de
+  indicação de velocidade, calibrado para indicar o fluxo compressível adiabático de atmosfera
+  padrão ao nível do mar, sem correções em relação aos erros do sistema.
+
+  Velocidade de segurança de decolagem
+
+  significa uma velocidade de referência, obtida após a saída do solo, na qual o desempenho
+  de subida com um motor inoperante pode ser conseguido.
+
+  Velocidade máxima para características de estabilidade
+
+  (
+
+  Maximum Speed for Stability Characteristics
+
+  -
+
+  VFC/MFC) significa uma velocidade que não pode ser menor que uma velocidade entre o limite
+  da velocidade máxima de operação (VMO/MMO) e a velocidade de mergulho demonstrada em voo
+  (VDF/MDF), exceto que, para altitudes onde o número
+
+  MACH
+
+  é um fator limitante, MFC não pode exceder o número
+
+  MACH
+
+  no qual ocorre o alarme efetivo de velocidade.
+
+  Velocidade verdadeira
+
+  significa a velocidade da aeronave em relação ao ar não perturbado. A velocidade verdadeira
+  é igual à velocidade equivalente multiplicada por (ro/r) ½.
+
+  Visão sintética
+
+  significa uma imagem, gerada por computador, do cenário topográfico externo da perspectiva
+  da cabine de comando em função da altitude da aeronave, da solução de navegação de alta
+  precisão e da base de dados do terreno, obstáculos e características culturais relevantes.
+
+  Visibilidade em voo
+
+  significa a visibilidade à frente da cabine de pilotagem de uma aeronave em voo.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Visibilidade em voo intensificada
+
+  (
+
+  Enhanced Flight Visibility
+
+  -
+
+  EFV) significa a distância média horizontal à frente da aeronave, como vista do posto de
+  pilotagem dessa aeronave, na qual objetos topográficos proeminentes podem ser claramente
+  distinguidos e identificados, de dia ou de noite, por um piloto usando um sistema intensificador
+  de visibilidade em voo (
+
+  Enhanced Flight Visibility System
+
+  -
+
+  EFVS).
+
+  Visibilidade no solo
+
+  significa a visibilidade em um aeródromo indicada por um observador credenciado ou por meio
+  de sistemas automáticos.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Voo IFR
+
+  significa a operação de uma aeronave segundo as regras do voo por instrumentos.
+
+  Voo VFR
+
+  significa a operação de uma aeronave segundo as regras do voo visual.
+
+  Voo VFR especial
+
+  significa o voo VFR realizado sob condições meteorológicas inferiores às VMC, autorizado
+  pelo controle de aproximação, dentro de uma CTR ou, ainda, de uma ATZ de aeródromo controlado
+  que esteja localizada dentro das projeções verticais dos limites laterais de uma TMA.
+
+  (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Wet leasing ou Wet-lease
+
+  (arrendamento com tripulação) significa qualquer contrato de arrendamento onde uma pessoa
+  concorda em prover para outra uma aeronave completa e com tripulação. O “
+
+  wet lease
+
+  ” não inclui arranjos tipo “
+
+  code-sharing
+
+  ” (transporte compartilhado) nem fretamento de aeronaves.
+
+  (Incluído pela Resolução nº 526, de 06.08.2019)
+
+  Winglet
+
+  ou
+
+  Tip Fin
+
+  significa uma superfície externa do avião, estendendo-se além da superfície de sustentação.
+  Essa superfície pode ou não ter superfícies de controle.
+
+  Zona de Parada
+
+  (
+
+  Stopway
+
+  ) significa área retangular com largura não inferior à da pista, definida no terreno e situada
+  no prolongamento do eixo da pista no sentido da decolagem, destinada e preparada como zona
+  adequada à parada de aeronaves, capaz de suportar o avião durante uma decolagem abortada
+  sem causar danos estruturais ao mesmo e destinada à desaceleração de aviões durante uma
+  decolagem abortada.
+
+  (Seção com redação dada pela Resolução nº 200, de 13.09.2011)'
+keywords:
+- significa
+- velocidade
+- aeronave
+- sistema
+- pode
+- tempo
+- piloto
+- decolagem
+- resolucao
+- qual
+- durante
+- motor
+categories:
+- legislacao
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

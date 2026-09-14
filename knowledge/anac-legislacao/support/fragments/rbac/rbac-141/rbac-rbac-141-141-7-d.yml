@@ -1,0 +1,37 @@
+id: rbac-rbac-141-141-7-d
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.7'
+section_title: Solicitação, emissão e emenda do certificado de CIAC e de suas respectivas
+  EI
+subsection_id: d
+cite: 141.7(d)
+title: 141.7(d)
+text: '(d) A ANAC pode indeferir o pedido de certificação ou de emenda ao certificado de CIAC
+  se:
+
+  (1) um certificado de CIAC anteriormente emitido para o requerente tiver sido cassado nos
+  últimos cinco anos por descumprimento à regulamentação ou por fraude; ou
+
+  (2) evidenciar que o requerente:'
+keywords:
+- escolas
+- treinamento
+- certificado
+- ciac
+- requerente
+- anos
+- anteriormente
+- cassado
+- certificacao
+- cinco
+- descumprimento
+- emissao
+- emitido
+- evidenciar
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

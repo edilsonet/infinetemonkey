@@ -1,0 +1,42 @@
+id: rbac-rbac-031-31-43-a
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.43'
+section_title: '31.43'
+subsection_id: a
+cite: 31.43(a)
+title: 31.43(a)
+text: '(a) Um fator de conexão de pelo menos 1,15 deve
+
+  ser utilizado nas análises de cada conexão cuja resis-
+
+  tência não foi comprovada por ensaios de carga limite
+
+  e final, nos quais reais condições de esforço foram
+
+  simuladas na conexão e estrutura adjacente. Este fator
+
+  aplica-se a todas as partes da conexão, aos meios de
+
+  fixação e aos suportes em membros conectados.'
+keywords:
+- aeronavegabilidade
+- baloes
+- conexao
+- fator
+- adjacente
+- analises
+- aplica
+- cada
+- carga
+- comprovada
+- condicoes
+- conectados
+- cuja
+- ensaios
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

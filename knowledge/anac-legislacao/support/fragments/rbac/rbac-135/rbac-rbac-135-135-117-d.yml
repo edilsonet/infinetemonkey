@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-117-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.117'
+section_title: Instruções verbais aos passageiros antes da decolagem
+subsection_id: d
+cite: 135.117(d)
+title: 135.117(d)
+text: (d) Ressalvadas as provisões do parágrafo (c) desta seção, para aeronaves certificadas
+  para o transporte de 19 passageiros ou menos, as instruções verbais requeridas pelo parágrafo
+  (a) desta seção devem ser dadas pelo piloto em comando, um tripulante ou outra pessoa qualificada
+  designada pelo detentor de certificado no manual geral da empresa requerido pela seção 135.21
+  deste Regulamento.
+keywords:
+- taxi-aereo
+- operacoes
+- secao
+- desta
+- instrucoes
+- paragrafo
+- passageiros
+- verbais
+- aeronaves
+- certificadas
+- certificado
+- comando
+- dadas
+- decolagem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

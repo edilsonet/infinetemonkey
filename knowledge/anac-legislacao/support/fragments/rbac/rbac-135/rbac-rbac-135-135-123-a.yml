@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-123-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.123'
+section_title: Deveres em emergências e evacuações de emergência
+subsection_id: a
+cite: 135.123(a)
+title: 135.123(a)
+text: (a) O detentor de certificado deve designar, para cada tripulante requerido em cada
+  tipo de aeronave, as funções a serem exercidas em uma emergência ou em situação requerendo
+  evacuação de emergência. O detentor de certificado deve assegurar-se de que essas funções
+  podem ser praticamente exercidas e que atendem qualquer emergência com razoável probabilidade
+  de ocorrência, incluindo incapacitação de determinado tripulante ou sua impossibilidade
+  de alcançar o compartimento de passageiros devido ao deslocamento da carga em uma aeronave
+  com carregamento misto carga/passageiros.
+keywords:
+- taxi-aereo
+- operacoes
+- emergencia
+- aeronave
+- cada
+- carga
+- certificado
+- detentor
+- exercidas
+- funcoes
+- passageiros
+- tripulante
+- alcancar
+- assegurar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

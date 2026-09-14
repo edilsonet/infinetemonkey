@@ -1,0 +1,42 @@
+id: rbac-rbac-135-a135-27-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.27
+section_title: Equipamentos e sistemas elétricos
+subsection_id: i
+cite: A135.27(i)
+title: A135.27(i)
+text: '(i) a voltagem e a frequência do sistema (como aplicável), nos terminais de todos os
+  equipamentos de cargas essenciais, possam ser mantidas dentro dos limites para os quais
+  o equipamento foi projetado, durante qualquer condição provável de operação;
+
+  (ii) transientes do sistema devidos a chaveamentos, folgas erradas ou outras causas não
+  possam tornar inoperantes cargas essenciais e não possam causar fumaça ou riscos de incêndio;
+
+  (iii) haja meios acessíveis em voo aos apropriados tripulantes, para desconectar, individual
+  ou coletivamente, as fontes de potência elétrica do sistema; e
+
+  (iv) haja meios para indicar ao apropriado tripulante os valores do sistema de geração essenciais
+  à segurança da operação do sistema, incluindo a voltagem e a corrente fornecida por cada
+  gerador.'
+keywords:
+- taxi-aereo
+- operacoes
+- sistema
+- essenciais
+- possam
+- cargas
+- equipamentos
+- haja
+- meios
+- operacao
+- voltagem
+- a135
+- acessiveis
+- aplicavel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

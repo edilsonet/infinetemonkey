@@ -1,0 +1,43 @@
+id: rbac-rbac-e-94-e94-503-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.503
+section_title: Emissão de CAVE e AEV para RPA
+subsection_id: a
+cite: E94.503(a)
+title: E94.503(a)
+text: '(a) Um CAVE pode ser emitido para RPA com os seguintes propósitos, mediante cumprimento
+  da seção 21.193 do RBAC 21:
+
+  (1) pesquisa e desenvolvimento. Ensaios de novas concepções de projeto de aeronave, novos
+  equipamentos aeronáuticos, novas instalações em aeronaves, novas técnicas operacionais e/ou
+  novos empregos para a aeronave;
+
+  (2) demonstração de cumprimento com requisitos. Condução de ensaios em voo ou outras operações
+  visando demonstrar cumprimento com os requisitos aplicáveis, incluindo os voos necessários
+  à autorização de projeto de RPAS, emissão de certificado de tipo ou certificado suplementar
+  de tipo, voos para substanciar modificações de projeto e voos para demonstrar cumprimento
+  com requisitos de funcionamento e de confiabilidade;
+
+  (3) treinamento de piloto remoto. Treinamento dos pilotos remotos do requerente; e
+
+  (4) pesquisa de mercado. Utilização da aeronave com o propósito de conduzir pesquisas de
+  mercado, demonstrações para venda e treinamento dos pilotos remotos do comprador da aeronave.'
+keywords:
+- aeronave
+- cumprimento
+- novas
+- projeto
+- requisitos
+- treinamento
+- voos
+- cave
+- certificado
+- demonstrar
+- emissao
+- ensaios
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

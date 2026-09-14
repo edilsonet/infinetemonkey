@@ -1,0 +1,53 @@
+id: rbac-rbac-035-35-24-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.24'
+section_title: '35.24'
+subsection_id: body
+cite: '35.24'
+title: '35.24'
+text: '35.24
+
+  Strength
+
+
+  The maximum stresses developed in the pro-
+
+  peller may not exceed values acceptable to
+
+  ANAC considering the particular form of con-
+
+  struction and the most severe operating condi-
+
+  tions.
+
+  (3) É fornecido um método para indicar que
+
+  uma mudança no modo de operação ocorreu,
+
+  caso uma ação da tripulação seja requerida. Em
+
+  tal evento, devem ser fornecidas instruções ope-
+
+  racionais nos manuais apropriados.'
+keywords:
+- helices
+- aeronavegabilidade
+- acao
+- acceptable
+- apropriados
+- caso
+- condi
+- considering
+- developed
+- evento
+- exceed
+- form
+- fornecidas
+- fornecido
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

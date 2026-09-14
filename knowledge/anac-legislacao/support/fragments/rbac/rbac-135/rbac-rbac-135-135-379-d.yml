@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-379-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.379'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de decolagem'
+subsection_id: d
+cite: 135.379(d)
+title: 135.379(d)
+text: '(d) No caso de um grande avião categoria transporte com motores a turbina, é vedado
+  decolar este avião com um peso maior que aquele listado no manual de voo do avião:
+
+  (1) para um avião de tipo cerificado após de 26 de agosto de 1957, mas antes de 1º de outubro
+  de 1958 (SR422), que permite uma trajetória de decolagem que livre todos os obstáculos pelo
+  menos (35 + 0.01 D) pés verticalmente (D é a distância ao longo da trajetória pretendida
+  de voo do fim da pista em pés), ou pelo menos 200 pés horizontalmente dentro dos limites
+  do aeroporto e pelo menos 300 pés horizontalmente após passar os limites; ou
+
+  (2) para um avião de tipo certificado após 30 de setembro de 1958 (SR422A, 422B), que permite
+  uma malha de trajetórias de voo de decolagem que livre todos os outros obstáculos por uma
+  altura de pelo menos 35 pés verticalmente, ou pelo menos 200 pés horizontalmente dentro
+  dos limites de um aeroporto e pelo menos 300 pés horizontalmente após passar este limite.'
+keywords:
+- taxi-aereo
+- operacoes
+- menos
+- aviao
+- horizontalmente
+- decolagem
+- limites
+- aeroporto
+- categoria
+- dentro
+- livre
+- motores
+- obstaculos
+- passar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

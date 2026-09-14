@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-429-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.429'
+section_title: Requisitos para pessoal de inspeção obrigatória
+subsection_id: e
+cite: 135.429(e)
+title: 135.429(e)
+text: '(e) O detentor de certificado deve manter e deve determinar que cada detentor de certificado
+  com o qual ele possua contrato para execução de inspeções obrigatórias mantenha uma lista
+  atualizada de pessoas que tenham sido treinadas, qualificadas e designadas a conduzir inspeções
+  obrigatórias. As pessoas devem ser identificadas pelo nome, título ocupacional e pelas inspeções
+  que estão autorizadas a executar. O detentor de certificado (ou o detentor de certificado
+  por ele contratado para fazer inspeções obrigatórias) deve prover informações escritas a
+  cada pessoa assim designada, descrevendo a extensão das suas responsabilidades, da sua autoridade
+  e de suas limitações como inspetor. Essa lista deve ser colocada à disposição da ANAC, se
+  requerido.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- detentor
+- inspecoes
+- obrigatorias
+- cada
+- lista
+- pessoas
+- assim
+- atualizada
+- autoridade
+- autorizadas
+- colocada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

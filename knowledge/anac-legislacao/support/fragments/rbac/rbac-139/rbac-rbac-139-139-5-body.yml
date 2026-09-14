@@ -1,0 +1,38 @@
+id: rbac-rbac-139-139-5-body
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.5'
+section_title: Siglas
+subsection_id: body
+cite: '139.5'
+title: Siglas
+text: '139.5 Siglas
+
+  CAC significa Compromisso de Ações Corretivas.
+
+  IFR - Instrument Flight Rules significa regras de voo por instrumentos.
+
+  MOPS significa Manual de Operações do Aeródromo.
+
+  VFR - Visual Flight Rules significa regras de voo visual.'
+keywords:
+- aerodromos
+- infraestrutura
+- significa
+- siglas
+- flight
+- regras
+- rules
+- visual
+- acoes
+- aerodromo
+- compromisso
+- corretivas
+- instrument
+- instrumentos
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

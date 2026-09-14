@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-340-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.340'
+section_title: 'Treinamento inicial, de transição e exame: instrutor de voo em aeronave e
+  instrutor de voo em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: a
+cite: 135.340(a)
+title: 135.340(a)
+text: '(a) Um detentor de certificado somente pode utilizar uma pessoa e uma pessoa somente
+  pode atuar como instrutor de voo se:
+
+  (1) esta pessoa tiver completado satisfatoriamente o treinamento inicial ou de transição
+  para instrutor de voo; e
+
+  (2) dentro dos 24 meses de calendário precedentes, esta pessoa tiver conduzido satisfatoriamente
+  instrução sob a observação de um servidor designado pela ANAC ou de um examinador credenciado
+  vinculado ao detentor de certificado. A instrução sob observação pode ser realizada em parte
+  ou no todo em aeronave ou em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- instrutor
+- pessoa
+- treinamento
+- pode
+- aeronave
+- aprovado
+- certificado
+- detentor
+- dispositivo
+- fstd
+- inicial
+- instrucao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

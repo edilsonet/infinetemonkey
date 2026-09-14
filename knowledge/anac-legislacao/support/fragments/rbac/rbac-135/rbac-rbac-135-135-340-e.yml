@@ -1,0 +1,45 @@
+id: rbac-rbac-135-135-340-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.340'
+section_title: 'Treinamento inicial, de transição e exame: instrutor de voo em aeronave e
+  instrutor de voo em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: e
+cite: 135.340(e)
+title: 135.340(e)
+text: '(e) O treinamento de voo inicial e de transição para instrutores de voo em aeronaves
+  deve incluir o seguinte:
+
+  (1) as medidas de segurança para situações de emergências que possam desenvolver-se durante
+  a instrução;
+
+  (2) os resultados potenciais de medidas de segurança impróprias ou inoportunas tomadas durante
+  a instrução;
+
+  (3) treinamento e prática, a partir dos assentos de pilotagem esquerdo e direito, das manobras
+  normais, anormais e de emergência requeridas, visando assegurar competência na condução
+  da instrução em voo requerida por este Regulamento; e
+
+  (4) as medidas de segurança a serem tomadas, de qualquer dos dois assentos para piloto,
+  para situações de emergência que possam se desenvolver durante a instrução.'
+keywords:
+- taxi-aereo
+- operacoes
+- instrucao
+- treinamento
+- durante
+- medidas
+- seguranca
+- assentos
+- desenvolver
+- emergencia
+- inicial
+- instrutor
+- possam
+- situacoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

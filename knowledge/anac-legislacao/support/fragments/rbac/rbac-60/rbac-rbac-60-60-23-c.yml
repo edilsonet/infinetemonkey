@@ -1,0 +1,51 @@
+id: rbac-rbac-60-60-23-c
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.23'
+section_title: Modificações a FSTDs
+subsection_id: c
+cite: 60.23(c)
+title: 60.23(c)
+text: '(c) Utilização de um FSTD modificado. O
+
+  operador só pode utilizar um FSTD com a
+
+  modificação proposta se:
+
+  (1) the sponsor has notified ANAC of
+
+  their intent to incorporate the proposed
+
+  modification, and one of the following has
+
+  occurred;
+
+
+  (1) o operador tiver notificado à ANAC
+
+  a intenção de incorporar a modificação
+
+  proposta, e pelo menos um dos seguintes
+
+  eventos tenha ocorrido:'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- modificacao
+- operador
+- proposta
+- eventos
+- following
+- fstds
+- incorporar
+- incorporate
+- intencao
+- intent
+- menos
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

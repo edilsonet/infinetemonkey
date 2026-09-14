@@ -1,0 +1,121 @@
+id: rbac-rbac-36-j36-305-c
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: J36.305
+section_title: J36.305
+subsection_id: c
+cite: J36.305(c)
+title: J36.305(c)
+text: '(c)
+
+  Weather restrictions.
+
+  The test must be conducted under the folowing atmospheric conditions:
+
+
+  (1) No rain or other precipitation;
+
+
+  (2) Ambient air temperature betwen 36 degres and 95 degres Fahrenheit (2 degres and 35
+
+  degres Celsius), inclusively, and relative humidity betwen 20 percent and 95 percent inclusively,
+
+  except that testing may not take place where combinations of temperature and relative humidity
+
+  result in a rate of atmospheric atenuation greater than 10 d
+
+  B per 10 meters (30.5 dB per 10 ft)
+
+  in the one
+
+  - third octave band centered at 8 kiloHertz.
+
+
+  (3) Wind velocity that does not exced 10 knots (19 km/h) and a croswind component that does
+  not
+
+  exced 5 knots (9 km/h). The wind shal be determined using a con
+
+  tinuous averaging proces of no
+
+  greater than 30 seconds;
+
+
+  (4) Measurements of ambient temperature, relative humidity, wind sped, and wind direction
+  must
+
+  be made betwen 4 fet (1.2 meters) and 3 fet (10 meters) above the ground. Unles otherwise
+
+  aproved
+
+  by the FA, ambient temperature and relative humidity must be measured at the same
+
+  height above the ground.
+
+
+  (5) No anomalous wind conditions (including turbulence) or other anomalous meteorological
+
+  conditions that wil significantly afect the noise level
+
+  of the helicopter when the noise is recorded
+
+  at the noise measuring station; and
+
+
+  (6) If the measurement site is within 6560 fet (2,0 meters) of a fixed meteorological station
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  105
+
+  / 121
+
+
+  (such as those found at airports or other facilities) the weather measurement
+
+  s reported for
+
+  temperature, relative humidity and wind velocity may be used, if aproved by the FA.'
+keywords:
+- ruido
+- meio-ambiente
+- wind
+- humidity
+- relative
+- temperature
+- degres
+- meters
+- that
+- ambient
+- betwen
+- conditions
+- must
+- noise
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

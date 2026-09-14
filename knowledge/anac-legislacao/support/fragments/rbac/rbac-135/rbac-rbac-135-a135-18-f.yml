@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-18-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.18
+section_title: Propulsão geral
+subsection_id: f
+cite: A135.18(f)
+title: A135.18(f)
+text: (f) Características de operação de motores a turbina. Para aviões com motores a turbina,
+  as características de operação dos motores devem ser investigadas em voo para determinar
+  que nenhuma característica adversa (como estol, pulsação ou apagamento em voo) se apresenta
+  em grau perigoso, durante as operações normais e em emergência, dentro das faixas de limitações
+  operacionais do avião e do motor.
+keywords:
+- taxi-aereo
+- operacoes
+- motores
+- caracteristicas
+- operacao
+- turbina
+- a135
+- adversa
+- apagamento
+- apresenta
+- aviao
+- avioes
+- caracteristica
+- dentro
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

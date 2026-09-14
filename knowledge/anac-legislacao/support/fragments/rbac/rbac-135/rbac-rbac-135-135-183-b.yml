@@ -1,0 +1,28 @@
+id: rbac-rbac-135-135-183-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.183'
+section_title: 'Requisitos de desempenho: aeronaves terrestres operando sobre água'
+subsection_id: b
+cite: 135.183(b)
+title: 135.183(b)
+text: (b) essa operação for necessária para decolagem e pouso;
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- agua
+- decolagem
+- desempenho
+- necessaria
+- operacao
+- operando
+- pouso
+- requisitos
+- terrestres
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

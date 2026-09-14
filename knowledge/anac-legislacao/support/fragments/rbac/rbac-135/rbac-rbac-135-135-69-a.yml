@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-69-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.69'
+section_title: 'Restrições ou suspensão de operação: continuação de um voo em uma emergência'
+subsection_id: a
+cite: 135.69(a)
+title: 135.69(a)
+text: (a) Durante operações segundo este Regulamento, se um detentor de certificado ou um
+  piloto em comando tomar conhecimento de condições, incluindo condições de aeródromos e de
+  pistas, que sejam um risco para operações seguras, o detentor de certificado ou o piloto
+  em comando, conforme for o caso, deve restringir ou suspender as operações, como necessário,
+  até que essas condições sejam corrigidas.
+keywords:
+- taxi-aereo
+- operacoes
+- condicoes
+- certificado
+- comando
+- detentor
+- piloto
+- sejam
+- aerodromos
+- caso
+- conhecimento
+- continuacao
+- corrigidas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

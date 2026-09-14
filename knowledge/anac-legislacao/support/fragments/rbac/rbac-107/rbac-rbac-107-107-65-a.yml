@@ -1,0 +1,37 @@
+id: rbac-rbac-107-107-65-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.65'
+section_title: Pontos Sensíveis
+subsection_id: a
+cite: 107.65(a)
+title: 107.65(a)
+text: '(a) O operador de aeródromo deve identificar os pontos sensíveis, situados dentro e
+  fora do perímetro patrimonial do aeródromo, e suas áreas adjacentes, demarcando-os em plantas
+  do sítio aeroportuário e entorno, de forma que permita a interpretação clara dos pontos.
+
+  (1) A identificação dos pontos sensíveis deve incluir, ao menos, as instalações de auxílio
+  à navegação aérea, instalações de fornecimento de água, energia elétrica e combustível para
+  aviação civil e, ainda, pistas de pouso e decolagem ou pistas de táxi que passem sobre via
+  pública.'
+keywords:
+- seguranca
+- aeroporto
+- pontos
+- sensiveis
+- aerodromo
+- instalacoes
+- pistas
+- adjacentes
+- aerea
+- aeroportuario
+- agua
+- areas
+- auxilio
+- aviacao
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

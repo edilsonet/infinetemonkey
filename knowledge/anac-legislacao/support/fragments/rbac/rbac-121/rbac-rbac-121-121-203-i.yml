@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-203-i
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.203'
+section_title: 'Aviões não incluídos na categoria transporte: limitações de pouso no aeródromo
+  de destino'
+subsection_id: i
+cite: 121.203(i)
+title: 121.203(i)
+text: '(i) com o maior comprimento efetivo em ar calmo; e
+
+  (ii) requerida face ao vento provável, levando em conta até 50% da componente de vento de
+  proa e pelo menos 150% da componente de vento de cauda.'
+keywords:
+- transporte-aereo
+- operacoes
+- vento
+- componente
+- aerodromo
+- avioes
+- calmo
+- categoria
+- cauda
+- comprimento
+- conta
+- destino
+- efetivo
+- face
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

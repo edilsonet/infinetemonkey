@@ -1,0 +1,53 @@
+id: rbac-rbac-135-135-151-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.151'
+section_title: Gravador de voz na cabine
+subsection_id: i
+cite: 135.151(i)
+title: 135.151(i)
+text: '(i) esteja instalado em conformidade com as seções 23.1457, 25.1457, 27.1457 ou 29.1457,
+  dos RBAC nº 23, 25, 27 e 29, respectivamente, como aplicável;
+
+  (ii) seja operado continuamente desde o início do “
+
+  checklist
+
+  ” (lista de verificação), antes do voo, até o termino da “
+
+  checklist
+
+  ” após o voo; e
+
+  (iii) mantenha pelo menos as últimas 2 horas de informações gravadas utilizando um gravador
+  que atenda a TSO-C123a, ou versão posterior.
+
+  (2) Somente é permitido operar uma aeronave multimotora com motores a turbina, fabricada
+  a partir de 7 de abril de 2012, tendo uma configuração de passageiros de 20 ou mais lugares,
+  e que seja necessário ter um gravador de dados de voo nos termos da seção 135.152, se ela
+  estiver equipada com um gravador de voz de “
+
+  cockpit
+
+  ” aprovado, que também:'
+keywords:
+- taxi-aereo
+- operacoes
+- gravador
+- checklist
+- seja
+- abril
+- aeronave
+- aplicavel
+- aprovado
+- atenda
+- c123a
+- cabine
+- cockpit
+- configuracao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

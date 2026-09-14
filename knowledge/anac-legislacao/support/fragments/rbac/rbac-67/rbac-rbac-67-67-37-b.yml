@@ -1,0 +1,30 @@
+id: rbac-rbac-67-67-37-b
+kind: rbac
+document: rbac-67
+family: '67'
+section_id: '67.37'
+section_title: Requisitos para credenciamento de médicos
+subsection_id: b
+cite: 67.37(b)
+title: 67.37(b)
+text: (b) O MC somente pode realizar os exames de saúde periciais no local credenciado.
+keywords:
+- saude
+- certificado-medico
+- pessoal
+- credenciado
+- credenciamento
+- exames
+- local
+- medicos
+- periciais
+- pode
+- realizar
+- requisitos
+- somente
+categories:
+- saude
+- certificado-medico
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-67.md

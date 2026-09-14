@@ -1,0 +1,40 @@
+id: rbac-rbac-67-67-19-b
+kind: rbac
+document: rbac-67
+family: '67'
+section_id: '67.19'
+section_title: Convalidação de um certificado médico estrangeiro
+subsection_id: b
+cite: 67.19(b)
+title: 67.19(b)
+text: '(b) A convalidação de um certificado médico obedecerá aos seguintes critérios:
+
+  (1) O certificado médico a ser convalidado deverá ter sido outorgado obedecendo aos requisitos
+
+  psicofísicos iguais ou superiores aos da ANAC.
+
+  (2) No campo de observações do CMA, no sistema da ANAC, deverá ser lançado o país de origem
+
+  do Certificado Médico convalidado.'
+keywords:
+- saude
+- certificado-medico
+- pessoal
+- certificado
+- medico
+- convalidacao
+- convalidado
+- devera
+- campo
+- criterios
+- estrangeiro
+- iguais
+- lancado
+- obedecendo
+- obedecera
+categories:
+- saude
+- certificado-medico
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-67.md

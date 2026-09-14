@@ -1,0 +1,71 @@
+id: rbac-rbac-60-60-23-e
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.23'
+section_title: Modificações a FSTDs
+subsection_id: e
+cite: 60.23(e)
+title: 60.23(e)
+text: '(e) Atualização do MQTG. Cada vez que
+
+  um FSTD for modificado e esta modificação
+
+  afetar um teste objetivo ou outra seção do
+
+  MQTG, o MQTG deve ser atualizado de
+
+  acordo com os resultados dos testes objetivos
+
+  descritos nos parágrafos 60.15(h) e (i) deste
+
+  regulamento,
+
+  fundamentados
+
+  em
+
+  dados
+
+  objetivos conforme a seção 60.13 deste
+
+  regulmento. Se uma diretriz da ANAC for a
+
+  causa da atualização, esta diretriz para
+
+  realizar a modificação e os registros da
+
+  conclusão
+
+  da
+
+  modificação
+
+  devem
+
+  ser
+
+  arquivados no MQTG.
+
+
+  Data da emissão: 20 de março de 2020.'
+keywords:
+- simuladores
+- treinamento
+- mqtg
+- modificacao
+- atualizacao
+- deste
+- diretriz
+- objetivos
+- secao
+- acordo
+- afetar
+- arquivados
+- atualizado
+- cada
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

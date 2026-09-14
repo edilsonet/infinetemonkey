@@ -1,0 +1,32 @@
+id: rbac-rbac-145-145-59-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.59'
+section_title: Categorias e Classes
+subsection_id: b
+cite: 145.59(b)
+title: 145.59(b)
+text: '(b) Categoria Motor:
+
+  (1) Classe 1: motores convencionais com até 400 hp (298 kW);
+
+  (2) Classe 2: motores convencionais com mais de 400 hp (298 kW); e
+
+  (3) Classe 3: motores a turbina.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- classe
+- motores
+- convencionais
+- categoria
+- categorias
+- classes
+- motor
+- turbina
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

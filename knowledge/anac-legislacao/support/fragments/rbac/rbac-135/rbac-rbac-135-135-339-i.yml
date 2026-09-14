@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-339-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.339'
+section_title: 'Treinamento inicial, de transição e exames: examinador em aeronave e examinador
+  em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: i
+cite: 135.339(i)
+title: 135.339(i)
+text: '(i) treinamento inadequado ou insuficiente; e
+
+  (ii) características pessoais de um requerente que possam afetar adversamente a segurança;
+
+  (5) as ações corretivas no caso de exames insatisfatórios; e
+
+  (6) os métodos, procedimentos e limitações aprovados para a execução dos procedimentos normais,
+  anormais e de emergência da aeronave.'
+keywords:
+- taxi-aereo
+- operacoes
+- treinamento
+- aeronave
+- exames
+- examinador
+- procedimentos
+- acoes
+- adversamente
+- afetar
+- anormais
+- aprovado
+- aprovados
+- caracteristicas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

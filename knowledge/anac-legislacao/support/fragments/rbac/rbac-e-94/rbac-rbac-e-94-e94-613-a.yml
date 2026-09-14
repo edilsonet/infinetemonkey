@@ -1,0 +1,30 @@
+id: rbac-rbac-e-94-e94-613-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.613
+section_title: Testes e inspeções do transponder de RPAS Classe 1
+subsection_id: a
+cite: E94.613(a)
+title: E94.613(a)
+text: (a) Somente é permitido utilizar um transponder como especificado no parágrafo 91.215(a)
+  do RBHA 91, ou disposições correspondentes que venham a substitui-lo, se, dentro dos 24
+  meses precedentes, o transponder tiver sido testado, inspecionado e considerado conforme
+  com o Apêndice F do RBAC 43.
+keywords:
+- transponder
+- apendice
+- classe
+- considerado
+- correspondentes
+- dentro
+- disposicoes
+- especificado
+- inspecionado
+- inspecoes
+- meses
+- paragrafo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

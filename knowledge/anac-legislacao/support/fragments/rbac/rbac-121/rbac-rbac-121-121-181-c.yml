@@ -1,0 +1,66 @@
+id: rbac-rbac-121-121-181-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.181'
+section_title: 'Aviões com motores convencionais: limitações em rota com um motor inoperante'
+subsection_id: c
+cite: 121.181(c)
+title: 121.181(c)
+text: '(c) Se for utilizado um procedimento aprovado segundo o parágrafo (b) desta seção,
+  o detentor de certificado deve atender ao seguinte:
+
+  (1) a razão de subida (como estabelecido pelo AFM para um apropriado peso e altitude) utilizada
+  no cálculo da trajetória de voo do avião deve ser diminuída de um valor, em pés por minuto,
+  igual a:
+
+  (0,079 - 0,106/N) VSO2
+
+  (onde N é o número de motores instalados e VSO é expresso em nós) para aviões certificados
+  segundo o RBAC 25 e por 0,026 VSO2 para aviões certificados segundo a parte 4a do “Civil
+  Air Regulations” dos Estados Unidos da América;
+
+  (2) a altitude, com todos os motores em operação, deve ser suficiente para que, no evento
+  do motor crítico tornar-se inoperante em qualquer ponto ao longo da rota, o voo possa prosseguir
+  para um aeródromo de alternativa predeterminado utilizando tal procedimento. Na determinação
+  do peso de decolagem, assume-se que o avião passará sobre a obstrução crítica após a falha
+  do motor em um ponto mais distante dessa obstrução do que o fixo de posição de rádio navegação
+  mais próximo. A ANAC pode aprovar um procedimento estabelecido com base diferente se for
+  considerado que existem garantias operacionais adequadas;
+
+  (3) o avião deve atender às provisões do parágrafo (a) desta seção 1000 pés acima do aeródromo
+  usado como alternativa no procedimento;
+
+  (4) o procedimento deve incluir um método aprovado para levar em consideração ventos e temperaturas
+  que possam afetar adversamente a trajetória de voo;
+
+  (5) o alijamento de combustível pode ser usado para obter conformidade com o procedimento,
+  desde que o detentor de certificado demonstre possuir um programa adequado de treinamento,
+  que instruções apropriadas são fornecidas aos tripulantes de voo e que todas as outras precauções
+  são levadas em consideração para garantir um procedimento seguro;
+
+  (6) o detentor de certificado deve especificar no despacho ou na liberação do voo um aeródromo
+  de alternativa que atenda aos mínimos meteorológicos de planejamento para pouso estabelecidos
+  pelo operador, em conformidade com o parágrafo 121.613(b).
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)'
+keywords:
+- transporte-aereo
+- operacoes
+- procedimento
+- aerodromo
+- alternativa
+- aviao
+- avioes
+- certificado
+- detentor
+- motor
+- motores
+- paragrafo
+- segundo
+- altitude
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-91-91-111-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.111'
+section_title: Proximidade com outra(s) aeronave(s)
+subsection_id: c
+cite: 91.111(c)
+title: 91.111(c)
+text: '(c) É vedado operar uma aeronave em voo de formação se a referida aeronave estiver
+  transportando
+
+  passageiros com fins lucrativos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- estiver
+- fins
+- formacao
+- lucrativos
+- operar
+- outra
+- passageiros
+- proximidade
+- referida
+- transportando
+- vedado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-63-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.63'
+section_title: Requisitos de conservação de registros
+subsection_id: f
+cite: 135.63(f)
+title: 135.63(f)
+text: '(f) Caso o detentor de certificado possua aprovação em suas especificações operativas
+  para elaboração de manifesto de carga por meio de EFB, a assinatura requerida no parágrafo
+  (c) desta seção pode ser substituída por uma autenticação digital atribuída ao piloto em
+  comando ou por sua assinatura no próprio dispositivo. Adicionalmente, a via requerida pelo
+  parágrafo (d) desta seção pode ser enviada somente por meio eletrônico para a base do detentor
+  de certificado, devendo o piloto em comando se certificar de seu recebimento.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- assinatura
+- certificado
+- comando
+- desta
+- detentor
+- meio
+- paragrafo
+- piloto
+- pode
+- requerida
+- secao
+- adicionalmente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

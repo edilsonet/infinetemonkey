@@ -1,0 +1,33 @@
+id: rbac-rbac-107-107-173-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.173'
+section_title: Medidas de Segurança destinadas às Provisões de Bordo e de Serviço de Bordo
+subsection_id: a
+cite: 107.173(a)
+title: 107.173(a)
+text: '(a) O operador de aeródromo deve garantir a realização da inspeção de segurança das
+  provisões de bordo e de serviço de bordo nos acessos às ARS, exceto se houver outros controles
+  de segurança implementados de forma que seja constituída uma cadeia segura desses insumos,
+  conforme PSA do aeroporto e PSOA.
+
+  (Incluído pela Resolução nº 644, de 05.11.2021)'
+keywords:
+- seguranca
+- aeroporto
+- bordo
+- provisoes
+- servico
+- acessos
+- aerodromo
+- cadeia
+- constituida
+- controles
+- desses
+- destinadas
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-151-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.151'
+section_title: Requisitos gerais
+subsection_id: e
+cite: 90.151(e)
+title: 90.151(e)
+text: (e) A UAP deverá informar ao aluno, antes de cada treinamento, sobre os programas dos
+  cursos e demais componentes curriculares, sua duração, requisitos, recursos disponíveis
+  e critérios de avaliação.
+keywords:
+- regras-de-voo
+- operacoes
+- requisitos
+- aluno
+- avaliacao
+- cada
+- componentes
+- criterios
+- curriculares
+- cursos
+- demais
+- devera
+- disponiveis
+- duracao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

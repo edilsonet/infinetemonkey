@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-415-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: c
+cite: 135.415(c)
+title: 135.415(c)
+text: '(c) Adicionalmente aos relatórios requeridos pelo parágrafo (a) desta seção, o detentor
+  de certificado deve relatar qualquer outra falha, mau funcionamento ou defeito em uma aeronave
+  que ocorra ou seja detectada a qualquer momento, se, em sua opinião, essa falha, mau funcionamento
+  ou defeito afetou ou poderá afetar a segurança da operação da aeronave.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- defeito
+- falha
+- funcionamento
+- adicionalmente
+- afetar
+- afetou
+- certificado
+- dada
+- desta
+- detectada
+- detentor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

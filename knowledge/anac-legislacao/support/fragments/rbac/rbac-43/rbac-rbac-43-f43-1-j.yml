@@ -1,0 +1,31 @@
+id: rbac-rbac-43-f43-1-j
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: j
+cite: F43.1(j)
+title: F43.1(j)
+text: '(j) Squitter. Verificar se o transponder Mode S gera um squitter correto, aproximadamente
+  um
+
+  por segundo.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- squitter
+- transponder
+- aproximadamente
+- correto
+- gera
+- inspecoes
+- mode
+- segundo
+- testes
+- verificar
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

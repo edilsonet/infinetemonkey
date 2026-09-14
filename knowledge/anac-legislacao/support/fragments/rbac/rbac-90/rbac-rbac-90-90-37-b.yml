@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-37-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.37'
+section_title: Requisitos para exercício da função do GSO
+subsection_id: b
+cite: 90.37(b)
+title: 90.37(b)
+text: (b) É vedado ao GSO o acúmulo de outra função, salvo as de piloto em comando, piloto
+  segundo em comando, operador aerotático, operador de suporte médico, instrutor ou MMA, no
+  âmbito da UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- comando
+- funcao
+- operador
+- piloto
+- acumulo
+- aerotatico
+- ambito
+- exercicio
+- instrutor
+- medico
+- outra
+- requisitos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

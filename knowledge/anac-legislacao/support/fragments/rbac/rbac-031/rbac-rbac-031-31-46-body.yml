@@ -1,0 +1,58 @@
+id: rbac-rbac-031-31-46-body
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.46'
+section_title: '31.46'
+subsection_id: body
+cite: '31.46'
+title: '31.46'
+text: '31.46
+
+  Sistemas de combustível pressurizado.
+
+
+  Para sistemas de combustível pressurizado, cada
+
+  elemento, suas conexões e linhas conectadas devem
+
+  ser testados para uma pressão final de pelo menos du-
+
+  as vezes a pressão máxima à qual o sistema estará
+
+  sujeito na condição normal de operação. Nenhuma
+
+
+  Data da emissão: 16 de outubro de 2015 RBAC nº 31
+
+
+  normal operation. No part of the system
+
+  may fail or malfunction during the test.
+
+
+  The test configuration must be repre-
+
+  sentative of the normal fuel system instal-
+
+  lation and balloon configuration.'
+keywords:
+- aeronavegabilidade
+- baloes
+- normal
+- combustivel
+- configuration
+- pressao
+- pressurizado
+- sistemas
+- system
+- test
+- balloon
+- cada
+- condicao
+- conectadas
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

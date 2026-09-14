@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-705-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.705'
+section_title: Política e objetivos de segurança operacional
+subsection_id: v
+cite: 135.705(v)
+title: 135.705(v)
+text: '(v) seja devidamente aprovada e assinada pelo gestor responsável;
+
+  (vi) seja comunicada, com visível endosso da alta direção, por toda a organização; e
+
+  (vii) seja periodicamente revisada para garantir que permanece relevante e apropriada para
+  a organização.
+
+  (2) O detentor de certificado deve definir objetivos de segurança operacional considerando
+  o estabelecido em sua política de segurança operacional. Os objetivos de segurança operacional
+  devem:'
+keywords:
+- taxi-aereo
+- operacoes
+- operacional
+- seguranca
+- objetivos
+- seja
+- organizacao
+- politica
+- alta
+- apropriada
+- aprovada
+- assinada
+- certificado
+- comunicada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

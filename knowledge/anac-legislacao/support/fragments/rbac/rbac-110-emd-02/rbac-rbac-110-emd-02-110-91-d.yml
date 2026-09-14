@@ -1,0 +1,33 @@
+id: rbac-rbac-110-emd-02-110-91-d
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.91'
+section_title: Fiscalização da ANAC
+subsection_id: d
+cite: 110.91(d)
+title: 110.91(d)
+text: (d) O centro de instrução, a organização com responsabilidade AVSEC e o profissional
+  com certificação AVSEC devem facilitar o acesso dos inspetores à documentação, equipamentos,
+  pessoas e instalações quando estiverem realizando ações de fiscalização ou de controle de
+  qualidade.
+keywords:
+- carga
+- operacoes
+- avsec
+- fiscalizacao
+- acesso
+- acoes
+- centro
+- certificacao
+- controle
+- documentacao
+- equipamentos
+- estiverem
+- facilitar
+- inspetores
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

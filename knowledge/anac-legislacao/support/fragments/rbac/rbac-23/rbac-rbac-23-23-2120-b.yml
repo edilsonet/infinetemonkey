@@ -1,0 +1,70 @@
+id: rbac-rbac-23-23-2120-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2120'
+section_title: Requisitos de subida.
+subsection_id: b
+cite: 23.2120(b)
+title: 23.2120(b)
+text: '(b) Após uma perda crítica de empuxo em avi-
+
+  ões multimotores:
+
+  (1) Para os aviões níveis 1 e 2 de baixa veloci-
+
+  dade que não atendem aos requisitos de cras-
+
+  hworthiness para monomotores, um gradiente
+
+  de subida de 1,5 por cento a uma altitude pres-
+
+  são de 5.000 pés (1.524 metros) na(s) configu-
+
+  ração(ões) de cruzeiro;
+
+  (2) Para os aviões níveis 1 e 2 de alta velocida-
+
+  de e os aviões nível 3 de baixa velocidade, um
+
+  gradiente de subida de 1 por cento a 400 pés
+
+  (122 metros) acima da superfície de decolagem
+
+  com o trem de pouso retraído e flapes na(s)
+
+  configuração(ões) de decolagem; e
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 23
+
+
+  (3) For level 3 high-speed airplanes and all
+
+  level 4 airplanes, a 2 percent climb gradient at
+
+  400 feet (122 meters) above the takeoff surface
+
+  with the landing gear retracted and flaps in the
+
+  approach configuration(s).'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- avioes
+- subida
+- airplanes
+- baixa
+- cento
+- decolagem
+- gradiente
+- level
+- metros
+- niveis
+- requisitos
+- above
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

@@ -1,0 +1,46 @@
+document: rbac-11
+kind: rbac
+title: RBAC 11 EMD 03
+ementa: Regras Gerais para petição de emissão, alteração, revogação e isenção de cumprimento
+  de regra. Em vigor em 1º de abril de 2020.
+family: '11'
+categories:
+- processo-normativo
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-011
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-011/@@display-file/arquivo_norma/RBAC11EMD03.pdf
+archive_url: https://arquivo.pt/wayback/20230317200557id_/https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-011/@@display-file/arquivo_norma/RBAC11EMD03.pdf
+sections:
+- '11.1'
+- '11.21'
+- '11.31'
+- '11.41'
+- preambulo
+fragment_count: 26
+fragment_ids:
+- rbac-rbac-11-preambulo-body
+- rbac-rbac-11-11-1-body
+- rbac-rbac-11-11-21-body
+- rbac-rbac-11-11-31-body
+- rbac-rbac-11-11-41-body
+- rbac-rbac-11-11-1-a
+- rbac-rbac-11-11-1-b
+- rbac-rbac-11-11-21-body
+- rbac-rbac-11-11-21-a
+- rbac-rbac-11-11-21-b
+- rbac-rbac-11-11-21-c
+- rbac-rbac-11-11-21-d
+- rbac-rbac-11-11-31-body
+- rbac-rbac-11-11-31-a
+- rbac-rbac-11-11-31-b
+- rbac-rbac-11-11-31-c
+- rbac-rbac-11-11-31-i
+- rbac-rbac-11-11-31-d
+- rbac-rbac-11-11-31-e
+- rbac-rbac-11-11-31-f
+- rbac-rbac-11-11-31-g
+- rbac-rbac-11-11-41-body
+- rbac-rbac-11-11-41-a
+- rbac-rbac-11-11-41-b
+- rbac-rbac-11-11-41-c
+- rbac-rbac-11-11-41-d
+parser_version: 4

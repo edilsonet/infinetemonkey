@@ -1,0 +1,49 @@
+id: rbac-rbac-129-129-17-c
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.17'
+section_title: Equipamento rádio
+subsection_id: c
+cite: 129.17(c)
+title: 129.17(c)
+text: '(c) Não obstante os requisitos do parágrafo (a)(2)(i) desta seção, a aeronave pode
+  ser equipada com um único sistema independente de navegação aprovado para operações IFR
+  ou acima da camada de nuvens se:
+
+  (1) it can be shown that the aircraft is equipped with at least one other independent navigation
+  system suitable for proceeding safely to a suitable airport and completing an instrument
+  approach in the event of loss of the navigation capability of the single approved independent
+  navigation system under this paragraph at any point along the route; and
+
+  (1) puder ser demonstrado que a aeronave está equipada com pelo menos outro sistema independente
+  de navegação adequado para que a aeronave prossiga até um aeródromo e complete uma aproximação
+  por instrumentos em uma eventual perda de capacidade de navegação do único sistema independente
+  de navegação aprovado sob este parágrafo em qualquer ponto da rota; e
+
+  (2) the aircraft has sufficient fuel so that the flight may proceed safely to a suitable
+  airport by use of the remaining navigation system, and complete an instrument approach and
+  land.
+
+  (2) a aeronave possuir combustível suficiente para prossiguir até um aeródromo, utilizando-se
+  do sistema de navegação remanescente, complete uma aproximação por instrumento e pouse.'
+keywords:
+- operador-estrangeiro
+- operacoes
+- navegacao
+- aeronave
+- navigation
+- sistema
+- complete
+- independente
+- suitable
+- system
+- aerodromo
+- aircraft
+- airport
+- approach
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

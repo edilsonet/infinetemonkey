@@ -1,0 +1,35 @@
+id: rbac-rbac-121-121-275-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.275'
+section_title: Detectores de fogo
+subsection_id: body
+cite: '121.275'
+title: Detectores de fogo
+text: '121.275 Detectores de fogo
+
+  Os detectores de fogo devem ser manufaturados e instalados de modo a assegurar sua capacidade
+  de resistir sem falha a toda vibração, inércia e outras cargas às quais eles possam estar
+  normalmente sujeitos. Detectores de fogo não podem ser afetados por gases, óleo, água ou
+  outros fluidos que possam atingi-los.'
+keywords:
+- transporte-aereo
+- operacoes
+- detectores
+- fogo
+- possam
+- afetados
+- agua
+- assegurar
+- atingi
+- capacidade
+- cargas
+- eles
+- estar
+- falha
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

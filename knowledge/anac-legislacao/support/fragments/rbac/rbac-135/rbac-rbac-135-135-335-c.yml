@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-335-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.335'
+section_title: Aprovação de FSTD e outros dispositivos de treinamento
+subsection_id: c
+cite: 135.335(c)
+title: 135.335(c)
+text: (c) Um particular FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC pode
+  ser utilizado por mais de um detentor de certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- fstd
+- treinamento
+- aprovacao
+- aprovado
+- certificado
+- detentor
+- dispositivo
+- dispositivos
+- outro
+- outros
+- particular
+- pode
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

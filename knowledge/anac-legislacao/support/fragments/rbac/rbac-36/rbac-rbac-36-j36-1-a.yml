@@ -1,0 +1,95 @@
+id: rbac-rbac-36-j36-1-a
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: J36.1
+section_title: of this apendix.
+subsection_id: a
+cite: J36.1(a)
+title: J36.1(a)
+text: '(a) For primary, normal, transport, a
+
+  nd restricted category helicopters having a maximum
+
+  certificated takeof weight of not more than 7,0 pounds that are noise tested under this
+  apendix:
+
+
+  (1) Stage 2 noise limit is constant at 82 decibels SEL for helicopters up to 1,737 pounds
+  (787 kg)
+
+  maxi
+
+  mum certificated takeof weight (mas) and increases linearly with the logarithm of the
+
+  helicopter weight at a rate of 3.0 decibels SEL per the doubling of weight thereafter. The
+  limit may
+
+  be calculated by the equation:
+
+
+  L
+
+  AE
+
+  (limit) = 82 + 3.0 [log
+
+  10 (MTOW/1
+
+  737)/ log
+
+  10 (2)] dB,
+
+
+  where MTOW is the maximum takeof weight, in pounds, for which certification under this
+
+  apendix is requested.
+
+
+  (2) Stage 3 noise limit is constant at 82 decibels SEL for helicopters up to 3,125 pounds
+  (1,417 kg)
+
+  maximum certificated tak
+
+  eof weight (mas) and increases linearly with the logarithm of the
+
+  helicopter weight at a rate of 3.0 decibels SEL per the doubling of weight thereafter. The
+  limit may
+
+  be calculated using the equation:
+
+
+  L
+
+  AE
+
+  (limit) = 82 + 3.0 [log
+
+  10 (MTOW/3125)/ log
+
+  10 (2)]
+
+  dB,
+
+
+  where MTOW is the maximum takeof weight, in pounds.'
+keywords:
+- ruido
+- meio-ambiente
+- weight
+- limit
+- pounds
+- decibels
+- maximum
+- mtow
+- takeof
+- apendix
+- certificated
+- helicopters
+- noise
+- this
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

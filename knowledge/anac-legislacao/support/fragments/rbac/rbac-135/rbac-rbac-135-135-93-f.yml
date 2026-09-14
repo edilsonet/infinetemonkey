@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-93-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: f
+cite: 135.93(f)
+title: 135.93(f)
+text: (f) Pouso. Ressalvado o parágrafo (d) desta seção, as alturas mínimas de uso do piloto
+  automático não se aplicam a operações com piloto automático quando um modo aprovado do sistema
+  de pouso automático é utilizado para pouso. O sistema de pouso automático deve estar autorizado
+  nas especificações operativas do detentor de certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- automatico
+- pouso
+- piloto
+- minimas
+- sistema
+- altitudes
+- alturas
+- aplicam
+- aprovado
+- autorizado
+- avioes
+- certificado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

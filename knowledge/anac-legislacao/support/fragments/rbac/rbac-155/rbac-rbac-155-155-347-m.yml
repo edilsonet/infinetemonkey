@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-347-m
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: m
+cite: 155.347(m)
+title: 155.347(m)
+text: '(m)
+
+  As transições de cor do HAPI, no plano vertical, devem ser de forma que, para um observador
+  a uma distância maior que 300 m, pareçam ocorrer em ângulo vertical inferior a 3 minutos
+  de arco.'
+keywords:
+- seguranca-aeroportuaria
+- vertical
+- angulo
+- aproximacao
+- arco
+- distancia
+- forma
+- hapi
+- indicador
+- inferior
+- maior
+- minutos
+- observador
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

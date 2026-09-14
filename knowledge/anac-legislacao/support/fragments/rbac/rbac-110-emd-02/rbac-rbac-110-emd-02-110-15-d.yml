@@ -1,0 +1,41 @@
+id: rbac-rbac-110-emd-02-110-15-d
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.15'
+section_title: Certificação dos profissionais em Segurança da Aviação Civil - AVSEC
+subsection_id: d
+cite: 110.15(d)
+title: 110.15(d)
+text: '(d) As certificações de Formação e Atualização em Inspeção de Segurança da Aviação
+  Civil incluem treinamentos teóricos e práticos, conduzidos pelo centro de instrução e por
+  organização com responsabilidade AVSEC, devendo ocorrer na sequência demonstrada no Apêndice
+  C deste Regulamento.
+
+  (1) A certificação de Formação em Inspeção de Segurança da Aviação Civil inicia com o curso
+  no centro de instrução e termina com o Treinamento em Serviço na organização com responsabilidade
+  AVSEC.
+
+  (2) A certificação de Atualização em Inspeção de Segurança da Aviação Civil inicia com o
+  Treinamento em Serviço na organização com responsabilidade AVSEC e termina com o curso no
+  centro de instrução.'
+keywords:
+- carga
+- operacoes
+- aviacao
+- avsec
+- civil
+- seguranca
+- centro
+- certificacao
+- inspecao
+- instrucao
+- organizacao
+- responsabilidade
+- atualizacao
+- curso
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

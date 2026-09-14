@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-180-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.180'
+section_title: Sistema embarcado de prevenção de colisões (ACAS)
+subsection_id: b
+cite: 135.180(b)
+title: 135.180(b)
+text: (b) Exceto se de outro modo autorizado pela ANAC, somente é permitido operar um avião
+  que possua motores a turbina e uma configuração para passageiros com mais de 19 assentos,
+  excluindo qualquer assento para tripulante, se ele estiver equipado com um sistema embarcado
+  de prevenção de colisões (ACAS II ou TCAS II, tipo 7.0, ou posterior) aprovado.
+keywords:
+- taxi-aereo
+- operacoes
+- acas
+- colisoes
+- embarcado
+- prevencao
+- sistema
+- aprovado
+- assento
+- assentos
+- autorizado
+- aviao
+- configuracao
+- equipado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

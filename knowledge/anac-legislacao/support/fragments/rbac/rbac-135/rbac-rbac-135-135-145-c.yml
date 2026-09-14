@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-145-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.145'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: c
+cite: 135.145(c)
+title: 135.145(c)
+text: (c) O detentor de certificado não pode transportar passageiros em uma aeronave durante
+  os voos de avaliação operacional, exceto aqueles necessários à avaliação e aqueles designados
+  pela ANAC para observar a avaliação. No entanto, é autorizado o treinamento de pilotos nesses
+  voos.
+keywords:
+- taxi-aereo
+- operacoes
+- avaliacao
+- voos
+- aqueles
+- operacional
+- aeronave
+- autorizado
+- certificado
+- designados
+- detentor
+- durante
+- entanto
+- exceto
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

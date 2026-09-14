@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-443-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.443'
+section_title: Documentação de aeronavegabilidade e anotações nos registros de manutenção
+  da aeronave
+subsection_id: d
+cite: 135.443(d)
+title: 135.443(d)
+text: '(d) Em lugar de atestar cada uma das condições requeridas pelo parágrafo (b) desta
+  seção, o detentor de certificado pode estabelecer em seu manual que a assinatura de um determinado
+  mecânico, habilitado e autorizado, constitui esse atestado.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  SUBPARTE K
+
+  ARTIGOS PERIGOSOS
+
+  (Subparte com redação dada pela Resolução nº 608, de 11.02.2021)'
+keywords:
+- taxi-aereo
+- operacoes
+- dada
+- redacao
+- resolucao
+- subparte
+- aeronave
+- aeronavegabilidade
+- anotacoes
+- artigos
+- assinatura
+- atestado
+- atestar
+- autorizado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

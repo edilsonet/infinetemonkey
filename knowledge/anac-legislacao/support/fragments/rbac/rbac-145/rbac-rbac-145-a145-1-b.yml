@@ -1,0 +1,41 @@
+id: rbac-rbac-145-a145-1-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: A145.1
+section_title: Cadastramento de Responsável Técnico na ANAC no caso de organização de
+subsection_id: b
+cite: A145.1(b)
+title: A145.1(b)
+text: '(b) declaração de possuir entendimento, na extensão de sua responsabilidade, dos seguintes
+
+  assuntos:
+
+  (1) normas técnicas de segurança em aviação e práticas operacionais seguras;
+
+  (2) legislação da aviação civil, incluindo leis, regulamentos, instruções suplementares,
+  etc.;
+
+  (3) especificações operativas do detentor de certificado; e
+
+  (4) os manuais requeridos pelos parágrafos 145.207(a) e 145.211(c) deste RBAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- aviacao
+- a145
+- assuntos
+- cadastramento
+- caso
+- certificado
+- civil
+- declaracao
+- deste
+- detentor
+- entendimento
+- especificacoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-161-161-13-a
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.13'
+section_title: Disposições gerais
+subsection_id: a
+cite: 161.13(a)
+title: 161.13(a)
+text: '(a)
+
+  O operador de aeródromo deve utilizar o critério apresentado a seguir para identificar o
+  Plano de Zoneamento de Ruído - PZR o qual deverá ser aplicado:
+
+  (1)
+
+  para aeródromos públicos com média anual de movimento de aeronaves dos últimos 3 (três)
+  anos superior a 7.000 (sete mil), deve ser aplicado um PEZR para os anos seguintes, ainda
+  que haja redução da movimentação média.
+
+  (2)
+
+  para os demais aeródromos públicos, é facultado ao operador de aeródromo escolher o tipo
+  de plano a ser elaborado, Plano Básico de Zoneamento de Ruído - PBZR ou Plano Específico
+  de Zoneamento de Ruído - PEZR.'
+keywords:
+- plano
+- ruido
+- zoneamento
+- aerodromo
+- aerodromos
+- anos
+- aplicado
+- media
+- operador
+- pezr
+- publicos
+- aeronaves
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

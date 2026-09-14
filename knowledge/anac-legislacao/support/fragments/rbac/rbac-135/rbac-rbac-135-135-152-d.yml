@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-152-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: d
+cite: 135.152(d)
+title: 135.152(d)
+text: '(d) Exceto como previsto no parágrafo (e) desta seção e exceto para dados registrados
+  que tenham sido apagados como autorizado por esta seção, o detentor de certificado deve
+  conservar os dados gravados estabelecidos pelo parágrafo (a) desta seção até que a aeronave
+  tenha sido utilizada durante pelo menos 25 horas do tempo de operação especificado no parágrafo
+  (c) desta seção. Em adição, o detentor de certificado deve conservar a gravação dos dados
+  estabelecidos no parágrafo (b) desta seção para um avião até que ele haja sido operado por
+  pelo menos 25 horas e para um helicóptero até que ele haja sido operado por pelo menos 10
+  horas, considerado o tempo de operação previsto no parágrafo (c) desta seção. Pode ser apagada
+  1 hora de gravação com o propósito de testar o gravador ou o sistema de gravação. Qualquer
+  apagamento feito de acordo com este parágrafo deve ser dos dados mais antigos já acumulados
+  no momento do teste. Exceto como previsto no parágrafo (e) desta seção, nenhuma gravação
+  precisa ser conservada por mais de 60 dias.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- paragrafo
+- secao
+- desta
+- dados
+- gravacao
+- exceto
+- horas
+- menos
+- certificado
+- conservar
+- detentor
+- estabelecidos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

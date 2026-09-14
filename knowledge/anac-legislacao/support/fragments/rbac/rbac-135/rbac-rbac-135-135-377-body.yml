@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-377-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.377'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de pouso no aeródromo de alternativa'
+subsection_id: body
+cite: '135.377'
+title: 'Grandes aviões categoria transporte com motores convencionais: limitações de pouso
+  no aeródromo de alternativa'
+text: '135.377 Grandes aviões categoria transporte com motores convencionais: limitações de
+  pouso no aeródromo de alternativa
+
+  Somente é permitido indicar um aeródromo como aeródromo de alternativa no plano de voo se
+  o avião (no peso previsto para o horário estimado de pouso nesse aeródromo e baseado no
+  que é assumido em 135.375(a)(1) e (2)) puder realizar um pouso completo utilizando 70% do
+  comprimento efetivo da pista do aeródromo.'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- pouso
+- alternativa
+- avioes
+- categoria
+- convencionais
+- grandes
+- limitacoes
+- motores
+- transporte
+- assumido
+- aviao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

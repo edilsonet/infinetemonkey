@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-227-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.227'
+section_title: '155.227'
+subsection_id: a
+cite: 155.227(a)
+title: 155.227(a)
+text: '(a)
+
+  Uma pista de táxi terrestre de helicóptero deve ter largura não inferior a 2 vezes a distância
+  entre as faces externas dos pneus do trem de pouso principal (2,0 UCW) do maior helicóptero
+  previsto a utilizar a pista de táxi terrestre de helicóptero.'
+keywords:
+- seguranca-aeroportuaria
+- helicoptero
+- pista
+- taxi
+- terrestre
+- distancia
+- externas
+- faces
+- inferior
+- largura
+- maior
+- pneus
+- pouso
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

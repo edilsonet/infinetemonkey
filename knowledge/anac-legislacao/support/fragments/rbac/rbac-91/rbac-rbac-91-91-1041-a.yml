@@ -1,0 +1,51 @@
+id: rbac-rbac-91-91-1041-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1041'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: a
+cite: 91.1041(a)
+title: 91.1041(a)
+text: '(a) O administrador de programa somente pode permitir a operação de uma aeronave, que
+  não um
+
+  avião com motor a reação, para a qual os requisitos de certificação de tipo requerem 2 pilotos
+  para
+
+  operação VFR e que não tenha sido previamente operada por este administrador segundo esta
+
+  Subparte, se tiver realizado ao menos 25 horas de voo de avaliação operacional com esse
+  modelo de
+
+  aeronave, ou aeronave de projeto similar, de forma aceitável pela ANAC, incluindo:
+
+  (1) cinco horas de voo noturno, se voos noturnos forem autorizados;
+
+  (2) cinco procedimentos de aproximação por instrumentos, sob condições de voo por
+
+  instrumento simuladas ou reais, se voos IFR forem autorizados; e
+
+  (3) aproximações em um número representativo de aeródromos, como determinado pela
+
+  ANAC.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- voos
+- administrador
+- autorizados
+- avaliacao
+- cinco
+- forem
+- horas
+- operacao
+- operacional
+- aceitavel
+- aerodromos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

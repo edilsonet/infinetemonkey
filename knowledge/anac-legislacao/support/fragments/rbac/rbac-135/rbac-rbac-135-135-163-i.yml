@@ -1,0 +1,54 @@
+id: rbac-rbac-135-135-163-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.163'
+section_title: 'Requisitos de equipamentos: aeronaves transportando passageiros em voo IFR'
+subsection_id: i
+cite: 135.163(i)
+title: 135.163(i)
+text: '(i) duas fontes independentes de geração de energia elétrica cada uma das quais seja
+  capaz de suprir todas as prováveis combinações de cargas elétricas contínuas em voo para
+  alimentar os equipamentos e instrumentos requeridos; ou
+
+  (ii) em adição à fonte primária de geração de energia elétrica, uma bateria de reserva ou
+  uma fonte alternada de energia elétrica que seja capaz de suprir 150% das cargas elétricas
+  de todos os instrumentos e equipamentos requeridos necessários para uma operação segura
+  em emergência da aeronave por pelo menos uma hora;
+
+  (7) para aeronaves multimotoras, pelo menos dois geradores ou alternadores montados em motores
+  diferentes, para os quais qualquer combinação de metade da potência total ainda forneça
+  potência suficiente para suprir as cargas elétricas de todos os instrumentos requeridos
+  e equipamentos necessários para operação segura, em emergência, da aeronave. Para helicópteros
+  multimotores, os dois geradores requeridos podem ser montados na caixa de engrenagem do
+  rotor principal; e
+
+  (8) duas fontes independentes de energia para os instrumentos giroscópicos requeridos (com
+  meios de selecionar cada uma delas), das quais pelo menos uma seja uma bomba de vácuo ou
+  gerador acionado pelo motor. Cada uma das fontes deve ser capaz de alimentar todos os instrumentos
+  giroscópicos, devendo ser instalada de modo que a falha de um instrumento não interfira
+  com o suprimento de energia para os demais instrumentos ou com as demais fontes supridoras.
+  Fazem exceção as aeronaves monomotoras, desde que o indicador de razão de curva tenha uma
+  fonte de energia separada da fonte de alimentação do horizonte artificial e da bússola giroscópica.
+  Para os propósitos deste parágrafo, para aeronaves multimotoras, cada fonte acionada por
+  motor deve estar instalada em um motor diferente.'
+keywords:
+- taxi-aereo
+- operacoes
+- energia
+- instrumentos
+- fonte
+- requeridos
+- aeronaves
+- cada
+- equipamentos
+- fontes
+- capaz
+- cargas
+- eletrica
+- eletricas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-385-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.385'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de pouso
+  no aeródromo de destino'
+subsection_id: e
+cite: 135.385(e)
+title: 135.385(e)
+text: '(e) Somente é permitido decolar com um avião a reação quando as informações meteorológicas
+  indicarem que a pista do aeródromo de destino poderá estar contaminada na hora estimada
+  de chegada se a distância de pouso disponível (LDA) for pelo menos igual ao maior dos seguintes
+  valores:
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)
+
+  (1) a distância determinada de acordo com o parágrafo (d) desta seção; ou
+
+  (2) 115% da distância determinada de acordo com os dados aprovados de distância de pouso
+  com a pista contaminada, ou seu equivalente, aceitos pela ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- distancia
+- pouso
+- acordo
+- aerodromo
+- contaminada
+- destino
+- determinada
+- pista
+- aceitos
+- aprovados
+- aviao
+- avioes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-60-60-13-d
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.13'
+section_title: Requisitos de dados objetivos do
+subsection_id: d
+cite: 60.13(d)
+title: 60.13(d)
+text: '(d) Os dados de validação ou qualquer
+
+  outro material devem ser submetidos em um
+
+  formato aceitável pela ANAC.'
+keywords:
+- simuladores
+- treinamento
+- dados
+- aceitavel
+- formato
+- material
+- objetivos
+- outro
+- requisitos
+- submetidos
+- validacao
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

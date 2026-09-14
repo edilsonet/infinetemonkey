@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-229-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.229'
+section_title: Requisitos de aeródromo e de áreas de pouso e decolagem não cadastradas
+subsection_id: a
+cite: 135.229(a)
+title: 135.229(a)
+text: (a) O detentor de certificado somente pode usar um aeródromo se ele for registrado ou
+  homologado e adequado à operação proposta, considerando itens como dimensões, resistência,
+  superfície, obstruções, iluminação, horário de funcionamento, auxílios à aproximação e meios
+  de controle de tráfego aéreo.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- adequado
+- aereo
+- aproximacao
+- areas
+- auxilios
+- cadastradas
+- certificado
+- considerando
+- controle
+- decolagem
+- detentor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

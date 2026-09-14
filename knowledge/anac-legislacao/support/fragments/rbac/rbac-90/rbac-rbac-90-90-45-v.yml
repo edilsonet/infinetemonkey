@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-45-v
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.45'
+section_title: Profissional de saúde embarcado
+subsection_id: v
+cite: 90.45(v)
+title: 90.45(v)
+text: '(v) comunicação com a tripulação e com as outras pessoas com função a bordo;
+
+  (vi) uso do sistema de comunicação interna da aeronave;
+
+  (vii) localização dos extintores de incêndios e dos equipamentos de sobrevivência;
+
+  (viii) embarque e desembarque do paciente;
+
+  (ix) critérios de segurança dentro e ao redor da aeronave;'
+keywords:
+- regras-de-voo
+- operacoes
+- aeronave
+- comunicacao
+- bordo
+- criterios
+- dentro
+- desembarque
+- embarcado
+- embarque
+- equipamentos
+- extintores
+- funcao
+- incendios
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

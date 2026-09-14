@@ -1,0 +1,34 @@
+id: rbac-rbac-107-107-95-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.95'
+section_title: Controle de Credenciais e Autorizações
+subsection_id: a
+cite: 107.95(a)
+title: 107.95(a)
+text: (a) O operador de aeródromo deve implementar controles administrativos ou tecnológicos
+  para garantir a credibilidade do sistema de credenciamento e autorização, devendo observar,
+  no mínimo, procedimentos de renovação periódica e instrumentos para prevenir falsificações,
+  desvios e o uso indevido de credenciais ou autorizações não devolvidas, extraviadas, furtadas
+  ou roubadas.
+keywords:
+- seguranca
+- aeroporto
+- autorizacoes
+- credenciais
+- administrativos
+- aerodromo
+- autorizacao
+- controle
+- controles
+- credenciamento
+- credibilidade
+- desvios
+- devendo
+- devolvidas
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

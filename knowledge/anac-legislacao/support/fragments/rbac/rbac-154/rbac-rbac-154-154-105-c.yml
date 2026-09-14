@@ -1,0 +1,38 @@
+id: rbac-rbac-154-154-105-c
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.105'
+section_title: Elevações do aeródromo e da pista de pouso e decolagem
+subsection_id: c
+cite: 154.105(c)
+title: 154.105(c)
+text: '(c) Para pistas de aproximação de precisão, a elevação e a ondulação do geoide da cabeceira,
+  da
+
+  elevação do fim da pista e da elevação mais alta da zona de toque devem ser medidas com
+  a acurácia
+
+  de, pelo menos, um quarto de metro (0,25 m), e comunicadas ao DECEA.
+
+  NOTA - A ondulação do geoide deve ser medida de acordo com o sistema de coordenadas
+
+  apropriado.'
+keywords:
+- seguranca-aeroportuaria
+- elevacao
+- geoide
+- ondulacao
+- pista
+- acordo
+- acuracia
+- aerodromo
+- alta
+- apropriado
+- aproximacao
+- cabeceira
+- comunicadas
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

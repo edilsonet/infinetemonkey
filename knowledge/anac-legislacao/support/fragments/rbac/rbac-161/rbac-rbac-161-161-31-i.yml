@@ -1,0 +1,38 @@
+id: rbac-rbac-161-161-31-i
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.31'
+section_title: '161.31'
+subsection_id: i
+cite: 161.31(i)
+title: 161.31(i)
+text: '(i)
+
+  O operador de aeródromo que se enquadre nos critérios de exigibilidade de Plano Diretor
+  - PDIR deve considerar o planejamento para a expansão da infraestrutura aeroportuária contido
+  no respectivo plano.
+
+  (2)
+
+  O operador de aeródromo deve calcular as curvas de ruído para o sistema de pistas de pouso
+  e decolagem existente, considerando os dados operacionais atuais do aeródromo e, caso estas
+  abranjam áreas não contidas nas curvas previstas, conforme o parágrafo 161.31(a)(1), o PEZR
+  deve contemplar a sobreposição das duas situações.'
+keywords:
+- aerodromo
+- curvas
+- operador
+- plano
+- abranjam
+- aeroportuaria
+- areas
+- atuais
+- calcular
+- caso
+- considerando
+- considerar
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

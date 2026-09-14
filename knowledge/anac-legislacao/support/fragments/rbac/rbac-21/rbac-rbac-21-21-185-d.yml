@@ -1,0 +1,47 @@
+id: rbac-rbac-21-21-185-d
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.185'
+section_title: Emissão de certificado de aeronavegabilidade categoria restrita
+subsection_id: d
+cite: 21.185(d)
+title: 21.185(d)
+text: '(d) Requisitos de ruído. Para aviões propelidos a hélice, com peso máximo de decolagem
+  aprovado igual ou inferior a 8.618 kg ou 19.000 lb (exceto aviões projetados para operações
+  de aviação agrícola, como definido no parágrafo 137.3(a)(13) do RBAC 137, ou para dispersão
+  de material de combate a incêndios) e que não tenham voado antes das datas especificadas
+  no RBAC 36, e não obstante os outros requisitos desta seção, a ANAC não emite o certificado
+  de aeronavegabilidade inicial, conforme esta seção, a menos que a ANAC considere que o projeto
+  de tipo da aeronave atende aos requisitos de ruído aplicáveis do RBAC 36, em adição aos
+  requisitos de aeronavegabilidade aplicáveis desta seção. Para aviões importados, o cumprimento
+  com este parágrafo fica demonstrado se o país no qual o avião foi fabricado certificar e
+  a ANAC considerar que o avião cumpre os requisitos de ruído aplicáveis do RBAC 36 (ou os
+  requisitos de ruído aplicáveis do país no qual o avião foi fabricado e qualquer outro requisito
+  que a ANAC possa ter estabelecido para prover níveis de ruído não superiores aos previstos
+  no RBAC 36) e o parágrafo (c) desta seção. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- requisitos
+- ruido
+- aplicaveis
+- secao
+- aviao
+- avioes
+- desta
+- paragrafo
+- certificado
+- fabricado
+- pais
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

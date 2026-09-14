@@ -1,0 +1,215 @@
+id: rbac-rbac-36-g36-201-d
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: G36.201
+section_title: of this apendix must be recorded by an aproved method when the airplane is
+  directly
+subsection_id: d
+cite: G36.201(d)
+title: G36.201(d)
+text: '(d) When the test conditions are outside those specified, corec
+
+  tions must be aplied by an aproved
+
+  procedure or by the folowing simplified procedure:
+
+
+  (1) Measured sound levels must be corected from test day meteorological conditions to reference
+
+  conditions by ading an increment equal to
+
+
+  Delta (M)=(H
+
+  T Į-0.7 H
+
+  R )/10
+
+
+  where H
+
+  T is the height in fet under test conditions, H
+
+  R is the height in fet under reference
+
+  conditions when the aircraft is directly over the noise measurement point and
+
+  Į is the rate of
+
+  absorption for the test day conditions at 50 Hz as specified in SA
+
+  E ARP 866A, en
+
+  Values of Atmospheric Absorption as a function of Temperature and Humidity for use in
+
+  Evaluating Aircraft Flyover Noise“ as inc
+
+
+  (2) Measured sound levels in decibels must be corected for he
+
+  ight by algebraicaly ading an
+
+  increment equal to Delta (1). When test day conditions are within those specified in figure
+  G1:
+
+
+  Delta (1)=2 log (H
+
+  T /H
+
+  R )
+
+  where H
+
+  T is the height of the test aircraft when directly over the noise measurement point and
+  H
+
+  R is
+
+  the
+
+  reference height.
+
+
+  When test day conditions are outside those specified in figure G1:
+
+
+  Delta (1)=20 log (H
+
+  T /H
+
+  R )
+
+  (3) Measured sound levels in decibels must be corected for helical tip Mach number by
+
+  algebraicaly ading an increment equal to:
+
+
+  Delta (2)=k log
+
+  (M
+
+  R /M
+
+  T )
+
+  where M
+
+  T and M
+
+  R are the test and reference helical
+
+  is equal to the slope of the line obtained for measured values of the sound level in dB(A)
+  versus
+
+  helical tip Mach number. The value of k may be dete
+
+  rmined from aproved data. A nominal value
+
+  of k=150 may be used when M
+
+  T is smaler than M
+
+  R . No corection may be made using the nominal
+
+  value of k when M
+
+  T is larger than M
+
+  R . The reference helical tip Mach number M
+
+  R is the Mach
+
+  number coresponding to the refe
+
+  rence conditions (RPM, airsped, temperature) above the
+
+  measurement point.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  81
+
+  / 121
+
+
+  (4) Measured sound levels in decibels must be corected for engine power by algebraicaly
+  ading
+
+  an increment equal to
+
+
+  Delta (3)=K
+
+  3 log (P
+
+  R /P
+
+  T )
+
+  where P
+
+  R and P
+
+  T are the test and referen
+
+  ce engine powers respectively obtained from the manifold
+
+  presure/torque gauges and engine rpm. The value of K
+
+  3 shal be determined from aproved data
+
+  from the test airplane. In the absence of flight test data and at the discretion of the
+  Administrator, a
+
+  v alue of K
+
+  3 =17 may be used.
+
+
+  Sec. G36.203
+
+  Validity of Results.'
+keywords:
+- ruido
+- meio-ambiente
+- test
+- conditions
+- when
+- delta
+- must
+- equal
+- from
+- measured
+- reference
+- sound
+- ading
+- aproved
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

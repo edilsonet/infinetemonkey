@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-101-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: g
+cite: 90.101(g)
+title: 90.101(g)
+text: (g) As revisões dos manuais previstos no parágrafo (a) desta seção e que requerem aprovação
+  da ANAC, em conformidade com este Regulamento, deverão ser encaminhadas à ANAC com pelo
+  menos 30 (trinta) dias de antecedência, contados a partir da data de intenção da implantação
+  do referido manual.
+keywords:
+- regras-de-voo
+- operacoes
+- antecedencia
+- aprovacao
+- conformidade
+- contados
+- data
+- desta
+- deverao
+- dias
+- encaminhadas
+- gerais
+- implantacao
+- intencao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

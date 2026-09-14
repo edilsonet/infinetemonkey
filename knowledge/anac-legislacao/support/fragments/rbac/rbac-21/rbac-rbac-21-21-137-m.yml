@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-137-m
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.137'
+section_title: Sistema da qualidade
+subsection_id: m
+cite: 21.137(m)
+title: 21.137(m)
+text: '(m) reporte de dificuldade em serviço. Procedimentos para recebimento e processamento
+  das reclamações de falhas, mau funcionamento e defeitos em serviço. Estes procedimentos
+  devem incluir um processo para auxiliar o detentor da aprovação de projeto a:
+
+  (1) resolver qualquer problema em serviço envolvendo alterações de projeto; e
+
+  (2) determinar se quaisquer alterações nas instruções de aeronavegabilidade continuada são
+  necessárias.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- servico
+- alteracoes
+- procedimentos
+- aprovacao
+- auxiliar
+- continuada
+- defeitos
+- detentor
+- determinar
+- dificuldade
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

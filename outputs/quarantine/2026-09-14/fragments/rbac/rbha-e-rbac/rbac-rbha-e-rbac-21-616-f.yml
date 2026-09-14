@@ -1,0 +1,33 @@
+id: rbac-rbha-e-rbac-21-616-f
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.616'
+section_title: Responsabilidade do detentor
+subsection_id: f
+cite: 21.616(f)
+title: 21.616(f)
+text: (f) ter acesso aos dados de projeto necessários para determinar a conformidade e aeronavegabilidade
+  de cada artigo produzido sob um certificado de organização de produção. O fabricante deve
+  manter estes dados até que a produção do artigo seja descontinuada em definitivo. Neste
+  momento, cópias destes dados deverão ser enviadas para a ANAC.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- dados
+- artigo
+- producao
+- acesso
+- cada
+- certificado
+- conformidade
+- copias
+- definitivo
+- descontinuada
+- destes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

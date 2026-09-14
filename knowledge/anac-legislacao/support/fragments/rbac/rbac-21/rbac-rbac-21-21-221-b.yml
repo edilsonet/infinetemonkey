@@ -1,0 +1,29 @@
+id: rbac-rbac-21-21-221-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.221'
+section_title: Certificado de aeronavegabilidade provisório Classe I
+subsection_id: b
+cite: 21.221(b)
+title: 21.221(b)
+text: (b) O fabricante deve ser detentor de um certificado de tipo provisório para a aeronave
+  em questão.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- provisorio
+- aeronave
+- classe
+- detentor
+- fabricante
+- questao
+- tipo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

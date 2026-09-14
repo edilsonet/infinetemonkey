@@ -1,0 +1,32 @@
+id: rbac-rbac-e-94-e94-409-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: a
+cite: E94.409(a)
+title: E94.409(a)
+text: '(a) considerando o seu envelope de voo operacional, a RPA deve:
+
+  (1) ser segura em controle e manobra durante todas as fases do voo; e
+
+  (2) ter desempenho adequado, levando em conta o máximo peso de operação, todas as condições
+  de carregamento e altitudes de operação;'
+keywords:
+- operacao
+- todas
+- adequado
+- altitudes
+- carregamento
+- classe
+- condicoes
+- considerando
+- conta
+- controle
+- desempenho
+- durante
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

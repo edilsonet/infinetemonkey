@@ -1,0 +1,43 @@
+id: rbac-rbac-121-121-201-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.201'
+section_title: 'Aviões não incluídos na categoria transporte: limitações de rota com um motor
+  inoperante'
+subsection_id: c
+cite: 121.201(c)
+title: 121.201(c)
+text: '(c) Para os propósitos desta seção é assumido que:
+
+  (1) o motor crítico está inoperante;
+
+  (2) a hélice do motor inoperante está na posição de arrasto mínimo;
+
+  (3) os flapes de asa e o trem de pouso estão na posição mais favorável;
+
+  (4) os motores em operação estão funcionando com a potência máxima contínua disponível;
+
+  (5) o avião está operando em atmosfera padrão; e
+
+  (6) o peso do avião é progressivamente reduzido pelo consumo de combustível e óleo previsto.'
+keywords:
+- transporte-aereo
+- operacoes
+- inoperante
+- motor
+- aviao
+- estao
+- posicao
+- arrasto
+- assumido
+- atmosfera
+- avioes
+- categoria
+- combustivel
+- consumo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

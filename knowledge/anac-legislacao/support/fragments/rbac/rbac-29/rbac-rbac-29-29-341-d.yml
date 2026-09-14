@@ -1,0 +1,120 @@
+id: rbac-rbac-29-29-341-d
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.341'
+section_title: 'and 29.351:'
+subsection_id: d
+cite: 29.341(d)
+title: 29.341(d)
+text: '(d)
+
+  Cable systems must be designed as follows:
+
+  (1)
+
+  Cables, cable fittings, turnbuckles, splices, and pulleys must be of an acceptable kind.
+
+  (2)
+
+  The design of cable systems must prevent any hazardous change in cable tension throughout
+  the
+
+  range of travel under any operating conditions and temperature variations.
+
+  (3)
+
+  No cable smaller than 1⁄8 inch diameter may be used in any primary control system.
+
+  (4)
+
+  Pulley kinds and sizes must correspond to the cables with which they are used. The pulley-cable
+
+  combinations and strength values specified in MIL-HDBK-5 must be used unless they are
+
+  inapplicable.
+
+  (5)
+
+  Pulleys must have close fitting guards to prevent the cables from being displaced or fouled.
+
+  (6)
+
+  Pulleys must lie close enough to the plane passing through the cable to prevent the cable
+  from
+
+  rubbing against the pulley flange.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.679
+
+  14 CFR 29.685(d)(6) (enhanced display)
+
+  page 54 of 167
+
+
+  § 29.687 Spring devices.
+
+  § 29.691 Autorotation control mechanism.
+
+  Each main rotor blade pitch control mechanism must allow rapid entry into autorotation after
+  power failure.
+
+  § 29.695 Power boost and power-operated control system.
+
+  LANDING GEAR
+
+  § 29.723 Shock absorption tests.
+
+  The landing inertia load factor and the reserve energy absorption capacity of the landing
+  gear must be
+
+  substantiated by the tests prescribed in §§ 29.725 and 29.727, respectively. These tests
+  must be conducted on the
+
+  complete rotorcraft or on units consisting of wheel, tire, and shock absorber in their proper
+  relation.
+
+  (7)
+
+  No fairlead may cause a change in cable direction of more than three degrees.
+
+  (8)
+
+  No clevis pin subject to load or motion and retained only by cotter pins may be used in
+  the control
+
+  system.
+
+  (9)
+
+  Turnbuckles attached to parts having angular motion must be installed to prevent binding
+
+  throughout the range of travel.
+
+  (10)
+
+  There must be means for visual inspection at each fairlead, pulley, terminal, and turnbuckle.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- must
+- cable
+- control
+- prevent
+- pulley
+- used
+- cables
+- landing
+- power
+- pulleys
+- system
+- tests
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

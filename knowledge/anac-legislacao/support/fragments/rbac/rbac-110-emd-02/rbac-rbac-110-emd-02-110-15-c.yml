@@ -1,0 +1,36 @@
+id: rbac-rbac-110-emd-02-110-15-c
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.15'
+section_title: Certificação dos profissionais em Segurança da Aviação Civil - AVSEC
+subsection_id: c
+cite: 110.15(c)
+title: 110.15(c)
+text: '(c) A validade e os critérios de aprovação de cada certificação AVSEC são apresentados
+  no Apêndice B deste Regulamento.
+
+  (1) A validade da certificação começa a contar a partir da data de aprovação no curso, ou
+  seja, após o aluno atender a todos os critérios de aprovação previstos no Apêndice B.
+
+  (2) O fim da validade da certificação é estendido até o último dia do mês do vencimento.'
+keywords:
+- carga
+- operacoes
+- certificacao
+- aprovacao
+- validade
+- apendice
+- avsec
+- criterios
+- aluno
+- apresentados
+- atender
+- aviacao
+- cada
+- civil
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

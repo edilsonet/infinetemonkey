@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-151-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.151'
+section_title: Gravador de voz na cabine
+subsection_id: a
+cite: 135.151(a)
+title: 135.151(a)
+text: '(a) Somente é permitido operar uma aeronave multimotora com motores a turbina, tendo
+  uma configuração para passageiros de seis ou mais assentos e para o qual são requeridos
+  dois pilotos pelas regras de certificação ou de operação, se ela for equipada com um gravador
+  de voz aprovado na cabine dos pilotos que:
+
+  (1) esteja instalado em conformidade com os requisitos dos parágrafos: 23.1457(a)(1) e (2),
+  (b), (c), (d)(1)(i), (2) e (3), (e), (f) e (g) do RBAC nº 23; 25.1457(a) (1) e (2), (b),
+  (c), (d)(1)(i), (2) e (3), (e), (f), e (g) do RBAC nº 25; 27.1457(a) (1) e (2), (b), (c),
+  (d)(1)(i), (2) e (3), (e), (f), e (g) do RBAC nº 27 e 29.1457(a) (1) e (2), (b), (c), (d)(1)(i),
+  (2) e (3), (e), (f), e (g) do RBAC nº 29, como aplicável; e
+
+  (2) seja operado continuamente desde o início do “
+
+  checklist
+
+  ” (lista de verificação), antes do voo, até o termino da “
+
+  checklist
+
+  ” após o voo.'
+keywords:
+- taxi-aereo
+- operacoes
+- cabine
+- checklist
+- gravador
+- pilotos
+- aeronave
+- aplicavel
+- aprovado
+- assentos
+- certificacao
+- configuracao
+- conformidade
+- continuamente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

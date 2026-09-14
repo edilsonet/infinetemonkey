@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-157-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.157'
+section_title: Requisitos para equipamentos de oxigênio
+subsection_id: b
+cite: 135.157(b)
+title: 135.157(b)
+text: '(b) Aeronaves pressurizadas - Somente é permitido operar uma aeronave pressurizada:
+
+  (1) em altitudes acima de 25.000 pés MSL, se houver disponibilidade de máscaras e de oxigênio
+  para fornecer, pelo menos, 10 minutos de oxigênio suplementar para cada ocupante da aeronave,
+  outros que não os pilotos, para uso durante uma descida devido à perda de pressurização
+  da cabine; e
+
+  (2) se ela estiver equipada com máscaras de oxigênio e com oxigênio suficientes para atender
+  ao parágrafo (a) desta seção sempre que a altitude pressão da cabine exceder 10.000 pés
+  MSL e, se houver falha de pressurização, para atender ao disposto no parágrafo 135.89(a)
+  ou para prover duas horas de oxigênio para cada piloto, o que for maior, além de suprir
+  enquanto voando:'
+keywords:
+- taxi-aereo
+- operacoes
+- oxigenio
+- aeronave
+- atender
+- cabine
+- cada
+- houver
+- mascaras
+- paragrafo
+- pressurizacao
+- acima
+- aeronaves
+- alem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

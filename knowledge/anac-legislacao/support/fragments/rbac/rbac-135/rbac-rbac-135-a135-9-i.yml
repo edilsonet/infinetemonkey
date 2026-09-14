@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-9-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.9
+section_title: Informações e limitações operacionais
+subsection_id: i
+cite: A135.9(i)
+title: A135.9(i)
+text: '(i) controle da trajetória de voo;
+
+  (ii) prevenção de colisões;
+
+  (iii) navegação;
+
+  (iv) comunicações;'
+keywords:
+- taxi-aereo
+- operacoes
+- a135
+- colisoes
+- comunicacoes
+- controle
+- informacoes
+- limitacoes
+- navegacao
+- operacionais
+- prevencao
+- trajetoria
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

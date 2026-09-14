@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-87-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.87'
+section_title: Transporte de carga, incluindo bagagem de mão
+subsection_id: a
+cite: 135.87(a)
+title: 135.87(a)
+text: '(a) Somente é permitido transportar carga em uma aeronave, incluindo bagagem de mão,
+  se:
+
+  (1) ela for transportada em um armário, prateleira ou compartimento aprovado para transporte
+  de carga e instalado na aeronave;
+
+  (2) ela estiver presa por um meio aprovado; ou
+
+  (3) ela for transportada nas seguintes condições:'
+keywords:
+- taxi-aereo
+- operacoes
+- carga
+- aeronave
+- aprovado
+- bagagem
+- incluindo
+- transportada
+- transporte
+- armario
+- compartimento
+- condicoes
+- estiver
+- instalado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

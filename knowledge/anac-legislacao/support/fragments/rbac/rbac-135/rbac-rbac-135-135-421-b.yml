@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-421-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.421'
+section_title: Requisitos adicionais de manutenção
+subsection_id: b
+cite: 135.421(b)
+title: 135.421(b)
+text: (b) Para o propósito desta seção, um programa de manutenção do fabricante é aquele contido
+  no manual de manutenção ou nas instruções de manutenção especificadas pelo fabricante, como
+  requerido pelos RBAC, para a aeronave, motores, hélices, rotores, componentes e equipamentos
+  de emergência.
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- fabricante
+- adicionais
+- aeronave
+- aquele
+- componentes
+- contido
+- desta
+- emergencia
+- equipamentos
+- especificadas
+- helices
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

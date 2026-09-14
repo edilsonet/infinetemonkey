@@ -1,0 +1,42 @@
+id: rbac-rbac-129-129-20-body
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.20'
+section_title: Gravadores digitais de dados de voo
+subsection_id: body
+cite: '129.20'
+title: Gravadores digitais de dados de voo
+text: '129.20 Gravadores digitais de dados de voo
+
+  No person may operate an aircraft under this Regulation unless the aircraft is equipped
+  with at least one of the flight data recorder that uses an approved method of digital recording
+  and data storage and an efficient method of recovering such data. The flight data recorder
+  shall comply with the prescribed in the section 6.3 of Annex 6, Part I, or section 4.3 of
+  Annex 6, Part III, Section II, as applicable, of International Civil Aviation Convention.
+
+  Ninguém pode operar uma aeronave sob este Regulamento a não ser que a aeronave seja equipada
+  com pelo menos um gravador de dados de voo aprovado que utilize um método digital de gravação
+  e armazenamento de dados e um método eficiente de recuperação desses dados. O gravador de
+  dados de voo deve atender ao prescrito na seção 6.3 do Anexo 6, Parte I, ou na seção 4.3
+  do Anexo 6, Parte III, Seção II, conforme aplicável, à Convenção de Aviação Civil Internacional.'
+keywords:
+- operador-estrangeiro
+- operacoes
+- dados
+- data
+- digitais
+- gravadores
+- secao
+- section
+- aeronave
+- aircraft
+- anexo
+- annex
+- civil
+- digital
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

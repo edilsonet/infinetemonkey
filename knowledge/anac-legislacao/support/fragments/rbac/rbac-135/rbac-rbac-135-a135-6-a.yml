@@ -1,0 +1,35 @@
+id: rbac-rbac-135-a135-6-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.6
+section_title: Estóis
+subsection_id: a
+cite: A135.6(a)
+title: A135.6(a)
+text: '(a) Aviso de estol.
+
+  (1) Se for requerido um aviso artificial de estol para demonstrar conformidade com os requisitos
+  do RBAC nº 23, o dispositivo de aviso deve prover indicações claramente perceptíveis sob
+  as condições esperadas de voo. O uso de um aviso visual, que requeira a atenção dos tripulantes
+  na cabine de comando, não é aceitável por si só.'
+keywords:
+- taxi-aereo
+- operacoes
+- aviso
+- estol
+- a135
+- aceitavel
+- artificial
+- atencao
+- cabine
+- claramente
+- comando
+- condicoes
+- conformidade
+- demonstrar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

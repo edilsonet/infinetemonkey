@@ -1,0 +1,41 @@
+id: rbac-rbac-035-35-19-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.19'
+section_title: '35.19'
+subsection_id: body
+cite: '35.19'
+title: '35.19'
+text: '35.19
+
+  Durabilidade
+
+
+  Cada parte da hélice deve ser projetada e
+
+  construída para minimizar o desenvolvimento
+
+  de qualquer condição insegura da hélice entre
+
+  intervalos de revisão geral.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- cada
+- condicao
+- construida
+- desenvolvimento
+- durabilidade
+- geral
+- insegura
+- intervalos
+- minimizar
+- parte
+- projetada
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

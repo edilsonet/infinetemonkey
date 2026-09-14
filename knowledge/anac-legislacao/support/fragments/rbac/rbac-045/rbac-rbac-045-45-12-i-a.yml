@@ -1,0 +1,32 @@
+id: rbac-rbac-045-45-12-i-a
+kind: rbac
+document: rbac-045
+family: '45'
+section_id: 45.12-I
+section_title: Identificação de aeronaves operando sob o RBAC nº 135, serviços aéreos especializa-
+subsection_id: a
+cite: 45.12-I(a)
+title: 45.12-I(a)
+text: '(a) Uma pessoa somente pode operar uma aeronave em operações segundo o RBAC nº 135
+  se na
+
+  aeronave estiver colocada a inscrição “TRANSPORTE PÚBLICO”.'
+keywords:
+- identificacao
+- aeronavegabilidade
+- aeronave
+- aereos
+- aeronaves
+- colocada
+- especializa
+- estiver
+- inscricao
+- operacoes
+- operando
+- operar
+- pessoa
+categories:
+- identificacao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-045.md

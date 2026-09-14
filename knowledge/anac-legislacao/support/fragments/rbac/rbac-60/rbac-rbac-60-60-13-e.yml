@@ -1,0 +1,50 @@
+id: rbac-rbac-60-60-13-e
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.13'
+section_title: Requisitos de dados objetivos do
+subsection_id: e
+cite: 60.13(e)
+title: 60.13(e)
+text: '(e) A ANAC poderá exigir dados de
+
+  validação adicionais, que podem incluir, se
+
+  necessário, ensaio em voo, caso o pacote de
+
+  dados de validação apresentado não atenda os
+
+  requisitos
+
+  de
+
+  qualificação
+
+  do
+
+  FSTD,
+
+  conforme requerido por este regulamento
+
+  para o nível de qualificação pretendido.'
+keywords:
+- simuladores
+- treinamento
+- dados
+- qualificacao
+- requisitos
+- validacao
+- adicionais
+- apresentado
+- atenda
+- caso
+- ensaio
+- exigir
+- fstd
+- incluir
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

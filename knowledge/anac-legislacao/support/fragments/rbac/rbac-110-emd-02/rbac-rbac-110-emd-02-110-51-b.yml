@@ -1,0 +1,39 @@
+id: rbac-rbac-110-emd-02-110-51-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.51'
+section_title: Responsabilidade na certificação em Segurança da Aviação Civil - AVSEC
+subsection_id: b
+cite: 110.51(b)
+title: 110.51(b)
+text: '(b) A ANAC é responsável por operacionalizar a aplicação dos critérios de aprovação
+  ao profissional submetido à certificação de Instrutor AVSEC.
+
+  (1) A avaliação teórica da certificação de Instrutor AVSEC contemplará questões de natureza
+  técnica, referentes aos conteúdos programáticos de qualquer um dos cursos listados no Apêndice
+  B.
+
+  (2) A avaliação prática da certificação de Instrutor AVSEC visa aferir o domínio técnico
+  dos assuntos AVSEC e as habilidades pedagógicas de um instrutor durante a execução de uma
+  aula com conteúdo AVSEC.'
+keywords:
+- carga
+- operacoes
+- avsec
+- certificacao
+- instrutor
+- avaliacao
+- aferir
+- apendice
+- aplicacao
+- aprovacao
+- assuntos
+- aula
+- aviacao
+- civil
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

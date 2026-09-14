@@ -1,0 +1,45 @@
+id: rbac-rbac-90-90-371-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.371'
+section_title: Categorias e classes aplicáveis às operações de helicóptero com carga externa
+subsection_id: c
+cite: 90.371(c)
+title: 90.371(c)
+text: '(c) As operações aéreas de carga externa são categorizadas, em relação ao comprimento
+  da corda/cabo, como:
+
+  (1)
+
+  short-line
+
+  (corda curta): operação com utilização de corda ou cabo de comprimento inferior a 50 pés
+  e que não seja capaz de atingir o rotor de cauda do helicóptero; e
+
+  (2)
+
+  long-line
+
+  (corda longa): operação com utilização de corda ou cabo com comprimento igual ou superior
+  a 50 pés ou, ainda, qualquer comprimento que seja maior que a distância compreendida entre
+  o ponto de amarração da corda/cabo ao helicóptero e a extremidade da pá do rotor de cauda.'
+keywords:
+- regras-de-voo
+- operacoes
+- corda
+- cabo
+- comprimento
+- helicoptero
+- carga
+- cauda
+- externa
+- line
+- operacao
+- rotor
+- seja
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

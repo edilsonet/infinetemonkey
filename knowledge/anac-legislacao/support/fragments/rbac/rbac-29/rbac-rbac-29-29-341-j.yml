@@ -1,0 +1,65 @@
+id: rbac-rbac-29-29-341-j
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.341'
+section_title: 'and 29.351:'
+subsection_id: j
+cite: 29.341(j)
+title: 29.341(j)
+text: '(j)
+
+  Endurance tests, clutch and brake engagements. A total of at least 400 clutch and brake
+  engagements,
+
+  including the engagements of paragraph (b) of this section, must be made during the takeoff
+  torque runs
+
+  and, if necessary, at each change of torque and speed throughout the test. In each clutch
+  engagement,
+
+  the shaft on the driven side of the clutch must be accelerated from rest. The clutch engagements
+  must be
+
+  accomplished at the speed and by the method prescribed by the applicant. During deceleration
+  after each
+
+  clutch engagement, the engines must be stopped rapidly enough to allow the engines to be
+  automatically
+
+  disengaged from the rotors and rotor drives. If a rotor brake is installed for stopping
+  the rotor, the clutch,
+
+  during brake engagements, must be disengaged above 40 percent of maximum continuous rotor
+  speed
+
+  and the rotors allowed to decelerate to 40 percent of maximum continuous rotor speed, at
+  which time the
+
+  rotor brake must be applied. If the clutch design does not allow stopping the rotors with
+  the engine
+
+  running, or if no clutch is provided, the engine must be stopped before each application
+  of the rotor brake,
+
+  and then immediately be started after the rotors stop.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- clutch
+- must
+- rotor
+- brake
+- engagements
+- each
+- rotors
+- speed
+- during
+- after
+- allow
+- continuous
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

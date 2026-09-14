@@ -1,0 +1,38 @@
+id: rbac-rbac-155-155-315-e
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.315'
+section_title: '155.315'
+subsection_id: e
+cite: 155.315(e)
+title: 155.315(e)
+text: '(e)
+
+  Os sinalizadores de perímetro de FATO devem possuir uma única cor (laranja ou vermelho)
+  ou duas cores contrastantes (laranja e branca ou vermelha e branca) dispostas alternadamente,
+  e as características dimensionais constantes na Figura 155.315-2.
+
+  Todas as medidas estão expressas em metros
+
+  Figura 155.315-2 - Sinalizado
+
+  r de perímetro de FATO tipo pista de pouso e decolagem.'
+keywords:
+- seguranca-aeroportuaria
+- branca
+- fato
+- figura
+- laranja
+- perimetro
+- alternadamente
+- caracteristicas
+- constantes
+- contrastantes
+- cores
+- decolagem
+- dimensionais
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

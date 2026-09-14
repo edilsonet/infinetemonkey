@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-415-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: f
+cite: 135.415(f)
+title: 135.415(f)
+text: (f) Um detentor de certificado que é também detentor de certificado de tipo de aeronave
+  (inclusive certificado suplementar de tipo) ou de atestado de produto aeronáutico aprovado
+  não necessita enviar os relatórios requeridos por esta seção, caso tenha enviado os relatórios
+  previstos pela seção 21.3 do RBAC nº 21.
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- detentor
+- relatorios
+- secao
+- tipo
+- aeronautico
+- aeronave
+- aprovado
+- atestado
+- caso
+- dificuldades
+- enviado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

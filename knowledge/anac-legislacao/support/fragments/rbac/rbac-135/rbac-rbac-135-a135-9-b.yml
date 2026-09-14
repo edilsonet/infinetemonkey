@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-9-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.9
+section_title: Informações e limitações operacionais
+subsection_id: b
+cite: A135.9(b)
+title: A135.9(b)
+text: '(b) Tripulação de voo mínima. Além de atender aos requisitos do RBAC nº 23, o requerente
+  deve estabelecer o número mínimo e o tipo de qualificação dos tripulantes de voo, suficientes
+  para a operação segura do avião, considerando:
+
+  (1) Cada espécie de operação para a qual o requerente deseja aprovação;
+
+  (2) A carga de trabalho de cada tripulante, considerando o seguinte:'
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- considerando
+- operacao
+- requerente
+- a135
+- alem
+- aprovacao
+- atender
+- aviao
+- carga
+- deseja
+- especie
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

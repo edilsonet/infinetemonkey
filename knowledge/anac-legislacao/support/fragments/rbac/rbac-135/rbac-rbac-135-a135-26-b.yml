@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-26-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.26
+section_title: Sistemas e equipamentos geral
+subsection_id: b
+cite: A135.26(b)
+title: A135.26(b)
+text: (b) Ventilação. O sistema de ventilação do avião deve atender ao RBAC nº 23 e, adicionalmente,
+  para aviões pressurizados, o ar de ventilação dos compartimentos da tripulação de voo e
+  dos passageiros deve ser livre de concentrações nocivas ou perigosas de gases e vapores,
+  seja em operação normal, seja no evento de falha ou mau funcionamento razoavelmente prováveis
+  dos sistemas de ventilação, aquecimento, pressurização ou de outros sistemas ou equipamentos.
+  Se o acúmulo de quantidades perigosas de fumaça na área do compartimento dos pilotos for
+  razoavelmente provável, deve ser possível evacuar a fumaça rapidamente.
+keywords:
+- taxi-aereo
+- operacoes
+- ventilacao
+- sistemas
+- equipamentos
+- fumaca
+- perigosas
+- razoavelmente
+- seja
+- a135
+- acumulo
+- adicionalmente
+- aquecimento
+- area
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

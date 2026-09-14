@@ -1,0 +1,136 @@
+id: rbac-rbac-36-a36-9-g
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: A36.9
+subsection_id: g
+cite: A36.9(g)
+title: A36.9(g)
+text: '(g) Meteorological measurements must be obtained within 30 minutes of each noise test
+
+  measurement; meteorological data mus
+
+  t be interpolated to actual times of each noise measurement.
+
+
+  A36.2.2.3
+
+  When a multiple layering calculation is required by section A36.2.2.2(c) or A36.2.2.2(d)
+
+  the atmosphere betwen the airplane and 3 ft (10 m) above the ground must be divided into
+  laye
+
+  rs
+
+  of equal depth. The depth of the layers must be set to not more than the depth of the narowest
+  layer
+
+  acros which the variation in the atmospheric absorption coeficient of the 3150 Hz one
+
+  - third octave
+
+  band is not greater than ±1.6 dB/10 ft (±0.5 dB/
+
+  10m), with a minimum layer depth of 10 ft (30
+
+  m). This requirement must be met for the propagation path at PNLTM. The mean of the values
+  of
+
+  the atmospheric absorption coeficients at the top and botom of each layer may be used to
+
+  characterize the absorp
+
+  tion properties of each layer.
+
+
+  A36.2.2.4
+
+  The airport control tower or another facility must be aproved by the FA for use as the
+
+  central location at which measurements of atmospheric parameters are representative of those
+
+  conditions existing over the geog
+
+  raphical area in which noise measurements are made.
+
+
+  A36.2.3
+
+  Flight path measurement.
+
+
+  A36.2.3.1
+
+  The airplane height and lateral position relative to the flight track must be determined
+  by
+
+  a method independent of normal flight instrumentation such as
+
+  radar tracking, theodolite
+
+  triangulation, or photographic scaling techniques, to be aproved by the FA.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  25
+
+  / 121
+
+
+  A36.2.3.2
+
+  The airplane position along the flight path must be related to the noise recorded at the
+
+  noise measurement locations by means of synchronizi
+
+  ng signals over a distance suficient to asure
+
+  adequate data during the period that the noise is within 10 dB of the maximum value of PNLT.
+
+
+  A36.2.3.3
+
+  Position and performance data required to make the adjustments refered to in section'
+keywords:
+- ruido
+- meio-ambiente
+- must
+- noise
+- data
+- depth
+- each
+- flight
+- layer
+- measurement
+- airplane
+- atmospheric
+- measurements
+- path
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-035-35-15-g
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.15'
+section_title: 'must be established by:'
+subsection_id: g
+cite: 35.15(g)
+title: 35.15(g)
+text: '(g) A menos que de outra forma aprovadas
+
+  pela ANAC e consideradas na análise de segu-
+
+  rança, as seguintes definições de falha se apli-
+
+  cam ao cumprimento com este RBAC:
+
+  (1) Os seguintes efeitos de hélice são classi-
+
+  ficados como hazardous:'
+keywords:
+- helices
+- aeronavegabilidade
+- seguintes
+- analise
+- apli
+- aprovadas
+- classi
+- consideradas
+- cumprimento
+- definicoes
+- efeitos
+- established
+- falha
+- ficados
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

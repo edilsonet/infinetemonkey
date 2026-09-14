@@ -1,0 +1,21 @@
+id: rbac-rbac-135-135-217-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.217'
+section_title: 'IFR: aeródromo de alternativa de decolagem'
+subsection_id: body
+cite: '135.217'
+title: 'IFR: aeródromo de alternativa de decolagem'
+text: '135.217 IFR: aeródromo de alternativa de decolagem'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- alternativa
+- decolagem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-129-k
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: k
+cite: 135.129(k)
+title: 135.129(k)
+text: (k) Se um detentor de certificado verificar, de acordo com esta seção, que um passageiro
+  designado para ocupar um assento de saída provavelmente é incapaz de executar as tarefas
+  listadas no parágrafo (d) desta seção ou, ainda, se um passageiro requerer um assento que
+  não seja de saída, o detentor de certificado deve, o mais rápido possível reposicionar essa
+  pessoa para um assento que não seja de saída.
+keywords:
+- taxi-aereo
+- operacoes
+- saida
+- assento
+- certificado
+- detentor
+- passageiro
+- secao
+- seja
+- acordo
+- assentos
+- designado
+- desta
+- executar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-7-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.7'
+section_title: Aeronavegabilidade continuada e melhorias da segurança para aviões categoria
+  transporte (
+subsection_id: b
+cite: 21.7(b)
+title: 21.7(b)
+text: (b) No caso de aviões novos categoria transporte, fabricados sob a autoridade da ANAC,
+  o detentor do certificado de tipo, ou o licenciado, deve cumprir com os requisitos aplicáveis
+  de aeronavegabilidade continuada e de melhoria da segurança do RBAC 26 para tais aviões.
+  Estes requisitos se aplicam somente se a ANAC tiver jurisdição sobre a organização responsável
+  pela montagem final do avião.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- avioes
+- categoria
+- continuada
+- requisitos
+- seguranca
+- transporte
+- aplicam
+- aplicaveis
+- autoridade
+- aviao
+- caso
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

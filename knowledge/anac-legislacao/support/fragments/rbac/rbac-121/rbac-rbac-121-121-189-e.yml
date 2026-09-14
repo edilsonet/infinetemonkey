@@ -1,0 +1,37 @@
+id: rbac-rbac-121-121-189-e
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.189'
+section_title: 'Aviões com motores a turbina: limitações de decolagem'
+subsection_id: e
+cite: 121.189(e)
+title: 121.189(e)
+text: (e) Na determinação de pesos máximos, distâncias mínimas e trajetórias de voo, de acordo
+  com os parágrafos de (a) até (d) desta seção, devem ser feitas as correções requeridas pela
+  altitude do aeródromo, gradiente efetivo de pista, temperatura ambiente e componente do
+  vento no momento da decolagem e, se o manual de voo do avião contiver informações sobre
+  desempenho com pista molhada, as condições da superfície da pista (se seca ou molhada).
+  Distâncias em pistas molhadas associadas a pistas com camada porosa de atrito ou ranhuradas,
+  se providas no AFM, só podem ser usadas desde que o operador verifique que são projetadas,
+  construídas e mantidas de uma maneira aceitável pela ANAC.
+keywords:
+- transporte-aereo
+- operacoes
+- pista
+- decolagem
+- distancias
+- molhada
+- pistas
+- aceitavel
+- acordo
+- aerodromo
+- altitude
+- ambiente
+- associadas
+- atrito
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

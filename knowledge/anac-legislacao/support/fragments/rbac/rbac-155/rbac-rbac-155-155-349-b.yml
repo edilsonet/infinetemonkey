@@ -1,0 +1,49 @@
+id: rbac-rbac-155-155-349-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.349'
+section_title: Sistema de iluminação da área de aproximação final e decolagem (FATO)
+subsection_id: b
+cite: 155.349(b)
+title: 155.349(b)
+text: '(b)
+
+  As luzes da FATO devem ser uniformemente espaçadas ao longo de suas bordas e atender os
+  seguintes requisitos:
+
+  (1)
+
+  em áreas quadradas ou retangulares, as laterais devem possuir número ímpar não inferior
+  a 5 (cinco) luzes, incluindo uma luz em cada canto, com espaçamentos não superiores a 5
+  m;
+
+  (2)
+
+  para FATO tipo pista de pouso e decolagem, as laterais devem possuir, no mínimo, 5 (cinco)
+  luzes, incluindo uma luz em cada canto, com espaçamentos não superiores a 50 m. As cabeceiras
+  possuirão, no mínimo, 4 (quatro) luzes, incluindo uma luz em cada canto, com espaçamentos
+  não superiores a 5 m; e
+
+  (3)
+
+  áreas com outros formatos, inclusive circular, devem possuir, no mínimo, 10 (dez) luzes
+  distribuídas uniformemente ao longo do perímetro, com espaçamentos não superiores a 5 m.'
+keywords:
+- seguranca-aeroportuaria
+- luzes
+- espacamentos
+- superiores
+- cada
+- canto
+- fato
+- incluindo
+- minimo
+- possuir
+- areas
+- cinco
+- decolagem
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

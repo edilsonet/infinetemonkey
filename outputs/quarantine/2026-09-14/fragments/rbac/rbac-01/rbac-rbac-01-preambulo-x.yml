@@ -1,0 +1,35 @@
+id: rbac-rbac-01-preambulo-x
+kind: rbac
+document: rbac-01
+family: '1'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: x
+cite: preambulo(x)
+title: preambulo(x)
+text: '(x) sistemas de proteção, detecção, supressão e extinção de fogo;
+
+
+  (xi) a utilização e a verificação das condições dos equipamentos e sistemas da aeronave
+  apro-
+
+  priada;
+
+
+  (4) Desempenho e planejamento de vôo:'
+keywords:
+- preambulo
+- sistemas
+- aeronave
+- apro
+- condicoes
+- desempenho
+- deteccao
+- equipamentos
+- extincao
+- fogo
+- planejamento
+- priada
+categories:
+- legislacao
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-01.md

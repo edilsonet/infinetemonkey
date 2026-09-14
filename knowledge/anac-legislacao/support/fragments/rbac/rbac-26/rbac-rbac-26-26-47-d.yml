@@ -1,0 +1,50 @@
+id: rbac-rbac-26-26-47-d
+kind: rbac
+document: rbac-26
+family: '26'
+section_id: '26.47'
+section_title: 'Detentores e requerentes de certificado suplementar de tipo: alterações e
+  reparos'
+subsection_id: d
+cite: 26.47(d)
+title: 26.47(d)
+text: '(d) Dados de Tolerância ao Dano para reparos aplicados em alterações. Para dados de
+  alteração
+
+  existentes ou futuros, desenvolvidos pelo detentor de um certificado suplementar de tipo,
+  o detentor
+
+  deste certificado deve:
+
+  (1) analisar os dados dos reparos e identificar cada reparo que afeta a estrutura básica
+  crítica a
+
+  fadiga identificada de acordo com o parágrafo (b)(2) desta seção;
+
+  (2) para cada reparo identificado no parágrafo (d)(1) desta seção, a menos que já previamente
+
+  realizadas, realizar uma Avaliação de Tolerância ao Dano e desenvolver a Inspeção de Tolerância
+
+  ao Dano;
+
+  (3) submeter os dados de Tolerância ao Dano, desenvolvidos de acordo com o parágrafo'
+keywords:
+- aeronavegabilidade
+- envelhecimento
+- dados
+- dano
+- tolerancia
+- certificado
+- paragrafo
+- reparos
+- acordo
+- alteracoes
+- cada
+- desenvolvidos
+- desta
+- detentor
+categories:
+- aeronavegabilidade
+- envelhecimento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-26.md

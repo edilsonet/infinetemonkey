@@ -1,0 +1,35 @@
+id: rbac-rbac-107-107-191-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.191'
+section_title: Sistema Confidencial de Relatos
+subsection_id: c
+cite: 107.191(c)
+title: 107.191(c)
+text: '(c) O operador de aeródromo deve analisar as informações recebidas e mitigar vulnerabilidades
+  ou ameaças que tragam risco a segurança da aviação.
+
+  (1) Os relatos e informações recebidos pelo operador de aeródromo por meio do sistema confidencial
+  de relatos, bem como as ações decorrentes implementadas pelo operador de aeródromo, devem
+  ser documentados e arquivados por prazo mínimo de 2 (dois) anos, em formato físico ou digital.'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- operador
+- relatos
+- confidencial
+- informacoes
+- sistema
+- acoes
+- ameacas
+- analisar
+- anos
+- arquivados
+- aviacao
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

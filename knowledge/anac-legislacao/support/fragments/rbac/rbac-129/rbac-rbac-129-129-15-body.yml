@@ -1,0 +1,38 @@
+id: rbac-rbac-129-129-15-body
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.15'
+section_title: Licenças dos tripulantes de voo
+subsection_id: body
+cite: '129.15'
+title: Licenças dos tripulantes de voo
+text: '129.15 Licenças dos tripulantes de voo
+
+  No person may act as a flight crewmember of an aircraft, unless holds a valid license or
+  certificate issued or validated by the country in which the aircraft is registered, showing
+  his competency to perform his duties connected with operating of that aircraft.
+
+  Ninguém pode atuar como tripulante de voo de uma aeronave, a menos que porte licença ou
+  certificado válido, emitido ou validado pelo país no qual a aeronave é registrada, evidenciando
+  sua competência na execução das tarefas correlacionadas com sua função na operação da aeronave.'
+keywords:
+- operador-estrangeiro
+- operacoes
+- aeronave
+- aircraft
+- licencas
+- tripulantes
+- atuar
+- certificado
+- certificate
+- competencia
+- competency
+- connected
+- correlacionadas
+- country
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

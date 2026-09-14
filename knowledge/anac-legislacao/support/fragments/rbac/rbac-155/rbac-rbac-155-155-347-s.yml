@@ -1,0 +1,39 @@
+id: rbac-rbac-155-155-347-s
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: s
+cite: 155.347(s)
+title: 155.347(s)
+text: '(s)
+
+  O sistema deve ser projetado de forma que:
+
+  (1)
+
+  no caso de haver desalinhamento vertical de uma unidade, excedendo ± 0,5 graus (± 30 minutos
+  de arco), o sistema se apague automaticamente; e
+
+  (2)
+
+  no caso de falha do mecanismo de flash, não haja emissão de luz no setor danificado.'
+keywords:
+- seguranca-aeroportuaria
+- caso
+- sistema
+- apague
+- aproximacao
+- arco
+- automaticamente
+- danificado
+- desalinhamento
+- emissao
+- excedendo
+- falha
+- flash
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

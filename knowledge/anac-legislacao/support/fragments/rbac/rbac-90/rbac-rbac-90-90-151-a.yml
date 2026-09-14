@@ -1,0 +1,100 @@
+id: rbac-rbac-90-90-151-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.151'
+section_title: Requisitos gerais
+subsection_id: a
+cite: 90.151(a)
+title: 90.151(a)
+text: '(a) Para os fins deste Regulamento:
+
+  (1)
+
+  treinamento
+
+  : processo de aprendizagem, composto por um conjunto de currículos, para aquisição sistemática
+  de conceitos, conhecimentos, atitudes, proficiência, técnicas, regras e/ou habilidades para
+  o desempenho de uma função na UAP;
+
+  (2)
+
+  treinamento inicial
+
+  : treinamento introdutório requerido para exercício de função na UAP;
+
+  (3)
+
+  treinamento periódico
+
+  : treinamento requerido ao profissional, com fins à atualização e manutenção da qualificação
+  para exercício de função na UAP;
+
+  (4)
+
+  treinamento de elevação de nível
+
+  : treinamento requerido ao piloto segundo em comando para ascensão à função de piloto em
+  comando, no mesmo modelo de aeronave da UAP;
+
+  (5)
+
+  treinamento de transição entre modelos de aeronaves
+
+  : treinamento requerido para exercício de uma mesma função a bordo, em outro modelo de aeronave
+  da UAP;
+
+  (6)
+
+  treinamento de diferenças
+
+  : treinamento complementar requerido ao piloto, para exercício da mesma função a bordo,
+  nas variantes de um mesmo modelo e fabricante de aeronave;
+
+  (7)
+
+  treinamento de ambientação entre UAP
+
+  : treinamento requerido para exercício da mesma função a bordo em outra UAP
+
+  ;
+
+  (8)
+
+  treinamento para operador aerotático
+
+  : treinamento requerido aos agentes públicos para exercício da função de operador aerotático
+  na UAP; e
+
+  (9)
+
+  treinamento especial
+
+  : treinamento requerido aos agentes públicos vinculados à UAP, para exercício de atribuições
+  específicas do órgão ou ente público (armas e munições embarcadas, pouso em local não cadastrado
+  pela ANAC, voo tático à baixa altura, lançamento de objetos, operação
+
+  helocasting
+
+  , embarque e desembarque em voo pairado, paraquedismo, operações sobre extensões de água,
+  operação com separação reduzida entre aeronaves, carga externa, NVIS, aeromédico etc.).'
+keywords:
+- regras-de-voo
+- operacoes
+- treinamento
+- funcao
+- requerido
+- exercicio
+- aeronave
+- bordo
+- mesma
+- modelo
+- piloto
+- aeronaves
+- aerotatico
+- agentes
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

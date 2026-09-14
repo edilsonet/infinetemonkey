@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-341-h
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.341'
+section_title: Requisitos gerais
+subsection_id: h
+cite: 90.341(h)
+title: 90.341(h)
+text: (h) A UAP poderá realizar operação de paraquedismo sobre eventos comemorativos e/ou
+  programados desde que o controle do risco inerente à operação, incluso a proteção da aeronave,
+  tripulação, pessoas com função a bordo e terceiros, esteja dentro do NADSO e observados
+  os demais dispositivos legais cabíveis.
+keywords:
+- regras-de-voo
+- operacoes
+- operacao
+- aeronave
+- bordo
+- cabiveis
+- comemorativos
+- controle
+- demais
+- dentro
+- desde
+- dispositivos
+- esteja
+- eventos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

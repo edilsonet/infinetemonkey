@@ -1,0 +1,38 @@
+id: rbac-rbac-21-21-137-n
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.137'
+section_title: Sistema da qualidade
+subsection_id: n
+cite: 21.137(n)
+title: 21.137(n)
+text: '(n) desvios de qualidade (
+
+  quality escapes
+
+  ). Procedimentos para identificar, analisar e iniciar ação corretiva apropriada para produtos
+  ou artigos que foram liberados pelo sistema da qualidade e que não estão em conformidade
+  com os dados do projeto aplicáveis ou com os requisitos do sistema da qualidade.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- qualidade
+- sistema
+- acao
+- analisar
+- aplicaveis
+- apropriada
+- artigos
+- conformidade
+- corretiva
+- dados
+- desvios
+- escapes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

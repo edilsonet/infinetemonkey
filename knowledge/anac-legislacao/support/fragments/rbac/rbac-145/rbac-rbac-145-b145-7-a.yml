@@ -1,0 +1,57 @@
+id: rbac-rbac-145-b145-7-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: B145.7
+section_title: Responsabilidades do Gestor do SGSO
+subsection_id: a
+cite: B145.7(a)
+title: B145.7(a)
+text: '(a) Independentemente de outras responsabilidades perante a organização, o Gestor do
+  SGSO
+
+  detém as responsabilidades elencadas a seguir:
+
+  (1) coordenar a implementação, manutenção e integração do SGSO em todas as áreas da
+
+  organização de manutenção, em conformidade com os requisitos aplicáveis;
+
+  (2) facilitar a identificação de perigos e a análise de riscos à segurança operacional;
+
+  (3) monitorar a efetividade dos controles de risco à segurança operacional;
+
+  (4) formalizar junto ao Gestor Responsável a necessidade de alocação de recursos
+
+  demandados para implementação, manutenção e melhoria contínua do SGSO;
+
+  (5) planejar e facilitar a promoção da segurança operacional em todas as áreas da organização
+
+  de manutenção;
+
+  (6) relatar regularmente ao Gestor Responsável sobre o desempenho do SGSO e qualquer
+
+  necessidade de melhoria; e
+
+  (7) assessorar o Gestor Responsável no exercício de suas responsabilidades relacionadas
+  ao
+
+  gerenciamento da segurança operacional, fornecendo subsídios para a tomada de decisões.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- gestor
+- sgso
+- operacional
+- responsabilidades
+- seguranca
+- organizacao
+- responsavel
+- areas
+- facilitar
+- implementacao
+- melhoria
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

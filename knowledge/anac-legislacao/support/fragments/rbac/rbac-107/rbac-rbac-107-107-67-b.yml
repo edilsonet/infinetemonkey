@@ -1,0 +1,33 @@
+id: rbac-rbac-107-107-67-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.67'
+section_title: Barreira de Segurança
+subsection_id: b
+cite: 107.67(b)
+title: 107.67(b)
+text: (b) As instalações ou edificações sobre o perímetro de AC e ARS ou adjacentes a essas
+  áreas devem ser adequadamente protegidas para impedir o acesso não autorizado à área operacional
+  através de possíveis pontos de acesso, tais como janelas, dutos, tubulações, telhados ou
+  qualquer outra passagem que possa ser utilizada indevidamente.
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- adequadamente
+- adjacentes
+- area
+- areas
+- atraves
+- autorizado
+- barreira
+- dutos
+- edificacoes
+- essas
+- impedir
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

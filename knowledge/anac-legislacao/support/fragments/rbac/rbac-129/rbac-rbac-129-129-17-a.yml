@@ -1,0 +1,41 @@
+id: rbac-rbac-129-129-17-a
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.17'
+section_title: Equipamento rádio
+subsection_id: a
+cite: 129.17(a)
+title: 129.17(a)
+text: '(a) Nenhuma empresa estrangeira de transporte aéreo pode conduzir operações IFR no
+  Brasil, a não ser que:
+
+  (1) the en route navigation aids necessary for aircraft to fly along the route are available
+  for use and operational of the aircraft navigation equipment, required by this section;
+
+  (1) os auxílios de navegação em rota, necessários para que aeronave voe ao longo da rota,
+  estejam disponíveis e operacionais para uso dos equipamentos de navegação da aeronave, requeridos
+  por esta seção;
+
+  (2) the aircraft used in those operations is equipped with at least the following:
+
+  (2) a aeronave utilizada nessas operações seja equipada com, pelo menos, os seguintes equipamentos:'
+keywords:
+- operador-estrangeiro
+- operacoes
+- aeronave
+- aircraft
+- equipamentos
+- navegacao
+- navigation
+- rota
+- route
+- aereo
+- aids
+- along
+- auxilios
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

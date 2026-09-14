@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-79-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.79'
+section_title: Requisitos de localização de voo
+subsection_id: a
+cite: 135.79(a)
+title: 135.79(a)
+text: '(a) O detentor de certificado deve ter procedimentos estabelecidos para localizar cada
+  um de seus voos de modo que:
+
+  (1) forneça ao detentor de certificado pelo menos as informações requeridas para um Plano
+  de Voo (PLN) Visual;
+
+  (2) permita fornecer, em tempo útil, notificação para uma estação de busca e salvamento
+  se a aeronave estiver atrasada ou desaparecida; e
+
+  (3) forneça para o detentor de certificado a localidade, data e tempo estimado para restabelecer
+  comunicações, se o voo estiver sendo operado em área onde as comunicações não podem ser
+  mantidas.'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- detentor
+- comunicacoes
+- estiver
+- forneca
+- tempo
+- aeronave
+- area
+- atrasada
+- busca
+- cada
+- data
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

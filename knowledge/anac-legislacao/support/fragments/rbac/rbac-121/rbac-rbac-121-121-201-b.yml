@@ -1,0 +1,50 @@
+id: rbac-rbac-121-121-201-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.201'
+section_title: 'Aviões não incluídos na categoria transporte: limitações de rota com um motor
+  inoperante'
+subsection_id: b
+cite: 121.201(b)
+title: 121.201(b)
+text: '(b) Não obstante o parágrafo (a) desta seção, se a ANAC considerar que a segurança
+  da operação não é prejudicada, uma pessoa pode operar o avião a uma altitude que permita,
+  em caso de falha de um motor, livrar todas as obstruções existentes dentro de 5 milhas para
+  cada lado do curso pretendido. Se tal procedimento for usado, a razão de descida para o
+  apropriado peso e altitude é assumida como sendo 50 pés por minuto maior do que a razão
+  dos dados de desempenho aprovados. Antes de aprovar tal procedimento, a ANAC deve levar
+  em consideração para a rota, segmento de rota ou área o seguinte:
+
+  (1) a confiabilidade das previsões de vento e condições meteorológicas;
+
+  (2) a localização e os tipos de auxílios à navegação;
+
+  (3) as condições meteorológicas dominantes, particularmente a frequência e quantidade de
+  turbulência normalmente encontrada;
+
+  (4) características do terreno;
+
+  (5) problemas de controle de tráfego aéreo;
+
+  (6) qualquer outro fator operacional que afete a operação.'
+keywords:
+- transporte-aereo
+- operacoes
+- rota
+- altitude
+- condicoes
+- meteorologicas
+- motor
+- operacao
+- procedimento
+- razao
+- aereo
+- afete
+- apropriado
+- aprovados
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

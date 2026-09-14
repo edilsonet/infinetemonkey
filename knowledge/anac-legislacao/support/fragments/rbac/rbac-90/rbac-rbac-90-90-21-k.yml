@@ -1,0 +1,41 @@
+id: rbac-rbac-90-90-21-k
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: k
+cite: 90.21(k)
+title: 90.21(k)
+text: '(k) Em situações excepcionais, piloto em comando poderá autorizar o desembarque do
+  piloto segundo em comando para atuar no cenário da missão pública, desde que:
+
+  (1) conste no C.A. da aeronave a previsão de tripulação mínima de apenas um piloto (
+
+  single pilot
+
+  );
+
+  (2) os riscos sejam mitigados; e
+
+  (3) o procedimento esteja previsto no MOP e SOP da UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- piloto
+- comando
+- tripulacao
+- aeronave
+- atuar
+- autorizar
+- cenario
+- conste
+- desde
+- desembarque
+- esteja
+- excepcionais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-133-133-21-a
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.21'
+section_title: Pessoal
+subsection_id: a
+cite: 133.21(a)
+title: 133.21(a)
+text: '(a) O requerente deve possuir uma licença válida de piloto comercial ou de piloto de
+  linha aérea,
+
+  com as apropriadas qualificações para a aeronave descrita na seção 133.19, emitida pela
+  ANAC.
+
+  Caso não possua tal licença, o requerente deve ter pelo menos um piloto, seu empregado legal,
+  que
+
+  possua as licenças e qualificações acima requeridas.'
+keywords:
+- carga-externa
+- helicoptero
+- piloto
+- licenca
+- possua
+- qualificacoes
+- requerente
+- acima
+- aerea
+- aeronave
+- apropriadas
+- caso
+- comercial
+- descrita
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

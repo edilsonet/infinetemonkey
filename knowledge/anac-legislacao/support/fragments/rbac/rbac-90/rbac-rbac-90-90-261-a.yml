@@ -1,0 +1,43 @@
+id: rbac-rbac-90-90-261-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.261'
+section_title: Requisitos gerais
+subsection_id: a
+cite: 90.261(a)
+title: 90.261(a)
+text: '(a) O NVIS é composto por:
+
+  (1) NVG e respectivos acessórios;
+
+  (2) iluminação interna e externa da aeronave compatível para operação NVIS;
+
+  (3) aeronaves, componentes e disposição dos instrumentos adaptados e adequados para a operação
+  NVIS;
+
+  (4) RADALT ou HTAWS;
+
+  (5) treinamento e avaliação; e
+
+  (6) manutenção do NVG, aeronave e equipamentos para garantia da aeronavegabilidade continuada.'
+keywords:
+- regras-de-voo
+- operacoes
+- nvis
+- aeronave
+- operacao
+- acessorios
+- adaptados
+- adequados
+- aeronavegabilidade
+- aeronaves
+- avaliacao
+- compativel
+- componentes
+- composto
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

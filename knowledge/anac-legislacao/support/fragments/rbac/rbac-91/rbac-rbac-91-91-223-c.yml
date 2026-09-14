@@ -1,0 +1,35 @@
+id: rbac-rbac-91-91-223-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.223'
+section_title: Sistema de percepção e alarme de proximidade do solo (TAWS)
+subsection_id: c
+cite: 91.223(c)
+title: 91.223(c)
+text: '(c) O manual de voo aprovado ou AOM deve conter procedimentos apropriados para:
+
+  (1) utilização do TAWS; e
+
+  (2) reação apropriada da tripulação de voo em resposta aos alertas visuais e sonoros do
+  TAWS.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- taws
+- alarme
+- alertas
+- apropriada
+- apropriados
+- aprovado
+- conter
+- manual
+- percepcao
+- procedimentos
+- proximidade
+- reacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

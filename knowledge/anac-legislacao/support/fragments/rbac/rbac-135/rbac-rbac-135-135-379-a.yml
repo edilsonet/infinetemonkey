@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-379-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.379'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de decolagem'
+subsection_id: a
+cite: 135.379(a)
+title: 135.379(a)
+text: (a) No caso de um grande avião categoria transporte com motores a turbina, é vedado
+  decolar com esse avião com um peso maior do que aquele indicado no manual de voo do avião
+  para a altitude do aeródromo e para a temperatura ambiente existente na decolagem.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- categoria
+- decolagem
+- motores
+- transporte
+- turbina
+- aerodromo
+- altitude
+- ambiente
+- aquele
+- avioes
+- caso
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

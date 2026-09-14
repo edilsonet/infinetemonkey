@@ -1,0 +1,24 @@
+id: rbac-rbac-90-90-111-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.111'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 90.111(b)
+title: 90.111(b)
+text: (b) Ações ou operações previstas em outras publicações da UAP poderão integrar um MOP.
+keywords:
+- regras-de-voo
+- operacoes
+- acoes
+- gerais
+- integrar
+- outras
+- publicacoes
+- requisitos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,158 @@
+kind: iac
+source_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac
+fetched_via: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac
+count: 18
+items:
+- kind: iac
+  code: iac-001-1001a
+  title: IAC 001-1001A
+  ementa: 20/06/2005
+  publication_date: Elaboração e controle de publicações do DAC.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-001-1001a
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-001-1001a/@@display-file/arquivo_norma/IAC001_1001A.pdf
+  family: '1'
+- kind: iac
+  code: iac-121-1013
+  title: IAC 121-1013
+  ementa: 01/04/2008
+  publication_date: Procedimentos e requisitos técnico-operacionais complementares para operação
+    no aeroporto de Congonhas.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-121-1013
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-121-1013/@@display-file/arquivo_norma/IAC121-1013.pdf
+  family: '121'
+- kind: iac
+  code: iac-160-1001
+  title: IAC 160-1001
+  ementa: 16/04/2003
+  publication_date: Peso máximo de decolagem padronizado das aeronaves do transporte aéreo
+    regular e não regular (grupo 1) Última atualização (EMD 04 - 12/2005).
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-160-1001
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-160-1001/@@display-file/arquivo_norma/IAC160_1001A.pdf
+  family: '160'
+- kind: iac
+  code: iac-160-1003
+  title: IAC 160-1003
+  ementa: 27/06/2005
+  publication_date: 'Reciprocidade de tratamento em relação à isenção das tarifas da infra-estrutura
+    aeronáutica. Alterada: Resolução nº 432, de 19/06/2017'
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-160-1003
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-160-1003/@@display-file/arquivo_norma/IAC%20160-1003%20-%20Compilado%20at%C3%A9%20RA2017-0432.pdf
+  family: '160'
+- kind: iac
+  code: iac-180-1002a
+  title: IAC 180-1002A
+  ementa: 27/06/2005
+  publication_date: Cessão de equipamentos aeronáuticos Última atualização (EMD 03 - 05/2006).
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-180-1002a
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-180-1002a/@@display-file/arquivo_norma/IAC180_1002A.pdf
+  family: '180'
+- kind: iac
+  code: iac-180-1003
+  title: IAC 180-1003
+  ementa: 17/08/2004
+  publication_date: Identificação de propriedade de material aeronáutico da ANAC.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-180-1003
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-180-1003/@@display-file/arquivo_norma/IAC180_1003.pdf
+  family: '180'
+- kind: iac
+  code: iac-187-1001
+  title: IAC 187-1001
+  ementa: 21/03/2005
+  publication_date: Cobrança de serviços prestados pelo Departamento de Aviação Civil e organizações
+    subordinadas.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-187-1001
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-187-1001/@@display-file/arquivo_norma/IAC187_1001.pdf
+  family: '187'
+- kind: iac
+  code: iac-200-1001
+  title: IAC 200-1001
+  ementa: 27/06/2005
+  publication_date: Plano de assistência às vítimas de acidentes aeronáuticos e apoio aos
+    seus familiares
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-200-1001
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-200-1001/@@display-file/arquivo_norma/IAC200_1001.pdf
+  family: '200'
+- kind: iac
+  code: iac-201
+  title: IAC 201
+  ementa: 07/02/1997
+  publication_date: F iscalização e controle da contribuição devida ao fundo aeroviário.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-201
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-201/@@display-file/arquivo_norma/IAC0201.pdf
+  family: '201'
+- kind: iac
+  code: iac-2306
+  title: IAC 2306
+  ementa: 16/07/1990
+  publication_date: Constituição e atribuições específicas das Seções de Aviação Civil (Última
+    atualização EMD 01 - 04/1991).
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2306
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2306/@@display-file/arquivo_norma/IAC2306.pdf
+  family: '230'
+- kind: iac
+  code: iac-3130
+  title: IAC 3130
+  ementa: 31/12/1996
+  publication_date: Procedimentos e requisitos complementares para operação de grandes aviões
+    categoria transporte no Aeroporto Santos Dumont.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3130
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3130/@@display-file/arquivo_norma/IAC3130.pdf
+  family: '313'
+- kind: iac
+  code: iac-3252
+  title: IAC 3252
+  ementa: 27/02/1997
+  publication_date: Registro de horas de vôo de tripulantes.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3252
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3252/@@display-file/arquivo_norma/IAC3252.pdf
+  family: '325'
+- kind: iac
+  code: iac-4201a
+  title: IAC 4201A
+  ementa: 31/08/2001
+  publication_date: Sistemática de controle e fiscalização do programa federal de auxílio
+    a aeroportos.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-4201a
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-4201a/@@display-file/arquivo_norma/IAC4201A.pdf
+  family: '420'
+- kind: iac
+  code: iac-5301
+  title: IAC 5301
+  ementa: 23/07/1999
+  publication_date: Instalações para as Seções de Aviação Civil (SAC) nos aeroportos.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-5301
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-5301/@@display-file/arquivo_norma/IAC5301.pdf
+  family: '530'
+- kind: iac
+  code: iac-3206
+  title: IAC 3206
+  ementa: 01/01/2015
+  publication_date: Composição de Tripulação.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3206/@@display-file/arquivo_norma/IAC3206.pdf
+  family: '320'
+- kind: iac
+  code: iac-3507
+  title: IAC 3507
+  ementa: 01/01/2015
+  publication_date: Normas e procedimentos para a confecção e aprovação de listas mestras
+    de equipamentos mínimos (MMEL) e de listas de equipamentos mínimos (MEL).
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3507/@@display-file/arquivo_norma/IAC3507ED1998.pdf
+  family: '350'
+- kind: iac
+  code: iac-2211
+  title: IAC 2211
+  ementa: 01/01/2015
+  publication_date: Transporte de Cadáveres por via aérea.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2211/@@display-file/arquivo_norma/IAC2211.pdf
+  family: '221'
+- kind: iac
+  code: iac-2214
+  title: IAC 2214
+  ementa: 01/01/2015
+  publication_date: Translado para o Brasil, de aeronaves civis adquiridas no exterior.
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2214/@@display-file/arquivo_norma/IAC2214.pdf
+  family: '221'

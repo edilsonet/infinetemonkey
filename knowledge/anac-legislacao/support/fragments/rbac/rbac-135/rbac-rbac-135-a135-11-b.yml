@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-11-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.11
+section_title: Requisitos da célula - cargas em voo
+subsection_id: b
+cite: A135.11(b)
+title: A135.11(b)
+text: '(b) Cargas giroscópicas de motor a turbina. Cada berço de motor turboélice, assim como
+  as estruturas que o suportam, deve ser projetado para as cargas giroscópicas que resultam,
+  com os motores na rotação máxima contínua, de uma das condições abaixo:
+
+  (1) as condições especificadas no RBAC nº 23; ou
+
+  (2) todas as combinações possíveis das condições abaixo:'
+keywords:
+- taxi-aereo
+- operacoes
+- cargas
+- condicoes
+- abaixo
+- giroscopicas
+- motor
+- a135
+- assim
+- berco
+- cada
+- celula
+- combinacoes
+- continua
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

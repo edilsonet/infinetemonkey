@@ -1,0 +1,39 @@
+id: rbac-rbac-145-145-153-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.153'
+section_title: Requisitos do pessoal de supervisão
+subsection_id: b
+cite: 145.153(b)
+title: 145.153(b)
+text: '(b) Cada supervisor deve:
+
+  (1) se vinculado a uma organização de manutenção localizada no Brasil, ser habilitado de
+
+  acordo com o RBAC 65; (Redação dada pela Resolução nº 610, de 23.02.2021)
+
+  (1)-I se vinculado a uma organização de manutenção localizada fora do Brasil, ter treinamento
+
+  e experiência adequados para assegurar nível de segurança equivalente ao do parágrafo (1);
+
+  (2)-I se vinculado a uma organização de manutenção localizada dentro ou fora do Brasil:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- brasil
+- localizada
+- organizacao
+- vinculado
+- fora
+- acordo
+- adequados
+- assegurar
+- cada
+- dada
+- dentro
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

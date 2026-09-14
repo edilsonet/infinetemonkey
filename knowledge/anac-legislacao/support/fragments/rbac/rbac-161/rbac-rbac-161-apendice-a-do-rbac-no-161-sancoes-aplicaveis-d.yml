@@ -1,0 +1,33 @@
+id: rbac-rbac-161-apendice-a-do-rbac-no-161-sancoes-aplicaveis-d
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: apendice-a-do-rbac-no-161-sancoes-aplicaveis
+section_title: APÊNDICE A DO RBAC Nº 161 - SANÇÕES APLICÁVEIS
+subsection_id: d
+cite: apendice-a-do-rbac-no-161-sancoes-aplicaveis(d)
+title: apendice-a-do-rbac-no-161-sancoes-aplicaveis(d)
+text: '(d)
+
+  O operador de aeródromo deve consultar o Comando da Aeronáutica - COMAER a fim de considerar
+  o número de movimentos de aeronaves militares para cálculo das curvas de ruído do processo
+  de elaboração do PZR, quando o aeródromo for compartilhado.
+
+  (Redação dada pela Resolução nº 609, de 23.02.2021)'
+keywords:
+- aerodromo
+- apendice
+- aplicaveis
+- sancoes
+- aeronautica
+- aeronaves
+- calculo
+- comaer
+- comando
+- compartilhado
+- considerar
+- consultar
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

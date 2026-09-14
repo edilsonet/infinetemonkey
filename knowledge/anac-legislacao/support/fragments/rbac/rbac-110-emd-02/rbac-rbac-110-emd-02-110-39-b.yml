@@ -1,0 +1,69 @@
+id: rbac-rbac-110-emd-02-110-39-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.39'
+section_title: Manual de Procedimentos do Centro de Instrução (MPCI)
+subsection_id: b
+cite: 110.39(b)
+title: 110.39(b)
+text: '(b) No MPCI devem constar as seguintes descrições:
+
+  (1) dados gerais do centro de instrução, tais como nome do(s) representante(s) legal(is)
+  e dos demais responsáveis previstos neste Regulamento, endereço da sede e canais de comunicação
+  formais da empresa;
+
+  (2) quadro funcional;
+
+  (3) cursos AVSEC que serão ministrados e suas modalidades - presencial, semipresencial ou
+  a distância;
+
+  (4) para cada curso AVSEC ministrado, conteúdo programático, proposta de grade curricular
+  dos cursos, proposta de plano de aula, recursos auxiliares da instrução, referências bibliográficas
+  e documentos normativos ou regulamentares;
+
+  (5) termo de responsabilidade assinado pelo representante legal do centro de instrução e
+  pelo responsável técnico, declarando o compromisso pelo cumprimento do MPCI e deste Regulamento;
+
+  (6) modelo de regulamento de curso; apresentação dos sistemas simuladores e simulacros/imagens
+  exigidos neste Regulamento, nas turmas dos cursos de Formação e Atualização em Inspeção
+  de Segurança da Aviação Civil;
+
+  (7) plataformas ou meios utilizados para instrução nos cursos a distância ou semipresenciais,
+  incluindo o suporte técnico e pedagógico necessários para a eficácia da capacitação;
+
+  (8) responsabilidades e procedimentos de seleção nos termos deste regulamento para todos
+  os profissionais que manuseiam documentos do centro de instrução;
+
+  (9) responsabilidades e procedimentos de matrícula que garantam a conferência dos requisitos
+  exigidos neste regulamento;
+
+  (10) responsabilidades e procedimentos relativos às aplicações de avaliação de desempenho
+  e interposição de recurso;
+
+  (11) responsabilidades, procedimentos e métodos de melhoria da qualidade da instrução ministrada;
+  e
+
+  (12) instruções relativas ao nível de sigilo, arquivo e guarda dos registros, identificando
+  a forma e o local de armazenamento para os documentos requeridos na seção 110.63 e para
+  o material de referência que requeira tratamento sigiloso.'
+keywords:
+- carga
+- operacoes
+- instrucao
+- regulamento
+- procedimentos
+- centro
+- cursos
+- responsabilidades
+- documentos
+- mpci
+- avsec
+- curso
+- deste
+- distancia
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

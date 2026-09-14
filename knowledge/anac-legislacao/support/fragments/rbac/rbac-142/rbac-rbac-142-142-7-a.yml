@@ -1,0 +1,40 @@
+id: rbac-rbac-142-142-7-a
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.7'
+section_title: Solicitação, emissão, emenda, suspensão, revogação ou cassação de certificado
+  de CTAC
+subsection_id: a
+cite: 142.7(a)
+title: 142.7(a)
+text: '(a) A solicitação para emissão de um certificado de CTAC e de suas respectivas Especificações
+  de
+
+  Treinamento deve:
+
+  (1) ser realizada por formulário e procedimentos estabelecidos pela ANAC;
+
+  (2) pelo menos 120 dias antes da data do início pretendido de qualquer treinamento; e
+
+  (3) pelo menos noventa dias antes da data de expiração do certificado anterior, em caso
+  de
+
+  CTAC localizado em país estrangeiro.'
+keywords:
+- certificado
+- ctac
+- data
+- dias
+- emissao
+- menos
+- solicitacao
+- treinamento
+- anterior
+- caso
+- cassacao
+- especificacoes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

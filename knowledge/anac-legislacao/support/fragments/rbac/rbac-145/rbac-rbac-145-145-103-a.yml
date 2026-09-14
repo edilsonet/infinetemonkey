@@ -1,0 +1,44 @@
+id: rbac-rbac-145-145-103-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.103'
+section_title: Requisitos para instalações e recursos
+subsection_id: a
+cite: 145.103(a)
+title: 145.103(a)
+text: '(a) Cada organização de manutenção certificada deve prover:
+
+  (1) instalações que abriguem recursos, equipamentos, ferramentas, materiais, dados técnicos
+  e
+
+  pessoal compatível com suas certificações, especificações operativas e, quando aplicável,
+  lista de
+
+  capacidades;
+
+  (2) recursos para executar apropriadamente a manutenção, manutenção preventiva ou
+
+  alteração de artigos ou serviços especializados para os quais é certificado. Os recursos
+  devem
+
+  incluir:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- recursos
+- instalacoes
+- abriguem
+- alteracao
+- aplicavel
+- apropriadamente
+- artigos
+- cada
+- capacidades
+- certificacoes
+- certificada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

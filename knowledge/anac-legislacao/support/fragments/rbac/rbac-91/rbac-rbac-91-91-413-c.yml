@@ -1,0 +1,41 @@
+id: rbac-rbac-91-91-413-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.413'
+section_title: Testes e inspeções do transponder
+subsection_id: c
+cite: 91.413(c)
+title: 91.413(c)
+text: '(c) Os testes e inspeções requeridos por esta seção devem ser conduzidos:
+
+  (1) por uma organização de manutenção certificada pela ANAC;
+
+  (2) pelas pessoas autorizadas a executar manutenção da empresa aérea, possuindo um CAMP,
+
+  aprovado segundo o RBAC nº 121 ou o parágrafo 135.411(a)(2) do RBAC nº 135; ou
+
+  (3) pelo fabricante da aeronave na qual o transponder a ser testado está instalado, se este
+  tiver
+
+  sido instalado pelo próprio fabricante.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- fabricante
+- inspecoes
+- instalado
+- manutencao
+- testes
+- transponder
+- aerea
+- aeronave
+- aprovado
+- autorizadas
+- camp
+- certificada
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

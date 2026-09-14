@@ -1,0 +1,46 @@
+id: rbac-rbac-23-23-2600-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2600'
+section_title: Interface com a tripulação.
+subsection_id: b
+cite: 23.2600(b)
+title: 23.2600(b)
+text: '(b) O requerente deve instalar controles e mos-
+
+  tradores de voo, navegação, vigilância e do
+
+  grupo motopropulsor, de modo que a tripulação
+
+  de voo qualificada possa monitorar e desempe-
+
+  nhar tarefas definidas, associadas às funções
+
+  pretendidas dos sistemas e equipamentos. O
+
+  projeto do sistema e equipamento deve mini-
+
+  mizar erros da tripulação de voo, que poderiam
+
+  resultar em riscos adicionais.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- tripulacao
+- adicionais
+- associadas
+- controles
+- definidas
+- desempe
+- equipamento
+- equipamentos
+- erros
+- funcoes
+- grupo
+- instalar
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

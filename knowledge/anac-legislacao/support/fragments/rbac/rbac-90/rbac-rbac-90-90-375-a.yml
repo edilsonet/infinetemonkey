@@ -1,0 +1,42 @@
+id: rbac-rbac-90-90-375-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.375'
+section_title: Equipamentos para amarração da carga externa
+subsection_id: a
+cite: 90.375(a)
+title: 90.375(a)
+text: '(a) As redes e estropos utilizados nas operações de carga externa deverão ser:
+
+  (1) adequados ao transporte de cargas externas;
+
+  (2) inspecionados e testados antes de cada operação;
+
+  (3) distribuídos de forma simétrica em relação à carga;
+
+  (4) dispostos sem extremidades cruzadas ou soltas no momento do engate da carga ao helicóptero;
+
+  (5) dispostos sem torções ao longo dos próprios comprimentos; e
+
+  (6) conforme com demais requisitos estabelecidos a critério da UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- carga
+- dispostos
+- externa
+- adequados
+- amarracao
+- cada
+- cargas
+- comprimentos
+- criterio
+- cruzadas
+- demais
+- deverao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-101-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.101'
+section_title: Pontos de Acesso
+subsection_id: a
+cite: 107.101(a)
+title: 107.101(a)
+text: '(a) O operador de aeródromo deve estabelecer e operar os pontos de controle de acesso
+  e pontos de acesso emergencial às áreas controladas (AC) e áreas restritas de segurança
+  (ARS), observando os recursos materiais e humanos necessários.
+
+  (1) O operador de aeródromo deve garantir que o acesso de pessoas, veículos e equipamentos
+  à AC ou ARS ocorra somente através de ponto(s) de acesso previamente estabelecido(s).
+
+  (2) Os pontos de acesso devem prover nível de proteção, no mínimo, equivalente ao oferecido
+  pelas barreiras de segurança empregadas pelo operador do aeródromo para proteção do perímetro
+  das AC e ARS onde estão inseridos.
+
+  (3) O operador de aeródromo pode autorizar que a implementação e operação dos recursos necessários
+  para o controle dos pontos de acesso permaneça sob a responsabilidade da organização que
+  explora a respectiva área, desde que este elabore, implemente e mantenha um PSESCA, nos
+  termos da seção 107.215.'
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- pontos
+- aerodromo
+- operador
+- areas
+- controle
+- necessarios
+- protecao
+- recursos
+- area
+- atraves
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

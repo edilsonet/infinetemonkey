@@ -1,0 +1,51 @@
+id: rbac-rbac-135-a135-19-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.19
+section_title: Componentes do sistema de combustível
+subsection_id: i
+cite: A135.19(i)
+title: A135.19(i)
+text: '(i) ficar entre a saída do tanque e a entrada da bomba com deslocamento positivo acionada
+  pelo motor, caso exista essa bomba;
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (ii) ser acessível para drenagem e limpeza e, para o elemento filtrante, ser facilmente
+  removível; e
+
+  (iii) ser montado de modo que seu peso não seja suportado pelas linhas a ele conectadas
+  ou pelas conexões de entrada e saída da tela ou filtro propriamente dito.
+
+  (2) exceto se existirem meios no sistema de combustível para evitar o acúmulo de gelo no
+  filtro, deve haver meios para automaticamente manter o fluxo de combustível se ocorrer bloqueio
+  do filtro por gelo; e
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (3) a tela ou filtro deve ter capacidade adequada (quanto às limitações operacionais estabelecidas
+  para assegurar serviço apropriado) e malha apropriada para assegurar operação do motor com
+  o combustível contaminado a um grau (no que diz respeito ao tamanho e densidade de partículas)
+  que possa ser razoavelmente esperado em serviço. O grau de filtragem do combustível não
+  pode ser menor do que aquele estabelecido para certificação de tipo do motor.'
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- filtro
+- motor
+- assegurar
+- bomba
+- dada
+- entrada
+- gelo
+- grau
+- meios
+- pelas
+- redacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

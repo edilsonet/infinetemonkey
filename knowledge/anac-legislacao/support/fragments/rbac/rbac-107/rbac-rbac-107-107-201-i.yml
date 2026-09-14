@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-201-i
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.201'
+section_title: Estrutura do Sistema de Contingência de AVSEC
+subsection_id: i
+cite: 107.201(i)
+title: 107.201(i)
+text: '(i) disponibilizar instalações, recursos humanos e administrativos apropriados para
+  o funcionamento adequado do COE, da Assessoria de Avaliação de Risco (AAR) e dos grupos
+  de gerenciamento de crise;
+
+  (ii) disponibilizar sistemas de comunicação que garantam que os procedimentos de recepção
+  e difusão de informações, sob sua responsabilidade, sejam eficazes, de modo que os órgãos
+  e pessoas competentes recebam e transmitam as informações em tempo hábil;
+
+  (iii) garantir que as instalações e demais recursos tecnológicos empregados, inclusive os
+  sistemas de comunicações, sejam regularmente testados para verificação das condições normais
+  de funcionamento;
+
+  (iv) estabelecer os tempos de resposta a acionamentos, em coordenação com as organizações
+  e indivíduos envolvidos nas ações de contingência;'
+keywords:
+- seguranca
+- aeroporto
+- contingencia
+- disponibilizar
+- funcionamento
+- informacoes
+- instalacoes
+- recursos
+- sejam
+- sistemas
+- acionamentos
+- acoes
+- adequado
+- administrativos
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

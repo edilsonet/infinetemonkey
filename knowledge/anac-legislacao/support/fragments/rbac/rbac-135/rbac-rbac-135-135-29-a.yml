@@ -1,0 +1,59 @@
+id: rbac-rbac-135-135-29-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.29'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: a
+cite: 135.29(a)
+title: 135.29(a)
+text: '(a) O detentor de certificado deve estabelecer e manter um SGSO que:
+
+  (1) estabeleça a política e os objetivos da organização para a segurança operacional;
+
+  (2) estabeleça as metas e indicadores de desempenho da segurança operacional que permitam
+  avaliar o alcance dos objetivos da segurança operacional;
+
+  (3) estabeleça a estrutura organizacional e os responsáveis pela implementação, manutenção
+  e melhoria contínua do sistema;
+
+  (4) identifique os perigos e avalie os riscos operacionais a eles associados;
+
+  (5) aplique ações corretivas e preventivas desenvolvidas a partir dos riscos operacionais
+  avaliados, bem como avalie a efetividade dessas ações;
+
+  (6) execute supervisão permanente das atividades da organização, de modo a garantir a segurança
+  operacional requerida;
+
+  (7) planeje e realize periodicamente avaliações internas ou auditorias do SGSO, visando
+  sua adequação ao contexto operacional da organização e a melhoria contínua dos níveis de
+  desempenho da segurança operacional;
+
+  (8) assegure que as pessoas envolvidas com atividades sensíveis para a segurança operacional
+  possuam as competências necessárias e estejam cientes de suas responsabilidades;
+
+  (9) comunique os resultados relativos ao desempenho da segurança operacional, bem como dissemine
+  informações que aprimorem a cultura da segurança operacional da organização; e
+
+  (10) gere e organize documentos e registros que forneçam evidências do desenvolvimento,
+  operacionalização, manutenção e melhoria contínua do SGSO.'
+keywords:
+- taxi-aereo
+- operacoes
+- operacional
+- seguranca
+- organizacao
+- sgso
+- continua
+- desempenho
+- estabeleca
+- melhoria
+- acoes
+- atividades
+- avalie
+- manutencao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

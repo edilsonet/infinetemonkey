@@ -1,0 +1,42 @@
+id: rbac-rbac-155-155-211-h
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.211'
+section_title: '155.211'
+subsection_id: h
+cite: 155.211(h)
+title: 155.211(h)
+text: '(h)
+
+  Os objetos que, devido às suas funções, precisam estar localizados na rota de táxi terrestre
+  de helicóptero devem ser frangíveis e atender aos seguintes requisitos:
+
+  (1)
+
+  não podem estar localizados em uma distância inferior a 50 cm a partir da borda da pista
+  de táxi terrestre de helicóptero; e
+
+  (2)
+
+  não podem penetrar o plano originado na altura de 25 cm acima da superfície da pista de
+  táxi terrestre de helicóptero, a uma distância de 50 cm a partir da borda da pista de táxi
+  terrestre de helicóptero, inclinando-se para cima e para fora a uma rampa de 5%.'
+keywords:
+- seguranca-aeroportuaria
+- helicoptero
+- taxi
+- terrestre
+- pista
+- borda
+- distancia
+- estar
+- localizados
+- partir
+- podem
+- acima
+- altura
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-175-175-367-c
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.367'
+section_title: Identificação de ULD contendo artigos perigosos
+subsection_id: c
+cite: 175.367(c)
+title: 175.367(c)
+text: '(c) Caso a ULD contenha volumes que possuam a etiqueta “Somente em aeronaves de carga”,
+  essa
+
+  etiqueta deve estar visível ou o rótulo de identificação deve indicar que a ULD somente
+  pode ser
+
+  carregada em uma aeronave de carga.'
+keywords:
+- artigos-perigosos
+- carga
+- etiqueta
+- identificacao
+- somente
+- aeronave
+- aeronaves
+- artigos
+- carregada
+- caso
+- contendo
+- contenha
+- estar
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

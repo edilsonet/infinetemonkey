@@ -1,0 +1,38 @@
+id: rbac-rbac-91-91-531-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.531'
+section_title: Requisitos de piloto segundo em comando
+subsection_id: b
+cite: 91.531(b)
+title: 91.531(b)
+text: '(b) É permitido operar os seguintes aviões sem um piloto designado como segundo em
+  comando:
+
+  (1) qualquer avião certificado para operação com apenas 1 (um) piloto; e
+
+  (2) um grande avião, um avião da categoria normal nível de certificação 4 ou um avião
+
+  multimotor com motor a turbina que possua um certificado de aeronavegabilidade especial,
+  se:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aviao
+- piloto
+- certificado
+- comando
+- segundo
+- aeronavegabilidade
+- avioes
+- categoria
+- certificacao
+- designado
+- especial
+- grande
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

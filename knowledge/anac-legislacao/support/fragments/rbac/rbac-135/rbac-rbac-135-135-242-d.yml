@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-242-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.242'
+section_title: 'Tripulação de voo: geral'
+subsection_id: d
+cite: 135.242(d)
+title: 135.242(d)
+text: (d) Qualquer detentor de certificado operando segundo este Regulamento deve obedecer
+  as restrições de idade para as prerrogativas dos pilotos em comando estabelecidas pelo RBAC
+  nº 61.
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- comando
+- detentor
+- estabelecidas
+- geral
+- idade
+- obedecer
+- operando
+- pilotos
+- prerrogativas
+- regulamento
+- restricoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

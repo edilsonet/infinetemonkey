@@ -1,0 +1,80 @@
+id: rbac-rbac-139-139-209-a
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.209'
+section_title: Inspeção de certificação
+subsection_id: a
+cite: 139.209(a)
+title: 139.209(a)
+text: '(a) A inspeção de certificação tem por objetivo verificar se as regras, padrões e práticas
+  adotadas correspondem àquelas constantes do MOPS e engloba os aspectos relacionados à segurança
+  operacional, em especial:
+
+  (1) Organização do operador de aeródromo: verificação de documentos do aeródromo, incluindo
+  constituição do operador de aeródromo, responsáveis pelas atividades operacionais, qualificação
+  dos responsáveis pelas atividades operacionais ou por atividades específicas, treinamento
+  dos profissionais que exercem atividades específicas e Programa de Instrução em Segurança
+  Operacional (PISOA);
+
+  (2) Sistema de Gerenciamento da Segurança Operacional (SGSO): verificação da implementação
+  do MOPS quanto ao Manual de Gerenciamento da Segurança Operacional (MGSO), englobando a
+  política e objetivos de segurança operacional, gerenciamento dos riscos de segurança operacional,
+  garantia da segurança operacional, promoção da segurança operacional, planejamento formal
+  para implantação do SGSO;
+
+  (3) Gerenciamento do Risco da Fauna: verificação da implementação do MOPS quanto à identificação
+  do perigo da fauna, monitoramento da fauna no sítio aeroportuário, implantação de técnicas
+  para exclusão ou modificação de habitat atrativo de animais, procedimentos administrativos
+  referentes ao programa de gerenciamento do risco da fauna, rotina de procedimentos constantes
+  no Programa de Gerenciamento do Risco da Fauna (PGRF);
+
+  (4) Operações Aeroportuárias: verificação da implementação do MOPS para posicionamento de
+  equipamentos na área operacional do aeródromo, condição operacional para a infraestrutura
+  disponível, proteção da área operacional, Sistema de Orientação e Controle da Movimentação
+  no Solo (SOCMS), movimentação de aeronaves, veículos, equipamentos e pessoas na área operacional,
+  acesso e permanência na área de manobras, prevenção de incursão em pista, gerenciamento
+  do pátio de aeronaves, alocação de aeronaves no pátio, estacionamento de aeronaves no pátio,
+  abordagem à aeronave, abastecimento e transferência do combustível da aeronave, processamento
+  de passageiros, bagagens, mala postal e carga aérea, liberação de aeronave, operações em
+  baixa visibilidade, monitoramento da condição física e operacional do aeródromo;
+
+  (5) Manutenção Aeroportuária: verificação da implementação do MOPS quanto ao sistema de
+  manutenção aeroportuária, áreas pavimentadas incluindo pista de pouso e decolagem, pista
+  de táxi e pátio de estacionamento de aeronaves, vias de circulação de veículos, equipamentos
+  e pessoas, áreas não-pavimentadas, áreas verdes, sistema de drenagem, auxílios visuais para
+  navegação e indicação de áreas de uso restrito, sistema elétrico, proteção da área operacional,
+  equipamentos, veículos e sinalização viária da área operacional;
+
+  (6) Resposta à Emergência Aeroportuária: verificação da implementação do MOPS quanto aos
+  recursos necessários para o atendimento às emergências aeroportuárias, que incluem ambulâncias,
+  Centro de Operações de Emergência (COE), Posto de Coordenação Móvel (PCM), Recursos externos,
+  mapas de grade interno e externo, Plano de Emergência em Aeródromo (PLEM), Plano de Remoção
+  de Aeronaves Inoperantes e Desinterdição de Pista (PRAI), Plano Contraincêndio de Aeródromo
+  (PCINC), exercícios simulados de emergência em aeródromo, Serviço de Prevenção, Salvamento
+  e Combate a Incêndio em Aeródromo (SESCINC), Categoria Contraincêndio do Aeródromo (CAT),
+  agentes extintores, Carros Contraincêndio de Aeródromo (CCI), veículos de apoio às operações
+  do SESCINC, proteç&atiatilde;o individual dos bombeiros de aeródromo, materiais e equipamentos
+  de apoio às operações de resgate e combate a incêndio, sistemas de comunicação e alarme,
+  provisão de recursos humanos para o SESCINC, Seção Contraincêndio de Aeródromo (SCI), tempo-resposta
+  do SESCINC, procedimentos operacionais do SESCINC.'
+keywords:
+- aerodromos
+- infraestrutura
+- operacional
+- aerodromo
+- seguranca
+- gerenciamento
+- aeronaves
+- area
+- mops
+- verificacao
+- equipamentos
+- fauna
+- implementacao
+- operacoes
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

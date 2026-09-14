@@ -1,0 +1,48 @@
+id: rbac-rbha-e-rbac-21-25-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.25'
+section_title: 'Emissão de certificado de tipo: aeronave categoria restrita'
+subsection_id: b
+cite: 21.25(b)
+title: 21.25(b)
+text: '(b) Para as finalidades desta seção “operações com propósitos especiais” incluem:
+
+  (1) agropecuária (pulverização, polvilhamento, semeadura, controle de rebanhos e de animais
+  predatórios);
+
+  (2) conservação da flora e da fauna;
+
+  (3) levantamentos aéreos (fotografia, mapeamento e exploração de reservas petrolíferas ou
+  minerais);
+
+  (4) inspeção de oleodutos, de linhas de transmissão de eletricidade e de canais;
+
+  (5) controle meteorológico (observações meteorológicas e nucleação de nuvens);
+
+  (6) propaganda aérea (letras no céu, reboque de faixas, sinais aéreos e outras formas de
+  publicidade aérea que impliquem modificações ao projeto de tipo aprovado da aeronave); e
+
+  (7) qualquer outra operação especial aprovada pela ANAC.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aerea
+- aereos
+- aeronave
+- controle
+- tipo
+- agropecuaria
+- animais
+- aprovada
+- aprovado
+- canais
+- categoria
+- certificado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

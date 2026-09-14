@@ -1,0 +1,29 @@
+id: rbac-rbac-155-155-349-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.349'
+section_title: Sistema de iluminação da área de aproximação final e decolagem (FATO)
+subsection_id: a
+cite: 155.349(a)
+title: 155.349(a)
+text: '(a)
+
+  A FATO de um heliponto destinado ao uso noturno deve ser provida de um sistema de iluminação.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- iluminacao
+- sistema
+- aproximacao
+- area
+- decolagem
+- destinado
+- final
+- heliponto
+- noturno
+- provida
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

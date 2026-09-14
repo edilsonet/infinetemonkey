@@ -1,0 +1,44 @@
+id: rbac-rbha-e-rbac-21-145-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.145'
+section_title: Prerrogativas
+subsection_id: b
+cite: 21.145(b)
+title: 21.145(b)
+text: '(b) O detentor de um certificado de organização de produção de aeronaves categoria
+  primária ou aeronaves categoria normal, utilidade ou acrobática que possam ter direito a
+  receber um certificado de aeronavegabilidade na categoria primária de acordo com o parágrafo
+  21.184(c) pode:
+
+  (1) conduzir treinamento de pessoas para a execução de programas especiais de inspeções
+  e manutenção preventiva, aprovados como parte do projeto de tipo da aeronave segundo o parágrafo
+  21.24(b), desde que os instrutores possuam habilitação de mecânico de célula, de grupo motopropulsor
+  e de aviônica emitida conforme o RBHA 65, ou RBAC que venha a substituí-lo, e que o curso
+  de treinamento seja registrado na ANAC; e
+
+  (2) emitir um certificado de competência para as pessoas que completarem, com sucesso, esse
+  treinamento, desde que em tal certificado conste o nome do fabricante e o tipo de aeronave
+  a que o certificado se aplica.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- categoria
+- treinamento
+- aeronave
+- aeronaves
+- desde
+- paragrafo
+- pessoas
+- primaria
+- tipo
+- acordo
+- acrobatica
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

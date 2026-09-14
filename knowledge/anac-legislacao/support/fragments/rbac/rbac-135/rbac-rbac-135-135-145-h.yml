@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-145-h
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.145'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: h
+cite: 135.145(h)
+title: 135.145(h)
+text: '(h) A ANAC pode autorizar desvios desta seção se o operador comprovar que as circunstâncias
+  especiais fazem o pleno cumprimento desta seção desnecessário.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- desta
+- secao
+- autorizar
+- avaliacao
+- circunstancias
+- comprovar
+- cumprimento
+- dada
+- desnecessario
+- desvios
+- especiais
+- fazem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

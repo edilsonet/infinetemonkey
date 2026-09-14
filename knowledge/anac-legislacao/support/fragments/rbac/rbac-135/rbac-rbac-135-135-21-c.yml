@@ -1,0 +1,30 @@
+id: rbac-rbac-135-135-21-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.21'
+section_title: Requisitos do manual geral da empresa
+subsection_id: c
+cite: 135.21(c)
+title: 135.21(c)
+text: (c) O detentor de certificado deve manter pelo menos uma cópia do manual geral da empresa
+  em sua base principal de operações.
+keywords:
+- taxi-aereo
+- operacoes
+- empresa
+- geral
+- manual
+- base
+- certificado
+- copia
+- detentor
+- manter
+- menos
+- principal
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

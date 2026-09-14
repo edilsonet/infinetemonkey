@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-131-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.131'
+section_title: Simulação em voo de situações anormais ou de emergência
+subsection_id: body
+cite: '135.131'
+title: Simulação em voo de situações anormais ou de emergência
+text: '135.131 Simulação em voo de situações anormais ou de emergência
+
+  É vedado simular procedimentos anormais ou de emergência ou simular condições meteorológicas
+  por instrumentos (IMC) por meios artificiais em uma operação de transporte aéreo público.
+
+  (Incluído pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- anormais
+- emergencia
+- simulacao
+- situacoes
+- simular
+- aereo
+- artificiais
+- condicoes
+- incluido
+- instrumentos
+- meios
+- meteorologicas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

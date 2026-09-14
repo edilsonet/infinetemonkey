@@ -1,0 +1,47 @@
+id: rbac-rbac-135-135-338-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.338'
+section_title: 'Qualificações: instrutor de voo em aeronave e instrutor de voo em FSTD e/ou
+  outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: c
+cite: 135.338(c)
+title: 135.338(c)
+text: '(c) Um detentor de certificado somente pode utilizar uma pessoa e uma pessoa somente
+  pode atuar como instrutor de voo em FSTD e/ou outro dispositivo de treinamento aprovado
+  pela ANAC em um programa de treinamento estabelecido segundo esta Subparte, se essa pessoa
+  atender às provisões do parágrafo (b) desta seção em relação ao tipo, classe ou categoria
+  da aeronave envolvida, ou se essa pessoa:
+
+  (1) possuir a licença e as habilitações, exceto CMA, requeridos para atuar como piloto em
+  comando sob este Regulamento;
+
+  (2) tiver completado satisfatoriamente as fases de treinamento para a aeronave que são requeridas
+  para atuar como piloto em comando em operações segundo este Regulamento;
+
+  (3) tiver completado satisfatoriamente os exames de proficiência que são requeridos para
+  atuar como piloto em comando em operações segundo este Regulamento; e
+
+  (4) tiver completado satisfatoriamente os requisitos de treinamento aplicáveis da seção
+  135.340 deste Regulamento.'
+keywords:
+- taxi-aereo
+- operacoes
+- treinamento
+- atuar
+- pessoa
+- regulamento
+- aeronave
+- comando
+- completado
+- instrutor
+- piloto
+- satisfatoriamente
+- segundo
+- tiver
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

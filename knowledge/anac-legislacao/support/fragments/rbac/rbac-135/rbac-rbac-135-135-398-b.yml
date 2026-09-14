@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-398-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.398'
+section_title: 'Limitações operacionais de desempenho: aviões categoria transporte regional'
+subsection_id: b
+cite: 135.398(b)
+title: 135.398(b)
+text: (b) É vedado decolar com um avião categoria transporte regional com um peso maior do
+  que aquele previsto no manual de voo do avião para permitir uma trajetória líquida de decolagem,
+  livrando todos os obstáculos por uma distância vertical de pelo menos 35 pés ou por uma
+  distância horizontal de pelo menos 200 pés enquanto dentro dos limites do aeródromo e por
+  uma distância horizontal de pelo menos 300 pés após passar esses limites.
+keywords:
+- taxi-aereo
+- operacoes
+- distancia
+- menos
+- aviao
+- categoria
+- horizontal
+- limites
+- regional
+- transporte
+- aerodromo
+- aquele
+- avioes
+- decolagem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,46 @@
+id: rbac-rbac-27-a27-4-g
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.4
+section_title: Airworthiness Limitations section.
+subsection_id: g
+cite: A27.4(g)
+title: A27.4(g)
+text: '(g)
+
+  A list of special tools needed.
+
+  I.
+
+  General. A normal category helicopter may not be type certificated for operation under the
+  instrument
+
+  flight rules (IFR) of this chapter unless it meets the design and installation requirements
+  contained in this
+
+  appendix.
+
+  II.
+
+  Definitions.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- this
+- airworthiness
+- appendix
+- category
+- certificated
+- chapter
+- contained
+- definitions
+- design
+- flight
+- general
+- helicopter
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

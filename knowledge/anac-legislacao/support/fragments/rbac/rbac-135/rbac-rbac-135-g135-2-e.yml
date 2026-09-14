@@ -1,0 +1,30 @@
+id: rbac-rbac-135-g135-2-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: e
+cite: G135.2(e)
+title: G135.2(e)
+text: '(e) Requisitos operacionais.
+
+  (1) É permitido que um voo continue além do ponto de entrada ETOPS somente se:'
+keywords:
+- taxi-aereo
+- operacoes
+- requisitos
+- alem
+- continue
+- entrada
+- etops
+- g135
+- operacionais
+- permitido
+- ponto
+- somente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

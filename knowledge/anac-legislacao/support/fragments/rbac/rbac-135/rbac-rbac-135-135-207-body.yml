@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-207-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.207'
+section_title: '135.207'
+subsection_id: body
+cite: '135.207'
+title: '135.207'
+text: '135.207
+
+  VFR: requisito de referências de superfície para helicópteros
+
+  Somente é permitido operar um helicóptero em voo VFR se o piloto tiver referências visuais
+  da superfície ou, à noite, referências luminosas visuais na superfície sob o helicóptero
+  suficientes para controlar o voo com segurança.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- referencias
+- superficie
+- helicoptero
+- visuais
+- controlar
+- dada
+- helicopteros
+- luminosas
+- noite
+- operar
+- permitido
+- piloto
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

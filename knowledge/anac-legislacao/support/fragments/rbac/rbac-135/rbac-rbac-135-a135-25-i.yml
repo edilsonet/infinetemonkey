@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-25-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.25
+section_title: Equipamentos
+subsection_id: i
+cite: A135.25(i)
+title: A135.25(i)
+text: '(i) os instrumentos requeridos pelos parágrafos 23.1305(a)(1) a (4), (b)(2) e (4);
+
+  (ii) um indicador de temperatura de gases para cada motor;
+
+  (iii) um indicador de temperatura do ar livre;
+
+  (iv) um indicador de fluxo de combustível para cada motor;'
+keywords:
+- taxi-aereo
+- operacoes
+- indicador
+- cada
+- motor
+- temperatura
+- a135
+- combustivel
+- equipamentos
+- fluxo
+- gases
+- instrumentos
+- livre
+- paragrafos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

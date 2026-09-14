@@ -1,0 +1,40 @@
+id: rbac-rbac-121-121-157-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.157'
+section_title: Requisitos de certificação dos aviões
+subsection_id: d
+cite: 121.157(d)
+title: 121.157(d)
+text: '(d) Aviões tipo C-46. Operações de carga. Nenhum detentor de certificado pode usar
+  um avião tipo C-46, não incluído na categoria transporte, em operações de carga, a menos
+  que ele:
+
+  (1) seja certificado para um peso bruto máximo que não seja maior do que 48.000 lb;
+
+  (2) esteja conforme com os requisitos de 121.199 até 121.205, utilizando os dados de desempenho
+  do Apêndice I deste regulamento;
+
+  (3) antes de cada voo, cada motor contenha pelo menos 25 galões de óleo; e
+
+  (4) após 31 de dezembro de 1964:'
+keywords:
+- transporte-aereo
+- operacoes
+- avioes
+- cada
+- carga
+- certificado
+- menos
+- requisitos
+- seja
+- tipo
+- apendice
+- aviao
+- bruto
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

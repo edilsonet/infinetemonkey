@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-151-c
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.151'
+section_title: Requisitos de pessoal
+subsection_id: c
+cite: 145.151(c)
+title: 145.151(c)
+text: '(c) assegurar que exista número suficiente desse pessoal com vínculo contratual com
+  treinamento
+
+  ou conhecimento, e experiência na execução da manutenção, manutenção preventiva ou alteração,
+
+  conforme autorizada no certificado de organização de manutenção e respectivas especificações
+
+  operativas, para assegurar que todo serviço seja executado de acordo com o RBAC 43;'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- assegurar
+- pessoal
+- acordo
+- alteracao
+- autorizada
+- certificado
+- conhecimento
+- contratual
+- desse
+- especificacoes
+- execucao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

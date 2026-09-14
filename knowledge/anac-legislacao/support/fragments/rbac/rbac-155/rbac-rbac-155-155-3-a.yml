@@ -1,0 +1,220 @@
+id: rbac-rbac-155-155-3-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.3'
+section_title: '155.3'
+subsection_id: a
+cite: 155.3(a)
+title: 155.3(a)
+text: '(a)
+
+  Para efeito deste Regulamento, aplicam-se os termos e definições estabelecidos no RBAC 01,
+  denominado “Definições, Regras de Redação e Unidades de Medida para Uso nos RBAC”,
+
+  na Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica
+  -
+
+  CBA e os seguintes:
+
+  (1)
+
+  Acurácia
+
+  significa o grau de conformidade entre o valor estimado ou medido e o valor real.
+
+  (2)
+
+  Altura elipsoide (altura geodésica)
+
+  significa altura relativa à elipsoide de referência, medida ao longo da normal externa elipsoidal
+  através do ponto em questão.
+
+  (3)
+
+  Altura ortométrica
+
+  significa a altura de um ponto relativo ao geoide, geralmente apresentado como uma elevação
+  ao nível médio do mar - MSL.
+
+  (4)
+
+  Aproximação para um ponto no espaço (Point-in-space approach PinS)
+
+  significa um procedimento de aproximação baseado no Sistema global de navegação por satélites
+  - GNSS, desenhado apenas para helicóptero. Ele está alinhado com um ponto de referência
+  posicionado a permitir manobras de voo subsequentes ou aproximação e pouso, utilizando manobras
+  em condições visuais adequadas para ver e evitar obstáculos.
+
+  (5)
+
+  Área 2
+
+  significa área de controle terminal
+
+  , conforme publicada no AIP-Brasil ou limitada a um círculo com 45 km de raio com centro
+  a partir do ponto de referência do aeródromo, a que for menor. Em aeródromos onde a área
+  de controle terminal não tiver sido estabelecida, a Área 2 será limitada por um círculo
+  com 45 km de raio com centro no respectivo ponto de referência.
+
+  (6)
+
+  Área 3
+
+  significa área de aeródromos com operação IFR destinada a cobrir a área que se estende da(s)
+  borda(s) da(s) pista(s) de pouso e decolagem até 90 m do eixo da pista. Para todas as outras
+  partes da área de movimento, a Área 3 se estende até 50 m da(s) borda(s) das áreas definidas.
+
+  (7)
+
+  Área de aproximação final e decolagem (FATO)
+
+  significa a área definida sobre a qual a fase final da manobra de aproximação para pairar
+  ou pousar é concluída, e a partir da qual a manobra de decolagem se inicia. Quando a FATO
+  é destinada a helicópteros que operam com classe de performance 1, compreende a área disponível
+  de decolagem interrompida de helicópteros.
+
+  (8)
+
+  Área de aproximação final e decolagem tipo pista de pouso e decolagem (FATO tipo pista de
+  pouso e decolagem)
+
+  significa uma FATO com características similares, quanto ao formato, às de uma pista de
+  pouso e decolagem (retangular).
+
+  (9)
+
+  Área de decolagem interrompida de helicópteros
+
+  significa a área definida em um heliponto adequada para que helicópteros que operam com
+  classe de performance 1 concluam uma decolagem interrompida.
+
+  (10)
+
+  Área de manobras
+
+  significa a parte do heliponto utilizada para a decolagem, pouso e táxi de helicópteros,
+  excluindo-se os pátios de estacionamento de helicópteros.
+
+  (11)
+
+  Área de movimento
+
+  significa a parte do heliponto a ser utilizada para decolagem, pouso e táxi de helicópteros,
+  consistindo da área de manobras e dos pátios de estacionamento de helicópteros.
+
+  (12)
+
+  Área de proteção
+
+  significa uma área localizada dentro de uma rota de táxi e no entorno de uma posição de
+  estacionamento de helicóptero, que proporciona separação das mesmas em relação à objetos,
+  FATO, outras rotas de táxi e posições de estacionamento de helicóptero, visando uma operação
+  segura.
+
+  (13)
+
+  Área de segurança
+
+  significa a área definida em um heliponto, no entorno da FATO, que é livre de obstáculos,
+  exceto aqueles necessários à navegação aérea e destinados a reduzir os riscos de danos aos
+  helicópteros que acidentalmente desviem da FATO.
+
+  (14)
+
+  Área de toque e elevação inicial (TLOF)
+
+  significa a área de um heliponto na qual um helicóptero pode tocar ou se elevar do solo.
+
+  (15)
+
+  Área operacional
+
+  , também denominada “
+
+  lado ar
+
+  ”, significa o conjunto formado pela área de movimento de um heliponto e terrenos e edificações
+  adjacentes, ou parte delas, cujo acesso é controlado.
+
+  (16)
+
+  Auxílios externos
+
+  significa os meios existentes fora do heliponto referentes aos equipamentos, pessoal e órgãos
+  que possam responder a emergências no heliponto.
+
+  (17)
+
+  Calendário
+
+  significa o sistema de referência temporal discreto que fornece a base para definição da
+  posição temporal até a resolução de um dia (Norma ISO 19108, Informação geográfica - Modelo
+  temporal) .
+
+  (18)
+
+  Calendário gregoriano
+
+  significa calendário de uso geral que foi introduzido em 1528 para definir um ano que se
+  aproxima mais do ano tropical do que o calendário juliano (Norma ISO 19108, Informação geográfica
+  - Modelo temporal). No calendário gregoriano, os anos comuns têm 365 dias e os anos bissextos,
+  366 dias, divididos em 12 meses sequenciais.
+
+  (19)
+
+  Checagem de Redundância Cíclica (CRC)
+
+  significa algoritmo matemático aplicado à expressão digital de dados que oferece um nível
+  de garantia contra perda ou alteração de dados.
+
+  (20)
+
+  “D”
+
+  significa a maior dimensão do maior helicóptero cuja operação é prevista no heliponto, quando
+  o(s) rotor(es) está(ão) girando, medida a partir da posição mais à frente do plano do rotor
+  principal para a posição mais recuada do plano do rotor de cauda ou da estrutura do helicóptero.
+
+  (21)
+
+  Datum
+
+  significa qualquer quantidade ou conjunto de quantidades que pode servir como referência
+  ou base para o cálculo de outras quantidades (Norma ISO 19104, Informação geográfica - Terminologia).
+
+  (22)
+
+  Datum geodésico
+
+  significa o conjunto mínimo de parâmetros necessários para definir a localização e a orientação
+  do sistema de referência local relativamente ao sistema/base de referência global.
+
+  (23)
+
+  Declividade média
+
+  significa a diferença entre a elevação máxima e a mínima, ao longo de uma direção, dividido
+  pelo comprimento desta direção.
+
+  (24)
+
+  Distâncias Declaradas - Helipontos'
+keywords:
+- seguranca-aeroportuaria
+- area
+- significa
+- decolagem
+- helicopteros
+- heliponto
+- referencia
+- fato
+- pouso
+- aproximacao
+- helicoptero
+- ponto
+- altura
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

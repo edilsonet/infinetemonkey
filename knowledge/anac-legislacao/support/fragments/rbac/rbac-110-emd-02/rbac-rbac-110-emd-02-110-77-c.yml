@@ -1,0 +1,34 @@
+id: rbac-rbac-110-emd-02-110-77-c
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.77'
+section_title: Plano de Instrução AVSEC (PIAVSEC)
+subsection_id: c
+cite: 110.77(c)
+title: 110.77(c)
+text: '(c) Os procedimentos do PIAVSEC devem:
+
+  (1) atender aos requisitos aplicáveis deste Regulamento; e
+
+  (2) esclarecer, no mínimo, os seguintes questionamentos:'
+keywords:
+- carga
+- operacoes
+- piavsec
+- aplicaveis
+- atender
+- avsec
+- deste
+- esclarecer
+- instrucao
+- minimo
+- plano
+- procedimentos
+- questionamentos
+- regulamento
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

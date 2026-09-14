@@ -1,0 +1,17 @@
+document: is-135-001
+kind: is
+title: IS 135-001E
+ementa: Procedimentos para credenciamento de piloto examinador no âmbito do RBAC nº 135
+family: '135'
+categories:
+- taxi-aereo
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-001
+pdf_url: ''
+archive_url: https://arquivo.pt/wayback/20200827225835id_/https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-001
+sections:
+- preambulo
+fragment_count: 1
+fragment_ids:
+- is-is-135-001-preambulo-body
+parser_version: 5

@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-227-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.227'
+section_title: 'Condições de gelo: limitações operacionais'
+subsection_id: c
+cite: 135.227(c)
+title: 135.227(c)
+text: '(c) Um piloto somente pode voar sob regras IFR em condições conhecidas ou previstas
+  de formação leve ou moderada de gelo ou sob regras VFR em condições conhecidas de formação
+  leve ou moderada de gelo, se:
+
+  (1) a aeronave possuir equipamento de degelo ou de antigelo em funcionamento protegendo
+  cada pá de rotor ou hélice e cada para-brisa, asa, estabilizador ou superfície de controle
+  e cada sistema de velocidade, altitude, razão de subida e instrumento de atitude de voo;
+
+  (2) o avião possuir as provisões de proteção contra gelo previstas no parágrafo A135.17(b)
+  do Apêndice A deste Regulamento; ou
+
+  (3) o avião atender as provisões para certificação de tipo de aeronaves categoria transporte,
+  incluindo os requisitos de certificação para voo em condições de gelo.'
+keywords:
+- taxi-aereo
+- operacoes
+- gelo
+- condicoes
+- cada
+- aviao
+- certificacao
+- conhecidas
+- formacao
+- leve
+- moderada
+- possuir
+- provisoes
+- regras
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

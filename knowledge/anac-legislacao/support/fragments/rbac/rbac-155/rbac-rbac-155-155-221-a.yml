@@ -1,0 +1,34 @@
+id: rbac-rbac-155-155-221-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.221'
+section_title: '155.221'
+subsection_id: a
+cite: 155.221(a)
+title: 155.221(a)
+text: '(a)
+
+  A área de toque e elevação inicial (TLOF) deve estar localizada dentro da FATO.
+
+  (1)
+
+  O centro geométrico da TLOF deve ser coincidente com o centro geométrico da FATO.'
+keywords:
+- seguranca-aeroportuaria
+- centro
+- fato
+- geometrico
+- tlof
+- area
+- coincidente
+- dentro
+- elevacao
+- estar
+- inicial
+- localizada
+- toque
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

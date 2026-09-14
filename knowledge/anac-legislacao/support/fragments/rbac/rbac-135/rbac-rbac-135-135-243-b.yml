@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-243-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.243'
+section_title: Qualificações para piloto em comando
+subsection_id: b
+cite: 135.243(b)
+title: 135.243(b)
+text: '(b) Exceto como previsto no parágrafo (a) desta seção, o detentor de certificado somente
+  pode utilizar uma pessoa e uma pessoa somente pode trabalhar como piloto em comando de uma
+  aeronave operando VFR, se essa pessoa:
+
+  (1) possuir pelo menos uma licença de piloto comercial, na categoria apropriada, com habilitação
+  classe ou tipo, conforme aplicável, válida;
+
+  (2) tiver pelo menos 500 horas de voo como piloto, incluindo um mínimo de 100 horas de voo
+  em navegação, das quais pelo menos 25 tenham sido voadas à noite; e
+
+  (3) para avião, possuir habilitação IFR para avião ou uma licença de piloto de linha aérea
+  com habilitação categoria avião.'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- aviao
+- habilitacao
+- menos
+- pessoa
+- categoria
+- comando
+- horas
+- licenca
+- pode
+- possuir
+- somente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

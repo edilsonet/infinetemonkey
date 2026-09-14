@@ -1,0 +1,35 @@
+id: rbac-rbac-135-a135-22-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.22
+section_title: Sistema de escapamento
+subsection_id: body
+cite: A135.22
+title: Sistema de escapamento
+text: 'A135.22 Sistema de escapamento
+
+  Dreno do sistema de escapamento. Sistemas de escapamento de motores turboélice que possuam
+  pontos baixos ou poços devem incorporar drenos nesses locais. Esses drenos devem descarregar
+  livrando o avião em atitude normal de solo e de voo, e visam a evitar o acúmulo de combustível
+  no caso de falha de uma tentativa de dar partida no motor.'
+keywords:
+- taxi-aereo
+- operacoes
+- escapamento
+- sistema
+- drenos
+- a135
+- acumulo
+- atitude
+- aviao
+- baixos
+- caso
+- combustivel
+- descarregar
+- dreno
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

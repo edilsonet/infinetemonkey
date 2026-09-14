@@ -1,0 +1,33 @@
+id: rbac-rbac-161-161-55-a
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.55'
+section_title: Monitoramento de ruído
+subsection_id: a
+cite: 161.55(a)
+title: 161.55(a)
+text: '(a)
+
+  O operador do aeródromo que apresente média anual de movimento de aeronave nos últimos três
+  anos acima de 120.000 (cento e vinte mil) e que possua regiões de uso residencial ou misto
+  em mais de 50% das áreas definidas pelas curvas de ruído 65-75, 75-80 e 80-85 e acima de
+  85 dB de seu PEZR, isoladas ou conjuntamente, deverá apresentar à ANAC, para análise e aceitação,
+  um projeto de monitoramento de ruído.'
+keywords:
+- ruido
+- acima
+- monitoramento
+- aceitacao
+- aerodromo
+- aeronave
+- analise
+- anos
+- anual
+- apresentar
+- apresente
+- areas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

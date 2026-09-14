@@ -1,0 +1,46 @@
+id: rbac-rbac-031-31-25-b
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.25'
+section_title: '31.25'
+subsection_id: b
+cite: 31.25(b)
+title: 31.25(b)
+text: '(b) No projeto do envelope deve ser utilizado um
+
+  fator de segurança de pelo menos cinco (5). Poderá ser
+
+  utilizado um fator de segurança reduzido de pelo me-
+
+  nos dois (2) se for demonstrado que o fator escolhido
+
+  evitará falhas devido a uma ruptura lenta ou instantâ-
+
+  nea na falta de um limitador de propagação de rasgo.
+
+  O fator escolhido deve ser aplicado para a condição
+
+  mais crítica de pressão máxima de operação, ou tensão
+
+  máxima do envelope.'
+keywords:
+- aeronavegabilidade
+- baloes
+- fator
+- envelope
+- escolhido
+- maxima
+- seguranca
+- utilizado
+- aplicado
+- cinco
+- condicao
+- critica
+- demonstrado
+- devido
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

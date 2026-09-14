@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-79-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.79'
+section_title: Requisitos de localização de voo
+subsection_id: c
+cite: 135.79(c)
+title: 135.79(c)
+text: (c) O detentor de certificado deve fornecer à ANAC uma cópia de seu procedimento para
+  localização de voo e de suas modificações e adições, exceto se esses procedimentos estiverem
+  incluídos no manual geral da empresa requerido por este Regulamento.
+keywords:
+- taxi-aereo
+- operacoes
+- localizacao
+- adicoes
+- certificado
+- copia
+- detentor
+- empresa
+- esses
+- estiverem
+- exceto
+- fornecer
+- geral
+- incluidos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

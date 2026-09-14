@@ -1,0 +1,48 @@
+id: rbac-rbac-107-107-43-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.43'
+section_title: Comunicação sobre Assuntos de AVSEC
+subsection_id: a
+cite: 107.43(a)
+title: 107.43(a)
+text: '(a) Nas ocorrências de atos ou tentativas de interferência ilícita ou de situações
+  que indiquem ameaças ou vulnerabilidades no sistema de segurança, o operador de aeródromo
+  deve encaminhar Documento de Segurança da Aviação Civil (DSAC) à ANAC.
+
+  (1) O DSAC deve conter descrição detalhada da ocorrência ou situação, incluindo as informações
+  relevantes que estiverem disponíveis, tais como, local, dia, hora e identificação das pessoas
+  e entidades envolvidas.
+
+  (2) O DSAC deve ser encaminhado à ANAC no prazo máximo de 30 (trinta) dias da data da ocorrência
+  ou da identificação da situação de ameaça ou vulnerabilidade.
+
+  (3) O assunto do DSAC e as eventuais ações ou medidas corretivas já implementadas devem
+  ser submetidos à apreciação da CSA do aeródromo, para sua avaliação e deliberação sobre
+  a necessidade de adoção de ações ou medidas adicionais.
+
+  (4) As ações ou medidas corretivas implementadas que não tenham sido elencadas no DSAC devem
+  ser encaminhadas à ANAC, no prazo máximo de 15 (quinze) dias após areunião da CSA que tratou
+  do tema.
+
+  (Redação dada pela Resolução nº 500, de 12.12.2018)'
+keywords:
+- seguranca
+- aeroporto
+- dsac
+- acoes
+- medidas
+- aerodromo
+- corretivas
+- dias
+- identificacao
+- implementadas
+- maximo
+- ocorrencia
+- prazo
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

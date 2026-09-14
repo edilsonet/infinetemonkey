@@ -1,0 +1,44 @@
+id: rbac-rbac-155-155-203-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.203'
+section_title: '155.203'
+subsection_id: a
+cite: 155.203(a)
+title: 155.203(a)
+text: '(a)
+
+  A área de aproximação final e decolagem (FATO) de helipontos ao nível do solo deve ter formato
+  quadrado, retangular ou circular e possuir as seguintes dimensões:
+
+  (1)
+
+  quando destinada ao uso de helicópteros que operam com classe de performance 1, deve ter
+  tamanho suficiente para conter uma circunferência com diâmetro não inferior a 1,5 D do maior
+  helicóptero cuja operação é prevista na FATO e atender as dimensões especificadas no manual
+  de voo do helicóptero (HFM); e
+
+  (2)
+
+  quando destinada ao uso de helicópteros que operam com classe de performance 2 e 3, deve
+  ter tamanho suficiente para conter uma circunferência com diâmetro não inferior a 1,5 D
+  do maior helicóptero cuja operação é prevista na FATO.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- helicoptero
+- circunferencia
+- classe
+- conter
+- cuja
+- destinada
+- diametro
+- dimensoes
+- helicopteros
+- inferior
+- maior
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

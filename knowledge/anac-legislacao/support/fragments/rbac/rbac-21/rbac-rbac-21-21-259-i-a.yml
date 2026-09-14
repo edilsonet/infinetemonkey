@@ -1,0 +1,48 @@
+id: rbac-rbac-21-21-259-i-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: 21.259-I
+section_title: Validade
+subsection_id: a
+cite: 21.259-I(a)
+title: 21.259-I(a)
+text: '(a) Um certificado de organização de projeto não tem prazo de validade, entretanto,
+  poderá não ser considerado válido se:
+
+  (1) a organização de projeto não conseguir, a qualquer tempo, demonstrar o cumprimento com
+  os requisitos aplicáveis desta subparte;
+
+  (2) o detentor ou qualquer um dos seus fornecedores impedir a ANAC de efetuar as averiguações
+  previstas na seção 21.257-I;
+
+  (3) existirem evidências de que o sistema de garantia do projeto não assegura um nível de
+  controle e supervisão satisfatório do projeto dos produtos ou respectivas modificações previstas
+  no âmbito do certificado;
+
+  (4) a organização de projeto utilizar as prerrogativas estabelecidas na seção 21.263-I,
+  em atividades não contempladas no certificado e respectivos termos da certificação; ou
+
+  (5) o certificado tiver sido objeto de renúncia ou de revogação, suspensão ou cassação,
+  nos termos dos procedimentos administrativos aplicáveis estabelecidos pela ANAC.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- organizacao
+- aplicaveis
+- secao
+- termos
+- validade
+- administrativos
+- ambito
+- assegura
+- atividades
+- averiguacoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

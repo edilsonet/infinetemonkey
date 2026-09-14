@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-295-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.295'
+section_title: Requisitos de exame inicial e periódico para comissários
+subsection_id: c
+cite: 135.295(c)
+title: 135.295(c)
+text: (c) atribuições, funções e responsabilidades dos tripulantes durante amerissagem e evacuação
+  de pessoas que possam necessitar de assistência de uma outra pessoa para mover-se rapidamente
+  para uma saída numa emergência;
+keywords:
+- taxi-aereo
+- operacoes
+- amerissagem
+- assistencia
+- atribuicoes
+- comissarios
+- durante
+- emergencia
+- evacuacao
+- exame
+- funcoes
+- inicial
+- mover
+- necessitar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

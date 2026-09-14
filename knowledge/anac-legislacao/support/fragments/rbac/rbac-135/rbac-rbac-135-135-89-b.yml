@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-89-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.89'
+section_title: 'Requisitos para piloto: uso de oxigênio'
+subsection_id: b
+cite: 135.89(b)
+title: 135.89(b)
+text: '(b) Aeronave pressurizada.
+
+  (1) Sempre que uma aeronave pressurizada for operada com uma altitude pressão de cabine
+  maior que 10.000 pés MSL, cada piloto deve atender ao parágrafo (a) desta seção.
+
+  (2) Sempre que uma aeronave pressurizada for operada em altitudes acima de 25.000 pés e
+  até 35.000 pés MSL, exceto se cada piloto tiver uma máscara de oxigênio de colocação rápida
+  aprovada:'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- piloto
+- pressurizada
+- cada
+- operada
+- oxigenio
+- sempre
+- acima
+- altitude
+- altitudes
+- aprovada
+- atender
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

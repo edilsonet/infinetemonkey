@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-435-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.435'
+section_title: Qualificações requeridas
+subsection_id: b
+cite: 135.435(b)
+title: 135.435(b)
+text: '(b) Para os propósitos desta seção, uma pessoa “diretamente encarregada” é uma pessoa
+  designada para uma posição na qual ela é responsável pelo trabalho de uma seção, oficina
+  ou base que executa manutenção, manutenção preventiva, alterações ou outras funções afetando
+  a aeronavegabilidade de aeronaves. Uma pessoa que seja “diretamente encarregada” não precisa
+  fisicamente dirigir e observar cada executante, permanentemente, mas precisa estar disponível
+  para consultas e decisões em assuntos requerendo instruções ou decisões de nível mais alto
+  do que o da pessoa executando o trabalho.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- pessoa
+- decisoes
+- diretamente
+- encarregada
+- manutencao
+- precisa
+- secao
+- trabalho
+- aeronavegabilidade
+- aeronaves
+- afetando
+- alteracoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

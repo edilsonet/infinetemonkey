@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-187-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.187'
+section_title: Registro das Atividades de Controle de Qualidade
+subsection_id: a
+cite: 107.187(a)
+title: 107.187(a)
+text: '(a) O operador de aeródromo deve elaborar e manter relatórios das atividades de controle
+  de qualidade realizadas, observando as seguintes disposições:
+
+  (1) Os relatórios de auditoria interna, inspeção interna e testes AVSEC devem indicar todos
+  os requisitos AVSEC avaliados pelo operador de aeródromo, as datas de realização das atividades,
+  os profissionais executores e os resultados verificados; e
+
+  (2) O relatório de exercício de segurança deve apresentar qual tipo de exercício foi realizado
+  (exercício simulado de mesa ou exercício simulado de escala real e qual(is) cenário(s) do
+  Plano de Contingência avaliado(s)), a data de realização, o nome do profissional responsável
+  pela condução da atividade, a lista de presença dos participantes do exercício, a descrição
+  de como o exercício se desenvolveu e os resultados verificados.
+
+  (Redação dada pela Resolução nº 644, de 05.11.2021)'
+keywords:
+- seguranca
+- aeroporto
+- exercicio
+- atividades
+- aerodromo
+- avsec
+- controle
+- interna
+- operador
+- qual
+- qualidade
+- realizacao
+- relatorios
+- resultados
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

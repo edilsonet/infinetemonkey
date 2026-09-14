@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-101-h
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: h
+cite: 90.101(h)
+title: 90.101(h)
+text: '(h) Os manuais deverão ser elaborados no idioma português.
+
+  (1) Em casos excepcionais, a UAP poderá permitir o uso de manuais em inglês, desde que o
+  pessoal envolvido possua proficiência no referido idioma.'
+keywords:
+- regras-de-voo
+- operacoes
+- idioma
+- manuais
+- casos
+- desde
+- deverao
+- elaborados
+- envolvido
+- excepcionais
+- gerais
+- ingles
+- permitir
+- pessoal
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

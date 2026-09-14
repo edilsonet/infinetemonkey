@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-437-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.437'
+section_title: Autoridade para executar e aprovar manutenção, manutenção preventiva e alterações
+subsection_id: b
+cite: 135.437(b)
+title: 135.437(b)
+text: '(b) Um detentor de certificado pode aprovar o retorno ao serviço de qualquer aeronave,
+  célula, motor, hélice, rotor ou equipamentos, após manutenção, manutenção preventiva ou
+  alterações executadas de acordo com o parágrafo (a) desta seção. No entanto, no caso de
+  grandes reparos ou grandes alterações não constantes na documentação técnica aprovada da
+  aeronave, o trabalho deve ser realizado de acordo com dados técnicos de projeto aprovados.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- alteracoes
+- acordo
+- aeronave
+- aprovar
+- grandes
+- preventiva
+- aprovada
+- aprovados
+- autoridade
+- caso
+- celula
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

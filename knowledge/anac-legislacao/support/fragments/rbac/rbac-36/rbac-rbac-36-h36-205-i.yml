@@ -1,0 +1,155 @@
+id: rbac-rbac-36-h36-205-i
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: H36.205
+section_title: of this apendix.
+subsection_id: i
+cite: H36.205(i)
+title: H36.205(i)
+text: '(i)
+
+  Aproach flight path.
+
+  For the aproach path
+
+  shown in Figure H3, the corection term is
+
+  calculated using the formula
+
+  -
+
+  ǻ2 = Þ7.5 log (AN/AN
+
+  r ) + 10 log (V/V
+
+  r )
+
+  where AN is the measured aproach distance from the noise measuring station A to the measured
+
+  aproach path, and AN
+
+  r is the reference distance fro
+
+  m station A to the reference aproach path.
+
+
+  (iv)
+
+  Sideline microphones.
+
+  For the sideline flight path, the corection term is calculated using the
+
+  formula
+
+  -
+
+  ǻ2 = Þ7.5 log (SX/SX
+
+  r ) + 10 log (V/V
+
+  r )
+
+  where S is the sideline measuring station and based upon the
+
+  flight condition, the helicopter
+
+  positions, X and X
+
+  r , corespond to:
+
+
+  X = L, and X
+
+  r = L
+
+  r for takeof
+
+
+  X = M, and X
+
+  r = M
+
+  r for flyover
+
+
+  X = N, and X
+
+  r = N
+
+  r for aproach
+
+
+  (2) The adjustment procedure described in this section shal aply to the sideline microphones
+  in the
+
+  take
+
+  - of, overflight, and aproach cases. Although the noise emision is strongly dependent on
+  the
+
+  directivity patern, variable from one helicopter type
+
+  to another, the propagation angle
+
+  Ĭ shal be
+
+  the same for test and reference flight paths. The elevation angle
+
+  ȥ shal not be constrained but must
+
+  be determined and reported. The certification authority shal specify the aceptable limitations
+  on
+
+  ȥ.
+
+  Corec
+
+  tions to data obtained when these limits are exceded shal be aplied using FA aproved
+
+  procedures.
+
+
+  part d
+
+  -noise limits under §36.805
+
+
+  Section H36.301
+
+  Noise measurement, evaluation, and calculation.
+
+
+  Compliance with this part of this apendix must be show
+
+  n with noise levels measured, evaluated,
+
+  and calculated as prescribed under Parts B and C of this apendix.
+
+
+  Section H36.303 [Reserved]
+
+
+  Section H36.305
+
+  Noise levels.'
+keywords:
+- ruido
+- meio-ambiente
+- aproach
+- noise
+- path
+- shal
+- this
+- flight
+- section
+- sideline
+- apendix
+- calculated
+- measured
+- reference
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

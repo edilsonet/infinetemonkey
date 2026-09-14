@@ -1,0 +1,49 @@
+id: rbac-rbac-91-91-1041-e
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1041'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: e
+cite: 91.1041(e)
+title: 91.1041(e)
+text: '(e) Testes de validação são exigidos para determinar que o administrador de programa
+  é capaz de
+
+  conduzir operações em segurança e em conformidade com as normas regulamentares aplicáveis.
+
+  Testes de validação são exigidos para as seguintes autorizações:
+
+  (1) incorporação de uma aeronave para qual sejam necessários dois pilotos para operações
+  VFR
+
+  ou um avião a jato, se esta aeronave, ou uma aeronave de mesmo fabricante ou de projeto
+  similar não
+
+  tenha sido aprovada ou validada em operações sob esta parte;
+
+  (2) operações fora do espaço aéreo brasileiro;
+
+  (3) autorizações de navegação Classe II; e
+
+  (4) desempenho ou autorizações operacionais especiais.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- aeronave
+- autorizacoes
+- testes
+- validacao
+- exigidos
+- administrador
+- aereo
+- aplicaveis
+- aprovada
+- avaliacao
+- aviao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-137-137-201-f
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.201'
+section_title: Requisitos para operação
+subsection_id: f
+cite: 137.201(f)
+title: 137.201(f)
+text: (f) Um operador aeroagrícola somente poderá realizar o abastecimento de sua aeronave
+  (combustível e produto) com o motor ligado se não houver vedação no manual aprovado da aeronave
+  e se o operador e o piloto em comando considerarem que o procedimento está dentro de um
+  nível de risco aceitável.
+keywords:
+- aeroagricola
+- operacoes
+- aeronave
+- operador
+- abastecimento
+- aceitavel
+- aprovado
+- comando
+- combustivel
+- considerarem
+- dentro
+- houver
+- ligado
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

@@ -1,0 +1,82 @@
+id: rbac-rbac-27-27-471-g
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: '27.471'
+section_title: through 27.475.
+subsection_id: g
+cite: 27.471(g)
+title: 27.471(g)
+text: '(g)
+
+  Nickel cadmium battery installations capable of being used to start an engine or auxiliary
+  power unit
+
+  must have -
+
+  (1)
+
+  A system to control the charging rate of the battery automatically so as to prevent battery
+
+  overheating;
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR 27.1351(c)(4)
+
+  14 CFR 27.1353(g)(1) (enhanced display)
+
+  page 94 of 126
+
+
+  (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a),
+  1421, 1423, 1424, and
+
+  1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
+
+  § 27.1357 Circuit protective devices.
+
+  (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a),
+  1421, 1423, 1424, and
+
+  1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))
+
+  § 27.1361 Master switch.
+
+  § 27.1365 Electric cables.
+
+  (2)
+
+  A battery temperature sensing and over-temperature warning system with a means for
+
+  disconnecting the battery from its charging source in the event of an over-temperature condition;
+  or
+
+  (3)
+
+  A battery failure sensing and warning system with a means for disconnecting the battery
+  from its
+
+  charging source in the event of battery failure.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- battery
+- charging
+- system
+- temperature
+- aviation
+- dept
+- disconnecting
+- event
+- failure
+- federal
+- from
+- means
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

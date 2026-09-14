@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-215-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.215'
+section_title: 'Voo IFR: limitações operacionais'
+subsection_id: d
+cite: 135.215(d)
+title: 135.215(d)
+text: '(d) A ANAC emitirá especificações operativas ao operador que lhe permitirão sair de
+  um aeródromo que não tenha um procedimento de aproximação padrão por instrumentos aprovado,
+  quando a ANAC determinar que seja necessário para realizar uma saída por IFR desse aeródromo
+  e que a operação prevista possa ser realizada de forma segura. A aprovação para operar nesse
+  aeródromo não inclui uma aprovação para realizar uma aproximação IFR para esse aeródromo.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- aprovacao
+- aproximacao
+- realizar
+- aprovado
+- dada
+- desse
+- determinar
+- emitira
+- especificacoes
+- forma
+- inclui
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

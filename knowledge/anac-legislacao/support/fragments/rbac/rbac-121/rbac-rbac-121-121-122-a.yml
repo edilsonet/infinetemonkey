@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-122-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.122'
+section_title: 'Facilidades para comunicações: operações não regulares'
+subsection_id: a
+cite: 121.122(a)
+title: 121.122(a)
+text: (a) Cada detentor de certificado ao conduzir operações não regulares, que não operações
+  cargueiras, em aviões com mais de dois motores deve demonstrar que possui um sistema de
+  radiocomunicação de duas vias ou outro meio de comunicação aprovado pela ANAC. Este sistema
+  deve garantir comunicações imediatas e confiáveis em toda a rota (direta ou circuito ponto-a-ponto)
+  entre cada avião e o detentor de certificado e este e o serviço ATC apropriado, exceto como
+  especificado na seção 121.351(c).
+keywords:
+- transporte-aereo
+- operacoes
+- cada
+- certificado
+- comunicacoes
+- detentor
+- ponto
+- regulares
+- sistema
+- apropriado
+- aprovado
+- aviao
+- avioes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

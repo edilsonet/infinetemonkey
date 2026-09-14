@@ -1,0 +1,41 @@
+id: rbac-rbac-155-155-107-d
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.107'
+section_title: '155.107'
+subsection_id: d
+cite: 155.107(d)
+title: 155.107(d)
+text: '(d)
+
+  Os dados a seguir devem ser medidos ou descritos, apropriadamente, para cada característica
+  física e auxílio visual disponibilizado em um heliponto com operação por instrumento:
+
+  (1)
+
+  distâncias, com precisão de um metro, dos elementos do localizador e do indicador de trajetória
+  de planeio (GS) que integram o sistema de pouso por instrumento (ILS); ou
+
+  (2)
+
+  o azimute e a antena de elevação do sistema de pouso por microondas (MLS) em relação às
+  extremidades da respectiva TLOF ou FATO.'
+keywords:
+- seguranca-aeroportuaria
+- instrumento
+- pouso
+- sistema
+- antena
+- apropriadamente
+- auxilio
+- azimute
+- cada
+- caracteristica
+- dados
+- descritos
+- disponibilizado
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

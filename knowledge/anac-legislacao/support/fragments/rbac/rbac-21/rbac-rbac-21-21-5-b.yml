@@ -1,0 +1,41 @@
+id: rbac-rbac-21-21-5-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.5'
+section_title: Manual de voo de aviões e aeronaves de asas rotativas
+subsection_id: b
+cite: 21.5(b)
+title: 21.5(b)
+text: '(b) Para os casos previstos no parágrafo (a) desta seção, o manual de voo a ser fornecido
+  ao comprador da aeronave deve conter, pelo menos, o seguinte:
+
+  (1) as limitações operacionais e informações que devem ser fornecidas em um manual de voo
+  requerido pelo regulamento aplicável ou em publicações, marcas e placares requeridos pelos
+  regulamentos segundo os quais a aeronave recebeu a certificação de tipo; e
+
+  (2) na seção de informações sobre desempenho, deve constar a temperatura atmosférica máxima
+  na qual foi demonstrada a refrigeração do motor, caso a regulamentação segundo a qual a
+  aeronave recebeu a certificação de tipo não tenha requerido inclusão de limitações operacionais
+  de refrigeração do motor ou de temperatura ambiente no manual de voo.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- manual
+- aeronave
+- informacoes
+- limitacoes
+- motor
+- operacionais
+- qual
+- recebeu
+- refrigeracao
+- requerido
+- secao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

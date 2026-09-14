@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-3-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.3'
+section_title: Regras especiais aplicáveis a operações sujeitas a este Regulamento
+subsection_id: a
+cite: 135.3(a)
+title: 135.3(a)
+text: '(a) Cada pessoa operando uma aeronave em operações segundo este Regulamento deve:
+
+  (1) enquanto operando dentro do Brasil, atender aos requisitos aplicáveis dos RBAC e demais
+  regras vigentes no país;
+
+  (2) enquanto operando fora do Brasil, atender às normas do Anexo 2, Regras do Ar, à Convenção
+  Internacional de Aviação Civil ou aos regulamentos do país estrangeiro sobrevoado, o que
+  se aplicar, e a quaisquer regras do RBAC nº 61 e do RBAC nº 91, e deste Regulamento, que
+  sejam mais restritivas que as disposições das referidas regras internacionais e que possam
+  ser cumpridas sem violar as referidas regras internacionais; e
+
+  (Redação dada pela Resolução nº 612, de 09.03.2021)
+
+  (3) garantir que os pilotos designados para operações internacionais estejam em conformidade
+  com os requisitos de proficiência linguística estabelecidos no RBAC nº 61.'
+keywords:
+- taxi-aereo
+- operacoes
+- regras
+- internacionais
+- operando
+- regulamento
+- aplicaveis
+- atender
+- brasil
+- enquanto
+- pais
+- referidas
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

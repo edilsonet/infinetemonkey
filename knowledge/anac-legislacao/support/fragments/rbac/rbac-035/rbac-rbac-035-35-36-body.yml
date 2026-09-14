@@ -1,0 +1,51 @@
+id: rbac-rbac-035-35-36-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.36'
+section_title: '35.36'
+subsection_id: body
+cite: '35.36'
+title: '35.36'
+text: '35.36
+
+  Impacto de pássaro
+
+
+  O requerente deve demonstrar, por ensaios,
+
+  análises baseadas em ensaios ou experiência em
+
+  projetos similares, que a hélice pode suportar o
+
+  impacto de um pássaro de 4 libras (1,8 kg) no(s)
+
+  local(is) crítico(s) e na(s) condição(ões) de voo
+
+  crítica(s) de uma instalação típica sem que isto
+
+  cause um efeito major ou hazardous de hélice.
+
+  Esta seção não se aplica a hélices de passo fixo
+
+  de madeira com projeto convencional.'
+keywords:
+- helices
+- aeronavegabilidade
+- ensaios
+- helice
+- impacto
+- passaro
+- analises
+- aplica
+- baseadas
+- cause
+- condicao
+- convencional
+- critica
+- critico
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-129-129-19-c
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.19'
+section_title: Regras de tráfego aéreo e outros procedimentos
+subsection_id: c
+cite: 129.19(c)
+title: 129.19(c)
+text: (c) Cada empresa estrangeira de transporte aéreo deve atender a práticas, procedimentos
+  e outros requisitos especiais estabelecidos pela ANAC para a operação de empresas aéreas
+  nacionais nos locais onde elas já operam.
+keywords:
+- operador-estrangeiro
+- operacoes
+- aereo
+- outros
+- procedimentos
+- aereas
+- atender
+- cada
+- elas
+- empresa
+- empresas
+- especiais
+- estabelecidos
+- estrangeira
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

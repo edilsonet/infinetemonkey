@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-705-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.705'
+section_title: Política e objetivos de segurança operacional
+subsection_id: c
+cite: 135.705(c)
+title: 135.705(c)
+text: '(c) Designação do pessoal-chave de segurança operacional.
+
+  (1) O detentor de certificado deve nomear um diretor ou gerente de segurança operacional,
+  que será o responsável pela implementação e manutenção do SGSO.
+
+  (2) Para cumprir com suas responsabilidades e funções, o diretor ou gerente de segurança
+  operacional deve ter:'
+keywords:
+- taxi-aereo
+- operacoes
+- operacional
+- seguranca
+- diretor
+- gerente
+- certificado
+- chave
+- cumprir
+- designacao
+- detentor
+- funcoes
+- implementacao
+- manutencao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

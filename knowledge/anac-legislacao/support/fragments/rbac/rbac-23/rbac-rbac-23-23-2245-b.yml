@@ -1,0 +1,35 @@
+id: rbac-rbac-23-23-2245-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2245'
+section_title: Aeroelasticidade.
+subsection_id: b
+cite: 23.2245(b)
+title: 23.2245(b)
+text: '(b) O requerente deve estabelecer tolerâncias
+
+  para todas as quantidades que afetem flutter.
+
+
+  DESIGN
+
+  PROJETO'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- aeroelasticidade
+- afetem
+- design
+- estabelecer
+- flutter
+- projeto
+- quantidades
+- requerente
+- todas
+- tolerancias
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

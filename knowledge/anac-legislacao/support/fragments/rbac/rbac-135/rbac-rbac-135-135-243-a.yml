@@ -1,0 +1,44 @@
+id: rbac-rbac-135-135-243-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.243'
+section_title: Qualificações para piloto em comando
+subsection_id: a
+cite: 135.243(a)
+title: 135.243(a)
+text: '(a) O detentor de certificado somente pode utilizar uma pessoa e uma pessoa somente
+  pode trabalhar como piloto em comando em operações transportando passageiros:
+
+  (1) as quais seja utilizado um avião a reação ou um avião possuindo uma configuração para
+  passageiros, excluído qualquer assento para tripulante, igual ou superior a 10 assentos,
+  ou, ainda, um avião multimotor empregado em operações regulares, se essa pessoa possuir
+  uma licença de piloto de linha aérea na categoria avião, habilitação IFR e habilitação classe
+  ou tipo, conforme aplicável, todas válidas; ou
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)
+
+  (2) nas quais seja utilizado um helicóptero empregado em operações regulares, se essa pessoa
+  possuir uma licença de piloto de linha aérea na categoria helicóptero, habilitação IFR e
+  habilitação classe ou tipo, conforme aplicável, todas válidas.
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- habilitacao
+- pessoa
+- piloto
+- aerea
+- aplicavel
+- categoria
+- classe
+- comando
+- dada
+- empregado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

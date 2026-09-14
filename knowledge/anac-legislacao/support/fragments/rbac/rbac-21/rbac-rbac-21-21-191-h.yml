@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-191-h
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.191'
+section_title: Certificados de autorização de voo experimental
+subsection_id: h
+cite: 21.191(h)
+title: 21.191(h)
+text: (h) operação de aeronave categoria primária montada a partir de conjuntos. Operação
+  de aeronave categoria primária que atenda aos requisitos do parágrafo 21.24(a)(1) e que
+  tenha sido montada por uma pessoa a partir de conjuntos fabricados pelo detentor de um certificado
+  de organização de produção, mas cuja montagem foi realizada sem a supervisão e sem o controle
+  de qualidade de tal detentor, como estabelecido no parágrafo 21.184(a).
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- categoria
+- conjuntos
+- detentor
+- montada
+- operacao
+- paragrafo
+- partir
+- primaria
+- atenda
+- autorizacao
+- certificado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

@@ -1,0 +1,45 @@
+id: rbac-rbac-91-91-313-d
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.313'
+section_title: Aeronaves civis categoria restrita
+subsection_id: d
+cite: 91.313(d)
+title: 91.313(d)
+text: '(d) Somente é permitido o transporte de qualquer pessoa em uma aeronave civil, categoria
+  restrita,
+
+  se:
+
+  (1) essa pessoa for um tripulante de voo;
+
+  (2) essa pessoa for um tripulante de voo em treinamento;
+
+  (3) essa pessoa executar a bordo uma função essencial correlacionada com a operação com
+
+  propósitos especiais para a qual a aeronave foi certificada; ou
+
+  (4) o transporte for necessário para o cumprimento de atividade de trabalho diretamente
+
+  relacionada com os propósitos especiais da operação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- pessoa
+- aeronave
+- categoria
+- especiais
+- operacao
+- propositos
+- restrita
+- transporte
+- tripulante
+- aeronaves
+- atividade
+- bordo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-135-a135-23-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.23
+section_title: Acessórios e controles do grupo motopropulsor
+subsection_id: c
+cite: A135.23(c)
+title: A135.23(c)
+text: (c) Sistema de ignição do motor. Cada sistema de ignição de aviões com motores turboélice
+  deve ser considerado como carga elétrica essencial.
+keywords:
+- taxi-aereo
+- operacoes
+- ignicao
+- sistema
+- a135
+- acessorios
+- avioes
+- cada
+- carga
+- considerado
+- controles
+- eletrica
+- essencial
+- grupo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

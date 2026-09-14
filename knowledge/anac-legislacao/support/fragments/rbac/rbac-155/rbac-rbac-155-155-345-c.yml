@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-345-c
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.345'
+section_title: '155.345'
+subsection_id: c
+cite: 155.345(c)
+title: 155.345(c)
+text: '(c)
+
+  O sistema deve ser localizado o mais próximo da borda a favor do vento da FATO e deve estar
+  alinhado com a direção preferencial de aproximação.'
+keywords:
+- seguranca-aeroportuaria
+- alinhado
+- aproximacao
+- borda
+- direcao
+- estar
+- fato
+- favor
+- localizado
+- preferencial
+- proximo
+- sistema
+- vento
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

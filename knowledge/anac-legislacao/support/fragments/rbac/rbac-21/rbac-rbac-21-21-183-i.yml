@@ -1,0 +1,48 @@
+id: rbac-rbac-21-21-183-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.183'
+section_title: Emissão de certificado de aeronavegabilidade padrão para aeronaves categorias
+  normal, utilidade, acrobática, transporte regional ou transporte e para balões livres tripulados
+  e aeronaves de classe especial
+subsection_id: i
+cite: 21.183(i)
+title: 21.183(i)
+text: '(i) pelo fabricante;
+
+  (ii) por organização de manutenção certificada de acordo com o RBAC 145; (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )
+
+  (iii) por detentor de uma habilitação de mecânico emitida de acordo com o RBHA 65, ou RBAC
+  que venha a substituí-lo; ou
+
+  (iv) por detentor de um certificado emitido de acordo com o RBAC 121, e possuindo uma organização
+  de manutenção e de inspeção apropriada ao tipo da aeronave; e
+
+  (3) a ANAC considerar que a aeronave está conforme o projeto de tipo e apresenta condições
+  de operação segura.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- acordo
+- aeronave
+- aeronaves
+- certificado
+- detentor
+- manutencao
+- organizacao
+- tipo
+- transporte
+- acrobatica
+- apresenta
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

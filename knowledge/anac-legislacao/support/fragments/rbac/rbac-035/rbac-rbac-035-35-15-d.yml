@@ -1,0 +1,82 @@
+id: rbac-rbac-035-35-15-d
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.15'
+section_title: '35.15'
+subsection_id: d
+cite: 35.15(d)
+title: 35.15(d)
+text: '(d) desta seção, ou que resultem nos efeitos ha-
+
+  zardous de hélice definidos no parágrafo (g) (1)
+
+  desta seção.
+
+  (2) O requerente deve sumarizar aquelas fa-
+
+  lhas que podem resultar em efeitos major ou
+
+  hazardous de hélice definidos no parágrafo (g)
+
+  desta seção e estimar a probabilidade de ocor-
+
+  rência desses efeitos.
+
+  (3) O requerente deve demonstrar que não é
+
+  prevista a ocorrência de efeitos hazardous de
+
+  hélice em uma taxa que excede aquela definida
+
+  como extremamente remota (probabilidade de
+
+  10−7 ou menos por hora de voo da hélice). Uma
+
+  vez que a probabilidade estimada para falhas
+
+  individuais pode ser insuficientemente precisa
+
+  para possibilitar ao requerente avaliar a taxa
+
+  total para efeitos hazardous de hélice, pode-se
+
+  demonstrar cumprimento provando que é possí-
+
+  vel prever que a probabilidade de efeitos ha-
+
+  zardous de hélice decorrentes de uma falha
+
+  individual não será maior que 10−8 por hora de
+
+  voo da hélice. Ao se lidar com probabilidades
+
+  de tão baixa ordem de grandeza, uma prova ab-
+
+  soluta não é possível e deve-se contar com o
+
+  julgamento de engenharia e a experiência prévia
+
+  combinados com filosofias sólidas de projeto e
+
+  ensaio.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- efeitos
+- probabilidade
+- desta
+- hazardous
+- requerente
+- secao
+- definidos
+- demonstrar
+- hora
+- paragrafo
+- pode
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

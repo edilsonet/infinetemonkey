@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-175-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.175'
+section_title: Classificação dos certificados de aeronavegabilidade
+subsection_id: b
+cite: 21.175(b)
+title: 21.175(b)
+text: (b) Certificados de aeronavegabilidade especiais são os certificados de aeronavegabilidade
+  emitidos para aeronaves categorias primária, restrita, leve esportiva e os certificados
+  de aeronavegabilidade provisórios. Compreendem, ainda, os certificados de aeronavegabilidade
+  para aeronaves recém-fabricadas, as autorizações especiais de voo e os certificados de autorização
+  de voo experimental.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificados
+- aeronaves
+- especiais
+- autorizacao
+- autorizacoes
+- categorias
+- classificacao
+- compreendem
+- emitidos
+- esportiva
+- experimental
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

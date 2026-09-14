@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-319-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.319'
+section_title: Aeronave civil com certificado de autorização de voo experimental (CAVE)
+subsection_id: a
+cite: 91.319(a)
+title: 91.319(a)
+text: '(a) Somente é permitido operar uma aeronave civil com CAVE:
+
+  (1) para os propósitos para os quais o certificado foi emitido;
+
+  (2) sem transportar pessoas ou bens com fins lucrativos; e
+
+  (3) se observadas as limitações operacionais contidas nos adendos do CAVE.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- cave
+- aeronave
+- certificado
+- civil
+- adendos
+- autorizacao
+- bens
+- contidas
+- emitido
+- experimental
+- fins
+- limitacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

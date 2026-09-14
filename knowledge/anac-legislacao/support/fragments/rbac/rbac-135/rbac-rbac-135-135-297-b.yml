@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-297-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.297'
+section_title: 'Piloto em comando: requisitos para exame de proficiência em voo por instrumentos'
+subsection_id: b
+cite: 135.297(b)
+title: 135.297(b)
+text: (b) Um piloto somente pode executar qualquer procedimento de aproximação de precisão
+  por instrumentos em condições IMC se, dentro dos 6 meses calendáricos precedendo esse voo,
+  o piloto tiver demonstrado proficiência no tipo de procedimento a ser executado. Um piloto
+  somente pode executar qualquer procedimento de aproximação de não-precisão por instrumentos
+  em condições IMC se, dentro dos 6 meses calendáricos precedendo esse voo, o piloto tiver
+  demonstrado proficiência na execução desse tipo de procedimento de aproximação ou em dois
+  outros tipos de aproximação de não-precisão. Os procedimentos de aproximação por instrumentos
+  devem incluir pelo menos um procedimento de aproximação direta, um procedimento com aproximação
+  circulando para pouso e uma aproximação perdida. Cada tipo de aproximação deve ser conduzido
+  até os mínimos aprovados para o procedimento sendo executado.
+keywords:
+- taxi-aereo
+- operacoes
+- aproximacao
+- procedimento
+- piloto
+- instrumentos
+- precisao
+- proficiencia
+- tipo
+- calendaricos
+- condicoes
+- demonstrado
+- dentro
+- executado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

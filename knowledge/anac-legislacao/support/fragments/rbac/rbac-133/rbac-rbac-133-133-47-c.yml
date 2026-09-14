@@ -1,0 +1,41 @@
+id: rbac-rbac-133-133-47-c
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.47'
+section_title: Manual de Voo da Combinação Aeronave-Carga Externa
+subsection_id: c
+cite: 133.47(c)
+title: 133.47(c)
+text: '(c) na seção de informações do manual:
+
+  (1) informações sobre quaisquer peculiaridades descobertas quando operando particulares
+
+  combinações aeronave;
+
+  (2) avisos de precauções referentes a descargas de eletricidade estática para combinações
+  de
+
+  aeronave-carga para classes B, C e D; e
+
+  (3) qualquer outra informação essencial à segurança de operações com cargas externas.'
+keywords:
+- carga-externa
+- helicoptero
+- aeronave
+- carga
+- combinacoes
+- informacoes
+- manual
+- avisos
+- cargas
+- classes
+- combinacao
+- descargas
+- descobertas
+- eletricidade
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

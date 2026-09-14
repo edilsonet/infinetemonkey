@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-175-e
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.175'
+section_title: 'Aviões com motores convencionais: limitações de peso'
+subsection_id: e
+cite: 121.175(e)
+title: 121.175(e)
+text: (e) Ninguém pode decolar com um avião com motores convencionais se seu peso na chegada
+  ao aeródromo de destino for maior do que o peso máximo de pouso autorizado para a altitude
+  desse aeródromo, considerando o consumo normal de óleo e combustível em rota.
+keywords:
+- transporte-aereo
+- operacoes
+- peso
+- aerodromo
+- convencionais
+- motores
+- altitude
+- autorizado
+- aviao
+- avioes
+- chegada
+- combustivel
+- considerando
+- consumo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

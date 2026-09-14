@@ -1,0 +1,35 @@
+id: rbac-rbac-27-c27-1-body
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: C27.1
+section_title: General.
+subsection_id: body
+cite: C27.1
+title: General.
+text: 'C27.1 General.
+
+  A small multiengine rotorcraft may not be type certificated for Category A operation unless
+  it meets the design
+
+  installation and performance requirements contained in this appendix in addition to the
+  requirements of this part.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- general
+- requirements
+- this
+- addition
+- appendix
+- category
+- certificated
+- contained
+- design
+- installation
+- meets
+- multiengine
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

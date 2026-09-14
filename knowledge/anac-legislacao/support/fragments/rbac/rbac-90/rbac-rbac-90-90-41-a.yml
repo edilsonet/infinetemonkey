@@ -1,0 +1,37 @@
+id: rbac-rbac-90-90-41-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.41'
+section_title: Requisitos para exercício da função de responsável pelo controle de manutenção
+  das aeronaves
+subsection_id: a
+cite: 90.41(a)
+title: 90.41(a)
+text: '(a) São requisitos mínimos para exercício da função de responsável pelo controle de
+  manutenção das aeronaves, das UAP que não são detentoras do certificado de organização de
+  manutenção de produto aeronáutico, segundo o RBAC nº 145:
+
+  (1) ser agente público, segundo a UAP; e
+
+  (2) outros requisitos a critério da UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- manutencao
+- requisitos
+- aeronaves
+- controle
+- exercicio
+- funcao
+- responsavel
+- segundo
+- aeronautico
+- agente
+- certificado
+- criterio
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

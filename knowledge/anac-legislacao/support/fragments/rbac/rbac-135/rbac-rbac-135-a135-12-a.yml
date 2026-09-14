@@ -1,0 +1,42 @@
+id: rbac-rbac-135-a135-12-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.12
+section_title: Cargas no solo
+subsection_id: a
+cite: A135.12(a)
+title: A135.12(a)
+text: '(a) Unidades de trem de pouso com rodas duplas. Deve ser demonstrado que cada unidade
+  de trem de pouso com rodas duplas, assim como as estruturas que a suportam, atende aos seguintes
+  requisitos:
+
+  (1) curvas com pivotamento. Deve ser assumido que o avião executa uma curva sobre um lado
+  do trem de pouso principal, com os freios desse lado travados. O fator de carga limite vertical
+  deve ser igual a 1,0 e o coeficiente de atrito igual a 0,8. Essa condição precisa ser aplicada
+  somente ao trem de pouso principal e à estrutura que o suporta;
+
+  (2) inflação desigual de pneus. A distribuição de cargas de 40-60%, estabelecidas no RBAC
+  nº 23, deve ser aplicada a rodas duplas; e
+
+  (3) pneu vazio:'
+keywords:
+- taxi-aereo
+- operacoes
+- pouso
+- trem
+- duplas
+- rodas
+- aplicada
+- cargas
+- igual
+- lado
+- principal
+- a135
+- assim
+- assumido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

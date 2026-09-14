@@ -1,0 +1,30 @@
+id: rbac-rbac-135-135-183-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.183'
+section_title: 'Requisitos de desempenho: aeronaves terrestres operando sobre água'
+subsection_id: a
+cite: 135.183(a)
+title: 135.183(a)
+text: (a) ela for operada a uma altitude que permita alcançar terra no caso de falha de motor;
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- agua
+- alcancar
+- altitude
+- caso
+- desempenho
+- falha
+- motor
+- operada
+- operando
+- permita
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

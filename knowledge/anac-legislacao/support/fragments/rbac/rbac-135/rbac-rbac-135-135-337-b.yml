@@ -1,0 +1,52 @@
+id: rbac-rbac-135-135-337-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.337'
+section_title: 'Qualificações: examinador em aeronave e examinador em FSTD e/ou outro dispositivo
+  de treinamento aprovado pela ANAC'
+subsection_id: b
+cite: 135.337(b)
+title: 135.337(b)
+text: '(b) Um detentor de certificado somente pode utilizar uma pessoa e uma pessoa somente
+  pode trabalhar como examinador em aeronave em um programa de treinamento estabelecido segundo
+  esta Subparte se, para um particular tipo de aeronave envolvido, essa pessoa:
+
+  (1) possuir uma licença de piloto e as habilitações requeridas para um piloto em comando
+  em operações segundo este Regulamento;
+
+  (2) tiver completado satisfatoriamente as fases do treinamento para a aeronave que são requeridas
+  para atuar como piloto em comando em operações segundo este Regulamento;
+
+  (3) tiver completado satisfatoriamente os adequados exames de proficiência requeridos para
+  trabalhar como piloto em comando em operações segundo este Regulamento;
+
+  (4) tiver completado satisfatoriamente os aplicáveis requisitos de treinamento requeridos
+  pela seção 135.339 deste Regulamento;
+
+  (5) possuir um CMA válido e adequado para trabalhar como piloto em comando em operações
+  segundo este Regulamento;
+
+  (6) tiver atendido aos requisitos de experiência recente da seção 135.247 deste Regulamento;
+  e
+
+  (7) tiver sido aprovado pela ANAC como examinador em aeronave.'
+keywords:
+- taxi-aereo
+- operacoes
+- regulamento
+- aeronave
+- piloto
+- segundo
+- tiver
+- comando
+- examinador
+- treinamento
+- completado
+- pessoa
+- satisfatoriamente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

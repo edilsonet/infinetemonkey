@@ -1,0 +1,30 @@
+id: rbac-rbac-90-90-61-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.61'
+section_title: Controle de horas de voo dos pilotos da UAP
+subsection_id: b
+cite: 90.61(b)
+title: 90.61(b)
+text: (b) O registro de horas de voo dos pilotos (piloto em comando ou piloto segundo em comando)
+  em operações especiais de aviação pública deverá ser computado de forma integral.
+keywords:
+- regras-de-voo
+- operacoes
+- comando
+- horas
+- piloto
+- pilotos
+- aviacao
+- computado
+- controle
+- devera
+- especiais
+- forma
+- integral
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

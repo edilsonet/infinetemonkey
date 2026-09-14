@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-221-g
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.221'
+section_title: Sistema embarcado de prevenção de colisões (Airborne colision avoidance system
+  -
+subsection_id: g
+cite: 91.221(g)
+title: 91.221(g)
+text: '(g) Aviões com motores a turbina que tenham peso máximo de decolagem acima de 15.000kg
+
+  devem ser equipados com um sistema ACAS II e este deve atender à OTP (TSO) C-119b (versão
+  7.0)
+
+  ou posterior.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- 000kg
+- 119b
+- acas
+- acima
+- airborne
+- atender
+- avioes
+- avoidance
+- colision
+- colisoes
+- decolagem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

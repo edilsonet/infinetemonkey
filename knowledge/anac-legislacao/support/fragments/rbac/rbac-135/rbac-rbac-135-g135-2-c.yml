@@ -1,0 +1,34 @@
+id: rbac-rbac-135-g135-2-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: c
+cite: G135.2(c)
+title: G135.2(c)
+text: '(c) Requisitos do avião. Um detentor de certificado somente pode conduzir uma operação
+  ETOPS em um avião que seja fabricado após 17 de fevereiro de 2015 se o avião atender aos
+  padrões do RBAC nº 25.1535.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- requisitos
+- atender
+- certificado
+- conduzir
+- dada
+- detentor
+- etops
+- fabricado
+- fevereiro
+- g135
+- operacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-147-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.147'
+section_title: Controles de voo duplicados
+subsection_id: body
+cite: '135.147'
+title: Controles de voo duplicados
+text: '135.147 Controles de voo duplicados
+
+  Somente é permitido operar uma aeronave em operações requerendo dois pilotos se ela for
+  dotada de comandos de voo duplos e em funcionamento. No entanto, se a aeronave foi certificada
+  sem requerer dois pilotos, um manche único, transferível por rotação de um posto para outro
+  (“
+
+  throw over control
+
+  ”), é aceitável.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- controles
+- duplicados
+- aeronave
+- dois
+- pilotos
+- aceitavel
+- certificada
+- comandos
+- control
+- dada
+- dotada
+- duplos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

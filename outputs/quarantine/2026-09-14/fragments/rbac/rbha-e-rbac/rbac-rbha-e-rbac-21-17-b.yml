@@ -1,0 +1,36 @@
+id: rbac-rbha-e-rbac-21-17-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.17'
+section_title: Determinação dos requisitos aplicáveis
+subsection_id: b
+cite: 21.17(b)
+title: 21.17(b)
+text: (b) Para classes especiais de aeronaves (planadores, dirigíveis e outras aeronaves não
+  convencionais), incluindo motores e hélices instalados nas mesmas, para as quais não existem
+  requisitos de aeronavegabilidade emitidos, são aplicadas partes dos requisitos de aeronavegabilidade
+  contidos nos RBAC vigentes que sejam considerados pela ANAC como apropriados para a aeronave
+  e aplicáveis ao projeto de tipo em questão, ou outros critérios de aeronavegabilidade considerados
+  convenientes para prover um nível de segurança equivalente ao estabelecido pelos referidos
+  RBAC.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- requisitos
+- aeronaves
+- aplicaveis
+- considerados
+- aeronave
+- aplicadas
+- apropriados
+- classes
+- contidos
+- convencionais
+- convenientes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

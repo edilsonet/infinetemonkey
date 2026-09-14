@@ -1,0 +1,39 @@
+id: rbac-rbac-119-119-65-i
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.65'
+section_title: Pessoal de administração requerido para operações conduzidas segundo o RBAC
+  121
+subsection_id: i
+cite: 119.65(i)
+title: 119.65(i)
+text: '(i) padrões de segurança em aviação e práticas operacionais seguras;
+
+  (ii) os Regulamentos Brasileiros de Aviação Civil - RBAC;
+
+  (iii) as especificações operativas do detentor de certificado;
+
+  (iv) os requisitos aplicáveis de manutenção e de aeronavegabilidade contidos na legislação;
+
+  e'
+keywords:
+- certificacao-de-operador
+- operacoes
+- aviacao
+- administracao
+- aeronavegabilidade
+- aplicaveis
+- brasileiros
+- certificado
+- civil
+- conduzidas
+- contidos
+- detentor
+- especificacoes
+- legislacao
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

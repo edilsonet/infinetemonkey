@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-99-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.99'
+section_title: Composição de tripulação de voo
+subsection_id: a
+cite: 135.99(a)
+title: 135.99(a)
+text: (a) O detentor de certificado não pode operar uma aeronave com tripulação de voo menor
+  que a especificada para a aeronave nas limitações operacionais do manual de voo da aeronave,
+  ou requerida por este Regulamento para o tipo de operação a ser conduzida.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- tripulacao
+- certificado
+- composicao
+- conduzida
+- detentor
+- especificada
+- limitacoes
+- manual
+- menor
+- operacao
+- operacionais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-50-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.50'
+section_title: Instruções para aeronavegabilidade continuada e manuais de manutenção do fabricante
+  contendo seções de limitações de aeronavegabilidade
+subsection_id: a
+cite: 21.50(a)
+title: 21.50(a)
+text: (a) O detentor de um certificado de tipo de aeronave de asa rotativa para a qual tenha
+  sido emitido um manual de manutenção contendo uma seção de “Limitações de Aeronavegabilidade”
+  segundo os parágrafos 27.1529 (a)(2) do RBAC 27 ou 29.1529 (a)(2) do RBAC 29 e que tenha
+  obtido aprovação de modificação de qualquer intervalo de substituição, intervalo entre inspeções
+  ou procedimento correlato contido naquela seção do manual deve colocar à disposição estas
+  modificações quando solicitadas por qualquer operador do mesmo tipo de aeronave.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- contendo
+- intervalo
+- limitacoes
+- manual
+- manutencao
+- secao
+- tenha
+- tipo
+- aprovacao
+- certificado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

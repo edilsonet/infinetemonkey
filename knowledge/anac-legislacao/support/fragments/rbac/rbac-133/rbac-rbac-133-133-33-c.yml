@@ -1,0 +1,72 @@
+id: rbac-rbac-133-133-33-c
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.33'
+section_title: Regras de operação
+subsection_id: c
+cite: 133.33(c)
+title: 133.33(c)
+text: '(c) Antes de uma pessoa poder operar uma aeronave com uma combinação aeronave-carga
+  que
+
+  difira substancialmente de qualquer outra combinação anteriormente transportada pelo tipo
+  de
+
+  aeronave (seja ou não uma combinação de mesma classe), essa pessoa deve conduzir, de maneira
+  a
+
+  não causar riscos a pessoas ou propriedades na superfície, as seguintes verificações operacionais
+  de
+
+  voo (aquelas em que a ANAC considerar como sendo apropriadas à combinação envolvida):
+
+  (1) verificar se o peso da combinação aeronave-carga e a posição do seu centro de gravidade
+
+  estão dentro dos limites aprovados, se a carga externa está seguramente fixada e se a carga
+  externa
+
+  não interfere com dispositivos providos para seu alijamento em emergência;
+
+  (2) fazer uma saída do solo, verificando se a controlabilidade é satisfatória;
+
+  (3) enquanto em voo pairado, verificar se o controle direcional é satisfatório;
+
+  (4) acelerar em voo para a frente para verificar se existe alguma atitude (seja da aeronave,
+  seja
+
+  da carga externa) na qual exista alguma tendência de a aeronave se tornar instável (ou
+
+  incontrolável) ou que possa causar riscos;
+
+  (5) em voo à frente, verificar quanto a oscilações perigosas da carga externa; se a carga
+
+  externa não for visível pelo piloto, um outro tripulante ou pessoal de terra pode fazer
+  essa
+
+  verificação e informar ao piloto; e
+
+  (6) aumentar a velocidade para a frente e determinar uma velocidade operacional na qual
+  não
+
+  ocorra nenhuma oscilação ou turbulência aerodinâmica perigosa.'
+keywords:
+- carga-externa
+- helicoptero
+- carga
+- aeronave
+- combinacao
+- externa
+- verificar
+- frente
+- seja
+- alguma
+- causar
+- fazer
+- pessoa
+- piloto
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

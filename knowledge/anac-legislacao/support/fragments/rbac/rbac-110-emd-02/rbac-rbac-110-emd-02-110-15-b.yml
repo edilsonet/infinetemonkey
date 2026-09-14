@@ -1,0 +1,49 @@
+id: rbac-rbac-110-emd-02-110-15-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.15'
+section_title: Certificação dos profissionais em Segurança da Aviação Civil - AVSEC
+subsection_id: b
+cite: 110.15(b)
+title: 110.15(b)
+text: '(b) São certificações AVSEC:
+
+  (1) AVSEC para Atendimento ao Passageiro;
+
+  (2) AVSEC para Carga Aérea;
+
+  (3) AVSEC para Operações de Solo;
+
+  (4) AVSEC para Tripulantes;
+
+  (5) AVSEC para Vigilantes;
+
+  (6) Básico AVSEC;
+
+  (7) Inspeção de Segurança da Aviação Civil;
+
+  (8) AVSEC para Operador Aéreo;
+
+  (9) AVSEC para Operador de Aeródromo; e
+
+  (10) Instrutor AVSEC.'
+keywords:
+- carga
+- operacoes
+- avsec
+- aviacao
+- civil
+- operador
+- seguranca
+- aerea
+- aereo
+- aerodromo
+- atendimento
+- basico
+- certificacao
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-3-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.3
+section_title: Desempenho
+subsection_id: c
+cite: A135.3(c)
+title: A135.3(c)
+text: '(c) Subida.
+
+  (1) Subida na configuração de pouso; todos os motores operando. Devem ser determinados os
+  pesos máximos nos quais o avião, na configuração de pouso, possui um gradiente estável de
+  subida não inferior a 3,3%. Esses pesos devem ser determinados para cada altitude e temperatura
+  ambiente dentro dos limites operacionais estabelecidos para o avião, com o centro de gravidade
+  mais desfavorável, em ar livre fora do efeito de solo, e com:'
+keywords:
+- taxi-aereo
+- operacoes
+- subida
+- aviao
+- configuracao
+- determinados
+- pesos
+- pouso
+- a135
+- altitude
+- ambiente
+- cada
+- centro
+- dentro
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

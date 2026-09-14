@@ -1,0 +1,30 @@
+id: rbac-rbac-36-k7-4-b
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K7.4
+section_title: 'Adjustments for differences between test and reference flight procedures must
+  not exceed:'
+subsection_id: b
+cite: K7.4(b)
+title: K7.4(b)
+text: '(b) For flyover or approach: 2.0 EPNdB.'
+keywords:
+- ruido
+- meio-ambiente
+- adjustments
+- approach
+- between
+- differences
+- epndb
+- exceed
+- flight
+- flyover
+- must
+- procedures
+- reference
+- test
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,80 @@
+id: rbac-rbac-139-139-3-a
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.3'
+section_title: Termos e definições
+subsection_id: a
+cite: 139.3(a)
+title: 139.3(a)
+text: '(a) Para efeito deste Regulamento aplicam-se os termos e definições estabelecidos a
+  seguir, bem como aqueles disponíveis no RBAC 01, denominado “Definições, Regras de Redação
+  e Unidades de Medida para uso nos RBAC”, no RBAC 153, denominado “Aeródromos - Operação,
+  Manutenção e Resposta à Emergência”, no RBAC 154, denominado “Projeto de Aeródromos”, e
+  demais normas relacionadas à matéria.
+
+  (1) Acordo Específico para Certificação Operacional do Aeroporto é acordo inicial e prévio
+  ao processo de certificação, firmado entre o operador de aeródromo e a ANAC, com estabelecimento
+  de prazos e ações necessárias para a concessão de Certificado Operacional de Aeroporto.
+
+  (2) Autorização de Operações Especiais significa a autorização para condução de operação
+  mais exigente que aquela delimitada pelo código de referência do aeródromo.
+
+  (3) Certificado Operacional de Aeroporto significa o documento emitido pela ANAC que autoriza
+  o detentor a operar o referido aeroporto conforme o Manual de Operações do Aeródromo (MOPS)
+  aprovado pela ANAC e identifica os serviços aéreos autorizados, por meio das especificações
+  operativas.
+
+  (4) Compromisso de Ações Corretivas (CAC): acordo formal firmado entre o operador de aeródromo
+  e a ANAC, contendo as ações e os prazos para implementação dos elementos mínimos de infraestrutura
+  e de segurança operacional ou para correção de não conformidades identificadas no processo
+  de certificação junto com as medidas mitigadoras adicionais para eliminação ou mitigação
+  dos riscos.
+
+  (5) Especificações operativas significa o conjunto de informações que caracterizam a operação
+  que pode ser conduzida no aeródromo, considerando a infraestrutura disponível e os procedimentos
+  estabelecidos no Manual de Operações do Aeródromo (MOPS), assim como as restrições de uso
+  do aeródromo.
+
+  (6) Estudo Aeronáutico significa o estudo elaborado pelo operador de aeródromo que documenta
+  a avaliação do impacto de não-conformidades em relação aos padrões estabelecidos no RBAC
+  nº 154, quantificando os riscos associados e estabelecendo soluções alternativas que alcancem
+  um nível aceitável de segurança operacional, podendo conter uma ou mais Análises de Impacto
+  sobre a Segurança Operacional (AISO) ou Estudos de Compatibilidade.
+
+  (7) Estudo de Compatibilidade significa o estudo elaborado pelo operador de aeródromo para
+  avaliar a compatibilidade da operação da aeronave crítica com os elementos da infraestrutura
+  do aeródromo que serão utilizados por ela, utilizando o código de referência de aeródromo
+  como metodologia de referência para guiar a análise, podendo ser realizado para avaliar
+  os impactos da introdução de um tipo de aeronave ou procedimento que represente uma operação
+  mais exigente que aquela autorizada pelas especificações operativas do aeródromo.
+
+  (8) Manual de Operações do Aeródromo (MOPS) significa o documento, ou conjunto de documentos,
+  elaborado pelo operador de aeródromo, contendo as regras, padrões e práticas adotadas no
+  sítio aeroportuário.
+
+  (9) Operação mais exigente significa a operação de aeronave que exija a majoração de ao
+  menos um dos elementos do código de referência do aeródromo ou a utilização de procedimentos
+  para aproximação ou decolagem que demandem requisitos mais exigentes.
+
+  (10) Sítio aeroportuário significa toda a área patrimonial do aeródromo.'
+keywords:
+- aerodromos
+- infraestrutura
+- aerodromo
+- significa
+- operacao
+- operacional
+- operador
+- aeroporto
+- estudo
+- operacoes
+- referencia
+- acoes
+- acordo
+- aeronave
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

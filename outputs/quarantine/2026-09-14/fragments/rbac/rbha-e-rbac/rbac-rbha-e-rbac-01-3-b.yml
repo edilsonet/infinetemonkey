@@ -1,0 +1,38 @@
+id: rbac-rbha-e-rbac-01-3-b
+kind: rbac
+document: rbha-e-rbac
+family: '1'
+section_id: '01.3'
+section_title: Regras de construção dos RBAC
+subsection_id: b
+cite: 01.3(b)
+title: 01.3(b)
+text: '(b) Nos textos dos RBAC, as palavras a seguir têm o seguinte significado:
+
+  (1) os verbos "dever" ou "ser" no presente do indicativo ou no futuro indicam cumprimento
+  obrigatório tendo a conotação imperativa. Exemplificando: deve, devem, deverá, deverão,
+  é, são, será, ou serão;
+
+  (2) o verbo "poder" no presente, futuro ou condicional, ou verbo "ser" no condicional tem
+  a conotação de ser permissível, recomendável ou de cumprimento opcional. Exemplificando:
+  pode, poderá, poderão, poderia, poderiam, seria, seriam. O verbo "poder", no presente ou
+  no futuro, precedido do advérbio "não", significa que a ação referenciada não é permitida
+  ou não é autorizada; e
+
+  (3) a palavra "inclui" significa sempre "inclui, mas não é limitado a".'
+keywords:
+- futuro
+- presente
+- verbo
+- condicional
+- conotacao
+- cumprimento
+- exemplificando
+- inclui
+- poder
+- significa
+- acao
+- adverbio
+categories:
+- legislacao
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

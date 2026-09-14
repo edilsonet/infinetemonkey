@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-177-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.177'
+section_title: Requisitos de equipamentos de emergência para aeronaves tendo uma configuração
+  para passageiros com mais de 19 assentos
+subsection_id: v
+cite: 135.177(v)
+title: 135.177(v)
+text: '(v) compressa para queimaduras: 10 cm × 10 cm (ou tamanho aproximado);
+
+  (vi) compressa estéril: 7.5 cm × 12 cm (ou tamanho aproximado);
+
+  (vii) gaze estéril: 10.4 cm × 10,4 cm (ou tamanho aproximado);
+
+  (viii) fita adesiva: 2,5 cm (rolo);
+
+  (ix) fitas (curativos) adesivas estéreis (ou equivalente);'
+keywords:
+- taxi-aereo
+- operacoes
+- aproximado
+- tamanho
+- compressa
+- esteril
+- adesiva
+- adesivas
+- aeronaves
+- assentos
+- configuracao
+- curativos
+- emergencia
+- equipamentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

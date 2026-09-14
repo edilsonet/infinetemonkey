@@ -1,0 +1,42 @@
+id: rbac-rbac-110-emd-02-110-61-e
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.61'
+section_title: Certificado AVSEC
+subsection_id: e
+cite: 110.61(e)
+title: 110.61(e)
+text: '(e) O certificado AVSEC conterá, no mínimo, as seguintes informações:
+
+  (1) nome do centro de instrução que conduziu a aplicação dos critérios de aprovação da certificação;
+
+  (2) nome completo do profissional;
+
+  (3) número de inscrição no Cadastro de Pessoa Física (CPF) do profissional;
+
+  (4) nome da certificação;
+
+  (5) validade da certificação; e
+
+  (6) nomes dos instrutores do curso.'
+keywords:
+- carga
+- operacoes
+- certificacao
+- nome
+- avsec
+- certificado
+- profissional
+- aplicacao
+- aprovacao
+- cadastro
+- centro
+- completo
+- conduziu
+- contera
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

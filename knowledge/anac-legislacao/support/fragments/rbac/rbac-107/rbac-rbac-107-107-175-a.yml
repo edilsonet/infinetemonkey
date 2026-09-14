@@ -1,0 +1,31 @@
+id: rbac-rbac-107-107-175-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.175'
+section_title: Medidas de Segurança destinadas a Insumos e Mercadorias de Aeroportos
+subsection_id: a
+cite: 107.175(a)
+title: 107.175(a)
+text: (a) O operador de aeródromo deve garantir que materiais de serviço, mercadorias ou suprimentos
+  sejam objeto de inspe&ccedccedil;ão de segurança apropriada nos acessos às ARS, exceto se
+  houver outros controles de segurança implementados de forma que seja constituída uma cadeia
+  segura desses insumos, conforme PSA do aeroporto.
+keywords:
+- seguranca
+- aeroporto
+- insumos
+- mercadorias
+- acessos
+- aerodromo
+- aeroportos
+- apropriada
+- cadeia
+- ccedccedil
+- constituida
+- controles
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

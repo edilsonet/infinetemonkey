@@ -1,0 +1,45 @@
+id: rbac-rbac-135-135-389-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.389'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações de decolagem'
+subsection_id: b
+cite: 135.389(b)
+title: 135.389(b)
+text: '(b) Para os propósitos desta seção:
+
+  (1) pode ser assumido que potência de decolagem é utilizada em todos os motores durante
+  a aceleração;
+
+  (2) pode ser considerado não mais que 50% do componente de vento de proa conhecido ou não
+  menos que 150% do componente de vento de cauda conhecido;
+
+  (3) o gradiente médio da pista (a diferença entre a elevação das extremidades da pista dividida
+  pelo comprimento total) deve ser considerado se for maior que 0,5%;
+
+  (4) é assumido que o avião é operado em atmosfera padrão; e
+
+  (5) para decolagens, “comprimento efetivo da pista” significa a distância entre o início
+  da pista na qual a decolagem é iniciada até o ponto no qual o plano de liberação de obstáculos,
+  associado com o outro lado da pista, intercepta a linha central da pista.'
+keywords:
+- taxi-aereo
+- operacoes
+- pista
+- decolagem
+- assumido
+- componente
+- comprimento
+- conhecido
+- considerado
+- pode
+- qual
+- vento
+- aceleracao
+- associado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

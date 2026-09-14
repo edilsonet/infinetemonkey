@@ -1,0 +1,50 @@
+id: rbac-rbac-129-129-17-i
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.17'
+section_title: Equipamento rádio
+subsection_id: i
+cite: 129.17(i)
+title: 129.17(i)
+text: '(i) exceto como o previsto no parágrafo (c) desta seção, dois sistemas de navegação
+  independentes aprovados, adequados à navegação da aeronave ao longo da rota a ser voada
+  com o grau de precisão requerido pelo ATC;
+
+  (ii) one marker beacon receiver providing visual and aural signals; and
+
+  (ii) um receptor
+
+  marker beacon
+
+  que emita alertas visuais e audíveis; e
+
+  (iii) one ILS receiver.
+
+  (iii) um receptor ILS.
+
+  (3) any RNAV system used to meet the navigation equipment requirements of this section is
+  authorized in the foreign air carrier''s Operations Specifications.
+
+  (3) qualquer sistema RNAV utilizado para atender aos requisitos do equipamento de navegação
+  desta seção seja autorizado nas Especificações Operativas do operador estrangeiro.'
+keywords:
+- operador-estrangeiro
+- operacoes
+- navegacao
+- beacon
+- desta
+- equipamento
+- marker
+- receiver
+- receptor
+- rnav
+- secao
+- adequados
+- aeronave
+- alertas
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

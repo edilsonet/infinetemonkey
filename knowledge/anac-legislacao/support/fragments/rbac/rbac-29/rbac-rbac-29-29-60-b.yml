@@ -1,0 +1,101 @@
+id: rbac-rbac-29-29-60-b
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.60'
+section_title: is maintained and the descent (loss of height) below the landing surface is
+  determined.
+subsection_id: b
+cite: 29.60(b)
+title: 29.60(b)
+text: '(b)
+
+  Each primary control system, including its supporting structure, must be designed as follows:
+
+  (1)
+
+  The system must withstand loads resulting from the limit pilot forces prescribed in § 29.397;
+
+  (2)
+
+  Notwithstanding paragraph (b)(3) of this section, when power-operated actuator controls
+  or power
+
+  boost controls are used, the system must also withstand the loads resulting from the limit
+  pilot
+
+  forces prescribed in § 29.397 in conjunction with the forces output of each normally energized
+
+  power device, including any single power boost or actuator system failure;
+
+  (3)
+
+  If the system design or the normal operating loads are such that a part of the system cannot
+  react
+
+  to the limit pilot forces prescribed in § 29.397, that part of the system must be designed
+  to
+
+  withstand the maximum loads that can be obtained in normal operation. The minimum design
+  loads
+
+  must, in any case, provide a rugged system for service use, including consideration of fatigue,
+
+  jamming, ground gusts, control inertia, and friction loads. In the absence of a rational
+  analysis, the
+
+  design loads resulting from 0.60 of the specified limit pilot forces are acceptable minimum
+  design
+
+  loads; and
+
+  (4)
+
+  If operational loads may be exceeded through jamming, ground gusts, control inertia, or
+  friction, the
+
+  system must withstand the limit pilot forces specified in § 29.397, without yielding.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.361(a)(2)
+
+  14 CFR 29.395(b)(4) (enhanced display)
+
+  page 30 of 167
+
+
+  § 29.397 Limit pilot forces and torques.
+
+  § 29.399 Dual control system.
+
+  Each dual primary flight control system must be able to withstand the loads that result
+  when pilot forces not less
+
+  than 0.75 times those obtained under § 29.395 are applied -
+
+  § 29.411 Ground clearance: tail rotor guard.
+
+  § 29.427 Unsymmetrical loads.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- loads
+- system
+- forces
+- must
+- pilot
+- limit
+- control
+- withstand
+- design
+- power
+- that
+- each
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

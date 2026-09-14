@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-53-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.53'
+section_title: Declaração de conformidade
+subsection_id: b
+cite: 21.53(b)
+title: 21.53(b)
+text: (b) O requerente deve submeter uma declaração de conformidade à ANAC para cada aeronave
+  ou peça da mesma apresentada à ANAC para ensaios. A declaração de conformidade deve incluir
+  a declaração de que o requerente cumpriu o previsto no parágrafo 21.33(a), a menos que de
+  outra forma autorizado segundo o mesmo parágrafo.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- declaracao
+- conformidade
+- paragrafo
+- requerente
+- aeronave
+- apresentada
+- autorizado
+- cada
+- cumpriu
+- ensaios
+- forma
+- incluir
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

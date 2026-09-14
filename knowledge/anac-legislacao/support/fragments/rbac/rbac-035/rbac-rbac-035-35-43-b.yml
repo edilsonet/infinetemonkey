@@ -1,0 +1,67 @@
+id: rbac-rbac-035-35-43-b
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.43'
+section_title: '35.43'
+subsection_id: b
+cite: 35.43(b)
+title: 35.43(b)
+text: '(b) A burst pressure test to 2.0 times the
+
+  maximum operating pressure for one minute
+
+  without failure. Leakage is permitted and seals
+
+  may be excluded from the test.
+
+
+  de
+
+  operar
+
+  posteriormente
+
+  sem
+
+  ação
+
+  de
+
+  manutenção na condição de torque máximo
+
+  acima do limite de torque da hélice. Isto pode
+
+  ser realizado através de:
+
+  (1) execução de 20 giros, cada um com 30
+
+  segundos de duração, na condição de operação
+
+  com torque máximo acima do limite de torque
+
+  da hélice; ou
+
+  (2) análise baseada em ensaio ou experiência
+
+  em serviço.'
+keywords:
+- helices
+- aeronavegabilidade
+- torque
+- acima
+- condicao
+- helice
+- limite
+- maximo
+- pressure
+- test
+- acao
+- analise
+- atraves
+- baseada
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

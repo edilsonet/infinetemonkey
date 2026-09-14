@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-179-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.179'
+section_title: Instrumentos e equipamentos inoperantes
+subsection_id: i
+cite: 135.179(i)
+title: 135.179(i)
+text: '(i) ser preparada de acordo com as limitações especificadas no parágrafo (c) desta
+  seção; e
+
+  (ii) prover procedimentos para a operação da aeronave com certos instrumentos e equipamentos
+  em condição inoperante;
+
+  (4) registros identificando os equipamentos e instrumentos inoperantes e as informações
+  requeridas pelo parágrafo (b)(3)(ii) desta seção devem estar disponíveis para conhecimento
+  do piloto; e
+
+  (5) a aeronave deve ser operada de acordo com todas as condições e limitações contidas na
+  MEL e nas especificações operativas autorizando o seu uso.'
+keywords:
+- taxi-aereo
+- operacoes
+- equipamentos
+- instrumentos
+- acordo
+- aeronave
+- desta
+- inoperantes
+- limitacoes
+- paragrafo
+- secao
+- autorizando
+- certos
+- condicao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

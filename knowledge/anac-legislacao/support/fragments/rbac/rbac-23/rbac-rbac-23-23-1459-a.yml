@@ -1,0 +1,122 @@
+id: rbac-rbac-23-23-1459-a
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.1459'
+section_title: Gravadores de dados de voo.
+subsection_id: a
+cite: 23.1459(a)
+title: 23.1459(a)
+text: '(a) Cada gravador de dados de voo requerido
+
+  pelos regulamentos operacionais deve ser insta-
+
+  lado de maneira que:
+
+  (1) Seja alimentado com dados de velocidade
+
+  no ar, altitude e direção obtidos de fontes que
+
+  atendem aos requisitos do sistema da aeronave
+
+  e a funcionalidade especificada na seção
+
+  23.2500;
+
+  (2) O sensor de aceleração vertical seja rigida-
+
+  mente fixado e localizado longitudinalmente
+
+  dentro dos limites aprovados do centro de gra-
+
+  vidade da aeronave, ou a uma distância para a
+
+  frente ou para trás desses limites que não exce-
+
+  da 25% da corda aerodinâmica média do avião;
+
+  (3)(i) Receba sua alimentação elétrica do bar-
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 23
+
+
+  bus that provides the maximum reliability for
+
+  operation of the flight data recorder without
+
+  jeopardizing service to essential or emergency
+
+  loads;
+
+
+  (ii) It remains powered for as long as possible
+
+  without jeopardizing emergency operation of
+
+  the airplane;
+
+  (4) There is an aural or visual means for pre-
+
+  flight checking of the recorder for proper re-
+
+  cording of data in the storage medium;
+
+
+  (5) Except for recorders powered solely by the
+
+  engine-driven electrical generator system, there
+
+  is an automatic means to simultaneously stop a
+
+  recorder that has a data erasure feature and
+
+  prevent each erasure feature from functioning,
+
+  within 10 minutes after crash impact;
+
+
+  (6) Any single electrical failure external to the
+
+  recorder does not disable both the cockpit voice
+
+  recorder and the flight data recorder; and
+
+
+  (7) It is in a separate container from the cockpit
+
+  voice recorder when both are required. If used
+
+  to comply with only the flight data recorder
+
+  requirements, a combination unit may be in-
+
+  stalled. If a combination unit is installed as a
+
+  cockpit voice recorder to comply with
+
+  §23.1457(e)(2), a combination unit must be
+
+  used to comply with this flight data recorder
+
+  requirement.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- recorder
+- data
+- flight
+- cockpit
+- combination
+- comply
+- dados
+- unit
+- voice
+- with
+- aeronave
+- both
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

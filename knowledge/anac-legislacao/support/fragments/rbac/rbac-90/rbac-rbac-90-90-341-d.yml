@@ -1,0 +1,31 @@
+id: rbac-rbac-90-90-341-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.341'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 90.341(d)
+title: 90.341(d)
+text: (d) A UAP deverá estabelecer uma política de uso e inspeção dos paraquedas, DAA, altímetros,
+  capacetes, cintos de amarração e demais equipamentos de segurança no MOP.
+keywords:
+- regras-de-voo
+- operacoes
+- altimetros
+- amarracao
+- capacetes
+- cintos
+- demais
+- devera
+- equipamentos
+- estabelecer
+- gerais
+- inspecao
+- paraquedas
+- politica
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

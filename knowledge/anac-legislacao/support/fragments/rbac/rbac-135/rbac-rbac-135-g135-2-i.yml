@@ -1,0 +1,86 @@
+id: rbac-rbac-135-g135-2-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: i
+cite: G135.2(i)
+title: G135.2(i)
+text: '(i) Combustível suficiente, assumindo uma descompressão rápida e uma falha de motor.
+  O avião deve estar abastecido da maior das quantidades de combustível requeridas abaixo:
+
+  (A) combustível suficiente para voar até um aeródromo de alternativa em rota ETOPS assumindo
+  uma descompressão rápida, no ponto mais crítico da rota, seguido de uma descida até uma
+  altitude segura que atenda aos requisitos de suprimento de oxigênio da seção 135.157;
+
+  (B) combustível suficiente para voar até um aeródromo de alternativa em rota ETOPS (na velocidade
+  de cruzeiro com um motor inoperante sob atmosfera padrão, ar calmo) assumindo uma descompressão
+  rápida e, simultaneamente, uma falha de motor, no ponto mais crítico da rota, seguido de
+  uma descida até uma altitude segura em cumprimento aos requisitos de suprimento de oxigênio
+  da seção 135.157; ou
+
+  (C) combustível suficiente para voar até um aeródromo de alternativa em rota ETOPS (na velocidade
+  de cruzeiro com um motor inoperante sob atmosfera padrão, ar calmo) assumindo uma falha
+  de motor no ponto mais crítico da rota seguido de uma descida até uma altitude de cruzeiro
+  com um motor inoperante.
+
+  (ii) Combustível suficiente, levando em conta erros na previsão dos ventos em rota. No cálculo
+  do combustível requerido pelo parágrafo G135.2(g)(1)(i) desse Apêndice, o detentor de certificado
+  deve majorar os valores previstos da velocidade do vento em rota em 5% (resultando em um
+  acréscimo na velocidade de vento contrário ou em um decréscimo no vento de cauda) para contar
+  com potenciais erros das previsões de vento em rota.
+
+  (iii) Combustível suficiente, levando-se em conta um desvio de uma área onde haja condições
+  de formação de gelo. No cálculo requerido pelo parágrafo G135.2(g)(1)(i) deste Apêndice
+  (após a realização do cálculo requerido pelo parágrafo G135.2(g)(1)(ii) deste Apêndice),
+  o detentor de certificado deve assegurar-se de que o avião esteja abastecido com uma das
+  maiores quantidades de combustível abaixo para o caso de desvio de uma possível área de
+  formação de gelo:
+
+  (A) combustível que seria consumido como resultado de acúmulo de gelo no avião durante 10%
+  do tempo que a formação de gelo for prevista (incluindo o combustível utilizado pelos sistemas
+  antigelo durante esse período);
+
+  (B) combustível que seria consumido pelos sistemas antigelo durante todo o período em que
+  a formação de gelo for prevista.
+
+  (iv) Combustível suficiente, levando-se em conta uma deterioração do motor. No cálculo da
+  quantidade de combustível requerido pelo parágrafo G135.2(g)(1)(i) desse Apêndice (após
+  a realização do cálculo requerido pelo parágrafo G135.2(g)(1)(ii) desse Apêndice), o detentor
+  de certificado deve assegurar-se que o avião também esteja abastecido com mais 5% do combustível
+  especificado acima, levando-se em conta uma deterioração em cruzeiro do desempenho na queima
+  de combustível, exceto se o detentor de certificado tiver um programa de monitoramento da
+  deterioração, em cruzeiro, do desempenho na queima de combustível do avião;
+
+  (2) combustível suficiente, levando-se em conta esperas, aproximações e aterrissagens. Em
+  adição ao combustível requerido pelo parágrafo G135.2(g)(1) desse Apêndice, o avião deve
+  ser abastecido suficientemente para uma espera de 15 minutos a 1500 pés acima da altitude
+  de um aeródromo de alternativa em rota ETOPS, e em seguida ser conduzido ao pouso por meio
+  de um procedimento por instrumentos; e
+
+  (3) combustível levando-se em conta o uso da APU. Se uma APU for requerida para o fornecimento
+  de energia, o detentor de certificado deve levar em conta este consumo durante as fases
+  de voo apropriadas.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- rota
+- suficiente
+- conta
+- g135
+- motor
+- apendice
+- aviao
+- levando
+- paragrafo
+- requerido
+- calculo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

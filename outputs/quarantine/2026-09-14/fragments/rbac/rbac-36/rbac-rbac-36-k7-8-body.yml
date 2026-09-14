@@ -1,0 +1,37 @@
+id: rbac-rbac-36-k7-8-body
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K7.8
+section_title: The tiltrotor must operate between 10 degrees from the vertical or between
+  65 feet (20 m)
+subsection_id: body
+cite: K7.8
+title: The tiltrotor must operate between 10 degrees from the vertical or between 65 feet
+  (20 m)
+text: 'K7.8 The tiltrotor must operate between 10 degrees from the vertical or between 65
+  feet (20 m)
+
+  lateral deviation tolerance, whichever is greater, above the reference track and throughout
+  the 10
+
+  dB-down time interval.'
+keywords:
+- ruido
+- meio-ambiente
+- between
+- degrees
+- feet
+- from
+- must
+- operate
+- tiltrotor
+- vertical
+- above
+- deviation
+- down
+- greater
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-23-23-2600-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2600'
+section_title: Interface com a tripulação.
+subsection_id: c
+cite: 23.2600(c)
+title: 23.2600(c)
+text: '(c) Para os aviões de nível 4, o projeto da inter-
+
+  face da tripulação de voo deve permitir a conti-
+
+  nuação do voo e pouso seguros após a perda de
+
+  visão através de qualquer um dos painéis do
+
+  para-brisa.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- tripulacao
+- atraves
+- avioes
+- brisa
+- conti
+- face
+- inter
+- interface
+- nivel
+- nuacao
+- paineis
+- perda
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

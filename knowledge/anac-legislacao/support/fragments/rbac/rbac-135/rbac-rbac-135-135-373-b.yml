@@ -1,0 +1,48 @@
+id: rbac-rbac-135-135-373-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.373'
+section_title: 'Aviões categoria transporte (RBAC nº 25) com quatro ou mais motores convencionais:
+  limitações em rota com dois motores inoperantes'
+subsection_id: b
+cite: 135.373(b)
+title: 135.373(b)
+text: '(b) Para o propósito do parágrafo (a)(2) desta seção, é assumido que:
+
+  (1) os dois motores falham no ponto que é mais crítico em relaçãatilde;o ao peso de decolagem;
+
+  (2) o consumo de combustível e óleo é normal com todos os motores operando até o ponto onde
+  os dois motores falham, com dois motores operando além deste ponto;
+
+  (3) quando é assumido que os motores falham a uma altitude acima da altitude mínima estabelecida,
+  a conformidade com a razão de subida estabelecida na altitude mínima prevista não precisa
+  ser demonstrada durante a descida da altitude de cruzeiro para a altitude mínima prevista,
+  se esses requisitos forem atendidos uma vez alcançada a altitude mínima prevista e assumindo
+  uma descida ao longo de uma trajetória líquida de voo com uma razão de descida 0,013 Vso²
+  maior que a razão constante nos dados de desempenho aprovados; e
+
+  (4) se for previsto o alijamento de combustível, o peso do avião no ponto onde os dois motores
+  falham é considerado como não sendo menor do que aquele que inclui combustível suficiente
+  para prosseguir para um aeródromo que atenda à seção 135.377 e para chegar a uma altura
+  de pelo menos 1000 pés verticalmente acima desse aeródromo.'
+keywords:
+- taxi-aereo
+- operacoes
+- motores
+- altitude
+- dois
+- falham
+- minima
+- ponto
+- combustivel
+- descida
+- razao
+- acima
+- aerodromo
+- assumido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

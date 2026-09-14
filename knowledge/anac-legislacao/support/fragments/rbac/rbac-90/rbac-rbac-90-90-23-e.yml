@@ -1,0 +1,36 @@
+id: rbac-rbac-90-90-23-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.23'
+section_title: Requisitos para exercício da função de piloto em comando
+subsection_id: e
+cite: 90.23(e)
+title: 90.23(e)
+text: '(e) Para as operações aéreas de combate a incêndios, o piloto em comando deverá:
+
+  (1) cumprir com os requisitos previstos no parágrafo (a) desta seção; e
+
+  (2) ter concluído o treinamento de combate a incêndios na categoria da aeronave que irá
+  tripular segundo o programa de treinamento estabelecido pela UAP, ou ser detentor da habilitação
+  PAGA/H em consonância com o RBAC nº 61.'
+keywords:
+- regras-de-voo
+- operacoes
+- comando
+- combate
+- incendios
+- piloto
+- requisitos
+- treinamento
+- aereas
+- aeronave
+- categoria
+- concluido
+- consonancia
+- cumprir
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

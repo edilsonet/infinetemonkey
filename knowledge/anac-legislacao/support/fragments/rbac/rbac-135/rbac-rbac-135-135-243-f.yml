@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-243-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.243'
+section_title: Qualificações para piloto em comando
+subsection_id: f
+cite: 135.243(f)
+title: 135.243(f)
+text: '(f) Para operação com helicópteros certificados para operação com um só piloto, se
+  as especificações operativas do detentor de certificado autorizarem exclusivamente operações
+  VFR para esses helicópteros, o piloto em comando não precisa ter habilitação IFR para helicóptero
+  quando o voo for realizado no período diurno, ou, caso realizado no período noturno, quando
+  ocorra inteiramente em ATZ, CTR ou TMA, incluindo as projeções dos seus limites laterais,
+  ou ainda, na inexistência desses espaços aéreos, dentro de um raio de 50 km (27 NM) do aeródromo
+  de partida.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- comando
+- helicopteros
+- operacao
+- periodo
+- realizado
+- aereos
+- aerodromo
+- autorizarem
+- caso
+- certificado
+- certificados
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

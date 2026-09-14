@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-225-h
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.225'
+section_title: '135.225'
+subsection_id: h
+cite: 135.225(h)
+title: 135.225(h)
+text: '(h) Um piloto pode iniciar um procedimento de aproximação por instrumentos ou continuar
+  uma aproximação em um aeródromo quando a visibilidade reportada está abaixo dos mínimos
+  previstos para o procedimento se o piloto utiliza EFVS em conformidade com autorização específica
+  para uso de créditos operacionais mediante o uso de EFVS emitida pela ANAC.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- aproximacao
+- efvs
+- piloto
+- procedimento
+- abaixo
+- aerodromo
+- autorizacao
+- conformidade
+- continuar
+- creditos
+- dada
+- emitida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-155-155-347-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: b
+cite: 155.347(b)
+title: 155.347(b)
+text: '(b)
+
+  Os sistemas padrões de indicadores visuais de rampa de aproximação, para operações com helicópteros,
+  consistem de:
+
+  (1)
+
+  sistemas PAPI e APAPI, conforme especificações contidas no Regulamento Brasileiro da Aviação
+  Civil específico para Projeto de Aeródromos, exceto que a dimensão do ângulo do setor “na
+  rampa” deva ser aumentada para 45 minutos; ou
+
+  (2)
+
+  sistema indicador de trajetória de aproximação de helicópteros (HAPI), de acordo com as
+  especificações contidas nos parágrafos 155.347(f) ao (t).'
+keywords:
+- seguranca-aeroportuaria
+- aproximacao
+- rampa
+- contidas
+- especificacoes
+- helicopteros
+- indicador
+- sistemas
+- acordo
+- aerodromos
+- angulo
+- apapi
+- aumentada
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

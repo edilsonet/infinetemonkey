@@ -1,0 +1,39 @@
+id: rbac-rbac-142-142-33-c
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.33'
+section_title: Requisitos de aeronaves
+subsection_id: c
+cite: 142.33(c)
+title: 142.33(c)
+text: '(c) Aviões com controles como controle direcional de bequilha, interruptores, seletores
+  de
+
+  combustível e controles do fluxo de ar que não sejam alcançados e operados facilmente de
+  uma
+
+  maneira convencional por ambos os pilotos podem ser usados para treinamento de voo se o
+  detentor
+
+  do certificado demonstrar à ANAC que o treinamento de voo pode ser ministrado de maneira
+  segura
+
+  considerando a localização dos controles ou sua operação não convencional, ou ambas.'
+keywords:
+- controles
+- convencional
+- maneira
+- treinamento
+- aeronaves
+- alcancados
+- ambas
+- ambos
+- avioes
+- bequilha
+- certificado
+- combustivel
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

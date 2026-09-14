@@ -1,0 +1,50 @@
+id: rbac-rbac-135-a135-20-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.20
+section_title: Arrefecimento
+subsection_id: a
+cite: A135.20(a)
+title: A135.20(a)
+text: '(a) Procedimentos de ensaios de arrefecimento em aviões com motores turboélice.
+
+  (1) Aviões com motores turboélice devem demonstrar conformidade com o RBAC nº 23 durante
+  os estágios de voo de decolagem, subida, cruzeiro e pouso, correspondentes aos aplicáveis
+  requisitos de desempenho. Os ensaios de arrefecimento devem ser conduzidos com o avião na
+  configuração e nas condições de operação que sejam críticas em relação ao arrefecimento
+  durante cada estágio de voo. Para os ensaios de arrefecimento uma temperatura está “estabilizada”
+  quando sua razão de variação é menor que 1,1º C (2ºF) por minuto.
+
+  (2) As temperaturas devem ser estabilizadas sob as condições a partir das quais é feita
+  a entrada em cada estágio de voo sendo investigado, exceto se a condição de entrada for
+  uma na qual as temperaturas dos componentes e dos fluidos do motor não se estabilizariam;
+  neste caso, deve ser conduzida uma operação dentro de todas as condições de entrada, antes
+  de entrar no estágio de voo a ser investigado, de modo a permitir que as temperaturas atinjam
+  seus níveis naturais no momento da entrada. Os ensaios de arrefecimento na decolagem devem
+  ser precedidos por um período durante o qual as temperaturas dos componentes e fluidos do
+  motor são estabilizadas com os motores em marcha lenta no solo.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (3) Os ensaios de arrefecimento em cada estágio de voo devem ser prosseguidos até que:'
+keywords:
+- taxi-aereo
+- operacoes
+- arrefecimento
+- ensaios
+- entrada
+- estagio
+- temperaturas
+- cada
+- condicoes
+- durante
+- motores
+- avioes
+- componentes
+- decolagem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

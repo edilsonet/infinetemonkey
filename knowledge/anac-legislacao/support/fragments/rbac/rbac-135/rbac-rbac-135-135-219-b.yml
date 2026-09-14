@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-219-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.219'
+section_title: '135.219'
+subsection_id: b
+cite: 135.219(b)
+title: 135.219(b)
+text: (b) Mínimos de planejamento para aeródromos de alternativa. Quando requerido pela ANAC,
+  o detentor de certificado deve considerar, para efeito de planejamento de voo e atendimento
+  a 135.219(a)(2), uma margem adicional apropriada sobre os mínimos operacionais dos aeródromos
+  de alternativa em rota ou de alternativa de destino, com objetivo de prover uma margem adequada
+  de segurança de que uma aproximação e um pouso poderão ser conduzidos com segurança nesses
+  aeródromos.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromos
+- alternativa
+- margem
+- minimos
+- planejamento
+- seguranca
+- adequada
+- adicional
+- apropriada
+- aproximacao
+- atendimento
+- certificado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

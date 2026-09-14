@@ -1,0 +1,51 @@
+id: rbac-rbac-110-emd-02-110-51-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.51'
+section_title: Responsabilidade na certificação em Segurança da Aviação Civil - AVSEC
+subsection_id: a
+cite: 110.51(a)
+title: 110.51(a)
+text: '(a) O centro de instrução é responsável por ministrar o curso AVSEC, operacionalizar
+  a aplicação dos critérios de aprovação das certificações que estão descritos no Apêndice
+  B e informar à ANAC os dados dos profissionais que realizam os seguintes cursos de Formação
+  e de Atualização:
+
+  (1) AVSEC para o Atendimento ao Passageiro;
+
+  (2) AVSEC para a Carga Aérea;
+
+  (3) AVSEC para as Operações de Solo;
+
+  (4) AVSEC para Tripulantes;
+
+  (5) AVSEC para Vigilantes;
+
+  (6) Básico AVSEC;
+
+  (7) Inspeção de Segurança da Aviação Civil;
+
+  (8) AVSEC para Operador Aéreo; e
+
+  (9) AVSEC para Operador de Aeródromo.'
+keywords:
+- carga
+- operacoes
+- avsec
+- aviacao
+- civil
+- operador
+- seguranca
+- aerea
+- aereo
+- aerodromo
+- apendice
+- aplicacao
+- aprovacao
+- atendimento
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

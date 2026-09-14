@@ -1,0 +1,30 @@
+id: rbac-rbac-90-90-301-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.301'
+section_title: Requisitos gerais para pouso ou decolagem em local não cadastrado pela ANAC
+subsection_id: e
+cite: 90.301(e)
+title: 90.301(e)
+text: (e) A UAP deverá estabelecer no MOP e nos SOP disposição expressa sobre operações de
+  pouso e/ou decolagem em locais não cadastrados pela ANAC.
+keywords:
+- regras-de-voo
+- operacoes
+- decolagem
+- pouso
+- cadastrado
+- cadastrados
+- devera
+- disposicao
+- estabelecer
+- expressa
+- gerais
+- locais
+- local
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

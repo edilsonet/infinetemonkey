@@ -1,0 +1,36 @@
+id: rbac-rbac-107-107-95-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.95'
+section_title: Controle de Credenciais e Autorizações
+subsection_id: c
+cite: 107.95(c)
+title: 107.95(c)
+text: '(c) O modelo de credencial ou autorização aeroportuária, com acesso à AC e ARS, deve
+  ser alterado a cada 8 (oito) anos.
+
+  (1) No caso de aeródromo que não utilize tecnologia automatizada para controle de acesso,
+  a alteração de modelo de credenciais ou autorizações deve ocorrer sempre que o número de
+  credenciais não devolvidas, extraviadas, furtadas ou roubadas ultrapassar uma percentagem
+  do total de credencias válidas que prejudique a confiabilidade do sistema.'
+keywords:
+- seguranca
+- aeroporto
+- credenciais
+- acesso
+- autorizacoes
+- controle
+- modelo
+- aerodromo
+- aeroportuaria
+- alteracao
+- alterado
+- anos
+- automatizada
+- autorizacao
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

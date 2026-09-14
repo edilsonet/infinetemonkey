@@ -1,0 +1,100 @@
+id: rbac-rbac-154-154-305-x
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.305'
+section_title: Luzes
+subsection_id: x
+cite: 154.305(x)
+title: 154.305(x)
+text: '(x) Quando as luzes de proteção da pista de pouso e decolagem forem especificadas como
+
+  componentes de um sistema avançado de controle e orientação de movimentação de superfície,
+  em
+
+  que sejam necessárias intensidades de luz mais elevadas, a intensidade da luz amarela e
+  a amplitude
+
+  dos feixes das luzes da Configuração B devem estar de acordo com as especificações do Apêndice
+  B,
+
+  Figura AB-20.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  (xi) As luzes em cada unidade da Configuração A devem acender e apagar alternadamente.
+
+  (xii) Para a configuração B, luzes adjacentes devem acender e apagar alternadamente e luzes
+
+  alternadas devem acender e apagar ao mesmo tempo.
+
+  (xiii) As luzes devem acender entre 30 e 60 ciclos por minuto e os períodos de supressão
+  e
+
+  acionamento da luz devem ser iguais e opostos em cada luz.
+
+  NOTA - A melhor taxa de intermitência ótima depende dos tempos do acender e apagar das lâmpadas
+
+  utilizadas. As luzes de proteção da pista de pouso e decolagem, Configuração A, instaladas
+  em
+
+  circuitos em série de 6,6 amperes, têm se demonstrado melhores quando operadas de 45 a 50
+  flashes
+
+  por minuto por lâmpada. As luzes de proteção de pista de pouso e decolagem, Configuração
+  B,
+
+  instaladas em circuitos em série de 6,6 amperes, têm se demonstrado melhores quando operadas
+  de
+
+  30 a 32 flashes por minuto por lâmpada.
+
+  (cc) Iluminação de pátios de aeronaves
+
+  [ver também os parágrafos 154.305(w)(1)(i) e 154.305(x)(1)(i)]
+
+  (1) Aplicação
+
+  Iluminação deve ser provida em pátios de aeronaves e em posições designadas de
+
+  estacionamento isolado de aeronaves destinado ao uso noturno.
+
+  NOTA - A designação de uma área isolada de estacionamento de aeronaves está especificada
+  nas
+
+  NOTAS 2 e 3 do parágrafo 154.225(e)(2).
+
+  (2) Localização
+
+  Os refletores de iluminação de pátios de aeronaves devem estar localizados de forma a oferecer
+
+  iluminação adequada em todas as áreas de serviço do pátio de aeronaves, com um mínimo de
+
+  ofuscamento para os pilotos de aeronaves em voo e no solo, controladores de tráfego e pessoal
+  de
+
+  solo. A disposição e direcionamento dos refletores devem ser tais que uma aeronave em
+
+  estacionamento receba luz de duas ou mais direções para minimizar as sombras.
+
+  (3) Características'
+keywords:
+- seguranca-aeroportuaria
+- luzes
+- aeronaves
+- acender
+- configuracao
+- apagar
+- iluminacao
+- decolagem
+- estacionamento
+- minuto
+- patios
+- pista
+- pouso
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

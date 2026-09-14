@@ -1,0 +1,31 @@
+id: rbac-rbac-141-141-41-d
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.41'
+section_title: Requisitos de instalações
+subsection_id: d
+cite: 141.41(d)
+title: 141.41(d)
+text: (d) O CIAC deve definir o número máximo de alunos que podem ser treinados simultaneamente
+  na mesma sala de aula.
+keywords:
+- escolas
+- treinamento
+- alunos
+- aula
+- ciac
+- definir
+- instalacoes
+- maximo
+- mesma
+- numero
+- podem
+- requisitos
+- sala
+- simultaneamente
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-e-94-e94-507-body
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.507
+section_title: Emissão de Certificado de Aeronavegabilidade para RPA Classe 1
+subsection_id: body
+cite: E94.507
+title: Emissão de Certificado de Aeronavegabilidade para RPA Classe 1
+text: 'E94.507 Emissão de Certificado de Aeronavegabilidade para RPA Classe 1
+
+  Uma RPA Classe 1 que possua um Certificado de Tipo emitido conforme o RBAC 21 faz jus ao
+  Certificado de Aeronavegabilidade correspondente definido no mesmo regulamento mediante
+  cumprimento da seção 21.183 ou 21.185 do RBAC 21, conforme aplicável.'
+keywords:
+- certificado
+- aeronavegabilidade
+- classe
+- emissao
+- aplicavel
+- correspondente
+- cumprimento
+- definido
+- emitido
+- mediante
+- mesmo
+- possua
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,47 @@
+id: rbac-rbac-135-a135-10-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.10
+section_title: Manual de voo do avião
+subsection_id: i
+cite: A135.10(i)
+title: A135.10(i)
+text: '(i) a distância de decolagem com todos os motores operando, determinada segundo o parágrafo
+  A135.3(b)(2) deste Apêndice, ou a distância de aceleração e parada, determinada segundo
+  o parágrafo A135.3(b)(3) deste Apêndice, a que for maior, iguala o comprimento disponível
+  de pista;
+
+  (ii) o avião atende aos requisitos de decolagem com um motor inoperante especificados no
+  parágrafo A135.3(b)(5) deste Apêndice;
+
+  (iii) o avião atende aos requisitos de subida de decolagem e de subida em rota, com um motor
+  inoperante, especificados nos parágrafos A135.3(c)(2) e (3) deste Apêndice; e
+
+  (3) limitações de peso de pouso. O peso máximo de pouso para cada elevação de aeródromo
+  (na temperatura padrão) e cada comprimento de pista disponível para pouso, dentro das faixas
+  selecionadas pelo requerente. Esse peso não pode exceder o peso no qual o comprimento de
+  campo de pouso determinado segundo o parágrafo A135.3(d)(2) deste Apêndice iguala o comprimento
+  de pista disponível. Quando demonstrando a conformidade com essa limitação operacional,
+  é aceitável assumir-se que o peso de pouso no destino é igual ao peso de decolagem reduzido
+  do peso do óleo e combustível consumidos normalmente em rota.'
+keywords:
+- taxi-aereo
+- operacoes
+- peso
+- a135
+- apendice
+- deste
+- pouso
+- comprimento
+- decolagem
+- paragrafo
+- aviao
+- disponivel
+- pista
+- segundo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

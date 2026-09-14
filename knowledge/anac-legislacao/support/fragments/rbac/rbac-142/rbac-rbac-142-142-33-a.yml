@@ -1,0 +1,34 @@
+id: rbac-rbac-142-142-33-a
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.33'
+section_title: Requisitos de aeronaves
+subsection_id: a
+cite: 142.33(a)
+title: 142.33(a)
+text: '(a) O gestor responsável do requerente ou detentor de certificado de CTAC deve assegurar
+  que
+
+  cada aeronave utilizada para ministrar treinamento de voo deve:
+
+  (1) possuir um Certificado de Aeronavegabilidade e de Matrícula válidos, emitidos pela ANAC;
+
+  (2) ser mantida e inspecionada conforme:'
+keywords:
+- certificado
+- aeronave
+- aeronavegabilidade
+- aeronaves
+- assegurar
+- cada
+- ctac
+- detentor
+- emitidos
+- gestor
+- inspecionada
+- mantida
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

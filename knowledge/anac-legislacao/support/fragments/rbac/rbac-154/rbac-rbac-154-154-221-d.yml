@@ -1,0 +1,53 @@
+id: rbac-rbac-154-154-221-d
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.221'
+section_title: Faixas de pista de táxi
+subsection_id: d
+cite: 154.221(d)
+title: 154.221(d)
+text: '(d) Nivelamento de faixas de pista de táxi
+
+  A porção central de uma faixa de pista de táxi deve dispor de uma faixa nivelada a uma distância
+
+  do eixo da pista de táxi não inferior à indicada a seguir:
+
+  (1) 10,25 m onde a OMGWS for menor que 4,5 m;
+
+  (2) 11m onde a OMGWS for maior ou igual a 4,5 m e menor que 6 m;
+
+  (3) 12,50 m onde a OMGWS for maior ou igual a 6 m e menor que 9 m; e
+
+  (4) 18,50 m onde a OMGWS for maior ou igual a 9 m e menor que 15 m, onde a letra de
+
+  código for D;.
+
+  (5) 19 m onde a OMGWS for maior ou igual a 9 m e menor que 15 m, onde a letra de código
+
+  for E; e
+
+  (6) 22 m onde a OMGWS for maior ou igual a 9 m e menor que 15 m, onde a letra de código
+
+  for F.
+
+
+  Data da emissão: 16 de junho de 2021.'
+keywords:
+- seguranca-aeroportuaria
+- menor
+- omgws
+- igual
+- maior
+- pista
+- taxi
+- codigo
+- letra
+- faixa
+- faixas
+- central
+- data
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

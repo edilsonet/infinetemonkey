@@ -1,0 +1,35 @@
+id: rbac-rbac-103-103-5-body
+kind: rbac
+document: rbac-103
+family: '103'
+section_id: '103.5'
+section_title: Autorização especial
+subsection_id: body
+cite: '103.5'
+title: Autorização especial
+text: '103.5 Autorização especial
+
+  Qualquer operação de veículo ultraleve ou balão livre tripulado em desacordo com as regras
+  deste
+
+  regulamento demanda autorização especial de voo emitida pela ANAC.'
+keywords:
+- ultraleves
+- operacoes
+- autorizacao
+- especial
+- balao
+- demanda
+- desacordo
+- deste
+- emitida
+- livre
+- operacao
+- regras
+- regulamento
+- tripulado
+categories:
+- ultraleves
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-103.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-135-a135-5-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.5
+section_title: Estabilidade
+subsection_id: a
+cite: A135.5(a)
+title: A135.5(a)
+text: '(a) Estabilidade estática longitudinal.
+
+  (1) Na demonstração de conformidade com os requisitos do RBAC nº 23 e com o parágrafo (a)(2)
+  desta seção, a velocidade do avião deve retornar para dentro da faixa de + 7,5% em torno
+  da velocidade de compensação.
+
+  (2) Estabilidade em cruzeiro. A curva da força no manche deve ter uma inclinação estável
+  dentro da faixa de velocidades de + 50 nós em torno da velocidade de compensação, exceto
+  que essas velocidades não precisam exceder VFC / MFC nem precisam ser menores que 1,4 VS1.
+  Essa faixa de velocidade é considerada como tendo início nos extremos externos da faixa
+  de atrito e a força no manche não pode exceder 22,7 kg (50 lb) com:'
+keywords:
+- taxi-aereo
+- operacoes
+- faixa
+- velocidade
+- estabilidade
+- compensacao
+- dentro
+- exceder
+- forca
+- manche
+- precisam
+- torno
+- velocidades
+- a135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

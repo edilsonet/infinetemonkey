@@ -1,0 +1,51 @@
+id: rbac-rbac-145-145-109-b-ii
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.109'
+section_title: Requisitos de equipamentos, ferramentas, materiais e dados técnicos
+subsection_id: b-ii
+cite: 145.109(b-II)
+title: 145.109(b-II)
+text: '(b)-II Cada organização de manutenção certificada deve assegurar que haja um meio adequado
+
+  de controle das calibrações periódicas de modo a garantir que todos os equipamentos e ferramentas
+
+  de teste e inspeção utilizados para a determinação de aeronavegabilidade de um artigo estejam
+  com
+
+  calibração válida. O intervalo máximo entre calibrações de equipamentos e ferramentas de
+  teste e
+
+  inspeção deve ser aquele estabelecido pelo fabricante em sua publicação técnica aplicável
+  ou outro
+
+  aceitável pela ANAC. Os registros dessas calibrações periódicas e, quando aplicável, os
+  registros
+
+  dos padrões de calibração utilizados devem ser conservados por pelo menos 5 (cinco) anos
+  (a partir
+
+  da sua emissão) ou para as 2 (duas) últimas calibrações, o que for maior, pela organização
+  de
+
+  manutenção certificada e mantidos disponíveis para a ANAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- calibracoes
+- equipamentos
+- ferramentas
+- aplicavel
+- calibracao
+- certificada
+- inspecao
+- organizacao
+- periodicas
+- registros
+- teste
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,53 @@
+id: rbac-rbac-21-21-4-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.4'
+section_title: Requisitos para comunicação de ocorrências em operação prolongada (ETOPS)
+subsection_id: i
+cite: 21.4(i)
+title: 21.4(i)
+text: '(i) um índice de 0,05 por 1.000 horas do motor da frota mundial de motores, para uma
+  combinação avião-motor aprovada para ETOPS 120 minutos ou menos. Quando todos os operadores
+  ETOPS tiverem cumprido com as ações corretivas requeridas pelo documento de configuração,
+  manutenção e procedimentos (CMP), como condição para aprovação de ETOPS, o índice a ser
+  mantido deve ser igual a ou menor que 0,02 por 1.000 horas de motor da frota mundial;
+
+  (ii) um índice de 0,02 por 1.000 horas do motor da frota mundial de motores, para uma combinação
+  de avião-motor aprovada para ETOPS 180 minutos ou menos, incluindo combinação aprovada de
+  avião-motor para ETOPS 207 minutos, conforme o apêndice P, seção I, parágrafo (h) do RBAC
+  121; ou (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )
+
+  (iii) um índice de 0,01 por 1.000 horas do motor da frota mundial de motores, para uma combinação
+  avião-motor aprovada para ETOPS acima de 180 minutos, excluindo combinação aprovada de avião-motor
+  para ETOPS 207 minutos, conforme o apêndice P, seção I, parágrafo (h), do RBAC 121. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- motor
+- etops
+- aprovada
+- aviao
+- combinacao
+- minutos
+- frota
+- horas
+- indice
+- mundial
+- motores
+- apendice
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

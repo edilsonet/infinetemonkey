@@ -1,0 +1,120 @@
+id: rbac-rbac-60-60-23-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.23'
+section_title: Modificações a FSTDs
+subsection_id: a
+cite: 60.23(a)
+title: 60.23(a)
+text: '(a) Para os propósitos deste regulamento,
+
+  um FSTD é considerado como tendo sido
+
+  modificado quando:
+
+  (1) equipment or devices intended to
+
+  simulate aircraft appliances are added to or
+
+  removed from FSTD, which change the
+
+  Statement of Qualification or the MQTG; or
+
+
+  (1) forem adicionados ou removidos
+
+  equipamentos ou dispositivos que simulem as
+
+  características da aeronave, resultando em
+
+  uma alteração no Certificado de Qualificação
+
+  ou no MQTG; ou
+
+  (2) changes are made to either software
+
+  or hardware that are intended to impact flight
+
+  or ground dynamics; changes are made that
+
+  impact performance or handling characteristics
+
+  of the FSTD (including motion, visual, control
+
+  loading, or sound systems for those FSTD
+
+  levels
+
+  requiring
+
+  sound
+
+  tests
+
+  and
+
+  measurements); or changes are made to the
+
+  MQTG. Changes to the MQTG which do not
+
+  affect required objective testing results or
+
+  validation data approved during the initial
+
+  evaluation of the FSTD are not considered
+
+  modifications under this section.
+
+
+  (2) forem realizadas alterações no
+
+  hardware ou software do FSTD, com a
+
+  intenção de impactar a simulação da dinâmica
+
+  de solo ou de voo; forem realizadas alterações
+
+  com a intenção de impactar o desempenho e a
+
+  qualidade de voo do FSTD (incluindo o
+
+  control loading e os sistemas de movimento,
+
+  visual ou som); ou forem realizadas
+
+  alterações no MQTG. Alterações no MQTG
+
+  que não afetarem os resultados dos testes
+
+  objetivos requeridos ou os dados de validação
+
+  aprovados na avaliação para qualificação
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  inicial do FSTD não são consideradas
+
+  modificações para os propósitos dessa seção.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- mqtg
+- alteracoes
+- changes
+- forem
+- made
+- realizadas
+- control
+- data
+- hardware
+- impact
+- impactar
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

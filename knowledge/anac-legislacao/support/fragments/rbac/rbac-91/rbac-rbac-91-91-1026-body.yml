@@ -1,0 +1,39 @@
+id: rbac-rbac-91-91-1026-body
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1026'
+section_title: Declaração de conformidade
+subsection_id: body
+cite: '91.1026'
+title: Declaração de conformidade
+text: '91.1026 Declaração de conformidade
+
+  O administrador de programa deve elaborar e manter atualizada uma declaração de conformidade.
+
+  Essa declaração de conformidade deve ser uma listagem completa de todas as seções e requisitos
+
+  deste Regulamento, com o correspondente método de conformidade a ser adotado por ele ou
+  uma
+
+  indicação de que o requisito não lhe seja aplicável.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- conformidade
+- declaracao
+- administrador
+- adotado
+- aplicavel
+- atualizada
+- completa
+- correspondente
+- deste
+- elaborar
+- indicacao
+- listagem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

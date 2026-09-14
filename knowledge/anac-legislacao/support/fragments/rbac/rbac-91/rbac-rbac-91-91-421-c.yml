@@ -1,0 +1,42 @@
+id: rbac-rbac-91-91-421-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.421'
+section_title: Registro de manutenção após reconstrução de motor
+subsection_id: c
+cite: 91.421(c)
+title: 91.421(c)
+text: '(c) Para os propósitos desta seção, motor reconstruído significa um motor usado, que
+  tenha sido
+
+  completamente desmontado, inspecionado, reparado como necessário, remontado, testado e aprovado
+
+  da mesma maneira e com as mesmas tolerâncias e limitações de um motor novo, utilizando partes
+
+  novas ou usadas. Entretanto, todas as partes usadas em um motor reconstruído devem estar
+  conforme
+
+  as tolerâncias e limites de partes novas ou com dimensões submedidas ou sobremedidas, como
+
+  aplicável, aprovadas para um motor novo.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- motor
+- partes
+- novas
+- novo
+- reconstruido
+- tolerancias
+- usadas
+- aplicavel
+- aprovadas
+- aprovado
+- completamente
+- desmontado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

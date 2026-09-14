@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-297-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.297'
+section_title: 'Piloto em comando: requisitos para exame de proficiência em voo por instrumentos'
+subsection_id: a
+cite: 135.297(a)
+title: 135.297(a)
+text: (a) O detentor de certificado somente pode utilizar uma pessoa como piloto em comando
+  e uma pessoa somente pode trabalhar como piloto em comando de uma aeronave voando IFR se
+  dentro dos 6 meses calendáricos precedendo esse voo o piloto tiver sido aprovado em um exame
+  de proficiência em voo por instrumentos, aplicado por um servidor designado pela ANAC ou
+  por um piloto examinador credenciado.
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- comando
+- exame
+- instrumentos
+- pessoa
+- pode
+- proficiencia
+- somente
+- aeronave
+- aplicado
+- aprovado
+- calendaricos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

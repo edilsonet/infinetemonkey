@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-227-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.227'
+section_title: 'Condições de gelo: limitações operacionais'
+subsection_id: e
+cite: 135.227(e)
+title: 135.227(e)
+text: (e) Exceto para um avião que possua as provisões de proteção contra gelo previstas no
+  parágrafo A135.17(b) do Apêndice A deste Regulamento ou aquelas previstas para aeronaves
+  certificadas na categoria transporte, o piloto não pode voar com uma aeronave em condições
+  conhecidas ou previstas de formação pesada de gelo.
+keywords:
+- taxi-aereo
+- operacoes
+- gelo
+- condicoes
+- a135
+- aeronave
+- aeronaves
+- apendice
+- aquelas
+- aviao
+- categoria
+- certificadas
+- conhecidas
+- contra
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,45 @@
+id: rbac-rbac-21-21-4-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.4'
+section_title: Requisitos para comunicação de ocorrências em operação prolongada (ETOPS)
+subsection_id: b
+cite: 21.4(b)
+title: 21.4(b)
+text: '(b) Confiabilidade de aviões bimotores.
+
+  (1) Comunicação de confiabilidade em serviço de aviões bimotores. O detentor do certificado
+  de tipo de um avião aprovado para ETOPS e o detentor do certificado de tipo de um motor
+  instalado em um avião aprovado para ETOPS devem comunicar mensalmente à ANAC a confiabilidade
+  de sua frota mundial de aviões e motores. As comunicações geradas tanto pelo detentor do
+  certificado de tipo do avião como do motor devem contemplar cada combinação avião-motor
+  aprovada para ETOPS. A ANAC pode autorizar comunicações trimestrais se, por um período considerado
+  aceitável pela ANAC, a combinação avião-motor mostrar um índice de parada de motor em voo
+  igual ou menor que aquele especificado no parágrafo (b)(2) desta seção. Esta comunicação
+  pode ser combinada com a comunicação requerida pela seção 21.3. O correspondente detentor
+  do certificado de tipo deve investigar qualquer causa de índice de parada de motor em voo
+  resultante de uma ocorrência atribuída ao projeto do seu produto e comunicar os resultados
+  desta investigação à ANAC. A comunicação deve incluir:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- motor
+- aviao
+- comunicacao
+- certificado
+- detentor
+- etops
+- tipo
+- avioes
+- confiabilidade
+- aprovado
+- bimotores
+- combinacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

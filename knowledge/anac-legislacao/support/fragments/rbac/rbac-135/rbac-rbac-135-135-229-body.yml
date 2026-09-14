@@ -1,0 +1,29 @@
+id: rbac-rbac-135-135-229-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.229'
+section_title: Requisitos de aeródromo e de áreas de pouso e decolagem não cadastradas
+subsection_id: body
+cite: '135.229'
+title: Requisitos de aeródromo e de áreas de pouso e decolagem não cadastradas
+text: '135.229 Requisitos de aeródromo e de áreas de pouso e decolagem não cadastradas
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- areas
+- cadastradas
+- decolagem
+- pouso
+- requisitos
+- dada
+- redacao
+- resolucao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

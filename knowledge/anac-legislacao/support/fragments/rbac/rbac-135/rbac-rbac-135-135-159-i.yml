@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-159-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.159'
+section_title: 'Requisitos de equipamentos: transporte de passageiros em voo VFR noturno'
+subsection_id: i
+cite: 135.159(i)
+title: 135.159(i)
+text: '(i) aviões com um terceiro sistema de indicação de atitude utilizável em todas as atitudes
+  de voo de 360º em arfagem e rolamento e instalado de acordo com os requisitos de instrumentos
+  estabelecidos no parágrafo 121.305(j) do RBAC nº 121;
+
+  (ii) helicópteros com um terceiro sistema de indicação de atitude utilizável em todas as
+  atitudes de voo de 80º de arfagem e 120º de rolamento e instalado de acordo com o parágrafo
+  29.1303(g) do RBAC nº 29; e
+
+  (iii) helicópteros com peso máximo de decolagem aprovado de 6.000 lbs ou menos;
+
+  (2) um indicador de derrapagem por piloto requerido;
+
+  (3) um indicador giroscópico de arfagem e inclinação (horizonte artificial) por piloto requerido;
+
+  (4) um indicador giroscópico de direção por piloto requerido;
+
+  (5) um gerador ou geradores capazes de suprir todas as prováveis combinações de cargas elétricas
+  contínuas em voo para alimentar os equipamentos requeridos e recarregar a bateria; e
+
+  (6) iluminação:'
+keywords:
+- taxi-aereo
+- operacoes
+- arfagem
+- indicador
+- piloto
+- requerido
+- todas
+- acordo
+- atitude
+- atitudes
+- equipamentos
+- giroscopico
+- helicopteros
+- indicacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-90-90-135-v
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.135'
+section_title: Componente 1 - política e objetivos de segurança operacional
+subsection_id: v
+cite: 90.135(v)
+title: 90.135(v)
+text: '(v) seja devidamente aprovada e assinada pelo gestor responsável do órgão ou ente público;
+
+  (viii) seja comunicada, com visível endosso da alta direção, por toda a UAP; e
+
+  (ix) seja periodicamente revisada para garantir que permanece relevante e apropriada para
+  a organização.
+
+  (2) O órgão ou ente público deve definir objetivos de segurança operacional considerando
+  o estabelecido em sua política de segurança operacional. Os objetivos de segurança operacional
+  devem:'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- objetivos
+- seja
+- ente
+- orgao
+- politica
+- publico
+- alta
+- apropriada
+- aprovada
+- assinada
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

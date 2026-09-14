@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-257-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.257'
+section_title: Válvulas de corte de fluxo
+subsection_id: c
+cite: 121.257(c)
+title: 121.257(c)
+text: (c) Os meios de corte de fluxo devem ser localizados fora das zonas designadas de fogo,
+  a menos que segurança equivalente seja proporcionada. Deve ser demonstrado que, após o corte
+  de fluxo, nenhuma quantidade de líquido inflamável é drenada para dentro de uma zona designada
+  de fogo.
+keywords:
+- transporte-aereo
+- operacoes
+- corte
+- fluxo
+- fogo
+- demonstrado
+- dentro
+- designada
+- designadas
+- drenada
+- equivalente
+- fora
+- inflamavel
+- liquido
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

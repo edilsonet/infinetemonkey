@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-183-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.183'
+section_title: 'Requisitos de desempenho: aeronaves terrestres operando sobre água'
+subsection_id: body
+cite: '135.183'
+title: 'Requisitos de desempenho: aeronaves terrestres operando sobre água'
+text: '135.183 Requisitos de desempenho: aeronaves terrestres operando sobre água
+
+  Somente é permitido operar uma aeronave terrestre transportando passageiros sobre água se:'
+keywords:
+- taxi-aereo
+- operacoes
+- agua
+- aeronaves
+- desempenho
+- operando
+- requisitos
+- terrestres
+- aeronave
+- operar
+- passageiros
+- permitido
+- somente
+- terrestre
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-91-91-1711-e
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1711'
+section_title: Aproximações de precisão ILS categorias II e III
+subsection_id: e
+cite: 91.1711(e)
+title: 91.1711(e)
+text: '(e) Se o número de aproximações não bem sucedidas exceder 5% do total de aproximações
+
+  requeridas pelos parágrafos (c) e (d) desta seção, o número de aproximações requeridas deve
+  ser
+
+  aumentada em pelo menos 10 até que se obtenha um índice de insucesso máximo de 5%.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aproximacoes
+- numero
+- requeridas
+- aumentada
+- categorias
+- desta
+- exceder
+- indice
+- insucesso
+- maximo
+- menos
+- obtenha
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

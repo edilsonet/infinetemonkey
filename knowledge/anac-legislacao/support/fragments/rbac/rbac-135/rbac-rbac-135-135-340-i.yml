@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-340-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.340'
+section_title: 'Treinamento inicial, de transição e exame: instrutor de voo em aeronave e
+  instrutor de voo em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: i
+cite: 135.340(i)
+title: 135.340(i)
+text: '(i) treinamento impróprio e insuficiente; e
+
+  (ii) características pessoais de um candidato que possam afetar adversamente a segurança;
+
+  (5) as ações corretivas no caso de progresso insatisfatório do treinamento;
+
+  (6) os métodos, procedimentos e limitações aprovados para desempenhar os procedimentos normais,
+  anormais e de emergência requeridos na aeronave; e
+
+  (7) exceto para detentores de habilitação de instrutor de voo:'
+keywords:
+- taxi-aereo
+- operacoes
+- treinamento
+- instrutor
+- aeronave
+- procedimentos
+- acoes
+- adversamente
+- afetar
+- anormais
+- aprovado
+- aprovados
+- candidato
+- caracteristicas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

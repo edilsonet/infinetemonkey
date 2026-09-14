@@ -1,0 +1,28 @@
+id: rbac-rbac-135-135-149-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.149'
+section_title: 'Requisitos de equipamento: geral'
+subsection_id: body
+cite: '135.149'
+title: 'Requisitos de equipamento: geral'
+text: '135.149 Requisitos de equipamento: geral
+
+  Somente é permitido operar uma aeronave se ela for equipada com:'
+keywords:
+- taxi-aereo
+- operacoes
+- equipamento
+- geral
+- requisitos
+- aeronave
+- equipada
+- operar
+- permitido
+- somente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

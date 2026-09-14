@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-207-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.207'
+section_title: Transmissores localizadores de emergência (ELT) e Personal Locator Beacon (PLB)
+subsection_id: b
+cite: 91.207(b)
+title: 91.207(b)
+text: '(b) Cada ELT requerido pelo parágrafo (a) desta seção deve ser colocado na aeronave
+  de modo a
+
+  minimizar a probabilidade de danos ao ELT na eventualidade de acidente. Os ELT automáticos
+  fixos
+
+  ou automáticos ejetáveis devem ser fixados à aeronave tão para trás quanto praticável.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- automaticos
+- acidente
+- beacon
+- cada
+- colocado
+- danos
+- desta
+- ejetaveis
+- emergencia
+- eventualidade
+- fixados
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

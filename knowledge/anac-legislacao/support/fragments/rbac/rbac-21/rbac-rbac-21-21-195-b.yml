@@ -1,0 +1,38 @@
+id: rbac-rbac-21-21-195-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.195'
+section_title: Certificado de autorização de voo experimental. Aeronave a ser usada em pesquisa
+  de mercado, demonstrações para venda e treinamento de tripulação do comprador
+subsection_id: b
+cite: 21.195(b)
+title: 21.195(b)
+text: (b) O fabricante de motores que tenha alterado uma aeronave de tipo certificado, através
+  da instalação de motores diferentes, fabricados por ele no Brasil, pode requerer um certificado
+  de autorização de voo experimental para uma aeronave que será usada para pesquisa de mercado,
+  demonstrações para venda e treinamento de tripulações de um comprador, desde que a aeronave
+  básica, antes da alteração, tenha sido de tipo previamente certificado na categoria normal,
+  utilidade, acrobática, transporte regional ou transporte.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- certificado
+- autorizacao
+- comprador
+- demonstracoes
+- experimental
+- mercado
+- motores
+- pesquisa
+- tenha
+- tipo
+- transporte
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

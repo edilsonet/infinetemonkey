@@ -1,0 +1,40 @@
+id: rbac-rbac-67-67-41-b
+kind: rbac
+document: rbac-67
+family: '67'
+section_id: '67.41'
+section_title: Requisitos para cadastramento de médicos
+subsection_id: b
+cite: 67.41(b)
+title: 67.41(b)
+text: '(b) O cadastramento de médicos será concedido pela ANAC de acordo com os seguintes
+  critérios:
+
+  (1) o candidato ao cadastramento deve ser graduado em medicina com registro no CRM válido
+  há
+
+  pelo menos 3 (três) anos;
+
+  (2) o candidato ao cadastramento deve demonstrar:'
+keywords:
+- saude
+- certificado-medico
+- pessoal
+- cadastramento
+- candidato
+- medicos
+- acordo
+- anos
+- concedido
+- criterios
+- demonstrar
+- graduado
+- medicina
+- menos
+- registro
+categories:
+- saude
+- certificado-medico
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-67.md

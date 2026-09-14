@@ -1,0 +1,39 @@
+id: rbac-rbac-e-94-e94-611-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.611
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+  automático de informação de altitude (Modo C) de RPAS Classe 1
+subsection_id: a
+cite: E94.611(a)
+title: E94.611(a)
+text: '(a) Somente é permitido operar um RPAS Classe 1 se:
+
+  (1) dentro dos 24 meses precedentes, cada sistema de pressão estática, cada altímetro e
+  cada equipamento automático de informação de altitude (se requerido na área de operação)
+  tiver sido testado, inspecionado e considerado conforme com o Apêndice E do RBAC 43, exceto
+  quanto à abertura dos drenos do sistema ou das válvulas de fonte alternada de pressão estática,
+  seguindo-se a qualquer abertura e fechamento do sistema de pressão estática; e
+
+  (2) após a instalação ou manutenção do sistema automático de informação de altitude ou do
+  transponder, quando é possível que erros na correspondência dos dados de altitude sejam
+  introduzidos, o sistema como um todo tiver sido testado, inspecionado e considerado conforme
+  com o parágrafo (c) do Apêndice E do RBAC 43.'
+keywords:
+- sistema
+- altitude
+- automatico
+- cada
+- estatica
+- informacao
+- pressao
+- abertura
+- altimetro
+- apendice
+- classe
+- considerado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

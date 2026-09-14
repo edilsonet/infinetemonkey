@@ -1,0 +1,33 @@
+id: rbac-rbac-36-k7-4-a
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K7.4
+section_title: 'Adjustments for differences between test and reference flight procedures must
+  not exceed:'
+subsection_id: a
+cite: K7.4(a)
+title: K7.4(a)
+text: '(a) For takeoff: 4.0 EPNdB, of which the arithmetic sum of delta 1 and the term -7.5
+  log (QK/QrKr)
+
+  from delta 2 must not in total exceed 2.0 EPNdB;'
+keywords:
+- ruido
+- meio-ambiente
+- delta
+- epndb
+- exceed
+- must
+- adjustments
+- arithmetic
+- between
+- differences
+- flight
+- from
+- procedures
+- qrkr
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

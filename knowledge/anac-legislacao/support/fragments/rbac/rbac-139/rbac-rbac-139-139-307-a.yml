@@ -1,0 +1,32 @@
+id: rbac-rbac-139-139-307-a
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.307'
+section_title: Inclusão de Isenções e Níveis Equivalentes de Segurança no MOPS
+subsection_id: a
+cite: 139.307(a)
+title: 139.307(a)
+text: (a) O detentor de Certificado Operacional de Aeroporto deve indicar no MOPS as eventuais
+  Isenções e eventuais níveis equivalentes de segurança deferidos pela ANAC, incorporando
+  ao MOPS os respectivos procedimentos operacionais aprovados como medidas mitigadoras.
+keywords:
+- aerodromos
+- infraestrutura
+- mops
+- equivalentes
+- eventuais
+- isencoes
+- niveis
+- seguranca
+- aeroporto
+- aprovados
+- certificado
+- deferidos
+- detentor
+- inclusao
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-129-129-19-d
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.19'
+section_title: Regras de tráfego aéreo e outros procedimentos
+subsection_id: d
+cite: 129.19(d)
+title: 129.19(d)
+text: (d) Toda aeronave proveniente do exterior, com destino ao Brasil ou em trânsito, deve
+  fazer o primeiro pouso e a última decolagem em um aeroporto internacional.
+keywords:
+- operador-estrangeiro
+- operacoes
+- aereo
+- aeronave
+- aeroporto
+- brasil
+- decolagem
+- destino
+- exterior
+- fazer
+- internacional
+- outros
+- pouso
+- primeiro
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

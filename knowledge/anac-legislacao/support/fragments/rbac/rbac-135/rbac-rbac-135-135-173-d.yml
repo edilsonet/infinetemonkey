@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-173-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.173'
+section_title: Requisitos para equipamentos de detecção de trovoadas
+subsection_id: d
+cite: 135.173(d)
+title: 135.173(d)
+text: '(d) Se o equipamento de bordo de detecção de trovoadas tornar-se inoperante em rota,
+  a aeronave deve ser operada de acordo com as instruções e procedimentos especificados para
+  o evento no manual geral da empresa requerido pela seção 135.21 deste Regulamento.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- deteccao
+- trovoadas
+- acordo
+- aeronave
+- bordo
+- dada
+- deste
+- empresa
+- equipamento
+- equipamentos
+- especificados
+- evento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

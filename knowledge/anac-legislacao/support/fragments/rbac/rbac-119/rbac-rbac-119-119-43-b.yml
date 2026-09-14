@@ -1,0 +1,40 @@
+id: rbac-rbac-119-119-43-b
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.43'
+section_title: Obrigações do detentor de certificado em relação às suas especificações operativas
+subsection_id: b
+cite: 119.43(b)
+title: 119.43(b)
+text: '(b) Cada detentor de certificado deve inserir extratos pertinentes de suas especificações
+  operativas,
+
+  ou referências aos mesmos, no Manual Geral de Operações e deve:
+
+  (1) identificar claramente tais extratos como partes de suas especificações operativas;
+  e
+
+  (2) estabelecer que a conformidade com os requisitos das especificações operativas é
+
+  mandatória.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- especificacoes
+- operativas
+- certificado
+- detentor
+- extratos
+- cada
+- claramente
+- conformidade
+- estabelecer
+- geral
+- identificar
+- inserir
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

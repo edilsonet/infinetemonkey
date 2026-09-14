@@ -1,0 +1,41 @@
+id: rbac-rbac-155-155-203-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.203'
+section_title: '155.203'
+subsection_id: b
+cite: 155.203(b)
+title: 155.203(b)
+text: '(b)
+
+  A declividade média da FATO não pode exceder, em qualquer direção, 3%. Nenhuma parte da
+  FATO deve possuir declividade local que seja superior a:
+
+  (1)
+
+  5% nos casos em que o heliponto é destinado ao uso de helicópteros que operam com classe
+  de performance 1; e
+
+  (2)
+
+  7% nos casos em que o heliponto é destinado ao uso de helicópteros que operam com classes
+  de performance 2 e 3.'
+keywords:
+- seguranca-aeroportuaria
+- casos
+- declividade
+- destinado
+- fato
+- helicopteros
+- heliponto
+- operam
+- performance
+- classe
+- classes
+- direcao
+- exceder
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

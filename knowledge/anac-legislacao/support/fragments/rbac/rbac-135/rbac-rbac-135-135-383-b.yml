@@ -1,0 +1,54 @@
+id: rbac-rbac-135-135-383-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.383'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações em rota
+  com dois motores inoperantes'
+subsection_id: b
+cite: 135.383(b)
+title: 135.383(b)
+text: '(b) Aviões de tipo certificado após 30 de setembro de 1958, mas antes de 30 de agosto
+  de 1959 (SR 422A). Somente é permitido a uma pessoa operar um grande avião categoria transporte
+  com motores a turbina ao longo de uma rota pretendida se:
+
+  (1) não existir algum ponto ao longo da rota pretendida que fique a mais de 90 minutos (com
+  todos os motores operando em potência de cruzeiro) de um aeródromo que atenda ao previsto
+  na seção 135.387 deste Regulamento; ou
+
+  (2) seu peso, de acordo com os dados da trajetória líquida de voo em rota com dois motores
+  inoperantes do manual de voo do avião, permitir ao avião voar do ponto onde se assume a
+  falha simultânea dos dois motores para um aeródromo que atenda ao previsto na se&cceccedil;ão
+  135.387 deste Regulamento, com uma trajetória líquida de voo (levando em conta as temperaturas
+  esperadas ao longo da rota) tendo um gradiente positivo na altitude de pelo menos 1000 pés
+  acima de qualquer elevação ou obstrução existente na faixa de 5 milhas terrestres para cada
+  lado da trajetória pretendida ou a uma altitude de 2000 pés, o que for maior.
+
+  Nota
+
+  : Para o propósito do parágrafo (b)(2) desta seção, é assumido que os dois motores falham
+  no ponto mais crítico da rota, que o peso do avião no ponto onde os motores falham inclui
+  combustível suficiente para voar até o aeródromo, chegando à vertical do mesmo a uma altura
+  de pelo menos 1500 pés e, em seguida, voar mais 15 minutos na potência e/ou empuxo de cruzeiro,
+  e que o consumo de combustível e óleo após a falha dos motores é o mesmo consumo previsto
+  nos dados de trajetória líquida de voo no manual de voo do avião.'
+keywords:
+- taxi-aereo
+- operacoes
+- motores
+- rota
+- aviao
+- dois
+- ponto
+- trajetoria
+- aerodromo
+- liquida
+- longo
+- pretendida
+- voar
+- altitude
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

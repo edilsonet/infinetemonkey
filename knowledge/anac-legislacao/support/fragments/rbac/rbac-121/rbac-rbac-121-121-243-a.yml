@@ -1,0 +1,31 @@
+id: rbac-rbac-121-121-243-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.243'
+section_title: Linhas de respiro do motor
+subsection_id: a
+cite: 121.243(a)
+title: 121.243(a)
+text: (a) As linhas de respiro do motor devem ter configuração tal que vapor d'água condensado,
+  que possa congelar e obstruir as linhas, não se acumule em nenhum ponto.
+keywords:
+- transporte-aereo
+- operacoes
+- linhas
+- motor
+- respiro
+- acumule
+- agua
+- condensado
+- configuracao
+- congelar
+- nenhum
+- obstruir
+- ponto
+- possa
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

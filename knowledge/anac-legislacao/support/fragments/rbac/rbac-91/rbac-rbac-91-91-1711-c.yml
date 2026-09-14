@@ -1,0 +1,44 @@
+id: rbac-rbac-91-91-1711-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1711'
+section_title: Aproximações de precisão ILS categorias II e III
+subsection_id: c
+cite: 91.1711(c)
+title: 91.1711(c)
+text: '(c) Para a aprovação de aproximações de precisão ILS categoria II o operador deve comprovar
+  que
+
+  a tripulação cumpriu o treinamento em simulador de voo nível C ou D no respectivo modelo
+  de
+
+  aeronave pretendida (e caso não seja viável, da forma alternativa estabelecida pela ANAC),
+  e que a
+
+  aeronave foi operada por um período de pelo menos 6 meses e 30 aproximações com DH de 200
+  pés
+
+  ou mais e RVR não menor que 450m, utilizando os procedimentos de operação e manutenção
+
+  esperados quando os mínimos são atingidos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aproximacoes
+- aeronave
+- precisao
+- 450m
+- alternativa
+- aprovacao
+- atingidos
+- caso
+- categoria
+- categorias
+- comprovar
+- cumpriu
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

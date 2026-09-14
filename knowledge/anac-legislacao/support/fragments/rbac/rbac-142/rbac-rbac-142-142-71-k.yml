@@ -1,0 +1,30 @@
+id: rbac-rbac-142-142-71-k
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.71'
+section_title: Requisitos para emissão, conservação e envio de registros à ANAC
+subsection_id: k
+cite: 142.71(k)
+title: 142.71(k)
+text: '(k) O gestor responsável do detentor de certificado de CTAC deve enviar semestralmente
+  à ANAC
+
+  dados relativos à sua segurança operacional e ao cumprimento das atividades planejadas.'
+keywords:
+- atividades
+- certificado
+- conservacao
+- ctac
+- cumprimento
+- dados
+- detentor
+- emissao
+- enviar
+- envio
+- gestor
+- operacional
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

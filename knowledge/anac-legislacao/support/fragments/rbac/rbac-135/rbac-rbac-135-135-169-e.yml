@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-169-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.169'
+section_title: Requisitos adicionais de aeronavegabilidade
+subsection_id: e
+cite: 135.169(e)
+title: 135.169(e)
+text: '(e) Relatórios de conversões e reconfigurações (“
+
+  retrofits
+
+  ”).
+
+  (1) Até o momento em que todos os compartimentos Classe D em aviões categoria transporte
+  listados nas especificações operativas emitidas para o detentor de certificado para operações
+  realizadas segundo este Regulamento tenham sido convertidos ou reconfigurados com um sistema
+  de detecção e supressão apropriado, o detentor de certificado deve apresentar à ANAC relatórios
+  periódicos, por escrito, que contenham as informações especificadas abaixo:'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- detentor
+- relatorios
+- abaixo
+- adicionais
+- aeronavegabilidade
+- apresentar
+- apropriado
+- avioes
+- categoria
+- classe
+- compartimentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

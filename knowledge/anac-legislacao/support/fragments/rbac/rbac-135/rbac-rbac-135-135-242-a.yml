@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-242-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.242'
+section_title: 'Tripulação de voo: geral'
+subsection_id: a
+cite: 135.242(a)
+title: 135.242(a)
+text: '(a) O detentor de certificado somente pode utilizar uma pessoa como tripulante de voo
+  e uma pessoa somente pode exercer as funções de tripulante de voo em uma aeronave operando
+  segundo este Regulamento, se essa pessoa:
+
+  (1) possuir uma licença apropriada às funções a serem exercidas, emitida pela ANAC;
+
+  (2) tiver em seu poder a licença requerida pelo parágrafo (a)(1) desta seção e o certificado
+  de habilitação técnica, todos válidos e compatíveis com a atividade sendo desenvolvida;
+
+  (3) possuir um CMA válido e compatível com a atividade sendo desenvolvida; e
+
+  (4) for vinculado ao detentor de certificado, com contrato de trabalho de acordo com a legislação
+  trabalhista vigente.'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- pessoa
+- atividade
+- desenvolvida
+- detentor
+- funcoes
+- licenca
+- pode
+- possuir
+- somente
+- tripulante
+- acordo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

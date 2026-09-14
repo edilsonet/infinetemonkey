@@ -1,0 +1,50 @@
+id: rbac-rbac-43-a43-1-v
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: A43.1
+section_title: Grandes alterações, grandes reparos e manutenção preventiva
+subsection_id: v
+cite: A43.1(v)
+title: A43.1(v)
+text: '(v) instalação de sistema de degelo de hélice; e
+
+  (vi) instalação de partes não aprovadas para a hélice.
+
+  (4) Grandes alterações de equipamentos. Alterações no projeto básico não conformes com
+
+  recomendações do fabricante do equipamento ou não conformes com diretrizes de
+
+  aeronavegabilidade são consideradas como grandes alterações de equipamento. Em adição,
+
+  alterações no projeto básico de equipamentos de rádio-comunicação ou rádio-navegação aprovados
+
+  por certificação de tipo ou por Ordem Técnica Padrão que afetem a estabilidade de frequência,
+  nível
+
+  de ruído, sensibilidade, seletividade, distorção, radiações espúrias, características do
+  controle
+
+  automático de volume (AVC), resistência a testes de condições ambientais e qualquer alteração
+
+  afetando o desempenho do equipamento são também consideradas grandes alterações.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- alteracoes
+- grandes
+- equipamento
+- basico
+- conformes
+- consideradas
+- equipamentos
+- helice
+- instalacao
+- projeto
+- radio
+- adicao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

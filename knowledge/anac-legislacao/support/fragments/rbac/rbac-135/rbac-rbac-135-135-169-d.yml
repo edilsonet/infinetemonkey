@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-169-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.169'
+section_title: Requisitos adicionais de aeronavegabilidade
+subsection_id: d
+cite: 135.169(d)
+title: 135.169(d)
+text: '(d) Compartimentos de carga e bagagem.
+
+  (1) Cada compartimento Classe C ou D, como definidos na seção 25.857 do RBAC nº 25, com
+  volume interno superior a 200 pés cúbicos e pertencente a um avião categoria transporte
+  de tipo certificado após 1º de janeiro de 1958, deve possuir painéis de forração de teto
+  e de parede que sejam construídos com:'
+keywords:
+- taxi-aereo
+- operacoes
+- adicionais
+- aeronavegabilidade
+- aviao
+- bagagem
+- cada
+- carga
+- categoria
+- certificado
+- classe
+- compartimento
+- compartimentos
+- construidos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

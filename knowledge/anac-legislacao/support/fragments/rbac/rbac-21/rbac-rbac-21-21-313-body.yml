@@ -1,0 +1,42 @@
+id: rbac-rbac-21-21-313-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.313'
+section_title: Validade
+subsection_id: body
+cite: '21.313'
+title: Validade
+text: '21.313 Validade
+
+  Um certificado de produto aeronáutico aprovado e/ou um certificado de organização de produção
+  é(são) válido(s) até que seja(m) devolvido(s), suspenso(s), revogado(s), cassado(s) ou que
+  tenha(m) uma data de validade estabelecida pela ANAC.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- validade
+- certificado
+- aeronautico
+- aprovado
+- cassado
+- dada
+- data
+- devolvido
+- estabelecida
+- organizacao
+- producao
+- produto
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

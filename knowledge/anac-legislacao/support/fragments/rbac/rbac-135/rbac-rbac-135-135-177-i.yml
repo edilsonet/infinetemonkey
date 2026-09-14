@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-177-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.177'
+section_title: Requisitos de equipamentos de emergência para aeronaves tendo uma configuração
+  para passageiros com mais de 19 assentos
+subsection_id: i
+cite: 135.177(i)
+title: 135.177(i)
+text: '(i) uma lista do conteúdo;
+
+  (ii)
+
+  swabs
+
+  ou algodões antissépticos (pacote com 10);
+
+  (iii) atadura simples ou adesiva: 7.5 cm × 4.5 m (ou tamanho aproximado);
+
+  (iv) atadura triangular e alfinetes de segurança (tipo “de fraldas”);'
+keywords:
+- taxi-aereo
+- operacoes
+- atadura
+- adesiva
+- aeronaves
+- alfinetes
+- algodoes
+- antissepticos
+- aproximado
+- assentos
+- configuracao
+- conteudo
+- emergencia
+- equipamentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

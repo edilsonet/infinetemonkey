@@ -1,0 +1,32 @@
+id: rbac-rbac-136-136-25-b
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.25'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: b
+cite: 136.25(b)
+title: 136.25(b)
+text: '(b) O SGSO deve estar descrito em um MGSO. O SGSO deve conter a seguinte estrutura:
+
+  (1) política e objetivos de segurança operacional:'
+keywords:
+- turismo
+- operacoes
+- sgso
+- operacional
+- seguranca
+- conter
+- descrito
+- estar
+- estrutura
+- gerenciamento
+- mgso
+- objetivos
+- politica
+- seguinte
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

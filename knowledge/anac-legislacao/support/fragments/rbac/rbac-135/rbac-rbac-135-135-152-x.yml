@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-152-x
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: x
+cite: 135.152(x)
+title: 135.152(x)
+text: '(x) posição do compensador de profundidade;
+
+  (xi) posição da coluna de controle ou posição da superfície de controle de arfagem;
+
+  (xii) posição do volante ou da superfície de controle lateral;
+
+  (xiii) posição dos pedais ou posição da superfície de controle de guinada;
+
+  (xiv) empuxo de cada motor;
+
+  (xv) posição de cada reversor de empuxo;
+
+  (xvi) posição dos flapes de bordo de fuga ou da alavanca de controle dos mesmos; e
+
+  (xvii) posição dos flapes de bordo de ataque ou da alavanca de controle dos mesmos; e
+
+  (3) para aeronaves fabricadas após 11 de outubro de 1991, todos os parâmetros listados nos
+  Apêndices D ou E deste Regulamento, como aplicável, devem ser gravados.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- posicao
+- controle
+- superficie
+- alavanca
+- bordo
+- cada
+- empuxo
+- flapes
+- mesmos
+- aeronaves
+- apendices
+- aplicavel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

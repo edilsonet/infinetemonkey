@@ -1,0 +1,56 @@
+id: rbac-rbac-142-142-115-b
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.115'
+section_title: Manual de Gerenciamento da Segurança Operacional (MGSO)
+subsection_id: b
+cite: 142.115(b)
+title: 142.115(b)
+text: '(b) O MGSO de um detentor de certificado de CTAC, emitido segundo este Regulamento,
+  deve
+
+  conter, quando aplicável, o seguinte:
+
+  (1) identificação do detentor de certificado de CTAC;
+
+  (2) descrição do ambiente operacional do detentor de certificado de CTAC (Especificações
+  de
+
+  Treinamento, área de atuação e aeródromos onde opere ou faça manutenção de suas aeronaves
+  ou
+
+  tenha sua sede);
+
+  (3) análise do faltante (declaração de conformidade);
+
+  (4) plano de implantação do SGSO, refletindo os componentes/elementos existentes na empresa
+
+  em relação ao disposto no parágrafo 142.111(b) deste Regulamento e a proposta em fases com
+
+  cronograma de implantação do faltante;
+
+  (5) política e objetivos de segurança operacional do detentor de certificado de CTAC;
+
+  (6) GRSO desenvolvido pelo detentor de certificado de CTAC;
+
+  (7) garantia de segurança operacional do detentor de certificado de CTAC; e
+
+  (8) promoção da segurança operacional pelo detentor de certificado de CTAC.'
+keywords:
+- certificado
+- ctac
+- detentor
+- operacional
+- seguranca
+- faltante
+- implantacao
+- mgso
+- regulamento
+- aerodromos
+- aeronaves
+- ambiente
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

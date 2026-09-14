@@ -1,0 +1,35 @@
+id: rbac-rbac-135-a135-21-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.21
+section_title: Sistema de indução
+subsection_id: b
+cite: A135.21(b)
+title: A135.21(b)
+text: (b) Proteção do sistema de indução contra gelo. Em aviões com motores turboélice, cada
+  motor a turbina deve ser capaz de operar ao longo de sua faixa de potência em voo, sem efeitos
+  adversos na operação e sem perdas sérias de potência ou empuxo, sob as condições de gelo
+  especificadas no Apêndice C do RBAC nº 25. Em adição, deve haver meios para indicar, ao
+  apropriado tripulante de voo, o funcionamento do sistema de proteção contra gelo do grupo
+  motopropulsor.
+keywords:
+- taxi-aereo
+- operacoes
+- gelo
+- sistema
+- contra
+- inducao
+- potencia
+- protecao
+- a135
+- adicao
+- adversos
+- apendice
+- apropriado
+- avioes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

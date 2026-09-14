@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-9-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.9
+section_title: Requisitos para piloto remoto e observador
+subsection_id: b
+cite: E94.9(b)
+title: E94.9(b)
+text: (b) Todos os pilotos remotos de RPA Classe 1 ou 2 devem possuir um Certificado Médico
+  Aeronáutico (CMA) de 1ª, 2ª ou 5ª Classe válido, conforme o parágrafo 67.13(g) do RBAC nº
+  67, ou um CMA de 3ª Classe válido emitido pelo Comando da Aeronáutica segundo a ICA 63-15.
+keywords:
+- classe
+- valido
+- aeronautica
+- aeronautico
+- certificado
+- comando
+- emitido
+- medico
+- observador
+- paragrafo
+- piloto
+- pilotos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

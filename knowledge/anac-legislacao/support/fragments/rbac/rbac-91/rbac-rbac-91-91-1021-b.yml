@@ -1,0 +1,38 @@
+id: rbac-rbac-91-91-1021-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1021'
+section_title: Sistema de gerenciamento de segurança operacional (SGSO)
+subsection_id: b
+cite: 91.1021(b)
+title: 91.1021(b)
+text: '(b) O SGSO deve estar descrito em um MGSO. O SGSO deve conter a seguinte estrutura:
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.
+
+
+  (1) política e objetivos de segurança operacional:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sgso
+- data
+- operacional
+- seguranca
+- conter
+- descrito
+- emissao
+- estar
+- estrutura
+- gerenciamento
+- julho
+- junho
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

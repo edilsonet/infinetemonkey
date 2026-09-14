@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-99-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.99'
+section_title: Composição de tripulação de voo
+subsection_id: b
+cite: 135.99(b)
+title: 135.99(b)
+text: '(b) O detentor de certificado não pode operar uma aeronave com configuração para passageiros
+  de 10 assentos ou mais, excluído qualquer assento de piloto, sem um piloto segundo em comando.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- aeronave
+- assento
+- assentos
+- certificado
+- comando
+- composicao
+- configuracao
+- dada
+- detentor
+- excluido
+- operar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

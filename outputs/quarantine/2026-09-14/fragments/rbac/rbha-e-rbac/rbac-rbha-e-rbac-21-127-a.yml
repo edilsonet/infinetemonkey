@@ -1,0 +1,38 @@
+id: rbac-rbha-e-rbac-21-127-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.127'
+section_title: 'Ensaios: aeronaves'
+subsection_id: a
+cite: 21.127(a)
+title: 21.127(a)
+text: '(a) Cada pessoa que fabrique aeronaves sob um certificado de tipo deve estabelecer
+  um procedimento aprovado de ensaios em voo de produção e a ficha de verificação associada,
+  e executar um ensaio em voo de produção para cada aeronave produzida, segundo esta ficha
+  de verificação. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronaves
+- cada
+- ensaios
+- ficha
+- producao
+- verificacao
+- aeronave
+- aprovado
+- associada
+- certificado
+- dada
+- ensaio
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

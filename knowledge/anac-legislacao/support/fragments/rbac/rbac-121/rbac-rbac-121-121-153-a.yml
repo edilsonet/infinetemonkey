@@ -1,0 +1,37 @@
+id: rbac-rbac-121-121-153-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.153'
+section_title: 'Requisitos de aviões: geral'
+subsection_id: a
+cite: 121.153(a)
+title: 121.153(a)
+text: '(a) Exceto como previsto no parágrafo (c) desta seção, nenhum detentor de certificado
+  pode operar um avião, a menos que tal avião:
+
+  (1) seja registrado como aeronave civil no Registro Aeronáutico Brasileiro (RAB) e possua
+  um certificado de aeronavegabilidade válido, emitido conforme os RBAC aplicáveis; e
+
+  (2) esteja em condições aeronavegáveis e atenda aos requisitos de aeronavegabilidade aplicáveis,
+  inclusive os relacionados com identificação e com equipamentos.'
+keywords:
+- transporte-aereo
+- operacoes
+- aeronavegabilidade
+- aplicaveis
+- aviao
+- certificado
+- requisitos
+- aeronautico
+- aeronave
+- aeronavegaveis
+- atenda
+- avioes
+- brasileiro
+- civil
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-137-137-201-e
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.201'
+section_title: Requisitos para operação
+subsection_id: e
+cite: 137.201(e)
+title: 137.201(e)
+text: (e) Um operador aeroagrícola pode utilizar combustível não previsto no projeto de tipo
+  aprovado da aeronave desde que opere segundo condições aceitáveis pela ANAC, estabelecida
+  em autorização especial de voo.
+keywords:
+- aeroagricola
+- operacoes
+- aceitaveis
+- aeronave
+- aprovado
+- autorizacao
+- combustivel
+- condicoes
+- desde
+- especial
+- estabelecida
+- operacao
+- operador
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

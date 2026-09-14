@@ -1,0 +1,27 @@
+id: rbac-rbac-154-154-209-c
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.209'
+section_title: Áreas de Segurança de Fim de Pista (RESA)
+subsection_id: c
+cite: 154.209(c)
+title: 154.209(c)
+text: '(c) Objetos em RESA
+
+  (1) Uma RESA não deve possuir objetos que possam pôr as aeronaves em risco.'
+keywords:
+- seguranca-aeroportuaria
+- resa
+- objetos
+- aeronaves
+- areas
+- pista
+- possam
+- possuir
+- risco
+- seguranca
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

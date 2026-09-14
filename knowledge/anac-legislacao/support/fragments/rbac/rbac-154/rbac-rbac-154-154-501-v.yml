@@ -1,0 +1,86 @@
+id: rbac-rbac-154-154-501-v
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.501'
+section_title: Sistemas de suprimento de energia elétrica para facilidades de navegação aérea
+subsection_id: v
+cite: 154.501(v)
+title: 154.501(v)
+text: '(v) As seguintes facilidades aeroportuárias devem ser supridas por uma fonte secundária
+  de
+
+  energia elétrica em caso de falha da fonte primária de energia:
+
+  (A) lâmpadas de sinalização e iluminação mínima necessárias para permitir que o pessoal
+
+  dos serviços de tráfego aéreo realize suas funções;
+
+  NOTA - Os requisitos para a iluminação mínima podem ser atendidos por outros meios que não
+  o
+
+  elétrico.
+
+  (B) todas as luzes de obstáculo que, de acordo com o estipulado pela autoridade
+
+  competente forem essenciais para garantir a operação segura da aeronave;
+
+  (C) iluminação de aproximação, pista de pouso e decolagem e pista de táxi;
+
+  (D) equipamentos meteorológicos;
+
+  (E) iluminação essencial para a segurança da aviação civil;
+
+  (F) equipamentos e facilidades essenciais para os órgãos/organizações de emergência que
+
+  atendem o aeródromo;
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  (G) refletores, se disponibilizados em conformidade com o parágrafo 154.305(cc)(1),
+
+  para atender a uma posição isolada de estacionamento de aeronaves previamente escolhida;
+  e
+
+  (H) iluminação de pátio de aeronaves onde possa haver trânsito de passageiros.
+
+  (vi) Os requisitos de uma fonte secundária de energia devem ser satisfeitos por um dos
+
+  seguintes recursos:
+
+  (A) energia de rede pública independente, que é uma fonte de energia que abastece os
+
+  serviços do aeródromo a partir de uma subestação que não a subestação normal, através de
+  uma rede
+
+  de transmissão que segue uma trajetória diferente da linha normal de fornecimento de energia
+  e cuja
+
+  possibilidade de falha simultânea das fontes de energia de rede pública independente e normal
+  seja
+
+  extremamente remota; ou
+
+  (B) unidades auxiliares de energia, que são grupos geradores, baterias etc., a partir dos
+
+  quais a energia elétrica pode ser obtida.'
+keywords:
+- seguranca-aeroportuaria
+- energia
+- iluminacao
+- fonte
+- eletrica
+- facilidades
+- normal
+- rede
+- aerodromo
+- aeronaves
+- equipamentos
+- essenciais
+- falha
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

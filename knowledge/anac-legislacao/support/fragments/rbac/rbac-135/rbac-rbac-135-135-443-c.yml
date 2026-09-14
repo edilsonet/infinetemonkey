@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-443-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.443'
+section_title: Documentação de aeronavegabilidade e anotações nos registros de manutenção
+  da aeronave
+subsection_id: c
+cite: 135.443(c)
+title: 135.443(c)
+text: (c) Ressalvado o parágrafo (b)(3) desta seção, após manutenção, manutenção preventiva
+  ou alterações realizadas por uma oficina localizada fora do Brasil, a documentação e anotações
+  de aeronavegabilidade requeridas pelo parágrafo (a) desta seção pode ser assinada por uma
+  pessoa autorizada por esta oficina.
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- aeronavegabilidade
+- anotacoes
+- desta
+- documentacao
+- oficina
+- paragrafo
+- secao
+- aeronave
+- alteracoes
+- assinada
+- autorizada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

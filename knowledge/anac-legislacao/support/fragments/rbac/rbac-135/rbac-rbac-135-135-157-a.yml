@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-157-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.157'
+section_title: Requisitos para equipamentos de oxigênio
+subsection_id: a
+cite: 135.157(a)
+title: 135.157(a)
+text: '(a) Aeronaves não pressurizadas - Somente é permitido operar uma aeronave não pressurizada,
+  nas altitudes de voo estabelecidas nesta seção, se ela estiver equipada com máscaras de
+  oxigênio e com oxigênio suficientes para suprir os pilotos de acordo com o disposto no parágrafo
+  135.89(a) e para suprir, quando voando:
+
+  (1) em altitudes acima de 10.000 e até 15.000 pés MSL, oxigênio para pelo menos 10% dos
+  ocupantes da aeronave, outros que não os pilotos, para a parte do voo nessas altitudes que
+  tiver duração superior a 30 minutos; e
+
+  (2) acima de 15.000 pés MSL, oxigênio para cada ocupante da aeronave que não os pilotos.'
+keywords:
+- taxi-aereo
+- operacoes
+- oxigenio
+- aeronave
+- altitudes
+- pilotos
+- acima
+- suprir
+- acordo
+- aeronaves
+- cada
+- disposto
+- duracao
+- equipada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

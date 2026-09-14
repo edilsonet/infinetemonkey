@@ -1,0 +1,41 @@
+id: rbac-rbac-117-117-3-y
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: '117.3'
+section_title: Definições
+subsection_id: y
+cite: 117.3(y)
+title: 117.3(y)
+text: '(y) Sistema de Gerenciamento de Risco da Fadiga (SGRF) significa um sistema, aprovado
+  pela
+
+  ANAC, de monitoramento e gerenciamento contínuo dos riscos de segurança associados à fadiga,
+
+  baseado em dados, princípios científicos e experiência operacional, que visa assegurar que
+  o pessoal
+
+  envolvido execute suas atividades sob um nível adequado de alerta. Um SGRF aprovado possibilita
+
+  que sejam praticados limites operacionais diferentes dos constantes deste Regulamento;'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- aprovado
+- gerenciamento
+- sgrf
+- sistema
+- adequado
+- alerta
+- assegurar
+- associados
+- atividades
+- baseado
+- cientificos
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

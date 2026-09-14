@@ -1,0 +1,31 @@
+id: rbac-rbac-129-129-29-a
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.29'
+section_title: Proibições de fumo a bordo
+subsection_id: a
+cite: 129.29(a)
+title: 129.29(a)
+text: (a) Nenhuma empresa estrangeira de transporte aéreo pode operar uma aeronave no Brasil,
+  a menos que seja equipada com os avisos aos passageiros sobre a proibição de fumar a bordo.
+keywords:
+- operador-estrangeiro
+- operacoes
+- bordo
+- aereo
+- aeronave
+- avisos
+- brasil
+- empresa
+- equipada
+- estrangeira
+- fumar
+- fumo
+- menos
+- nenhuma
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

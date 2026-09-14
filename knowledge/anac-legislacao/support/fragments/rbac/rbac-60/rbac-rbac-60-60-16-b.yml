@@ -1,0 +1,42 @@
+id: rbac-rbac-60-60-16-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.16'
+section_title: Qualificações adicionais para um
+subsection_id: b
+cite: 60.16(b)
+title: 60.16(b)
+text: '(b) In determining the criteria of the
+
+  evaluation mentioned in paragraph (a)(2) of
+
+  this section, ANAC considers factors such as
+
+  the existing qualification of the FSTD, any
+
+  modifications to the FSTD hardware or
+
+  software that are involved, and any additions
+
+  or modifications to the MQTG, among others.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- modifications
+- additions
+- adicionais
+- among
+- considers
+- criteria
+- determining
+- evaluation
+- existing
+- factors
+- hardware
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

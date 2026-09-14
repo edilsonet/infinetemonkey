@@ -1,0 +1,38 @@
+id: rbac-rbac-133-133-41-d
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.41'
+section_title: Requisitos de características de voo
+subsection_id: d
+cite: 133.41(d)
+title: 133.41(d)
+text: '(d) Combinação aeronave-carga Classe C. Para combinações aeronave-carga externa Classe
+  C,
+
+  usadas para esticamento de fios, colocação de cabos, ou operações similares, a verificação
+
+  operacional de voo deve consistir das manobras aplicáveis estabelecidas pelo parágrafo (c)
+  desta
+
+  seção.'
+keywords:
+- carga-externa
+- helicoptero
+- aeronave
+- carga
+- classe
+- aplicaveis
+- cabos
+- caracteristicas
+- colocacao
+- combinacao
+- combinacoes
+- consistir
+- desta
+- estabelecidas
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

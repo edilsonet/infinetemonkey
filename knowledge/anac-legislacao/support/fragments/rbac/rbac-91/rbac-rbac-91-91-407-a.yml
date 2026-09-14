@@ -1,0 +1,41 @@
+id: rbac-rbac-91-91-407-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.407'
+section_title: Operação após manutenção, manutenção preventiva, reconstrução ou alterações
+subsection_id: a
+cite: 91.407(a)
+title: 91.407(a)
+text: '(a) Somente é permitido operar uma aeronave que tenha sofrido manutenção, manutenção
+
+  preventiva, reconstrução ou alterações se:
+
+  (1) ela tiver sido aprovada para retorno ao serviço por uma pessoa autorizada conforme a
+  seção
+
+  43.7 do RBAC nº 43; e
+
+  (2) as anotações nos registros de manutenção requeridas pelas seções 43.9 ou 43.11 do RBAC
+
+  nº 43, como aplicável, tiverem sido feitas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- manutencao
+- alteracoes
+- preventiva
+- reconstrucao
+- aeronave
+- anotacoes
+- aplicavel
+- aprovada
+- autorizada
+- feitas
+- operacao
+- operar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

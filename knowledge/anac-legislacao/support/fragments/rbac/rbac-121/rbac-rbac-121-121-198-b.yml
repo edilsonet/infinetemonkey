@@ -1,0 +1,42 @@
+id: rbac-rbac-121-121-198-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.198'
+section_title: 'Aviões categoria transporte cargueiros: aumento dos pesos zero combustível
+  e de pouso'
+subsection_id: b
+cite: 121.198(b)
+title: 121.198(b)
+text: '(b) O peso zero combustível (peso máximo do avião com combustível e óleo não drenável)
+  e o peso estrutural de pouso podem ser aumentados acima do máximo aprovado em total conformidade
+  com os regulamentos aplicáveis, somente se a ANAC considerar que:
+
+  (1) o aumento não é de forma a reduzir seriamente a resistência estrutural;
+
+  (2) a probabilidade de ocorrer falha súbita por fadiga não é notavelmente aumentada;
+
+  (3) as características de “flutter”, vibrações e deformações não caem abaixo daquelas requeridas
+  pelos regulamentos aplicáveis; e
+
+  (4) todos os outros limites aplicáveis de peso serão obedecidos.'
+keywords:
+- transporte-aereo
+- operacoes
+- peso
+- aplicaveis
+- combustivel
+- aumento
+- estrutural
+- maximo
+- pouso
+- regulamentos
+- zero
+- abaixo
+- acima
+- aprovado
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

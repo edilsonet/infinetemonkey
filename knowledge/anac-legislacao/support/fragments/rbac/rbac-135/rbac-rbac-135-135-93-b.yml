@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-93-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: b
+cite: 135.93(b)
+title: 135.93(b)
+text: '(b) Decolagem e subida inicial. É vedado utilizar um piloto automático para decolagem
+  ou subida inicial a uma altura menor que 500 pés ou a uma altura menor que duas vezes a
+  perda máxima de altura para mau funcionamento do piloto automático conforme estabelecido
+  no manual de voo do avião, a que for mais alta, exceto se o piloto automático for utilizado
+  a uma altura maior que a maior altura entre:
+
+  (1) a altura mínima de engajamento do piloto automático especificada no manual de voo do
+  avião; e
+
+  (2) a uma altura mínima especificada pela ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- altura
+- automatico
+- piloto
+- aviao
+- decolagem
+- especificada
+- inicial
+- maior
+- manual
+- menor
+- minima
+- subida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,77 @@
+id: rbac-rbac-23-23-1457-d
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.1457'
+section_title: Gravadores de voz de cabine
+subsection_id: d
+cite: 23.1457(d)
+title: 23.1457(d)
+text: '(d) Cada gravador de voz de cabine de pilotos
+
+  deve ser instalado de maneira que:
+
+  (1)(i) Receba sua alimentação elétrica do bar-
+
+  ramento que fornece a máxima confiabilidade
+
+  para o funcionamento do gravador de voz da
+
+  cabine de comando, sem comprometer o forne-
+
+  cimento de alimentação elétrica aos equipa-
+
+  mentos essenciais ou de emergência;
+
+  (ii) Permaneça alimentado durante o maior
+
+  tempo possível sem comprometer a operação
+
+  em emergência do avião;
+
+  (2) Exista um meio automático de simultanea-
+
+  mente parar o gravador e evitar o funcionamen-
+
+  to de qualquer função de apagamento, dentro
+
+  de 10 minutos após o impacto;
+
+  (3) Exista um meio aural ou visual para a veri-
+
+  ficação pré-voo do gravador quanto à sua ope-
+
+  ração adequada;
+
+  (4) Qualquer falha elétrica simples externa ao
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 23
+
+
+  recorder does not disable both the cockpit voice
+
+  recorder and the flight data recorder.
+
+
+  (5) It has an independent power source:'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- gravador
+- cabine
+- eletrica
+- recorder
+- alimentacao
+- comprometer
+- data
+- emergencia
+- exista
+- meio
+- adequada
+- agosto
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

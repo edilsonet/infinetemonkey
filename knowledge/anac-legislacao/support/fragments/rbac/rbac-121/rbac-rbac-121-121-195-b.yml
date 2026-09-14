@@ -1,0 +1,43 @@
+id: rbac-rbac-121-121-195-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.195'
+section_title: 'Aviões com motores a turbina: limitações de pouso no aeródromo de destino'
+subsection_id: b
+cite: 121.195(b)
+title: 121.195(b)
+text: '(b) Exceto como previsto nos parágrafos (c), (d) ou (e) desta seção, ninguém pode decolar
+  com um avião com motores a turbina, a menos que, seu peso na chegada, considerando consumo
+  normal de combustível e óleo em voo (e de acordo com os dados de distância de pouso do AFM,
+  levando em conta a altitude do aeródromo de destino e as condições de vento esperadas no
+  horário estimado de pouso), permita executar um pouso completo no aeródromo de destino usando
+  60% do comprimento efetivo de cada uma das pistas referidas abaixo, considerando que o avião
+  passa 50 pés acima da vertical da intersecção do plano de liberação de obstáculos com a
+  pista. Para determinar o peso permissível de pouso no aeródromo de destino, assume-se que:
+
+  (1) o avião pousa na pista e na direção mais favorável, com ar calmo;
+
+  (2) o avião pousa na pista mais conveniente, considerando a provável direção e velocidade
+  do vento, as características de manobrabilidade no solo do tipo de avião e outras variáveis
+  como auxílios de pouso e terreno.'
+keywords:
+- transporte-aereo
+- operacoes
+- pouso
+- aviao
+- aerodromo
+- destino
+- considerando
+- pista
+- direcao
+- motores
+- peso
+- pousa
+- turbina
+- vento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

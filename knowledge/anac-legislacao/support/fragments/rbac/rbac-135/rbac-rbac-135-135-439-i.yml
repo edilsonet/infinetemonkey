@@ -1,0 +1,44 @@
+id: rbac-rbac-135-135-439-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.439'
+section_title: Requisitos de registros de manutenção
+subsection_id: i
+cite: 135.439(i)
+title: 135.439(i)
+text: '(i) o tempo total de serviço de cada célula, motor, hélice e rotor;
+
+  (ii) a situação corrente de partes com tempo de vida limitado, de cada célula, motor, hélice,
+  rotor e equipamentos;
+
+  (iii) o tempo desde a última revisão geral (“
+
+  overhaul
+
+  ”) de cada item instalado em cada aeronave, que requeira revisão geral com base em tempo
+  de utilização definido;
+
+  (iv) a identificação da presente situação de inspeções nas aeronaves, incluindo o tempo
+  desde a última inspeção requerida pelo programa de inspeções sob o qual as aeronaves e seus
+  equipamentos são mantidos;'
+keywords:
+- taxi-aereo
+- operacoes
+- tempo
+- cada
+- aeronaves
+- celula
+- desde
+- equipamentos
+- geral
+- helice
+- inspecoes
+- motor
+- revisao
+- rotor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

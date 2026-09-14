@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-411-d
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.411'
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+subsection_id: d
+cite: 91.411(d)
+title: 91.411(d)
+text: '(d) É vedado operar um avião ou helicóptero em espaço aéreo controlado, em voo IFR,
+  acima da
+
+  máxima altitude na qual todos os altímetros e o equipamento automático de informação de
+  altitude
+
+  da aeronave (se requerido na área de operação) tenham sido testados.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- altitude
+- equipamento
+- acima
+- aereo
+- aeronave
+- altimetro
+- altimetros
+- area
+- automatico
+- aviao
+- controlado
+- equipamentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

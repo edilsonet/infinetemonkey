@@ -1,0 +1,29 @@
+id: rbac-rbac-135-135-429-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.429'
+section_title: Requisitos para pessoal de inspeção obrigatória
+subsection_id: c
+cite: 135.429(c)
+title: 135.429(c)
+text: (c) Uma pessoa não pode executar uma inspeção obrigatória se essa pessoa executou qualquer
+  item do trabalho a ser inspecionado.
+keywords:
+- taxi-aereo
+- operacoes
+- inspecao
+- obrigatoria
+- pessoa
+- executar
+- executou
+- inspecionado
+- pessoal
+- pode
+- requisitos
+- trabalho
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-107-107-125-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.125'
+section_title: Passageiros em Trânsito ou em Conexão
+subsection_id: b
+cite: 107.125(b)
+title: 107.125(b)
+text: '(b) O operador de aeródromo deve garantir, em coordenação com o operador aéreo, que
+  o passageiro em conexão, proveniente de aeródromo cuja inspeção de segurança não é equivalente,
+  seja direcionado ao ponto de inspeção de segurança do aeródromo, antes de acessar a área
+  de embarque.
+
+  (Redação dada pela Resolução nº 625, de 07.06.2021)
+
+  (1) Os aeródromos que possuem inspeção de segurança equivalente serão identificados pela
+  ANAC e informados aos operadores de aeródromos e aéreos por meio de documento de caráter
+  reservado, denominado DAVSEC.'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- inspecao
+- aerodromos
+- conexao
+- equivalente
+- operador
+- acessar
+- aereo
+- aereos
+- area
+- carater
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

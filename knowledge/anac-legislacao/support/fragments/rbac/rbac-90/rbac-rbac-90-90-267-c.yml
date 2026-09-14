@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-267-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.267'
+section_title: Aeronavegabilidade continuada NVIS
+subsection_id: c
+cite: 90.267(c)
+title: 90.267(c)
+text: (c) Os critérios de aeronavegabilidade dos equipamentos listados no parágrafo (b) desta
+  seção devem cumprir com o programa de manutenção recomendado pelo fabricante do NVG e pela
+  ANAC, conforme aplicável.
+keywords:
+- regras-de-voo
+- operacoes
+- aeronavegabilidade
+- aplicavel
+- continuada
+- criterios
+- cumprir
+- desta
+- equipamentos
+- fabricante
+- listados
+- manutencao
+- nvis
+- paragrafo
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

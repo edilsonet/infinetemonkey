@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-65-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.65'
+section_title: Livro(s) de registros da tripulação e da aeronave
+subsection_id: a
+cite: 135.65(a)
+title: 135.65(a)
+text: '(a) O detentor de certificado deve dispor de um livro de registros, a bordo de cada
+  uma de suas aeronaves, para lançamento de informações sobre a tripulação, horas de voo,
+  irregularidades de funcionamento observadas em cada voo e registro das ações corretivas
+  tomadas ou postergamento de correção. A critério do detentor de certificado o livro pode
+  ser desmembrado em duas partes: registros da aeronave e registros da tripulação.'
+keywords:
+- taxi-aereo
+- operacoes
+- registros
+- livro
+- tripulacao
+- aeronave
+- cada
+- certificado
+- detentor
+- acoes
+- aeronaves
+- bordo
+- correcao
+- corretivas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

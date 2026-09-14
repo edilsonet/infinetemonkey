@@ -1,0 +1,42 @@
+id: rbac-rbac-23-23-2305-a
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2305'
+section_title: Sistemas de trem de pouso.
+subsection_id: a
+cite: 23.2305(a)
+title: 23.2305(a)
+text: '(a) O trem de pouso deve ser projetado para:
+
+  (1) Fornecer suporte e controle estáveis ao avi-
+
+  ão durante a operação em superfície; e
+
+  (2) Levar em conta possíveis falhas no sistema
+
+  e prováveis ambientes de operação (incluindo
+
+  extrapolação das limitações previstas e proce-
+
+  dimentos de emergência).'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- operacao
+- pouso
+- trem
+- ambientes
+- conta
+- controle
+- dimentos
+- durante
+- emergencia
+- estaveis
+- extrapolacao
+- falhas
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

@@ -1,0 +1,44 @@
+id: rbac-rbac-43-d43-1-h
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: D43.1
+section_title: Objetivos e detalhes de itens a serem incluídos nas inspeções anuais e inspeções
+  de 100
+subsection_id: h
+cite: D43.1(h)
+title: D43.1(h)
+text: '(h) Cada pessoa que estiver executando uma inspeção anual ou inspeção de 100 horas
+  deve
+
+  inspecionar (como aplicável) os seguintes componentes do grupo hélice:
+
+  (1) conjunto de hélice quanto a trincas, mossas, emperramentos e vazamentos de óleo;
+
+  (2) parafusos quanto a torque de aperto inadequado e falta de freno;
+
+  (3) dispositivos anti-gelo quanto a funcionamento impróprio e defeitos óbvios; e
+
+  (4) mecanismos de controle quanto à operação imprópria, montagem insegura e restrições de
+
+  curso.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- quanto
+- helice
+- inspecao
+- inspecoes
+- anti
+- anuais
+- anual
+- aperto
+- aplicavel
+- cada
+- componentes
+- conjunto
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

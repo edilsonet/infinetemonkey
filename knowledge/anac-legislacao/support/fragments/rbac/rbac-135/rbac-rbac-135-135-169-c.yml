@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-169-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.169'
+section_title: Requisitos adicionais de aeronavegabilidade
+subsection_id: c
+cite: 135.169(c)
+title: 135.169(c)
+text: '(c) É vedada a operação de um pequeno avião com uma configuração para passageiros de
+  10 assentos ou mais, excluindo qualquer assento para piloto, com uma configuração de assentos
+  maior que a máxima configuração de assentos utilizada nesse tipo de avião em operações segundo
+  as disposições vigentes equivalentes a este Regulamento antes de 19 de agosto de 1977. Este
+  parágrafo não se aplica a:
+
+  (1) um avião certificado na categoria transporte; ou
+
+  (2) um avião que atenda:'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- assentos
+- configuracao
+- adicionais
+- aeronavegabilidade
+- agosto
+- aplica
+- assento
+- atenda
+- categoria
+- certificado
+- disposicoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

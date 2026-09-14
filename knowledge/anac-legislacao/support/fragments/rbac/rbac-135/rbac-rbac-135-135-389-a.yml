@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-389-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.389'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações de decolagem'
+subsection_id: a
+cite: 135.389(a)
+title: 135.389(a)
+text: (a) No caso de um grande avião não incluído na categoria transporte, é vedado decolar
+  com este avião com um peso maior do que o peso que permita que o avião seja trazido a uma
+  parada segura dentro do comprimento efetivo da pista, a partir de qualquer ponto durante
+  a decolagem antes de alcançar 105% da velocidade mínima de controle (a menor velocidade
+  na qual um avião pode ser controlado de maneira segura em voo após um motor tornar-se inoperante)
+  ou 115% da velocidade de estol sem potência nos motores na configuração de decolagem, o
+  que for maior.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- decolagem
+- velocidade
+- categoria
+- maior
+- peso
+- segura
+- transporte
+- alcancar
+- avioes
+- caso
+- comprimento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

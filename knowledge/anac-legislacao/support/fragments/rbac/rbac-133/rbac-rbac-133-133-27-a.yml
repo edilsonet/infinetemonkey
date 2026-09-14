@@ -1,0 +1,35 @@
+id: rbac-rbac-133-133-27-a
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.27'
+section_title: Disponibilidade, transferência e desistência da autorização
+subsection_id: a
+cite: 133.27(a)
+title: 133.27(a)
+text: '(a) Cada detentor de uma autorização para operação com cargas externas deve manter
+  sua
+
+  autorização e a listagem das aeronaves autorizadas em sua base de operações e deve apresentá-la
+
+  para inspeções da ANAC sempre que requerido.'
+keywords:
+- carga-externa
+- helicoptero
+- autorizacao
+- aeronaves
+- apresenta
+- autorizadas
+- base
+- cada
+- cargas
+- desistencia
+- detentor
+- disponibilidade
+- externas
+- inspecoes
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

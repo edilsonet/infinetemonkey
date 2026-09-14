@@ -1,0 +1,46 @@
+id: rbac-rbac-135-g135-2-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: a
+cite: G135.2(a)
+title: G135.2(a)
+text: '(a) Geral. Um detentor de certificado somente pode operar um avião, que não um avião
+  com configuração exclusivamente cargueira com mais de dois motores, fora do país, a mais
+  de 180 minutos de voo de um aeródromo (em velocidade de cruzeiro com um motor inoperante
+  sob atmosfera padrão, ar calmo) conforme descrito na seção 135.364 deste Regulamente, se:
+
+  (1) o detentor de certificado receber aprovação ETOPS da ANAC;
+
+  (2) a operação for conduzida em um avião multimotor a turbina, certificado na categoria
+  transporte;
+
+  (3) a operação for prevista para não ultrapassar 240 minutos de tempo de voo de um aeródromo
+  (em velocidade de cruzeiro com um motor inoperante sob atmosfera padrão, ar calmo), conforme
+  descrito na seção 135.364 deste Regulamento; e
+
+  (4) o detentor de certificado atender aos requisitos deste Apêndice.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- aviao
+- deste
+- detentor
+- aerodromo
+- atmosfera
+- calmo
+- cruzeiro
+- descrito
+- inoperante
+- minutos
+- motor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

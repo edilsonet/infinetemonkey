@@ -1,0 +1,47 @@
+id: rbac-rbac-154-154-9-b
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.9'
+section_title: Sistemas de referência comuns
+subsection_id: b
+cite: 154.9(b)
+title: 154.9(b)
+text: '(b) Sistema de referência vertical
+
+  O datum do nível médio do mar (MSL), que fornece a relação entre a altura relacionada à
+
+  Gravidade (elevação) até a superfície conhecida como geoide, deve ser utilizado como o sistema
+  de
+
+  referência vertical.
+
+  NOTA 1 - Globalmente, o geoide se aproxima estreitamente do MSL. Ele é definido como a
+
+  superfície equipotencial no campo gravitacional da Terra que coincide com o MSL não perturbado,
+
+  que se estende continuadamente por todos os continentes.
+
+  NOTA 2 - As alturas relacionadas à Gravidade (elevações) são também referidas como alturas
+
+  ortométricas, enquanto as distâncias de pontos acima do elipsoide são referidas como alturas
+
+  elipsoidais.'
+keywords:
+- seguranca-aeroportuaria
+- alturas
+- referencia
+- geoide
+- gravidade
+- nota
+- referidas
+- sistema
+- superficie
+- vertical
+- acima
+- altura
+- aproxima
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

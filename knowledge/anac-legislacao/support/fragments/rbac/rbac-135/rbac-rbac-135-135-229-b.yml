@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-229-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.229'
+section_title: Requisitos de aeródromo e de áreas de pouso e decolagem não cadastradas
+subsection_id: b
+cite: 135.229(b)
+title: 135.229(b)
+text: '(b) O piloto de uma aeronave transportando passageiros à noite somente pode decolar
+  ou pousar em um aeródromo se:
+
+  (1) o piloto tiver determinado a direção do vento pela observação de um indicador de solo
+  iluminado ou por informação da estação de solo local. No caso de decolagem, a direção do
+  vento pode ser determinada pela observação pessoal do piloto; e
+
+  (2) os limites da área a ser utilizada para pouso ou decolagem forem claramente mostrados:'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- piloto
+- aerodromo
+- direcao
+- observacao
+- pode
+- pouso
+- solo
+- vento
+- aeronave
+- area
+- areas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

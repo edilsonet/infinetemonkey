@@ -1,0 +1,47 @@
+id: rbac-rbac-135-135-169-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.169'
+section_title: Requisitos adicionais de aeronavegabilidade
+subsection_id: i
+cite: 135.169(i)
+title: 135.169(i)
+text: '(i) resina reforçada com fibra de vidro;
+
+  (ii) materiais que atendam aos requisitos de ensaio do Apêndice F, parte III, do RBAC nº
+  25; ou
+
+  (iii) no caso de instalações de forração aprovadas antes de 20 de março de 1989, alumínio.
+
+  (2) Para o atendimento a este parágrafo, o termo “forração” inclui qualquer característica
+  de projeto, tais como juntas e prendedores, que possam afetar a capacidade da forração em
+  conter incêndios.
+
+  (3) Para aviões categoria transporte, com configuração para mais de 19 passageiros, cada
+  compartimento Classe D, de qualquer volume, deve atender aos padrões de 25.857(c) e 25.858
+  do RBAC nº 25 para os compartimentos da Classe C, exceto se a operação for uma operação
+  exclusivamente de carga, quando, então, cada compartimento da Classe D deve atender aos
+  requisitos do parágrafo 25.857(e) do RBAC nº 25 para compartimentos Classe E.
+
+  (4) [Reservado].'
+keywords:
+- taxi-aereo
+- operacoes
+- classe
+- forracao
+- requisitos
+- atender
+- cada
+- compartimento
+- compartimentos
+- operacao
+- paragrafo
+- adicionais
+- aeronavegabilidade
+- afetar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

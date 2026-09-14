@@ -1,0 +1,42 @@
+id: rbac-rbac-21-21-308-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.308'
+section_title: Manual da qualidade
+subsection_id: body
+cite: '21.308'
+title: Manual da qualidade
+text: '21.308 Manual da qualidade
+
+  Cada requerente ou detentor de uma aprovação de produção deve fornecer um manual descrevendo
+  seu sistema da qualidade para a ANAC para aprovação. O manual deve estar no idioma português
+  ou inglês e em formato aceitável pela a ANAC.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- manual
+- qualidade
+- aprovacao
+- aceitavel
+- cada
+- dada
+- descrevendo
+- detentor
+- estar
+- formato
+- fornecer
+- idioma
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

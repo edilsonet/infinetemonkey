@@ -1,0 +1,52 @@
+id: rbac-rbac-36-f36-301-c
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: F36.301
+section_title: F36.301
+subsection_id: c
+cite: F36.301(c)
+title: F36.301(c)
+text: '(c) The ambient noise, including both acoustical background and electrical noise of
+  the
+
+  measurement systems, must be recorded and determined in the test area with the system gain
+  set
+
+  at
+
+  levels that wil be used for aircraft noise measurements. If aircraft sound presure levels
+  do not
+
+  exced the background sound presure levels by at least 10 dB(A), aproved corections for the
+
+  contribution of background sound presure level to the obs
+
+  erved sound presure level must be
+
+  aplied.
+
+
+  Sec. F36.109
+
+  Data recording, reporting, and aproval.'
+keywords:
+- ruido
+- meio-ambiente
+- presure
+- sound
+- background
+- levels
+- noise
+- aircraft
+- level
+- must
+- acoustical
+- ambient
+- aplied
+- aproval
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

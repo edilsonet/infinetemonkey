@@ -1,0 +1,41 @@
+id: rbac-rbac-031-31-49-v
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.49'
+section_title: Control systems.
+subsection_id: v
+cite: 31.49(v)
+title: 31.49(v)
+text: '(v) Quinze horas de operação normal de voo.
+
+
+  (2) O programa de ensaio para a operação secundá-
+
+  ria ou de reserva do queimador deve incluir seis horas
+
+  de operação com um tempo de queima de um minuto
+
+  para cada ciclo de cinco minutos, a uma pressão de
+
+  combustível intermediaria.'
+keywords:
+- aeronavegabilidade
+- baloes
+- operacao
+- horas
+- cada
+- ciclo
+- cinco
+- combustivel
+- control
+- ensaio
+- incluir
+- intermediaria
+- minuto
+- minutos
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

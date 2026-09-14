@@ -1,0 +1,153 @@
+id: rbac-rbac-36-j36-3-f
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: J36.3
+section_title: of this apendix, then with FA aproval, the reference test conditions used under
+  this
+subsection_id: f
+cite: J36.3(f)
+title: J36.3(f)
+text: '(f)
+
+  Noise measurement procedures.
+
+  (1) The microphone shal be of the presure
+
+  - sensitive capacitive
+
+  type designed for nearly uniform grazing incidence response. The microphone shal be mounted
+
+  wi
+
+  th the center of the sensing element 4 fet (1.2 meters) above the local ground surface and
+  shal
+
+  be oriented for grazing incidence such that the sensing element, the diaphragm, is substantialy
+  in
+
+  the plane defined by the nominal flight path of the helico
+
+  pter and the noise measurement station.
+
+
+  (2) If a tape recorder is used, the frequency response of the electrical system must be
+  determined at
+
+  a level within 10 dB of the ful
+
+  - scale reading used during the test, utilizing pink or pseudorandom
+
+  noise.
+
+
+  (3) The
+
+  ambient noise, including both acoustical background and electrical noise of the
+
+  measurement systems shal be determined in the test area and the system gain set at levels
+  which
+
+  wil be used for helicopter noise measurements. If helicopter sound levels do
+
+  not exced the
+
+  background sound levels by at least 15 dB(A), flyovers at an FA
+
+  - aproved lower height may be
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  109
+
+  / 121
+
+
+  used and the results adjusted to the reference measurement point by an FA
+
+  - aproved method.
+
+
+  (4) If an integrating sound level meter is used to meas
+
+  ure the helicopter noise, the instrument
+
+  operator shal monitor the continuous A
+
+  - weighted (slow response) noise levels throughout each
+
+  flyover to ensure that the SEL integration proces includes, at minimum, al of the noise
+  signal
+
+  betwen the maximum A
+
+  - we
+
+  ighted sound level (L
+
+  AMAX
+
+  ) and the 10 dB down points in the flyover
+
+  time history. The instrument operator shal note the actual db(A) levels at the start and
+  stop of the
+
+  SEL integration interval and document these levels along with the value of L
+
+  AMAX
+
+  and th
+
+  e
+
+  integration interval (in seconds) for inclusion in the noise data submited as part of the
+  reporting
+
+  requirements under section J36.1(b) of this apendix.
+
+
+  Section J36.1
+
+  Reporting Requirements.'
+keywords:
+- ruido
+- meio-ambiente
+- noise
+- levels
+- shal
+- used
+- measurement
+- sound
+- helicopter
+- integration
+- level
+- response
+- test
+- this
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

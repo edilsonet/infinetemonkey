@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-235-i-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: 21.235-I
+section_title: Emissão do certificado de organização de projeto
+subsection_id: body
+cite: 21.235-I
+title: Emissão do certificado de organização de projeto
+text: '21.235-I Emissão do certificado de organização de projeto
+
+  Uma organização apenas pode ser detentora de um certificado de organização de projeto emitido
+  pela ANAC após demonstrar o cumprimento com os requisitos aplicáveis estabelecidos nesta
+  subparte.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- organizacao
+- certificado
+- emissao
+- aplicaveis
+- cumprimento
+- demonstrar
+- detentora
+- emitido
+- estabelecidos
+- pode
+- requisitos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

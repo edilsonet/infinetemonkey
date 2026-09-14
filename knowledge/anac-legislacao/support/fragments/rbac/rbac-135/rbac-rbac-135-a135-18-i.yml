@@ -1,0 +1,57 @@
+id: rbac-rbac-135-a135-18-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.18
+section_title: Propulsão geral
+subsection_id: i
+cite: A135.18(i)
+title: A135.18(i)
+text: '(i) isolamento do motor. Os grupos motopropulsores devem ser arranjados e isolados
+  uns dos outros, para permitir operação em pelo menos uma configuração, de modo que a falha
+  ou mau funcionamento de qualquer motor ou de qualquer sistema que possa afetar o motor não
+  vá:
+
+  (A) impedir a continuação segura da operação dos motores remanescentes; ou
+
+  (B) requerer ação imediata de qualquer tripulante para prosseguir a operação segura.
+
+  (ii) controle da rotação do motor. Deve haver meios para parar e reiniciar individualmente
+  a rotação de qualquer motor em voo, exceto que a rotação do motor não precisa ser parada
+  se o prosseguimento da mesma não prejudicar a segurança do avião. Cada componente do sistema
+  de parada e reinicio de rotação, colocado do lado da parede de fogo virado para o motor
+  e que possa ser exposto a um incêndio, deve ser pelo menos resistente ao fogo. Se o sistema
+  hidráulico de embandeiramento da hélice for usado para esse fim, as linhas de embandeiramento,
+  sob as condições de operação que possam ser esperadas durante embandeiramentos, devem ser
+  pelo menos resistentes ao fogo.
+
+  (iii) dispositivos de controle da rotação do motor e das temperaturas dos gases. Os sistemas
+  do grupo motopropulsor associados com dispositivos, sistemas e instrumentação de controle
+  do motor devem prover razoável garantia de que as limitações de operação do motor, que possam
+  afetar adversamente a integridade estrutural do rotor da turbina, não serão excedidas em
+  serviço.
+
+  (2) Aviões com motores convencionais. Para prover isolamento entre motores convencionais,
+  os grupos motopropulsores devem ser arranjados e isolados uns dos outros, para permitir
+  operação em pelo menos uma configuração, de modo que a falha ou mau funcionamento de qualquer
+  motor ou de qualquer sistema que possa afetar o motor não vá:'
+keywords:
+- taxi-aereo
+- operacoes
+- motor
+- operacao
+- rotacao
+- menos
+- sistema
+- afetar
+- controle
+- fogo
+- motores
+- possa
+- arranjados
+- configuracao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

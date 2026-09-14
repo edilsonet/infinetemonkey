@@ -1,0 +1,40 @@
+id: is-is-110-001-5-4-5-body
+kind: is
+document: is-110-001
+family: '110'
+section_id: 5.4.5
+section_title: 5.4.5
+subsection_id: body
+cite: 5.4.5
+title: 5.4.5
+text: '5.4.5
+
+  O Sumário deve ser elaborado de forma que seja possível identificar os tópicos que
+
+  apresentam diferenças dos modelos ou procedimentos presentes nos apêndices desta IS,
+
+  conforme os parágrafos 5.4.4, 5.4.4.1 e 5.4.4.2. A coluna “ALTERADO” do sumário deve ser
+
+  preenchida com as palavras “SIM” ou “NÃO”, conforme haja ou não indicação de diferença,
+
+  respectivamente.'
+keywords:
+- carga
+- operacoes
+- sumario
+- alterado
+- apendices
+- apresentam
+- coluna
+- desta
+- diferenca
+- diferencas
+- elaborado
+- forma
+- haja
+- identificar
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-110-001.md

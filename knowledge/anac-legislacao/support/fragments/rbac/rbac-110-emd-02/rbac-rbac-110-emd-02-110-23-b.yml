@@ -1,0 +1,30 @@
+id: rbac-rbac-110-emd-02-110-23-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.23'
+section_title: Centro de instrução
+subsection_id: b
+cite: 110.23(b)
+title: 110.23(b)
+text: (b) O centro de instrução somente poderá ministrar os cursos AVSEC listados em seu Manual
+  de Procedimentos do Centro de Instrução (MPCI) aprovado pela ANAC.
+keywords:
+- carga
+- operacoes
+- centro
+- instrucao
+- aprovado
+- avsec
+- cursos
+- listados
+- manual
+- ministrar
+- mpci
+- procedimentos
+- somente
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

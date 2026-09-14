@@ -1,0 +1,44 @@
+id: rbac-rbac-135-135-329-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.329'
+section_title: Requisitos para treinamento de tripulantes
+subsection_id: v
+cite: 135.329(v)
+title: 135.329(v)
+text: '(v) para comissários de bordo, noções básicas sobre aeronaves e teoria do voo;
+
+  (vi) o transporte seguro de artigos perigosos por via aérea, em conformidade com os requisitos
+  do RBAC nº 175;
+
+  (vii) o SGSO;
+
+  (viii) segurança da aviação civil (AVSEC); e
+
+  (ix) fatores humanos e CRM.
+
+  (2) o treinamento inicial e de transição no solo previsto nas seções 135.345 e 135.349,
+  como aplicável; e
+
+  (3) o treinamento de emergências previsto na seção 135.331.'
+keywords:
+- taxi-aereo
+- operacoes
+- treinamento
+- requisitos
+- aerea
+- aeronaves
+- aplicavel
+- artigos
+- aviacao
+- avsec
+- basicas
+- bordo
+- civil
+- comissarios
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

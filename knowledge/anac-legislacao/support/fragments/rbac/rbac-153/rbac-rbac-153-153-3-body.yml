@@ -1,0 +1,215 @@
+id: rbac-rbac-153-153-3-body
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.3'
+section_title: '153.3'
+subsection_id: body
+cite: '153.3'
+title: '153.3'
+text: '153.3
+
+  Abreviaturas e símbolos
+
+  ABNT/NBR - Normas Brasileiras emitidas pela Associação Brasileira de Normas Técnicas
+
+
+  Data da emissão: 15 de março de 2021.
+
+
+  ACC - Centro de Controle de Área
+
+  ACN (Aircraft Classification Number) - Número de Classificação da Aeronave pelo Método ACN-
+
+  PCN
+
+  AGA (Aerodromes, Air Routes and Ground Aids) - Aeródromos, rotas aéreas e auxílios terrestres
+
+  AIS (Aeronautical Information Service) - Serviço de Informações Aeronáuticas
+
+  AISO - Análise de Impacto sobre a Segurança Operacional
+
+  ANAC - Agência Nacional de Aviação Civil (Incluído pela Resolução nº 611, de 09.03.2021)
+
+  APP - Órgão de Controle de Aproximação
+
+  ARP (Aerodrome Reference Point) - Ponto de Referência do Aeródromo
+
+  ART - Anotação de Responsabilidade Técnica
+
+  ATS (Air Traffic Service) - Serviço de Tráfego Aéreo
+
+  ATC (Air Traffic Control) - Serviço de Controle de Tráfego Aéreo
+
+  BA-1 - Bombeiro de Aeródromo 1 (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  BA-2 - Bombeiro de Aeródromo 2 (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  BA-CE - Bombeiro de Aeródromo Chefe de Equipe de Serviço (Incluído pela Resolução nº 517,
+
+  de 14.05.2019)
+
+  BA-LR - Bombeiro de Aeródromo Líder de Equipe de Resgate (Incluído pela Resolução nº 517,
+
+  de 14.05.2019)
+
+  BA-MC - Bombeiro de Aeródromo Motorista/Operador de CCI (Incluído pela Resolução nº 517,
+
+  de 14.05.2019)
+
+  BA-RE - Bombeiro de Aeródromo Resgatista (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  CAT - Categoria Contraincêndio de Aeródromo (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  CAT AV - Categoria Contraincêndio de Aeronave (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  CCI - Carro Contraincêndio de Aeródromo
+
+  CGRF - Comissão de Gerenciamento do Risco da Fauna (Incluído pela Resolução nº 611, de
+
+  09.03.2021)
+
+  COE - Centro de Operações de Emergência
+
+  CONFEA - Conselho Federal de Engenharia e Agronomia
+
+  CREA - Conselho Regional de Engenharia e Agronomia
+
+  CSO - Comissão de Segurança Operacional
+
+  CTA - Carro Tanque Abastecedor
+
+  CVE - Corpo de Voluntários de Emergência
+
+  DENATRAN - Departamento Nacional de Trânsito
+
+  EPR - Equipamento de Proteção Respiratória
+
+  ESEA - Exercícios Simulados de Emergência em Aeródromos
+
+  ESO - Evento de Segurança Operacional
+
+  FOD (Foreign Object Debris) - Objeto estranho que possa causar dano a aeronave
+
+
+  Data da emissão: 15 de março de 2021.
+
+
+  GS - Gerente de Seção Contraincêndio (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  IDSO - Indicadores de Desempenho de Segurança Operacional
+
+  INFRAERO - Empresa Brasileira de Infraestrutura Aeroportuária (Incluído pela Resolução nº
+  517,
+
+  de 14.05.2019)
+
+  IOS - Informativo de Obras e Serviços de Manutenção
+
+  IPF - Identificação do Perigo da Fauna (Incluído pela Resolução nº 611, de 09.03.2021)
+
+  IRI (International Roughness Index) - Índice Internacional de Irregularidade
+
+  LGE - Líquido Gerador de Espuma (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  MGSO - Manual de Gerenciamento da Segurança Operacional
+
+  NADSO - Níveis Aceitáveis de Desempenho da Segurança Operacional
+
+  NOTAM (Notice to Airman) - Aviso aos Aeronavegantes
+
+  OC - Operador de Sistema de Comunicação (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  OE-SESCINC - Organização de Ensino Especializada na Capacitação de Recursos Humanos para
+
+  o SESCINC (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  PAA - Parque de Abastecimento de Aeronaves
+
+  PACI - Posto Avançado Contraincêndio (Redação dada pela Resolução nº 517, de 14.05.2019)
+
+  PAFAVIDA - Plano de Assistência às Vítimas de Acidente Aeronáutico e Apoio a seus Familiares
+
+  PCINC - Plano Contraincêndio de Aeródromo
+
+  PCM - Posto de Coordenação Móvel
+
+  PCN - Número de Classificação do Pavimento pelo Método ACN-PCN
+
+  PESO - Procedimentos Específicos de Segurança Operacional
+
+  PGRF - Programa de Gerenciamento do Risco da Fauna
+
+  PISOA - Programa de Instrução de Segurança Operacional de Aeródromo
+
+  PLEM - Plano de Emergência em Aeródromo
+
+  PMA - Peso Máximo de Aterrissagem
+
+  PMD - Peso Máximo de Decolagem
+
+  PQ - Pó Químico (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  PRAI - Plano de Remoção de Aeronaves Inoperantes e Desinterdição de Pista
+
+  PSAC - Provedor de Serviço de Aviação Civil
+
+  PSOE/ANAC - Programa de Segurança Operacional Específico da ANAC
+
+  PTR-BA - Programa de Treinamento Recorrente para Bombeiros de Aeródromo
+
+  RBAC - Regulamento Brasileiro da Aviação Civil (Incluído pela Resolução nº 611, de 09.03.2021)
+
+  RESA (Runway End Safety Area) - Área de Segurança de Fim de Pista
+
+  RTF (Radiotelephony) - Radiotelefonia
+
+  RVR (Runway Visual Range) - Alcance Visual da Pista de Pouso e Decolagem
+
+  SCI - Seção Contraincêndio de Aeródromo
+
+
+  Data da emissão: 15 de março de 2021.
+
+
+  SESAQ - Serviço Especializado de Salvamento Aquático (Incluído pela Resolução nº 517, de
+
+  14.05.2019)
+
+  SESCINC - Serviço de Salvamento e Combate a Incêndio em Aeródromos Civis (Redação dada
+
+  pela Resolução nº 517, de 14.05.2019)
+
+  SGSO - Sistema de Gerenciamento da Segurança Operacional
+
+  SIPAER - Sistema de Investigação e Prevenção de Acidentes Aeronáuticos
+
+  SOCMS - Sistema de Orientação e Controle da Movimentação no Solo
+
+  SPDA - Sistema de Proteção contra Descargas Atmosféricas
+
+  SREA - Sistema de Resposta à Emergência Aeroportuária
+
+  TP - Traje de Proteção (Incluído pela Resolução nº 517, de 14.05.2019)
+
+  (Redação dada pela Resolução nº 382, de 14 de junho de 2016)'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- resolucao
+- incluido
+- aerodromo
+- seguranca
+- operacional
+- contraincendio
+- servico
+- bombeiro
+- sistema
+- emergencia
+- controle
+- gerenciamento
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-154-154-215-c
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.215'
+section_title: Área de operação de rádio-altímetro
+subsection_id: c
+cite: 154.215(c)
+title: 154.215(c)
+text: '(c) Largura da área
+
+  Uma área de operação de rádio-altímetro deve se estender lateralmente para cada lado do
+
+  prolongamento do eixo da pista de pouso e decolagem, a uma distância de 60 m, ressalvando-se
+  que,
+
+  quando circunstâncias especiais permitirem, essa distância pode ser reduzida a não menos
+  que 30 m,
+
+  caso um estudo aeronáutico indique que essa redução não afeta a segurança das operações
+  das
+
+  aeronaves.'
+keywords:
+- seguranca-aeroportuaria
+- area
+- altimetro
+- distancia
+- operacao
+- radio
+- aeronautico
+- aeronaves
+- afeta
+- cada
+- caso
+- circunstancias
+- decolagem
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

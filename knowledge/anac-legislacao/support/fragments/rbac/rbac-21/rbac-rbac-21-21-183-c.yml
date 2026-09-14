@@ -1,0 +1,50 @@
+id: rbac-rbac-21-21-183-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.183'
+section_title: Emissão de certificado de aeronavegabilidade padrão para aeronaves categorias
+  normal, utilidade, acrobática, transporte regional ou transporte e para balões livres tripulados
+  e aeronaves de classe especial
+subsection_id: c
+cite: 21.183(c)
+title: 21.183(c)
+text: '(c) Aeronaves importadas. O requerente de um certificado de aeronavegabilidade padrão
+  para uma aeronave importada faz jus a esse certificado se:
+
+  (1) a aeronave possuir ou tiver sido isentada de um certificado de tipo conforme a seção
+  21.21 ou 21.29 e produzida sob a autoridade de outro estado de fabricação;
+
+  (2) [reservado]
+
+  (2)-I a autoridade de aviação civil do país exportador certificar que a aeronave está conforme
+  o projeto de tipo e apresenta condições de operação segura, e
+
+  (3) a ANAC considerar que a aeronave está conforme o projeto de tipo e apresenta condições
+  de operação segura.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- certificado
+- aeronaves
+- tipo
+- apresenta
+- autoridade
+- condicoes
+- operacao
+- padrao
+- segura
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

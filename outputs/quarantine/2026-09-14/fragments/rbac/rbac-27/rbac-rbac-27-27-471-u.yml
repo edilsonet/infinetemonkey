@@ -1,0 +1,51 @@
+id: rbac-rbac-27-27-471-u
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: '27.471'
+section_title: through 27.475.
+subsection_id: u
+cite: 27.471(u)
+title: 27.471(u)
+text: '(u)
+
+  For each turbine engine utilizing 30-second/2-minute OEI power, a device or system must
+  be provided
+
+  for use by ground personnel which -
+
+  (1)
+
+  Automatically records each usage and duration of power at the 30-second and 2-minute OEI
+  levels;
+
+  (2)
+
+  Permits retrieval of the recorded data;
+
+  (3)
+
+  Can be reset only by ground maintenance personnel; and
+
+  (4)
+
+  Has a means to verify proper operation of the system or device.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- device
+- each
+- ground
+- minute
+- personnel
+- power
+- second
+- system
+- automatically
+- data
+- duration
+- engine
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

@@ -1,0 +1,44 @@
+id: rbac-rbac-121-121-221-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.221'
+section_title: Precauções contra incêndio
+subsection_id: c
+cite: 121.221(c)
+title: 121.221(c)
+text: '(c) Classe B. Compartimentos de carga ou bagagem são classificados na categoria "B"
+  se seu acesso, em voo, for suficiente para permitir que um membro da tripulação alcance
+  efetivamente todo o compartimento e seu conteúdo com um extintor de incêndio manual e se
+  o compartimento for projetado de modo que, quando o acesso em voo estiver sendo usado, não
+  haja fluxo de quantidades perigosas de fumaça, chamas ou agente extintor para qualquer parte
+  da cabine ocupada por passageiros ou tripulantes. Cada compartimento classe B deve atender
+  aos seguintes requisitos:
+
+  (1) deve possuir um sistema separado de detecção de fogo ou fumaça, aprovado, provendo alerta
+  no posto do piloto ou do mecânico de voo;
+
+  (2) deve existir um extintor de incêndio manual disponível para o compartimento;
+
+  (3) o compartimento deve ser forrado com material resistente ao fogo, exceto que forração
+  adicional de proteção, resistente à chama, pode ser usada.'
+keywords:
+- transporte-aereo
+- operacoes
+- compartimento
+- extintor
+- incendio
+- acesso
+- classe
+- fogo
+- fumaca
+- manual
+- resistente
+- adicional
+- agente
+- alcance
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

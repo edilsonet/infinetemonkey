@@ -1,0 +1,40 @@
+id: rbac-rbac-21-21-29-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.29'
+section_title: 'Emissão de certificado de tipo: produtos importados'
+subsection_id: b
+cite: 21.29(b)
+title: 21.29(b)
+text: '(b) Um produto com certificado de tipo emitido segundo esta seção é considerado certificado
+  segundo os requisitos de proteção ambiental dos RBAC 34, 36 e 38, cujo cumprimento foi demonstrado
+  de acordo com o parágrafo (a)(1)(i) desta seção e segundo os requisitos de aeronavegabilidade
+  dos RBAC aplicáveis cujo cumprimento foi demonstrado segundo o parágrafo (a)(1)(ii) desta
+  seção ou sob um nível de segurança equivalente, conforme previsto no referido parágrafo.
+  (
+
+  Redação dada pela Resolução nº 501, de 12.12.2018
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- segundo
+- certificado
+- paragrafo
+- secao
+- cujo
+- cumprimento
+- demonstrado
+- desta
+- requisitos
+- tipo
+- acordo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

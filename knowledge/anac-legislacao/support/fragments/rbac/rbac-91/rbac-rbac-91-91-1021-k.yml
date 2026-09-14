@@ -1,0 +1,41 @@
+id: rbac-rbac-91-91-1021-k
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1021'
+section_title: Sistema de gerenciamento de segurança operacional (SGSO)
+subsection_id: k
+cite: 91.1021(k)
+title: 91.1021(k)
+text: '(k) O administrador de programa que opera aviões cujo peso máximo de decolagem aprovado
+  seja
+
+  superior a 27000 kg deve estabelecer e manter um programa de acompanhamento e análise de
+  dados
+
+  de voo como parte de seu SGSO. O administrador de programa pode contratar de terceiros a
+  operação
+
+  de um programa de acompanhamento e análise de dados de voo, porém deve manter total
+
+  responsabilidade pela manutenção desse programa.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- programa
+- acompanhamento
+- administrador
+- analise
+- dados
+- manter
+- sgso
+- aprovado
+- avioes
+- contratar
+- cujo
+- decolagem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

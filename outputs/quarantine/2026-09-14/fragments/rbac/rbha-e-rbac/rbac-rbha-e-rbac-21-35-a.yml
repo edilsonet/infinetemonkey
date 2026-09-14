@@ -1,0 +1,43 @@
+id: rbac-rbha-e-rbac-21-35-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.35'
+section_title: Ensaios em voo
+subsection_id: a
+cite: 21.35(a)
+title: 21.35(a)
+text: '(a) O requerente de um certificado de tipo de aeronave (outros que não os previstos
+  pelas seções 21.24 até 21.29) deve executar os ensaios listados no parágrafo (b) desta seção.
+  Antes de executar os ensaios, deve demonstrar:
+
+  (1) cumprimento com os requisitos estruturais aplicáveis dos RBAC;
+
+  (2) conclusão das inspeções e ensaios no solo necessários;
+
+  (3) conformidade da aeronave com o projeto de tipo; e
+
+  (4) que a ANAC recebeu o relatório dos ensaios em voo realizados pelo requerente (no caso
+  de aeronave a ser certificada pelo RBAC 25, assinado pelo piloto de ensaios do requerente)
+  contendo os resultados dos mesmos.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- aeronave
+- requerente
+- executar
+- tipo
+- aplicaveis
+- assinado
+- caso
+- certificada
+- certificado
+- conclusao
+- conformidade
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

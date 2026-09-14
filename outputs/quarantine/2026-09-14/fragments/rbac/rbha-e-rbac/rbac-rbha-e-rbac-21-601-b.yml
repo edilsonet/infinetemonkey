@@ -1,0 +1,67 @@
+id: rbac-rbha-e-rbac-21-601-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.601'
+section_title: Aplicabilidade e definições
+subsection_id: b
+cite: 21.601(b)
+title: 21.601(b)
+text: '(b) Para os propósitos desta subparte:
+
+  (1) ordem técnica padrão (doravante referenciada nesta subparte como OTP) é uma norma adotada
+  pela ANAC que contém os requisitos mínimos de desempenho para determinados artigos usados
+  em aeronaves civis. Uma OTP é a adoção integral por referência de uma
+
+  Technical Standard Order
+
+  - TSO, emitida pela
+
+  Federal Aviation Administration
+
+  dos Estados Unidos da América. Tal TSO é adotada na língua inglesa, com todas as suas revisões.
+  Uma OTP mantém o mesmo número da TSO correspondente.
+
+  (2) O certificado de produto aeronáutico aprovado segundo uma OTP e o certificado de organização
+  de produção constituem, respectivamente, aprovação de projeto e aprovação de produção emitidos
+  pela ANAC para um fabricante de um artigo que atende a uma determinada OTP.
+
+  (3) Uma carta de aprovação de projeto constitui a aprovação de projeto emitida pela ANAC
+  para um artigo fabricado no exterior que demonstrou cumprimento com a OTP aplicável de acordo
+  com o estabelecido na seção 21.621.
+
+  (4) Um artigo fabricado sob um certificado de produto aeronáutico aprovado segundo uma OTP
+  e o respectivo certificado de organização de produção, uma carta de aceitação da ANAC conforme
+  descrito no parágrafo 21.613(b) ou um artigo fabricado segundo uma carta de aprovação de
+  projeto emitida segundo a seção 21.621, é um artigo aprovado com a finalidade de atender
+  aos RBAC, quando estes exigirem que o artigo seja aprovado.
+
+  (5) Fabricante de um artigo é uma pessoa que controla os dados de projeto e a qualidade
+  do referido artigo produzido (ou a ser produzido por ele no caso do requerimento), incluindo
+  quaisquer peças, processos ou serviços a ele relativos que sejam obtidos de terceiros.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- artigo
+- aprovacao
+- aprovado
+- certificado
+- segundo
+- carta
+- emitida
+- fabricado
+- producao
+- adotada
+- aeronautico
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

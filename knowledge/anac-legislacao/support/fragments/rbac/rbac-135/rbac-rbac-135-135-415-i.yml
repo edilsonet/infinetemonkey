@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-415-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: i
+cite: 135.415(i)
+title: 135.415(i)
+text: (i) Sempre que um detentor de certificado obtiver informações suplementares para completar
+  um relatório requerido por esta seção, ele deve enviá-las como um suplemento ao relatório
+  original e usar a identificação única original da ocorrência.
+keywords:
+- taxi-aereo
+- operacoes
+- relatorio
+- original
+- certificado
+- completar
+- detentor
+- dificuldades
+- envia
+- identificacao
+- informacoes
+- obtiver
+- ocorrencia
+- requerido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

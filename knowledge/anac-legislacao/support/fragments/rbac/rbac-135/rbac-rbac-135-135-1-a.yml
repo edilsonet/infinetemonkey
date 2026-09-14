@@ -1,0 +1,60 @@
+id: rbac-rbac-135-135-1-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.1'
+section_title: Aplicabilidade
+subsection_id: a
+cite: 135.1(a)
+title: 135.1(a)
+text: '(a) Este Regulamento estabelece regras que regem:
+
+  (1) as operações de um solicitante ou detentor de um certificado de operador aéreo (COA)
+  segundo o RBAC nº 119 que emprega aviões com configuração máxima certificada de assentos
+  para passageiros de até 19 assentos e capacidade máxima de carga paga de até 3.400 kg (7.500
+  lb), ou helicópteros;
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)
+
+  (2) cada pessoa vinculada ou prestando serviços a um detentor de certificado na condução
+  de operações segundo este Regulamento, incluindo manutenção, manutenção preventiva e alterações
+  de uma aeronave;
+
+  (3) [reservado];
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)
+
+  (4) cada pessoa requerente de aprovação provisória de um currículo, segmento de currículo
+  ou parte de segmento de currículo de Programa de Qualificação Avançada (AQP) segundo a Subparte
+  Y do RBAC nº 121 e cada pessoa vinculada a um detentor de certificado emitido segundo este
+  Regulamento para realizar atividades de treinamento, qualificação e avaliação sob um Programa
+  de Qualificação Avançada segundo a Subparte Y do RBAC nº 121;
+
+  (5) [reservado];
+
+  (6) cada pessoa a bordo de uma aeronave operando segundo este Regulamento; e
+
+  (7) cada pessoa que seja requerente de um COA segundo o RBAC nº 119, quando conduzindo voos
+  de avaliação operacional.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- segundo
+- cada
+- pessoa
+- regulamento
+- certificado
+- curriculo
+- dada
+- detentor
+- qualificacao
+- redacao
+- resolucao
+- aeronave
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

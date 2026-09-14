@@ -1,0 +1,34 @@
+id: rbac-rbac-139-139-503-b
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.503'
+section_title: Análise e aprovação de Níveis Equivalentes de Segurança
+subsection_id: b
+cite: 139.503(b)
+title: 139.503(b)
+text: (b) A solicitação de aprovação de nível equivalente de segurança deve ser fundamentada
+  por Análise de Impacto sobre a Segurança Operacional (AISO), Estudo Aeronáutico ou Estudo
+  de Compatibilidade, demonstrando que as operações podem ser mantidas dentro de um nível
+  de segurança operacional equivalente ao proporcionado pelas regras aplicáveis à operação
+  da aeronave mais exigente.
+keywords:
+- aerodromos
+- infraestrutura
+- seguranca
+- analise
+- aprovacao
+- equivalente
+- estudo
+- nivel
+- operacional
+- aeronautico
+- aeronave
+- aiso
+- aplicaveis
+- compatibilidade
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

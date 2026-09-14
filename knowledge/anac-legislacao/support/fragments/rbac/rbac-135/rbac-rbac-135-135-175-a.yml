@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-175-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.175'
+section_title: Requisitos para radar meteorológico de bordo
+subsection_id: a
+cite: 135.175(a)
+title: 135.175(a)
+text: '(a) Somente é permitido operar uma grande aeronave categoria transporte em operações
+  transportando passageiros se um radar meteorológico aprovado estiver instalado na aeronave.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- meteorologico
+- radar
+- aprovado
+- bordo
+- categoria
+- dada
+- estiver
+- grande
+- instalado
+- operar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

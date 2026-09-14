@@ -1,0 +1,39 @@
+id: rbac-rbac-154-154-13-e
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.13'
+section_title: Código de referência
+subsection_id: e
+cite: 154.13(e)
+title: 154.13(e)
+text: '(e) O número de código para o elemento 1 deve ser determinado pela Tabela A-1, coluna
+  1,
+
+  selecionando-se o número de código correspondente ao maior valor dos comprimentos básicos
+  de
+
+  pista das aeronaves para as quais a pista deverá atender.
+
+  NOTA - A determinação do comprimento básico de pista das aeronaves serve unicamente para
+  a
+
+  seleção do número do código, sem pretender influenciar no comprimento real da pista existente.'
+keywords:
+- seguranca-aeroportuaria
+- codigo
+- pista
+- numero
+- aeronaves
+- comprimento
+- atender
+- basico
+- basicos
+- coluna
+- comprimentos
+- correspondente
+- determinacao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

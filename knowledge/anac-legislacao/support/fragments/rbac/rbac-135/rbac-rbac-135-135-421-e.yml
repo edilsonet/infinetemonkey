@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-421-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.421'
+section_title: Requisitos adicionais de manutenção
+subsection_id: e
+cite: 135.421(e)
+title: 135.421(e)
+text: '(e)
+
+  Um detentor de certificado somente pode operar um avião monomotor em voo IFR transportando
+  passageiro se esse detentor de certificado registrar e manter nos registros de manutenção
+  dos motores o resultado de cada teste, observação e inspeções requeridas pelo programa de
+  monitoramento das tendências do motor aplicável especificado nos parágrafos (c)(1) e (c)(2)
+  desta seção.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- dada
+- detentor
+- manutencao
+- redacao
+- resolucao
+- adicionais
+- aplicavel
+- aviao
+- cada
+- desta
+- especificado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

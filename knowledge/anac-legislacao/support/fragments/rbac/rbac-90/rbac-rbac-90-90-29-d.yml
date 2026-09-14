@@ -1,0 +1,51 @@
+id: rbac-rbac-90-90-29-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.29'
+section_title: Requisitos do corpo docente da UAP
+subsection_id: d
+cite: 90.29(d)
+title: 90.29(d)
+text: '(d) São requisitos mínimos para exercício da função de instrutor de voo em aeronave:
+
+  (1) ser profissional de notória especialização no componente curricular em que irá ministrar
+  instrução, segundo este Regulamento;
+
+  (2) estar designado pelo órgão ou ente público para ministrar instrução;
+
+  (3) ser piloto em comando na aeronave em que irá ministrar instrução segundo a seção 90.23
+  deste Regulamento;
+
+  (4) ter concluído o treinamento completo de instrutor da UAP, segundo a seção 90.243 deste
+  Regulamento;
+
+  (5) estar com habilitação válida, na aeronave em que irá ministrar instrução;
+
+  (6) estar com habilitação IFRA/H válida, no caso de instruções IFRA/H;
+
+  (7) estar com habilitação INVA/H válida, no caso de instruções INVA/H;
+
+  (8) estar com habilitação PAGA/H válida, no caso de instruções PAGA/H; e
+
+  (9) estar com habilitação LPQA/H válida, no caso de instruções LPQA/H.'
+keywords:
+- regras-de-voo
+- operacoes
+- estar
+- habilitacao
+- valida
+- caso
+- instrucao
+- instrucoes
+- ministrar
+- aeronave
+- regulamento
+- segundo
+- deste
+- ifra
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

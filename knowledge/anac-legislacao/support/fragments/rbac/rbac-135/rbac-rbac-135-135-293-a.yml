@@ -1,0 +1,58 @@
+id: rbac-rbac-135-135-293-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.293'
+section_title: Requisitos de exame inicial e periódico para pilotos
+subsection_id: a
+cite: 135.293(a)
+title: 135.293(a)
+text: '(a) O detentor de certificado somente pode utilizar uma pessoa como piloto e uma pessoa
+  somente pode trabalhar como piloto em um voo se, dentro dos 12 meses calendáricos precedendo
+  esse voo, esse piloto tiver sido aprovado em um exame, oral ou escrito, aplicado por um
+  servidor designado pela ANAC ou por um piloto examinador credenciado sobre os conhecimentos
+  do piloto nas seguintes áreas:
+
+  (1) as apropriadas provisões do RBAC nº 61, do RBAC nº 91 e deste Regulamento, assim como
+  as especificações operativas e o manual geral da empresa do detentor de certificado;
+
+  (Redação dada pela Resolução nº 612, de 09.03.2021)
+
+  (2) para cada tipo de aeronave a ser voada pelo piloto, o grupo motopropulsor, os principais
+  componentes e sistemas, os principais equipamentos, desempenho e limitações operacionais,
+  procedimentos operacionais normais e de emergência e o conteúdo do manual de voo da aeronave
+  ou equivalente, como aplicável;
+
+  (3) para cada tipo de aeronave a ser voada pelo piloto, o método de determinar conformidade
+  com as limitações de peso e balanceamento para operações de decolagem, de pouso e em rota;
+
+  (4) navegação e utilização de auxílios à navegação apropriados à operação ou às qualifica&ccediccedil;ões
+  do piloto, incluindo, quando aplicável, instalações e procedimentos de aproximação por instrumentos;
+
+  (5) procedimentos de controle de tráfego aéreo, incluindo procedimentos IFR quando aplicável;
+
+  (6) meteorologia em geral, incluindo princípios de sistemas frontais, gelo, nevoeiro, trovoadas
+  e tesouras de vento e, se apropriado para as operações do detentor de certificado, meteorologia
+  de grandes altitudes;
+
+  (7) procedimentos para:'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- procedimentos
+- aeronave
+- aplicavel
+- certificado
+- detentor
+- incluindo
+- cada
+- exame
+- geral
+- limitacoes
+- manual
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

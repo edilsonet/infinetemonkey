@@ -1,0 +1,45 @@
+id: rbac-rbac-105-105-3-d
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.3'
+section_title: Regras gerais
+subsection_id: d
+cite: 105.3(d)
+title: 105.3(d)
+text: '(d) O piloto em comando de uma aeronave só pode autorizar que uma pessoa execute um
+  salto de
+
+  paraquedas a partir de sua aeronave se:
+
+  (1) existir NOTAM válido para a operação;
+
+  (2) ele atender aos requisitos para operar como piloto lançador de paraquedista estabelecidos
+
+  no RBAC nº 61; (Redação dada pela Resolução nº 476, de 07.06.2018)
+
+  (3) a aeronave estiver com sua situação regularizada perante a ANAC e não possuir qualquer
+
+  restrição que possa vir a afetar essa operação; e
+
+  (4) [Reservado]'
+keywords:
+- paraquedismo
+- operacoes
+- aeronave
+- operacao
+- piloto
+- afetar
+- atender
+- autorizar
+- comando
+- dada
+- estabelecidos
+- estiver
+- execute
+- existir
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

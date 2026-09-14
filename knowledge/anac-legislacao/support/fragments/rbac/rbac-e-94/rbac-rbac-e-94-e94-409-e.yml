@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-409-e
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: e
+cite: E94.409(e)
+title: E94.409(e)
+text: (e) o sistema de propulsão da RPA deve ser construído, arranjado e instalado de forma
+  a garantir um pouso seguro. A operação adequada do sistema de propulsão deve ser garantida
+  quando for necessária ao funcionamento adequado do sistema de recuperação de emergência;
+keywords:
+- sistema
+- propulsao
+- adequada
+- adequado
+- arranjado
+- classe
+- construido
+- emergencia
+- forma
+- funcionamento
+- garantida
+- garantir
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

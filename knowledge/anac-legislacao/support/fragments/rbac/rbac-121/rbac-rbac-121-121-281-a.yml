@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-281-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.281'
+section_title: Independência do sistema de combustível
+subsection_id: a
+cite: 121.281(a)
+title: 121.281(a)
+text: (a) Cada sistema de combustível de um avião deve ser configurado de modo que a falha
+  de qualquer um dos componentes não resulte em perda irrecuperável de potência de mais de
+  um motor.
+keywords:
+- transporte-aereo
+- operacoes
+- combustivel
+- sistema
+- aviao
+- cada
+- componentes
+- configurado
+- falha
+- independencia
+- irrecuperavel
+- modo
+- motor
+- perda
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

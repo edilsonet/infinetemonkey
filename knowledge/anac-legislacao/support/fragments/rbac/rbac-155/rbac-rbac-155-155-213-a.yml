@@ -1,0 +1,36 @@
+id: rbac-rbac-155-155-213-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.213'
+section_title: '155.213'
+subsection_id: a
+cite: 155.213(a)
+title: 155.213(a)
+text: '(a)
+
+  A largura de uma pista de táxi aéreo de helicóptero deve ser, no mínimo, duas vezes maior
+  que a distância entre as faces externas do trem de pouso principal (UCW) do maior helicóptero
+  previsto a utilizar a pista de táxi aéreo de helicóptero, conforme Figura 155.213-1.
+
+  Figura 155.213-1
+
+  - Pista e rota de táxi aéreo (heliponto ao nível do solo).'
+keywords:
+- seguranca-aeroportuaria
+- aereo
+- helicoptero
+- pista
+- taxi
+- figura
+- maior
+- distancia
+- duas
+- externas
+- faces
+- heliponto
+- largura
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-139-139-109-a
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.109'
+section_title: Especificações operativas
+subsection_id: a
+cite: 139.109(a)
+title: 139.109(a)
+text: '(a) O Certificado Operacional de Aeroporto conterá no mínimo as seguintes informações
+  gerais em suas especificações operativas:
+
+  (1) código de referência de aeródromo;
+
+  (2) tipo de operação por pista/cabeceira:'
+keywords:
+- aerodromos
+- infraestrutura
+- especificacoes
+- operativas
+- aerodromo
+- aeroporto
+- cabeceira
+- certificado
+- codigo
+- contera
+- gerais
+- informacoes
+- minimo
+- operacao
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

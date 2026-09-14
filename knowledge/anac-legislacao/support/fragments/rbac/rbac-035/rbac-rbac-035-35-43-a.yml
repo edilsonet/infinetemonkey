@@ -1,0 +1,40 @@
+id: rbac-rbac-035-35-43-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.43'
+section_title: '35.43'
+subsection_id: a
+cite: 35.43(a)
+title: 35.43(a)
+text: '(a)
+
+  A proof pressure test to 1.5 times the
+
+  maximum operating pressure for one minute
+
+  without permanent deformation or leakage that
+
+  would prevent performance of the intended
+
+  function.'
+keywords:
+- helices
+- aeronavegabilidade
+- pressure
+- deformation
+- function
+- intended
+- leakage
+- maximum
+- minute
+- operating
+- performance
+- permanent
+- prevent
+- proof
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

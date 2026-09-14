@@ -1,0 +1,44 @@
+id: rbac-rbac-035-35-33-c
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.33'
+section_title: '35.33'
+subsection_id: c
+cite: 35.33(c)
+title: 35.33(c)
+text: '(c) Quaisquer sistemas ou componentes que
+
+  não possam ser adequadamente fundamentados
+
+  pelo requerente em cumprimento com os requi-
+
+  sitos deste RBAC devem ser submetidos a en-
+
+  saios ou análises adicionais para demonstrar que
+
+  esses sistemas ou componentes são capazes de
+
+  executar suas funções pretendidas em todas as
+
+  condições ambientais e de operação declaradas.'
+keywords:
+- helices
+- aeronavegabilidade
+- componentes
+- sistemas
+- adequadamente
+- adicionais
+- ambientais
+- analises
+- capazes
+- condicoes
+- cumprimento
+- declaradas
+- demonstrar
+- deste
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

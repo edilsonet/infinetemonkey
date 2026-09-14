@@ -1,0 +1,49 @@
+id: rbac-rbac-145-b145-1-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: B145.1
+section_title: Designação do Gestor Responsável
+subsection_id: a
+cite: B145.1(a)
+title: B145.1(a)
+text: '(a) O Gestor Responsável, que é a pessoa única e identificável na estrutura organizacional
+  da
+
+  organização de manutenção, independentemente de outras atribuições, para ser designado,
+  deve ter
+
+  as seguintes prerrogativas de:
+
+  (1) ter a autoridade final sobre as operações conduzidas sob os regulamentos aplicáveis
+  ao
+
+  detentor de um certificado de organização de manutenção;
+
+  (2) decidir sobre a alocação de recursos humanos, financeiros e técnicos do detentor de
+  um
+
+  certificado de organização de manutenção; e
+
+  (3) se responsabilizar por prestar contas pelo desempenho de segurança operacional do
+
+  detentor de um certificado de organização de manutenção.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- organizacao
+- certificado
+- detentor
+- gestor
+- responsavel
+- alocacao
+- aplicaveis
+- atribuicoes
+- autoridade
+- b145
+- conduzidas
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

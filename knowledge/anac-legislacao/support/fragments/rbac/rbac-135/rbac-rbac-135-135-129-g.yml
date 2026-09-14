@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-129-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: g
+cite: 135.129(g)
+title: 135.129(g)
+text: '(g) Um detentor de certificado somente pode autorizar o táxi ou “
+
+  push back
+
+  ” se pelo menos um tripulante requerido tiver verificado que não existe assento de saída
+  ocupado por uma pessoa que esse tripulante julgue ser incapaz de executar uma das tarefas
+  aplicáveis listadas no parágrafo (d) desta seção.'
+keywords:
+- taxi-aereo
+- operacoes
+- saida
+- tripulante
+- aplicaveis
+- assento
+- assentos
+- autorizar
+- back
+- certificado
+- desta
+- detentor
+- executar
+- existe
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

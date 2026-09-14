@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-17-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.17
+section_title: Diversos
+subsection_id: a
+cite: A135.17(a)
+title: A135.17(a)
+text: '(a) Proteção contra impacto de raios. Partes que sejam eletricamente isoladas da célula
+  básica devem ser ligadas à mesma por meio de para-raios, exceto se o impacto de um raio
+  na parte isolada:
+
+  (1) for improvável por ser blindada por outras partes; ou
+
+  (2) não constituir risco.'
+keywords:
+- taxi-aereo
+- operacoes
+- impacto
+- partes
+- raios
+- a135
+- basica
+- blindada
+- celula
+- constituir
+- contra
+- diversos
+- eletricamente
+- exceto
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

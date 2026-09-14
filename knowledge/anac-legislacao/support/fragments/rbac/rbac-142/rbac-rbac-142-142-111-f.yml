@@ -1,0 +1,40 @@
+id: rbac-rbac-142-142-111-f
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.111'
+section_title: Requisitos gerais
+subsection_id: f
+cite: 142.111(f)
+title: 142.111(f)
+text: '(f) O gestor responsável do requerente ou detentor de certificado de CTAC deve apresentar
+  à
+
+  ANAC, para aceitação, o plano de implantação do SGSO, desenvolvido em fases, as quais devem
+
+  considerar:
+
+  (1) os resultados da análise do faltante, identificando os componentes e elementos da estrutura
+
+  do SGSO a serem desenvolvidos e colocados em funcionamento em cada fase; e
+
+  (2) a implantação de novos elementos da estrutura do SGSO a cada fase, cumprindo o disposto
+
+  na Seção 142.113 deste Regulamento.'
+keywords:
+- sgso
+- cada
+- elementos
+- estrutura
+- fase
+- implantacao
+- aceitacao
+- analise
+- apresentar
+- certificado
+- colocados
+- componentes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

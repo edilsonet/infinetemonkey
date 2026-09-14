@@ -1,0 +1,49 @@
+id: rbac-rbac-110-emd-02-110-11-i
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.11'
+section_title: Requisitos para desempenho de atividades AVSEC
+subsection_id: i
+cite: 110.11(i)
+title: 110.11(i)
+text: '(i) A verificação do perfil e capacidade para desempenho das atividades AVSEC deve
+  considerar as atividades elencadas no Apêndice A.
+
+  (ii) A comprovação da maioridade penal deve ser realizada por meio da apresentação de documento
+  pessoal de identificação válido, com fotografia, data de nascimento e que possua fé pública.
+
+  (iii) A avaliação de antecedentes inclui a verificação da identidade, a verificação de experiência
+  prévia e a verificação de antecedentes criminais, com objetivo de avaliar a idoneidade de
+  um indivíduo para implementação de controle de segurança e para acesso desacompanhado a
+  uma área restrita de segurança.
+
+  (A) Para fins de avaliação dos antecedentes criminais, o profissional deverá apresentar
+  ao empregador os mesmos atestados de antecedentes criminais previstos para o credenciamento
+  junto ao aeródromo, conforme regulamentação específica da ANAC.
+
+  (B) A avaliação de antecedentes criminais deve balizar as decisões da organização com responsabilidade
+  AVSEC sobre a indicação de um profissional para realizar atividades AVSEC.
+
+  (2) Possuir condição física e mental para o desempenho pleno das atividades AVSEC elencadas
+  no Apêndice A, a ser comprovada por meio de exame médico.'
+keywords:
+- carga
+- operacoes
+- antecedentes
+- atividades
+- avsec
+- criminais
+- verificacao
+- avaliacao
+- desempenho
+- apendice
+- elencadas
+- meio
+- profissional
+- seguranca
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

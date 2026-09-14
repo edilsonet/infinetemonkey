@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-163-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.163'
+section_title: 'Requisitos de equipamentos: aeronaves transportando passageiros em voo IFR'
+subsection_id: b
+cite: 135.163(b)
+title: 135.163(b)
+text: '(b) Para os propósitos desta seção, “carga elétrica contínua em voo” inclui as cargas
+  que drenam corrente continuamente durante o voo, tais como equipamentos-rádio, instrumentos
+  elétricos e luzes, mas não inclui cargas intermitentes ocasionais.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- cargas
+- equipamentos
+- inclui
+- aeronaves
+- carga
+- continua
+- continuamente
+- corrente
+- dada
+- desta
+- drenam
+- durante
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

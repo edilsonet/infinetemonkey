@@ -1,0 +1,31 @@
+id: rbac-rbac-137-137-203-c
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.203'
+section_title: Requisitos de manutenção
+subsection_id: c
+cite: 137.203(c)
+title: 137.203(c)
+text: (c) Um operador aéreo que seja detentor de um CDAG pode contratar um mecânico de manutenção
+  aeronáutica, habilitado em célula e grupo motopropulsor, para realizar manutenção no local
+  da operação aeroagrícola.
+keywords:
+- aeroagricola
+- operacoes
+- manutencao
+- aereo
+- aeronautica
+- cdag
+- celula
+- contratar
+- detentor
+- grupo
+- habilitado
+- local
+- mecanico
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

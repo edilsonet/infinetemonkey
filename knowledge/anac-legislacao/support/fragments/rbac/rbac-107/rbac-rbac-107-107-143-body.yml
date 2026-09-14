@@ -1,0 +1,93 @@
+id: rbac-rbac-107-107-143-body
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.143'
+section_title: '107.143'
+subsection_id: body
+cite: '107.143'
+title: '107.143'
+text: '107.143
+
+  Inspeção da Bagagem Despachada
+
+  107.143(a)
+
+  260.000
+
+  455.000
+
+  650.000
+
+  1 por constatação
+
+  (não operacionalidade do equipamento)
+
+  107.143(b)
+
+  260.000 + N*720
+
+  onde N é o número de dias corridos de atraso no prazo estabelecido na DAVSEC.
+
+  Limitado ao valor máximo de:
+
+  R$ 434.000
+
+  455.000 + N*1.260
+
+  onde N é o número de dias corridos de atraso no prazo estabelecido na DAVSEC.
+
+  Limitado ao valor máximo de:
+
+  R$ 761.000
+
+  650.000 + N*1.800
+
+  onde N é o número de dias corridos de atraso no prazo estabelecido na DAVSEC.
+
+  Limitado ao valor máximo de: R$ 1.087.000
+
+  1 por constatação
+
+  (não atendimento aos prazos de provimento do equipamento)
+
+  107.143(b)
+
+  260.000
+
+  455.000
+
+  650.000
+
+  1 por constatação
+
+  (não operacionalidade do equipamento)
+
+  Parâmetro de incidência
+
+  Forma de aplicação
+
+  1 por constatação
+
+  Será aplicada uma multa por cada conjunto de irregularidades identificadas que decorram
+  de violação ao requisito que indica esse parâmetro de incidência'
+keywords:
+- seguranca
+- aeroporto
+- constatacao
+- atraso
+- corridos
+- davsec
+- dias
+- equipamento
+- estabelecido
+- limitado
+- maximo
+- numero
+- prazo
+- valor
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

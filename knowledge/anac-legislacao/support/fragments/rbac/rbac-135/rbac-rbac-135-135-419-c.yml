@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-419-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.419'
+section_title: Programa aprovado de inspeções nas aeronaves
+subsection_id: c
+cite: 135.419(c)
+title: 135.419(c)
+text: (c) O detentor de certificado do qual seja requerido o uso de um programa de inspeções
+  aprovado para suas aeronaves deve submeter o programa à aprovação da ANAC, dentro de 30
+  dias após ser informado a respeito, exceto se a ANAC determinar outro prazo.
+keywords:
+- taxi-aereo
+- operacoes
+- programa
+- aeronaves
+- aprovado
+- inspecoes
+- aprovacao
+- certificado
+- dentro
+- detentor
+- determinar
+- dias
+- exceto
+- informado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

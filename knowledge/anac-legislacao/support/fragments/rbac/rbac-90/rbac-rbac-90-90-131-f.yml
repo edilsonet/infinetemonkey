@@ -1,0 +1,31 @@
+id: rbac-rbac-90-90-131-f
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.131'
+section_title: Requisitos gerais
+subsection_id: f
+cite: 90.131(f)
+title: 90.131(f)
+text: (f) A UAP deverá estabelecer uma CSO, a fim de analisar os perigos, realizar a avaliação
+  de risco e desenvolver estratégias de mitigação na UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- analisar
+- avaliacao
+- desenvolver
+- devera
+- estabelecer
+- estrategias
+- gerais
+- mitigacao
+- perigos
+- realizar
+- requisitos
+- risco
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

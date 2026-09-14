@@ -1,0 +1,43 @@
+id: rbac-rbac-155-155-317-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.317'
+section_title: '155.317'
+subsection_id: b
+cite: 155.317(b)
+title: 155.317(b)
+text: '(b)
+
+  A sinalização horizontal de designação de FATO tipo pista de pouso e decolagem é composta
+  por um número de dois dígitos, consistindo do número inteiro mais próximo de um décimo do
+  azimute magnético à direita, quando visto da direção de aproximação final da FATO.
+
+  (1)
+
+  Quando a regra prevista no parágrafo 155.317(b) resultar em um número de um único dígito,
+  este deve ser precedido por um zero.
+
+  (2)
+
+  Quando o azimute magnético à direita corresponder a 0º (zero grau), a sinalização horizontal
+  de designação de FATO tipo pista de pouso e decolagem deverá apresentar em cada extremidade
+  os números 18 e 36.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- numero
+- azimute
+- decolagem
+- designacao
+- direita
+- horizontal
+- magnetico
+- pista
+- pouso
+- sinalizacao
+- tipo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

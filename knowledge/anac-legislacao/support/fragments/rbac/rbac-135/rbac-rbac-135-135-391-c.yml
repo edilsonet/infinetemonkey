@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-391-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.391'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações em rota com
+  um motor inoperante'
+subsection_id: c
+cite: 135.391(c)
+title: 135.391(c)
+text: '(c) Para o propósito desta seção, é assumido que:
+
+  (1) o motor crítico está inoperante;
+
+  (2) a hélice do motor inoperante está na posição de mínimo arrasto;
+
+  (3) os flapes das asas e o trem de pouso estão na posição mais favorável;
+
+  (4) os motores em funcionamento estão operando na potência máxima contínua disponível;
+
+  (5) o avião está operando em atmosfera padrão; e
+
+  (6) o peso do avião é progressivamente reduzido pelo consumo de combustível e óleo previsto.'
+keywords:
+- taxi-aereo
+- operacoes
+- inoperante
+- motor
+- aviao
+- estao
+- operando
+- posicao
+- arrasto
+- asas
+- assumido
+- atmosfera
+- avioes
+- categoria
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

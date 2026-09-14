@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-105-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.105'
+section_title: Mudança de localização, instalações ou recursos
+subsection_id: b
+cite: 145.105(b)
+title: 145.105(b)
+text: '(b) Uma organização de manutenção certificada somente pode fazer uma mudança nas suas
+
+  instalações ou recursos requeridos pela seção 145.103 deste RBAC, que possa ter significativo
+
+  efeito em sua capacidade de executar manutenção, manutenção preventiva ou alteração, se
+  obtiver
+
+  aprovação escrita da ANAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- instalacoes
+- mudanca
+- recursos
+- alteracao
+- aprovacao
+- capacidade
+- certificada
+- deste
+- efeito
+- escrita
+- executar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-43-43-5-body
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.5'
+section_title: Aprovação para retorno ao serviço após manutenção, manutenção preventiva,
+subsection_id: body
+cite: '43.5'
+title: Aprovação para retorno ao serviço após manutenção, manutenção preventiva,
+text: '43.5 Aprovação para retorno ao serviço após manutenção, manutenção preventiva,
+
+  reconstrução e alteração
+
+
+  Uma pessoa somente pode aprovar o retorno ao serviço de algum artigo que tenha sido
+
+  submetido à manutenção, manutenção preventiva, reconstrução e alteração se:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- preventiva
+- retorno
+- servico
+- aprovacao
+- alteracao
+- reconstrucao
+- algum
+- aprovar
+- artigo
+- pessoa
+- pode
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

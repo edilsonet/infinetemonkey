@@ -1,0 +1,40 @@
+id: rbac-rbac-154-154-113-b
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.113'
+section_title: Ponto de teste de altímetro antes do voo
+subsection_id: b
+cite: 154.113(b)
+title: 154.113(b)
+text: '(b) O ponto de teste de altímetro antes do voo deve estar situado em um pátio de aeronaves.
+
+  NOTA 1 - A localização de um ponto de teste de altímetro antes do voo em um pátio de aeronaves
+
+  permite que a verificação do altímetro seja feita antes da obtenção da autorização para
+  o táxi e elimina
+
+  a necessidade de parar para esse fim após ter deixado o pátio de aeronaves.
+
+  NOTA 2 - Normalmente, todo o pátio de aeronaves pode servir como um ponto satisfatório de
+  teste
+
+  de altímetro antes do voo.'
+keywords:
+- seguranca-aeroportuaria
+- altimetro
+- aeronaves
+- patio
+- ponto
+- teste
+- nota
+- autorizacao
+- deixado
+- elimina
+- estar
+- feita
+- localizacao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

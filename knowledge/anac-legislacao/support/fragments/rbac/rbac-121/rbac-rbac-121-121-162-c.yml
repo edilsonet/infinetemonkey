@@ -1,0 +1,31 @@
+id: rbac-rbac-121-121-162-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.162'
+section_title: Base de aprovação de tipo para operações ETOPS
+subsection_id: c
+cite: 121.162(c)
+title: 121.162(c)
+text: (c) aviões com dois motores aprovados para operações ETOPS além de 180 minutos, o documento
+  CMP para aquele modelo de combinação avião-motor emitida de acordo com a seção 25.3(b)(2)
+  do RBAC 25.
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- acordo
+- alem
+- aprovacao
+- aprovados
+- aquele
+- aviao
+- avioes
+- base
+- combinacao
+- documento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

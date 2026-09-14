@@ -1,0 +1,81 @@
+id: rbac-rbac-21-21-183-e
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.183'
+section_title: Emissão de certificado de aeronavegabilidade padrão para aeronaves categorias
+  normal, utilidade, acrobática, transporte regional ou transporte e para balões livres tripulados
+  e aeronaves de classe especial
+subsection_id: e
+cite: 21.183(e)
+title: 21.183(e)
+text: '(e) Requisitos de ruído. Não obstante qualquer outro requisito desta seção, para a
+  emissão de um certificado de aeronavegabilidade padrão para aeronave cujo requerimento para
+  certificado de tipo tenha sido submetido após 1º de janeiro de 1981 e cujo certificado tenha
+  sido emitido após 24 de novembro de 1986, deve ser demonstrado cumprimento com os seguintes
+  requisitos:
+
+  (1) Para um avião categoria transporte (com peso máximo de decolagem aprovado superior a
+  8.618 kg ou 19.000 lb) e para um avião à reação subsônico, a ANAC não emite o certificado
+  de aeronavegabilidade padrão inicial, a menos que seja considerado que o avião cumpre com
+  os requisitos de ruído aplicáveis do parágrafo 36.1(d) do RBAC 36, em adição aos requisitos
+  de aeronavegabilidade aplicáveis desta seção. Para aviões importados, o cumprimento com
+  este parágrafo fica demonstrado se o país onde o avião foi fabricado certificar e a ANAC
+  considerar que o avião cumpre com os requisitos de ruído aplicáveis do parágrafo 36.1(d)
+  do RBAC 36 (ou cumpre com os requisitos de ruído aplicáveis do país de origem do avião e
+  quaisquer outros requisitos que a ANAC possa estabelecer para prover níveis de ruído iguais
+  ou inferiores aos previstos no parágrafo 36.1(d) do RBAC 36) e o parágrafo (c) desta seção.
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )
+
+  (2) Exceto para um avião projetado para operação de aviação agrícola, como definido no parágrafo
+  137.3(a)(13) do RBAC 137, e para um avião projetado para dispersão de material de combate
+  a incêndio, aos quais não se aplica a seção 36.1583 do RBAC 36, para todo avião propelido
+  a hélice categoria normal, utilidade, acrobática, transporte regional e todo avião propelido
+  a hélice categoria transporte, com peso máximo de decolagem aprovado, igual ou inferior
+  a 8.618 kg (19.000 lb), a ANAC não emite o certificado de aeronavegabilidade padrão inicial,
+  a menos que o fabricante do avião demonstre que o mesmo atende aos requisitos de ruído aplicáveis
+  do RBAC 36, em adição aos requisitos de aeronavegabilidade aplicáveis desta seção. Para
+  aviões importados, o cumprimento com este parágrafo fica demonstrado se o país onde o avião
+  foi fabricado certificar e a ANAC considerar que o avião cumpre com os requisitos de ruído
+  aplicáveis do RBAC 36 (ou cumpre os requisitos de ruído aplicáveis do país de origem do
+  avião e outros requisitos que a ANAC possa estabelecer para prover níveis de ruído iguais
+  ou inferiores aos previstos no RBAC 36) e o parágrafo (c) desta seção. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )
+
+  (3)-I Para um helicóptero de qualquer categoria, a ANAC não emite o certificado de aeronavegabilidade
+  padrão inicial a menos que o fabricante do helicóptero demonstre que o mesmo atende aos
+  requisitos de ruído aplicáveis do RBAC 36, em adição aos requisitos de aeronavegabilidade
+  aplicáveis desta seção. Para helicópteros importados, a conformidade com este parágrafo
+  fica demonstrada se o país onde o helicóptero foi fabricado certificar e a ANAC considerar
+  que o helicóptero cumpre os requisitos de ruído aplicáveis do RBAC 36 (ou cumpre os requisitos
+  aplicáveis de ruído do país de origem do helicóptero e outros requisitos que a ANAC possa
+  estabelecer para prover níveis de ruído iguais ou inferiores aos previstos no RBAC 36) e
+  o parágrafo (c) desta seção.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- requisitos
+- aviao
+- ruido
+- aplicaveis
+- paragrafo
+- secao
+- certificado
+- cumpre
+- desta
+- pais
+- helicoptero
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

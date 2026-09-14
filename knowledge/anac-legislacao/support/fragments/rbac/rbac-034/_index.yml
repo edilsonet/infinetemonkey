@@ -1,0 +1,36 @@
+document: rbac-034
+kind: rbac
+title: RBAC 034 EMD 07
+ementa: Requisitos para drenagem de combustível e emissões de motores de aeronaves. Em vigor
+  em 1º de dezembro de 2021.
+family: '34'
+categories:
+- emissoes
+- meio-ambiente
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-034
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-034/@@display-file/arquivo_norma/RBAC34EMD07.pdf
+archive_url: ''
+language: pt
+foreign_annex: false
+sections:
+- '34.1'
+- '34.3'
+- '34.5'
+- '34.7'
+- '34.9'
+- preambulo
+fragment_count: 12
+fragment_ids:
+- rbac-rbac-034-preambulo-body
+- rbac-rbac-034-34-5-body
+- rbac-rbac-034-34-7-body
+- rbac-rbac-034-34-9-body
+- rbac-rbac-034-34-1-a
+- rbac-rbac-034-34-1-b
+- rbac-rbac-034-34-3-body
+- rbac-rbac-034-34-3-a
+- rbac-rbac-034-34-3-b
+- rbac-rbac-034-34-7-a
+- rbac-rbac-034-34-7-b
+- rbac-rbac-034-34-7-c
+parser_version: 6

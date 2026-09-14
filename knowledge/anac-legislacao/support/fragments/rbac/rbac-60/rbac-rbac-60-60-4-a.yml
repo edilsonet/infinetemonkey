@@ -1,0 +1,72 @@
+id: rbac-rbac-60-60-4-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.4'
+section_title: Requisitos de desempenho para
+subsection_id: a
+cite: 60.4(a)
+title: 60.4(a)
+text: '(a) Os requisitos de desempenho para
+
+  qualificação são publicados em apêndices
+
+  deste regulamento:
+
+  (1) Appendix A contains the QPS for
+
+  Airplane Flight Simulators.
+
+
+  (1) O Apêndice A contém o QPS para
+
+  Simulador de Voo de Avião.
+
+  (2) Appendix B contains the QPS for
+
+  Airplane Flight Training Devices.
+
+
+  (2) O Apêndice B contém o QPS para
+
+  Dispositivo de Treinamento de Voo de Avião.
+
+  (3) Appendix C contains the QPS for
+
+  Helicopter Flight Simulators.
+
+
+  (3) O Apêndice C contém o QPS para
+
+  Simulador de Voo de Helicóptero
+
+  (4) Appendix D contains the QPS for
+
+  Helicopter Flight Training Devices.
+
+
+  (4) O Apêndice D contém o QPS para
+
+  Dispositivo de Treinamento de Voo de
+
+  Helicóptero'
+keywords:
+- simuladores
+- treinamento
+- apendice
+- appendix
+- contains
+- contem
+- flight
+- airplane
+- aviao
+- desempenho
+- devices
+- dispositivo
+- helicopter
+- helicoptero
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

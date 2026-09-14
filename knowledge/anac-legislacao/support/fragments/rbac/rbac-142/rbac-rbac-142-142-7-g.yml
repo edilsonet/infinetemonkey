@@ -1,0 +1,38 @@
+id: rbac-rbac-142-142-7-g
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.7'
+section_title: Solicitação, emissão, emenda, suspensão, revogação ou cassação de certificado
+  de CTAC
+subsection_id: g
+cite: 142.7(g)
+title: 142.7(g)
+text: '(g) A ANAC pode cassar um certificado de CTAC em vigor se:
+
+  (1) o detentor de um certificado suspenso não regularizar as causas que deram origem à
+
+  suspensão em até 180 dias contados a partir da data da suspensão;
+
+  (2) for constatado que o detentor de certificado de CTAC não cumpre algum dos requisitos
+
+  deste Regulamento e que não tem interesse ou capacidade para regularizar a situação; e
+
+  (3) evidenciar que o CTAC:'
+keywords:
+- certificado
+- ctac
+- suspensao
+- detentor
+- regularizar
+- algum
+- capacidade
+- cassacao
+- cassar
+- causas
+- constatado
+- contados
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

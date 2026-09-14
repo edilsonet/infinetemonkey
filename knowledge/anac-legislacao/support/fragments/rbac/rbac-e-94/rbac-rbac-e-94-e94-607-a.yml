@@ -1,0 +1,35 @@
+id: rbac-rbac-e-94-e94-607-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.607
+section_title: Operação após manutenção, manutenção preventiva, reconstrução ou alterações
+  de RPAS Classe 1
+subsection_id: a
+cite: E94.607(a)
+title: E94.607(a)
+text: '(a) Somente é permitido operar um RPAS que tenha sofrido manutenção, manutenção preventiva,
+  reconstrução ou alterações se:
+
+  (1) ele tiver sido aprovado para retorno ao serviço por uma pessoa autorizada e devidamente
+  qualificada pela ANAC e conforme a Seção 43.7 do RBAC 43; e
+
+  (2) as anotações nos registros de manutenção requeridas pelas seções 43.9 ou 43.11 do RBAC
+  43, como aplicável, tiverem sido feitas.'
+keywords:
+- manutencao
+- alteracoes
+- preventiva
+- reconstrucao
+- rpas
+- anotacoes
+- aplicavel
+- aprovado
+- autorizada
+- classe
+- devidamente
+- feitas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-43-43-1-i-d-i
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: 43.1-I
+section_title: Definições
+subsection_id: d-i
+cite: 43.1-I(d-I)
+title: 43.1-I(d-I)
+text: '(d)-I Tarefa de manutenção crítica significa uma tarefa que envolva a montagem ou afete
+
+  sistema ou parte de aeronave, motor ou hélice tais que um erro durante a execução da tarefa
+  possa
+
+  afetar diretamente a segurança operacional. (Incluído pela Resolução nº 509, de 14.03.2019)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- tarefa
+- aeronave
+- afetar
+- afete
+- critica
+- definicoes
+- diretamente
+- durante
+- envolva
+- erro
+- execucao
+- helice
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

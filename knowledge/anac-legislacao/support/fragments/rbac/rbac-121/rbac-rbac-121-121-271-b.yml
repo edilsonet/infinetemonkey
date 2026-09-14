@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-271-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.271'
+section_title: Materiais usados no sistema de extinção de incêndio
+subsection_id: b
+cite: 121.271(b)
+title: 121.271(b)
+text: (b) Conexões que estejam sujeitas a movimentos relativos entre componentes devem ser
+  feitas de material flexível, pelo menos resistentes ao fogo, e localizadas de maneira a
+  minimizar a probabilidade de falha.
+keywords:
+- transporte-aereo
+- operacoes
+- componentes
+- conexoes
+- estejam
+- extincao
+- falha
+- feitas
+- flexivel
+- fogo
+- incendio
+- localizadas
+- maneira
+- materiais
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

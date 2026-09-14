@@ -1,0 +1,762 @@
+id: rbac-rbac-36-a36-9-e
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: of this ape
+subsection_id: e
+cite: A36.9(e)
+title: A36.9(e)
+text: '(e) The analysis system must operate in real time from 50 Hz through at least 12 kHz
+  inclusive.
+
+  This requirement aplies to al operating chanels of a multi
+
+  - chanel spectral analysis system.
+
+
+  A36.3.7.3 The minimum standard for the one
+
+  - third octave ban
+
+  d analysis system is the clas 2
+
+  electrical performance requirements of IEC 61260 as amended, over the range of one
+
+  - third octave
+
+  nominal midband frequencies from 50 Hz through 10 kHz inclusive (incorporated by reference,
+  ,
+
+  se §36.6).
+
+
+  Note: IEC 61260 spec
+
+  ifies procedures for testing of one
+
+  - third octave band analysis systems for
+
+  relative atenuation, anti
+
+  - aliasing filters, real time operation, level linearity, and filter integrated
+
+  response (efective bandwidth).
+
+
+  A36.3.7.4
+
+  When slow time averaging is perfo
+
+  rmed in the analyzer, the response of the one
+
+  - third
+
+  octave band analysis system to a suden onset or interuption of a constant sinusoidal signal
+  at the
+
+  respective one
+
+  - third octave nominal midband frequency, must be measured at sampling instants 0.5,
+
+  1, 1.
+
+  5 and 2 seconds(s) after the onset and 0.5 and 1s after interuption. The rising response
+  must be
+
+  Þ4 ±1 dB at 0.5s, Þ1.75 ±0.75 dB at 1s,
+
+  steady
+
+  - state level. The faling response must be such that t
+
+  he sum of the output signal levels,
+
+  relative to the initial steady
+
+  - state level, and the correspon
+
+  at both 0.5 and 1s. At subsequent times t
+
+  or les. This e
+
+  quates to an exponential averaging proces (slow time
+
+  - weighting) with a nominal 1s
+
+  time constant (
+
+  i.e.,
+
+  2s averaging time).
+
+
+  A36.3.7.5
+
+  When the one
+
+  - third octave band sound presure levels are determined from the output of
+
+  the analyzer without slow time
+
+  - we
+
+  ighting, slow time
+
+  - weighting must be simulated in the subsequent
+
+  procesing. Simulated slow time
+
+  - weighted sound presure levels can be obtained using a continuous
+
+  exponential averaging proces by the folowing equation:
+
+
+  L
+
+  s (i,k)=10 log [(0.60653) 10.1
+
+  Ls[i, (kÞ1)]+ (0.39347) 100.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  32
+
+  / 121
+
+
+  where L
+
+  s (i,k) is the simulated slow time
+
+  - weighted sound presure level and L(i,k) is the as
+
+  -
+
+  measured 0.5s time average sound presure level determined from the output of the analyzer
+  for the
+
+  k - th instant of time and
+
+  i - th one
+
+  - third octave band. For k=1, the slow time
+
+  - weighted sound presure
+
+  L
+
+  s [i, (kÞ1=0)] on the right hand side sho
+
+  exponential averaging is represented by the folowing equation for a four sample aver
+
+  aging proces
+
+  for k ≥ 4:
+
+
+  L
+
+  s (i,k)=10 log [(0.13) 100.1 L[i,(kÞ3)]+
+
+  10.1 L[i, k]
+
+
+  where L
+
+  s (i, k) is the simulated slow time
+
+  - weighted sound presure level and L (i, k) is the as
+
+  measured 0.5s time av
+
+  erage sound presure level determined from the output of the analyzer for the
+
+  k - th instant of time and the i
+
+  - th one
+
+  - third octave band.
+
+
+  The sum of the weighting factors is 1.0 in the two equations. Sound presure levels calculated
+  by
+
+  means of either equatio
+
+  n are valid for the sixth and subsequent 0.5s data samples, or for times
+
+  greater than 2.5s after initiation of data analysis.
+
+
+  Note: The coeficients in the two equations were calculated for use in determining equivalent
+  slow
+
+  time
+
+  - weighted sound presure le
+
+  vels from samples of 0.5s time average sound presure levels. The
+
+  equations do not work with data samples where the averaging time difers from 0.5s.
+
+
+  A36.3.7.6
+
+  The instant in time by which a slow time
+
+  - weighted sound presure level is characterized
+
+  must be
+
+  0.75s earlier than the actual readout time.
+
+
+  Note: The definition of this instant in time is neded to corelate the recorded noise with
+  the aircraft
+
+  position when the noise was emited and takes into acount the averaging period of the slow
+  time
+
+  -
+
+  weighting
+
+  . For each 0.5 second data record this instant in time may also be identified as 1.25
+
+  seconds after the start of the asociated 2 second averaging period.
+
+
+  A36.3.7.7
+
+  The resolution of the sound presure levels, both displayed and stored, must be 0.1 dB or
+
+  finer.
+
+
+  A36.3.8
+
+  Calibration systems.
+
+
+  A36.3.8.1 The acoustical sensitivity of the measurement system must be determined using
+  a sound
+
+  calibrator generating a known sound presure level at a known frequency. The minimum standard
+
+  for the sound calibrator is the clas 1L requirements of
+
+  ABNT NBR
+
+  IEC 6
+
+  0942
+
+  as amended
+
+  (incorporated by reference, se §36.6).
+
+
+  A36.3.9
+
+  Calibration and checking of system.
+
+
+  A36.3.9.1
+
+  Calibration and checking of the measurement system and its constituent components
+
+  must be caried out to the satisfaction of the FA by
+
+  the methods specified in sections A36.3.9.2
+
+  through A36.3.9.10. The calibration adjustments, including those for environmental efects
+  on
+
+  sound calibrator output level, must be reported to the FA and aplied to the measured one
+
+  - third
+
+  -
+
+  octave sound presure
+
+  levels determined from the output of the analyzer. Data colected during an
+
+  overload indication are invalid and may not be used. If the overload condition ocured during
+
+  recording, the asociated test data are invalid, whereas if the overload ocured du
+
+  ring analysis, the
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  3
+
+  / 121
+
+
+  analysis must be repeated with reduced sensitivity to eliminate the overload.
+
+
+  A36.3.9.2
+
+  The fre
+
+  - field frequency response of the microphone system may be determined by use
+
+  of an electrostatic actuator in combination with manufacturer''s
+
+  data or by tests in an anechoic fre
+
+  -
+
+  field facility. The corection for frequency response must be determined within 90 days of
+  each test
+
+  series. The corection for non
+
+  - uniform frequency response of the microphone system must be
+
+  reported to the FA and ap
+
+  lied to the measured one
+
+  - third octave band sound presure levels
+
+  determined from the output of the analyzer.
+
+
+  A36.3.9.3
+
+  When the angles of incidence of sound emited from the aircraft are within ±30° of
+
+  grazing incidence at the microphone (se Figure A36
+
+  œ1 ), a single set of fre
+
+  - field corections based
+
+  on grazing incidence is considered suficient for corection of directional response efects.
+  For other
+
+  cases, the angle of incidence for each 0.5 second sample must be determined and aplied for
+  the
+
+  corecti
+
+  on of incidence efects.
+
+
+  A36.3.9.4
+
+  For analog magnetic tape recorders, each rel of magnetic tape must cary at least 30
+
+  seconds of pink random or pseudo
+
+  - random noise at its begining and end. Data obtained from
+
+  analog tape
+
+  - recorded signals wil be acept
+
+  ed as reliable only if level diferences in the 10 kHz one
+
+  -
+
+  third
+
+  - octave
+
+  - band are not more than 0.75 dB for the signals recorded at the begining and end.
+
+
+  A36.3.9.5
+
+  The frequency response of the entire measurement system while deployed in the field
+
+  during
+
+  the test series, exclusive of the microphone, must be determined at a level within 5 dB
+  of the
+
+  level coresponding to the calibration sound presure level on the level range used during
+  the tests
+
+  for each one
+
+  - third octave nominal midband frequency from 50
+
+  Hz to 10 kHz inclusive, utilizing
+
+  pink random or pseudo
+
+  - random noise. Within six months of each test series the output of the noise
+
+  generator must be determined by a method traceable to the U.S. National Institute of Standards
+  and
+
+  Technology or to an equiv
+
+  alent national standards laboratory as determined by the FA. Changes in
+
+  the relative output from the previous calibration at each one
+
+  - third octave band may not exced 0.2
+
+  dB. The corection for frequency response must be reported to the FA and aplied to
+
+  the measured
+
+  one
+
+  - third octave sound presure levels determined from the output of the analyzer.
+
+
+  A36.3.9.6
+
+  The performance of switched atenuators in the equipment used during noise
+
+  certification measurements and calibration must be checked within six mon
+
+  ths of each test series to
+
+  ensure that the maximum eror does not exced 0.1 dB.
+
+
+  A36.3.9.7
+
+  The sound presure level produced in the cavity of the coupler of the sound calibrator
+
+  must be calculated for the test environmental conditions using the manufactur
+
+  er''s suplied
+
+  information on the influence of atmospheric air presure and temperature. This sound presure
+  level
+
+  is used to establish the acoustical sensitivity of the measurement system. Within six months
+  of each
+
+  test series the output of the sound calib
+
+  rator must be determined by a method traceable to the U.S.
+
+  National Institute of Standards and Technology or to an equivalent national standards laboratory
+  as
+
+  determined by the FA. Changes in output from the previous calibration must not exced 0.2
+  dB.
+
+
+  A3
+
+  6.3.9.8
+
+  Suficient sound presure level calibrations must be made during each test day to ensure
+
+  that the acoustical sensitivity of the measurement system is known at the prevailing environmental
+
+  conditions coresponding with each test series. The difere
+
+  nce betwen the acoustical sensitivity
+
+  levels recorded imediately before and imediately after each test series on each day may
+  not
+
+  exced 0.5 dB. The 0.5 dB limit aplies after any atmospheric presure corections have ben
+
+  determined for the calibrator
+
+  output level. The arithmetic mean of the before and after
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  34
+
+  / 121
+
+
+  measurements must be used to represent the acoustical sensitivity level of the measurement
+  system
+
+  for that test series. The calibration corections must be reported to the FA and aplied to
+  the
+
+  mea
+
+  sured one
+
+  - third octave band sound presure levels determined from the output of the analyzer.
+
+
+  A36.3.9.9
+
+  Each recording medium, such as a rel, cartridge, casete, or diskete, must cary a
+
+  sound presure level calibration of at least 10 seconds duration
+
+  at its begining and end.
+
+
+  A36.3.9.10
+
+  The fre
+
+  - field insertion los of the windscren for each one
+
+  - third octave nominal
+
+  midband frequency from 50 Hz to 10 kHz inclusive must be determined with sinusoidal sound
+
+  signals at the incidence angles determined to
+
+  be aplicable for corection of directional response
+
+  efects per section A36.3.9.3. The interval betwen angles tested must not exced 30 degres.
+  For a
+
+  windscren that is undamaged and uncontaminated, the insertion los may be taken from
+
+  manufacturer''s da
+
+  ta. Alternatively, within six months of each test series the insertion los of the
+
+  windscren may be determined by a method traceable to the U.S. National Institute of Standards
+
+  and Technology or an equivalent national standards laboratory as determined by
+
+  the FA. Changes
+
+  in the insertion los from the previous calibration at each one
+
+  - third
+
+  - octave frequency band must not
+
+  exced 0.4 dB. The corection for the fre
+
+  - field insertion los of the windscren must be reported to
+
+  the FA and aplied to the measured
+
+  one
+
+  - third octave sound presure levels determined from the
+
+  output of the analyzer.
+
+
+  A36.3.10
+
+  Adjustments for ambient noise.
+
+
+  A36.3.10.1
+
+  Ambient noise, including both an acoustical background and electrical noise of the
+
+  measurement system, must be recorde
+
+  d for at least 10 seconds at the measurement points with the
+
+  system gain set at the levels used for the aircraft noise measurements. Ambient noise must
+  be
+
+  representative of the acoustical background that exists during the flyover test run. The
+  recorded
+
+  air
+
+  craft noise data is aceptable only if the ambient noise levels, when analyzed in the same
+  way,
+
+  and quoted in PNL (se A36.4.1.3 (a), are at least 20 dB below the maximum PNL of the aircraft.
+
+
+  A36.3.10.2
+
+  Aircraft sound presure levels within the 10 dB
+
+  - dow
+
+  n points (se A36.4.5.1) must
+
+  exced the mean ambient noise levels determined in section A36.3.10.1 by at least 3 dB in
+  each
+
+  one
+
+  - third octave band, or must be adjusted using a method aproved by the FA; one method is
+
+  described in the curent advisory circ
+
+  ular for this part.
+
+
+  Section A36.4
+
+  Calculation of Efective Perceived Noise Level From Measured Data
+
+
+  A36.4.1
+
+  General.
+
+
+  A36.4.1.1
+
+  The basic element for noise certification criteria is the noise evaluation measure known
+
+  as efective perceived noise level,
+
+  EPNL, in units of EPNdB, which is a single number evaluator of
+
+  the subjective efects of airplane noise on human beings. EPNL consists of instantaneous
+  perceived
+
+  noise level, PNL, corected for spectral iregularities, and for duration. The spectral ireg
+
+  ularity
+
+  correction, called -tone correction facto
+
+  tone.
+
+
+  A36.4.1.2
+
+  Thre basic physical properties of sound presure must be measured: level, frequency
+
+  distribution, and time variation. To determine EP
+
+  NL, the instantaneous sound presure level in each
+
+  of the 24 one
+
+  - third octave bands is required for each 0.5 second increment of time during the
+
+  airplane noise measurement.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  35
+
+  / 121
+
+
+  A36.4.1.3
+
+  The calculation procedure that uses physical measurements of noise to de
+
+  rive the EPNL
+
+  evaluation measure of subjective response consists of the folowing five steps:'
+keywords:
+- ruido
+- meio-ambiente
+- must
+- sound
+- presure
+- time
+- level
+- determined
+- noise
+- from
+- each
+- octave
+- third
+- levels
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-169-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.169'
+section_title: Requisitos adicionais de aeronavegabilidade
+subsection_id: a
+cite: 135.169(a)
+title: 135.169(a)
+text: (a) Exceto para aviões certificados na categoria transporte regional, somente é permitido
+  operar um grande avião se ele cumprir os requisitos adicionais de aeronavegabilidade das
+  seções 121.213 a 121.283 e 121.307 do RBAC nº 121.
+keywords:
+- taxi-aereo
+- operacoes
+- adicionais
+- aeronavegabilidade
+- requisitos
+- aviao
+- avioes
+- categoria
+- certificados
+- cumprir
+- exceto
+- grande
+- operar
+- permitido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

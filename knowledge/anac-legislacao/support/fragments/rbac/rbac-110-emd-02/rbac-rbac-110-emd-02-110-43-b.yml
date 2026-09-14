@@ -1,0 +1,28 @@
+id: rbac-rbac-110-emd-02-110-43-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.43'
+section_title: Matrícula em curso AVSEC
+subsection_id: b
+cite: 110.43(b)
+title: 110.43(b)
+text: (b) Só é possível matricular ou retirar aluno de uma turma de curso AVSEC até o primeiro
+  dia do curso.
+keywords:
+- carga
+- operacoes
+- curso
+- avsec
+- aluno
+- matricula
+- matricular
+- possivel
+- primeiro
+- retirar
+- turma
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,57 @@
+id: rbac-rbac-154-154-503-a
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.503'
+section_title: Projeto de sistemas elétricos
+subsection_id: a
+cite: 154.503(a)
+title: 154.503(a)
+text: '(a) Considerações gerais
+
+  (1) Para uma pista de pouso e decolagem destinada a uso em condições de alcance visual de
+
+  pista inferior a um valor de 550 m, os sistemas elétricos para o fornecimento de energia,
+  iluminação
+
+  e controle dos sistemas de iluminação previstos na Tabela F-1 devem ser projetados de forma
+  que
+
+  uma falha nos equipamentos não deixe o piloto com uma orientação visual inadequada ou com
+
+  informações erradas.
+
+  (2) Nos casos em que a fonte secundária de um aeródromo for alimentada pelo uso de
+
+  alimentadores duplicados, esses fornecimentos devem ser física e eletricamente separados
+  de modo a
+
+  garantir o nível exigido de disponibilidade e independência.
+
+  (3) Nos casos em que uma pista de pouso e decolagem que faça parte de uma circulação padrão
+
+  de táxi possuir tanto uma iluminação de pista de pouso e decolagem como de pista de táxi,
+  os sistemas
+
+  de iluminação devem estar entrosados para eliminar a possibilidade de operação simultânea
+  das duas
+
+  formas de iluminação.'
+keywords:
+- seguranca-aeroportuaria
+- iluminacao
+- pista
+- sistemas
+- decolagem
+- pouso
+- casos
+- eletricos
+- taxi
+- visual
+- aerodromo
+- alcance
+- alimentada
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

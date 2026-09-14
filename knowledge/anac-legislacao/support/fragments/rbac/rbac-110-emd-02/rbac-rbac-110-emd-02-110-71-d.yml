@@ -1,0 +1,42 @@
+id: rbac-rbac-110-emd-02-110-71-d
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.71'
+section_title: Treinamento em Serviço para profissionais que desempenham atividade de inspeção
+  de segurança da aviação civil
+subsection_id: d
+cite: 110.71(d)
+title: 110.71(d)
+text: '(d) O Treinamento em Serviço é composto pelas seguintes atividades:
+
+  (1) orientação da atuação do profissional para adequar seus procedimentos aos previstos
+  nos regulamentos da ANAC e nos programas de segurança.
+
+  (2) aprimoramento do profissional para identificação de ameaças, utilizando-se de no mínimo
+  12 (doze) horas-aula de simulações de ameaças, mediante a utilização de técnicas de inspeção
+  manual, equipamentos de raios-X ou outras tecnologias, a depender do método de inspeção
+  previsto no programa de segurança do operador; e
+
+  (3) aprimoramento do profissional para identificação de ameaças, utilizando-se de no mínimo
+  20 (vinte) testes aleatórios de identificação de ameaças.'
+keywords:
+- carga
+- operacoes
+- ameacas
+- identificacao
+- inspecao
+- profissional
+- seguranca
+- aprimoramento
+- minimo
+- servico
+- treinamento
+- utilizando
+- adequar
+- aleatorios
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-105-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.105'
+section_title: 'Exceção a requisitos de piloto segundo em comando: utilização do sistema de
+  piloto automático aprovado'
+subsection_id: d
+cite: 135.105(d)
+title: 135.105(d)
+text: '(d) A ANAC pode emitir emenda às especificações operativas do detentor de certificado,
+  autorizando o uso de um sistema de piloto automático em lugar de um piloto segundo em comando,
+  se:
+
+  (1) o piloto automático for capaz de operar os controles da aeronave para mantê-la em voo
+  e manobrá-la nos três eixos de voo (longitudinal, transversal e vertical); e
+
+  (2) o detentor de certificado demonstrar, de forma satisfatória à ANAC, que a operação utilizando
+  o sistema de piloto automático pode ser conduzida com segurança e em conformidade com este
+  Regulamento.'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- automatico
+- sistema
+- certificado
+- comando
+- detentor
+- pode
+- segundo
+- aeronave
+- aprovado
+- autorizando
+- capaz
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

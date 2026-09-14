@@ -1,0 +1,42 @@
+id: rbac-rbac-121-121-7-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.7'
+section_title: Definições
+subsection_id: c
+cite: 121.7(c)
+title: 121.7(c)
+text: '(c)
+
+  Área de Operações ETOPS
+
+  significa:
+
+  (1) para aviões com dois motores a turbina, uma área distante mais de 75 minutos de um Aeródromo
+  Adequado, considerando a velocidade de cruzeiro com um motor inoperante sob atmosfera padrão
+  e ar calmo;
+
+  (2) para aviões com mais de dois motores a turbina, uma área distante mais de 180 minutos
+  de um Aeródromo Adequado, considerando a velocidade de cruzeiro com um motor inoperante
+  sob atmosfera padrão e ar calmo;'
+keywords:
+- transporte-aereo
+- operacoes
+- area
+- adequado
+- aerodromo
+- atmosfera
+- avioes
+- calmo
+- considerando
+- cruzeiro
+- distante
+- dois
+- inoperante
+- minutos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

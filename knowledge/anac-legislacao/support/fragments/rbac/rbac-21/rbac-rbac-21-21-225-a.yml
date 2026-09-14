@@ -1,0 +1,41 @@
+id: rbac-rbac-21-21-225-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.225'
+section_title: Certificado de aeronavegabilidade provisório emitido com base em emenda provisória
+  ao certificado de tipo
+subsection_id: a
+cite: 21.225(a)
+title: 21.225(a)
+text: '(a) Um requerente faz jus a um certificado de aeronavegabilidade provisório para uma
+  aeronave para a qual tenha sido emitida uma emenda provisória ao certificado de tipo se:
+
+  (1) ele atender aos requisitos de elegibilidade estabelecidos pelo RBAC 21.213 e cumprir
+  os requisitos desta seção; e
+
+  (2) a ANAC considerar que não há aspecto, característica ou condição da aeronave, modificada
+  de acordo com a referida emenda, que possa torná-la insegura quando operando de acordo com
+  as limitações estabelecidas pela seção 21.85(g) deste RBAC, 121.207 do RBAC 121, bem como
+  pela seção 91.317 do RBHA 91, ou dispositivo correspondente do RBAC que venha a substituí-lo.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- secao
+- acordo
+- aeronave
+- provisoria
+- provisorio
+- requisitos
+- tipo
+- aspecto
+- atender
+- base
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

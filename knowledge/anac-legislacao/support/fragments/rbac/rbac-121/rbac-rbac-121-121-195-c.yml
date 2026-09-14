@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-195-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.195'
+section_title: 'Aviões com motores a turbina: limitações de pouso no aeródromo de destino'
+subsection_id: c
+cite: 121.195(c)
+title: 121.195(c)
+text: (c) Um avião turboélice que estaria proibido de decolar por não cumprir o parágrafo
+  (b) (2) desta seção pode fazê-lo se for indicado um aeródromo de alternativa que atenda
+  a todos os requisitos desta seção e, adicionalmente, que possa executar um pouso completo
+  nesse aeródromo utilizando 70% do comprimento efetivo da sua pista.
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- desta
+- pouso
+- secao
+- adicionalmente
+- alternativa
+- atenda
+- aviao
+- avioes
+- completo
+- comprimento
+- cumprir
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,43 @@
+id: rbac-rbac-161-161-33-i
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.33'
+section_title: Critérios para cálculo das curvas de ruído para elaboração do PEZR
+subsection_id: i
+cite: 161.33(i)
+title: 161.33(i)
+text: '(i) previsão do número de movimentos por cabeceira;
+
+  (ii) tipos de aeronaves que serão utilizadas na geração das curvas de ruído;
+
+  (A) Caso o programa computacional utilizado não possua informações específicas sobre um
+  ou mais tipos de aeronave considerados, deve ser feita a substituição por outros tipos semelhantes
+  de aeronaves.
+
+  (iii) trajetórias de pouso e decolagem específicas para o aeródromo, conforme cartas de
+  navegação visual e/ou por instrumento;
+
+  (A) No caso de aeródromos que ainda não possuam cartas de navegação visual e/ou por instrumento,
+  devem ser utilizadas trajetórias estimadas para suas operações, determinadas com base em
+  estudos técnicos e consultas à autoridade competente.
+
+  (iv) previsões de movimentos por tipo de aeronave em cada rota, segregadas em períodos diurno
+  e noturno, considerando o disposto no parágrafo 161.31(a)(3);'
+keywords:
+- tipos
+- aeronave
+- aeronaves
+- cartas
+- caso
+- curvas
+- especificas
+- instrumento
+- movimentos
+- navegacao
+- ruido
+- trajetorias
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

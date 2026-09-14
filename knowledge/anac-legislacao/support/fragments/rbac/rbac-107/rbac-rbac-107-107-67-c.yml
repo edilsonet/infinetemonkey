@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-67-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.67'
+section_title: Barreira de Segurança
+subsection_id: c
+cite: 107.67(c)
+title: 107.67(c)
+text: (c) O acesso a infraestruturas que cruzam área ou perímetro e que permitam ingresso
+  à ARS, tais como valas, dutos e túneis de serviço subterrâneos, devem ser bloqueados e periodicamente
+  inspecionados ou protegidos por dispositivos de detecção de intrusos.
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- area
+- barreira
+- bloqueados
+- cruzam
+- deteccao
+- dispositivos
+- dutos
+- infraestruturas
+- ingresso
+- inspecionados
+- intrusos
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-107-107-65-d
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.65'
+section_title: Pontos Sensíveis
+subsection_id: d
+cite: 107.65(d)
+title: 107.65(d)
+text: '(d) Quando o ponto sensível estiver localizado fora do perímetro patrimonial do aeródromo,
+  deverá ser protegido pela organização encarregada de sua operação.
+
+  (1) No caso de ponto sensível operado pelo operador de aeródromo, este deve atender o parágrafo
+  107.65(b).
+
+  (2) No caso de ponto sensível operado por organização distinta do operador de aeródromo,
+  este deve realizar gestão junto à organização responsável para buscar o atendimento do parágrafo
+  107.65(b).'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- organizacao
+- ponto
+- sensivel
+- caso
+- operado
+- operador
+- paragrafo
+- atender
+- atendimento
+- buscar
+- devera
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

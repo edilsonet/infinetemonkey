@@ -1,0 +1,39 @@
+id: rbac-rbac-110-emd-02-110-29-d
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.29'
+section_title: Requerimento de autorização de centro de instrução
+subsection_id: d
+cite: 110.29(d)
+title: 110.29(d)
+text: '(d) Caso a ANAC identifique falhas no requerimento, concederá oportunidade de correção
+  ao interessado, determinando o prazo de correção de até 60 (sessenta) dias, a contar do
+  comunicado da ANAC.
+
+  (1) A ANAC concederá no máximo duas oportunidades de correção para o requerente ao longo
+  do processo de autorização de centro de instrução, o que corresponde a três avaliações de
+  requerimento realizadas pela ANAC.
+
+  (2) Caso o interessado não protocole na ANAC as devidas correções no prazo fixado pela Agência,
+  a autorização será negada automaticamente e o processo será arquivado.'
+keywords:
+- carga
+- operacoes
+- autorizacao
+- correcao
+- requerimento
+- caso
+- centro
+- concedera
+- instrucao
+- interessado
+- prazo
+- processo
+- agencia
+- arquivado
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

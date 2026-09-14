@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-175-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.175'
+section_title: Requisitos para radar meteorológico de bordo
+subsection_id: b
+cite: 135.175(b)
+title: 135.175(b)
+text: '(b)
+
+  Somente é permitido iniciar um voo a ser conduzido em condições IMC ou noturnas quando as
+  informações meteorológicas conhecidas indicarem que trovoadas ou outras condições meteorológicas
+  potencialmente perigosas e que podem ser detectadas por radar meteorológico têm razoável
+  probabilidade de serem esperadas ao longo da rota a ser voada, se o equipamento de radar
+  meteorológico requerido pelo parágrafo (a) desta seção estiver em condições satisfatórias
+  de operação
+
+  .
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- condicoes
+- meteorologico
+- radar
+- meteorologicas
+- bordo
+- conduzido
+- conhecidas
+- dada
+- desta
+- detectadas
+- equipamento
+- esperadas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

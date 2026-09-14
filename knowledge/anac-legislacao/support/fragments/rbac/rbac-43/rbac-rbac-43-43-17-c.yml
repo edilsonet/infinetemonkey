@@ -1,0 +1,32 @@
+id: rbac-rbac-43-43-17-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.17'
+section_title: podem aprovar o retorno ao serviço de um artigo que tenha sido submetido à
+  manutenção,
+subsection_id: c
+cite: 43.17(c)
+title: 43.17(c)
+text: '(c) Uma organização de manutenção certificada pode aprovar o retorno ao serviço de
+  um artigo,
+
+  como previsto no RBAC 145.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- aprovar
+- artigo
+- retorno
+- servico
+- certificada
+- organizacao
+- pode
+- podem
+- submetido
+- tenha
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

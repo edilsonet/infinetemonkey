@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-101-d
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.101'
+section_title: Determinação dos requisitos aplicáveis
+subsection_id: d
+cite: 21.101(d)
+title: 21.101(d)
+text: (d) Se a ANAC julgar que os regulamentos em vigor na data do requerimento para a modificação
+  não proporcionam requisitos adequados com relação à modificação proposta, face às características
+  novas ou inusitadas do projeto, o requerente deve cumprir também condições especiais e emendas
+  a estas condições especiais, estabelecidas conforme a seção 21.16, para prover um nível
+  de segurança equivalente àquele estabelecido pelos regulamentos vigentes na data do requerimento
+  para a modificação.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- condicoes
+- data
+- especiais
+- regulamentos
+- requerimento
+- requisitos
+- adequados
+- aplicaveis
+- aquele
+- caracteristicas
+- cumprir
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

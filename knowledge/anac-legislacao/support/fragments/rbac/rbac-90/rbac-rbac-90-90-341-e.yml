@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-341-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.341'
+section_title: Requisitos gerais
+subsection_id: e
+cite: 90.341(e)
+title: 90.341(e)
+text: (e) A UAP deverá estabelecer os procedimentos e política de identificação e/ou descarte
+  dos paraquedas, DAA, altímetros, capacetes, cintos de amarração e demais equipamentos de
+  segurança considerados impróprios ou inadequados.
+keywords:
+- regras-de-voo
+- operacoes
+- altimetros
+- amarracao
+- capacetes
+- cintos
+- considerados
+- demais
+- descarte
+- devera
+- equipamentos
+- estabelecer
+- gerais
+- identificacao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,44 @@
+id: rbac-rbac-142-142-61-e
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.61'
+section_title: Requisitos gerais
+subsection_id: e
+cite: 142.61(e)
+title: 142.61(e)
+text: '(e) Quando um voo de exame ou simulação de operação em rota estiver sendo conduzido,
+  o gestor
+
+  responsável do detentor de certificado de CTAC deve assegurar-se que uma das posições de
+  tripulante
+
+  seja ocupada por:
+
+  (1) um tripulante qualificado na categoria da aeronave, se um exame de tipo for requerido,
+
+  desde que nenhum instrutor de voo possa ocupar a posição de tripulante; ou
+
+  (2) um aluno, considerando que só podem ser usados dois alunos em posições de tripulante
+  se
+
+  ambos os alunos estiverem no mesmo curso específico e no desempenho das funções em que
+
+  estiverem habilitados.'
+keywords:
+- tripulante
+- alunos
+- estiverem
+- exame
+- posicoes
+- aeronave
+- aluno
+- ambos
+- assegurar
+- categoria
+- certificado
+- conduzido
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

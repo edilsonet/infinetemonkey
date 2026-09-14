@@ -1,0 +1,45 @@
+id: rbac-rbac-135-a135-25-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.25
+section_title: Equipamentos
+subsection_id: v
+cite: A135.25(v)
+title: A135.25(v)
+text: '(v) um alarme de pressão de óleo para cada motor;
+
+  (vi) um indicador de torque ou um meio adequado para indicar a potência de saída de cada
+  motor;
+
+  (vii) um indicador de alarme de fogo para cada motor;
+
+  (viii) um meio para indicar quando o ângulo das pás da hélice estiver abaixo da posição
+  de passo mínimo correspondente à operação em marcha lenta de voo; e
+
+  (ix) um meio para indicar o funcionamento do sistema de proteção contra gelo de cada motor.
+
+  (2) Para aviões com motores turboélice, o indicador de posição das pás da hélice deve iniciar
+  as indicações quando a pá tiver se movido abaixo da posição de passo mínimo de voo.
+
+  (3) Os seguintes instrumentos são requeridos para aviões com motores convencionais:'
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- motor
+- indicador
+- indicar
+- meio
+- posicao
+- abaixo
+- alarme
+- avioes
+- helice
+- minimo
+- motores
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,23 @@
+id: rbac-rbac-135-135-180-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.180'
+section_title: Sistema embarcado de prevenção de colisões (ACAS)
+subsection_id: body
+cite: '135.180'
+title: Sistema embarcado de prevenção de colisões (ACAS)
+text: 135.180 Sistema embarcado de prevenção de colisões (ACAS)
+keywords:
+- taxi-aereo
+- operacoes
+- acas
+- colisoes
+- embarcado
+- prevencao
+- sistema
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,54 @@
+id: rbac-rbac-107-107-221-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.221'
+section_title: Programa de Controle de Qualidade AVSEC do Aeródromo (PCQ/AVSEC)
+subsection_id: b
+cite: 107.221(b)
+title: 107.221(b)
+text: '(b) O PCQ/AVSEC deve contemplar o seguinte conteúdo mínimo:
+
+  (1) as atribuições dos responsáveis pelo PCQ/AVSEC, bem como dos profissionais designados
+  para atuar no desenvolvimento das atividades de controle de qualidade AVSEC, incluindo critérios
+  de capacitação, seleção e conduta;
+
+  (2) a definição das fontes utilizadas pelo operador de aeródromo para o estabelecimento
+  dos padrões de recursos matérias, medidas e procedimentos de segurança aplicados no aeródromo,
+  os quais serão objeto das atividades de controle de qualidade AVSEC;
+
+  (3) a descrição das atividades de controle de qualidade realizadas pelo operador de aeródromo;
+
+  (4) a descrição dos processos das atividades de controle de qualidade, incluindo seu planejamento,
+  execução, confecção de relatórios, implementação de ações corretivas e monitoramento;
+
+  (5) a descrição de como é produzido o relatório anual das atividades de controle de qualidade,
+  caso aplicável;
+
+  (6) a descrição do sistema confidencial de relatos disponibilizado pelo operador de aeródromo;
+  e
+
+  (7) os procedimentos para arquivo da documentação relacionada às atividades de controle
+  de qualidade AVSEC.
+
+  (Incluído pela Resolução nº 500, de 12.12.2018)'
+keywords:
+- seguranca
+- aeroporto
+- avsec
+- controle
+- qualidade
+- atividades
+- aerodromo
+- descricao
+- operador
+- incluindo
+- procedimentos
+- acoes
+- anual
+- aplicados
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

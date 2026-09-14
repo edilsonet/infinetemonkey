@@ -1,0 +1,58 @@
+id: rbac-rbac-29-29-471-i
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.471'
+section_title: through 29.475.
+subsection_id: i
+cite: 29.471(i)
+title: 29.471(i)
+text: '(i)
+
+  Equal to the vertical loads obtained in the condition specified in paragraph (b) of this
+  section;
+
+  and
+
+  (ii)
+
+  Divided equally among the skids.
+
+  (2)
+
+  The vertical ground reactions must be combined with a horizontal sideload of 25 percent
+  of their
+
+  value.
+
+  (3)
+
+  The total sideload must be applied equally between skids and along the length of the skids.
+
+  (4)
+
+  The unbalanced moments are assumed to be resisted by angular inertia.
+
+  (5)
+
+  The skid gear must be investigated for -'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- must
+- skids
+- equally
+- sideload
+- vertical
+- along
+- among
+- angular
+- applied
+- assumed
+- between
+- combined
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-e-94-e94-103-i
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.103
+section_title: Regras gerais para a operação de aeronaves não tripuladas
+subsection_id: i
+cite: E94.103(i)
+title: E94.103(i)
+text: '(i) se destinem a lançamentos relacionados a atividades de agricultura, horticultura,
+  florestais, controle de avalanche, controle de obstrução por gelo e deslizamentos de terra
+  ou controle de poluição;
+
+  (ii) sejam equipamentos eletrônicos que contenham baterias de lítio necessárias para seu
+  funcionamento, desde que sejam destinadas para uso durante o voo, tais como câmeras fotográficas,
+  filmadoras, computadores etc. Este item não isenta o cumprimento de requisitos de certificação
+  exigidos por outros regulamentos da ANAC;
+
+  (iii) sejam transportados por aeronaves não tripuladas pertencentes a entidades controladas
+  pelo Estado, sob total responsabilidade das referidas entidades, desde que cumpram os dispositivos
+  aplicáveis do RBAC nº 175; ou
+
+  (iv) forem requeridos a bordo da aeronave não tripulada, de acordo com os requisitos pertinentes
+  de aeronavegabilidade e/ou de operações.'
+keywords:
+- controle
+- sejam
+- aeronaves
+- desde
+- entidades
+- requisitos
+- tripuladas
+- acordo
+- aeronave
+- aeronavegabilidade
+- agricultura
+- aplicaveis
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

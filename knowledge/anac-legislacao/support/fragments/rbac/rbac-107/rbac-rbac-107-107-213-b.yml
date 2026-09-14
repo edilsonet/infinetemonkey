@@ -1,0 +1,50 @@
+id: rbac-rbac-107-107-213-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.213'
+section_title: Plano de Contingência de AVSEC do Aeródromo (PCA)
+subsection_id: b
+cite: 107.213(b)
+title: 107.213(b)
+text: '(b) O plano de contingência deve conter:
+
+  (1) as atribuições do operador de aeródromo, no que se refere à condução das ações de contingência;
+
+  (2) a descrição da estrutura disponível para funcionamento do COE e para a realização da
+  comunicação social e o atendimento a familiares de vítimas de atos de interferência ilícita;
+
+  (3) a descrição dos sistemas de comunicação disponíveis para a condução das ações de contingência;
+
+  (4) os procedimentos padronizados de recebimento, disseminação e tratamento das informações;
+
+  (5) as medidas a serem adotadas para mitigar e/ou eliminar as consequências de possíveis
+  ameaças e atos de interferência ilícita, previstas para, no mínimo, os casos de ameaça de
+  bomba em aeronave no solo e em voo, de apoderamento ilícito de aeronave no solo e em voo,
+  de invasão de instalações aeroportuárias ou aeronave, de identificação de objeto suspeito
+  em instalações aeroportuárias ou aeronave e de ameaça de greve ou tumultos de naturezas
+  diversas; e
+
+  (6) a previsão da necessidade de especialistas dos diversos órgãos, conforme suas atribuições
+  legais, inclusive negociadores, especialistas em explosivos, intérpretes e grupos de intervenção
+  armada, que possam ser engajados na resposta a ato de interferência ilícita.'
+keywords:
+- seguranca
+- aeroporto
+- aeronave
+- contingencia
+- ilicita
+- interferencia
+- acoes
+- aerodromo
+- aeroportuarias
+- ameaca
+- atos
+- atribuicoes
+- comunicacao
+- conducao
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

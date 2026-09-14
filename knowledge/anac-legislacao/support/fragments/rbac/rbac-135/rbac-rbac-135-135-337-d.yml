@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-337-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.337'
+section_title: 'Qualificações: examinador em aeronave e examinador em FSTD e/ou outro dispositivo
+  de treinamento aprovado pela ANAC'
+subsection_id: d
+cite: 135.337(d)
+title: 135.337(d)
+text: (d) O atendimento aos requisitos dos parágrafos (b)(2), (3) e (4) ou (c)(2), (3) e (4)
+  desta seção, como aplicáveis, deve ser anotado nos registros de treinamento individuais
+  mantidos pelo detentor de certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- examinador
+- treinamento
+- aeronave
+- anotado
+- aplicaveis
+- aprovado
+- atendimento
+- certificado
+- desta
+- detentor
+- dispositivo
+- fstd
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

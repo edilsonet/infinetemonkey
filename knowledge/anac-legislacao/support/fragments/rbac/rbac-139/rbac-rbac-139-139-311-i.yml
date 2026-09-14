@@ -1,0 +1,39 @@
+id: rbac-rbac-139-139-311-i
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.311'
+section_title: Conteúdo do MOPS
+subsection_id: i
+cite: 139.311(i)
+title: 139.311(i)
+text: '(i) aeronave crítica pretendida;
+
+  (ii) código de referência do aeródromo;
+
+  (iii) tipo de operação em cada cabeceira (IFR precisão, não precisão, VFR); e
+
+  (iv) restrições de classes e tipos de aeronaves e serviços aéreos permitidos no aeródromo,
+  se aplicável;
+
+  (7) procedimentos do operador de aeródromo sobre:'
+keywords:
+- aerodromos
+- infraestrutura
+- aerodromo
+- precisao
+- aereos
+- aeronave
+- aeronaves
+- aplicavel
+- cabeceira
+- cada
+- classes
+- codigo
+- conteudo
+- critica
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

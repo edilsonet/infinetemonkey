@@ -1,0 +1,35 @@
+id: rbac-rbac-43-43-5-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.5'
+section_title: Aprovação para retorno ao serviço após manutenção, manutenção preventiva,
+subsection_id: c
+cite: 43.5(c)
+title: 43.5(c)
+text: '(c) no caso de um reparo ou alteração que tenha acarretado qualquer mudança nas limitações
+
+  operacionais da aeronave ou nos parâmetros de voo contidos no manual de voo aprovado, tais
+
+  limitações ou parâmetros de voo tenham sido apropriadamente revisados e listados, como requerido
+
+  pela seção 91.9 do RBAC nº 91. (Redação dada pela Resolução nº 612, de 09.03.2021)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- limitacoes
+- parametros
+- acarretado
+- aeronave
+- alteracao
+- apropriadamente
+- aprovacao
+- aprovado
+- caso
+- contidos
+- dada
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

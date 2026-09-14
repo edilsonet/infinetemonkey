@@ -1,0 +1,40 @@
+id: rbac-rbac-175-175-103-i
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.103'
+section_title: Classes, divisões, grupos de embalagem - definições
+subsection_id: i
+cite: 175.103(i)
+title: 175.103(i)
+text: '(i) Divisão 1.1: substâncias e artigos com perigo de explosão em massa.
+
+  (ii) Divisão 1.2: substâncias e artigos com perigo de projeção, mas sem perigo de explosão
+
+  em massa.
+
+  (iii) Divisão 1.3: substâncias e artigos com perigo de fogo e com pequeno perigo de explosão
+
+  ou de projeção, ou ambos, mas sem perigo de explosão em massa.
+
+  (iv) Divisão 1.4: substâncias e artigos que não apresentam perigo significativo.'
+keywords:
+- artigos-perigosos
+- carga
+- perigo
+- artigos
+- divisao
+- explosao
+- substancias
+- massa
+- projecao
+- ambos
+- apresentam
+- classes
+- definicoes
+- divisoes
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

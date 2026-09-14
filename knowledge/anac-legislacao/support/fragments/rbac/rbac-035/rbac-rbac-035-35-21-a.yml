@@ -1,0 +1,52 @@
+id: rbac-rbac-035-35-21-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.21'
+section_title: '35.21'
+subsection_id: a
+cite: 35.21(a)
+title: 35.21(a)
+text: '(a) Nenhuma falha simples ou mau funcio-
+
+  namento no sistema da hélice deverá resultar em
+
+  excursão não pretendida das pás da hélice para
+
+  uma posição abaixo da posição de passo mínimo
+
+  de voo. A extensão de qualquer excursão pre-
+
+  tendida abaixo da posição de passo mínimo de
+
+  voo deve ser documentada pelo requerente nos
+
+  manuais apropriados. A falha de elementos es-
+
+  truturais não precisa ser considerada se for de-
+
+  monstrado, de acordo com a seção 35.15 deste
+
+  RBAC, que a ocorrência de tal falha é extrema-
+
+  mente remota.'
+keywords:
+- helices
+- aeronavegabilidade
+- falha
+- posicao
+- abaixo
+- excursao
+- helice
+- minimo
+- passo
+- acordo
+- apropriados
+- considerada
+- deste
+- devera
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

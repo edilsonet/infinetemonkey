@@ -1,0 +1,33 @@
+id: rbac-rbac-135-a135-27-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.27
+section_title: Equipamentos e sistemas elétricos
+subsection_id: b
+cite: A135.27(b)
+title: A135.27(b)
+text: (b) Instalações e equipamentos elétricos. Equipamentos, fiações e controles elétricos
+  devem ser instalados de modo que a operação de qualquer unidade ou sistema de unidades não
+  afete adversamente a operação simultânea de qualquer outra unidade ou sistema elétrico essencial
+  à segurança das operações.
+keywords:
+- taxi-aereo
+- operacoes
+- eletricos
+- equipamentos
+- operacao
+- sistema
+- unidade
+- a135
+- adversamente
+- afete
+- controles
+- eletrico
+- essencial
+- fiacoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

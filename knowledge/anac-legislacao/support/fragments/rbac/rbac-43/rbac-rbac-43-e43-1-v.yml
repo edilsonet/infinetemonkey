@@ -1,0 +1,59 @@
+id: rbac-rbac-43-e43-1-v
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: E43.1
+section_title: Testes e inspeções do sistema do altímetro
+subsection_id: v
+cite: E43.1(v)
+title: E43.1(v)
+text: '(v) Vazamento de caixa. Os vazamentos de caixa do altímetro, quando a sua pressão
+
+  interna corresponder àquela a 18.000 pés (5.486,4 m) de altitude, não devem alterar a leitura
+  do
+
+  instrumento mais do que a tolerância prevista na Tabela II deste apêndice durante um período
+  de 1
+
+  minuto;
+
+  (vi) Erro da escala barométrica. A uma pressão atmosférica constante, a escala da pressão
+
+  barométrica deve ser ajustada a cada uma das pressões (contidas dentro da sua faixa de ajuste)
+  que
+
+  são listadas na Tabela IV deste apêndice, e deve fazer com que o ponteiro indique a diferença
+  de
+
+  pressão equivalente mostrada na Tabela IV deste apêndice com uma tolerância de 25 pés (7,62
+  m);
+
+  e
+
+  (2) os altímetros que constituem parte de um sistema de computação de dados aerodinâmicos
+
+  ou que possuem incorporados internamente um sistema de correção de dados aerodinâmicos devem
+
+  ser testados da maneira descrita em, e de acordo com, as especificações desenvolvidas pelo
+
+  fabricante, que são aceitas pela ANAC.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- pressao
+- apendice
+- deste
+- sistema
+- tabela
+- aerodinamicos
+- altimetro
+- barometrica
+- caixa
+- dados
+- escala
+- tolerancia
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

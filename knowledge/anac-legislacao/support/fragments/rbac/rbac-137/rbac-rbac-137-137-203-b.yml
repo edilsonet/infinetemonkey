@@ -1,0 +1,31 @@
+id: rbac-rbac-137-137-203-b
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.203'
+section_title: Requisitos de manutenção
+subsection_id: b
+cite: 137.203(b)
+title: 137.203(b)
+text: (b) O operador aeroagrícola deve garantir que as tarefas executadas sejam realizadas
+  de acordo com as instruções de manutenção do fabricante, com a utilização de dados técnicos
+  aprovados e ferramentas e instalações adequadas.
+keywords:
+- aeroagricola
+- operacoes
+- manutencao
+- acordo
+- adequadas
+- aprovados
+- dados
+- executadas
+- fabricante
+- ferramentas
+- garantir
+- instalacoes
+- instrucoes
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

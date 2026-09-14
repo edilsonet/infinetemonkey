@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-709-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.709'
+section_title: Garantia da segurança operacional
+subsection_id: c
+cite: 135.709(c)
+title: 135.709(c)
+text: '(c) Processo de melhoria contínua do SGSO.
+
+  (1) O detentor de certificado deve monitorar e avaliar a efetividade dos processos do SGSO
+  de modo a permitir a melhoria contínua do desempenho global do sistema.'
+keywords:
+- taxi-aereo
+- operacoes
+- continua
+- melhoria
+- sgso
+- avaliar
+- certificado
+- desempenho
+- detentor
+- efetividade
+- garantia
+- global
+- modo
+- monitorar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

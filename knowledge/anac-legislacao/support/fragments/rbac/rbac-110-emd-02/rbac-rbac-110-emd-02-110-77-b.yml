@@ -1,0 +1,59 @@
+id: rbac-rbac-110-emd-02-110-77-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.77'
+section_title: Plano de Instrução AVSEC (PIAVSEC)
+subsection_id: b
+cite: 110.77(b)
+title: 110.77(b)
+text: '(b) No PIAVSEC devem constar as seguintes descrições:
+
+  (1) política e objetivo do programa de instrução;
+
+  (2) conteúdo programático;
+
+  (3) grade curricular dos cursos;
+
+  (4) referências bibliográficas e documentos normativos ou regulamentares;
+
+  (5) responsabilidades e procedimentos de seleção dos profissionais nos termos deste regulamento
+  e conferência dos requisitos para desempenho de atividades AVSEC previstos no item 110.11
+  deste RBAC;
+
+  (6) responsabilidades e procedimentos de reciclagem;
+
+  (7) responsabilidades e procedimentos de realização do Treinamento em Serviço;
+
+  (8)responsabilidades e procedimentos de apresentação de cada modelo de aeronave que opera,
+  para fins de verificação e inspeção de aeronaves, aplicável aos operadores aéreos;
+
+  (9) responsabilidades e procedimentos do controle de capacitação dos profissionais que desempenharem
+  atividade AVSEC em seu benefício;
+
+  (10) responsabilidades e procedimentos relativos ao nível de sigilo, arquivo e guarda dos
+  registros, identificando a forma e local de armazenamento para os documentos requeridos
+  no item 110.79 e para o material de referência que requeira tratamento sigiloso; e
+
+  (11) detalhamento dos requisitos de instrução a serem cumpridos pelos prestadores de serviço
+  com as quais as organizações com responsabilidade AVSEC mantenham relações contratuais.'
+keywords:
+- carga
+- operacoes
+- procedimentos
+- responsabilidades
+- avsec
+- instrucao
+- deste
+- documentos
+- piavsec
+- profissionais
+- requisitos
+- servico
+- aereos
+- aeronave
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

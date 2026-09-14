@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-99-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.99'
+section_title: Modificações de projeto obrigatórias
+subsection_id: b
+cite: 21.99(b)
+title: 21.99(b)
+text: (b) No caso em que não existam condições inseguras, mas que a ANAC ou o detentor do
+  certificado de tipo considerar, através da experiência obtida em serviço, que modificações
+  no projeto de tipo irão contribuir para a segurança do produto, o detentor do certificado
+  pode requerer a aprovação de tais modificações. Após tal aprovação, o fabricante deve colocar
+  à disposição os dados descritivos de tais modificações a todos os operadores do produto
+  a ser modificado. (Redação dada pela Resolução nº 495, de 14.11.2018)
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacoes
+- aprovacao
+- certificado
+- detentor
+- produto
+- tais
+- tipo
+- atraves
+- caso
+- colocar
+- condicoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

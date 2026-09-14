@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-347-l
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: l
+cite: 155.347(l)
+title: 155.347(l)
+text: '(l)
+
+  A distribuição de intensidade de luz do HAPI, nas cores vermelho e verde, deve ser como
+  indicado no Apêndice C, Ilustração 4. Uma maior cobertura de azimute pode ser obtida por
+  meio de instalação de um sistema HAPI sobre uma mesa giratória.'
+keywords:
+- seguranca-aeroportuaria
+- hapi
+- apendice
+- aproximacao
+- azimute
+- cobertura
+- cores
+- distribuicao
+- giratoria
+- ilustracao
+- indicado
+- indicador
+- instalacao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

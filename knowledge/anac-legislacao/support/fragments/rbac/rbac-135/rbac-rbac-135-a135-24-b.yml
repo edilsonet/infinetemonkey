@@ -1,0 +1,33 @@
+id: rbac-rbac-135-a135-24-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.24
+section_title: Proteção do grupo motopropulsor contra fogo
+subsection_id: b
+cite: A135.24(b)
+title: A135.24(b)
+text: (b) Proteção contra fogo. Capota e revestimento da nacele do motor. Para aviões com
+  motores convencionais, a capota do motor deve ser projetada e construída de modo que nenhum
+  incêndio originado no compartimento do motor possa entrar, seja através de aberturas seja
+  por invasão, em outras áreas onde possa criar riscos adicionais.
+keywords:
+- taxi-aereo
+- operacoes
+- motor
+- capota
+- contra
+- fogo
+- possa
+- protecao
+- seja
+- a135
+- aberturas
+- adicionais
+- areas
+- atraves
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

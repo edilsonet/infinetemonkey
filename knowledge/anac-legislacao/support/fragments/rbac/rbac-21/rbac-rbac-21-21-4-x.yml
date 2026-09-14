@@ -1,0 +1,33 @@
+id: rbac-rbac-21-21-4-x
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.4'
+section_title: Requisitos para comunicação de ocorrências em operação prolongada (ETOPS)
+subsection_id: x
+cite: 21.4(x)
+title: 21.4(x)
+text: (x) qualquer remoção não programada de motor devido a condições que possam causar uma
+  das ocorrências listadas neste parágrafo.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ocorrencias
+- causar
+- comunicacao
+- condicoes
+- devido
+- etops
+- listadas
+- motor
+- operacao
+- paragrafo
+- possam
+- programada
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

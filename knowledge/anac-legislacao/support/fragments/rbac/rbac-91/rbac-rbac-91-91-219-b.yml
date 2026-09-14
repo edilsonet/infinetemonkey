@@ -1,0 +1,35 @@
+id: rbac-rbac-91-91-219-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.219'
+section_title: Dispositivo ou sistema de alerta de altitude. Aviões civis a reação
+subsection_id: b
+cite: 91.219(b)
+title: 91.219(b)
+text: '(b) Cada dispositivo ou sistema de alerta de altitude requerido pelo parágrafo (a)
+  desta seção deve
+
+  ser capaz de:
+
+  (1) alertar o piloto:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- alerta
+- altitude
+- dispositivo
+- sistema
+- alertar
+- avioes
+- cada
+- capaz
+- civis
+- desta
+- paragrafo
+- piloto
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

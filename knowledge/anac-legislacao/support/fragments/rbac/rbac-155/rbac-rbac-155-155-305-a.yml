@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-305-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.305'
+section_title: '155.305'
+subsection_id: a
+cite: 155.305(a)
+title: 155.305(a)
+text: '(a)
+
+  Todo heliponto cuja FATO seja do tipo pista de pouso e decolagem deve possuir uma sinalização
+  horizontal de identificação de heliponto.'
+keywords:
+- seguranca-aeroportuaria
+- heliponto
+- cuja
+- decolagem
+- fato
+- horizontal
+- identificacao
+- pista
+- possuir
+- pouso
+- seja
+- sinalizacao
+- tipo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

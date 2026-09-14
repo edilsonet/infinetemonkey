@@ -1,0 +1,69 @@
+id: rbac-rbac-145-145-214-i-c
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: 145.214-I
+section_title: Sistema de Gerenciamento da Segurança Operacional - SGSO
+subsection_id: c
+cite: 145.214-I(c)
+title: 145.214-I(c)
+text: '(c) O SGSO de cada organização de manutenção certificada deve conter, no mínimo, processos
+
+  sistemáticos e procedimentos documentados que permitam:
+
+  (1) identificar perigos relacionados à segurança operacional e avaliar os riscos associados,
+  em
+
+  termos da severidade de suas consequências e da probabilidade de ocorrência;
+
+  (2) assegurar que sejam adotadas todas as medidas necessárias para a manutenção do nível
+
+  aceitável de segurança operacional, incluindo o gerenciamento dos riscos associados aos
+  perigos
+
+  identificados;
+
+  (3) manter a supervisão permanente de suas atividades de modo a assegurar a percepção das
+
+  condições da segurança operacional, permitindo ações preventivas ou corretivas eficazes;
+
+  (4) avaliar continuamente, por meio de um sistema de indicadores, o nível de desempenho
+  de
+
+  segurança operacional alcançado e o próprio sistema;
+
+  (5) gerenciar mudanças significativas em suas atividades, avaliando seus impactos para a
+
+  segurança operacional (processo de gerenciamento de mudanças);
+
+  (6) avaliações periódicas dos processos e do SGSO, bem como a sua melhoria contínua;
+
+  (7) estimular e facilitar relatos voluntários (inclusive anônimos) por parte de funcionários
+  e
+
+  demais pessoas que tenham contato com a organização ou seus serviços, de situações ou
+
+  ocorrências que possam comprometer a segurança operacional; e
+
+  (8) realizar os treinamentos necessários ao funcionamento efetivo do SGSO, e uma ampla
+
+  disseminação das informações relevantes sobre o sistema e a segurança operacional na organização.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- operacional
+- seguranca
+- sgso
+- sistema
+- gerenciamento
+- organizacao
+- assegurar
+- associados
+- atividades
+- avaliar
+- mudancas
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

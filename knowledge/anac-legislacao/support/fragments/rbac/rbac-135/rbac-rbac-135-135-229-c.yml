@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-229-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.229'
+section_title: Requisitos de aeródromo e de áreas de pouso e decolagem não cadastradas
+subsection_id: c
+cite: 135.229(c)
+title: 135.229(c)
+text: (c) Para os propósitos do parágrafo (b) desta seção, se a área a ser utilizada para
+  decolagem ou pouso for marcada por lampiões ou candeeiros, seu uso deve ser aprovado pela
+  ANAC.
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- pouso
+- aerodromo
+- aprovado
+- area
+- areas
+- cadastradas
+- candeeiros
+- desta
+- lampioes
+- marcada
+- paragrafo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-135-a135-19-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.19
+section_title: Componentes do sistema de combustível
+subsection_id: c
+cite: A135.19(c)
+title: A135.19(c)
+text: (c) Proteção contra impacto de raio. Deve ser provida proteção contra a ignição de vapores
+  inflamáveis de combustível, emanados do sistema de respiros, devido a impacto de raios.
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- contra
+- impacto
+- protecao
+- sistema
+- a135
+- componentes
+- devido
+- emanados
+- ignicao
+- inflamaveis
+- provida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,45 @@
+id: rbac-rbac-129-129-17-b
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.17'
+section_title: Equipamento rádio
+subsection_id: b
+cite: 129.17(b)
+title: 129.17(b)
+text: '(b) Nenhuma empresa estrangeira de transporte aéreo sujeita a este Regulamento pode
+  operar uma aeronave sob IFR ou acima da camada de nuvens, a não ser que esteja equipada
+  com:
+
+  (1) at least two independent communication systems necessary under normal operating conditions
+  to fulfill the functions specified in § 121.347(a) of RBAC nº 121; and
+
+  (1) pelo menos dois sistemas de comunicação independentes necessários sob condições normais
+  de operação que atendam às funções especificadas no parágrafo 121.347(a) do RBAC nº 121;
+  e
+
+  (2) at least one of the communication systems required by paragraph (b)(1) of this section
+  must have two-way voice communication capability.
+
+  (2) pelo menos um dos sistemas de comunicação requeridos pelo parágrafo (b)(1) desta seção
+  deve possuir capacidade de comunicação em duas vias.'
+keywords:
+- operador-estrangeiro
+- operacoes
+- communication
+- comunicacao
+- least
+- menos
+- paragrafo
+- sistemas
+- systems
+- acima
+- aereo
+- aeronave
+- atendam
+- camada
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

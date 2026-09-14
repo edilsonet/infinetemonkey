@@ -1,0 +1,599 @@
+id: rbac-rbac-60-60-3-c
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.3'
+section_title: Definições
+subsection_id: c
+cite: 60.3(c)
+title: 60.3(c)
+text: '(c) Para os propósitos deste regulamento,
+
+  são válidas as seguintes definições e
+
+  expressões:
+
+  (1)
+
+  Special
+
+  evaluation.
+
+  A
+
+  FSTD
+
+  evaluation for purposes other than initial,
+
+  upgrade or continuing qualification.
+
+  (1) Avaliação especial. Uma avaliação
+
+  de FSTD para propósitos outros do que
+
+  inicial, elevação de nível ou recorrente.
+
+  (2) Predicted data. Estimations or
+
+  extrapolations of existing flight test data or
+
+  data from other simulation models using
+
+  engineering analyses, engineering simulations,
+
+  design data, or wind tunnel data.
+
+  (2) Dados estimados. Estimativas ou
+
+  extrapolações de dados de ensaio em voo, ou
+
+  dados de outros modelos de simulação
+
+  utilizando
+
+  análises
+
+  e
+
+  simulações
+
+  de
+
+  engenharia, dados de projeto ou de túnel de
+
+  vento.
+
+  (3) Statement of Compliance (SOC). A
+
+  declaration that a specific requirement has
+
+  been met and explaining how the requirement
+
+  was met.
+
+  (3)
+
+  Declaração
+
+  de
+
+  conformidade
+
+  (SOC). Uma declaração atestando que um
+
+  requisito específico é cumprido e como ele é
+
+  cumprido.
+
+  (4) Flight simulation training device
+
+  (FSTD). A full flight simulator (FFS), a flight
+
+  (4) Dispositivo de treinamento para
+
+  simulação de voo (FSTD). Um simulador de
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  training device (FTD) or an aviation training
+
+  device (ATD).
+
+  voo (FFS), um dispositivo de treinamento de
+
+  voo (FTD) ou um treinador de voo por
+
+  instrumentos (ATD).
+
+  (5) Flight training device (FTD). A
+
+  replica of aircraft instruments, equipment,
+
+  panels, and controls in an open flight deck area
+
+  or an enclosed aircraft flight deck replica. It
+
+  includes
+
+  the
+
+  equipment
+
+  and
+
+  computer
+
+  programs necessary to represent aircraft (or set
+
+  of aircraft) operations in ground and flight
+
+  conditions having the full range of capabilities
+
+  of the systems installed in the device as
+
+  described in this RBAC and the qualification
+
+  performance standard (QPS) for a specific
+
+  FTD qualification level.
+
+  (5) Dispositivo de treinamento de voo
+
+  (FTD). Consiste em uma réplica dos
+
+  instrumentos,
+
+  equipamentos,
+
+  painéis
+
+  e
+
+  controles de uma aeronave em uma área
+
+  confinada ou não da cabine de pilotagem.
+
+  Inclui
+
+  os
+
+  equipamentos
+
+  e
+
+  programas
+
+  necessários para representar a operação da
+
+  aeronave em solo e em voo, tendo toda a
+
+  capacidade dos sistemas instalados no
+
+  dispositivo conforme descrito neste RBAC e
+
+  nos
+
+  requisitos
+
+  de
+
+  desempenho
+
+  para
+
+  qualificação (QPS) para um nível específico
+
+  de qualificação de FTD.
+
+  (6) Qualification Test Guide (QTG). The
+
+  primary
+
+  reference
+
+  document
+
+  used
+
+  for
+
+  evaluating an aircraft FSTD. It contains test
+
+  results,
+
+  statements
+
+  of
+
+  compliance
+
+  and
+
+  capability, the configuration of the aircraft
+
+  simulated and other information for the
+
+  evaluator to assess the FSTD against the
+
+  applicable regulatory criteria.
+
+
+  (6) Guia de Testes de Qualificação
+
+  (QTG). Documento primário de referência
+
+  utilizado para avaliar um FSTD de uma
+
+  aeronave. Contém os resultados de testes,
+
+  declarações de conformidade e capacidade, a
+
+  configuração da aeonave simulada e outras
+
+  informações para o avaliador julgar o FSTD
+
+  de acordo com os critérios regulatórios
+
+  aplicáveis.
+
+  (7) Master Qualification Test Guide
+
+  (MQTG). The ANAC-approved Qualification
+
+  Test Guide with the addition of the ANAC-
+
+  witnessed test results, applicable to each
+
+  individual FSTD.
+
+
+  (7)
+
+  Guia
+
+  Mestre
+
+  de
+
+  Testes
+
+  de
+
+  Qualificação (MQTG). O Guia de Testes de
+
+  Qualificação,
+
+  aprovado
+
+  pela
+
+  ANAC,
+
+  adicionado
+
+  dos
+
+  resultados
+
+  dos
+
+  testes
+
+  presenciados pela ANAC, aplicável a cada
+
+  FSTD individual.
+
+  (8) Sponsor. A certificate holder who
+
+  seeks or maintains FSTD qualification and is
+
+  responsible for the prescribed actions as
+
+  prescribed in this regulation.
+
+
+  (8) Operador de FSTD. Um detentor de
+
+  certificado que solicita ou possui um FSTD
+
+  qualificado, responsável pelas atribuições
+
+  impostas por este regulamento.
+
+  (9) Approved training program. An
+
+  ANAC-approved training program or course
+
+  for an aircraft of a certificate holder or a public
+
+  body.
+
+
+  (9)
+
+  Programa
+
+  de
+
+  treinamento
+
+  aprovado. Programa de treinamento ou curso
+
+  de uma aeronave, aprovado pela ANAC, para
+
+  um detentor de certificado ou órgão público.
+
+  (10) Management representative. A
+
+  person designated by the sponsor to serves as
+
+  the primary contact point for all matters
+
+  between the sponsor and the ANAC.
+
+
+  (10)
+
+  Representante
+
+  do
+
+  operador.
+
+  Pessoa designada pelo operador para ser o
+
+  contato primário para todos os assuntos entre
+
+  o operador e a ANAC.
+
+  (11)
+
+  Qualification
+
+  Performance
+
+  Standard (QPS). The collection of procedures
+
+  and criteria used when conducting objective
+
+
+  (11) Requisitos de Desempenho para
+
+  Qualificação
+
+  (QPS).
+
+  Conjunto
+
+  de
+
+  procedimentos e critérios utilizados na
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  and subjective tests, to establish FSTD
+
+  qualification levels.
+
+  condução de testes objetivos e subjetivos,
+
+  para estabelecer níveis de qualificação de
+
+  FSTD.
+
+  (12) Full flight simulator (FFS). A
+
+  replica of a specific type, make, model, or
+
+  series aircraft. It includes the equipment and
+
+  software necessary to represent aircraft
+
+  operations in ground and flight conditions, and
+
+  has the full range of capabilities of the systems
+
+  installed in the device as described in this
+
+  RBAC and the QPS for a specific FFS
+
+  qualification level.
+
+
+  (12) Simulador de voo (FFS). Consiste
+
+  em
+
+  uma
+
+  réplica
+
+  dos
+
+  instrumentos,
+
+  equipamentos, painéis e controles do tipo
+
+  específico ou do modelo e série de uma
+
+  aeronave.
+
+  Inclui
+
+  os
+
+  equipamentos
+
+  e
+
+  programas necessários para representar a
+
+  operação da aeronave em solo e em voo,
+
+  tendo toda a capacidade dos sistemas
+
+  instalados no dispositivo conforme descrito
+
+  neste regulamento e no QPS para um nível
+
+  específico de qualificação de FFS.
+
+  (13) Quality management system (QMS).
+
+  A flight simulation quality-systems that can be
+
+  used for external quality-assurance purposes. It
+
+  is designed to identify the processes needed;
+
+  determine the sequence and interaction of the
+
+  processes; determine criteria and methods
+
+  required to ensure the effective operation and
+
+  control of the processes; ensure the availability
+
+  of information necessary to support the
+
+  operation and monitoring of the processes;
+
+  measure, monitor and analyze the processes;
+
+  and implement the actions necessary to achieve
+
+  planned results.
+
+
+  (13) Sistema de gerenciamento da
+
+  qualidade (QMS). Um sistema de qualidade
+
+  que pode ser utilizado para propósitos de
+
+  garantia da qualidade em auditorias externas.
+
+  É concebido para identificar a necessidade de
+
+  processos específicos; determinar a sequência
+
+  e interação entre os processos; determinar os
+
+  critérios e métodos para garantir a efetiva
+
+  operação e controle dos processos; garantir a
+
+  disponibilidade da informação para suportar a
+
+  operação e monitorar os processos; mensurar,
+
+  monitorar e analisar os processos; e
+
+  implementar as ações necessárias para
+
+  alcançar os resultados planejados.
+
+  (14) Objective test. A quantitative
+
+  measurement
+
+  and
+
+  evaluation
+
+  of
+
+  FSTD
+
+  performance.
+
+  (14) Testes objetivos. Consiste em uma
+
+  medida
+
+  e
+
+  avaliação
+
+  quantitativa
+
+  do
+
+  desempenho de um FSTD.
+
+  (15) Subjective test. A qualitative
+
+  assessment of the performance and operation
+
+  of the FSTD.
+
+  (15) Testes subjetivos. Consiste em uma
+
+  análise qualitativa do desempenho e operação
+
+  de um FSTD.
+
+  (16) Aviation training device (ATD). A
+
+  device designed to simulate an instrument
+
+  flight in a class aircraft.
+
+  (16) Treinador de voo por instrumento
+
+  (ATD). Dispositivo com o qual é possível
+
+  simular a operação de uma aeronave classe
+
+  em um voo por instrumentos.
+
+  (17) FSTD use means use, permit the use
+
+  or offer the use of a FSTD in order to fulfill
+
+  requirements of flight training, proficiency
+
+  exam or obtaining flight experience to comply
+
+  with any RBAC requirements.
+
+  (17) Utilizar um FSTD. Utilizar,
+
+  permitir o uso ou oferecer o uso de um FSTD
+
+  com o fim de cumprir requisitos de
+
+  treinamento de voo, exame de proficiência ou
+
+  para obtenção de experiência de voo de
+
+  tripulantes, para cumprir qualquer requisito
+
+  estabelecido em um RBAC.
+
+
+  Data da emissão: 20 de março de 2020.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- flight
+- aircraft
+- qualification
+- data
+- device
+- qualificacao
+- test
+- testes
+- training
+- aeronave
+- dispositivo
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

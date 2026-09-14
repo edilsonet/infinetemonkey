@@ -1,0 +1,51 @@
+id: rbac-rbac-91-91-611-i
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.611'
+section_title: Autorização para voo de traslado com um motor inoperante
+subsection_id: i
+cite: 91.611(i)
+title: 91.611(i)
+text: '(i) trem de pouso baixado;
+
+  (ii) o motor crítico inoperante com sua hélice removida ou na configuração escolhida pelo
+
+  operador, se aplicável; e
+
+  (iii) os demais motores operando a não mais que a potência selecionada para a certificação
+
+  de tipo de aeronave, conforme definido na seção 25.101 do RBAC nº 25;
+
+  (3) devem ser estabelecidos procedimentos de decolagem, cruzeiro e pouso tais como ajustes
+
+  aproximados para os compensadores, métodos de aplicação de potência, potência máxima e
+
+  velocidades apropriadas. O avião deve ser satisfatoriamente controlável durante toda a corrida
+  de
+
+  decolagem quando operando de acordo com esses procedimentos;
+
+  (4) o desempenho deve ser determinado com um peso máximo não maior que o peso
+
+  determinado segundo o parágrafo 25.121(c) do RBAC nº 25, mas com:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- potencia
+- decolagem
+- determinado
+- inoperante
+- motor
+- operando
+- peso
+- pouso
+- procedimentos
+- acordo
+- aeronave
+- ajustes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

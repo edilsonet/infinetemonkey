@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-151-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.151'
+section_title: Gravador de voz na cabine
+subsection_id: f
+cite: 135.151(f)
+title: 135.151(f)
+text: '(f) Todos os aviões sujeitos aos parágrafos (a) ou (b) desta seção, que forem fabricados
+  antes de 7 de abril de 2012 e que sejam obrigados a ter um gravador em conformidade com
+  a seção 135.152, devem ter um gravador de voz, que também:
+
+  (1) atenda aos requisitos 23.1457 (d)(6), do RBAC nº 23, ou 25.1457 (d)(6) do RBAC nº 25,
+  conforme aplicável; e
+
+  (2) se a aeronave for categoria transporte, com os requisitos dos parágrafos 25.1457 (a)(3),
+  (a)(4) e (a)(5) do RBAC nº 25.'
+keywords:
+- taxi-aereo
+- operacoes
+- gravador
+- paragrafos
+- requisitos
+- secao
+- abril
+- aeronave
+- aplicavel
+- atenda
+- avioes
+- cabine
+- categoria
+- conformidade
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-139-139-109-b
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.109'
+section_title: Especificações operativas
+subsection_id: b
+cite: 139.109(b)
+title: 139.109(b)
+text: '(b) O Certificado Operacional de Aeroporto poderá conter restrições em suas especificações
+  operativas, quando fundamentadas, referentes a:
+
+  (1) classes e tipos de aeronaves; e
+
+  (2) serviços aéreos.'
+keywords:
+- aerodromos
+- infraestrutura
+- especificacoes
+- operativas
+- aereos
+- aeronaves
+- aeroporto
+- certificado
+- classes
+- conter
+- fundamentadas
+- operacional
+- referentes
+- restricoes
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

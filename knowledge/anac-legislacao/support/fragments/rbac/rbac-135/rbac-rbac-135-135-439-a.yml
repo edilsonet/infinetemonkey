@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-439-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.439'
+section_title: Requisitos de registros de manutenção
+subsection_id: a
+cite: 135.439(a)
+title: 135.439(a)
+text: '(a) O detentor de certificado deve conservar (usando o sistema especificado no manual
+  requerido pela seção 135.427) os seguintes registros de manutenção, pelos períodos de tempo
+  especificados no parágrafo (b) desta seção:
+
+  (1) todos os registros necessários para demonstrar que todos os requisitos para emissão
+  de uma liberação de aeronavegabilidade conforme requerido pela seção 135.443 foram atendidos;
+
+  (2) registros contendo as seguintes informações:'
+keywords:
+- taxi-aereo
+- operacoes
+- registros
+- secao
+- manutencao
+- requerido
+- requisitos
+- seguintes
+- todos
+- aeronavegabilidade
+- atendidos
+- certificado
+- conservar
+- contendo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

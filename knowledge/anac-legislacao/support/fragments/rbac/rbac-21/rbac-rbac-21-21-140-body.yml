@@ -1,0 +1,44 @@
+id: rbac-rbac-21-21-140-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.140'
+section_title: Inspeções e ensaios
+subsection_id: body
+cite: '21.140'
+title: Inspeções e ensaios
+text: '21.140 Inspeções e ensaios
+
+  Cada requerente ou detentor de um certificado de organização de produção deve permitir que
+  a ANAC inspecione seu sistema da qualidade, instalações, dados técnicos e quaisquer produtos
+  ou artigos fabricados e testemunhe quaisquer ensaios, incluindo qualquer inspeção ou ensaios
+  nas instalações de fornecedores, necessárias para determinar a conformidade com os RBAC
+  aplicáveis.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- inspecoes
+- instalacoes
+- quaisquer
+- aplicaveis
+- artigos
+- cada
+- certificado
+- conformidade
+- dada
+- dados
+- detentor
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

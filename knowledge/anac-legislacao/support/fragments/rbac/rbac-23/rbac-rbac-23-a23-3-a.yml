@@ -1,0 +1,74 @@
+id: rbac-rbac-23-a23-3-a
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: A23.3
+section_title: Conteúdo
+subsection_id: a
+cite: A23.3(a)
+title: A23.3(a)
+text: '(a) Manual ou seção de manutenção do avião.
+
+  (1) Informação introdutória que inclua uma
+
+  explicação dos dados e das características do
+
+  avião na medida necessária para manutenção
+
+  ou manutenção preventiva;
+
+  (2) Uma descrição do avião e seus sistemas e
+
+  instalações, incluindo seus motores, hélices e
+
+  equipamentos;
+
+  (3) Informações básicas de controle e operação
+
+  descrevendo como os componentes e sistemas
+
+  do avião são controlados e como eles operam,
+
+  incluindo quaisquer procedimentos especiais e
+
+  limitações aplicáveis;
+
+  (4) Informações de serviço que cubram deta-
+
+  lhes sobre pontos de serviço, capacidades de
+
+  tanques, reservatórios, tipos de fluidos a serem
+
+  utilizados, pressões aplicáveis aos vários siste-
+
+  mas, localização dos painéis de acesso para
+
+  inspeção e serviço, pontos de lubrificação, lu-
+
+  brificantes a serem usados, equipamentos ne-
+
+  cessários para serviço, instruções e limitações
+
+  de reboque, informações de amarração, levan-
+
+  tamento e nivelamento.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- aviao
+- servico
+- informacoes
+- manutencao
+- aplicaveis
+- equipamentos
+- incluindo
+- limitacoes
+- pontos
+- serem
+- sistemas
+- acesso
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

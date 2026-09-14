@@ -1,0 +1,90 @@
+id: rbac-rbac-154-154-109-a
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.109'
+section_title: Dimensões do aeródromo e informações correlatas
+subsection_id: a
+cite: 154.109(a)
+title: 154.109(a)
+text: '(a) Os dados a seguir devem ser medidos ou, quando não dependerem de medição, descritos
+  para
+
+  cada facilidade existente em um aeródromo:
+
+  (1) pista de pouso e decolagem - azimute verdadeiro com precisão de um centésimo de grau,
+
+  número de designação das cabeceiras, extensão, largura, localização da cabeceira recuada
+  com
+
+  precisão de um metro, declividade, tipo de superfície do pavimento, tipo de pista de pouso
+  e
+
+  decolagem e, para pistas de aproximação de precisão Categoria I, a existência de uma zona
+  livre de
+
+  obstáculos (OFZ), se houver;
+
+  (2) faixa de pista/área de segurança de fim de pista (RESA)/zona de parada (stopway) -
+
+  comprimento, largura, com precisão de um metro, tipo de superfície do pavimento;
+
+  (3) pista de táxi - designação, largura, tipo de superfície do pavimento;
+
+  (4) pátio de aeronaves - tipo de superfície do pavimento, posições de estacionamento de
+
+  aeronaves;
+
+  (5) limites do serviço de controle de tráfego aéreo;
+
+  (6) zona desimpedida (clearway) - extensão com precisão de um metro, perfil do terreno;
+
+  (7) auxílios visuais para procedimentos de aproximação, sinalização horizontal e luminosa
+  da
+
+  pista(s) de pouso e decolagem, pista(s) de táxi e pátios de aeronaves, outros auxílios de
+  orientação
+
+  visual e de controle em pista(s) de táxi e pátios de aeronaves, incluindo posições de espera
+  em pista(s)
+
+  de táxi e barras de parada, além da localização e tipo dos sistemas de orientação visual
+  para
+
+  estacionamento;
+
+  (8) localização e frequência de auxílio-rádio de qualquer ponto de teste de VOR do aeródromo;
+
+  (9) localização e designação de rotas padrão de táxi;
+
+  (10) distâncias, com precisão de um metro, dos elementos do localizador e do indicador de
+
+  trajetória de planeio que integram o sistema de pouso por instrumento (ILS), ou o azimute
+  e a antena
+
+  de elevação do sistema de pouso por micro-ondas (MLS) em relação às extremidades da respectiva
+
+  pista de pouso e decolagem; e
+
+  (11) sistema de desaceleração de aeronaves - descrição e localização (em qual cabeceira
+  da
+
+  pista encontra-se instalado).'
+keywords:
+- seguranca-aeroportuaria
+- pista
+- pouso
+- precisao
+- tipo
+- aeronaves
+- localizacao
+- taxi
+- decolagem
+- metro
+- pavimento
+- superficie
+- aerodromo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

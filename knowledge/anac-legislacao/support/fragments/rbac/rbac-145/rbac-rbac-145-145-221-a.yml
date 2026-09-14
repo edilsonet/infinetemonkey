@@ -1,0 +1,41 @@
+id: rbac-rbac-145-145-221-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.221'
+section_title: Relatórios de dificuldade em serviço
+subsection_id: a
+cite: 145.221(a)
+title: 145.221(a)
+text: '(a) Cada organização de manutenção certificada deve relatar à ANAC e ao detentor do
+  projeto de
+
+  tipo, projeto suplementar de tipo ou certificado de produto aeronáutico aprovado qualquer
+  evento
+
+  sério de falha, mau funcionamento, defeito e outros eventos definidos pela ANAC, em até
+  96
+
+  (noventa e seis) horas após a sua descoberta. O relatório deve ser feito em um formato aceitável
+
+  pela ANAC. (Redação dada pela Resolução nº 610, de 23.02.2021)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- projeto
+- tipo
+- aceitavel
+- aeronautico
+- aprovado
+- cada
+- certificada
+- certificado
+- dada
+- defeito
+- definidos
+- descoberta
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-361-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.361'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 90.361(b)
+title: 90.361(b)
+text: (b) Esta subparte não se aplica às aeronaves durante as fases de aproximação, decolagem,
+  pouso ou taxiamento. Neste caso, a tripulação, as pessoas com função a bordo e a UAP deverão
+  adotar os procedimentos necessários para manutenção de uma separação segura entre as aeronaves.
+keywords:
+- regras-de-voo
+- operacoes
+- aeronaves
+- adotar
+- aplica
+- aproximacao
+- bordo
+- caso
+- decolagem
+- deverao
+- durante
+- fases
+- funcao
+- gerais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

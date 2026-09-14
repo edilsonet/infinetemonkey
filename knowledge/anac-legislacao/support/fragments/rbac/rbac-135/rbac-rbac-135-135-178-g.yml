@@ -1,0 +1,53 @@
+id: rbac-rbac-135-135-178-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.178'
+section_title: Equipamentos adicionais de emergência
+subsection_id: g
+cite: 135.178(g)
+title: 135.178(g)
+text: '(g) Marcas externas das saídas de emergência. Cada saída de emergência para passageiros
+  e seus meios externos de abertura devem ser marcados na superfície externa do avião. Deve
+  haver uma faixa colorida com 5 cm (2 pol.) de largura, circundando o perímetro externo de
+  cada saída de emergência na lateral da fuselagem. Caso o avião possua áreas de seu revestimento
+  externo que possam ser cortadas para facilitar o resgate de pessoas, essas áreas devem ser
+  demarcadas por uma faixa segmentada, cada segmento com 3 cm (1,2 pol.) de largura e 9 cm
+  (3,5 pol.) de comprimento; os cantos da área devem ser demarcados por dois segmentos contínuos
+  formando ângulos retos e o intervalo entre segmentos não deve ultrapassar 2 m (79 pol.).
+  Cada marca externa, incluindo as faixas, deve ser prontamente distinguível das áreas vizinhas
+  na fuselagem por contraste de cor. As marcas devem atender ao seguinte:
+
+  (1) se a reflectância da cor mais escura for 15% ou menos, a reflectância da cor mais clara
+  deve ser de, pelo menos, 45%;
+
+  (2) se a reflectância da cor mais escura for superior a 15%, deve haver uma diferença de
+  pelo menos 30% entre sua reflectância e a reflectância da cor mais clara; e
+
+  (3) saídas não posicionadas nas laterais da fuselagem devem possuir meios externos de abertura
+  e as aplicáveis instruções de abertura conspicuamente marcadas em vermelho ou, se o vermelho
+  não for conspícuo, em relação à cor de fundo, em amarelo brilhante. Adicionalmente, se o
+  mecanismo de abertura para essas saídas estiver localizado em um único lado da fuselagem,
+  um letreiro conspícuo, informando esse fato, deve ser colocado do outro lado da fuselagem.
+  Reflectância é a razão entre o fluxo luminoso refletido por um corpo e o fluxo luminoso
+  que ele recebe.'
+keywords:
+- taxi-aereo
+- operacoes
+- reflectancia
+- fuselagem
+- abertura
+- cada
+- emergencia
+- areas
+- menos
+- saidas
+- aviao
+- clara
+- conspicuo
+- escura
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

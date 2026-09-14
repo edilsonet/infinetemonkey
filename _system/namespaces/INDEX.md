@@ -30,6 +30,7 @@ Profile slugs: `doctrine`, `tool-contract`, `data-system`, `design-system`,
 | `ai-architecture` | `operations` | `doctrine` | `full` | `review-on-edit` | `research` | The shipped reference doctrine: stable AI-system architecture covering planning, execution routing, namespace and profile design, retrieval doctrine, swarm governance, runtime boundaries, and agent-authority limits. |
 | `personal-operator` | `personal` | `doctrine` | `thin` | `review-on-edit` | `scratch` | The operator's own namespace: goals, priorities, review cadence, operating notes, and methodology not yet promoted into a more specific namespace. Graduated from the reduced base to the serious base, so it carries the full base folder set. |
 | `emberline-studio` | `examples` | `doctrine` | `thin` | `review-on-edit` | `research` | The worked example domain namespace: a fictional candle studio whose canon, concept, and linked entities show the whole pattern in miniature. Reduced base; study it, then replace it with your own first namespace. |
+| `anac-legislacao` | `operations` | `doctrine` | `full` | `review-on-edit` | `research` | Brazilian civil aviation law for AI retrieval: RBAC, IS, and IAC fragmented to subsection grain, with a keyword index that names which fragments to read. |
 
 Canon posture: `full` carries `canon/README.md`, `canon/core-doctrine.md`, and
 `canon/agent-load-order.md`; `thin` carries the canon README plus a short core-doctrine and
@@ -57,6 +58,7 @@ namespace; do not route work into them.
 ### operations
 
 - `ai-architecture`: the AI-system architecture and governance doctrine this OS runs on
+- `anac-legislacao`: ANAC RBAC, IS, and IAC fragments plus keyword retrieval index
 
 ## Registering a new namespace
 

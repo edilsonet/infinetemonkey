@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-383-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.383'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações em rota
+  com dois motores inoperantes'
+subsection_id: i
+cite: 135.383(i)
+title: 135.383(i)
+text: '(i) os dois motores falham no ponto mais crítico em rota;
+
+  (ii) a trajetória líquida de voo tem um gradiente positivo a 1500 pés acima do aeródromo
+  onde o pouso é previsto ser feito após a falha dos motores;
+
+  (iii) o alijamento de combustível pode ser aprovado se o detentor de certificado demonstrar
+  que as tripulações são devidamente instruídas, que o programa de treinamento é adequado
+  e que todas as precauções são tomadas para garantir um procedimento seguro;
+
+  (iv) o peso do avião no ponto onde é assumida a falha dos dois motores prevê combustível
+  suficiente para continuar para o aeródromo, chegando na sua vertical a uma altura de pelo
+  menos 1500 pés e, em seguida, voar mais 15 minutos a uma potência e/ou empuxo de cruzeiro;
+  e'
+keywords:
+- taxi-aereo
+- operacoes
+- motores
+- dois
+- aerodromo
+- combustivel
+- falha
+- ponto
+- rota
+- acima
+- adequado
+- alijamento
+- altura
+- aprovado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

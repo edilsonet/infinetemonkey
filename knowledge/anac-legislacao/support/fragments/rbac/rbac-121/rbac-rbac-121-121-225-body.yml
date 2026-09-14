@@ -1,0 +1,28 @@
+id: rbac-rbac-121-121-225-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.225'
+section_title: Fluido de degelo da hélice
+subsection_id: body
+cite: '121.225'
+title: Fluido de degelo da hélice
+text: '121.225 Fluido de degelo da hélice
+
+  A seção 121.255 deve ser cumprida se for usado fluido combustível para degelar a hélice.'
+keywords:
+- transporte-aereo
+- operacoes
+- fluido
+- helice
+- degelo
+- combustivel
+- cumprida
+- degelar
+- secao
+- usado
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

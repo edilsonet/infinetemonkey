@@ -1,0 +1,41 @@
+id: rbac-rbac-154-154-9-a
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.9'
+section_title: Sistemas de referência comuns
+subsection_id: a
+cite: 154.9(a)
+title: 154.9(a)
+text: '(a) Sistema de referência temporal
+
+  (1) O Calendário Gregoriano e Tempo Universal Coordenado (UTC) devem ser utilizados
+
+  como sistema de referência temporal.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  (2) Quando um sistema de referência temporal diferente for utilizado, deve ser indicado
+  em
+
+  GEN 2.1.2 da Publicação de Informação Aeronáutica (AIP).'
+keywords:
+- seguranca-aeroportuaria
+- referencia
+- sistema
+- temporal
+- aeronautica
+- calendario
+- comuns
+- coordenado
+- data
+- diferente
+- emissao
+- gregoriano
+- indicado
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

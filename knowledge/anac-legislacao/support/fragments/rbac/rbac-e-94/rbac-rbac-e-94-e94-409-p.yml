@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-409-p
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: p
+cite: E94.409(p)
+title: E94.409(p)
+text: (p) cada sistema do RPAS, considerado separadamente, ou em relação a outros sistemas,
+  deve ser projetado e instalado de modo que a operação ou falha deste não resulte em riscos
+  inaceitáveis à segurança operacional.
+keywords:
+- rpas
+- cada
+- classe
+- considerado
+- deste
+- falha
+- inaceitaveis
+- instalado
+- modo
+- operacao
+- operacional
+- outros
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

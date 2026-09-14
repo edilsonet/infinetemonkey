@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-417-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.417'
+section_title: Relatório sumário de interrupção
+subsection_id: a
+cite: 135.417(a)
+title: 135.417(a)
+text: (a) cada interrupção para um voo, mudança não prevista da aeronave em rota, parada não
+  prevista ou desvio de uma rota, causada por dificuldades ou mau funcionamento conhecidos
+  ou suspeitos que não requerem relatório segundo a seção 135.415; e
+keywords:
+- taxi-aereo
+- operacoes
+- interrupcao
+- relatorio
+- rota
+- aeronave
+- cada
+- causada
+- conhecidos
+- desvio
+- dificuldades
+- funcionamento
+- mudanca
+- parada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

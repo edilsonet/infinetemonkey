@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-144-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.144'
+section_title: Dispositivos eletrônicos portáteis
+subsection_id: b
+cite: 135.144(b)
+title: 135.144(b)
+text: '(b) O parágrafo (a) desta seção não se aplica para:
+
+  (1) gravadores de voz portáteis;
+
+  (2) aparelhos de audição;
+
+  (3) marca-passos;
+
+  (4) barbeadores elétricos; ou
+
+  (5) concentradores de oxigênio portáteis que cumpram com os requisitos da seção 135.91;
+  ou
+
+  (Redação dada pela Resolução nº 549, de 20.03.2020)
+
+  (6) qualquer outro dispositivo eletrônico portátil que o detentor de certificado emitido
+  segundo o RBAC nº 119 tiver determinado não causar interferência nos sistemas de navegação
+  ou de comunicações da aeronave na qual ele será utilizado.
+
+  (Incluído pela Resolução nº 549, de 20.03.2020)'
+keywords:
+- taxi-aereo
+- operacoes
+- portateis
+- resolucao
+- secao
+- aeronave
+- aparelhos
+- aplica
+- audicao
+- barbeadores
+- causar
+- certificado
+- comunicacoes
+- concentradores
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

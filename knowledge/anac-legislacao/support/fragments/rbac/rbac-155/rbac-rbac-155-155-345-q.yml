@@ -1,0 +1,28 @@
+id: rbac-rbac-155-155-345-q
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.345'
+section_title: '155.345'
+subsection_id: q
+cite: 155.345(q)
+title: 155.345(q)
+text: '(q)
+
+  No caso de falha de qualquer componente que afete o formato do sinal, o sistema deve ser
+  automaticamente desligado.'
+keywords:
+- seguranca-aeroportuaria
+- afete
+- automaticamente
+- caso
+- componente
+- desligado
+- falha
+- formato
+- sinal
+- sistema
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

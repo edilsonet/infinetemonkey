@@ -1,0 +1,30 @@
+id: rbac-rbac-175-175-201-d
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.201'
+section_title: Requisitos gerais aplicáveis a todas as classes, exceto Classe 7
+subsection_id: d
+cite: 175.201(d)
+title: 175.201(d)
+text: (d) As embalagens devem ser testadas de acordo com as provisões das Instruções Técnicas.
+keywords:
+- artigos-perigosos
+- carga
+- acordo
+- aplicaveis
+- classe
+- classes
+- embalagens
+- exceto
+- gerais
+- instrucoes
+- provisoes
+- requisitos
+- tecnicas
+- testadas
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

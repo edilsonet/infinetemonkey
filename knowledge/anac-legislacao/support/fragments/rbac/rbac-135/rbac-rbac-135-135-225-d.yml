@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-225-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.225'
+section_title: '135.225'
+subsection_id: d
+cite: 135.225(d)
+title: 135.225(d)
+text: (d) Para cada piloto em comando de um avião com motores a turbina que não tenha acumulado
+  pelo menos 100 horas de tempo de voo como piloto em comando desse tipo de avião, os valores
+  de MDA/H ou DA/DH, conforme aplicável, e de visibilidade estabelecidos nos procedimentos
+  de aproximação por instrumentos devem ser acrescidos de 100 pés e 900m (½ milha), respectivamente.
+  Este requisito não se aplica a pouso no aeródromo de alternativa.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- comando
+- piloto
+- 900m
+- acrescidos
+- acumulado
+- aerodromo
+- alternativa
+- aplica
+- aplicavel
+- aproximacao
+- cada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

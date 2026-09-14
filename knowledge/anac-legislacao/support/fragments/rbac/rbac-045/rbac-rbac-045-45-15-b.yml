@@ -1,0 +1,47 @@
+id: rbac-rbac-045-45-15-b
+kind: rbac
+document: rbac-045
+family: '45'
+section_id: '45.15'
+section_title: Marcação de peças PAA, OTP e componentes críticos
+subsection_id: b
+cite: 45.15(b)
+title: 45.15(b)
+text: '(b) Peças OTP. Exceto como previsto no parágrafo (d) desta seção, cada fabricante de
+  um
+
+  produto OTP deve marcar esse produto de modo permanente e legível com as seguintes
+
+  informações:
+
+  (1) o nome, marca patenteada, símbolo do detentor da OTP, ou outra identificação aprovada
+
+  pela ANAC;
+
+  (2) número da peça (part number);
+
+  (3) exceto se de outra forma especificado na OTP, o número e letra de designação da OTP,
+
+  todas as marcações especificamente requeridas pela OTP aplicável; e
+
+  (4) o número de série (serial number) ou a data de fabricação da peça ou ambos.'
+keywords:
+- identificacao
+- aeronavegabilidade
+- numero
+- exceto
+- number
+- outra
+- peca
+- pecas
+- produto
+- ambos
+- aplicavel
+- aprovada
+- cada
+- componentes
+categories:
+- identificacao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-045.md

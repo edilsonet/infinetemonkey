@@ -1,0 +1,35 @@
+id: rbac-rbac-90-90-135-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.135'
+section_title: Componente 1 - política e objetivos de segurança operacional
+subsection_id: c
+cite: 90.135(c)
+title: 90.135(c)
+text: '(c) Elemento 1.3 - Designação do pessoal-chave de segurança operacional.
+
+  (1) O órgão ou ente público deverá designar um GSO, que será o responsável pela implantação
+  e manutenção do SGSO.
+
+  (2) Para cumprir com suas responsabilidades e funções, o GSO deve ter:'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- chave
+- componente
+- cumprir
+- designacao
+- designar
+- devera
+- elemento
+- ente
+- funcoes
+- implantacao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

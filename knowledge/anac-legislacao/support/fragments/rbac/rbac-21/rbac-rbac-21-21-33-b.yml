@@ -1,0 +1,43 @@
+id: rbac-rbac-21-21-33-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.33'
+section_title: Inspeções e ensaios
+subsection_id: b
+cite: 21.33(b)
+title: 21.33(b)
+text: '(b) O requerente deve executar todos os ensaios e as inspeções necessários para determinar:
+
+  (1) o cumprimento com os requisitos de aeronavegabilidade e de proteção ambiental; (
+
+  Redação dada pela Resolução nº 501, de 12.12.2018
+
+  )
+
+  (2) que os materiais e produtos estão conforme as especificações do projeto de tipo;
+
+  (3) que as peças do produto estão conforme os desenhos do projeto de tipo; e
+
+  (4) que os processos de fabricação, construção e montagem estão conforme aqueles especificados
+  no projeto de tipo.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- estao
+- tipo
+- ensaios
+- inspecoes
+- ambiental
+- aqueles
+- construcao
+- cumprimento
+- dada
+- desenhos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

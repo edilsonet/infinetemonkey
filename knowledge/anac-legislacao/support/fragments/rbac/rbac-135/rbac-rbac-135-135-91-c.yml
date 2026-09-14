@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-91-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.91'
+section_title: Oxigênio e concentradores de oxigênio portáteis para uso medicinal por passageiros
+subsection_id: c
+cite: 135.91(c)
+title: 135.91(c)
+text: (c) O detentor de certificado não pode permitir que qualquer pessoa, que não uma pessoa
+  treinada na utilização de equipamento de oxigênio medicinal, conecte ou desconecte cilindros
+  de oxigênio ou quaisquer outros componentes auxiliares enquanto qualquer passageiro estiver
+  a bordo da aeronave.
+keywords:
+- taxi-aereo
+- operacoes
+- oxigenio
+- medicinal
+- pessoa
+- aeronave
+- auxiliares
+- bordo
+- certificado
+- cilindros
+- componentes
+- concentradores
+- conecte
+- desconecte
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

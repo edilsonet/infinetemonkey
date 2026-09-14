@@ -1,0 +1,37 @@
+id: rbac-rbha-e-rbac-21-6-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.6'
+section_title: Fabricação de aeronaves, motores de aeronave ou hélices novos
+subsection_id: a
+cite: 21.6(a)
+title: 21.6(a)
+text: '(a) Uma pessoa somente pode fabricar uma aeronave nova, um motor de aeronave novo ou
+  uma hélice nova conforme um certificado de tipo se:
+
+  (1) ela for detentora de um certificado de tipo ou tiver um acordo de licenciamento com
+  o detentor do certificado de tipo autorizando a fabricação do produto; e
+
+  (2) cumprir os requisitos das subpartes F ou G deste regulamento.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- certificado
+- tipo
+- fabricacao
+- nova
+- acordo
+- aeronaves
+- autorizando
+- cumprir
+- deste
+- detentor
+- detentora
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

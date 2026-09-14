@@ -1,0 +1,63 @@
+id: rbac-rbac-135-135-165-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.165'
+section_title: 'Equipamentos de comunicações e navegação: voos sobre grandes extensões de
+  água ou IFR'
+subsection_id: b
+cite: 135.165(b)
+title: 135.165(b)
+text: '(b) Somente é permitido operar uma aeronave que não as especificadas no parágrafo (a)
+  desta seção em operações IFR ou sobre grandes extensões de água, se ela estiver equipada
+  com os seguintes equipamentos de comunicações e de navegação, apropriados às facilidades
+  de solo que serão utilizadas e ao valor do desempenho de navegação requerido para a rota
+  a ser voada (“
+
+  Required Navigation Performance
+
+  ” - RNP) e capazes de receber e transmitir para pelo menos uma estação de solo em qualquer
+  ponto dessa rota:
+
+  (1) um transmissor;
+
+  (2) dois microfones;
+
+  (3) dois fones ou um fone e um alto-falante;
+
+  (4) um receptor de “
+
+  marker beacon
+
+  ”;
+
+  (5) dois receptores independentes para navegação;
+
+  (6) dois receptores independentes para comunicações;
+
+  (7) apenas para operações sobre grandes extensões de água, um transmissor adicional; e
+
+  (8) apenas para helicópteros em operações “
+
+  off-shore
+
+  ”, quando requerido, um VHF naval.'
+keywords:
+- taxi-aereo
+- operacoes
+- dois
+- navegacao
+- agua
+- comunicacoes
+- extensoes
+- grandes
+- equipamentos
+- independentes
+- receptores
+- requerido
+- rota
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

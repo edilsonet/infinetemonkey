@@ -1,0 +1,32 @@
+id: rbac-rbac-142-142-9-b
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.9'
+section_title: Validade do certificado de CTAC
+subsection_id: b
+cite: 142.9(b)
+title: 142.9(b)
+text: '(b) Um certificado emitido segundo este Regulamento para um CTAC localizado em um país
+
+  estrangeiro tem validade de dois anos a partir de sua data de emissão, a menos que seja
+  antes suspenso
+
+  ou cassado pela ANAC ou revogado por deixar de interessar ao seu detentor.'
+keywords:
+- certificado
+- ctac
+- validade
+- anos
+- cassado
+- data
+- deixar
+- detentor
+- dois
+- emissao
+- emitido
+- estrangeiro
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

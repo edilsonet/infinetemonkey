@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-439-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.439'
+section_title: Requisitos de registros de manutenção
+subsection_id: v
+cite: 135.439(v)
+title: 135.439(v)
+text: '(v) a situação corrente das aplicáveis diretrizes de aeronavegabilidade (DA), incluindo
+  data e métodos de conformidade, e, se a diretriz de aeronavegabilidade envolver ações periódicas,
+  o tempo e data da próxima ação requerida; e
+
+  (vi) uma lista atualizada de grandes alterações e grandes reparos de cada célula, motor,
+  hélice, rotor e equipamento.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronavegabilidade
+- data
+- grandes
+- acao
+- acoes
+- alteracoes
+- aplicaveis
+- atualizada
+- cada
+- celula
+- conformidade
+- corrente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

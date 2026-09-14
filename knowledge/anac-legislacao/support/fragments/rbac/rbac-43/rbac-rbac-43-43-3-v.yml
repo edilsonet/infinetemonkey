@@ -1,0 +1,60 @@
+id: rbac-rbac-43-43-3-v
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.3'
+section_title: Pessoas autorizadas a executar manutenção, manutenção preventiva, reconstrução
+  e
+subsection_id: v
+cite: 43.3(v)
+title: 43.3(v)
+text: '(v) quanto às tarefas de manutenção preventiva:
+
+  (A) o piloto esteja familiarizado e se considere competente para realizar a tarefa de
+
+  manutenção preventiva;
+
+  (B) não seja uma tarefa de manutenção crítica;
+
+  (C) sua execução não requeira ferramentas especiais ou calibradas, exceto torquímetro e
+
+  crimpador de fios, nem requeira uso de equipamentos de teste ou ensaios especiais tais como
+
+  ensaios não destrutivos;
+
+  (D) a tarefa executada pelo piloto não tenha por objetivo atestar cumprimento total ou
+
+  parcial de uma inspeção de 100 horas, inspeção anual, ou inspeção especial não programada;
+
+  (E) a tarefa não afete sistema essencial para voo IFR; e
+
+  (F) a tarefa esteja compreendida na listagem do parágrafo A43.1(c) do Apêndice A
+
+  deste RBAC.
+
+  (2) as condições especificadas nos parágrafos 43.3(g)-I(1)(i), (iii), (iv) e (v) não se
+  aplicam
+
+  para as tarefas de manutenção preventiva dos parágrafos A43.1(c)(32)-I e (32)-II do Apêndice
+  A
+
+  deste RBAC em aeronaves não operadas segundo o RBAC 121, desde que:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- tarefa
+- preventiva
+- inspecao
+- apendice
+- deste
+- ensaios
+- especiais
+- esteja
+- paragrafos
+- piloto
+- requeira
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

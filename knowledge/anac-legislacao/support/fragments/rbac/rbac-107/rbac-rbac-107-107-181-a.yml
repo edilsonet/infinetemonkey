@@ -1,0 +1,49 @@
+id: rbac-rbac-107-107-181-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.181'
+section_title: Responsabilidades do Operador de Aeródromo
+subsection_id: a
+cite: 107.181(a)
+title: 107.181(a)
+text: '(a) Constituem responsabilidades dos operadores de aeródromos concernentes ao controle
+  de qualidade AVSEC:
+
+  (1) submeter-se às atividades de controle de qualidade realizadas pela ANAC, auxiliando
+  os responsáveis pela aplicação das atividades de controle de qualidade nas solicitações
+  que forem realizadas a fim de cumprir seus objetivos;
+
+  (2) estabelecer, implementar e manter operacional um sistema de controle de qualidade AVSEC
+  de forma a monitorar, rever e aprimorar a proteção da aviação civil contra atos de interferência
+  ilícita;
+
+  (3) atender às solicitações da ANAC e da Polícia Federal no que diz respeito à aplicação
+  de testes AVSEC;
+
+  (4) assegurar a disponibilidade de recursos humanos e materiais para aplicação do PCQ/AVSEC
+  na esfera de sua responsabilidade, observando as características e dimensões das operações,
+  tais como número de empresas contratadas, processos empregados, número de passageiros atendidos,
+  dentre outros; e
+
+  (5) manter um sistema confidencial de relatos.'
+keywords:
+- seguranca
+- aeroporto
+- avsec
+- controle
+- qualidade
+- aplicacao
+- atividades
+- manter
+- numero
+- realizadas
+- responsabilidades
+- sistema
+- solicitacoes
+- aerodromo
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-121-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.121'
+section_title: Bebidas alcoólicas
+subsection_id: a
+cite: 135.121(a)
+title: 135.121(a)
+text: (a) É vedado ingerir qualquer bebida alcoólica a bordo de uma aeronave, exceto se o
+  detentor de certificado operando a aeronave tiver servido a bebida.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- bebida
+- alcoolica
+- alcoolicas
+- bebidas
+- bordo
+- certificado
+- detentor
+- exceto
+- ingerir
+- operando
+- servido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

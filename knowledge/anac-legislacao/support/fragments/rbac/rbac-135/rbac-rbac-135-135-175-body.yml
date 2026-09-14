@@ -1,0 +1,22 @@
+id: rbac-rbac-135-135-175-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.175'
+section_title: Requisitos para radar meteorológico de bordo
+subsection_id: body
+cite: '135.175'
+title: Requisitos para radar meteorológico de bordo
+text: 135.175 Requisitos para radar meteorológico de bordo
+keywords:
+- taxi-aereo
+- operacoes
+- bordo
+- meteorologico
+- radar
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

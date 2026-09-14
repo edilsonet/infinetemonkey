@@ -1,0 +1,39 @@
+id: rbac-rbac-21-21-101-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.101'
+section_title: Determinação dos requisitos aplicáveis
+subsection_id: a
+cite: 21.101(a)
+title: 21.101(a)
+text: '(a) Exceto como previsto nos parágrafos (b) e (c) desta seção, um requerente de uma
+  modificação a um certificado de tipo deve mostrar que a modificação e as áreas afetadas
+  pela modificação cumprem com os requisitos de aeronavegabilidade aplicáveis à categoria
+  do produto em vigor na data do requerimento para a modificação e cumpre com os requisitos
+  dos RBACs nºs 34, 36 e 38. (
+
+  Redação dada pela Resolução nº 501, de 12.12.2018
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- requisitos
+- aplicaveis
+- afetadas
+- areas
+- categoria
+- certificado
+- cumpre
+- cumprem
+- dada
+- data
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

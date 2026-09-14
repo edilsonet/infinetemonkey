@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-398-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.398'
+section_title: 'Limitações operacionais de desempenho: aviões categoria transporte regional'
+subsection_id: a
+cite: 135.398(a)
+title: 135.398(a)
+text: (a) Somente é permitido a uma pessoa operar um avião categoria transporte regional se
+  essa pessoa cumprir as limitações de peso de decolagem constantes do manual de voo do avião.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- categoria
+- limitacoes
+- pessoa
+- regional
+- transporte
+- avioes
+- constantes
+- cumprir
+- decolagem
+- desempenho
+- manual
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

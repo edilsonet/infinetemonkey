@@ -1,0 +1,81 @@
+id: rbac-rbac-29-29-60-c
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.60'
+section_title: is maintained and the descent (loss of height) below the landing surface is
+  determined.
+subsection_id: c
+cite: 29.60(c)
+title: 29.60(c)
+text: '(c)
+
+  For empennage arrangements where the horizontal tail surfaces are supported by the vertical
+  tail
+
+  surfaces, the vertical tail surfaces and supporting structure must be designed for the combined
+  vertical
+
+  and horizontal surface loads resulting from each prescribed flight condition, considered
+  separately. The
+
+  flight conditions must be selected so that the maximum design loads are obtained on each
+  surface. In the
+
+  absence of more rational data, the unsymmetrical horizontal tail surface loading distributions
+  described in
+
+  this section must be assumed.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.397
+
+  14 CFR 29.427(c) (enhanced display)
+
+  page 31 of 167
+
+
+  GROUND LOADS
+
+  § 29.471 General.
+
+  § 29.473 Ground loading conditions and assumptions.
+
+  § 29.475 Tires and shock absorbers.
+
+  Unless otherwise prescribed, for each specified landing condition, the tires must be assumed
+  to be in their static
+
+  position and the shock absorbers to be in their most critical position.
+
+  § 29.477 Landing gear arrangement.
+
+  Sections 29.235, 29.479 through 29.485, and 29.493 apply to landing gear with two wheels
+  aft, and one or more
+
+  wheels forward, of the center of gravity.
+
+  § 29.479 Level landing conditions.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- landing
+- must
+- surface
+- tail
+- conditions
+- each
+- horizontal
+- loads
+- surfaces
+- vertical
+- absorbers
+- assumed
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

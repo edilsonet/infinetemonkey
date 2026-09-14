@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-154-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.154'
+section_title: Sistema de percepção e alarme de proximidade do solo (EGPWS)
+subsection_id: a
+cite: 135.154(a)
+title: 135.154(a)
+text: (a) Somente é permitido operar um avião com motores a turbina com configuração para
+  passageiros com 10 ou mais assentos, excluindo qualquer assento para pilotos, se o avião
+  estiver equipado com um sistema aprovado de percepção e alarme de proximidade do solo que
+  atenda aos requisitos para equipamento Classe A da OTP (TSO)-C151 (equipamento dotado da
+  função de detecção de terreno à frente do avião). O avião deve possuir também um mostrador
+  (display) aprovado mostrando o posicionamento no terreno dos pontos percebidos pelo sistema;
+  e
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- sistema
+- alarme
+- aprovado
+- equipamento
+- percepcao
+- proximidade
+- solo
+- terreno
+- assento
+- assentos
+- atenda
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

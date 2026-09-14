@@ -1,0 +1,31 @@
+id: rbac-rbac-137-137-207-a
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.207'
+section_title: Requisitos para pilotos
+subsection_id: a
+cite: 137.207(a)
+title: 137.207(a)
+text: (a) Somente podem ser designados para realizar operações aeroagrícolas em aeronaves
+  tripuladas pilotos agrícolas habilitados conforme o RBAC nº 61 e com Certificado Médico
+  Aeronáutico (CMA), emitido segundo o RBAC nº 67, válido.
+keywords:
+- aeroagricola
+- operacoes
+- pilotos
+- aeroagricolas
+- aeronautico
+- aeronaves
+- agricolas
+- certificado
+- designados
+- emitido
+- habilitados
+- medico
+- podem
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

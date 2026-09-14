@@ -1,0 +1,32 @@
+id: rbac-rbac-135-g135-1-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.1
+section_title: Definições
+subsection_id: a
+cite: G135.1(a)
+title: G135.1(a)
+text: (a) Aeródromo adequado significa um aeródromo listado nas Especificações Operativas
+  de um detentor de certificado, aprovado pela ANAC, que atende às limitações para pouso da
+  seção 135.385 ou é um aeródromo militar ativo e operacional.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- adequado
+- aprovado
+- atende
+- ativo
+- certificado
+- definicoes
+- detentor
+- especificacoes
+- g135
+- limitacoes
+- listado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

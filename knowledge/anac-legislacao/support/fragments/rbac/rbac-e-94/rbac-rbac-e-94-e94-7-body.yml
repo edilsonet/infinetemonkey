@@ -1,0 +1,31 @@
+id: rbac-rbac-e-94-e94-7-body
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.7
+section_title: Responsabilidade e autoridade do piloto remoto em comando
+subsection_id: body
+cite: E94.7
+title: Responsabilidade e autoridade do piloto remoto em comando
+text: 'E94.7 Responsabilidade e autoridade do piloto remoto em comando
+
+  O piloto remoto em comando de uma aeronave não tripulada é diretamente responsável pela
+  condução segura da aeronave, pelas consequências advindas, e tem a autoridade final por
+  sua operação.'
+keywords:
+- autoridade
+- comando
+- piloto
+- remoto
+- responsabilidade
+- aeronave
+- advindas
+- conducao
+- consequencias
+- diretamente
+- final
+- operacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

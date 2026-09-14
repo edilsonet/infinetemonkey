@@ -1,0 +1,46 @@
+id: rbac-rbac-135-a135-5-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.5
+section_title: Estabilidade
+subsection_id: v
+cite: A135.5(v)
+title: A135.5(v)
+text: '(v) o avião compensado para voo nivelado, com a potência especificada no parágrafo
+  (a)(2)(iii) desta seção.
+
+  Nota
+
+  : VFC / MFC não pode ser menor do que uma velocidade a meio caminho entre VMO / MMO e VDF
+  / MDF, exceto que, para altitudes onde o número Mach é um fator limitante, MFC não precisa
+  exceder o número Mach no qual ocorre alarme efetivo de velocidade.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (3) Estabilidade em subida (apenas para aviões turboélice)
+
+  Na demonstração de conformidade com os requisitos do RBAC nº 23 o requerente deve, em lugar
+  da potência especificada no parágrafo 23.175(a)(4), usar a potência ou empuxo máximo selecionado
+  pelo requerente como uma limitação operacional para uso durante subidas na velocidade de
+  melhor razão de subida, exceto que essa velocidade não precisa ser menor do que 1,4 VS1.'
+keywords:
+- taxi-aereo
+- operacoes
+- velocidade
+- potencia
+- especificada
+- estabilidade
+- exceto
+- mach
+- menor
+- numero
+- paragrafo
+- precisa
+- requerente
+- subida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,44 @@
+id: rbac-rbac-107-107-215-i
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.215'
+section_title: Plano de Segurança de Empresa de Serviços Auxiliares ou Exploradores de Área
+  Aeroportuária (PSESCA)
+subsection_id: i
+cite: 107.215(i)
+title: 107.215(i)
+text: '(i) designação de profissional responsável pelos processos de AVSEC, devidamente capacitado;
+
+  (ii) medidas preventivas de proteção de perímetro, pessoas e objetos (zoneamento, barreiras,
+  vigilância, controle de acesso e inspeção, quando aplicáveis); e
+
+  (iii) medidas de resposta às emergências, observando os requisitos deste regulamento, do
+  RBAC 108, quando aplicável, e as orientações específicas do operador do aeródromo.
+
+  (3) uma cópia do PSESCA deve ser entregue ao operador de aeródromo e outra cópia deve ser
+  mantida nas instalações da organização e seu conteúdo deve possuir caráter reservado aos
+  próprios funcionários, funcionários do operador do aeródromo, de seus contratantes e de
+  autoridades públicas envolvidas com a AVSEC;
+
+  (4) o PSESCA deve passar por processo de revisão quando:'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- operador
+- psesca
+- avsec
+- copia
+- funcionarios
+- medidas
+- acesso
+- aeroportuaria
+- aplicaveis
+- aplicavel
+- area
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

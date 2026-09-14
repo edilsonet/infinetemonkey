@@ -1,0 +1,96 @@
+id: rbac-rbac-90-90-325-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.325'
+section_title: Operação
+subsection_id: b
+cite: 90.325(b)
+title: 90.325(b)
+text: '(b) São requisitos para operação
+
+  helocast
+
+  :
+
+  (1) que esteja sob VMC;
+
+  (2) que seja previamente coordenada com o piloto em comando;
+
+  (3) que seja essencial ao cumprimento da missão, salvo em treinamento;
+
+  (4) que esteja em conformidade com os SOP e o MOP da UAP;
+
+  (5) que a IAS máxima do helicóptero e o risco de impacto com o rotor de cauda e principal
+  sejam definidos pela UAP para controle do risco inerente à operação (incluindo a proteção
+  do helicóptero, tripulação, pessoas com função a bordo, passageiros e terceiros), que deve
+  estar dentro do NADSO;
+
+  (6) que a altura de lançamento seja definida pela UAP para controle do risco inerente à
+  operação (incluindo a proteção do helicóptero, tripulação, pessoas com função a bordo, passageiros
+  e terceiros), que deve estar dentro do NADSO;
+
+  (7) que sejam observadas as limitações do helicóptero, segundo o AFM ou AOM;
+
+  (8) que haja procedimentos para evitar o contato inadvertido do helicóptero com a superfície
+  de forma que a operação se mantenha dentro do NADSO;
+
+  (9) que sejam adotados os procedimentos para manutenção da consciência situacional de altura
+  e para evitar o erro de paralaxe ou desorientação espacial;
+
+  (10) que a tripulação e outras pessoas com função a bordo estejam aptas para realizar estas
+  operações;
+
+  (11) que o operador aerotático assegure-se que o local de lançamento esteja livre de obstáculos
+  e que a profundidade seja adequada à operação;
+
+  (12) que o operador aerotático, responsável pelo lançamento, mantenha comunicação rádio
+  direta com o piloto em comando;
+
+  (13) que somente os envolvidos na operação estejam a bordo;
+
+  (14) que o CG do helicóptero seja mantido dentro dos limites durante todo o voo, inclusive
+  antes, durante e após o lançamento do profissional;
+
+  (15) que a porta de acesso à cabine tenha sido removida ou que o helicóptero disponha de
+  porta deslizante conforme previsto no AFM. É vedada a operação
+
+  helocast
+
+  com helicópteros que disponham de portas de acesso com dobradiças ou similares;
+
+  (16) que o risco de impacto do rotor principal e do rotor de cauda seja mitigado;
+
+  (17) que terceiros na água estejam a uma distância mínima de segurança da aeronave;
+
+  (18) que o profissional que será lançado à água tenha recebido
+
+  briefing
+
+  de segurança sobre os procedimentos normais, de emergências, sinais e comunicações;
+
+  (19) que a área em que o profissional será lançado seja, a critério da tripulação e demais
+  pessoas com função a bordo, grande o suficiente para mitigar erros de mira em decorrência
+  da movimentação da aeronave; e
+
+  (20) que outros procedimentos definidos pela UAP sejam observados.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacao
+- helicoptero
+- seja
+- bordo
+- dentro
+- funcao
+- lancamento
+- pessoas
+- procedimentos
+- risco
+- sejam
+- tripulacao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

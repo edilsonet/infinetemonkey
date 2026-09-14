@@ -1,0 +1,35 @@
+id: rbac-rbac-29-29-1415-s
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.1415'
+section_title: must be near an exit available during an unplanned ditching.
+subsection_id: s
+cite: 29.1415(s)
+title: 29.1415(s)
+text: '(s)
+
+  The evacuation time period is completed when the last occupant has evacuated the rotorcraft
+  and is on
+
+  the ground.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- available
+- completed
+- ditching
+- during
+- evacuated
+- evacuation
+- exit
+- ground
+- last
+- must
+- near
+- occupant
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

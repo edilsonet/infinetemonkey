@@ -1,0 +1,35 @@
+id: rbac-rbac-110-emd-02-110-77-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.77'
+section_title: Plano de Instrução AVSEC (PIAVSEC)
+subsection_id: a
+cite: 110.77(a)
+title: 110.77(a)
+text: '(a) As organizações com responsabilidade AVSEC são responsáveis pelo desenvolvimento
+  e manutenção dos respectivos Programas de Instrução que poderão fazer parte dos seus programas
+  de segurança específicos.
+
+  (1) A ANAC aprovará os PIAVSEC durante a avaliação dos programas de segurança específicos
+  de cada ente do sistema da aviação civil.'
+keywords:
+- carga
+- operacoes
+- programas
+- avsec
+- especificos
+- instrucao
+- piavsec
+- seguranca
+- aprovara
+- avaliacao
+- aviacao
+- cada
+- civil
+- desenvolvimento
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

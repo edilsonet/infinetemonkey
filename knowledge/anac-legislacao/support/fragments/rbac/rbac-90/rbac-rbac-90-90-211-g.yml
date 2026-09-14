@@ -1,0 +1,37 @@
+id: rbac-rbac-90-90-211-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.211'
+section_title: Requisitos gerais
+subsection_id: g
+cite: 90.211(g)
+title: 90.211(g)
+text: '(g) A avaliação teórica e/ou prática para operador aerotático da UAP deverá:
+
+  (1) ser realizada no modelo de aeronave em que serão desempenhadas as operações aéreas da
+  UAP;
+
+  (2) ser realizada no formato definido pela UAP; e
+
+  (3) ser registrada em formulário próprio e arquivado na pasta individual do operador aerotático.'
+keywords:
+- regras-de-voo
+- operacoes
+- aerotatico
+- operador
+- realizada
+- aereas
+- aeronave
+- arquivado
+- avaliacao
+- definido
+- desempenhadas
+- devera
+- formato
+- formulario
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

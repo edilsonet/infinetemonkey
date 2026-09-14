@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-157-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.157'
+section_title: Requisitos para equipamentos de oxigênio
+subsection_id: c
+cite: 135.157(c)
+title: 135.157(c)
+text: '(c) O equipamento requerido por esta seção deve ter meios para:
+
+  (1) permitir que o piloto determine, prontamente e em voo, a quantidade de oxigênio disponível
+  em cada fonte de suprimento e se o oxigênio está sendo entregue nas unidades de fornecimento;
+  ou
+
+  (2) no caso de unidades individuais de fornecimento, permitir que cada usuário faça essas
+  determinações quanto à entrega e ao fornecimento de oxigênio para si mesmo; e
+
+  (3) permitir aos pilotos usar oxigênio não diluído, a seu critério, em altitudes acima de
+  25.000 pés MSL.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- oxigenio
+- fornecimento
+- permitir
+- cada
+- unidades
+- acima
+- altitudes
+- caso
+- criterio
+- dada
+- determinacoes
+- determine
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

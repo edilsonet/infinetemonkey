@@ -1,0 +1,58 @@
+id: rbac-rbac-60-60-25-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.25'
+section_title: '60.25'
+subsection_id: a
+cite: 60.25(a)
+title: 60.25(a)
+text: '(a)
+
+  Nenhuma
+
+  pessoa
+
+  pode,
+
+  intencionalmente, utilizar um FSTD para
+
+  executar qualquer manobra, procedimento ou
+
+  tarefa quando houver componente faltante,
+
+  com mau funcionamento ou inoperante
+
+  (missing, malfunctioning, or inoperative -
+
+  MMI), caso este componente seja requerido
+
+  para
+
+  executar
+
+  satisfatoriamente
+
+  aquela
+
+  manobra, procedimento ou tarefa.'
+keywords:
+- simuladores
+- treinamento
+- componente
+- executar
+- manobra
+- procedimento
+- tarefa
+- aquela
+- caso
+- faltante
+- fstd
+- funcionamento
+- houver
+- inoperante
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

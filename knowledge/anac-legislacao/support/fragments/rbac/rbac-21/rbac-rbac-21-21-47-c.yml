@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-47-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.47'
+section_title: Transferência
+subsection_id: c
+cite: 21.47(c)
+title: 21.47(c)
+text: (c) Para a transferência de um certificado de tipo em que o estado de projeto está mudando,
+  o certificado de tipo somente será transferido para ou de uma pessoa sujeita à autoridade
+  de outro estado de projeto se houver acordo bilateral com o estado de projeto para a aceitação
+  do produto afetado para exportação e importação. Cada cedente deve notificar à ANAC antes
+  da transferência de forma e maneira aceitável pela ANAC. Esta notificação deve incluir o
+  número do certificado de tipo aplicável, o nome, o endereço e país de residência do cessionário
+  e a data prevista para a transferência.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- transferencia
+- certificado
+- estado
+- tipo
+- aceitacao
+- aceitavel
+- acordo
+- afetado
+- aplicavel
+- autoridade
+- bilateral
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

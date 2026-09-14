@@ -1,0 +1,36 @@
+id: rbac-rbac-23-23-2250-d
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2250'
+section_title: Princípios de projeto e construção.
+subsection_id: d
+cite: 23.2250(d)
+title: 23.2250(d)
+text: '(d) O sistema de controle deve ser livre de in-
+
+  terferências, atritos excessivos e deflexões ex-
+
+  cessivas quando o avião estiver sujeito às car-
+
+  gas de voo limites esperadas.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- atritos
+- aviao
+- cessivas
+- construcao
+- controle
+- deflexoes
+- esperadas
+- estiver
+- excessivos
+- limites
+- livre
+- principios
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

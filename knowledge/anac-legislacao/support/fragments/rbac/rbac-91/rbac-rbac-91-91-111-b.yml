@@ -1,0 +1,33 @@
+id: rbac-rbac-91-91-111-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.111'
+section_title: Proximidade com outra(s) aeronave(s)
+subsection_id: b
+cite: 91.111(b)
+title: 91.111(b)
+text: '(b) Somente é permitido operar uma aeronave civil em voo de formação com outra(s) aeronave(s)
+
+  se o voo for realizado em conformidade com as regras de tráfego aéreo estabelecidas pelo
+  DECEA.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- outra
+- aereo
+- civil
+- conformidade
+- decea
+- estabelecidas
+- formacao
+- operar
+- permitido
+- proximidade
+- realizado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

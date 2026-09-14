@@ -1,0 +1,35 @@
+id: rbac-rbac-e-94-e94-409-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: c
+cite: E94.409(c)
+title: E94.409(c)
+text: '(c) cada sistema de alimentação do sistema de propulsão da RPA deve ser projetado,
+  arranjado e construído para:
+
+  (1) garantir o funcionamento adequado do sistema de propulsão em todas as condições de operação
+  e manobras pretendidas; e
+
+  (2) fornecer a quantidade mínima necessária de combustível/energia para garantir o funcionamento
+  do grupo motopropulsor em sua máxima tração/potência, além da operação de todos os sistemas
+  que se utilizam dessa fonte de alimentação;'
+keywords:
+- sistema
+- alimentacao
+- funcionamento
+- garantir
+- operacao
+- propulsao
+- adequado
+- alem
+- arranjado
+- cada
+- classe
+- combustivel
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

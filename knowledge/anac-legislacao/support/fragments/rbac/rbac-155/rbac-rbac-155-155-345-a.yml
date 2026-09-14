@@ -1,0 +1,44 @@
+id: rbac-rbac-155-155-345-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.345'
+section_title: '155.345'
+subsection_id: a
+cite: 155.345(a)
+title: 155.345(a)
+text: '(a)
+
+  Um heliponto deve possuir um sistema visual de orientação de alinhamento para auxiliar a
+  aproximação, quando existirem uma ou mais das seguintes condições para operações noturnas:
+
+  (1)
+
+  procedimentos de separação de obstáculos, de abatimento de ruído ou de controle de tráfego
+  que demandem uma direção especial a ser seguida;
+
+  (2)
+
+  poucas referências visuais de superfície no meio em que se encontra o heliponto; e
+
+  (3)
+
+  instalação de um sistema de luzes de aproximação fisicamente impraticável.'
+keywords:
+- seguranca-aeroportuaria
+- aproximacao
+- heliponto
+- sistema
+- abatimento
+- alinhamento
+- auxiliar
+- condicoes
+- controle
+- demandem
+- direcao
+- encontra
+- especial
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

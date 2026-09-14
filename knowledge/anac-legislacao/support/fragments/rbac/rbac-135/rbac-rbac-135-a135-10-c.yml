@@ -1,0 +1,42 @@
+id: rbac-rbac-135-a135-10-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.10
+section_title: Manual de voo do avião
+subsection_id: c
+cite: A135.10(c)
+title: A135.10(c)
+text: '(c) Informações sobre desempenho. O manual de voo do avião deve conter as informações
+  sobre desempenho determinadas de acordo com os requisitos de desempenho deste Apêndice.
+  Essas informações devem incluir o seguinte:
+
+  (1) dados suficientes para que os pesos limites de decolagem especificados no parágrafo
+  A135.10 (b)(2) possam ser determinados para todas as temperaturas e altitudes dentro das
+  limitações operacionais selecionadas pelo requerente;
+
+  (2) as condições sob as quais as informações de desempenho foram obtidas, incluindo a velocidade
+  a 15 m (50 pés) de altura usada para determinar distâncias de pouso;
+
+  (3) informações sobre desempenho (determinadas por extrapolações e calculadas para a faixa
+  de pesos entre os pesos máximos de pouso e de decolagem) para:'
+keywords:
+- taxi-aereo
+- operacoes
+- desempenho
+- informacoes
+- pesos
+- a135
+- aviao
+- decolagem
+- determinadas
+- manual
+- pouso
+- acordo
+- altitudes
+- altura
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-135-a135-4-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.4
+section_title: Compensação
+subsection_id: a
+cite: A135.4(a)
+title: A135.4(a)
+text: (a) Compensação lateral e direcional. O avião deve manter compensação lateral e direcional
+  em voo nivelado na velocidade VH ou VMO / MMO, a que for menor, com trem de pouso e flapes
+  de asa recolhidos.
+keywords:
+- taxi-aereo
+- operacoes
+- compensacao
+- direcional
+- lateral
+- a135
+- aviao
+- flapes
+- manter
+- menor
+- nivelado
+- pouso
+- recolhidos
+- trem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

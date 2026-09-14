@@ -1,0 +1,29 @@
+id: rbac-rbac-90-90-61-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.61'
+section_title: Controle de horas de voo dos pilotos da UAP
+subsection_id: d
+cite: 90.61(d)
+title: 90.61(d)
+text: (d) A declaração individual de horas de voo emitida pela UAP é o documento de comprovação
+  de experiência de voo junto à ANAC.
+keywords:
+- regras-de-voo
+- operacoes
+- horas
+- comprovacao
+- controle
+- declaracao
+- documento
+- emitida
+- experiencia
+- individual
+- junto
+- pilotos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

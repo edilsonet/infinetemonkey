@@ -1,0 +1,44 @@
+id: rbac-rbac-91-91-1027-f
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1027'
+section_title: Requisitos de conservação de registros
+subsection_id: f
+cite: 91.1027(f)
+title: 91.1027(f)
+text: '(f) Caso o administrador de programa possua aprovação em suas especificações administrativas
+
+  para elaboração de manifesto de carga por meio de EFB, a assinatura requerida no parágrafo
+  (c) desta
+
+  seção pode ser substituída por uma autenticação digital atribuída ao piloto em comando ou
+  por sua
+
+  assinatura no próprio dispositivo. Adicionalmente, a via requerida pelo parágrafo (d) desta
+  seção pode
+
+  ser enviada somente por meio eletrônico para a base do administrador de programa, devendo
+  o piloto
+
+  em comando se certificar de seu recebimento.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- administrador
+- assinatura
+- comando
+- desta
+- meio
+- paragrafo
+- piloto
+- pode
+- programa
+- requerida
+- secao
+- adicionalmente
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

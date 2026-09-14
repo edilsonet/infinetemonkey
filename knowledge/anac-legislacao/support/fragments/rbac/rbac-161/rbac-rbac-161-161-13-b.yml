@@ -1,0 +1,55 @@
+id: rbac-rbac-161-161-13-b
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.13'
+section_title: Disposições gerais
+subsection_id: b
+cite: 161.13(b)
+title: 161.13(b)
+text: '(b)
+
+  Curvas de ruído são linhas traçadas em um mapa, cada uma representando níveis iguais de
+  exposição ao ruído.
+
+  (1)
+
+  Curva de Ruído de 85 é a linha traçada a partir da interpolação dos pontos que apresentam
+  nível de ruído médio dia-noite de 85 dB.
+
+  (2)
+
+  Curva de Ruído de 80 é a linha traçada a partir da interpolação dos pontos que apresentam
+  nível de ruído médio dia-noite de 80 dB.
+
+  (3)
+
+  Curva de Ruído de 75 é a linha traçada a partir da interpolação dos pontos que apresentam
+  nível de ruído médio dia-noite de 75 dB.
+
+  (4)
+
+  Curva de Ruído de 70 é a linha traçada a partir da interpolação dos pontos que apresentam
+  nível de ruído médio dia-noite de 70 dB.
+
+  (5)
+
+  Curva de Ruído de 65 é a linha traçada a partir da interpolação dos pontos que apresentam
+  nível de ruído médio dia-noite de 65 dB.'
+keywords:
+- ruido
+- apresentam
+- curva
+- interpolacao
+- linha
+- medio
+- nivel
+- noite
+- partir
+- pontos
+- tracada
+- cada
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-103-103-13-body
+kind: rbac
+document: rbac-103
+family: '103'
+section_id: '103.13'
+section_title: Regras de tráfego aéreo
+subsection_id: body
+cite: '103.13'
+title: Regras de tráfego aéreo
+text: '103.13 Regras de tráfego aéreo
+
+  O operador de veículo ultraleve e balão livre tripulado deve observar as regras de tráfego
+  aéreo
+
+  emitidas pelo Departamento de Controle do Espaço Aéreo - DECEA correspondentes ao espaço
+  de
+
+  voo utilizado, bem como, quaisquer limitações adicionais impostas na forma do parágrafo
+
+  103.15(c)(1) deste regulamento.'
+keywords:
+- ultraleves
+- operacoes
+- aereo
+- regras
+- trafego
+- espaco
+- adicionais
+- balao
+- controle
+- correspondentes
+- decea
+- departamento
+- deste
+- emitidas
+categories:
+- ultraleves
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-103.md

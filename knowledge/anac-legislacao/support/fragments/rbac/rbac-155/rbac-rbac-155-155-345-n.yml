@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-345-n
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.345'
+section_title: '155.345'
+subsection_id: n
+cite: 155.345(n)
+title: 155.345(n)
+text: '(n)
+
+  O sistema visual de orientação de alinhamento deve ser capaz de realizar ajustes em azimute
+  com precisão de ± 5 minutos de arco em relação à trajetória de aproximação desejada.'
+keywords:
+- seguranca-aeroportuaria
+- ajustes
+- alinhamento
+- aproximacao
+- arco
+- azimute
+- capaz
+- desejada
+- minutos
+- orientacao
+- precisao
+- realizar
+- relacao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

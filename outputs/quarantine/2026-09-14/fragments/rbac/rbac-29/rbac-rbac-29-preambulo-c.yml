@@ -1,0 +1,34 @@
+id: rbac-rbac-29-preambulo-c
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: c
+cite: preambulo(c)
+title: preambulo(c)
+text: '(c)
+
+  The rotorcraft does not descend below 15 feet above the landing surface. For elevated heliport
+
+  operations, descent may be below the level of the landing surface provided the deck edge
+  clearance of §'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- below
+- landing
+- preambulo
+- surface
+- above
+- clearance
+- deck
+- descend
+- descent
+- does
+- edge
+- elevated
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

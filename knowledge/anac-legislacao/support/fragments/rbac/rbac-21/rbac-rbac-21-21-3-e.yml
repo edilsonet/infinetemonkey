@@ -1,0 +1,45 @@
+id: rbac-rbac-21-21-3-e
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.3'
+section_title: Comunicação de falhas, mau funcionamento e defeitos
+subsection_id: e
+cite: 21.3(e)
+title: 21.3(e)
+text: '(e) Cada comunicação requerida por esta seção:
+
+  (1) deve ser enviada à ANAC no prazo máximo de um dia útil após ser determinado que ocorreu
+  uma falha, mau funcionamento ou defeito que requeira ser comunicado;
+
+  (2) deve ser transmitida da forma e maneira aceitável pela ANAC e pelo meio mais rápido
+  disponível; e (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )
+
+  (3) deve incluir, tanto quanto possível, as seguintes informações, desde que elas estejam
+  disponíveis ou sejam aplicáveis:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- comunicacao
+- funcionamento
+- aceitavel
+- aplicaveis
+- cada
+- comunicado
+- dada
+- defeito
+- defeitos
+- desde
+- determinado
+- disponiveis
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

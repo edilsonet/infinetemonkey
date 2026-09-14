@@ -1,0 +1,48 @@
+id: rbac-rbha-e-rbac-11-41-b
+kind: rbac
+document: rbha-e-rbac
+family: '11'
+section_id: '11.41'
+section_title: '11.41'
+subsection_id: b
+cite: 11.41(b)
+title: 11.41(b)
+text: '(b) A solicitação deve conter as seguintes informações:
+
+
+  (1) identificação do solicitante;
+
+
+  (2) identificação completa dos requisitos em relação aos quais o nível equivalente de segurança
+
+  é solicitado;
+
+
+  (3) a natureza e a extensão do nível equivalente de segurança pretendido e a identificação
+
+  completa de cada equipamento ou pessoa a ser favorecida; e
+
+
+  (4) as razões que comprovem que o projeto, procedimento ou equipamento pretendido garante,
+
+  conforme aplicável, nível equivalente de segurança ou nível equivalente de proteção ambiental
+  ao
+
+  proporcionado pelo cumprimento literal do requisito.'
+keywords:
+- processo-normativo
+- equivalente
+- nivel
+- identificacao
+- seguranca
+- completa
+- equipamento
+- pretendido
+- ambiental
+- aplicavel
+- cada
+- comprovem
+- conter
+categories:
+- processo-normativo
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-269-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.269'
+section_title: Temperatura do compartimento dos cilindros dos extintores de incêndio
+subsection_id: body
+cite: '121.269'
+title: Temperatura do compartimento dos cilindros dos extintores de incêndio
+text: '121.269 Temperatura do compartimento dos cilindros dos extintores de incêndio
+
+  Devem ser tomadas precauções para garantir que os cilindros do sistema de extinção de incêndio
+  sejam instalados em locais onde temperaturas ambiente razoáveis possam ser mantidas, assegurando
+  o uso efetivo do sistema em qualquer situação.'
+keywords:
+- transporte-aereo
+- operacoes
+- cilindros
+- incendio
+- compartimento
+- extintores
+- temperatura
+- sistema
+- ambiente
+- assegurando
+- efetivo
+- extincao
+- garantir
+- instalados
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

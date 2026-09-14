@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-183-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.183'
+section_title: 'Requisitos de desempenho: aeronaves terrestres operando sobre água'
+subsection_id: d
+cite: 135.183(d)
+title: 135.183(d)
+text: '(d) ela for um helicóptero equipado com dispositivo de flutuação para helicópteros
+  aprovado.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- agua
+- aprovado
+- dada
+- desempenho
+- dispositivo
+- equipado
+- flutuacao
+- helicoptero
+- helicopteros
+- operando
+- redacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

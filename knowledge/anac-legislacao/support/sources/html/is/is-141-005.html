@@ -1,0 +1,1468 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    
+        <base href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-005"><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<meta name="description" content="Guia para implementação e manutenção do SGSO em Centros de Instrução de Aviação Civil certificados conforme o RBAC 141">
+<meta property="creator.productor" content="https://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144">
+
+
+
+  
+    <style type="text/css" media="all">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcejquery-cachekey-80b55be56ff91e31c159c0c5e9722242.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-9cfb53d9aa08301870cf2e0b1f47caa8.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/base-cachekey-918551aabf9ba648db40031b989f84c1.css">
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.overlays-cachekey-8fee62bb0caac20504dcadaad06a0cd6.css" media="screen">
+    <style type="text/css" media="screen">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey-e912cae44f5cd1ed6176e330a8f96599.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcecollection-cachekey-82e7f28fc748bf1726e97a97d49b25b3.css" media="screen">
+    <style type="text/css" media="screen">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcecalendar_stylescalendar-cachekey-539c87dd997a5622bc931c075634b3a3.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.agendaagenda-cachekey-f1078befaeede6c82cfdb19b3541e2c4.css">
+    <style type="text/css" media="screen">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-0dfee518a8e1f810e1a6298698d3c670.css);</style>
+    <style type="text/css" media="screen">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-a2f98ccc279b583a7eb83441d87e54cd.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/embedder-cachekey-8cf8e9609f67cc6a166ff783ff449e08.css" media="screen">
+    <style type="text/css" media="screen">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcecollective.pollscsscollective.polls-cachekey-7885008af69608a7bfd29ae65f865b1a.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.tilestiles-cachekey-ea833e27c6360528bacf5ed45c1d827c.css">
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/IEFixes-cachekey-5d34d85f728d30a63805a8f3807dfd80.css" media="screen" />
+        <![endif]-->
+    
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/faceted_view-cachekey-efed9877626cd76ae7e09dafd774947b.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.facetadacssmain-cachekey-43159dd67e58222fa2cc54498d916bd5.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourceeea.forms.edit-cachekey-eff9a41bd9204c00b9ca2dd1ea6a4a9e.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcejquery.colorpicker-cachekey-af0399f32cf2089f0cae92fb98fa9771.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/eea-icons-cachekey-850875ba060510186996ed22d936a246.css" media="screen">
+    <style type="text/css">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourceanac.gov.temacssmain-cachekey-40c693741071dd51e7298a083252cc2b.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-106e6e2d7f4c73c58ae44fa5646cef5b.css">
+    <style type="text/css">@import url(https://www.anac.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-5e6c80f0f54491291e9cf54f1b0676f9.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/portal_css/Sunburst%20Theme/ploneCustom-cachekey-37910c4d3719bc615ed8782bb7b37f01.css" media="all">
+
+  
+  
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-77b4fc51b490aba072887fc0feb01067.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.querystring.querywidget-cachekey-ecb42ea3147de92e730cb7c45dd656f0.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.contenttreecontenttree-cachekey-d5cfebca4358d30fcc76e718d132a43c.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-794040d98736e156e91f2293eb073527.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.portletsjsmain-cachekey-866da251254894f7f8c4b46e6d4684a5.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.facetadajsmain-cachekey-f2ee79385a2aadc26612322fbddd6c3e.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourceeea.forms.edit-cachekey-e6e6ddb01a2f5005b16c6b01aa0a9fd0.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourcejquery.colorpicker-cachekey-f46bc9fa9cc0152fd30ddcdc5b0523bb.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/eea-icons-cachekey-fbd5cce3d6c75f393ad9bcef3030d64d.js"></script>
+    <script type="text/javascript">
+/* - ++resource++eea.googlecharts.iframe_resize.js - */
+// https://www.anac.gov.br/portal_javascripts/++resource++eea.googlecharts.iframe_resize.js?original=1
+function chartAreaAttribute2px(value,size){var pixels=0;if(typeof(value)==="string"){if(value.indexOf("%")!=-1){pixels=size/100 * parseFloat(value,10)}}
+else{if(typeof(value)==="number"){pixels=value}}
+return parseInt(pixels,10)}
+if(window.DavizIframeResizer===undefined){var DavizIframeResizer={'version':'eea.googlecharts'};DavizIframeResizer.Events={}}
+DavizIframeResizer.Events.charts={resized:'google-chart-iframesized'};DavizIframeResizer.ChartResizer=function(context){var self=this;self.context=context;self.initialize()};DavizIframeResizer.ChartResizer.prototype={initialize: function(){var self=this;self.iframeDefaultSettings={src:self.context.attr("src"),width:self.context.width(),height:self.context.height()};self.iframeNewSettings={src:self.context.attr("src"),width:self.context.width(),height:self.context.height()};self.startResize();self.setChartAreaSizes();self.shouldUpdate=true;self.area=jQuery('.googlechart-chartiframe-resizable');self.area.append(jQuery('<div>').addClass('googlechart-resize-cleanup'));self.lock=jQuery('<div>').addClass('googlechart-resize-status-lock');self.message=jQuery('<div>').addClass('googlechart-resize-ajax-loader');self.lock.prepend(this.message);self.area.prepend(this.lock);self.lock.slideUp()},startMessage: function(msg){this.message.html(msg);this.lock.slideDown()},stopMessage: function(msg){this.message.html(msg);this.lock.delay(1500).slideUp()},parseQueryString: function(src){var qs_full=src.split('?')[1];var qs=qs_full;var qs_filters='';if(qs_full.indexOf('#_filters=')>0){var qs_params=qs_full.split('#_filters=');qs=qs_params[0];qs_filters=qs_params[1]}
+var params=jQuery.deparam(qs);var params_filters=null;if(qs_filters.length>0){params_filters=JSON.parse(decodeURIComponent(qs_filters).split(";").join(","))}
+return [params,params_filters,qs_filters]},updateMasks: function(sizes){var self=this;jQuery(".custom-overlay-mask.top").width(sizes.fullWidth).height(sizes.iframeTop).offset({left:0,top:0});jQuery(".custom-overlay-mask.bottom").width(sizes.fullWidth).height(sizes.fullHeight-sizes.iframeHeight-sizes.iframeTop).offset({left:0,top:sizes.iframeHeight+sizes.iframeTop});jQuery(".custom-overlay-mask.left").width(sizes.iframeLeft).height(sizes.iframeHeight).offset({left:0,top:sizes.iframeTop});jQuery(".custom-overlay-mask.right").width(sizes.fullWidth-sizes.iframeLeft-sizes.iframeWidth).height(sizes.iframeHeight).offset({left:sizes.iframeLeft+sizes.iframeWidth,top:sizes.iframeTop})},resizeIframe: function(options){var self=this;var settings={width:0,height:0,chartWidth:0,chartHeight:0,areaLeft:0,areaTop:0,areaWidth:0,areaHeight:0,hideFilters:false,hideNotes:false,hideQRCode:false,hideWatermark:false,hideLink:false};jQuery.extend(settings,options);self.context.width(settings.width);self.context.height(settings.height);var params_data=self.parseQueryString(self.iframeNewSettings.src);var params=params_data[0];var params_filters=params_data[1];var params_hash=params_data[2];if((parseInt(params.chartWidth,10)===settings.chartWidth)&&(parseInt(params.chartHeight,10)===settings.chartHeight)){delete params.padding;if(settings.areaWidth!==0){var top=settings.areaTop;var right=settings.chartWidth-settings.areaLeft-settings.areaWidth;var bottom=settings.chartHeight-settings.areaTop-settings.areaHeight;var left=settings.areaLeft;params.padding=top+","+right+","+bottom+","+left}}
+else{params.chartWidth=settings.chartWidth;params.chartHeight=settings.chartHeight}
+if(params.customStyle!==undefined){params.customStyle=params.customStyle.split(".googlechart_filters{display:none}").join("").split(".googlechart-notes{display:none}").join("").split('div[id*="googlechart_qr_"]{display:none}').join("").split('div[id*="googlechart_wm_"]{display:none}').join("").split(".go-to-original-link{display:none}").join("")}
+if(settings.hideFilters||settings.hideNotes||settings.hideQRCode||settings.hideWatermark||settings.hideLink){if(params.customStyle===undefined){params.customStyle=""}
+if(settings.hideFilters){params.customStyle+=".googlechart_filters{display:none}"}
+if(settings.hideNotes){params.customStyle+=".googlechart-notes{display:none}"}
+if(settings.hideQRCode){params.customStyle+='div[id*="googlechart_qr_"]{display:none}'}
+if(settings.hideWatermark){params.customStyle+='div[id*="googlechart_wm_"]{display:none}'}
+if(settings.hideLink){params.customStyle+=".go-to-original-link{display:none}"}}
+var new_src=self.iframeNewSettings.src.split("?")[0]+"?"+jQuery.param(params);if(params_hash){new_src=new_src+'#_filters='+params_hash}
+self.context.attr("src",new_src);var loopForSet=function(){if(self.shouldUpdate){try{self.setChartAreaSizes();self.iframeNewSettings.src=new_src;self.iframeNewSettings.width=settings.width;self.iframeNewSettings.height=settings.height}
+catch(e){}
+setTimeout(loopForSet,500)}};setTimeout(loopForSet,500)},disableResize: function(){jQuery(".googlechart-chartiframe-resizable").remove();jQuery(".custom-overlay-mask").remove()},applyResize: function(){var self=this;self.shouldUpdate=false;var data={old_src:self.iframeDefaultSettings.src,old_width:self.iframeDefaultSettings.width,old_height:self.iframeDefaultSettings.height,new_src:self.iframeNewSettings.src,new_width:self.iframeNewSettings.width,new_height:self.iframeNewSettings.height};var action=jQuery("base").attr("href")+"/@@googlechart.resize_iframe";self.startMessage("Saving updated charts");jQuery.ajax({type:'POST',url:action,data:data,async:true,success: function(data){if(data==="ok"){self.startMessage("Done");self.disableResize()}
+else{self.startMessage("Couldn't save changes!");alert("Couldn't save changes!")}},error: function(data){self.startMessage("Couldn't save changes!");alert("Couldn't save changes!")}})},cancelResize: function(){var self=this;self.shouldUpdate=false;self.context.width(self.iframeDefaultSettings.width);self.context.height(self.iframeDefaultSettings.height);self.context.attr("src",self.iframeDefaultSettings.src);self.disableResize()},hideDialog: function(){var self=this;self.shouldUpdate=false;jQuery(".googlechart-iframe-hidedialog").remove();var hideDialogForm=jQuery("<div>").addClass('googlechart-iframe-hideform').data("resizer",self);hideDialogForm.dialog({dialogClass:'googlechart-iframe-hidedialog',title:'Select elements to hide',modal:true,height:200,width:240,resizable:false,open: function(evt,ui){jQuery("<span>").text("Filters").appendTo('.googlechart-iframe-hideform');jQuery("<input>").attr("type","checkbox").addClass("googlechart-iframe-hide-filters").addClass("googlechart-iframe-hide-element").appendTo('.googlechart-iframe-hideform');jQuery("<br/>").appendTo('.googlechart-iframe-hideform');if(!self.context.data("isDashboard")){jQuery("<span>").text("Notes").appendTo('.googlechart-iframe-hideform');jQuery("<input>").attr("type","checkbox").addClass("googlechart-iframe-hide-notes").addClass("googlechart-iframe-hide-element").appendTo('.googlechart-iframe-hideform');jQuery("<br/>").appendTo('.googlechart-iframe-hideform')}
+jQuery("<span>").text("QR Code").appendTo('.googlechart-iframe-hideform');jQuery("<input>").attr("type","checkbox").addClass("googlechart-iframe-hide-qrcode").addClass("googlechart-iframe-hide-element").appendTo('.googlechart-iframe-hideform');jQuery("<br/>").appendTo('.googlechart-iframe-hideform');jQuery("<span>").text("Watermark").appendTo('.googlechart-iframe-hideform');jQuery("<input>").attr("type","checkbox").addClass("googlechart-iframe-hide-watermark").addClass("googlechart-iframe-hide-element").appendTo('.googlechart-iframe-hideform');jQuery("<br/>").appendTo('.googlechart-iframe-hideform');jQuery("<span>").text("Link").appendTo('.googlechart-iframe-hideform');jQuery("<input>").attr("type","checkbox").addClass("googlechart-iframe-hide-link").addClass("googlechart-iframe-hide-element").appendTo('.googlechart-iframe-hideform');var resizer=jQuery('.googlechart-iframe-hideform').data("resizer");var customStyle=jQuery.deparam(resizer.iframeNewSettings.src).customStyle;if(customStyle!==undefined){if(customStyle.indexOf(".googlechart_filters{display:none}")>=0){jQuery(".googlechart-iframe-hide-filters").attr("checked","checked")}
+if(customStyle.indexOf(".googlechart-notes{display:none}")>=0){jQuery(".googlechart-iframe-hide-notes").attr("checked","checked")}
+if(customStyle.indexOf('div[id*="googlechart_qr_"]{display:none}')>=0){jQuery(".googlechart-iframe-hide-qrcode").attr("checked","checked")}
+if(customStyle.indexOf('div[id*="googlechart_wm_"]{display:none}')>=0){jQuery(".googlechart-iframe-hide-watermark").attr("checked","checked")}
+if(customStyle.indexOf(".go-to-original-link{display:none}")>=0){jQuery(".googlechart-iframe-hide-link").attr("checked","checked")}}},buttons:{Cancel: function(){jQuery(this).dialog('close')},Save: function(){var resizer=jQuery('.googlechart-iframe-hideform').data("resizer");resizer.shouldUpdate=true;var options={width:resizer.iframeNewSettings.width,height:resizer.iframeNewSettings.height,hideFilters:(jQuery(".googlechart-iframe-hide-filters").attr("checked")==="checked"?true:false),hideNotes:(jQuery(".googlechart-iframe-hide-notes").attr("checked")==="checked"?true:false),hideQRCode:(jQuery(".googlechart-iframe-hide-qrcode").attr("checked")==="checked"?true:false),hideWatermark:(jQuery(".googlechart-iframe-hide-watermark").attr("checked")==="checked"?true:false),hideLink:(jQuery(".googlechart-iframe-hide-link").attr("checked")==="checked"?true:false)};if(!resizer.context.data("isDashboard")){var iframeSizes=self.context[0].contentWindow.getIframeSizes();options.chartWidth=iframeSizes.chart.width;options.chartHeight=iframeSizes.chart.height;options.areaLeft=chartAreaAttribute2px(iframeSizes.chartArea.left,iframeSizes.chart.width);options.areaTop=chartAreaAttribute2px(iframeSizes.chartArea.top,iframeSizes.chart.height);options.areaWidth=chartAreaAttribute2px(iframeSizes.chartArea.width,iframeSizes.chart.width);options.areaHeight=chartAreaAttribute2px(iframeSizes.chartArea.height,iframeSizes.chart.height)}
+resizer.resizeIframe(options);jQuery(this).dialog('close')}}})},getSizes: function(){var self=this;var view=self.context;var sizes={};sizes.iframeWidth=view.width();sizes.iframeHeight=view.height();sizes.iframeLeft=view.offset().left;sizes.iframeTop=view.offset().top;sizes.fullWidth=jQuery("html").width();sizes.fullHeight=jQuery("html").height();if(!self.context.data().isDashboard){var iframeSizes=self.context[0].contentWindow.getIframeSizes();sizes.chart=iframeSizes.chart;sizes.chartArea=iframeSizes.chartArea}
+return sizes},setChartAreaSizes: function(){var self=this;if(!self.chartAreaConfigurable){return}
+var size=self.getSizes();var parentOffset=jQuery(".googlechart-chartarea-resizable").parent().offset();if((size.chartArea.width!==0)&&(size.chartArea.height!==0)){chartAreaWidth=chartAreaAttribute2px(size.chartArea.width,size.chart.width);chartAreaHeight=chartAreaAttribute2px(size.chartArea.height,size.chart.height);chartAreaLeft=chartAreaAttribute2px(size.chartArea.left,size.chart.width);chartAreaTop=chartAreaAttribute2px(size.chartArea.top,size.chart.height);jQuery(".googlechart-chartarea-width").attr("value",chartAreaWidth);jQuery(".googlechart-chartarea-height").attr("value",chartAreaHeight);jQuery(".googlechart-chartarea-left").attr("value",chartAreaLeft);jQuery(".googlechart-chartarea-top").attr("value",chartAreaTop);jQuery(".googlechart-chartarea-resizable").width(chartAreaWidth).height(chartAreaHeight).offset({left:parentOffset.left+chartAreaLeft+4,top:parentOffset.top+chartAreaTop})}
+else{jQuery(".googlechart-chartarea-resizable").hide()}
+parentOffset=jQuery(".googlechart-chart-resizable").parent().offset();jQuery(".googlechart-chart-resizable").width(size.chart.width).height(size.chart.height).offset({left:parentOffset.left+size.chart.left,top:parentOffset.top+size.chart.top})},drawOverlays: function(){var self=this;var sizes=self.getSizes();self.updateMasks(sizes);jQuery("<div>").addClass("googlechart-chartiframe-resizable").width(sizes.iframeWidth).height(sizes.iframeHeight).offset({left:sizes.iframeLeft,top:sizes.iframeTop}).resizable({stop: function(){self.shouldUpdate=true;jQuery(".googlechart-chartiframe-width").trigger("change")},resize: function(){self.shouldUpdate=false;jQuery(".googlechart-chartiframe-width").attr("value",jQuery(this).width());jQuery(".googlechart-chartiframe-height").attr("value",jQuery(this).height())}}).appendTo("body");jQuery("<div>").addClass("googlechart-chartiframe-header").appendTo(".googlechart-chartiframe-resizable");jQuery("<a>").addClass("standardButton googlechart-iframe-apply").text("Apply").click(function(){self.applyResize()}).appendTo(".googlechart-chartiframe-header");jQuery("<a>").addClass("standardButton googlechart-iframe-cancel").text("Cancel").click(function(){self.cancelResize()}).appendTo(".googlechart-chartiframe-header");jQuery("<a>").addClass("standardButton googlechart-iframe-apply").text("Hide elements").click(function(){self.hideDialog()}).appendTo(".googlechart-chartiframe-header");jQuery("<span>iframe size: </span>").appendTo(".googlechart-chartiframe-header");jQuery("<input>").addClass("googlechart-chartiframe-width googlechart-iframe-size").attr("type","number").attr("value",sizes.iframeWidth).appendTo(".googlechart-chartiframe-header");jQuery("<span>x</span>").appendTo(".googlechart-chartiframe-header");jQuery("<input>").addClass("googlechart-chartiframe-height googlechart-iframe-size").attr("type","number").attr("value",sizes.iframeHeight).appendTo(".googlechart-chartiframe-header");jQuery("<span>px</span>").appendTo(".googlechart-chartiframe-header");jQuery("<div style='clear:both'></div>").appendTo(".googlechart-chartiframe-header");if(!self.context.data().isDashboard){jQuery("<div>").addClass("googlechart-chart-resizable").width(sizes.chart.width).height(sizes.chart.height).offset({left:sizes.chart.left,top:sizes.chart.top}).resizable({stop: function(){self.shouldUpdate=true;jQuery(".googlechart-chartiframe-width").trigger("change")},resize: function(){self.shouldUpdate=false;jQuery(".googlechart-chart-width").attr("value",jQuery(this).width());jQuery(".googlechart-chart-height").attr("value",jQuery(this).height())}}).appendTo(".googlechart-chartiframe-resizable");jQuery("<span>chart size: </span>").appendTo(".googlechart-chartiframe-header");jQuery("<input>").addClass("googlechart-chart-width googlechart-iframe-size").attr("type","number").attr("value",sizes.chart.width).appendTo(".googlechart-chartiframe-header");jQuery("<span>x</span>").appendTo(".googlechart-chartiframe-header");jQuery("<input>").addClass("googlechart-chart-height googlechart-iframe-size").attr("type","number").attr("value",sizes.chart.height).appendTo(".googlechart-chartiframe-header");jQuery("<span>px</span>").appendTo(".googlechart-chartiframe-header");self.chartAreaConfigurable=true;if(self.chartAreaConfigurable){jQuery("<div>").addClass("googlechart-chartarea-resizable").hover(
+function(){jQuery(".googlechart-chartiframe-header").addClass("googlechart-chartiframe-header-hidden")},
+function(){jQuery(".googlechart-chartiframe-header").removeClass("googlechart-chartiframe-header-hidden")}).resizable({containment:".googlechart-chart-resizable",resize: function(){self.shouldUpdate=false;jQuery(".googlechart-chartarea-width").attr("value",jQuery(this).width());jQuery(".googlechart-chartarea-height").attr("value",jQuery(this).height())},stop: function(){self.shouldUpdate=true;jQuery(".googlechart-chartarea-width").trigger("change")}}).draggable({containment:".googlechart-chart-resizable",drag: function(){self.shouldUpdate=false;parentOffset=jQuery(".googlechart-chartarea-resizable").parent().offset();jQuery(".googlechart-chartarea-left").attr("value",jQuery(this).offset().left-parentOffset.left);jQuery(".googlechart-chartarea-top").attr("value",jQuery(this).offset().top-parentOffset.top)},stop: function(){self.shouldUpdate=true;jQuery(".googlechart-chartarea-left").trigger("change")}}).appendTo(".googlechart-chart-resizable");jQuery("<div>").addClass("googlechart-chartarea-input googlechart-chartarea-size-input").appendTo(".googlechart-chartarea-resizable");jQuery("<span>").text("Drag & Resize Chart Area").appendTo(".googlechart-chartarea-size-input");jQuery("<div>").text("Or set the size: ").addClass("googlechart-chartarea-size-input-fields").appendTo(".googlechart-chartarea-size-input");jQuery("<span>").text("And the position: ").appendTo(".googlechart-chartarea-size-input");jQuery("<div>").addClass("googlechart-chartarea-input googlechart-chartarea-top-input").appendTo(".googlechart-chartarea-size-input");jQuery("<div>").addClass("googlechart-chartarea-input googlechart-chartarea-left-input").appendTo(".googlechart-chartarea-size-input");jQuery("<input>").addClass("googlechart-chartarea-width googlechart-iframe-size").attr("type","number").appendTo(".googlechart-chartarea-size-input-fields");jQuery("<span>x</span>").appendTo(".googlechart-chartarea-size-input-fields");jQuery("<input>").addClass("googlechart-chartarea-height googlechart-iframe-size").attr("type","number").appendTo(".googlechart-chartarea-size-input-fields");jQuery("<span>px</span>").appendTo(".googlechart-chartarea-size-input-fields");jQuery("<span>top: </span>").appendTo(".googlechart-chartarea-top-input");jQuery("<input>").addClass("googlechart-chartarea-top googlechart-iframe-size").attr("type","number").appendTo(".googlechart-chartarea-top-input");jQuery("<span>px</span>").appendTo(".googlechart-chartarea-top-input");jQuery("<span>left: </span>").appendTo(".googlechart-chartarea-left-input");jQuery("<input>").addClass("googlechart-chartarea-left googlechart-iframe-size").attr("type","number").appendTo(".googlechart-chartarea-left-input");jQuery("<span>px</span>").appendTo(".googlechart-chartarea-left-input")}}
+jQuery(".googlechart-iframe-size").change(function(){var width=parseInt(jQuery(".googlechart-chartiframe-width").attr("value"),0);var height=parseInt(jQuery(".googlechart-chartiframe-height").attr("value"),0);var chartWidth=parseInt(jQuery(".googlechart-chart-width").attr("value"),0);var chartHeight=parseInt(jQuery(".googlechart-chart-height").attr("value"),0);var areaWidth=parseInt(jQuery(".googlechart-chartarea-width").attr("value"),0);var areaHeight=parseInt(jQuery(".googlechart-chartarea-height").attr("value"),0);var areaLeft=parseInt(jQuery(".googlechart-chartarea-left").attr("value"),0);var areaTop=parseInt(jQuery(".googlechart-chartarea-top").attr("value"),0);var options={width:width,height:height,chartWidth:chartWidth,chartHeight:chartHeight,areaWidth:areaWidth,areaHeight:areaHeight,areaLeft:areaLeft,areaTop:areaTop};var customStyle=jQuery.deparam(self.iframeNewSettings.src).customStyle;if(customStyle!==undefined){if(customStyle.indexOf(".googlechart_filters{display:none}")>=0){options.hideFilters=true}
+if(customStyle.indexOf(".googlechart-notes{display:none}")>=0){options.hideNotes=true}
+if(customStyle.indexOf('div[id*="googlechart_qr_"]{display:none}')>=0){options.hideQRCode=true}
+if(customStyle.indexOf('div[id*="googlechart_wm_"]{display:none}')>=0){options.hideWatermark=true}
+if(customStyle.indexOf(".go-to-original-link{display:none}")>=0){options.hideLink=true}}
+self.resizeIframe(options);sizes.iframeWidth=width;sizes.iframeHeight=height;jQuery(".googlechart-chartiframe-resizable").width(width).height(height);jQuery(".googlechart-chart-resizable").width(chartWidth).height(chartHeight);var new_sizes=self.getSizes();self.updateMasks(new_sizes);jQuery(".googlechart-chartiframe-resizable").offset({left:new_sizes.iframeLeft,top:new_sizes.iframeTop})})},startResize: function(){var self=this;jQuery(".custom-overlay-mask").remove();jQuery("<div class='custom-overlay-mask top'></div>").appendTo("body");jQuery("<div class='custom-overlay-mask bottom'></div>").appendTo("body");jQuery("<div class='custom-overlay-mask left'></div>").appendTo("body");jQuery("<div class='custom-overlay-mask right'></div>").appendTo("body");self.drawOverlays()}};jQuery.fn.EEAChartIframeResizer=function(){return this.each(function(){var chartResizer=new DavizIframeResizer.ChartResizer(jQuery(this))})};jQuery(document).ready(function($){if(jQuery("base").attr("href")===undefined){return}
+if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){var ieversion=RegExp.$1;if(ieversion<9){return}}
+var iframe_embedded_charts=jQuery("iframe[src*='embed-chart?chart=']");if(iframe_embedded_charts.length===0){return}
+var action=jQuery("base").attr("href").split("@@")[0]+"/@@googlechart.check_permission";jQuery.ajax({type:'GET',url:action,async:true,success: function(data){if(data==="True"){var resizeButton="<a class='standardButton googlechart-iframe-resize'>Resize chart</a>";jQuery.each(iframe_embedded_charts, function(){var btn=jQuery(resizeButton).data("chart_iframe",this);jQuery(this).data("isDashboard",false);jQuery(this).after(jQuery(resizeButton).data("chart_iframe",this));jQuery(this).after("<div style='clear:both'></div>")});jQuery.each(jQuery("iframe[src*='embed-dashboard?dashboard=']"), function(){var btn=jQuery(resizeButton).data("chart_iframe",this);jQuery(this).data("isDashboard",true);jQuery(this).after(jQuery(resizeButton).data("chart_iframe",this));jQuery(this).after("<div style='clear:both'></div>")});jQuery("a.googlechart-iframe-resize").click(function(){jQuery(jQuery(this).data("chart_iframe")).EEAChartIframeResizer()})}}})});
+</script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourceeea.daviz.tutorials-cachekey-8840e8fe2a7ea78004be1b17c7dadaab.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-21e3f525982da249b8fa59a700e0465a.js"></script>
+    <script type="text/javascript" src="https://www.anac.gov.br/portal_javascripts/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-f22cb74ea3ae71adaaf73d12bb6d8dad.js"></script>
+
+
+<title>IS 141-005B — Agência Nacional de Aviação Civil ANAC</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema">
+
+        
+    <link rel="author" href="https://www.anac.gov.br/author/raquel.barbosa" title="Informações do Autor">
+
+
+    <link rel="canonical" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-005">
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+
+    <link rel="search" href="https://www.anac.gov.br/@@search" title="Buscar neste site">
+
+
+
+        
+        
+        
+        
+      <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/++resource++anac.gov.legislacao/css/main.css">
+      <link rel="stylesheet" type="text/css" href="https://www.anac.gov.br/++resource++anac.gov.legislacao/css/mce_estilos.css">
+    
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org">
+
+    
+
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <link rel="shortcut icon" href="/++theme++anac-novo/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/++theme++anac-novo/img/touch_icon.png">
+
+    <!-- Plone CSS - only for preview, will be removed in rules.xml -->
+    
+
+    <!-- Theme CSS - only for preview, will be removed in rules and added in CSS registry -->
+    
+    <link media="all" href="/++theme++anac-novo/css/style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body data-portal-url="https://www.anac.gov.br" data-base-url="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-005" class="template-norma_view portaltype-anac-gov-br-norma site-Anac section-assuntos subsection-legislacao subsection-legislacao-legislacao-1 subsection-legislacao-legislacao-1-iac-e-is userrole-anonymous" dir="ltr"><div id="accessibility-wrapper">
+            <ul id="accessibility">
+                    <li>
+                        <a accesskey="1" href="#acontent" id="link-conteudo">Ir para o conteúdo <span>1</span></a>
+                    </li>
+                    <li>
+                        <a accesskey="2" href="#anavigation" id="link-navegacao">Ir para o menu <span>2</span></a>
+                    </li>
+                    <li>
+                        <a accesskey="3" href="#SearchableText" id="link-buscar">Ir para a busca <span>3</span></a>
+                    </li>
+                    <li>
+                        <a accesskey="4" href="#afooter" id="link-rodape">Ir para o rodapé <span>4</span></a>
+                    </li>
+                </ul>
+                
+            
+            
+            <ul id="portal-siteactions">
+
+    <li id="siteaction-accessibility">
+        <a href="https://www.anac.gov.br/acessibilidade" accesskey="5">Acessibilidade</a>
+    </li>
+    <li id="siteaction-contraste">
+        <a href="#" accesskey="6">Alto Contraste</a>
+    </li>
+    <li id="siteaction-mapadosite">
+        <a href="https://www.anac.gov.br/mapadosite" accesskey="7">Mapa do site</a>
+    </li>
+    <li id="siteaction-english">
+        <a href="https://www.anac.gov.br/en" accesskey="">english</a>
+    </li>
+</ul>
+</div><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><div id="wrapper">
+
+        <!-- HEADER -->
+
+        <div id="header" role="banner">
+
+            <div>
+
+                
+
+            <div id="logo">
+    <a id="portal-logo" title="A Agência Nacional de Aviação Civil (ANAC), uma das agências reguladoras federais do País, foi criada para regular e fiscalizar as atividades da aviação civil e a infraestrutura aeronáutica e aeroportuária no Brasil. Instituída em 2005, começou a atuar em 2006 substituindo o Departamento de Aviação Civil (DAC). É uma autarquia federal de regime especial e está vinculada ao Ministério da Infraestrutura. As ações da ANAC se enquadram nas atividades de certificação, fiscalização, normatização e representação institucional." href="https://www.anac.gov.br">
+            <img alt="Agência Nacional de Aviação Civil" src="https://www.anac.gov.br/++resource++anac.gov.tema/images/home-logo-anac.png">
+    </a>
+</div>
+
+            <div id="portal-searchbox">
+
+    <form id="nolivesearchGadget_form" action="https://www.anac.gov.br/@@busca">
+        <fieldset class="LSBox">
+            <legend class="hiddenStructure">Buscar no portal</legend>
+            <label class="hiddenStructure" for="nolivesearchGadget">Buscar no portal</label>
+
+            <input name="SearchableText" type="text" size="18" title="Buscar no portal" placeholder="Buscar no portal" class="searchField" id="nolivesearchGadget">
+
+            <input class="searchButton" type="submit" value="Buscar no portal">
+
+        </fieldset>
+    </form>
+
+</div>
+
+            <div id="social-icons">
+                <ul><li id="portalredes-youtube" class="portalredes-item">
+                <a href="http://youtube.com/channel/UC5ynmbMZXolM-jo2hGR31qg">YouTube</a>
+            </li><li id="portalredes-facebook" class="portalredes-item">
+                <a href="http://facebook.com/ANAC-Ag%C3%AAncia-Nacional-de-Avia%C3%A7%C3%A3o-Civil-157025981024380/">Facebook</a>
+            </li><li id="portalredes-linkedin" class="portalredes-item">
+                <a href="https://www.linkedin.com/company/anac-brasil">LinkedIn</a>
+            </li><li id="portalredes-twitter" class="portalredes-item">
+                <a href="https://twitter.com//oficial_Anac">Twitter</a>
+            </li><li id="portalredes-rss" class="portalredes-item">
+                <a href="/rss">RSS</a>
+            </li></ul>
+            </div>
+
+        </div>
+        <div id="sobre">
+            <ul></ul>
+        </div>
+    </div>
+
+    <!-- content -->
+
+    <div id="main">
+    <div id="plone-content">
+
+        <!-- Demo Plone Content -->
+
+        <div id="portal-columns" class="row">
+
+            <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+    <span id="breadcrumbs-you-are-here">Você está aqui:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.anac.gov.br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.anac.gov.br/assuntos">Assuntos</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.anac.gov.br/assuntos/legislacao">Legislação</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1">Acervo normativo</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-4">
+        
+            <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is">IAC e IS</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-5">
+        
+            <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is">IS - Instrução Suplementar</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-6">
+        
+            
+            
+            <span id="breadcrumbs-current">IS 141-005B</span>
+         
+    </span>
+
+</div>
+</div>
+
+            <!-- Column 1 -->
+            <div id="navigation">
+                <a name="anavigation" id="anavigation" class="anchor">menu</a>
+                <span class="menuTrigger">Menu</span>
+                <div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f416e61632f617373756e746f732f6c656769736c6163616f0a6e6f726d61732d646f2d61636572766f" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f416e61632f617373756e746f732f6c656769736c6163616f0a6e6f726d61732d646f2d61636572766f">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        Legislação da ANAC
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-resolucoes">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/resolucoes" title="" class="state-published">
+            <span>Resoluções</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-rbha-e-rbac">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/rbha-e-rbac" title="" class="state-published">
+            <span>RBAC e RBHA</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-iac-e-is">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/iac-e-is" title="" class="state-published">
+            <span>IS e IAC</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-decisoes">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/decisoes" title="" class="state-published">
+            <span>Decisões</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-instrucoes-normativas">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/instrucoes-normativas" title="" class="state-published">
+            <span>Instruções Normativas</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-portarias">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/portarias" title="" class="state-published">
+            <span>Portarias</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-portaria-de-pessoal">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/portaria-de-pessoal/" title="" class="state-published">
+            <span>Portarias de Pessoal</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-editais">
+
+    
+
+
+        <a href="https://www.anac.gov.br/assuntos/legislacao/editais" title="" class="state-published navTreeFolderish">
+            <span>Editais</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-ce-sc-2013-condicao-especial">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/cesc-condicao-especial" title="" class="state-published">
+            <span>Condições Especiais</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-sumulas-administrativas">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/" title="" class="state-published">
+            <span>Súmulas Administrativas</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-planos-e-programas">
+
+    
+
+
+        <a href="/Anac/assuntos/legislacao/legislacao-1/planos-e-programas" title="" class="state-published">
+            <span>Programas, Planos e Diretrizes</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-legislacao-federal">
+
+    
+
+
+        <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-federal" title="" class="state-published navTreeFolderish">
+            <span>Legislação Federal</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-busca-legislacao">
+
+    
+
+
+        <a href="https://www.anac.gov.br/assuntos/legislacao/busca-legislacao" title="" class="state-published navTreeFolderish">
+            <span>Pesquisar Legislação</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-busca-avancada">
+
+    
+
+
+        <a href="https://www.anac.gov.br/assuntos/legislacao/busca-avancada" title="" class="state-published navTreeFolderish">
+            <span>Biblioteca</span>
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-bps-1">
+
+    
+
+
+        <a href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/boletim-de-pessoal" title="" class="state-published">
+            <span>BPS</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f416e61632f617373756e746f732f6c656769736c6163616f0a706f72746c65745f737461746963" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f416e61632f617373756e746f732f6c656769736c6163616f0a706f72746c65745f737461746963">
+<dl class="portlet portletStaticText portlet-static">
+
+    <dt class="portletHeader titleless">
+        <span class="portletTopLeft"></span>
+        <span>
+           
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><a title="" href="https://www.anac.gov.br/assuntos/legislacao/legislacao-1/boletim-de-pessoal" class="internal-link" target="_self"><img src="https://www.anac.gov.br/assuntos/legislacao/imagem/banner_BPS_v2.jpg" alt="" class="image-inline" title=""></a></p>
+<p> </p>
+<p> </p>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+
+
+
+            
+        </div></div>
+
+            <!-- Conteudo -->
+            <div id="portal-column-content" class="cell width-3:4 position-1:4">
+                <a name="acontent" id="acontent" class="anchor">conteúdo</a>
+
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+        
+        
+    
+                             <div id="viewlet-below-content-title">
+
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+  <span class="documentPublished">
+    <span>publicado</span>
+    23/12/2024 13h43,
+  </span>
+
+  <span class="documentModified">
+    <span>última modificação</span>
+    23/12/2024 13h43
+  </span>
+  
+
+  
+
+  
+
+  
+
+  
+
+</div>
+</div>
+
+                             
+        
+
+        
+    
+
+                             <div id="viewlet-above-content-body"></div>
+                             <div id="content-core">
+                                 
+        
+
+            <div style="text-align:justify" class="norma-corpo">
+
+                
+
+                
+                  <p> </p>
+<meta content="no-cache" http-equiv="Pragma"><meta content="noindex" name="robots"><meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<title>SEI/ANAC - 10975915 - Anexo</title>
+<p class="Texto_Alinhado_Esquerda"> </p>
+<table border="1" style="width: 652px;">
+<tbody>
+<tr>
+<td colspan="2">
+<p class="Texto_Justificado"><img src="data:image/png;base64,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"></p>
+</td>
+<td colspan="3" rowspan="1">
+<p class="Texto_Justificado"><strong>INSTRUÇÃO SUPLEMENTAR – IS</strong></p>
+<p class="Texto_Justificado"><strong>IS Nº 141-005</strong></p>
+<p class="Texto_Justificado"><strong>Revisão B</strong></p>
+<p class="Texto_Justificado"> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Texto_Justificado"><strong>Aprovação:</strong></p>
+</td>
+<td colspan="4">
+<p class="Texto_Justificado"><a class="external-link" href="../../../portarias/2024/portaria-16043" target="_blank" title="">Portaria 16.043/SPL, de 19 de dezembro de 2024</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Texto_Justificado"><strong>Assunto:</strong></p>
+</td>
+<td colspan="2">
+<p class="Texto_Justificado">Guia para implementação e manutenção do SGSO em Centros de Instrução de Aviação Civil certificados conforme o RBAC 141</p>
+</td>
+<td colspan="2">
+<p class="Texto_Justificado"><strong>Origem:</strong> SPL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Texto_Justificado"><strong>Data de Emissão:</strong></p>
+</td>
+<td colspan="4">
+<p class="Texto_Justificado">23.12.2024</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Texto_Justificado"><strong>Data de Vigência:</strong></p>
+</td>
+<td colspan="4">
+<p class="Texto_Justificado">01.01.2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p class="Item_Nivel1">OBJETIVO</p>
+<p class="Item_Nivel2"><span><span>Orientar o detentor ou <a name="_Hlk161319927" target="_blank"></a>requerente de um Certificado de Centro de Instrução de Aviação Civil (CIAC) emitido em consonância com o RBAC </span></span><span><span>nº 141 acerca da a implementação e manutenção de seu Sistema de Gerenciamento da Segurança Operacional (SGSO).</span></span></p>
+<p class="Item_Nivel1">REVOGAÇÃO</p>
+<p class="Item_Nivel2">Esta IS revoga a <a href="https://pergamum.anac.gov.br/pergamum/vinculos/IS141-005A.pdf" target="_blank">IS nº 141-005 Revisão A</a>.</p>
+<p class="Item_Nivel1">FUNDAMENTos</p>
+<p class="Item_Nivel2">A <a href="https://pergamum.anac.gov.br/pergamum/vinculos/RA2008-0030.pdf" target="_blank" data-reflinkpro="5bZjfy0o">Resolução nº 30, de 21 de maio de 2008</a>, institui em seu art. 14, a Instrução Suplementar – IS, norma suplementar de caráter geral editada pelo Superintendente da área competente, objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC.</p>
+<p class="Item_Nivel2">O administrado que pretenda para qualquer finalidade demonstrar o cumprimento de requisito previsto em RBAC, poderá:</p>
+<p class="Item_Alinea_Letra">adotar os meios e procedimentos previamente especificados em IS; ou</p>
+<p class="Item_Alinea_Letra">apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse caso, a análise e concordância expressa do órgão competente da ANAC.</p>
+<p class="Item_Nivel2">O meio ou procedimento alternativo mencionado no item 3.2b desta IS deve garantir nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar o objetivo do procedimento normalizado em IS.</p>
+<p class="Item_Nivel2">A IS não pode criar requisitos adicionais ou contrariar requisitos estabelecidos em RBAC ou outro ato normativo.</p>
+<p class="Item_Nivel2"><span style="text-align:justify; "><span><span><span><span><span><span class="dark-mode-color-black" style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span><span style="float:none; ">Esta IS é fundamentada e objetiva oferecer método de cumprimento para a seção 141.27 do RBAC nº 141.</span></span></span></span></span></span></span></span></span></span></span> </p>
+<p class="Item_Nivel1">DEFINIÇÕES</p>
+<p class="Item_Nivel2" style="text-align:justify; "><span><span><span><span><span><span><span><span><span><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span style="text-align:justify; "><span><span><span><span><span><span class="dark-mode-color-black" style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span><span style="float:none; ">Para os efeitos desta IS, são válidas as definições listadas nas:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="Item_Alinea_Letra" style="text-align:justify; "><span><span><span><span><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span style="text-align:justify; "><span class="dark-mode-color-black" style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span><span style="float:none; ">seção 01.1 do RBAC nº 01; e</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="Item_Alinea_Letra" style="text-align:justify; "><span><span><span><span><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span style="text-align:justify; "><span><span><span><span><span><span class="dark-mode-color-black" style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span><span style="float:none; ">seção 141.3 do RBAC </span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span style="vertical-align:baseline; "><span><span><span><span><span><span><span><span class="dark-mode-color-black"><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; ">nº 141.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="Item_Nivel2" style="text-align:justify; "><span><span><span><span><span><span><span><span><span><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span><span><span style="vertical-align:baseline; "><span><span><span><span><span><span><span><span class="dark-mode-color-black"><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; ">Além disso, são válidas as seguintes definições:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="Item_Nivel3"><b>Consequência</b>: resultado potencial de um perigo.</p>
+<p class="Item_Nivel3"><strong>Gerenciamento dos Riscos à Segurança Operacional (GRSO)</strong>: <span><span><span style="color:black; ">a identificação dos perigos, a análise e a eliminação e/ou mitigação dos riscos que ameaçam as capacidades de uma organização da aviação civil, de forma que sejam mantidos em um nível aceitável.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Gestor responsável</strong>: pessoa física, designada pelo detentor e/ou requerente de certificado para atuar em seu nome, com autoridade corporativa para assegurar que todas as atividades de operações e de manutenção do detentor de certificado possam ser financiadas e realizadas com o nível de segurança operacional requerido pela ANAC e estabelecido no SGSO da organização.</p>
+<p class="Item_Nivel3"><strong>Indicadores de Desempenho de Segurança Operacional</strong>: <span><span><span style="color:black; ">uma medição quantitativa do desempenho de segurança operacional de um CIAC, expressos em termos quantificáveis, associados aos resultados de uma dada atividade realizada pelo provedor de serviços</span></span></span></p>
+<p class="Item_Nivel3"><strong>Manual de Gerenciamento de Segurança Operacional (MGSO)</strong>: <span><span><span style="color:black; ">documento, em papel ou mídia eletrônica, que tem por objetivo formalizar e divulgar a abordagem de segurança operacional da empresa.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Metas de Desempenho da Segurança Operacional</strong>: <span><span><span style="color:black; ">uma referência de nível de desempenho de segurança operacional desejado para um CIAC em um prazo definido, devendo ser expressas em termos numéricos e acompanhadas pela ANAC.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Perigo</strong>: <span><span><span style="color:black; ">a condição, objeto ou atividade que potencialmente pode causar lesões a pessoas, danos a bens (equipamentos ou estruturas), </span></span></span>redução de efetivo<span><span><span style="color:black; "> ou redução da habilidade para desempenhar uma função determinada.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Probabilidade</strong>: <span><span><span style="color:black; ">no contexto do SGSO, a possibilidade de que um evento, como consequência de um perigo existente, possa ocorrer.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Risco</strong>: <span><span><span style="color:black; ">a avaliação das consequências de um perigo, expressa em termos de probabilidade e severidade, tomando como referência a pior condição possível.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Segurança operacional</strong>: <span>é o estado no qual o risco de lesões a pessoas ou danos a bens se reduzem e se mantêm em um nível aceitável ou abaixo deste, por meio de um processo contínuo de identificação de perigos e gestão de riscos.</span></p>
+<p class="Item_Nivel3"><strong>Severidade</strong>: <span>grau da consequência de um evento, como decorrência de um perigo existente ou de uma situação insegura, tomando como referência a pior condição possível.</span></p>
+<p class="Item_Nivel3"><strong>Sistema de Garantia da Qualidade</strong>: <span><span><span style="color:black; ">é um sistema que garante que a instrução ministrada pelo CIAC atinja os objetivos propostos e que todos os procedimentos do CIAC se mantenham de acordo com os requisitos estabelecidos no RBAC n° 141.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Sistema de Gerenciamento da Segurança Operacional (SGSO)</strong>: <span><span><span style="color:black; ">é um conjunto de ferramentas gerenciais e métodos organizados de maneira a apoiar as decisões que devem ser tomadas por um CIAC com relação ao risco relativo às suas atividades diárias.</span></span></span></p>
+<p class="Item_Nivel3"><strong>Responsabilidade (no sentido de "accountable")</strong>: <span><span><span style="color:black; ">obrigação de prestar contas por suas próprias ações.</span></span></span></p>
+<p class="Item_Nivel1">desenvolvimento do assunto</p>
+<p class="Item_Nivel2"><b>Disposições Gerais</b></p>
+<p class="Item_Nivel3"><span><span>O <a href="https://pergamum.anac.gov.br/pergamum/vinculos/PC2017-0002-ANEXO.pdf" target="_blank">Programa Brasileiro para a Segurança Operacional da Aviação Civil (PSO-BR)</a> é o documento que consolida a proposta conjunta das duas autoridades brasileiras relacionadas com o gerenciamento da segurança operacional da aviação civil brasileira, a ANAC e o COMAER, na busca pelo atendimento ao previsto no Anexo 19 à Convenção sobre Aviação Civil Internacional - CACI. O PSO-BR foi assinado pelas duas autoridades brasileiras em 08 de janeiro de 2009, tendo sido revisado no ano de 2017.</span></span></p>
+<p class="Item_Nivel3"><span><span>A partir do PSO-BR, a ANAC e o COMAER passaram a dispor de orientações específicas para a elaboração de seus Programas de Segurança Operacional Específicos (PSOE). O <a href="https://pergamum.anac.gov.br/pergamum/vinculos/RA2015-0352-ANEXO.pdf" target="_blank">PSOE-ANAC</a> e o PSOE-COMAER constituem as partes integrantes do PSO-BR.</span></span></p>
+<p class="Item_Nivel3"><span><span>O <a href="https://pergamum.anac.gov.br/pergamum/vinculos/RA2015-0352-ANEXO.pdf" target="_blank" data-reflinkpro="wXyq3UZ0">PSOE-ANAC</a> estabelece a política e as diretrizes de segurança operacional da ANAC, orientando o planejamento e a execução de suas atribuições na área de segurança operacional, conforme definidas em lei.</span></span></p>
+<p class="Item_Nivel3">A seção 141.27 do <a href="https://pergamum.anac.gov.br/pergamum/vinculos/RBAC141EMD03.pdf" target="_blank" data-reflinkpro="eG88BU6C">RBAC nº 141</a> prevê o estabelecimento, implementação e manutenção de um SGSO por Centros de Instrução de Aviação Civil (CIAC) tipos 2 ou 3.</p>
+<p class="Item_Nivel3">A implementação do SGSO é a incorporação de princípios e ferramentas de gestão visando a melhoria da segurança das operações aéreas. A aplicação destes referenciais propõe a ampliação do controle dos riscos operacionais e a produção de resultados mensuráveis sobre segurança, condições requeridas para obtenção e revalidação de certificações e autorizações.</p>
+<p class="Item_Nivel3">Destaca-se que o SGSO do CIAC deve permitir a comunicação eficaz entre seus sistemas, visando o intercâmbio de dados, informações, experiências e soluções de problemas relacionados à prestação de seus serviços.</p>
+<p class="Item_Nivel3">Esta IS foi estruturada considerando os requisitos para a implantação e manutenção do SGSO conforme dispostos no <a href="https://pergamum.anac.gov.br/pergamum/vinculos/RBAC141EMD03.pdf" target="_blank">RBAC nº 141</a> e no <span><span><a href="https://pergamum.anac.gov.br/pergamum/vinculos/RA2015-0352-ANEXO.pdf" target="_blank" data-reflinkpro="pKfaUstn">PSOE-ANAC</a></span></span>.<br>  </p>
+<p class="Item_Nivel2"><strong><span><span>Sistema de Ger</span></span><span><span>enciamento de Segurança Operacional (SGSO)</span></span></strong></p>
+<p class="Item_Nivel3"><span><span> A estruturação do SGSO deve possuir, no mínimo, os seguintes componentes e elementos:</span></span></p>
+<p class="Item_Alinea_Letra"><span style="text-decoration: underline; ">Componente 1 - Política e objetivos da segurança operacional;</span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 1.1 – Responsabilidade e comprometimento da alta direção;</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 1.2 – Responsabilidade primária acerca da segurança operacional;</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 1.3 – Designação do pessoal-chave de segurança operacional;</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 1.4 – Coordenação do Plano de Resposta à Emergência (PRE); e</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 1.5 – Documentação do SGSO.</span></span></p>
+<p class="Item_Alinea_Letra"><span style="text-decoration: underline; ">Componente 2 - Gerenciamento de riscos à segurança operacional;</span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 2.1 – Processo de identificação de perigos; e</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 2.2 – Processo de avaliação e controle de riscos.</span></span></p>
+<p class="Item_Alinea_Letra"><span style="text-decoration: underline; ">Componente 3 - Garantia da segurança operacional;</span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 3.1 – Processo de monitoramento e medição do desempenho da segurança operacional;</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 3.2 – Processo de gerenciamento de mudanças; e</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 3.3 – Processo de melhoria contínua do SGSO.</span></span></p>
+<p class="Item_Alinea_Letra"><span style="text-decoration: underline; ">Componente 4 - Promoção da segurança operacional;</span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 4.1 – Treinamento e qualificação; e</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha" style="padding-left: 30px; "><span><span>Elemento 4.2 – Divulgação do SGSO e da comunicação acerca da segurança operacional.</span></span></p>
+<p class="Item_Nivel3"><span><span>Conforme apresentado no <a href="https://pergamum.anac.gov.br/pergamum/vinculos/RA2015-0352-ANEXO.pdf" target="_blank">PSOE-ANAC</a>, com o propósito de promover a implementação do SGSO de modo compatível com os diferentes contextos operacionais, o sistema deve ser adequado ao porte de cada organização e à complexidade das atividades desenvolvidas.</span></span></p>
+<p class="Item_Nivel3"><span><span>Ressalta-se que o escopo do SGSO deve abranger todas as atividades do CIAC aprovadas ou autorizadas pela ANAC. Quaisquer modificações nas atividades devem desencadear a revisão do SGSO e sua adequação, conforme necessário.</span></span></p>
+<p class="Item_Nivel3"><span><span>O SGSO deverá fornecer subsídios para o Sistema de Garantia da Qualidade na elaboração e manutenção de um perfil de risco organizacional e um plano de gerenciamento destes riscos.</span></span></p>
+<p class="Item_Nivel3">As observações a seguir apresentam um detalhamento sobre os elementos do SGSO:</p>
+<p class="Item_Nivel4">O <span style="text-decoration: underline; ">elemento 1.1 “Responsabilidade e comprometimento da alta direção”</span> do CIAC deve definir uma política de segurança operacional que:</p>
+<p class="Item_Alinea_Letra"><span><span>Reflita o comprometimento organizacional acerca da segurança operacional;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Contenha uma declaração explícita de comprometimento com a provisão dos recursos necessários à implementação da política de segurança operacional;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Contenha os procedimentos para o reporte de segurança operacional;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Indique claramente a distinção entre erro e violação e, adicionalmente, indique qual será a postura adotada para cada caso;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Seja formalmente aprovada pelo gestor responsável do detentor de certificado;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Seja divulgada, com aprovação visível do gestor responsável, para toda a organização; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Seja revista periodicamente para garantir que permaneça relevante e apropriada ao detentor de certificado.</span></span><br>  </p>
+<p class="Item_Nivel4">O <span style="text-decoration: underline; ">elemento 1.2 "Responsabilidade primária acerca da segurança operacional"</span> do CIAC deve:</p>
+<p class="Item_Alinea_Letra"><span><span>Identificar um Gestor Responsável que, a despeito de outras funções, possua responsabilidade final, em nome do detentor de certificado, pela implementação, operação e manutenção do SGSO.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O Gestor Responsável é a pessoa que tem a autoridade final no CIAC quanto à segurança operacional. Ele quem tem a responsabilidade para estabelecer e promover as políticas e objetivos da segurança operacional.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O regulamento atribui diretamente ao Gestor Responsável a responsabilidade final pela Segurança Operacional do CIAC. Deve ser possível verificar a atribuição de poderes ao Gestor Responsável no documento que o designa ou em outro instrumento também legítimo perante os atos constitutivos da empresa de forma que esse possua a autonomia necessária para a manutenção da Segurança Operacional. </span></span><span><span>Normalmente os cargos de Presidente ou Diretor/Administrador são os que costumam possuir os atributos exigidos para o cargo.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O Gestor Responsável deve possuir, pelo menos, as responsabilidades abaixo:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>I-</span></span><span><span> Provimento e alocação dos recurso</span></span><span><span>s humanos, técnicos </span></span><span><span>e financeiros necessários à eficácia e eficiência do SGSO;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>I</span></span><span><span>I- Responsabilidade direta pela condução das atividades do CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>III- Autoridade final pelas operações do CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>IV- Estabelecimento e promoção da política de segurança operacional;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>V- Estabelecimento dos objetivos e metas de segurança operacional;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>VI- Responsabilidade final por solucionar os todos os problemas de segurança operacional; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">VII- <span><span>Estabelecimento e manutenção da capacidade do CIAC em aprimorar a segurança operacional através das informações coletadas pelo seu sistema de reportes.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>As responsabilidades (no sentido de <i>“accountable”</i>) do Gestor Responsável não poderão ser delegadas a outras pessoas.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>No caso de alteração do Gestor Responsável, o CIAC deverá comunicar à Gerência de Formação e Qualificação de Pessoal (GFOP) <span style="text-decoration: underline; ">antes da sua entrada em exercício</span>, conforme procedimentos constantes na IS n</span></span><span><span>º</span></span><span><span> 141-004 (IS de Certificação). A entrada em exercício da pessoa contratada não depende de aprovação prévia da ANAC.</span></span><br>  </p>
+<p class="Item_Nivel4">O <span style="text-decoration: underline; ">elemento 1.3 “Designação do pessoal-chave de segurança operacional”</span> do CIAC deve:</p>
+<p class="Item_Alinea_Letra"><span><span>Designar formalmente um Gerente de Segurança Operacional (GSO) que atenda aos requisitos estabelecidos pela ANAC e que terá as responsabilidades abaixo:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 180px; ">I- <span><span>Gerenciar a implantação do SGSO, em nome do Gestor Responsável;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 180px; "><span><span>II- Prestar suporte às atividades de identificação de perigo e análise de risco, podendo, inclusive, executá-las;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 180px; ">III- <span><span>Monitorar ações corretivas e avaliar seus resultados;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 180px; "><span><span>IV- Apresentar informes periódicos sobre a eficácia do SGSO e propor melhorias;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 180px; "><span><span>V- Manter os registros e documentos do SGSO;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 180px; "><span><span>VI- Planejar e prestar suporte ao treinamento de SGSO do pessoal do CIAC; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 180px; "><span><span>VII- Assessorar o gestor responsável, devendo ter, dentro do âmbito do CIAC: a</span></span><span><span>cesso di</span></span><span><span>reto ao gestor responsável e, se existirem, aos demais gestores do CIAC, a</span></span><span><span>cesso aos dado</span></span><span><span>s e às informações sob qualquer aspecto relacionado à segurança operacional do detentor de certificado, e a</span></span><span><span>uto</span></span><span><span>no</span></span><span><span>mia administrativa para auditar e investigar qualquer setor ou processo relacionado à segurança operacional do detentor de certificado;</span></span></p>
+<p class="Item_Alinea_Letra"><span> </span> <span><span>A seleção do profissional que ocupará o cargo de GSO é fundamental para a garantia da segurança operacional. Deve ser estabelecido um processo que permita a identificação do profissional com as qualificações adequadas, devendo este estar ciente das responsabilidades de segurança das operações que estão associadas à sua função. Recomenda-se que o GSO tenha experiência em instrução de voo e formação compatível com o cargo.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O GSO deverá possuir contrato de trabalho junto ao CIAC para exercer as suas atribuições.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Um dos principais fatores de sucesso do SGSO está na indicação da função de GSO. Este profissional deve ter acesso direto ao gestor responsável e amplo conhecimento sobre as operações da empresa, de modo a permitir o gerenciamento efetivo da segurança das atividades. Desta forma, espera-se do GSO a demonstração de qualificações gerenciais que expressem autoridade compatível com as responsabilidades relacionadas à segurança operacional.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O cargo de GSO não pode ser acumulado com o cargo de Gestor Responsável, tampouco com o de Coordenador de Curso. Recomenda-se que o GSO faça parte do quadro de instrutores de voo do CIAC.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>É esperado que o GSO seja reconhecido pela alta direção como representante do gestor responsável para os assuntos de segurança operacional, sendo um profissional capaz de apoiá-lo com informações e relatórios que assegurem o processo de melhoria contínua da segurança.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>É importante destacar, entretanto, que a responsabilidade primária quanto a operação e manutenção do SGSO é do gestor responsável; e não do GSO. Desta forma, será atribuída ao gestor responsável as implicações sobre o desempenho do sistema.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>No caso de CIAC satélite, o CIAC poderá contar com um único GSO, recomendando-se que seja indicado um auxiliar local.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>No caso de alteração do GSO, o CIAC deverá comunicar à GFOP antes da sua entrada em exercício, conforme procedimentos constantes na IS nº 141-004 (IS de Certificação). A entrada em exercício da pessoa contratada não depende de aprovação prévia da ANAC.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>No </span></span><span><span>caso de <span style="text-decoration: underline; ">vacância do cargo do GSO</span>, a ANAC deverá ser comunicada em até 5 dias. <span style="text-decoration: underline; ">O CIAC deverá realizar a substituição do profissional em até 60 dias corridos</span>, conforme parágrafo 141.61(k) do RBAC nº 141, bem como realizar o gerenciamento de risco relacionado à gestão da mudança durante o período de vacância do cargo.</span></span><br>  </p>
+<p class="Item_Nivel4">O <span style="text-decoration: underline; ">elemento 1.4 "Coordenação do Plano de Resposta à Emergência (PRE)"</span> do CIAC deve:</p>
+<p class="Item_Alinea_Letra"><span><span>Desenvolver um PRE contendo as ações necessárias para gerenciar os procedimentos em caso de emergência, contendo:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">I- <span><span>As atribuições de cada funcionário do CIAC envolvido no PRE;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">II- <span><span>Os telefones e contatos necessários de acordo com os procedimentos previstos no plano;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">III- <span><span>O retorno das atividades a operação normal;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">IV- <span><span>A comunicação aos familiares dos envolvidos na ocorrência; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">V- <span><span>A coordenação com os Planos de Emergência de Aeródromo (PLEM) dos aeródromos onde opere.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O PRE deve ser amplamente disseminado entre os funcionários do CIAC, garantindo que todos estejam cientes dos procedimentos previstos e suas responsabilidades no caso de ativação do plano.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>A documentação do PRE deverá estar inclusa no Manual de Gerenciamento de Segurança Operacional (MGSO).</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O CIAC deverá desenvolver cartões/checklists com procedimentos e número de contatos para auxiliar os funcionários no caso de ativação do PRE. Sugere-se que seja adotado o modelo de PRE anexo ao modelo de MGSO fornecido pela ANAC, conforme referenciado no Apêndice C, devendo estar distribuído em locais de fácil acesso nos locais de operação do CIAC.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Cabe ao</span></span><span><span> CIAC definir as situações que levem a ativação e encerramento do PRE.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O </span></span><span><span>CIAC</span></span><span><span> deverá realizar, no mínimo uma vez ao ano, um treinamento simulado de ativação do PRE.</span></span><br>  </p>
+<p class="Item_Nivel4"><span><span>O <span style="text-decoration: underline; ">elemento 1.5 “Documentação do SGSO”</span> do CIAC deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Desenvolver e manter a documentação que defina:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>I- A política e os objetivos de Segurança Operacional;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>II- Os requisitos (exigências) do SGSO;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>III- Os processos e procedimentos do SGSO;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>IV- As responsabilidades pelos processos e procedimentos do SGSO, abrangendo obrigações e prerrogativas;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>V- O MGSO; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>VI- Os produtos do SGSO, como por exemplo, relatórios de vistorias, análise de riscos realizadas, relatos de perigos identificados, atas de reuniões, ações mitigadoras adotadas, treinamentos ministrados, entre outros.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O Plano de Implementação do SGSO é requerido apenas no caso de novos CIAC, durante o processo de certificação.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Toda documentação relacionada ao SGSO deverá estar arquivada nas dependências do CIAC, estando prontamente disponível durante qualquer fiscalização por parte da ANAC. No caso de CIAC satélite, a entidade deverá definir o local de guarda da documentação, entretanto a mesma deverá estar prontamente disponível na localidade onde ocorrer a fiscalização.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>A documentação deverá ser arquivada por um prazo mínimo de 5 anos, a fim de permitir sua rastreabilidade.</span></span><br>  </p>
+<p class="Item_Nivel4">O <span style="text-decoration: underline; ">elemento 2.1 "Processo de identificação de perigos"</span> do CIAC deve:</p>
+<p class="Item_Alinea_Letra"><span><span>Estabelecer processos que assegurem a identificação dos perigos associados à sua atividade; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Utilizar métodos reativos, proativos e preditivos em seus processos de identificação de perigos.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Deverá ser implementado no CIAC um sistema de reportes de caráter </span></span><span><span>voluntário, confidencial e não punitivo, no que diz respeito a erros não premeditados ou inadvertidos, exceto em casos que envolvam negligência ou violação intencional. Para tanto deverá utilizar formulários para recebimento de Relatórios da Aviação Civil (RAC), podendo ser em meio impresso ou eletrônico. Independentemente do meio escolhido, deverá haver na sede do CIAC uma estrutura adequada para recebimento dos relatos.</span></span><br>  </p>
+<p class="Item_Nivel4"><span><span>O <span style="text-decoration: underline; ">elemento 2.2 “Processo de avaliação e controle de riscos”</span> do CIAC deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Estabelecer processos que assegurem a avaliação, classificação e mitigação dos riscos associados aos perigos identificados, considerando os itens abaixo:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">I-  <span><span>Avaliação em termos de probabilidade e severidade;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">II- <span><span>Classificação resultante, em termos de tolerabilidade; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">III- <span><span>Mitigação de cada risco levando em consideração o nível aceitável de segurança operacional.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O CIAC deverá realizar, no mínimo, duas vezes ao ano uma Vistoria de Segurança Operacional com o objetivo de identificar perigos e tendências de segurança operacional e avaliar os eventuais riscos associados.</span></span><br>  </p>
+<p class="Item_Nivel4"><span><span>O </span></span><span style="text-decoration: underline; "><span><span>elemento 3.1 “Processo de monitoramento e medição do desempenho da segurança operacional”</span></span></span><span><span> do CIAC deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Monitorar e avaliar o desempenho da segurança operacional do CIAC;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Acompanhar as ações de mitigação de risco implantadas e comprovar a sua eficácia; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Estabelecer indicadores e metas de segurança operacional para avaliar o desempenho da segurança operacional, considerando os itens abaixo:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>I- No mínimo, os indicadores previstos no Apêndice B deverão ser medidos e monitorados pelo CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>II- Recomenda-se que sejam desenvolvidos campos específicos nas fichas de registro de instrução (<i>debriefing</i>) para anotação dos indicadores relacionados ao voo;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>III- O CIAC é encorajado a desenvolver novos indicadores de acordo com seu ambiente operacional e suas necessidades; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>IV- Para o caso de</span></span><span><span> novo </span></span><span><span>requerente de Certificado de CIAC ou mesmo CIAC que comprovadamente ainda não detenham registros operacionais suficientes para o pleno estabelecimento de metas de segurança, poderão ser aceitas metas globais que visem a coleta de dados para a constituição de histórico operacional. Tal condição deve estar explícita no MGSO do CIAC como sendo de caráter transitório, idealmente não superior a 1 (um) ano, com o objetivo de possibilitar a adequada coleta de dados para o estabelecimento de metas aderentes ao contexto operacional de cada organização.</span></span><br>  </p>
+<p class="Item_Nivel4"><span><span>O <span style="text-decoration: underline; ">elemento 3.2 “Processo de gerenciamento de mudanças”</span> do CIAC deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Desenvolver e manter processos para identificar as mudanças que possam afetar a segurança operacional do detentor de certificado; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Gerenciar os riscos decorrentes dessas mudanças;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>No mínimo, na ocorrência de ao menos um dos fatos relacionados abaixo, deverá ser realizada uma análise de possíveis impactos na segurança operacional:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>I- Alteração do Gestor Responsável;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>II- Alteração do Gerente de Segurança Operacional;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>III- Alteração do coordenador de curso prático;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>IV- Contratação de um novo instrutor de voo;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>V- Inclusão de um novo curso prático de voo e/ou alteração de programa de instrução nas Especificações Operativas do CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>VI- Inclusão de uma aeronave de modelo diferente daquelas operadas pelo CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>VII- Alteração e/ou inclusão de aeródromo de operação do CIAC; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>VIII- Qualquer outra alteração que requeira a produção do Formulário de Análise de Impacto (FAI) conforme a IS n° 141-004.</span></span><br>  </p>
+<p class="Item_Nivel4"><span><span>O <span style="text-decoration: underline; ">elemento 3.3 “Processo de melhoria contínua do SGSO”</span> do CIAC deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Estabelecer e manter processos para monitorar a eficácia do seu SGSO;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Buscar, de forma contínua, a melhoria do desempenho da segurança operacional; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Definir</span></span><span><span> as metas de desempenho da segurança operacional em conjunto com a ANAC.</span></span><br>  </p>
+<p class="Item_Nivel4"><span><span>O <span style="text-decoration: underline; ">elemento 4.1 “Treinamento e qualificação”</span> do CIAC deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Desenvolver um programa de treinamento específico que assegure que todo o pessoal do CIAC esteja adequadamente qualificado e treinado para exercer as funções e atribuições estabelecidas pelo SGSO; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Adequar o conteúdo e a carga horária do treinamento para cada função prevista pelo SGSO. O treinamento deverá ter seu conteúdo e carga horária adaptadas para as diferentes funções e atribuições do pessoal do CIAC, conforme as atividades desempenhadas por cada um no SGSO.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O treinamento de SGSO do pessoal do CIAC deve abranger, pelo menos:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">I- <span><span>Os conceitos básicos de SGSO, incluindo a estrutura de elementos e componentes;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">II- <span><span>A política, objetivos e metas de segurança operacional do CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">III- <span><span>As responsabilidades e prerrogativas estabelecidas dentro do CIAC pelo SGSO;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">IV- <span><span>Princípios básicos de gerenciamento de risco e como esses princípios foram aplicados no CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">V- <span><span>Sistemas de reporte do CIAC;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">VI- <span><span>Atividades e programas de suporte ao gerenciamento da segurança operacional desenvolvidos pelo CIAC (incluindo programas de avaliações e de auditorias); e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; ">VII- <span><span>Canais de comunicação para disseminação de segurança operacional disponibilizados pelo CIAC.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>O CIAC deve elaborar e implantar processos para validar a eficácia do treinamento ministrado.</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>No mínimo, os seguintes eventos/treinamentos deverão ser desenvolvidos pelo CIAC:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>I- Capacitação em SGSO; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>II- Incentivo ao uso dos formulários de Relatos de Aviação Civil – RAC.</span></span><br>  </p>
+<p class="Item_Nivel4"><span><span>O <span style="text-decoration: underline; ">elemento 4.2 “Divulgação do SGSO e da comunicação acerca da segurança operacional”</span> do CIAC deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Desenvolver e manter processos formais para difundir e comunicar aspectos de segurança operacional do detentor de certificado, de forma que possam:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>I- Assegurar que todo pessoal esteja informado sobre o SGSO, com o nível de detalhe adequado às suas funções e atribuições;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>II- Transmitir informação crítica sobre segurança operacional;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>III- Explicar por que são tomadas ações específicas de segurança operacional;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>IV- Explicar por que são introduzidos ou modificados procedimentos operacionais;</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>V- Incentivar a participação do pessoal do CIAC em eventos correlatos de segurança operacional desenvolvidos pela comunidade aeronáutica; e</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 150px; "><span><span>VI- Compartilhar informações úteis à segurança operacional entre os operadores da indústria.</span></span><br>  </p>
+<p class="Item_Nivel2"><b><span><span>Manual de Gerenciamento de Segurança Operacional (MGSO)</span></span></b></p>
+<p class="Item_Nivel3"><span><span>O MGSO é o documento que concentra as diretrizes, regras, processos e procedimentos que estruturam o SGSO do CIAC e deve:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Descrever a política e objetivos da segurança operacional do detentor de certificado, bem como os processos adotados para a garantia dessa segurança durante a realização de suas atividades diárias;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Apresentar os compromissos do gestor responsável de um detentor e/ou requerente de um certificado em relação à implantação e operação de seu SGSO; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Divulgar as medidas de segurança operacional adotadas para o atendimento à política estabelecida, de forma a envolver a todos da organização e aos seus parceiros e terceirizados.</span></span></p>
+<p class="Item_Nivel3"><span><span>O GSO do CIAC é responsável por elaborar e atualizar o MGSO, bem como garantir que seu conteúdo esteja adequado ao regulamento.</span></span></p>
+<p class="Item_Nivel3"><span><span>No caso de CIAC satélite, deverá haver apenas um MGSO da entidade englobando as atividades de todos os seus satélites.</span></span></p>
+<p class="Item_Nivel3"><span><span>Cada revisão do MGSO deve ser formalmente aprovada pelo Gestor Responsável e encaminhado à ANAC conforme procedimentos e formulários previstos na IS nº 141-004.</span></span></p>
+<p class="Item_Nivel3"><span><span>O conteúdo do MGSO torna-se aplicável e mandatório ao CIAC na data prevista de entrada em vigor, devendo ser respeitado e cumprido por todos os funcionários e colabores do CIAC. O não cumprimento às regras estabelecidas pelo MGSO será caracterizado como implantação/operação deficiente do SGSO.</span></span></p>
+<p class="Item_Nivel3"><span><span>O MGSO não isenta o CIAC de nenhuma regra aplicável, sob nenhuma hipótese.</span></span></p>
+<p class="Item_Nivel3"><span><span>O MGSO deve possuir pelo menos os itens abaixo:</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Capa contendo número da revisão;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Termo de aprovação do MGSO e designação do GSO (contendo assinaturas do Gestor Responsável e do Gerente de Segurança Operacional);</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Introdução;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Política e Objetivos de Segurança Operacional;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Gerenciamento dos Riscos à Segurança Operacional;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Garantia da Segurança Operacional;</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Promoção da Segurança Operacional; e</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>Plano de Resposta a Emergência.</span></span></p>
+<p class="Item_Nivel3"><span><span>O Apêndice C desta IS as orientações para desenvolvimento do MGSO. A ANAC disponibiliza um modelo de MGSO no endereço: <a href="https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios" style="color:blue; text-decoration:underline; " target="_blank" data-reflinkpro="c47Z25g9">https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios</a>, contemplando as disposições prevista nesta IS.</span></span><span><span> Recomenda-se a utilização deste modelo, porém o CIAC poderá adotar um formato próprio, desde que contemple todas as disposições contidas no presente normativo.</span></span><br>  </p>
+<p class="Item_Nivel2"><strong><span><span>Relatório Semestral</span></span></strong></p>
+<p class="Item_Nivel3"><span><span>O CIAC deve encaminhar, <b><span style="text-decoration: underline; ">semestralmente</span></b>, os dados relativos ao gerenciamento da segurança operacional em formulário padrão à Gerência de Formação e Qualificação de Pessoal (GFOP) através do protocolo eletrônico no Sistema SEI <span style="color:black; ">no site da ANAC: </span><a href="../../../../../acesso-a-informacao/protocolo-eletronico/" style="color:blue; text-decoration:underline; " target="_blank">https://www.anac.gov.br/acesso-a-informacao/protocolo-eletronico/</a>.</span></span></p>
+<p class="Item_Nivel3"><span><span>Podem encaminhar o relatório através do SEI apenas o Gestor Responsável, Gerente de Segurança Operacional ou terceiro devidamente indicado em instrumento de Procuração.</span></span></p>
+<p class="Item_Nivel3"><span><span>Para envio do relatório, deverá ser escolhido no SEI o tipo de processo: <b>CERTIFICAÇÃO RBAC nº 141: Relatório semestral de SGSO</b>. Não será aceito o envio dos relatórios através de outro meio.</span></span></p>
+<p class="Item_Nivel3"><span><span>Os relatórios semestrais devem ser preenchidos de forma a refletir o desempenho do CIAC a cada semestre do ano. Sendo que notadamente o primeiro semestre compreende ao período entre 1º de janeiro e 30 junho e o segundo semestre ao período entre 1º de julho e 31 de dezembro.</span></span></p>
+<p class="Item_Nivel3"><span><span>Os relatórios semestrais devem ser encaminhados até o término do mês subsequente ao semestre em questão. Mais detalhadamente, os relatórios do primeiro semestre de cada ano devem ser enviados até o dia 31 de julho do ano em questão, ao passo que os relatórios do segundo semestre devem ser enviados no mais tardar até o dia 31 de janeiro do ano seguinte.</span></span></p>
+<p class="Item_Nivel3"><span><span>Mesmo que o CIAC esteja com suas atividades interrompidas, por motivo de suspensão ou inatividade, os relatórios semestrais deverão ser encaminhados. A obrigação do envio cessa apenas com a revogação ou cassação do certificado de CIAC.</span></span></p>
+<p class="Item_Nivel3"><span><span>Caso o CIAC necessite retificar alguma informação constante em um relatório encaminhado à ANAC, esse deverá encaminhar um novo relatório completo, contendo todas as informações atualizadas, referente ao semestre a ser corrigido.</span></span></p>
+<p class="Item_Nivel3"><span><span>A falta do envio das informações requeridas nos prazos estabelecidos pode indicar falhas no gerenciamento da segurança operacional por parte do CIAC, podendo levar a interrupção de suas atividades práticas de voo.</span></span></p>
+<p class="Item_Nivel3">Independentemente dos relatórios semestrais de SGSO, os CIAC devem realizar os reportes mandatórios definidos na <a href="https://pergamum.anac.gov.br/pergamum/vinculos/RA2023-0714.pdf" target="_blank">Resolução nº 714, de 26 de abril de 2023</a>, nos meios e prazos nela indicados.<br>  </p>
+<p class="Item_Nivel1"><span><span>APÊNDICES</span></span></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Apêndice A – Lista de Reduções.</p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Apêndice B – Indicadores de Desempenho de Segurança Operacional.</p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Apêndice C – Orientações para Elaboração do MGSO.</p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Apêndice D – Controle de Alterações. </p>
+<p class="Item_Nivel1">DISPOSIÇÕES FINAIS</p>
+<p class="Item_Nivel2">O último relatório mensal requerido pela <a href="https://pergamum.anac.gov.br/pergamum/vinculos/IS141-005A.pdf" target="_blank">revisão A desta IS</a>, referente ao mês de dezembro de 2024 deverá ser enviado até o dia 08 de janeiro de 2025, quinto dia útil do mês subsequente, com os indicadores previstos naquela revisão da IS. </p>
+<p class="Item_Nivel2">Os CIAC já certificados têm até o dia 31 de julho de 2025 para fazer e aprovar as adequações necessárias em seus MGSO para refletir as mudanças trazidas em esta revisão da IS. Importante notar que se o MGSO aprovado não é impactado pela presente versão da IS não é necessária sua revisão.</p>
+<p class="Item_Nivel2"><span><span><span class="dark-mode-color-black">Para os CIAC que ainda estejam em funcionamento conforme o antigo RBHA 141, caberá, durante o seu processo de certificação pelo novo regulamento, apresentar uma análise do faltante (</span><i><span class="dark-mode-color-black">Gap Analysis</span></i><span class="dark-mode-color-black">), caso necessário. Durante a inspeção de fase 4, o CIAC deverá comprovar que possuí todos os componentes do SGSO implementados na organização.</span></span></span></p>
+<p class="Item_Nivel2"><span><span>Já para os novos CIAC, um plano de implementação do SGSO deve ser apresentado durante o processo de certificação, prevendo o estabelecimento de todos os componentes do SGSO até a inspeção de fase 4. </span></span></p>
+<p class="Item_Nivel2"><span><span>A ANAC disponibiliza e encoraja a utilização de materiais instrucionais relativos ao SGSO na página </span></span><span><span><a href="https://www.gov.br/anac/pt-br/assuntos/seguranca-operacional" style="color:blue; text-decoration:underline; " target="_blank">https://www.gov.br/anac/pt-br/assuntos/seguranca-operacional</a>.</span></span></p>
+<p class="Item_Nivel2"><span><span>Os casos omissos serão dirimidos pela SPL.</span></span></p>
+<p class="Texto_Justificado"> </p>
+<p class="Texto_Centralizado_Maiusculas_Negrito"><span style="text-decoration: underline; "><strong>APÊNDICE a - lista de reduções</strong></span></p>
+<p class="Texto_Justificado">A1. SIGLAS</p>
+<p class="Item_Alinea_Letra">ANAC – Agência Nacional da Aviação Civil</p>
+<p class="Item_Alinea_Letra">CIAC – Centro de Instrução de Aviação Civil</p>
+<p class="Item_Alinea_Letra"><span><span>COMAER </span></span>– Comando da Aeronáutica</p>
+<p class="Item_Alinea_Letra">FAI – Formulário de Análise de Impacto</p>
+<p class="Item_Alinea_Letra">GFOP – Gerência de Formação e Qualificação de Pessoal</p>
+<p class="Item_Alinea_Letra">GRSO – Gerenciamento dos Riscos à Segurança Operacional</p>
+<p class="Item_Alinea_Letra">GSO – Gerente de Segurança Operacional </p>
+<p class="Item_Alinea_Letra">IS – Instrução Suplementar</p>
+<p class="Item_Alinea_Letra">MGSO – Manual de Gerenciamento de Segurança Operacional</p>
+<p class="Item_Alinea_Letra"><span><span>PLEM </span></span>– <span><span>Planos de Emergência de Aeródromo</span></span></p>
+<p class="Item_Alinea_Letra"><span><span>PSOE </span></span>– <span><span>Programa de Segurança Operacional Específicos </span></span></p>
+<p class="Item_Alinea_Letra"><span><span>PRE </span></span>– Plano de Resposta à Emergências</p>
+<p class="Item_Alinea_Letra">RAC – Relatório de Aviação Civil</p>
+<p class="Item_Alinea_Letra">RBAC – Regulamento Brasileiro da Aviação Civil</p>
+<p class="Item_Alinea_Letra">SEI – Sistema Eletrônico de Informações</p>
+<p class="Item_Alinea_Letra">SGSO – Sistema de Gerenciamento de Segurança Operacional<br>  </p>
+<p class="Texto_Justificado">A2. ABREVIATURAS – N/A</p>
+<p class="Texto_Justificado"> </p>
+<p class="Texto_Centralizado_Maiusculas_Negrito"><br> <span style="text-decoration: underline; "><strong>APÊNDICE B - INDICADORES DE DESEMPENHO DE SEGURANÇA OPERACIONAL</strong></span></p>
+<p class="Texto_Justificado">B1. No <span><span>mínimo, os seguintes indicadores deverão ser medidos e monitorados pelo CIAC:</span></span></p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">a) Quantidade de horas voadas;</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">b) Total de eventos de segurança operacional de reporte não obrigatório envolvendo aeronaves da instituição;</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">c) Quantidade de manutenções não programadas realizadas nas aeronaves do CIAC;</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">d) Quantidade de perigos identificados na operação do CIAC;</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">e) Quantidade de ações de mitigação ou de melhoria da segurança operacional implementadas em decorrência das análises de risco conduzidas;</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">f) Quantidade de vistorias de segurança operacional realizadas, conforme previsto no MGSO;</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">g) Quantidade de achados nas vistorias de segurança operacional realizadas;</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">h) Quantidade de reportes (voluntários ou confidenciais, RELPREV e outros) registrados pelo GRSO da instituição; e</p>
+<p class="Texto_Justificado" style="padding-left: 90px; ">i) Quantidade de informações críticas de segurança operacional divulgadas/publicadas (comunicados, alertas ou outras publicações adotadas pelo CIAC).</p>
+<p class="Texto_Centralizado"> </p>
+<p class="Texto_Centralizado_Maiusculas_Negrito"><span style="text-decoration: underline; "><strong>APÊNDICE C - ORIENTAÇÕES PARA ELABORAÇÃO DO MGSO</strong></span></p>
+<p class="Texto_Justificado">C1. <span><span>Recomenda-se que os CIAC adotem o modelo de MGSO disponibilizado pela ANAC, preenchendo os campos conforme necessário. Cada CIAC poderá adotar um formato próprio, desde que contemple todas as disposições contidas nesta IS.</span></span></p>
+<p class="Texto_Justificado">C2. <span><span>O PRE deverá estar integrado em um dos capítulos do MGSO, não sendo necessário seu envio separadamente.</span></span></p>
+<p class="Texto_Justificado">C3. <span><span>De modo a evitar que o documento fique desatualizado e demande constantes revisões, não é recomendada a inclusão no MGSO de datas precisas de planejamento e/ou realização de eventos promoção de segurança operacional, treinamentos, vistorias, auditorias, simulados etc. Quando pertinente, sugere-se, no máximo, indicar os períodos do ano (meses, bimestres, trimestres, semestres etc.) nos quais é planejada a realização de tais eventos. Assim, confere-se maior perenidade ao documento, fazendo com que o seu conteúdo seja aplicável de forma continuada após a aceitação do manual.</span></span></p>
+<p class="Texto_Justificado">C4. <span><span>Não é necessário incluir no MGSO a comprovação de vínculo do GSO com o CIAC.</span></span></p>
+<p class="Texto_Justificado">C5. <span><span>Recomenda-se que o CIAC acrescente dados e eventos de acordo com sua operação, como por exemplo, indicadores de desempenho da segurança operacional adicionais, níveis de tolerabilidade de risco, situações necessárias para gestão da mudança, eventos de promoção e treinamento, dentro outros.</span></span></p>
+<p class="Texto_Justificado">C6. <span><span>O CIAC é encorajado a elaborar um MGSO que aprofunde e detalhe seu SGSO sem se limitar ao modelo proposto pela ANAC.</span></span></p>
+<p class="Texto_Justificado">C7. O<span><span> modelo de MGSO proposto pela ANAC pode ser acessado em: </span></span><br> <a href="https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios" target="_blank">https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios</a></p>
+<p class="Texto_Justificado"> </p>
+<p class="Texto_Centralizado_Maiusculas_Negrito" style="text-align:center; "><span><span><span><span><span><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; ">APÊNDICE D - Controle de ALTERAÇÕES</span></span></span></span></span></span></span></span></p>
+<table border="1" style="border-collapse: collapse; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; width: 80%;">
+<tbody>
+<tr>
+<td colspan="2" style="width: 930.852px;">
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span><strong>ALTERAÇÕES REALIZADAS NA REVISÃO B</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 367.003px;">
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span><strong>ITEM ALTERADO</strong></span></span></span></p>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span><strong>(Numeração da IS 141-005A)</strong></span></span></span></p>
+</td>
+<td style="width: 554.957px;">
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span><strong>ALTERAÇÃO REALIZADA</strong></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>Toda a IS</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span><span style="text-align:left; "><span><span><span><span><span class="dark-mode-color-black" style="color:#ffffff; "><span style="text-decoration-thickness:initial; "><span style="text-decoration-style:initial; "><span style="text-decoration-color:initial; "><span><span style="float:none; ">Ajustes textuais sem impacto técnico.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>1</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Alteração para ser conciso seguindo o padrão da <a href="https://pergamum.anac.gov.br/pergamum/vinculos/IN2008-0015.pdf" target="_blank">IN 15/2008</a>.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>2</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Alteração devido a nova revisão da IS.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>3.5</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Inclusão para referenciar o requisito associado à IS.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>4</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Inclusão de referência a definições em outros normativos.</span></span></span></p>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Remoção de definições não mais utilizadas na IS.</span></span></span></p>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Ajustes menores em algumas definições.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>5.1</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Inclusão de texto anteriormente na seção 1.</span></span></span></p>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Remoção de texto relativo à transição do RBHA 141 para o RBAC 141.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>5.2.5.8</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; ">Inclusão de instruções acerca da construção de metas por novos CIAC,</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>5.4</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; ">Alteração da periodicidade do relatório de SGSO de mensal para semestral.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; ">5.4.9</p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; ">Inclusão para esclarecer que a Resolução nº 714/2023 de reportes mandatórios é aplicável. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>Apêndice A</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Exclusão do modelo de checklist de PRE pois foi incorporado ao MGSO.</span></span></span></p>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Inclusão de lista de reduções seguindo o padrão de IS.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>Apêndice B</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Transferência e atualização da lista de indicadores SGSO.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; "><span><span><span>Apêndice C</span></span></span></p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; "><span><span><span>Transferência do modelo de MGSO deste apêndice para o portal de internet da Agência.</span></span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="Tabela_Texto_Centralizado" style="text-align:center; ">Apêndice D</p>
+</td>
+<td>
+<p class="Tabela_Texto_Alinhado_Esquerda" style="text-align:left; ">Inclusão do controle de alterações.</p>
+</td>
+</tr>
+</tbody>
+</table>
+                
+
+            </div>
+
+            
+
+        
+
+    
+                             </div>
+                             
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+
+                <div id="viewlet-below-content">
+
+
+
+
+
+
+
+</div>
+
+            </div>
+
+            <!-- Column 2-->
+
+            
+
+        </div>
+
+        <!-- /Demo Plone Content -->
+
+    </div>
+
+    <div class="clear"></div>
+    <div id="voltar-topo">
+    <a href="#wrapper">Voltar para o topo</a>
+</div>
+
+</div>
+
+<!-- Footer -->
+<div id="footer" role="contentinfo">
+    <a name="afooter" id="afooter" class="anchor">rodapé</a>
+
+    <div id="doormat-container" class="columns-4">
+
+  
+  <div class="doormatColumn column-0">
+    
+    <dl class="doormatSection">
+      <dt class="doormatSectionHeader">Assuntos</dt>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/regulados" class="external-link">Regulados</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/passageiros" class="external-link">Passageiros</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/seguranca-operacional" class="external-link">Segurança Operacional</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/aerodesporto" class="external-link">Aerodesporto</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/internacional" class="external-link">Atuação Internacional</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/concessoes" class="external-link">Concessões de aeroportos</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas" class="external-link">Dados e Estatísticas</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/drones" class="external-link">Drones</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/participacao-social/governanca-regulatoria" class="external-link">Governança Regulatória</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/legislacao" class="external-link">Legislação</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/meio-ambiente" class="external-link">Meio Ambiente</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/regulacao-responsiva" class="external-link">Regulação Responsiva</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/seguranca-cibernetica-na-aviacao-civil" class="external-link">Segurança Cibernética na Aviação Civil</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/assuntos/voo-simples" class="external-link">Voo Simples</a>
+        
+      </dd>
+    </dl>
+  </div>
+  <div class="doormatColumn column-1">
+    
+    <dl class="doormatSection">
+      <dt class="doormatSectionHeader">Acesso à informação</dt>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/institucional" class="external-link">Institucional</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/acoes-e-programas" class="external-link">Ações e Programas</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/participacao-social" class="external-link">Participação Social</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/auditorias" class="external-link">Auditorias</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/convenios" class="external-link">Convênios e transferências</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/receitas-e-despesas" class="external-link">Receitas e Despesas</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/licitacoes-e-contratos" class="external-link">Licitações e Contratos</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/servidores" class="external-link">Servidores</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/informacoes-classificadas" class="external-link">Informações Classificadas</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/servico-de-informacoes-ao-cidadao-sic" class="external-link">Serviço de Informações ao Cidadão - SIC</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/perguntas-frequentes" class="external-link">Perguntas Frequentes</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/dados-abertos" class="external-link">Dados abertos</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/sancoes-administrativas" class="external-link">Sanções Administrativas</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/agenda-de-autoridades" class="external-link">Agenda de Autoridades</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/transparencia" class="external-link">Transparência</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/sistemas/protocolo-eletronico-sei" class="external-link">Protocolo Eletrêonico</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/seguranca-da-informacao" class="external-link">Segurança da Informação</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/comissao-de-etica-da-anac" class="external-link">Comissão de Ética da ANAC</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/politica-de-relacionamento-na-redes-sociais" class="external-link">Política de Relacionamento na Redes Sociais</a>
+        
+      </dd>
+    </dl>
+  </div>
+  <div class="doormatColumn column-2">
+    
+    <dl class="doormatSection">
+      <dt class="doormatSectionHeader">Centrais de conteúdo</dt>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/centrais-de-conteudo/eventos" class="external-link">Eventos</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/centrais-de-conteudo/biblioteca" class="external-link">Biblioteca Digital</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/centrais-de-conteudo/publicacoes" class="external-link">Publicações</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/noticias/newsletter/anac-informa" class="external-link">ANAC Informa</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www2.anac.gov.br/anacpedia/" class="external-link">ANACpédia</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.youtube.com/channel/UC5ynmbMZXolM-jo2hGR31qg" class="external-link">Vídeos</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/centrais-de-conteudo/app-voe-seguro" class="external-link">App Voe Seguro</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/centrais-de-conteudo/inovanac" class="external-link">INOVANAC</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/institucional/centro-de-treinamento" class="external-link">Centro de Treinamento</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/centrais-de-conteudo/por-dentro-da-aviacao" class="external-link">Por Dentro da Aviação</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://sistemas.anac.gov.br/capacitacao/" class="external-link">Portal de Capacitação da ANAC</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/centrais-de-conteudo/publicacoes/textos-para-discussao" class="external-link">Textos para discussão</a>
+        
+      </dd>
+    </dl>
+  </div>
+  <div class="doormatColumn column-3">
+    
+    <dl class="doormatSection">
+      <dt class="doormatSectionHeader">Canais de Atendimento</dt>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/canais_atendimento/fale-com-a-anac" class="external-link">Fale com a ANAC</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/canais_atendimento/ouvidoria" class="external-link">Ouvidoria</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/canais_atendimento/area-de-imprensa" class="external-link">Área de imprensa</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/canais_atendimento/consumidor" class="external-link">Consumidor.gov.br</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/canais_atendimento/reuniao-virtual" class="external-link">Reunião Virtual</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/acesso-a-informacao/seguranca-da-informacao/etir" class="external-link">ETIR - Incidentes Cibernéticos</a>
+        
+      </dd>
+    </dl>
+    <dl class="doormatSection">
+      <dt class="doormatSectionHeader">Mais</dt>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/servicos" class="external-link">Serviços</a>
+        
+      </dd>
+      <dd class="doormatSectionBody">
+        <a href="https://www.gov.br/anac/pt-br/sistemas" class="external-link">Sistemas da ANAC</a>
+        
+      </dd>
+    </dl>
+  </div>
+</div>
+    <div class="clear"></div>
+    <div id="footer-brasil" class="footer-logos"></div>
+</div>
+<div id="extra-footer">
+    <p>Desenvolvido com o CMS de código aberto <a href="http://plone.org">Plone</a></p>
+</div>
+
+<!-- /Footer-->
+
+    
+    <script defer src="++resource++brasil.gov.barra/barra.js" type="text/javascript"></script>
+    
+    
+
+</div><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-47766339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-47766339-1');
+</script>
+
+<!-- Hotjar Tracking Code for www.anac.gov.br -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1473394,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</body>
+</html>

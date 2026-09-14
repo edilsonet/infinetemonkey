@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-437-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.437'
+section_title: Autoridade para executar e aprovar manutenção, manutenção preventiva e alterações
+subsection_id: a
+cite: 135.437(a)
+title: 135.437(a)
+text: '(a) Um detentor de certificado pode executar ou contratar outras pessoas para executar
+  manutenção, manutenção preventiva e alterações nas aeronaves de sua frota em conformidade
+  com o previsto em seu manual de manutenção. Além disso, um detentor de certificado enquadrado
+  no parágrafo 135.411(a)(2) pode executar essas funções para outro detentor de certificado
+  também enquadrado no mesmo parágrafo em conformidade com o manual de manutenção do outro
+  detentor de certificado.
+
+  (Redação dada pela Resolução nº 612, de 09.03.2021)'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- certificado
+- detentor
+- executar
+- alteracoes
+- conformidade
+- enquadrado
+- manual
+- outro
+- paragrafo
+- pode
+- preventiva
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

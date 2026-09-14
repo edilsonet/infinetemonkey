@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-161-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.161'
+section_title: 'Equipamentos de comunicações e navegação: transporte de passageiros em voo
+  VFR noturno ou VFR diurno em áreas controladas'
+subsection_id: a
+cite: 135.161(a)
+title: 135.161(a)
+text: (a) Somente é permitido operar uma aeronave transportando passageiros em voo VFR noturno,
+  ou VFR diurno em áreas controladas, se ela possuir um equipamento rádio para comunicações
+  bilaterais capaz, em voo, de transmitir para e receber de uma estação de solo distante 25
+  NM pelo menos.
+keywords:
+- taxi-aereo
+- operacoes
+- areas
+- comunicacoes
+- controladas
+- diurno
+- noturno
+- passageiros
+- aeronave
+- bilaterais
+- capaz
+- distante
+- equipamento
+- equipamentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

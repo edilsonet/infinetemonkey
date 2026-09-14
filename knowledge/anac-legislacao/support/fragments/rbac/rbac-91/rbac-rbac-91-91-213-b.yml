@@ -1,0 +1,51 @@
+id: rbac-rbac-91-91-213-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.213'
+section_title: Equipamentos e instrumentos inoperantes
+subsection_id: b
+cite: 91.213(b)
+title: 91.213(b)
+text: '(b) Os seguintes equipamentos e instrumentos não podem ser incluídos na MEL:
+
+  (1) instrumentos e equipamentos que sejam especificamente requeridos pelos requisitos de
+
+  certificação segundo os quais a aeronave foi certificada e que sejam essenciais para operação
+  segura
+
+  sob todas as condições de operação;
+
+  (2) instrumentos e equipamentos que uma diretriz de aeronavegabilidade, diretriz de segurança
+
+  (referente às aeronaves categoria leve esportiva tratadas na seção 21.190 do RBAC nº 21)
+  ou
+
+  documento equivalente requeira estar em condições operativas, salvo se o citado documento
+  tiver
+
+  provisões diferentes; e
+
+  (3) para operações específicas, os instrumentos e equipamentos requeridos por este
+
+  Regulamento para tais operações.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- equipamentos
+- instrumentos
+- condicoes
+- diretriz
+- documento
+- operacao
+- operacoes
+- requeridos
+- sejam
+- aeronave
+- aeronavegabilidade
+- aeronaves
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,483 @@
+id: rbac-rbac-36-h36-305-i
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: H36.305
+section_title: H36.305
+subsection_id: i
+cite: H36.305(i)
+title: H36.305(i)
+text: '(i) The
+
+  test aproach profile is defined by the aproach angle
+
+  Ș pasing directly over the station A
+
+  at a height of AH, to position K, which terminates the aproach noise certification profile.
+  The test
+
+  aproach angle
+
+  Ș must be betwen 5.5° and 6.5°.
+
+
+  (2) The heli
+
+  copter aproaches position H along a constant 6° aproach slope throughout the 10 dB
+
+  down time period. The helicopter croses position E and proceds along the aproach slope crosing
+
+  over station A until it reaches position K.
+
+
+  Section H36.5
+
+  Symbols and u
+
+  nits.
+
+  The folowing symbols and units as used in this apendix for
+
+  helicopter noise certification have the folowing meanings.
+
+
+  Flight Profile Identification
+
+  -Positions
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  85
+
+  / 121
+
+
+  Position
+
+
+  Description
+
+
+  A
+
+  Location of the noise measuring point at the flight
+
+  - track noise
+
+  measuring station
+
+  verticaly below the reference (takeof, flyover, or aproach) flight path.
+
+
+  C
+
+  Start of noise certification takeof flight path.
+
+
+  C
+
+  r
+
+  Start of noise certification reference takeof flight path.
+
+
+  D
+
+  Start of noise certification flyover
+
+  flight path.
+
+
+  D
+
+  r
+
+  Start of noise certification reference flyover path.
+
+
+  E
+
+  Start of noise certification aproach flight path.
+
+
+  E
+
+  r
+
+  Start of noise certification reference aproach flight path.
+
+
+  F
+
+  Position on takeof flight path directly above noise measuring
+
+  station A.
+
+
+  F
+
+  r
+
+  Position on reference takeof path directly above noise measuring Station A.
+
+
+  G
+
+  Position on flyover flight path directly above noise measuring station A.
+
+
+  G
+
+  r
+
+  Position on reference flyover path directly above noise measuring Station A.
+
+
+  H
+
+  Pos
+
+  ition on aproach flight path directly above noise measuring station A.
+
+
+  H
+
+  r
+
+  Position on reference path directly above noise measuring Station A.
+
+
+  I
+
+  End of noise type certification takeof flight path.
+
+
+  I r
+
+  End of noise type certification reference takeof
+
+  flight path.
+
+
+  J
+
+  End of noise type certification flyover flight path.
+
+
+  J r
+
+  End of noise type certification reference flyover flight path.
+
+
+  K
+
+  End of noise certification aproach type flight path.
+
+
+  K
+
+  r
+
+  End of noise type certification reference aproach flight
+
+  path.
+
+
+  L
+
+  Position on measured takeof flight path coresponding to PNLTM at station A.
+
+
+  L
+
+  r
+
+  Position on reference takeof flight path coresponding to PNLTM of station A.
+
+
+  M
+
+
+  Position on measured flyover flight path coresponding to PNLTM of station A.
+
+
+  M
+
+  r
+
+  P osition on reference flyover flight path coresponding to PNLTM of station A.
+
+
+  N
+
+  Position on measured aproach flight path coresponding to PNLTM at station A.
+
+
+  N
+
+  r
+
+  Position on reference aproach flight path coresponding to PNLTM at station A.
+
+
+  S
+
+  Sideline
+
+  noise measuring station (note: a subscript denotes the aircraft orientation relative
+
+  to the direction of flight).
+
+
+  Flight Profile Distances
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  86
+
+  / 121
+
+
+  Distance
+
+  Unit
+
+
+  Meaning
+
+
+  AF
+
+
+  Fet
+
+  Takeof Height.
+
+  The vertical distance betwen helicopter and station A.
+
+
+  AG
+
+
+  Fet
+
+  Flyover Height.
+
+  The vertical distance betwen the helicopter and station A.
+
+
+  AH
+
+
+  Fet
+
+  Aproach Height.
+
+  The vertical distance betwen the helicopter and station A.
+
+
+  AL
+
+
+  Fet
+
+  Measured Takeof Noise Path.
+
+  The distance from station A to the measured
+
+  helicopter p
+
+  osition L.
+
+
+  AL
+
+  r
+
+  Fet
+
+  Reference Takeof Noise Path.
+
+  The distance from station A to the reference
+
+  helicopter position L
+
+  r .
+
+  AM
+
+
+  Fet
+
+  Measured Flyover Noise Path.
+
+  The distance from station A to the measured
+
+  helicopter position M.
+
+
+  AM
+
+  r
+
+  Fet
+
+  Reference Flyover
+
+  Noise Path.
+
+  The distance from station A to helicopter position
+
+  M
+
+  r on the reference flyover flight path.
+
+
+  AN
+
+
+  Fet
+
+  Measured Aproach Noise Path.
+
+  The distance from station A to the measured
+
+  helicopter noise position N.
+
+
+  AN
+
+  r
+
+  Fet
+
+  Reference Aproach Noise Path.
+
+  The distance from station A to the reference
+
+  helicopter position N
+
+  r .
+
+  CI
+
+
+  Fet
+
+  Takeof Flight Path Distance.
+
+  The distance from position C at which the helicopter
+
+  establishes a constant climb angle on the takeof flight path pasing over station A
+
+  and continuing to position I at which the position of the helicopter ned no longer be
+
+  recorded.
+
+
+  DJ
+
+
+  Fet
+
+  Flyover Fli
+
+  ght Path Distance.
+
+  The distance from position D at which the helicopter
+
+  is established on the flyover flight path pasing over station A and continuing to
+
+  position J at which the position of the helicopter ned no longer be recorded.
+
+
+  EK
+
+
+  Fet
+
+  Aproach Flig
+
+  ht Path Distance.
+
+  The distance from position E at which the helicopter
+
+  establishes a constant angle on the aproach flight path pasing over station A and
+
+  continuing to position K at which the position of the helicopter ned no longer be
+
+  recorded.
+
+
+  part b
+
+  -noise measurement under §36.801
+
+
+  Section H36.101
+
+  Noise certification test and measurement conditions.'
+keywords:
+- ruido
+- meio-ambiente
+- path
+- noise
+- flight
+- position
+- station
+- aproach
+- reference
+- helicopter
+- distance
+- certification
+- flyover
+- takeof
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-61-61-61-l
+kind: rbac
+document: rbac-61
+family: '61'
+section_id: '61.61'
+section_title: Requisitos para o voo solo de aluno piloto
+subsection_id: l
+cite: 61.61(l)
+title: 61.61(l)
+text: '(l) A notificação de voo solo local deve ser assinada pelo aluno piloto e por seu instrutor
+  de voo.
+
+  Nos Planos de Voo para voos de navegação solo com pouso em aeródromo que não o de decolagem,
+
+  o aluno piloto deve usar o CANAC do seu instrutor, o qual deve assinar o Plano de Voo inicial
+
+  juntamente com o aluno piloto. Os Planos de Voo das demais etapas do voo serão assinados
+  somente
+
+  pelo aluno piloto, usando o CANAC do seu instrutor que aprovou a navegação.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- aluno
+- piloto
+- instrutor
+- solo
+- canac
+- navegacao
+- planos
+- aerodromo
+- aprovou
+- assinada
+- assinados
+- assinar
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-61.md

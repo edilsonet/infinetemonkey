@@ -1,0 +1,120 @@
+id: rbac-rbac-29-29-341-i
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.341'
+section_title: 'and 29.351:'
+subsection_id: i
+cite: 29.341(i)
+title: 29.341(i)
+text: '(i)
+
+  Replacement times for PSEs must be determined by tests, or by analysis supported by tests,
+
+  and must show that the structure is able to withstand the repeated loads of variable magnitude
+
+  expected in-service. In establishing these replacement times, the following items must be
+
+  considered:
+
+  (A)
+
+  Damage identified in the threat assessment required by paragraph (d)(1)(iv) of this
+
+  section;
+
+  (B)
+
+  Maximum acceptable manufacturing defects and in-service damage (i.e., those that do
+
+  not lower the residual strength below ultimate design loads and those that can be repaired
+
+  to restore ultimate strength); and
+
+  (C)
+
+  Ultimate load strength capability after applying repeated loads.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.573(d)(1)
+
+  14 CFR 29.573(d)(2)(i)(C) (enhanced display)
+
+  page 45 of 167
+
+
+  Subpart D - Design and Construction
+
+  GENERAL
+
+  § 29.601 Design.
+
+  § 29.602 Critical parts.
+
+  (ii)
+
+  Inspection intervals for PSEs must be established to reveal any damage identified in the
+  threat
+
+  assessment required by paragraph (d)(1)(iv) of this section that may occur from fatigue
+  or
+
+  other in-service causes before such damage has grown to the extent that the component
+
+  cannot sustain the required residual strength capability. In establishing these inspection
+
+  intervals, the following items must be considered:
+
+  (A)
+
+  The growth rate, including no-growth, of the damage under the repeated loads expected
+
+  in-service determined by tests or analysis supported by tests;
+
+  (B)
+
+  The required residual strength for the assumed damage established after considering
+
+  the damage type, inspection interval, detectability of damage, and the techniques adopted
+
+  for damage detection. The minimum required residual strength is limit load; and
+
+  (C)
+
+  Whether the inspection will detect the damage growth before the minimum residual
+
+  strength is reached and restored to ultimate load capability, or whether the component will
+
+  require replacement.
+
+  (3)
+
+  Each applicant must consider the effects of damage on stiffness, dynamic behavior, loads,
+  and
+
+  functional performance on all PSEs when substantiating the maximum assumed damage size and
+
+  inspection interval.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- damage
+- strength
+- must
+- inspection
+- loads
+- required
+- residual
+- that
+- service
+- tests
+- ultimate
+- capability
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

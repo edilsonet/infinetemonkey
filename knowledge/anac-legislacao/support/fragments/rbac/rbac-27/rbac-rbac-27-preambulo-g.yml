@@ -1,0 +1,42 @@
+id: rbac-rbac-27-preambulo-g
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: g
+cite: preambulo(g)
+title: preambulo(g)
+text: '(g)
+
+  Braked roll conditions in the level landing attitude. In the attitudes specified in paragraphs
+  (b) and (c) of
+
+  this section, and with the shock absorbers in their static positions, the rotorcraft must
+  be designed for
+
+  braked roll loads as follows:
+
+  (1)
+
+  The limit vertical load must be based on a limit vertical load factor of not less than -'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- braked
+- limit
+- load
+- must
+- preambulo
+- roll
+- vertical
+- absorbers
+- attitude
+- attitudes
+- based
+- conditions
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

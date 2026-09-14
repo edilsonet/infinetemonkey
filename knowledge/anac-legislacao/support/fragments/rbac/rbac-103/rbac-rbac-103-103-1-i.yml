@@ -1,0 +1,36 @@
+id: rbac-rbac-103-103-1-i
+kind: rbac
+document: rbac-103
+family: '103'
+section_id: '103.1'
+section_title: Aplicabilidade
+subsection_id: i
+cite: 103.1(i)
+title: 103.1(i)
+text: '(i) velocidade máxima em voo nivelado com potência máxima contínua (VH) menor ou igual
+
+  a 100 knots calibrado (CAS), sob condições atmosféricas padrão ao nível do mar; ou
+
+  (ii) no caso de planador ou motoplanador, velocidade nunca exceder (VNE) menor ou igual
+
+  a 100 knots CAS.'
+keywords:
+- ultraleves
+- operacoes
+- igual
+- knots
+- maxima
+- menor
+- velocidade
+- aplicabilidade
+- atmosfericas
+- calibrado
+- caso
+- condicoes
+- continua
+- exceder
+categories:
+- ultraleves
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-103.md

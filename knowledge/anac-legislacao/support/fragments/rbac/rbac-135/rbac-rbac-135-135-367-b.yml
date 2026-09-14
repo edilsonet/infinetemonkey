@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-367-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.367'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de decolagem'
+subsection_id: b
+cite: 135.367(b)
+title: 135.367(b)
+text: (b) Na aplicação dos requisitos desta seção, devem ser feitas correções para qualquer
+  gradiente das pistas a serem utilizadas. Para considerar o efeito do vento, as cartas de
+  decolagem para ar calmo podem ser corrigidas considerando não mais que 50% de qualquer componente
+  de vento de proa conhecido e não menos que 150% de qualquer componente de vento de cauda
+  conhecido.
+keywords:
+- taxi-aereo
+- operacoes
+- vento
+- componente
+- conhecido
+- decolagem
+- aplicacao
+- avioes
+- calmo
+- cartas
+- categoria
+- cauda
+- considerando
+- considerar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

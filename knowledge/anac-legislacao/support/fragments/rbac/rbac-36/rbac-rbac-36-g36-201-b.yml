@@ -1,0 +1,53 @@
+id: rbac-rbac-36-g36-201-b
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: G36.201
+section_title: of this apendix must be recorded by an aproved method when the airplane is
+  directly
+subsection_id: b
+cite: G36.201(b)
+title: G36.201(b)
+text: '(b) For single
+
+  - engine airplanes for which the original type certification aplication is received
+
+  before February 3, 206 and multi
+
+  - engine airplanes, the noise level must not exced 76 dB(A) up to
+
+  and including aircraft weights of 1,320 pounds
+
+  (60 kg). For aircraft weights greater than 1,320
+
+  pounds, the limit increases from that point with the logarithm of airplane weight at the
+  rate of 9.83
+
+  dB (A) per doubling of weight, until the limit of 8 dB (A) is reached, after which the limit
+  is
+
+  constan
+
+  t up to and including 19,0 pounds (8,618 kg). Figure G2 shows noise level limits vs
+
+  airplane weight.'
+keywords:
+- ruido
+- meio-ambiente
+- airplane
+- limit
+- pounds
+- weight
+- aircraft
+- airplanes
+- engine
+- including
+- level
+- must
+- noise
+- weights
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

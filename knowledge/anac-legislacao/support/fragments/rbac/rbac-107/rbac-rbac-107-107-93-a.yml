@@ -1,0 +1,36 @@
+id: rbac-rbac-107-107-93-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.93'
+section_title: Concessão de Credenciais e Autorizações
+subsection_id: a
+cite: 107.93(a)
+title: 107.93(a)
+text: '(a) O operador de aeródromo deve implementar um processo de concessão de credencial
+  aeroportuária para funcionários, pessoal de serviço e visitantes e de autorizações para
+  os veículos e equipamentos que necessitem de acesso às Áreas Controladas ou Áreas Restritas
+  de Segurança.
+
+  (1) A credencial e a autorização terão validade apenas no ambiente do aeródromo que as emitiu
+  e devem ser classificadas em duas categorias: permanente ou temporária, sendo que:'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- areas
+- autorizacoes
+- concessao
+- credencial
+- acesso
+- aeroportuaria
+- ambiente
+- autorizacao
+- categorias
+- classificadas
+- controladas
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

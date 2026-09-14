@@ -1,0 +1,34 @@
+id: rbac-rbac-90-90-221-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.221'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 90.221(b)
+title: 90.221(b)
+text: '(b) Para exercício da função de operador de suporte médico em outra UAP, o agente deverá
+  realizar o treinamento de ambientação, a critério da nova UAP.
+
+  (1) O treinamento de ambientação para operador de suporte médico terá por base o comparativo
+  entre os componentes curriculares dos programas de treinamento das UAP envolvidas.'
+keywords:
+- regras-de-voo
+- operacoes
+- treinamento
+- ambientacao
+- medico
+- operador
+- suporte
+- agente
+- base
+- comparativo
+- componentes
+- criterio
+- curriculares
+- devera
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

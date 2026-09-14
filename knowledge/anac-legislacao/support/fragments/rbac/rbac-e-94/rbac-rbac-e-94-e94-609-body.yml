@@ -1,0 +1,31 @@
+id: rbac-rbac-e-94-e94-609-body
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.609
+section_title: Inspeções de RPAS Classe 1
+subsection_id: body
+cite: E94.609
+title: Inspeções de RPAS Classe 1
+text: 'E94.609 Inspeções de RPAS Classe 1
+
+  Somente é permitido operar um RPAS Classe 1 se os tempos para revisão geral, os intervalos
+  de inspeção e os procedimentos específicos contidos no programa de manutenção recomendado
+  pelo fabricante forem cumpridos.'
+keywords:
+- classe
+- rpas
+- inspecoes
+- contidos
+- cumpridos
+- especificos
+- fabricante
+- forem
+- geral
+- inspecao
+- intervalos
+- manutencao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

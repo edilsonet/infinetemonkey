@@ -1,0 +1,32 @@
+id: rbac-rbac-135-g135-1-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.1
+section_title: Definições
+subsection_id: d
+cite: G135.1(d)
+title: G135.1(d)
+text: (d) Qualificação ETOPS significa a qualificação que uma pessoa, responsável pela manutenção
+  do detentor de certificado, atingiu ao completar com êxito o programa de treinamento ETOPS
+  do detentor de certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- detentor
+- etops
+- qualificacao
+- atingiu
+- completar
+- definicoes
+- exito
+- g135
+- manutencao
+- pessoa
+- programa
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

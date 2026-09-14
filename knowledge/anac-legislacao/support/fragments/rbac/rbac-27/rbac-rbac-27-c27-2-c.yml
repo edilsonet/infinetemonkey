@@ -1,0 +1,195 @@
+id: rbac-rbac-27-c27-2-c
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: C27.2
+section_title: Applicable part 29 sections. The following sections of part 29 of this chapter
+  must be met in addition to the
+subsection_id: c
+cite: C27.2(c)
+title: C27.2(c)
+text: '(c)
+
+  Performance. If VYI differs from VY, climb performance at VYI and with maximum continuous
+  power
+
+  throughout the ranges of weight, altitude, and temperature for which approval is requested.
+
+  X.
+
+  Electrical and electronic system lightning protection. For regulations concerning lightning
+  protection for
+
+  electrical and electronic systems, see § 27.1316.
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR Appendix-B-to-Part-27 VIII.(b)(5)(iii)
+
+  14 CFR Appendix-B-to-Part-27 X. (enhanced display)
+
+  page 121 of 126
+
+
+  29.64 - Climb: General.
+
+  29.65(a) - Climb: AEO.
+
+  29.67(a) - Climb: OEI.
+
+  29.75 - Landing: General.
+
+  29.77 - Landing decision point: Category A.
+
+  29.79 - Landing: Category A.
+
+  29.81 - Landing distance (Ground level sites): Category A.
+
+  29.85 - Balked landing: Category A.
+
+  29.87(a) - Height-velocity envelope.
+
+  29.547(a) and (b) - Main and tail rotor structure.
+
+  29.861(a) - Fire protection of structure, controls, and other parts.
+
+  29.901(c) - Powerplant: Installation.
+
+  29.903(b) (c) and (e) - Engines.
+
+  29.908(a) - Cooling fans.
+
+  29.917(b) and (c)(1) - Rotor drive system: Design.
+
+  29.927(c)(1) - Additional tests.
+
+  29.953(a) - Fuel system independence.
+
+  29.1027(a) - Transmission and gearboxes: General.
+
+  29.1045(a)(1), (b), (c), (d), and (f) - Climb cooling test procedures.
+
+  29.1047(a) - Takeoff cooling test procedures.
+
+  29.1181(a) - Designated fire zones: Regions included.
+
+  29.1187(e) - Drainage and ventilation of fire zones.
+
+  29.1189(c) - Shutoff means.
+
+  29.1191(a)(1) - Firewalls.
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR Appendix-B-to-Part-27 X.
+
+  14 CFR Appendix-B-to-Part-27 X. (enhanced display)
+
+  page 122 of 126
+
+
+  29.1193(e) - Cowling and engine compartment covering.
+
+  29.1195(a) and (d) - Fire extinguishing systems (one shot).
+
+  29.1197 - Fire extinguishing agents.
+
+  29.1199 - Extinguishing agent containers.
+
+  29.1201 - Fire extinguishing system materials.
+
+  29.1305(a) (6) and (b) - Powerplant instruments.
+
+  29.1309(b)(2) (i) and (d) - Equipment, systems, and installations.
+
+  29.1323(c)(1) - Airspeed indicating system.
+
+  29.1331(b) - Instruments using a power supply.
+
+  29.1351(d)(2) - Electrical systems and equipment: General (operation without normal electrical
+  power).
+
+  29.1587(a) - Performance information.
+
+  Note:
+
+  In complying with the paragraphs listed in paragraph C27.2 above, relevant material in the
+  AC “Certification of
+
+  Transport Category Rotorcraft” should be used.
+
+  Appendix D to Part 27 - HIRF Environments and Equipment HIRF Test Levels
+
+  This appendix specifies the HIRF environments and equipment HIRF test levels for electrical
+  and electronic systems
+
+  under § 27.1317. The field strength values for the HIRF environments and laboratory equipment
+  HIRF test levels are
+
+  expressed in root-mean-square units measured during the peak of the modulation cycle.
+
+  Table I. - HIRF Environment I
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  10 kHz-2 MHz
+
+  50
+
+  50
+
+  2 MHz-30 MHz
+
+  100
+
+  100
+
+  30 MHz-100 MHz
+
+  50
+
+  50
+
+  100 MHz-400 MHz
+
+  100
+
+  100
+
+  400 MHz-700 MHz
+
+  700
+
+  50'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- part
+- category
+- hirf
+- appendix
+- fire
+- climb
+- electrical
+- equipment
+- landing
+- system
+- systems
+- test
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

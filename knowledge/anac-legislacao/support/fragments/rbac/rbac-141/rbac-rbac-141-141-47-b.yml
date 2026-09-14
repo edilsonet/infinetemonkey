@@ -1,0 +1,41 @@
+id: rbac-rbac-141-141-47-b
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.47'
+section_title: Requisitos de FSTD
+subsection_id: b
+cite: 141.47(b)
+title: 141.47(b)
+text: '(b) Cada FSTD utilizado por um CIAC deve:
+
+  (1) ser mantido em condições que assegurem que não haja deterioração do desempenho, das
+  funções e de todas as outras características do FSTD que foram demonstradas para a ANAC
+  na certificação inicial;
+
+  (2) antes do início de cada dia de trabalho, ser submetido a um pré-voo funcional, de forma
+  a garantir que não há deterioração; e
+
+  (3) possuir um livro (físico ou digital) para registro diário de utilização e discrepâncias
+  observadas. Tal livro deve ser preenchido pelo instrutor ao fim de cada seção de instrução
+  de voo.'
+keywords:
+- escolas
+- treinamento
+- cada
+- fstd
+- deterioracao
+- livro
+- assegurem
+- caracteristicas
+- certificacao
+- ciac
+- condicoes
+- demonstradas
+- desempenho
+- diario
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

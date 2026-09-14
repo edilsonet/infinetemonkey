@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-93-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: d
+cite: 135.93(d)
+title: 135.93(d)
+text: '(d) Aproximação. É vedado utilizar um piloto automático a uma altura menor que 50 pés
+  abaixo da altura de decisão (DH) / altitude de decisão (DA) ou altitude mínima de descida
+  (MDA) para o procedimento de aproximação por instrumentos utilizado, exceto como segue:
+
+  (1) para aeronaves com perda de altura especificada no manual de voo do avião para operações
+  de aproximação:'
+keywords:
+- taxi-aereo
+- operacoes
+- altura
+- aproximacao
+- altitude
+- automatico
+- decisao
+- piloto
+- abaixo
+- aeronaves
+- altitudes
+- aviao
+- avioes
+- descida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

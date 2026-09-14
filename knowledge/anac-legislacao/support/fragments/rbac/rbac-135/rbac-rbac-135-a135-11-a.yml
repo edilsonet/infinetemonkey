@@ -1,0 +1,33 @@
+id: rbac-rbac-135-a135-11-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.11
+section_title: Requisitos da célula - cargas em voo
+subsection_id: a
+cite: A135.11(a)
+title: A135.11(a)
+text: '(a) Torque do motor.
+
+  (1) Cada berço de motor turboélice, assim como as estruturas que o suportam, deve ser projetado
+  para os seguintes efeitos de torque:'
+keywords:
+- taxi-aereo
+- operacoes
+- motor
+- torque
+- a135
+- assim
+- berco
+- cada
+- cargas
+- celula
+- efeitos
+- estruturas
+- projetado
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

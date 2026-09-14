@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-149-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.149'
+section_title: 'Requisitos de equipamento: geral'
+subsection_id: c
+cite: 135.149(c)
+title: 135.149(c)
+text: (c) para aviões a reação, em adição a dois indicadores giroscópicos de inclinação e
+  arfagem (horizonte artificial) para uso nas posições dos pilotos, um terceiro indicador
+  instalado de acordo com os requisitos para instrumentos estabelecidos no parágrafo 121.305(k)
+  do RBAC nº 121;
+keywords:
+- taxi-aereo
+- operacoes
+- requisitos
+- acordo
+- adicao
+- arfagem
+- artificial
+- avioes
+- dois
+- equipamento
+- estabelecidos
+- geral
+- giroscopicos
+- horizonte
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-223-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.223'
+section_title: Autonomia para voo IFR
+subsection_id: b
+cite: 135.223(b)
+title: 135.223(b)
+text: '(b) Ressalvado o previsto no parágrafo (a) desta seção, para operações com aviões,
+  a ANAC pode autorizar a utilização dos requisitos de suprimento de combustível da seção
+  121.645 do RBAC nº 121, desde que o operador demonstre que níveis de segurança aceitáveis
+  serão obtidos.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- secao
+- aceitaveis
+- autonomia
+- autorizar
+- avioes
+- combustivel
+- dada
+- demonstre
+- desde
+- desta
+- niveis
+- obtidos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

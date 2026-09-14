@@ -1,0 +1,48 @@
+id: rbac-rbac-23-23-2200-body
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2200'
+section_title: Envelope de projeto estrutural.
+subsection_id: body
+cite: '23.2200'
+title: Envelope de projeto estrutural.
+text: '23.2200 Envelope de projeto estrutural.
+
+  O requerente deve determinar o envelope de
+
+  projeto estrutural, o qual descreve a extensão e
+
+  os limites de projeto do avião e os parâmetros
+
+  operacionais para os quais o requerente de-
+
+  monstrará cumprimento com os requisitos desta
+
+  subparte. O requerente deve considerar todo o
+
+  projeto do avião e os parâmetros operacionais
+
+  que afetem cargas estruturais, resistências, du-
+
+  rabilidade e aeroelasticidade, incluindo:'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- projeto
+- envelope
+- estrutural
+- requerente
+- aviao
+- operacionais
+- parametros
+- aeroelasticidade
+- afetem
+- cargas
+- considerar
+- cumprimento
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

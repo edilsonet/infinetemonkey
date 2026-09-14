@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-161-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.161'
+section_title: Limitações dos aviões. Tipo de rota
+subsection_id: b
+cite: 121.161(b)
+title: 121.161(b)
+text: (b) Ninguém pode operar um avião terrestre sobre grandes extensões de água, a menos
+  que o avião seja certificado ou aprovado, como aplicável, para amaragem sob provisões do
+  RBAC 25.
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- agua
+- amaragem
+- aplicavel
+- aprovado
+- avioes
+- certificado
+- extensoes
+- grandes
+- limitacoes
+- menos
+- ninguem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

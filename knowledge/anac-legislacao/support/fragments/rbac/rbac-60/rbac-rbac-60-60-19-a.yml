@@ -1,0 +1,60 @@
+id: rbac-rbac-60-60-19-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.19'
+section_title: Requisitos de inspeção, avaliação
+subsection_id: a
+cite: 60.19(a)
+title: 60.19(a)
+text: '(a) Inspeção. Um operador somente
+
+  poderá utilizar um FSTD se:
+
+  (1) accomplish all appropriate objective
+
+  tests each year as specified in the QPS, or in
+
+  the original qualification basis of the FSTD, or
+
+  as may be amended by an FSTD directive; and
+
+
+  (1) realizar todos os testes objetivos
+
+  apropriados, progressivamente durante cada
+
+  ano, conforme especificado no QPS, ou na
+
+  base de qualificação original do FSTD, ou
+
+  como requerido por uma diretriz de FSTD; e
+
+  (2) complete a functional preflight check
+
+  within the preceding 24 hours.
+
+
+  (2) realizar uma inspeção pré voo
+
+  funcional nas 24 horas precedentes.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- inspecao
+- original
+- realizar
+- accomplish
+- amended
+- appropriate
+- apropriados
+- avaliacao
+- base
+- basis
+- cada
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

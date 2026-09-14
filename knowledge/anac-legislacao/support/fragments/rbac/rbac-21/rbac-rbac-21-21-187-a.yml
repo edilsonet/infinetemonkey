@@ -1,0 +1,38 @@
+id: rbac-rbac-21-21-187-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.187'
+section_title: Emissão de certificado de aeronavegabilidade múltiplo
+subsection_id: a
+cite: 21.187(a)
+title: 21.187(a)
+text: '(a) O requerente de um certificado de aeronavegabilidade para uma aeronave na categoria
+  restrita e em uma ou mais outras categorias, exceto primária, faz jus ao certificado se:
+
+  (1) demonstrar que a aeronave atende aos requisitos de cada uma das categorias, quando na
+  configuração apropriada a cada uma destas categorias; e
+
+  (2) demonstrar que a aeronave pode ser convertida de uma categoria para outra pela adição
+  ou remoção de equipamentos, usando meios mecânicos simples.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- categorias
+- certificado
+- cada
+- categoria
+- demonstrar
+- adicao
+- apropriada
+- atende
+- configuracao
+- convertida
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

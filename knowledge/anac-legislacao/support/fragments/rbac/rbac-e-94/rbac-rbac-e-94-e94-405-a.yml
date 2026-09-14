@@ -1,0 +1,36 @@
+id: rbac-rbac-e-94-e94-405-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.405
+section_title: Projeto do RPAS - Geral
+subsection_id: a
+cite: E94.405(a)
+title: E94.405(a)
+text: '(a) O requerente deve apresentar de maneira aceitável pela ANAC os seguintes documentos:
+
+  (1) manual de voo do RPAS que estabeleça as condições, as limitações e os procedimentos
+  para a operação segura do RPAS;
+
+  (2) manual de manutenção do RPAS que contenha as informações necessárias para a aeronavegabilidade
+  continuada do RPAS; e
+
+  (3) relatório de análise de segurança que demonstre que o RPAS é seguro quando operado da
+  maneira especificada no manual de voo.'
+keywords:
+- rpas
+- manual
+- maneira
+- aceitavel
+- aeronavegabilidade
+- analise
+- apresentar
+- condicoes
+- contenha
+- continuada
+- demonstre
+- documentos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

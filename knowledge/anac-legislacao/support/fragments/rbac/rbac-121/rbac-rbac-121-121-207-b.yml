@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-207-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.207'
+section_title: Limitações de operação de aviões com certificado de tipo provisório
+subsection_id: b
+cite: 121.207(b)
+title: 121.207(b)
+text: (b) cada detentor de certificado deve manter um registro de cada voo conduzido de acordo
+  com esta seção e deve manter registros completos e precisos de cada inspeção feita e de
+  cada manutenção realizada no avião. O detentor de certificado deve colocar tais registros
+  à disposição da ANAC, sempre que requerido.
+keywords:
+- transporte-aereo
+- operacoes
+- cada
+- certificado
+- detentor
+- manter
+- registros
+- acordo
+- aviao
+- avioes
+- colocar
+- completos
+- conduzido
+- disposicao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

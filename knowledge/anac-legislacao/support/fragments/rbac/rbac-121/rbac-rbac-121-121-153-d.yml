@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-153-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.153'
+section_title: 'Requisitos de aviões: geral'
+subsection_id: d
+cite: 121.153(d)
+title: 121.153(d)
+text: '(d) Um detentor de certificado operando segundo este regulamento só pode operar um
+  avião por ele arrendado se:
+
+  (1) o contrato de arrendamento atender ao Código Brasileiro de Aeronáutica e for inscrito
+  no Registro Aeronáutico Brasileiro;
+
+  (2) o arrendador atender a uma das condições abaixo:'
+keywords:
+- transporte-aereo
+- operacoes
+- atender
+- brasileiro
+- abaixo
+- aeronautica
+- aeronautico
+- arrendado
+- arrendador
+- arrendamento
+- aviao
+- avioes
+- certificado
+- codigo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

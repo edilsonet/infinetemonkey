@@ -1,0 +1,478 @@
+id: rbac-rbac-91-apendice-e-do-rbac-no-91-body
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: apendice-e-do-rbac-no-91
+section_title: APÊNDICE E DO RBAC Nº 91
+subsection_id: body
+cite: apendice-e-do-rbac-no-91
+title: APÊNDICE E DO RBAC Nº 91
+text: 'APÊNDICE E DO RBAC Nº 91
+
+  ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA AVIÕES
+
+
+  Parâmetro
+
+  Faixa
+
+  Precisão mínima do sistema
+
+  instalado (para recuperação
+
+  dos dados) (1)
+
+  Intervalo de
+
+  amostragem
+
+  (por segundo)
+
+  Resolução de
+
+  saída (4)
+
+  Tempo relativo
+
+  (desde o início da
+
+  gravação, antes da
+
+  decolagem)
+
+  8 horas no mínimo.
+
+  ±0,125%
+
+  1
+
+  1 seg
+
+  Velocidade indicada
+
+  VSO até VD (KIAS)
+
+  ±5% ou ±10 kt, o que for maior.
+
+  Resolução de 2 kt abaixo de 175
+
+  KIAS.
+
+  1
+
+  1% (3)
+
+  Altitude
+
+  -1.000 pés até a
+
+  altitude máxima
+
+  aprovada para o
+
+  avião.
+
+  ±100 a ±700 pés (ver tabela 1
+
+  da OTP (TSO) C51a).
+
+  1
+
+  25 a 150 pés
+
+  Proa magnética
+
+  360º
+
+  ±5º
+
+  1
+
+  1º
+
+  Aceleração vertical
+
+  -3 g a +6 g
+
+  ±0,2 g em adição a ±0,3 g de
+
+  erro de referência.
+
+  4 (ou 1/seg
+
+  quando picos
+
+  referentes a 1 g
+
+  são gravados).
+
+  0,03 g
+
+  Aceleração
+
+  longitudinal
+
+  ±1,0 g
+
+  ±1,5% da faixa máxima,
+
+  excluindo erro de referência de
+
+  ±5%.
+
+  2
+
+  0,01 g
+
+  Atitude de arfagem
+
+  100% da faixa
+
+  utilizável
+
+  ±2º
+
+  1
+
+  0,8º
+
+  Atitude de rolamento
+
+  ±60º ou 100% da
+
+  faixa utilizável, o que
+
+  for maior
+
+  ±2º
+
+  1
+
+  0,8º
+
+  Posição do
+
+  compensador de
+
+  profundidade
+
+  ou
+
+  Posição do controle
+
+  de arfagem (5)
+
+  Faixa total
+
+
+  Faixa total
+
+  ±3%, a menos que requerido
+
+  maior precisão.
+
+
+  ±3%, a menos que requerido
+
+  maior precisão.
+
+  1
+
+
+  1
+
+  1% (3)
+
+
+  1% (3)
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.
+
+
+  Parâmetro
+
+  Faixa
+
+  Precisão mínima do sistema
+
+  instalado (para recuperação
+
+  dos dados) (1)
+
+  Intervalo de
+
+  amostragem
+
+  (por segundo)
+
+  Resolução de
+
+  saída (4)
+
+  Potência do motor.
+
+  Para cada motor:
+
+
+  Rotação do fan ou
+
+  N1, ou EPR, ou
+
+  indicações usadas
+
+  para homologação
+
+  ou
+
+  Rotação da hélice e
+
+  torque (amostragens
+
+  de 1/seg, tão
+
+  próximas quanto
+
+  praticável).
+
+
+  Faixa total
+
+
+  -
+
+
+  ±5%
+
+
+  -
+
+
+  1
+
+
+  1 (hélice)
+
+  1 (torque)
+
+
+  1% (3)
+
+
+  1% (3)
+
+  1% (3)
+
+  Razão de variação de
+
+  altitude (a
+
+  necessidade depende
+
+  da resolução da
+
+  altitude) (2)
+
+  ±8.000 pés/min
+
+  ±10%. Resolução de 250
+
+  pés/min abaixo de 12.000 pés
+
+  indicados.
+
+  1
+
+  250 pés/min
+
+  abaixo de 12.000
+
+  pés indicados.
+
+  Ângulo de ataque (a
+
+  necessidade depende
+
+  da resolução da
+
+  altitude) (2)
+
+  -20º a +40º ou 100%
+
+  da faixa utilizável.
+
+  ±2º
+
+  1
+
+  0,8% (3)
+
+  Interruptor do rádio
+
+  transmissor
+
+  on / off
+
+  -
+
+  1
+
+  -
+
+  Flapes de bordo de
+
+  fuga (discreto ou
+
+  analógico)
+
+  Cada posição discreta
+
+  ou
+
+  Analógico de 0 a
+
+  100% da faixa
+
+  -
+
+
+  ±3%
+
+  1
+
+
+  1
+
+  -
+
+
+  1% (3)
+
+  Flapes de bordo de
+
+  ataque (discreto ou
+
+  analógico)
+
+  Cada posição discreta
+
+  ou
+
+  Analógico de 0 a
+
+  100% da faixa
+
+  -
+
+
+  ±3%
+
+  1
+
+
+  1
+
+  -
+
+
+  1% (3)
+
+  Reversor de empuxo,
+
+  cada motor (discreto)
+
+  Fechado ou reverso
+
+  total
+
+  -
+
+  1
+
+  -
+
+  Spoiler / freio
+
+  aerodinâmico
+
+  (discreto)
+
+  Fechado ou aberto
+
+  -
+
+  1
+
+  -
+
+  Engajamento do
+
+  piloto automático
+
+  (discreto)
+
+  Engajado /
+
+  desengajado
+
+  -
+
+  1
+
+  -
+
+  (1) Quando a fonte de dados for um instrumento do avião (exceto altímetros) de qualidade
+  aceitável para operá-lo,
+
+  o sistema de gravação, excluindo esses sensores (mas incluindo todas as outras características
+  do sistema), deve
+
+  contribuir com não mais que metade dos valores desta coluna.
+
+  (2) Se forem usados dados fornecidos por um altímetro "encoder" (resolução de 100 pés cada),
+  apenas é requerido
+
+  que um desses parâmetros seja gravado. No entanto, se a altitude for gravada com uma resolução
+  de 25 pés, esses
+
+  parâmetros podem ser omitidos.
+
+  (3) Porcentagem da faixa total.
+
+  (4) Esta coluna se aplica a aviões fabricados após 11 de outubro de 1991.
+
+  (5) Somente para Posição do Controle de Arfagem, para todas as aeronaves manufaturadas a
+  partir de 7 de abril de
+
+  2012, o intervalo de amostragem (por segundo) é 8. Cada amostragem deve ser gravada nesta
+  taxa. Intervalos de
+
+  amostragem alternativos (interleaving) com o intento de atender a este intervalo de amostragem
+  são proibidos.
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- faixa
+- resolucao
+- altitude
+- amostragem
+- cada
+- dados
+- discreto
+- posicao
+- total
+- analogico
+- data
+- intervalo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,468 @@
+id: rbac-rbac-91-apendice-f-do-rbac-no-91-body
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: apendice-f-do-rbac-no-91
+section_title: APÊNDICE F DO RBAC Nº 91
+subsection_id: body
+cite: apendice-f-do-rbac-no-91
+title: APÊNDICE F DO RBAC Nº 91
+text: 'APÊNDICE F DO RBAC Nº 91
+
+  ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA AERONAVES DE
+
+  ASAS ROTATIVAS
+
+
+  Parâmetro
+
+  Faixa
+
+  Precisão mínima do sistema
+
+  instalado (para recuperação
+
+  dos dados) (1)
+
+  Intervalo de
+
+  amostragem
+
+  (por segundo)
+
+  Resolução de
+
+  saída (3)
+
+  Tempo relativo
+
+  (desde o início da
+
+  gravação, antes da
+
+  decolagem)
+
+  4 horas no mínimo.
+
+  ±0,125% por hora
+
+  1
+
+  1 seg
+
+  Velocidade indicada
+
+  VMIN até VD (KIAS)
+
+  (VMIN é o menor sinal
+
+  de velocidade
+
+  obtenível com o
+
+  sistema pitot-estático
+
+  instalado)
+
+  ±5% ou ±10 kt, o que for maior.
+
+  1
+
+  1 kt
+
+  Altitude
+
+  -1.000 pés até 20.000
+
+  pés de altitude
+
+  pressão.
+
+  ±100 a ±700 pés (ver tabela 1
+
+  da OTP (TSO) C51a).
+
+  1
+
+  25 a 150 pés
+
+  Proa magnética
+
+  360º
+
+  ±5º
+
+  1
+
+  1º
+
+  Aceleração vertical
+
+  -3 g a +6 g
+
+  ±0,2 g em adição a ±0,3 g de
+
+  erro de referência.
+
+  4 (ou 1/seg
+
+  quando picos
+
+  referentes a 1 g
+
+  são gravados).
+
+  0,05 g
+
+  Aceleração
+
+  longitudinal
+
+  ±1,0 g
+
+  ±1,5% da faixa máxima,
+
+  excluindo erro de referência de
+
+  ±5%.
+
+  2
+
+  0,03 g
+
+  Atitude de arfagem
+
+  100% da faixa
+
+  utilizável
+
+  ±2º
+
+  1
+
+  0,8º
+
+  Atitude de rolamento
+
+  ±60º ou 100% da
+
+  faixa utilizável, o que
+
+  for maior
+
+  ±2º
+
+  1
+
+  0,8º
+
+  Razão de variação de
+
+  altitude
+
+  ±8.000 pés/min
+
+  ±10%. Resolução de 250
+
+  pés/min abaixo de 12.000 pés
+
+  indicados.
+
+  1
+
+  250 pés/min
+
+  abaixo de 12.000
+
+  pés.
+
+  Potência do motor
+
+  para cada motor:
+
+
+  Rotação do rotor
+
+  principal
+
+
+  Turbina livre ou ligada
+
+
+  Torque do motor
+
+
+  Faixa máxima
+
+
+  Faixa máxima
+
+
+  Faixa máxima
+
+
+  ±5%
+
+
+  ±5%
+
+
+  ±5%
+
+
+  1
+
+
+  1
+
+
+  1
+
+
+  1% (2)
+
+
+  1% (2)
+
+
+  1% (2)
+
+
+  Pressão hidráulica do
+
+  Sistema de Controle:
+
+
+  Primária (discreto)
+
+
+  Secundária, se
+
+  aplicável (discreto)
+
+
+  Alto/baixo
+
+
+  Alto/baixo
+
+
+  -
+
+
+  -
+
+
+  1
+
+
+  1
+
+
+  -
+
+
+  -
+
+  Interruptor do rádio
+
+  transmissor
+
+  on / off
+
+  -
+
+  1
+
+  -
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.
+
+
+  Parâmetro
+
+  Faixa
+
+  Precisão mínima do sistema
+
+  instalado (para recuperação
+
+  dos dados) (1)
+
+  Intervalo de
+
+  amostragem
+
+  (por segundo)
+
+  Resolução de
+
+  saída (3)
+
+  Engajamento do
+
+  piloto automático
+
+  (discreto)
+
+  Engajado /
+
+  desengajado
+
+  -
+
+  1
+
+  -
+
+  Situação do SAS-
+
+  engajamento
+
+  (discreto)
+
+  Engajado /
+
+  desengajado
+
+  -
+
+  1
+
+  -
+
+  Situação do SAS-
+
+  funcionamento
+
+  (discreto)
+
+  Falha / Ok
+
+  -
+
+  1
+
+  -
+
+  Controles de voo:
+
+
+  Coletivo (4)
+
+
+  Posição do pedal (4)
+
+
+  Cíclico lateral (4)
+
+
+  Cíclico longitudinal (4)
+
+
+  Posição do
+
+  estabilizador
+
+  controlável (4)
+
+
+  Faixa total
+
+
+  Faixa total
+
+
+  Faixa total
+
+
+  Faixa total
+
+
+  Faixa total
+
+
+  ±3%
+
+
+  ±3%
+
+
+  ±3%
+
+
+  ±3%
+
+
+  ±3%
+
+
+  2
+
+
+  2
+
+
+  2
+
+
+  2
+
+
+  2
+
+
+  1% (2)
+
+
+  1% (2)
+
+
+  1% (2)
+
+
+  1% (2)
+
+
+  1% (2)
+
+
+  (1) Quando a fonte dos dados for um instrumento da aeronave (exceto altímetro) de qualidade
+  aceitável para operá-
+
+  la, o sistema de gravação (excluindo esses sensores, mas incluindo todas as outras características
+  do sistema) deve
+
+  contribuir com não mais que metade dos valores desta coluna.
+
+  (2) Porcentagem da faixa total.
+
+  (3) Esta coluna aplica-se a aeronaves fabricadas após 11 de outubro de 1991.
+
+  (4) Para todas as aeronaves manufaturadas a partir de 7 de abril de 2012 o intervalo de
+  amostragem por segundo
+
+  considerado é 4.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- faixa
+- sistema
+- total
+- discreto
+- dados
+- maxima
+- aeronaves
+- altitude
+- amostragem
+- apendice
+- instalado
+- intervalo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

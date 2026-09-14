@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-111-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.111'
+section_title: Piloto segundo em comando requerido para operação categoria II
+subsection_id: body
+cite: '135.111'
+title: Piloto segundo em comando requerido para operação categoria II
+text: '135.111 Piloto segundo em comando requerido para operação categoria II
+
+  Somente é permitido operar uma aeronave em operações Categoria II se houver a bordo um piloto
+  segundo em comando devidamente qualificado na operação e na aeronave.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- categoria
+- comando
+- operacao
+- piloto
+- segundo
+- requerido
+- aeronave
+- bordo
+- dada
+- devidamente
+- houver
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

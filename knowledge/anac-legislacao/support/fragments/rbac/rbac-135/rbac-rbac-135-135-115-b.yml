@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-115-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.115'
+section_title: Manipulação dos controles
+subsection_id: b
+cite: 135.115(b)
+title: 135.115(b)
+text: '(b) um servidor designado pela ANAC, com autorização do piloto em comando, qualificado
+  na aeronave e em missão de verificação de operações de voo.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- autorizacao
+- comando
+- controles
+- dada
+- designado
+- manipulacao
+- missao
+- piloto
+- qualificado
+- redacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

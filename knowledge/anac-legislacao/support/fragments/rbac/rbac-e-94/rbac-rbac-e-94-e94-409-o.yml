@@ -1,0 +1,28 @@
+id: rbac-rbac-e-94-e94-409-o
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: o
+cite: E94.409(o)
+title: E94.409(o)
+text: (o) o RPAS deve ser capaz de operar com segurança em todas as condições operacionais
+  e ambientais possíveis e previstas em seu perfil de operação; e
+keywords:
+- rpas
+- ambientais
+- capaz
+- classe
+- condicoes
+- operacao
+- operacionais
+- operar
+- perfil
+- possiveis
+- projeto
+- seguranca
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

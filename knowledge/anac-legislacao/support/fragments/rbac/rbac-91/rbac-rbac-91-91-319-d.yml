@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-319-d
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.319'
+section_title: Aeronave civil com certificado de autorização de voo experimental (CAVE)
+subsection_id: d
+cite: 91.319(d)
+title: 91.319(d)
+text: '(d) Cada pessoa operando uma aeronave com CAVE deve:
+
+  (1) cientificar cada pessoa transportada a bordo da natureza experimental da aeronave; e
+
+  (2) operar em voo VFR diurno, salvo se de outro modo for especificamente autorizado pela
+
+  ANAC.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- cada
+- cave
+- experimental
+- pessoa
+- autorizacao
+- autorizado
+- bordo
+- certificado
+- cientificar
+- civil
+- diurno
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

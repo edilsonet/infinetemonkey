@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-65-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.65'
+section_title: Livro(s) de registros da tripulação e da aeronave
+subsection_id: c
+cite: 135.65(c)
+title: 135.65(c)
+text: '(c) No que diz respeito à aeronave:
+
+  (1) o piloto em comando deve registrar ou fazer que seja registrado no livro cada irregularidade
+  que seja observada antes, durante e após o voo. Antes de cada voo o piloto em comando deve
+  verificar a situação de cada irregularidade registrada nos voos anteriores.
+
+  (2) cada pessoa que tome ações corretivas concernentes a falhas ou mau funcionamento registrados
+  no livro de bordo, seja na célula, motores, hélices, rotores ou equipamentos normais e de
+  emergência, deve registrar sua ação no referido livro, de acordo com os aplicáveis requisitos
+  de manutenção dos regulamentos aplicáveis.'
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- livro
+- seja
+- aeronave
+- aplicaveis
+- comando
+- irregularidade
+- piloto
+- registrar
+- acao
+- acoes
+- acordo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

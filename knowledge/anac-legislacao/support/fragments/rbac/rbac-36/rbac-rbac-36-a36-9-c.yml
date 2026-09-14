@@ -1,0 +1,89 @@
+id: rbac-rbac-36-a36-9-c
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: A36.9
+subsection_id: c
+cite: A36.9(c)
+title: A36.9(c)
+text: '(c) Relative humidity and ambient tem
+
+  perature over the whole noise path betwen a point 3 ft (10
+
+  m) above the ground and the airplane such that the sound atenuation in the one
+
+  - third octave band
+
+  centered on 8 kHz wil not be more than 12 dB/10 m unles:
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  24
+
+  / 121
+
+
+  (1) The dew point and dry bulb temper
+
+  atures are measured with a device which is acurate to ±0.9
+
+  °F (±0.5 °C) and used to obtain relative humidity; in adition layered sections of the atmosphere
+  are
+
+  used as described in section A36.2.2.3 to compute equivalent weighted sound atenuations
+  in ea
+
+  ch
+
+  one
+
+  - third octave band; or
+
+
+  (2) The peak noy values at the time of PNLT, after adjustment to reference conditions, ocur
+  at
+
+  frequencies les than or equal to 40 Hz.;'
+keywords:
+- ruido
+- meio-ambiente
+- band
+- humidity
+- octave
+- point
+- relative
+- sound
+- than
+- third
+- used
+- above
+- abril
+- acurate
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

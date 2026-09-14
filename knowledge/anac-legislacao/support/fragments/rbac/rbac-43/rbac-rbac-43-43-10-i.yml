@@ -1,0 +1,45 @@
+id: rbac-rbac-43-43-10-i
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.10'
+section_title: Controle de peças com limite de vida
+subsection_id: i
+cite: 43.10(i)
+title: 43.10(i)
+text: '(i) a conservação dos registros do número da peça, seu número de série e sua situação
+  de
+
+  vida; e
+
+  (ii) a garantia de que a peça está armazenada em local fisicamente separado de outras peças
+
+  que sejam correntemente elegíveis para instalação.
+
+  (6) Mutilação. A peça pode ser mutilada para impedir sua instalação em um produto com
+
+  certificado de tipo. A mutilação deve tornar a peça irreparável e impossível de ser retrabalhada
+  para
+
+  aparentar aeronavegabilidade.
+
+  (7) Outros métodos. Qualquer outro método aprovado pela ANAC.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- peca
+- instalacao
+- mutilacao
+- numero
+- pecas
+- vida
+- aparentar
+- aprovado
+- armazenada
+- certificado
+- conservacao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

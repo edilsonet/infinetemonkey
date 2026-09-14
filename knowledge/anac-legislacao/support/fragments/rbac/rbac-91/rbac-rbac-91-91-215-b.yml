@@ -1,0 +1,33 @@
+id: rbac-rbac-91-91-215-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.215'
+section_title: Transponder e transmissor automático de altitude
+subsection_id: b
+cite: 91.215(b)
+title: 91.215(b)
+text: '(b) Quando o tipo de operação e/ou o espaço aéreo requerer, a aeronave deve ser equipada
+  com
+
+  um transponder, com aprovação OTP (TSO), mantido conforme a seção 91.413 deste Regulamento.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- transponder
+- aereo
+- aeronave
+- altitude
+- aprovacao
+- automatico
+- deste
+- equipada
+- espaco
+- mantido
+- operacao
+- regulamento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

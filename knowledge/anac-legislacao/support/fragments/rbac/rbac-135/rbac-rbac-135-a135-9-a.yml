@@ -1,0 +1,44 @@
+id: rbac-rbac-135-a135-9-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.9
+section_title: Informações e limitações operacionais
+subsection_id: a
+cite: A135.9(a)
+title: A135.9(a)
+text: '(a) Velocidade máxima limite de operação VMO / MMO. Em lugar de estabelecer limitações
+  operacionais baseadas em VNE e VNO, o requerente deve estabelecer uma velocidade máxima
+  limite de operação, VMO / MMO, como se segue:
+
+  (1) A velocidade máxima limite de operação não pode exceder a velocidade de cruzeiro de
+  projeto VC e deve ficar suficientemente abaixo da VD / MD ou VDF / MDF para que seja altamente
+  improvável que essas velocidades sejam excedidas inadvertidamente em voo.
+
+  (2) A velocidade VMO não pode exceder 0,8 VD / MD ou 0,8 VDF / MDF, exceto se demonstrações
+  em voo, incluindo as perturbações especificadas pelo órgão certificador, indicarem que uma
+  margem menor de velocidade não irá resultar em velocidades excedendo VD / MD ou VDF / MDF.
+  Nessa avaliação devem ser levadas em consideração variações atmosféricas, rajadas horizontais,
+  erros do sistema e dos equipamentos e variações na produção das células.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- velocidade
+- limite
+- maxima
+- operacao
+- estabelecer
+- exceder
+- limitacoes
+- operacionais
+- pode
+- variacoes
+- velocidades
+- a135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

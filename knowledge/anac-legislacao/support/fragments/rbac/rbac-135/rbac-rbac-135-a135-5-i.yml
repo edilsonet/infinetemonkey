@@ -1,0 +1,38 @@
+id: rbac-rbac-135-a135-5-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.5
+section_title: Estabilidade
+subsection_id: i
+cite: A135.5(i)
+title: A135.5(i)
+text: '(i) trem de pouso recolhido;
+
+  (ii) flapes de asa recolhidos;
+
+  (iii) potência máxima de cruzeiro como selecionada pelo requerente como um limite operacional
+  para motores a turbina, ou 75% da potência máxima contínua para motores convencionais, exceto
+  que a potência não precisa exceder aquela requerida para voar na VMO / MMO;
+
+  (iv) peso máximo de decolagem; e'
+keywords:
+- taxi-aereo
+- operacoes
+- potencia
+- maxima
+- motores
+- a135
+- aquela
+- continua
+- convencionais
+- cruzeiro
+- decolagem
+- estabilidade
+- exceder
+- exceto
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

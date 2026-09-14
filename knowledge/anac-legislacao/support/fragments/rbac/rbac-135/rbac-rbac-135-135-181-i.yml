@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-181-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.181'
+section_title: 'Requisitos de desempenho: aeronave operando IFR'
+subsection_id: i
+cite: 135.181(i)
+title: 135.181(i)
+text: '(i) forem atendidas as seções 135.101, 135.163 (no que for aplicável) e 135.165 deste
+  Regulamento;
+
+  (ii) a aeronave possuir motor a turbina e for certificada para esse tipo de operação; e
+
+  (iii) a operação for conduzida de acordo com o manual de voo da aeronave aprovado pelo órgão
+  certificador.
+
+  (2) operar uma aeronave multimotora transportando passageiros em voo IFR, a um peso que
+  não permita subir, com o motor crítico inoperante, pelo menos 50 pés/minuto quando voando
+  na altitude mínima da rota a ser voada, ou 5000 pés MSL, o que for mais alto.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- motor
+- operacao
+- acordo
+- altitude
+- alto
+- aplicavel
+- aprovado
+- atendidas
+- certificada
+- certificador
+- conduzida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

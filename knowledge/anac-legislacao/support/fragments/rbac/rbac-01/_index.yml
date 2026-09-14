@@ -1,0 +1,33 @@
+document: rbac-01
+kind: rbac
+title: RBAC 01 EMD 16
+ementa: Definições, regras de redação e unidades de medida para uso nos normativos da ANAC
+  Em vigor em 1º de março de 2024
+family: '1'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-01
+pdf_url: ''
+archive_url: ''
+language: pt
+foreign_annex: false
+sections:
+- '01.1'
+- '01.2'
+- '01.3'
+- 01.3-I
+- 01.3-II
+- preambulo
+fragment_count: 10
+fragment_ids:
+- rbac-rbac-01-preambulo-body
+- rbac-rbac-01-01-2-body
+- rbac-rbac-01-01-3-body
+- rbac-rbac-01-01-3-i-body
+- rbac-rbac-01-01-3-ii-body
+- rbac-rbac-01-01-1-body
+- rbac-rbac-01-01-1-i
+- rbac-rbac-01-01-1-v
+- rbac-rbac-01-01-3-a
+- rbac-rbac-01-01-3-b
+parser_version: 6

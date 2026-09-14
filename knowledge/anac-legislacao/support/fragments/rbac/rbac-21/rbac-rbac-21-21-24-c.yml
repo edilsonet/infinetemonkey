@@ -1,0 +1,41 @@
+id: rbac-rbac-21-21-24-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.24'
+section_title: 'Emissão de certificado de tipo: aeronave categoria primária'
+subsection_id: c
+cite: 21.24(c)
+title: 21.24(c)
+text: '(c) Para aeronaves construídas no exterior, em um país com o qual o Brasil tenha um
+  acordo bilateral para aceitação dessas aeronaves ou, se não existir esse acordo, com base
+  no reconhecimento do certificado de tipo emitido pela autoridade de aviação civil estrangeira,
+  e desde que a importação seja feita a partir do país do detentor do projeto de tipo:
+
+  (1) a declaração requerida pelo parágrafo (a)(2)(i) desta seção deve ser feita pela autoridade
+  de aviação civil do país exportador; e
+
+  (2) os manuais, letreiros, listas, marcas de instrumentos e os documentos requeridos pelos
+  parágrafos (a) e (b) desta seção devem ser apresentados em português ou em inglês.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- pais
+- tipo
+- acordo
+- aeronaves
+- autoridade
+- aviacao
+- certificado
+- civil
+- desta
+- feita
+- secao
+- aceitacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

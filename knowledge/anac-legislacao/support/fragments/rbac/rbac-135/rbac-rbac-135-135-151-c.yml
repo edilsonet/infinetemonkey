@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-151-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.151'
+section_title: Gravador de voz na cabine
+subsection_id: c
+cite: 135.151(c)
+title: 135.151(c)
+text: (c) No evento de um acidente ou ocorrência requerendo imediata notificação à ANAC e
+  que determine o término do voo, o detentor de certificado deve guardar a gravação do voo
+  por, pelo menos, 60 dias ou, se requerido pela ANAC, por período mais longo. As informações
+  obtidas da gravação somente podem ser utilizadas em conformidade com os art. 88-I a 88-L
+  da Lei nº 7.565, de 19 de dezembro de 1986.
+keywords:
+- taxi-aereo
+- operacoes
+- gravacao
+- acidente
+- cabine
+- certificado
+- conformidade
+- detentor
+- determine
+- dezembro
+- dias
+- evento
+- gravador
+- guardar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

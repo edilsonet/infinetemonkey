@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-151-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.151'
+section_title: Requisitos de pessoal
+subsection_id: b
+cite: 145.151(b)
+title: 145.151(b)
+text: '(b) prover pessoal com vínculo contratual e qualificado para planejar, registrar, supervisionar,
+
+  executar, inspecionar e aprovar para retorno ao serviço a manutenção, manutenção preventiva
+  ou
+
+  alteração executada sob o certificado de organização de manutenção e suas especificações
+
+  operativas;'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- pessoal
+- alteracao
+- aprovar
+- certificado
+- contratual
+- especificacoes
+- executada
+- executar
+- inspecionar
+- operativas
+- organizacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

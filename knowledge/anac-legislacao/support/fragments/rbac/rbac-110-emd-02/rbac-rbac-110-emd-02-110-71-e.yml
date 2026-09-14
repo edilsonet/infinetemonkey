@@ -1,0 +1,43 @@
+id: rbac-rbac-110-emd-02-110-71-e
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.71'
+section_title: Treinamento em Serviço para profissionais que desempenham atividade de inspeção
+  de segurança da aviação civil
+subsection_id: e
+cite: 110.71(e)
+title: 110.71(e)
+text: '(e) O Treinamento em Serviço deve ser finalizado com ficha de avaliação, assinada pelo
+  responsável designado para o acompanhamento e avaliação do Treinamento em Serviço, que formalize
+  se, ao final do período, o novo profissional está “apto” ou “não-apto” para desempenho de
+  suas funções, com base nos seguintes critérios de avaliação:
+
+  (1) O profissional é capaz de desempenhar as atividades em conformidade com os procedimentos
+  previstos nos regulamentos da ANAC e nos programas de segurança?
+
+  (2) O profissional demonstrou capacidade de detecção de ameaças nas 12 (doze) horas-aula
+  de simulações de ameaças?
+
+  (3) O profissional identificou 70% (setenta porcento) ou mais das ameaças constantes nos
+  testes aleatórios de identificação de ameaças realizados?'
+keywords:
+- carga
+- operacoes
+- ameacas
+- profissional
+- avaliacao
+- servico
+- treinamento
+- apto
+- seguranca
+- acompanhamento
+- aleatorios
+- assinada
+- atividade
+- atividades
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-145-145-157-d-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.157'
+section_title: Pessoal autorizado para aprovar um artigo para retorno ao serviço
+subsection_id: d-i
+cite: 145.157(d-I)
+title: 145.157(d-I)
+text: '(d)-I A pessoa autorizada a aprovar um artigo para retorno ao serviço deve ser capaz
+  de ler e
+
+  entender o(s) idioma(s) em que são apresentados os dados técnicos e as instruções para
+
+  aeronavegabilidade continuada necessárias para a realização dos serviços constantes em suas
+
+  especificações operativas.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- aprovar
+- artigo
+- retorno
+- servico
+- aeronavegabilidade
+- apresentados
+- autorizada
+- autorizado
+- capaz
+- constantes
+- continuada
+- dados
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

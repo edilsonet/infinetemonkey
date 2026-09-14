@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-223-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.223'
+section_title: Autonomia para voo IFR
+subsection_id: a
+cite: 135.223(a)
+title: 135.223(a)
+text: '(a) Somente é permitido operar uma aeronave em voo IFR se houver quantidades de combustível
+  e óleo suficientes (considerando informações meteorológicas disponíveis) para completar
+  o voo planejado com segurança e para permitir desvios com relação à operação planejada.
+  O combustível utilizável deve incluir:
+
+  (1) combustível do táxi, que deve ser a quantidade de combustível que se espera que seja
+  consumida antes da decolagem, levando em consideração condições locais no aeródromo de decolagem
+  e, caso aplicável, consumo de combustível pela unidade auxiliar de energia (APU);
+
+  (2) combustível para o aeródromo de destino, que deve ser a quantidade de combustível requerida
+  desde a decolagem até o pouso no destino;
+
+  (3) combustível para o aeródromo de alternativa de destino, que deve ser:'
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- aerodromo
+- decolagem
+- destino
+- quantidade
+- aeronave
+- alternativa
+- aplicavel
+- autonomia
+- auxiliar
+- caso
+- completar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-90-90-381-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.381'
+section_title: Requisitos gerais para operação
+subsection_id: e
+cite: 90.381(e)
+title: 90.381(e)
+text: '(e) O operador aerotático de segurança deverá:
+
+  (1) interromper a operação
+
+  fast rope
+
+  sempre que a segurança estiver comprometida; e
+
+  (2) observar indícios de fadiga dos profissionais envolvidos e impedir que aqueles que os
+  apresentem realizem a referida operação.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacao
+- seguranca
+- aerotatico
+- apresentem
+- aqueles
+- comprometida
+- devera
+- envolvidos
+- estiver
+- fadiga
+- fast
+- gerais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -44,6 +44,8 @@ GENERATED_MD_WALK_PRUNES=(
   "*/outputs/crm-corpus/assets/*"
   "*/outputs/_runtime"
   "*/outputs/_runtime/*"
+  "*/outputs/quarantine"
+  "*/outputs/quarantine/*"
   "*/tools/starter-export/overlay"
   "*/tools/starter-export/overlay/*"
   "*/tools/client-export/overlay"
@@ -876,6 +878,8 @@ def is_plumbing(rel):
         return True
     if rel.startswith("outputs/_runtime/"):
         return True
+    if rel.startswith("outputs/quarantine/"):
+        return True
     # Export overlay trees are payload for the exported brain, not nodes in this brain.
     # Their INDEX.md and canon/agent-load-order.md are frontmatter-exempt in the target brain
     # by the same rule as above, but the patterns there anchor at knowledge/ and so do not
@@ -1334,6 +1338,7 @@ if command -v rg >/dev/null 2>&1; then
       -g '!.claude/**' \
       -g '!**/archive/**' \
       -g '!**/support/**' \
+      -g '!**/quarantine/**' \
       -g '!**/waves/surfaces/dist/**'; then
     ERRORS+=("EM/EN DASH FOUND: see rg output above")
     FAIL=1
@@ -1350,6 +1355,7 @@ else
       --exclude-dir="docs" \
       --exclude-dir="archive" \
       --exclude-dir="support" \
+      --exclude-dir="quarantine" \
       "\xE2\x80\x94|\xE2\x80\x93" "$REPO_ROOT" 2>/dev/null | grep -v "^Binary"; then
     ERRORS+=("EM/EN DASH FOUND: see grep output above")
     FAIL=1

@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-185-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.185'
+section_title: 'Peso vazio e centro de gravidade: atualização requerida'
+subsection_id: b
+cite: 135.185(b)
+title: 135.185(b)
+text: '(b) O parágrafo (a) desta seção não se aplica a:
+
+  (1) aeronave que tenha recebido o certificado de certificação de tipo original dentro dos
+  36 meses precedentes; e
+
+  (2) aeronave operada sob um sistema de peso e balanceamento aprovado nas especificações
+  operativas do detentor de certificado.
+
+  SUBPARTE D
+
+  LIMITAÇÕES PARA OPERAÇÕES VFR E IFR. REQUISITOS DE CONDIÇÕES METEOROLÓGICAS'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- certificado
+- peso
+- aplica
+- aprovado
+- atualizacao
+- balanceamento
+- centro
+- certificacao
+- condicoes
+- dentro
+- desta
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

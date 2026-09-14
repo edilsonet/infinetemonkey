@@ -1,0 +1,33 @@
+id: rbac-rbac-135-g135-2-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: f
+cite: G135.2(f)
+title: G135.2(f)
+text: '(f) Requisitos de comunicação.
+
+  (1) Somente é permitido conduzir um voo ETOPS se os seguintes equipamentos de comunicação,
+  apropriados para a rota a ser voada, estiverem instalados e operacionais:'
+keywords:
+- taxi-aereo
+- operacoes
+- comunicacao
+- requisitos
+- apropriados
+- conduzir
+- equipamentos
+- estiverem
+- etops
+- g135
+- instalados
+- operacionais
+- permitido
+- rota
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

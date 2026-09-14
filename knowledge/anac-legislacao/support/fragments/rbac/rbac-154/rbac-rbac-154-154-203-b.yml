@@ -1,0 +1,47 @@
+id: rbac-rbac-154-154-203-b
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.203'
+section_title: Acostamentos de pista de pouso e decolagem
+subsection_id: b
+cite: 154.203(b)
+title: 154.203(b)
+text: '(b) Largura dos acostamentos de pista de pouso e decolagem
+
+  Os acostamentos de pista de pouso e decolagem devem estender-se simetricamente em cada um
+
+  dos lados da pista, de modo que a largura total da pista e de seus acostamentos não seja
+  inferior a:
+
+  (1) 60 m, onde a letra de código for D ou E para aeronaves com OMGWS maior ou igual a 9
+
+  m e menor que 15 m;
+
+  (2) 60 m onde a letra de código for F para aeronaves de dois ou três motores com OMGWS
+
+  maior ou igual a 9 m e menor que 15 m; e
+
+  (3) 75 m, onde a letra de código for F para aeronaves de quatro (ou mais) motores com
+
+  OMGWS maior ou igual a 9 m e menor que 15 m. (Redação dada pela Resolução nº 465, de
+
+  13.03.2018)'
+keywords:
+- seguranca-aeroportuaria
+- pista
+- acostamentos
+- aeronaves
+- codigo
+- decolagem
+- igual
+- letra
+- maior
+- menor
+- omgws
+- pouso
+- largura
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

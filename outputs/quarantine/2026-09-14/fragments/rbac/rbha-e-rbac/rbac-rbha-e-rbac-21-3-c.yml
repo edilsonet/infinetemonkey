@@ -1,0 +1,71 @@
+id: rbac-rbha-e-rbac-21-3-c
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.3'
+section_title: Comunicação de falhas, mau funcionamento e defeitos
+subsection_id: c
+cite: 21.3(c)
+title: 21.3(c)
+text: '(c) As seguintes ocorrências devem ser comunicadas de acordo com os parágrafos (a)
+  e (b) desta seção:
+
+  (1) fogo causado por falha, mau funcionamento ou defeito de um sistema ou de um equipamento;
+
+  (2) falha, mau funcionamento ou defeito de um sistema de exaustão de motor que cause danos
+  ao motor, estruturas adjacentes da aeronave, equipamentos ou componentes;
+
+  (3) acúmulo ou circulação de gases tóxicos ou nocivos no compartimento de tripulantes ou
+  na cabine de passageiros;
+
+  (4) mau funcionamento, falha ou defeito de um sistema de controle de hélice;
+
+  (5) falha de cubo de hélice ou de rotor, ou falha estrutural de uma pá;
+
+  (6) vazamento de fluidos inflamáveis em locais onde normalmente existem fontes de ignição;
+
+  (7) falha do sistema de freio causado por falha estrutural ou falha de material durante
+  a operação; (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )
+
+  (8) defeito ou falha significativa na estrutura primária da aeronave causada por qualquer
+  condição autógena (fadiga, baixa resistência, corrosão etc.);
+
+  (9) qualquer vibração anormal, mecânica ou aerodinâmica causada por mau funcionamento, defeito
+  ou falha estrutural ou de sistemas;
+
+  (10) falha de motor;
+
+  (11) qualquer mau funcionamento, defeito ou falha estrutural ou de sistema de controles
+  de voo que cause interferência com o controle normal da aeronave ou que afete as qualidades
+  de voo;
+
+  (12) perda total de mais de um sistema gerador de energia elétrica ou hidráulica durante
+  uma dada operação da aeronave; e
+
+  (13) falha ou mau funcionamento de mais de um dos instrumentos indicadores de velocidade,
+  atitude e altitude durante uma dada operação da aeronave.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- falha
+- funcionamento
+- defeito
+- sistema
+- aeronave
+- estrutural
+- dada
+- durante
+- motor
+- operacao
+- causada
+- causado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

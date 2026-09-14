@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-25-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.25'
+section_title: Requisitos das aeronaves
+subsection_id: b
+cite: 135.25(b)
+title: 135.25(b)
+text: '(b) O detentor de certificado deve ter o uso exclusivo de pelo menos uma aeronave que
+  atenda aos requisitos de pelo menos uma espécie de operação autorizada nas especificações
+  operativas desse detentor de certificado. Adicionalmente, para cada espécie de operação
+  para a qual o detentor de certificado não tem o uso exclusivo de uma aeronave, ele deve
+  ter disponível para uso, segundo um contrato escrito (incluindo arranjos para executar manutenção
+  requerida), pelo menos uma aeronave que atenda aos requisitos para aquela espécie de operação.
+  No entanto, este parágrafo não proíbe que o operador use ou autorize o uso de uma aeronave
+  para outras operações que não aquelas segundo este Regulamento e não requer que o detentor
+  de certificado tenha o uso exclusivo de todas as aeronaves por ele utilizadas.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- certificado
+- detentor
+- especie
+- exclusivo
+- menos
+- operacao
+- requisitos
+- aeronaves
+- atenda
+- segundo
+- adicionalmente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

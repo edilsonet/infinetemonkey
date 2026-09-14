@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-115-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.115'
+section_title: Largura de rota
+subsection_id: body
+cite: '121.115'
+title: Largura de rota
+text: '121.115 Largura de rota
+
+  Rotas e segmentos de rotas aprovadas de aerovias brasileiras ou estrangeiras possuem a largura
+  prevista nas cartas e publicações pertinentes do Comando da Aeronáutica.'
+keywords:
+- transporte-aereo
+- operacoes
+- largura
+- rota
+- rotas
+- aeronautica
+- aerovias
+- aprovadas
+- brasileiras
+- cartas
+- comando
+- estrangeiras
+- pertinentes
+- possuem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

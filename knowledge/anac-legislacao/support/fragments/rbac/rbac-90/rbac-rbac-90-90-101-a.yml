@@ -1,0 +1,42 @@
+id: rbac-rbac-90-90-101-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: a
+cite: 90.101(a)
+title: 90.101(a)
+text: '(a) O sistema de manuais da UAP deverá ser composto pelas seguintes publicações:
+
+  (1) MOP, segundo a subparte I deste Regulamento;
+
+  (2) programa de treinamento;
+
+  (3) SOP, segundo a subparte J deste Regulamento;
+
+  (4) MGSO, segundo a subparte K deste Regulamento;
+
+  (5) MEL, se aplicável, nos termos da seção 90.87 deste Regulamento; e
+
+  (6) outros manuais e publicações a critério da UAP.'
+keywords:
+- regras-de-voo
+- operacoes
+- deste
+- regulamento
+- segundo
+- subparte
+- manuais
+- publicacoes
+- aplicavel
+- composto
+- criterio
+- devera
+- gerais
+- mgso
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

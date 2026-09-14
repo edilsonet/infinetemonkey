@@ -1,0 +1,41 @@
+id: rbac-rbac-154-154-111-b
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.111'
+section_title: Resistência de pavimentos
+subsection_id: b
+cite: 154.111(b)
+title: 154.111(b)
+text: '(b) Devem ser observados os seguintes padrões mínimos:
+
+  (1) a resistência de pavimentos destinados a aeronaves com peso de rampa superior a 5.700
+  kg
+
+  deve ser divulgada utilizando-se o método ACN-PCN; e
+
+  (2) a resistência de pavimentos destinados a aeronaves com peso de rampa igual ou inferior
+  a
+
+  5.700 kg deve ser divulgada informando-se o peso máximo permitido da aeronave e a pressão
+  máxima
+
+  permitida dos pneus.'
+keywords:
+- seguranca-aeroportuaria
+- pavimentos
+- peso
+- resistencia
+- aeronaves
+- destinados
+- divulgada
+- rampa
+- aeronave
+- igual
+- inferior
+- informando
+- maxima
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

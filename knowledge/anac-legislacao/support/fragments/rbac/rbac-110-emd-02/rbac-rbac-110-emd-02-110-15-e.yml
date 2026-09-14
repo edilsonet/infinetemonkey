@@ -1,0 +1,32 @@
+id: rbac-rbac-110-emd-02-110-15-e
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.15'
+section_title: Certificação dos profissionais em Segurança da Aviação Civil - AVSEC
+subsection_id: e
+cite: 110.15(e)
+title: 110.15(e)
+text: (e) Ficam isentos de certificação de Formação ou Atualização de Instrutor AVSEC, os
+  profissionais que sejam servidores públicos de órgão com responsabilidade vinculada à AVSEC,
+  que ministrem aulas com temas pertinentes à sua área de atuação e que não ultrapassem 40%
+  (quarenta porcento) da carga horária do curso.
+keywords:
+- carga
+- operacoes
+- avsec
+- certificacao
+- profissionais
+- area
+- atuacao
+- atualizacao
+- aulas
+- aviacao
+- civil
+- curso
+- ficam
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

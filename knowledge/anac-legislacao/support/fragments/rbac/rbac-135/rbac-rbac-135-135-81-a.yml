@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-81-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.81'
+section_title: Informações operacionais e suas alterações
+subsection_id: a
+cite: 135.81(a)
+title: 135.81(a)
+text: '(a) publicações aeronáuticas (cartas aeronáuticas de rota e de terminais: procedimentos
+  de saída e de aproximação por instrumentos, ROTAER, AIP, etc.);'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronauticas
+- alteracoes
+- aproximacao
+- cartas
+- informacoes
+- instrumentos
+- operacionais
+- procedimentos
+- publicacoes
+- rota
+- rotaer
+- saida
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

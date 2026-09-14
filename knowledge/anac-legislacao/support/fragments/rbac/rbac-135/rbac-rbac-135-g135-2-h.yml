@@ -1,0 +1,39 @@
+id: rbac-rbac-135-g135-2-h
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: h
+cite: G135.2(h)
+title: G135.2(h)
+text: '(h) Requisitos do programa de manutenção. A fim de conduzir um voo ETOPS sob a seção
+  135.364 deste Regulamento, o detentor de certificado deve desenvolver e cumprir o programa
+  de manutenção ETOPS, como autorizado nas especificações operativas do detentor de certificado,
+  para cada combinação avião/motor bimotor usada nas operações ETOPS. Esse planejamento não
+  se aplica a operações utilizando um avião com mais de dois motores. O detentor de certificado
+  deve desenvolver seu programa de manutenção ETOPS para suplementar o programa de manutenção
+  atualmente aprovado para o detentor de certificado. Este programa de manutenção ETOPS deve
+  incluir os seguintes elementos:
+
+  (1) documento de manutenção ETOPS. O detentor de certificado deve ter um documento de manutenção
+  ETOPS para uso de cada pessoa envolvida nas operações ETOPS. O documento deve:'
+keywords:
+- taxi-aereo
+- operacoes
+- etops
+- manutencao
+- certificado
+- detentor
+- programa
+- documento
+- aviao
+- cada
+- desenvolver
+- requisitos
+- aplica
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

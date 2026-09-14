@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-421-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.421'
+section_title: Requisitos adicionais de manutenção
+subsection_id: a
+cite: 135.421(a)
+title: 135.421(a)
+text: (a) O detentor de certificado que opera uma aeronave com certificação de tipo para uma
+  configuração para passageiros, excluído qualquer assento de pilotos, com 9 assentos ou menos
+  deve cumprir com o programa de manutenção recomendado pelos fabricantes, ou com um programa
+  aprovado pela ANAC para cada motor, hélice, rotor, componentes e para cada item de equipamento
+  de emergência requerido por este Regulamento.
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- manutencao
+- programa
+- adicionais
+- aeronave
+- aprovado
+- assento
+- assentos
+- certificacao
+- certificado
+- componentes
+- configuracao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

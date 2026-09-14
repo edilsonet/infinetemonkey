@@ -1,0 +1,42 @@
+id: rbac-rbac-175-175-387-a
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.387'
+section_title: Informações por parte do operador aéreo em caso de acidente ou de incidente
+subsection_id: a
+cite: 175.387(a)
+title: 175.387(a)
+text: '(a) O operador aéreo de uma aeronave transportando artigos perigosos como carga deve,
+  sem
+
+  demora, prover aos serviços de emergência que respondam a um acidente ou incidente grave
+
+  informações sobre os artigos perigosos a bordo, tal como apresentadas na cópia da informação
+
+  provida ao piloto em comando, num evento de:
+
+  (1) um acidente aeronáutico; ou
+
+  (2) um incidente grave onde artigos perigosos transportados como carga possam estar
+
+  envolvidos.'
+keywords:
+- artigos-perigosos
+- carga
+- acidente
+- artigos
+- incidente
+- perigosos
+- aereo
+- grave
+- informacoes
+- operador
+- aeronautico
+- aeronave
+- apresentadas
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

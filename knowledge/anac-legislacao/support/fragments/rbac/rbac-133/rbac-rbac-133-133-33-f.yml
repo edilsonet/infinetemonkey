@@ -1,0 +1,35 @@
+id: rbac-rbac-133-133-33-f
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.33'
+section_title: Regras de operação
+subsection_id: f
+cite: 133.33(f)
+title: 133.33(f)
+text: '(f) Ninguém pode conduzir operações de aeronaves com cargas externas sob IFR, a menos
+  que
+
+  expressamente autorizado pela ANAC. Entretanto, em nenhuma hipótese, uma pessoa pode ser
+
+  transportada, como parte da carga externa, em um voo IFR.'
+keywords:
+- carga-externa
+- helicoptero
+- pode
+- aeronaves
+- autorizado
+- carga
+- cargas
+- conduzir
+- entretanto
+- expressamente
+- externa
+- externas
+- hipotese
+- menos
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

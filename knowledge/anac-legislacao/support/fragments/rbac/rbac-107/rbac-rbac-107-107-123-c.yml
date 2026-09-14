@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-123-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.123'
+section_title: Proteção de Passageiros e seus Pertences de Mão
+subsection_id: c
+cite: 107.123(c)
+title: 107.123(c)
+text: (c) O operador de aeródromo, no âmbito de sua competência no processo de despacho do
+  passageiro e da bagagem de mão, deve garantir a segregação física entre passageiros já inspecionados
+  e outras pessoas não inspecionadas.
+keywords:
+- seguranca
+- aeroporto
+- passageiros
+- aerodromo
+- ambito
+- bagagem
+- competencia
+- despacho
+- fisica
+- garantir
+- inspecionadas
+- inspecionados
+- operador
+- outras
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

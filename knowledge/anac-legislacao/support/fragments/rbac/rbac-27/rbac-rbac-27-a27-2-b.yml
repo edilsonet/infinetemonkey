@@ -1,0 +1,83 @@
+id: rbac-rbac-27-a27-2-b
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.2
+section_title: Format.
+subsection_id: b
+cite: A27.2(b)
+title: A27.2(b)
+text: '(b)
+
+  Maintenance instructions.
+
+  (1)
+
+  Scheduling information for each part of the rotorcraft and its engines, auxiliary power
+  units, rotors,
+
+  accessories, instruments and equipment that provides the recommended periods at which they
+
+  should be cleaned, inspected, adjusted, tested, and lubricated, and the degree of inspection,
+  the
+
+  applicable wear tolerances, and work recommended at these periods. However, the applicant
+  may
+
+  refer to an accessory, instrument, or equipment manufacturer as the source of this information
+  if the
+
+  applicant shows the item has an exceptionally high degree of complexity requiring specialized
+
+  maintenance techniques, test equipment, or expertise. The recommended overhaul periods and
+
+  necessary cross references to the Airworthiness Limitations section of the manual must also
+  be
+
+  included. In addition, the applicant must include an inspection program that includes the
+  frequency
+
+  and extent of the inspections necessary to provide for the continued airworthiness of the
+  rotorcraft.
+
+  (2)
+
+  Troubleshooting information describing problem malfunctions, how to recognize those
+
+  malfunctions, and the remedial action for those malfunctions.
+
+  (3)
+
+  Information describing the order and method of removing and replacing products and parts
+  with
+
+  any necessary precautions to be taken.
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR 27.1589
+
+  14 CFR 27.1589 (enhanced display)
+
+  page 116 of 126'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- information
+- airworthiness
+- applicant
+- equipment
+- malfunctions
+- necessary
+- periods
+- recommended
+- degree
+- describing
+- inspection
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

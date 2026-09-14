@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-364-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.364'
+section_title: Limitações dos aviões. Tipo de rota
+subsection_id: a
+cite: 135.364(a)
+title: 135.364(a)
+text: (a) Exceto para aviões com configuração exclusivamente cargueira com mais de dois motores,
+  um detentor de certificado somente pode operar um avião fora do país, a mais de 180 minutos
+  de voo de um aeródromo adequado (em velocidade de cruzeiro com um motor inoperante sob atmosfera
+  padrão e ar calmo), conforme definido no Apêndice G deste Regulamento.
+keywords:
+- taxi-aereo
+- operacoes
+- avioes
+- adequado
+- aerodromo
+- apendice
+- atmosfera
+- aviao
+- calmo
+- cargueira
+- certificado
+- configuracao
+- cruzeiro
+- definido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-385-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.385'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de pouso
+  no aeródromo de destino'
+subsection_id: f
+cite: 135.385(f)
+title: 135.385(f)
+text: (f) Em uma pista contaminada especialmente preparada, é permitido utilizar uma distância
+  de pouso mais curta do que a exigida no parágrafo (e) desta seção, mas não inferior à exigida
+  no parágrafo (b) desta seção, se o manual de voo do avião possuir informações adicionais
+  específicas sobre distâncias de pouso em pistas contaminadas.
+keywords:
+- taxi-aereo
+- operacoes
+- pouso
+- desta
+- exigida
+- paragrafo
+- secao
+- adicionais
+- aerodromo
+- aviao
+- avioes
+- categoria
+- contaminada
+- contaminadas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

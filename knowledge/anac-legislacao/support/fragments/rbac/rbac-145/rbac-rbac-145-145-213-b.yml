@@ -1,0 +1,39 @@
+id: rbac-rbac-145-145-213-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.213'
+section_title: Inspeção da manutenção, manutenção preventiva ou alteração
+subsection_id: b
+cite: 145.213(b)
+title: 145.213(b)
+text: '(b) Cada organização de manutenção deve certificar, por meio de uma liberação de manutenção,
+
+  que o artigo está aeronavegável com relação à manutenção, manutenção preventiva ou alteração
+
+  executada, após:
+
+  (1) a organização de manutenção executar trabalho no artigo; e
+
+  (2) um inspetor inspecionar o artigo trabalhado e confirmar que ele está aeronavegável com
+
+  relação ao trabalho executado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- artigo
+- aeronavegavel
+- alteracao
+- organizacao
+- preventiva
+- relacao
+- trabalho
+- cada
+- certificar
+- confirmar
+- executada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

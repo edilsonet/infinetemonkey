@@ -1,0 +1,45 @@
+id: rbac-rbac-135-135-361-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.361'
+section_title: Aplicabilidade
+subsection_id: c
+cite: 135.361(c)
+title: 135.361(c)
+text: (c) Para os propósitos desta Subparte, “plano de liberação de obstáculos” significa
+  um plano inclinado, subindo a partir da pista com um gradiente de 1:20 em relação ao plano
+  horizontal e tangenciando ou livrando todas as obstruções dentro de uma área específica
+  em torno da pista, como mostrado na vista em perfil da área. Na vista em planta, a linha
+  central da referida área específica coincide com a linha central da pista, começando no
+  ponto onde o plano de liberação de obstáculos intercepta essa linha e prosseguindo até um
+  ponto situado pelo menos 460 m (1500 pés) distante do ponto inicial. Em seguida, a linha
+  central coincide com a projeção da trajetória de decolagem sobre o solo (no caso de decolagem)
+  ou com a correspondente projeção da trajetória de aproximação (para pousos) ou ainda, no
+  caso dessas trajetórias não terem sido estabelecidas, ela prossegue consistente com curvas
+  de pelo menos 1200 m (4.000 pés) de raio até atingir um ponto além do qual o plano de liberação
+  de obstáculos livra todos os obstáculos. Essa área estende-se lateralmente 60 m (200 pés)
+  para cada lado da linha central entre o ponto de interceptação do plano de liberação de
+  obstáculos e a cabeceira da pista. Depois disso, aumenta uniformemente até 150 m (500 pés)
+  para cada lado da linha central até 460 m (1500 pés) do ponto de início e, depois, mantém
+  a largura de 150 m (500 pés) para cada lado da linha central.
+keywords:
+- taxi-aereo
+- operacoes
+- linha
+- central
+- plano
+- ponto
+- obstaculos
+- area
+- liberacao
+- pista
+- cada
+- lado
+- caso
+- coincide
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

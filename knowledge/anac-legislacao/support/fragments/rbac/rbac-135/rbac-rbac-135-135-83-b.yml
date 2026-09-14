@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-83-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.83'
+section_title: Informações operacionais requeridas
+subsection_id: b
+cite: 135.83(b)
+title: 135.83(b)
+text: '(b) Cada lista de verificações requerida pelo parágrafo (a)(1) desta seção deve conter
+  os seguintes procedimentos:
+
+  (1) antes da partida dos motores;
+
+  (2) antes da decolagem;
+
+  (3) cruzeiro;
+
+  (4) antes do pouso;
+
+  (5) após o pouso; e
+
+  (6) parada dos motores.'
+keywords:
+- taxi-aereo
+- operacoes
+- motores
+- pouso
+- cada
+- conter
+- cruzeiro
+- decolagem
+- desta
+- informacoes
+- lista
+- operacionais
+- parada
+- paragrafo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

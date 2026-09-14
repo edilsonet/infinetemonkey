@@ -1,0 +1,44 @@
+id: rbac-rbac-121-121-189-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.189'
+section_title: 'Aviões com motores a turbina: limitações de decolagem'
+subsection_id: d
+cite: 121.189(d)
+title: 121.189(d)
+text: '(d) Ninguém pode decolar com um avião com motores a turbina com um peso maior que aquele
+  estipulado no AFM:
+
+  (1) no caso de avião de tipo certificado entre 26 de agosto de 1957 e 01 de outubro de l958
+  (SR422 da FAA), que permita uma trajetória de decolagem que livre todos os obstáculos por
+  um mínimo de (35 +0,01D) pés verticalmente ou por um mínimo de 60m (200 pés) horizontalmente
+  enquanto nos limites do aeródromo e um mínimo de 90 m (300 pés) horizontalmente além de
+  tais limites. ("D" é a distância em pés ao longo da trajetória de voo pretendida, a partir
+  do fim da pista); ou
+
+  (2) no caso de um avião de tipo certificado após 30 de setembro de 1958 (SR422A, SR422B
+  da FAA), que permita uma trajetória líquida de decolagem livrando todos os obstáculos por
+  uma altura mínima de 35 pés verticalmente ou em um mínimo de 60m (200 pés) horizontalmente
+  enquanto dentro dos limites do aeródromo e um mínimo de 90m (300 pés) horizontalmente após
+  passar tais limites.'
+keywords:
+- transporte-aereo
+- operacoes
+- minimo
+- horizontalmente
+- limites
+- aviao
+- decolagem
+- trajetoria
+- aerodromo
+- caso
+- certificado
+- enquanto
+- motores
+- obstaculos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

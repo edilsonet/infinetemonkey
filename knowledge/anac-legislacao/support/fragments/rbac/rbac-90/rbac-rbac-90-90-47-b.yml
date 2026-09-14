@@ -1,0 +1,62 @@
+id: rbac-rbac-90-90-47-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.47'
+section_title: Requisitos para exercício da função de examinador credenciado da UAP - piloto
+subsection_id: b
+cite: 90.47(b)
+title: 90.47(b)
+text: '(b) São requisitos gerais para exercício da função de piloto examinador credenciado
+  da UAP:
+
+  (1) ser agente público, segundo a UAP;
+
+  (2) ser detentor da licença de PCA/H;
+
+  (3) ser detentor da habilitação de categoria, tipo e/ou classe válida, segundo o RBAC nº
+  61;
+
+  (4) ser piloto em comando no modelo de aeronave, segundo a seção 90.23 deste Regulamento;
+
+  (5) ser instrutor de voo em aeronave ou instrutor de voo em FSTD da UAP segundo a seção
+  90.29 deste Regulamento;
+
+  (6) estar com habilitação IFRA/H válida, no caso de exame de proficiência IFRA/H;
+
+  (7) estar com habilitação INVA/H válida, no caso de exame de proficiência INVA/H;
+
+  (8) estar com habilitação PAGA/H válida, no caso de exame de proficiência PAGA/H;
+
+  (9) estar com habilitação LPQA/H válida, no caso de exame de proficiência LPQA/H;
+
+  (10) ter concluído o curso teórico de examinador credenciado ou equivalente aplicado a agentes
+  públicos a serviço da ANAC, ministrado pela ANAC, nos últimos 48 (quarenta e oito) meses;
+
+  (11) ter sido aprovado em exame de observação realizado pela ANAC, na função de examinador
+  credenciado, nos últimos 24 (vinte e quatro) meses;
+
+  (12) ter concluído, na função de piloto em comando, o treinamento inicial, periódico, elevação
+  de nível ou de transição, segundo este Regulamento; e
+
+  (13) ser detentor do CMA de 1ª Classe válido, salvo para examinadores em FSTD.'
+keywords:
+- regras-de-voo
+- operacoes
+- exame
+- habilitacao
+- segundo
+- valida
+- caso
+- credenciado
+- estar
+- examinador
+- funcao
+- piloto
+- proficiencia
+- detentor
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,45 @@
+id: rbac-rbac-135-135-178-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.178'
+section_title: Equipamentos adicionais de emergência
+subsection_id: c
+cite: 135.178(c)
+title: 135.178(c)
+text: '(c) Iluminação das marcas internas das saídas de emergência. Cada avião transportando
+  passageiros deve possuir um sistema de iluminação em emergência que seja independente do
+  sistema principal de iluminação; no entanto, as fontes de iluminação geral da cabine podem
+  ser comuns a ambos os sistemas desde que a fonte de energia do sistema de emergência seja
+  independente da fonte de energia do sistema principal. O sistema de iluminação de emergência
+  deve:
+
+  (1) iluminar cada sinal de identificação e de localização das saídas de emergência;
+
+  (2) prover suficiente iluminação geral da cabine dos passageiros de modo a garantir que
+  a iluminação média, medida em intervalos de 40 pol., na altura dos braços dos assentos,
+  no centro do corredor principal dos passageiros, seja de, no mínimo, 0,05 pés-vela; e
+
+  (3) para aviões de tipo certificado após 1º de janeiro de 1958, incluir iluminação próxima
+  ao assoalho marcando o caminho para as saídas de emergência, conforme estabelecido pelo
+  parágrafo 25.812(c), vigente em 26 de novembro de 1984.'
+keywords:
+- taxi-aereo
+- operacoes
+- iluminacao
+- emergencia
+- sistema
+- passageiros
+- principal
+- saidas
+- seja
+- cabine
+- cada
+- energia
+- fonte
+- geral
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

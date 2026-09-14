@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-293-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.293'
+section_title: Requisitos de exame inicial e periódico para pilotos
+subsection_id: e
+cite: 135.293(e)
+title: 135.293(e)
+text: (e) O servidor designado pela ANAC ou o piloto examinador credenciado certificará a
+  proficiência de cada piloto bem sucedido no exame de conhecimento e no exame de proficiência,
+  lançando os resultados nos registros do piloto.
+keywords:
+- taxi-aereo
+- operacoes
+- exame
+- piloto
+- proficiencia
+- cada
+- certificara
+- conhecimento
+- credenciado
+- designado
+- examinador
+- inicial
+- lancando
+- periodico
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

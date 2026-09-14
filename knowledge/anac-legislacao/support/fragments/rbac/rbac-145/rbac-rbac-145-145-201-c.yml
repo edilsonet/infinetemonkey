@@ -1,0 +1,48 @@
+id: rbac-rbac-145-145-201-c
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.201'
+section_title: Prerrogativas e limitações do certificado
+subsection_id: c
+cite: 145.201(c)
+title: 145.201(c)
+text: '(c) Cada organização de manutenção certificada somente pode aprovar o retorno ao serviço
+  de:
+
+  (1) um artigo se a manutenção, manutenção preventiva ou alteração tiver sido executada de
+
+  acordo com dados técnicos aplicáveis aprovados ou aceitáveis pela ANAC;
+
+  (2) um artigo se o grande reparo ou grande alteração tiver sido executado de acordo com
+
+  dados técnicos aprovados e aplicáveis; e
+
+  (3) uma aeronave com certificado de autorização de voo experimental para a qual já tenha
+
+  sido emitido um certificado de aeronavegabilidade de diferente espécie, se o grande reparo
+  ou
+
+  grande alteração tiver sido executado de acordo com métodos e dados técnicos aplicáveis
+  e
+
+  aceitáveis pela ANAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- grande
+- acordo
+- alteracao
+- aplicaveis
+- certificado
+- dados
+- tecnicos
+- tiver
+- aceitaveis
+- aprovados
+- artigo
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

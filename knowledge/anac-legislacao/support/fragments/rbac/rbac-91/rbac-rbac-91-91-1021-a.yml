@@ -1,0 +1,79 @@
+id: rbac-rbac-91-91-1021-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1021'
+section_title: Sistema de gerenciamento de segurança operacional (SGSO)
+subsection_id: a
+cite: 91.1021(a)
+title: 91.1021(a)
+text: '(a) O administrador de programa deve estabelecer, implementar e manter um SGSO, aceitável
+  para
+
+  a ANAC, que garanta as condições de segurança das operações e o cumprimento dos requisitos
+
+  estabelecidos neste Regulamento. O SGSO requerido pela ANAC deve:
+
+  (1) estabelecer a política e os objetivos da organização para a segurança operacional;
+
+  (2) estabelecer as metas e indicadores de desempenho da segurança operacional que permitam
+
+  avaliar o alcance dos objetivos da segurança operacional;
+
+  (3) estabelecer a estrutura organizacional e os responsáveis pela implementação, manutenção
+  e
+
+  melhoria contínua do sistema;
+
+  (4) identificar os perigos e avaliar os riscos operacionais a eles associados;
+
+  (5) aplicar ações corretivas e preventivas desenvolvidas a partir dos riscos operacionais
+
+  avaliados, bem como avaliar a efetividade dessas ações;
+
+  (6) executar supervisão permanente das atividades da organização, de modo a garantir a
+
+  segurança operacional requerida;
+
+  (7) planejar e realizar periodicamente avaliações internas ou auditorias do SGSO, visando
+  sua
+
+  adequação ao contexto operacional da organização e a melhoria contínua dos níveis de desempenho
+
+  da segurança operacional;
+
+  (8) assegurar que as pessoas envolvidas com atividades sensíveis para a segurança operacional
+
+  possuam as competências necessárias e estejam cientes de suas responsabilidades;
+
+  (9) comunicar os resultados relativos ao desempenho da segurança operacional, bem como
+
+  disseminar informações que aprimorem a cultura da segurança operacional da organização;
+
+  (10) gerar e organizar documentos e registros que forneçam evidências do desenvolvimento,
+
+  operacionalização, manutenção e melhoria contínua do SGSO; e
+
+  (11) atender a quaisquer outros requisitos específicos de SGSO estabelecidos em instrumentos
+
+  normativos aplicáveis aos PSAC.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacional
+- seguranca
+- sgso
+- estabelecer
+- organizacao
+- avaliar
+- continua
+- desempenho
+- melhoria
+- acoes
+- atividades
+- estabelecidos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

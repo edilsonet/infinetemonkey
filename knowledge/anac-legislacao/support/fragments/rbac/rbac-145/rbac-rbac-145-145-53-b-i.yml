@@ -1,0 +1,50 @@
+id: rbac-rbac-145-145-53-b-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.53'
+section_title: Emissão do certificado
+subsection_id: b-i
+cite: 145.53(b-I)
+title: 145.53(b-I)
+text: '(b)-I Caso a organização de manutenção esteja localizada em um país com o qual o Brasil
+  tem
+
+  um acordo para certificação de organizações de manutenção (ou mesmo não existindo acordo
+
+  formal, mas seus requisitos regulamentares sejam considerados equivalentes pela ANAC aos
+  deste
+
+  RBAC), as constatações de cumprimento de requisito realizadas pela autoridade desse país
+  poderão
+
+  ser consideradas pela ANAC para verificar o atendimento aos requisitos deste RBAC. A
+
+  organização fará jus à emissão de um certificado seguindo as condições e os procedimentos
+
+  estabelecidos em face do acordo (ou, caso não haja acordo, segundo critérios definidos pela
+
+  ANAC), podendo realizar serviços de manutenção, manutenção preventiva ou alteração em
+
+  aeronaves registradas no Brasil, ou em seus componentes, se ela for autorizada pela autoridade
+
+  desse outro país a executar serviços dentro do mesmo escopo.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- acordo
+- pais
+- autoridade
+- brasil
+- caso
+- certificado
+- desse
+- deste
+- emissao
+- mesmo
+- organizacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

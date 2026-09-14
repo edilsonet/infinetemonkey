@@ -1,0 +1,34 @@
+id: rbac-rbac-90-90-81-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.81'
+section_title: Requisitos gerais para aeronaves
+subsection_id: c
+cite: 90.81(c)
+title: 90.81(c)
+text: (c) Não obstante o estabelecido no parágrafo 90.5(e) deste Regulamento, as operações
+  especiais de aviação pública deverão ser realizadas exclusivamente por aeronaves públicas
+  registradas no Registro Aeronáutico Brasileiro, a serviço de autarquias ou fundações da
+  administração indireta, ou de órgãos da administração direta federais, estaduais, municipais
+  ou do Distrito Federal, de acordo com a legislação em vigor.
+keywords:
+- regras-de-voo
+- operacoes
+- administracao
+- aeronaves
+- acordo
+- aeronautico
+- autarquias
+- aviacao
+- brasileiro
+- deste
+- deverao
+- direta
+- distrito
+- especiais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

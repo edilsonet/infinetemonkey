@@ -1,0 +1,39 @@
+id: rbac-rbha-e-rbac-21-4-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.4'
+section_title: Requisitos para comunicação de ocorrências em operação prolongada (ETOPS)
+subsection_id: a
+cite: 21.4(a)
+title: 21.4(a)
+text: '(a) ETOPS Antecipado: comunicação, rastreamento e solução de problemas. O detentor
+  de certificado de tipo de uma combinação avião-motor aprovada usando o método ETOPS Antecipado
+  especificado no apêndice K do RBAC 25 deve usar um sistema para comunicação, rastreamento
+  e solução de cada problema que resulte em uma das ocorrências especificadas no parágrafo
+  (a)(6) desta seção.
+
+  (1) O sistema deve conter meios para que o detentor do certificado de tipo identifique prontamente
+  problemas, comunique-os à ANAC e proponha a esta uma solução para cada problema. A solução
+  proposta deve conter:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- solucao
+- comunicacao
+- etops
+- antecipado
+- cada
+- certificado
+- conter
+- detentor
+- ocorrencias
+- problema
+- problemas
+- rastreamento
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

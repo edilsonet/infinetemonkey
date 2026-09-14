@@ -1,0 +1,47 @@
+id: rbac-rbac-135-135-227-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.227'
+section_title: 'Condições de gelo: limitações operacionais'
+subsection_id: b
+cite: 135.227(b)
+title: 135.227(b)
+text: '(b) Um detentor de certificado somente pode autorizar a decolagem de um avião, assim
+  como um piloto somente pode decolar com esse avião, caso as condições meteorológicas forem
+  tais que haja razoável probabilidade de aderir gelo, geada ou neve ao avião, se o piloto
+  tiver completado todo o treinamento aplicável requerido pela seção 135.341 deste Regulamento
+  e se um dos seguintes requisitos for atendido:
+
+  (1) uma verificação de contaminação pré-decolagem, que tenha sido estabelecida pelo detentor
+  de certificado para o específico tipo de avião e aprovada pela ANAC, tenha sido completada
+  dentro dos 5 minutos precedentes à decolagem. Uma verificação de contaminação pré-decolagem
+  é uma verificação feita para assegurar que as asas e superfícies de controle de um avião
+  estão livres de geada, gelo ou neve; ou
+
+  (2) o detentor de certificado possua um procedimento aprovado alternativo e, segundo este
+  procedimento, tenha sido determinado que o avião está livre de geada, gelo ou neve; ou
+
+  (3) o detentor de certificado tenha um programa aprovado de degelo/antigelo que atenda aos
+  requisitos do parágrafo 121.629(c) do RBAC nº 121 e a decolagem atenda ao previsto nesse
+  programa.'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- decolagem
+- certificado
+- detentor
+- gelo
+- tenha
+- geada
+- neve
+- verificacao
+- aprovado
+- atenda
+- condicoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

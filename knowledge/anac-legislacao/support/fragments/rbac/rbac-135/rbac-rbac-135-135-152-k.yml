@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-152-k
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: k
+cite: 135.152(k)
+title: 135.152(k)
+text: '(k) Para aeronaves fabricadas antes de 18 de agosto de 1997, os seguintes tipos não
+  precisam ter conformidade com esta seção: Bell 212, Bell 214ST, Bell 412, Bell 412SP, Boeing
+  Chinook (BV-234), Boeing/Kawasaki Vertol 107 (BV/KV-107-II), de Havilland DHC-6, Eurocopter
+  Puma 330J, Sikorsky 58, Sikorsky 61N e Sikorsky 76A.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- bell
+- sikorsky
+- boeing
+- 214st
+- 330j
+- 412sp
+- aeronaves
+- agosto
+- chinook
+- conformidade
+- dada
+- dados
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

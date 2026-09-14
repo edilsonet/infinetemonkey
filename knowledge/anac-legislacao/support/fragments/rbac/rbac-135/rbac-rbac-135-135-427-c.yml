@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-427-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.427'
+section_title: Requisitos do manual
+subsection_id: c
+cite: 135.427(c)
+title: 135.427(c)
+text: '(c) O detentor de certificado deve colocar em seu manual um sistema conveniente (que
+  pode incluir codificação) que garanta a recuperação das seguintes informações:
+
+  (1) descrição (ou referência a dados aceitáveis pela ANAC) de cada trabalho executado;
+
+  (2) o nome da pessoa que executou o trabalho, se esse trabalho tiver sido executado por
+  pessoa não pertencente à organização do detentor; e
+
+  (3) o nome ou outra identificação da pessoa que aprovou o trabalho.'
+keywords:
+- taxi-aereo
+- operacoes
+- trabalho
+- pessoa
+- detentor
+- executado
+- manual
+- nome
+- aceitaveis
+- aprovou
+- cada
+- certificado
+- codificacao
+- colocar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

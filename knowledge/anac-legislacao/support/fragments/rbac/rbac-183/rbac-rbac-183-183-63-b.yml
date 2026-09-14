@@ -1,0 +1,37 @@
+id: rbac-rbac-183-183-63-b
+kind: rbac
+document: rbac-183
+family: '183'
+section_id: '183.63'
+section_title: 'Requisitos de aeronavegabilidade continuada: produtos, peças ou dispositivos'
+subsection_id: b
+cite: 183.63(b)
+title: 183.63(b)
+text: '(b) notificar a ANAC de que:
+
+  (1) uma condição em um produto, peça ou dispositivo, pode resultar em uma determinação de
+
+  condição insegura por parte da ANAC; ou
+
+  (2) um produto, peça ou dispositivo, para os quais o detentor de credenciamento de pessoa
+
+  jurídica obteve aprovação, não cumpre com os requisitos de aeronavegabilidade aplicáveis.'
+keywords:
+- delegacao
+- credenciamento
+- aeronavegabilidade
+- condicao
+- dispositivo
+- peca
+- produto
+- requisitos
+- aplicaveis
+- aprovacao
+- continuada
+- cumpre
+- detentor
+categories:
+- delegacao
+- credenciamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-183.md

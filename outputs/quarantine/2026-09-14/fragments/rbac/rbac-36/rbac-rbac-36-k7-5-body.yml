@@ -1,0 +1,32 @@
+id: rbac-rbac-36-k7-5-body
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K7.5
+section_title: The average rotor RPM must not vary from the normal maximum operating RPM by
+  more
+subsection_id: body
+cite: K7.5
+title: The average rotor RPM must not vary from the normal maximum operating RPM by more
+text: 'K7.5 The average rotor RPM must not vary from the normal maximum operating RPM by more
+
+  than 1.0 percent throughout the 10 dB-down time interval.'
+keywords:
+- ruido
+- meio-ambiente
+- average
+- from
+- maximum
+- more
+- must
+- normal
+- operating
+- rotor
+- vary
+- down
+- interval
+- percent
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

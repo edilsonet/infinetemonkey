@@ -1,0 +1,50 @@
+id: rbac-rbac-91-91-217-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.217'
+section_title: Correspondência de informações entre o transmissor automático de altitude e
+  o sistema
+subsection_id: a
+cite: 91.217(a)
+title: 91.217(a)
+text: '(a) Somente é permitido operar um transmissor automático de altitude associado com
+  um
+
+  transponder:
+
+  (1) se o órgão ATS não tiver requerido a desativação do sistema;
+
+  (2) se, como instalado, o equipamento tiver sido testado e calibrado para transmitir altitudes
+
+  dentro da variação de 125 pés (com uma probabilidade de acerto de 95%) em relação às altitudes
+  lidas
+
+  no altímetro normalmente utilizado para manter o nível de voo, ajustado para 1013,2 hPa,
+  desde o
+
+  nível do mar até a máxima altitude de operação aprovada para a aeronave; e
+
+  (3) se os altímetros e conversores analógico-digitais do equipamento atenderem aos padrões
+
+  das OTP (TSO) C10b e OTP (TSO) C88, respectivamente.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- altitude
+- altitudes
+- automatico
+- equipamento
+- nivel
+- sistema
+- tiver
+- transmissor
+- acerto
+- aeronave
+- ajustado
+- altimetro
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

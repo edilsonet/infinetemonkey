@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-141-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.141'
+section_title: Proteção da Bagagem Despachada
+subsection_id: b
+cite: 107.141(b)
+title: 107.141(b)
+text: (b) O operador do aeródromo deve manter sistema de CFTV que abranja o fluxo de embarque
+  (área de aceitação, triagem e inspeção) e desembarque (área de restituição) da bagagem despachada,
+  com capacidade de monitoramento e gravação por um período mínimo de 30 (trinta) dias.
+keywords:
+- seguranca
+- aeroporto
+- area
+- bagagem
+- despachada
+- abranja
+- aceitacao
+- aerodromo
+- capacidade
+- cftv
+- desembarque
+- dias
+- embarque
+- fluxo
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

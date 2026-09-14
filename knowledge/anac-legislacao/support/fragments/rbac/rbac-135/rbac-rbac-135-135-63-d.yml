@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-63-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.63'
+section_title: Requisitos de conservação de registros
+subsection_id: d
+cite: 135.63(d)
+title: 135.63(d)
+text: (d) O piloto em comando de uma aeronave deve ter consigo, até o destino do voo, uma
+  via desse manifesto. Outra via do manifesto de carga deve ser mantida em solo pelo menos
+  até o final do voo, salvo se de outra forma aprovada pela ANAC. O operador deve conservar
+  o original ou uma via do manifesto de carga, em sua base principal de operações, por, pelo
+  menos, 90 dias após a realização do voo.
+keywords:
+- taxi-aereo
+- operacoes
+- manifesto
+- carga
+- menos
+- outra
+- aeronave
+- aprovada
+- base
+- comando
+- conservacao
+- conservar
+- consigo
+- desse
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

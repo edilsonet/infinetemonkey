@@ -1,0 +1,38 @@
+id: rbac-rbac-e-94-e94-509-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.509
+section_title: Validade
+subsection_id: a
+cite: E94.509(a)
+title: E94.509(a)
+text: '(a) Exceto se devolvido por seu detentor, suspenso ou cassado, um certificado de aeronavegabilidade
+  somente é válido como segue:
+
+  (1) um certificado de aeronavegabilidade padrão ou um certificado de aeronavegabilidade
+  especial, categoria restrita, é válido pelo período de tempo especificado pela ANAC, e desde
+  que a aeronave seja mantida segundo estabelecido nas demais subpartes deste regulamento,
+  conforme aplicável, e enquanto for válido seu certificado de matrícula;
+
+  (2) uma autorização especial de voo é válida pelo período de tempo especificado na mesma;
+
+  (3) um certificado de aeronavegabilidade especial de RPA é válido por tempo indeterminado
+  e enquanto:'
+keywords:
+- certificado
+- aeronavegabilidade
+- valido
+- especial
+- tempo
+- enquanto
+- especificado
+- periodo
+- aeronave
+- aplicavel
+- autorizacao
+- cassado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

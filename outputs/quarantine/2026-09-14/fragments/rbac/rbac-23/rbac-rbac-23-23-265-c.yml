@@ -1,0 +1,53 @@
+id: rbac-rbac-23-23-265-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.265'
+section_title: Fatores especiais de segurança.
+subsection_id: c
+cite: 23.265(c)
+title: 23.265(c)
+text: '(c) O requerente deve multiplicar o maior fator
+
+  especial de segurança pertinente no projeto em
+
+  cada parte da estrutu
+
+  ra por cada carga limite e
+
+  final, ou somente carga final se não houver
+
+  carga limite corespondente, como ocore com
+
+  as cargas de condições de emergência.
+
+
+  STRUCTURAL OCUPANT
+
+  PROTECTION
+
+
+  PROTEÇÃO ESTRUTUR
+
+  A L DOS
+
+  OCUPANTES'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- carga
+- cada
+- final
+- limite
+- seguranca
+- cargas
+- condicoes
+- corespondente
+- emergencia
+- especiais
+- especial
+- estrutu
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

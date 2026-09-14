@@ -1,0 +1,58 @@
+id: rbac-rbac-23-23-2515-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2515'
+section_title: Proteção contra efeitos de descargas
+subsection_id: b
+cite: 23.2515(b)
+title: 23.2515(b)
+text: '(b) Each electrical and electronic system that
+
+  performs a function, the failure of which would
+
+  significantly reduce the capability of the air-
+
+  plane or the ability of the flightcrew to respond
+
+  to an adverse operating condition, must be de-
+
+  signed and installed such that the system re-
+
+  covers normal operation of that function in a
+
+  timely manner after the airplane is exposed to
+
+  lightning.
+
+  (2) O sistema recupere a operação normal da-
+
+  quela função em tempo hábil após o avião ser
+
+  exposto à descarga atmosférica, a menos que a
+
+  recuperação do sistema entre em conflito com
+
+  outros requisitos operacionais ou funcionais do
+
+  sistema.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- sistema
+- that
+- function
+- normal
+- system
+- ability
+- adverse
+- after
+- airplane
+- atmosferica
+- aviao
+- capability
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

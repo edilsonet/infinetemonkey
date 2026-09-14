@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-79-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.79'
+section_title: Requisitos de localização de voo
+subsection_id: b
+cite: 135.79(b)
+title: 135.79(b)
+text: (b) As informações de localização de voo devem ser mantidas na base principal de operações
+  do detentor de certificado, ou em qualquer outro local designado pelo detentor de certificado
+  nos procedimentos de localização de voo, até o término do voo.
+keywords:
+- taxi-aereo
+- operacoes
+- localizacao
+- certificado
+- detentor
+- base
+- designado
+- informacoes
+- local
+- mantidas
+- outro
+- principal
+- procedimentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

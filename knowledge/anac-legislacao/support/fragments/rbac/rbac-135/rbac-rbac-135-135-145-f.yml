@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-145-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.145'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: f
+cite: 135.145(f)
+title: 135.145(f)
+text: (f) Testes de validação devem ser realizados por métodos aceitáveis pela ANAC. Voos
+  reais podem não ser exigidos quando o requerente puder demonstrar competência e conformidade
+  com a regulamentação adequada, sem realização do voo.
+keywords:
+- taxi-aereo
+- operacoes
+- testes
+- validacao
+- voos
+- aceitaveis
+- adequada
+- avaliacao
+- competencia
+- conformidade
+- demonstrar
+- exigidos
+- metodos
+- operacional
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

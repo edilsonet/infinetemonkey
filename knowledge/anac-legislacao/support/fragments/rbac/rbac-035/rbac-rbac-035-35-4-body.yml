@@ -1,0 +1,56 @@
+id: rbac-rbac-035-35-4-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.4'
+section_title: '35.4'
+subsection_id: body
+cite: '35.4'
+title: '35.4'
+text: '35.4
+
+  Instruções para aeronavegabilidade
+
+  continuada
+
+
+  O requerente deve preparar Instruções para
+
+  Aeronavegabilidade Continuada de acordo com
+
+  o Apêndice A deste RBAC que sejam aceitáveis
+
+  para a ANAC. As instruções podem estar in-
+
+  completas na emissão do certificado de tipo se
+
+  existir um programa que assegure que elas esta-
+
+  rão completas antes da entrega da primeira ae-
+
+  ronave com a hélice instalada, ou quando da
+
+  emissão do certificado de aeronavegabilidade
+
+  padrão para uma aeronave que tenha a hélice
+
+  instalada, o que ocorrer por último.'
+keywords:
+- helices
+- aeronavegabilidade
+- instrucoes
+- certificado
+- completas
+- continuada
+- emissao
+- helice
+- instalada
+- aceitaveis
+- acordo
+- aeronave
+- apendice
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

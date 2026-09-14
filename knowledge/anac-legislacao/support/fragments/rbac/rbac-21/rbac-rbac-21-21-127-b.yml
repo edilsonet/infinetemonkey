@@ -1,0 +1,52 @@
+id: rbac-rbac-21-21-127-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.127'
+section_title: 'Ensaios: aeronaves'
+subsection_id: b
+cite: 21.127(b)
+title: 21.127(b)
+text: '(b) Cada procedimento de ensaio em voo de produção deve incluir o seguinte:
+
+  (1) uma verificação operacional de compensação, de controlabilidade e de outras características
+  de voo, visando determinar se cada aeronave produzida tem a mesma faixa e grau de controle
+  da aeronave protótipo;
+
+  (2) uma verificação operacional completa de cada peça ou cada sistema operado pela tripulação,
+  visando determinar, em voo, se as leituras dos instrumentos estão dentro das faixas normais;
+
+  (3) uma verificação para determinar que todos os instrumentos estão apropriadamente marcados
+  e, após os voos de ensaio, que todos os placares requeridos estejam instalados e que o manual
+  de voo esteja a bordo;
+
+  (4) uma verificação das características operacionais da aeronave no solo; e
+
+  (5) uma verificação de qualquer outro item peculiar da aeronave a ser ensaiada, que possa
+  ser melhor executada durante a operação da aeronave, em voo ou no solo. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- verificacao
+- cada
+- determinar
+- caracteristicas
+- ensaio
+- estao
+- instrumentos
+- operacional
+- solo
+- todos
+- visando
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

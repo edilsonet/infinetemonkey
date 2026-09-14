@@ -1,0 +1,28 @@
+id: rbac-rbac-155-155-347-j
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: j
+cite: 155.347(j)
+title: 155.347(j)
+text: '(j)
+
+  A abertura angular do setor “na rampa” do HAPI deve ser de 45 minutos de arco.'
+keywords:
+- seguranca-aeroportuaria
+- rampa
+- abertura
+- angular
+- aproximacao
+- arco
+- hapi
+- indicador
+- minutos
+- setor
+- visual
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

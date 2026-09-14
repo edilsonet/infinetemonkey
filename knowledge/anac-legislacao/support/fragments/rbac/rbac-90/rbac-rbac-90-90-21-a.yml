@@ -1,0 +1,48 @@
+id: rbac-rbac-90-90-21-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: a
+cite: 90.21(a)
+title: 90.21(a)
+text: '(a) Para os efeitos deste Regulamento:
+
+  (1)
+
+  tripulação mínima:
+
+  tripulação definida no certificado de aeronavegabilidade da aeronave; e
+
+  (2)
+
+  tripulação operacional:
+
+  tripulação mínima acrescida do pessoal requerido para a realização das operações especiais
+  de aviação pública.
+
+  Nota
+
+  : operadores aerotáticos e de suporte médico, embora componham a tripulação operacional,
+  não são membros da tripulação (tripulantes), conforme definido na seção 90.3.'
+keywords:
+- regras-de-voo
+- operacoes
+- tripulacao
+- minima
+- operacional
+- acrescida
+- aeronave
+- aeronavegabilidade
+- aerotaticos
+- aviacao
+- certificado
+- componham
+- definida
+- definido
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,41 @@
+id: rbac-rbha-e-rbac-21-3-f
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.3'
+section_title: Comunicação de falhas, mau funcionamento e defeitos
+subsection_id: f
+cite: 21.3(f)
+title: 21.3(f)
+text: '(f) Se a investigação de um acidente ou a comunicação de dificuldade em serviço demonstrar
+  que um produto ou artigo fabricado segundo este regulamento é inseguro devido a um defeito
+  de projeto ou de fabricação, o detentor da aprovação de produção deste produto ou artigo
+  deverá, quando solicitado pela ANAC, comunicar a esta Agência o resultado de suas investigações
+  e qualquer ação tomada ou proposta pelo detentor da aprovação de produção para corrigir
+  o referido defeito. Se a ação é requerida para corrigir o defeito em um produto ou artigo
+  já fabricado, o detentor de aprovação de produção deve fornecer à ANAC dados necessários
+  à emissão de uma diretriz de aeronavegabilidade apropriada. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aprovacao
+- artigo
+- defeito
+- detentor
+- producao
+- produto
+- acao
+- comunicacao
+- corrigir
+- fabricado
+- acidente
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-161-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.161'
+section_title: 'Equipamentos de comunicações e navegação: transporte de passageiros em voo
+  VFR noturno ou VFR diurno em áreas controladas'
+subsection_id: b
+cite: 135.161(b)
+title: 135.161(b)
+text: '(b) Somente é permitido operar uma aeronave transportando passageiros em voo VFR noturno
+  se ela possuir equipamentos de rádio navegação capazes de receber sinais das estações de
+  terra a serem utilizadas.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- equipamentos
+- navegacao
+- noturno
+- passageiros
+- aeronave
+- areas
+- capazes
+- comunicacoes
+- controladas
+- dada
+- diurno
+- estacoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

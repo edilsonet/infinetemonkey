@@ -1,0 +1,48 @@
+id: rbac-rbac-23-23-2405-d
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2405'
+section_title: Sistemas automáticos de controle de
+subsection_id: d
+cite: 23.2405(d)
+title: 23.2405(d)
+text: '(d) A menos que a falha de um sistema automá-
+
+  tico de controle de potência ou de empuxo seja
+
+  extremamente remota, o sistema deve:
+
+  (1) Fornecer um meio para a tripulação de voo
+
+  verificar se o sistema está em uma condição
+
+  operacional;
+
+  (2) Fornecer um meio para que a tripulação de
+
+  voo sobreponha a função automática; e
+
+  (3) Impedir a desativação inadvertida do siste-
+
+  ma.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- sistema
+- controle
+- fornecer
+- meio
+- tripulacao
+- automa
+- automatica
+- automaticos
+- condicao
+- desativacao
+- empuxo
+- extremamente
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

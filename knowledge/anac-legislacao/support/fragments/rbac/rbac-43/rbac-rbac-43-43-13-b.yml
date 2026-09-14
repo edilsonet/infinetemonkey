@@ -1,0 +1,40 @@
+id: rbac-rbac-43-43-13-b
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.13'
+section_title: Regras de execução (geral)
+subsection_id: b
+cite: 43.13(b)
+title: 43.13(b)
+text: '(b) Cada pessoa que estiver executando manutenção ou manutenção preventiva ou estiver
+
+  alterando um artigo deve executar esse serviço de tal maneira e usar materiais de tal qualidade
+  que
+
+  as condições do artigo sob este serviço fiquem pelo menos iguais às condições originais
+  ou fiquem
+
+  apropriadas à alteração pretendida (no que diz respeito à função aerodinâmica, à resistência
+
+  estrutural, à resistência a vibração e deterioração e a outras qualidades que afetam a
+
+  aeronavegabilidade).'
+keywords:
+- manutencao
+- aeronavegabilidade
+- artigo
+- condicoes
+- estiver
+- fiquem
+- resistencia
+- servico
+- aerodinamica
+- afetam
+- alteracao
+- alterando
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

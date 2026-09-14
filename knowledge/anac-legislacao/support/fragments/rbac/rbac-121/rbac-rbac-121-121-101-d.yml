@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-101-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.101'
+section_title: Serviços de informações meteorológicas
+subsection_id: d
+cite: 121.101(d)
+title: 121.101(d)
+text: '(d) Cada detentor de certificado conduzindo operações regulares deve adotar e colocar
+  em uso um sistema aprovado para obter e divulgar ao seu pessoal informes e previsões sobre
+  fenômenos atmosféricos adversos, tais como turbulência em céu claro, tempestades e tesouras
+  de vento em baixas altitudes, que possam afetar a segurança de voo em cada rota a ser voada
+  e cada aeródromo a ser utilizado.
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)'
+keywords:
+- transporte-aereo
+- operacoes
+- cada
+- adotar
+- adversos
+- aerodromo
+- afetar
+- altitudes
+- aprovado
+- atmosfericos
+- baixas
+- certificado
+- claro
+- colocar
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

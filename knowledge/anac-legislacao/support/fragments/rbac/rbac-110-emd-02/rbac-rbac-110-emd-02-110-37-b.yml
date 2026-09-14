@@ -1,0 +1,40 @@
+id: rbac-rbac-110-emd-02-110-37-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.37'
+section_title: Sistema simulador de equipamento de raios X
+subsection_id: b
+cite: 110.37(b)
+title: 110.37(b)
+text: '(b) O conceito de nenhuma ameaça, ameaça óbvia e possível ameaça deve ser explorado
+  pelo sistema simulador da seguinte forma:
+
+  (1) nenhuma ameaça: a imagem de raios-X do volume não contém objetos proibidos e não gera
+  dúvida quanto a sua existência, não justificando a realização de inspeção manual;
+
+  (2) ameaça óbvia: a imagem de raios-X apresenta uma ameaça clara, devendo ser negado o seu
+  embarque sem realização de inspeção manual; e
+
+  (3) possível ameaça: a imagem de raios-X gera dúvidas quanto à existência de ameaça, justificando
+  a realização de inspeção manual.'
+keywords:
+- carga
+- operacoes
+- ameaca
+- raios
+- imagem
+- inspecao
+- manual
+- realizacao
+- existencia
+- gera
+- justificando
+- nenhuma
+- obvia
+- possivel
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-035-35-23-d
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.23'
+section_title: '35.23'
+subsection_id: d
+cite: 35.23(d)
+title: 35.23(d)
+text: '(d) The propeller control system must be de-
+
+  signed and constructed so that the failure or
+
+  corruption of airplane-supplied data does not
+
+  result in hazardous propeller effects.'
+keywords:
+- helices
+- aeronavegabilidade
+- propeller
+- airplane
+- constructed
+- control
+- corruption
+- data
+- does
+- effects
+- failure
+- hazardous
+- must
+- result
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

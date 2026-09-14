@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-398-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.398'
+section_title: 'Limitações operacionais de desempenho: aviões categoria transporte regional'
+subsection_id: d
+cite: 135.398(d)
+title: 135.398(d)
+text: (d) Na determinação de pesos máximos, distâncias mínimas e trajetórias de voo conforme
+  os parágrafos (a) até (c) desta seção, devem ser feitas as correções para a pista a ser
+  utilizada considerando a elevação do aeródromo, o gradiente efetivo da pista, a temperatura
+  ambiente e os componentes de vento no momento da decolagem.
+keywords:
+- taxi-aereo
+- operacoes
+- pista
+- aerodromo
+- ambiente
+- avioes
+- categoria
+- componentes
+- considerando
+- correcoes
+- decolagem
+- desempenho
+- desta
+- determinacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

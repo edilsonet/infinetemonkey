@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-91-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.91'
+section_title: Gestão do Sistema de Credenciamento e Autorização
+subsection_id: a
+cite: 107.91(a)
+title: 107.91(a)
+text: '(a) O operador de aeródromo deve:
+
+  (1) implementar e manter um sistema de credenciamento de pessoas e autorização de veículos
+  e equipamentos, de maneira que sirva como instrumento básico para a efetivação dos procedimentos
+  de controle de acesso às áreas operacionais do aeródromo e para controle dos profissionais
+  da comunidade aeroportuária;
+
+  (2) designar um setor específico da estrutura administrativa do operador de aeródromo, responsável
+  pela gestão do sistema de credenciamento e autorização; e
+
+  (3) garantir que os funcionários envolvidos nas atividades de controle de acesso às áreas
+  operacionais do aeródromo tenham conhecimento dos modelos de credenciais e autorizações
+  emitidas pelo aeródromo e, ainda, dos modelos vigentes de credenciais oficiais emitidas
+  por órgãos públicos que atuam no aeródromo.'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- autorizacao
+- controle
+- credenciamento
+- sistema
+- acesso
+- areas
+- credenciais
+- emitidas
+- gestao
+- modelos
+- operacionais
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,52 @@
+id: rbac-rbac-121-121-193-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.193'
+section_title: 'Aviões categoria transporte com motores a turbina: limitações de rota com
+  dois motores inoperantes'
+subsection_id: a
+cite: 121.193(a)
+title: 121.193(a)
+text: '(a) Aviões certificados entre 26 de agosto de 1957 e 1° de outubro de 1958 (SR422).
+  Ninguém pode operar um avião com motores a turbina ao longo de uma rota, a menos que se
+  atenda a uma das duas condições seguintes:
+
+  (1) não exista nenhum ponto ao longo da rota que fique a mais de 90 minutos de voo (com
+  todos os motores operando em potência de cruzeiro) de um aeródromo que atenda aos requisitos
+  de 121.197;
+
+  (2) seu peso, de acordo com os dados da trajetória líquida de voo em rota com dois motores
+  inoperantes constante do AFM, permita ao avião voar do ponto onde se assume a parada simultânea
+  de dois motores até um aeródromo que atenda ao previsto em 121.197, com uma trajetória líquida
+  de voo (levando em conta as temperaturas esperadas ao longo da rota) tendo um gradiente
+  positivo na altitude de 1000 pés acima da maior elevação ou obstáculo existente na faixa
+  de 5 milhas para cada lado da rota pretendida ou na altitude de 5000 pés, o que for mais
+  alto.
+
+  Para os propósitos do parágrafo (a) (2) desta seção, assume-se que os dois motores falham
+  simultaneamente no ponto mais crítico da rota e que, se for autorizado alijamento de combustível,
+  o peso do avião no ponto onde ocorre a falha dos motores inclui combustível suficiente para
+  voar até o aeródromo e chegar a 1000 pés de altura na vertical do mesmo e que o consumo
+  de combustível e óleo, após a falha dos motores, é o mesmo consumo previsto nos dados de
+  trajetória líquida de voo do AFM do avião.'
+keywords:
+- transporte-aereo
+- operacoes
+- motores
+- rota
+- aviao
+- dois
+- ponto
+- aerodromo
+- atenda
+- combustivel
+- liquida
+- longo
+- trajetoria
+- altitude
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

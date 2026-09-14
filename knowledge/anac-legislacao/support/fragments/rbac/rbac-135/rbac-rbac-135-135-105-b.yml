@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-105-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.105'
+section_title: 'Exceção a requisitos de piloto segundo em comando: utilização do sistema de
+  piloto automático aprovado'
+subsection_id: b
+cite: 135.105(b)
+title: 135.105(b)
+text: '(b) O detentor de certificado somente pode utilizar uma pessoa, e uma pessoa somente
+  pode atuar como piloto em comando sob esta seção em uma aeronave em operação regular, como
+  definido no RBAC nº 119, se essa pessoa tiver no mínimo 100 horas de voo como piloto em
+  comando de aeronaves de mesma fabricação e modelo da aeronave a ser operada, e, além disso,
+  cumprir todos os outros requisitos aplicáveis deste Regulamento.
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- comando
+- pessoa
+- aeronave
+- pode
+- requisitos
+- somente
+- aeronaves
+- alem
+- aplicaveis
+- aprovado
+- atuar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

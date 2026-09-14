@@ -1,0 +1,38 @@
+id: rbac-rbac-035-35-23-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.23'
+section_title: '35.23'
+subsection_id: body
+cite: '35.23'
+title: '35.23'
+text: '35.23
+
+  Sistema de controle da hélice
+
+
+  Os requisitos desta seção são aplicáveis a
+
+  qualquer sistema ou componente que controle,
+
+  limite ou monitore funções da hélice.'
+keywords:
+- helices
+- aeronavegabilidade
+- controle
+- helice
+- sistema
+- aplicaveis
+- componente
+- desta
+- funcoes
+- limite
+- monitore
+- requisitos
+- secao
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

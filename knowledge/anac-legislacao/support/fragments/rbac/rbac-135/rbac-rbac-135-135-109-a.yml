@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-109-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.109'
+section_title: 'Piloto em comando e piloto segundo em comando: designação'
+subsection_id: a
+cite: 135.109(a)
+title: 135.109(a)
+text: '(a) O detentor de certificado deve designar:
+
+  (1) um piloto em comando para cada voo; e
+
+  (2) um piloto segundo em comando para cada voo em que sejam requeridos 2 pilotos.'
+keywords:
+- taxi-aereo
+- operacoes
+- comando
+- piloto
+- cada
+- segundo
+- certificado
+- designacao
+- designar
+- detentor
+- pilotos
+- requeridos
+- sejam
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

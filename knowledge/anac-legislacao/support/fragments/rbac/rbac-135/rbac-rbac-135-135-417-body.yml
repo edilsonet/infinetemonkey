@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-417-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.417'
+section_title: Relatório sumário de interrupção
+subsection_id: body
+cite: '135.417'
+title: Relatório sumário de interrupção
+text: '135.417 Relatório sumário de interrupção
+
+  O detentor de certificado deve apresentar à ANAC, dentro dos 10 primeiros dias úteis de
+  cada mês, um relatório sumário relativo ao mês anterior das seguintes ocorrências:'
+keywords:
+- taxi-aereo
+- operacoes
+- relatorio
+- sumario
+- interrupcao
+- anterior
+- apresentar
+- cada
+- certificado
+- dentro
+- detentor
+- dias
+- ocorrencias
+- primeiros
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

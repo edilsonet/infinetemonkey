@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-225-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.225'
+section_title: '135.225'
+subsection_id: a
+cite: 135.225(a)
+title: 135.225(a)
+text: '(a) Exceto como previsto no parágrafo (h) desta seção, um piloto somente pode iniciar
+  um procedimento de aproximação por instrumentos para um aeródromo se:
+
+  (1) o aeródromo possuir informações meteorológicas atualizadas que atendam à seção 135.213
+  deste regulamento; e
+
+  (2) as informações meteorológicas atualizadas requeridas pelo parágrafo (a)(1) desta seção
+  indicarem que as condições atmosféricas estão nos mínimos ou acima dos mínimos operacionais
+  para pouso no aeródromo.'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- secao
+- atualizadas
+- desta
+- informacoes
+- meteorologicas
+- minimos
+- paragrafo
+- acima
+- aproximacao
+- atendam
+- atmosfericas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

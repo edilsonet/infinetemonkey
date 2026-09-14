@@ -1,0 +1,33 @@
+id: rbac-rbac-e-94-e94-611-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.611
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+  automático de informação de altitude (Modo C) de RPAS Classe 1
+subsection_id: b
+cite: E94.611(b)
+title: E94.611(b)
+text: '(b) Os testes requeridos pelo parágrafo (a) desta seção devem ser conduzidos:
+
+  (1) pelo fabricante do RPAS; ou
+
+  (2) por uma organização de manutenção detentora de Categoria, classe e Especificações Operativas
+  apropriadas e que tenha:'
+keywords:
+- classe
+- rpas
+- testes
+- altimetro
+- altitude
+- apropriadas
+- automatico
+- categoria
+- conduzidos
+- desta
+- detentora
+- equipamento
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

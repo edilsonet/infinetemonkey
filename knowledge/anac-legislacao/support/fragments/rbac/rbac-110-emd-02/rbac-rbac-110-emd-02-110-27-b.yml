@@ -1,0 +1,43 @@
+id: rbac-rbac-110-emd-02-110-27-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.27'
+section_title: Requisitos para obtenção de autorização de centro de instrução
+subsection_id: b
+cite: 110.27(b)
+title: 110.27(b)
+text: '(b) Sem prejuízo aos requisitos apresentados no parágrafo 110.27(a), o centro de instrução
+  que deseje ministrar o curso de Formação e Atualização em Inspeção de Segurança da Aviação
+  Civil deve possuir:
+
+  (1) sistema simulador de equipamento de raios-X, com objetivo de instruir sobre a interpretação
+  de imagens de raios-X;
+
+  (2) simuladores de pórticos detectores de metal e de detectores manuais de metal;
+
+  (3) simulacros de armamentos e de artefatos explosivos ou imagens que os apresentem de forma
+  didática; e
+
+  (4) infraestrutura necessária que garanta, pelo menos, um sistema simulador de equipamento
+  de raios-X para cada quatro alunos e um simulador de pórtico detector de metais por turma.'
+keywords:
+- carga
+- operacoes
+- raios
+- simulador
+- centro
+- detectores
+- equipamento
+- imagens
+- instrucao
+- metal
+- requisitos
+- sistema
+- alunos
+- apresentados
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,33 @@
+id: rbac-rbha-e-rbac-21-618-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.618'
+section_title: Aprovação de desvios
+subsection_id: a
+cite: 21.618(a)
+title: 21.618(a)
+text: (a) O fabricante que requerer a aprovação de um desvio a qualquer padrão de desempenho
+  de uma OTP deve demonstrar que o requisito para o qual está solicitando desvio será compensado
+  por fatores ou características de projeto que proporcionam um nível de segurança equivalente.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aprovacao
+- desvio
+- caracteristicas
+- compensado
+- demonstrar
+- desempenho
+- desvios
+- equivalente
+- fabricante
+- fatores
+- nivel
+- padrao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

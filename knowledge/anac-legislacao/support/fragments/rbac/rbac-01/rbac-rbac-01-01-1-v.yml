@@ -1,0 +1,462 @@
+id: rbac-rbac-01-01-1-v
+kind: rbac
+document: rbac-01
+family: '1'
+section_id: '01.1'
+section_title: Definições
+subsection_id: v
+cite: 01.1(v)
+title: 01.1(v)
+text: '(v) uma hélice de passo variável.
+
+  (Incluído pela Resolução nº 686, de 13.07.2022)
+
+  Aeronave militar
+
+  significa uma aeronave operada pelas Forças Armadas. Inclui as aeronaves requisitadas na
+  forma da lei para cumprir missões militares.
+
+  Aeronave privada
+
+  significa uma aeronave civil não enquadrada na definição de aeronave pública. Inclui as
+  aeronaves operadas por entidades da administração indireta federal, estadual, municipal
+  ou do Distrito Federal.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Aeronave pública
+
+  significa uma aeronave civil destinada ao serviço de órgãos do poder público federal, estadual,
+  municipal ou do Distrito Federal, da administração direta. Inclui as aeronaves requisitadas
+  na forma da lei, mas não inclui aeronaves de propriedade do poder público engajadas no transporte
+  aéreo de pessoas e/ou cargas com propósitos comerciais.
+
+  Aeroporto
+
+  significa um aeródromo público dotado de edificações, instalações e equipamentos para apoio
+  às operações de aeronaves e de processamento de pessoas e/ou cargas. Quando destinado exclusivamente
+  a helicópteros, recebe denominação de “heliporto”.
+
+  Aeróstato
+
+  significa uma aeronave mais leve que o ar, que pode elevar-se e manter-se sustentada no
+  ar pelo emprego de invólucros cheios de gás, com o conjunto pesando menos que o ar deslocado
+  por tais invólucros.
+
+  significa entidade integrante da Administração Pública Federal indireta, submetida a regime
+  autárquico especial, vinculada à Secretaria de Aviação Civil da Presidência da República,
+  com prazo de duração indeterminado que atua como autoridade brasileira de aviação civil
+  e que tem suas competências estabelecidas pela Lei nº 11.182, de 27 de setembro de 2005.
+
+  Ajuste de passo
+
+  significa o ajuste do ângulo das pás de uma hélice em um determinado ângulo, medido em um
+  ponto e da maneira especificada no manual de instruções do fabricante da hélice.
+
+  Alcance visual na pista
+
+  (
+
+  Runway Visual Range -
+
+  RVR) significa a distância na qual o piloto de uma aeronave, que se encontra sobre o eixo
+  de uma pista, pode ver os sinais de superfície da pista, luzes limitadoras da pista ou luzes
+  centrais da pista.
+
+  Alteração
+
+  significa qualquer alteração levada a efeito em aeronaves e seus componentes.
+
+  (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Altitude crítica
+
+  significa a máxima altitude na qual, em atmosfera padrão, é possível manter, a uma específica
+  rotação do motor, uma potência ou uma pressão de admissão específica. A menos que de outra
+  maneira estabelecido, a altitude crítica é a máxima altitude em que é possível manter, na
+  rotação máxima contínua aprovada, uma das seguintes condições:
+
+  (1) potência máxima contínua, no caso de motores que conservam tal potência desde o nível
+  do mar até uma determinada altitude; ou
+
+  (2) pressão de admissão máxima contínua nominal, no caso de motores cuja potência máxima
+  contínua é governada por uma pressão de admissão constante.
+
+  Altitude de decisão
+
+  (
+
+  decision altitude
+
+  - DA), referindo - se à operação de aeronaves, significa uma altitude especificada em uma
+  operação de aproximação por instrumentos 3D, em que a aproximação perdida deve ser iniciada,
+  caso a referência visual requerida para continuar a aproximação não tenha sido estabelecida.
+  A altitude de decisão é expressa em pés acima do nível médio do mar.
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  Altitude livre de obstáculos
+
+  (
+
+  obstacle clearance altitude
+
+  - OCA) ou
+
+  altura livre de obstáculos
+
+  (
+
+  obstacle clearance height
+
+  - OCH) significa a menor altitude ou a menor altura sobre a elevação da cabeceira de pista
+  mais relevante ou do aeródromo, como aplicável, utilizada para estabelecer conformidade
+  com o apropriado critério de separação de obstáculo.
+
+  (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Altitude mínima de descida
+
+  (
+
+  Minimum Descent Altitude -
+
+  MDA) significa a menor altitude, especificada em uma operação de aproximação por instrumentos
+  2D ou em uma operação de aproximação para circular, para a qual a descida é autorizada na
+  aproximação final, ou durante uma manobra de circulação para pouso, até que o piloto aviste
+  uma referência visual requerida para o aeródromo onde pretende pousar.
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  Altitude-pressão
+
+  significa uma pressão atmosférica expressa em termos da altitude correspondente àquela pressão
+  na atmosfera padrão
+
+  .
+
+  (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  Altura de decisão
+
+  (
+
+  decision height
+
+  - DH), referindo-se à operação de aeronaves, significa uma altura especificada acima do
+  solo em uma operação de aproximação por instrumentos 3D, em que a aproximação perdida deve
+  ser iniciada, caso a referência visual requerida para continuar a aproximação não tenha
+  sido estabelecida. A altura de decisão é expressa em pés acima do nível do solo.
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  Altura mínima de descida
+
+  (
+
+  Minimum Descent Height
+
+  - MDH) significa a menor altura, especificada em uma operação de aproximação por instrumentos
+  2D ou em uma operação de aproximação para circular, para a qual a descida é autorizada na
+  aproximação final, ou durante uma manobra de circulação para pouso, até que o piloto aviste
+  uma referência visual requerida para o aeródromo onde pretende pousar.
+
+  (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  Ano em serviço
+
+  significa o tempo calendárico, contabilizado em anos, transcorrido desde que uma aeronave
+  recebeu seu primeiro certificado de aeronavegabilidade brasileiro ou estrangeiro.
+
+  (Incluído pela Resolução nº 526, de 06.08.2019)
+
+  Aparelho
+
+  significa qualquer instrumento, equipamento, mecanismo, componente, peça, dispositivo, pertence
+  ou acessório, incluindo equipamentos de comunicações, que é usado, ou com intenção de uso,
+  na operação ou no controle de uma aeronave em voo e está instalado ou acoplado na aeronave
+  e não faz parte da célula, do motor ou da hélice.
+
+  Aprovado
+
+  significa, a menos que usado em referência a outra pessoa, aprovado pela ANAC ou por qualquer
+  pessoa cuja competência de aprovação a ANAC reconheça, no assunto em questão, incluindo
+  outras autoridades de aviação civil.
+
+  Aprovação para retorno ao serviço
+
+  (
+
+  Maintenance Release
+
+  ) significa um documento que contém uma declaração confirmando que o trabalho de manutenção
+  a que se refere foi completado de maneira satisfatória, de acordo com dados aprovados e
+  conforme os procedimentos descritos no manual de procedimentos das organizações de manutenção
+  ou conforme um sistema equivalente.
+
+  Aproximação de não precisão
+
+  significa uma aproximação para pouso por instrumentos utilizando apenas guiagem lateral.
+
+  Aproximação de precisão
+
+  significa uma aproximação para pouso por instrumentos utilizando guiagem de precisão lateral
+  e vertical, com altitude mínima de descida (
+
+  Minimum Descent Altitude -
+
+  MDA) determinada pela categoria da operação.
+
+  Aproximação de precisão Categoria I
+
+  (CAT I) significa uma aproximação de precisão por instrumentos e pouso com uma altura de
+  decisão (
+
+  decision height
+
+  - DH) não inferior a 60 m (200 pés) e com uma visibilidade não inferior a 800 m ou um alcance
+  visual na pista (
+
+  runway visual range
+
+  - RVR) não inferior a 550 m.
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  Aproximação de precisão Categoria II
+
+  (CAT II) significa uma aproximação de precisão por instrumentos e pouso com uma DH inferior
+  a 60 m (200 pés), porém não inferior a 30 m (100 pés) e um RVR não inferior a 300 m.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Aproximação de precisão Categoria III
+
+  (CAT III) significa uma aproximação de precisão por instrumentos e pouso com uma DH inferior
+  a 30 m (100 pés) ou sem limitações de DH e com um RVR inferior a 300 m ou sem limitações
+  de RVR.
+
+  (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  À prova de fogo
+
+  significa:
+
+  (1) referindo-se a materiais e partes usados para confinar um incêndio em determinada zona
+  designada de fogo, a capacidade de tais materiais e partes suportarem o calor produzido
+  por um incêndio severo, de duração prolongada, pelo menos tão bem quanto suportariam se
+  fossem de aço, em dimensões apropriadas às finalidades pretendidas; e
+
+  (2) referindo-se a outros materiais e partes, a capacidade de tais materiais e partes suportarem
+  o calor associado com o fogo pelo menos tão bem quanto suportariam se fossem de aço, em
+  dimensões apropriadas às finalidades pretendidas.
+
+  Área congestionada ou área densamente povoada
+
+  significa, em relação a uma cidade, vila ou povoado, uma área substancialmente usada para
+  fins residenciais, comerciais ou recreativos.
+
+  Área de aproximação final e de decolagem
+
+  (
+
+  Final Approach and Take-off area -
+
+  FATO) significa, referindo-se a helicópteros, uma área definida sobre a qual a fase final
+  da manobra de aproximação para voo pairado ou pouso é completada ou a partir da qual a manobra
+  de decolagem é iniciada. Quando a FATO é para ser usada por helicópteros categoria A (ou
+  Classe 1 da OACI), a área definida deve incluir a área disponível para decolagem rejeitada.
+
+  Área de referência da asa
+
+  (S) significa a área compreendida pela projeção do contorno da asa, incluindo flapes na
+  posição recolhida e ailerons, mas excluindo concordâncias (carenagens), sobre o plano que
+  contém as cordas da asa. É suposto que esse contorno se estende de forma razoável, através
+  da fuselagem e das naceles até o plano de simetria da aeronave.
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  Área de referência de aeródromo
+
+  significa, a menos que de outra maneira definido para um particular aeródromo, o espaço
+  aéreo contido dentro de um círculo com 8 km (5 milhas) de raio, com centro no centro geográfico
+  do aeródromo, estendendo-se desde o solo até uma altura definida.
+
+  Área perigosa
+
+  significa um espaço aéreo de dimensões definidas, dentro do qual possam existir, em momentos
+  específicos, atividades perigosas para o voo de aeronaves.
+
+  (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Área proibida
+
+  significa um espaço aéreo de dimensões definidas, sobre o território ou mar territorial
+  brasileiro, dentro do qual o voo de aeronaves é proibido.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Área restrita
+
+  significa um espaço aéreo de dimensões definidas, sobre o território ou mar territorial
+  brasileiro, dentro do qual o voo de aeronaves é restringido conforme certas condições definidas.
+
+  (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Artigos perigosos
+
+  significa objetos ou substâncias capazes de representar perigo à saúde, à segurança operacional,
+  aos bens ou ao meio ambiente e que estejam presentes na Lista de Artigos Perigosos publicada
+  pela ANAC ou que sejam classificados de acordo com o RBAC nº 175.
+
+  (Incluído pela Resolução nº 608, de 11.02.2021)
+
+  Asa dianteira
+
+  significa superfície dianteira com sustentação na configuração
+
+  canard
+
+  ou avião com configuração com asas em tandem. A superfície pode ser fixa, móvel ou com geometria
+  variável, com ou sem superfícies de controle.
+
+  Atendimento de rampa
+
+  (
+
+  Ground Handling
+
+  ) significa os serviços necessários a uma aeronave durante a chegada e a partida de um aeródromo,
+  excluindo os serviços de tráfego aéreo.
+
+  Atmosfera padrão
+
+  significa a atmosfera definida internacionalmente como
+
+  International Standard Atmosphere -
+
+  ISA, adotada pela OACI.
+
+  Autoridade de Aviação Civil
+
+  - AAC, no que diz respeito à aviação civil no Brasil, significa qualquer agente público
+  da ANAC executando atividades atribuídas e de competência da ANAC ou pessoa que atua com
+  delegação da mesma.
+
+  Autorização de controle de tráfego aéreo
+
+  significa uma autorização para que uma aeronave proceda de acordo com as condições especificadas
+  por um órgão de controle de tráfego aéreo.
+
+  (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Autorrotação
+
+  significa a condição de voo de uma aeronave de asas rotativas na qual, com a aeronave em
+  movimento, o rotor de sustentação é acionado exclusivamente pela ação do ar sobre o mesmo.
+
+  Avião
+
+  significa uma aeronave de asa fixa, mais pesada que o ar, propelida a motor e que é sustentada
+  no ar pela reação dinâmica do ar contra suas superfícies de sustentação, que permanecem
+  fixas sob determinadas condições de voo.
+
+  Avião categoria transporte regional
+
+  significa um avião de tipo certificado na categoria transporte regional (“
+
+  commuter category
+
+  ”) estabelecida no parágrafo 23.3(d) do RBAC nº 23, até a Emenda 63, ou do Título 14 do
+  Código de Regulamentações Federais, Parte 23, da
+
+  Federal Aviation Administration
+
+  - FAA, em suas emendas 23-34 até 23-63, conforme base de certificação do avião.
+
+  (Redação dada pela Resolução nº 720, de 02.08.2023)
+
+  Avião subsônico
+
+  significa um avião incapaz de manter velocidades acima do número
+
+  MACH
+
+  1, em voo nivelado, usando seu próprio motor ou motores.
+
+  Balão
+
+  significa uma aeronave mais leve que o ar que não dispõe de propulsão própria.
+
+  Base principal de manutenção
+
+  significa o lugar onde se encontram as principais instalações de manutenção de um detentor
+  de certificado (hangares, oficinas, etc.).
+
+  (Redação dada pela Resolução nº 720, de 02.08.2023)
+
+  Base principal de operações
+
+  significa o local, conforme aprovado em especificações operativas, onde se localizam as
+  principais instalações operacionais de um detentor de certificado (hangares, aeronaves,
+  pontos de embarque e desembarque de passageiros, etc.).
+
+  (Redação dada pela Resolução nº 720, de 02.08.2023)
+
+  Base secundária ou estação de linha
+
+  significa uma unidade física que uma empresa aérea dispõe, a qual é responsável por oferecer
+  suporte às atividades destinadas a dar início e término a voos em locais, que não uma base
+  principal, onde serão mantidos material e pessoal em apoio às suas atividades operacionais
+  ou de manutenção. Quando relacionado à manutenção, inclui o provimento de serviços, instalações,
+  equipamentos (incluindo peças de reposição, suprimentos e materiais) destinados à realização
+  de atividades de manutenção preventiva e de prestação de serviços de apoio à continuidade
+  das operações.
+
+  (Incluído pela Resolução nº 526, de 06.08.2019)
+
+  Canard
+
+  significa a asa dianteira de uma configuração
+
+  canard
+
+  que pode ser uma superfície fixa, móvel ou com geometria variável, com ou sem controles
+  de voo.
+
+  Capacidade máxima de carga paga
+
+  :
+
+  (Incluído pela Resolução nº 526, de 06.08.2019)
+
+  (1) para um avião cujo peso máximo zero combustível é definido em sua especificação técnica,
+  significa o peso máximo zero combustível, menos o peso vazio, menos o peso de todo o equipamento
+  justificável da aeronave e menos o peso dos itens operacionais (consistindo no peso da tripulação
+  mínima requerida e no peso de alimentos, bebidas, suprimentos e equipamentos relacionados
+  com alimentos e bebidas, mas não incluindo o peso do combustível e óleo utilizáveis); e
+
+  (Incluído pela Resolução nº 526, de 06.08.2019)
+
+  (2) para todas as outras aeronaves, significa o peso máximo de decolagem certificado da
+  aeronave, menos o peso vazio, menos todo o peso do equipamento justificável e menos o peso
+  operacional (consistindo do peso mínimo de tripulantes, óleo e combustível), como se segue:
+
+  (Incluído pela Resolução nº 526, de 06.08.2019)'
+keywords:
+- significa
+- resolucao
+- aproximacao
+- aeronave
+- altitude
+- area
+- incluido
+- aeronaves
+- peso
+- dada
+- menos
+- redacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-01.md

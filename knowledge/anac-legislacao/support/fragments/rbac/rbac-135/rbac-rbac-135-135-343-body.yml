@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-343-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.343'
+section_title: Requisitos de treinamento inicial e periódico para tripulantes
+subsection_id: body
+cite: '135.343'
+title: Requisitos de treinamento inicial e periódico para tripulantes
+text: '135.343 Requisitos de treinamento inicial e periódico para tripulantes
+
+  Um detentor de certificado somente pode utilizar uma pessoa e uma pessoa somente pode trabalhar
+  como tripulante em operação segundo este Regulamento se esse tripulante tiver completado,
+  dentro dos 12 meses calendáricos que precedem essa operação, as apropriadas fases do programa
+  de treinamento inicial ou periódico estabelecido para o tipo de função que a pessoa vai
+  executar.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- inicial
+- periodico
+- treinamento
+- pessoa
+- requisitos
+- tripulantes
+- operacao
+- pode
+- somente
+- tripulante
+- apropriadas
+- calendaricos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

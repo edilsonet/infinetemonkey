@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-117-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.117'
+section_title: Aeródromos. Informações requeridas
+subsection_id: a
+cite: 121.117(a)
+title: 121.117(a)
+text: '(a) Nenhum detentor de certificado conduzindo operações não regulares pode usar um
+  aeródromo, a menos que ele seja cadastrado e apropriadamente equipado e adequado à operação
+  proposta, considerando aspectos como dimensões, superfície das pistas, obstruções, facilidades,
+  proteção ao público, iluminação, auxílios à navegação e aproximação, comunicação, horário
+  de funcionamento e ATC.
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)'
+keywords:
+- transporte-aereo
+- operacoes
+- adequado
+- aerodromo
+- aerodromos
+- apropriadamente
+- aproximacao
+- aspectos
+- auxilios
+- cadastrado
+- certificado
+- comunicacao
+- conduzindo
+- considerando
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

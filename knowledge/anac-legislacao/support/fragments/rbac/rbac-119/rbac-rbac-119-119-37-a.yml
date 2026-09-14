@@ -1,0 +1,45 @@
+id: rbac-rbac-119-119-37-a
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.37'
+section_title: Conteúdo do Certificado de Empresa de Transporte Aéreo
+subsection_id: a
+cite: 119.37(a)
+title: 119.37(a)
+text: '(a) O Certificado de Empresa de Transporte Aéreo inclui, pelo menos:
+
+  (1) A informação do Estado do explorador e a autoridade expedidora;
+
+  (2) o número do certificado;
+
+  (3) nome, razão social (se diferente do nome) e a localização da sede operacional do detentor
+
+  do certificado;
+
+  (4) a data de efetivação do certificado; e nome, assinatura e o cargo do responsável pela
+  emissão
+
+  do certificado;
+
+  (5) a identificação do EsEC encarregado de administrar o certificado (se aplicável).'
+keywords:
+- certificacao-de-operador
+- operacoes
+- certificado
+- nome
+- aereo
+- empresa
+- transporte
+- administrar
+- aplicavel
+- assinatura
+- autoridade
+- cargo
+- conteudo
+- data
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

@@ -1,0 +1,29 @@
+id: rbac-rbac-142-142-111-v
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.111'
+section_title: Requisitos gerais
+subsection_id: v
+cite: 142.111(v)
+title: 142.111(v)
+text: '(v) documentação, incluindo o MGSO e o Plano de Implantação do SGSO;
+
+  (2) gerenciamento dos riscos à segurança operacional:'
+keywords:
+- documentacao
+- gerais
+- gerenciamento
+- implantacao
+- incluindo
+- mgso
+- operacional
+- plano
+- requisitos
+- riscos
+- seguranca
+- sgso
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

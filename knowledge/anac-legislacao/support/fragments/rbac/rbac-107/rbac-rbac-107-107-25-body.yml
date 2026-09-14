@@ -1,0 +1,91 @@
+id: rbac-rbac-107-107-25-body
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.25'
+section_title: '107.25'
+subsection_id: body
+cite: '107.25'
+title: '107.25'
+text: '107.25
+
+  Recursos Humanos
+
+  Obrigatório, apenas parágrafo 107.25(e).
+
+  Obrigatório.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  107.25(b)
+
+  Responsável pela AVSEC
+
+  Recomendado.
+
+  Obrigatório, quando o aeródromo atende voo de aeronave com capacidade superior a 60 assentos.
+  É aceitável o acúmulo da função com quaisquer outros cargos da estrutura organizacional
+  do aeródromo
+
+  Obrigatório. É aceitável o acúmulo da função com quaisquer outros cargos da estrutura organizacional
+  do aeródromo, exceto com a função de Responsável pelo PCQ/AVSEC.
+
+  Obrigatório.
+
+  107.25(c)
+
+  Responsável pelo PCQ/AVSEC
+
+  Dispensado.
+
+  Obrigatório, quando o aeródromo atende voo de aeronave com capacidade superior a 60 assentos.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  107.25(c)(2)
+
+  Atuação em Atividades Operacionais AVSEC
+
+  Dispensado.
+
+  Dispensado.
+
+  Obrigatório.
+
+  Obrigatório.
+
+  107.25(f)
+
+  Cadastro de Responsáveis pela AVSEC e pelo PCQ/AVSEC
+
+  Dispensado.
+
+  Obrigatório, quando o aeródromo atende voo de aeronave com capacidade superior a 60 assentos.
+
+  Obrigatório.
+
+  Obrigatório.'
+keywords:
+- seguranca
+- aeroporto
+- obrigatorio
+- avsec
+- aerodromo
+- dispensado
+- aeronave
+- assentos
+- atende
+- capacidade
+- funcao
+- responsavel
+- superior
+- aceitavel
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

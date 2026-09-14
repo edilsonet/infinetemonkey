@@ -1,0 +1,33 @@
+id: rbac-rbha-e-rbac-21-500-body
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.500'
+section_title: Aceitação de motores de aeronaves e hélices
+subsection_id: body
+cite: '21.500'
+title: Aceitação de motores de aeronaves e hélices
+text: '21.500 Aceitação de motores de aeronaves e hélices
+
+  Um motor de aeronave ou uma hélice, fabricado no exterior, atende os requisitos de aceitação
+  dos RBAC se:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aceitacao
+- aeronaves
+- helices
+- motores
+- aeronave
+- atende
+- exterior
+- fabricado
+- helice
+- motor
+- requisitos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

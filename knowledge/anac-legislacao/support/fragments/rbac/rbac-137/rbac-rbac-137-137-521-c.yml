@@ -1,0 +1,42 @@
+id: rbac-rbac-137-137-521-c
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.521'
+section_title: Diário de bordo
+subsection_id: c
+cite: 137.521(c)
+title: 137.521(c)
+text: '(c) O diário de bordo deve ser construído e preenchido conforme norma suplementar específica,
+  de forma a garantir a integridade e inviolabilidade dos dados registrados.
+
+  (1) Em caso de necessidade de correção de alguma informação lançada, a correção deve ser
+  feita de um modo tal que não impeça a leitura da informação inutilizada em uma fiscalização.
+
+  (2) Campos não utilizados do diário de bordo e que eventualmente possam ser aproveitados
+  para lançamentos indevidos não podem ser deixados em branco e devem ser inutilizados.
+
+  (3) Em caso de perda, corrupção ou extravio do diário de bordo, ou de volume(s), a ANAC
+  deverá ser comunicada, e a comunicação deverá estar acompanhada de evidência de que o órgão
+  policial estadual (Polícia Civil), ou federal (Polícia Federal), foi comunicado, e o operador
+  deverá proceder com a reconstituição nos termos de norma suplementar específica.'
+keywords:
+- aeroagricola
+- operacoes
+- bordo
+- diario
+- devera
+- caso
+- correcao
+- especifica
+- federal
+- informacao
+- norma
+- policia
+- suplementar
+- acompanhada
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

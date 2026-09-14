@@ -1,0 +1,45 @@
+id: rbac-rbac-21-21-303-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.303'
+section_title: Requerimento
+subsection_id: i
+cite: 21.303(i)
+title: 21.303(i)
+text: '(i) desenhos e especificações necessários para definir a configuração da peça; e
+
+  (ii) informações sobre dimensões, materiais e processos necessários à definição da resistência
+  estrutural da peça;
+
+  (4) relatórios de ensaios e de cálculos necessários à demonstração de que o projeto da peça
+  atende aos requisitos de aeronavegabilidade, estabelecidos pelos RBAC aplicáveis ao produto
+  no qual a peça pode ser instalada. Os relatórios de ensaios e cálculos devem ser aplicáveis
+  ao produto em que o artigo será instalado, a menos que o requerente demonstre que o projeto
+  da peça é idêntico ao projeto de outra peça aprovada em um certificado de tipo. Se o projeto
+  da peça foi obtido através de um acordo de licenciamento de fabricação, uma comprovação
+  de tal licenciamento deve ser apresentada.
+
+  (5) o requerente de um certificado de produto aeronáutico aprovado com base em relatórios
+  de ensaios e cálculos deve fornecer uma declaração atestando que cumpriu os requisitos de
+  aeronavegabilidade previstos nos RBAC aplicáveis.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- peca
+- aplicaveis
+- calculos
+- ensaios
+- necessarios
+- produto
+- relatorios
+- certificado
+- licenciamento
+- requerente
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

@@ -1,0 +1,65 @@
+id: rbac-rbac-23-23-2430-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2430'
+section_title: Sistemas de combustível.
+subsection_id: c
+cite: 23.2430(c)
+title: 23.2430(c)
+text: '(c) Each fuel storage refilling or recharging
+
+  system must be designed to:
+
+  (1) Prevent improper refilling or recharging;
+
+
+  (2) Prevent contamination of the fuel stored
+
+  during likely operating conditions; and
+
+  (5) Fornecer um meio seguro de remover ou
+
+  isolar o combustível armazenado no sistema do
+
+  avião,;
+
+  (6) Ser projetado para conter o combustível sob
+
+  todas as condições de operação prováveis e
+
+  minimizar os perigos para os ocupantes durante
+
+  qualquer pouso de emergência com sobreviven-
+
+  tes. Para aviões de nível 4, deve ser levada em
+
+  consideração a falha por sobrecarga do sistema
+
+  de trem pouso; e
+
+  (7) Evitar contaminação perigosa do combustí-
+
+  vel fornecido a cada grupo motopropulsor e
+
+  unidade de potência auxiliar.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- combustivel
+- fuel
+- pouso
+- prevent
+- recharging
+- refilling
+- sistema
+- armazenado
+- auxiliar
+- aviao
+- avioes
+- cada
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-035-35-22-b
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.22'
+section_title: '35.22'
+subsection_id: b
+cite: 35.22(b)
+title: 35.22(b)
+text: '(b) Sistemas de controle de passo de hélice
+
+  que usam óleo do motor para embandeirar de-
+
+  vem incorporar um método para permitir o em-
+
+  bandeiramento da hélice se o sistema de óleo do
+
+  motor falhar.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- motor
+- oleo
+- bandeiramento
+- controle
+- embandeirar
+- falhar
+- incorporar
+- metodo
+- passo
+- permitir
+- sistema
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

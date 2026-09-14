@@ -1,0 +1,47 @@
+id: rbac-rbac-27-preambulo-b
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: b
+cite: preambulo(b)
+title: preambulo(b)
+text: '(b)
+
+  Level landing attitude with only the forward wheels contacting the ground. In this attitude
+  -
+
+  (1)
+
+  The vertical loads must be applied under §§ 27.471 through 27.475;
+
+  (2)
+
+  The vertical load at each axle must be combined with a drag load at that axle of not less
+  than 25
+
+  percent of that vertical load; and
+
+  (3)
+
+  Unbalanced pitching moments are assumed to be resisted by angular inertia forces.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- load
+- vertical
+- attitude
+- axle
+- must
+- preambulo
+- that
+- with
+- angular
+- applied
+- assumed
+- combined
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

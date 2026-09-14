@@ -1,0 +1,47 @@
+id: rbac-rbac-91-91-207-d
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.207'
+section_title: Transmissores localizadores de emergência (ELT) e Personal Locator Beacon (PLB)
+subsection_id: d
+cite: 91.207(d)
+title: 91.207(d)
+text: '(d) Cada ELT requerido pelo parágrafo (a) desta seção deve ser inspecionado a cada
+  12 meses
+
+  calendáricos quanto a:
+
+  (1) condições de instalação;
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.
+
+
+  (2) corrosão da bateria;
+
+  (3) operação dos comandos e do sensor de impactos; e
+
+  (4) presença de suficiente energia radiante na antena.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- cada
+- data
+- antena
+- bateria
+- beacon
+- calendaricos
+- comandos
+- condicoes
+- corrosao
+- desta
+- emergencia
+- emissao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

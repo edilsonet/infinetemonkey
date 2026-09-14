@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-145-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.145'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: e
+cite: 135.145(e)
+title: 135.145(e)
+text: '(e) Testes de validação são exigidos para determinar que o detentor de certificado
+  é capaz de conduzir operações em segurança e em conformidade com as normas regulamentares
+  aplicáveis. Testes de validação são exigidos para as seguintes autorizações:
+
+  (1) incorporação de uma aeronave para qual sejam necessários dois pilotos para operações
+  VFR ou um avião a jato, se esta aeronave, ou uma aeronave de mesmo fabricante ou de projeto
+  similar não tenha sido aprovada ou validada em operações sob esta parte;
+
+  (2) operações fora do espaço aéreo brasileiro;
+
+  (3) autorizações de navegação Classe II; e
+
+  (4) desempenho ou autorizações de operacionais especiais.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- autorizacoes
+- testes
+- validacao
+- exigidos
+- aereo
+- aplicaveis
+- aprovada
+- avaliacao
+- aviao
+- brasileiro
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,23 @@
+id: rbac-rbac-e-94-e94-619-d
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.619
+section_title: Pesagem e balanceamento de RPA Classe 1
+subsection_id: d
+cite: E94.619(d)
+title: E94.619(d)
+text: (d) A pesagem de uma aeronave deve ser executada por empresa certificada para o serviço.
+keywords:
+- pesagem
+- aeronave
+- balanceamento
+- certificada
+- classe
+- empresa
+- executada
+- servico
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,53 @@
+id: rbac-rbac-135-a135-18-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.18
+section_title: Propulsão geral
+subsection_id: d
+cite: A135.18(d)
+title: A135.18(d)
+text: '(d) Sistema de reversão para turboélices.
+
+  (1) Os sistemas de reversão de turboélices, planejados para operação no solo, devem ser
+  projetados de modo que nenhuma falha simples ou mau funcionamento do sistema resulte em
+  empuxo reverso indesejável, sob qualquer condição esperada de operação. Falhas de elementos
+  estruturais não precisam ser consideradas, se a probabilidade de ocorrência dessa espécie
+  de falha for extremamente remota.
+
+  (2) Os sistemas de reversão de turboélices, planejados para operação em voo, devem ser projetados
+  de modo que nenhuma condição insegura ocorra durante a operação normal do sistema ou como
+  decorrência de uma falha (ou combinação razoavelmente provável de falhas) do sistema de
+  reversão, sob qualquer condição previsível de operação do avião. A falha de elementos estruturais
+  não precisa ser considerada, se a probabilidade de ocorrência dessa espécie de falha for
+  extremamente remota.
+
+  (3) Para sistemas de hélices que permitam que as pás das hélices se movam, a partir da posição
+  de passo mínimo em voo, para uma posição que seja substancialmente menor que a posição do
+  batente normal de passo mínimo em voo, a conformidade com o parágrafo (d) desta seção pode
+  ser demonstrada por análise de falhas, ensaios, ou ambos. A análise pode incluir ou ser
+  suportada pelas análises feitas para demonstrar conformidade com os requisitos de certificação
+  de tipo da hélice e dos componentes associados instalados. Será dado crédito às pertinentes
+  análises e ensaios executados pelos fabricantes das hélices e dos motores.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- falha
+- operacao
+- reversao
+- sistema
+- condicao
+- falhas
+- helices
+- posicao
+- sistemas
+- turboelices
+- analise
+- analises
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

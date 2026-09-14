@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-103-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.103'
+section_title: Permanência de passageiros a bordo no solo
+subsection_id: b
+cite: 135.103(b)
+title: 135.103(b)
+text: '(b) Adicionalmente, para operações com aeronaves com configuração para passageiros
+  igual ou superior a 20 assentos, excluído qualquer assento de piloto, durante pousos intermediários
+  em que passageiros permanecem a bordo para prosseguir viagem, o detentor de certificado
+  deve manter na cabine de passageiros um comissário de bordo e a porta principal de acesso
+  à aeronave deve permanecer aberta (ou, em caso de intempéries, pronta para ser aberta),
+  com meios que permitam o rápido abandono da aeronave (escada, “
+
+  finger
+
+  ”, escorregadeira armada, etc.).'
+keywords:
+- taxi-aereo
+- operacoes
+- passageiros
+- bordo
+- aberta
+- aeronave
+- abandono
+- acesso
+- adicionalmente
+- aeronaves
+- armada
+- assento
+- assentos
+- cabine
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-110-emd-02-110-15-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.15'
+section_title: Certificação dos profissionais em Segurança da Aviação Civil - AVSEC
+subsection_id: a
+cite: 110.15(a)
+title: 110.15(a)
+text: (a) As certificações em cursos AVSEC habilitam o profissional a realizar as atividades
+  listadas na tabela do Apêndice A deste Regulamento. Para desempenhá-las em território brasileiro
+  ou em espaço aéreo sobre este território, o profissional deve possuir, pelo menos, uma das
+  certificações da tabela correspondentes à atividade que pretende exercer.
+keywords:
+- carga
+- operacoes
+- avsec
+- certificacoes
+- profissional
+- tabela
+- territorio
+- aereo
+- apendice
+- atividade
+- atividades
+- aviacao
+- brasileiro
+- certificacao
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

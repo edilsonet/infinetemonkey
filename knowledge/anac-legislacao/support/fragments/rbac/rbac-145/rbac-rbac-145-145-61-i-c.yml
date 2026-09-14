@@ -1,0 +1,53 @@
+id: rbac-rbac-145-145-61-i-c
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: 145.61-I
+section_title: Limitações de certificação
+subsection_id: c
+cite: 145.61-I(c)
+title: 145.61-I(c)
+text: '(c) Para uma certificação de serviços especializados, as especificações operativas
+  da organização
+
+  de manutenção devem conter as especificações usadas para executar o serviço especializado.
+  A
+
+  especificação pode ser:
+
+  (1) uma especificação civil ou militar usada atualmente pela indústria e aceita pela ANAC;
+
+  (2) uma especificação desenvolvida pelo requerente e aprovada pela ANAC; ou
+
+  (3) uma especificação baseada em dados técnicos considerados aceitáveis pela
+
+  ANAC. (Redação dada pela Resolução nº 610, de 23.02.2021)
+
+
+  Data da emissão: 26 de fevereiro de 2021.
+
+  SUBPARTE C
+
+  INSTALAÇÕES, RECURSOS, EQUIPAMENTOS, FERRAMENTAS, MATERIAIS E
+
+  DADOS TÉCNICOS'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- especificacao
+- certificacao
+- dados
+- especificacoes
+- tecnicos
+- aceita
+- aceitaveis
+- aprovada
+- atualmente
+- baseada
+- civil
+- considerados
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

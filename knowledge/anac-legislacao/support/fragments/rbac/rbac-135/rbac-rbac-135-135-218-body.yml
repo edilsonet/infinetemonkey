@@ -1,0 +1,21 @@
+id: rbac-rbac-135-135-218-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.218'
+section_title: 'IFR: aeródromo de alternativa de destino'
+subsection_id: body
+cite: '135.218'
+title: 'IFR: aeródromo de alternativa de destino'
+text: '135.218 IFR: aeródromo de alternativa de destino'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- alternativa
+- destino
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

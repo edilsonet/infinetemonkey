@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-191-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.191'
+section_title: Sistema Confidencial de Relatos
+subsection_id: a
+cite: 107.191(a)
+title: 107.191(a)
+text: (a) O operador de aeródromo deve manter um canal de comunicação para recebimento de
+  relatos e informações AVSEC fornecidas por fontes diversas, tais como tripulantes, equipe
+  de apoio de solo e agentes de proteção.
+keywords:
+- seguranca
+- aeroporto
+- relatos
+- aerodromo
+- agentes
+- apoio
+- avsec
+- canal
+- comunicacao
+- confidencial
+- diversas
+- equipe
+- fontes
+- fornecidas
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

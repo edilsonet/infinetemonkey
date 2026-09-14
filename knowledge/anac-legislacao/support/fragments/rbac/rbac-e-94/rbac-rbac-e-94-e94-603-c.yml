@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-603-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.603
+section_title: Aeronavegabilidade continuada de RPAS Classe 1
+subsection_id: c
+cite: E94.603(c)
+title: E94.603(c)
+text: (c) Somente é permitido modificar um RPAS Classe 1 com base em um certificado suplementar
+  de tipo se quem modificar for o detentor deste certificado ou possuir autorização por escrito
+  do detentor.
+keywords:
+- certificado
+- classe
+- detentor
+- modificar
+- rpas
+- aeronavegabilidade
+- autorizacao
+- base
+- continuada
+- deste
+- escrito
+- permitido
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

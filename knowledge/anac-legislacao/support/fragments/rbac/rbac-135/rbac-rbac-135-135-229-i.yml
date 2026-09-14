@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-229-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.229'
+section_title: Requisitos de aeródromo e de áreas de pouso e decolagem não cadastradas
+subsection_id: i
+cite: 135.229(i)
+title: 135.229(i)
+text: '(i) para aviões, por luzes demarcadoras dos limites ou da pista; e
+
+  (ii) para helicópteros, por luzes ou materiais reflexivos demarcadores dos limites ou da
+  pista.'
+keywords:
+- taxi-aereo
+- operacoes
+- limites
+- luzes
+- pista
+- aerodromo
+- areas
+- avioes
+- cadastradas
+- decolagem
+- demarcadoras
+- demarcadores
+- helicopteros
+- materiais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

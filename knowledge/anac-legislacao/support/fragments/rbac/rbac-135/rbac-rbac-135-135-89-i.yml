@@ -1,0 +1,46 @@
+id: rbac-rbac-135-135-89-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.89'
+section_title: 'Requisitos para piloto: uso de oxigênio'
+subsection_id: i
+cite: 135.89(i)
+title: 135.89(i)
+text: '(i) pelo menos um piloto nos controles deve usar, colocada e ajustada, uma máscara
+  de oxigênio que ou forneça oxigênio continuamente ou forneça oxigênio automaticamente sempre
+  que a altitude pressão da cabine ultrapassar 12.000 pés MSL; e
+
+  (ii) durante esse voo, cada outro piloto em serviço na cabine dos pilotos deve ter uma máscara
+  de oxigênio, conectada a um suprimento de oxigênio, localizada de modo a permitir imediata
+  colocação dessa máscara na face do piloto, presa e ajustada para uso.
+
+  (3) Sempre que uma aeronave pressurizada for operada em altitudes acima de 35.000 pés MSL,
+  pelo menos um dos pilotos nos controles deve usar, colocada e ajustada, uma máscara de oxigênio
+  requerida pelo parágrafo (b)(2)(i) desta seção.
+
+  (4) Se um piloto deixar seu posto de trabalho em uma aeronave operando a altitudes acima
+  de 25.000 pés MSL, o piloto que permanecer nos controles deve colocar e usar uma máscara
+  de oxigênio aprovada até que o outro piloto retorne ao seu posto na aeronave.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- oxigenio
+- piloto
+- mascara
+- aeronave
+- ajustada
+- controles
+- usar
+- acima
+- altitudes
+- cabine
+- colocada
+- forneca
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

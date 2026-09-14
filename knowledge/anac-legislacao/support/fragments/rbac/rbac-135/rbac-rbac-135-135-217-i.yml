@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-217-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.217'
+section_title: 'IFR: aeródromo de alternativa de decolagem'
+subsection_id: i
+cite: 135.217(i)
+title: 135.217(i)
+text: '(i) uma hora de voo do aeródromo de decolagem, em velocidade de cruzeiro com um motor
+  inoperante, determinada a partir do manual de operações do avião, em condições de atmosfera
+  padrão e ar calmo, considerando o peso de decolagem real; ou
+
+  (ii) para operações ETOPS, quando um aeródromo de alternativa que atenda aos critérios do
+  parágrafo (a)(2)(i) desta seção não estiver disponível, duas horas de voo do aeródromo de
+  decolagem, em velocidade de cruzeiro com um motor inoperante, determinada a partir do manual
+  de operações do avião, em condições de atmosfera padrão e ar calmo, considerando o peso
+  de decolagem real. Nessa situação, caso haja mais de um aeródromo disponível, deve ser escolhido
+  o aeródromo mais próximo; e
+
+  (3) para aviões com 3 ou mais motores: duas horas de voo do aeródromo de decolagem, com
+  velocidade normal de cruzeiro, determinada a partir do manual de operações do avião, em
+  condições de atmosfera padrão e ar calmo, considerando o peso de decolagem real.'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- decolagem
+- atmosfera
+- aviao
+- calmo
+- condicoes
+- considerando
+- cruzeiro
+- determinada
+- manual
+- padrao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

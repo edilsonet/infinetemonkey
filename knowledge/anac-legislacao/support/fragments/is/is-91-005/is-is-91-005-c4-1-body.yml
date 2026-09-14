@@ -1,0 +1,42 @@
+id: is-is-91-005-c4-1-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: C4.1
+section_title: Deve ser instalado na aeronave no mínimo um sistema de controle automático
+  único com uma performance de manutenção de altitude que satisfaça o Apêndice D desta IS.
+subsection_id: body
+cite: C4.1
+title: Deve ser instalado na aeronave no mínimo um sistema de controle automático único com
+  uma performance de manutenção de altitude que satisfaça o Apêndice D desta IS.
+text: 'C4.1 Deve ser instalado na aeronave no mínimo um sistema de controle automático único
+  com uma performance de manutenção de altitude que satisfaça o Apêndice D desta IS.
+
+  Nota
+
+  : para os tipos de aeronaves para as quais a solicitação de certificação de tipo tenha sido
+  realizada antes de 1º de janeiro de 1997 e que estejam equipadas com sistemas automáticos
+  de controle de altitude com entradas do sistema de gerenciamento de voo/sistema de controle
+  de performance que permitam variações de até ± 40 m (± 130 ft) (descontando-se condições
+  de turbulência e rajadas de vento) não será requerida a substituição ou modificação destes
+  sistemas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- controle
+- sistema
+- altitude
+- performance
+- aeronave
+- apendice
+- automatico
+- desta
+- instalado
+- manutencao
+- minimo
+- satisfaca
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

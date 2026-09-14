@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-365-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.365'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de peso'
+subsection_id: b
+cite: 135.365(b)
+title: 135.365(b)
+text: (b) É vedado decolar com um grande avião categoria transporte com motores convencionais
+  para um aeródromo de destino localizado em uma altitude fora da faixa de altitudes na qual
+  seus pesos máximos de pouso foram determinados.
+keywords:
+- taxi-aereo
+- operacoes
+- categoria
+- convencionais
+- motores
+- transporte
+- aerodromo
+- altitude
+- altitudes
+- aviao
+- avioes
+- decolar
+- destino
+- determinados
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

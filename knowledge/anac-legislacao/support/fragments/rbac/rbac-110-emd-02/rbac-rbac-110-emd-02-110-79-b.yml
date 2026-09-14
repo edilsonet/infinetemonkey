@@ -1,0 +1,33 @@
+id: rbac-rbac-110-emd-02-110-79-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.79'
+section_title: Registro de organização com responsabilidade AVSEC
+subsection_id: b
+cite: 110.79(b)
+title: 110.79(b)
+text: (b) A organização com responsabilidade AVSEC deve garantir que haja registros que comprovem
+  o atendimento dos requisitos para desempenho de atividade AVSEC, previstos no item 110.11,
+  para cada profissional que realizar atividade AVSEC em seu benefício, enquanto o profissional
+  mantiver relação de trabalho e até um ano após o seu desligamento.
+keywords:
+- carga
+- operacoes
+- avsec
+- atividade
+- organizacao
+- profissional
+- responsabilidade
+- atendimento
+- beneficio
+- cada
+- comprovem
+- desempenho
+- desligamento
+- enquanto
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

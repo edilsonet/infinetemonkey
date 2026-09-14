@@ -1,0 +1,57 @@
+id: rbac-rbac-153-153-57-k
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.57'
+section_title: '153.57'
+subsection_id: k
+cite: 153.57(k)
+title: 153.57(k)
+text: '(k) O operador de aeródromo deve estabelecer e documentar requisitos para gerenciar
+  de forma
+
+  segura mudanças no sistema onde esteja implantado o SGSO, compreendendo:
+
+  (1)
+
+  identificar as mudanças dentro da organização que possam afetar os procedimentos e
+
+  serviços implementados, incluindo previsão para realização de obras e serviços na área de
+
+  movimento;
+
+
+  Data da emissão: 15 de março de 2021.
+
+
+  (2)
+
+  descrever os mecanismos propostos para garantir a segurança operacional antes da
+
+  execução e implantação das mudanças;
+
+  (3)
+
+  eliminar ou modificar os controles de riscos de segurança operacional que já não sejam
+
+  mais necessários ou efetivos devido às mudanças identificadas.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- mudancas
+- operacional
+- seguranca
+- servicos
+- aerodromo
+- afetar
+- area
+- compreendendo
+- controles
+- data
+- dentro
+- descrever
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

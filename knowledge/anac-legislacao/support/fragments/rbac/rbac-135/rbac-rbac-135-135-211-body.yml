@@ -1,0 +1,29 @@
+id: rbac-rbac-135-135-211-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.211'
+section_title: 'Voo VFR em rota: limitações operacionais'
+subsection_id: body
+cite: '135.211'
+title: 'Voo VFR em rota: limitações operacionais'
+text: '135.211 Voo VFR em rota: limitações operacionais
+
+  Somente é permitido operar uma aeronave transportando passageiros, em voo VFR em rota, se:'
+keywords:
+- taxi-aereo
+- operacoes
+- rota
+- limitacoes
+- operacionais
+- aeronave
+- operar
+- passageiros
+- permitido
+- somente
+- transportando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

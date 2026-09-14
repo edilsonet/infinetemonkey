@@ -1,0 +1,37 @@
+id: rbac-rbac-141-141-45-b
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.45'
+section_title: Requisitos de aeronaves
+subsection_id: b
+cite: 141.45(b)
+title: 141.45(b)
+text: '(b) O CIAC deverá constar no Registro Aeronáutico Brasileiro (RAB) como operador da
+  aeronave utilizada para ministrar instrução.
+
+  (1) A aeronave poderá possuir mais de um operador, mediante registro de contrato de intercâmbio
+  operacional junto ao RAB.
+
+  (2) Caso a aeronave possua mais de um operador, o CIAC deverá garantir que a aeronave esteja
+  disponível em seu local de operação durante as fiscalizações agendadas.'
+keywords:
+- escolas
+- treinamento
+- aeronave
+- operador
+- ciac
+- devera
+- registro
+- aeronautico
+- aeronaves
+- agendadas
+- brasileiro
+- caso
+- constar
+- contrato
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

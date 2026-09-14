@@ -1,0 +1,40 @@
+id: rbac-rbac-035-35-15-f
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.15'
+section_title: 'must be established by:'
+subsection_id: f
+cite: 35.15(f)
+title: 35.15(f)
+text: '(f) Se aplicável, a análise de segurança deve
+
+  incluir, mas não se limitar a, avaliações de equi-
+
+  pamentos de indicação, controles automáticos e
+
+  manuais, governadores e sistemas de controle de
+
+  hélice, sincronizadores de fase, sincronizadores
+
+  e sistemas de reversão de tração de hélice.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- sincronizadores
+- sistemas
+- analise
+- aplicavel
+- automaticos
+- avaliacoes
+- controle
+- controles
+- equi
+- established
+- fase
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

@@ -1,0 +1,40 @@
+id: is-is-91-005-c2-1-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: C2.1
+section_title: C2.1
+subsection_id: body
+cite: C2.1
+title: C2.1
+text: 'C2.1
+
+  Composição do sistema
+
+  : o sistema altimétrico de uma aeronave é composto de todos os elementos envolvidos no processo
+  de captação da pressão estática da corrente livre de ar na conversão deste dado em uma saída
+  de altitude barométrica. Os elementos do sistema altimétrico se dividem em dois grupos principais:
+
+  a) célula e fontes estáticas; e
+
+  b) equipamentos de aviônica e/ou instrumentos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- altimetrico
+- elementos
+- aeronave
+- altitude
+- avionica
+- barometrica
+- captacao
+- celula
+- composicao
+- composto
+- conversao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

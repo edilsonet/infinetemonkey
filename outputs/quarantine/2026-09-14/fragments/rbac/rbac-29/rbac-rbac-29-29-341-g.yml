@@ -1,0 +1,34 @@
+id: rbac-rbac-29-29-341-g
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.341'
+section_title: 'and 29.351:'
+subsection_id: g
+cite: 29.341(g)
+title: 29.341(g)
+text: '(g)
+
+  Automatic reset circuit breakers may be used as integral protectors for electrical equipment
+  provided
+
+  there is circuit protection for the cable supplying power to the equipment.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- circuit
+- equipment
+- automatic
+- breakers
+- cable
+- electrical
+- integral
+- power
+- protection
+- protectors
+- provided
+- reset
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

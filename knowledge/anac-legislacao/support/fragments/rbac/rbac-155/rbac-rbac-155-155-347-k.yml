@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-347-k
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: k
+cite: 155.347(k)
+title: 155.347(k)
+text: '(k)
+
+  A abertura angular do setor “levemente abaixo” do HAPI deve ser de 15 minutos de arco.
+
+  Figura 155.347-1 - Formato do sinal HAPI'
+keywords:
+- seguranca-aeroportuaria
+- hapi
+- abaixo
+- abertura
+- angular
+- aproximacao
+- arco
+- figura
+- formato
+- indicador
+- levemente
+- minutos
+- rampa
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

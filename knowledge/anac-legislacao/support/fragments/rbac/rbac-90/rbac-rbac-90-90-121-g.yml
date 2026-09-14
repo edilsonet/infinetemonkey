@@ -1,0 +1,28 @@
+id: rbac-rbac-90-90-121-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.121'
+section_title: Requisitos gerais
+subsection_id: g
+cite: 90.121(g)
+title: 90.121(g)
+text: (g) SOP fornecidos pelo fabricante da aeronave deverão ser, no que for aplicável, partes
+  integrantes dos SOP da UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- aeronave
+- aplicavel
+- deverao
+- fabricante
+- fornecidos
+- gerais
+- integrantes
+- partes
+- requisitos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

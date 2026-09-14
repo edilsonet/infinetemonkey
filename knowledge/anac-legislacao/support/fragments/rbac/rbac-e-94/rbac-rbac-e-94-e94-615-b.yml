@@ -1,0 +1,40 @@
+id: rbac-rbac-e-94-e94-615-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.615
+section_title: Registros de manutenção de RPAS Classe 1
+subsection_id: b
+cite: E94.615(b)
+title: E94.615(b)
+text: '(b) O proprietário ou operador deve conservar os seguintes registros pelos períodos
+  abaixo:
+
+  (1) os registros requeridos pelo parágrafo (a)(1) desta Seção, até que o trabalho seja repetido
+  pela terceira vez consecutiva, mesmo que ele tenha sido substituído por trabalho mais detalhado,
+  ou por 2 anos após o término do trabalho, o que for maior;
+
+  (2) os registros requeridos pelo parágrafo (a)(2) desta Seção, permanentemente e devem ser
+  transferidos com o RPAS caso ele ou algum de seus componentes principais (RPA, RPS, etc.)
+  seja vendido; e
+
+  (3) uma listagem de defeitos fornecida a um proprietário ou operador conforme a Seção 43.11
+  do RBAC 43 até que todos os defeitos tenham sido reparados e o RPAS aprovado para retorno
+  ao serviço.'
+keywords:
+- registros
+- rpas
+- secao
+- trabalho
+- defeitos
+- desta
+- operador
+- paragrafo
+- proprietario
+- requeridos
+- seja
+- abaixo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

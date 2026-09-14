@@ -1,0 +1,64 @@
+id: rbac-rbac-23-23-2430-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2430'
+section_title: Sistemas de combustível.
+subsection_id: b
+cite: 23.2430(b)
+title: 23.2430(b)
+text: '(b) Cada sistema de armazenamento de com-
+
+  bustível deve:
+
+  (1) Resistir às cargas sob condições de opera-
+
+  ção prováveis sem falha;
+
+  (2) Ser isolado dos compartimentos de pessoal
+
+  e protegido de perigos devido a influências não
+
+  intencionais de temperatura;
+
+  (3) Ser projetado para evitar perda significativa
+
+  de combustível armazenado a partir de qual-
+
+  quer sistema de ventilação devido à transferên-
+
+  cia de combustível entre os sistemas de arma-
+
+  zenamento ou fornecimento, ou em condições
+
+  operacionais prováveis;
+
+  (4) Fornecer combustível durante pelo menos
+
+  meia de operação em potência ou empuxo má-
+
+  ximos contínuos; e
+
+  (5) Ser capaz de alijar combustível com segu-
+
+  rança, se necessário para pouso.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- combustivel
+- condicoes
+- devido
+- provaveis
+- sistema
+- sistemas
+- alijar
+- arma
+- armazenado
+- armazenamento
+- bustivel
+- cada
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

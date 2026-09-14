@@ -1,0 +1,45 @@
+id: rbac-rbac-135-a135-16-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.16
+section_title: Acomodações para pessoal e para cargas
+subsection_id: b
+cite: A135.16(b)
+title: A135.16(b)
+text: '(b) Portas e saídas. O avião deve atender ao previsto no RBAC nº 23. Em adição:
+
+  (1) deve haver meios para travar e proteger cada porta e saída externa contra abertura em
+  voo, seja inadvertidamente por pessoas, seja como resultado de falha mecânica. Cada porta
+  externa deve ser operável tanto do interior quanto do exterior do avião;
+
+  (2) deve haver meios para permitir inspeção visual direta, pelos tripulantes, do mecanismo
+  de travamento, visando determinar se portas e saídas externas, para as quais o movimento
+  inicial de abertura é para fora, estão totalmente travadas. Adicionalmente, deve haver um
+  meio visual para sinalizar aos tripulantes quando portas externas de uso normal estiverem
+  totalmente fechadas e travadas;
+
+  (3) a porta de entrada de passageiros deve ser qualificada como saída de emergência ao nível
+  do assoalho. Cada saída de emergência adicional requerida, exceto saídas ao nível do assoalho,
+  deve ser localizada sobre as asas ou deve ser provida com meios aceitáveis para auxiliar
+  os passageiros a descer para o solo. Em adição à porta de entrada dos passageiros:'
+keywords:
+- taxi-aereo
+- operacoes
+- porta
+- cada
+- haver
+- meios
+- passageiros
+- portas
+- saida
+- saidas
+- abertura
+- adicao
+- assoalho
+- aviao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

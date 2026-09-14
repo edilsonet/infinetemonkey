@@ -1,0 +1,41 @@
+id: rbac-rbac-135-a135-21-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.21
+section_title: Sistema de indução
+subsection_id: c
+cite: A135.21(c)
+title: A135.21(c)
+text: '(c) Sistema de sangria de ar de motores a turbina. Os sistemas de sangria de ar dos
+  motores a turbina de aviões turboélice devem ser investigados para determinar:
+
+  (1) que não resultará em algum risco para a aeronave a ruptura de um duto de sangria. Essa
+  condição deve considerar que a falha de um duto pode ocorrer em qualquer ponto entre o flange
+  do motor e o componente do avião servido pela sangria de ar; e
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (2) que, se o sistema de sangria de ar for usado diretamente para pressurização da cabine,
+  não será possível uma contaminação perigosa do sistema de ar da cabine no evento de falha
+  do sistema de lubrificação.'
+keywords:
+- taxi-aereo
+- operacoes
+- sangria
+- sistema
+- cabine
+- duto
+- falha
+- motores
+- turbina
+- a135
+- aeronave
+- algum
+- aviao
+- avioes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

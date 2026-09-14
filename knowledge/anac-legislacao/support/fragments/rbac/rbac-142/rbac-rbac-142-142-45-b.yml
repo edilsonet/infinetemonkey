@@ -1,0 +1,33 @@
+id: rbac-rbac-142-142-45-b
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.45'
+section_title: Requisitos para instrutores de CTAC
+subsection_id: b
+cite: 142.45(b)
+title: 142.45(b)
+text: '(b) O gestor responsável do detentor de certificado de CTAC deve designar cada instrutor,
+  por
+
+  escrito, especificando em que curso aprovado estará alocado, antes daquela pessoa começar
+  a exercer
+
+  as funções de instrutor naquele curso específico.'
+keywords:
+- ctac
+- curso
+- instrutor
+- alocado
+- aprovado
+- cada
+- certificado
+- comecar
+- daquela
+- designar
+- detentor
+- escrito
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

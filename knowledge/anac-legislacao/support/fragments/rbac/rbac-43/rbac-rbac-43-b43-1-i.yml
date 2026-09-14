@@ -1,0 +1,68 @@
+id: rbac-rbac-43-b43-1-i
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: B43.1
+section_title: Registros de grandes reparos e grandes alterações
+subsection_id: i
+cite: B43.1(i)
+title: B43.1(i)
+text: '(i) identificação da aeronave, célula, motor, hélice, rotor ou equipamento;
+
+  (ii) se for aeronave, informar o fabricante, tipo/ modelo, número de série, matrícula e
+
+  localização da área reparada;
+
+  (iii) se for uma célula, motor, hélice, rotor ou equipamento, informar o fabricante, o nome
+
+  da parte, modelo e número de série (se houver); e
+
+  (4) encerrar a liberação com o texto abaixo (ou equivalente):
+
+
+  Item:
+
+  “A aeronave, célula, motor, hélice, rotor ou equipamento acima identificado foi
+
+  reparado e inspecionado de acordo com os RBAC e foi aprovado para retorno ao
+
+  serviço.”
+
+  Detalhes pertinentes ao reparo constam da ordem de serviço n°_______ (anexa)
+
+  Data
+
+  Assinatura
+
+
+  (de pessoa autorizada pela ANAC, nº da
+
+  licença ou do credenciamento na ANAC)
+
+  Nome da Organização de Manutenção
+
+  No Tel
+
+  Endereço da Organização de Manutenção
+
+
+  Data da emissão: 15 de março de 2021'
+keywords:
+- manutencao
+- aeronavegabilidade
+- aeronave
+- celula
+- equipamento
+- helice
+- motor
+- rotor
+- data
+- fabricante
+- grandes
+- informar
+- modelo
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

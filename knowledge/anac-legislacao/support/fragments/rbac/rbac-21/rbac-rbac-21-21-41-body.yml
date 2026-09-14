@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-41-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.41'
+section_title: Certificado de tipo
+subsection_id: body
+cite: '21.41'
+title: Certificado de tipo
+text: '21.41 Certificado de tipo
+
+  Considera-se que cada certificado de tipo inclui o projeto de tipo, as limitações operacionais,
+  a especificação de tipo do produto, os RBAC aplicáveis com os quais foi demonstrado cumprimento
+  e quaisquer outras condições ou limitações estabelecidas para o produto de acordo com este
+  regulamento.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- tipo
+- certificado
+- limitacoes
+- produto
+- acordo
+- aplicaveis
+- cada
+- condicoes
+- considera
+- cumprimento
+- demonstrado
+- especificacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

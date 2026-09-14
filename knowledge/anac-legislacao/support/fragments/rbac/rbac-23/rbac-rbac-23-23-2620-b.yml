@@ -1,0 +1,42 @@
+id: rbac-rbac-23-23-2620-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2620'
+section_title: Airplane flight manual.
+subsection_id: b
+cite: 23.2620(b)
+title: 23.2620(b)
+text: '(b) The following sections of the Airplane
+
+  Flight Manual must be approved by ANAC in a
+
+  manner specified by ANAC:
+
+  (1) For low-speed, level 1 and 2 airplanes,
+
+  those portions of the Airplane Flight Manual
+
+  containing the information specified in para-
+
+  graph (a)(1) of this section; and'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- airplane
+- flight
+- manual
+- specified
+- airplanes
+- approved
+- containing
+- following
+- graph
+- information
+- level
+- manner
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

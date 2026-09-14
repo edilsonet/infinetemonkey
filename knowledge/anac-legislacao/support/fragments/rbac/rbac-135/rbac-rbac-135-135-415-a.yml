@@ -1,0 +1,91 @@
+id: rbac-rbac-135-135-415-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: a
+cite: 135.415(a)
+title: 135.415(a)
+text: '(a) O detentor de certificado deve relatar a ocorrência ou detecção de cada falha,
+  mau funcionamento, ou defeito em uma aeronave com relação a:
+
+  (1) fogo em voo e se o sistema de alarme de fogo relacionado funcionou adequadamente;
+
+  (2) fogo em voo não protegido por um sistema de alarme de fogo relacionado;
+
+  (3) alarme falso (espúrio) de fogo durante o voo;
+
+  (4) um sistema de exaustão de gases de um motor que cause danos durante o voo ao motor,
+  às estruturas adjacentes, a um equipamento ou componentes;
+
+  (5) um componente da aeronave que cause acúmulo ou circulação de fumaça, vapor, ou gases
+  tóxicos ou nocivos no compartimento da cabine de comando ou de passageiros durante o voo;
+
+  (6) desligamento de um motor em voo devido a um apagamento (“
+
+  flameout
+
+  ”);
+
+  (7) desligamento de motor em voo quando ocorrer um dano ao motor ou à estrutura, causado
+  por uma fonte externa;
+
+  (8) desligamento de motor em voo devido a ingestão de gelo ou de um objeto estranho;
+
+  (9) desligamento de mais de um motor em voo;
+
+  (10) um sistema de embandeiramento de hélice ou a capacidade do sistema de controle de sobre
+  velocidade (disparo) durante o voo;
+
+  (11) um sistema de combustível ou um sistema de alijamento de combustível que afete o fluxo
+  do combustível ou cause vazamento perigoso durante o voo;
+
+  (12) uma extensão ou retração do trem de pouso, ou abertura ou fechamento, não comandados
+  de suas portas, durante o voo;
+
+  (13) componentes do sistema de freios que resulte em perda da força atuante de frenagem
+  quando a aeronave estiver em movimento no solo;
+
+  (14) estrutura da aeronave que requeira grande (“major”) reparo;
+
+  (15) trincas, deformação permanente ou corrosão da estrutura da aeronave, se maiores que
+  os máximos aceitáveis pelo fabricante ou pela ANAC;
+
+  (16) componentes ou sistemas da aeronave que resultem em tomadas de a&ccedccedil;ões de
+  emergência durante o voo (exceto a ação de desligar um motor);
+
+  (17) sistemas de evacuação de emergência ou componentes, incluindo todas as portas de saída,
+  sistemas de iluminação para evacuação encontrados defeituosos ou que falharem em cumprir
+  sua função pretendida durante uma emergência ou durante treinamento, teste, manutenção,
+  demonstrações ou aberturas inadvertidas;
+
+  (18) outros eventos relativos a dificuldades em serviço definidos pela ANAC;
+
+  (19) rachadura, deformação permanente ou corrosão de peças estruturais que não sejam cobertas
+  por instruções aprovadas do fabricante; e
+
+  (20) componentes ou sistemas da aeronave que resultem na necessidade de uma ação de emergência
+  em voo, que não ação de corte do motor.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- durante
+- motor
+- sistema
+- aeronave
+- componentes
+- fogo
+- desligamento
+- emergencia
+- sistemas
+- acao
+- alarme
+- cause
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

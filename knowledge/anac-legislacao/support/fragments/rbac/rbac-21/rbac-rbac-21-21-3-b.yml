@@ -1,0 +1,42 @@
+id: rbac-rbac-21-21-3-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.3'
+section_title: Comunicação de falhas, mau funcionamento e defeitos
+subsection_id: b
+cite: 21.3(b)
+title: 21.3(b)
+text: '(b) O detentor de um certificado de tipo (incluindo emendas ou um certificado suplementar
+  de tipo), de um certificado de produto aeronáutico aprovado (incluindo os emitidos sob uma
+  ordem técnica padrão), ou ainda, o licenciado de um certificado de tipo (incluindo outras
+  aprovações de projeto) e o detentor de uma aprovação de produção devem comunicar à ANAC
+  qualquer defeito em qualquer produto ou artigo fabricado por ele, que tenha deixado seu
+  sistema da qualidade e que possa resultar em qualquer uma das ocorrências listadas no parágrafo
+  (c) desta seção. (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- incluindo
+- tipo
+- detentor
+- produto
+- aeronautico
+- aprovacao
+- aprovacoes
+- aprovado
+- artigo
+- comunicacao
+- comunicar
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

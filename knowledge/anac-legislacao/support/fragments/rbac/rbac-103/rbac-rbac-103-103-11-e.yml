@@ -1,0 +1,42 @@
+id: rbac-rbac-103-103-11-e
+kind: rbac
+document: rbac-103
+family: '103'
+section_id: '103.11'
+section_title: Regras operacionais
+subsection_id: e
+cite: 103.11(e)
+title: 103.11(e)
+text: '(e) Uma pessoa somente pode embarcar outra pessoa em veículo ultraleve ou em balão
+  livre
+
+  tripulado sob este regulamento se essa pessoa estiver ciente de que se trata de atividade
+  desportiva de
+
+  alto risco, que ocorre por conta e risco dos envolvidos, onde operador e aeronaves não dispõem
+  de
+
+  qualquer qualificação técnica emitida pela ANAC, não havendo, portanto, qualquer garantia
+  de
+
+  segurança.'
+keywords:
+- ultraleves
+- operacoes
+- pessoa
+- risco
+- aeronaves
+- alto
+- atividade
+- balao
+- ciente
+- conta
+- desportiva
+- dispoem
+- embarcar
+- emitida
+categories:
+- ultraleves
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-103.md

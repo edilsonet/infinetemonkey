@@ -1,0 +1,43 @@
+id: rbac-rbac-137-137-201-a
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.201'
+section_title: Requisitos para operação
+subsection_id: a
+cite: 137.201(a)
+title: 137.201(a)
+text: '(a) O operador aeroagrícola deve constar como operador de pelo menos uma aeronave em
+  situação aeronavegável, compatível com as operações pretendidas e somente pode utilizá-la
+  nestas operações se:
+
+  (1) a aeronave for registrada no Brasil;
+
+  (2) [reservado];
+
+  (3) existir à disposição do piloto e do pessoal de manutenção os manuais de operação, publicações
+  técnicas, boletins de serviços, manuais de equipamentos e demais documentos necessários
+  à adequada condução das operações;
+
+  (4) a aeronave estiver equipada com cintos e suspensórios adequados e corretamente instalados;
+  e
+
+  (5) a aeronave não transportar pessoa não envolvida com a operação.'
+keywords:
+- aeroagricola
+- operacoes
+- aeronave
+- operacao
+- manuais
+- operador
+- adequada
+- adequados
+- aeronavegavel
+- boletins
+- brasil
+- cintos
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-157-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.157'
+section_title: Requisitos para equipamentos de oxigênio
+subsection_id: i
+cite: 135.157(i)
+title: 135.157(i)
+text: '(i) em níveis de voo acima de 10.000 e até 15.000 pés MSL, oxigênio para, pelo menos,
+  10% dos ocupantes da aeronave, outros que não os pilotos, para a parte do voo nessas altitudes
+  que tiver duração superior a 30 minutos; e
+
+  (ii) acima de 25.000 pés MSL, oxigênio para cada ocupante da aeronave, outros que não os
+  pilotos, para uma hora, exceto se, em todo o tempo durante o voo acima dessa altitude, o
+  avião possa descer com segurança para 15.000 pés MSL dentro de quatro minutos, quando, então,
+  é requerido apenas 30 minutos de suprimento.'
+keywords:
+- taxi-aereo
+- operacoes
+- acima
+- minutos
+- oxigenio
+- aeronave
+- outros
+- pilotos
+- altitude
+- altitudes
+- aviao
+- cada
+- dentro
+- descer
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

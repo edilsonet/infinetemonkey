@@ -1,0 +1,37 @@
+id: rbac-rbha-e-rbac-21-183-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.183'
+section_title: Emissão de certificado de aeronavegabilidade padrão para aeronaves categorias
+  normal, utilidade, acrobática, transporte regional ou transporte e para balões livres tripulados
+  e aeronaves de classe especial
+subsection_id: b
+cite: 21.183(b)
+title: 21.183(b)
+text: (b) Aeronave nova fabricada somente com certificado de tipo. O requerente de um certificado
+  de aeronavegabilidade padrão para aeronave nova fabricada somente com um certificado de
+  tipo faz jus ao certificado de aeronavegabilidade padrão se o detentor do certificado de
+  tipo, ou o licenciado, fornecer a declaração de conformidade prevista na seção 21.130 e
+  a ANAC considerar, após vistoriar a aeronave, que a mesma está conforme o projeto de tipo
+  e apresenta condições de operação segura.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- tipo
+- aeronave
+- padrao
+- aeronaves
+- fabricada
+- nova
+- somente
+- transporte
+- acrobatica
+- apresenta
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

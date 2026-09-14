@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-65-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.65'
+section_title: Livro(s) de registros da tripulação e da aeronave
+subsection_id: b
+cite: 135.65(b)
+title: 135.65(b)
+text: '(b) No que diz respeito à tripulação, é responsabilidade do piloto em comando registrar
+  em cada voo pelo menos as seguintes informações: marcas de nacionalidade e matrícula, data,
+  identificação dos tripulantes e função a bordo de cada um deles, locais da decolagem e do
+  pouso, horários da decolagem e do pouso, tempo de voo, natureza do voo, observações (se
+  houver) e nome e assinatura da pessoa responsável.'
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- decolagem
+- pouso
+- tripulacao
+- aeronave
+- assinatura
+- bordo
+- comando
+- data
+- deles
+- funcao
+- horarios
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

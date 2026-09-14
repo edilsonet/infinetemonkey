@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-387-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.387'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de pouso
+  em aeródromo de alternativa'
+subsection_id: a
+cite: 135.387(a)
+title: 135.387(a)
+text: (a) Somente é permitido indicar um aeródromo como aeródromo de alternativa para um grande
+  avião categoria transporte com motores a turbina se (baseado no que é assumido em 135.385(b))
+  esse avião, no peso esperado ao tempo da chegada, puder executar um pouso completo em 70%
+  do comprimento efetivo da pista do aeródromo, no caso de avião turboélice, e em 60% do comprimento
+  efetivo da pista, no caso de avião a reação, sempre considerando que o avião passa a 15
+  m (50 pés) acima do ponto em que o plano de liberação de obstáculos intercepta a linha central
+  da pista.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- aerodromo
+- pista
+- alternativa
+- caso
+- categoria
+- comprimento
+- efetivo
+- motores
+- pouso
+- transporte
+- turbina
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

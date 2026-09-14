@@ -1,0 +1,37 @@
+id: rbac-rbac-36-k6-2-f
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K6.2
+section_title: Takeoff Reference Procedure.
+subsection_id: f
+cite: K6.2(f)
+title: K6.2(f)
+text: '(f) The reference takeoff flight profile is a straight line segment inclined from the
+  starting point
+
+  1,640 feet (500 m) before to the center noise measurement point and 65 ft (20 m) above ground
+
+  level at an angle defined by best rate of climb and the speed corresponding to the selected
+  nacelle
+
+  angle and for minimum specification engine performance.'
+keywords:
+- ruido
+- meio-ambiente
+- angle
+- point
+- reference
+- takeoff
+- above
+- before
+- best
+- center
+- climb
+- corresponding
+- defined
+- engine
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

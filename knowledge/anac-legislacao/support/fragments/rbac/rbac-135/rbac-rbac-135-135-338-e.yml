@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-338-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.338'
+section_title: 'Qualificações: instrutor de voo em aeronave e instrutor de voo em FSTD e/ou
+  outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: e
+cite: 135.338(e)
+title: 135.338(e)
+text: (e) Uma pessoa que não possua um CMA não pode atuar como instrutor de voo em uma aeronave
+  nem pode atuar como membro da tripulação de voo em operações segundo este Regulamento.
+keywords:
+- taxi-aereo
+- operacoes
+- instrutor
+- aeronave
+- atuar
+- pode
+- aprovado
+- dispositivo
+- fstd
+- membro
+- outro
+- pessoa
+- possua
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

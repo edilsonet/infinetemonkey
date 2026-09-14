@@ -1,0 +1,70 @@
+id: rbac-rbac-60-60-9-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.9'
+section_title: Responsabilidades adicionais do
+subsection_id: b
+cite: 60.9(b)
+title: 60.9(b)
+text: '(b) Para cada FSTD, o operador deve:
+
+  (1) establish a mechanism to receive
+
+  written reports regarding the FSTD and its
+
+  operation in accordance with the approved
+
+  sponsor´s QMS; and
+
+
+  (1) estabelecer um mecanismo para
+
+  receber relatos escritos sobre o FSTD e sua
+
+  operação, de acordo com o QMS aprovado; e
+
+  (2) post in or adjacent to the FSTD the
+
+  Statement of Qualification issued by the
+
+  ANAC. An electronic copy of the Statement of
+
+  Qualification that may be accessed by an
+
+  appropriate terminal or display in or adjacent
+
+  to the FSTD is satisfactory.
+
+
+  (2) fixar no FSTD ou em local
+
+  adjacente, o Certificado de Qualificação
+
+  emitido pela ANAC. Uma cópia eletrônica do
+
+  Certificado de Qualificação que possa ser
+
+  acessada no FSTD ou em local adjacente é
+
+  aceitável.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- adjacent
+- adjacente
+- certificado
+- local
+- qualificacao
+- qualification
+- statement
+- accessed
+- accordance
+- aceitavel
+- acessada
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-25-i
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.25'
+section_title: Requisitos para exercício da função de piloto segundo em comando
+subsection_id: i
+cite: 90.25(i)
+title: 90.25(i)
+text: '(i) ter realizado 3 (três) voos no período noturno;
+
+  (ii) ter realizado 3 (três) voos pairados, no caso de operações NVIS no pairado;
+
+  (iii) ter realizado 3 (três) decolagens e pousos com a realização do circuito de tráfego
+  aéreo completo;
+
+  (iv) ter realizado 3 (três) transições entre o voo noturno assistido por NVG para o voo
+  noturno sob VFR noturno e não assistido por NVG; e'
+keywords:
+- regras-de-voo
+- operacoes
+- noturno
+- realizado
+- tres
+- assistido
+- voos
+- aereo
+- caso
+- circuito
+- comando
+- completo
+- decolagens
+- exercicio
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

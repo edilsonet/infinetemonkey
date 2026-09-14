@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-91-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.91'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 90.91(b)
+title: 90.91(b)
+text: '(b) Nas operações especiais de aviação pública realizadas a partir de uma base de operações
+  definida pela UAP no MOP ou a até uma determinada distância dessa base, também definida
+  pela UAP no MOP e com valor máximo de 1666 km (900 NM):
+
+  (1) são obrigatórios, a bordo da aeronave da UAP, os seguintes documentos:'
+keywords:
+- regras-de-voo
+- operacoes
+- base
+- definida
+- aeronave
+- aviacao
+- bordo
+- dessa
+- determinada
+- distancia
+- documentos
+- especiais
+- gerais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

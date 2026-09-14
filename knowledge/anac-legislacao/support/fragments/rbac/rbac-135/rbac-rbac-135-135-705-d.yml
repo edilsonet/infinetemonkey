@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-705-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.705'
+section_title: Política e objetivos de segurança operacional
+subsection_id: d
+cite: 135.705(d)
+title: 135.705(d)
+text: '(d) Coordenação do PRE.
+
+  (1) O detentor de certificado deve estabelecer e manter um plano de resposta a acidentes,
+  incidentes e outras situações de emergência relacionadas às suas operações aéreas.
+
+  (2) O detentor de certificado deve assegurar que seu plano de resposta à emergência seja
+  adequadamente coordenado com os planos de resposta à emergência das organizações com quem
+  interage durante a execução de suas operações.'
+keywords:
+- taxi-aereo
+- operacoes
+- emergencia
+- resposta
+- certificado
+- detentor
+- plano
+- acidentes
+- adequadamente
+- aereas
+- assegurar
+- coordenacao
+- coordenado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

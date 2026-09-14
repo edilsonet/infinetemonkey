@@ -1,0 +1,56 @@
+id: rbac-rbac-145-145-59-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.59'
+section_title: Categorias e Classes
+subsection_id: a
+cite: 145.59(a)
+title: 145.59(a)
+text: '(a) Categoria Célula:
+
+  (1) Classe 1: Aeronaves fabricadas com material composto, com peso máximo de decolagem
+
+  aprovado até 12500 lbf (5670 kgf) no caso de aviões ou 6018 lbf (2730 kgf) no caso de
+
+  helicópteros;
+
+  (2) Classe 2: Aeronaves fabricadas com material composto, com peso máximo de decolagem
+
+  aprovado acima de 12500 lbf (5670 kgf) no caso de aviões ou 6018 lbf (2730 kgf) no caso
+  de
+
+  helicópteros;
+
+  (3) Classe 3: Aeronaves fabricadas em estrutura metálica, com peso máximo de decolagem
+
+  aprovado até 12500 lbf (5670 kgf) no caso de aviões ou 6018 lbf (2730 kgf) no caso de
+
+  helicópteros; e
+
+  (4) Classe 4: Aeronaves fabricadas em estrutura metálica, com peso máximo de decolagem
+
+  aprovado acima de 12500 lbf (5670 kgf) no caso de aviões ou 6018 lbf (2730 kgf) no caso
+  de
+
+  helicópteros.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- caso
+- aeronaves
+- aprovado
+- avioes
+- classe
+- decolagem
+- fabricadas
+- helicopteros
+- maximo
+- peso
+- acima
+- composto
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

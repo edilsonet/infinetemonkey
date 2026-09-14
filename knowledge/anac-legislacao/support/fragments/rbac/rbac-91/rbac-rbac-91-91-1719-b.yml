@@ -1,0 +1,115 @@
+id: rbac-rbac-91-91-1719-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1719'
+section_title: Aproximação utilizando créditos mediante o uso de um EVS
+subsection_id: b
+cite: 91.1719(b)
+title: 91.1719(b)
+text: '(b) Para os propósitos desta seção, EVS significa um sistema de navegação instalado,
+  composto
+
+  dos seguintes recursos e características:
+
+  (1) um meio eletrônico para fornecer uma exibição da cena topográfica frontal externa (os
+
+  aplicáveis recursos naturais ou artificiais de um lugar ou região especialmente de um modo
+  a mostrar
+
+  suas posições relativas e elevações) por meio do uso de sensores de imagens, incluindo,
+  mas não
+
+  limitado a, visão infravermelha, ondas milimétricas radiométricas, radar de ondas milimétricas
+  ou
+
+  imagem de baixo nível de luz intensificado;
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.
+
+
+  (2) as imagens do sensor EVS, informação de voo da aeronave, e a simbologia de voo são
+
+  apresentadas em um HUD, ou em um display equivalente, de modo que são claramente visíveis
+  para
+
+  o piloto voando (pilot flying) em sua posição normal e linha de visão, olhando para frente
+  ao longo
+
+  de sua trajetória de voo. Informação de voo da aeronave e simbologia de voo deve consistir
+  de, pelo
+
+  menos a velocidade, velocidade vertical, atitude da aeronave, proa, altitude, altura acima
+  do nível do
+
+  solo tal qual aquela provida por um rádio altímetro ou outro dispositivo capaz de prover
+  desempenho
+
+  equivalente, orientação de comando como apropriado para a aproximação a ser voada, indicações
+  de
+
+  desvio da trajetória, vetor da trajetória de voo e referência angular da trajetória de voo)
+  são
+
+  apresentadas. Adicionalmente, para aeronaves, exceto helicópteros, o EVS deve mostrar o
+  prompt ou
+
+  o guia de arredondamento (flare);
+
+  (3) as imagens exibidas no EVS, simbologia de atitude, vetor da trajetória de voo, referência
+
+  angular da trajetória de voo, e outras referências, que são referenciadas a estas imagens
+  e cenas da
+
+  topografia externa, devem ser apresentados de modo que eles estejam alinhados e escalados
+  com a
+
+  visão externa;
+
+  (4) a referência do ângulo de trajetória de voo deve ser apresentada com o picth scale,
+
+  selecionada pelo piloto para o ângulo de descida desejado para a aproximação, e adequado
+  para
+
+  monitorar trajetória de voo vertical da aeronave;
+
+  (5) as imagens exibidas, informações de voo da aeronave e a simbologia de voo não devem
+
+  obscurecer adversamente a visão externa do piloto ou o campo de visão através da janela
+  da cabine;
+
+  e
+
+  (6) as características de exibição, dinâmicas e referências são adequadas para o controle
+  manual
+
+  da aeronave para tocar a pista de pouso pretendida na zona de toque e durante a corrida
+  de pouso.
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- trajetoria
+- aeronave
+- imagens
+- visao
+- data
+- externa
+- simbologia
+- aproximacao
+- modo
+- piloto
+- referencia
+- angular
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

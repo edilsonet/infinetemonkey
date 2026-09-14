@@ -1,0 +1,56 @@
+id: rbac-rbac-43-f43-1-b
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: b
+cite: F43.1(b)
+title: F43.1(b)
+text: '(b) Supressão. Quando transponders ATCRBS classes 1B e 2B ou transponders Mode S classes
+
+  1B, 2B e 3B forem interrogados no modo 3/A com uma razão de interrogação entre 230 e 1000
+
+  interrogações por segundo ou quando transponders ATCRBS classes 1A e 2A ou transponders
+
+  Mode S classes 1B, 2A, 3A, e 4 forem interrogados com uma razão de 230 e 1200 interrogações
+  por
+
+  segundo no modo 3/A:
+
+  (1) verificar se o transponder não responde a mais de 1% das interrogações ATCRBS quando
+
+  a amplitude de pulso P2 for igual à amplitude do pulso P1; e
+
+  (2) verificar se o transponder responde a pelo menos 90% das interrogações ATCRBS
+
+  quando a amplitude do pulso P2 for 9 dB menor que a do pulso P1. Se o teste for conduzido
+  com
+
+  um sinal de teste irradiado, a interrogação deve ser feita com uma razão de 235+5 interrogações
+  por
+
+  segundo, a menos que uma razão maior tenha sido aprovada para o equipamento de teste usado
+  no
+
+  local.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- interrogacoes
+- atcrbs
+- classes
+- pulso
+- razao
+- transponders
+- amplitude
+- segundo
+- teste
+- transponder
+- forem
+- interrogacao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

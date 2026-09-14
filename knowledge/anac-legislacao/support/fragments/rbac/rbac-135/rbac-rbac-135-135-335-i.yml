@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-335-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.335'
+section_title: Aprovação de FSTD e outros dispositivos de treinamento
+subsection_id: i
+cite: 135.335(i)
+title: 135.335(i)
+text: '(i) ser aprovado para o tipo de aeronave e, se aplicável, para a particular variação
+  do tipo na qual o treinamento ou exame será conduzido; e
+
+  (ii) ser alterado para ficar em conformidade com qualquer alteração da aeronave a ser simulada
+  que mude o desempenho, o funcionamento ou outras características requeridas para aprovação;
+
+  (4) antes do início de cada dia de trabalho, ser submetido a um pré-voo funcional; e
+
+  (5) possuir um livro para o registro diário de utilização e de discrepâncias observadas;
+  este livro deve ser preenchido pelos instrutores ou examinadores ao fim de cada sessão de
+  treinamento ou de exame.'
+keywords:
+- taxi-aereo
+- operacoes
+- treinamento
+- aeronave
+- aprovacao
+- cada
+- exame
+- livro
+- tipo
+- alteracao
+- alterado
+- aplicavel
+- aprovado
+- caracteristicas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

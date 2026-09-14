@@ -1,0 +1,34 @@
+id: rbac-rbac-90-90-41-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.41'
+section_title: Requisitos para exercício da função de responsável pelo controle de manutenção
+  das aeronaves
+subsection_id: b
+cite: 90.41(b)
+title: 90.41(b)
+text: (b) O responsável pelo controle técnico da manutenção das aeronaves das UAP detentoras
+  do certificado de organização de manutenção de produto aeronáutico, segundo o RBAC nº 145,
+  deve cumprir com o parágrafo (a) desta seção e atender aos demais requisitos previstos nos
+  RBAC nº 145, RBAC nº 65 e regramentos correlatos.
+keywords:
+- regras-de-voo
+- operacoes
+- manutencao
+- aeronaves
+- controle
+- requisitos
+- responsavel
+- aeronautico
+- atender
+- certificado
+- correlatos
+- cumprir
+- demais
+- desta
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

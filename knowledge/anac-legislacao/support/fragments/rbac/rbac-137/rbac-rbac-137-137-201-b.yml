@@ -1,0 +1,38 @@
+id: rbac-rbac-137-137-201-b
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.201'
+section_title: Requisitos para operação
+subsection_id: b
+cite: 137.201(b)
+title: 137.201(b)
+text: '(b) Um operador somente poderá utilizar um equipamento específico em operações aeroagrícolas
+  se:
+
+  (1) a instalação deste equipamento na aeronave tiver sido aprovada pela ANAC, quando se
+  tratar de grande alteração de projeto; e
+
+  (2) existir, à disposição do piloto e do pessoal de manutenção, o manual ou documento técnico
+  pertinente, necessário aos procedimentos de instalação e operação do equipamento, adequado
+  à aeronave na qual pode ser instalado.'
+keywords:
+- aeroagricola
+- operacoes
+- equipamento
+- aeronave
+- instalacao
+- operacao
+- adequado
+- aeroagricolas
+- alteracao
+- aprovada
+- deste
+- disposicao
+- documento
+- especifico
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-347-p
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: p
+cite: 155.347(p)
+title: 155.347(p)
+text: '(p)
+
+  O sistema deve dispor de um controle de intensidade de forma a permitir ajustes que atendam
+  às condições operacionais.'
+keywords:
+- seguranca-aeroportuaria
+- ajustes
+- aproximacao
+- atendam
+- condicoes
+- controle
+- dispor
+- forma
+- indicador
+- intensidade
+- operacionais
+- permitir
+- rampa
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

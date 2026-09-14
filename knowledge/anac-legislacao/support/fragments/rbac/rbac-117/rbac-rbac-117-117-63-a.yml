@@ -1,0 +1,38 @@
+id: rbac-rbac-117-117-63-a
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: '117.63'
+section_title: Sistema de gerenciamento de risco da fadiga (SGRF)
+subsection_id: a
+cite: 117.63(a)
+title: 117.63(a)
+text: '(a) Nenhum operador pode exceder qualquer provisão deste Regulamento a menos que aprovado
+
+  pela ANAC por meio de um sistema de gerenciamento de risco da fadiga (SGRF) que proporcione
+
+  pelo menos um nível de segurança equivalente ao previsto nos apêndices A, B ou C contra
+  acidentes
+
+  ou incidentes relacionados à fadiga.'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- gerenciamento
+- menos
+- risco
+- sgrf
+- sistema
+- acidentes
+- apendices
+- aprovado
+- contra
+- deste
+- equivalente
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

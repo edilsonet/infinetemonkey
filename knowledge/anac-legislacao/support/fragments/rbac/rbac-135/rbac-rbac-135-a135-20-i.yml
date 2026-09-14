@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-20-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.20
+section_title: Arrefecimento
+subsection_id: i
+cite: A135.20(i)
+title: A135.20(i)
+text: '(i) as temperaturas dos componentes e dos fluidos do motor sejam estabilizadas;
+
+  (ii) o estágio de voo seja completado; ou
+
+  (iii) um limite operacional seja atingido.'
+keywords:
+- taxi-aereo
+- operacoes
+- seja
+- a135
+- arrefecimento
+- atingido
+- completado
+- componentes
+- estabilizadas
+- estagio
+- fluidos
+- limite
+- motor
+- operacional
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-213-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.213'
+section_title: Elegibilidade
+subsection_id: c
+cite: 21.213(c)
+title: 21.213(c)
+text: (c) Um fabricante de motores que fabrique seus motores no Brasil e que tenha alterado
+  uma aeronave de tipo certificado através da instalação de motores certificados diferentes
+  dos motores originalmente instalados na aeronave pode requerer um certificado de aeronavegabilidade
+  provisório Classe I, desde que a aeronave, antes da modificação, tenha sido de tipo certificado
+  na categoria, normal, utilidade, acrobática, transporte regional ou transporte.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- motores
+- aeronave
+- certificado
+- tenha
+- tipo
+- transporte
+- acrobatica
+- alterado
+- atraves
+- brasil
+- categoria
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

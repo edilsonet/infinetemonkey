@@ -1,0 +1,61 @@
+id: rbac-rbac-26-26-11-b
+kind: rbac
+document: rbac-26
+family: '26'
+section_id: '26.11'
+section_title: Programa de manutenção das interconexões dos sistemas de cablagens
+subsection_id: b
+cite: 26.11(b)
+title: 26.11(b)
+text: '(b) Detentores ou requerentes de certificado de tipo, especificados no parágrafo (d)
+  desta seção,
+
+  devem desenvolver instruções para aeronavegabilidade continuada para as interconexões dos
+  siste-
+
+  mas de cablagens (Electrical Wiring Interconnection Sytstem - EWIS) dos aviões representativos,
+
+  de acordo com o RBAC 25, Apêndice H, parágrafo H25.5 (a) (1) e (b) vigente em 22/03/2010,
+  para
+
+  cada projeto de tipo afetado, e submeter as instruções para aeronavegabilidade continuada
+  para aná-
+
+  lise e aprovação da ANAC. Para os propósitos desta seção, “avião representativo” é a configuração
+
+  de cada série de modelos de aviões que incorpora todas as variações de EWIS usados na produção
+
+  daquela série de aviões, e todas as modificações projetadas pelo detentor do certificado
+  de tipo re-
+
+  queridas por diretriz de aeronavegabilidade até a data de efetividade desta regra. Cada
+  pessoa espe-
+
+  cificada no parágrafo (d) desta seção deve também analisar as instruções para aeronavegabilidade
+
+  continuada do sistema de tanque de combustível, desenvolvidas por aquela pessoa em cumprimento
+
+  com o RBAC 21.29(f)-I, ou o RBHA-E 88 vigente até 30 de junho de 2021, para assegurar compa-
+
+  tibilidade com as instruções para aeronavegabilidade continuada dos EWIS, incluindo a minimiza-
+
+  ção de requisitos redundantes. (Redação dada pela Resolução nº 624, de 07.06.2021)'
+keywords:
+- aeronavegabilidade
+- envelhecimento
+- continuada
+- desta
+- instrucoes
+- avioes
+- cada
+- ewis
+- paragrafo
+- secao
+- tipo
+- cablagens
+- certificado
+categories:
+- aeronavegabilidade
+- envelhecimento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-26.md

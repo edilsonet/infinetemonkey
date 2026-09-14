@@ -1,0 +1,58 @@
+id: rbac-rbac-27-27-471-v
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: '27.471'
+section_title: through 27.475.
+subsection_id: v
+cite: 27.471(v)
+title: 27.471(v)
+text: '(v)
+
+  No breakaway coupling design may allow the release of fuel once the coupling has performed
+
+  its intended function.
+
+  (2)
+
+  All individual breakaway couplings, coupling fuel feed systems, or equivalent means must
+  be
+
+  designed, tested, installed, and maintained so that inadvertent fuel shutoff in flight is
+  improbable in
+
+  accordance with § 27.955(a) and must comply with the fatigue evaluation requirements of
+  § 27.571
+
+  without leaking.
+
+  (3)
+
+  Alternate, equivalent means to the use of breakaway couplings must not create a survivable
+
+  impact-induced load on the fuel line to which it is installed greater than 25 to 50 percent
+  of the
+
+  ultimate load (strength) of the weakest component in the line and must comply with the fatigue
+
+  requirements of § 27.571 without leaking.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- fuel
+- must
+- breakaway
+- coupling
+- with
+- comply
+- couplings
+- equivalent
+- fatigue
+- installed
+- leaking
+- line
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

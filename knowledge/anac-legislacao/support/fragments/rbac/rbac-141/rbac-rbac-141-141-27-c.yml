@@ -1,0 +1,33 @@
+id: rbac-rbac-141-141-27-c
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.27'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: c
+cite: 141.27(c)
+title: 141.27(c)
+text: (c) O gestor responsável do requerente ou detentor de certificado de CIAC deve implantar
+  um SGSO compatível com o tamanho, natureza e complexidade das operações a serem conduzidas
+  no CIAC, considerando suas especificações de instrução e os perigos e riscos relacionados
+  com suas atividades.
+keywords:
+- escolas
+- treinamento
+- ciac
+- sgso
+- atividades
+- certificado
+- compativel
+- complexidade
+- conduzidas
+- considerando
+- detentor
+- especificacoes
+- gerenciamento
+- gestor
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

@@ -1,0 +1,20 @@
+id: rbac-rbac-135-a135-2-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.2
+section_title: Requisitos de voo
+subsection_id: body
+cite: A135.2
+title: Requisitos de voo
+text: A135.2 Requisitos de voo
+keywords:
+- taxi-aereo
+- operacoes
+- requisitos
+- a135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,54 @@
+id: rbac-rbac-90-90-61-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.61'
+section_title: Controle de horas de voo dos pilotos da UAP
+subsection_id: c
+cite: 90.61(c)
+title: 90.61(c)
+text: '(c) As declarações individuais de horas de voo dos pilotos devem ser íntegras e conter:
+
+  (1) identificação e assinatura do gestor da UAP;
+
+  (2) nome e código ANAC do piloto;
+
+  (3) local e data da referida declaração;
+
+  (4) horas de voo na função de piloto em comando ou piloto segundo em comando;
+
+  (5) horas de voo na função de piloto em comando ou piloto segundo em comando em instrução;
+
+  (6) horas de voo no modelo de aeronave;
+
+  (7) horas de voo para experiência recente;
+
+  (8) horas de voo no período noturno ou diurno;
+
+  (9) horas de voo em operações VFR ou IFR;
+
+  (10) horas de voo em operação NVIS;
+
+  (11) horas de voo como instrutor da UAP; e
+
+  (12) informações complementares a critério da UAP ou da ANAC.'
+keywords:
+- regras-de-voo
+- operacoes
+- horas
+- piloto
+- comando
+- funcao
+- pilotos
+- segundo
+- aeronave
+- assinatura
+- codigo
+- complementares
+- conter
+- controle
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

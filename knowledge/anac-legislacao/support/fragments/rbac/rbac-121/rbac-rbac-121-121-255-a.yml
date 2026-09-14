@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-255-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.255'
+section_title: Fluidos inflamáveis
+subsection_id: a
+cite: 121.255(a)
+title: 121.255(a)
+text: (a) Nenhum tanque ou reservatório que seja parte de um sistema contendo líquidos ou
+  gases inflamáveis pode ser localizado nas zonas designadas de fogo, a menos que o fluido
+  contido, o projeto do sistema, os materiais usados no tanque, as válvulas de corte, as tubulações,
+  as conexões e os controles do sistema permitam uma segurança equivalente.
+keywords:
+- transporte-aereo
+- operacoes
+- sistema
+- inflamaveis
+- tanque
+- conexoes
+- contendo
+- contido
+- controles
+- corte
+- designadas
+- equivalente
+- fluido
+- fluidos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

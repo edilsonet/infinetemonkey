@@ -1,0 +1,40 @@
+id: rbac-rbac-035-35-35-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.35'
+section_title: '35.35'
+subsection_id: a
+cite: 35.35(a)
+title: 35.35(a)
+text: '(a) The hub, blade retention system, and
+
+  counterweights must be tested for a period of
+
+  one hour to a load equivalent to twice the max-
+
+  imum centrifugal load to which the propeller
+
+  would be subjected during operation at the max-
+
+  imum rated rotational speed.'
+keywords:
+- helices
+- aeronavegabilidade
+- imum
+- load
+- blade
+- centrifugal
+- counterweights
+- during
+- equivalent
+- hour
+- must
+- operation
+- period
+- propeller
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

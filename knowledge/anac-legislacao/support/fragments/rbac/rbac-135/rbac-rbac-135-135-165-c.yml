@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-165-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.165'
+section_title: 'Equipamentos de comunicações e navegação: voos sobre grandes extensões de
+  água ou IFR'
+subsection_id: c
+cite: 135.165(c)
+title: 135.165(c)
+text: (c) Para os propósitos dos parágrafos (a)(5), (a)(6), (b)(5) e (b)(6) desta seção, um
+  receptor é independente se o funcionamento de qualquer de suas partes não depende do funcionamento
+  de qualquer parte de outro receptor. No entanto, um receptor que possa receber tanto sinais
+  de comunicações e quanto de navegação pode ser utilizado no lugar de dois receptores separados
+  um de sinais para navegação e outro de sinais para comunicações.
+keywords:
+- taxi-aereo
+- operacoes
+- comunicacoes
+- navegacao
+- receptor
+- sinais
+- funcionamento
+- outro
+- agua
+- depende
+- desta
+- dois
+- entanto
+- equipamentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

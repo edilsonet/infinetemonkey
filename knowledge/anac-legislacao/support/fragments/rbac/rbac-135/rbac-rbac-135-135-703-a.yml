@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-703-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.703'
+section_title: Estrutura do SGSO
+subsection_id: a
+cite: 135.703(a)
+title: 135.703(a)
+text: '(a) A estrutura do SGSO deve ser composta de quatro componentes e doze elementos, como
+  requisitos mínimos para sua implementação:
+
+  (1) política e objetivos da segurança operacional:'
+keywords:
+- taxi-aereo
+- operacoes
+- estrutura
+- sgso
+- componentes
+- composta
+- doze
+- elementos
+- implementacao
+- minimos
+- objetivos
+- operacional
+- politica
+- quatro
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

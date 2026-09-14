@@ -1,0 +1,196 @@
+id: rbac-rbac-27-c27-2-a
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: C27.2
+section_title: Applicable part 29 sections. The following sections of part 29 of this chapter
+  must be met in addition to the
+subsection_id: a
+cite: C27.2(a)
+title: C27.2(a)
+text: '(a)
+
+  HIRF environment I is specified in the following table:
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR Appendix-D-to-Part-27(a)
+
+  14 CFR Appendix-D-to-Part-27(a) (enhanced display)
+
+  page 123 of 126
+
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  700 MHz-1 GHz
+
+  700
+
+  100
+
+  1 GHz-2 GHz
+
+  2,000
+
+  200
+
+  2 GHz-6 GHz
+
+  3,000
+
+  200
+
+  6 GHz-8 GHz
+
+  1,000
+
+  200
+
+  8 GHz-12 GHz
+
+  3,000
+
+  300
+
+  12 GHz-18 GHz
+
+  2,000
+
+  200
+
+  18 GHz-40 GHz
+
+  600
+
+  200
+
+  In this table, the higher field strength applies at the frequency band edges.
+
+  Table II. - HIRF Environment II
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  10 kHz-500 kHz
+
+  20
+
+  20
+
+  500 kHz-2 MHz
+
+  30
+
+  30
+
+  2 MHz-30 MHz
+
+  100
+
+  100
+
+  30 MHz-100 MHz
+
+  10
+
+  10
+
+  100 MHz-200 MHz
+
+  30
+
+  10
+
+  200 MHz-400 MHz
+
+  10
+
+  10
+
+  400 MHz-1 GHz
+
+  700
+
+  40
+
+  1 GHz-2 GHz
+
+  1,300
+
+  160
+
+  2 GHz-4 GHz
+
+  3,000
+
+  120
+
+  4 GHz-6 GHz
+
+  3,000
+
+  160
+
+  6 GHz-8 GHz
+
+  400
+
+  170
+
+  8 GHz-12 GHz
+
+  1,230
+
+  230
+
+  12 GHz-18 GHz
+
+  730
+
+  190
+
+  18 GHz-40 GHz
+
+  600
+
+  150
+
+  In this table, the higher field strength applies at the frequency band edges.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- part
+- field
+- frequency
+- strength
+- table
+- this
+- appendix
+- applies
+- average
+- band
+- edges
+- environment
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

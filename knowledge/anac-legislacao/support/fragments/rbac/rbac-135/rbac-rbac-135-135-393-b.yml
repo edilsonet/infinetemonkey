@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-393-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.393'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações de pouso
+  no aeródromo de destino'
+subsection_id: b
+cite: 135.393(b)
+title: 135.393(b)
+text: '(b) Para o propósito desta seção, é assumido que:
+
+  (1) o avião passa diretamente sobre a interseção do plano de liberação de obstáculos e a
+  pista a uma altura de 50 pés, em uma rampa de aproximação estável e a uma velocidade verdadeira
+  indicada de pelo menos 1,3 Vso;
+
+  (2) o pouso não requer excepcional habilidade do piloto; e
+
+  (3) o avião está operando em atmosfera padrão.'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- pouso
+- aerodromo
+- altura
+- aproximacao
+- assumido
+- atmosfera
+- avioes
+- categoria
+- desta
+- destino
+- diretamente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

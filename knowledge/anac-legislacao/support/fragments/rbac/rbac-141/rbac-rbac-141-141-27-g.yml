@@ -1,0 +1,36 @@
+id: rbac-rbac-141-141-27-g
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.27'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: g
+cite: 141.27(g)
+title: 141.27(g)
+text: '(g) Registros do SGSO:
+
+  (1) o CIAC deve registrar dados relevantes à segurança das operações do CIAC, e mantê-los
+  armazenados por, no mínimo, cinco anos; e
+
+  (2) o CIAC deve enviar à ANAC relatórios periódicos a respeito de suas operações e de seu
+  SGSO, nos prazos e modelos definidos pela ANAC.'
+keywords:
+- escolas
+- treinamento
+- ciac
+- sgso
+- operacoes
+- seguranca
+- anos
+- armazenados
+- cinco
+- dados
+- definidos
+- enviar
+- gerenciamento
+- mante
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

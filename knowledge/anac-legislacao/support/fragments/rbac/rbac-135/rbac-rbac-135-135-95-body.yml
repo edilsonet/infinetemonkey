@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-95-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.95'
+section_title: 'Tripulação e pessoal de solo: limitações de utilização'
+subsection_id: body
+cite: '135.95'
+title: 'Tripulação e pessoal de solo: limitações de utilização'
+text: '135.95 Tripulação e pessoal de solo: limitações de utilização
+
+  Um detentor de certificado somente pode utilizar os serviços de uma pessoa para serviços
+  no solo ou como tripulante se a pessoa executando esses serviços:'
+keywords:
+- taxi-aereo
+- operacoes
+- solo
+- limitacoes
+- pessoal
+- servicos
+- tripulacao
+- utilizacao
+- pessoa
+- certificado
+- detentor
+- esses
+- executando
+- pode
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

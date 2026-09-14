@@ -1,0 +1,31 @@
+id: rbac-rbac-107-107-105-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.105'
+section_title: Pontos de Acesso à Área Restrita de Segurança
+subsection_id: b
+cite: 107.105(b)
+title: 107.105(b)
+text: (b) Os pontos de controle de acesso devem possuir avisos contendo a relação de objetos
+  que não podem acessar a ARS.
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- pontos
+- acessar
+- area
+- avisos
+- contendo
+- controle
+- objetos
+- podem
+- possuir
+- relacao
+- restrita
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

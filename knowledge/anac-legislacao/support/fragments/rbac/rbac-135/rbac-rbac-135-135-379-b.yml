@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-379-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.379'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de decolagem'
+subsection_id: b
+cite: 135.379(b)
+title: 135.379(b)
+text: '(b) No caso de um grande avião categoria transporte com motores a turbina, de tipo
+  certificado em seu país de origem após 26 de agosto de 1957, mas antes de 30 de agosto de
+  1959, é vedado decolar com esse avião com um peso maior do que aquele indicado no manual
+  de voo do avião para as distâncias mínimas requeridas para decolagem. Para aviões de tipo
+  certificado em seu país de origem após 30 de setembro de 1958, a distância de decolagem
+  pode incluir uma distância de “
+
+  clearway
+
+  ”, desde que essa distância não seja maior que metade da distância da corrida de decolagem.'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- distancia
+- aviao
+- agosto
+- avioes
+- categoria
+- certificado
+- maior
+- motores
+- origem
+- pais
+- tipo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

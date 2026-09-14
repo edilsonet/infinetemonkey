@@ -1,0 +1,97 @@
+id: rbac-rbac-031-31-65-e
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.65'
+section_title: '31.65'
+subsection_id: e
+cite: 31.65(e)
+title: 31.65(e)
+text: '(e) Each position light color must have
+
+  the applicable International Commission
+
+  on Illumination chromaticity coordinates
+
+  as follows:
+
+
+  (1) Aviation red-
+
+
+  y is not greater than 0.335; and z is not
+
+  greater than 0.002.
+
+
+  (2) Aviation white-
+
+
+  x is not less than 0.300 and not greater
+
+  than 0.540;
+
+
+  y is not less than x −0.040 or yo−0.010,
+
+  whichever is the smaller; and
+
+
+  y is not greater than x +0.020 nor
+
+  0.636−0.0400 x ;
+
+
+  Where yo is the y coordinate of the
+
+  Planckian radiator for the value of x con-
+
+  sidered.
+
+  0 ao 5
+
+  0,90
+
+  5 ao10
+
+  0,80
+
+  10 ao 15
+
+  0,70
+
+  15 ao 20
+
+  0,50
+
+  20 ao 30
+
+  0,30
+
+  30 ao 40
+
+  0,10
+
+  40 ao 60
+
+  0,05'
+keywords:
+- aeronavegabilidade
+- baloes
+- than
+- greater
+- aviation
+- less
+- ao10
+- applicable
+- chromaticity
+- color
+- commission
+- coordinate
+- coordinates
+- each
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

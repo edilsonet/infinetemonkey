@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-21-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.21'
+section_title: Requisitos gerais para tripulação
+subsection_id: b
+cite: 90.21(b)
+title: 90.21(b)
+text: '(b) Exceto como previsto nos parágrafos (c), (d), (e), (h) e (i) desta seção, a tripulação
+  operacional para helicópteros deverá ser composta por, no mínimo:
+
+  (1) um piloto em comando, segundo a seção 90.23 deste Regulamento;
+
+  (2) um piloto segundo em comando, segundo a seção 90.25 deste Regulamento; e
+
+  (3) um operador aerotático ou operador de suporte médico, segundo a seção 90.31 e 90.43
+  deste Regulamento, respectivamente.'
+keywords:
+- regras-de-voo
+- operacoes
+- secao
+- segundo
+- deste
+- regulamento
+- comando
+- operador
+- piloto
+- tripulacao
+- aerotatico
+- composta
+- desta
+- devera
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

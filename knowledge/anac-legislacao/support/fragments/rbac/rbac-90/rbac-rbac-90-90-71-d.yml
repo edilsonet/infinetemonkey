@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-71-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.71'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 90.71(d)
+title: 90.71(d)
+text: '(d) Cada membro da tripulação e cada pessoa com função a bordo deverá realizar a inspeção
+  dos EPI antes de cada utilização, a fim de verificar se características mínimas de segurança
+  e proteção estão preservadas.
+
+  (1) O órgão deverá prover novos EPI, caso constatado que as condições mínimas de proteção
+  e de segurança dos referidos equipamentos encontram-se comprometidas.
+
+  (2) Caso exista alguma dúvida sobre a integridade dos EPI, o item não deverá ser utilizado
+  até ser inspecionado e, se necessário, substituído por um novo equipamento.'
+keywords:
+- regras-de-voo
+- operacoes
+- cada
+- devera
+- caso
+- minimas
+- protecao
+- seguranca
+- alguma
+- bordo
+- caracteristicas
+- comprometidas
+- condicoes
+- constatado
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

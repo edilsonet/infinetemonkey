@@ -1,0 +1,59 @@
+id: rbac-rbac-154-154-13-b
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.13'
+section_title: Código de referência
+subsection_id: b
+cite: 154.13(b)
+title: 154.13(b)
+text: '(b) [Reservado] (Redação dada pela Resolução nº 529, de 12.09.2019)
+
+  NOTA 1 - O propósito do código de referência é oferecer um método simples para inter-relacionar
+
+  as diversas especificações sobre as características dos aeródromos, de modo a fornecer uma
+  série de
+
+  facilidades adequadas às aeronaves que irão operar no aeródromo. O código não foi desenvolvido
+
+  para ser utilizado na determinação do comprimento da pista de pouso e decolagem ou dos requisitos
+
+  de capacidade de suporte do pavimento. (Incluído pela Resolução nº 529, de 12.09.2019)
+
+  NOTA 2 - O código é composto por dois elementos relacionados às características de desempenho
+  e
+
+  dimensões das aeronaves. O elemento 1 é um número baseado no comprimento básico de pista
+  da
+
+  aeronave e o elemento 2 é uma letra baseada na envergadura da aeronave. A letra ou o número
+  de código
+
+  de um elemento selecionado para fins de projeto dirá respeito às características críticas
+  da aeronave
+
+  para a qual a facilidade deverá servir. Ao aplicar o RBAC nº 154, primeiramente serão identificadas
+  as
+
+  aeronaves servidas pelo aeródromo e, em seguida, os dois elementos do código. (Incluído
+  pela
+
+  Resolução nº 529, de 12.09.2019)'
+keywords:
+- seguranca-aeroportuaria
+- codigo
+- aeronave
+- aeronaves
+- caracteristicas
+- elemento
+- resolucao
+- aerodromo
+- comprimento
+- dois
+- elementos
+- incluido
+- letra
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

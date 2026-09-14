@@ -1,0 +1,42 @@
+id: rbac-rbac-031-31-27-b
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.27'
+section_title: '31.27'
+subsection_id: b
+cite: 31.27(b)
+title: 31.27(b)
+text: '(b) Deve ser demonstrado por meio de ensaios que
+
+  a estrutura é capaz de resistir às cargas finais durante
+
+  pelo menos três segundos sem falhas. Para o envelope
+
+  é aceitável o ensaio de uma porção representativa do
+
+  mesmo, se a porção ensaiada for grande o suficiente
+
+  para incluir costuras críticas, juntas, e pontos de fixa-
+
+  ção de cargas e componentes.'
+keywords:
+- aeronavegabilidade
+- baloes
+- cargas
+- porcao
+- aceitavel
+- capaz
+- componentes
+- costuras
+- criticas
+- demonstrado
+- durante
+- ensaiada
+- ensaio
+- ensaios
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

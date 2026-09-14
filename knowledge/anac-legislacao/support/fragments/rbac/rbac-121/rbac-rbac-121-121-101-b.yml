@@ -1,0 +1,37 @@
+id: rbac-rbac-121-121-101-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.101'
+section_title: Serviços de informações meteorológicas
+subsection_id: b
+cite: 121.101(b)
+title: 121.101(b)
+text: '(b) Exceto como previsto no parágrafo (d) desta seção, cada detentor de certificado
+  conduzindo operações regulares que utilize informes meteorológicos para exercer o controle
+  operacional deve utilizar informes:
+
+  (1) para operações dentro do espaço aéreo brasileiro, providos pelo órgão competente ou
+  por provedor reconhecido por ele; ou
+
+  (2) para operações realizadas no exterior, providos pelo órgão competente do país sobrevoado
+  ou por provedor reconhecido por ele.'
+keywords:
+- transporte-aereo
+- operacoes
+- competente
+- informes
+- orgao
+- provedor
+- providos
+- reconhecido
+- aereo
+- brasileiro
+- cada
+- certificado
+- conduzindo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

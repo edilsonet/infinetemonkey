@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-161-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.161'
+section_title: Limitações dos aviões. Tipo de rota
+subsection_id: d
+cite: 121.161(d)
+title: 121.161(d)
+text: (d) A menos que autorizado pela ANAC com base nas características do terreno, do tipo
+  de operação ou do desempenho do avião a ser utilizado, nenhum detentor de certificado pode
+  operar um avião com motores convencionais em uma rota que possua um ponto a mais de 75 minutos
+  de voo (em velocidade de cruzeiro, condições padrões e ar calmo, com um motor inoperante)
+  de Aeródromo Adequado.
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- rota
+- tipo
+- adequado
+- aerodromo
+- autorizado
+- avioes
+- base
+- calmo
+- caracteristicas
+- certificado
+- condicoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

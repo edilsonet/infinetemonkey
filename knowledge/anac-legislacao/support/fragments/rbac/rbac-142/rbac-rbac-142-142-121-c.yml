@@ -1,0 +1,32 @@
+id: rbac-rbac-142-142-121-c
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.121'
+section_title: Atualização do MGSO
+subsection_id: c
+cite: 142.121(c)
+title: 142.121(c)
+text: '(c) A ANAC pode solicitar a atualização, emenda ou revisão do MGSO sempre que for identificada
+
+  uma situação que não corresponda ao estabelecido em regulamentação ou diante de uma situação
+  que
+
+  se configure em um nível de desempenho de segurança operacional não aceitável pela ANAC.'
+keywords:
+- atualizacao
+- mgso
+- situacao
+- aceitavel
+- configure
+- corresponda
+- desempenho
+- diante
+- estabelecido
+- identificada
+- nivel
+- operacional
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

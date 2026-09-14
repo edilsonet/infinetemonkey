@@ -1,0 +1,44 @@
+id: rbac-rbac-135-135-443-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.443'
+section_title: Documentação de aeronavegabilidade e anotações nos registros de manutenção
+  da aeronave
+subsection_id: i
+cite: 135.443(i)
+title: 135.443(i)
+text: '(i) o trabalho foi realizado em conformidade com os requisitos do manual do detentor
+  de certificado;
+
+  (ii) todos os itens requerendo inspeções foram inspecionados por uma pessoa habilitada e
+  autorizada, que certificou que o trabalho foi satisfatoriamente completado;
+
+  (iii) não existem condições conhecidas que impeçam a aeronavegabilidade da aeronave;
+
+  (iv) no que diz respeito ao trabalho realizado, a aeronave está em condições de operar com
+  segurança; e
+
+  (3) ser assinada por um mecânico habilitado e autorizado para isso. Cada mecânico só pode
+  assinar um documento ou anotação sobre um trabalho por ele executado se possuir autorização
+  para isso e tiver sido contratado para fazê-lo.'
+keywords:
+- taxi-aereo
+- operacoes
+- trabalho
+- aeronave
+- aeronavegabilidade
+- condicoes
+- isso
+- mecanico
+- realizado
+- anotacao
+- anotacoes
+- assinada
+- assinar
+- autorizacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

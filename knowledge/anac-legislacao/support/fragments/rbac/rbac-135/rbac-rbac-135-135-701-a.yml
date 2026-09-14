@@ -1,0 +1,262 @@
+id: rbac-rbac-135-135-701-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.701'
+section_title: Definições
+subsection_id: a
+cite: 135.701(a)
+title: 135.701(a)
+text: '(a) Para os propósitos desta Subparte, as seguintes definições se aplicam:
+
+  (1)
+
+  análise de risco
+
+  : técnica por meio da qual as consequências ou os impactos de um determinado perigo são
+  objetivamente caracterizados, em função de sua probabilidade e severidade, de forma qualitativa
+  e/ou quantitativa;
+
+  (2)
+
+  avaliação de risco
+
+  : processo voltado à obtenção de conclusões sobre os resultados de uma análise de risco,
+  com base em conhecimentos e critérios técnicos estabelecidos como referenciais;
+
+  (3)
+
+  consequência
+
+  : impacto real ou potencial de um perigo, que pode ser expresso qualitativamente e/ou quantitativamente.
+  Um mesmo perigo pode gerar mais de uma consequência;
+
+  (4)
+
+  controle de risco
+
+  : atividades executadas com a finalidade de assegurar que a política de segurança operacional,
+  processos e procedimentos organizacionais contribuem efetivamente para mitigação ou eliminação
+  dos riscos de incidentes e acidentes aeronáuticos;
+
+  (5)
+
+  cultura de segurança operacional
+
+  : conjunto de valores, normas, atitudes e práticas de caráter permanente dentro de uma organização
+  engajada em reduzir a exposição de seu pessoal e do público em geral às situações perigosas,
+  por meio da promoção da preocupação compartilhada, do comprometimento e das responsabilidades
+  relativas à segurança operacional;
+
+  (6)
+
+  desempenho de segurança operacional
+
+  : resultado mensurável do nível de segurança operacional alcançado pela alocação de esforços
+  e recursos no âmbito das atividades de um provedor de serviço da aviação civil ou de um
+  Estado, conforme estabelecido em suas políticas e metas organizacionais;
+
+  (7)
+
+  garantia da segurança operacional
+
+  : processo que tem por objetivo prover confiança de que os controles de riscos desenvolvidos
+  sob o processo de gerenciamento de risco atinjam os objetivos da segurança operacional nas
+  atividades de uma organização. Esse processo pode revelar novos perigos, apontar a necessidade
+  de novos controles de riscos, bem como eliminar ou modificar os controles de riscos existentes;
+
+  (8)
+
+  gerenciamento da segurança operacional
+
+  : função organizacional que busca continuamente identificar e analisar os perigos, bem como
+  analisar, avaliar e controlar os riscos inerentes às atividades de uma organização, por
+  meio de uma sistemática que inclui políticas, responsabilidades, estrutura organizacional,
+  processos e procedimentos necessários;
+
+  (9)
+
+  gerenciamento de risco à segurança operacional
+
+  : processo que tem por objetivo identificar e implementar os controles de riscos necessários
+  à segurança operacional, nas atividades de uma organização. Esse processo deve descrever
+  o ambiente operacional da organização, identificar e analisar perigos, analisar e avaliar
+  os riscos a eles associados, e estabelecer os controles necessários;
+
+  (10)
+
+  gerenciamento de mudança
+
+  : processo utilizado por uma organização para avaliar os resultados e impactos das mudanças
+  internas ou externas sobre a organização e/ou suas atividades de forma planejada, visando
+  minimizar consequências indesejadas e maximizar as oportunidades de melhoria, garantindo
+  o nível aceitável de segurança operacional;
+
+  (11)
+
+  gerente ou diretor de segurança operacional
+
+  : pessoa designada pelo gestor responsável de um detentor de certificado como responsável
+  individual e ponto focal para a implantação e manutenção do SGSO. Os requisitos de aceitação
+  dessa pessoa pela ANAC estão definidos no RBAC nº 119;
+
+  (12)
+
+  gestor responsável
+
+  : pessoa inequivocamente identificável que detém a responsabilidade primária pelo desempenho
+  do SGSO de um detentor de certificado. A identificação inequívoca do gestor responsável
+  deve estar respaldada pelos atos constitutivos da organização. Adicionalmente, o gestor
+  responsável deve ter o poder legal ou hierárquico de autorizar ou recusar quaisquer gastos
+  relacionados à condução das operações, em conformidade com os requisitos regulamentares
+  de segurança operacional;
+
+  (13)
+
+  identificação de perigos
+
+  : processo de reconhecimento e registro dos perigos inerentes às atividades de uma organização
+  que poderiam gerar um acidente, incidente ou outro evento adverso à segurança operacional;
+
+  (14)
+
+  indicador de desempenho de segurança operacional
+
+  : parâmetro mensurável utilizado para monitorar e avaliar o desempenho da segurança operacional
+  de um detentor de certificado;
+
+  (15)
+
+  meta de desempenho de segurança operacional
+
+  : objetivo de segurança operacional expresso em termos de indicadores de segurança operacional
+  a serem alcançados em um período determinado;
+
+  (16)
+
+  mitigação
+
+  : intervenção com o objetivo de atenuar ou reduzir um determinado risco;
+
+  (17)
+
+  perigo
+
+  : condição que pode causar ou contribuir para um acidente, incidente aeronáutico ou qualquer
+  outro acontecimento indesejável relacionado à segurança operacional;
+
+  (18)
+
+  plano de resposta à emergência (PRE)
+
+  : plano organizacional formalmente documentado, que define a infraestrutura requerida, processos
+  internos e externos, partes responsáveis e suas atividades, procedimentos de comunicação,
+  segurança operacional, equipamentos e ações que devem ser realizadas em reação às emergências,
+  com o propósito de assegurar a transição ordenada e eficiente de uma situação de operação
+  normal para a de operação em emergência e vice-versa;
+
+  (19)
+
+  política de segurança operacional
+
+  : intenções e diretrizes globais no tocante à segurança operacional, formalmente expressas
+  pela alta direção da organização, documentadas e disseminadas;
+
+  (20)
+
+  proativo
+
+  : qualquer método que busca identificar preventivamente riscos à segurança operacional por
+  meio da análise das atividades de uma organização, antes da ocorrência de um acidente, incidente
+  ou outro evento adverso à segurança operacional;
+
+  (21)
+
+  probabilidade
+
+  : frequência de determinada ocorrência, expressa de modo quantitativo;
+
+  (22)
+
+  promoção da segurança operacional
+
+  : disseminação de cultura focada na segurança operacional, realização de treinamentos e
+  adoção de incentivos ao compartilhamento de informações que dão suporte à implementação
+  e operação do SGSO;
+
+  (23)
+
+  reativo
+
+  : qualquer método de avaliação de riscos iniciado em resposta a uma ocorrência;
+
+  (24)
+
+  responsabilidade primária (
+
+  accountability
+
+  )
+
+  : obrigações de um gestor responsável perante a ANAC pelas ações executadas diretamente
+  por ele, por outras pessoas a ele subordinadas, ou por aqueles a quem ele tenha delegado
+  responsabilidades quanto à execução de quaisquer atividades, para os propósitos específicos
+  da segurança operacional;
+
+  (25)
+
+  risco
+
+  : avaliação das consequências ou impactos de um perigo, expressos em termos de probabilidade
+  e severidade estimadas;
+
+  (26)
+
+  segurança operacional
+
+  : estado no qual os riscos inerentes às atividades da aviação civil são avaliados, controlados
+  e mantidos em um nível aceitável;
+
+  (27)
+
+  severidade
+
+  : extensão ou gravidade da perda ou dano associado às consequências de um perigo;
+
+  (28)
+
+  sistema de gerenciamento da segurança operacional (SGSO)
+
+  : abordagem sistemática para a gestão da segurança operacional em detentor de certificado,
+  incluindo as políticas, responsabilidades, estruturas organizacionais, processos e procedimentos
+  necessários. Essa abordagem inclui o conjunto de ferramentas gerenciais e metodologias definidas,
+  estruturadas e implantadas com o intuito de embasar e auxiliar as decisões a serem tomadas
+  pelo gestor responsável do detentor de certificado, reduzindo dessa forma os riscos inerentes
+  às atividades da organização; e
+
+  (29)
+
+  tolerabilidade
+
+  : índice que relaciona níveis de riscos avaliados e tomada de decisão quanto às condições
+  necessárias ao prosseguimento ou à interrupção das atividades.'
+keywords:
+- taxi-aereo
+- operacoes
+- operacional
+- seguranca
+- atividades
+- organizacao
+- riscos
+- processo
+- risco
+- responsavel
+- gestor
+- perigo
+- certificado
+- controles
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,30 @@
+id: rbac-rbac-155-155-101-d
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.101'
+section_title: '155.101'
+subsection_id: d
+cite: 155.101(d)
+title: 155.101(d)
+text: '(d)
+
+  Para obter a proteção do nível de integridade de dados aeronáuticos de rotina, conforme
+  classificado no parágrafo 155.101(b)(1), deve ser aplicado um algoritmo CRC de 16 bit.'
+keywords:
+- seguranca-aeroportuaria
+- aeronauticos
+- algoritmo
+- aplicado
+- classificado
+- dados
+- integridade
+- nivel
+- obter
+- paragrafo
+- protecao
+- rotina
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

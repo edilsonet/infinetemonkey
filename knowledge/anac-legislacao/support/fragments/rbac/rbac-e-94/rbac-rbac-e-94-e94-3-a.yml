@@ -1,0 +1,180 @@
+id: rbac-rbac-e-94-e94-3-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.3
+section_title: Definições
+subsection_id: a
+cite: E94.3(a)
+title: E94.3(a)
+text: '(a) Para os propósitos deste Regulamento Especial são válidas as definições abaixo:
+
+  (1)
+
+  aeromodelo
+
+  significa toda aeronave não tripulada com finalidade de recreação;
+
+  (2)
+
+  Aeronave Remotamente Pilotada
+
+  (
+
+  Remotely-Piloted Aircraft - RPA
+
+  ) significa a aeronave não tripulada pilotada a partir de uma estação de pilotagem remota
+  com finalidade diversa de recreação;
+
+  (3)
+
+  área distante de terceiros
+
+  significa área, determinada pelo operador, considerada a partir de certa distância horizontal
+  da aeronave não tripulada em operação, na qual pessoas não envolvidas e não anuentes no
+  solo não estão submetidas a risco inaceitável à segurança. Em nenhuma hipótese a distância
+  da aeronave não tripulada poderá ser inferior a 30 metros horizontais de pessoas não envolvidas
+  e não anuentes com a operação. O limite de 30 metros não precisa ser observado caso haja
+  uma barreira mecânica suficientemente forte para isolar e proteger as pessoas não envolvidas
+  e não anuentes na eventualidade de um acidente;
+
+  Nota
+
+  : O limite de 30m, neste caso, é critério para a aplicação das regras da ANAC. O acesso
+  ao espaço aéreo é de competência do DECEA, o qual poderá estabelecer limites inferiores
+  de maior magnitude.
+
+  (4)
+
+  Estação de Pilotagem Remota
+
+  (
+
+  Remote Pilot Station - RPS
+
+  ) significa o componente do RPAS contendo os equipamentos necessários à pilotagem da RPA;
+
+  (5)
+
+  observador de RPA
+
+  significa pessoa que, sem o auxílio de equipamentos ou lentes (exceto as corretivas), auxilia
+  o piloto remoto na condução segura do voo, mantendo contato visual direto com a RPA;
+
+  (6)
+
+  Operação Além da Linha de Visada Visual
+
+  (
+
+  Beyond Visual Line of Sight - BVLOS operation
+
+  ) significa a operação que não atenda às condições VLOS ou EVLOS;
+
+  (7)
+
+  operação autônoma
+
+  significa a operação normal de uma aeronave não tripulada durante a qual não é possível
+  a intervenção do piloto remoto no voo ou parte dele;
+
+  (8)
+
+  Operação em Linha de Visada Visual
+
+  (
+
+  Visual Line of Sight - VLOS operation
+
+  ) significa a operação em condições meteorológicas visuais (VMC), na qual o piloto, sem
+  o auxílio de observadores de RPA, mantém o contato visual direto (sem auxílio de lentes
+  ou outros equipamentos) com a aeronave remotamente pilotada, de modo a conduzir o voo com
+  as responsabilidades de manter as separações previstas com outras aeronaves, bem como de
+  evitar colisões com aeronaves e obstáculos;
+
+  (9)
+
+  Operação em Linha de Visada Visual Estendida
+
+  (
+
+  Extended Visual Line of Sight - EVLOS operation
+
+  ) significa a operação em VMC, na qual o piloto remoto, sem auxílio de lentes ou outros
+  equipamentos, não é capaz de manter o contato visual direto com a RPA, necessitando dessa
+  forma do auxílio de observadores de RPA para conduzir o voo com as responsabilidades de
+  manter as separações previstas com outras aeronaves, bem como de evitar colisões com aeronaves
+  e obstáculos, seguindo as mesmas regras de uma operação VLOS.;
+
+  (10)
+
+  operação remotamente pilotada
+
+  significa a operação normal de uma aeronave não tripulada durante a qual é possível a intervenção
+  do piloto remoto em qualquer fase do voo, sendo admitida a possibilidade de voo autônomo
+  somente em casos de falha do enlace de comando e controle, sendo obrigatória a presença
+  constante do piloto remoto, mesmo no caso da referida falha do enlace de comando e controle;
+
+  (11)
+
+  pessoa anuente
+
+  significa uma pessoa cuja presença não é indispensável para que ocorra uma operação de aeronave
+  não tripulada bem sucedida, mas que por vontade própria e por sua conta e risco concorde,
+  expressamente, que uma aeronave não tripulada opere perto de sua própria pessoa ou de seus
+  tutelados legais sem observar os critérios das áreas distantes de terceiros;
+
+  Nota
+
+  : Considerando o princípio da autonomia e que o cidadão tem o direito de assumir e administrar
+  o próprio risco quando somente ele ou seus tutelados legais (no caso de menores de idade)
+  estarão expostos, a ANAC permite a operação de aeronaves não tripuladas perto de pessoas
+  sem observar os critérios das áreas distantes de terceiros,
+
+  desde que essas pessoas tenham dado expressamente a sua anuência, manifestando dessa forma
+  a sua vontade
+
+  . Contudo, a ANAC esclarece àqueles que livremente optarem por dar essa anuência que não
+  é possível garantir um nível de risco aceitável de segurança operacional e que o controle
+  da exposição a esse risco é de sua inteira responsabilidade.
+
+  (12)
+
+  pessoa envolvida
+
+  significa uma pessoa cuja presença é indispensável para que ocorra uma operação de aeronave
+  não tripulada bem sucedida;
+
+  (13)
+
+  piloto remoto
+
+  é a pessoa que manipula os controles de voo de uma aeronave não tripulada; e
+
+  (14)
+
+  Sistema de Aeronave Remotamente Pilotada
+
+  (
+
+  Remotely-Piloted Aircraft System - RPAS
+
+  ) significa a RPA, sua(s) RPS, o enlace de pilotagem e qualquer outro componente, como especificado
+  no seu projeto.'
+keywords:
+- operacao
+- aeronave
+- significa
+- tripulada
+- visual
+- pessoa
+- piloto
+- qual
+- remoto
+- aeronaves
+- auxilio
+- pessoas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

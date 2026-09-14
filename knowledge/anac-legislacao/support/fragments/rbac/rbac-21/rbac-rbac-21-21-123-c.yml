@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-123-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.123'
+section_title: Produção sob certificado de tipo
+subsection_id: c
+cite: 21.123(c)
+title: 21.123(c)
+text: (c) manter registros da conclusão de todas as inspeções e testes exigidos pelos parágrafos
+  21.127, 21.128 e 21.129 por pelo menos 5 anos para os produtos fabricados sob a aprovação
+  e por pelo menos 10 anos para componentes críticos identificados no parágrafo 45.15(c) do
+  RBAC 45;
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- anos
+- menos
+- aprovacao
+- certificado
+- componentes
+- conclusao
+- criticos
+- exigidos
+- fabricados
+- identificados
+- inspecoes
+- manter
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

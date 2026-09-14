@@ -1,0 +1,34 @@
+id: rbac-rbac-21-21-31-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.31'
+section_title: Projeto de tipo
+subsection_id: c
+cite: 21.31(c)
+title: 21.31(c)
+text: (c) seção de limitações de aeronavegabilidade das instruções para aeronavegabilidade
+  continuada, como requerido pelos RBAC 23, 25, 26, 27, 29, 31, 33 e 35, ou como de outra
+  forma requerido pela ANAC, ou, ainda, como especificado nos critérios de aeronavegabilidade
+  aplicáveis para classes especiais de aeronaves de acordo com a seção 21.17(b);
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- requerido
+- secao
+- acordo
+- aeronaves
+- aplicaveis
+- classes
+- continuada
+- criterios
+- especiais
+- especificado
+- forma
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

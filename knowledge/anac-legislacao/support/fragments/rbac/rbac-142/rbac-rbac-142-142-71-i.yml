@@ -1,0 +1,46 @@
+id: rbac-rbac-142-142-71-i
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.71'
+section_title: Requisitos para emissão, conservação e envio de registros à ANAC
+subsection_id: i
+cite: 142.71(i)
+title: 142.71(i)
+text: '(i) O gestor responsável do detentor de certificado de CTAC deve coletar dados relativos
+  à sua
+
+  segurança operacional e armazená-los por cinco anos. Dentre os referidos dados deve constar:
+
+  (1) quantidade de relatos da aviação civil recebidos;
+
+  (2) dificuldades de serviço encontradas;
+
+  (3) ocorrências anormais, ocorrências de solo, incidentes e acidentes;
+
+  (4) atividades educativas e promocionais realizadas;
+
+  (5) necessidades dos responsáveis para a realização de suas funções;
+
+  (6) supervisão das atividades de segurança; e
+
+  (7) Recomendações de Segurança Operacional (RSO) recebidas do órgão de investigação de
+
+  acidentes e incidentes, indicando quais foram cumpridas.'
+keywords:
+- seguranca
+- acidentes
+- atividades
+- dados
+- incidentes
+- ocorrencias
+- operacional
+- anormais
+- anos
+- armazena
+- aviacao
+- certificado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-7-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.7
+section_title: Sistemas de controle
+subsection_id: a
+cite: A135.7(a)
+title: A135.7(a)
+text: (a) Compensadores com comando elétrico. O avião deve atender aos requisitos do RBAC
+  nº 23 e, em adição, deve ser demonstrado que ele é seguramente controlável e que o piloto
+  pode executar todas as manobras e operações necessárias para efetuar um pouso seguro após
+  qualquer disparo provável do compensador elétrico, que possa ser razoavelmente esperado
+  em serviço, considerando um adequado atraso do piloto após o reconhecimento do disparo do
+  compensador. Essa demonstração deve ser conduzida nos pesos e centros de gravidade críticos
+  do avião.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- compensador
+- disparo
+- eletrico
+- piloto
+- a135
+- adequado
+- adicao
+- atender
+- atraso
+- centros
+- comando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

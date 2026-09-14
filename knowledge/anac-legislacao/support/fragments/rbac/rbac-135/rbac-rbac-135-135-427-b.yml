@@ -1,0 +1,82 @@
+id: rbac-rbac-135-135-427-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.427'
+section_title: Requisitos do manual
+subsection_id: b
+cite: 135.427(b)
+title: 135.427(b)
+text: '(b) O detentor de certificado deve colocar em seu manual os programas requeridos pela
+  seção 135.425, os quais devem ser seguidos na execução de manutenção, manutenção preventiva
+  e alterações das aeronaves do detentor de certificado, incluindo células, motores, hélices,
+  rotores, equipamentos normais e de emergência. Esses programas devem incluir, pelo menos,
+  o seguinte:
+
+  (1) os métodos de execução de alterações de rotina ou não (exceto inspeções obrigatórias);
+  manutenção preventiva, reconstrução e alteração;
+
+  (2) a designação dos itens de manutenção e de alterações que exigem inspeções obrigatórias,
+  incluindo pelo menos aqueles que podem resultar em falha, mau funcionamento ou defeito,
+  afetando a operação segura da aeronave caso não sejam executados apropriadamente ou se peças
+  ou materiais adequados não forem utilizados;
+
+  (3) os métodos de executar inspeções obrigatórias e a designação, pelo título ocupacional,
+  do pessoal autorizado a executar cada inspeção obrigatória;
+
+  (4) procedimentos para a reinspeção do trabalho executado em função de defeitos constatados
+  em inspeções obrigatórias anteriores;
+
+  (5) procedimentos, padrões e limites necessários para inspeções obrigatórias e para a aceitação
+  ou rejeição de itens que requeiram inspeção, assim como para as inspeções periódicas e calibração
+  de ferramentas de precisão, dispositivos de medição e equipamentos de teste;
+
+  (6) procedimentos que assegurem que todas as inspeções obrigatórias foram executadas;
+
+  (7) instruções para evitar que uma pessoa, que tenha executado um determinado trabalho,
+  execute uma inspeção obrigatória requerida pelo referido trabalho;
+
+  (8) instruções e procedimentos para evitar que a decisão de um inspetor, com respeito a
+  determinada inspeção obrigatória, possa ser modificada por pessoas outras que não o seu
+  supervisor direto ou uma pessoa do nível de controle administrativo responsável pelo gerenciamento
+  geral não só da manutenção como das inspeções;
+
+  (9) procedimentos para assegurar as inspeções obrigatórias e os serviços de manutenção,
+  manutenção preventiva e alteração, que não tenham sido completados em função de interrupção
+  do trabalho, sejam adequadamente finalizados antes da aprovação da aeronave para retorno
+  ao serviço;
+
+  (10) as tarefas de manutenção organizadas pelos respectivos intervalos em que serão executadas,
+  considerando-se antecipadamente a utilização da aeronave;
+
+  (11) quando aplicável, o programa de manutenção do operador deve incluir o programa de integridade
+  estrutural continuada da aeronave;
+
+  (12) quando aplicável, as descrições do programa de confiabilidade e monitoramento de condição
+  para os sistemas da aeronave, componentes e grupo motopropulsor;
+
+  (13) identificação das tarefas de manutenção mandatórias especificadas no projeto de tipo
+  da aeronave; e
+
+  (14) o projeto e a aplicação do programa de manutenção devem incorporar os princípios de
+  fatores humanos.'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- inspecoes
+- obrigatorias
+- aeronave
+- procedimentos
+- inspecao
+- programa
+- trabalho
+- alteracoes
+- obrigatoria
+- preventiva
+- alteracao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,46 @@
+id: rbac-rbac-135-a135-24-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.24
+section_title: Proteção do grupo motopropulsor contra fogo
+subsection_id: a
+cite: A135.24(a)
+title: A135.24(a)
+text: '(a) Sistema detector de fogo. Para aviões com motores turboélice aplica-se o seguinte:
+
+  (1) deve haver meios que assegurem a pronta detecção de um incêndio em um compartimento
+  de motor. Um sensor de superaquecimento, em cada saída de ar de arrefecimento do motor,
+  é um método aceitável de atender a este requisito;
+
+  (2) cada detector de fogo deve ser construído e instalado de modo a suportar as cargas de
+  vibração, de inércia e outras a que possa estar sujeito em operação;
+
+  (3) nenhum detector de fogo pode ser afetado por qualquer óleo, água e outros líquidos e
+  vapores que possam estar presentes;
+
+  (4) deve haver meios que permitam a tripulação de voo verificar, em voo, o funcionamento
+  de cada circuito elétrico de detecção de fogo; e
+
+  (5) a fiação e outros componentes de cada sistema de detecção de fogo, colocados em uma
+  zona de fogo, devem ser pelo menos resistentes ao fogo.'
+keywords:
+- taxi-aereo
+- operacoes
+- fogo
+- cada
+- deteccao
+- detector
+- estar
+- haver
+- meios
+- motor
+- outros
+- sistema
+- a135
+- aceitavel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

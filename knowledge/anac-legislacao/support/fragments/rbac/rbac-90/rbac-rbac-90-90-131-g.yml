@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-131-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.131'
+section_title: Requisitos gerais
+subsection_id: g
+cite: 90.131(g)
+title: 90.131(g)
+text: '(g) Sempre que a ANAC considerar que, para manter a adequabilidade de um SGSO de um
+  órgão ou ente público, são necessárias revisões, a UAP deverá, após ser notificado pela
+  ANAC, fazer todas as modificações consideradas necessárias dentro do prazo de 30 (trinta)
+  dias contados a partir da data de notificação por parte da ANAC. Este prazo poderá ser prorrogável
+  por mais 30 (trinta) dias desde que devidamente motivado.
+
+  (1) Caso a ANAC considere que exista algum fator que exija uma ação imediata no interesse
+  da segurança operacional, a ANAC poderá, de forma motivada, determinar uma revisão imediata
+  do SGSO do órgão ou ente público.'
+keywords:
+- regras-de-voo
+- operacoes
+- dias
+- ente
+- imediata
+- necessarias
+- orgao
+- prazo
+- publico
+- sgso
+- trinta
+- acao
+- adequabilidade
+- algum
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

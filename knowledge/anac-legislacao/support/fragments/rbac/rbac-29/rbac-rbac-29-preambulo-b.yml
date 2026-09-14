@@ -1,0 +1,85 @@
+id: rbac-rbac-29-preambulo-b
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: b
+cite: preambulo(b)
+title: preambulo(b)
+text: '(b)
+
+  For elevated heliports, the takeoff distance is the horizontal distance along the takeoff
+  path from the
+
+  start of the takeoff to the point at which the rotorcraft attains and maintains a speed
+  of at least VTOSS and
+
+  establishes a positive rate of climb, assuming the critical engine failure occurs at the
+  engine failure point
+
+  prior to the takeoff decision point.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.59(a)(4)
+
+  14 CFR 29.61(b) (enhanced display)
+
+  page 17 of 167
+
+
+  § 29.62 Rejected takeoff: Category A.
+
+  The rejected takeoff distance and procedures for each condition where takeoff is approved
+  will be established with -
+
+  § 29.63 Takeoff: Category B.
+
+  The horizontal distance required to take off and climb over a 50-foot obstacle must be established
+  with the most
+
+  unfavorable center of gravity. The takeoff may be begun in any manner if -
+
+  § 29.64 Climb: General.
+
+  Compliance with the requirements of §§ 29.65 and 29.67 must be shown at each weight, altitude,
+  and temperature
+
+  within the operational limits established for the rotorcraft and with the most unfavorable
+  center of gravity for each
+
+  configuration. Cowl flaps, or other means of controlling the engine-cooling air supply,
+  will be in the position that
+
+  provides adequate cooling at the temperatures and altitudes for which certification is requested.
+
+  § 29.65 Climb: All engines operating.
+
+  (Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a),
+  1421, 1423, 1424, and
+
+  1425); and sec. 6(c), Dept. of Transportation Act (49 U.S.C. 1655(c)))
+
+  § 29.67 Climb: One engine inoperative (OEI).'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- takeoff
+- climb
+- distance
+- engine
+- with
+- category
+- each
+- established
+- point
+- center
+- cooling
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

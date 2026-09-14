@@ -1,0 +1,41 @@
+id: rbac-rbac-121-121-93-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.93'
+section_title: Requisitos de rotas. Geral
+subsection_id: a
+cite: 121.93(a)
+title: 121.93(a)
+text: '(a) Cada detentor de certificado conduzindo operações regulares em busca de aprovação
+  de uma rota deve demonstrar:
+
+  (1) que está habilitado a conduzir satisfatoriamente operações regulares entre cada aeródromo
+  regular, ou de reabastecimento, ao longo dessa rota ou segmento de rota; e
+
+  (2) que as facilidades e serviços requeridos por 121.97 até 121.107 estão disponíveis e
+  são adequados às operações pretendidas.
+
+  A ANAC poderá aprovar uma rota fora do espaço aéreo controlado, desde que considere que
+  a densidade do tráfego é tal que um nível adequado de segurança pode ser assegurado.
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)'
+keywords:
+- transporte-aereo
+- operacoes
+- rota
+- cada
+- regulares
+- adequado
+- adequados
+- aereo
+- aerodromo
+- aprovacao
+- aprovar
+- assegurado
+- busca
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

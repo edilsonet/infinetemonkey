@@ -1,0 +1,38 @@
+id: rbac-rbac-121-121-289-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.289'
+section_title: Alarme sonoro do trem de pouso
+subsection_id: b
+cite: 121.289(b)
+title: 121.289(b)
+text: '(b) O sistema de alarme requerido pelo parágrafo (a) desta seção:
+
+  (1) não pode ter comando manual de cancelamento;
+
+  (2) deve existir adicionalmente ao dispositivo acionado pela manete e ser instalado de acordo
+  com os requisitos normais de certificação, e
+
+  (3) pode utilizar qualquer parte do sistema comandado pelas manetes, inclusive o dispositivo
+  sonoro.'
+keywords:
+- transporte-aereo
+- operacoes
+- alarme
+- dispositivo
+- pode
+- sistema
+- sonoro
+- acionado
+- acordo
+- adicionalmente
+- cancelamento
+- certificacao
+- comandado
+- comando
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

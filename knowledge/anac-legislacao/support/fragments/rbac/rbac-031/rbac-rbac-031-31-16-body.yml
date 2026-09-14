@@ -1,0 +1,37 @@
+id: rbac-rbac-031-31-16-body
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.16'
+section_title: '31.16'
+subsection_id: body
+cite: '31.16'
+title: '31.16'
+text: '31.16
+
+  Peso vazio.
+
+
+  O peso vazio deve ser determinado pesando o balão
+
+  com os equipamentos instalados, mas sem o gás de
+
+  sustentação ou combustível para o aquecedor.'
+keywords:
+- aeronavegabilidade
+- baloes
+- peso
+- vazio
+- aquecedor
+- balao
+- combustivel
+- determinado
+- equipamentos
+- instalados
+- pesando
+- sustentacao
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

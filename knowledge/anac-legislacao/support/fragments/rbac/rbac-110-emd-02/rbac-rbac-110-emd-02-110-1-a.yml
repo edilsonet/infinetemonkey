@@ -1,0 +1,43 @@
+id: rbac-rbac-110-emd-02-110-1-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.1'
+section_title: Aplicabilidade
+subsection_id: a
+cite: 110.1(a)
+title: 110.1(a)
+text: '(a)Este regulamento se aplica a:
+
+  (1) operadores de aeródromos que executam atividade AVSEC listada no Apêndice A deste Regulamento,
+  segundo requisito presente em regulamentação específica da ANAC;
+
+  (2) operadores aéreos que executam atividade AVSEC listada no Apêndice A deste Regulamento,
+  segundo requisito presente em regulamentação específica da ANAC;
+
+  (3) agentes de carga aérea acreditados que executam atividade AVSEC listada no Apêndice
+  A deste Regulamento, segundo requisito presente em regulamentação específica da ANAC;
+
+  (4) centros de instrução; e
+
+  (5) profissionais AVSEC.'
+keywords:
+- carga
+- operacoes
+- avsec
+- regulamento
+- apendice
+- atividade
+- deste
+- especifica
+- executam
+- listada
+- presente
+- regulamentacao
+- requisito
+- segundo
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-337-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.337'
+section_title: 'Qualificações: examinador em aeronave e examinador em FSTD e/ou outro dispositivo
+  de treinamento aprovado pela ANAC'
+subsection_id: f
+cite: 135.337(f)
+title: 135.337(f)
+text: '(f) Um examinador em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC
+  deve realizar o seguinte:
+
+  (1) voar ao menos 2 segmentos de voo como tripulante requerido para o tipo, classe ou categoria
+  de aeronave envolvida dentro dos 12 meses precedendo a execução de qualquer serviço de examinador
+  em um FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC; ou
+
+  (2) completar satisfatoriamente um programa aprovado de observação em rota dentro do período
+  estabelecido pelo programa e que deve preceder o desempenho de qualquer serviço de examinador
+  em um FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- aprovado
+- examinador
+- dispositivo
+- fstd
+- outro
+- treinamento
+- aeronave
+- dentro
+- programa
+- servico
+- categoria
+- classe
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

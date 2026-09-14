@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-115-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.115'
+section_title: Manipulação dos controles
+subsection_id: body
+cite: '135.115'
+title: Manipulação dos controles
+text: '135.115 Manipulação dos controles
+
+  O piloto em comando não pode permitir que uma pessoa manipule os controles de voo de uma
+  aeronave, durante voos conduzidos segundo este Regulamento, nem uma pessoa pode manipular
+  esses controles, exceto se essa pessoa for:'
+keywords:
+- taxi-aereo
+- operacoes
+- controles
+- manipulacao
+- pessoa
+- pode
+- aeronave
+- comando
+- conduzidos
+- durante
+- esses
+- exceto
+- manipular
+- manipule
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

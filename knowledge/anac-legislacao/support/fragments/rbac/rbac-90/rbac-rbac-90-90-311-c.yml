@@ -1,0 +1,24 @@
+id: rbac-rbac-90-90-311-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.311'
+section_title: Requisitos gerais
+subsection_id: c
+cite: 90.311(c)
+title: 90.311(c)
+text: (c) É vedado o voo tático à baixa altura sob IFR ou sob IMC.
+keywords:
+- regras-de-voo
+- operacoes
+- altura
+- baixa
+- gerais
+- requisitos
+- tatico
+- vedado
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

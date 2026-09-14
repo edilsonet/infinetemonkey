@@ -1,0 +1,28 @@
+id: rbac-rbac-e-94-e94-405-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.405
+section_title: Projeto do RPAS - Geral
+subsection_id: b
+cite: E94.405(b)
+title: E94.405(b)
+text: (b) O requerente deve demonstrar que a operação do enlace de comando e controle é adequada
+  à distância máxima pretendida para a operação da RPA.
+keywords:
+- operacao
+- adequada
+- comando
+- controle
+- demonstrar
+- distancia
+- enlace
+- geral
+- maxima
+- pretendida
+- projeto
+- requerente
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

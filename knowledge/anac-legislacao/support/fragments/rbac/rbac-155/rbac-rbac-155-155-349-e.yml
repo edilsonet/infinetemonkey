@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-349-e
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.349'
+section_title: Sistema de iluminação da área de aproximação final e decolagem (FATO)
+subsection_id: e
+cite: 155.349(e)
+title: 155.349(e)
+text: '(e)
+
+  As luzes não podem exceder uma altura de 25 cm acima da superfície ou devem ser embutidas,
+  caso sejam consideradas perigo às operações de helicópteros pelo operador ou pela ANAC.'
+keywords:
+- seguranca-aeroportuaria
+- acima
+- altura
+- aproximacao
+- area
+- caso
+- consideradas
+- decolagem
+- embutidas
+- exceder
+- fato
+- final
+- helicopteros
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

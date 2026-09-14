@@ -1,0 +1,33 @@
+id: rbac-rbac-21-21-221-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.221'
+section_title: Certificado de aeronavegabilidade provisório Classe I
+subsection_id: c
+cite: 21.221(c)
+title: 21.221(c)
+text: (c) O fabricante da aeronave deve fornecer uma declaração assegurando que a mesma está
+  conforme o projeto de tipo correspondente ao certificado de tipo provisório e foi considerada
+  por ele como estando em condições de operar com segurança, dentro das limitações aplicáveis.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- provisorio
+- tipo
+- aeronave
+- aplicaveis
+- assegurando
+- classe
+- condicoes
+- considerada
+- correspondente
+- declaracao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

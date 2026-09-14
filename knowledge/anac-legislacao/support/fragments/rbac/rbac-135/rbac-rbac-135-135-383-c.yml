@@ -1,0 +1,44 @@
+id: rbac-rbac-135-135-383-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.383'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações em rota
+  com dois motores inoperantes'
+subsection_id: c
+cite: 135.383(c)
+title: 135.383(c)
+text: '(c) Aviões de tipo certificado após 29 de agosto de 1959 (SR 422B). Somente é permitido
+  a uma pessoa operar um grande avião categoria transporte ao longo de uma rota se:
+
+  (1) não existir algum ponto ao longo da rota pretendida que fique a mais de 90 minutos (com
+  todos os motores operando em potência de cruzeiro) de um aeródromo que atenda ao previsto
+  na seção 135.387 deste Regulamento; ou
+
+  (2) seu peso, considerando os dados da trajetória líquida de voo em rota com dois motores
+  inoperantes do manual de voo do avião, permitir ao avião voar do ponto onde se assume a
+  falha simultânea dos dois motores até um aeródromo que atenda ao previsto na seção 135.387
+  deste Regulamento, com uma trajetória líquida de voo (considerando as temperaturas ambiente
+  previstas ao longo da trajetória) livrando verticalmente por pelo menos 2000 pés todas as
+  elevações e obstruções dentro de uma faixa de 5 milhas terrestres para cada lado da trajetória
+  pretendida. Para os propósitos deste parágrafo, é assumido que:'
+keywords:
+- taxi-aereo
+- operacoes
+- motores
+- rota
+- trajetoria
+- aviao
+- deste
+- dois
+- longo
+- aerodromo
+- atenda
+- avioes
+- categoria
+- considerando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

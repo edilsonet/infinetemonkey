@@ -1,0 +1,43 @@
+id: rbac-rbac-121-121-177-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.177'
+section_title: 'Aviões com motores convencionais: limitações de decolagem'
+subsection_id: a
+cite: 121.177(a)
+title: 121.177(a)
+text: '(a) Ninguém pode decolar com um avião com motores convencionais a menos que seja possível:
+
+  (1) parar o avião com segurança na pista, como mostrado pelos dados de aceleração e parada,
+  a qualquer tempo durante a decolagem até atingir a velocidade de falha do motor crítico;
+
+  (2) se o motor crítico falhar a qualquer tempo após o avião atingir a velocidade de falha
+  do motor crítico, V1, continuar a decolagem e alcançar uma altura de 50 pés, como indicado
+  pelos dados de trajetória de decolagem, antes de passar pelo fim da pista: e
+
+  (3) livrar todos os obstáculos por, pelo menos, 50 pés verticalmente (como indicado pelos
+  dados de trajetória de decolagem) ou 200 pés horizontalmente dentro dos limites do aeródromo
+  e 300 pés horizontalmente após tais limites, sem inclinação antes de alcançar a altura de
+  50 pés (como indicado pelos dados de trajetória de decolagem) e, após, com inclinação não
+  superior a 15 graus.'
+keywords:
+- transporte-aereo
+- operacoes
+- decolagem
+- dados
+- pelos
+- aviao
+- critico
+- indicado
+- motor
+- trajetoria
+- alcancar
+- altura
+- atingir
+- convencionais
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

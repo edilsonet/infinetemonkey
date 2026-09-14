@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-709-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.709'
+section_title: Garantia da segurança operacional
+subsection_id: a
+cite: 135.709(a)
+title: 135.709(a)
+text: '(a) Processo de monitoramento e medição do desempenho da segurança operacional.
+
+  (1) O detentor de certificado deve desenvolver e manter os meios necessários para monitorar
+  e medir o desempenho de segurança operacional da organização e para validar a efetividade
+  de seus controles de risco à segurança operacional.
+
+  (2) O desempenho de segurança operacional do detentor de certificado deve ser monitorado
+  e medido em relação a indicadores e metas de desempenho de segurança operacional de seu
+  SGSO.'
+keywords:
+- taxi-aereo
+- operacoes
+- operacional
+- seguranca
+- desempenho
+- certificado
+- detentor
+- controles
+- desenvolver
+- efetividade
+- garantia
+- indicadores
+- manter
+- medicao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

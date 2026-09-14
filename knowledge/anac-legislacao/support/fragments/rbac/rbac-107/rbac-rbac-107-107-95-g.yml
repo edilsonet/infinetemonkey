@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-95-g
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.95'
+section_title: Controle de Credenciais e Autorizações
+subsection_id: g
+cite: 107.95(g)
+title: 107.95(g)
+text: (g) A emissão de vias adicionais de credenciais e autorizações (2ª via, 3ª via, etc.)
+  deve ser objeto de controle específico pelo operador do aeródromo, devendo no processo constar
+  justificativa pertinente e avaliação criteriosa por parte do setor responsável pela concessão.
+keywords:
+- seguranca
+- aeroporto
+- autorizacoes
+- controle
+- credenciais
+- adicionais
+- aerodromo
+- avaliacao
+- concessao
+- constar
+- criteriosa
+- devendo
+- emissao
+- especifico
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

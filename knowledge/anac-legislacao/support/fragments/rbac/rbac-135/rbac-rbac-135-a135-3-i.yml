@@ -1,0 +1,72 @@
+id: rbac-rbac-135-a135-3-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.3
+section_title: Desempenho
+subsection_id: i
+cite: A135.3(i)
+title: A135.3(i)
+text: '(i) A distância de aceleração e parada é a soma das distâncias necessárias para:
+
+  (A) acelerar o avião de uma posição estática até V1; e
+
+  (B) trazer o avião a uma parada total desde o ponto no qual V1 foi atingida, assumindo-se
+  que, no caso de falha de motor, a falha do motor crítico é reconhecida pelo piloto na velocidade
+  V1.
+
+  (ii) Podem ser utilizados outros meios de desaceleração do avião, além dos freios de roda,
+  para determinar a distância de aceleração e parada, se esses meios forem disponíveis com
+  o motor crítico inoperante e:
+
+  (A) forem seguros e confiáveis;
+
+  (B) forem utilizados de modo que resultados consistentes possam ser esperados sob condições
+  normais de operação; e
+
+  (C) não requeiram, quando utilizados, habilidade excepcional de pilotagem para controlar
+  o avião.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (4) Distância de decolagem com todos os motores operando. A distância de decolagem com todos
+  os motores operando é a distância horizontal requerida para decolar e subir para uma altura
+  de 15m (50 pés) acima da superfície de decolagem segundo os procedimentos estabelecidos
+  no RBAC nº 23.
+
+  (5) Decolagem com um motor inoperante. A decolagem com um motor inoperante determina o peso,
+  para cada altitude e temperatura dentro dos limites operacionais estabelecidos para o avião,
+  no qual o mesmo, após a falha do motor crítico na V1 determinada segundo o parágrafo (b)(2)
+  desta seção, tem capacidade para decolar e subir com velocidade não menor que V2 para uma
+  altura 1000 pés acima da superfície de decolagem e obter a velocidade e a configuração nas
+  quais foi demonstrada a conformidade com o gradiente de subida em rota com um motor inoperante
+  especificado no parágrafo (c)(3) desta seção.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (6) Dados da trajetória de voo de decolagem com um motor inoperante. Os dados da trajetória
+  de voo de decolagem com um motor inoperante consistem nos dados da trajetória de decolagem
+  desde o ponto inicial estacionário até um ponto, na decolagem, no qual o avião atinge 1000
+  pés acima da superfície de decolagem, de acordo com o parágrafo (b)(5) desta seção.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- motor
+- aviao
+- inoperante
+- distancia
+- acima
+- critico
+- dada
+- dados
+- desta
+- falha
+- forem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

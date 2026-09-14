@@ -1,0 +1,128 @@
+id: rbac-rbac-36-a36-9-j
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: of this ape
+subsection_id: j
+cite: A36.9(j)
+title: A36.9(j)
+text: '(j) Step 10: Designate the largest of the tone corection factors, determined in Step
+  9,
+
+  as C(k). (An
+
+  example of the tone corection procedure is given in the curent advisory circular for this
+  part).
+
+  Tone
+
+  - corected perceived noise levels PNLT(k) must be determined by ading the C(k) values to
+
+  coresponding PNL(k) values, that is:
+
+
+  PNLT(
+
+  k )=PN
+
+  L(
+
+  k )+
+
+  C
+
+  ( k )
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  39
+
+  / 121
+
+
+  For any i
+
+  - th one
+
+  - third octave band, at any k
+
+  - th increment of time, for which the tone corection
+
+  factor is suspected to result from something other than (or in adition to) an actual tone
+  (or any
+
+  spectral iregularity other than airplane no
+
+  ise), an aditional analysis may be made using a filter
+
+  with a bandwidth narower than one
+
+  - third of an octave. If the narow band analysis coroborates
+
+  these suspicions, then a revised value f
+
+  determi
+
+  ned from the narow band analysis and used to compute a revised tone corection factor for
+
+  that particular one
+
+  - third octave band. Other methods of rejecting spurious tone corections may be
+
+  aproved.
+
+
+  A36.4.3.2
+
+  The tone corection procedure wil
+
+  underestimate EPNL if an important tone is of a
+
+  frequency such that it is recorded in two adjacent one
+
+  - third octave bands. An aplicant must
+
+  demonstrate that either:'
+keywords:
+- ruido
+- meio-ambiente
+- tone
+- corection
+- band
+- octave
+- that
+- third
+- analysis
+- other
+- than
+- determined
+- factor
+- from
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

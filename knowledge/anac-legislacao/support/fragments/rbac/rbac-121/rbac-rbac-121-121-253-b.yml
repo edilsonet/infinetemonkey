@@ -1,0 +1,37 @@
+id: rbac-rbac-121-121-253-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.253'
+section_title: Proteção contra fogo em motores
+subsection_id: b
+cite: 121.253(b)
+title: 121.253(b)
+text: '(b) As zonas designadas de fogo são:
+
+  (1) seção de acessórios do motor;
+
+  (2) instalações onde não existe isolamento entre o motor e o compartimento de acessórios;
+
+  (3) áreas que contêm unidades auxiliares de força, aquecedores queimando combustível e outros
+  equipamentos de combustão.'
+keywords:
+- transporte-aereo
+- operacoes
+- acessorios
+- fogo
+- motor
+- aquecedores
+- areas
+- auxiliares
+- combustao
+- combustivel
+- compartimento
+- contem
+- contra
+- designadas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

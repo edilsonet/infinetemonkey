@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-409-h
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: h
+cite: E94.409(h)
+title: E94.409(h)
+text: (h) o projeto dos comandos e sistemas de comando deve minimizar a possibilidade de travamento
+  e operação inadvertida, incluindo prevenção à montagem incorreta e engajamento não intencional
+  de dispositivos de travamento de superfícies de controle;
+keywords:
+- projeto
+- travamento
+- classe
+- comando
+- comandos
+- controle
+- dispositivos
+- engajamento
+- inadvertida
+- incluindo
+- incorreta
+- intencional
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

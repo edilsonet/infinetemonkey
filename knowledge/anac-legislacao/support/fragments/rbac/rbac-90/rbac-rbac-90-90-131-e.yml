@@ -1,0 +1,63 @@
+id: rbac-rbac-90-90-131-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.131'
+section_title: Requisitos gerais
+subsection_id: e
+cite: 90.131(e)
+title: 90.131(e)
+text: '(e) Cada órgão ou ente público deverá definir e manter o SGSO que estabeleça:
+
+  (1) a política e os objetivos do órgão ou ente público para a segurança operacional;
+
+  (2) as metas e os indicadores de desempenho da segurança operacional que permitam avaliar
+  o alcance dos objetivos da segurança operacional;
+
+  (3) a estrutura organizacional e os responsáveis pela implantação, manutenção e melhoria
+  contínua do sistema;
+
+  (4) as atribuições dos responsáveis pela implantação e manutenção do SGSO;
+
+  (5) a identificação dos perigos com a respectiva avaliação dos riscos;
+
+  (6) a aplicação de ações corretivas e preventivas a partir dos riscos avaliados;
+
+  (7) a supervisão permanente das atividades do órgão, de modo a garantir a segurança operacional;
+
+  (8) o planejamento e a realização periódica de avaliações internas ou auditorias do SGSO,
+  com fins à adequação ao contexto operacional do órgão ou ente público e a melhoria contínua
+  dos níveis de desempenho da segurança operacional;
+
+  (9) que o pessoal envolvido com atividades sensíveis para a segurança operacional possua
+  os conhecimentos necessários e compatíveis com suas respectivas atribuições;
+
+  (10) a comunicação dos resultados relativos ao desempenho da segurança operacional e o compartilhamento
+  das informações com fins a aprimorar a cultura da segurança operacional do órgão ou ente
+  público;
+
+  (11) os registros das ações do desenvolvimento, da operacionalização, da manutenção e da
+  melhoria contínua do SGSO; e
+
+  (12) os treinamentos necessários ao funcionamento efetivo do SGSO, com a disseminação das
+  informações relevantes sobre o sistema e a segurança operacional no órgão ou ente público.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- orgao
+- ente
+- publico
+- sgso
+- continua
+- desempenho
+- manutencao
+- melhoria
+- acoes
+- atividades
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

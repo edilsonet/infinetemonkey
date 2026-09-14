@@ -1,0 +1,96 @@
+id: rbac-rbac-90-90-373-i
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.373'
+section_title: Requisitos gerais
+subsection_id: i
+cite: 90.373(i)
+title: 90.373(i)
+text: '(i) que a margem de potência disponível do motor seja suficiente para a realização
+  da operação, inclusive sob altas temperaturas, grandes altitudes, umidade e/ou atmosfera
+  turbulenta;
+
+  (ii) que o peso máximo de decolagem para operação de carga externa não ultrapasse os limites
+  dos gráficos de desempenho do helicóptero para realização do voo pairado fora do efeito
+  solo -
+
+  OGE hover weight
+
+  ;
+
+  (iii) que o CG do helicóptero seja mantido dentro dos limites durante todo o voo, inclusive
+  no momento de engate e desengate da referida carga; e
+
+  (iv) que sejam observadas as limitações de velocidade, de ângulo de inclinação em curva
+  (
+
+  banking turn
+
+  ), etc., conforme aplicável;
+
+  (5) que sejam observados os limites dos dispositivos de fixação da carga;
+
+  (6) caso o peso da carga transportada não possa ser determinado com precisão, deve ser utilizado
+  um estropo e/ou rede com capacidade para o dobro do peso estimado para a carga;
+
+  (7) que seja realizado aterramento elétrico do helicóptero antes do engate da carga;
+
+  (8) que seja mitigado o risco de impacto do rotor principal e de cauda;
+
+  (9) que seja realizada a distância segura de objetos soltos ou que possam se soltar no terreno
+  da operação e de terceiros em solo;
+
+  (10) que a aeronave disponha de espelho para o monitoramento da carga externa pelo piloto
+  em comando, caso a tripulação operacional não seja composta por um operador aerotático;
+
+  (11) que seja feita verificação do acondicionamento da carga antes do início da rampa de
+  decolagem na área de carregamento;
+
+  (12) que as rampas de aproximação, decolagem e rota sejam apropriadas para o transporte
+  da carga externa onde, em situações excepcionais de alijamento inadvertido ou de emergência
+  da carga, sejam evitados danos a terceiros e propriedades no solo;
+
+  (13) que se tenha mestre de carga presente ou agente designado no momento do engate da carga
+  ao helicóptero no pairado;
+
+  (14) que o mestre de carga ou agente designado tenha recebido
+
+  briefing
+
+  de segurança sobre os procedimentos normais, de emergências, sinais e comunicações;
+
+  (15) que a tripulação e os envolvidos na operação utilizem os EPIs necessários;
+
+  (16) que haja a prévia informação, aos envolvidos na operação, quanto à trajetória a ser
+  seguida em caso de falha de motor no voo pairado;
+
+  (17) que haja controle de acesso ao local da operação de engate, desengate e/ou içamento
+  da carga, isento do trânsito de terceiros e animais;
+
+  (18) que somente pessoal qualificado e essencial ao engate e/ou desengate da carga esteja
+  autorizado a permanecer abaixo do helicóptero no momento do engate, desengate ou içamento
+  da carga; e
+
+  (19) que haja seleção do local de engate e desengate da carga seguro para terceiros e propriedades
+  no solo.'
+keywords:
+- regras-de-voo
+- operacoes
+- carga
+- engate
+- seja
+- operacao
+- desengate
+- helicoptero
+- sejam
+- solo
+- terceiros
+- caso
+- decolagem
+- externa
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

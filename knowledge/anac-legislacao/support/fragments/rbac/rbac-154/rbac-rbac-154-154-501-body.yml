@@ -1,0 +1,44 @@
+id: rbac-rbac-154-154-501-body
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.501'
+section_title: Sistemas de suprimento de energia elétrica para facilidades de navegação aérea
+subsection_id: body
+cite: '154.501'
+title: Sistemas de suprimento de energia elétrica para facilidades de navegação aérea
+text: '154.501 Sistemas de suprimento de energia elétrica para facilidades de navegação aérea
+
+
+  NOTA - A segurança das operações em aeródromos depende da qualidade da energia elétrica
+  suprida.
+
+  O sistema total de suprimento de energia elétrica pode incluir conexões a uma ou mais fontes
+  externas
+
+  de fornecimento de energia, uma ou mais unidades de geração e uma rede de distribuição incluindo
+
+  transformadores e dispositivos comutadores. Ao planejar o sistema de energia elétrica em
+
+  aeródromos, devem ser consideradas muitas outras facilidades aeroportuárias cuja energia
+  é fornecida
+
+  pelo mesmo sistema.'
+keywords:
+- seguranca-aeroportuaria
+- energia
+- eletrica
+- facilidades
+- suprimento
+- aerea
+- navegacao
+- sistema
+- sistemas
+- aerodromos
+- aeroportuarias
+- comutadores
+- conexoes
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-218-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.218'
+section_title: 'IFR: aeródromo de alternativa de destino'
+subsection_id: b
+cite: 135.218(b)
+title: 135.218(b)
+text: '(b) O detentor de certificado deve selecionar pelo menos dois aeródromos de alternativa
+  de destino se, para o aeródromo de destino:
+
+  (1) as informações meteorológicas atualizadas indicarem que as condições meteorológicas
+  estarão, no horário estimado de utilização, abaixo dos mínimos operacionais para pouso no
+  aeródromo; ou
+
+  (2) não houver informação meteorológica disponível que atenda à seção 135.213 deste regulamento.
+
+  (Incluído pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- destino
+- alternativa
+- meteorologicas
+- abaixo
+- aerodromos
+- atenda
+- atualizadas
+- certificado
+- condicoes
+- deste
+- detentor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

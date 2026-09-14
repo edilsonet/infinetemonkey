@@ -1,0 +1,35 @@
+id: rbac-rbac-90-90-263-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.263'
+section_title: Requisitos operacionais
+subsection_id: c
+cite: 90.263(c)
+title: 90.263(c)
+text: '(c) O MOP da UAP e os SOP deverão dispor sobre:
+
+  (1) os procedimentos e as atribuições dos tripulantes e das outras pessoas com função a
+  bordo; e
+
+  (2) CRM para as condições normais, anormais e de emergências previstas nesta subparte.'
+keywords:
+- regras-de-voo
+- operacoes
+- anormais
+- atribuicoes
+- bordo
+- condicoes
+- deverao
+- dispor
+- emergencias
+- funcao
+- normais
+- operacionais
+- outras
+- pessoas
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

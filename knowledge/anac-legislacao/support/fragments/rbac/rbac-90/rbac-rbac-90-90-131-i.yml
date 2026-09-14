@@ -1,0 +1,24 @@
+id: rbac-rbac-90-90-131-i
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.131'
+section_title: Requisitos gerais
+subsection_id: i
+cite: 90.131(i)
+title: 90.131(i)
+text: (i) A ANAC poderá, a qualquer tempo, realizar inspeção no SGSO da UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- gerais
+- inspecao
+- realizar
+- requisitos
+- sgso
+- tempo
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,98 @@
+id: rbac-rbac-154-154-13-f
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.13'
+section_title: Código de referência
+subsection_id: f
+cite: 154.13(f)
+title: 154.13(f)
+text: '(f) A letra de código para o elemento 2 deve ser determinada pela Tabela A-1, selecionando-se
+  a
+
+  letra de código que corresponde à maior envergadura dentre as aeronaves para as quais a
+  facilidade
+
+  será destinada. (Redação dada pela Resolução nº 465, de 13.03.2018)
+
+  NOTA - Encontra-se disponível no sítio eletrônico da ANAC tabela com o código de referência
+
+  associado às principais aeronaves utilizadas no transporte aéreo.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Tabela A-1 Código de referência do aeródromo (Alterado pela Resolução nº 465, de 13.03.2018)
+
+  Elemento 1 do Código
+
+  Número do código
+
+  Comprimento básico de pista requerido pela
+
+  aeronave
+
+  1
+
+  menor que 800 m
+
+  2
+
+  maior ou igual a 800 m e menor que 1200 m
+
+  3
+
+  maior ou igual a 1200 m e menor que 1800 m
+
+  4
+
+  maior ou igual a 1800 m
+
+  Elemento 2 do Código
+
+  Letra do código
+
+  Envergadura
+
+  A
+
+  menor que 15 m
+
+  B
+
+  maior ou igual a 15 m e menor que 24 m
+
+  C
+
+  maior ou igual a 24 m e menor que 36 m
+
+  D
+
+  maior ou igual a 36 m e menor que 52 m
+
+  E
+
+  maior ou igual a 52 m e menor que 65 m
+
+  F
+
+  maior ou igual a 65 m e menor que 80 m'
+keywords:
+- seguranca-aeroportuaria
+- codigo
+- maior
+- menor
+- igual
+- elemento
+- letra
+- referencia
+- tabela
+- aeronaves
+- envergadura
+- resolucao
+- aereo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

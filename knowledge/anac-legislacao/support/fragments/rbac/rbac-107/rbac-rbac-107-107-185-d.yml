@@ -1,0 +1,42 @@
+id: rbac-rbac-107-107-185-d
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.185'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: d
+cite: 107.185(d)
+title: 107.185(d)
+text: '(d) Na execução das inspeções internas o operador de aeródromo deve observar as seguintes
+  disposições:
+
+  (1) o escopo da inspeção deve ser definido pelo responsável pela AVSEC do aeródromo, de
+  forma justificada no relatório de inspeção, buscando o foco nas medidas de segurança e procedimentos
+  que se relacionem às vulnerabilidades e ameaças mais significativas, às eventuais ações
+  corretivas anteriores e àqueles que sofreram alterações recentes;
+
+  (2) a inspeção deve ser conduzida pelo responsável pela AVSEC do aeródromo ou por profissional
+  capacitado, nos termos do PNIAVSEC; e
+
+  (3) a inspeção deve utilizar técnicas similares à auditoria, tais como revisão de documentos,
+  entrevistas e observações diretas.'
+keywords:
+- seguranca
+- aeroporto
+- inspecao
+- aerodromo
+- avsec
+- responsavel
+- acoes
+- alteracoes
+- ameacas
+- anteriores
+- aqueles
+- atividades
+- auditoria
+- buscando
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,69 @@
+id: rbac-rbac-27-a27-4-b
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.4
+section_title: Airworthiness Limitations section.
+subsection_id: b
+cite: A27.4(b)
+title: A27.4(b)
+text: '(b)
+
+  Miscellaneous requirements.
+
+  (1)
+
+  Instrument systems and other systems essential for IFR flight that could be adversely
+
+  affected by icing must be adequately protected when exposed to the continuous and
+
+  intermittent maximum icing conditions defined in appendix C of Part 29 of this chapter,
+  whether
+
+  or not the rotorcraft is certificated for operation in icing conditions.
+
+  (2)
+
+  There must be means in the generating system to automatically de-energize and disconnect
+
+  from the main bus any power source developing hazardous overvoltage.
+
+  (3)
+
+  Each required flight instrument using a power supply (electric, vacuum, etc.) must have
+  a
+
+  visual means integral with the instrument to indicate the adequacy of the power being supplied.
+
+  (4)
+
+  When multiple systems performing like functions are required, each system must be grouped,
+
+  routed, and spaced so that physical separation between systems is provided to ensure that
+  a
+
+  single malfunction will not adversely affect more than one system.
+
+  (5)
+
+  For systems that operate the required flight instruments at each pilot''s station -'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- systems
+- must
+- that
+- each
+- flight
+- icing
+- instrument
+- power
+- required
+- system
+- adversely
+- conditions
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

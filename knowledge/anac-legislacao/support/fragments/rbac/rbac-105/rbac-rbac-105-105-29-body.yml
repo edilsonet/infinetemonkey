@@ -1,0 +1,37 @@
+id: rbac-rbac-105-105-29-body
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.29'
+section_title: Saltos sobre ou dentro de áreas proibidas ou restritas
+subsection_id: body
+cite: '105.29'
+title: Saltos sobre ou dentro de áreas proibidas ou restritas
+text: '105.29 Saltos sobre ou dentro de áreas proibidas ou restritas
+
+  Nenhuma pessoa pode realizar um salto de paraquedas e nenhum piloto em comando pode autorizar
+
+  saltos de paraquedas de sua aeronave dentro ou sobre uma área proibida ou restrita, a menos
+  que
+
+  possua um NOTAM válido.'
+keywords:
+- paraquedismo
+- operacoes
+- dentro
+- saltos
+- areas
+- proibidas
+- restritas
+- paraquedas
+- pode
+- aeronave
+- area
+- autorizar
+- comando
+- menos
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

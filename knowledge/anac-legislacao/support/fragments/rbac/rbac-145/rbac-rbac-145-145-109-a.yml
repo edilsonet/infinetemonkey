@@ -1,0 +1,41 @@
+id: rbac-rbac-145-145-109-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.109'
+section_title: Requisitos de equipamentos, ferramentas, materiais e dados técnicos
+subsection_id: a
+cite: 145.109(a)
+title: 145.109(a)
+text: '(a) Cada organização de manutenção certificada deve ter equipamentos, ferramentas e
+  materiais
+
+  necessários para a execução da manutenção, manutenção preventiva ou alteração em conformidade
+
+  com seu certificado, especificações operativas e com o RBAC 43, exceto se determinado de
+  outra
+
+  forma pela ANAC. Os equipamentos, ferramentas e materiais devem estar localizados nas
+
+  instalações e sob o controle da organização de manutenção quando o serviço estiver sendo
+
+  executado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- equipamentos
+- ferramentas
+- materiais
+- organizacao
+- alteracao
+- cada
+- certificada
+- certificado
+- conformidade
+- controle
+- dados
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

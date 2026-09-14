@@ -1,0 +1,44 @@
+id: rbac-rbac-21-21-101-e
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.101'
+section_title: Determinação dos requisitos aplicáveis
+subsection_id: e
+cite: 21.101(e)
+title: 21.101(e)
+text: '(e) O requerimento de uma modificação para um certificado de tipo para uma aeronave
+  categoria transporte é válido por 5 (cinco) anos e o requerimento de uma modificação para
+  qualquer outro certificado de tipo tem validade de 3 (três) anos. Se a modificação não tiver
+  sido aprovada, ou se ficar evidente que a mesma não será aprovada dentro do limite de tempo
+  estabelecido neste parágrafo, o requerente pode:
+
+  (1) fazer novo requerimento para modificação do certificado de tipo e cumprir com todos
+  os requisitos do parágrafo (a) desta seção, aplicáveis ao novo requerimento; ou
+
+  (2) fazer um pedido de adiamento do requerimento original e cumprir com os requisitos do
+  parágrafo (a) desta seção. O requerente deve escolher uma nova data para o requerimento,
+  desde que a data respeite o período de tempo, estabelecido neste parágrafo (e), entre esta
+  nova data e a data prevista para aprovação da modificação.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- requerimento
+- modificacao
+- data
+- paragrafo
+- certificado
+- requisitos
+- tipo
+- anos
+- aplicaveis
+- aprovada
+- cumprir
+- desta
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

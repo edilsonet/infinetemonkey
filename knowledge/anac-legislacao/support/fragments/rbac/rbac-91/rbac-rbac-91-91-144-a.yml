@@ -1,0 +1,36 @@
+id: rbac-rbac-91-91-144-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.144'
+section_title: Restrição temporária de operações de vôo durante condições anormais de altas
+  pressões
+subsection_id: a
+cite: 91.144(a)
+title: 91.144(a)
+text: '(a) Restrições especiais de voo. Quando existirem informações de que a pressão barométrica
+  em
+
+  uma rota normal de voo excede ou irá exceder 31 inHg (1049,8 hPa), é vedado operar uma aeronave
+
+  ou iniciar um voo contrariando requisitos estabelecidos pelo DECEA e publicados em NOTAM.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- altas
+- anormais
+- barometrica
+- condicoes
+- contrariando
+- decea
+- durante
+- especiais
+- estabelecidos
+- excede
+- exceder
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-177-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.177'
+section_title: Requisitos de equipamentos de emergência para aeronaves tendo uma configuração
+  para passageiros com mais de 19 assentos
+subsection_id: c
+cite: 135.177(c)
+title: 135.177(c)
+text: '(c) Cada item do equipamento deve ser regularmente inspecionado, segundo os períodos
+  de inspeção estabelecidos no manual geral da empresa previsto na seção 135.21 deste Regulamento,
+  para assegurar boas condições de uso e aplicabilidade imediata para os propósitos pretendidos.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- aplicabilidade
+- assegurar
+- assentos
+- boas
+- cada
+- condicoes
+- configuracao
+- dada
+- deste
+- emergencia
+- empresa
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

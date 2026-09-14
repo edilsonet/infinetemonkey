@@ -1,0 +1,29 @@
+id: rbac-rbac-129-129-23-b
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.23'
+section_title: Requisitos para as aeronaves
+subsection_id: b
+cite: 129.23(b)
+title: 129.23(b)
+text: (b) applicable RBAC to the aircraft or similar regulations issued by the country of
+  aircraft registration or the country of operator, as applicable.
+keywords:
+- operador-estrangeiro
+- operacoes
+- aircraft
+- applicable
+- country
+- aeronaves
+- issued
+- operator
+- registration
+- regulations
+- requisitos
+- similar
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

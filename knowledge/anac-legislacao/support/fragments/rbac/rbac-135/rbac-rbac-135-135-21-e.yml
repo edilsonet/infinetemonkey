@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-21-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.21'
+section_title: Requisitos do manual geral da empresa
+subsection_id: e
+cite: 135.21(e)
+title: 135.21(e)
+text: '(e) Uma cópia do manual geral da empresa, ou partes apropriadas dele (com emendas e
+  adições, se existentes), deve ser posta à disposição do pessoal de solo, de manutenção e
+  de operações pelo detentor de certificado, o qual deve fornecê-la, também, para:
+
+  (1) seus tripulantes de voo; e
+
+  (2) os servidores designados pela ANAC encarregados da fiscalização do detentor de certificado.'
+keywords:
+- taxi-aereo
+- operacoes
+- certificado
+- detentor
+- empresa
+- geral
+- manual
+- adicoes
+- apropriadas
+- copia
+- dele
+- designados
+- disposicao
+- emendas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

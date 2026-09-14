@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-415-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: b
+cite: 135.415(b)
+title: 135.415(b)
+text: (b) Para os propósitos desta seção, “em voo” significa o período entre o momento em
+  que a aeronave deixa a superfície da terra, na decolagem, até o momento em que ela toca
+  essa superfície, no pouso.
+keywords:
+- taxi-aereo
+- operacoes
+- momento
+- superficie
+- aeronave
+- decolagem
+- deixa
+- desta
+- dificuldades
+- periodo
+- pouso
+- propositos
+- relatorio
+- secao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

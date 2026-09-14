@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-177-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.177'
+section_title: Requisitos de equipamentos de emergência para aeronaves tendo uma configuração
+  para passageiros com mais de 19 assentos
+subsection_id: b
+cite: 135.177(b)
+title: 135.177(b)
+text: '(b) De acordo com o parágrafo (a) desta seção, o detentor de certificado deve levar
+  a bordo os seguintes equipamentos de emergência:
+
+  (1) um conjunto de primeiros socorros, aprovado, para tratamentos de ferimentos possíveis
+  de ocorrer a bordo ou em acidentes menores, contendo os seguintes itens:'
+keywords:
+- taxi-aereo
+- operacoes
+- bordo
+- emergencia
+- equipamentos
+- seguintes
+- acidentes
+- acordo
+- aeronaves
+- aprovado
+- assentos
+- certificado
+- configuracao
+- conjunto
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

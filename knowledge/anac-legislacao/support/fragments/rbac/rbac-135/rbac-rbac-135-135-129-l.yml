@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-129-l
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: l
+cite: 135.129(l)
+title: 135.129(l)
+text: (l) Na eventualidade de todos os assentos que não sejam de saída estarem ocupados e
+  for necessário reposicionar um passageiro ocupando um assento de saída, o detentor de certificado
+  deve deslocar para esse último assento uma pessoa que possa e aceite assumir as tarefas
+  de evacuação que possam se tornar necessárias.
+keywords:
+- taxi-aereo
+- operacoes
+- saida
+- assento
+- assentos
+- aceite
+- assumir
+- certificado
+- deslocar
+- detentor
+- estarem
+- evacuacao
+- eventualidade
+- necessarias
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

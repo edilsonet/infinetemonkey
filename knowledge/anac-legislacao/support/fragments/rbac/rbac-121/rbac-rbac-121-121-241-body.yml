@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-241-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.241'
+section_title: Drenos do sistema de óleo
+subsection_id: body
+cite: '121.241'
+title: Drenos do sistema de óleo
+text: '121.241 Drenos do sistema de óleo
+
+  Devem existir drenos acessíveis que permitam drenar todo o óleo do sistema. Cada dreno deve
+  possuir meios, automáticos ou manuais, de travamento efetivo na posição "fechado".'
+keywords:
+- transporte-aereo
+- operacoes
+- drenos
+- oleo
+- sistema
+- acessiveis
+- automaticos
+- cada
+- drenar
+- dreno
+- efetivo
+- existir
+- fechado
+- manuais
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

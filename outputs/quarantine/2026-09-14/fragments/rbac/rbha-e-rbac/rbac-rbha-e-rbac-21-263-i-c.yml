@@ -1,0 +1,52 @@
+id: rbac-rbha-e-rbac-21-263-i-c
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: 21.263-I
+section_title: Prerrogativas
+subsection_id: c
+cite: 21.263-I(c)
+title: 21.263-I(c)
+text: '(c) O detentor de um certificado de organização de projeto pode, de acordo com os termos
+  da certificação e em conformidade com os procedimentos do sistema de garantia do projeto:
+
+  (1) classificar as modificações ao projeto de tipo em grandes ou pequenas;
+
+  (2) aprovar pequenas modificações ao projeto de tipo;
+
+  (3) publicar informações ou instruções técnicas cujo conteúdo foi aprovado sob a autoridade
+  de detentor do Certificado de Organização de Projeto;
+
+  (4) aprovar pequenas revisões ao manual de voo da aeronave e ao seu suplemento e indicar
+  que o conteúdo de tais revisões foi aprovado sob a autoridade de detentor do Certificado
+  de Organização de Projeto;
+
+  (5) aprovar o projeto de grandes reparos em produtos para os quais seja o detentor do certificado
+  de tipo ou do certificado suplementar de tipo;
+
+  (6) [Reservado];
+
+  (7) [Reservado];
+
+  (8) emitir documento de liberação autorizada para atestar a conformidade de protótipo de
+  motores de aeronaves, hélices e artigos, após determinar que estão conformes com dados aplicáveis.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- detentor
+- tipo
+- aprovar
+- organizacao
+- pequenas
+- aprovado
+- autoridade
+- conformidade
+- conteudo
+- grandes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-e-94-e94-401-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.401
+section_title: Autorização do projeto do RPAS
+subsection_id: a
+cite: E94.401(a)
+title: E94.401(a)
+text: '(a) Somente é permitido operar um RPAS civil no Brasil se o projeto do RPAS for autorizado
+  pela ANAC levando em consideração a Classe do RPAS e o tipo de operação (VLOS ou BVLOS),
+  exceto nos seguintes casos:
+
+  (1) RPAS Classe 3 que se destinem exclusivamente para operações VLOS até 400 pés AGL;
+
+  (2) a RPA possua Certificado de Tipo; ou
+
+  (3) a RPA seja utilizada de acordo com o estabelecido na seção E94.503 deste regulamento.'
+keywords:
+- rpas
+- classe
+- projeto
+- tipo
+- vlos
+- acordo
+- autorizacao
+- autorizado
+- brasil
+- bvlos
+- casos
+- certificado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,51 @@
+id: rbac-rbac-23-23-2520-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2520'
+section_title: Proteção contra efeitos de campos
+subsection_id: b
+cite: 23.2520(b)
+title: 23.2520(b)
+text: '(b) Para aviões aprovados para operações IFR,
+
+  cada sistema elétrico e eletrônico que desem-
+
+  penhe uma função, cuja falha reduziria signifi-
+
+  cativamente a capacidade do avião ou a habili-
+
+  dade da tripulação de voo de reagir a uma con-
+
+  dição adversa de operação, deve ser projetado e
+
+  instalado de modo que o sistema recupere a
+
+  operação normal daquela função em tempo
+
+  hábil após o avião ser exposto ao ambiente com
+
+  HIRF.
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 23'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- aviao
+- funcao
+- operacao
+- sistema
+- adversa
+- agosto
+- ambiente
+- aprovados
+- avioes
+- cada
+- campos
+- capacidade
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

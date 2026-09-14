@@ -1,0 +1,53 @@
+id: rbac-rbac-21-21-29-d-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.29'
+section_title: 'Emissão de certificado de tipo: produtos importados'
+subsection_id: d-i
+cite: 21.29(d-I)
+title: 21.29(d-I)
+text: '(d)-I O tipo e modelo de uma aeronave que já tenha recebido um registro brasileiro
+  antes de 19 de dezembro de 1986, inclusive, para o qual não tenha sido emitido um certificado
+  de tipo brasileiro, está isento do cumprimento das disposições desta seção. Esta isenção
+  se aplica ao tipo e modelo de motor ou hélice instalado em tal aeronave. Estes tipos e modelos
+  de aeronave, motor ou hélice poderão receber uma declaração reconhecendo a validade no Brasil
+  do certificado de tipo emitido pelo órgão estrangeiro responsável pela aprovação original
+  do projeto de tipo, desde que:
+
+  (1) o fabricante da aeronave, motor ou hélice possua um certificado de tipo válido emitido
+  por autoridade de aviação civil do país com o qual o Brasil mantenha um acordo para aceitação
+  de exportação e importação de produtos aeronáuticos ou possua um nível de cooperação aeronáutica
+  que enseje o fornecimento da documentação técnica referida no parágrafo (d)-I(2) desta seção;
+
+  (2) sejam fornecidos pelo requerente a base de certificação, os textos das condições especiais,
+  das isenções concedidas e dos itens de segurança equivalentes, a especificação de tipo da
+  aeronave, motor ou hélice emitida pela autoridade de aviação civil, as publicações técnicas,
+  inclusive diretrizes de aeronavegabilidade, aplicáveis à aeronave, motor, hélice e equipamentos
+  instalados, quando requerido pela ANAC. Toda documentação acima deve ser mantida atualizada
+  pelo requerente;
+
+  (3) sejam cumpridos os requisitos especiais brasileiros que venham a ser considerados necessários
+  para operação da aeronave no país, referentes a:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- tipo
+- aeronave
+- helice
+- motor
+- certificado
+- emitido
+- autoridade
+- aviacao
+- brasil
+- brasileiro
+- civil
+- desta
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

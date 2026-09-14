@@ -1,0 +1,42 @@
+id: rbac-rbac-035-35-41-d
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.41'
+section_title: '35.41'
+subsection_id: d
+cite: 35.41(d)
+title: 35.41(d)
+text: '(d) Hélices de passo reversível. Duzentos
+
+  ciclos completos de controle devem ser
+
+  executados do passo mínimo normal ao passo
+
+  máximo reverso. Durante cada ciclo, a hélice
+
+  deve girar por 30 segundos na potência e
+
+  rotação máximas selecionadas pelo requerente
+
+  para o passo máximo reverso.'
+keywords:
+- helices
+- aeronavegabilidade
+- passo
+- maximo
+- reverso
+- cada
+- ciclo
+- ciclos
+- completos
+- controle
+- durante
+- duzentos
+- executados
+- girar
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

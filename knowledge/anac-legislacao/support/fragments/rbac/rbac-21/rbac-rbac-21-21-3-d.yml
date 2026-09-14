@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-3-d
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.3'
+section_title: Comunicação de falhas, mau funcionamento e defeitos
+subsection_id: d
+cite: 21.3(d)
+title: 21.3(d)
+text: '(d) Os requisitos do parágrafo (a) desta seção não se aplicam para:
+
+  (1) falhas, mau funcionamento ou defeitos que o detentor de um certificado de tipo (incluindo
+  emendas ou um certificado suplementar de tipo), de um certificado de produto aeronáutico
+  aprovado (incluindo os emitidos sob uma ordem técnica padrão) ou, ainda, o licenciado de
+  um certificado de tipo (incluindo outras aprovações de projeto):'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- incluindo
+- tipo
+- defeitos
+- falhas
+- funcionamento
+- aeronautico
+- aplicam
+- aprovacoes
+- aprovado
+- comunicacao
+- desta
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

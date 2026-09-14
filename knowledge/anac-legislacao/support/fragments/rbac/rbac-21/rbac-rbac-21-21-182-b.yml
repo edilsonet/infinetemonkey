@@ -1,0 +1,40 @@
+id: rbac-rbac-21-21-182-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.182'
+section_title: Placa de identificação
+subsection_id: b
+cite: 21.182(b)
+title: 21.182(b)
+text: '(b) O parágrafo (a) desta seção não se aplica para os seguintes casos:
+
+  (1) uma autorização especial de voo;
+
+  (2) um certificado de autorização de voo experimental não emitido para os propósitos de
+  operação de aeronave de construção amadora, operação de aeronave categoria primária construída
+  a partir de conjuntos ou operação de aeronave leve esportiva; e
+
+  (3) uma mudança de uma classificação de certificado de aeronavegabilidade para outra, no
+  caso de uma aeronave já identificada conforme prescrito na seção 45.11 do RBAC 45.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- operacao
+- autorizacao
+- certificado
+- secao
+- amadora
+- aplica
+- caso
+- casos
+- categoria
+- classificacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

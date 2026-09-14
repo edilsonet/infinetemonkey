@@ -1,0 +1,32 @@
+id: rbac-rbac-142-142-71-d
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.71'
+section_title: Requisitos para emissão, conservação e envio de registros à ANAC
+subsection_id: d
+cite: 142.71(d)
+title: 142.71(d)
+text: '(d) O gestor responsável do detentor de certificado de CTAC deve prover os registros
+  requeridos
+
+  por esta Seção à ANAC, sempre que solicitado e em tempo hábil, mantendo os registros requeridos
+
+  organizados e ordenados conforme requerido pela ANAC.'
+keywords:
+- registros
+- requeridos
+- certificado
+- conservacao
+- ctac
+- detentor
+- emissao
+- envio
+- gestor
+- habil
+- mantendo
+- ordenados
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

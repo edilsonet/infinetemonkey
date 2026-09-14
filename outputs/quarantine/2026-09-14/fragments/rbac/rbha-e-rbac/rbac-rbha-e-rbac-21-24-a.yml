@@ -1,0 +1,32 @@
+id: rbac-rbha-e-rbac-21-24-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.24'
+section_title: 'Emissão de certificado de tipo: aeronave categoria primária'
+subsection_id: a
+cite: 21.24(a)
+title: 21.24(a)
+text: '(a) O requerente faz jus a um certificado de tipo para uma aeronave categoria primária
+  se:
+
+  (1) a aeronave enquadrar-se nas seguintes condições:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- categoria
+- certificado
+- primaria
+- tipo
+- condicoes
+- emissao
+- enquadrar
+- requerente
+- seguintes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

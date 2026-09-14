@@ -1,0 +1,37 @@
+id: rbac-rbac-e-94-e94-615-i
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.615
+section_title: Registros de manutenção de RPAS Classe 1
+subsection_id: i
+cite: E94.615(i)
+title: E94.615(i)
+text: '(i) o tempo total de voo de cada célula, motor e hélice;
+
+  (ii) a presente situação de partes com tempo de vida limitado de cada célula, motor, hélice,
+  rotor e equipamento;
+
+  (iii) o tempo desde a última revisão geral de itens instalados no RPAS que requerem revisão
+  geral com base em tempos específicos;
+
+  (iv) a identificação da presente situação do RPAS em relação a inspeções, incluindo os tempos
+  desde a última inspeção obrigatória requerida pelo programa de inspeções segundo o qual
+  o RPAS e seus componentes são mantidos;'
+keywords:
+- rpas
+- tempo
+- cada
+- celula
+- desde
+- geral
+- helice
+- inspecoes
+- motor
+- presente
+- revisao
+- situacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

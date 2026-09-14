@@ -1,0 +1,36 @@
+id: rbac-rbac-43-e43-1-a
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: E43.1
+section_title: Testes e inspeções do sistema do altímetro
+subsection_id: a
+cite: E43.1(a)
+title: E43.1(a)
+text: '(a) Sistema de pressão estática:
+
+  (1) assegurar-se que está livre de umidade interna e de restrições;
+
+  (2)-I realizar um ensaio de prova para demonstrar a integridade do sistema de pressão estática,
+
+  da seguinte forma:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- sistema
+- estatica
+- pressao
+- altimetro
+- assegurar
+- demonstrar
+- ensaio
+- forma
+- inspecoes
+- integridade
+- interna
+- livre
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

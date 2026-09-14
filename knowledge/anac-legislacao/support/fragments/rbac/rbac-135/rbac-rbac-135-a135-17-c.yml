@@ -1,0 +1,58 @@
+id: rbac-rbac-135-a135-17-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.17
+section_title: Diversos
+subsection_id: c
+cite: A135.17(c)
+title: A135.17(c)
+text: '(c) Informações sobre manutenção. O requerente deve fornecer ao proprietário no momento
+  da entrega do avião, as informações que ele, o requerente, considerar essenciais à manutenção
+  apropriada do avião. Essas informações devem incluir o seguinte:
+
+  (1) descrição dos sistemas, incluindo os controles hidráulicos, elétricos e de combustível;
+
+  (2) instruções sobre lubrificação, informando sua periodicidade e os lubrificantes e fluidos
+  a serem usados nos vários sistemas;
+
+  (3) as pressões e as cargas elétricas aplicáveis aos vários sistemas;
+
+  (4) tolerâncias e ajustes necessários ao funcionamento apropriado;
+
+  (5) os métodos de nivelamento, levantamento e reboque;
+
+  (6) métodos para balanceamento das superfícies de controle;
+
+  (7) identificação das estruturas primárias e secundárias;
+
+  (8) periodicidade e extensão das inspeções necessárias à apropriada operação do avião;
+
+  (9) métodos especiais de reparos aplicáveis ao avião;
+
+  (10) técnicas especiais de inspeção tais como inspeções por raios-X, ultrassom e partículas
+  magnéticas; e
+
+  (11) listagem das ferramentas especiais.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- especiais
+- informacoes
+- metodos
+- sistemas
+- aplicaveis
+- apropriada
+- inspecoes
+- manutencao
+- periodicidade
+- requerente
+- varios
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,103 @@
+id: rbac-rbac-43-43-11-a
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.11'
+section_title: Conteúdo, forma e distribuição de registros de inspeções conduzidas conforme
+  o RBAC
+subsection_id: a
+cite: 43.11(a)
+title: 43.11(a)
+text: '(a) Anotação nos registros de manutenção. Uma pessoa que for aprovar ou reprovar o
+  retorno ao
+
+  serviço de um artigo que tenha sido submetido a uma inspeção realizada conforme o RBAC nº
+  91
+
+  ou o parágrafo 135.411(a)(1) ou a seção 135.419 do RBAC nº 135 deve anotar nos registros
+  de
+
+  manutenção desse artigo as seguintes informações: (Redação dada pela Resolução nº 612, de
+
+  09.03.2021)
+
+  (1) tipo de inspeção realizada e sua extensão;
+
+  (2) data da inspeção e horas totais da aeronave, explicitando suas marcas de nacionalidade
+  e
+
+  matrícula no registro;
+
+  (3) assinatura, número da licença e tipo de habilitação da pessoa que aprova ou reprova
+  o
+
+  retorno ao serviço do artigo;
+
+  (4) exceto no caso de inspeção progressiva, se a aeronave for considerada aeronavegável
+  e
+
+  aprovada para retorno ao serviço, uma declaração equivalente a: "Certifico que a aeronave
+
+  (identificação) foi inspecionada de acordo com a inspeção (tipo) e concluo que ela está
+  em
+
+  condições aeronavegáveis";
+
+  (5) exceto no caso de inspeção progressiva, se a aeronave não for aprovada para retorno
+  ao
+
+  serviço por precisar de outros serviços ou não atender especificações aplicáveis, diretrizes
+  de
+
+  aeronavegabilidade ou outros requisitos requeridos, uma declaração equivalente a: "certifico
+  que a
+
+  aeronave (identificação) foi inspecionada de acordo com a inspeção (tipo) e uma lista de
+
+  discrepâncias e itens não aeronavegáveis foi entregue ao seu proprietário (ou operador)";
+
+  (6) para inspeções progressivas, uma declaração equivalente a: "certifico que, conforme
+  um
+
+  programa de inspeções progressivas, uma inspeção de rotina do(a) (especificar se aeronave
+  ou
+
+  componente) e uma inspeção detalhada do(a) (identificar componente) foram executadas e o(a)
+
+  (aeronave ou componente) foi aprovado(a) (ou reprovado(a)) para retorno ao serviço". Se
+  houver
+
+  reprovação, continuar: "e uma lista de discrepâncias e itens não aeronavegáveis foi entregue
+  ao seu
+
+  proprietário (ou operador)"; e
+
+  (7) se a inspeção foi conduzida conforme um programa de inspeções aprovado segundo o
+
+  programa aprovado, qual parte do programa foi executada e uma declaração de que a inspeção
+  foi
+
+  realizada de acordo com as instruções e procedimentos daquele programa específico. (Redação
+  dada
+
+  pela Resolução nº 612, de 09.03.2021)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- inspecao
+- aeronave
+- programa
+- retorno
+- servico
+- declaracao
+- inspecoes
+- tipo
+- acordo
+- aeronavegaveis
+- aprovado
+- artigo
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

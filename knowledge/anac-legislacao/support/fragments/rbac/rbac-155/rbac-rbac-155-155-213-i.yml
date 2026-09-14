@@ -1,0 +1,46 @@
+id: rbac-rbac-155-155-213-i
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.213'
+section_title: '155.213'
+subsection_id: i
+cite: 155.213(i)
+title: 155.213(i)
+text: '(i)
+
+  Os objetos que, devido às suas funções, precisam estar localizados em uma rota de táxi aéreo
+  de helicóptero, devem ser frangíveis e atender aos seguintes requisitos:
+
+  (1)
+
+  não são permitidos se localizados em uma distância inferior a 0,5 vezes a maior largura
+  total do helicóptero mais largo, com os rotores girando, previsto a operar na rota de táxi
+  aéreo de helicóptero, a partir do eixo da pista de táxi aéreo de helicóptero associada;
+  e
+
+  (2)
+
+  não podem penetrar o plano originado na altura de 25 cm acima da superfície da pista de
+  táxi aéreo de helicóptero, originado a uma distância de 0,5 vezes a maior largura total
+  do helicóptero mais largo, com os rotores girando, previsto a operar na rota de táxi aéreo
+  de helicóptero, a partir do eixo da pista de táxi aéreo de helicóptero associada, inclinando-se
+  para cima e para fora a uma rampa de 5%.'
+keywords:
+- seguranca-aeroportuaria
+- helicoptero
+- aereo
+- taxi
+- pista
+- rota
+- associada
+- distancia
+- eixo
+- girando
+- largo
+- largura
+- localizados
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

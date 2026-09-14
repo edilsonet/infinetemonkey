@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-227-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.227'
+section_title: 'Condições de gelo: limitações operacionais'
+subsection_id: a
+cite: 135.227(a)
+title: 135.227(a)
+text: (a) Um piloto não pode decolar com uma aeronave que tenha gelo, geada ou neve aderidas
+  a qualquer pá de rotor, hélice, para-brisas, asa, estabilizador ou superfície de controle,
+  instalação do motor ou a qualquer parte do sistema de velocímetro, altímetro, indicador
+  de velocidade vertical ou sistema dos instrumentos de indicação de atitude de voo, exceto
+  que decolagens podem ser realizadas com geada sob as asas na área dos tanques de combustível
+  se autorizado pela ANAC.
+keywords:
+- taxi-aereo
+- operacoes
+- geada
+- gelo
+- sistema
+- aderidas
+- aeronave
+- altimetro
+- area
+- asas
+- atitude
+- autorizado
+- brisas
+- combustivel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

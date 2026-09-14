@@ -1,0 +1,39 @@
+id: rbac-rbac-110-emd-02-110-37-i
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.37'
+section_title: Sistema simulador de equipamento de raios X
+subsection_id: i
+cite: 110.37(i)
+title: 110.37(i)
+text: '(i) diferentes modelos de bagagens de mão, despachadas ou de carga;
+
+  (ii) diferentes tipos de ameaças, que incluam objetos pontiagudos e cortantes, armas, bombas,
+  explosivos, dispositivos explosivos improvisados e demais objetos proibidos previstos em
+  regulamentação específica da ANAC; e
+
+  (iii) o conceito de nenhuma ameaça, ameaça óbvia e possível ameaça.
+
+  (2) Para cada volume, o sistema deve possuir duas imagens, a real e a correspondente em
+  raios-X. A imagem real deve destacar os objetos que compõem o volume.'
+keywords:
+- carga
+- operacoes
+- ameaca
+- objetos
+- diferentes
+- explosivos
+- raios
+- real
+- sistema
+- volume
+- ameacas
+- armas
+- bagagens
+- bombas
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

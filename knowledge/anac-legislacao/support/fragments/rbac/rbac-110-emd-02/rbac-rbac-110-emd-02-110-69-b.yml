@@ -1,0 +1,31 @@
+id: rbac-rbac-110-emd-02-110-69-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.69'
+section_title: Responsabilidade pela proficiência do profissional
+subsection_id: b
+cite: 110.69(b)
+title: 110.69(b)
+text: (b) A organização com responsabilidade AVSEC deve implementar controle para garantir
+  a certificação dos profissionais que desempenhem atividade em seu benefício.
+keywords:
+- carga
+- operacoes
+- responsabilidade
+- atividade
+- avsec
+- beneficio
+- certificacao
+- controle
+- desempenhem
+- garantir
+- implementar
+- organizacao
+- proficiencia
+- profissionais
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

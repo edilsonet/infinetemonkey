@@ -1,0 +1,23 @@
+id: rbac-rbac-135-135-163-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.163'
+section_title: 'Requisitos de equipamentos: aeronaves transportando passageiros em voo IFR'
+subsection_id: body
+cite: '135.163'
+title: 'Requisitos de equipamentos: aeronaves transportando passageiros em voo IFR'
+text: '135.163 Requisitos de equipamentos: aeronaves transportando passageiros em voo IFR'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- equipamentos
+- passageiros
+- requisitos
+- transportando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

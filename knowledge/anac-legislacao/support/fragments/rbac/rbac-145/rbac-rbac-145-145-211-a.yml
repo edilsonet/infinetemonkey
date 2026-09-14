@@ -1,0 +1,37 @@
+id: rbac-rbac-145-145-211-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.211'
+section_title: Sistema de controle da qualidade
+subsection_id: a
+cite: 145.211(a)
+title: 145.211(a)
+text: '(a) Cada organização de manutenção certificada deve estabelecer e manter um sistema
+  de
+
+  controle da qualidade a ser submetido à aceitação da ANAC, que assegure a aeronavegabilidade
+  dos
+
+  artigos nos quais a organização, ou qualquer dos seus subcontratados, executa manutenção,
+
+  manutenção preventiva ou alteração.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- controle
+- organizacao
+- qualidade
+- sistema
+- aceitacao
+- aeronavegabilidade
+- alteracao
+- artigos
+- assegure
+- cada
+- certificada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

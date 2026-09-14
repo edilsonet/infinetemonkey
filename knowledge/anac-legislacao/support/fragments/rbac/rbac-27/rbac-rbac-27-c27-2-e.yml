@@ -1,0 +1,39 @@
+id: rbac-rbac-27-c27-2-e
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: C27.2
+section_title: Applicable part 29 sections. The following sections of part 29 of this chapter
+  must be met in addition to the
+subsection_id: e
+cite: C27.2(e)
+title: C27.2(e)
+text: '(e)
+
+  Equipment HIRF Test Level 2. Equipment HIRF test level 2 is HIRF environment II in table
+  II of this
+
+  appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing
+  must cover the
+
+  frequency band of 10 kHz to 8 GHz.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- hirf
+- equipment
+- level
+- must
+- part
+- sections
+- test
+- this
+- acceptable
+- addition
+- aircraft
+- appendix
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

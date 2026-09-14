@@ -1,0 +1,37 @@
+id: rbac-rbac-121-121-195-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.195'
+section_title: 'Aviões com motores a turbina: limitações de pouso no aeródromo de destino'
+subsection_id: d
+cite: 121.195(d)
+title: 121.195(d)
+text: (d) A menos que, baseado em demonstração de operações reais com técnicas de pouso em
+  pistas molhadas, se uma distância de pouso menor (mas nunca menor do que a requerida pelo
+  parágrafo (b) desta seção) tenha sido aprovada para um específico tipo e modelo de avião
+  e incluída em seu AFM, ninguém pode decolar com um avião com propulsão a jato quando previsões
+  ou informações meteorológicas indicarem que a pista do aeródromo de destino poderá estar
+  molhada ou escorregadia no horário estimado de pouso nesse aeródromo, a menos que o comprimento
+  efetivo da pista do aeródromo de destino tenha, pelo menos, 115% do comprimento de pista
+  requerido pelo parágrafo (b) desta seção.
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- pouso
+- destino
+- menos
+- pista
+- aviao
+- comprimento
+- desta
+- menor
+- paragrafo
+- secao
+- tenha
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

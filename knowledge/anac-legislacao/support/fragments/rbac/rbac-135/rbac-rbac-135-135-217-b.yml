@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-217-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.217'
+section_title: 'IFR: aeródromo de alternativa de decolagem'
+subsection_id: b
+cite: 135.217(b)
+title: 135.217(b)
+text: '(b) Para que um aeródromo seja selecionado como de alternativa de decolagem, a informação
+  disponível conforme seção 135.213 deste Regulamento deverá indicar que, no horário estimado
+  de utilização, as condições meteorológicas estarão iguais ou acima dos mínimos operacionais
+  do aeródromo para pouso.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- alternativa
+- decolagem
+- acima
+- condicoes
+- dada
+- deste
+- devera
+- disponivel
+- estarao
+- estimado
+- horario
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

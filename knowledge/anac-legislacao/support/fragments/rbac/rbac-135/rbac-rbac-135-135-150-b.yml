@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-150-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.150'
+section_title: Sistemas de aviso aos passageiros e de interfone para os tripulantes
+subsection_id: b
+cite: 135.150(b)
+title: 135.150(b)
+text: '(b) um sistema de interfone para os tripulantes que:
+
+  (1) seja capaz de funcionar independentemente do sistema de aviso aos passageiros requerido
+  pelo parágrafo (a) desta seção, exceto quanto a microfones, fones, monofones, interruptores
+  seletores e dispositivos de sinalização;
+
+  (2) seja aprovado em conformidade com a seção 21.305 do RBAC nº 21;
+
+  (3) proporcione um meio de comunicação bilateral entre a cabine de pilotos e:'
+keywords:
+- taxi-aereo
+- operacoes
+- aviso
+- interfone
+- passageiros
+- secao
+- seja
+- sistema
+- tripulantes
+- aprovado
+- bilateral
+- cabine
+- capaz
+- comunicacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

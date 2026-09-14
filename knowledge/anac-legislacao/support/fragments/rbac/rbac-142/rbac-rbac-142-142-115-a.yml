@@ -1,0 +1,31 @@
+id: rbac-rbac-142-142-115-a
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.115'
+section_title: Manual de Gerenciamento da Segurança Operacional (MGSO)
+subsection_id: a
+cite: 142.115(a)
+title: 142.115(a)
+text: '(a) O gestor responsável do detentor de um certificado de CTAC operando segundo este
+
+  Regulamento deve desenvolver e manter seu MGSO, em papel ou mídia eletrônica, com o objetivo
+
+  de formalizar e divulgar a abordagem de segurança operacional do CTAC.'
+keywords:
+- ctac
+- mgso
+- operacional
+- seguranca
+- abordagem
+- certificado
+- desenvolver
+- detentor
+- divulgar
+- eletronica
+- formalizar
+- gerenciamento
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

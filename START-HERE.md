@@ -41,3 +41,17 @@ are adapters, not owners.
   `docs/ooda-infinite-brain-map.html`, then
   `knowledge/ai-architecture/synthesis/ooda-architecture-index.md`
 - Namespace rules: `_system/namespaces/INDEX.md`
+
+## This brain: ANAC legislation
+
+This working copy is also a personal infinite brain for Brazilian civil aviation law.
+Any file-reading AI should treat `knowledge/anac-legislacao/` as the domain namespace.
+
+To answer a legal question: read `knowledge/anac-legislacao/INDEX.md`, then
+`support/indexes/keyword-index.yml`, then only the listed fragment YAML files.
+
+To refresh the corpus: `python3 tools/anac_ingest/ingest.py`
+
+Coverage after the 2026-09-14 ingest (Arquivo.pt only): 45 RBAC and 8 IS with
+text, 0 IAC, 10177 unique fragments. Gaps live in
+`knowledge/anac-legislacao/synthesis/lacunas-de-cobertura.md`.

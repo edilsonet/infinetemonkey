@@ -1,0 +1,29 @@
+id: rbac-rbac-161-161-33-b
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.33'
+section_title: Critérios para cálculo das curvas de ruído para elaboração do PEZR
+subsection_id: b
+cite: 161.33(b)
+title: 161.33(b)
+text: (b) O operador de aeródromo deve fornecer todas as coordenadas geográficas em formato
+  grau, minuto e segundo, com prévio estabelecimento do Sistema Geodésico de Referência -
+  preferencialmente o WGS 84 ou SIRGAS 2000, que deve ser o mesmo para todos os pontos.
+keywords:
+- aerodromo
+- calculo
+- coordenadas
+- criterios
+- curvas
+- elaboracao
+- estabelecimento
+- formato
+- fornecer
+- geodesico
+- geograficas
+- grau
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

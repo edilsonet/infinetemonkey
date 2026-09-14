@@ -1,0 +1,98 @@
+id: rbac-rbac-175-175-315-b
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.315'
+section_title: Fabricação
+subsection_id: b
+cite: 175.315(b)
+title: 175.315(b)
+text: '(b) Sistema de qualidade. O requerente ou detentor de uma aprovação de produção de
+  embalagens
+
+  deve estabelecer um sistema de qualidade que garanta que cada embalagem esteja de acordo
+  com seu
+
+  projeto aprovado e esteja em uma condição de utilização segura. Esse sistema de qualidade
+
+  minimamente deve incluir:
+
+  (1) controle de dados de projeto: procedimento documentado para controle dos dados de projeto
+
+  e as alterações subsequentes, para assegurar que somente os dados atuais, corretos e aprovados
+  sejam
+
+  utilizados;
+
+  (2) controle de documentos e registros: procedimento documentado para controle de
+
+  documentos, registros e dados do sistema de qualidade e alterações subsequentes para assegurar
+  que
+
+  somente documentos e dados atuais, corretos e aprovados sejam utilizados;
+
+  (3) controle de recebimento: procedimento documentado que assegure que cada item recebido
+
+  esteja conforme os dados do projeto aprovado;
+
+  (4) controle de processos de fabricação: procedimento documentado para controle de processos
+
+  de fabricação que assegure que cada embalagem seja fabricada conforme os dados do projeto
+
+  aprovado;
+
+  (5) inspeções e testes de produção e inspeção final: procedimento documentado que descreva
+
+  os meios (inspeções, testes etc.) utilizados para garantir que cada embalagem produzida
+  esteja
+
+  conforme seu projeto aprovado;
+
+  (6) controle de equipamentos de inspeção, de medição e de testes: procedimento documentado
+
+  para garantir o controle da calibração de todos os equipamentos de inspeção, de medição
+  e de testes
+
+  utilizados na determinação da conformidade de cada embalagem com o seu projeto aprovado.
+  Cada
+
+  padrão de calibração deve ser rastreável a um padrão aceito pelo INMETRO;
+
+  (7) controle de itens não conformes: procedimento documentado para a identificação, registro,
+
+  avaliação, segregação e disposição de itens não conformes. Consideram-se parte deste controle
+  itens
+
+  liberados pelo sistema de qualidade não conforme com os dados do projeto aprovado;
+
+  (8) ações corretivas: procedimento documentado para implementação de ações corretivas para
+
+  eliminar as causas de uma não conformidade;
+
+  (9) manuseio e armazenamento: procedimento documentado para evitar danos e deterioração
+
+  de cada item durante o manuseio, o armazenamento, a preservação e a expedição; e
+
+  (10) auditorias internas: procedimento documentado para o planejamento, realização e registro
+
+  de auditorias internas para assegurar o cumprimento do sistema de qualidade aprovado.'
+keywords:
+- artigos-perigosos
+- carga
+- controle
+- documentado
+- procedimento
+- dados
+- projeto
+- aprovado
+- cada
+- qualidade
+- sistema
+- embalagem
+- esteja
+- testes
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

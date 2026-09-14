@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-173-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.173'
+section_title: Requisitos para equipamentos de detecção de trovoadas
+subsection_id: a
+cite: 135.173(a)
+title: 135.173(a)
+text: '(a) Somente é permitido operar uma aeronave que tenha uma configuração para passageiros
+  de 10 ou mais assentos, excluindo qualquer assento para piloto, transportando passageiros,
+  exceto um helicóptero operando em condições visuais diurnas, se a aeronave estiver equipada
+  com um equipamento de detecção de trovoadas (tipo “
+
+  storm-scope
+
+  ”) ou um radar meteorológico, ambos aprovados, instalado na aeronave.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- deteccao
+- passageiros
+- trovoadas
+- ambos
+- aprovados
+- assento
+- assentos
+- condicoes
+- configuracao
+- dada
+- diurnas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

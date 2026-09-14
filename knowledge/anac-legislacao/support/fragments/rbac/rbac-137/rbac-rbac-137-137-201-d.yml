@@ -1,0 +1,32 @@
+id: rbac-rbac-137-137-201-d
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.201'
+section_title: Requisitos para operação
+subsection_id: d
+cite: 137.201(d)
+title: 137.201(d)
+text: (d) Caso a aeronave seja equipada com dispositivo para alijamento do tanque como um
+  todo, o comando de alijamento do tanque deve possuir um sistema de proteção que impeça o
+  alijamento inadvertido.
+keywords:
+- aeroagricola
+- operacoes
+- alijamento
+- tanque
+- aeronave
+- caso
+- comando
+- dispositivo
+- equipada
+- impeca
+- inadvertido
+- operacao
+- possuir
+- protecao
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

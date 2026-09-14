@@ -1,0 +1,42 @@
+id: rbac-rbac-110-emd-02-110-79-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.79'
+section_title: Registro de organização com responsabilidade AVSEC
+subsection_id: a
+cite: 110.79(a)
+title: 110.79(a)
+text: '(a) A organização com responsabilidade AVSEC deve manter registro em arquivo, por no
+  mínimo 5 (cinco) anos, dos seguintes documentos:
+
+  (1) registro de frequência para ações de apresentação de aeronaves, no caso de operadores
+  aéreos;
+
+  (2) registro de frequência e descrição das atividades de reciclagem;
+
+  (3) declarações emitidas por centro de instrução que contenham os alunos aprovados em curso
+  de Formação em Inspeção de Segurança da Aviação Civil, habilitando-os para o início do Treinamento
+  em Serviço; e
+
+  (4) fichas de avaliação dos Treinamentos em Serviço realizados.'
+keywords:
+- carga
+- operacoes
+- registro
+- avsec
+- frequencia
+- organizacao
+- responsabilidade
+- servico
+- acoes
+- aereos
+- aeronaves
+- alunos
+- anos
+- apresentacao
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

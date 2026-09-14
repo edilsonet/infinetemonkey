@@ -1,0 +1,39 @@
+id: rbac-rbac-21-21-49-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.49'
+section_title: Disponibilidade e guarda de registros
+subsection_id: a
+cite: 21.49(a)
+title: 21.49(a)
+text: '(a) O detentor de um certificado de tipo deve manter seu certificado disponível para
+  qualquer verificação requerida pela ANAC. Adicionalmente, tal detentor deve manter e colocar
+  à disposição da ANAC todas as informações relevantes do projeto, desenhos e relatórios de
+  ensaios, incluindo registros das inspeções, a fim de assegurar a aeronavegabilidade continuada
+  do produto. (
+
+  Redação dada pela Resolução nº 624, de 07.06.2021
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- detentor
+- manter
+- registros
+- adicionalmente
+- assegurar
+- colocar
+- continuada
+- dada
+- desenhos
+- disponibilidade
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

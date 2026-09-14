@@ -1,0 +1,33 @@
+id: rbac-rbac-129-129-14-b
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.14'
+section_title: Requisitos de manutenção e Lista de Equipamentos Mínimos (MEL)
+subsection_id: b
+cite: 129.14(b)
+title: 129.14(b)
+text: (b) Nenhuma empresa estrangeira de transporte aéreo pode operar uma aeronave estrangeira
+  dentro do Brasil com algum instrumento ou equipamento inoperante a não ser que atenda ao
+  previsto no parágrafo 6.1.3 do Anexo 6, Parte I ou no parágrafo 4.1.3 do Anexo 6, Parte
+  III, Seção II, conforme aplicável, da Convenção de Aviação Civil Internacional.
+keywords:
+- operador-estrangeiro
+- operacoes
+- anexo
+- estrangeira
+- paragrafo
+- parte
+- aereo
+- aeronave
+- algum
+- aplicavel
+- atenda
+- aviacao
+- brasil
+- civil
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

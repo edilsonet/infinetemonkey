@@ -1,0 +1,37 @@
+id: rbac-rbha-e-rbac-21-99-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.99'
+section_title: Modificações de projeto obrigatórias
+subsection_id: a
+cite: 21.99(a)
+title: 21.99(a)
+text: '(a) Quando uma diretriz de aeronavegabilidade for emitida conforme o RBAC 39, o detentor
+  do certificado de tipo do produto envolvido deve:
+
+  (1) submeter à ANAC, para aprovação, modificações apropriadas no projeto de tipo, desde
+  que a mesma assim as requeira por considerar que tais modificações são necessárias para
+  corrigir condições inseguras do produto; e
+
+  (2) após a aprovação das modificações no projeto de tipo, divulgar, a todos os operadores
+  do produto a ser modificado, os dados descritivos das modificações aprovadas.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacoes
+- produto
+- tipo
+- aprovacao
+- apropriadas
+- aprovadas
+- assim
+- certificado
+- condicoes
+- considerar
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

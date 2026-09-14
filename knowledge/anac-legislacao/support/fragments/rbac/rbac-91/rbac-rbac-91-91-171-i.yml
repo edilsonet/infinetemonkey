@@ -1,0 +1,40 @@
+id: rbac-rbac-91-91-171-i
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.171'
+section_title: Verificação do equipamento de VOR para voo IFR
+subsection_id: i
+cite: 91.171(i)
+title: 91.171(i)
+text: '(i) a seleção de uma radial de VOR que indique o eixo de uma aerovia balizada por VOR;
+
+  (ii) a seleção de um ponto proeminente no solo, ao longo da radial selecionada,
+
+  preferencialmente a mais de 37 km (20 NM) da estação de VOR, e manobrar a aeronave diretamente
+
+  para esse ponto em, razoavelmente, baixa altitude; e
+
+  (iii) a anotação da marcação magnética indicada pelo receptor quando sobre o ponto (a
+
+  diferença máxima permissível entre a radial publicada e a marcação indicada é de ± 6 graus).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- ponto
+- radial
+- indicada
+- marcacao
+- selecao
+- aeronave
+- aerovia
+- altitude
+- anotacao
+- baixa
+- balizada
+- diferenca
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

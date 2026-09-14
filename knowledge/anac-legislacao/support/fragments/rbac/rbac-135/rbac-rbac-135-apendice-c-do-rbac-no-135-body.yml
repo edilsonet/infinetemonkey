@@ -1,0 +1,305 @@
+id: rbac-rbac-135-apendice-c-do-rbac-no-135-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: apendice-c-do-rbac-no-135
+section_title: APÊNDICE C DO RBAC Nº 135
+subsection_id: body
+cite: apendice-c-do-rbac-no-135
+title: APÊNDICE C DO RBAC Nº 135
+text: 'APÊNDICE C DO RBAC Nº 135
+
+  ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA HELICÓPTEROS
+
+  PARÁGRAFO 135.152 (a)
+
+  Parâmetros
+
+  Faixa
+
+  Precisão mínima do sistema instalado (para recuperação dos dados) (1)
+
+  Intervalo da amostragem (por segundo)
+
+  Resolução da leitura (3)
+
+  Tempo relativo (a contar da ligação do gravador antes da decolagem)
+
+  8 horas no mínimo
+
+  ± 0,125 % por hora
+
+  1
+
+  1 seg
+
+  Velocidade indicada
+
+  V
+
+  MIN
+
+  até V
+
+  D
+
+  (KIAS) (V
+
+  MIN
+
+  = menor sinal de velocidade obtenível com o sistema “pitot” estático instalado)
+
+  ± 5% ou ± 10 Kt, o que for maior
+
+  1
+
+  1 Kt
+
+  Altitude
+
+  -1000 pés até 20.000 pés de altitude pressão
+
+  ± 100 a ± 700 pés (ver tabela 1 da OTP C51-a)
+
+  1
+
+  25 a 150 pés
+
+  Proa magnética
+
+  360º
+
+  ± 5º
+
+  1
+
+  1º
+
+  Aceleração vertical
+
+  -3g a + 6g
+
+  ±0,2g em adição a ±0,3g de erro má- ximo de referência
+
+  4 (ou 1 por seg. se picos referentes a 1g forem gravados)
+
+  0,05g
+
+  Aceleração longitudinal
+
+  ± 1,0g
+
+  ± 1,5% da faixa máxima excluindo erro de referência de
+
+  +
+
+  5%
+
+  2
+
+  0,03g
+
+  Atitude de arfagem
+
+  100% da faixa utilizável
+
+  ± 2º
+
+  1
+
+  0,8º
+
+  Atitude de rolamento
+
+  ± 60º ou 100% da faixa utilizável, o que for maior
+
+  ± 2º
+
+  1
+
+  0,8º
+
+  Razão de altitude
+
+  ± 8000 pés/ min
+
+  ± 10%. Resolução de 250p/min abaixo de 12.000 pés
+
+  1
+
+  250 pés/min abaixo de12.000 pés
+
+  POTÊNCIA DO MOTOR, PARA CADA MOTOR
+
+  Rotação do rotor principal
+
+  Turbina livre ou não
+
+  Torque do motor
+
+  Faixa máxima
+
+  Faixa máxima
+
+  Faixa máxima
+
+  ± 5%
+
+  ± 5%
+
+  ± 5%
+
+  1
+
+  1
+
+  1
+
+  1% (2)
+
+  1% (2)
+
+  1% (2)
+
+  CONTROLES DE VOO - PRESSÃO HIDRÁULICA
+
+  Primário (discreto)
+
+  Secundário (se aplicável)
+
+  Alto/baixo
+
+  Alto/baixo
+
+  -
+
+  -
+
+  1
+
+  1
+
+  -
+
+  -
+
+  Transmissões rádio (discreto )
+
+  “on”/“off”
+
+  -
+
+  1
+
+  -
+
+  Piloto automático (discreto)
+
+  Engajado/ desengajado
+
+  -
+
+  1
+
+  -
+
+  “Status” do sistema aumentador de estabilidade (SAS) (discreto)
+
+  “Status” de falha do SAS (discreto)
+
+  Engajado / desengajado
+
+  Funcionando/com defeito
+
+  -
+
+  -
+
+  1
+
+  1
+
+  -
+
+  -
+
+  CONTROLES DE VOO
+
+  Coletivo
+
+  Posição do Pedal
+
+  Cíclico lateral
+
+  Cíclico longitudinal
+
+  Posição do estabilizador controlável
+
+  Faixa total
+
+  Faixa total
+
+  Faixa total
+
+  Faixa total
+
+  Faixa total
+
+  ± 3%
+
+  ± 3%
+
+  ± 3%
+
+  ± 3%
+
+  ± 3%
+
+  2
+
+  2
+
+  2
+
+  2
+
+  2
+
+  1% (2)
+
+  1% (2)
+
+  1% (2)
+
+  1% (2)
+
+  1% (2)
+
+  (1) Quando as fontes de dados forem instrumentos de aeronaves (exceto altímetros) de qualidade
+  aceitável para voá-la, o sistema de gravação (excluindo esses sensores, mas incluindo todas
+  as demais características do sistema de gravação) pode prover não mais que metade dos valores
+  desta coluna.
+
+  (2) Porcentagem da faixa total.
+
+  (3) Esta coluna aplica-se a aeronaves fabricadas após 11 de outubro de 1991.'
+keywords:
+- taxi-aereo
+- operacoes
+- faixa
+- total
+- discreto
+- sistema
+- maxima
+- altitude
+- apendice
+- dados
+- motor
+- abaixo
+- aceleracao
+- aeronaves
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

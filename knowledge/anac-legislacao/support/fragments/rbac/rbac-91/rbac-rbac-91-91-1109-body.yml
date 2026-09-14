@@ -1,0 +1,32 @@
+id: rbac-rbac-91-91-1109-body
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1109'
+section_title: Manutenção das aeronaves
+subsection_id: body
+cite: '91.1109'
+title: Manutenção das aeronaves
+text: '91.1109 Manutenção das aeronaves
+
+  O administrador de programa deve manter as aeronaves do programa de acordo com as seções
+  91.401
+
+  a 91.423 deste Regulamento.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronaves
+- manutencao
+- programa
+- acordo
+- administrador
+- deste
+- manter
+- regulamento
+- secoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-155-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.155'
+section_title: 'Extintores de incêndio: aeronaves transportando passageiros'
+subsection_id: a
+cite: 135.155(a)
+title: 135.155(a)
+text: (a) o tipo e a quantidade do agente extintor devem ser adequados para todos os tipos
+  de fogo de ocorrência previsível;
+keywords:
+- taxi-aereo
+- operacoes
+- adequados
+- aeronaves
+- agente
+- extintor
+- extintores
+- fogo
+- incendio
+- ocorrencia
+- passageiros
+- previsivel
+- quantidade
+- tipo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

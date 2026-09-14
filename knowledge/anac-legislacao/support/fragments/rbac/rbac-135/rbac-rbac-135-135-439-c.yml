@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-439-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.439'
+section_title: Requisitos de registros de manutenção
+subsection_id: c
+cite: 135.439(c)
+title: 135.439(c)
+text: '(c) O detentor de certificado deve colocar à disposição dos servidores designados pela
+  ANAC, sempre que requerido, todos os registros de manutenção estabelecidos por esta seção.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- registros
+- certificado
+- colocar
+- dada
+- designados
+- detentor
+- disposicao
+- estabelecidos
+- redacao
+- requerido
+- requisitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

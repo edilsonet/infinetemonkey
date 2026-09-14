@@ -1,0 +1,37 @@
+id: rbac-rbac-135-a135-21-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.21
+section_title: Sistema de indução
+subsection_id: a
+cite: A135.21(a)
+title: A135.21(a)
+text: '(a) Indução de ar. Para aviões com motores turboélice:
+
+  (1) deve haver meios para evitar que quantidades perigosas de líquidos inflamáveis, proveniente
+  de drenos e respiros de combustível ou de vazamentos de outros componentes de sistemas de
+  fluidos inflamáveis, entrem no sistema de entrada de ar dos motores.
+
+  (2) os dutos das entradas de ar devem ser localizados ou protegidos de modo a minimizar
+  a probabilidade de ingestão de material estranho durante a decolagem, pouso e táxi.'
+keywords:
+- taxi-aereo
+- operacoes
+- inducao
+- inflamaveis
+- motores
+- sistema
+- a135
+- avioes
+- combustivel
+- componentes
+- decolagem
+- drenos
+- durante
+- dutos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

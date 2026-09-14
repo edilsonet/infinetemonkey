@@ -1,0 +1,69 @@
+id: rbac-rbac-031-a31-4-body
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: A31.4
+section_title: Seção de limitações de aeronavegabilidade.
+subsection_id: body
+cite: A31.4
+title: Seção de limitações de aeronavegabilidade.
+text: 'A31.4 Seção de limitações de aeronavegabilidade.
+
+
+  As Instruções para Aeronavegabilidade Continuada
+
+  devem conter uma seção intitulada: Limitações de
+
+  Aeronavegabilidade que é segregada e claramente
+
+  distinguível do resto do documento. Esta seção estabe-
+
+  lece cada período de substituição mandatório, interva-
+
+  los de inspeção estrutural, e correspondentes procedi-
+
+  mentos de inspeção, incluindo a integridade estrutural
+
+  do envelope, requeridos para a certificação de tipo. Se
+
+  as Instruções para Aeronavegabilidade Continuada
+
+  consistirem de vários documentos, a seção requerida
+
+  por este parágrafo deve ser incluída no manual princi-
+
+  pal. Esta seção deve conter uma declaração legível,
+
+  em uma posição de destaque, onde se lê: ”A seção de
+
+  Limitações de Aeronavegabilidade é aprovada pela
+
+  ANAC e contém as informações de manutenção re-
+
+  queridas segundo as seções 43.16 e 91.403 dos
+
+  RBHA/RBAC 43 e 91 respectivamente.
+
+
+  Em caso de divergência de interpretação, prevalece o texto em inglês.
+
+  In case of divergence, the English version shall prevail.'
+keywords:
+- aeronavegabilidade
+- baloes
+- secao
+- limitacoes
+- conter
+- continuada
+- estrutural
+- inspecao
+- instrucoes
+- aprovada
+- cada
+- case
+- caso
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

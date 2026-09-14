@@ -1,0 +1,37 @@
+id: rbac-rbac-91-91-1007-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1007'
+section_title: Voos conduzidos segundo o RBAC nº 121 ou RBAC nº 135
+subsection_id: b
+cite: 91.1007(b)
+title: 91.1007(b)
+text: '(b) Um administrador de programa que seja detentor de um certificado emitido segundo
+  o RBAC
+
+  nº 119 pode conduzir um voo para uso de um cotista segundo o RBAC nº 121 ou 135 se a aeronave
+
+  estiver listada nas especificações operativas emitidas segundo o RBAC nº 121 ou 135, como
+
+  aplicável, desse detentor de certificado.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- segundo
+- certificado
+- detentor
+- administrador
+- aeronave
+- aplicavel
+- conduzidos
+- conduzir
+- cotista
+- desse
+- emitidas
+- emitido
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,410 @@
+id: rbac-rbac-155-apendice-a-do-rbac-155-requisitos-de-qualidade-de-dados-aeronauticos-body
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: apendice-a-do-rbac-155-requisitos-de-qualidade-de-dados-aeronauticos
+section_title: APÊNDICE A DO RBAC 155 - REQUISITOS DE QUALIDADE DE DADOS AERONÁUTICOS
+subsection_id: body
+cite: apendice-a-do-rbac-155-requisitos-de-qualidade-de-dados-aeronauticos
+title: APÊNDICE A DO RBAC 155 - REQUISITOS DE QUALIDADE DE DADOS AERONÁUTICOS
+text: 'APÊNDICE A DO RBAC 155 - REQUISITOS DE QUALIDADE DE DADOS AERONÁUTICOS
+
+  Tabela A-1. Latitude e longitude
+
+  Latitude e longitude
+
+  Acurácia
+
+  Tipo de dado
+
+  Integridade Classificação
+
+  Ponto de referência do heliponto...............................................................
+
+  30 m
+
+  levantado/calculado
+
+  rotina
+
+  Auxílios à navegação aérea localizados no heliponto...............................
+
+  3 m
+
+  levantado
+
+  essencial
+
+  Obstáculos na Área 3.................................................................................
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Obstáculos na Área 2 (na parte dentro dos limites do heliponto)..............
+
+  5 m
+
+  levantado
+
+  essencial
+
+  Centro geométrico da TLOF ou das cabeceiras da FATO.........................
+
+  1 m
+
+  levantado
+
+  crítica
+
+  Pontos do eixo das pistas de táxi terrestre de helicóptero e das pistas de táxi aéreo de
+  helicóptero............................................................................
+
+  0,5 m
+
+  levantado/calculado
+
+  essencial
+
+  Sinalização horizontal de interseção das pistas de táxi terrestre de helicóptero.................................................................................................
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Sinalização horizontal de orientação de saída terrestre.............................
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Limites do pátio de estacionamento (polígono).........................................
+
+  1 m
+
+  levantado
+
+  rotina
+
+  Pontos das posições de estacionamento de aeronaves / pontos de verificação de INS.....................................................................................
+
+  0,5 m
+
+  levantado
+
+  rotina
+
+  Tabela A-2. Elevação/altitude/altura
+
+  Elevação/altitude/altura
+
+  Acurácia
+
+  Tipo de dado
+
+  Integridade Classificação
+
+  Elevação do heliponto......................................................................................
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Ondulação da geoide WGS-84 na posição de elevação do heliponto..............
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Altura de cruzamento do heliponto, aproximações PinS.................................
+
+  0,5 m
+
+  calculado
+
+  essencial
+
+  Cabeceira da FATO, para helipontos com ou sem aproximação PinS............
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Ondulação da geoide WGS-84 na cabeceira da FATO, centro geométrico da TLOF, para helipontos
+  com ou sem aproximação PinS...................................
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Cabeceira da FATO, para helipontos com operação por instrumento.............
+
+  0,25 m
+
+  levantado
+
+  crítica
+
+  Ondulação da geoide WGS-84 na cabeceira da FATO, centro geométrico da TLOF, para helipontos
+  com operação por instrumento...................................
+
+  0,25 m
+
+  levantado
+
+  crítica
+
+  Pontos do eixo das pistas de táxi terrestre de helicóptero e das pistas de táxi aéreo de
+  helicóptero.........................................................................................
+
+  1 m
+
+  levantado
+
+  essencial
+
+  Obstáculos na Área 2 (na parte dentro dos limites do heliponto)....................
+
+  3 m
+
+  levantado
+
+  essencial
+
+  Obstáculos na Área 3.......................................................................................
+
+  0,5 m
+
+  levantado
+
+  essencial
+
+  Equipamento de medição de distâncias / precisão (DME/P)...........................
+
+  3 m
+
+  levantado
+
+  essencial
+
+  Tabela A-3. Declinação e variaçã
+
+  o magnética
+
+  Declinação/variação
+
+  Acurácia
+
+  Tipo de dado
+
+  Integridade Classificação
+
+  Variação magnética do heliponto..................................................................
+
+  1 grau
+
+  levantado
+
+  essencial
+
+  Variação magnética da antena do localizador do ILS...................................
+
+  1 grau
+
+  levantado
+
+  essencial
+
+  Variação magnética da antena de azimute do MLS......................................
+
+  1 grau
+
+  levantado
+
+  essencial
+
+  Tabela
+
+  A-4. Orientação
+
+  Orientação
+
+  Acurácia
+
+  Tipo de dado
+
+  Integridade Classificação
+
+  Alinhamento do localizador do ILS..............................................................
+
+  1/100 grau
+
+  levantado
+
+  essencial
+
+  Alinhamento de azimute zero do MLS.........................................................
+
+  1/100 grau
+
+  levantado
+
+  essencial
+
+  Orientação (verdadeira) da FATO................................................................
+
+  1/100 grau
+
+  levantado
+
+  rotina
+
+  Tabe
+
+  la A-5. Comprimento/distância/dimensão
+
+  Comprimento/distância/dimensão
+
+  Acurácia
+
+  Tipo de dado
+
+  Integridade Classificação
+
+  Comprimento da FATO, dimensões da TLOF.................................................
+
+  1 m
+
+  levantado
+
+  crítica
+
+  Comprimento e largura da zona desimpedida (clearway)................................
+
+  1 m
+
+  levantado
+
+  essencial
+
+  Distância disponível para pouso de helicópteros (LDAH)..............................
+
+  1 m
+
+  levantado
+
+  crítica
+
+  Distância disponível para decolagem de helicópteros (TODAH)....................
+
+  1 m
+
+  levantado
+
+  crítica
+
+  Distância disponível para decolagem interrompida de helicópteros (RTODAH)......................................................................................................
+
+  1 m
+
+  levantado
+
+  crítica
+
+  Largura das pistas de táxi terrestre de helicóptero ou das pistas de táxi aéreo de helicóptero
+  / rotas de táxi............................................................................
+
+  1 m
+
+  levantado
+
+  essencial
+
+  Distância entre a antena do localizador do ILS e o final da FATO.................
+
+  3 m
+
+  calculado
+
+  rotina
+
+  Distância, ao longo do eixo, entre a antena do indicador da trajetória de planeio do ILS
+  e a cabeceira............................................................................
+
+  3m
+
+  calculado
+
+  rotina
+
+  Distância entre os marcadores do ILS e a cabeceira........................................
+
+  3m
+
+  calculado
+
+  essencial
+
+  Distância, ao longo do eixo, entre a antena do ILS DME e a cabeceira..........
+
+  3m
+
+  calculado
+
+  essencial
+
+  Distância entre a antena de azimute do MLS e o final da FATO....................
+
+  3m
+
+  calculado
+
+  rotina
+
+  Distância, ao longo do eixo, entre a elevação da antena do MLS e a cabeceira...........................................................................................................
+
+  3m
+
+  calculado
+
+  rotina
+
+  Distância, ao longo do eixo, entre a antena do MLS DME/P e a cabeceira.....
+
+  3m
+
+  calculado
+
+  essencial'
+keywords:
+- seguranca-aeroportuaria
+- levantado
+- essencial
+- distancia
+- calculado
+- cabeceira
+- fato
+- antena
+- heliponto
+- rotina
+- taxi
+- critica
+- helicoptero
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

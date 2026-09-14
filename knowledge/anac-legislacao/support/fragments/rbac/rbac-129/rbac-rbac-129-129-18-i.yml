@@ -1,0 +1,64 @@
+id: rbac-rbac-129-129-18-i
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.18'
+section_title: Sistema anti-colisão
+subsection_id: i
+cite: 129.18(i)
+title: 129.18(i)
+text: '(i) TCAS II que atenda ao TSO C-119b (versão 7.0), ou uma versão mais recente;
+
+  (ii) TCAS II that meets TSO C-119a (version 6.04A Enhanced) that was installed in the airplane
+  before May 1, 2003. If that TCAS II version 6.04A Enhanced no longer can be repaired to
+  TSO C-119a standards, it must be replaced with a TCAS II that meets TSO C-119b (version
+  7.0), or a later version; or
+
+  (ii) TCAS II que atenda ao TSO C-119a (versão 6.04A
+
+  Enhanced
+
+  ) que tenha sido instalado na aeronave antes de 1° de maio de 2003. Se esse TCAS II versão
+  6.04A
+
+  Enhanced
+
+  não puder mais ser reparado nos padrões do TSO C-119a, o mesmo deve ser substituído por
+  um TCAS II que atenda ao TSO-119b (versão 7.0), ou versão mais recente; ou
+
+  (iii) a collision avoidance system equivalent to TSO C-119b (version 7.0), or a later version,
+  capable of coordinating with units that meet TSO C-119a (version 6.04A Enhanced), or a later
+  version; or
+
+  (iii) um sistema anti-colisão equivalente ao TSO C-119b (versão 7.0), ou versão mais recente,
+  capaz de coordenação com unidades que atendam ao TSO C-119a (versão 6.04
+
+  Enhanced
+
+  ), ou versão mais recente; ou
+
+  (2) with a passenger-seat configuration, excluding any pilot seat, of 10-30 seats, must
+  operate that airplane with:
+
+  (2) configuração de assentos, excluindo quaisquer assentos da tripulação de voo, de 10 a
+  30 assentos, deve ser operada com os seguintes equipamentos:'
+keywords:
+- operador-estrangeiro
+- operacoes
+- versao
+- version
+- tcas
+- 119a
+- enhanced
+- that
+- 119b
+- recente
+- with
+- assentos
+- atenda
+- later
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

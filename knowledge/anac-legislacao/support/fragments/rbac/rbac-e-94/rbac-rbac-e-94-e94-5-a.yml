@@ -1,0 +1,35 @@
+id: rbac-rbac-e-94-e94-5-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.5
+section_title: Classificação do RPAS e da RPA
+subsection_id: a
+cite: E94.5(a)
+title: E94.5(a)
+text: '(a) O RPAS e a RPA são classificados de acordo com o peso máximo de decolagem (PMD)
+  da RPA da seguinte maneira:
+
+  (1) Classe 1: RPA com peso máximo de decolagem maior que 150 kg;
+
+  (2) Classe 2: RPA com peso máximo de decolagem maior que 25 kg e menor ou igual a 150 kg;
+  e
+
+  (3) Classe 3: RPA com peso máximo de decolagem menor ou igual a 25 kg.'
+keywords:
+- decolagem
+- maximo
+- peso
+- classe
+- igual
+- maior
+- menor
+- rpas
+- acordo
+- classificacao
+- classificados
+- maneira
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

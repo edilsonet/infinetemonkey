@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-393-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.393'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações de pouso
+  no aeródromo de destino'
+subsection_id: a
+cite: 135.393(a)
+title: 135.393(a)
+text: '(a) No caso de um grande avião não incluído na categoria transporte, é vedado decolar
+  com este avião com um peso que:
+
+  (1) considerando o consumo de óleo e combustível previsto, seja maior do que o peso que
+  permite um pouso com parada total dentro de 60% do comprimento efetivo da pista mais adequada
+  no aeródromo de destino; ou
+
+  (2) seja maior que o peso permissível se o pouso é para ser realizado:'
+keywords:
+- taxi-aereo
+- operacoes
+- peso
+- pouso
+- aerodromo
+- aviao
+- categoria
+- destino
+- maior
+- seja
+- transporte
+- adequada
+- avioes
+- caso
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

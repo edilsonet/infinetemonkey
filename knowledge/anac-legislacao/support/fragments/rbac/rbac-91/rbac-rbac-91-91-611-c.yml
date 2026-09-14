@@ -1,0 +1,58 @@
+id: rbac-rbac-91-91-611-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.611'
+section_title: Autorização para voo de traslado com um motor inoperante
+subsection_id: c
+cite: 91.611(c)
+title: 91.611(c)
+text: '(c) O desempenho de um avião com motores a turbina com um motor inoperante deve ser
+
+  determinado por ensaios em voo que incluam pelo menos 3 ensaios de decolagem de acordo com
+  o
+
+  seguinte:
+
+  (1) devem ser escolhidas velocidades VR e V2 não menores que as correspondentes velocidades
+
+  com as quais o avião foi certificado segundo a seção 25.107 do RBAC nº 25, nas quais o avião
+  possa
+
+  ser satisfatoriamente controlado com o motor crítico inoperante (com sua hélice removida
+  ou na
+
+  configuração escolhida pelo operador, se aplicável) e com os demais motores operando a não
+  mais
+
+  que a potência selecionada para a certificação de tipo como definido pela seção 25.101 do
+  RBAC nº
+
+  25;
+
+  (2) o comprimento mínimo de pista para decolagem deve ser a distância horizontal requerida
+
+  para acelerar e subir até 35 pés de altura, na velocidade V2 (incluindo qualquer incremento
+  adicional
+
+  de velocidade obtido no ensaio) multiplicada por 1,15 e determinada com:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aviao
+- inoperante
+- motor
+- decolagem
+- ensaios
+- motores
+- quais
+- secao
+- velocidade
+- velocidades
+- acelerar
+- acordo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

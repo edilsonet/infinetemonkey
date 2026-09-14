@@ -1,0 +1,35 @@
+id: rbac-rbac-91-91-413-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.413'
+section_title: Testes e inspeções do transponder
+subsection_id: b
+cite: 91.413(b)
+title: 91.413(b)
+text: '(b) Após qualquer instalação ou manutenção do transponder, quando erros na correspondência
+  de
+
+  dados podem ser introduzidos, o sistema como um todo deve ser testado, inspecionado e considerado
+
+  conforme com o parágrafo E43.1(c) do Apêndice E do RBAC nº 43.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- transponder
+- apendice
+- considerado
+- correspondencia
+- dados
+- erros
+- inspecionado
+- inspecoes
+- instalacao
+- introduzidos
+- manutencao
+- paragrafo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

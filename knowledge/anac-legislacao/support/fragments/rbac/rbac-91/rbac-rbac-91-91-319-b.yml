@@ -1,0 +1,38 @@
+id: rbac-rbac-91-91-319-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.319'
+section_title: Aeronave civil com certificado de autorização de voo experimental (CAVE)
+subsection_id: b
+cite: 91.319(b)
+title: 91.319(b)
+text: '(b) Somente é permitido operar uma aeronave com CAVE fora da área designada em NOTAM,
+
+  acordo operacional com autoridade aeronáutica ou AIP, se for demonstrado que:
+
+  (1) a aeronave é controlável ao longo de toda a faixa normal de velocidades e em todas as
+
+  manobras a serem executadas; e
+
+  (2) a aeronave não possui características de projeto ou de operação perigosas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- cave
+- acordo
+- aeronautica
+- area
+- autoridade
+- autorizacao
+- caracteristicas
+- certificado
+- civil
+- controlavel
+- demonstrado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

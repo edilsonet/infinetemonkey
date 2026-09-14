@@ -1,0 +1,49 @@
+id: rbac-rbac-155-155-101-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.101'
+section_title: '155.101'
+subsection_id: b
+cite: 155.101(b)
+title: 155.101(b)
+text: '(b)
+
+  A integridade dos dados aeronáuticos deve ser mantida por meio de todo o processamento dos
+  dados, desde o seu levantamento/origem até sua obtenção pelo usuário interessado. Com base
+  na classificação de integridade aplicável, os procedimentos de validação e verificação devem:
+
+  (1)
+
+  para dados de rotina: evitar corrupção de dados ao longo do seu processamento;
+
+  (2)
+
+  para dados essenciais: assegurar que não ocorra corrupção de dados em nenhuma etapa do processo,
+  podendo incluir processos adicionais, conforme necessário, para tratar de riscos potenciais
+  em toda arquitetura do sistema, assegurando a integridade dos dados neste nível; e
+
+  (3)
+
+  para dados críticos: assegurar que não ocorra corrupção de dados em nenhuma etapa do processo,
+  incluindo procedimentos adicionais de garantia da integridade para mitigar totalmente os
+  efeitos de falhas identificadas como risco potencial à integridade dos dados, por meio de
+  análise detalhada de toda arquitetura do sistema.'
+keywords:
+- seguranca-aeroportuaria
+- dados
+- integridade
+- corrupcao
+- adicionais
+- arquitetura
+- assegurar
+- etapa
+- meio
+- nenhuma
+- ocorra
+- procedimentos
+- processamento
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

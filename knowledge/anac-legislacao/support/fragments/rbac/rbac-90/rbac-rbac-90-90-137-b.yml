@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-137-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.137'
+section_title: Componente 2 - gerenciamento de riscos à segurança operacional
+subsection_id: b
+cite: 90.137(b)
+title: 90.137(b)
+text: '(b) Elemento 2.2 - Processo de avaliação e controle de riscos.
+
+  (1) O órgão ou ente público deverá desenvolver e manter um processo que assegure a análise,
+  a avaliação e o controle dos riscos à segurança operacional associados aos perigos identificados.'
+keywords:
+- regras-de-voo
+- operacoes
+- riscos
+- avaliacao
+- controle
+- operacional
+- processo
+- seguranca
+- analise
+- assegure
+- associados
+- componente
+- desenvolver
+- devera
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-135-a135-3-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.3
+section_title: Desempenho
+subsection_id: d
+cite: A135.3(d)
+title: A135.3(d)
+text: '(d) Pouso.
+
+  (1) O comprimento da pista de pouso descrito no parágrafo A135.3(d)(2) desta seção deve
+  ser determinado para atmosfera padrão, em cada peso e altitude dentro dos limites operacionais
+  estabelecidos pelo requerente.
+
+  (2) O comprimento da pista de pouso é igual à distância de pouso determinada no RBAC nº
+  23 dividido por 0,6 para o aeródromo de destino e por 0,7 para o aeródromo de alternativa.
+  Em lugar da aproximação em planeio especificada no RBAC nº 23, o pouso deve ser precedido
+  por uma aproximação estável até 15 m (50 pés) de altura, com um gradiente de descida não
+  maior do que 5,2% (3º), a uma velocidade calibrada não inferior a 1,3 VS1.'
+keywords:
+- taxi-aereo
+- operacoes
+- pouso
+- a135
+- aerodromo
+- aproximacao
+- comprimento
+- pista
+- alternativa
+- altitude
+- altura
+- atmosfera
+- cada
+- calibrada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

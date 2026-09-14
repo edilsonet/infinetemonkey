@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-297-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.297'
+section_title: 'Piloto em comando: requisitos para exame de proficiência em voo por instrumentos'
+subsection_id: d
+cite: 135.297(d)
+title: 135.297(d)
+text: (d) Se o piloto em comando for designado para voar apenas em um tipo de aeronave, o
+  exame de proficiência requerido pelo parágrafo (a) desta seção deve ser conduzido nesse
+  tipo de aeronave.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- comando
+- exame
+- piloto
+- proficiencia
+- tipo
+- conduzido
+- designado
+- desta
+- instrumentos
+- nesse
+- paragrafo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,45 @@
+id: rbac-rbac-121-121-135-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.135'
+section_title: Conteúdo do sistema de manuais
+subsection_id: a
+cite: 121.135(a)
+title: 121.135(a)
+text: '(a) Cada sistema de manuais requerido por RBAC 121.133 deve:
+
+  (1) conter instruções e informações necessárias ao pessoal envolvido, de modo a permitir
+  que cada pessoa cumpra suas atribuições e responsabilidades com alto grau de segurança;
+
+  (2) ter uma composição que facilite revisões;
+
+  (3) ter a data da última revisão em cada uma de suas páginas; e
+
+  (4)
+
+  não contrariar nenhuma legislação brasileira vigente e, no caso de operações internacionais,
+  nenhuma legislação estrangeira aplicável. Não contrariar, ainda, o contido no COA e respectivas
+  especificações operativas.
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)'
+keywords:
+- transporte-aereo
+- operacoes
+- cada
+- contrariar
+- legislacao
+- manuais
+- nenhuma
+- sistema
+- alto
+- aplicavel
+- atribuicoes
+- brasileira
+- caso
+- composicao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

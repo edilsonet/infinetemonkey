@@ -1,0 +1,46 @@
+id: rbac-rbac-43-43-15-b
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.15'
+section_title: Regras adicionais para execução de inspeções
+subsection_id: b
+cite: 43.15(b)
+title: 43.15(b)
+text: '(b) Aeronaves de asas rotativas. Cada pessoa que estiver realizando uma inspeção de
+  aeronave
+
+  de asas rotativas requerida pelo RBAC nº 91 deve inspecionar os seguintes sistemas de acordo
+  com
+
+  o manual de manutenção, ou com as instruções para aeronavegabilidade continuada emitidas
+  pelo
+
+  fabricante da aeronave: (Redação dada pela Resolução nº 612, de 09.03.2021)
+
+  (1) eixos de transmissão ou sistema similar;
+
+  (2) caixa de transmissão do rotor principal quanto a defeitos evidentes;
+
+  (3) rotor principal e seção central (ou área equivalente); e
+
+  (4) rotor auxiliar de helicópteros.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- rotor
+- aeronave
+- asas
+- principal
+- rotativas
+- transmissao
+- acordo
+- adicionais
+- aeronaves
+- area
+- auxiliar
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

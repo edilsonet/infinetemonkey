@@ -1,0 +1,43 @@
+id: rbac-rbac-90-90-385-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.385'
+section_title: Alijamento de emergência ou inadvertido de carga externa
+subsection_id: a
+cite: 90.385(a)
+title: 90.385(a)
+text: '(a) Para os efeitos deste Regulamento, considera-se:
+
+  (1)
+
+  alijamento de emergência
+
+  : a liberação intencional da carga externa em virtude de uma situação de emergência com
+  aeronave, tripulantes, pessoas com função a bordo, ambiente operacional, etc.; e
+
+  (2)
+
+  alijamento inadvertido
+
+  : a liberação não intencional da carga externa devido a falha mecânica ou operacional.'
+keywords:
+- regras-de-voo
+- operacoes
+- alijamento
+- carga
+- emergencia
+- externa
+- inadvertido
+- intencional
+- liberacao
+- operacional
+- aeronave
+- ambiente
+- bordo
+- considera
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

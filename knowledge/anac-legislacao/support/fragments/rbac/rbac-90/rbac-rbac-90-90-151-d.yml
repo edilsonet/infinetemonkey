@@ -1,0 +1,43 @@
+id: rbac-rbac-90-90-151-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.151'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 90.151(d)
+title: 90.151(d)
+text: '(d) O programa de treinamento deverá ser compatível com o relatório de avaliação operacional
+  ou com os OSD do modelo de aeronave publicados pela ANAC.
+
+  (1) Na ausência de relatório de avaliação operacional ou de OSD da ANAC, considera-se aquele
+  publicado por outra autoridade de aviação civil.
+
+  (2) Na ausência de relatório de avaliação operacional ou de OSD publicado por autoridade
+  de aviação civil, deve-se cumprir com o programa de treinamento do fabricante da aeronave
+  ou centro de treinamento certificado por autoridade de aviação civil nacional ou internacional.
+
+  (3) Na ausência dos dispositivos previstos nos parágrafos (d)(1) e (d)(2) desta seção, a
+  UAP deverá definir a ementa mínima de treinamento, além de incluir os demais componentes
+  curriculares do currículo de solo e de exercícios práticos estabelecidos na subparte M deste
+  Regulamento.'
+keywords:
+- regras-de-voo
+- operacoes
+- treinamento
+- ausencia
+- autoridade
+- avaliacao
+- aviacao
+- civil
+- operacional
+- relatorio
+- aeronave
+- devera
+- programa
+- publicado
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

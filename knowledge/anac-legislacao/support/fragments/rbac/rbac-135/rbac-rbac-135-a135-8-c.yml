@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-8-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.8
+section_title: 'Instrumentos: instalação'
+subsection_id: c
+cite: A135.8(c)
+title: A135.8(c)
+text: '(c) Sistema de pressão estática. O sistema de pressão estática deve atender aos requisitos
+  do RBAC nº 23. A calibração do sistema do altímetro deve ser determinada e incluída no manual
+  de voo do avião.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- sistema
+- estatica
+- pressao
+- a135
+- altimetro
+- atender
+- aviao
+- calibracao
+- dada
+- determinada
+- incluida
+- instalacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

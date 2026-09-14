@@ -1,0 +1,46 @@
+id: rbac-rbac-045-45-15-a
+kind: rbac
+document: rbac-045
+family: '45'
+section_id: '45.15'
+section_title: Marcação de peças PAA, OTP e componentes críticos
+subsection_id: a
+cite: 45.15(a)
+title: 45.15(a)
+text: '(a) Peças PAA (Produto Aeronáutico Aprovado). Exceto como previsto no parágrafo (d)
+  desta
+
+  seção, cada fabricante de peças de reposição ou modificação segundo um certificado de produto
+
+  aeronáutico aprovado e/ou certificado de organização de produção, segundo a subparte K do
+  RBAC
+
+  21, deve marcar essa peça de modo permanente e legível com as seguintes informações:
+
+  (1) as letras ANAC-PAA;
+
+  (2) o nome, marca patenteada, símbolo do detentor do certificado de produto aeronáutico
+
+  aprovado ou outra identificação aprovada pela ANAC; e
+
+  (3) número da peça (part number).'
+keywords:
+- identificacao
+- aeronavegabilidade
+- aeronautico
+- aprovado
+- certificado
+- pecas
+- produto
+- peca
+- segundo
+- aprovada
+- cada
+- componentes
+- criticos
+- desta
+categories:
+- identificacao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-045.md

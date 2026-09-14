@@ -1,0 +1,41 @@
+id: rbac-rbac-36-k6-2-b
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K6.2
+section_title: Takeoff Reference Procedure.
+subsection_id: b
+cite: K6.2(b)
+title: K6.2(b)
+text: '(b) The tiltrotor power must be stabilized at the maximum takeoff power corresponding
+  to the
+
+  minimum installed engine(s) specification power available for the reference ambient conditions
+  or
+
+  gearbox torque limit, whichever is lower. The tiltrotor power must also be stabilized along
+  a path
+
+  starting from a point located 1,640 feet (500 m) before the flight path reference point,
+  at 65 ft (20
+
+  m) above ground level;'
+keywords:
+- ruido
+- meio-ambiente
+- power
+- reference
+- must
+- path
+- point
+- stabilized
+- takeoff
+- tiltrotor
+- above
+- along
+- also
+- ambient
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

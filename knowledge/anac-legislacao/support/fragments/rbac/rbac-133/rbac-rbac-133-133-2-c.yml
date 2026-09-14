@@ -1,0 +1,43 @@
+id: rbac-rbac-133-133-2-c
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.2'
+section_title: Definições
+subsection_id: c
+cite: 133.2(c)
+title: 133.2(c)
+text: '(c) "Categoria A" significa, referindo-se a aeronaves de asas rotativas da categoria
+  transporte,
+
+  uma aeronave de asa rotativa, multimotora, projetada com as características de isolamento
+  de
+
+  motores e sistemas especificadas no RBAC 29 e utilizando operações de decolagem e pouso
+  pré-
+
+  definidas segundo um conceito de falha do motor crítico que assegure uma área adequada e
+
+  capacidade de desempenho adequado para prosseguir o voo seguro na eventualidade de uma falha
+
+  de motor.'
+keywords:
+- carga-externa
+- helicoptero
+- categoria
+- falha
+- motor
+- adequada
+- adequado
+- aeronave
+- aeronaves
+- area
+- asas
+- assegure
+- capacidade
+- caracteristicas
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

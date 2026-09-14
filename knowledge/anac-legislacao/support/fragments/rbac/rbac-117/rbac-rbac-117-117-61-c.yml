@@ -1,0 +1,56 @@
+id: rbac-rbac-117-117-61-c
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: '117.61'
+section_title: Gerenciamento de risco da fadiga (GRF)
+subsection_id: c
+cite: 117.61(c)
+title: 117.61(c)
+text: '(c) O operador deve incluir os seguintes itens no seu manual:
+
+  (1) todos os procedimentos requeridos pelos parágrafos 117.19 (c), 117.19 (e) e 117.19 (f)(1)(ii)
+
+  deste Regulamento;
+
+  (2) os procedimentos para identificar qualquer perigo razoavelmente previsível que possa
+
+  comprometer o estado de alerta de um tripulante durante uma jornada;
+
+  (3) os procedimentos para determinar os limites operacionais e requisitos requeridos pelo
+
+  parágrafo 117.19 (c)(4) relacionados à identificação de perigos;
+
+  (4) os procedimentos para monitoramento contínuo e avaliação das políticas, limites, práticas
+  e
+
+  experiências organizacionais relevantes, levando em conta os perigos identificados pelo
+
+  procedimento requerido pelo parágrafo (c)(2) desta seção, visando a melhoria contínua do
+
+  gerenciamento da fadiga e do gerenciamento de risco da fadiga;
+
+  (5) caso o operador conduza operações sob múltiplos apêndices, os procedimentos para
+
+  assegurar que as transições entre os diferentes limites dos apêndices:'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- procedimentos
+- gerenciamento
+- limites
+- apendices
+- operador
+- paragrafo
+- perigos
+- requeridos
+- risco
+- alerta
+- assegurar
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

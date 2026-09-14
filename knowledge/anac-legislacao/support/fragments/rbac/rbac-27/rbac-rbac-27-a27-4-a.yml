@@ -1,0 +1,58 @@
+id: rbac-rbac-27-a27-4-a
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.4
+section_title: Airworthiness Limitations section.
+subsection_id: a
+cite: A27.4(a)
+title: A27.4(a)
+text: '(a)
+
+  General. The helicopter must possess positive static longitudinal control force stability
+  at critical
+
+  combinations of weight and center of gravity at the conditions specified in paragraph IV
+  (b) or (c) of
+
+  this appendix, as appropriate. The stick force must vary with speed so that any substantial
+  speed
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR Appendix-B-to-Part-27 I.
+
+  14 CFR Appendix-B-to-Part-27 IV.(a) (enhanced display)
+
+  page 117 of 126
+
+
+  change results in a stick force clearly perceptible to the pilot. For single-pilot approval,
+  the airspeed
+
+  must return to within 10 percent of the trim speed when the control force is slowly released
+  for each
+
+  trim condition specified in paragraph IV(b) of the this appendix.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- appendix
+- force
+- must
+- part
+- speed
+- airworthiness
+- control
+- paragraph
+- pilot
+- specified
+- stick
+- this
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

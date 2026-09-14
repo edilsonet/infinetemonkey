@@ -1,0 +1,34 @@
+id: rbac-rbac-153-153-211-f
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.211'
+section_title: '153.211'
+subsection_id: f
+cite: 153.211(f)
+title: 153.211(f)
+text: '(f)
+
+  O operador de aeródromo deve monitorar a pista de pouso e decolagem, pista de táxi e pátio
+
+  de estacionamento de aeronaves por meio de inspeções regulares.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- pista
+- aerodromo
+- aeronaves
+- decolagem
+- estacionamento
+- inspecoes
+- meio
+- monitorar
+- operador
+- patio
+- pouso
+- regulares
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-161-161-31-a
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.31'
+section_title: '161.31'
+subsection_id: a
+cite: 161.31(a)
+title: 161.31(a)
+text: '(a)
+
+  As cinco curvas de ruído que compõem o PEZR devem ser calculadas por meio de programa computacional
+  que utilize metodologia matemática apropriada para a geração de curvas, na métrica DNL
+
+  .
+
+  (Redação dada pela Resolução nº 609, de 23.02.2021)
+
+  (1)
+
+  O operador de aeródromo deve calcular curvas de ruído para o sistema de pistas de pouso
+  e decolagem previsto no planejamento para a expansão da infraestrutura aeroportuária, considerando
+  a estimativa do número de movimentos e tipos de aeronaves, ao final do seu horizonte de
+  planejamento.'
+keywords:
+- curvas
+- planejamento
+- ruido
+- aerodromo
+- aeronaves
+- aeroportuaria
+- apropriada
+- calculadas
+- calcular
+- cinco
+- compoem
+- computacional
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

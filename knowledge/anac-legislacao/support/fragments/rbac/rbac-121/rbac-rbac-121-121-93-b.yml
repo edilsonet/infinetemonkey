@@ -1,0 +1,35 @@
+id: rbac-rbac-121-121-93-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.93'
+section_title: Requisitos de rotas. Geral
+subsection_id: b
+cite: 121.93(b)
+title: 121.93(b)
+text: (b) O parágrafo (a) desta seção não requer voo real de demonstração ao longo de uma
+  rota ou segmento de rota se o detentor de certificado demonstrar que tal voo não é essencial
+  à segurança, considerando a disponibilidade e adequabilidade dos aeródromos, em especial
+  quanto à sinalização e auxílios luminosos, manutenção de aeronaves, reabastecimento, comunicações,
+  auxílios à navegação de solo e do avião e da proficiência do pessoal envolvido nas operações
+  pretendidas.
+keywords:
+- transporte-aereo
+- operacoes
+- auxilios
+- rota
+- adequabilidade
+- aerodromos
+- aeronaves
+- aviao
+- certificado
+- comunicacoes
+- considerando
+- demonstracao
+- demonstrar
+- desta
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

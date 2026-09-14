@@ -1,0 +1,51 @@
+id: rbac-rbac-142-142-35-c
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.35'
+section_title: Dispositivos de treinamento para simulação de voo
+subsection_id: c
+cite: 142.35(c)
+title: 142.35(c)
+text: '(c) Cada dispositivo de treinamento para simulação de voo, qualificado ou validado,
+  utilizado por
+
+  um CTAC, deve:
+
+  (1) ser mantido para assegurar a confiabilidade dos desempenhos, funções e todas as outras
+
+  características que foram requeridas para a qualificação;
+
+  (2) ser modificado para se compatibilizar com qualquer alteração que ocorra na aeronave
+  que é
+
+  simulada, desde que tais modificações resultem em mudanças no desempenho, função ou outras
+
+  características requeridas para a qualificação;
+
+  (3) antes do início de cada dia de trabalho, ser submetido a um pré-voo funcional; e
+
+  (4) possuir um livro para registro diário de utilização e discrepâncias observadas; tal
+  livro deve
+
+  ser preenchido pelo instrutor ou examinador credenciado ao fim de cada sessão de treinamento
+  ou
+
+  exame.'
+keywords:
+- cada
+- treinamento
+- caracteristicas
+- livro
+- outras
+- qualificacao
+- requeridas
+- simulacao
+- aeronave
+- alteracao
+- assegurar
+- compatibilizar
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

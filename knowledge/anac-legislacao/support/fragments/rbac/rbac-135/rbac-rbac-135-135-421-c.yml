@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-421-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.421'
+section_title: Requisitos adicionais de manutenção
+subsection_id: c
+cite: 135.421(c)
+title: 135.421(c)
+text: '(c) Para cada avião monomotor a ser utilizado no transporte de passageiros em operações
+  IFR, o detentor de certificado deve incorporar no seu programa de manutenção o seguinte:
+
+  (1) o programa de monitoramento de tendências do motor recomendado pelo fabricante, que
+  inclua uma análise do óleo, se apropriado; ou
+
+  (2) um programa de monitoramento de tendências do motor aprovado pela ANAC que inclua uma
+  análise de óleo a cada intervalo de 100 horas ou de acordo com intervalo recomendado pelo
+  fabricante, o que for o mais frequente.'
+keywords:
+- taxi-aereo
+- operacoes
+- programa
+- analise
+- cada
+- fabricante
+- inclua
+- intervalo
+- manutencao
+- monitoramento
+- motor
+- oleo
+- recomendado
+- tendencias
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

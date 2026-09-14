@@ -1,0 +1,39 @@
+id: rbac-rbac-110-emd-02-110-51-c
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.51'
+section_title: Responsabilidade na certificação em Segurança da Aviação Civil - AVSEC
+subsection_id: c
+cite: 110.51(c)
+title: 110.51(c)
+text: '(c) A frequência é um critério de aprovação previsto no Apêndice B.
+
+  (1) O instrutor AVSEC é o responsável pelo registro de frequência.
+
+  (2) Para os cursos presenciais, a frequência deve ser aferida a cada turno de aula, que
+  corresponde a 4 (quatro) horas-aula.
+
+  (3) Para os cursos semipresenciais ou a distância, a frequência deve ser aferida de modo
+  a registrar a evolução do aluno, correspondendo a uma frequência para cada item do conteúdo
+  programático.'
+keywords:
+- carga
+- operacoes
+- frequencia
+- aferida
+- aula
+- avsec
+- cada
+- cursos
+- aluno
+- apendice
+- aprovacao
+- aviacao
+- certificacao
+- civil
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

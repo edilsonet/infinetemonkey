@@ -1,0 +1,50 @@
+id: rbac-rbac-031-31-85-b
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.85'
+section_title: Equipamentos básicos requeridos.
+subsection_id: b
+cite: 31.85(b)
+title: 31.85(b)
+text: '(b) Para balões de ar quente:
+
+
+  (1) um medidor de quantidade de combustível. Se
+
+  forem utilizadas células de combustível, devem ser
+
+  incorporados meios para indicar à tripulação a quanti-
+
+  dade de combustível em cada célula durante o voo. Os
+
+  meios devem ser calibrados em unidades apropriadas
+
+  ou em porcentagem de capacidade da célula de com-
+
+  bustível.
+
+
+  Data da emissão: 16 de outubro de 2015 RBAC nº 31
+
+
+  (2) An envelope temperature indicator.'
+keywords:
+- aeronavegabilidade
+- baloes
+- combustivel
+- celula
+- meios
+- apropriadas
+- basicos
+- bustivel
+- cada
+- calibrados
+- capacidade
+- celulas
+- dade
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

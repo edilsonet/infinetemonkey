@@ -1,0 +1,38 @@
+id: rbac-rbac-121-121-103-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.103'
+section_title: Facilidades de navegação em rota
+subsection_id: b
+cite: 121.103(b)
+title: 121.103(b)
+text: '(b) não são requeridos auxílios de solo não visuais para:
+
+  (1) operações VFR diurnas que o detentor de certificado demonstrar que podem ser conduzidas
+  com segurança por navegação por contato face às características do terreno;
+
+  (2) operações VFR noturnas em rotas que o detentor de certificado demonstrar a existência
+  de referências no solo bem iluminadas, confiáveis e adequadas à operação segura; e
+
+  (3) operação em segmentos de rota onde o uso de navegação astronômica ou outro meio especializado
+  de navegação autônoma é aprovado pelas autoridades aeronáuticas.'
+keywords:
+- transporte-aereo
+- operacoes
+- navegacao
+- certificado
+- demonstrar
+- detentor
+- operacao
+- rota
+- solo
+- adequadas
+- aeronauticas
+- aprovado
+- astronomica
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

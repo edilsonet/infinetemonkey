@@ -1,0 +1,44 @@
+id: rbac-rbac-91-91-209-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.209'
+section_title: Luzes da aeronave
+subsection_id: b
+cite: 91.209(b)
+title: 91.209(b)
+text: '(b) Uma pessoa somente pode operar uma aeronave equipada com um sistema de luzes anticolisão
+
+  aprovado se tais luzes estiverem acesas. No entanto, as luzes anticolisão não precisam ser
+  acesas caso
+
+  o piloto em comando considere que, em função das condições de operação, seria do interesse
+  da
+
+  segurança que tais luzes devam ser apagadas. No evento de falha de qualquer luz do sistema
+  de luzes
+
+  anticolisão, a operação da aeronave pode ser continuada até o local onde reparo ou substituição
+  possa
+
+  ser executado.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- luzes
+- aeronave
+- anticolisao
+- acesas
+- operacao
+- pode
+- sistema
+- tais
+- apagadas
+- aprovado
+- caso
+- comando
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

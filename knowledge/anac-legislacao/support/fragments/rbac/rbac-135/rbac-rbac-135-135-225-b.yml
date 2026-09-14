@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-225-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.225'
+section_title: '135.225'
+subsection_id: b
+cite: 135.225(b)
+title: 135.225(b)
+text: (b) Exceto como previsto no parágrafo (h) desta seção, um piloto somente pode iniciar
+  o segmento final de uma aproximação por instrumentos para um aeródromo se a última informação
+  meteorológica indicar que as condições atmosféricas do aeródromo estão nos mínimos ou acima
+  dos mínimos previstos no procedimento sendo utilizado.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- minimos
+- acima
+- aproximacao
+- atmosfericas
+- condicoes
+- desta
+- estao
+- exceto
+- final
+- indicar
+- informacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

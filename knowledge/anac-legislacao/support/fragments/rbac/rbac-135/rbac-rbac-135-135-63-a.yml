@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-63-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.63'
+section_title: Requisitos de conservação de registros
+subsection_id: a
+cite: 135.63(a)
+title: 135.63(a)
+text: '(a) O detentor de certificado deve conservar em seu escritório principal de administração
+  ou em outros locais aprovados pela ANAC, e colocar à disposição dos servidores designados
+  da ANAC, o seguinte:
+
+  (1) o COA emitido em seu nome e a concessão ou autorização para prestação de serviços de
+  transporte aéreo público;
+
+  (2) as especificações operativas emitidas em seu nome;
+
+  (3) uma listagem atualizada das aeronaves utilizadas ou disponíveis para uso em operações
+  segundo este Regulamento e as operações para as quais cada uma é equipada;
+
+  (4) um registro individual de cada piloto utilizado em operações segundo este Regulamento,
+  incluindo as seguintes informações:'
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- nome
+- regulamento
+- segundo
+- administracao
+- aereo
+- aeronaves
+- aprovados
+- atualizada
+- autorizacao
+- certificado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

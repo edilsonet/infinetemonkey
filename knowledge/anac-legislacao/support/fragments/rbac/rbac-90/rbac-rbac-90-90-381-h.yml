@@ -1,0 +1,31 @@
+id: rbac-rbac-90-90-381-h
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.381'
+section_title: Requisitos gerais para operação
+subsection_id: h
+cite: 90.381(h)
+title: 90.381(h)
+text: (h) Caso exista alguma dúvida sobre a integridade estrutural da corda, o item não deverá
+  ser utilizado até que seja inspecionado e, se necessário, descartado pela UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- alguma
+- caso
+- corda
+- descartado
+- devera
+- duvida
+- estrutural
+- exista
+- gerais
+- inspecionado
+- integridade
+- necessario
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

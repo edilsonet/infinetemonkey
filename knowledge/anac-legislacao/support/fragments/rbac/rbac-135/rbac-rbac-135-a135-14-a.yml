@@ -1,0 +1,41 @@
+id: rbac-rbac-135-a135-14-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.14
+section_title: Projeto e construção
+subsection_id: a
+cite: A135.14(a)
+title: A135.14(a)
+text: '(a) “
+
+  Flutter
+
+  ”. Para aviões turboélice multimotores, deve ser feita uma avaliação dinâmica e essa avaliação
+  deve incluir:
+
+  (1) as forças elásticas, de inércia e aerodinâmicas significativas, associadas com as rotações
+  e os deslocamentos do plano de rotação da hélice; e
+
+  (2) a rigidez do conjunto motor-hélice-nacele, assim como as apropriadas variações do amortecimento
+  da particular configuração.'
+keywords:
+- taxi-aereo
+- operacoes
+- avaliacao
+- helice
+- a135
+- aerodinamicas
+- amortecimento
+- apropriadas
+- assim
+- associadas
+- avioes
+- configuracao
+- conjunto
+- construcao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

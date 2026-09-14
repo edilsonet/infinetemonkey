@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-310-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.310'
+section_title: Inspeções e ensaios
+subsection_id: a
+cite: 21.310(a)
+title: 21.310(a)
+text: (a) Cada requerente ou detentor de um certificado de organização de produção deve permitir
+  que a ANAC inspecione o seu sistema da qualidade, instalações, dados técnicos, e quaisquer
+  artigos manufaturados e testemunhar quaisquer testes, incluindo as inspeções ou ensaios
+  em uma instalação de fornecedor, necessários para determinar o cumprimento com os RBAC aplicáveis.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- inspecoes
+- quaisquer
+- aplicaveis
+- artigos
+- cada
+- certificado
+- cumprimento
+- dados
+- detentor
+- determinar
+- fornecedor
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

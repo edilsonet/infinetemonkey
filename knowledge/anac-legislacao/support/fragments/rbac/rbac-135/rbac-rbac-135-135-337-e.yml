@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-337-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.337'
+section_title: 'Qualificações: examinador em aeronave e examinador em FSTD e/ou outro dispositivo
+  de treinamento aprovado pela ANAC'
+subsection_id: e
+cite: 135.337(e)
+title: 135.337(e)
+text: (e) O examinador que não possuir um CMA apropriado pode trabalhar como examinador em
+  FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC, mas não pode servir como
+  membro de tripulação de voo em operações segundo este Regulamento.
+keywords:
+- taxi-aereo
+- operacoes
+- examinador
+- aprovado
+- dispositivo
+- fstd
+- outro
+- pode
+- treinamento
+- aeronave
+- apropriado
+- membro
+- possuir
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

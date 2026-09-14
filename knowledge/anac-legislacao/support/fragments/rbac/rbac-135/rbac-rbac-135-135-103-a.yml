@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-103-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.103'
+section_title: Permanência de passageiros a bordo no solo
+subsection_id: a
+cite: 135.103(a)
+title: 135.103(a)
+text: '(a) Exceto se houver um tripulante de voo na cabine de comando da aeronave, um detentor
+  de certificado não pode manter passageiros a bordo, durante permanências no solo, com a
+  aeronave em uma das condições abaixo:
+
+  (1) sendo reabastecida com fluidos inflamáveis;
+
+  (2) com um ou mais motores em funcionamento; ou
+
+  (3) com qualquer equipamento de combustão em funcionamento (APU, turbina de refrigeração,
+  aquecedor a combustão, etc.).'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- bordo
+- combustao
+- funcionamento
+- passageiros
+- solo
+- abaixo
+- aquecedor
+- cabine
+- certificado
+- comando
+- condicoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

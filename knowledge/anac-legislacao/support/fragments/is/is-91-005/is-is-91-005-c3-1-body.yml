@@ -1,0 +1,53 @@
+id: is-is-91-005-c3-1-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: C3.1
+section_title: O sistema de desvio de altitude deve emitir um alerta quando a altitude mostrada
+  à tripulação de voo se desvie da altitude solicitada além de um valor mínimo nominal. Para
+  os tipos de aeronaves para as quais a solicitação de certificação de tipo tenha sido realizada
+  antes de 1º de janeiro de 1997, o valor nominal não pode ser maior que ± 90 m (± 300 ft).
+  Para os tipos de aeronaves para as quais a solicitação de certificação de tipo tenha sido
+  realizada em ou após de 1º de janeiro de 1997, o valor nominal não pode ser maior que ±
+  60 m (± 200 ft). A tolerância geral do equipamento ao implementar estes valores de limiar
+  não pode ser maior do que ± 15 m (± 50 ft).
+subsection_id: body
+cite: C3.1
+title: O sistema de desvio de altitude deve emitir um alerta quando a altitude mostrada à
+  tripulação de voo se desvie da altitude solicitada além de um valor mínimo nominal. Para
+  os tipos de aeronaves para as quais a solicitação de certificação de tipo tenha sido realizada
+  antes de 1º de janeiro de 1997, o valor nominal não pode ser maior que ± 90 m (± 300 ft).
+  Para os tipos de aeronaves para as quais a solicitação de certificação de tipo tenha sido
+  realizada em ou após de 1º de janeiro de 1997, o valor nominal não pode ser maior que ±
+  60 m (± 200 ft). A tolerância geral do equipamento ao implementar estes valores de limiar
+  não pode ser maior do que ± 15 m (± 50 ft).
+text: 'C3.1 O sistema de desvio de altitude deve emitir um alerta quando a altitude mostrada
+  à tripulação de voo se desvie da altitude solicitada além de um valor mínimo nominal. Para
+  os tipos de aeronaves para as quais a solicitação de certificação de tipo tenha sido realizada
+  antes de 1º de janeiro de 1997, o valor nominal não pode ser maior que ± 90 m (± 300 ft).
+  Para os tipos de aeronaves para as quais a solicitação de certificação de tipo tenha sido
+  realizada em ou após de 1º de janeiro de 1997, o valor nominal não pode ser maior que ±
+  60 m (± 200 ft). A tolerância geral do equipamento ao implementar estes valores de limiar
+  não pode ser maior do que ± 15 m (± 50 ft).
+
+  C4. SISTEMAS DE CONTROLE DE ALTITUDE AUTOMÁTICO'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- altitude
+- maior
+- nominal
+- pode
+- valor
+- aeronaves
+- certificacao
+- janeiro
+- quais
+- realizada
+- solicitacao
+- tenha
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

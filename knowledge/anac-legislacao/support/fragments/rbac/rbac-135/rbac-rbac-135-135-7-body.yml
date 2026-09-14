@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-7-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.7'
+section_title: Aplicabilidade das regras para operadores não autorizados
+subsection_id: body
+cite: '135.7'
+title: Aplicabilidade das regras para operadores não autorizados
+text: '135.7 Aplicabilidade das regras para operadores não autorizados
+
+  As regras deste Regulamento que se aplicam a pessoas certificadas segundo o RBAC nº 119
+  aplicam-se, também, a pessoas que porventura se engajarem em qualquer operação governada
+  por este Regulamento sem um apropriado certificado e as especificações operativas requeridas
+  pelo RBAC nº 119.'
+keywords:
+- taxi-aereo
+- operacoes
+- regras
+- aplicabilidade
+- autorizados
+- operadores
+- aplicam
+- pessoas
+- regulamento
+- apropriado
+- certificadas
+- certificado
+- deste
+- engajarem
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

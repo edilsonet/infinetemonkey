@@ -1,0 +1,40 @@
+id: rbac-rbac-91-91-711-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.711'
+section_title: Requisitos para aeronaves civis
+subsection_id: b
+cite: 91.711(b)
+title: 91.711(b)
+text: '(b) No person may conduct VFR
+
+  operations which require two-way radio
+
+  communications under this part unless at
+
+  least one pilot of the aircraft is able to
+
+  conduct two-way radio communications in
+
+  either the Portuguese or English languages.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- communications
+- conduct
+- radio
+- able
+- aeronaves
+- aircraft
+- civis
+- either
+- english
+- languages
+- least
+- operations
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

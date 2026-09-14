@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-195-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.195'
+section_title: 'Aviões com motores a turbina: limitações de pouso no aeródromo de destino'
+subsection_id: a
+cite: 121.195(a)
+title: 121.195(a)
+text: (a) Ninguém pode decolar com um avião com motores a turbina com um peso (assumindo consumo
+  normal de combustível e óleo no voo para o aeródromo de destino e de alternativa) tal que,
+  na chegada, exceda o peso de pouso previsto no AFM para a altitude do aeródromo de destino
+  ou de alternativa e para a temperatura ambiente esperada no horário estimado de pouso.
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- destino
+- pouso
+- alternativa
+- motores
+- peso
+- turbina
+- altitude
+- ambiente
+- assumindo
+- aviao
+- avioes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

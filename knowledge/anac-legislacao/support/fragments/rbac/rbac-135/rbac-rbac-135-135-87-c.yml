@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-87-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.87'
+section_title: Transporte de carga, incluindo bagagem de mão
+subsection_id: c
+cite: 135.87(c)
+title: 135.87(c)
+text: '(c) Quando for transportada carga em compartimentos de carga que foram projetados requerendo
+  a entrada física de um tripulante para extinguir qualquer incêndio que possa ocorrer em
+  voo, a carga deve ser posicionada de modo a permitir que um tripulante alcance efetivamente
+  todas as partes desse compartimento com o jato do conteúdo de um extintor de incêndio portátil.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- carga
+- incendio
+- tripulante
+- alcance
+- bagagem
+- compartimento
+- compartimentos
+- conteudo
+- dada
+- desse
+- efetivamente
+- entrada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

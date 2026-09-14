@@ -1,0 +1,61 @@
+id: rbac-rbac-145-145-51-e
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.51'
+section_title: Requerimento para certificação
+subsection_id: e
+cite: 145.51(e)
+title: 145.51(e)
+text: '(e) A ANAC pode indeferir uma solicitação de certificado de organização de manutenção
+  se
+
+  identificar que:
+
+  (1) o requerente detém um certificado de organização emitido pela ANAC em processo de
+
+  cassação, ou anteriormente possuía um certificado de organização que tenha sido cassado;
+
+  (2) o requerente pretende preencher ou preenche uma posição de gerência com um indivíduo
+
+  que exerceu o controle sobre ou que ocupou o mesmo cargo, ou um cargo semelhante, em um
+
+  detentor de certificado cujo certificado de organização emitido pela ANAC foi cassado ou
+  está em
+
+  processo de cassação, e esse indivíduo contribuiu materialmente para as circunstâncias que
+
+  causaram a cassação ou causaram o processo de cassação; ou
+
+  (3) um indivíduo que terá controle sobre ou substancial participação no requerente teve
+  o
+
+  mesmo ou similar controle ou interesse em um detentor de certificado cujo certificado de
+
+  organização emitido pela ANAC foi cassado, ou está em processo de cassação, e esse indivíduo
+
+  contribuiu materialmente para as circunstâncias que causaram a cassação ou causaram o processo
+
+  de cassação.
+
+  (Incluído pela Resolução nº 610, de 23.02.2021)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- cassacao
+- certificado
+- organizacao
+- processo
+- causaram
+- individuo
+- cassado
+- controle
+- emitido
+- requerente
+- cargo
+- circunstancias
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

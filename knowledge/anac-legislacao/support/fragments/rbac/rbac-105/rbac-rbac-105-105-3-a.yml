@@ -1,0 +1,36 @@
+id: rbac-rbac-105-105-3-a
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.3'
+section_title: Regras gerais
+subsection_id: a
+cite: 105.3(a)
+title: 105.3(a)
+text: '(a) Nenhuma pessoa pode realizar saltos de paraquedas e nenhum piloto em comando de
+  uma
+
+  aeronave pode autorizar uma operação de paraquedas a ser realizada de uma aeronave, se a
+  operação
+
+  põe em risco o tráfego aéreo ou pessoas e bens na superfície.'
+keywords:
+- paraquedismo
+- operacoes
+- aeronave
+- operacao
+- paraquedas
+- pode
+- aereo
+- autorizar
+- bens
+- comando
+- gerais
+- nenhum
+- nenhuma
+- pessoa
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-217-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.217'
+section_title: 'IFR: aeródromo de alternativa de decolagem'
+subsection_id: a
+cite: 135.217(a)
+title: 135.217(a)
+text: '(a) Se as condições meteorológicas no aeródromo de decolagem estiverem abaixo dos mínimos
+  operacionais para pouso ou se não for possível retornar para o aeródromo de decolagem por
+  qualquer razão, o detentor de certificado deve selecionar um aeródromo de alternativa de
+  decolagem dentro das seguintes distâncias:
+
+  (1) para aviões monomotores ou helicópteros: uma hora de voo do aeródromo de decolagem,
+  em velocidade normal de cruzeiro, determinada a partir do manual de operações da aeronave,
+  em condições de atmosfera padrão e ar calmo, considerando o peso de decolagem real;
+
+  (2) para aviões bimotores:'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- aerodromo
+- alternativa
+- avioes
+- condicoes
+- abaixo
+- aeronave
+- atmosfera
+- bimotores
+- calmo
+- certificado
+- considerando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

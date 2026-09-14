@@ -1,0 +1,47 @@
+id: rbac-rbac-031-31-21-body
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.21'
+section_title: '31.21'
+subsection_id: body
+cite: '31.21'
+title: '31.21'
+text: '31.21
+
+  Cargas.
+
+
+  Os requisitos de resistência estrutural são especifi-
+
+  cados em termos de cargas limites, que são as cargas
+
+  máximas a serem esperadas em serviço, e cargas fi-
+
+  nais, que são as cargas limites multiplicadas pelos
+
+  fatores de segurança prescritos. A menos que especifi-
+
+  cado de outra maneira, todas as cargas prescritas são
+
+  cargas limites.'
+keywords:
+- aeronavegabilidade
+- baloes
+- cargas
+- limites
+- especifi
+- cado
+- cados
+- esperadas
+- estrutural
+- fatores
+- maneira
+- maximas
+- menos
+- multiplicadas
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

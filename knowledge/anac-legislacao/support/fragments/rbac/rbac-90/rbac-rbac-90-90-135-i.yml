@@ -1,0 +1,42 @@
+id: rbac-rbac-90-90-135-i
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.135'
+section_title: Componente 1 - política e objetivos de segurança operacional
+subsection_id: i
+cite: 90.135(i)
+title: 90.135(i)
+text: '(i) identificar claramente o gestor responsável do órgão ou ente público que, independentemente
+  de outras funções, tenha a responsabilidade final e a obrigação de prestar contas, em nome
+  da organização, pela implementação e manutenção de um SGSO efetivo;
+
+  (ii) definir claramente prerrogativas e responsabilidades sobre segurança operacional em
+  toda a organização, incluindo prerrogativas e responsabilidades sobre segurança operacional
+  da alta direção;
+
+  (iii) identificar as responsabilidades de todos os gestores, independentemente de outras
+  funções, bem como de funcionários, em relação ao desempenho de segurança operacional;
+
+  (iv) documentar e comunicar as informações relativas às prerrogativas, responsabilidades
+  e autoridades sobre segurança operacional de toda a organização; e'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- responsabilidades
+- organizacao
+- prerrogativas
+- claramente
+- funcoes
+- identificar
+- independentemente
+- outras
+- toda
+- alta
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-245-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.245'
+section_title: Qualificações para piloto segundo em comando
+subsection_id: a
+cite: 135.245(a)
+title: 135.245(a)
+text: (a) Exceto como previsto no parágrafo (b) desta seção, o detentor de certificado somente
+  pode utilizar uma pessoa e uma pessoa somente pode trabalhar como piloto segundo em comando
+  de uma aeronave, se essa pessoa possuir pelo menos uma licença de piloto comercial ou piloto
+  de tripulação múltipla, na categoria apropriada, for qualificada para voo IFR e para a aeronave,
+  e tiver completado o apropriado programa de treinamento para a aeronave e para a função
+  a bordo aprovado para o detentor de certificado.
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- aeronave
+- pessoa
+- certificado
+- comando
+- detentor
+- pode
+- segundo
+- somente
+- apropriada
+- apropriado
+- aprovado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

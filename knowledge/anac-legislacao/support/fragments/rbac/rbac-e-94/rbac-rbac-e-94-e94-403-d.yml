@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-403-d
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.403
+section_title: Determinação dos requisitos aplicáveis para autorização do projeto do RPAS
+subsection_id: d
+cite: E94.403(d)
+title: E94.403(d)
+text: (d) Os RPAS Classe 3 que se destinam a operações VLOS acima de 400 pés AGL devem demonstrar
+  cumprimento com os requisitos da seção E94.405 e dos parágrafos (a), (c) e (d) da seção
+  E94.407 deste Regulamento Especial.
+keywords:
+- requisitos
+- rpas
+- secao
+- acima
+- aplicaveis
+- autorizacao
+- classe
+- cumprimento
+- demonstrar
+- deste
+- destinam
+- determinacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

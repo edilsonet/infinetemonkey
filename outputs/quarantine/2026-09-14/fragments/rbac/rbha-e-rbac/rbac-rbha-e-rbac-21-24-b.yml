@@ -1,0 +1,31 @@
+id: rbac-rbha-e-rbac-21-24-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.24'
+section_title: 'Emissão de certificado de tipo: aeronave categoria primária'
+subsection_id: b
+cite: 21.24(b)
+title: 21.24(b)
+text: (b) O requerente pode incluir um programa especial de inspeções e de manutenção preventiva
+  como parte do projeto de tipo ou do projeto suplementar de tipo da aeronave.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- tipo
+- aeronave
+- categoria
+- certificado
+- emissao
+- especial
+- incluir
+- inspecoes
+- manutencao
+- parte
+- pode
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

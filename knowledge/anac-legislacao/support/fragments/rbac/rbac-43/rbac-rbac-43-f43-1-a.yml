@@ -1,0 +1,50 @@
+id: rbac-rbac-43-f43-1-a
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: a
+cite: F43.1(a)
+title: F43.1(a)
+text: '(a) Radiofrequência de resposta
+
+  (1) Para todas as classes de transponders ATCRBS, interrogar o transponder e verificar se
+  a
+
+  frequência de resposta do sistema é de 1.090+3 MHz.
+
+  (2) Para transponders Mode S classes 1B, 2B e 3B, interrogar o transponder e verificar se
+  a
+
+  frequência de resposta é 1.090±3 MHz.
+
+  (3) Para transponders Mode S classes 1B, 2B e 3B que incorporam a frequência opcional de
+
+  resposta de 1.090±1 MHz, interrogar o transponder e verificar se essa frequência está correta;
+  e
+
+  (4) Para transponders Mode S classes 1A, 2A, 3A e 4, interrogar o transponder e verificar
+  se
+
+  a frequência de resposta é 1.090±1 MHz.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- frequencia
+- resposta
+- transponder
+- classes
+- interrogar
+- transponders
+- verificar
+- mode
+- atcrbs
+- correta
+- incorporam
+- inspecoes
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

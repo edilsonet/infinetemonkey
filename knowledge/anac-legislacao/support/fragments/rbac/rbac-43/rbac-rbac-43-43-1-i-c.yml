@@ -1,0 +1,54 @@
+id: rbac-rbac-43-43-1-i-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: 43.1-I
+section_title: Definições
+subsection_id: c
+cite: 43.1-I(c)
+title: 43.1-I(c)
+text: '(c) Reconstrução:
+
+  (1) significa um serviço em um artigo usado que foi completamente desmontado,
+
+  inspecionado, reparado como necessário, remontado, testado e aprovado da mesma maneira e
+  com
+
+  as mesmas tolerâncias e limitações de um componente novo, utilizando partes novas ou usadas.
+
+
+  Data da emissão: 15 de março de 2021
+
+
+  Entretanto, todas as partes usadas devem estar conforme as tolerâncias e limites de partes
+  novas ou
+
+  com dimensões submedidas ou sobremedidas aprovadas para um componente novo;
+
+  (2) não se refere a serviços de grande vulto realizados em uma célula ou suas partes após
+
+  acidente/incidente. Tais serviços de recuperação são considerados como grandes reparos ou
+
+  pequenos reparos, conforme aplicável; e
+
+  (3) não se refere a revisão geral.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- partes
+- componente
+- novas
+- novo
+- refere
+- reparos
+- servicos
+- tolerancias
+- usadas
+- acidente
+- aplicavel
+- aprovadas
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

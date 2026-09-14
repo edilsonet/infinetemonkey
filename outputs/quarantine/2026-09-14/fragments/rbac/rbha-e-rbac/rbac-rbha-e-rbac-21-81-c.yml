@@ -1,0 +1,42 @@
+id: rbac-rbha-e-rbac-21-81-c
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.81'
+section_title: Requisitos para emissão de certificado de tipo provisório Classe I e de suas
+  emendas
+subsection_id: c
+cite: 21.81(c)
+title: 21.81(c)
+text: '(c) O requerente deve declarar que:
+
+  (1) a aeronave foi projetada e construída de acordo com os requisitos de aeronavegabilidade
+  aplicáveis à emissão do certificado de tipo ou certificado suplementar de tipo requerido
+  para ela;
+
+  (2) a aeronave satisfaz substancialmente aos requisitos de características de voo aplicáveis
+  à emissão do certificado de tipo ou certificado suplementar de tipo requerido para ela;
+  e
+
+  (3) a aeronave pode ser operada com segurança de acordo com as limitações operacionais apropriadas
+  estabelecidas segundo o parágrafo (a) desta seção.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- tipo
+- aeronave
+- emissao
+- requisitos
+- acordo
+- aplicaveis
+- requerido
+- suplementar
+- apropriadas
+- caracteristicas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

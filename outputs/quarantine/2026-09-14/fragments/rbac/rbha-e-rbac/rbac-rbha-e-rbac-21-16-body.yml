@@ -1,0 +1,38 @@
+id: rbac-rbha-e-rbac-21-16-body
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.16'
+section_title: Condições especiais
+subsection_id: body
+cite: '21.16'
+title: Condições especiais
+text: '21.16 Condições especiais
+
+  Se a ANAC considerar que a regulamentação sobre aeronavegabilidade contida nos RBAC não
+  contém requisitos de segurança adequados ou apropriados a uma determinada aeronave, motor
+  de aeronave ou hélice face às características novas ou inusitadas do projeto de tal produto,
+  estabelecerá condições especiais, ou emendas às mesmas, para o produto. As condições especiais
+  serão emitidas de acordo com o RBAC 11 e conterão os requisitos de segurança que a ANAC
+  considerar necessários à aeronave, ao motor de aeronave ou à hélice, a fim de garantir um
+  nível de segurança equivalente ao estabelecido nos regulamentos.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- condicoes
+- especiais
+- aeronave
+- seguranca
+- considerar
+- helice
+- motor
+- produto
+- requisitos
+- acordo
+- adequados
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-155-155-221-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.221'
+section_title: '155.221'
+subsection_id: b
+cite: 155.221(b)
+title: 155.221(b)
+text: '(b)
+
+  A TLOF deve possuir formato quadrado, retangular ou circular e tamanho suficiente para conter
+  uma circunferência de diâmetro não inferior a 0,83 D do maior helicóptero cuja operação
+  é prevista na área.
+
+  (1)
+
+  É recomendado que a TLOF possua tamanho suficiente para conter uma circunferência de diâmetro
+  não inferior a 1 D do maior helicóptero cuja operação é prevista na área.'
+keywords:
+- seguranca-aeroportuaria
+- area
+- circunferencia
+- conter
+- cuja
+- diametro
+- helicoptero
+- inferior
+- maior
+- operacao
+- suficiente
+- tamanho
+- tlof
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-63-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.63'
+section_title: Requisitos de conservação de registros
+subsection_id: i
+cite: 135.63(i)
+title: 135.63(i)
+text: '(i) o nome completo do piloto e código ANAC;
+
+  (ii) a licença do piloto (por tipo e número) e as qualificações que o piloto possui;
+
+  (iii) a experiência aeronáutica do piloto com detalhamento suficiente para determinar sua
+  qualificação para pilotar aeronaves operando segundo este Regulamento;
+
+  (iv) as atuais funções do piloto e a data na qual ele foi designado para essas funções;'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- funcoes
+- aeronautica
+- aeronaves
+- atuais
+- codigo
+- completo
+- conservacao
+- data
+- designado
+- detalhamento
+- determinar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

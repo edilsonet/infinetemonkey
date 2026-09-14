@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-9-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.9
+section_title: Informações e limitações operacionais
+subsection_id: v
+cite: A135.9(v)
+title: A135.9(v)
+text: '(v) operação e monitoramento e todos os sistemas essenciais do avião;
+
+  (vi) decisões de comando.
+
+  (3) A acessibilidade e a facilidade de operação dos controles necessários pelo apropriado
+  tripulante, durante todas as operações normais e de emergência, com os tripulantes sentados
+  em seus postos de trabalho.'
+keywords:
+- taxi-aereo
+- operacoes
+- operacao
+- a135
+- acessibilidade
+- apropriado
+- aviao
+- comando
+- controles
+- decisoes
+- durante
+- emergencia
+- essenciais
+- facilidade
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

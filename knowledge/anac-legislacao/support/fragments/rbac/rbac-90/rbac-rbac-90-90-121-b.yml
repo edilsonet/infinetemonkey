@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-121-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.121'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 90.121(b)
+title: 90.121(b)
+text: (b) Conforme atribuição do órgão ou ente público, previsão legal específica, frota,
+  modelo de aeronaves, efetivo e área geográfica de atuação, a UAP poderá estabelecer SOP
+  complementares para outros profissionais da UAP para manutenção da segurança operacional.
+keywords:
+- regras-de-voo
+- operacoes
+- aeronaves
+- area
+- atribuicao
+- atuacao
+- complementares
+- efetivo
+- ente
+- especifica
+- estabelecer
+- frota
+- geografica
+- gerais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

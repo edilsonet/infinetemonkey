@@ -1,0 +1,68 @@
+id: rbac-rbac-60-60-13-c
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.13'
+section_title: Requisitos de dados objetivos do
+subsection_id: c
+cite: 60.13(c)
+title: 60.13(c)
+text: '(c) O pacote de dados de validação
+
+  também pode conter dados estimados, dados
+
+  de simulação de engenharia, dados dos
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  manuals, or data from public domain sources,
+
+  provided this data is acceptable to the ANAC.
+
+  If found acceptable the data may then be used
+
+  in
+
+  particular
+
+  applications
+
+  for
+
+  FSTD
+
+  qualification.
+
+  manuais do proprietário ou de operação da
+
+  aeronave, ou dados de outras fontes públicas,
+
+  desde que estes dados sejam aceitáveis pela
+
+  ANAC. Se considerados aceitáveis, os dados
+
+  poderão ser utilizados em casos específicos
+
+  para a qualificação do FSTD.'
+keywords:
+- simuladores
+- treinamento
+- dados
+- data
+- acceptable
+- aceitaveis
+- fstd
+- aeronave
+- applications
+- casos
+- considerados
+- conter
+- desde
+- domain
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

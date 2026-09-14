@@ -1,0 +1,29 @@
+id: rbac-rbac-90-90-101-i
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: i
+cite: 90.101(i)
+title: 90.101(i)
+text: (i) A UAP deverá manter uma cópia atualizada do sistema de manuais em sua base principal
+  de operações.
+keywords:
+- regras-de-voo
+- operacoes
+- atualizada
+- base
+- copia
+- devera
+- gerais
+- manter
+- manuais
+- principal
+- requisitos
+- sistema
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

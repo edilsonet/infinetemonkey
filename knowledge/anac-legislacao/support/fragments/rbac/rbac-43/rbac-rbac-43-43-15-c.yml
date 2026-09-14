@@ -1,0 +1,52 @@
+id: rbac-rbac-43-43-15-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.15'
+section_title: Regras adicionais para execução de inspeções
+subsection_id: c
+cite: 43.15(c)
+title: 43.15(c)
+text: '(c) Inspeção anual e inspeção de 100 horas.
+
+  (1) Cada pessoa habilitada a fazer inspeção anual ou inspeção de 100 horas deve usar uma
+
+  lista de verificações (checklist) quando realizar a inspeção. A lista pode ser elaborada
+  pela própria
+
+  pessoa, pode ser provida pelo fabricante do equipamento que está sendo inspecionado ou pode
+  ser
+
+  obtida de uma outra fonte. A lista deve abranger os propósitos e os detalhes dos itens contidos
+  no
+
+  Apêndice D deste regulamento e no parágrafo (b) desta seção, quando aplicável.
+
+  (2) Cada pessoa que estiver aprovando o retorno ao serviço de uma aeronave com motores
+
+  convencionais após uma inspeção anual ou inspeção de 100 horas deve, antes da aprovação,
+  testar o
+
+  motor (ou motores) da aeronave para verificar o desempenho satisfatório, de acordo com as
+
+  recomendações do fabricante, quanto a:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- inspecao
+- anual
+- horas
+- lista
+- pessoa
+- pode
+- aeronave
+- cada
+- fabricante
+- motores
+- abranger
+- acordo
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

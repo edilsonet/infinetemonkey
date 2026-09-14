@@ -1,0 +1,32 @@
+id: rbac-rbac-135-g135-1-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.1
+section_title: Definições
+subsection_id: c
+cite: G135.1(c)
+title: G135.1(c)
+text: (c) Ponto de entrada ETOPS significa o primeiro ponto da rota em um voo ETOPS, determinado
+  considerando-se velocidade de cruzeiro com um motor inoperante sob atmosfera padrão, ar
+  calmo e distante mais de 180 minutos de um Aeródromo Adequado.
+keywords:
+- taxi-aereo
+- operacoes
+- etops
+- ponto
+- adequado
+- aerodromo
+- atmosfera
+- calmo
+- considerando
+- cruzeiro
+- definicoes
+- determinado
+- distante
+- entrada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

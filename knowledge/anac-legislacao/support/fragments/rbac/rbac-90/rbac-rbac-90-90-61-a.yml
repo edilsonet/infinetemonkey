@@ -1,0 +1,31 @@
+id: rbac-rbac-90-90-61-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.61'
+section_title: Controle de horas de voo dos pilotos da UAP
+subsection_id: a
+cite: 90.61(a)
+title: 90.61(a)
+text: (a) A UAP deverá realizar o controle, por meio de registro e declaração individual,
+  das horas de voo dos pilotos nas operações especiais de aviação pública. O referido controle
+  deverá ser definido no MOP.
+keywords:
+- regras-de-voo
+- operacoes
+- controle
+- devera
+- horas
+- pilotos
+- aviacao
+- declaracao
+- definido
+- especiais
+- individual
+- meio
+- publica
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

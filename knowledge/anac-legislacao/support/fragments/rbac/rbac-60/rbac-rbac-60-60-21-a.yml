@@ -1,0 +1,90 @@
+id: rbac-rbac-60-60-21-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.21'
+section_title: Qualificação provisória de FSTDs de
+subsection_id: a
+cite: 60.21(a)
+title: 60.21(a)
+text: '(a) Um operador pode solicitar e a ANAC
+
+  pode emitir uma qualificação provisória para
+
+  um FSTD que simule um novo tipo ou
+
+  modelo de aeronave, mesmo que o pacote de
+
+  dados do fabricante da aeronave seja
+
+  preliminar,
+
+  mediante
+
+  a
+
+  aceitação
+
+  dos
+
+  seguintes documentos:
+
+  (1) the aircraft manufacturer''s data,
+
+  which consists of at least predicted data,
+
+  validated by a limited set of flight test data;
+
+
+  (1) os dados do fabricante da aeronave,
+
+  que podem ser estimados, validados por um
+
+  pacote limitado de dados de ensaio em voo;
+
+  (2)
+
+  the
+
+  aircraft
+
+  manufacturer''s
+
+  description of the prediction methodology used
+
+  to develop the predicted data; and
+
+
+  (2) a descrição do fabricante da
+
+  aeronave da metodologia de predição
+
+  utilizada para desenvolver os dados; e
+
+  (3) the QTG test results.
+
+
+  (3) os resultados do QTG.
+
+
+  Data da emissão: 20 de março de 2020.'
+keywords:
+- simuladores
+- treinamento
+- data
+- aeronave
+- dados
+- fabricante
+- aircraft
+- manufacturer
+- pacote
+- pode
+- predicted
+- provisoria
+- qualificacao
+- test
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

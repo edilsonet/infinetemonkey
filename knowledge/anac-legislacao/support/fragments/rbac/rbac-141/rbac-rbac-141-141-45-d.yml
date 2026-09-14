@@ -1,0 +1,37 @@
+id: rbac-rbac-141-141-45-d
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.45'
+section_title: Requisitos de aeronaves
+subsection_id: d
+cite: 141.45(d)
+title: 141.45(d)
+text: '(d) Cada aeronave utilizada pelo CIAC para ministrar instrução de voo deve:
+
+  (1) possuir certificado de aeronavegabilidade padrão ou certificado de aeronavegabilidade
+  especial na categoria primária ou leve esportiva e certificado de matrícula válidos, emitidos
+  pela ANAC; e
+
+  (2) ser mantida e inspecionada conforme os requisitos aplicáveis da Subparte E do RBHA 91,
+  ou disposições correspondentes que vierem a substituí-la.'
+keywords:
+- escolas
+- treinamento
+- certificado
+- aeronavegabilidade
+- requisitos
+- aeronave
+- aeronaves
+- aplicaveis
+- cada
+- categoria
+- ciac
+- correspondentes
+- disposicoes
+- emitidos
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

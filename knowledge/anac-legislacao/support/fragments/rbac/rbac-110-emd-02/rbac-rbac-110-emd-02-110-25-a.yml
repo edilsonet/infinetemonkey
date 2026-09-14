@@ -1,0 +1,34 @@
+id: rbac-rbac-110-emd-02-110-25-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.25'
+section_title: Validade da autorização do centro de instrução
+subsection_id: a
+cite: 110.25(a)
+title: 110.25(a)
+text: '(a) O centro de instrução que deixar de ministrar curso AVSEC por mais de 12 (doze)
+  meses terá sua autorização automaticamente revogada.
+
+  (1) Caso a autorização seja revogada, o centro de instrução que desejar voltar a operar
+  deverá iniciar novamente o processo de autorização de centro de instrução.'
+keywords:
+- carga
+- operacoes
+- autorizacao
+- centro
+- instrucao
+- revogada
+- automaticamente
+- avsec
+- caso
+- curso
+- deixar
+- desejar
+- devera
+- doze
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

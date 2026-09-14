@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-143-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.143'
+section_title: Requisitos gerais
+subsection_id: a
+cite: 135.143(a)
+title: 135.143(a)
+text: (a) Somente é permitido operar uma aeronave segundo este Regulamento se a aeronave e
+  seus equipamentos atenderem às regras dos RBAC e/ou RBHA aplicáveis.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- aplicaveis
+- atenderem
+- equipamentos
+- gerais
+- operar
+- permitido
+- regras
+- regulamento
+- requisitos
+- segundo
+- somente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

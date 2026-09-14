@@ -1,0 +1,35 @@
+id: rbac-rbac-121-121-199-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.199'
+section_title: 'Aviões não incluídos na categoria transporte: limitações de decolagem'
+subsection_id: a
+cite: 121.199(a)
+title: 121.199(a)
+text: (a) Ninguém pode decolar com um avião não incluído na categoria transporte com um peso
+  maior do que o que permite que o avião seja trazido a uma parada total dentro do comprimento
+  efetivo da pista a partir de qualquer ponto durante a decolagem antes de atingir 105% da
+  velocidade mínima de controle (a menor velocidade na qual o avião pode ser controlado com
+  segurança, em voo, após um motor tornar-se inoperante) ou 115 % da velocidade de estol sem
+  potência em configuração de decolagem, o que for maior.
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- decolagem
+- velocidade
+- categoria
+- maior
+- pode
+- transporte
+- atingir
+- avioes
+- comprimento
+- configuracao
+- controlado
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

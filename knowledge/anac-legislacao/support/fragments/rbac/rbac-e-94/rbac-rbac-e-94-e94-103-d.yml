@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-103-d
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.103
+section_title: Regras gerais para a operação de aeronaves não tripuladas
+subsection_id: d
+cite: E94.103(d)
+title: E94.103(d)
+text: (d) Todas as operações de aeronaves não tripuladas de uso não recreativo acima de 250
+  gramas de peso máximo de decolagem devem possuir seguro com cobertura de danos a terceiros,
+  exceto as operações de aeronaves pertencentes a entidades controladas pelo Estado.
+keywords:
+- aeronaves
+- operacoes
+- tripuladas
+- acima
+- cobertura
+- controladas
+- danos
+- decolagem
+- entidades
+- estado
+- exceto
+- gerais
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

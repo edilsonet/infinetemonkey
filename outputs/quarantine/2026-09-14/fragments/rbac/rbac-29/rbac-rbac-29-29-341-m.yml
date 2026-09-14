@@ -1,0 +1,54 @@
+id: rbac-rbac-29-29-341-m
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.341'
+section_title: 'and 29.351:'
+subsection_id: m
+cite: 29.341(m)
+title: 29.341(m)
+text: '(m)
+
+  Any components that are affected by maneuvering and gust loads must be investigated for
+  the same
+
+  flight conditions as are the main rotors, and their service lives must be determined by
+  fatigue tests or by
+
+  other acceptable methods. In addition, a level of safety equal to that of the main rotors
+  must be provided
+
+  for -
+
+  (1)
+
+  Each component in the rotor drive system whose failure would cause an uncontrolled landing;
+
+  (2)
+
+  Each component essential to the phasing of rotors on multirotor rotorcraft, or that furnishes
+  a
+
+  driving link for the essential control of rotors in autorotation; and
+
+  (3)
+
+  Each component common to two or more engines on multiengine rotorcraft.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- rotors
+- component
+- each
+- must
+- that
+- essential
+- main
+- acceptable
+- addition
+- affected
+- autorotation
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-117-117-63-v
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: '117.63'
+section_title: Sistema de gerenciamento de risco da fadiga (SGRF)
+subsection_id: v
+cite: 117.63(v)
+title: 117.63(v)
+text: '(v) processo de avaliação e mitigação dos riscos;
+
+  (3) garantia da segurança operacional quanto à fadiga, que contenha os seguintes elementos:'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- avaliacao
+- contenha
+- elementos
+- garantia
+- gerenciamento
+- mitigacao
+- operacional
+- processo
+- quanto
+- risco
+- riscos
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

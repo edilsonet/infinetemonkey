@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-117-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.117'
+section_title: Instruções verbais aos passageiros antes da decolagem
+subsection_id: b
+cite: 135.117(b)
+title: 135.117(b)
+text: (b) Antes de cada decolagem o piloto em comando deve assegurar-se de que cada pessoa
+  que possa necessitar de assistência de outra pessoa para mover-se mais rapidamente para
+  uma saída, se ocorrer uma emergência, e o assistente dessa pessoa (se houver), foram adequadamente
+  instruídos sobre os procedimentos a serem seguidos se ocorrer uma evacuação de emergência.
+  Este parágrafo não se aplica a uma pessoa que tenha recebido essa instrução em etapa anterior
+  do mesmo voo, na mesma aeronave.
+keywords:
+- taxi-aereo
+- operacoes
+- pessoa
+- cada
+- decolagem
+- emergencia
+- ocorrer
+- adequadamente
+- aeronave
+- anterior
+- aplica
+- assegurar
+- assistencia
+- assistente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-27-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.27
+section_title: Equipamentos e sistemas elétricos
+subsection_id: a
+cite: A135.27(a)
+title: A135.27(a)
+text: '(a) Geral. Os equipamentos e sistemas elétricos do avião devem atender ao RBAC nº 23
+  e aos seguintes requisitos:
+
+  (1) Capacidade do sistema elétrico. A capacidade de geração requerida e o número e espécies
+  das fontes de energia devem:'
+keywords:
+- taxi-aereo
+- operacoes
+- capacidade
+- eletricos
+- equipamentos
+- sistemas
+- a135
+- atender
+- aviao
+- eletrico
+- energia
+- especies
+- fontes
+- geracao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

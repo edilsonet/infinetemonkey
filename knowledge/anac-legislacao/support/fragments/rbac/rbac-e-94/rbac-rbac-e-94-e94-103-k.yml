@@ -1,0 +1,28 @@
+id: rbac-rbac-e-94-e94-103-k
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.103
+section_title: Regras gerais para a operação de aeronaves não tripuladas
+subsection_id: k
+cite: E94.103(k)
+title: E94.103(k)
+text: (k) O operador deve manter registros de todos os voos realizados de RPA Classes 1 e
+  2, em formato aceitável pela ANAC.
+keywords:
+- aceitavel
+- aeronaves
+- classes
+- formato
+- gerais
+- manter
+- operacao
+- operador
+- realizados
+- registros
+- regras
+- todos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

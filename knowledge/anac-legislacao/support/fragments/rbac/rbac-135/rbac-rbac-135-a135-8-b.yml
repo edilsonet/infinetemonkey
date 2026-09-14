@@ -1,0 +1,55 @@
+id: rbac-rbac-135-a135-8-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.8
+section_title: 'Instrumentos: instalação'
+subsection_id: b
+cite: A135.8(b)
+title: A135.8(b)
+text: '(b) Sistema indicador de velocidade no ar. Cada sistema indicador de velocidade no
+  ar deve atender aos requisitos do RBAC nº 23 e, em adição:
+
+  (1) Instrumentos indicadores de velocidade no ar devem ser de um tipo aprovado e devem ser
+  calibrados para indicar velocidade verdadeira ao nível do mar e atmosfera padrão, com o
+  mínimo erro praticável de calibração do instrumento, quando as correspondentes pressões
+  de “
+
+  pitot
+
+  ” e estática forem aplicadas aos instrumentos.
+
+  (2) O sistema de indicação de velocidades no ar deve ser calibrado para determinar seu erro
+  (isto é, a relação entre IAS e CAS) em voo e durante a aceleração na corrida de decolagem
+  no solo. A calibração na corrida no solo deve ser obtida entre 0,8 do valor mínimo de V1
+  e 1,2 do valor máximo de V1, considerando as faixas aprovadas de altitude e peso. A calibração
+  na corrida no solo é determinada assumindo-se uma falha de motor no valor mínimo de V1.
+
+  (3) O erro de velocidade da instalação, excluindo o erro de calibração de instrumento, não
+  pode exceder 3 % ou 5 nós, o que for maior, ao longo da faixa de velocidade desde VMO até
+  1,3 VS1 com flapes recolhidos, e desde 1,3 VSO até VFE com flapes na posição de pouso.
+
+  (4) As informações mostrando a relação entre IAS e CAS devem ser incluídas no manual de
+  voo do avião.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- velocidade
+- calibracao
+- erro
+- corrida
+- instrumentos
+- minimo
+- sistema
+- solo
+- valor
+- desde
+- flapes
+- indicador
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

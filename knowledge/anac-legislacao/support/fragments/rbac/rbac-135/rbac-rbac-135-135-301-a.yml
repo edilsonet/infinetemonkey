@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-301-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.301'
+section_title: 'Tripulantes: padrões para aceitação de exames'
+subsection_id: a
+cite: 135.301(a)
+title: 135.301(a)
+text: (a) Se um tripulante precisar realizar um exame requerido por este Regulamento em um
+  determinado mês calendárico e realizar esse exame no mês calendárico anterior ou posterior
+  ao mês previsto, esse tripulante é considerado como tendo realizado o exame no mês calendárico
+  em que era devido.
+keywords:
+- taxi-aereo
+- operacoes
+- calendarico
+- exame
+- realizar
+- tripulante
+- aceitacao
+- anterior
+- considerado
+- determinado
+- devido
+- exames
+- padroes
+- posterior
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

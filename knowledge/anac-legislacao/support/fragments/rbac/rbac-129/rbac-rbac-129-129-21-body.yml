@@ -1,0 +1,43 @@
+id: rbac-rbac-129-129-21-body
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.21'
+section_title: Linguagem do controle de tráfego aéreo
+subsection_id: body
+cite: '129.21'
+title: Linguagem do controle de tráfego aéreo
+text: '129.21 Linguagem do controle de tráfego aéreo
+
+  The communications with the air traffic control (ATC) shall be conducted in English. The
+  flight crew of the foreign air carrier shall meet the language proficiency requirements
+  of section 1.2.9, language proficiency, Annex 1 of the Convention on International Civil
+  Aviation.
+
+  As comunicações radiotelefônicas com os órgãos de controle de tráfego aéreo devem ser conduzidas
+  na língua inglesa. Os tripulantes de voo de empresas estrangeiras de transporte aéreo que
+  operem no Brasil devem atender aos requisitos de proficiência linguística da seção 1.2.9,
+
+  language proficiency,
+
+  do Anexo 1 da Convenção de Aviação Civil Internacional.'
+keywords:
+- operador-estrangeiro
+- operacoes
+- aereo
+- controle
+- trafego
+- language
+- linguagem
+- proficiency
+- civil
+- shall
+- anexo
+- annex
+- atender
+- aviacao
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

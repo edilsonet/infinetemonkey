@@ -1,0 +1,40 @@
+id: rbac-rbac-21-21-221-a
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.221'
+section_title: Certificado de aeronavegabilidade provisório Classe I
+subsection_id: a
+cite: 21.221(a)
+title: 21.221(a)
+text: '(a) Exceto como previsto na seção 21.225, o requerente de um certificado de aeronavegabilidade
+  provisório Classe I faz jus a esse certificado para uma aeronave para a qual tenha sido
+  emitido um certificado de tipo provisório Classe I se:
+
+  (1) ele atender aos requisitos de elegibilidade da seção 21.213 e cumprir os requisitos
+  estabelecidos por esta seção; e
+
+  (2) a ANAC considerar que não existe aspecto, característica ou condição da aeronave que
+  a torne insegura quando operada de acordo com as limitações estabelecidas no parágrafo 21.81(e)
+  e na seção 91.317 do RBHA 91, ou dispositivo correspondente do RBAC que venha a substituí-lo.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- secao
+- classe
+- provisorio
+- aeronave
+- requisitos
+- acordo
+- aspecto
+- atender
+- caracteristica
+- condicao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

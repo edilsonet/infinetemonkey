@@ -1,0 +1,135 @@
+id: rbac-rbac-153-153-403-body
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.403'
+section_title: '153.403'
+subsection_id: body
+cite: '153.403'
+title: '153.403'
+text: '153.403
+
+  CAT - Categoria Contraincêndio do
+
+  Aeródromo
+
+  153.403(b)(1)
+
+  Classe I
+
+  24.000
+
+  42.000
+
+  60.000
+
+  1 por constatação
+
+  Classe II
+
+  48.000
+
+  84.000
+
+  120.000
+
+  Classe III
+
+  120.000
+
+  210.000
+
+  300.000
+
+  Classe IV
+
+  160.000
+
+  280.000
+
+  400.000
+
+  153.403(c)(1)
+
+  Classe I
+
+  12.000
+
+  21.000
+
+  30.000
+
+  1 por constatação
+
+  Classe II
+
+  24.000
+
+  42.000
+
+  60.000
+
+  Classe III
+
+  60.000
+
+  105.000
+
+  150.000
+
+  Classe IV
+
+  80.000
+
+  140.000
+
+  200.000
+
+  153.403(c)(2)
+
+  Classe I
+
+  36.000
+
+  63.000
+
+  90.000
+
+  1 por constatação
+
+  Classe II
+
+  72.000
+
+  126.000
+
+  180.000
+
+  Classe III
+
+  180.000
+
+  315.000
+
+  450.000
+
+  Classe IV
+
+  240.000
+
+  420.000
+
+  600.000'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- classe
+- constatacao
+- aerodromo
+- categoria
+- contraincendio
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

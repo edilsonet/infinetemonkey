@@ -1,0 +1,49 @@
+id: rbac-rbac-23-23-2400-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2400'
+section_title: Instalação do grupo motopropulsor.
+subsection_id: b
+cite: 23.2400(b)
+title: 23.2400(b)
+text: '(b) Cada motor e hélice do avião deve ser de
+
+  tipo certificado, exceto para motores e hélices
+
+  instalados em aviões de baixa velocidade de
+
+  nível 1, que podem ser aprovados sob o certifi-
+
+  cado de tipo do avião de acordo com um pa-
+
+  drão aceito pela ANAC que contenha critérios
+
+  de aeronavegabilidade que a ANAC considerou
+
+  adequados e aplicáveis ao projeto específico e
+
+  ao uso pretendido do motor ou da hélice, e for-
+
+  neça um nível de segurança aceitável para a
+
+  ANAC.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- aviao
+- helice
+- motor
+- nivel
+- tipo
+- aceitavel
+- aceito
+- acordo
+- adequados
+- aplicaveis
+- aprovados
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

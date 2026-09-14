@@ -1,0 +1,41 @@
+id: rbac-rbac-e-94-e94-503-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.503
+section_title: Emissão de CAVE e AEV para RPA
+subsection_id: c
+cite: E94.503(c)
+title: E94.503(c)
+text: '(c) Uma AEV pode ser emitida para RPA com os seguintes propósitos, mediante cumprimento
+  da seção 21.199 do RBAC 21:
+
+  (1) translado de aeronave para uma base onde reparos, modificações ou serviços de manutenção
+  serão executados, ou para uma base onde a aeronave será armazenada;
+
+  (2) entrega ou exportação de aeronave ao seu comprador;
+
+  (3) ensaios em voo de produção de aeronaves recém-fabricadas, inclusive treinamento de piloto
+  remoto do fabricante;
+
+  (4) evacuação da aeronave de áreas perigosas;
+
+  (5) condução de voos de demonstração para cliente, inclusive treinamento de piloto remoto
+  do mesmo, em aeronaves novas que tenham satisfatoriamente completado ensaios em voo de produção.'
+keywords:
+- aeronave
+- aeronaves
+- base
+- ensaios
+- inclusive
+- piloto
+- producao
+- remoto
+- treinamento
+- areas
+- armazenada
+- cave
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

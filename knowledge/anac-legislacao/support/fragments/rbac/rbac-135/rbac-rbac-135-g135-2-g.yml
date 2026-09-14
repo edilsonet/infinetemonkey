@@ -1,0 +1,35 @@
+id: rbac-rbac-135-g135-2-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: g
+cite: G135.2(g)
+title: G135.2(g)
+text: '(g) Requisitos de combustível. Somente é permitido a uma pessoa despachar ou liberar
+  para um voo ETOPS se, considerando o vento e outras condições meteorológicas esperadas,
+  houver o combustível requerido por este Regulamento e suficiente para atender aos seguintes
+  requisitos:
+
+  (1) combustível suficiente para voar até um aeródromo de alternativa em rota ETOPS;'
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- requisitos
+- etops
+- suficiente
+- aerodromo
+- alternativa
+- atender
+- condicoes
+- considerando
+- despachar
+- esperadas
+- g135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-36-k7-3-body
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K7.3
+section_title: If either the test conditions or test procedures do not comply to the applicable
+  noise
+subsection_id: body
+cite: K7.3
+title: If either the test conditions or test procedures do not comply to the applicable noise
+text: 'K7.3 If either the test conditions or test procedures do not comply to the applicable
+  noise
+
+  certification reference conditions or procedures prescribed by this RBAC, the applicant
+  must apply
+
+  the correction methods described in section H36.205 of Appendix H of this RBAC to the acoustic
+
+  test data measured.'
+keywords:
+- ruido
+- meio-ambiente
+- test
+- conditions
+- procedures
+- applicable
+- comply
+- either
+- noise
+- this
+- acoustic
+- appendix
+- applicant
+- apply
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

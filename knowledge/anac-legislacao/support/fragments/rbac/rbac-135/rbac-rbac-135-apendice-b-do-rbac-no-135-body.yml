@@ -1,0 +1,293 @@
+id: rbac-rbac-135-apendice-b-do-rbac-no-135-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: apendice-b-do-rbac-no-135
+section_title: APÊNDICE B DO RBAC Nº 135
+subsection_id: body
+cite: apendice-b-do-rbac-no-135
+title: APÊNDICE B DO RBAC Nº 135
+text: 'APÊNDICE B DO RBAC Nº 135
+
+  ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA AVIÕES
+
+  PARÁGRAFO 135.152 (a)
+
+  Parâmetros
+
+  Faixa
+
+  Precisão mínima do sistema instalado (para recuperação dos dados) (1)
+
+  Intervalo da amostragem (por segundo)
+
+  Resolução da leitura (4)
+
+  Tempo relativo (a contar da ligação do gravador antes da decolagem)
+
+  8 horas no mínimo
+
+  ± 0,125 % por hora
+
+  1
+
+  1 seg
+
+  Velocidade indicada
+
+  V
+
+  SO
+
+  até V
+
+  D
+
+  (KIAS)
+
+  ± 5% ou ±10 nós, o que for maior. Resolução de 2 nós abaixo de 175 nós
+
+  1
+
+  1% (3)
+
+  Altitude
+
+  -1000 pés até a altitude máxima certificada p/ o avião
+
+  ± 100 a ± 700 pés
+
+  (ver tabela 1 da OTP C51-a)
+
+  1
+
+  25 a 150 pés
+
+  Proa magnética
+
+  360º
+
+  ± 5º
+
+  1
+
+  1º
+
+  Aceleração vertical
+
+  -3g a + 6g
+
+  ±0,2g em adição a ±0,3g de erro máximo de referência
+
+  4 (ou 1 por seg. se picos referentes a 1g forem gravados)
+
+  0,03g
+
+  Aceleração longitudinal
+
+  +
+
+  1,0g
+
+  ±1,5% da faixa máxima excluindo erro de referência de
+
+  +
+
+  5%
+
+  2
+
+  0,01g
+
+  Atitude de arfagem
+
+  100% da utilizável
+
+  ± 2º
+
+  1
+
+  0,8º
+
+  Atitude de rolamento
+
+  ± 60º ou 100% da faixa utilizável, o que for maior
+
+  ± 2º
+
+  1
+
+  0,8º
+
+  Posição do compensador de profundidade ou posição do controle de arfagem
+
+  Faixa total
+
+  ± 3º, a menos que seja requerido maior
+
+  1
+
+  1% (3)
+
+  POTÊNCIA DO MOTOR, PARA CADA MOTOR
+
+  Rotação do “fan”, ou N1, ou EPR, ou indicações da cabine usadas para certificação;
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  1 (3)
+
+  ou
+
+  ou
+
+  Rotação da hélice e torque (uma amostragem por segundo, tão próximas quanto praticável)
+
+  -
+
+  -
+
+  1 para rotação da hélice e 1 para rotação do motor
+
+  -
+
+  Razão de altitude (a necessidade depende da resolução da altitude) (2)
+
+  ± 8000 pés/min
+
+  ± 10%. Abaixo de 12.000 pés, resolução de 250 pés/min
+
+  1
+
+  250 pés/min abaixo de 12.000 pés
+
+  Ângulo de ataque (a necessidade depende da resolu&ccedccedil;ão da altitude) (2)
+
+  -20º a +40º ou faixa utilizável
+
+  ± 2º
+
+  1
+
+  0,8 % (3)
+
+  Transmissão rádio (discreto)
+
+  “on”/“off”
+
+  -
+
+  1
+
+  -
+
+  Flapes de bordo de fuga (discreto ou analógico)
+
+  Cada posição discreta
+
+  -
+
+  -
+
+  ou
+
+  ou
+
+  ou
+
+  0 a 100% do ângulo total
+
+  ±3º
+
+  1
+
+  1 % (3)
+
+  Flapes de bordo de ataque (discreto ou analógico)
+
+  Cada posição discreta
+
+  -
+
+  -
+
+  ou
+
+  ou
+
+  ou
+
+  0 a 100 % do ângulo total
+
+  ±3º
+
+  1
+
+  1 % (3)
+
+  Reversor de empuxo (discreto p/ cada motor)
+
+  Normal ou reverso total
+
+  -
+
+  1
+
+  1
+
+  “Spoiler”/freio aerodinâmico
+
+  Fechado ou aberto
+
+  -
+
+  1
+
+  1
+
+  Piloto automático (discreto)
+
+  Engajado ou desengajado
+
+  -
+
+  1
+
+  (1) Quando a fonte de dados for um instrumento do avião (exceto altímetros) de qualidade
+  aceitável para voar o avião, o sistema de gravação (excluindo esses sensores mas incluindo
+  todas as demais características do sistema de gravação) pode prover não mais que metade
+  dos valores desta coluna.
+
+  (2) Se forem utilizados os dados de altitude provenientes de um altímetro “encoder” (resolução
+  de 100 pés), qualquer um dos parâmetros pode ser gravado. No entanto, se os dados de altitude
+  forem gravados com uma resolução mínima de 25 pés, esses dois parâmetros podem ser omitidos.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (3) Porcentagem da faixa total de funcionamento.
+
+  (4) Esta coluna aplica-se para aviões fabricados após 11 de outubro de 1991.'
+keywords:
+- taxi-aereo
+- operacoes
+- altitude
+- faixa
+- resolucao
+- total
+- dados
+- discreto
+- cada
+- motor
+- posicao
+- rotacao
+- abaixo
+- angulo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-383-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.383'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações em rota
+  com dois motores inoperantes'
+subsection_id: v
+cite: 135.383(v)
+title: 135.383(v)
+text: (v) o consumo de combustível e óleo após a falha dos motores é o mesmo consumo previsto
+  pelos dados da trajetória líquida de voo do manual de voo do avião.
+keywords:
+- taxi-aereo
+- operacoes
+- motores
+- consumo
+- aviao
+- avioes
+- categoria
+- combustivel
+- dados
+- dois
+- falha
+- grandes
+- inoperantes
+- limitacoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

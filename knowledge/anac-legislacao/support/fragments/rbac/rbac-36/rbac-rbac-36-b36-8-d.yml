@@ -1,0 +1,43 @@
+id: rbac-rbac-36-b36-8-d
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: B36.8
+section_title: B36.8
+subsection_id: d
+cite: B36.8(d)
+title: B36.8(d)
+text: '(d) If the airplane''s weight during the test is diferent from the weight at which
+  noise certification is
+
+  requested, the required EPNL adjustment may not exced
+
+  2 EPNdB for each takeof and 1 EPNdB
+
+  for each aproach. Data aproved by the FA must be used to determine the variation of EPNL
+
+  with weight for both takeof and aproach test conditions. The necesary EPNL adjustment for
+
+  variations in aproach flight pat
+
+  h from the reference flight path must not exced 2 EPNdB.'
+keywords:
+- ruido
+- meio-ambiente
+- aproach
+- epndb
+- epnl
+- weight
+- adjustment
+- each
+- exced
+- flight
+- from
+- must
+- takeof
+- test
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

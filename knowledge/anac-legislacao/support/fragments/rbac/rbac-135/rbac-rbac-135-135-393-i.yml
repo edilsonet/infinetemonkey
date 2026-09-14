@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-393-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.393'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações de pouso
+  no aeródromo de destino'
+subsection_id: i
+cite: 135.393(i)
+title: 135.393(i)
+text: '(i) na pista com o maior comprimento efetivo com vento calmo; ou
+
+  (ii) na pista requerida pelo vento provável, levando em conta não mais que 50% de componente
+  de vento de proa ou não menos que 150% de componente de vento de cauda.'
+keywords:
+- taxi-aereo
+- operacoes
+- vento
+- componente
+- pista
+- aerodromo
+- avioes
+- calmo
+- categoria
+- cauda
+- comprimento
+- conta
+- destino
+- efetivo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

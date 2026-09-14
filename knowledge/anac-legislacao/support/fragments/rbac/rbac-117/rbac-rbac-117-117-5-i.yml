@@ -1,0 +1,101 @@
+id: rbac-rbac-117-117-5-i
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: '117.5'
+section_title: Determinação de aclimatação
+subsection_id: i
+cite: 117.5(i)
+title: 117.5(i)
+text: '(i) o local onde o tripulante foi aclimatado pela última vez (local original); e
+
+  (ii) cada local onde uma jornada ou período de repouso foi iniciado desde a última
+
+  aclimatação (locais anteriores);
+
+  (2) em seguida, deve-se escolher a maior diferença de fusos entre o local original e cada
+  um
+
+  dos locais anteriores;
+
+  (3) em seguida, deve-se escolher, na primeira coluna da Tabela, a linha correspondente à
+
+  diferença de fusos encontrada no parágrafo (f)(2) desta seção;
+
+  (4) em seguida, deve-se escolher o sentido da viagem (leste ou oeste) correspondente à maior
+
+  diferença entre fusos estabelecidos pelo parágrafo (f)(2) desta seção; e
+
+  (5) finalmente, deve-se escolher, nas colunas leste ou oeste, o número de horas correspondente
+
+  à linha determinada no parágrafo (f)(3) desta seção.
+
+  Tabela 1: Período de adaptação para aclimatação
+
+  Diferença de fusos (x)
+
+  Período de adaptação para aclimatação
+
+  de um tripulante a um novo local
+
+  (horas)
+
+  Oeste
+
+  Leste
+
+  3 ≤ x < 4
+
+  36
+
+  45
+
+  4 ≤ x < 7
+
+  48
+
+  60
+
+  7 ≤ x < 10
+
+  72
+
+  90
+
+  x ≥ 10
+
+  96
+
+  120
+
+
+  Data da emissão: 19 de março de 2019.
+
+  Data de exigibilidade: 29 de fevereiro de 2020.
+
+
+  SUBPARTE B
+
+  LIMITES E REQUISITOS'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- local
+- aclimatacao
+- diferenca
+- escolher
+- fusos
+- correspondente
+- desta
+- leste
+- oeste
+- paragrafo
+- periodo
+- secao
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

@@ -1,0 +1,48 @@
+id: rbac-rbac-90-90-303-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.303'
+section_title: Condições suplementares para pouso ou decolagem em local não cadastrado pela
+  ANAC em período noturno
+subsection_id: a
+cite: 90.303(a)
+title: 90.303(a)
+text: '(a) Caso seja necessária a realização do pouso ou decolagem em período noturno, os
+  seguintes procedimentos deverão observados:
+
+  (1) todos os requisitos estabelecidos para pouso e/ou decolagem no período diurno, estabelecidos
+  na seção 90.301 deste Regulamento, deverão ser cumpridos;
+
+  (2) as operações aéreas realizadas fora dos limites da ATZ, CTR ou TMA, incluindo as projeções
+  dos seus limites laterais, ou ainda, na inexistência desses espaços aéreos, as operações
+  realizadas fora de um raio de 50 km (27 NM) do aeródromo de decolagem, só serão permitidas
+  se realizadas por helicópteros certificados para operação sob regras de voo por instrumentos
+  - IFR;
+
+  (3) a tripulação e outras pessoas com função a bordo deverão utilizar as luzes externas
+  do helicóptero para estabelecer e manter as alturas requeridas para o voo pairado, à exceção
+  das operações com NVIS; e
+
+  (4) a tripulação e outras pessoas com função a bordo deverão utilizar as luzes de pouso
+  ou de outro dispositivo visível com fins à sinalização para auxílio ao pouso ou à decolagem,
+  à exceção das operações com NVIS.'
+keywords:
+- regras-de-voo
+- operacoes
+- decolagem
+- pouso
+- deverao
+- periodo
+- realizadas
+- bordo
+- estabelecidos
+- excecao
+- fora
+- funcao
+- limites
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

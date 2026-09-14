@@ -1,0 +1,40 @@
+id: rbac-rbac-155-155-7-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.7'
+section_title: Sistemas de referência comuns
+subsection_id: b
+cite: 155.7(b)
+title: 155.7(b)
+text: '(b)
+
+  O sistema de referência vertical deve seguir as seguintes especificações:
+
+  (1)
+
+  o
+
+  datum
+
+  do nível médio do mar (MSL), que fornece a relação entre a altura relacionada à gravidade
+  (elevação) até a superfície conhecida como geoide deve ser utilizado como o sistema de referência
+  vertical.'
+keywords:
+- seguranca-aeroportuaria
+- referencia
+- sistema
+- vertical
+- altura
+- comuns
+- conhecida
+- datum
+- elevacao
+- especificacoes
+- fornece
+- geoide
+- gravidade
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

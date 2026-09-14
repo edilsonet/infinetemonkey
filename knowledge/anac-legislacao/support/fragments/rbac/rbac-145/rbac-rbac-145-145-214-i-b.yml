@@ -1,0 +1,41 @@
+id: rbac-rbac-145-145-214-i-b
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: 145.214-I
+section_title: Sistema de Gerenciamento da Segurança Operacional - SGSO
+subsection_id: b
+cite: 145.214-I(b)
+title: 145.214-I(b)
+text: '(b) Cada organização de manutenção certificada deve:
+
+  (1) implantar, operacionalizar e manter um SGSO, de acordo com um plano de
+
+  implementação, adequado ao seu porte e à complexidade de suas operações, conforme requerido
+  e
+
+  aceito pela ANAC;
+
+  (2) demonstrar que o SGSO está implantado na certificação inicial;
+
+  (3) assegurar a operacionalização do SGSO conforme os prazos aceitos pela ANAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- sgso
+- aceito
+- aceitos
+- acordo
+- adequado
+- assegurar
+- cada
+- certificacao
+- certificada
+- complexidade
+- demonstrar
+- gerenciamento
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

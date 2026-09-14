@@ -1,0 +1,31 @@
+id: rbac-rbac-e-94-e94-409-m
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: m
+cite: E94.409(m)
+title: E94.409(m)
+text: '(m) cada componente de um sistema essencial para a segurança do voo deve:
+
+  (1) ser de um tipo e projeto apropriado para a função pretendida; e
+
+  (2) ser instalado de acordo com as limitações especificadas para aquele componente;'
+keywords:
+- componente
+- projeto
+- acordo
+- apropriado
+- aquele
+- cada
+- classe
+- especificadas
+- essencial
+- funcao
+- instalado
+- limitacoes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

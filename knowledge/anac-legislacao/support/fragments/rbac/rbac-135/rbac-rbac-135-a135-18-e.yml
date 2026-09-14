@@ -1,0 +1,35 @@
+id: rbac-rbac-135-a135-18-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.18
+section_title: Propulsão geral
+subsection_id: e
+cite: A135.18(e)
+title: A135.18(e)
+text: (e) Sistema limitador de arrasto de turboélice. Os sistemas de limitação de arrasto
+  para turboélices devem ser projetados de modo que nenhuma falha simples ou mau funcionamento
+  de qualquer dos sistemas, durante operação normal ou em emergência, resulte em um arrasto
+  da hélice superior àquele para o qual o avião foi projetado. Falhas de elementos estruturais
+  do sistema limitador de arrasto não precisam ser consideradas, se a probabilidade de ocorrência
+  dessa espécie de falha for extremamente remota.
+keywords:
+- taxi-aereo
+- operacoes
+- arrasto
+- falha
+- limitador
+- sistema
+- sistemas
+- a135
+- aquele
+- aviao
+- consideradas
+- dessa
+- durante
+- elementos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,41 @@
+id: rbac-rbac-133-133-45-body
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.45'
+section_title: Limitações operacionais
+subsection_id: body
+cite: '133.45'
+title: Limitações operacionais
+text: '133.45 Limitações operacionais
+
+  Em adição às limitações operacionais contidas no Manual de Voo aprovado (RFM) da aeronave
+  e às
+
+  demais limitações estabelecidas pelo órgão certificador, o operador deve estabelecer pelo
+  menos as
+
+  seguintes limitações e incluí-las no Manual de Voo da Combinação Aeronave-Carga preparado
+  para
+
+  operações com cargas externas:'
+keywords:
+- carga-externa
+- helicoptero
+- limitacoes
+- operacionais
+- aeronave
+- manual
+- adicao
+- aprovado
+- carga
+- cargas
+- certificador
+- combinacao
+- contidas
+- demais
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

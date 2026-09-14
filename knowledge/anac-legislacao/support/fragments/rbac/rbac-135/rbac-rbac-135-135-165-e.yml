@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-165-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.165'
+section_title: 'Equipamentos de comunicações e navegação: voos sobre grandes extensões de
+  água ou IFR'
+subsection_id: e
+cite: 135.165(e)
+title: 135.165(e)
+text: '(e) Para os propósitos desta seção operação sobre grande extensão de água significa
+  uma operação conduzida sobre água a uma distância horizontal da margem ou litoral igual
+  ou superior a 186 km (100 milhas marítimas).
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- agua
+- operacao
+- comunicacoes
+- conduzida
+- dada
+- desta
+- distancia
+- equipamentos
+- extensao
+- extensoes
+- grande
+- grandes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,678 @@
+id: rbac-rbac-161-161-41-b
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.41'
+section_title: Compatibilidade do uso do solo
+subsection_id: b
+cite: 161.41(b)
+title: 161.41(b)
+text: '(b)
+
+  O operador de aeródromo sujeito a elaboração de PEZR deve fazer constar do referido Plano
+  os usos do solo compatíveis e incompatíveis para as áreas por ele abrangidas, conforme apresentado
+  na Tabela E-2.
+
+  (Redação dada pela Resolução nº 609, de 23.02.2021)
+
+  TABELA E-1- Usos compatíveis e incompatíveis para áreas abrangidas por PBZR
+
+  Uso do Solo
+
+  Nível de ruído médio dia-noite (dB)
+
+  Abaixo de 65
+
+  65 - 75
+
+  Acima de 75
+
+  Residencial
+
+  Residências uni e multifamiliares
+
+  S
+
+  N (1)
+
+  N
+
+  Alojamentos temporários (exemplos: hotéis, motéis e pousadas ou empreendimentos equivalentes)
+
+  S
+
+  N (1)
+
+  N
+
+  Locais de permanência prolongada (exemplos: presídios, orfanatos, asilos, quartéis, mosteiros,
+  conventos, apart-hotéis, pensões ou empreendimentos equivalentes)
+
+  S
+
+  N (1)
+
+  N
+
+  Usos Públicos
+
+  Educacional
+
+  (exemplos: universidades, bibliotecas, faculdades, creches, escolas, colégios ou empreendimentos
+  equivalentes)
+
+  S
+
+  N (1)
+
+  N
+
+  Saúde
+
+  (exemplos: hospitais, sanatórios, clínicas, casas de saúde, centros de reabilitação ou empreendimentos
+  equivalentes)
+
+  S
+
+  30
+
+  N
+
+  Igrejas, auditórios e salas de concerto
+
+  (exemplos: igrejas, templos, associações religiosas, centros culturais, museus, galerias
+  de arte, cinemas, teatros ou empreendimentos equivalentes)
+
+  S
+
+  30
+
+  N
+
+  Serviços governamentais (exemplos: postos de atendimento, correios, aduanas ou empreendimentos
+  equivalentes)
+
+  S
+
+  25
+
+  N
+
+  Transportes (exemplos: terminais rodoviários, ferroviários, aeroportuários, marítimos, de
+  carga e passageiros ou empreendimentos equivalentes)
+
+  S
+
+  25
+
+  35
+
+  Estacionamentos (exemplo: edifício garagem ou empreendimentos equivalentes)
+
+  S
+
+  25
+
+  N
+
+  Usos Comerciais e serviços
+
+  Escritórios, negócios e profissional liberal
+
+  (exemplos: escritórios, salas e salões comerciais, consultórios ou empreendimentos equivalentes)
+
+  S
+
+  25
+
+  N
+
+  Comércio atacadista - materiais de construção, equipamentos de grande porte
+
+  S
+
+  25
+
+  N
+
+  Comércio varejista
+
+  S
+
+  25
+
+  N
+
+  Serviços de utilidade pública (exemplos: cemitérios, crematórios, estações de tratamento
+  de água e esgoto, reservatórios de água, geração e distribuição de energia elétrica, Corpo
+  de Bombeiros ou empreendimentos equivalentes)
+
+  S
+
+  25
+
+  N
+
+  Serviços de comunicação (exemplos: estações de rádio e televisão ou empreendimentos equivalentes)
+
+  S
+
+  25
+
+  N
+
+  Usos Industriais e de Produção
+
+  Indústrias em geral
+
+  S
+
+  25
+
+  N
+
+  Indústrias de precisão (Exemplo: fotografia, óptica)
+
+  S
+
+  25
+
+  N
+
+  Agricultura e floresta
+
+  S
+
+  S (3)
+
+  S (4)
+
+  Criação de animais, pecuária
+
+  S
+
+  S (3)
+
+  N
+
+  Mineração e pesca (exemplo: produção e extração de recursos naturais)
+
+  S
+
+  S
+
+  S
+
+  Usos Recreacionais
+
+  Estádios de esportes ao ar livre, ginásios
+
+  S
+
+  S
+
+  N
+
+  Conchas acústicas ao ar livre e anfiteatros
+
+  S
+
+  N
+
+  N
+
+  Exposições agropecuárias e zoológicos
+
+  S
+
+  N
+
+  N
+
+  Parques, parques de diversões, acampamentos ou empreendimentos equivalentes
+
+  S
+
+  S
+
+  N
+
+  Campos de golf, hípicas e parques aquáticos
+
+  S
+
+  25
+
+  N
+
+  TABELA E-2- Usos compatíveis e incompatíveis para áreas abrangidas por PEZR
+
+  Uso do Solo
+
+  Nível de Ruído Médio dia-noite (dB)
+
+  Abaixo de 65
+
+  65 - 70
+
+  70 - 75
+
+  75 - 80
+
+  80 - 85
+
+  Acima de 85
+
+  Residencial
+
+  Residências uni e multifamiliares
+
+  S
+
+  N (1)
+
+  N (1)
+
+  N
+
+  N
+
+  N
+
+  Alojamentos Temporários
+
+  (exemplos: hotéis, motéis e pousadas ou empreendimentos equivalentes)
+
+  S
+
+  N (1)
+
+  N (1)
+
+  N (1)
+
+  N
+
+  N
+
+  Locais de permanência prolongada (exemplos: presídios, orfanatos, asilos, quartéis, mosteiros,
+  conventos, apart-hotéis, pensões ou empreendimentos equivalentes)
+
+  S
+
+  N (1)
+
+  N (1)
+
+  N
+
+  N
+
+  N
+
+  Usos Públicos
+
+  Educacional (exemplos: Universidades, bibliotecas, faculdades, creches, escolas, colégios
+  ou empreendimentos equivalentes)
+
+  S
+
+  N (1)
+
+  N (1)
+
+  N
+
+  N
+
+  N
+
+  Saúde (exemplos: hospitais, sanatórios, clínicas, casas de saúde, centros de reabilitação
+  ou empreendimentos equivalentes)
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  N
+
+  Igrejas, auditórios e salas de Concerto
+
+  (exemplos: igrejas, templos, associações religiosas, centros culturais, museus, galerias
+  de arte, cinemas, teatros ou empreendimentos equivalentes)
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  N
+
+  Serviços governamentais (exemplos: postos de atendimento, correios, aduanas ou empreendimentos
+  equivalentes)
+
+  S
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  Transportes (exemplos: terminais rodoviários, ferroviários, aeroportuários, marítimos, de
+  carga e passageiros ou empreendimentos equivalentes)
+
+  S
+
+  S
+
+  25
+
+  30
+
+  35
+
+  35
+
+  Estacionamentos (exemplo: edifício garagem ou empreendimentos equivalentes)
+
+  S
+
+  S
+
+  25
+
+  30
+
+  35
+
+  N
+
+  Usos Comerciais e serviços
+
+  Escritórios, negócios e profissional liberal
+
+  (exemplos: escritórios, salas e salões comerciais, consultórios ou empreendimentos equivalentes)
+
+  S
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  Comércio atacadista - materiais de construção, equipamentos de grande porte
+
+  S
+
+  S
+
+  25
+
+  30
+
+  35
+
+  N
+
+  Comércio varejista
+
+  S
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  Serviços de utilidade pública (exemplos: cemitérios, crematórios, estações de tratamento
+  de água e esgoto, reservatórios de água, geração e distribuição de energia elétrica, Corpo
+  de Bombeiros ou empreendimentos equivalentes)
+
+  S
+
+  S
+
+  25
+
+  30
+
+  35
+
+  N
+
+  Serviços de comunicação (exemplos: estações de rádio e televisão ou empreendimentos equivalentes)
+
+  S
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  Usos Industriais e de Produção
+
+  Indústrias em geral
+
+  S
+
+  S
+
+  25
+
+  30
+
+  35
+
+  N
+
+  Indústrias de precisão (Exemplo: fotografia, óptica)
+
+  S
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  Agricultura e floresta
+
+  S
+
+  S (2)
+
+  S (3)
+
+  S (4)
+
+  S (4)
+
+  S (4)
+
+  Criação de animais, pecuária
+
+  S
+
+  S (2)
+
+  S (3)
+
+  N
+
+  N
+
+  N
+
+  Mineração e pesca (Exemplo: produção e extração de recursos naturais)
+
+  S
+
+  S
+
+  S
+
+  S
+
+  S
+
+  S
+
+  Usos Recreacionais
+
+  Estádios de esportes ao ar livre, ginásios
+
+  S
+
+  S
+
+  S
+
+  N
+
+  N
+
+  N
+
+  Conchas acústicas ao ar livre e anfiteatros
+
+  S
+
+  N
+
+  N
+
+  N
+
+  N
+
+  N
+
+  Exposições agropecuárias e zoológicos
+
+  S
+
+  S
+
+  N
+
+  N
+
+  N
+
+  N
+
+  Parques, parques de diversões, acampamentos ou empreendimentos equivalentes
+
+  S
+
+  S
+
+  S
+
+  N
+
+  N
+
+  N
+
+  Campos de golf, hípicas e parques aquáticos
+
+  S
+
+  S
+
+  25
+
+  30
+
+  N
+
+  N
+
+  Notas das Tabelas E-1 e E-2:
+
+  S (Sim)
+
+  = usos do solo e edificações relacionadas compatíveis sem restrições
+
+  N (Não)
+
+  = usos do solo e edificações relacionadas não compatíveis.
+
+  25, 30, 35 =
+
+  usos do solo e edificações relacionadas geralmente compatíveis. Medidas para atingir uma
+  redução de nível de ruído - RR de 25, 30 ou 35 dB devem ser incorporadas no projeto/construção
+  das edificações onde houver permanência prolongada de pessoas.
+
+  (1)
+
+  Sempre que os órgãos determinarem que os usos devam ser permitidos, devem ser adotadas medidas
+  para atingir uma RR de pelo menos 25 dB.
+
+  (2)
+
+  Edificações residenciais requerem uma RR de 25 dB.
+
+  (3)
+
+  Edificações residenciais requerem uma RR de 30 dB.
+
+  (4)
+
+  Edificações residenciais não são compatíveis.
+
+  SUBPARTE F
+
+  RELACIONAMENTO ENTRE OPERADOR DE AERÓDROMO, ÓRGÃOS LOCAIS E COMUNIDADES DO ENTORNO'
+keywords:
+- empreendimentos
+- equivalentes
+- exemplos
+- usos
+- servicos
+- compativeis
+- edificacoes
+- solo
+- exemplo
+- parques
+- agua
+- centros
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

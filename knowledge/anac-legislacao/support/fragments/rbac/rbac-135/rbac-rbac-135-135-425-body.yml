@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-425-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.425'
+section_title: Programas de manutenção, manutenção preventiva e alterações
+subsection_id: body
+cite: '135.425'
+title: Programas de manutenção, manutenção preventiva e alterações
+text: '135.425 Programas de manutenção, manutenção preventiva e alterações
+
+  O detentor de certificado deve elaborar e submeter à aprovação da ANAC um programa de inspeções
+  e um programa cobrindo outras atividades de manutenção, manutenção preventiva e alterações,
+  concebido com base nas informações de aeronavegabilidade disponibilizadas pela ANAC, pela
+  organização detentora do projeto de tipo, pelos países dessas organizações e na experiência
+  do operador. Estes programas são estabelecidos para assegurar que:'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- alteracoes
+- preventiva
+- programas
+- programa
+- aeronavegabilidade
+- aprovacao
+- assegurar
+- atividades
+- base
+- certificado
+- cobrindo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,43 @@
+id: rbac-rbac-137-137-127-a
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.127'
+section_title: Requisitos para o pessoal de administração requerido
+subsection_id: a
+cite: 137.127(a)
+title: 137.127(a)
+text: '(a) O detentor de CDAG deve designar formalmente e cadastrar junto à ANAC um gestor
+  responsável, pessoa única e identificável na sua estrutura organizacional, que terá as seguintes
+  prerrogativas e responsabilidades:
+
+  (1) [reservado];
+
+  (2) autoridade final sobre as operações conduzidas sob os regulamentos aplicáveis ao detentor
+  do CDAG;
+
+  (3) poder de decisão sobre a alocação de recursos humanos, financeiros e técnicos do detentor
+  do CDAG; e
+
+  (4) responsabilidade por prestar contas pelo desempenho de segurança operacional do detentor
+  do CDAG.'
+keywords:
+- aeroagricola
+- operacoes
+- cdag
+- detentor
+- administracao
+- alocacao
+- aplicaveis
+- autoridade
+- cadastrar
+- conduzidas
+- contas
+- decisao
+- desempenho
+- designar
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

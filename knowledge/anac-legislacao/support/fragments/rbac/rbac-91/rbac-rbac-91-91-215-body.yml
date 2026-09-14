@@ -1,0 +1,22 @@
+id: rbac-rbac-91-91-215-body
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.215'
+section_title: Transponder e transmissor automático de altitude
+subsection_id: body
+cite: '91.215'
+title: Transponder e transmissor automático de altitude
+text: 91.215 Transponder e transmissor automático de altitude
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- altitude
+- automatico
+- transmissor
+- transponder
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-145-145-215-e-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.215'
+section_title: Lista de capacidade
+subsection_id: e-i
+cite: 145.215(e-I)
+title: 145.215(e-I)
+text: '(e)-I Cada organização de manutenção deve submeter sua lista de capacidade à aceitação
+  da
+
+  ANAC após cada alteração, a menos que haja procedimento diferente aceito pela ANAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- cada
+- capacidade
+- lista
+- aceitacao
+- aceito
+- alteracao
+- diferente
+- haja
+- menos
+- organizacao
+- procedimento
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

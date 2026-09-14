@@ -1,0 +1,49 @@
+id: rbac-rbac-161-161-53-d
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.53'
+section_title: Gerenciamento do ruído aeronáutico
+subsection_id: d
+cite: 161.53(d)
+title: 161.53(d)
+text: '(d) Caberá à CGRA:
+
+  (1) Estudar, propor e implementar, no seu âmbito de atuação, medidas para mitigar o impacto
+  do ruído aeronáutico no entorno de seu aeródromo sempre que identificar atividades incompatíveis
+  com o nível de ruído previsto no PZR.
+
+  (2) Realizar comunicações periódicas às autoridades envolvidas e aos representantes da população
+  afetada com o objetivo de informar e orientar sobre o PZR.
+
+  (3) Disponibilizar canais de comunicação para manifestação da população afetada acerca de
+  ruído aeronáutico, visando identificar os locais mais críticos, além de embasar as ações
+  para mitigação do problema.
+
+  (4) Dar tratamento a toda reclamação referente a ruído aeronáutico decorrente das operações
+  do aeroporto, promovendo análise da pertinência da questão quanto ao ruído aeronáutico e
+  promovendo fórum de discussão entre as partes envolvidas visando mitigar o incômodo.
+
+  (5) Compilar as reclamações sobre ruído de forma parametrizada contendo, sempre que possível,
+  o horário da percepção do incômodo, local, tipo de aeronave e tipo de uso do solo ou atividade,
+  informadas pelo manifestante.
+
+  (6) Elaborar um mapa da região do aeródromo, baseado nas informações e reclamações recebidas,
+  indicando as atividades incompatíveis ao ruído aeronáutico.'
+keywords:
+- ruido
+- aeronautico
+- aerodromo
+- afetada
+- atividades
+- envolvidas
+- identificar
+- incomodo
+- incompativeis
+- mitigar
+- populacao
+- promovendo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

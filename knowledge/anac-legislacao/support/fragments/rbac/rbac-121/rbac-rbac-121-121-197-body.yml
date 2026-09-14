@@ -1,0 +1,42 @@
+id: rbac-rbac-121-121-197-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.197'
+section_title: Aviões com motores a turbina. Limitações de pouso no aeródromo de alternativa
+subsection_id: body
+cite: '121.197'
+title: Aviões com motores a turbina. Limitações de pouso no aeródromo de alternativa
+text: '121.197 Aviões com motores a turbina. Limitações de pouso no aeródromo de alternativa
+
+  Ninguém pode indicar um aeródromo como aeródromo de alternativa no despacho de voo de um
+  avião com motores a turbina, a menos que (baseado nas hipóteses de 121.195(b)) esse avião,
+  com o peso previsto para o horário de pouso no aeródromo, possa executar um pouso completo
+  usando 70% do comprimento efetivo da pista para avião turboélice, e 60% do comprimento efetivo
+  da pista para aviões propelidos a jato, considerando que o avião passa na vertical da intersecção
+  do plano de liberação de obstáculos com a pista a 50 pés de altura. No caso de aeródromo
+  de alternativa de decolagem, como previsto em 121.617, pode ser considerado o alijamento
+  de combustível, além do consumo normal de combustível e óleo, na determinação do peso esperado
+  no horário estimado de pouso.
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- pouso
+- alternativa
+- aviao
+- avioes
+- motores
+- turbina
+- limitacoes
+- pista
+- combustivel
+- comprimento
+- efetivo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

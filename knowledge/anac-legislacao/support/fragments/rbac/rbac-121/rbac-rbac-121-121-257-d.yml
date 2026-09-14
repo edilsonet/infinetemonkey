@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-257-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.257'
+section_title: Válvulas de corte de fluxo
+subsection_id: d
+cite: 121.257(d)
+title: 121.257(d)
+text: (d) Devem ser proporcionadas adequadas provisões para proteger contra a operação inadvertida
+  de um meio de corte de fluxo e para tornar possível que a tripulação reabra o referido meio
+  de corte após seu fechamento.
+keywords:
+- transporte-aereo
+- operacoes
+- corte
+- fluxo
+- meio
+- adequadas
+- contra
+- fechamento
+- inadvertida
+- operacao
+- possivel
+- proporcionadas
+- proteger
+- provisoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

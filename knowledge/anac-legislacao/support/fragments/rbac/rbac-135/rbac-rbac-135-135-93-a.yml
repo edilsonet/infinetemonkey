@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-93-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: a
+cite: 135.93(a)
+title: 135.93(a)
+text: '(a) Definições. Para os propósitos desta seção:
+
+  (1) alturas de decolagem/subida inicial e de arremetida/aproximação perdida são definidas
+  em relação à altitude do aeroporto;
+
+  (2) alturas para operações em rota são definidas em relação à altitude do terreno; e
+
+  (3) alturas para aproximação são definidas em relação à altitude da zona de contato (TDZE),
+  exceto se a altura for expressamente definida em referência à altura de decisão (DH) / altitude
+  de decisão (DA) ou à altitude mínima de descida (MDA).'
+keywords:
+- taxi-aereo
+- operacoes
+- altitude
+- alturas
+- definidas
+- relacao
+- altura
+- aproximacao
+- decisao
+- aeroporto
+- altitudes
+- arremetida
+- automatico
+- avioes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,49 @@
+id: rbac-rbac-107-107-185-v
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.185'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: v
+cite: 107.185(v)
+title: 107.185(v)
+text: '(v) teste no sistema de inspeção de pertences de mão nos pontos de controle de acesso
+  às ARS, devendo ser realizado 1 (um) teste para cada módulo de inspeção destinado exclusivamente
+  ao pessoal de serviços, tripulantes e passageiros da aviação geral;
+
+  (vi) teste no sistema de inspeção de pessoas nos pontos de controle de acesso de veículos
+  às ARS, devendo ser realizado 1 (um) teste para cada ponto de controle de acesso;
+
+  (vii) teste no sistema de inspeção de veículos nos pontos de controle de acesso de veículos
+  às ARS, devendo ser realizado 1 (um) teste para cada ponto de controle de acesso;
+
+  (viii) teste nos procedimentos de vigilância e patrulhamento da área operacional, devendo
+  ser realizado 1 (um) teste para verificação da capacidade de identificação de intrusos e
+  1 (um) teste para verificação da capacidade de identificação de objetos suspeitos;
+
+  (Redação dada pela Resolução nº 644, de 05.11.2021)
+
+  (ix) teste de verificação de portas, devendo ser realizados 2 (dois) testes para verificação
+  da proteção dos portões de embarque de cada sala de embarque existente no aeródromo;
+
+  (Redação dada pela Resolução nº 644, de 05.11.2021)'
+keywords:
+- seguranca
+- aeroporto
+- teste
+- controle
+- acesso
+- devendo
+- cada
+- inspecao
+- realizado
+- verificacao
+- pontos
+- sistema
+- veiculos
+- capacidade
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

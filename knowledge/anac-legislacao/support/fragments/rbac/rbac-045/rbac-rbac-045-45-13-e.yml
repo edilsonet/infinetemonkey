@@ -1,0 +1,35 @@
+id: rbac-rbac-045-45-13-e
+kind: rbac
+document: rbac-045
+family: '45'
+section_id: '45.13'
+section_title: Dados de identificação
+subsection_id: e
+cite: 45.13(e)
+title: 45.13(e)
+text: '(e) Ninguém pode instalar uma placa de identificação removida segundo o parágrafo (d)(2)
+  desta
+
+  seção em qualquer aeronave, motor, hélice, pá de hélice ou cubo de hélice, que não seja
+  naquele do
+
+  qual a placa foi removida.'
+keywords:
+- identificacao
+- aeronavegabilidade
+- helice
+- placa
+- removida
+- aeronave
+- cubo
+- dados
+- desta
+- instalar
+- motor
+- naquele
+- ninguem
+categories:
+- identificacao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-045.md

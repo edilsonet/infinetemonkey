@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-419-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.419'
+section_title: Programa aprovado de inspeções nas aeronaves
+subsection_id: b
+cite: 135.419(b)
+title: 135.419(b)
+text: (b) Um detentor de certificado que solicitar modificação de suas especificações operativas,
+  para incluir um programa aprovado de inspeções para suas aeronaves, deve anexar esse programa
+  ao requerimento submetido à aprovação da ANAC.
+keywords:
+- taxi-aereo
+- operacoes
+- programa
+- aeronaves
+- aprovado
+- inspecoes
+- anexar
+- aprovacao
+- certificado
+- detentor
+- especificacoes
+- incluir
+- modificacao
+- operativas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

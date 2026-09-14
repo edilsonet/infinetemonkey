@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-171-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.171'
+section_title: 'Cintos de segurança e de ombro: instalação nos assentos de tripulantes'
+subsection_id: a
+cite: 135.171(a)
+title: 135.171(a)
+text: (a) Somente é permitido operar um avião a reação ou uma aeronave tendo uma configuração
+  para passageiros de 10 assentos ou mais, excluindo qualquer assento para piloto, se cintos
+  de segurança e de ombro aprovados estiverem instalados em cada assento de tripulante.
+keywords:
+- taxi-aereo
+- operacoes
+- assento
+- assentos
+- cintos
+- ombro
+- seguranca
+- aeronave
+- aprovados
+- aviao
+- cada
+- configuracao
+- estiverem
+- excluindo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

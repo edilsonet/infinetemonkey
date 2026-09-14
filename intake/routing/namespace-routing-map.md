@@ -16,6 +16,7 @@ namespace in `_system/namespaces/INDEX.md`, add a row here so routed intake can 
 |---|---|---|---|
 | AI architecture takes, agent design, retrieval, harness and memory portability, knowledge-graph structure | `ai-architecture` | system stewardship | The doctrine home. Architecture posts, papers, and talks land here. |
 | Operator goals, priorities, review cadence, self-management, sandbox experiments, uncategorized personal items | `personal-operator` | personal | The catch-all. Use when nothing else fits and the item is personal. |
+| ANAC, RBAC, IS, IAC, legislacao aeronautica, manutencao, aeronavegabilidade | `anac-legislacao` | system stewardship | Fragment and index under knowledge/anac-legislacao/support/. |
 
 The scaffolds under `knowledge/_examples/` never receive routed intake. They are unregistered
 shape references for building new namespaces, not destinations.

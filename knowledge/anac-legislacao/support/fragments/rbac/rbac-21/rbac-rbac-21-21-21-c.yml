@@ -1,0 +1,37 @@
+id: rbac-rbac-21-21-21-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.21'
+section_title: 'Emissão de certificado de tipo: aeronaves categoria normal; utilidade; acrobática;
+  transporte regional; transporte; balão livre tripulado; classes especiais de aeronaves;
+  motores e hélices'
+subsection_id: c
+cite: 21.21(c)
+title: 21.21(c)
+text: '(c) os dados do projeto de tipo a serem submetidos para a análise da ANAC cumprirem
+  com os requisitos da subparte J, caso o requerimento tenha sido realizado por uma organização
+  de projeto certificada.
+
+  (Incluído pela Resolução nº 495, de 14.11.2018)'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronaves
+- tipo
+- transporte
+- acrobatica
+- analise
+- balao
+- caso
+- categoria
+- certificada
+- certificado
+- classes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

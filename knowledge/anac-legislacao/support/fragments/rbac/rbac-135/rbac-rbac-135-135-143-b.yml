@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-143-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.143'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 135.143(b)
+title: 135.143(b)
+text: (b) Exceto como previsto na seção 135.179, somente é permitido operar uma aeronave segundo
+  este Regulamento se os instrumentos e equipamentos requeridos tiverem sido aprovados e estiverem
+  em condições operáveis.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- aprovados
+- condicoes
+- equipamentos
+- estiverem
+- exceto
+- gerais
+- instrumentos
+- operar
+- operaveis
+- permitido
+- regulamento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

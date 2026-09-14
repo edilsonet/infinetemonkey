@@ -1,0 +1,30 @@
+id: rbac-rbac-90-90-101-j
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: j
+cite: 90.101(j)
+title: 90.101(j)
+text: (j) O sistema de manuais poderá estar em formato digital desde que atualizado e desde
+  que uma versão em suporte físico esteja disponível na base principal de operações da UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- desde
+- atualizado
+- base
+- digital
+- disponivel
+- estar
+- esteja
+- fisico
+- formato
+- gerais
+- manuais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

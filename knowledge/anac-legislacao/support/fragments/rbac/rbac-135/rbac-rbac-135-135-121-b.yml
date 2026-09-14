@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-121-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.121'
+section_title: Bebidas alcoólicas
+subsection_id: b
+cite: 135.121(b)
+title: 135.121(b)
+text: (b) O detentor de certificado não pode servir bebidas alcoólicas para uma pessoa a bordo
+  de suas aeronaves se essa pessoa aparentar estar embriagada.
+keywords:
+- taxi-aereo
+- operacoes
+- alcoolicas
+- bebidas
+- pessoa
+- aeronaves
+- aparentar
+- bordo
+- certificado
+- detentor
+- embriagada
+- estar
+- pode
+- servir
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

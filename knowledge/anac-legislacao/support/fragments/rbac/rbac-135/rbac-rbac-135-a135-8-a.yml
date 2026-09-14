@@ -1,0 +1,40 @@
+id: rbac-rbac-135-a135-8-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.8
+section_title: 'Instrumentos: instalação'
+subsection_id: a
+cite: A135.8(a)
+title: A135.8(a)
+text: '(a) Arranjos e visibilidade. Cada instrumento deve atender aos requisitos do RBAC nº
+  23 e, em adição:
+
+  (1) cada instrumento de voo, de navegação e do grupo motopropulsor, a ser usado por qualquer
+  piloto, deve ser nitidamente visível pelo piloto sentado em seu posto, com o menor desvio
+  praticável da posição normal desse piloto quando ele estiver olhando para frente, ao longo
+  da trajetória de voo.
+
+  (2) os instrumentos de voo requeridos pelo RBAC nº 23 e pelas aplicáveis regras operacionais
+  devem ser grupados no painel de instrumentos e centrados, tanto quanto praticável, em torno
+  do plano vertical da visão para frente de cada piloto. Em adição:'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- cada
+- instrumentos
+- adicao
+- frente
+- instrumento
+- praticavel
+- a135
+- aplicaveis
+- arranjos
+- atender
+- centrados
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

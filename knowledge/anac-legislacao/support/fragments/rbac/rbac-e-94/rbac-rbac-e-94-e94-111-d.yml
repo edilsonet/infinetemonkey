@@ -1,0 +1,31 @@
+id: rbac-rbac-e-94-e94-111-d
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.111
+section_title: Áreas de pousos e decolagens para aeronaves não tripuladas
+subsection_id: d
+cite: E94.111(d)
+title: E94.111(d)
+text: '(d) Caso o RPAS preveja uma ou mais áreas para pouso de emergência (
+
+  crash site
+
+  ), essas áreas devem atender às exigências desta Seção.'
+keywords:
+- areas
+- aeronaves
+- atender
+- caso
+- crash
+- decolagens
+- desta
+- emergencia
+- essas
+- exigencias
+- pouso
+- pousos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

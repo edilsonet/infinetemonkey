@@ -1,0 +1,39 @@
+id: rbac-rbac-43-e43-1-body
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: E43.1
+section_title: Testes e inspeções do sistema do altímetro
+subsection_id: body
+cite: E43.1
+title: Testes e inspeções do sistema do altímetro
+text: 'E43.1 Testes e inspeções do sistema do altímetro
+
+
+  Cada pessoa que estiver executando teste e inspeção do sistema de altímetro como requerido
+  pela
+
+  seção 91.411 do RBAC nº 91 deve fazê-lo conforme segue. (Redação dada pela Resolução nº
+  612,
+
+  de 09.03.2021)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- altimetro
+- sistema
+- inspecoes
+- testes
+- cada
+- dada
+- estiver
+- executando
+- faze
+- inspecao
+- pessoa
+- redacao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

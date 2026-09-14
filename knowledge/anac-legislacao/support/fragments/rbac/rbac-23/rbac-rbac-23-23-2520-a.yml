@@ -1,0 +1,58 @@
+id: rbac-rbac-23-23-2520-a
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2520'
+section_title: '23.2520'
+subsection_id: a
+cite: 23.2520(a)
+title: 23.2520(a)
+text: '(a) Each electrical and electronic systems that
+
+  perform a function, the failure of which would
+
+  prevent the continued safe flight and landing of
+
+  the airplane, must be designed and installed
+
+  such that:
+
+  (1) The function at the airplane level is not ad-
+
+  versely affected during and after the time the
+
+  airplane is exposed to the HIRF environment;
+
+  and
+
+  (2) The system recovers normal operation of
+
+  that function in a timely manner after the air-
+
+  plane is exposed to the HIRF environment,
+
+  unless the system''s recovery conflicts with oth-
+
+  er operational or functional requirements of the
+
+  system.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- airplane
+- function
+- system
+- that
+- after
+- environment
+- exposed
+- hirf
+- affected
+- conflicts
+- continued
+- designed
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

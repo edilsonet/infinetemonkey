@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-155-d-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.155'
+section_title: Requisitos do pessoal de inspeção
+subsection_id: d-i
+cite: 145.155(d-I)
+title: 145.155(d-I)
+text: '(d)-I Todo o pessoal de inspeção diretamente relacionado com as atividades de manutenção,
+
+  manutenção preventiva ou alteração, se vinculado a uma organização de manutenção localizada
+  no
+
+  Brasil, deve ser habilitado de acordo com o RBAC 65, ou conforme critério estabelecido pela
+
+  ANAC. (Redação dada pela Resolução nº 610, de 23.02.2021)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- pessoal
+- acordo
+- alteracao
+- atividades
+- brasil
+- criterio
+- dada
+- diretamente
+- estabelecido
+- habilitado
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

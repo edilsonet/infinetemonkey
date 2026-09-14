@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-385-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.385'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de pouso
+  no aeródromo de destino'
+subsection_id: c
+cite: 135.385(c)
+title: 135.385(c)
+text: (c) Um avião turboélice, que estaria proibido de decolar por não poder cumprir o parágrafo
+  (b)(2) desta seção, poderá decolar se indicar um aeródromo de alternativa que atenda a todos
+  os requisitos desta seção, exceto que o avião possa executar um pouso completo dentro de
+  70% do comprimento efetivo da pista.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- aviao
+- decolar
+- desta
+- pouso
+- secao
+- alternativa
+- atenda
+- avioes
+- categoria
+- completo
+- comprimento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

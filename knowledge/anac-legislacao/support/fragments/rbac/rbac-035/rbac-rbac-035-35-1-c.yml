@@ -1,0 +1,52 @@
+id: rbac-rbac-035-35-1-c
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.1'
+section_title: '35.1'
+subsection_id: c
+cite: 35.1(c)
+title: 35.1(c)
+text: '(c) Um requerente está qualificado a obter
+
+  um certificado de tipo para hélice e modifica-
+
+  ções nos certificados após demonstrar cumpri-
+
+  mento com as subpartes A, B e C deste RBAC.
+
+  No entanto, a hélice não pode ser instalada em
+
+  um avião, a menos que o requerente tenha de-
+
+  monstrado cumprimento com o parágrafo
+
+  23.2400(c) do RBAC 23 ou a seção 25.907 do
+
+  RBAC 25, conforme aplicável, ou o cumpri-
+
+  mento não seja requerido para instalação naque-
+
+  le avião. (Redação dada pela Resolução nº 524,
+
+  de 02.08.2019)'
+keywords:
+- helices
+- aeronavegabilidade
+- aviao
+- cumpri
+- helice
+- mento
+- requerente
+- aplicavel
+- certificado
+- certificados
+- coes
+- cumprimento
+- dada
+- demonstrar
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

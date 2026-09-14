@@ -1,0 +1,52 @@
+id: rbac-rbac-121-121-191-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.191'
+section_title: 'Aviões com motores a turbina: limitações de rota com um motor inoperante'
+subsection_id: b
+cite: 121.191(b)
+title: 121.191(b)
+text: '(b) Para os propósitos do parágrafo (a)(2) desta seção, assume-se que:
+
+  (1) a falha do motor ocorre no ponto mais crítico da rota;
+
+  (2) o avião livra a obstrução crítica, após a falha do motor, em um ponto mais distante
+  da referida obstrução do que o fixo de navegação ou eixo de aerovia mais próximo, a menos
+  que a ANAC autorize um procedimento diferente baseado em garantias adequadas dadas à segurança
+  operacional;
+
+  (3) um método aprovado é usado para considerar ventos adversos;
+
+  (4) alijamento de combustível pode ser autorizado se o detentor de certificado demonstrar
+  que as tripulações são apropriadamente instruídas, que o programa de treinamento é adequado
+  e que todas as precauções foram tomadas para assegurar um procedimento seguro;
+
+  (5) no despacho ou liberação do voo foi indicado um aeródromo de alternativa que atenda
+  aos mínimos meteorológicos de planejamento para pouso estabelecidos pelo operador, em conformidade
+  com o parágrafo 121.613(b); e
+
+  (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  (6) o consumo de óleo e combustível após a falha do motor é o mesmo consumo previsto nos
+  dados de trajetória líquida de voo do AFM do avião.'
+keywords:
+- transporte-aereo
+- operacoes
+- motor
+- falha
+- aviao
+- combustivel
+- consumo
+- obstrucao
+- paragrafo
+- ponto
+- procedimento
+- rota
+- adequadas
+- adequado
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

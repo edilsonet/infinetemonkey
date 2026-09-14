@@ -1,0 +1,50 @@
+id: rbac-rbac-145-145-109-b-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.109'
+section_title: Requisitos de equipamentos, ferramentas, materiais e dados técnicos
+subsection_id: b-i
+cite: 145.109(b-I)
+title: 145.109(b-I)
+text: '(b)-I Cada organização de manutenção certificada deve assegurar que todos os equipamentos
+  e
+
+  ferramentas de teste e inspeção (de sua propriedade ou não) utilizados para a determinação
+  de
+
+  aeronavegabilidade de um artigo sejam periodicamente avaliados, mantidos e, quando aplicável,
+
+  calibrados de acordo com as instruções do fabricante do equipamento, utilizando um padrão
+
+  rastreável a:
+
+  (1) um padrão estabelecido pelo Instituto Nacional de Metrologia, Normalização e Qualidade
+
+  Industrial - INMETRO;
+
+  (2) um padrão estabelecido pelo fabricante do equipamento;
+
+  (3) um padrão estabelecido pelo país de origem do equipamento; ou
+
+  (4) outro aceito pela ANAC.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- padrao
+- equipamento
+- estabelecido
+- equipamentos
+- fabricante
+- ferramentas
+- aceito
+- acordo
+- aeronavegabilidade
+- aplicavel
+- artigo
+- assegurar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

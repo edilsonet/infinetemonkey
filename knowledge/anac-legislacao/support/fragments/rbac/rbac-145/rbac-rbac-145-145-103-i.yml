@@ -1,0 +1,55 @@
+id: rbac-rbac-145-145-103-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.103'
+section_title: Requisitos para instalações e recursos
+subsection_id: i
+cite: 145.103(i)
+title: 145.103(i)
+text: '(i) áreas e espaço de trabalho suficiente para a segregação adequada e proteção dos
+  artigos
+
+  durante toda manutenção, manutenção preventiva ou alteração;
+
+  (ii) áreas de trabalho segregadas que permitam que operações perigosas ou prejudiciais
+
+  para o ambiente de trabalho ou operações sensíveis, tais como pintura, limpeza, soldagem,
+
+  usinagem, jateamento, montagem e desmontagem de rodas e trabalho em baterias e equipamentos
+
+  aviônicos e eletrônicos, sejam executadas apropriadamente e de uma maneira que não afetem
+
+  adversamente (ou sejam afetadas adversamente por) outros artigos ou atividades de manutenção
+  ou
+
+  alteração;
+
+  (iii) prateleiras, guinchos/talhas, bandejas, plataformas e meios de segregação adequados
+
+  para armazenagem e proteção de todos os artigos submetidos a manutenção, manutenção preventiva
+
+  ou alteração;
+
+  (iv) espaço suficiente para segregar artigos e materiais estocados para instalação, de outros
+
+  artigos submetidos a manutenção, manutenção preventiva ou alteração; e;'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- artigos
+- alteracao
+- trabalho
+- preventiva
+- adversamente
+- areas
+- espaco
+- operacoes
+- outros
+- protecao
+- segregacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,49 @@
+id: rbac-rbac-031-31-37-body
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.37'
+section_title: '31.37'
+subsection_id: body
+cite: '31.37'
+title: '31.37'
+text: '31.37
+
+  Fixações.
+
+
+  Na estrutura podem ser usados somente parafusos,
+
+  porcas, pinos roscados, pinos e rebites aprovados. De-
+
+  vem ser usados dispositivos ou métodos de travamento
+
+  aprovados para todos estes parafusos, porcas, pinos
+
+  roscados e pinos, a menos que se demonstre que a
+
+  instalação seja livre de vibrações. Porcas autotravantes
+
+  não podem ser utilizadas em parafusos que estejam
+
+  sujeitos a rotação quando em serviço.'
+keywords:
+- aeronavegabilidade
+- baloes
+- pinos
+- parafusos
+- porcas
+- aprovados
+- podem
+- roscados
+- usados
+- autotravantes
+- demonstre
+- dispositivos
+- estejam
+- estes
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

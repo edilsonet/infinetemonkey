@@ -1,0 +1,43 @@
+id: rbac-rbac-91-91-411-i
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.411'
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+subsection_id: i
+cite: 91.411(i)
+title: 91.411(i)
+text: '(i) executar trabalhos em instrumentos;
+
+  (ii) reparar o tipo e o modelo do equipamento a ser testado;
+
+  (iii) executar o teste específico; ou
+
+  (iv) trabalhar no tipo específico de aeronave a ser testada; ou
+
+  (3) por um mecânico de manutenção aeronáutica detentor de habilitação em célula e/ou
+
+  aviônica, e qualificado em instrumentos (apenas para os testes e inspeções do sistema de
+  pressão
+
+  estática).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- equipamento
+- especifico
+- executar
+- inspecoes
+- instrumentos
+- sistema
+- testes
+- tipo
+- aeronautica
+- aeronave
+- altimetro
+- avionica
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

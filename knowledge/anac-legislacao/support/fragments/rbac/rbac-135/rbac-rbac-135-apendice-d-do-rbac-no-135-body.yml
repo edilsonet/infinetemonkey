@@ -1,0 +1,553 @@
+id: rbac-rbac-135-apendice-d-do-rbac-no-135-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: apendice-d-do-rbac-no-135
+section_title: APÊNDICE D DO RBAC Nº 135
+subsection_id: body
+cite: apendice-d-do-rbac-no-135
+title: APÊNDICE D DO RBAC Nº 135
+text: 'APÊNDICE D DO RBAC Nº 135
+
+  ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA AVIÕES
+
+  PARÁGRAFO 135.152 (b)
+
+  Parâmetros
+
+  Faixa
+
+  Precisão da entrada do sensor no gravador
+
+  Intervalo da amostragem (por segundo)
+
+  Resolução da leitura
+
+  Tempo (GMT ou contador de “frames”) (faixa de 0 a 4095, com 1 amostra por “frame”)
+
+  24 horas
+
+  ± 0,125 % por hora
+
+  0,25 (1 por 4 segundos)
+
+  1 seg
+
+  Altitude
+
+  -1000 pés até a altitude certificada para o avião
+
+  ± 100 até ± 700 pés (ver tabela 1 da OTP C51-a)
+
+  1
+
+  5 pés a 35 pés (1)
+
+  Velocidade
+
+  50 Kt até VSO e VSO até 1,2 VD
+
+  ± 5%, ± 3%
+
+  1
+
+  1 Kt
+
+  Proa
+
+  360º
+
+  ± 2º
+
+  1
+
+  0,5º
+
+  Aceleração normal (vertical)
+
+  -3g a + 6g
+
+  ±1% da faixa máxima, excluindo erro de referência de
+
+  +
+
+  5%
+
+  8
+
+  0,01g
+
+  Atitude de arfagem
+
+  ± 75º
+
+  ± 2º
+
+  1
+
+  0,5º
+
+  Atitude de rolamento
+
+  ± 180º
+
+  ± 2º
+
+  1
+
+  0,5º
+
+  Transmissões rádio
+
+  “on”/“off” (discreto)
+
+  -
+
+  1
+
+  -
+
+  Potência ou empuxo de cada motor
+
+  Faixa total (para frente)
+
+  ± 2%
+
+  1 (por motor)
+
+  0,2% (2)
+
+  Posição do flape de bordo de fuga ou de seu comando de seleção
+
+  Faixa total ou cada posição discreta
+
+  ± 3% ou de acordo com o indicador para o piloto
+
+  0,5
+
+  0,5% (2)
+
+  Posição do flape de bordo de ataque ou de seu comando de seleção
+
+  Faixa total ou cada posição discreta
+
+  ± 3% ou de acordo com o indicador para o piloto
+
+  0,5
+
+  0,5% (2)
+
+  Reversor de empuxo
+
+  Fechado, em trânsito e reverso (discreto)
+
+  -
+
+  1 (por 4 seg. por motor)
+
+  -
+
+  Posição do “spoiler” de solo/freio aerodinâmico
+
+  Faixa total ou cada posição discreta
+
+  ± 2%, a menos que precisão maior seja requerida
+
+  1
+
+  0,2% (2)
+
+  Passagem por “marker beacon”
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Engajamento do piloto automático
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Aceleração longitudinal
+
+  ± 1g
+
+  ± 1,5% da faixa total, excluindo er-ro de referência de
+
+  +
+
+  5%
+
+  4
+
+  0,01g
+
+  Ação do piloto e/ou (3) posição da superfície primária de controle (arfagem, rolamento e
+  guinada)
+
+  Faixa total
+
+  ±2%, a menos que precisão maior seja requerida
+
+  1
+
+  0,2% (2)
+
+  Aceleração lateral
+
+  ±
+
+  1g
+
+  ± 1,5% da faixa total, excluindo erro de referência de ± 5%
+
+  4
+
+  0,01g
+
+  Posição do com-pensador de profundidade
+
+  Faixa total
+
+  ± 3%, a menos que precisão maior seja requerida
+
+  1
+
+  0,3% (2)
+
+  Desvio do “glide-slope”
+
+  ±
+
+  400 microam-peres
+
+  ± 3%
+
+  1
+
+  0,3% (2)
+
+  Desvio do “localizer”
+
+  ±
+
+  400 microam-peres
+
+  ± 3%
+
+  1
+
+  0,3% (2)
+
+  Modo de AFCS e situação de engajamento
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Altura rádio
+
+  -20 pés
+
+  até 2500 pés
+
+  ± 2 pés ou ± 3%, o que for maior abaixo de 500 pés e ± 5% acima de 500 pés
+
+  1
+
+  1 pé, ± 5% acima de 500 pés (2)
+
+  Alarme mestre
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  “Status” do comutador do amortecedor do trem de pouso principal
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Ângulo de ataque (se gravado diretamente)
+
+  Como instalado
+
+  Como instalado
+
+  2
+
+  0,3% (2)
+
+  Temperatura do ar externo ou temperatura total do ar
+
+  -50º C a + 90º C
+
+  ± 2º C
+
+  0,5
+
+  0,3º C
+
+  Baixa pressão de cada sistema hidráulico
+
+  Discreto
+
+  -
+
+  0,5
+
+  -
+
+  Velocidade no solo
+
+  Como instalado
+
+  O sistema mais preciso instalado (apenas para aviões com IMS)
+
+  1
+
+  0,2% (2)
+
+  Se houver disponibilidade para gravação de mais parâmetros, é recomendado gravar os parâmetros
+  abaixo, na ordem de prioridade em que eles estão listados.
+
+  Ângulo de deriva
+
+  Se disponível, como instalado
+
+  Como instalado
+
+  4
+
+  -
+
+  Velocidade e direção do vento
+
+  Se disponível, como instalado
+
+  Como instalado
+
+  4
+
+  -
+
+  Parâmetros
+
+  Faixa
+
+  Precisão da entrada do sensor no gravador
+
+  Intervalo da amostragem (por segundo)
+
+  Resolução da leitura
+
+  Latitude e longitude
+
+  Se disponível, como instalado
+
+  Como instalado
+
+  4
+
+  -
+
+  Pressão do freio/posição dos pedais
+
+  Como instalado
+
+  Como instalado
+
+  1
+
+  -
+
+  PARÂMETROS ADICIONAIS DO MOTOR
+
+  EPR
+
+  N1
+
+  N2
+
+  EGT
+
+  Posição da manete
+
+  Fluxo de combustível
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  1 (por motor)
+
+  1 (por motor)
+
+  1 (por motor)
+
+  1 (por motor)
+
+  1 (por motor)
+
+  1 (por motor)
+
+  -
+
+  -
+
+  -
+
+  -
+
+  -
+
+  -
+
+  Sistema embarcado de prevenção de colisões
+
+  (ACAS)
+
+  TA
+
+  RA
+
+  Nível de sensibilidade(como selecionado pelo piloto)
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  Como instalado
+
+  1
+
+  1
+
+  2
+
+  -
+
+  -
+
+  -
+
+  Alarme de proximidade do solo (GPWS)
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Posição do trem de pouso ou do comando do mesmo
+
+  Discreto
+
+  -
+
+  0,25 (1 por 4 segundos)
+
+  -
+
+  Distância DME 1 e DME 2
+
+  0 a 200 NM
+
+  Como instalado
+
+  0,25
+
+  1 NM
+
+  Frequências selecionadas no NAV1 e NAV2
+
+  Faixa total
+
+  Como instalado
+
+  0,25
+
+  -
+
+  (1) Quando a razão de altitude for gravada. A razão de altitude deve possuir suficiente
+  resolução e frequência de amostragem para permitir a obtenção de variações de 5 pés de altitude.
+
+  (2) Porcentagem da faixa total.
+
+  (3) Para aviões que possam demonstrar que é possível obter a ação do piloto a partir do
+  movimento do controle (um do outro) para todos os modos de operação e regimes de voo, aplica-se
+  o “ou”. Para aviões com sistemas de controle não mecânicos (“fly-by-wire”), aplica-se o
+  “e”. Em aviões com várias superfícies, é aceitável gravar uma combinação adequada de movimentos
+  em lugar de gravar a posição de cada superfície separadamente.
+
+  (4) Esta coluna aplica-se para aviões fabricados após 11 de outubro de 1991.'
+keywords:
+- taxi-aereo
+- operacoes
+- instalado
+- faixa
+- posicao
+- total
+- discreto
+- motor
+- avioes
+- cada
+- piloto
+- altitude
+- parametros
+- precisao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

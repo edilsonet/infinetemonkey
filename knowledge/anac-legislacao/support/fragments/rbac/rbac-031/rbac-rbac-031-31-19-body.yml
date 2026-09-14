@@ -1,0 +1,39 @@
+id: rbac-rbac-031-31-19-body
+kind: rbac
+document: rbac-031
+family: '31'
+section_id: '31.19'
+section_title: of this RBAC, whichever is higher,
+subsection_id: body
+cite: '31.19'
+title: of this RBAC, whichever is higher,
+text: '31.19 of this RBAC, whichever is higher,
+
+  must be used.
+
+
+  da temperatura, e outras características operacionais,
+
+  ou ambos, que possam afetar a resistência do balão,
+
+  devem ser levadas em consideração.'
+keywords:
+- aeronavegabilidade
+- baloes
+- higher
+- this
+- whichever
+- afetar
+- ambos
+- balao
+- caracteristicas
+- consideracao
+- levadas
+- must
+- operacionais
+- outras
+categories:
+- aeronavegabilidade
+- baloes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-031.md

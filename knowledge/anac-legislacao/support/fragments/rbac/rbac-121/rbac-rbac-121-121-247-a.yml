@@ -1,0 +1,40 @@
+id: rbac-rbac-121-121-247-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.247'
+section_title: Construção da parede-de-fogo
+subsection_id: a
+cite: 121.247(a)
+title: 121.247(a)
+text: '(a) Cada parede-de-fogo ou blindagem deve:
+
+  (1) ser feita de modo a evitar que quantidades perigosas de ar, fluidos ou chamas passem
+  do compartimento do motor para outras partes do avião;
+
+  (2) ter todas as aberturas através dela seladas com olhais apropriados, com buchas a prova
+  de fogo ou com conexões especiais para parede-de-fogo;
+
+  (3) ser feita de material a prova de fogo;
+
+  (4) ser protegida contra corrosão.'
+keywords:
+- transporte-aereo
+- operacoes
+- fogo
+- parede
+- feita
+- prova
+- aberturas
+- apropriados
+- atraves
+- aviao
+- blindagem
+- buchas
+- cada
+- chamas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

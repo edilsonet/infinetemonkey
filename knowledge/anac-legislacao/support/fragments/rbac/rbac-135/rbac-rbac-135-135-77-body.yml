@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-77-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.77'
+section_title: Responsabilidade pelo controle operacional
+subsection_id: body
+cite: '135.77'
+title: Responsabilidade pelo controle operacional
+text: '135.77 Responsabilidade pelo controle operacional
+
+  O detentor de certificado é responsável pelo controle operacional e deve listar, no manual
+  geral da empresa requerido pela seção 135.21 deste Regulamento, o nome e o título de cada
+  pessoa autorizada por ele a exercer controle operacional.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- controle
+- operacional
+- responsabilidade
+- autorizada
+- cada
+- certificado
+- dada
+- deste
+- detentor
+- empresa
+- exercer
+- geral
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

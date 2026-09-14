@@ -1,0 +1,618 @@
+id: rbac-rbac-36-a36-9-i
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: of this ape
+subsection_id: i
+cite: A36.9(i)
+title: A36.9(i)
+text: '(i) The diferences betwen the angles
+
+  1 and
+
+  r1 must be minimized using a method, aproved by the
+
+  FA. The diferences betwen the angles are minimized since, for g
+
+  eometrical reasons, it is
+
+  generaly not posible to chose K
+
+  r so that the condition described in paragraph A36.9.4.2(b)(2)(i) is
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  60
+
+  / 121
+
+
+  met while at the same time keping
+
+  1 and
+
+  r1 equal.
+
+
+  Note: For the lateral noise measurement, sound propagation is afected not only b
+
+  y -inver
+
+  and atmospheric atenuation, but also by ground absorption and reflection efects which depend
+
+  mainly on the angle.
+
+
+  A36.9.4.2.1
+
+  In paragraphs A36.9.4.2(a)(2) and (b)(2) the time t
+
+  r1 is later (for Q
+
+  r1 K
+
+  r > Q
+
+  1 K) than t
+
+  1 by
+
+  two separate amount
+
+  s:
+
+  (1) The time taken for the airplane to travel the distance Q
+
+  r1 Q
+
+  r0 at a sped V
+
+  r les the time taken for it
+
+  to travel Q
+
+  1 Q
+
+  0 at V;
+
+
+  (2) The time taken for sound to travel the distance Q
+
+  r1 K
+
+  r œQ
+
+  1 K.
+
+
+  Note: For the flight paths described in paragraphs A36.9.4.2(a)
+
+  and (b), the use of thrust or power
+
+  cut
+
+  - back wil result in test and reference flight paths at ful thrust or power and at cut
+
+  - back thrust or
+
+  power. Where the transient region betwen these thrust or power levels afects the final result,
+  an
+
+  interpolation
+
+  must be made betwen them by an aproved method such as that given in the curent
+
+  advisory circular for this part.
+
+
+  A36.9.4.2.2
+
+  The measured values of SPL(i)
+
+  1 must be adjusted to the reference values SPL(i)
+
+  r1 to
+
+  acount for the diferences betwen measured a
+
+  nd reference noise path lengths and betwen
+
+  measured and reference atmospheric conditions, using the methods of section A36.9.3.2.1
+  of this
+
+  apendix. A coresponding value of PNL
+
+  r1 must be computed acording to the method in section
+
+  A36.4.2. Values of PNL
+
+  r m ust be computed for times t
+
+  0 through t
+
+  n .
+
+  A36.9.4.2.3
+
+  For each value of PNL
+
+  r1 , a tone corection factor C
+
+  1 must be determined by analyzing
+
+  the reference values SPL(i)
+
+  r using the methods of section A36.4.3 of this apendix, and aded to
+
+  PNL
+
+  r1 to yield PNLT
+
+  r1 . U
+
+  sing the proces described in this paragraph, values of PNLT
+
+  r must be
+
+  computed for times t
+
+  0 through t
+
+  n .
+
+  A36.9.4.3
+
+  Duration corection.
+
+
+  A36.9.4.3.1
+
+  The values of PNLT
+
+  r coresponding to those of PNLT at each one
+
+  - half second interval
+
+  must be ploted against
+
+  time (PNLT
+
+  r1 at time t
+
+  r1 ). The duration corection must then be determined
+
+  using the method of section A36.4.5.1 of this apendix, to yield EPNL
+
+  r .
+
+  A36.9.4.4
+
+  Source Noise Adjustment.
+
+
+  A36.9.4.4.1
+
+  A source noise adjustment,
+
+  ǻ3 , must be determined using the
+
+  methods of section
+
+  A36.9.3.4 of this apendix.
+
+
+  A36.9.5
+
+  Flight Path Identification Positions
+
+
+  Position
+
+
+  Description
+
+
+  A
+
+  Start of Takeof rol.
+
+
+  B
+
+  Lift
+
+  - of.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  61
+
+  / 121
+
+
+  C
+
+  Start of first constant climb.
+
+
+  D
+
+  Start of thrust reduction.
+
+
+  E
+
+  Start of second constant climb.
+
+
+  F
+
+  End of noise certification Takeof flight path.
+
+
+  G
+
+  Start of noise certification Aproach flight path.
+
+
+  H
+
+  Position on Aproach path directly above noise measuring station.
+
+
+  I
+
+  Start of level
+
+  - of.
+
+
+  J
+
+  Touchdown.
+
+
+  K
+
+  Noise measurement point.
+
+
+  K
+
+  r
+
+  Reference
+
+  measurement point.
+
+
+  K
+
+  1
+
+  Flyover noise measurement point.
+
+
+  K
+
+  2
+
+  Lateral noise measurement point.
+
+
+  K
+
+  3
+
+  Aproach noise measurement point.
+
+
+  M
+
+
+  End of noise certification Takeof flight track.
+
+
+  O
+
+  Threshold of Aproach end of runway.
+
+
+  P
+
+  Start of noise certification
+
+  Aproach flight track.
+
+
+  Q
+
+  Position on measured Takeof flight path coresponding to aparent PNLTM at station K
+
+  Se section A36.9.3.2.
+
+
+  Q
+
+  r
+
+  Position on corected Takeof flight path coresponding to PNLTM at station K. Se
+
+  section A36.9.3.2.
+
+
+  V
+
+  Airplane tes
+
+  t sped.
+
+
+  V
+
+  r
+
+  Airplane reference sped.
+
+
+  A36.9.6
+
+  Flight Path Distances
+
+
+  Distance
+
+
+  Unit
+
+
+  Meaning
+
+
+  AB
+
+
+  Fet
+
+  (meters)
+
+
+  Length of takeof rol. The distance along the runway betwen the start of
+
+  takeof rol and lift of.
+
+
+  AK
+
+
+  Fet
+
+  (meters)
+
+
+  Takeof measurement
+
+  distance. The distance from the start of rol to the takeof
+
+  noise measurement station along the extended center line of the runway.
+
+
+  AM
+
+
+  Fet
+
+  (meters)
+
+
+  Takeof flight track distance. The distance from the start of rol to the takeof
+
+  flight track position
+
+  along the extended center line of the runway after which
+
+  the position of the airplane ned no longer be recorded.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  62
+
+  / 121
+
+
+  QK
+
+
+  Fet
+
+  (meters)
+
+
+  Measured noise path. The distance from the measured airplane position Q to
+
+  station K.
+
+
+  Q
+
+  r K
+
+  r
+
+  Fet
+
+  (meters)
+
+
+  Reference noise
+
+  path. The distance from the reference airplane position Q
+
+  r to
+
+  station K
+
+  r .
+
+  K
+
+  3 H
+
+  Fet
+
+  (meters)
+
+
+  Airplane aproach height. The height of the airplane above the aproach
+
+  measuring station.
+
+
+  OK
+
+  3
+
+  Fet
+
+  (meters)
+
+
+  Aproach measurement distance. The distance from the r
+
+  unway threshold to the
+
+  aproach measurement station along the extended center line of the runway.
+
+
+  OP
+
+
+  Fet
+
+  (meters)
+
+
+  Aproach flight track distance. The distance from the runway threshold to the
+
+  aproach flight track position along the extended center line
+
+  of the runway after
+
+  which the position of the airplane ned no longer be recorded.
+
+
+  [Amdt. 36
+
+  œ54, 67 FR 45212, July 8, 202; Amdt. 36
+
+  œ24, 67 FR 63195, 63196, Oct. 10, 202; 68
+
+  FR 1512, Jan 10, 203; Amdt. 36
+
+  œ26, 70 FR 38749, July 5, 205
+
+  ; Amdt. No. 36
+
+  - 31,
+
+  82 FR 46131,
+
+  Oct. 4, 2017
+
+  ]
+
+  Apendix B to Part 36
+
+  -Noise Levels for Transport Category and Jet Airplanes Under
+
+  §36.103
+
+
+  Sec.'
+keywords:
+- ruido
+- meio-ambiente
+- noise
+- distance
+- flight
+- aproach
+- takeof
+- measurement
+- path
+- position
+- start
+- airplane
+- must
+- reference
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

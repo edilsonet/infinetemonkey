@@ -1,0 +1,27 @@
+id: rbac-rbac-135-135-703-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.703'
+section_title: Estrutura do SGSO
+subsection_id: v
+cite: 135.703(v)
+title: 135.703(v)
+text: '(v) documentação do SGSO;
+
+  (2) gerenciamento de riscos à segurança operacional:'
+keywords:
+- taxi-aereo
+- operacoes
+- sgso
+- documentacao
+- estrutura
+- gerenciamento
+- operacional
+- riscos
+- seguranca
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

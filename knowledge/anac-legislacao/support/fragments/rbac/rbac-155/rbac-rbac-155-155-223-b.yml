@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-223-b
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.223'
+section_title: '155.223'
+subsection_id: b
+cite: 155.223(b)
+title: 155.223(b)
+text: '(b)
+
+  A área de segurança de uma FATO destinada ao uso de helicópteros que operam com classe de
+  performance 1 em condições meteorológicas de voo visual (VMC) deve se estender, para além
+  de seu perímetro, por, no mínimo, 0,25 D do maior helicóptero previsto para operar na FATO.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- alem
+- area
+- classe
+- condicoes
+- destinada
+- estender
+- helicoptero
+- helicopteros
+- maior
+- meteorologicas
+- minimo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

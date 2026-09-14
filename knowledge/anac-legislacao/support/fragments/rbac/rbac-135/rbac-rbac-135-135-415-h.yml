@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-415-h
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: h
+cite: 135.415(h)
+title: 135.415(h)
+text: (h) Quando o detentor de certificado obtiver informações adicionais incluindo informações
+  do fabricante ou outra agência, com relação a um relatório requerido por esta seção, ele
+  deve rapidamente enviá-las como um suplemento ao relatório original e referenciar a data
+  de apresentação do primeiro relatório.
+keywords:
+- taxi-aereo
+- operacoes
+- relatorio
+- informacoes
+- adicionais
+- agencia
+- apresentacao
+- certificado
+- data
+- detentor
+- dificuldades
+- envia
+- fabricante
+- incluindo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

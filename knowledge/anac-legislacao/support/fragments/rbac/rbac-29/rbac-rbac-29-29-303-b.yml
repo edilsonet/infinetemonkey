@@ -1,0 +1,72 @@
+id: rbac-rbac-29-29-303-b
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.303'
+section_title: need not be used.
+subsection_id: b
+cite: 29.303(b)
+title: 29.303(b)
+text: '(b)
+
+  Loading conditions. The rotorcraft must be designed for the following landing loading conditions:
+
+  (1)
+
+  Vertical loads applied under § 29.471.
+
+  (2)
+
+  The loads resulting from a combination of the loads applied under paragraph (b)(1) of this
+  section
+
+  with drag loads at each wheel of not less than 25 percent of the vertical load at that wheel.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.471
+
+  14 CFR 29.479(b)(2) (enhanced display)
+
+  page 32 of 167
+
+
+  § 29.481 Tail-down landing conditions.
+
+  § 29.483 One-wheel landing conditions.
+
+  For the one-wheel landing condition, the rotorcraft is assumed to be in the level attitude
+  and to contact the ground
+
+  on one aft wheel. In this attitude -
+
+  § 29.485 Lateral drift landing conditions.
+
+  (3)
+
+  The vertical load at the instant of peak drag load combined with a drag component simulating
+  the
+
+  forces required to accelerate the wheel rolling assembly up to the specified ground speed,
+  with -'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- wheel
+- conditions
+- landing
+- loads
+- drag
+- load
+- vertical
+- with
+- applied
+- attitude
+- ground
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

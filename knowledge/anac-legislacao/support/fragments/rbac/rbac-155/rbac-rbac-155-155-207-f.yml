@@ -1,0 +1,43 @@
+id: rbac-rbac-155-155-207-f
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.207'
+section_title: '155.207'
+subsection_id: f
+cite: 155.207(f)
+title: 155.207(f)
+text: '(f)
+
+  A TLOF deve resistir às cargas dinâmicas de impacto do pouso normal e de emergência do maior
+  helicóptero previsto para operar na área.
+
+  (1)
+
+  Para a situação de pouso normal, deve ser considerada uma taxa de descida de 1,8 m/s (o
+  que equivale ao estado limite de serviço). Nesta situação, o coeficiente parcial de segurança
+  para a determinação da capacidade de suporte da TLOF equivalerá a 1,5.
+
+  (2)
+
+  Para a situação de pouso de emergência, deve ser considerada uma taxa de descida não inferior
+  a 3,6 m/s (o que equivale ao estado limite último). Nesta situação, o coeficiente parcial
+  de segurança para a determinação da capacidade de suporte da TLOF equivalerá a 2,5.'
+keywords:
+- seguranca-aeroportuaria
+- situacao
+- pouso
+- tlof
+- capacidade
+- coeficiente
+- considerada
+- descida
+- determinacao
+- emergencia
+- equivale
+- equivalera
+- estado
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

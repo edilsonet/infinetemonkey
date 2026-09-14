@@ -1,0 +1,64 @@
+id: rbac-rbac-145-145-59-d
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.59'
+section_title: Categorias e Classes
+subsection_id: d
+cite: 145.59(d)
+title: 145.59(d)
+text: '(d) Categoria Rádio:
+
+  (1) Classe 1: Equipamentos de comunicação. Equipamentos de radiotransmissão e/ou
+
+  recepção utilizados em uma aeronave para enviar ou receber comunicações em voo, independente
+
+  da frequência da portadora ou tipo de modulação utilizado. Esta classe inclui sistemas auxiliares
+  e
+
+  sistemas de interfones da aeronave, sistemas de amplificação, dispositivos de sinalização
+  da
+
+  tripulação, elétrico ou eletrônico, e equipamentos similares. Esta classe não inclui os
+  equipamentos
+
+  usados para navegação ou auxílio a navegação da aeronave, equipamento usado para medir altitude
+
+  ou separação do solo, outros equipamentos de medida operados pelos princípios de rádio ou
+  radar,
+
+  ou instrumentos mecânicos, elétricos, giroscópicos ou eletrônicos, que são parte de um equipamento
+
+  de rádio comunicação.
+
+  (2) Classe 2: Equipamentos de navegação. Sistemas de rádio utilizados em uma aeronave em
+
+  navegação de rota ou de aproximação. Não inclui equipamentos operados pelos princípios de
+  radar
+
+  ou de pulsos de radiofrequência, ou equipamento utilizado para medir altitude ou separação
+  do solo.
+
+  (3) Classe 3: Equipamentos de radar. Sistemas eletrônicos da aeronave que operam pelos
+
+  princípios de radar ou de pulsos de radiofrequência.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- equipamentos
+- aeronave
+- classe
+- sistemas
+- navegacao
+- radar
+- radio
+- equipamento
+- inclui
+- pelos
+- principios
+- altitude
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

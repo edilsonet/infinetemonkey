@@ -1,0 +1,49 @@
+id: rbac-rbac-27-a27-4-a
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.4
+section_title: Airworthiness Limitations section.
+subsection_id: a
+cite: A27.4(a)
+title: A27.4(a)
+text: '(a)
+
+  Flight and Navigation Instruments.
+
+  (1)
+
+  A magnetic gyro-stablized direction indicator instead of a gyroscopic direction indicator
+
+  required by § 29.1303(h); and
+
+  (2)
+
+  A standby attitude indicator which meets the requirements of §§ 29.1303(g)(1) through (7)
+
+  instead of a rate-of-turn indicator required by § 29.1303(g). For two-pilot configurations,
+  one
+
+  pilot''s primary indicator may be designated for this purpose. If standby batteries are
+  provided,
+
+  they may be charged from the aircraft electrical system if adequate isolation is incorporated.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- indicator
+- direction
+- instead
+- pilot
+- required
+- standby
+- adequate
+- aircraft
+- airworthiness
+- attitude
+- batteries
+- charged
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

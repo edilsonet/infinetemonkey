@@ -1,0 +1,48 @@
+id: rbac-rbac-121-121-183-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.183'
+section_title: 'Aviões categoria transporte (RBAC 25) com quatro ou mais motores convencionais:
+  limitações em rota com dois motores inoperantes'
+subsection_id: b
+cite: 121.183(b)
+title: 121.183(b)
+text: '(b) Para os propósitos do parágrafo (a)(2) desta seção assume-se que:
+
+  (1) os dois motores falham no ponto mais crítico da rota levando-se em conta o peso de decolagem;
+
+  (2) o consumo de combustível e óleo é normal com todos os motores operando até o ponto onde
+  os dois motores falham e os motores restantes continuam operando além desse ponto;
+
+  (3) quando é assumido que os motores falham acima da altitude mínima estabelecida, a conformidade
+  com a razão de subida estabelecida na altitude mínima estabelecida não precisa ser demonstrada
+  na rampa de descida da altitude de cruzeiro para a altitude mínima estabelecida, se tais
+  requisitos puderem ser atendidos quando a altitude mínima estabelecida for atingida, assumindo-se
+  que a descida será ao longo de uma trajetória líquida de voo e que a razão de descida será
+  0,013 VSO2 maior do que a razão dos dados de desempenho aprovados;
+
+  (4) considerado o alijamento de combustível, o peso do avião no ponto de falha dos dois
+  motores é superior àquele necessário, com combustível suficiente, para prosseguir para um
+  aeródromo que atenda aos requisitos de 121.187, chegando a uma altitude de pelo menos 1000
+  pés diretamente sobre esse aeródromo.'
+keywords:
+- transporte-aereo
+- operacoes
+- motores
+- altitude
+- estabelecida
+- dois
+- minima
+- ponto
+- combustivel
+- descida
+- falham
+- razao
+- aerodromo
+- operando
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

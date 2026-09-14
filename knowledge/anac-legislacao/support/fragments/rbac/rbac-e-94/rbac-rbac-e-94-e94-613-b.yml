@@ -1,0 +1,29 @@
+id: rbac-rbac-e-94-e94-613-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.613
+section_title: Testes e inspeções do transponder de RPAS Classe 1
+subsection_id: b
+cite: E94.613(b)
+title: E94.613(b)
+text: (b) Após qualquer instalação ou manutenção do transponder, quando erros na correspondência
+  de dados podem ser introduzidos, o sistema como um todo tiver sido testado, inspecionado
+  e considerado conforme com o parágrafo (c) do Apêndice E do RBAC 43.
+keywords:
+- transponder
+- apendice
+- classe
+- considerado
+- correspondencia
+- dados
+- erros
+- inspecionado
+- inspecoes
+- instalacao
+- introduzidos
+- manutencao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

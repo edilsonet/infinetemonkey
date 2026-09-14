@@ -1,0 +1,35 @@
+id: rbac-rbac-91-91-423-d
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.423'
+section_title: Pesagem e balanceamento de aeronaves
+subsection_id: d
+cite: 91.423(d)
+title: 91.423(d)
+text: '(d) A ficha de peso e balanceamento de uma aeronave deve ser recalculada sempre que
+  a aeronave
+
+  sofrer alteração por remoção, instalação ou mudança de posição de equipamentos, acessórios,
+
+  decoração interna, etc.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- balanceamento
+- acessorios
+- aeronaves
+- alteracao
+- decoracao
+- equipamentos
+- ficha
+- instalacao
+- interna
+- mudanca
+- pesagem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

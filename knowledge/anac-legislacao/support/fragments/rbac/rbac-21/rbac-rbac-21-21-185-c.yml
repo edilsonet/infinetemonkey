@@ -1,0 +1,48 @@
+id: rbac-rbac-21-21-185-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.185'
+section_title: Emissão de certificado de aeronavegabilidade categoria restrita
+subsection_id: c
+cite: 21.185(c)
+title: 21.185(c)
+text: '(c) Aeronaves importadas. O requerente de uma emissão inicial do certificado de aeronavegabilidade
+  especial categoria restrita para uma aeronave importada faz jus a este certificado se:
+
+  (1) a aeronave estiver certificada de acordo com a seção 21.25 ou 21.29 e for produzida
+  sob outro estado de fabricação;
+
+  (2) [Reservado]
+
+  (2)-I a autoridade de aviação civil do país exportador certificar que a aeronave está conforme
+  o projeto de tipo e em condições de operação segura; e
+
+  (3) a ANAC considerar que a aeronave está conforme o projeto de tipo e em condições de operação
+  segura.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- certificado
+- categoria
+- condicoes
+- emissao
+- operacao
+- restrita
+- segura
+- tipo
+- acordo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

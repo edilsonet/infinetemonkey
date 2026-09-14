@@ -1,0 +1,53 @@
+id: rbac-rbac-91-91-102-f
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.102'
+section_title: Regras gerais
+subsection_id: f
+cite: 91.102(f)
+title: 91.102(f)
+text: '(f) O piloto em comando de uma aeronave somente pode permitir que sua aeronave seja
+  abastecida
+
+  de combustível com o(s) motor(es) em funcionamento (exceto APU) se a operação for conduzida
+  de
+
+  acordo com procedimento estabelecido no manual de voo aprovado ou AOM, ou de acordo com
+
+  outros procedimentos aprovados pela ANAC. Adicionalmente:
+
+  (1) não pode haver passageiro a bordo; e
+
+  (2) o piloto em comando deve permanecer no posto de pilotagem, o(s) motor(es) deve(m) estar
+
+  em marcha lenta e os equipamentos elétricos e eletrônicos desnecessários à operação devem
+  ser
+
+  desligados antes do início do abastecimento, devendo permanecer nesta condição até o término
+  total
+
+  do abastecimento, salvo se for de outra forma estabelecido pelo manual de voo aprovado ou
+  AOM,
+
+  ou outro procedimento aprovado pela ANAC.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aprovado
+- abastecimento
+- acordo
+- aeronave
+- comando
+- estabelecido
+- manual
+- motor
+- operacao
+- permanecer
+- piloto
+- pode
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

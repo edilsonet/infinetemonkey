@@ -1,0 +1,71 @@
+id: rbac-rbac-135-135-371-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.371'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  em rota com um motor inoperante'
+subsection_id: c
+cite: 135.371(c)
+title: 135.371(c)
+text: '(c) Se um procedimento aprovado segundo o parágrafo (b) desta seção for utilizado,
+  o detentor de certificado precisa cumprir o seguinte:
+
+  (1) a razão de subida (como estabelecida no manual de voo do avião para o apropriado peso
+  e altitude) utilizada nos cálculos da trajetória de voo do avião pode ser diminuída por
+  uma quantidade em pés por minuto igual a (0,079 - 0,106 / N) Vso² (onde N é o número de
+  motores instalados e Vso é expresso em nós) para aviões certificados segundo o RBAC nº 25
+  e por 0,026 Vso² para aviões certificados segundo a parte 4a do “
+
+  Civil Air Regulations
+
+  ” dos Estados Unidos da América;
+
+  (2) a altitude com todos os motores operando deve ser suficiente para que, no evento do
+  motor critico tornar-se inoperante em qualquer ponto ao longo da rota, o voo possa prosseguir
+  para um aeródromo de alternativa predeterminado pelo uso deste procedimento. Na determinação
+  do peso de decolagem assume-se que o avião passa sobre a obstrução crítica, após a falha
+  do motor, em um ponto não mais perto da referida obstrução do que o fixo de rádio navegação
+  aprovado mais próximo da mesma, exceto se a ANAC autorizar um procedimento diferente baseado
+  em adequadas salvaguardas operacionais;
+
+  (3) o avião deve atender às provisões do parágrafo (a) desta seção a 1000 pés acima do aeródromo
+  utilizado como aeródromo de alternativa no procedimento;
+
+  (4) o procedimento deve incluir um método aprovado de considerar ventos e temperaturas que
+  possam de algum modo afetar adversamente a trajetória de voo;
+
+  (5) no atendimento a este procedimento, é permitido alijamento de combustível se o detentor
+  de certificado demonstrar que possui um programa de treinamento adequado, que instruções
+  apropriadas são fornecidas para a tripulação de voo e que todas outras precauções são tomadas
+  para garantir um procedimento seguro; e
+
+  (6)
+
+  o detentor de certificado e o piloto em comando devem conjuntamente escolher um aeródromo
+  de alternativa para o qual informações meteorológicas apropriadas indiquem que as condições
+  atmosféricas nesse aeródromo estarão nos mínimos ou acima dos mínimos meteorológicos de
+  planejamento estabelecidos para aeródromos de alternativa, em conformidade com o parágrafo
+  135.219(b), quando o voo lá chegar.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- procedimento
+- aerodromo
+- alternativa
+- aviao
+- aprovado
+- avioes
+- certificado
+- detentor
+- motor
+- motores
+- paragrafo
+- segundo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

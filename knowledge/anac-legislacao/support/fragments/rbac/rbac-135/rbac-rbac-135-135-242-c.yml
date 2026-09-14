@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-242-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.242'
+section_title: 'Tripulação de voo: geral'
+subsection_id: c
+cite: 135.242(c)
+title: 135.242(c)
+text: (c) Cada tripulante, quando solicitado, deve apresentar à fiscalização da ANAC os documentos
+  requeridos pelo parágrafo (a)(2) desta seção.
+keywords:
+- taxi-aereo
+- operacoes
+- apresentar
+- cada
+- desta
+- documentos
+- fiscalizacao
+- geral
+- paragrafo
+- requeridos
+- secao
+- solicitado
+- tripulacao
+- tripulante
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

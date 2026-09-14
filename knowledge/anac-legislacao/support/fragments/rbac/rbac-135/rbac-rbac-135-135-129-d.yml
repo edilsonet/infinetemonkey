@@ -1,0 +1,57 @@
+id: rbac-rbac-135-135-129-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: d
+cite: 135.129(d)
+title: 135.129(d)
+text: '(d) O detentor de certificado deve incluir no cartão de informações aos passageiros
+  de cada assento de saída afetado por essa seção, na linguagem primária em que são dadas
+  as instruções orais aos passageiros, a informação de que, no evento de uma emergência na
+  qual não haja um tripulante disponível para ajudar, um passageiro ocupando qualquer assento
+  de saída pode ser chamado a exercer uma das seguintes tarefas:
+
+  (1) localizar uma saída de emergência;
+
+  (2) reconhecer um mecanismo de abertura de saída de emergência;
+
+  (3) compreender as instruções para operar a saída de emergência;
+
+  (4) operar uma saída de emergência;
+
+  (5) avaliar se a abertura de uma saída de emergência irá aumentar os riscos a que os passageiros
+  estão expostos;
+
+  (6) seguir orientação oral ou por gestos dados por um tripulante;
+
+  (7) apoiar ou segurar uma porta de saída de emergência de modo que ela não impeça a utilização
+  da saída;
+
+  (8) avaliar as condições de uma escorregadeira, abri-la e estabilizá-la após a abertura,
+  ajudando outras pessoas a utilizá-la para escape;
+
+  (9) passar rapidamente por uma saída de emergência; e
+
+  (10) avaliar, selecionar e seguir uma trajetória segura a partir de uma saída de emergência.'
+keywords:
+- taxi-aereo
+- operacoes
+- saida
+- emergencia
+- abertura
+- avaliar
+- passageiros
+- assento
+- instrucoes
+- operar
+- seguir
+- tripulante
+- abri
+- afetado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

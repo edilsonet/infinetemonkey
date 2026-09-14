@@ -1,0 +1,39 @@
+id: rbac-rbac-135-135-180-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.180'
+section_title: Sistema embarcado de prevenção de colisões (ACAS)
+subsection_id: c
+cite: 135.180(c)
+title: 135.180(c)
+text: '(c) Os manuais requeridos pela seção 135.21 devem conter as seguintes informações sobre
+  o ACAS II:
+
+  (1) procedimentos adequados e ações apropriadas da tripulação para a operação do equipamento,
+  incluindo a informação de que, no evento de um alarme de colisão emitido pelo sistema ACAS
+  II, o piloto em comando deve obedecer, exclusivamente, às orientações emanadas do próprio
+  sistema; e
+
+  (2) uma descrição de todas as fontes de informação que devem estar operativas para que o
+  ACAS II opere adequadamente.'
+keywords:
+- taxi-aereo
+- operacoes
+- acas
+- sistema
+- informacao
+- acoes
+- adequadamente
+- adequados
+- alarme
+- apropriadas
+- colisao
+- colisoes
+- comando
+- conter
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

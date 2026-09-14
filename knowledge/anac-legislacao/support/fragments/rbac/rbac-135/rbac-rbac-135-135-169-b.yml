@@ -1,0 +1,63 @@
+id: rbac-rbac-135-135-169-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.169'
+section_title: Requisitos adicionais de aeronavegabilidade
+subsection_id: b
+cite: 135.169(b)
+title: 135.169(b)
+text: '(b) Somente é permitido operar um pequeno avião que tenha uma configuração para passageiros
+  de 10 assentos ou mais, excluindo assentos para piloto, se ele for de tipo certificado no
+  Brasil:
+
+  (Redação dada pela Resolução nº 524, de 02.08.2019)
+
+  (1) na categoria transporte;
+
+  (2) antes de 1º de julho de 1970, na categoria normal e atenda aos requisitos especiais
+  para aviões em operações segundo este Regulamento;
+
+  (3) antes de 19 de julho de 1970, na categoria normal e atenda aos requisitos especiais
+  de certificação do Regulamento SFAR (
+
+  Special Federal Aviation Regulation
+
+  ) 23 da FAA;
+
+  (4) na categoria normal e atenda aos requisitos do Apêndice A deste Regulamento;
+
+  (5) na categoria normal e atenda aos requisitos da seção 1.(a) do SFAR 41 da FAA;
+
+  (Redação dada pela Resolução nº 524, de 02.08.2019)
+
+  (6) na categoria normal e atenda aos requisitos da seção 1.(b) do SFAR 41 da FAA;
+
+  (Redação dada pela Resolução nº 524, de 02.08.2019)
+
+  (7) na categoria transporte regional; ou
+
+  (8) na categoria normal, como um avião multimotor de nível de certificação 4 como definido
+  no RBAC nº 23.
+
+  (Incluído pela Resolução nº 524, de 02.08.2019)'
+keywords:
+- taxi-aereo
+- operacoes
+- categoria
+- normal
+- requisitos
+- atenda
+- resolucao
+- dada
+- redacao
+- regulamento
+- sfar
+- assentos
+- aviao
+- certificacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

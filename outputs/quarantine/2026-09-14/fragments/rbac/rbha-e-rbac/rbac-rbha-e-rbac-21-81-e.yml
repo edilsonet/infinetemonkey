@@ -1,0 +1,36 @@
+id: rbac-rbha-e-rbac-21-81-e
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.81'
+section_title: Requisitos para emissão de certificado de tipo provisório Classe I e de suas
+  emendas
+subsection_id: e
+cite: 21.81(e)
+title: 21.81(e)
+text: (e) O requerente deve estabelecer todas as limitações requeridas para a emissão do certificado
+  de tipo ou certificado suplementar de tipo requerido, incluindo limitações de peso, de velocidade,
+  de manobras, de carregamentos e de operação dos controles e equipamentos, a menos que, para
+  cada limitação não claramente estabelecida, restrições operacionais apropriadas à aeronave
+  tenham sido estabelecidas.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- tipo
+- emissao
+- limitacoes
+- aeronave
+- apropriadas
+- cada
+- carregamentos
+- claramente
+- classe
+- controles
+- emendas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

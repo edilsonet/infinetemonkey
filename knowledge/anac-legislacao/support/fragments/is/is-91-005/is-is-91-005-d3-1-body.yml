@@ -1,0 +1,53 @@
+id: is-is-91-005-d3-1-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: D3.1
+section_title: Para poder avaliar um sistema com base nas declarações de performance estabelecidas
+  pelo RGCSP é necessário quantificar a média e três valores de desvio-padrão de ASE, expressos
+  como ASE
+subsection_id: body
+cite: D3.1
+title: Para poder avaliar um sistema com base nas declarações de performance estabelecidas
+  pelo RGCSP é necessário quantificar a média e três valores de desvio-padrão de ASE, expressos
+  como ASE
+text: 'D3.1 Para poder avaliar um sistema com base nas declarações de performance estabelecidas
+  pelo RGCSP é necessário quantificar a média e três valores de desvio-padrão de ASE, expressos
+  como ASE
+
+  médio
+
+  e ASE
+
+  3SD
+
+  . Para isso, é necessário levar em conta as formas diferentes pelas quais podem surgir variações
+  da ASE. Os fatores que afetam a ASE são:
+
+  a) variações nos equipamentos das aeronaves, de unidade para unidade;
+
+  b) ação das condições ambientais de operação sobre os aviônicos;
+
+  c) variação do erro da tomada de pressão estática; e
+
+  d) ação das condições de operação de voo sobre o erro da tomada de pressão estática'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- necessario
+- avaliar
+- base
+- declaracoes
+- desvio
+- estabelecidas
+- expressos
+- media
+- padrao
+- performance
+- poder
+- quantificar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

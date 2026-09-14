@@ -1,0 +1,43 @@
+id: rbac-rbac-121-121-193-i
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.193'
+section_title: 'Aviões categoria transporte com motores a turbina: limitações de rota com
+  dois motores inoperantes'
+subsection_id: i
+cite: 121.193(i)
+title: 121.193(i)
+text: '(i) os dois motores falham simultaneamente no ponto mais crítico da rota;
+
+  (ii) a trajetória líquida de voo apresenta gradiente positivo a 1500 pés de altura sobre
+  o aeródromo onde supostamente o avião pousaria após falha dos motores;
+
+  (iii) alijamento de combustível pode ser aprovado se o detentor de certificado demonstrar
+  que suas tripulações são adequadamente instruídas, que o programa de treinamento é adequado
+  e que todas as precauções foram tomadas para assegurar um procedimento seguro;
+
+  (iv) o peso do avião no ponto onde se assume a parada simultânea dos dois motores inclui
+  combustível suficiente para prosseguir para o aeródromo, chegando na sua vertical pelo menos
+  a 1500 pés de altura e, depois, voe mais 15 minutos com potência ou empuxo de cruzeiro;
+  e'
+keywords:
+- transporte-aereo
+- operacoes
+- motores
+- dois
+- aerodromo
+- altura
+- aviao
+- combustivel
+- ponto
+- rota
+- adequadamente
+- adequado
+- alijamento
+- apresenta
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-301-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.301'
+section_title: Requisitos gerais para pouso ou decolagem em local não cadastrado pela ANAC
+subsection_id: c
+cite: 90.301(c)
+title: 90.301(c)
+text: (c) O requisito inicial para realização do pouso ou decolagem em local não cadastrado
+  pela ANAC é que o controle do risco inerente à operação, incluindo a proteção das aeronaves,
+  tripulação, outras pessoas com função a bordo, passageiros e terceiros, esteja dentro no
+  NADSO.
+keywords:
+- regras-de-voo
+- operacoes
+- cadastrado
+- decolagem
+- local
+- pouso
+- aeronaves
+- bordo
+- controle
+- dentro
+- esteja
+- funcao
+- gerais
+- incluindo
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

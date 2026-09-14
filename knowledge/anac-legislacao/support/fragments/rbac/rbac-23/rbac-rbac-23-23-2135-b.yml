@@ -1,0 +1,42 @@
+id: rbac-rbac-23-23-2135-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2135'
+section_title: Controlabilidade.
+subsection_id: b
+cite: 23.2135(b)
+title: 23.2135(b)
+text: '(b) O avião deve ser capaz de completar um
+
+  pouso sem causar danos substanciais ou lesões
+
+  graves usando o procedimento aprovado para
+
+  aproximação com o gradiente de descida mais
+
+  acentuado e proporcionando uma margem ra-
+
+  zoável abaixo da Vref ou acima do ângulo de
+
+  ataque de aproximação.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- aproximacao
+- abaixo
+- acentuado
+- acima
+- angulo
+- aprovado
+- ataque
+- aviao
+- capaz
+- causar
+- completar
+- controlabilidade
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

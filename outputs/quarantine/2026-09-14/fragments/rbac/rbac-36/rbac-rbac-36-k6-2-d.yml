@@ -1,0 +1,31 @@
+id: rbac-rbac-36-k6-2-d
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K6.2
+section_title: Takeoff Reference Procedure.
+subsection_id: d
+cite: K6.2(d)
+title: K6.2(d)
+text: '(d) The rotor speed must be stabilized at the maximum normal operating RPM certificated
+  for
+
+  takeoff;'
+keywords:
+- ruido
+- meio-ambiente
+- takeoff
+- certificated
+- maximum
+- must
+- normal
+- operating
+- procedure
+- reference
+- rotor
+- speed
+- stabilized
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

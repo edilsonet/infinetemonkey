@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-170-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.170'
+section_title: Materiais para interiores
+subsection_id: a
+cite: 135.170(a)
+title: 135.170(a)
+text: '(a) Somente é permitido operar um avião em conformidade com um certificado suplementar
+  de tipo (ou com uma emenda a um certificado de tipo) emitido segundo o SFAR 41 para peso
+  máximo de decolagem aprovado superior a 5670 kg (12.500 lb), se o avião estiver conforme
+  com os requisitos para materiais de interior estabelecidos pelo RBAC nº 25 ou
+
+  14 CFR Part 25
+
+  .'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- certificado
+- materiais
+- tipo
+- aprovado
+- conformidade
+- decolagem
+- emitido
+- estabelecidos
+- estiver
+- interior
+- interiores
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

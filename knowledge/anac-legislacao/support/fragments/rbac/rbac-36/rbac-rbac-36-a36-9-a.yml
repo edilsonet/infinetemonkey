@@ -1,0 +1,275 @@
+id: rbac-rbac-36-a36-9-a
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: of this ape
+subsection_id: a
+cite: A36.9(a)
+title: A36.9(a)
+text: '(a) For aircraft noise signals for which the high frequency spectral levels decrease
+  rapidly with
+
+  increasing frequency, apropriate pre
+
+  - emphasis and complementary de
+
+  - emphasis networks may be
+
+  included in the measuremen
+
+  t system. If pre
+
+  - emphasis is included, over the range of nominal one
+
+  -
+
+  third octave midband frequencies from 80 Hz to 10 kHz inclusive, the electrical gain provided
+  by
+
+  the pre
+
+  - emphasis network must not exced 20 dB relative to the gain at 80 Hz.
+
+
+  A36.3.6.3
+
+  For steady sinusoidal electrical signals aplied to the input of the entire measurement
+
+  system including al parts of the microphone system except the microphone at a selected signal
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  30
+
+  / 121
+
+
+  level within 5 dB of that coresponding to the calibration sound presur
+
+  e level on the reference level
+
+  range, the time
+
+  - average signal level indicated by the readout device at any one
+
+  - third octave nominal
+
+  midband frequency from 50 Hz to 10 kHz inclusive must be within ±1.5 dB of that at the calibration
+
+  check frequency. The freq
+
+  uency response of a measurement system, which includes components
+
+  that convert analog signals to digital form, must be within ±0.3 dB of the response at 10
+  kHz over
+
+  the frequency range from 10 kHz to 1.2 kHz.
+
+
+  Note: Microphone extension cables as configure
+
+  d in the field ned not be included for the frequency
+
+  response determination. This alowance does not eliminate the requirement of including
+
+  microphone extension cables when performing the pink noise recording in section A36.3.9.5.
+
+
+  A36.3.6.4
+
+  For analog ta
+
+  pe recordings, the amplitude fluctuations of a 1 kHz sinusoidal signal
+
+  recorded within 5 dB of the level coresponding to the calibration sound presure level must
+  not
+
+  vary by more than ±0.5 dB throughout any rel of the type of magnetic tape used. Conform
+
+  ance to
+
+  this requirement must be demonstrated using a device that has time
+
+  - averaging properties equivalent
+
+  to those of the spectrum analyzer.
+
+
+  A36.3.6.5
+
+  For al apropriate level ranges and for steady sinusoidal electrical signals aplied to the
+
+  input of t
+
+  he measurement system, including al parts of the microphone system except the
+
+  microphone, at one
+
+  - third
+
+  - octave nominal midband frequencies of 50 Hz, 1 kHz and 10 kHz, and the
+
+  calibration check frequency, if it is not one of these frequencies, the level non
+
+  - linearity must not
+
+  exced ±0.5 dB for a linear operating range of at least 50 dB below the uper boundary of
+  the level
+
+  range.
+
+
+  Note 1: Level linearity of measurement system components may be tested acording to the methods
+
+  described in
+
+  ABNT NBR IEC 61265
+
+  as amended.
+
+
+  Note 2: Microphone extension cables configured in the field ned not be included for the
+  level
+
+  linearity determination.
+
+
+  A36.3.6.6
+
+  On the reference level range, the level coresonding to the calibration sound presure
+
+  level must be at least 5 d
+
+  B, but no more than 30 dB les than the uper boundary of the level range.
+
+
+  A36.3.6.7
+
+  The linear operating ranges on adjacent level ranges must overlap by at least 50 dB
+
+  minus the change in atenuation introduced by a change in the level range controls.
+
+
+  No
+
+  te: It is posible for a measurement system to have level range controls that permit atenuation
+
+  changes of either 10 dB or 1 dB, for example. With 10 dB steps, the minimum overlap required
+
+  would be 40 dB, and with 1 dB steps the minimum overlap would be 4
+
+  9 dB.
+
+
+  A36.3.6.8
+
+  An overload indicator must be included in the recording and reproducing systems so that
+
+  an overload indication wil ocur during an overload condition on any relevant level range.
+
+
+  A36.3.6.9
+
+  Atenuators included in the measurement system t
+
+  o permit range changes must operate
+
+  in known intervals of decibel steps.
+
+
+  A36.3.7
+
+  Analysis systems.
+
+
+  A36.3.7.1
+
+  The analysis system must conform to the specifications in sections A36.3.7.2 to
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  31
+
+  / 121
+
+
+  A36.3.7.7 for the frequency bandwidths, chanel configurations
+
+  and gain setings used for analysis.
+
+
+  A36.3.7.2 The output of the analysis system must consist of one
+
+  - third octave band sound presure
+
+  levels as a function of time, obtained by procesing the noise signals (preferably recorded)
+  through
+
+  an analysis system wi
+
+  th the folowing characteristics:'
+keywords:
+- ruido
+- meio-ambiente
+- level
+- must
+- system
+- range
+- frequency
+- microphone
+- included
+- measurement
+- that
+- analysis
+- calibration
+- signals
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

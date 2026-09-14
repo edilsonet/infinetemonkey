@@ -1,0 +1,36 @@
+id: rbac-rbac-90-90-81-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.81'
+section_title: Requisitos gerais para aeronaves
+subsection_id: a
+cite: 90.81(a)
+title: 90.81(a)
+text: '(a) As operações especiais de aviação pública deverão ser conduzidas por aeronaves
+  certificadas ou isentas de certificação em consonância com os RBAC nº 21, 23, 25, 27 e/ou
+  29, bem como os regulamentos que os precederam, combinado aos demais regramentos de aeronavegabilidade
+  correlatos.
+
+  (1) Em casos excepcionais e observado o nível equivalente de segurança, a ANAC poderá emitir
+  autorização especial de voo (AEV) de acordo com o RBAC nº 21.'
+keywords:
+- regras-de-voo
+- operacoes
+- aeronaves
+- acordo
+- aeronavegabilidade
+- autorizacao
+- aviacao
+- casos
+- certificacao
+- certificadas
+- combinado
+- conduzidas
+- consonancia
+- correlatos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

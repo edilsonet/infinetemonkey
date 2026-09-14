@@ -1,0 +1,32 @@
+id: rbac-rbac-e-94-e94-619-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.619
+section_title: Pesagem e balanceamento de RPA Classe 1
+subsection_id: b
+cite: E94.619(b)
+title: E94.619(b)
+text: '(b) qualquer aeronave deve ser pesada:
+
+  (1) sempre que houver dúvidas quanto à exatidão de seu peso e balanceamento; e
+
+  (2) após ter sido submetida a serviços de manutenção, alterações e reparos que possam ter
+  alterado seu peso, incluindo pintura geral, grandes reparos, grandes alterações, etc.'
+keywords:
+- alteracoes
+- balanceamento
+- grandes
+- peso
+- reparos
+- aeronave
+- alterado
+- classe
+- duvidas
+- exatidao
+- geral
+- houver
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

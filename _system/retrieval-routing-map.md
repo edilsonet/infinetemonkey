@@ -56,6 +56,14 @@ class per namespace as you register more; treat each extension as a contract cha
 - The scaffold is copied, never written into; the new namespace registers in
   `_system/namespaces/` and earns its own row in this map.
 
+### ANAC legislation, RBAC, IS, IAC, maintenance, licensing, operations
+
+- Primary: `anac-legislacao`, entered through its `INDEX.md`, then
+  `canon/core-doctrine.md`, then `support/indexes/keyword-index.yml`.
+- Secondary: only the fragment YAML files the index names.
+- Skip `ai-architecture` unless the question is about how the brain stores law, not
+  about the law itself.
+
 ## When the task fits no class
 
 Match to the nearest class and confirm via `_system/namespaces/INDEX.md` (the catalog with

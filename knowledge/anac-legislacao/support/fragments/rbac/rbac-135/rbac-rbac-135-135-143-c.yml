@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-143-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.143'
+section_title: Requisitos gerais
+subsection_id: c
+cite: 135.143(c)
+title: 135.143(c)
+text: '(c) Exceto se de outra forma especificado pelo Departamento de Controle do Espaço Aéreo
+  - DECEA, as aeronaves que operam sob este Regulamento devem possuir equipamento transponder
+  instalado que atenda aos requisitos de desempenho e de condições ambientais da OTP (TSO)-C74c
+  (Mode A/C), ou de suas revisões posteriores, ou da OTP (TSO)-C112 (Mode S).
+
+  (1) Aviões que realizam voos internacionais devem possuir equipamento transponder instalado
+  que atenda à OTP (TSO)-C112 (Mode S).
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- mode
+- atenda
+- c112
+- equipamento
+- instalado
+- possuir
+- requisitos
+- transponder
+- aereo
+- aeronaves
+- ambientais
+- avioes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

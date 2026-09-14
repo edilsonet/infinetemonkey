@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-121-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.121'
+section_title: Facilidades de navegação em rota
+subsection_id: c
+cite: 121.121(c)
+title: 121.121(c)
+text: (c) Com exceção dos auxílios-rádio requeridos em rotas para aeródromos de alternativa,
+  todos os auxílios de solo não visuais requeridos para rotas aprovadas fora de espaço aéreo
+  controlado serão listados nas especificações operativas do detentor de certificado.
+keywords:
+- transporte-aereo
+- operacoes
+- auxilios
+- requeridos
+- rotas
+- aereo
+- aerodromos
+- alternativa
+- aprovadas
+- certificado
+- controlado
+- detentor
+- espaco
+- especificacoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

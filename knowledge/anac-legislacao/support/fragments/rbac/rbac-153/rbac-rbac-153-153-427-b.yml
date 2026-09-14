@@ -1,0 +1,39 @@
+id: rbac-rbac-153-153-427-b
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.427'
+section_title: '153.427'
+subsection_id: b
+cite: 153.427(b)
+title: 153.427(b)
+text: '(b) O operador do aeródromo deve disponibilizar sistema de alarme que permita o acionamento
+
+  imediato do SESCINC, dimensionado para que o sinal sonoro seja audível em quaisquer pontos
+  da
+
+  SCI.
+
+  (1)
+
+  O sistema de alarme deve ser acionável pelo OC e pela Torre de Controle, quando houver.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- alarme
+- sistema
+- acionamento
+- acionavel
+- aerodromo
+- audivel
+- controle
+- dimensionado
+- disponibilizar
+- houver
+- imediato
+- operador
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

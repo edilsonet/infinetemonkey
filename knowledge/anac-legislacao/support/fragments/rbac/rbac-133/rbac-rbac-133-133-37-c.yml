@@ -1,0 +1,36 @@
+id: rbac-rbac-133-133-37-c
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.37'
+section_title: Requisitos para treinamento, exames e experiência dos tripulantes de voo
+subsection_id: c
+cite: 133.37(c)
+title: 133.37(c)
+text: '(c) Não obstante as provisões do parágrafo (b) desta seção, uma pessoa que tenha executado
+  uma
+
+  operação em carga externa de mesma classe e em aeronave do mesmo tipo dentro dos últimos
+  12
+
+  meses calendáricos não precisa ser submetida a treinamento periódico.'
+keywords:
+- carga-externa
+- helicoptero
+- treinamento
+- aeronave
+- calendaricos
+- carga
+- classe
+- dentro
+- desta
+- exames
+- executado
+- experiencia
+- externa
+- meses
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

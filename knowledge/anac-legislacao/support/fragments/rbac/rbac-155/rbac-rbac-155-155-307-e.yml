@@ -1,0 +1,35 @@
+id: rbac-rbac-155-155-307-e
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.307'
+section_title: '155.307'
+subsection_id: e
+cite: 155.307(e)
+title: 155.307(e)
+text: '(e)
+
+  As frações de tonelada deverão ser arredondadas para o número decimal, com a aproximação
+  de uma casa decimal, quando a massa máxima admissível de decolagem do helicóptero permitido
+  a operar na TLOF, dentro da FATO, for inferior a 1.000 kg. Nesse caso, o algarismo indicativo
+  apresentará o algarismo zero representando a porção inteira, seguindo por um outro algarismo
+  que representará a fração decimal. A separação entre a porção inteira da fração decimal
+  deve ser realizada por meio de uma vírgula.'
+keywords:
+- seguranca-aeroportuaria
+- decimal
+- algarismo
+- fracao
+- inteira
+- porcao
+- admissivel
+- apresentara
+- aproximacao
+- arredondadas
+- casa
+- caso
+- decolagem
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

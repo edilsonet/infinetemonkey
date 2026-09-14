@@ -1,0 +1,46 @@
+id: is-is-91-005-c2-7-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: C2.7
+section_title: C2.7
+subsection_id: body
+cite: C2.7
+title: C2.7
+text: 'C2.7
+
+  Integridade do sistema altimétrico
+
+  : durante o processo de autorização operacional para RVSM, deve-se verificar de maneira
+  analítica que causas prognosticadas de ocorrência de falhas não-detectadas do sistema altimétrico
+  não ocorram com frequência maior do que 1x10
+
+  -5
+
+  por hora de voo. Toda falha ou combinação de falhas cuja ocorrência não seria evidente nas
+  verificações cruzadas na cabine de comando e que levariam a erros de medida ou de leitura
+  de altitude fora dos limites específicos devem ser avaliadas em relação a essa (suposta)
+  acumulação de erros. Não é necessária a consideração de nenhuma outra falha ou acumulação
+  de falhas.
+
+  C3. ALERTA DE ALTITUDE'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- falhas
+- acumulacao
+- altimetrico
+- altitude
+- erros
+- falha
+- ocorrencia
+- sistema
+- 1x10
+- alerta
+- analitica
+- autorizacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

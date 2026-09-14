@@ -1,0 +1,33 @@
+id: rbac-rbac-139-139-401-b
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.401'
+section_title: Obrigações
+subsection_id: b
+cite: 139.401(b)
+title: 139.401(b)
+text: (b) O detentor de Certificado Operacional de Aeroporto deve proibir que operações mais
+  exigentes que as especificações operativas contidas em seu Certificado sejam realizadas,
+  exceto quando houver Avaliação de Impacto sobre a Segurança Operacional (AISO) e Procedimentos
+  Específicos de Segurança Operacional (PESO) dessas operações, aceitos pela ANAC.
+keywords:
+- aerodromos
+- infraestrutura
+- operacional
+- certificado
+- operacoes
+- seguranca
+- aceitos
+- aeroporto
+- aiso
+- avaliacao
+- contidas
+- dessas
+- detentor
+- especificacoes
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

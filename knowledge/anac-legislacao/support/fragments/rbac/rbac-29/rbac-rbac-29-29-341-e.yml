@@ -1,0 +1,98 @@
+id: rbac-rbac-29-29-341-e
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.341'
+section_title: 'and 29.351:'
+subsection_id: e
+cite: 29.341(e)
+title: 29.341(e)
+text: '(e)
+
+  Each fatigue tolerance evaluation required by this section must include:
+
+  (1)
+
+  In-flight measurements to determine the fatigue loads or stresses for the PSEs identified
+  in
+
+  paragraph (d) of this section in all critical conditions throughout the range of design
+  limitations
+
+  required by § 29.309 (including altitude effects), except that maneuvering load factors
+  need not
+
+  exceed the maximum values expected in operations.
+
+  (2)
+
+  The loading spectra as severe as those expected in operations based on loads or stresses
+
+  determined under paragraph (e)(1) of this section, including external load operations, if
+  applicable,
+
+  and other high frequency power-cycle operations.
+
+  (3)
+
+  Takeoff, landing, and taxi loads when evaluating the landing gear and other affected PSEs.
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.563(b)(2)
+
+  14 CFR 29.571(e)(3) (enhanced display)
+
+  page 43 of 167
+
+
+  § 29.573 Damage Tolerance and Fatigue Evaluation of Composite Rotorcraft Structures.
+
+  (4)
+
+  For each PSE identified in paragraph (d) of this section, a threat assessment which includes
+  a
+
+  determination of the probable locations, types, and sizes of damage, taking into account
+  fatigue,
+
+  environmental effects, intrinsic and discrete flaws, or accidental damage that may occur
+  during
+
+  manufacture or operation.
+
+  (5)
+
+  A determination of the fatigue tolerance characteristics for the PSE with the damage identified
+  in
+
+  paragraph (e)(4) of this section that supports the inspection and retirement times, or other
+  approved
+
+  equivalent means.
+
+  (6)
+
+  Analyses supported by test evidence and, if available, service experience.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- fatigue
+- section
+- this
+- damage
+- operations
+- paragraph
+- identified
+- loads
+- other
+- that
+- tolerance
+- determination
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

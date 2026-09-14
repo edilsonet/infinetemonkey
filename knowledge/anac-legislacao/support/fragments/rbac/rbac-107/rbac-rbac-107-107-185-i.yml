@@ -1,0 +1,43 @@
+id: rbac-rbac-107-107-185-i
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.185'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: i
+cite: 107.185(i)
+title: 107.185(i)
+text: '(i) teste no sistema de identificação de pessoas, devendo ser realizado 1 (um) teste
+  para cada ponto de controle de acesso às AC e ARS do aeródromo;
+
+  (ii) teste no sistema de inspeção de pessoas nos pontos de controle de acesso às salas de
+  embarque, devendo ser realizados 2 (dois) testes para cada conjunto igual ou inferior a
+  3 (três) módulos de inspeção;
+
+  (iii) teste no sistema de inspeção de pertences de mão nos pontos de controle de acesso
+  às salas de embarque, devendo ser realizados 2 (dois) testes para cada conjunto igual ou
+  inferior a 3 (três) módulos de inspeção;
+
+  (iv) teste no sistema de inspeção de pessoas nos pontos de controle de acesso às ARS, devendo
+  ser realizado 1 (um) teste para cada módulo de inspeção destinado exclusivamente ao pessoal
+  de serviços, tripulantes e passageiros da aviação geral;'
+keywords:
+- seguranca
+- aeroporto
+- inspecao
+- teste
+- controle
+- acesso
+- cada
+- devendo
+- sistema
+- pessoas
+- pontos
+- conjunto
+- dois
+- embarque
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

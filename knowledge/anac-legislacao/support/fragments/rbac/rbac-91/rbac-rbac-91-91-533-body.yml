@@ -1,0 +1,38 @@
+id: rbac-rbac-91-91-533-body
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.533'
+section_title: Requisitos para comissários
+subsection_id: body
+cite: '91.533'
+title: Requisitos para comissários
+text: '91.533 Requisitos para comissários
+
+  Somente é permitido operar um avião regido por esta Subparte, que tenha a bordo mais de
+  19
+
+  passageiros, se o avião possuir um comissário de voo para cada grupo de passageiros composto
+  por
+
+  no máximo 50 pessoas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- comissarios
+- requisitos
+- aviao
+- passageiros
+- bordo
+- cada
+- comissario
+- composto
+- grupo
+- maximo
+- operar
+- permitido
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

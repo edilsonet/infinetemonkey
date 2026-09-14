@@ -1,0 +1,67 @@
+id: rbac-rbac-27-a27-1-i
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.1
+section_title: General.
+subsection_id: i
+cite: A27.1(i)
+title: A27.1(i)
+text: '(i)
+
+  The steady rates of climb and descent, in-ground effect and out-of-ground effect hovering
+
+  ceilings, together with the corresponding airspeeds and other pertinent information including
+
+  the calculated effects of altitude and temperatures;
+
+  (ii)
+
+  The maximum weight for each altitude and temperature condition at which the rotorcraft can
+
+  safely hover in-ground effect and out-of-ground effect in winds of not less than 17 knots
+  from
+
+  all azimuths. These data must be clearly referenced to the appropriate hover charts. In
+  addition,
+
+  if there are other combinations of weight, altitude and temperature for which performance
+
+  information is provided and at which the rotorcraft cannot land and take off safely with
+  the
+
+  maximum wind value, those portions of the operating envelope and the appropriate safe wind
+
+  conditions must be stated in the Rotorcraft Flight Manual;
+
+  (iii)
+
+  For reciprocating engine-powered rotorcraft, the maximum atmospheric temperature at which
+
+  compliance with the cooling provisions of §§ 27.1041 through 27.1045 is shown; and
+
+  (iv)
+
+  Glide distance as a function of altitude when autorotating at the speeds and conditions
+  for
+
+  minimum rate of descent and best glide as determined in § 27.71.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- altitude
+- effect
+- ground
+- which
+- maximum
+- temperature
+- with
+- appropriate
+- conditions
+- descent
+- glide
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

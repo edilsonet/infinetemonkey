@@ -1,0 +1,37 @@
+id: rbac-rbac-107-107-9-i
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.9'
+section_title: Classificações dos Aeródromos
+subsection_id: i
+cite: 107.9(i)
+title: 107.9(i)
+text: '(i) A ANAC pode enquadrar qualquer operador de aeródromo em classe diferente da qual
+  lhe seria aplicável nos termos do parágrafo 107.9(a), desde que previamente justificado,
+  com base em avaliação de risco efetuada pela ANAC.
+
+  (1) No caso de o novo enquadramento requerer mudança nas especificações de característica
+  física, configuração, material, desempenho, pessoal ou procedimento, o operador de aeródromo
+  deve demonstrar o atendimento aos requisitos deste regulamento em prazo não superior a 120
+  (cento e vinte) dias, contados a partir do recebimento da comunicação da ANAC.'
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- operador
+- aerodromos
+- aplicavel
+- atendimento
+- avaliacao
+- base
+- caracteristica
+- caso
+- cento
+- classe
+- classificacoes
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

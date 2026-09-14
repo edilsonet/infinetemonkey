@@ -1,0 +1,49 @@
+id: rbac-rbac-107-107-185-x
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.185'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: x
+cite: 107.185(x)
+title: 107.185(x)
+text: '(x) teste no sistema de inspeção de materiais de serviço, mercadorias e suprimentos
+  aeroportuários nos pontos de controle de acesso exclusivos desses itens, caso haja canal
+  de inspeção exclusivo para mercadorias e insumos no aeroporto, devendo ser realizado 1 (um)
+  teste para cada ponto de controle de acesso; e
+
+  (Incluído pela Resolução nº 644, de 05.11.2021)
+
+  (xi) teste no sistema de controle de acesso de instalação onde processa mercadorias e suprimentos
+  aeroportuários pertencente a uma cadeia segura aprovada pelo operador aeroportuário, caso
+  haja, devendo ser realizado 1 (um) teste para cada entidade que utiliza cadeia segura para
+  transporte de mercadorias e suprimentos, aprovada por meio de PSESCA.
+
+  (Incluído pela Resolução nº 644, de 05.11.2021)
+
+  (7) os testes AVSEC devem ser coordenados e acompanhados por profissional(is) capacitado(s),
+  nos termos do PNIAVSEC; e
+
+  (8) os testes AVSEC devem englobar os pontos de controle de acesso operados diretamente
+  pelo operador de aeródromo e os operados por empresas terceirizadas e por exploradores de
+  áreas aeroportuárias.'
+keywords:
+- seguranca
+- aeroporto
+- controle
+- acesso
+- mercadorias
+- teste
+- avsec
+- suprimentos
+- aeroportuarios
+- aprovada
+- cada
+- cadeia
+- caso
+- devendo
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

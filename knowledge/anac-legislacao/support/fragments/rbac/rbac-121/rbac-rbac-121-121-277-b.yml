@@ -1,0 +1,33 @@
+id: rbac-rbac-121-121-277-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.277'
+section_title: Proteção de outros componentes do avião contra fogo
+subsection_id: b
+cite: 121.277(b)
+title: 121.277(b)
+text: (b) O parágrafo (a) desta seção não se aplica às superfícies de empenagem que ficam
+  atrás das naceles, a menos que a configuração dimensional do avião seja tal que as superfícies
+  da empenagem possam ser afetadas pelo calor, chamas ou faíscas emanadas de uma zona designada
+  de fogo ou do compartimento do motor de qualquer nacele.
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- empenagem
+- fogo
+- superficies
+- afetadas
+- aplica
+- atras
+- calor
+- chamas
+- compartimento
+- componentes
+- configuracao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

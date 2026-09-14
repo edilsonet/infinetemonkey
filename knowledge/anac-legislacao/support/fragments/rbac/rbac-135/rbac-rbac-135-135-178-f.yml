@@ -1,0 +1,60 @@
+id: rbac-rbac-135-135-178-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.178'
+section_title: Equipamentos adicionais de emergência
+subsection_id: f
+cite: 135.178(f)
+title: 135.178(f)
+text: '(f) Acesso às saídas de emergência. Em cada avião transportando passageiros deve ser
+  provido acesso a cada saída de emergência como se segue:
+
+  (1) cada passagem entre áreas individuais de passageiros ou levando a uma saída de emergência
+  tipo I ou tipo II deve ser desobstruída e deve ter, pelo menos, 20 polegadas de largura;
+
+  (2) deve haver suficiente espaço próximo às saídas de emergência tipo I e tipo II, que estejam
+  incluídas no parágrafo (a) desta seção, para permitir que um tripulante ajude a evacuação
+  dos passageiros sem reduzir a largura desobstruída de passagem requerida pelo parágrafo
+  (f)(1) desta seção;
+
+  (3) deve haver acesso, a partir do corredor principal, para cada saída de emergência tipo
+  III e tipo IV. O acesso do corredor até essas saídas não pode ser obstruído por assentos,
+  leitos ou outras protuberâncias que possam reduzir a eficácia da saída. Adicionalmente,
+  para aviões categoria transporte de tipo certificado após 1º de janeiro de 1958, deve haver
+  letreiros instalados de acordo com o parágrafo 25.813(c) do RBAC nº 25 para cada saída tipo
+  III após 3 de dezembro de 1992;
+
+  (4) se for necessário passar através de uma passagem entre cabines de passageiros para atingir
+  qualquer saída de emergência requerida a partir de qualquer assento da cabine de passageiros,
+  essa passagem deve ser desobstruída. No entanto, podem ser utilizadas cortinas se elas permitirem
+  entrada livre na passagem;
+
+  (5) nenhuma porta pode ser instalada em divisórias entre cabines de passageiros; e
+
+  (6) se for preciso passar por uma porta separando a cabine dos passageiros de outras áreas
+  para atingir uma saída de emergência requerida a partir de qualquer assento de passageiro,
+  essa porta deve possuir uma tranca que a mantenha na posição aberta e ela deve permanecer
+  aberta e presa nessa posição durante cada decolagem e cada pouso. A tranca deve ser capaz
+  de resistir às cargas impostas a ela quando for submetida às cargas finais de inércia, relativas
+  às estruturas vizinhas, listadas no parágrafo 25.561(b) do RBAC nº 25.'
+keywords:
+- taxi-aereo
+- operacoes
+- emergencia
+- tipo
+- cada
+- passageiros
+- saida
+- passagem
+- acesso
+- paragrafo
+- desobstruida
+- haver
+- partir
+- porta
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,46 @@
+id: rbac-rbac-91-91-1041-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1041'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: b
+cite: 91.1041(b)
+title: 91.1041(b)
+text: '(b) O administrador de programa somente pode permitir a operação de um avião com motor
+  a
+
+  reação se tiver realizado ao menos 25 horas de voo de avaliação operacional com um avião
+  com motor
+
+  a reação de forma aceitável pela ANAC, incluindo:
+
+  (1) cinco horas de voo noturno, se voos noturnos forem autorizados;
+
+  (2) cinco procedimentos de aproximação por instrumentos, sob condições de voo por
+
+  instrumento simuladas ou reais, se voos IFR forem autorizados; e
+
+  (3) aproximações em um número representativo de aeródromos, como determinado pela
+
+  ANAC.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- voos
+- autorizados
+- avaliacao
+- aviao
+- cinco
+- forem
+- horas
+- motor
+- operacional
+- reacao
+- aceitavel
+- administrador
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

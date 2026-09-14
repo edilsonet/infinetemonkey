@@ -1,0 +1,33 @@
+id: rbac-rbac-91-91-1707-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1707'
+section_title: Operações definidas por NAT-HLA
+subsection_id: b
+cite: 91.1707(b)
+title: 91.1707(b)
+text: '(b) A combinação do equipamento e do método de operação deve atender à precisão de
+  navegação
+
+  estabelecida para a operação no espaço aéreo NAT-HLA pretendido.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacao
+- aereo
+- atender
+- combinacao
+- definidas
+- equipamento
+- espaco
+- estabelecida
+- metodo
+- navegacao
+- operacoes
+- precisao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

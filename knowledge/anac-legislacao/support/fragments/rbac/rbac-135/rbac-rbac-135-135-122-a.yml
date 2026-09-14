@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-122-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.122'
+section_title: Guarda de alimentos, bebidas e equipamentos de serviços aos passageiros durante
+  movimentação da aeronave na superfície e nas decolagens e pousos
+subsection_id: a
+cite: 135.122(a)
+title: 135.122(a)
+text: (a) Um detentor de certificado não pode movimentar na superfície, decolar ou pousar
+  uma aeronave enquanto qualquer alimento, bebida e artefatos correlatos por ela fornecidos
+  estiverem em um assento para passageiros.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- passageiros
+- superficie
+- alimento
+- alimentos
+- artefatos
+- assento
+- bebida
+- bebidas
+- certificado
+- correlatos
+- decolagens
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

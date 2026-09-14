@@ -1,0 +1,34 @@
+id: rbac-rbac-141-141-45-g
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.45'
+section_title: Requisitos de aeronaves
+subsection_id: g
+cite: 141.45(g)
+title: 141.45(g)
+text: (g) Um instrutor de voo do CIAC deve, antes de cada instrução de voo, certificar-se
+  que a aeronave se encontra aeronavegável, com a autonomia adequada para o voo, mantida em
+  obediência aos requisitos de aeronavegabilidade, dentro dos limites de desempenho aprovados
+  da aeronave quanto ao peso e balanceamento, e possui a bordo toda a documentação requerida
+  para o voo, seguindo o procedimento de despacho previsto no MIP.
+keywords:
+- escolas
+- treinamento
+- aeronave
+- requisitos
+- adequada
+- aeronavegabilidade
+- aeronavegavel
+- aeronaves
+- aprovados
+- autonomia
+- balanceamento
+- bordo
+- cada
+- certificar
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

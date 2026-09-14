@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-21-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.21'
+section_title: Requisitos do manual geral da empresa
+subsection_id: b
+cite: 135.21(b)
+title: 135.21(b)
+text: (b) Cada revisão do manual geral da empresa deve ser submetida à aceitação prévia da
+  ANAC, salvo aquelas dispensadas deste ato pelo manual já aceito.
+keywords:
+- taxi-aereo
+- operacoes
+- manual
+- empresa
+- geral
+- aceitacao
+- aceito
+- aquelas
+- cada
+- deste
+- dispensadas
+- previa
+- requisitos
+- revisao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

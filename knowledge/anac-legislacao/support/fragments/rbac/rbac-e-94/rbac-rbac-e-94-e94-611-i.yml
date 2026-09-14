@@ -1,0 +1,37 @@
+id: rbac-rbac-e-94-e94-611-i
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.611
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+  automático de informação de altitude (Modo C) de RPAS Classe 1
+subsection_id: i
+cite: E94.611(i)
+title: E94.611(i)
+text: '(i) autorização da ANAC para executar trabalhos em instrumentos;
+
+  (ii) autorização da ANAC para reparar o tipo e o modelo do equipamento a ser testado;
+
+  (iii) autorização da ANAC para executar o teste específico; ou
+
+  (iv) autorização da ANAC para trabalhar no tipo específico de RPAS a ser testado; ou
+
+  (3) por um mecânico de manutenção aeronáutica detentor de habilitação em célula e/ou aviônicos,
+  e qualificado em instrumentos (apenas para os testes e inspeções do sistema de pressão estática).'
+keywords:
+- autorizacao
+- equipamento
+- especifico
+- executar
+- inspecoes
+- instrumentos
+- rpas
+- sistema
+- testado
+- testes
+- tipo
+- aeronautica
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

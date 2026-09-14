@@ -1,0 +1,28 @@
+id: rbac-rbac-e-94-e94-621-a
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.621
+section_title: Aeronavegabilidade continuada de RPAS Classe 2
+subsection_id: a
+cite: E94.621(a)
+title: E94.621(a)
+text: (a) Somente é permitido operar um RPAS Classe 2 se os procedimentos específicos contidos
+  no programa de manutenção do RPAS recomendado pelo fabricante forem cumpridos.
+keywords:
+- rpas
+- classe
+- aeronavegabilidade
+- contidos
+- continuada
+- cumpridos
+- especificos
+- fabricante
+- forem
+- manutencao
+- operar
+- permitido
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

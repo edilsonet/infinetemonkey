@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-301-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.301'
+section_title: Requisitos gerais para pouso ou decolagem em local não cadastrado pela ANAC
+subsection_id: a
+cite: 90.301(a)
+title: 90.301(a)
+text: '(a) Para os fins deste Regulamento, considera-se local não cadastrado pela ANAC:
+
+  (1) o local que não possui cadastro da ANAC;
+
+  (2) qualquer local em território ou mar territorial brasileiro utilizado para pouso e/ou
+  decolagem para atendimento da missão aérea pública; e
+
+  (3) qualquer local em território ou mar territorial brasileiro, dedicado à exposição estática
+  da aeronave visando atender eventos programados.'
+keywords:
+- regras-de-voo
+- operacoes
+- local
+- brasileiro
+- cadastrado
+- decolagem
+- pouso
+- territorial
+- territorio
+- aerea
+- aeronave
+- atender
+- atendimento
+- cadastro
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

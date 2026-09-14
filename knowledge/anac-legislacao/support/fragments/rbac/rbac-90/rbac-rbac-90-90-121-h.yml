@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-121-h
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.121'
+section_title: Requisitos gerais
+subsection_id: h
+cite: 90.121(h)
+title: 90.121(h)
+text: '(h) Para as operações que utilizem apenas um piloto (
+
+  single pilot
+
+  ), os SOP deverão ser adaptados para a referida condição.'
+keywords:
+- regras-de-voo
+- operacoes
+- adaptados
+- condicao
+- deverao
+- gerais
+- pilot
+- piloto
+- referida
+- requisitos
+- single
+- utilizem
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-90-90-11-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.11'
+section_title: Requisitos gerais para pessoal de administração requerido
+subsection_id: b
+cite: 90.11(b)
+title: 90.11(b)
+text: '(b) A UAP deverá dispor de, no mínimo, o seguinte pessoal de administração:
+
+  (1) gestor da UAP, segundo a seção 90.35 deste Regulamento;
+
+  (2) GSO, segundo a seção 90.37 deste Regulamento;
+
+  (3) chefe de operações, segundo a seção 90.39 deste Regulamento; e
+
+  (4) responsável pelo controle da manutenção das aeronaves da UAP, conforme definido pela
+  UAP ou em regramento específico.'
+keywords:
+- regras-de-voo
+- operacoes
+- deste
+- regulamento
+- secao
+- segundo
+- administracao
+- pessoal
+- aeronaves
+- chefe
+- controle
+- definido
+- devera
+- dispor
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

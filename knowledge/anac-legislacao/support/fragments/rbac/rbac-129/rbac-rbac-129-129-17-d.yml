@@ -1,0 +1,33 @@
+id: rbac-rbac-129-129-17-d
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.17'
+section_title: Equipamento rádio
+subsection_id: d
+cite: 129.17(d)
+title: 129.17(d)
+text: (d) Sempre que for requerido equipamento de navegação VOR pelos parágrafos (a) ou (c)
+  desta seção, nenhuma empresa estrangeira de transporte aéreo pode operar uma aeronave a
+  menos que esta esteja equipada com pelo menos uma unidade de equipamento medidor de distâncias
+  (DME) aprovado ou um sistema RNAV adequado.
+keywords:
+- operador-estrangeiro
+- operacoes
+- equipamento
+- menos
+- adequado
+- aereo
+- aeronave
+- aprovado
+- desta
+- distancias
+- empresa
+- equipada
+- esteja
+- estrangeira
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

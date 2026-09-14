@@ -1,0 +1,248 @@
+id: rbac-rbac-154-154-501-a
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.501'
+section_title: Sistemas de suprimento de energia elétrica para facilidades de navegação aérea
+subsection_id: a
+cite: 154.501(a)
+title: 154.501(a)
+text: '(a) Considerações gerais
+
+  (1) O aeródromo deve dispor de adequada fonte primária de energia elétrica para o
+
+  funcionamento seguro das facilidades de navegação aérea.
+
+  (2) O projeto e a provisão de sistemas de energia elétrica para auxílios visuais à navegação
+
+  aérea e rádio-auxílios em aeródromos deverão ter características tais que uma falha de equipamento
+
+  não deixe o piloto sem adequada orientação visual ou por instrumentos, nem lhe proporcione
+
+  informação errônea.
+
+  NOTA - O projeto e a instalação dos sistemas elétricos devem ter em conta fatores que possam
+
+  provocar falhas, tais como perturbações eletromagnéticas, perdas nas linhas de transmissão,
+  qualidade
+
+  da energia, etc.
+
+  (3) As conexões da fonte de energia elétrica às facilidades que necessitam de energia secundária
+
+  devem ser dispostas de modo que as facilidades sejam automaticamente conectadas à fonte
+  secundária
+
+  de energia em caso de falha da fonte primária de energia.
+
+  (4) O intervalo de tempo entre a falha da fonte primária de energia e a restauração completa
+
+  dos serviços exigidos pelo parágrafo 154.501(b)(1)(v) deve ser tão curto quanto possível,
+  exceto
+
+  quando relativo a auxílios visuais associados a aproximação de não-precisão, aproximação
+  de
+
+  precisão ou pistas utilizadas para decolagem, caso em que deverão ser aplicados os requisitos
+  da
+
+  Tabela F-1 para o máximo tempo de comutação.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Tabela F-1. Requisitos da fonte secundária de energia elétrica (ver o parágrafo 154.501(a)(4))
+
+  Pista de pouso e decolagem
+
+  Auxílios luminosos que precisam de energia
+
+  Máximo tempo
+
+  de comutação
+
+  Aproximação visual
+
+  Indicadores da rampa de aproximação visual a
+
+  Ver os
+
+  parágrafos
+
+  154.501(a)(4) e
+
+  154.501(b)(1)(iv
+
+  )
+
+  Luzes laterais de pista b
+
+  Luzes de cabeceira de pista b
+
+  Luzes de fim de pista b
+
+  Luzes de obstáculo a
+
+
+  Aproximação de Não-Precisão
+
+  Sistema de luzes de aproximação (ALS)
+
+  15 segundos
+
+  Indicadores da rampa de aproximação visual a, d
+
+  15 segundos
+
+  Luzes de lateral de pista d
+
+  15 segundos
+
+  Luzes de cabeceira de pista d
+
+  15 segundos
+
+  Luzes de fim de pista
+
+  15 segundos
+
+  Luzes de obstáculo a
+
+  15 segundos
+
+
+  Aproximação de Precisão CAT I
+
+  Sistema de luzes de aproximação (ALS)
+
+  15 segundos
+
+  Luzes de lateral de pista d
+
+  15 segundos
+
+  Indicadores da rampa de aproximação visual a, d
+
+  15 segundos
+
+  Luzes de cabeceira de pista d
+
+  15 segundos
+
+  Luzes de fim de pista
+
+  15 segundos
+
+  Luzes de pista de táxi essencial a
+
+  15 segundos
+
+  Luzes de obstáculo a
+
+  15 segundos
+
+
+  Aproximação de Precisão CAT II/III Sistema de luzes de aproximação (ALS)
+
+  1 segundo
+
+  Barretas complementares de luzes de
+
+  aproximação
+
+  15 segundos
+
+  Luzes de obstáculo a
+
+  15 segundos
+
+  Luzes de lateral de pista
+
+  15 segundos
+
+  Luzes de cabeceira de pista
+
+  1 segundo
+
+  Luzes de eixo de pista
+
+  1 segundo
+
+  Luzes de fim de pista
+
+  1 segundo
+
+  Luzes de zona de toque
+
+  1 segundo
+
+  Luzes de todas as barras de parada
+
+  1 segundo
+
+  Luzes de pista de táxi essencial
+
+  15 segundos
+
+
+  Pista destinada à decolagem em
+
+  condições de RVR inferior a 800 m.
+
+  Luzes de lateral da pista
+
+  15 segundos
+
+  Luzes de fim de pista
+
+  1 segundo
+
+  Luzes de eixo de pista
+
+  1 segundo
+
+  Luzes de todas as barras de parada
+
+  1 segundo
+
+  Luzes de pista de táxi essencial a
+
+  15 segundos
+
+  Luzes de obstáculo a
+
+  15 segundos
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  a) Fornecida com energia secundária quando sua operação for essencial para a segurança da
+  operação de
+
+  voo.
+
+  b) Ver o Subparte D, parágrafo 154.305(b) com relação ao uso de iluminação de emergência.
+
+  c) Um segundo quando não existir luzes de eixo de pista de pouso e decolagem.
+
+  d) Um segundo quando as aproximações forem sobre terrenos perigosos ou escarpados.'
+keywords:
+- seguranca-aeroportuaria
+- luzes
+- pista
+- segundos
+- aproximacao
+- energia
+- segundo
+- fonte
+- eletrica
+- obstaculo
+- precisao
+- visual
+- auxilios
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

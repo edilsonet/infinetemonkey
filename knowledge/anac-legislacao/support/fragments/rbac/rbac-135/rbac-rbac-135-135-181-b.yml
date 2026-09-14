@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-181-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.181'
+section_title: 'Requisitos de desempenho: aeronave operando IFR'
+subsection_id: b
+cite: 135.181(b)
+title: 135.181(b)
+text: '(b)
+
+  Ressalvadas as restrições do parágrafo (a)(2) desta seção, helicópteros multimotores, transportando
+  passageiros em operação “off-shore”, podem conduzir essas operações em IFR com um peso que
+  permita ao helicóptero ter uma razão de subida de pelo menos 50 pés/min com o motor crítico
+  inoperante, quando operando na altitude mínima da rota a ser voada, ou 1500 pés MSL, o que
+  for mais alto
+
+  .
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- dada
+- operando
+- redacao
+- resolucao
+- aeronave
+- altitude
+- alto
+- conduzir
+- critico
+- desempenho
+- desta
+- essas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

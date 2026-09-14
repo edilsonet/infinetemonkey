@@ -1,0 +1,39 @@
+id: rbac-rbac-90-90-23-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.23'
+section_title: Requisitos para exercício da função de piloto em comando
+subsection_id: b
+cite: 90.23(b)
+title: 90.23(b)
+text: '(b) Para operações aéreas noturnas, sob VFR noturno, o piloto em comando deverá:
+
+  (1) cumprir com os requisitos previstos no parágrafo (a) desta seção;
+
+  (2) possuir a experiência mínima (número de horas de voo) em voo noturno na categoria da
+  aeronave em que irá tripular, conforme estabelecido pela UAP no MOP; e
+
+  (3) ser detentor de habilitação IFRA/H, emitida segundo o RBAC nº 61, para operações realizadas
+  fora dos limites da ATZ, CTR ou TMA, incluindo as projeções dos seus limites laterais, ou
+  ainda, na inexistência desses espaços aéreos, para operações realizadas fora de um raio
+  de 50 km (27 NM) do aeródromo de decolagem.'
+keywords:
+- regras-de-voo
+- operacoes
+- comando
+- fora
+- limites
+- noturno
+- piloto
+- realizadas
+- requisitos
+- aereas
+- aereos
+- aerodromo
+- aeronave
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

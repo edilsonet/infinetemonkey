@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-121-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.121'
+section_title: Bebidas alcoólicas
+subsection_id: c
+cite: 135.121(c)
+title: 135.121(c)
+text: '(c) O detentor de certificado não pode permitir que uma pessoa entre em qualquer de
+  suas aeronaves se essa pessoa aparentar estar embriagada.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- pessoa
+- aeronaves
+- alcoolicas
+- aparentar
+- bebidas
+- certificado
+- dada
+- detentor
+- embriagada
+- estar
+- permitir
+- pode
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

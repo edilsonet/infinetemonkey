@@ -1,0 +1,93 @@
+<script src="https://arquivo.pt/wayback/static/js/jquery-latest.min.js"></script>
+<script src="https://arquivo.pt/wayback/static/js/uglipop.min.js"></script>
+<link rel="stylesheet" href="https://arquivo.pt/wayback/static/css/myStyle.min.css"></script>
+<link rel="stylesheet" href="https://arquivo.pt/wayback/static/css/404Style.min.css"></script>
+<link rel="stylesheet" href="https://arquivo.pt/wayback/static/css/bootstrap.min.css">
+<script src="https://arquivo.pt/wayback/static/resources/js/bootstrap.min.js"></script>
+<meta name="viewport" content="initial-scale=0.99,minimum-scale=0.1, maximum-scale=10">
+<link rel="shortcut icon" href="/img/logo-16.png" type="image/x-icon">
+<!-- starts Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CV5BP3MR9J"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-CV5BP3MR9J');
+</script>
+<!-- ends Google Analytics 4-->
+
+<script type="text/javascript">
+document.write("<script src="+ ""+"static\/resources\/js\/js.cookie.js"+ "><\/script>");
+</script> <!-- Plugin for cookie to choose language-->
+<script>
+	var language = localStorage.language;
+	if( language == 'EN'){
+		document.write('<script type="text/javascript" language="JavaScript" src="https://arquivo.pt/wayback/static/properties/ConstantsEN.min.js"><\/script>');
+	}
+	else{
+		document.write('<script type="text/javascript" language="JavaScript" src="https://arquivo.pt/wayback/static/properties/ConstantsPT.min.js"><\/script>');
+	}
+</script>
+<script type="text/javascript">
+var tokens = window.location.toString().split('/');
+theURL = '';
+var i;
+for( i = 5; i<tokens.length; i ++){
+	if(i == 5){
+		theURL = tokens[i];
+	}
+	else{
+		theURL= theURL + "/" + tokens[i];
+	}
+}
+
+document.write('<div id="pageIsNotArchived"><a href="///?l='+ Content.language +'"><img src="https://arquivo.pt/wayback/static/img/logoFace.png" class="imgClass" /></a>');
+document.write('<h3>'+Content.notArchived+'</h3>');
+document.write('<ul>');
+    document.write('<li class="list-title">&#x2192; '+Content.weSuggest+'</li>');
+    document.write('<li class="fix-padding">'+Content.firstSuggestion+'</li>');
+    document.write('<li>'+Content.secondSuggestion+'</li>');
+    document.write('<li>'+Content.thirdSuggestion+'</li>');
+document.write('</ul>');
+
+$('#otherArchives').on('click', function(e){
+
+            /*gtag('event', 'ReplayBarFunctions', { "action": 'Search Other Archives Click', "label": 'http://arquivo.pt/'+_ts+'/'+_url } );*/
+            uglipop({
+              class:'modalReplay noprint', //styling class for Modal
+              source:'html',
+              content:'<h4 class="modalTitleComplete"><i class="fa fa-print" aria-hidden="true"></i> '+Content.otherArchives+'</h4><p class="modalparagraph last">'+Content.leavingArquivo+'</p>'+
+                      '<div class="row"><a id="searchOtherArchives" onclick="gtag(\'event\', \'ReplayBarFunctions\', { "action":\'Search Other Archives Click\', "label": \'arquivo.pt/'+tokens[4]+'/'+theURL+'\' } );" class="col-xs-6 text-center leftAnchor modalOptions">OK</a><a id="cancelPopup" class="col-xs-6 text-center modalOptions">'+Content.cancel+'</a></div>'
+            });
+    /*Closing popup*/            
+    $('#cancelPopup').on('click', function(e){
+        gtag("event", 'Not Found', {
+            "type": 'Other Archives Cancel', 
+            "url": 'arquivo.pt/'+tokens[4]+'/'+theURL 
+        } );
+        $('#uglipop_content_fixed').fadeOut();
+        $('#uglipop_overlay').fadeOut('fast');
+    });
+    /*Confirm searching other archives*/
+    $('#searchOtherArchives').on('click', function(e){
+        gtag("event", 'Not Found', {
+            "type": 'Other Archives Confirm', 
+            "url": 'arquivo.pt/'+tokens[4]+'/'+theURL 
+        } );
+        window.open(Content.otherArchivesURL+'/'+tokens[4]+'/'+theURL);
+        $('#uglipop_overlay').fadeOut('fast');
+    });  
+    
+});
+$('#archiveNow').on('click', function(e){
+    window.open(Content.archivePageNowURL);
+});
+$('#suggestToArquivo').on('click', function(e){
+    window.open(Content.suggestURL);
+});
+
+// hide replay option when on not archived page
+window.parent.document.getElementById("replayMenuButton").style.display = "none";
+
+</script>
+    

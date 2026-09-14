@@ -1,0 +1,34 @@
+id: rbac-rbac-27-preambulo-i
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: i
+cite: preambulo(i)
+title: preambulo(i)
+text: '(i)
+
+  Taxiing condition. The rotorcraft and its landing gear must be designed for loads that would
+  occur when
+
+  the rotorcraft is taxied over the roughest ground that may reasonably be expected in normal
+  operation.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- preambulo
+- that
+- condition
+- designed
+- expected
+- gear
+- ground
+- landing
+- loads
+- must
+- normal
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

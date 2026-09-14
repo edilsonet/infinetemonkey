@@ -1,0 +1,37 @@
+id: rbac-rbac-145-145-61-i-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: 145.61-I
+section_title: Limitações de certificação
+subsection_id: a
+cite: 145.61-I(a)
+title: 145.61-I(a)
+text: '(a) A ANAC somente emite certificados com categoria/classe limitada à manutenção,
+
+  manutenção preventiva e alteração de um (ou mais) modelo particular de aeronave, motor,
+  hélice,
+
+  rádio, instrumento ou acessório, ou suas partes, de um particular fabricante, ou de um (ou
+  mais) tipo
+
+  de serviço especializado de manutenção.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- particular
+- acessorio
+- aeronave
+- alteracao
+- categoria
+- certificacao
+- certificados
+- classe
+- emite
+- especializado
+- fabricante
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

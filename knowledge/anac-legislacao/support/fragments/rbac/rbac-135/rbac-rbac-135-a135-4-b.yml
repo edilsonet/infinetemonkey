@@ -1,0 +1,42 @@
+id: rbac-rbac-135-a135-4-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.4
+section_title: Compensação
+subsection_id: b
+cite: A135.4(b)
+title: A135.4(b)
+text: '(b) Compensação longitudinal. O avião deve manter compensação longitudinal durante
+  as condições abaixo, exceto que não precisa manter compensação a uma velocidade maior que
+  VMO / MMO:
+
+  (1) nas condições de aproximação especificadas no RBAC nº 23, exceto quando, em lugar das
+  velocidades nele especificadas, a compensação deve ser mantida com uma força de manche não
+  maior que 4,5 kg (10 lb) até a velocidade usada para demonstrar conformidade com o parágrafo
+  A135.3(d) deste Apêndice, ou 1,4 VS1, a que for menor; e
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (2) em voo nivelado, em qualquer velocidade desde VH ou VMO / MMO, a que for menor, até
+  VX ou 1,4 VS1, com o trem de pouso e flapes de asa recolhidos.'
+keywords:
+- taxi-aereo
+- operacoes
+- compensacao
+- velocidade
+- a135
+- condicoes
+- especificadas
+- exceto
+- longitudinal
+- maior
+- manter
+- menor
+- abaixo
+- apendice
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

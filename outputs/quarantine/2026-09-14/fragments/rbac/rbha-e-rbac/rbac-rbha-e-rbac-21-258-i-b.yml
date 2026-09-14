@@ -1,0 +1,35 @@
+id: rbac-rbha-e-rbac-21-258-i-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: 21.258-I
+section_title: Constatações
+subsection_id: b
+cite: 21.258-I(b)
+title: 21.258-I(b)
+text: (b) No caso de constatação que configure uma não conformidade aos requisitos aplicáveis,
+  cujos efeitos possam afetar adversamente a segurança da aeronave, a organização de projeto
+  deve comprovar que tais efeitos estão controlados e/ou contidos, caso contrário, o certificado
+  de organização de projeto pode ser suspenso ou revogado, por meio dos procedimentos administrativos
+  aplicáveis estabelecidos pela ANAC. O detentor do certificado de organização de projeto
+  deve confirmar, tempestivamente, o recebimento do aviso de suspensão ou revogação do certificado.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- organizacao
+- aplicaveis
+- caso
+- efeitos
+- administrativos
+- adversamente
+- aeronave
+- afetar
+- aviso
+- comprovar
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

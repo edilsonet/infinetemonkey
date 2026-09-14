@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-145-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.145'
+section_title: Voos de avaliação operacional e testes de validação
+subsection_id: d
+cite: 135.145(d)
+title: 135.145(d)
+text: '(d) Para os propósitos do parágrafo (a) desta seção, uma aeronave não é considerada
+  de projeto similar a outra se:
+
+  (1) ela possuir motores aeronáuticos diferentes, conforme classificação do RBAC nº 01, daqueles
+  com que a aeronave original foi certificada; ou
+
+  (2) existirem alterações na aeronave ou em seus componentes que afetem materialmente as
+  características de voo.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- aeronauticos
+- afetem
+- alteracoes
+- avaliacao
+- caracteristicas
+- certificada
+- classificacao
+- componentes
+- considerada
+- daqueles
+- desta
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

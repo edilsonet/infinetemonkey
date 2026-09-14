@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-435-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.435'
+section_title: Qualificações requeridas
+subsection_id: a
+cite: 135.435(a)
+title: 135.435(a)
+text: (a) Exceto quanto à manutenção, manutenção preventiva, alterações e inspeções obrigatórias
+  realizadas por uma oficina certificada localizada fora do Brasil, cada pessoa diretamente
+  encarregada de executar manutenção, manutenção preventiva e alterações, e cada pessoa encarregada
+  de realizar inspeções obrigatórias deve possuir uma apropriada licença de mecânico, emitida
+  pela ANAC, com as adequadas qualificações para o trabalho que executa.
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- alteracoes
+- cada
+- encarregada
+- inspecoes
+- obrigatorias
+- pessoa
+- preventiva
+- qualificacoes
+- adequadas
+- apropriada
+- brasil
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

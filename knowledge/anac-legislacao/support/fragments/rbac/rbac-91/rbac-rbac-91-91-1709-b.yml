@@ -1,0 +1,50 @@
+id: rbac-rbac-91-91-1709-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1709'
+section_title: Operações em espaço aéreo RVSM
+subsection_id: b
+cite: 91.1709(b)
+title: 91.1709(b)
+text: '(b) Requisitos operacionais:
+
+  (1) nos primeiros seis meses de operação após a aprovação inicial e posteriormente a cada
+  dois
+
+  anos ou 1000 horas de voo, o que for maior, cada aeronave deve realizar e ser aprovada em
+  um voo
+
+  de monitoramento para verificar se o erro do sistema de altimetria (ASE) está dentro dos
+  limites
+
+  estabelecidos pela OACI. Este parágrafo não se aplica no caso de operadores com programa
+  de
+
+  monitoração RVSM, que deve obedecer ao estabelecido pela ICAO/CARSAMA; e
+
+  (2) o operador deve informar à ANAC, no prazo máximo de três dias úteis, quando for
+
+  observado um evento no qual a aeronave tenha apresentado o seguinte desempenho de manutenção
+
+  de altitude:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- cada
+- rvsm
+- aereo
+- altimetria
+- altitude
+- anos
+- aplica
+- apresentado
+- aprovacao
+- aprovada
+- carsama
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

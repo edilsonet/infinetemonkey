@@ -1,0 +1,34 @@
+id: rbac-rbac-145-145-53-e-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.53'
+section_title: Emissão do certificado
+subsection_id: e-i
+cite: 145.53(e-I)
+title: 145.53(e-I)
+text: '(e)-I Caso a organização de manutenção possua, além de sua sede, outras instalações
+  de
+
+  manutenção localizadas em outros endereços, para cada endereço será emitida uma especificação
+
+  operativa sob o mesmo certificado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- certificado
+- alem
+- cada
+- caso
+- emissao
+- emitida
+- endereco
+- enderecos
+- especificacao
+- instalacoes
+- localizadas
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-110-emd-02-110-61-c
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.61'
+section_title: Certificado AVSEC
+subsection_id: c
+cite: 110.61(c)
+title: 110.61(c)
+text: '(c) A ANAC produzirá certificado AVSEC para todos os profissionais aprovados em certificação
+  AVSEC.
+
+  (1) O único certificado que indica aprovação em certificação AVSEC será o certificado emitido
+  pela ANAC.
+
+  (2) A ANAC disponibilizará ao centro de instrução os certificados AVSEC dos profissionais
+  aprovados, agrupados por turma, somente após o centro de instrução informar à ANAC os índices
+  dos critérios de aprovação atingidos pelos profissionais durante processo de certificação
+  AVSEC.
+
+  (3) O centro de instrução deve entregar o certificado AVSEC ao profissional em até 30 (trinta)
+  dias após a disponibilização desse documento pela ANAC.'
+keywords:
+- carga
+- operacoes
+- avsec
+- certificado
+- centro
+- certificacao
+- instrucao
+- profissionais
+- aprovacao
+- aprovados
+- agrupados
+- atingidos
+- certificados
+- criterios
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

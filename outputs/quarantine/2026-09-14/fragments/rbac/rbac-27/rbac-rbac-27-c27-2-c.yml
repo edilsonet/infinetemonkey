@@ -1,0 +1,123 @@
+id: rbac-rbac-27-c27-2-c
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: C27.2
+section_title: Applicable part 29 sections. The following sections of part 29 of this chapter
+  must be met in addition to the
+subsection_id: c
+cite: C27.2(c)
+title: C27.2(c)
+text: '(c)
+
+  HIRF environment III is specified in the following table:
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR Appendix-D-to-Part-27(b)
+
+  14 CFR Appendix-D-to-Part-27(c) (enhanced display)
+
+  page 124 of 126
+
+
+  Table III. - HIRF Environment III
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  10 kHz-100 kHz
+
+  150
+
+  150
+
+  100 kHz-400 MHz
+
+  200
+
+  200
+
+  400 MHz-700 MHz
+
+  730
+
+  200
+
+  700 MHz-1 GHz
+
+  1,400
+
+  240
+
+  1 GHz-2 GHz
+
+  5,000
+
+  250
+
+  2 GHz-4 GHz
+
+  6,000
+
+  490
+
+  4 GHz-6 GHz
+
+  7,200
+
+  400
+
+  6 GHz-8 GHz
+
+  1,100
+
+  170
+
+  8 GHz-12 GHz
+
+  5,000
+
+  330
+
+  12 GHz-18 GHz
+
+  2,000
+
+  330
+
+  18 GHz-40 GHz
+
+  1,000
+
+  420
+
+  In this table, the higher field strength applies at the frequency band edges.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- part
+- table
+- appendix
+- environment
+- field
+- following
+- frequency
+- hirf
+- sections
+- strength
+- this
+- addition
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

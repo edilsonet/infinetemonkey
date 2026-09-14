@@ -1,0 +1,35 @@
+id: rbac-rbac-121-121-122-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.122'
+section_title: 'Facilidades para comunicações: operações não regulares'
+subsection_id: b
+cite: 121.122(b)
+title: 121.122(b)
+text: (b) Cada detentor de certificado envolvido na condução de operações não regulares, que
+  não operações cargueiras, com aviões com mais de dois motores deve possuir um sistema de
+  comunicação por voz, para ETOPS, onde esta facilidade é disponibilizada. Para determinar
+  a disponibilidade destas comunicações, o detentor do certificado deve considerar rotas potenciais
+  e altitudes necessárias no caso de desvios para os aeródromos de alternativa ETOPS. Nos
+  locais onde esta facilidade não estiver disponível ou for de baixa qualidade, outro sistema
+  de comunicações deve ser disponibilizado.
+keywords:
+- transporte-aereo
+- operacoes
+- comunicacoes
+- certificado
+- detentor
+- etops
+- facilidade
+- regulares
+- sistema
+- aerodromos
+- alternativa
+- altitudes
+- avioes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

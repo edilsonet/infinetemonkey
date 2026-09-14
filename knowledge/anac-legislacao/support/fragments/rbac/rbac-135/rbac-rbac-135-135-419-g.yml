@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-419-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.419'
+section_title: Programa aprovado de inspeções nas aeronaves
+subsection_id: g
+cite: 135.419(g)
+title: 135.419(g)
+text: (g) O detentor de certificado, que possua um programa aprovado de inspeções de aeronaves,
+  deve manter cada aeronave sujeita ao programa inspecionada segundo o mesmo.
+keywords:
+- taxi-aereo
+- operacoes
+- programa
+- aeronaves
+- aprovado
+- inspecoes
+- aeronave
+- cada
+- certificado
+- detentor
+- inspecionada
+- manter
+- mesmo
+- possua
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

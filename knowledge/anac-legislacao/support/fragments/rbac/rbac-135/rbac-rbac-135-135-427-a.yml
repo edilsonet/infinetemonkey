@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-427-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.427'
+section_title: Requisitos do manual
+subsection_id: a
+cite: 135.427(a)
+title: 135.427(a)
+text: (a) O detentor de certificado deve colocar em seu manual a descrição da sua organização
+  requerida pela seção 135.423 e a lista de pessoas com quem ele possua contrato para executar
+  qualquer de suas inspeções obrigatórias e outros serviços de manutenção, manutenção preventiva,
+  reconstrução e alteração, incluindo uma descrição geral desses serviços.
+keywords:
+- taxi-aereo
+- operacoes
+- descricao
+- manual
+- manutencao
+- servicos
+- alteracao
+- certificado
+- colocar
+- contrato
+- desses
+- detentor
+- executar
+- geral
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

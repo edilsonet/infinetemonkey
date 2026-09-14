@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-29-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.29'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: b
+cite: 135.29(b)
+title: 135.29(b)
+text: '(b) O SGSO do detentor de certificado deve:
+
+  (1) ser estabelecido de acordo com a estrutura prevista na Subparte M deste Regulamento;
+  e
+
+  (2) ser proporcional ao tamanho da organização e à complexidade de suas operações.'
+keywords:
+- taxi-aereo
+- operacoes
+- sgso
+- acordo
+- certificado
+- complexidade
+- deste
+- detentor
+- estabelecido
+- estrutura
+- gerenciamento
+- operacional
+- organizacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

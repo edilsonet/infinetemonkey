@@ -1,0 +1,31 @@
+id: rbac-rbac-161-161-33-v
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: '161.33'
+section_title: Critérios para cálculo das curvas de ruído para elaboração do PEZR
+subsection_id: v
+cite: 161.33(v)
+title: 161.33(v)
+text: '(v) Definição dos modelos das aeronaves envolvidas nos testes de motores, sua orientação
+  durante os testes, os horários, a duração e a frequência diária.
+
+  (A) Devem ser considerados os efeitos de barreiras de ruído empregadas nos testes, caso
+  existam.'
+keywords:
+- testes
+- ruido
+- aeronaves
+- barreiras
+- calculo
+- caso
+- considerados
+- criterios
+- curvas
+- definicao
+- diaria
+- duracao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

@@ -1,0 +1,56 @@
+id: rbac-rbac-035-35-41-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.41'
+section_title: '35.41'
+subsection_id: a
+cite: 35.41(a)
+title: 35.41(a)
+text: '(a) Quando o requerente busca aprovação
+
+  para uma operação com velocidade máxima
+
+  transiente de hélice acima do limite de
+
+  velocidade, o requerente deve demonstrar que a
+
+  hélice é capaz de operar posteriormente sem
+
+  ação de manutenção na condição de velocidade
+
+  máxima acima do limite de velocidade da
+
+  hélice. Isto pode ser realizado através de:
+
+  (1) execução de 20 giros, cada um com 30
+
+  segundos de duração, na condição de operação
+
+  com velocidade máxima acima do limite de
+
+  velocidade da hélice; ou
+
+  (2) análise baseada em ensaio ou experiência
+
+  em serviço.'
+keywords:
+- helices
+- aeronavegabilidade
+- velocidade
+- helice
+- acima
+- limite
+- maxima
+- condicao
+- operacao
+- requerente
+- acao
+- analise
+- aprovacao
+- atraves
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-150-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.150'
+section_title: Sistemas de aviso aos passageiros e de interfone para os tripulantes
+subsection_id: body
+cite: '135.150'
+title: Sistemas de aviso aos passageiros e de interfone para os tripulantes
+text: '135.150 Sistemas de aviso aos passageiros e de interfone para os tripulantes
+
+  Somente é permitido operar uma aeronave tendo uma configuração para passageiros com mais
+  de 19 assentos, excluindo qualquer assento para tripulantes, se ela for equipada com:'
+keywords:
+- taxi-aereo
+- operacoes
+- passageiros
+- tripulantes
+- aviso
+- interfone
+- sistemas
+- aeronave
+- assento
+- assentos
+- configuracao
+- equipada
+- excluindo
+- operar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

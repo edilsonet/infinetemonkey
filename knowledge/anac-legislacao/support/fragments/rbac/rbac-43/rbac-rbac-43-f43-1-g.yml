@@ -1,0 +1,45 @@
+id: rbac-rbac-43-f43-1-g
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: g
+cite: F43.1(g)
+title: F43.1(g)
+text: '(g) Formatos Mode S. Interrogar o transponder Mode S com os formatos uplink (UF) para
+  os
+
+  quais ele está equipado e verificar se as respostas são feitas no formato correto. Para
+  os formatos de
+
+  vigilância UF = 4 e 5. Verificar se as altitudes informadas nas respostas para UF = 4 são
+  as mesmas
+
+  informadas por uma resposta Mode C de um transponder ATCRBS válida. Verificar se as
+
+  identificações informadas nas respostas para UF = 5 são as mesmas informadas por uma resposta
+
+  Mode 3/A de um transponder ATCRBS válida. Se o transponder não for apropriadamente
+
+  equipado, usar os formatos de comunicação UF = 20, 21 e 24.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- transponder
+- formatos
+- informadas
+- mode
+- respostas
+- verificar
+- atcrbs
+- equipado
+- mesmas
+- resposta
+- valida
+- altitudes
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-145-145-55-b-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.55'
+section_title: Validade e renovação do certificado
+subsection_id: b-i
+cite: 145.55(b-I)
+title: 145.55(b-I)
+text: '(b)-I Um certificado emitido pela ANAC para uma organização de manutenção localizada
+  fora
+
+  do Brasil tem validade a partir da data de sua emissão até o último dia do 24o (vigésimo
+  quarto) mês
+
+  após a data da emissão inicial, a não ser que seja devolvido por seu detentor ou que seja
+  suspenso
+
+  ou cassado pela ANAC. O certificado poderá, a cada vez, ser renovado por 24 (vinte e quatro)
+
+  meses, se a ANAC constatar que a organização de manutenção operou em cumprimento aos
+
+  requisitos aplicáveis deste RBAC, dentro do período de duração precedente do certificado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- certificado
+- data
+- emissao
+- organizacao
+- seja
+- validade
+- aplicaveis
+- brasil
+- cada
+- cassado
+- constatar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

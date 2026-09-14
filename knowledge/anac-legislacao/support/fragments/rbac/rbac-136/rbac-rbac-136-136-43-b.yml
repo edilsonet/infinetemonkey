@@ -1,0 +1,38 @@
+id: rbac-rbac-136-136-43-b
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.43'
+section_title: Obrigações e limitações do detentor de certificado
+subsection_id: b
+cite: 136.43(b)
+title: 136.43(b)
+text: '(b) O detentor de certificado somente pode realizar voos panorâmicos:
+
+  (1) sob condições meteorológicas de voo visual (VMC);
+
+  (2) sob regras de voo visual (VFR);
+
+  (3) em aeronaves que cumpram com o disposto na seção 136.33 deste Regulamento; e
+
+  (4) se o seguro R.E.T.A estiver contratado e válido nas classes I, II, III e IV.'
+keywords:
+- turismo
+- operacoes
+- certificado
+- detentor
+- visual
+- aeronaves
+- classes
+- condicoes
+- contratado
+- cumpram
+- deste
+- disposto
+- estiver
+- limitacoes
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

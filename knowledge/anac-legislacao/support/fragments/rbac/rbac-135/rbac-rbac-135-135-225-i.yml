@@ -1,0 +1,46 @@
+id: rbac-rbac-135-135-225-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.225'
+section_title: '135.225'
+subsection_id: i
+cite: 135.225(i)
+title: 135.225(i)
+text: '(i) na final de uma aproximação ILS, tendo passado o fixo de aproximação final;
+
+  (ii) na final de uma aproximação radar (ASR ou PAR) tendo passado para o controlador de
+  aproximação final; ou
+
+  (iii) no final de uma aproximação usando VOR, NDB ou um sistema de aproximação comparável
+  e a aeronave:
+
+  (A) tiver passado o fixo de aproximação final; ou
+
+  (B) onde não existe um fixo de aproximação final, tiver completado a curva base, estiver
+  estabilizado no curso de aproximação final para a pista do aeródromo e na distância correta
+  prevista pelo procedimento; e
+
+  (2) o piloto julgar, ao atingir a altitude mínima de descida fixada no procedimento (MDA
+  ou DA/DH), que as reais condições atmosféricas são pelo menos iguais aos mínimos estabelecidos
+  para o procedimento sendo executado.'
+keywords:
+- taxi-aereo
+- operacoes
+- aproximacao
+- final
+- fixo
+- passado
+- procedimento
+- tendo
+- tiver
+- aerodromo
+- aeronave
+- altitude
+- atingir
+- atmosfericas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

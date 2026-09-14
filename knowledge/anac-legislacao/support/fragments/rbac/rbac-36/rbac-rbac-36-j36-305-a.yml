@@ -1,0 +1,50 @@
+id: rbac-rbac-36-j36-305-a
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: J36.305
+section_title: J36.305
+subsection_id: a
+cite: J36.305(a)
+title: J36.305(a)
+text: '(a)
+
+  Meteorological conditions.
+
+  The folowing are the noise certification reference atmospheric
+
+  conditions which shal be asumed to exist from
+
+  the surface to the helicopter altitude:
+
+
+  (1) Sea level presure of 216 pounds per square fot (76 centimeters mercury);
+
+
+  (2) Ambient temperature of 7 degres Fahrenheit (25 degres Celsius);
+
+
+  (3) Relative humidity of 70 percent; and
+
+
+  (4) Zero wind.'
+keywords:
+- ruido
+- meio-ambiente
+- conditions
+- degres
+- altitude
+- ambient
+- asumed
+- atmospheric
+- celsius
+- centimeters
+- certification
+- exist
+- fahrenheit
+- folowing
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-153-153-103-body
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.103'
+section_title: '153.103'
+subsection_id: body
+cite: '153.103'
+title: '153.103'
+text: '153.103
+
+  Condição operacional para a
+
+  infraestrutura disponível
+
+  Não exigido
+
+  Obrigatório
+
+  Obrigatório
+
+  Obrigatório
+
+  Obrigatório'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- obrigatorio
+- condicao
+- disponivel
+- exigido
+- infraestrutura
+- operacional
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

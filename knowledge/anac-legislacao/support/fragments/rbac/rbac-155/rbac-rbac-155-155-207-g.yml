@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-207-g
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.207'
+section_title: '155.207'
+subsection_id: g
+cite: 155.207(g)
+title: 155.207(g)
+text: '(g)
+
+  Para uma TLOF localizada dentro da FATO na qual é possível inscrever uma circunferência
+  com diâmetro maior ou igual a 1,5 D o centro geométrico da TLOF deve estar localizado numa
+  distância não inferior a 0,75 D da borda da FATO.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- tlof
+- borda
+- centro
+- circunferencia
+- dentro
+- diametro
+- distancia
+- estar
+- geometrico
+- igual
+- inferior
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,43 @@
+id: rbac-rbac-121-121-106-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.106'
+section_title: 'Aeródromo de alternativa em rota ETOPS: serviços de prevenção, salvamento
+  e combate a incêndio'
+subsection_id: a
+cite: 121.106(a)
+title: 121.106(a)
+text: '(a) Exceto como disposto no parágrafo (d) desta seção, o seguinte serviço de prevenção,
+  salvamento e combate a incêndio deve estar disponível em cada aeródromo de alternativa em
+  rota ETOPS listado em um despacho ou plano de voo:
+
+  (1) em operações ETOPS até 180 minutos, cada aeródromo de alternativa ETOPS deve possuir
+  o serviço descrito no parágrafo (a) desta seção equivalente ao especificado pela OACI como
+  categoria 4 ou superior;
+
+  (2) para operações ETOPS além de 180 minutos, cada aeródromo de alternativa em rota ETOPS
+  deve possuir o serviço descrito no parágrafo (a) desta seção equivalente ao especificado
+  pela OACI como categoria 4 ou superior. Adicionalmente, a aeronave deve se manter dentro
+  da autorização de desvio ETOPS de um Aeródromo Adequado que possui serviço de resgate e
+  combate a incêndio equivalente ao especificado pela OACI como categoria 7 ou superior.'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- aerodromo
+- alternativa
+- servico
+- cada
+- categoria
+- combate
+- desta
+- equivalente
+- especificado
+- incendio
+- oaci
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

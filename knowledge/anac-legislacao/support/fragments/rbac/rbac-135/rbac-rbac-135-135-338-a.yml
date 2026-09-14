@@ -1,0 +1,57 @@
+id: rbac-rbac-135-135-338-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.338'
+section_title: 'Qualificações: instrutor de voo em aeronave e instrutor de voo em FSTD e/ou
+  outro dispositivo de treinamento aprovado pela ANAC'
+subsection_id: a
+cite: 135.338(a)
+title: 135.338(a)
+text: '(a) Para os propósitos desta seção e da seção 135.340:
+
+  (1)
+
+  instrutor de voo em aeronave
+
+  é uma pessoa que é qualificada para dar instrução em aeronave, em FSTD e/ou em outro dispositivo
+  de treinamento aprovado pela ANAC para um particular tipo, classe ou categoria de aeronave;
+
+  (2)
+
+  instrutor de voo em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC
+
+  é uma pessoa que é qualificada para dar instrução em um FSTD e/ou em um outro dispositivo
+  de treinamento aprovado pela ANAC para um particular tipo, classe ou categoria de aeronave;
+  e
+
+  (3)
+
+  instrutor de voo em aeronave
+
+  e
+
+  instrutor de voo em FSTD e/ou outro dispositivo de treinamento aprovado pela ANAC
+
+  são os instrutores que desempenham as funções descritas nos parágrafos 135.321(a) e 135.323(a)(5)
+  e (c) deste Regulamento.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- instrutor
+- aprovado
+- dispositivo
+- fstd
+- outro
+- treinamento
+- categoria
+- classe
+- instrucao
+- particular
+- pessoa
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

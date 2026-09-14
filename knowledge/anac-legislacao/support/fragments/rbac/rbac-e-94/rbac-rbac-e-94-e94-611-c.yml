@@ -1,0 +1,33 @@
+id: rbac-rbac-e-94-e94-611-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.611
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+  automático de informação de altitude (Modo C) de RPAS Classe 1
+subsection_id: c
+cite: E94.611(c)
+title: E94.611(c)
+text: '(c) Os altímetros e equipamentos automáticos de informação de altitude aprovados conforme
+  uma Ordem Técnica Padrão (OTP) -
+
+  Technical Standard Order
+
+  (TSO) - são considerados testados e inspecionados quando da data de sua fabricação.'
+keywords:
+- altitude
+- equipamentos
+- informacao
+- altimetro
+- altimetros
+- aprovados
+- automatico
+- automaticos
+- classe
+- considerados
+- data
+- equipamento
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

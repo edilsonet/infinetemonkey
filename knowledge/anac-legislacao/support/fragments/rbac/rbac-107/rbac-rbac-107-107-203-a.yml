@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-203-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.203'
+section_title: Medidas Adicionais de Segurança
+subsection_id: a
+cite: 107.203(a)
+title: 107.203(a)
+text: (a) No caso de o nível nacional de ameaça ser classificado como âmbar ou vermelho ou
+  no caso de um determinado aeródromo ou voo estar sob uma situação de ameaça, o operador
+  de aeródromo deve garantir a adoção das medidas adicionais de segurança, conforme estabelecido
+  em DAVSEC ou, na inexistência desta, em seu plano de contingência.
+keywords:
+- seguranca
+- aeroporto
+- adicionais
+- aerodromo
+- ameaca
+- caso
+- medidas
+- adocao
+- ambar
+- classificado
+- contingencia
+- davsec
+- desta
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

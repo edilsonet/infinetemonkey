@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-347-q
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: q
+cite: 155.347(q)
+title: 155.347(q)
+text: '(q)
+
+  O sistema HAPI deve ser suscetível a ajustes de elevação em qualquer ângulo desejado entre
+  1 grau e 12 graus acima da horizontal, com precisão de ± 5 minutos de arco.'
+keywords:
+- seguranca-aeroportuaria
+- acima
+- ajustes
+- angulo
+- aproximacao
+- arco
+- desejado
+- elevacao
+- grau
+- graus
+- hapi
+- horizontal
+- indicador
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

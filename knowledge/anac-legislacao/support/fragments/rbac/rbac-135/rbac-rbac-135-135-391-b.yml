@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-391-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.391'
+section_title: 'Grandes aviões não incluídos na categoria transporte: limitações em rota com
+  um motor inoperante'
+subsection_id: b
+cite: 135.391(b)
+title: 135.391(b)
+text: '(b) Ressalvado o parágrafo (a) desta seção, se a ANAC entender que a segurança das
+  operações não está prejudicada, uma pessoa pode operar o avião em uma altura que permita
+  ao avião, em caso de falha do motor, livrar todas as obstruções dentro da faixa de 5 milhas
+  para cada lado da rota pretendida por 1000 pés. Se este procedimento for utilizado, a razão
+  de descida para o apropriado peso e altitude é assumida ser de 50 pés por minuto maior que
+  a razão contida nos dados de desempenho aprovado. Antes da aprovação desses procedimentos,
+  a ANAC considerará o seguinte para a rota, segmento de rota ou área envolvida:
+
+  (1) a confiabilidade da previsão de condições meteorológicas e de ventos;
+
+  (2) a localização e tipos de auxílios a navegação;
+
+  (3) as condições meteorológicas predominantes, particularmente a frequência e quantidade
+  de turbulência normalmente encontrada;
+
+  (4) características do terreno;
+
+  (5) problemas de tráfego aéreo; e
+
+  (6) quaisquer outros fatores operacionais que afetem as operações.'
+keywords:
+- taxi-aereo
+- operacoes
+- rota
+- aviao
+- condicoes
+- meteorologicas
+- motor
+- razao
+- aereo
+- afetem
+- altitude
+- altura
+- apropriado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

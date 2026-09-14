@@ -1,0 +1,31 @@
+id: rbac-rbac-121-121-279-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.279'
+section_title: Controle da rotação do motor
+subsection_id: b
+cite: 121.279(b)
+title: 121.279(b)
+text: (b) No caso de aviões com motores a turbina, só é necessário um meio de parar a rotação
+  dos motores se for julgado que a rotação pode prejudicar a segurança do avião.
+keywords:
+- transporte-aereo
+- operacoes
+- rotacao
+- motores
+- aviao
+- avioes
+- caso
+- controle
+- julgado
+- meio
+- motor
+- necessario
+- parar
+- pode
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-154-154-407-d
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.407'
+section_title: Áreas fora de serviço
+subsection_id: d
+cite: 154.407(d)
+title: 154.407(d)
+text: '(d) Características das luzes indicadoras de áreas fora de serviço
+
+  Uma luz indicadora de área fora de serviço deve ser vermelha ininterrupta. Ela deve possuir
+  uma
+
+  intensidade suficiente para garantir sua visibilidade, tendo-se em vista a intensidade das
+  luzes
+
+  adjacentes e o nível geral de iluminação contra o qual ela seria normalmente vista. De forma
+  alguma
+
+  a intensidade deve ser inferior a 10 cd de luz vermelha.'
+keywords:
+- seguranca-aeroportuaria
+- fora
+- intensidade
+- servico
+- areas
+- luzes
+- vermelha
+- vista
+- adjacentes
+- alguma
+- area
+- caracteristicas
+- contra
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

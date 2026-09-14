@@ -1,0 +1,106 @@
+id: rbac-rbac-27-27-471-c
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: '27.471'
+section_title: through 27.475.
+subsection_id: c
+cite: 27.471(c)
+title: 27.471(c)
+text: '(c)
+
+  Compliance with the following must be shown:
+
+  (1)
+
+  The seating device system must remain intact although it may experience separation intended
+  as
+
+  part of its design.
+
+  (2)
+
+  The attachment between the seating device and the airframe structure must remain intact,
+
+  although the structure may have exceeded its limit load.
+
+  (3)
+
+  The ATD''s shoulder harness strap or straps must remain on or in the immediate vicinity
+  of the
+
+  ATD''s shoulder during the impact.
+
+  (4)
+
+  The safety belt must remain on the ATD''s pelvis during the impact.
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR 27.561(c)(5)(ii)
+
+  14 CFR 27.562(c)(4) (enhanced display)
+
+  page 35 of 126
+
+
+  Where: a(t) is the resultant acceleration at the center of gravity of the head form expressed
+  as a multiple of g (the
+
+  acceleration of gravity) and t2 − t1 is the time duration, in seconds, of major head impact,
+  not to exceed 0.05
+
+  seconds.
+
+  § 27.563 Structural ditching provisions.
+
+  If certification with ditching provisions is requested, structural strength for ditching
+  must meet the requirements of
+
+  this section and § 27.801(e).
+
+  (5)
+
+  The ATD''s head either does not contact any portion of the crew or passenger compartment,
+  or if
+
+  contact is made, the head impact does not exceed a head injury criteria (HIC) of 1,000 as
+  determined
+
+  by this equation.
+
+  (6)
+
+  Loads in individual upper torso harness straps must not exceed 1,750 pounds. If dual straps
+  are
+
+  used for retaining the upper torso, the total harness strap loads must not exceed 2,000
+  pounds.
+
+  (7)
+
+  The maximum compressive load measured between the pelvis and the lumbar column of the ATD
+
+  must not exceed 1,500 pounds.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- must
+- exceed
+- head
+- impact
+- remain
+- ditching
+- harness
+- pounds
+- straps
+- acceleration
+- although
+- between
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

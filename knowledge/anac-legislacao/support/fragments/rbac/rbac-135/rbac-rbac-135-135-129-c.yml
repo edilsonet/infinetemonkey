@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-129-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: c
+cite: 135.129(c)
+title: 135.129(c)
+text: (c) Cada passageiro deve atender às instruções dadas por um tripulante, ou por outra
+  pessoa autorizada pelo detentor de certificado, implementando as restrições de ocupação
+  de assentos em conformidade com essa seção.
+keywords:
+- taxi-aereo
+- operacoes
+- assentos
+- atender
+- autorizada
+- cada
+- certificado
+- conformidade
+- dadas
+- detentor
+- implementando
+- instrucoes
+- ocupacao
+- outra
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

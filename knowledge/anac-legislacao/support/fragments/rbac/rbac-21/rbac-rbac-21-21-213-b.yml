@@ -1,0 +1,39 @@
+id: rbac-rbac-21-21-213-b
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.213'
+section_title: Elegibilidade
+subsection_id: b
+cite: 21.213(b)
+title: 21.213(b)
+text: '(b) O detentor de um certificado de empresa de transporte aéreo emitido segundo o RBAC
+  121 ou 135 pode requerer um certificado de aeronavegabilidade provisório Classe II, para
+  uma aeronave categoria transporte, desde que essa aeronave atenda a um dos requisitos abaixo:
+
+  (1) possua um certificado de tipo provisório Classe II válido, ou uma emenda a tal certificado;
+  ou
+
+  (2) possua, em vigor, uma emenda provisória a um certificado de tipo que tenha sido precedido
+  por um certificado de tipo provisório Classe II.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- classe
+- provisorio
+- tipo
+- aeronave
+- possua
+- transporte
+- abaixo
+- aereo
+- atenda
+- categoria
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

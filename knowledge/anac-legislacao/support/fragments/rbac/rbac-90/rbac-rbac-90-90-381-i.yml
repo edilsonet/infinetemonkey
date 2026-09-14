@@ -1,0 +1,74 @@
+id: rbac-rbac-90-90-381-i
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.381'
+section_title: Requisitos gerais para operação
+subsection_id: i
+cite: 90.381(i)
+title: 90.381(i)
+text: '(i) a margem de potência disponível do motor para que seja suficiente para a realização
+  da operação, inclusive sob altas temperaturas, grandes altitudes, umidade e/ou atmosfera
+  turbulenta;
+
+  (ii) o peso máximo de decolagem para operação de carga externa, não ultrapassando os limites
+  permitidos nos gráficos de desempenho do helicóptero para realização do voo pairado fora
+  do efeito solo -
+
+  OGE hover weight
+
+  ; e
+
+  (iii) o CG do helicóptero para que seja mantido dentro dos limites durante toda operação
+
+  fast rope
+
+  ;
+
+  (14) que se observem os limites dos dispositivos de fixação da carga;
+
+  (15) que o risco de impacto do rotor principal e de cauda seja mitigado;
+
+  (16) que se mantenha distância segura de objetos soltos ou que possam se soltar no terreno
+  da operação e de terceiros em solo;
+
+  (17) que a aeronave disponha de espelho para o monitoramento da carga externa pelo piloto
+  em comando, conforme aplicável;
+
+  (18) que a tripulação e os envolvidos na operação utilizem os EPIs necessários à segurança
+  da operação;
+
+  (19) que a corda de sustentação da carga viva seja alijável pela tripulação ou pessoa com
+  função a bordo;
+
+  (20) que o risco de alijamento inadvertido seja mitigado;
+
+  (21) que o operador aerotático de segurança permaneça a bordo durante toda a operação;
+
+  (22) que o operador aerotático de segurança mantenha comunicação rádio com o piloto em comando;
+
+  (23) que a operação do helicóptero seja realizada em área de manobra segura;
+
+  (24) que seja definida a trajetória a seguir em caso de falha de motor no voo pairado; e
+
+  (25) que outros procedimentos definidos pela UAP sejam observados.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacao
+- seja
+- carga
+- helicoptero
+- limites
+- seguranca
+- aerotatico
+- bordo
+- comando
+- durante
+- externa
+- mantenha
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

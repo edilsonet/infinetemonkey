@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-152-m
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: m
+cite: 135.152(m)
+title: 135.152(m)
+text: '(m) Todas as aeronaves fabricadas a partir de 7 de abril de 2012, devem possuir instalado
+  um gravador de dados de voo, que também:
+
+  (1) atenda aos requisitos 23.1459 (a)(3), (a)(6), e (a)(7) do RBAC nº 23, 25.1459 (a)(3),
+  (a)(7), e (a)(8) do RBAC nº 25, 27.1459 (a)(3), (a)(6), e (e) do RBAC nº 27, ou 29.1459
+  (a)(3), (a)(6) e (e) do RBAC nº 29, conforme aplicável; e
+
+  (2) armazene as 25 horas de informação exigida no parágrafo (d) desta seção por meio de
+  um gravador que satisfaça a TSO-C124a, ou versão posterior.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  135.152a Gravadores digitais de dados de voo para aviões com 10 a 19 assentos'
+keywords:
+- taxi-aereo
+- operacoes
+- dados
+- gravador
+- gravadores
+- 152a
+- abril
+- aeronaves
+- aplicavel
+- armazene
+- assentos
+- atenda
+- avioes
+- c124a
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

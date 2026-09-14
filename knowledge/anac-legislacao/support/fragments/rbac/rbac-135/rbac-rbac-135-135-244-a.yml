@@ -1,0 +1,44 @@
+id: rbac-rbac-135-135-244-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.244'
+section_title: 'Experiência operacional: piloto em comando'
+subsection_id: a
+cite: 135.244(a)
+title: 135.244(a)
+text: '(a) O detentor de certificado somente pode utilizar uma pessoa e uma pessoa somente
+  pode trabalhar como piloto em comando de uma aeronave em operações regulares como definidas
+  no RBAC nº 119, se essa pessoa, antes de ser designada piloto em comando, tiver completado
+  no tipo e modelo básico da aeronave e no posto de trabalho de piloto em comando, a seguinte
+  experiência operacional em cada tipo e modelo básico de aeronave a ser voada:
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)
+
+  (1) aeronave monomotora - 10 horas;
+
+  (2) aeronave multimotora, com motores convencionais - 15 horas;
+
+  (3) aeronave multimotora com motores a turbina (exceto aviões a reação) - 20 horas; e
+
+  (4) aviões a reação - 25 horas.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- comando
+- horas
+- piloto
+- pessoa
+- avioes
+- basico
+- experiencia
+- modelo
+- motores
+- multimotora
+- operacional
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

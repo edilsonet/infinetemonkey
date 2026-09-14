@@ -1,0 +1,50 @@
+id: rbac-rbac-23-23-265-b
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.265'
+section_title: Fatores especiais de segurança.
+subsection_id: b
+cite: 23.265(b)
+title: 23.265(b)
+text: '(b) O requerente deve determinar um fator es-
+
+  pecial de segurança usando controles de quali-
+
+  dade e especificações que leve em conta cada:
+
+
+  (1) Tipo d
+
+  e aplicação;
+
+
+  (2) Método de inspeção;
+
+
+  (3) Requisitos de teste estrutural;
+
+
+  (4) Porcentagem de amostra; e
+
+
+  (5) Controle de proceso e material.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- seguranca
+- amostra
+- aplicacao
+- cada
+- conta
+- controle
+- controles
+- dade
+- determinar
+- especiais
+- especificacoes
+- estrutural
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

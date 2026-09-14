@@ -1,0 +1,36 @@
+id: rbac-rbac-21-21-217-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.217'
+section_title: Validade
+subsection_id: body
+cite: '21.217'
+title: Validade
+text: '21.217 Validade
+
+  A menos que seja devolvido por seu detentor, substituído, cassado, suspenso ou de outra
+  forma terminado, o certificado de aeronavegabilidade provisório tem a validade igual à validade
+  do correspondente certificado de tipo provisório, emenda provisória ao certificado de tipo
+  ou emenda ao certificado de tipo provisório.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- validade
+- certificado
+- provisorio
+- tipo
+- cassado
+- correspondente
+- detentor
+- devolvido
+- forma
+- igual
+- menos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

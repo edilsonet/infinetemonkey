@@ -1,0 +1,42 @@
+id: rbac-rbac-21-21-129-body
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.129'
+section_title: 'Ensaios: hélices'
+subsection_id: body
+cite: '21.129'
+title: 'Ensaios: hélices'
+text: '21.129 Ensaios: hélices
+
+  Cada pessoa que fabrique hélices sob um certificado de tipo deve executar, em cada hélice
+  de passo variável produzida, um ensaio de operação aceitável, a fim de determinar se ela
+  opera apropriadamente em toda a faixa normal de operação.
+
+  (
+
+  Redação dada pela Resolução nº 364, de 20.10.2015
+
+  )'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- helices
+- ensaios
+- cada
+- operacao
+- aceitavel
+- apropriadamente
+- certificado
+- dada
+- determinar
+- ensaio
+- executar
+- fabrique
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

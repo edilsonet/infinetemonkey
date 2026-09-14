@@ -1,0 +1,73 @@
+id: rbac-rbac-23-23-1457-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.1457'
+section_title: Gravadores de voz de cabine
+subsection_id: c
+cite: 23.1457(c)
+title: 23.1457(c)
+text: '(c) Each cockpit voice recorder must be in-
+
+  stalled so that the part of the communication or
+
+  audio signals specified in paragraph (a) of this
+
+  section obtained from each of the following
+
+  sources is recorded on a separate channel:
+
+
+  (1) For the first channel, from each boom,
+
+  mask, or handheld microphone, headset, or
+
+  speaker used at the first pilot station.
+
+
+  (2) For the second channel from each boom,
+
+  mask, or handheld microphone, headset, or
+
+  speaker used at the second pilot station.
+
+
+  (3) For the third channel: from the cockpit-
+
+  mounted area microphone.
+
+  (4) For the fourth channel from:
+
+  enlace de dados estiver instalado, toda comuni-
+
+  cação por enlace de dados utilizando um con-
+
+  junto de mensagens de dados aprovado. As
+
+  mensagens do enlace de dados devem ser gra-
+
+  vadas na forma do sinal de saída da unidade de
+
+  comunicação que traduz o sinal em dados utili-
+
+  záveis.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- channel
+- dados
+- from
+- each
+- enlace
+- microphone
+- boom
+- cockpit
+- first
+- handheld
+- headset
+- mask
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

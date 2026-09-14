@@ -1,0 +1,34 @@
+id: rbac-rbac-142-142-7-e
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.7'
+section_title: Solicitação, emissão, emenda, suspensão, revogação ou cassação de certificado
+  de CTAC
+subsection_id: e
+cite: 142.7(e)
+title: 142.7(e)
+text: '(e) A ANAC pode indeferir a certificação se:
+
+  (1) um certificado de CTAC anteriormente emitido para o requerente tiver sido cassado nos
+
+  últimos cinco anos por descumprimento à regulamentação ou por fraude; e
+
+  (2) evidenciar que o requerente:'
+keywords:
+- certificado
+- ctac
+- requerente
+- anos
+- anteriormente
+- cassacao
+- cassado
+- certificacao
+- cinco
+- descumprimento
+- emissao
+- emitido
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-129-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: f
+cite: 135.129(f)
+title: 135.129(f)
+text: (f) O detentor de certificado deve divulgar para o público, em todos os locais de embarque
+  e de venda de passagens em cada aeroporto onde conduza operações de passageiros, os procedimentos
+  escritos estabelecidos para determinar se uma pessoa pode ou não ocupar um assento de saída.
+keywords:
+- taxi-aereo
+- operacoes
+- saida
+- aeroporto
+- assento
+- assentos
+- cada
+- certificado
+- conduza
+- detentor
+- determinar
+- divulgar
+- embarque
+- escritos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

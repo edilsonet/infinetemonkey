@@ -1,0 +1,40 @@
+id: rbac-rbac-139-139-109-i
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.109'
+section_title: Especificações operativas
+subsection_id: i
+cite: 139.109(i)
+title: 139.109(i)
+text: '(i) VFR, IFR ou ambos;
+
+  (ii) não precisão, precisão e sua categoria;
+
+  (iii) diurna, noturna ou ambos;
+
+  (3) Categoria Contraincêndio do Aeródromo (CAT);
+
+  (4) Autorizações de Operações Especiais, se existentes;
+
+  (5) restrições operacionais em virtude de nível equivalente de segurança ou isenção.'
+keywords:
+- aerodromos
+- infraestrutura
+- ambos
+- categoria
+- precisao
+- aerodromo
+- autorizacoes
+- contraincendio
+- diurna
+- equivalente
+- especiais
+- especificacoes
+- existentes
+- isencao
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

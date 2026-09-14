@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-29-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.29'
+section_title: Sistema de gerenciamento da segurança operacional (SGSO)
+subsection_id: c
+cite: 135.29(c)
+title: 135.29(c)
+text: (c) O SGSO do detentor de certificado deve ser implementado e mantido de modo que seja
+  considerado aceitável pela ANAC.
+keywords:
+- taxi-aereo
+- operacoes
+- sgso
+- aceitavel
+- certificado
+- considerado
+- detentor
+- gerenciamento
+- implementado
+- mantido
+- modo
+- operacional
+- seguranca
+- seja
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

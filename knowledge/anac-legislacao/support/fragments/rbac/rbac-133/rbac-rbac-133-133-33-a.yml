@@ -1,0 +1,35 @@
+id: rbac-rbac-133-133-33-a
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.33'
+section_title: Regras de operação
+subsection_id: a
+cite: 133.33(a)
+title: 133.33(a)
+text: '(a) Ninguém pode conduzir uma operação de aeronave com carga externa sem o Manual de
+  Voo
+
+  da Combinação Aeronave-Carga previsto na seção 133.47 ou contrariando regras contidas no
+
+  referido manual.'
+keywords:
+- carga-externa
+- helicoptero
+- aeronave
+- carga
+- manual
+- operacao
+- regras
+- combinacao
+- conduzir
+- contidas
+- contrariando
+- externa
+- ninguem
+- pode
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

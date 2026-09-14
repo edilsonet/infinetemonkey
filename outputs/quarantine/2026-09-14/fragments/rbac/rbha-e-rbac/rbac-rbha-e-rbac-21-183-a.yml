@@ -1,0 +1,36 @@
+id: rbac-rbha-e-rbac-21-183-a
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.183'
+section_title: Emissão de certificado de aeronavegabilidade padrão para aeronaves categorias
+  normal, utilidade, acrobática, transporte regional ou transporte e para balões livres tripulados
+  e aeronaves de classe especial
+subsection_id: a
+cite: 21.183(a)
+title: 21.183(a)
+text: (a) Aeronave nova fabricada de acordo com um certificado de organização de produção.
+  O requerente de um certificado de aeronavegabilidade padrão para uma aeronave nova fabricada
+  de acordo com um certificado de organização de produção faz jus a esse certificado sem comprovações
+  adicionais. A ANAC reserva-se o direito de vistoriar a aeronave para verificar se está conforme
+  o projeto de tipo e se apresenta condições de operação segura.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- aeronave
+- acordo
+- aeronaves
+- fabricada
+- nova
+- organizacao
+- padrao
+- producao
+- transporte
+- acrobatica
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-36-k6-4-b
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K6.4
+section_title: Approach Reference Procedure.
+subsection_id: b
+cite: K6.4(b)
+title: K6.4(b)
+text: '(b) An approved airworthiness configuration in which maximum noise occurs must be maintained;
+
+  (1) An airspeed equal to the best rate of climb speed corresponding to the nacelle angle,
+  or the
+
+  lowest approved airspeed for the approach, whichever is greater, must be stabilized and
+  maintained;
+
+  and
+
+  (2) The tiltrotor power during the approach must be stabilized over the flight path reference
+  point,
+
+  and continue as if landing;'
+keywords:
+- ruido
+- meio-ambiente
+- approach
+- must
+- airspeed
+- approved
+- maintained
+- reference
+- stabilized
+- airworthiness
+- angle
+- best
+- climb
+- configuration
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

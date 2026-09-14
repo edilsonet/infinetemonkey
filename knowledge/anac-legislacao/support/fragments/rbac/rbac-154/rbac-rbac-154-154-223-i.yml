@@ -1,0 +1,194 @@
+id: rbac-rbac-154-154-223-i
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.223'
+section_title: Baias de espera, posições de espera de pista de pouso e decolagem, posições
+subsection_id: i
+cite: 154.223(i)
+title: 154.223(i)
+text: '(i) até uma elevação de 2.000 m (6.600 ft); 1 metro para cada 100 m (330 ft) além de
+  700 m
+
+  (2.300 ft);
+
+  (ii) elevação além de 2.000 m (6.600 ft) e até 4.000 m (13.320 ft); 13 m, mais 1,5 m para
+
+  cada 100 m (330 ft) além de 2.000 m (6600 ft); e
+
+  (iii) elevação além de 4.000 m (13.320 ft) e até 5.000 m (16.650 ft); 43 m, mais 2 m para
+
+  cada 100 m (330 ft) além de 4.000 m (13.320 ft).
+
+  (3) Se uma baia de espera, uma posição de espera de pista de pouso e decolagem ou uma posição
+
+  de espera em via de serviço para uma pista de aproximação de precisão com número de código
+  4 estiver
+
+  em uma elevação maior comparada à cabeceira, a distância especificada na Tabela C-6 deve
+  ser ainda
+
+  aumentada em 5 m para cada metro em que a baia ou posição estiver acima da cabeceira. (Redação
+
+  dada pela Resolução nº 628, de 11.06.2021)
+
+  (4) A localização de uma posição de espera de pista de pouso e decolagem, em conformidade
+
+  com o parágrafo 154.223(a)(3), deve ser tal que um veículo ou uma aeronave em espera não
+  infrinja
+
+  a zona livre de obstáculos (OFZ), a superfície de aproximação, a superfície de saída, a
+  área
+
+  crítica/sensível do ILS/MLS ou interfira com a operação de auxílios-rádio à navegação.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Tabela C-6. Distância mínima do eixo da pista de pouso e decolagem até uma posição de espera
+  de
+
+  aeronave ou veículo (Alterado pela Resolução nº 628, de 11.06.2021)
+
+  Tipo de Pista
+
+  Número do Código
+
+  1
+
+  2
+
+  3
+
+  4
+
+  Aproximação Visual
+
+  30 m
+
+  40 m
+
+  75 m
+
+  75 m
+
+  Aproximação de Não-Precisão
+
+  40 m
+
+  40 m
+
+  75 m
+
+  75 m
+
+  Aproximação de Precisão Categoria I
+
+  60 m b
+
+  60 m b
+
+  90 m a, b
+
+  90 m a, b
+
+  Aproximação de Precisão Categorias II e
+
+  III
+
+  -
+
+  -
+
+  90 m a, b
+
+  90 m a, b
+
+  Pista de Decolagem
+
+  30 m
+
+  40 m
+
+  75 m
+
+  75 m
+
+  a.
+
+  Se a elevação de uma baia de espera, do ponto de espera de pista ou ponto de espera na
+
+  via de serviço for inferior à elevação da cabeceira, esta distância pode ser diminuída em
+  5 metros
+
+  para cada metro de diferença entre a baia de espera ou o ponto de espera e a cabeceira,
+  desde que
+
+  não se infrinja a superfície de transição interna.
+
+  b.
+
+  Pode ser necessário aumentar esta distância, no caso de aproximações de precisão, para
+
+  evitar interferência com os auxílios-rádio à navegação aérea, especialmente com as instalações
+
+  do indicador de trajetória de planeio e localizadores. As informações sobre as áreas críticas
+  e
+
+  sensíveis do ILS e do MLS podem ser encontradas no Anexo 10, à CACI, Volume I, Apensos C
+
+  e G da Parte I, respectivamente (ver também o parágrafo 154.223(b)(1)) e em instruções
+
+  complementares do DECEA.
+
+  NOTA 1 - A distância de 90 m, para os números do código 3 ou 4, se baseia em uma aeronave
+
+  com uma empenagem de 20 m de altura, uma distância entre o nariz e o ponto mais alto da
+
+  empenagem de 52,7 m e uma altura do nariz de 10 m, em espera em um ângulo de 45º ou mais
+
+  em relação ao eixo da pista, fora da OFZ e sem ter que considerá-la para o cálculo da OCA/H.
+
+  NOTA 2 - A distância de 60 m, para o número do código 2, se baseia em uma aeronave com uma
+
+  empenagem de 8 m de altura, uma distância entre o nariz e o ponto mais alto da empenagem
+  de
+
+  24,6 m e uma altura do nariz de 5,2 m, em espera em um ângulo de 45º ou mais em relação
+  ao
+
+  eixo da pista e fora da OFZ.
+
+  NOTA 3 - Para o número do código 4 em que a largura da borda interna da superfície de
+
+  aproximação interna é superior a 120 m, uma distância superior a 90 m pode ser necessária
+  para
+
+  garantir que uma aeronave numa posição de espera esteja fora da zona livre de obstáculos.
+  Por
+
+  exemplo, uma distância de 100 m se baseia em uma aeronave com uma empenagem de 24 m de
+
+  altura, uma distância entre o nariz e o ponto mais alto da empenagem de 62,2 m e altura
+  do nariz
+
+  de 10 m, em espera em um ângulo de 45º ou mais em relação ao eixo da pista e fora da OFZ.'
+keywords:
+- seguranca-aeroportuaria
+- espera
+- distancia
+- pista
+- aproximacao
+- aeronave
+- altura
+- elevacao
+- empenagem
+- nariz
+- ponto
+- posicao
+- alem
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-91-91-319-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.319'
+section_title: Aeronave civil com certificado de autorização de voo experimental (CAVE)
+subsection_id: c
+cite: 91.319(c)
+title: 91.319(c)
+text: '(c) Somente é permitido operar uma aeronave com CAVE sobre áreas densamente povoadas
+  se tal
+
+  operação for autorizada pela ANAC e em conformidade com as regras do DECEA.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- cave
+- areas
+- autorizacao
+- autorizada
+- certificado
+- civil
+- conformidade
+- decea
+- densamente
+- experimental
+- operacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

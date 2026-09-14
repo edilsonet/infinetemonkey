@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-154-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.154'
+section_title: Sistema de percepção e alarme de proximidade do solo (EGPWS)
+subsection_id: c
+cite: 135.154(c)
+title: 135.154(c)
+text: '(c) Manual de voo da aeronave. O manual de voo da aeronave deve conter procedimentos
+  apropriados para:
+
+  (1) a utilização do sistema de percepção e alarme de proximidade do solo;
+
+  (2) reação apropriada da tripulação de voo em resposta aos alertas visuais e sonoros do
+  sistema de percepção e alarme de proximidade do solo;
+
+  (3) operação correta do sistema por parte da tripulação; e
+
+  (4) desativação do sistema em condições de emergência e em condições planejadas e anormais.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- sistema
+- alarme
+- percepcao
+- proximidade
+- solo
+- aeronave
+- condicoes
+- manual
+- tripulacao
+- alertas
+- anormais
+- apropriada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

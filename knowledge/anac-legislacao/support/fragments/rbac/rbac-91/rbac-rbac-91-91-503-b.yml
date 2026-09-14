@@ -1,0 +1,47 @@
+id: rbac-rbac-91-91-503-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.503'
+section_title: Equipamentos de voo e informações operacionais
+subsection_id: b
+cite: 91.503(b)
+title: 91.503(b)
+text: '(b) Cada lista de verificação de cabine deve conter os seguintes procedimentos e deve
+  ser utilizada
+
+  pela tripulação de voo quando operando o avião:
+
+  (1) antes da partida dos motores;
+
+  (2) antes da decolagem;
+
+  (3) em cruzeiro;
+
+  (4) antes do pouso;
+
+  (5) após o pouso;
+
+  (6) no corte dos motores; e
+
+  (7) em emergências.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- motores
+- pouso
+- aviao
+- cabine
+- cada
+- conter
+- corte
+- cruzeiro
+- decolagem
+- emergencias
+- equipamentos
+- informacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-110-emd-02-110-69-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.69'
+section_title: Responsabilidade pela proficiência do profissional
+subsection_id: a
+cite: 110.69(a)
+title: 110.69(a)
+text: '(a) A organização com responsabilidade AVSEC deve garantir que o profissional que desempenhe
+  atividade AVSEC em seu benefício possua a proficiência na execução das atividades AVSEC
+  previstas no Apêndice A deste Regulamento.
+
+  (1) A proficiência compreende a certificação válida, que habilita o profissional para o
+  desempenho das atividades AVSEC em conformidade com o Apêndice A deste Regulamento, e a
+  execução de procedimentos conforme regulamentos da ANAC e programas de segurança específicos.'
+keywords:
+- carga
+- operacoes
+- avsec
+- proficiencia
+- profissional
+- apendice
+- atividades
+- deste
+- execucao
+- regulamento
+- responsabilidade
+- atividade
+- beneficio
+- certificacao
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

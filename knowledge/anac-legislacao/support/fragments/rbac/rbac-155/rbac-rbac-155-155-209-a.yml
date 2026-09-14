@@ -1,0 +1,29 @@
+id: rbac-rbac-155-155-209-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.209'
+section_title: '155.209'
+subsection_id: a
+cite: 155.209(a)
+title: 155.209(a)
+text: '(a)
+
+  Uma FATO deve ser circundada por uma área de segurança que não necessariamente precisa ser
+  uma superfície física, conforme exemplificado na Figura 155.209-1.'
+keywords:
+- seguranca-aeroportuaria
+- area
+- circundada
+- exemplificado
+- fato
+- figura
+- fisica
+- necessariamente
+- precisa
+- seguranca
+- superficie
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

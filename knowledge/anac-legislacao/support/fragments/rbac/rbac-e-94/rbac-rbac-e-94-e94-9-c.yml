@@ -1,0 +1,34 @@
+id: rbac-rbac-e-94-e94-9-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.9
+section_title: Requisitos para piloto remoto e observador
+subsection_id: c
+cite: E94.9(c)
+title: E94.9(c)
+text: '(c) Todos os pilotos remotos que atuarem em operações acima de 400 pés acima do nível
+  do solo (
+
+  Above Ground Level - AGL
+
+  ), ou que atuarem em operações de RPAS Classe 1 ou 2, devem possuir licença e habilitação
+  emitida ou validada pela ANAC. A ANAC determinará, para cada tipo de operação, os critérios
+  aceitáveis para a emissão da licença e habilitação apropriadas.'
+keywords:
+- acima
+- atuarem
+- habilitacao
+- licenca
+- operacoes
+- above
+- aceitaveis
+- apropriadas
+- cada
+- classe
+- criterios
+- determinara
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

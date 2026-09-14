@@ -1,0 +1,33 @@
+id: rbac-rbac-135-a135-2-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.2
+section_title: Requisitos de voo
+subsection_id: a
+cite: A135.2(a)
+title: A135.2(a)
+text: '(a) Geral.
+
+  (1) Deve ser demonstrada a conformidade com os aplicáveis requisitos da Subparte B do RBAC
+  nº 23, como suplementados ou modificados pelas seções A135.3 a A135.6 deste Apêndice.'
+keywords:
+- taxi-aereo
+- operacoes
+- a135
+- requisitos
+- apendice
+- aplicaveis
+- conformidade
+- demonstrada
+- deste
+- geral
+- modificados
+- pelas
+- secoes
+- subparte
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

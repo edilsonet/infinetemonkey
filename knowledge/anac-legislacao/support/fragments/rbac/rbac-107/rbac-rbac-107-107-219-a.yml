@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-219-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.219'
+section_title: Programa de Segurança do Operador Aéreo (PSOA)
+subsection_id: a
+cite: 107.219(a)
+title: 107.219(a)
+text: (a) O operador de aeródromo deve possuir conhecimento das partes pertinentes do PSOA
+  dos operadores aéreos em operação no aeródromo e realizar as coordenações necessárias, para
+  garantir a compatibilidade com as medidas de segurança do aeródromo e a implementação adequada
+  das medidas preventivas e de respostas previstas no programa.
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- medidas
+- operador
+- programa
+- psoa
+- adequada
+- aereo
+- aereos
+- compatibilidade
+- conhecimento
+- coordenacoes
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

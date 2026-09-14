@@ -1,0 +1,37 @@
+id: rbac-rbac-29-preambulo-f
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: f
+cite: preambulo(f)
+title: preambulo(f)
+text: '(f)
+
+  For turbine-engine-power rotorcraft, a means must be provided to permit the pilot to determine
+  prior to
+
+  takeoff that each engine is capable of developing the power necessary to achieve the applicable
+  rotorcraft
+
+  performance prescribed in this subpart.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- engine
+- power
+- preambulo
+- achieve
+- applicable
+- capable
+- determine
+- developing
+- each
+- means
+- must
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

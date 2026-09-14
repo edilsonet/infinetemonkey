@@ -1,0 +1,35 @@
+id: rbac-rbac-121-121-173-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.173'
+section_title: Geral
+subsection_id: d
+cite: 121.173(d)
+title: 121.173(d)
+text: (d) Os dados de desempenho constantes do Manual de Voo do Avião (AFM) aplicam-se na
+  determinação de conformidade com 121.175 até 121.197. Onde as condições forem diferentes
+  daquelas nas quais os dados de desempenho estão baseados, a conformidade é determinada por
+  interpolação ou computando os efeitos das modificações nas variáveis específicas, se os
+  resultados da interpolação ou da computação forem substancialmente tão acurados quanto os
+  resultados diretos de ensaios.
+keywords:
+- transporte-aereo
+- operacoes
+- conformidade
+- dados
+- desempenho
+- forem
+- interpolacao
+- resultados
+- acurados
+- aplicam
+- aviao
+- baseados
+- computacao
+- computando
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

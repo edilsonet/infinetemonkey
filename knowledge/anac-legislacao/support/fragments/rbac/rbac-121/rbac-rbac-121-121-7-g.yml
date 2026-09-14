@@ -1,0 +1,40 @@
+id: rbac-rbac-121-121-7-g
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.7'
+section_title: Definições
+subsection_id: g
+cite: 121.7(g)
+title: 121.7(g)
+text: '(g)
+
+  Velocidade de cruzeiro com um motor inoperante
+
+  significa a velocidade, dentro dos limites de operação, certificada para a aeronave, especificada
+  pelo detentor do certificado e aprovada pela ANAC para:
+
+  (1) calcular as necessidades de reserva de combustível no caso de um motor inoperante;
+
+  (2) determinar se um aeródromo de alternativa em rota ETOPS encontra-se dentro do tempo
+  de desvio máximo autorizado para um voo ETOPS.'
+keywords:
+- transporte-aereo
+- operacoes
+- dentro
+- etops
+- inoperante
+- motor
+- velocidade
+- aerodromo
+- aeronave
+- alternativa
+- aprovada
+- autorizado
+- calcular
+- caso
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

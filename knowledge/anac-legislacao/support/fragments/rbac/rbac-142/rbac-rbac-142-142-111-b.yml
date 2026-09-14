@@ -1,0 +1,35 @@
+id: rbac-rbac-142-142-111-b
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.111'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 142.111(b)
+title: 142.111(b)
+text: '(b) O gestor responsável do requerente ou detentor de certificado de CTAC deve apresentar
+  seu
+
+  MGSO de forma a demonstrar como foram internalizados os seguintes requisitos relativos aos
+  quatro
+
+  componentes e doze elementos previstos na estrutura do SGSO da ANAC, que são:
+
+  (1) política e objetivos de segurança operacional:'
+keywords:
+- requisitos
+- apresentar
+- certificado
+- componentes
+- ctac
+- demonstrar
+- detentor
+- doze
+- elementos
+- estrutura
+- foram
+- forma
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

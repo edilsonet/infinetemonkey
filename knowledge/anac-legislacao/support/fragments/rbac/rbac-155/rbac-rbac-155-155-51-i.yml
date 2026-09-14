@@ -1,0 +1,50 @@
+id: rbac-rbac-155-155-51-i
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.51'
+section_title: '155.51'
+subsection_id: i
+cite: 155.51(i)
+title: 155.51(i)
+text: '(i)
+
+  A análise de risco e as medidas mitigadoras implementadas devem estar disponíveis nas imediações
+  do heliponto em documento específico, para consulta pelo pessoal responsável do operador
+  de heliponto e pela ANAC em atividades de fiscalização.
+
+  (7)
+
+  manter controle documental de pessoal próprio, terceirizado e demais organizações que exercem
+  atividades operacionais no heliponto;
+
+  (8)
+
+  cumprir as medidas operacionais divulgadas no
+
+  Serviço de Informações Aeronáuticas
+
+  (AIS); e
+
+  (9)
+
+  monitorar o cumprimento das medidas e limitações operacionais divulgadas no AIS por parte
+  de operadores aéreos e aeronavegantes e informar à ANAC a ocorrência de descumprimento.'
+keywords:
+- seguranca-aeroportuaria
+- heliponto
+- medidas
+- operacionais
+- atividades
+- divulgadas
+- pessoal
+- aereos
+- aeronauticas
+- aeronavegantes
+- analise
+- consulta
+- controle
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

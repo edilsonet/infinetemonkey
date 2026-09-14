@@ -1,0 +1,34 @@
+id: rbac-rbac-91-91-1031-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1031'
+section_title: 'Piloto em comando ou segundo em comando: designação requerida'
+subsection_id: a
+cite: 91.1031(a)
+title: 91.1031(a)
+text: '(a) Cada administrador de programa deve designar:
+
+  (1) um piloto em comando para cada voo do programa; e
+
+  (2) um piloto segundo em comando para cada voo do programa que requeira dois pilotos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- comando
+- cada
+- piloto
+- programa
+- segundo
+- administrador
+- designacao
+- designar
+- dois
+- pilotos
+- requeira
+- requerida
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

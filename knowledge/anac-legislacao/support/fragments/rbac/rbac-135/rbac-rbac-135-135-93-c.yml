@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-93-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.93'
+section_title: 'Piloto automático: altitudes mínimas de utilização para aviões'
+subsection_id: c
+cite: 135.93(c)
+title: 135.93(c)
+text: '(c) Em rota. É vedado utilizar um piloto automático em rota, incluindo a subida e a
+  descida, a uma altura menor que a maior altura entre:
+
+  (1) 500 pés;
+
+  (2) duas vezes a perda máxima de altura para mau funcionamento do piloto automático para
+  condições de cruzeiro, conforme estabelecido no manual de voo do avião; e
+
+  (3) uma altura mínima especificada pela ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- altura
+- automatico
+- piloto
+- rota
+- altitudes
+- aviao
+- avioes
+- condicoes
+- cruzeiro
+- descida
+- duas
+- especificada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

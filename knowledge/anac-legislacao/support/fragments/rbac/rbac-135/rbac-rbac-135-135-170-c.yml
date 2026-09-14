@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-170-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.170'
+section_title: Materiais para interiores
+subsection_id: c
+cite: 135.170(c)
+title: 135.170(c)
+text: '(c) Materiais de isolamento térmico/acústico. Para aviões categoria transporte com
+  certificação de tipo emitida após 1º de janeiro de 1958:
+
+  (1) para aviões fabricados antes de 2 de setembro de 2005, quando um isolamento térmico
+  acústico for instalado na fuselagem em substituição ao existente, esse isolamento deve atender
+  aos requisitos de propagação de chamas da seção 25.856 do RBAC nº 25, vigente em 22 de setembro
+  de 2009, se:'
+keywords:
+- taxi-aereo
+- operacoes
+- isolamento
+- acustico
+- avioes
+- materiais
+- setembro
+- termico
+- atender
+- categoria
+- certificacao
+- chamas
+- emitida
+- existente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,55 @@
+id: rbac-rbac-119-119-71-g
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.71'
+section_title: 'Pessoal de administração: qualificações para operações conduzidas segundo
+  o RBAC'
+subsection_id: g
+cite: 119.71(g)
+title: 119.71(g)
+text: '(g) O detentor de certificado deve designar um Gestor Responsável, que seja a pessoa
+  única e
+
+  identificável na estrutura organizacional do detentor de certificado que, independentemente
+  de outras
+
+  atribuições, possua as seguintes prerrogativas:
+
+  (1) tenha a autoridade final sobre as operações conduzidas sob os regulamentos aplicáveis
+  ao
+
+  detentor de certificado;
+
+
+  Data da emissão: 11 de fevereiro de 2021.
+
+
+  (2) decida sobre a alocação de recursos humanos, financeiros e técnicos do detentor de
+
+  certificado; e
+
+  (3) seja o responsável por prestar contas pelo desempenho de segurança operacional do detentor
+
+  de certificado.
+
+  (Incluído pela Resolução nº 503, de 07.02.2019)'
+keywords:
+- certificacao-de-operador
+- operacoes
+- certificado
+- detentor
+- conduzidas
+- responsavel
+- seja
+- administracao
+- alocacao
+- aplicaveis
+- atribuicoes
+- autoridade
+- contas
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

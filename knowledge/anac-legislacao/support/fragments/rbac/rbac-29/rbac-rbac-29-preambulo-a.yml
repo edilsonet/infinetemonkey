@@ -1,0 +1,90 @@
+id: rbac-rbac-29-preambulo-a
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: a
+cite: preambulo(a)
+title: preambulo(a)
+text: '(a)
+
+  The takeoff path extends from the point of commencement of the takeoff procedure to a point
+  at which
+
+  the rotorcraft is 1,000 feet above the takeoff surface and compliance with § 29.67(a)(2)
+  is shown. In
+
+  addition -
+
+  (1)
+
+  The takeoff path must remain clear of the height-velocity envelope established in accordance
+  with
+
+  § 29.87;
+
+  (2)
+
+  The rotorcraft must be flown to the engine failure point; at which point, the critical engine
+  must be
+
+  made inoperative and remain inoperative for the rest of the takeoff;
+
+  (3)
+
+  After the critical engine is made inoperative, the rotorcraft must continue to the takeoff
+  decision
+
+  point, and then attain VTOSS;
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR 29.51
+
+  14 CFR 29.59(a)(3) (enhanced display)
+
+  page 16 of 167
+
+
+  § 29.60 Elevated heliport takeoff path: Category A.
+
+  § 29.61 Takeoff distance: Category A.
+
+  (4)
+
+  Only primary controls may be used while attaining VTOSS and while establishing a positive
+  rate of
+
+  climb. Secondary controls that are located on the primary controls may be used after a positive
+  rate
+
+  of climb and VTOSS are established but in no case less than 3 seconds after the critical
+  engine is
+
+  made inoperative; and
+
+  (5)
+
+  After attaining VTOSS and a positive rate of a climb, the landing gear may be retracted.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- takeoff
+- point
+- after
+- engine
+- inoperative
+- must
+- vtoss
+- category
+- climb
+- controls
+- critical
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

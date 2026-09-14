@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-429-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.429'
+section_title: Requisitos para pessoal de inspeção obrigatória
+subsection_id: b
+cite: 135.429(b)
+title: 135.429(b)
+text: (b) Somente é permitido autorizar uma pessoa executar inspeções obrigatórias se essa
+  pessoa executar a inspeção sob a supervisão e o controle de um inspetor-chefe.
+keywords:
+- taxi-aereo
+- operacoes
+- executar
+- inspecao
+- pessoa
+- autorizar
+- chefe
+- controle
+- inspecoes
+- inspetor
+- obrigatoria
+- obrigatorias
+- permitido
+- pessoal
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-421-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.421'
+section_title: Requisitos adicionais de manutenção
+subsection_id: d
+cite: 135.421(d)
+title: 135.421(d)
+text: (d) Para avião monomotor utilizado em operações IFR transportando passageiros, são requeridas
+  instruções de manutenção escritas contendo os métodos, técnicas e práticas necessárias para
+  manter os equipamentos especificados na seção 135.105 e nos parágrafos (a)(6) e (a)(8) da
+  seção 135.163.
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- secao
+- adicionais
+- aviao
+- contendo
+- equipamentos
+- escritas
+- especificados
+- instrucoes
+- manter
+- metodos
+- monomotor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

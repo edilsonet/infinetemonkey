@@ -1,0 +1,35 @@
+id: rbac-rbac-139-139-311-v
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.311'
+section_title: Conteúdo do MOPS
+subsection_id: v
+cite: 139.311(v)
+title: 139.311(v)
+text: '(v) sistemas elétricos primário e secundário;
+
+  (5) lista de níveis equivalentes de segurança e isenções concedidos pela ANAC, bem como
+  os procedimentos identificados como medidas mitigadoras adicionais;
+
+  (6) especificações operativas do aeródromo:'
+keywords:
+- aerodromos
+- infraestrutura
+- adicionais
+- aerodromo
+- concedidos
+- conteudo
+- eletricos
+- equivalentes
+- especificacoes
+- identificados
+- isencoes
+- lista
+- medidas
+- mitigadoras
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

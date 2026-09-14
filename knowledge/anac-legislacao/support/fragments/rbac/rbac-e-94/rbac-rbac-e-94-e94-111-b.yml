@@ -1,0 +1,34 @@
+id: rbac-rbac-e-94-e94-111-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.111
+section_title: Áreas de pousos e decolagens para aeronaves não tripuladas
+subsection_id: b
+cite: E94.111(b)
+title: E94.111(b)
+text: '(b) Pousos e decolagens de RPA podem ser realizados, sob total responsabilidade do
+  piloto remoto em comando e/ou do operador, conforme aplicável, desde que:
+
+  (1) o pouso ou a decolagem seja feito em áreas distantes de terceiros, com exceção dos operadores
+  citados nos parágrafos E94.103(g), (h) ou (i), que poderão pousar e decolar, sob sua inteira
+  responsabilidade; e
+
+  (2) não haja proibição de operação no local escolhido.'
+keywords:
+- areas
+- decolagens
+- pousos
+- responsabilidade
+- aeronaves
+- aplicavel
+- citados
+- comando
+- decolagem
+- decolar
+- desde
+- distantes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

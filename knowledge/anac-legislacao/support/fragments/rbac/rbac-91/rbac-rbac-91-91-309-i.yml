@@ -1,0 +1,55 @@
+id: rbac-rbac-91-91-309-i
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.309'
+section_title: Reboque de planadores
+subsection_id: i
+cite: 91.309(i)
+title: 91.309(i)
+text: '(i) existir um elo de segurança, instalado no ponto de ligação do cabo ao planador,
+  com uma
+
+  resistência a quebra não menor do que 80% do peso máximo aprovado para operação do planador
+  e
+
+  não maior do que duas vezes esse peso de operação; e
+
+  (ii) existir um elo de segurança, instalado no ponto de ligação do cabo à aeronave rebocadora,
+
+  com uma resistência a quebra não maior que 1,25 vezes a resistência do elo de segurança
+  existente
+
+  entre o cabo e o planador e não maior que duas vezes o peso máximo aprovado para operação
+  do
+
+  planador;
+
+  (4) [reservado]; e
+
+  (5) os pilotos do rebocador e do planador tiverem acertado entre si ações a serem tomadas
+
+  durante as operações, tais como: sinais de decolagem e de liberação do planador, velocidades
+  e
+
+  procedimentos de emergência para cada piloto.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- planador
+- cabo
+- maior
+- operacao
+- peso
+- resistencia
+- seguranca
+- vezes
+- aprovado
+- duas
+- existir
+- instalado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

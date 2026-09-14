@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-183-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.183'
+section_title: 'Requisitos de desempenho: aeronaves terrestres operando sobre água'
+subsection_id: c
+cite: 135.183(c)
+title: 135.183(c)
+text: (c) ela for uma aeronave multimotora operada a um peso que permita uma subida, com o
+  motor crítico inoperante, de pelo menos 50 pés/minuto a uma altitude de 1000 pés acima da
+  superfície; ou
+keywords:
+- taxi-aereo
+- operacoes
+- acima
+- aeronave
+- aeronaves
+- agua
+- altitude
+- critico
+- desempenho
+- inoperante
+- menos
+- minuto
+- motor
+- multimotora
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

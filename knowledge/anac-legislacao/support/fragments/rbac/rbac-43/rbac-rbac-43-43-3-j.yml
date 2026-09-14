@@ -1,0 +1,53 @@
+id: rbac-rbac-43-43-3-j
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.3'
+section_title: Pessoas autorizadas a executar manutenção, manutenção preventiva, reconstrução
+  e
+subsection_id: j
+cite: 43.3(j)
+title: 43.3(j)
+text: '(j) Um fabricante pode:
+
+  (1) reconstruir, reparar ou alterar qualquer artigo fabricado por ele, conforme um certificado
+
+  de tipo ou conforme um certificado de organização de produção.
+
+  (2) reconstruir, reparar ou alterar qualquer artigo fabricado por ele, conforme uma Ordem
+
+  Técnica Padrão (OTP), um Atestado de Produto Aeronáutico Aprovado (APAA), ou uma
+
+  Especificação de Produto ou Processo aprovada pela ANAC; e
+
+  (3) executar qualquer inspeção requerida pelo RBAC nº 91 em aeronave por ele fabricada,
+
+  enquanto essa aeronave estiver sob um certificado de organização de produção ou sob um sistema
+
+
+  Data da emissão: 15 de março de 2021
+
+
+  de inspeção de produção aprovado para tal aeronave. (Redação dada pela Resolução nº 612,
+  de
+
+  09.03.2021)'
+keywords:
+- manutencao
+- aeronavegabilidade
+- aeronave
+- certificado
+- producao
+- alterar
+- aprovado
+- artigo
+- executar
+- fabricado
+- inspecao
+- organizacao
+- produto
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

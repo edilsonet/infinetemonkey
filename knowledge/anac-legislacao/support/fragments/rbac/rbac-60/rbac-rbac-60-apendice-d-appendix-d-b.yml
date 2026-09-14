@@ -1,0 +1,1677 @@
+id: rbac-rbac-60-apendice-d-appendix-d-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: apendice-d-appendix-d
+section_title: APÊNDICE D (APPENDIX D)
+subsection_id: b
+cite: apendice-d-appendix-d(b)
+title: apendice-d-appendix-d(b)
+text: '(b) Exceto para FTD nível 4, cada FTD
+
+  deve possuir um QTG, aceito pela ANAC,
+
+  contendo:
+
+  (1) Objective data obtained from
+
+  traditional aircraft testing or another approved
+
+  source;
+
+  (1) Dados objetivos obtidos de ensaio
+
+  em voo da aeronave ou outra fonte de dados
+
+  aprovada;
+
+  (2) The results of FTD objective tests;
+
+  (2) Os resultados dos testes objetivos do
+
+  FTD;
+
+  (3) The results of FTD subjective tests;
+
+  and
+
+  (3) Os resultados dos testes subjetivos
+
+  do FTD; e
+
+  (4) A description of the equipment
+
+  necessary to perform the evaluation for initial
+
+  qualification and the continuing qualification
+
+  evaluations.
+
+  (4) Uma descrição do equipamento
+
+  necessário para executar as avaliações para
+
+  qualificação inicial e para qualificação
+
+  recorrente.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table D1 - General technical requirements for FTD levels - Helicopter
+
+
+  FTD Level
+
+  General technical requirements
+
+  4
+
+  A Level 4 device is one that may have an open helicopter-specific flight deck area, or
+
+  an enclosed helicopter-specific flight deck and at least one operating system.
+
+  Air/ground logic is required (no aerodynamic programming required). All displays
+
+  may be flat/LCD panel representations or actual representations of displays in the
+
+  aircraft.
+
+  All controls, switches, and knobs may be touch sensitive activation (not capable of
+
+  manual manipulation of the flight controls) or may physically replicate the aircraft in
+
+  control operation.
+
+  See table D2 for more FTD requirements.
+
+  5
+
+  A Level 5 device is one that may have an open helicopter-specific flight deck area, or
+
+  an enclosed helicopter-specific flight deck and a generic aerodynamic programming
+
+  with at least one operating system and control loading representative of the simulated
+
+  helicopter.
+
+  The control loading need only represent the helicopter at an approach speed and
+
+  configuration.
+
+  All displays may be flat/LCD panel representations or actual representations of
+
+  displays in the aircraft. Primary and secondary flight controls (e.g., rudder, aileron,
+
+  elevator, flaps, spoilers/speed brakes, engine controls, landing gear, nosewheel
+
+  steering, trim, brakes) must be physical controls.
+
+  All other controls, switches, and knobs may be touch sensitive activation.
+
+  See table D2 for more FTD requirements.
+
+  6
+
+  A Level 6 device is one that has an enclosed helicopter-specific flight deck and
+
+  aerodynamic program with all applicable helicopter systems operating and control
+
+  loading that is representative of the simulated helicopter throughout its ground and
+
+  flight envelope and significant sound representation.
+
+  All displays may be flat/LCD panel representations or actual representations of
+
+  displays in the aircraft, but all controls, switches, and knobs must physically replicate
+
+  the aircraft in control operation.
+
+  See table D2 for more FTD requirements.
+
+  7
+
+  A Level 7 device is one that has an enclosed helicopter-specific flight deck and
+
+  aerodynamic program with all applicable helicopter systems operating and control
+
+  loading that is representative of the simulated helicopter throughout its ground and
+
+  flight envelope and significant sound representation.
+
+  All displays may be flat/LCD panel representations or actual representations of
+
+  displays in the aircraft, but all controls, switches, and knobs must physically replicate
+
+  the aircraft in control operation. It also has a visual system that provides an out-of-the-
+
+  flight deck view, providing cross-flight deck viewing (for both pilots simultaneously)
+
+  of a field-of-view of at least 146° horizontally and 36° vertically as well as a vibration
+
+  cueing system for characteristic helicopter vibrations noted at the pilot station(s).
+
+  See table D2 for more FTD requirements.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table D2- General FTD Requirements
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  1.
+
+  General Flight deck Configuration.
+
+  See next
+
+  None
+
+  1.a.
+
+  The FTD must have a flight deck that is a replica of the helicopter, or set of
+
+  helicopters simulated with controls, equipment, observable flight deck
+
+  indicators, circuit breakers, and bulkheads properly located, functionally
+
+  accurate and replicating the helicopter or set of helicopters. The direction of
+
+  movement of controls and switches must be identical to that in the helicopter
+
+  or set of helicopters.
+
+  Crewmember seats must afford the capability for the occupant to be able to
+
+  achieve the design “eye position.” Equipment for the operation of the flight
+
+  deck windows must be included, but the actual windows need not be
+
+  operable. Those circuit breakers that affect procedures or result in observable
+
+  flight deck indications must be properly located and functionally accurate.
+
+  Fire axes, extinguishers, landing gear pins, and spare light bulbs must be
+
+  available, and may be represented in silhouette, in the flight simulator. This
+
+  equipment must be present as near as practical to the original position.
+
+  6,7
+
+  For FTD purposes, the flight deck consists of
+
+  all that space forward of a cross section of the
+
+  flight deck at the most extreme aft setting of
+
+  the pilots’ seats including additional, required
+
+  crewmember duty stations and those required
+
+  bulkheads aft of the pilot seats.
+
+  Bulkheads containing only items such as
+
+  landing gear pin storage compartments, fire
+
+  axes and extinguishers, spare light bulbs, and
+
+  aircraft documents pouches are not considered
+
+  essential and may be omitted. If omitted, these
+
+  items, or the silhouettes of these items, may be
+
+  placed on the wall of the simulator, or in any
+
+  other location as near as practical to the
+
+  original position of these items.
+
+  1.b.
+
+  The FTD must have equipment (i.e., instruments, panels, systems, circuit
+
+  breakers, and controls) simulated sufficiently for the authorized
+
+  training/checking events to be accomplished. The installed equipment, must
+
+  be located in a spatially correct configuration, and may be in a flight deck or
+
+  an open flight deck area. Those circuit breakers that affect procedures or
+
+  result in observable flight deck indications must be properly located and
+
+  functionally accurate. Additional equipment required for the authorized
+
+  training and checking events must be available in the FTD but may be
+
+  located in a suitable location as near as practical to the spatially correct
+
+  position. Actuation of this equipment must replicate the appropriate function
+
+  in the helicopter.
+
+  4,5
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  Fire axes, landing gear pins, and any similar purpose instruments need only
+
+  be represented in silhouette.
+
+  2.
+
+  Programming.
+
+  See next
+
+  None
+
+  2.a.
+
+  The FTD must provide the proper effect of aerodynamic changes for the
+
+  combinations of drag and thrust normally encountered in flight. This must
+
+  include the effect of change in helicopter attitude, thrust, drag, altitude,
+
+  temperature, and configuration.
+
+  Levels 6 and 7 additionally require the effects of changes in gross weight and
+
+  center of gravity.
+
+  Level 5 requires only generic aerodynamic programming. An SOC is
+
+  required.
+
+  5,6,7
+
+  None
+
+  2.b.
+
+  The FTD must have the computer (analog or digital) capability (i.e.,
+
+  capacity, accuracy, resolution, and dynamic response) needed to meet the
+
+  qualification level sought.
+
+  An SOC is required.
+
+  4,5,6,7
+
+  None
+
+  2.c.
+
+  Relative responses of the flight deck instruments must be measured by
+
+  latency tests or transport delay tests, and may not exceed 150 milliseconds.
+
+  The instruments must respond to abrupt input at the pilot’s position within
+
+  the allotted time, but not before the time that the helicopter or set of
+
+  helicopters respond under the same conditions.
+
+  ● Latency: The FTD instrument and, if applicable, the motion system and the
+
+  visual system response must not be prior to that time when the helicopter
+
+  responds and may respond up to 150 milliseconds after that time under the
+
+  same conditions.
+
+  ● Transport Delay: As an alternative to the Latency requirement, a transport
+
+  delay objective test may be used to demonstrate that the FTD system does
+
+  5,6,7
+
+  The intent is to verify that the FTD provides
+
+  instrument cues that are, within the stated
+
+  time delays, like the helicopter responses.
+
+  For helicopter response, acceleration in the
+
+  appropriate, corresponding rotational axis is
+
+  preferred.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  not exceed the specified limit. The sponsor must measure all the delay
+
+  encountered by a step signal migrating from the pilot’s control through all
+
+  the simulation software modules in the correct order, using a handshaking
+
+  protocol, finally through the normal output interfaces to the instrument
+
+  display and, if applicable, the motion system, and the visual system.
+
+  3.
+
+  Equipment Operation.
+
+  See next
+
+  None
+
+  3.a.
+
+  All relevant instrument indications involved in the simulation of the
+
+  helicopter must automatically respond to control movement or external
+
+  disturbances to the simulated helicopter or set of helicopters; e.g., turbulence
+
+  or winds.
+
+  4(a),5,6,7
+
+  None
+
+  3.b.
+
+  Navigation equipment must be installed and operate within the tolerances
+
+  applicable for the helicopter or set of helicopters.
+
+  Levels 6 and 7 must also include communication equipment (inter- phone
+
+  and air/ground) like that in the helicopter.
+
+  Level 5 only needs that navigation equipment necessary to fly an instrument
+
+  approach.
+
+  4(a),5,6,7
+
+  None
+
+  3.c.
+
+  Installed systems must simulate the applicable helicopter system operation
+
+  both on the ground and in flight. At least one helicopter system must be
+
+  represented. Systems must be operative to the extent that applicable normal,
+
+  abnormal, and emergency operating procedures included in the sponsor’s
+
+  training programs can be accomplished.
+
+  Levels 6 and 7 must simulate all applicable helicopter flight, navigation, and
+
+  systems operation.
+
+  Level 5 must have functional flight and navigational controls, displays, and
+
+  instrumentation.
+
+  4(a),5,6,7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  3.d.
+
+  The lighting environment for panels and instruments must be sufficient for
+
+  the operation being conducted.
+
+  4,5,6,7
+
+  Back-lighted panels and instruments may be
+
+  installed but are not required.
+
+  3.e.
+
+  The FTD must provide control forces and control travel that correspond to
+
+  the replicated helicopter or set of helicopters. Control forces must react in the
+
+  same manner as in the helicopter or set of helicopters under the same flight
+
+  conditions.
+
+  6,7
+
+  None
+
+  3.f.
+
+  The FTD must provide control forces and control travel of sufficient
+
+  precision to manually fly an instrument approach. The control forces must
+
+  react in the same manner as in the helicopter or set of helicopters under the
+
+  same flight conditions.
+
+  5
+
+  None
+
+  4.
+
+  Instructor or Evaluator Facilities.
+
+  See next
+
+  None
+
+  4.a.
+
+  In addition to the flight crewmember stations, suitable seating arrangements
+
+  for an instructor/check airman and ANAC Inspector must be available.
+
+  These seats must provide adequate view of crewmember’s panel(s).
+
+  4,5,6,7
+
+  These seats need not be a replica of an aircraft
+
+  seat and may be as simple as an office chair
+
+  placed in an appropriate position.
+
+  4.b.
+
+  The FTD must have instructor controls that permit activation of normal,
+
+  abnormal, and emergency conditions, as appropriate. Once activated, proper
+
+  system operation must result from system management by the crew and not
+
+  require input from the instructor controls.
+
+  4,5,6,7
+
+  None
+
+  5.
+
+  Motion System.
+
+  See next
+
+  None
+
+  5.a.
+
+  A motion system may be installed in an FTD. If installed, the motion system
+
+  operation must not be distracting. If a motion system is installed and
+
+  additional training, testing, or checking credits are being sought, sensory
+
+  cues must also be integrated. The motion system must respond to abrupt
+
+  input at the pilot’s position within the allotted time, but not before the time
+
+  when the helicopter responds under the same conditions. The motion system
+
+  must be measured by latency tests or transport delay tests and may not
+
+  exceed 150 milliseconds. Instrument response must not occur prior to motion
+
+  4,5,6,7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  onset.
+
+  5.b.
+
+  The FTD must have at least a vibration cueing system for characteristic
+
+  helicopter vibrations noted at the pilot station(s).
+
+  7
+
+  May be accomplished by a “seat shaker” or a
+
+  bass speaker sufficient to provide the necessary
+
+  cueing.
+
+  6.
+
+  Visual System.
+
+  See next
+
+  None
+
+  6.a.
+
+  The FTD may have a visual system, if desired, although it is not required. If
+
+  a visual system is installed, it must meet the following criteria:
+
+  See next
+
+  None
+
+  6.a.1.
+
+  The visual system must respond to abrupt input at the pilot’s position.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.2.
+
+  The visual system must be at least a single channel, non-collimated display.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.3.
+
+  The visual system must provide at least a field-of-view of 18° vertical / 24°
+
+  horizontal for the pilot flying.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.4.
+
+  The visual system must provide for a maximum parallax of 10° per pilot.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.5.
+
+  The visual scene content may not be distracting.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.6.
+
+  The minimum distance from the pilot’s eye position to the surface of a direct
+
+  view display may not be less than the distance to any front panel instrument.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.a.7.
+
+  The visual system must provide for a minimum resolution of 5 arc-minutes
+
+  4,5,6
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  for both computed and displayed pixel size.
+
+  An SOC is required.
+
+  6.b.
+
+  If a visual system is installed and additional training, testing, or checking
+
+  credits are being sought on the basis of having a visual system, a visual
+
+  system meeting the standards set out for at least a Level A FFS (see
+
+  Appendix A of this RBAC) will be required. A “direct- view,” non-
+
+  collimated visual system (with the other requirements for a Level A visual
+
+  system met) may be considered satisfactory for those installations where the
+
+  visual system design “eye point” is appropriately adjusted for each pilot’s
+
+  position such that the parallax error is at or less than 10º simultaneously for
+
+  each pilot.
+
+  An SOC is required.
+
+  4,5,6
+
+  None
+
+  6.c.
+
+  The FTD must provide a continuous visual field-of-view of at least 146°
+
+  horizontally and 36° vertically for both pilot seats, simultaneously. The
+
+  minimum horizontal field-of-view coverage must be plus and minus one-half
+
+  (½) of the minimum continuous field-of- view requirement, centered on the
+
+  zero degree azimuth line relative to the aircraft fuselage. Additional
+
+  horizontal field-of-view capability may be added at the sponsor’s discretion
+
+  provided the minimum field- of-view is retained. Capability for a field-of-
+
+  view in excess of these minima is not required for qualification at Level 7.
+
+  However, where specific tasks require extended fields of view beyond the
+
+  146° by 36° (e.g., to accommodate the use of “chin windows” where the
+
+  accommodation is either integral with or separate from the primary visual
+
+  system display), then such extended fields of view must be provided.
+
+  An SOC is required and must explain the geometry of the installation.
+
+  7
+
+  Optimization of the vertical field-of-view may
+
+  be considered with respect to the specific
+
+  helicopter flight deck cut-off angle. When
+
+  considering the installation/use of augmented
+
+  fields of view, as described here, it will be the
+
+  responsibility of the sponsor to meet with the
+
+  ANAC to determine the training, testing,
+
+  checking, or experience tasks for which the
+
+  augmented field-of-view capability may be
+
+  critical to that approval.
+
+  6.d.
+
+  A minimum of one (1) representative airport and one (1) representative
+
+  helicopter landing area model.
+
+  7
+
+  Each model must be acceptable to the ANAC,
+
+  selectable from the IOS, and listed on the SOQ
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General FTD Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  The airport and the helicopter landing area may be contained within the same
+
+  visual model. If this option is selected, the approach path to the airport
+
+  runway(s) and the approach path to the helicopter landing area must be
+
+  different. The model(s) used to meet the following requirements may be
+
+  demonstrated at either a fictional or a real-world airport or helicopter landing
+
+  area.
+
+  7.
+
+  Sound System
+
+  See next
+
+  None
+
+  7.a.
+
+  The FTD must simulate significant flight deck sounds resulting from
+
+  pilot actions that correspond to those heard in the helicopter.
+
+  6,7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table D3 - Minimum FTD Requirements - Subjective Requirements
+
+  The FTD must be able to perform the tasks associated with the level of qualification sought.
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  1.
+
+  1. Preflight Procedures.
+
+  See next
+
+  None
+
+  1.a.
+
+  Preflight Inspection (Flight deck Only) switches, indicators, systems, and equipment.
+
+  4(a),5(a),6,7
+
+  None
+
+  1.b.
+
+  APU/Engine start and run-up.
+
+  See next
+
+  None
+
+  1.b.1.
+
+  Normal start procedures.
+
+  4(a),5(a),6,7
+
+  None
+
+  1.b.2.
+
+  Alternate start procedures.
+
+  4(a),5(a),6,7
+
+  None
+
+  1.b.3.
+
+  Abnormal starts and shutdowns (hot start, hung start).
+
+  4(a),5(a),6,7
+
+  None
+
+  1.c.
+
+  Taxiing - Ground.
+
+  7
+
+  None
+
+  1.d.
+
+  Taxiing - Hover.
+
+  7
+
+  None
+
+  1.e.
+
+  Pre-takeoff Checks.
+
+  4(a),5(a),6,7
+
+  None
+
+  2.
+
+  2. Takeoff and Departure Phase.
+
+  See next
+
+  None
+
+  2.a.
+
+  Normal takeoff.
+
+  See next
+
+  None
+
+  2.a.1.
+
+  From ground.
+
+  7
+
+  None
+
+  2.a.2.
+
+  From hover.
+
+  7
+
+  None
+
+  2.a.3
+
+  Running.
+
+  7
+
+  None
+
+  2.b.
+
+  Instrument.
+
+  6,7
+
+  None
+
+  2.c.
+
+  Powerplant Failure During Takeoff.
+
+  6,7
+
+  None
+
+  2.d.
+
+  Rejected Takeoff.
+
+  7
+
+  None
+
+  2.e.
+
+  Instrument Departure.
+
+  6,7
+
+  None
+
+  3.
+
+  3. Climb.
+
+  See next
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  3.a.
+
+  Normal.
+
+  6,7
+
+  None
+
+  3.b.
+
+  Obstacle clearance.
+
+  7
+
+  None
+
+  3.c.
+
+  Vertical.
+
+  6,7
+
+  None
+
+  3.d.
+
+  One engine inoperative.
+
+  6,7
+
+  None
+
+  4.
+
+  4. In-flight Maneuvers.
+
+  See next
+
+  None
+
+  4.a.
+
+  Turns (timed, normal, steep).
+
+  5,6,7
+
+  None
+
+  4.b.
+
+  Powerplant Failure - Multiengine Helicopters.
+
+  6,7
+
+  None
+
+  4.c.
+
+  Powerplant Failure - Single-Engine Helicopters.
+
+  6,7
+
+  None
+
+  4.d.
+
+  Recovery From Unusual Attitudes.
+
+  7
+
+  None
+
+  4.e.
+
+  Settling with Power.
+
+  7
+
+  None
+
+  5.
+
+  5. Instrument Procedures.
+
+  See next
+
+  None
+
+  5.a.
+
+  Instrument Arrival.
+
+  6,7
+
+  None
+
+  5.b.
+
+  Holding.
+
+  6,7
+
+  None
+
+  5.c.
+
+  Precision Instrument Approach.
+
+  See next
+
+  None
+
+  5.c.1.
+
+  Normal - All engines operating.
+
+  5,6,7
+
+  None
+
+  5.c.2.
+
+  Manually controlled - One or more engines inoperative.
+
+  6,7
+
+  None
+
+  5.d.
+
+  Non-precision Instrument Approach.
+
+  5,6,7
+
+  None
+
+  5.e.
+
+  Missed Approach.
+
+  See next
+
+  None
+
+  5.e.1.
+
+  All engines operating.
+
+  6,7
+
+  None
+
+  5.e.2.
+
+  One or more engines inoperative.
+
+  6,7
+
+  None
+
+  5.e.3.
+
+  Stability augmentation system failure.
+
+  6,7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  6.
+
+  6. Landings and Approaches to Landings
+
+  See next
+
+  None
+
+  6.a.
+
+  Visual Approaches (normal, steep, shallow).
+
+  5,6,7
+
+  None
+
+  6.b.
+
+  Landings.
+
+  See next
+
+  None
+
+  6.b.1.
+
+  Normal/crosswind.
+
+  See next
+
+  None
+
+  6.b.1.a.
+
+  Running.
+
+  7
+
+  None
+
+  6.b.1.b.
+
+  From Hover.
+
+  7
+
+  None
+
+  6.b.2.
+
+  One or more engines inoperative.
+
+  7
+
+  None
+
+  6.b.3.
+
+  Rejected Landing.
+
+  7
+
+  None
+
+  7.
+
+  7. Normal and Abnormal Procedures.
+
+  See next
+
+  None
+
+  7.a.
+
+  Powerplant.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.b.
+
+  Fuel System.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.c.
+
+  Electrical System.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.d.
+
+  Hydraulic System.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.e.
+
+  Environmental System(s).
+
+  4(a),5(a),6,7
+
+  None
+
+  7.f.
+
+  Fire Detection and Extinguisher Systems.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.g.
+
+  Navigation and Aviation Systems.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.h.
+
+  Automatic Flight Control System, Electronic Flight Instrument System, and Related
+
+  Subsystems.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.i.
+
+  Flight Control Systems.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.j.
+
+  Anti-ice and Deice Systems.
+
+  4(a),5(a),6,7
+
+  None
+
+  7.k.
+
+  Aircraft and Personal Emergency Equipment.
+
+  4(a),5(a),6,7
+
+  None
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD Level
+
+  Notes/Information
+
+  7.l.
+
+  Special Missions tasks (e.g., Night Vision goggles, Forward Looking Infrared System,
+
+  External Loads and as listed on the SOQ.)
+
+  7
+
+  None
+
+  8.
+
+  8. Emergency procedures (as applicable).
+
+  See next
+
+  None
+
+  8.a.
+
+  Emergency Descent.
+
+  6,7
+
+  None
+
+  8.b.
+
+  Inflight Fire and Smoke Removal.
+
+  6,7
+
+  None
+
+  8.c.
+
+  Emergency Evacuation.
+
+  6,7
+
+  None
+
+  8.d.
+
+  Ditching.
+
+  7
+
+  None
+
+  8.e.
+
+  Autorotative Landing.
+
+  7
+
+  None
+
+  8.f.
+
+  Retreating blade stall recovery.
+
+  7
+
+  None
+
+  8.g.
+
+  Mast bumping.
+
+  7
+
+  None
+
+  8.h.
+
+  Loss of tail rotor effectiveness.
+
+  6,7
+
+  None
+
+  9.
+
+  9. Postflight Procedures.
+
+  See next
+
+  None
+
+  9.a
+
+  After-Landing Procedures.
+
+  4(a),5(a),6,7
+
+  None
+
+  9.b.
+
+  Parking and Securing.
+
+  See next
+
+  None
+
+  9.b.1.
+
+  Rotor brake operation.
+
+  4(a),5(a),6,7
+
+  None
+
+  9.b.2.
+
+  Abnormal/emergency procedures.
+
+  4(a),5(a),6,7
+
+  None
+
+  Note: An “(a)” in the table indicates that the system, task, or procedure may be examined
+  if the appropriate aircraft system or control is simulated
+
+  in the FTD and is working properly.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table D4 - Table of FTD System Tasks - Subjective Requirements
+
+  In order to be qualified at the FTD qualification level indicated, the FTD must be able
+  to perform at least the tasks associate with that level of
+
+  qualification.
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  FTD
+
+  Level
+
+  Notes/Information
+
+  1.
+
+  Instructor Operating Station (IOS).
+
+  See next
+
+  None
+
+  1.a.
+
+  Power switch(es).
+
+  4(a),5,6,7
+
+  None
+
+  1.b.
+
+  Helicopter conditions.
+
+  4(a),5(a),6,7
+
+  e.g., GW, CG, Fuel
+
+  loading,
+
+  Systems, Ground. Crew
+
+  1.c.
+
+  Airports / Heliports / Helicopter Landing Areas
+
+  4(a),5,6,7
+
+  e.g., Selection, Surface,
+
+  Presets, Lighting controls.
+
+  1.d.
+
+  Environmental controls.
+
+  4(a),5,6,7
+
+  e.g., Temp and Wind.
+
+  1.e.
+
+  Helicopter system malfunctions (Insertion / deletion)
+
+  4(a),5(a),6,7
+
+  None
+
+  1.f.
+
+  Locks, Freezes, and Repositioning (as appropriate).
+
+  4(a),5,6,7
+
+  None
+
+  1.g.
+
+  Sound Controls. (On / off / adjustment)
+
+  5,6,7
+
+  None
+
+  1.fh
+
+  Motion / Control Loading System, as appropriate. On / off / emergency stop
+
+  5(a),6,7
+
+  None
+
+  2.
+
+  Observer Seats / Stations.
+
+  See next
+
+  None
+
+  2.a.
+
+  Position / Adjustment / Positive restraint system.
+
+  4(a),5,6,7
+
+  None
+
+  Note: An “A” in the table indicates that the system, task, or procedure may be examined
+  if the appropriate simulator system or control is in the
+
+  FTD and is working properly.
+
+
+  Data da emissão: 20 de março de 2020'
+keywords:
+- simuladores
+- treinamento
+- none
+- must
+- system
+- helicopter
+- flight
+- that
+- level
+- next
+- requirements
+- deck
+- visual
+- control
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

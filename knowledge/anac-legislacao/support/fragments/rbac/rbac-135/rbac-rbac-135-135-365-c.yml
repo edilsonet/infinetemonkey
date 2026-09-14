@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-365-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.365'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de peso'
+subsection_id: c
+cite: 135.365(c)
+title: 135.365(c)
+text: (c) É vedado designar ou aceitar a designação, para um grande avião categoria transporte,
+  de um aeródromo de alternativa localizado em uma altitude fora da faixa de altitudes na
+  qual os pesos máximos de pouso desse avião foram determinados.
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- categoria
+- transporte
+- aceitar
+- aerodromo
+- alternativa
+- altitude
+- altitudes
+- avioes
+- convencionais
+- designacao
+- designar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

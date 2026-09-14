@@ -1,0 +1,63 @@
+id: rbac-rbac-27-a27-4-body
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: A27.4
+section_title: Airworthiness Limitations section.
+subsection_id: body
+cite: A27.4
+title: Airworthiness Limitations section.
+text: 'A27.4 Airworthiness Limitations section.
+
+  The Instructions for Continued Airworthiness must contain a section, titled Airworthiness
+  Limitations that is
+
+  segregated and clearly distinguishable from the rest of the document. This section must
+  set forth each mandatory
+
+  replacement time, structural inspection interval, and related structural inspection procedure
+  required for type
+
+  certification. If the Instructions for Continued Airworthiness consist of multiple documents,
+  the section required by
+
+  this paragraph must be included in the principal manual. This section must contain a legible
+  statement in a
+
+  prominent location that reads: “The Airworthiness Limitations section is FAA approved and
+  specifies inspections
+
+  and other maintenance required under §§ 43.16 and 91.403 of the Federal Aviation Regulations
+  unless an
+
+  alternative program has been FAA approved.”
+
+  Appendix B to Part 27 - Airworthiness Criteria for Helicopter Instrument Flight
+
+  (4)
+
+  Other general procedural instructions including procedures for system testing during ground
+
+  running, symmetry checks, weighing and determining the center of gravity, lifting and shoring,
+  and
+
+  storage limitations.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- airworthiness
+- section
+- limitations
+- must
+- instructions
+- required
+- this
+- approved
+- contain
+- continued
+- inspection
+- other
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

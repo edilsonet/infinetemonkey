@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-242-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.242'
+section_title: 'Tripulação de voo: geral'
+subsection_id: b
+cite: 135.242(b)
+title: 135.242(b)
+text: '(b) No caso de um novo tipo de aeronave, o detentor de certificado pode utilizar como
+  piloto em comando da aeronave um piloto do fabricante e/ou vendedor da mesma, até que um
+  número suficiente de seus pilotos em comando atinja as marcas estabelecidas pelas seções
+  135.243 e 135.244 deste Regulamento, conforme aplicável, mas, em nenhum caso, por mais de
+  180 dias corridos após o recebimento formal da primeira aeronave do novo tipo. Adicionalmente:
+
+  (1) deve haver um contrato entre o fabricante e/ou vendedor da aeronave e o detentor de
+  certificado, prevendo fornecimento de treinamento no novo tipo de aeronave; e
+
+  (2) o(s) piloto(s) do fabricante e/ou vendedor da aeronave deve(m) possuir contrato de trabalho
+  com o mesmo e deve(m) ser qualificado(s) pela ANAC conforme estabelecido no parágrafo 135.244(b)(3)
+  deste Regulamento ou, se estrangeiro, deve ser aprovado pela ANAC, conforme o disposto no
+  art. 158 da Lei nº 7.565, de 19 de dezembro de 1986.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- fabricante
+- novo
+- piloto
+- tipo
+- vendedor
+- caso
+- certificado
+- comando
+- contrato
+- deste
+- detentor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-136-136-41-body
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.41'
+section_title: Prerrogativas do detentor de certificado
+subsection_id: body
+cite: '136.41'
+title: Prerrogativas do detentor de certificado
+text: '136.41 Prerrogativas do detentor de certificado
+
+  O detentor de certificado pode realizar SAE-panorâmico nos locais listados nas suas EO,
+  caso o seu
+
+  certificado não esteja suspenso ou revogado pela ANAC.'
+keywords:
+- turismo
+- operacoes
+- certificado
+- detentor
+- prerrogativas
+- caso
+- esteja
+- listados
+- locais
+- panoramico
+- pode
+- realizar
+- revogado
+- suspenso
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

@@ -1,0 +1,20 @@
+id: rbac-rbac-110-emd-02-110-61-body
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.61'
+section_title: Certificado AVSEC
+subsection_id: body
+cite: '110.61'
+title: Certificado AVSEC
+text: 110.61 Certificado AVSEC
+keywords:
+- carga
+- operacoes
+- avsec
+- certificado
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

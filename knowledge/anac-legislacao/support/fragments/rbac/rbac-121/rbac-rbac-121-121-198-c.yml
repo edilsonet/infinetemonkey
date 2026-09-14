@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-198-c
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.198'
+section_title: 'Aviões categoria transporte cargueiros: aumento dos pesos zero combustível
+  e de pouso'
+subsection_id: c
+cite: 121.198(c)
+title: 121.198(c)
+text: (c) Nenhum peso zero combustível pode ser aumentado mais de 5% e o aumento no peso estrutural
+  de pouso não pode exceder a quantidade, em libras, do aumento do peso zero combustível.
+keywords:
+- transporte-aereo
+- operacoes
+- aumento
+- combustivel
+- peso
+- zero
+- pode
+- pouso
+- aumentado
+- avioes
+- cargueiros
+- categoria
+- estrutural
+- exceder
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

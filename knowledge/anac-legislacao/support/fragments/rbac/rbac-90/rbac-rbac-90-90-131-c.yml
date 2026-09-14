@@ -1,0 +1,42 @@
+id: rbac-rbac-90-90-131-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.131'
+section_title: Requisitos gerais
+subsection_id: c
+cite: 90.131(c)
+title: 90.131(c)
+text: '(c) O SGSO do órgão ou ente público deverá:
+
+  (1) ser estabelecido de acordo com a estrutura prevista neste Regulamento;
+
+  (2) ser compatível com o tamanho e a complexidade das operações da UAP;
+
+  (3) ser voltado ao alcance do NADSO;
+
+  (4) desenvolver, implantar e executar o monitoramento com mensuração do desempenho de segurança
+  operacional; e
+
+  (5) ser eficiente na identificação e resolução de suas deficiências sistêmicas afetas à
+  segurança operacional requerida para a execução das atividades aéreas.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- acordo
+- aereas
+- afetas
+- alcance
+- atividades
+- compativel
+- complexidade
+- deficiencias
+- desempenho
+- desenvolver
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

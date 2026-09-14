@@ -1,0 +1,32 @@
+id: rbac-rbac-90-90-375-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.375'
+section_title: Equipamentos para amarração da carga externa
+subsection_id: c
+cite: 90.375(c)
+title: 90.375(c)
+text: (c) Caso exista alguma dúvida sobre a integridade estrutural do estropo, rede, corda,
+  cabo ou outro equipamento, o item não deverá ser utilizado até que seja inspecionado e,
+  se necessário, descartado pela UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- alguma
+- amarracao
+- cabo
+- carga
+- caso
+- corda
+- descartado
+- devera
+- duvida
+- equipamento
+- equipamentos
+- estropo
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,55 @@
+document: rbac-103
+kind: rbac
+title: RBAC 103 EMD 01
+ementa: Operação Aerodesportiva em Aeronaves sem Certificado de Aeronavegabilidade. Em vigor
+  em 1º de dezembro de 2021.
+family: '103'
+categories:
+- ultraleves
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103/@@display-file/arquivo_norma/RBAC103EMD01.pdf
+archive_url: ''
+language: pt
+foreign_annex: false
+sections:
+- '103.1'
+- '103.11'
+- '103.13'
+- '103.15'
+- '103.3'
+- '103.5'
+- '103.7'
+- '103.701'
+- preambulo
+fragment_count: 28
+fragment_ids:
+- rbac-rbac-103-preambulo-body
+- rbac-rbac-103-103-1-body
+- rbac-rbac-103-103-5-body
+- rbac-rbac-103-103-7-body
+- rbac-rbac-103-103-11-body
+- rbac-rbac-103-103-13-body
+- rbac-rbac-103-103-15-body
+- rbac-rbac-103-103-701-body
+- rbac-rbac-103-103-1-a
+- rbac-rbac-103-103-1-b
+- rbac-rbac-103-103-1-i
+- rbac-rbac-103-103-3-body
+- rbac-rbac-103-103-7-a
+- rbac-rbac-103-103-7-b
+- rbac-rbac-103-103-7-c
+- rbac-rbac-103-103-7-d
+- rbac-rbac-103-103-11-a
+- rbac-rbac-103-103-11-b
+- rbac-rbac-103-103-11-c
+- rbac-rbac-103-103-11-d
+- rbac-rbac-103-103-11-e
+- rbac-rbac-103-103-11-f
+- rbac-rbac-103-103-15-a
+- rbac-rbac-103-103-15-b
+- rbac-rbac-103-103-15-c
+- rbac-rbac-103-103-701-a
+- rbac-rbac-103-103-701-b
+- rbac-rbac-103-103-701-c
+parser_version: 6

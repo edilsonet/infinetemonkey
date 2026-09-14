@@ -1,0 +1,56 @@
+id: rbac-rbac-60-60-19-c
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.19'
+section_title: Requisitos de inspeção, avaliação
+subsection_id: c
+cite: 60.19(c)
+title: 60.19(c)
+text: '(c) Manutenção. O operador é responsável
+
+  pela manutenção corretiva e preventiva do
+
+  FSTD a fim de garantir o cumprimento dos
+
+  requisitos vigentes. O operador é responsável
+
+  por:
+
+  (1) maintains a discrepancy log; and
+
+
+  (1) manter o registro das discrepâncias;
+
+  e
+
+  (2) ensures that, when a discrepancy is
+
+  found, the following requirements are met:
+
+
+  (2) garantir que, quando encontrada
+
+  uma discrepância, as seguintes providências
+
+  sejam tomadas:'
+keywords:
+- simuladores
+- treinamento
+- discrepancy
+- garantir
+- manutencao
+- operador
+- requisitos
+- responsavel
+- avaliacao
+- corretiva
+- cumprimento
+- discrepancia
+- discrepancias
+- encontrada
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

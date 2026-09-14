@@ -1,0 +1,30 @@
+id: rbac-rbac-e-94-e94-409-k
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: k
+cite: E94.409(k)
+title: E94.409(k)
+text: (k) informações referentes às condições inseguras de operação dos sistemas devem ser
+  fornecidas em tempo hábil ao piloto remoto de modo a lhe permitir tomar as ações corretivas
+  adequadas. A apresentação destas informações deve minimizar possíveis erros do piloto remoto
+  que possam gerar perigos adicionais;
+keywords:
+- informacoes
+- piloto
+- remoto
+- acoes
+- adequadas
+- adicionais
+- apresentacao
+- classe
+- condicoes
+- corretivas
+- destas
+- erros
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

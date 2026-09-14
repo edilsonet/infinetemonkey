@@ -1,0 +1,37 @@
+id: rbac-rbac-139-139-107-a
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.107'
+section_title: Validade do Certificado Operacional de Aeroporto
+subsection_id: a
+cite: 139.107(a)
+title: 139.107(a)
+text: '(a) O Certificado Operacional de Aeroporto é concedido com prazo de validade indefinido
+  e perderá sua eficácia nos seguintes casos:
+
+  (1) renúncia do detentor;
+
+  (2) sucessão do detentor por outro operador de aeródromo; ou
+
+  (3) cassação.'
+keywords:
+- aerodromos
+- infraestrutura
+- aeroporto
+- certificado
+- detentor
+- operacional
+- validade
+- aerodromo
+- casos
+- cassacao
+- concedido
+- eficacia
+- indefinido
+- operador
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

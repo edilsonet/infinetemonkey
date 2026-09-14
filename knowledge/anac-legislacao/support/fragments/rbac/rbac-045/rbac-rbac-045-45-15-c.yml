@@ -1,0 +1,40 @@
+id: rbac-rbac-045-45-15-c
+kind: rbac
+document: rbac-045
+family: '45'
+section_id: '45.15'
+section_title: Marcação de peças PAA, OTP e componentes críticos
+subsection_id: c
+cite: 45.15(c)
+title: 45.15(c)
+text: '(c) Componentes críticos. Cada fabricante de uma peça que tenha tempo de vida limitado,
+
+  intervalo fixo entre inspeções ou outro procedimento similar especificado nas limitações
+  de
+
+  aeronavegabilidade contidas no manual de manutenção do fabricante ou nas instruções para
+
+  aeronavegabilidade continuada deve marcar este componente de modo permanente e legível com
+
+  um número de peça (ou equivalente) e um número de série (ou equivalente) exclusivo a este
+
+  componente em adição aos outros requisitos aplicáveis desta seção.'
+keywords:
+- identificacao
+- aeronavegabilidade
+- componente
+- componentes
+- criticos
+- equivalente
+- fabricante
+- numero
+- peca
+- adicao
+- aplicaveis
+- cada
+- contidas
+categories:
+- identificacao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-045.md

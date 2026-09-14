@@ -1,0 +1,35 @@
+id: rbac-rbac-145-145-101-body
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.101'
+section_title: Geral
+subsection_id: body
+cite: '145.101'
+title: Geral
+text: '145.101 Geral
+
+
+  Cada organização de manutenção certificada deve prover instalações, recursos, equipamentos,
+
+  ferramentas, materiais e dados técnicos que atendam aos requisitos aplicáveis da aviação
+  civil.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- geral
+- aplicaveis
+- atendam
+- aviacao
+- cada
+- certificada
+- civil
+- dados
+- equipamentos
+- ferramentas
+- instalacoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

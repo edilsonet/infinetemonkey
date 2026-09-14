@@ -1,0 +1,47 @@
+id: rbac-rbac-43-f43-1-i
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: i
+cite: F43.1(i)
+title: F43.1(i)
+text: '(i) para transponders ATCRBS classes 1A e 2A, verificar se o pico mínimo de saída de
+
+  potência RF é de pelo menos 21,0 dBw (125 watts);
+
+  (ii) para transponders ATCRBS classes 1B e 2B, verificar se o pico mínimo de saída de
+
+  potência RF é de pelo menos 18,5 dBw (70 watts);
+
+  (iii) para transponders Mode S classes 1A, 2A, 3A e 4 e para aqueles transponders Mode S
+
+  classes 1B, 2B e 3B que incluem um alto pico de saída de potência de RF opcional, verificar
+  se o
+
+  pico mínimo de saída de potência RF é de pelo menos 21,0 dBw (125 watts);
+
+  (iv) para transponders Mode S classes 1B, 2B e 3B, verificar se o pico mínimo de saída de
+
+  potência RF é de pelo menos 18,5 dBw (70 watts); e'
+keywords:
+- manutencao
+- aeronavegabilidade
+- classes
+- pico
+- potencia
+- saida
+- transponders
+- menos
+- minimo
+- verificar
+- watts
+- mode
+- atcrbs
+- alto
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

@@ -1,0 +1,200 @@
+id: rbac-rbac-29-29-1415-a
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.1415'
+section_title: must be near an exit available during an unplanned ditching.
+subsection_id: a
+cite: 29.1415(a)
+title: 29.1415(a)
+text: '(a)
+
+  HIRF environment I is specified in the following table:
+
+  14 CFR Part 29 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Transport Category Rotorcraft
+
+  14 CFR Appendix-D-to-Part-29(l)
+
+  14 CFR Appendix-E-to-Part-29(a) (enhanced display)
+
+  page 165 of 167
+
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  6 GHz-8 GHz
+
+  1,000
+
+  200
+
+  8 GHz-12 GHz
+
+  3,000
+
+  300
+
+  12 GHz-18 GHz
+
+  2,000
+
+  200
+
+  18 GHz-40 GHz
+
+  600
+
+  200
+
+  In this table, the higher field strength applies at the frequency band edges.
+
+  Table II. - HIRF Environment II
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  10 kHz-500 kHz
+
+  20
+
+  20
+
+  500 kHz-2 MHz
+
+  30
+
+  30
+
+  2 MHz-30 MHz
+
+  100
+
+  100
+
+  30 MHz-100 MHz
+
+  10
+
+  10
+
+  100 MHz-200 MHz
+
+  30
+
+  10
+
+  200 MHz-400 MHz
+
+  10
+
+  10
+
+  400 MHz-1 GHz
+
+  700
+
+  40
+
+  1 GHz-2 GHz
+
+  1,300
+
+  160
+
+  2 GHz-4 GHz
+
+  3,000
+
+  120
+
+  4 GHz-6 GHz
+
+  3,000
+
+  160
+
+  6 GHz-8 GHz
+
+  400
+
+  170
+
+  8 GHz-12 GHz
+
+  1,230
+
+  230
+
+  12 GHz-18 GHz
+
+  730
+
+  190
+
+  18 GHz-40 GHz
+
+  600
+
+  150
+
+  In this table, the higher field strength applies at the frequency band edges.
+
+  Table III. - HIRF Environment III
+
+  Field strength
+
+  (volts/meter)
+
+  Frequency
+
+  Peak
+
+  Average
+
+  10 kHz-100 kHz
+
+  150
+
+  150
+
+  100 kHz-400 MHz
+
+  200
+
+  200'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- field
+- frequency
+- strength
+- table
+- average
+- environment
+- hirf
+- meter
+- part
+- peak
+- volts
+- appendix
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

@@ -1,0 +1,126 @@
+id: rbac-rbac-27-27-471-d
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: '27.471'
+section_title: through 27.475.
+subsection_id: d
+cite: 27.471(d)
+title: 27.471(d)
+text: '(d)
+
+  Cable systems must be designed as follows:
+
+  (1)
+
+  Cables, cable fittings, turnbuckles, splices, and pulleys must be of an acceptable kind.
+
+  (2)
+
+  The design of the cable systems must prevent any hazardous change in cable tension throughout
+
+  the range of travel under any operating conditions and temperature variations.
+
+  14 CFR Part 27 (up to date as of 5/03/2022)
+
+  Airworthiness Standards: Normal Category Rotorcraft
+
+  14 CFR 27.675(d)(1)
+
+  14 CFR 27.685(d)(2) (enhanced display)
+
+  page 47 of 126
+
+
+  § 27.687 Spring devices.
+
+  § 27.691 Autorotation control mechanism.
+
+  Each main rotor blade pitch control mechanism must allow rapid entry into autorotation after
+  power failure.
+
+  § 27.695 Power boost and power-operated control system.
+
+  (3)
+
+  No cable smaller than three thirty-seconds of an inch diameter may be used in any primary
+  control
+
+  system.
+
+  (4)
+
+  Pulley kinds and sizes must correspond to the cables with which they are used. The pulley
+  cable
+
+  combinations and strength values which must be used are specified in Military Handbook MIL-
+
+  HDBK-5C, Vol. 1 & Vol. 2, Metallic Materials and Elements for Flight Vehicle Structures,
+  (Sept. 15,
+
+  1976, as amended through December 15, 1978). This incorporation by reference was approved
+  by
+
+  the Director of the Federal Register in accordance with 5 U.S.C. section 552(a) and 1 CFR
+  part 51.
+
+  Copies may be obtained from the Naval Publications and Forms Center, 5801 Tabor Avenue,
+
+  Philadelphia, Pennsylvania, 19120. Copies may be inspected at the National Archives and
+  Records
+
+  Administration (NARA). For information on the availability of this material at NARA, call
+
+  202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html
+
+  (5)
+
+  Pulleys must have close fitting guards to prevent the cables from being displaced or fouled.
+
+  (6)
+
+  Pulleys must lie close enough to the plane passing through the cable to prevent the cable
+  from
+
+  rubbing against the pulley flange.
+
+  (7)
+
+  No fairlead may cause a change in cable direction of more than 3°.
+
+  (8)
+
+  No clevis pin subject to load or motion and retained only by cotter pins may be used in
+  the control
+
+  system.
+
+  (9)
+
+  Turnbuckles attached to parts having angular motion must be installed to prevent binding
+
+  throughout the range of travel.
+
+  (10)
+
+  There must be means for visual inspection at each fairlead, pulley, terminal, and turnbuckle.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- must
+- cable
+- control
+- prevent
+- pulley
+- used
+- cables
+- from
+- power
+- pulleys
+- system
+- through
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

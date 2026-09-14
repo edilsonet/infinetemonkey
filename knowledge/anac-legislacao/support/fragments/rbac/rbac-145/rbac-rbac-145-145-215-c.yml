@@ -1,0 +1,43 @@
+id: rbac-rbac-145-145-215-c
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.215'
+section_title: Lista de capacidade
+subsection_id: c
+cite: 145.215(c)
+title: 145.215(c)
+text: '(c) Cada artigo somente pode estar contido na lista de capacidade se estiver dentro
+  do escopo da
+
+  certificação da organização de manutenção e depois que executada uma autoavaliação de acordo
+
+  com os procedimentos do parágrafo 145.209(d)(2) deste RBAC. A organização de manutenção
+  deve
+
+  executar essa autoavaliação para verificar se satisfaz todos os requisitos de instalações,
+  recursos,
+
+  equipamentos, materiais, dados técnicos, processos e pessoal treinado para executar o trabalho
+  no
+
+  artigo. A organização de manutenção deve reter em arquivo os documentos da autoavaliação.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- autoavaliacao
+- organizacao
+- artigo
+- capacidade
+- executar
+- lista
+- acordo
+- arquivo
+- cada
+- certificacao
+- contido
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

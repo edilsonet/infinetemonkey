@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-153-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.153'
+section_title: 'Requisitos de aviões: geral'
+subsection_id: b
+cite: 121.153(b)
+title: 121.153(b)
+text: (b) Visando atender aos requisitos de aeronavegabilidade e cumprir as limitações operacionais,
+  um detentor de certificado pode utilizar um método aprovado para controle de peso e balanceamento
+  de seus aviões, baseado em peso médio, assumido ou estimado.
+keywords:
+- transporte-aereo
+- operacoes
+- avioes
+- peso
+- requisitos
+- aeronavegabilidade
+- aprovado
+- assumido
+- atender
+- balanceamento
+- baseado
+- certificado
+- controle
+- cumprir
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

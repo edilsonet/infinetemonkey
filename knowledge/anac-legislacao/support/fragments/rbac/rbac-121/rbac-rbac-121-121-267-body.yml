@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-267-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.267'
+section_title: Alívio de pressão nos cilindros dos extintores de incêndio
+subsection_id: body
+cite: '121.267'
+title: Alívio de pressão nos cilindros dos extintores de incêndio
+text: '121.267 Alívio de pressão nos cilindros dos extintores de incêndio
+
+  Os cilindros dos extintores de incêndio devem possuir válvulas de alívio de pressão para
+  evitar descarga acidental dos mesmos devido a pressões internas excessivas. As linhas de
+  descarga das válvulas de alívio devem terminar fora do avião, em local de fácil inspeção
+  no solo. Deve haver um indicador, no final da linha de descarga, provendo uma indicação
+  visual quando o cilindro descarregar pela válvula de alívio.'
+keywords:
+- transporte-aereo
+- operacoes
+- alivio
+- cilindros
+- extintores
+- incendio
+- pressao
+- descarga
+- valvulas
+- acidental
+- aviao
+- cilindro
+- descarregar
+- devido
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

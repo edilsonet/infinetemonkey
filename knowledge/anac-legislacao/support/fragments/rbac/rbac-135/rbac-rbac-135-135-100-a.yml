@@ -1,0 +1,41 @@
+id: rbac-rbac-135-135-100-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.100'
+section_title: Obrigações dos tripulantes de voo
+subsection_id: a
+cite: 135.100(a)
+title: 135.100(a)
+text: '(a) O detentor de certificado não pode determinar, e qualquer tripulante de voo não
+  pode executar, qualquer serviço durante fases críticas do voo, exceto aqueles serviços requeridos
+  para a operação segura da aeronave. Tarefas como chamadas rádio para a empresa solicitando
+  suprimento de “
+
+  galley
+
+  ” ou confirmando conexões de passageiros, mensagens aos passageiros promovendo a empresa
+  ou chamando a atenção para pontos de interesse do terreno, e preenchimento do livro de bordo
+  ou relatório de voo não são requeridas para a operação segura da aeronave.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- empresa
+- operacao
+- passageiros
+- pode
+- segura
+- aqueles
+- atencao
+- bordo
+- certificado
+- chamadas
+- chamando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

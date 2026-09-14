@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-299-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.299'
+section_title: 'Piloto em comando: exames em rota e em aeródromos'
+subsection_id: a
+cite: 135.299(a)
+title: 135.299(a)
+text: '(a) O detentor de certificado somente pode utilizar um piloto e uma pessoa somente
+  pode trabalhar como piloto em comando de um voo se, dentro dos 12 meses calendáricos precedendo
+  esse voo, esse piloto tiver sido aprovado em um exame em voo em um dos tipos de aeronave
+  voada por ele. O exame em voo deve:
+
+  (1) ser aplicado por um servidor designado pela ANAC ou por um piloto examinador credenciado;
+
+  (2) consistir de pelo menos um voo sobre um segmento de rota; e
+
+  (3) incluir pousos e decolagens em um ou mais aeródromos representativos. Em adição aos
+  requisitos deste parágrafo, se o piloto for autorizado a conduzir operações IFR, pelo menos
+  um voo deve ser voado em aerovia, em rota aprovada fora de aerovia, ou em rota parte dentro
+  parte fora de aerovia.'
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- rota
+- aerovia
+- aerodromos
+- comando
+- dentro
+- exame
+- fora
+- menos
+- parte
+- pode
+- somente
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

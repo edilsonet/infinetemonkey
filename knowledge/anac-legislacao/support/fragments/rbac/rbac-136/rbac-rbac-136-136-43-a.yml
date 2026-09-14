@@ -1,0 +1,33 @@
+id: rbac-rbac-136-136-43-a
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.43'
+section_title: Obrigações e limitações do detentor de certificado
+subsection_id: a
+cite: 136.43(a)
+title: 136.43(a)
+text: '(a) O detentor de certificado só pode realizar SAE-panorâmico enquanto mantiver as
+  condições
+
+  de sua certificação e estiver autorizado pela ANAC para explorar o SAE-panorâmico.'
+keywords:
+- turismo
+- operacoes
+- certificado
+- detentor
+- panoramico
+- autorizado
+- certificacao
+- condicoes
+- enquanto
+- estiver
+- explorar
+- limitacoes
+- mantiver
+- obrigacoes
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

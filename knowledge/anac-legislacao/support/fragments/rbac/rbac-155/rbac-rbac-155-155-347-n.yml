@@ -1,0 +1,31 @@
+id: rbac-rbac-155-155-347-n
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: n
+cite: 155.347(n)
+title: 155.347(n)
+text: '(n)
+
+  O fator de transmissão de um filtro vermelho ou verde não pode ser menor do que 15% da configuração
+  máxima de intensidade.'
+keywords:
+- seguranca-aeroportuaria
+- aproximacao
+- configuracao
+- fator
+- filtro
+- indicador
+- intensidade
+- maxima
+- menor
+- pode
+- rampa
+- transmissao
+- verde
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

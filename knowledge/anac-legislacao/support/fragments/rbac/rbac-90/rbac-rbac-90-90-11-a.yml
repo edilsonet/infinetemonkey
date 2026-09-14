@@ -1,0 +1,31 @@
+id: rbac-rbac-90-90-11-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.11'
+section_title: Requisitos gerais para pessoal de administração requerido
+subsection_id: a
+cite: 90.11(a)
+title: 90.11(a)
+text: (a) A UAP deverá dispor de pessoal técnico e administrativo qualificado e com atribuições
+  específicas para a manutenção do desempenho da segurança operacional da referida Unidade.
+keywords:
+- regras-de-voo
+- operacoes
+- pessoal
+- administracao
+- administrativo
+- atribuicoes
+- desempenho
+- devera
+- dispor
+- especificas
+- gerais
+- manutencao
+- operacional
+- qualificado
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-443-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.443'
+section_title: Documentação de aeronavegabilidade e anotações nos registros de manutenção
+  da aeronave
+subsection_id: a
+cite: 135.443(a)
+title: 135.443(a)
+text: '(a) Um detentor de certificado somente pode operar uma aeronave que tenha sido submetida
+  a serviços de manutenção, manutenção preventiva ou alterações, se preparar, ou fizer que
+  o detentor de certificado com quem tem contrato para execução de manutenção, manutenção
+  preventiva ou alterações prepare:
+
+  (1) uma liberação de aeronavegabilidade; ou
+
+  (2) uma apropriada anotação nos registros de manutenção da aeronave.'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- aeronave
+- aeronavegabilidade
+- alteracoes
+- certificado
+- detentor
+- preventiva
+- registros
+- anotacao
+- anotacoes
+- apropriada
+- contrato
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

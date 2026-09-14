@@ -1,0 +1,75 @@
+id: rbac-rbac-90-90-331-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.331'
+section_title: Requisitos gerais para embarque ou desembarque no voo pairado
+subsection_id: c
+cite: 90.331(c)
+title: 90.331(c)
+text: '(c) São requisitos para o embarque ou desembarque de pessoas, animais ou equipamentos
+  em voo pairado:
+
+  (1) que esteja sob VMC;
+
+  (2) que o pouso seguro do helicóptero não possa ser realizado em algum ponto próximo ao
+  lugar da operação e sem prejuízo ao cumprimento da missão pública, salvo em treinamento;
+
+  (3) que a tripulação e outras pessoas com função a bordo estejam treinadas para este tipo
+  de operação;
+
+  (4) que somente os envolvidos na operação estejam a bordo;
+
+  (5) que haja uma avaliação quanto à inclinação e à natureza do terreno;
+
+  (6) que a operação seja previamente coordenada e autorizada pelo piloto em comando;
+
+  (7) que o voo pairado não ultrapasse uma altura máxima de segurança definida pela UAP, tanto
+  para embarque quanto para desembarque, levando-se em consideração a natureza da operação,
+  a temperatura em seu local e a elevação do terreno;
+
+  (8) que a margem de potência disponível do motor seja suficiente para a realização da operação;
+
+  (9) que a UAP e/ou o piloto em comando estabeleça margem segura para que os limites de peso
+  máximo de decolagem da aeronave sejam preservados no decorrer dos procedimentos de embarque
+  e/ou desembarque;
+
+  (10) que o CG do helicóptero seja mantido dentro dos limites durante todo o voo pairado,
+  inclusive no momento de desembarque ou embarque;
+
+  (11) que a porta de acesso à cabine tenha sido removida ou que o helicóptero disponha de
+  portas deslizantes conforme previsto no AFM. É vedado o embarque ou desembarque com helicópteros
+  que disponham de portas de acesso com dobradiças ou similares;
+
+  (12) que tenha sido realizado o aterramento elétrico do helicóptero para dispersar eletricidade
+  estática antes de começar o embarque, conforme aplicável;
+
+  (13) que o risco de impacto do rotor principal e do rotor de cauda esteja dentro do NADSO;
+
+  (14) que os objetos soltos ou que possam se soltar no terreno da operação estejam a uma
+  distância segura;
+
+  (15) que terceiros no solo estejam a uma distância mínima de segurança do helicóptero; e
+
+  (16) que os procedimentos operacionais, para este tipo de operação, estejam estabelecidos
+  nos SOP e no MOP da UAP. Tais procedimentos deverão contemplar no mínimo os seguintes tópicos:'
+keywords:
+- regras-de-voo
+- operacoes
+- operacao
+- embarque
+- desembarque
+- estejam
+- helicoptero
+- pairado
+- procedimentos
+- seja
+- terreno
+- acesso
+- bordo
+- comando
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

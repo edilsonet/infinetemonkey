@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-129-j
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.129'
+section_title: Assentos de saída
+subsection_id: j
+cite: 135.129(j)
+title: 135.129(j)
+text: (j) Um detentor de certificado não pode exigir que um passageiro divulgue os motivos
+  pelos quais ele quer trocar de lugar.
+keywords:
+- taxi-aereo
+- operacoes
+- assentos
+- certificado
+- detentor
+- divulgue
+- exigir
+- lugar
+- motivos
+- passageiro
+- pelos
+- pode
+- quais
+- quer
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

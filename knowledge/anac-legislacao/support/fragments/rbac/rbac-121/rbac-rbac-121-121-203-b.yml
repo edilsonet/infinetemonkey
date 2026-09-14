@@ -1,0 +1,39 @@
+id: rbac-rbac-121-121-203-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.203'
+section_title: 'Aviões não incluídos na categoria transporte: limitações de pouso no aeródromo
+  de destino'
+subsection_id: b
+cite: 121.203(b)
+title: 121.203(b)
+text: '(b) Para os propósitos desta seção assume-se:
+
+  (1) o avião passa diretamente sobre a interseção do plano de liberação de obstáculos e a
+  pista a uma altura de 50 pés, em um planeio estável de aproximação e com velocidade verdadeira
+  de pelo menos 1.3 VSO;
+
+  (2) o pouso não requer habilidade excepcional do piloto; e
+
+  (3) o avião está sendo operado em atmosfera padrão.'
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- pouso
+- aerodromo
+- altura
+- aproximacao
+- assume
+- atmosfera
+- avioes
+- categoria
+- desta
+- destino
+- diretamente
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

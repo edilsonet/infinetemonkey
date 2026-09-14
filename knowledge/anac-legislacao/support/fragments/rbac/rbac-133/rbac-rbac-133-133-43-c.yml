@@ -1,0 +1,46 @@
+id: rbac-rbac-133-133-43-c
+kind: rbac
+document: rbac-133
+family: '133'
+section_id: '133.43'
+section_title: Estruturas e projeto
+subsection_id: c
+cite: 133.43(c)
+title: 133.43(c)
+text: '(c) Peso e centro de gravidade:
+
+  (1) peso. O peso total da combinação aeronave-carga não deve exceder o peso total aprovado
+
+  para aeronave durante a certificação de tipo.
+
+  (2) centro de gravidade. A localização do centro de gravidade deve, para todas as condições
+
+  de carregamento, ficar dentro dos limites estabelecidos para a aeronave durante sua certificação
+  de
+
+  tipo. Para combinações aeronave-carga Classe C, os valores da magnitude e da direção da
+  força de
+
+  carga devem ser aqueles valores para os quais a localização efetiva do centro de gravidade
+
+  permanece dentro da faixa estabelecida.'
+keywords:
+- carga-externa
+- helicoptero
+- aeronave
+- centro
+- gravidade
+- peso
+- carga
+- certificacao
+- dentro
+- durante
+- localizacao
+- tipo
+- total
+- valores
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-133.md

@@ -1,0 +1,35 @@
+id: rbac-rbha-e-rbac-21-51-body
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.51'
+section_title: Validade
+subsection_id: body
+cite: '21.51'
+title: Validade
+text: '21.51 Validade
+
+  A menos que a ANAC tenha estabelecido um prazo de validade, um certificado de tipo ou uma
+  isenção ao mesmo tem validade até ser suspenso ou cassado pela ANAC, ou devolvido por seu
+  detentor.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- validade
+- cassado
+- certificado
+- detentor
+- devolvido
+- estabelecido
+- isencao
+- menos
+- mesmo
+- prazo
+- suspenso
+- tenha
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

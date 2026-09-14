@@ -1,0 +1,31 @@
+id: rbac-rbac-136-136-11-body
+kind: rbac
+document: rbac-136
+family: '136'
+section_id: '136.11'
+section_title: Validade do certificado
+subsection_id: body
+cite: '136.11'
+title: Validade do certificado
+text: '136.11 Validade do certificado
+
+  Um certificado emitido segundo este Regulamento permanece válido até ser suspenso ou revogado
+
+  pela ANAC.'
+keywords:
+- turismo
+- operacoes
+- certificado
+- validade
+- emitido
+- permanece
+- regulamento
+- revogado
+- segundo
+- suspenso
+- valido
+categories:
+- turismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-136.md

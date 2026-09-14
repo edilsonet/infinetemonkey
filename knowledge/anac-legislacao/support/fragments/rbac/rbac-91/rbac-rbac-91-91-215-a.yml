@@ -1,0 +1,44 @@
+id: rbac-rbac-91-91-215-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.215'
+section_title: Transponder e transmissor automático de altitude
+subsection_id: a
+cite: 91.215(a)
+title: 91.215(a)
+text: '(a) Todo espaço aéreo - equipamento de aeronaves civis brasileiras. Para operações
+  não
+
+  conduzidas segundo os RBAC nº 121 ou 135, o equipamento transponder instalado deve atender
+  aos
+
+  requisitos de desempenho e ambientais de qualquer classe de OTP (TSO) C74c (Mode A com
+
+  informação de altimetria) como apropriado, ou a classe adequada da OTP (TSO) C112 (Mode
+  S).
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- classe
+- data
+- equipamento
+- mode
+- transponder
+- adequada
+- aereo
+- aeronaves
+- altimetria
+- altitude
+- ambientais
+- apropriado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

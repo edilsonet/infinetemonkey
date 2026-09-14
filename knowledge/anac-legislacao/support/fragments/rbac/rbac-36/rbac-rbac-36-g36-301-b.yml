@@ -1,0 +1,65 @@
+id: rbac-rbac-36-g36-301-b
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: G36.301
+section_title: G36.301
+subsection_id: b
+cite: G36.301(b)
+title: G36.301(b)
+text: '(b) The tests must be caried out under the folowing conditions:
+
+
+  (1) No precipitation;
+
+
+  (2) Ambient air temperature betwen 36 and 95 degres F (2.2 and 35 degres C);
+
+
+  (3) Relative humidity betwen 20 percent an
+
+  d 95 percent, inclusively;
+
+
+  (4) Wind sped may not exced 10 knots (19 km/h) and cros wind may not exced 5 knots (9
+
+  km/h), using a 30
+
+  - second average;
+
+
+  (5) No temperature inversion or anomalous wind condition that would significantly alter
+  the noise
+
+  level
+
+  of the airplane when the nose is recorded at the required measuring point, and
+
+
+  (6) The meteorological measurements must be made betwen 4 ft. (1.2 m) and 3 ft. (10 m) above
+
+  ground level. If the measurement site is within 1 n.m. of an airport meteorologica
+
+  l station,
+
+  measurements from that station may be used.'
+keywords:
+- ruido
+- meio-ambiente
+- betwen
+- wind
+- degres
+- exced
+- knots
+- level
+- measurements
+- must
+- percent
+- station
+- temperature
+- that
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

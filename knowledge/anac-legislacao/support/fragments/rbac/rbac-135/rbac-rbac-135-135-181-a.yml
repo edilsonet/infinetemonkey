@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-181-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.181'
+section_title: 'Requisitos de desempenho: aeronave operando IFR'
+subsection_id: a
+cite: 135.181(a)
+title: 135.181(a)
+text: '(a) Exceto como previsto no parágrafo (b) desta seção, é vedado:
+
+  (1) operar uma aeronave monomotora transportando passageiros em voo IFR, exceto se:'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- exceto
+- desempenho
+- desta
+- monomotora
+- operando
+- operar
+- paragrafo
+- passageiros
+- requisitos
+- secao
+- transportando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-90-90-139-a
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.139'
+section_title: Componente 3 - garantia da segurança operacional
+subsection_id: a
+cite: 90.139(a)
+title: 90.139(a)
+text: '(a) Elemento 3.1 - Processo de monitoramento e medição do desempenho da segurança operacional.
+
+  (1) A UAP deve desenvolver e manter os meios necessários para monitorar e medir o desempenho
+  de segurança operacional da organização e para validar a efetividade de seus controles de
+  risco à segurança operacional.
+
+  (2) O desempenho de segurança operacional da UAP deve ser monitorado e medido em relação
+  a indicadores e metas de desempenho de segurança operacional de seu SGSO.'
+keywords:
+- regras-de-voo
+- operacoes
+- operacional
+- seguranca
+- desempenho
+- componente
+- controles
+- desenvolver
+- efetividade
+- elemento
+- garantia
+- indicadores
+- manter
+- medicao
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

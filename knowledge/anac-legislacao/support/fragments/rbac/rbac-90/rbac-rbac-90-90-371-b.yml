@@ -1,0 +1,41 @@
+id: rbac-rbac-90-90-371-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.371'
+section_title: Categorias e classes aplicáveis às operações de helicóptero com carga externa
+subsection_id: b
+cite: 90.371(b)
+title: 90.371(b)
+text: '(b) As operações aéreas de carga externa são classificadas, em relação à posição da
+  carga transportada, como:
+
+  (1) classe A: carga externa fixa ao helicóptero, não alijável, sem movimentação livre e
+  sem prolongamento vertical além do trem de pouso da aeronave;
+
+  (2) classe B: carga externa alijável e que se desprende totalmente do solo ou água durante
+  a operação;
+
+  (3) classe C: carga externa alijável e que permanece em contato parcial com o solo ou água
+  durante a operação; e/ou
+
+  (4) classe D: carga externa diversa das Classes A, B e C com aprovação específica da ANAC.'
+keywords:
+- regras-de-voo
+- operacoes
+- carga
+- externa
+- classe
+- alijavel
+- agua
+- classes
+- durante
+- helicoptero
+- operacao
+- solo
+- aereas
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

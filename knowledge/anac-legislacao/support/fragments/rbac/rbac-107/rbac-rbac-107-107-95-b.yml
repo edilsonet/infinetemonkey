@@ -1,0 +1,37 @@
+id: rbac-rbac-107-107-95-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.95'
+section_title: Controle de Credenciais e Autorizações
+subsection_id: b
+cite: 107.95(b)
+title: 107.95(b)
+text: '(b) O controle deve informar a quantidade total de credenciais e autorizações válidas,
+  destacando a quantidade das que estiverem na situação de:
+
+  (1) não devolvidas;
+
+  (2) extraviadas; e
+
+  (3) furtadas ou roubadas.'
+keywords:
+- seguranca
+- aeroporto
+- autorizacoes
+- controle
+- credenciais
+- quantidade
+- destacando
+- devolvidas
+- estiverem
+- extraviadas
+- furtadas
+- informar
+- roubadas
+- situacao
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

@@ -1,0 +1,51 @@
+id: rbac-rbac-29-29-60-e
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.60'
+section_title: is maintained and the descent (loss of height) below the landing surface is
+  determined.
+subsection_id: e
+cite: 29.60(e)
+title: 29.60(e)
+text: '(e)
+
+  The rotorcraft, after
+
+  (1)
+
+  failure of one engine, in the case of multiengine rotorcraft that meet Transport Category
+  A engine
+
+  isolation requirements, or
+
+  (2)
+
+  complete power failure in the case of other rotorcraft, must be controllable over the range
+  of
+
+  speeds and altitudes for which certification is requested when such power failure occurs
+  with
+
+  maximum continuous power and critical weight. No corrective action time delay for any condition
+
+  following power failure may be less than -'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- failure
+- power
+- case
+- engine
+- action
+- after
+- altitudes
+- below
+- category
+- certification
+- complete
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

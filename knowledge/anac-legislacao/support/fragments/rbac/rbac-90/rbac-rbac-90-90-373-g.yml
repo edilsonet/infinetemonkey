@@ -1,0 +1,34 @@
+id: rbac-rbac-90-90-373-g
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.373'
+section_title: Requisitos gerais
+subsection_id: g
+cite: 90.373(g)
+title: 90.373(g)
+text: (g) A UAP e o piloto em comando deverão estabelecer procedimentos de segurança e de
+  velocidade máxima para operação com carga externa de baixa densidade e com massa inferior
+  a 227 kg ou ainda com cargas de baixa densidade e grande volume no intuito de evitar grandes
+  amplitudes dos movimentos oscilatórios da carga externa transportada e impacto com o rotor
+  principal e/ou de cauda.
+keywords:
+- regras-de-voo
+- operacoes
+- baixa
+- carga
+- densidade
+- externa
+- amplitudes
+- cargas
+- cauda
+- comando
+- deverao
+- estabelecer
+- evitar
+- gerais
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,19 @@
+id: rbac-rbac-135-135-209-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.209'
+section_title: Autonomia para voo VFR
+subsection_id: body
+cite: '135.209'
+title: Autonomia para voo VFR
+text: 135.209 Autonomia para voo VFR
+keywords:
+- taxi-aereo
+- operacoes
+- autonomia
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-23-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.23
+section_title: Acessórios e controles do grupo motopropulsor
+subsection_id: b
+cite: A135.23(b)
+title: A135.23(b)
+text: (b) Controles de reversão de tração. Em aviões com motores turboélice, os controles
+  de reversão da tração das hélices devem possuir meios para impedir uma operação inadvertida.
+  Esses meios devem possuir uma trava positiva ou batente na posição de marcha lenta e devem
+  requerer uma operação separada e distinta, por parte do tripulante, para deslocar o controle
+  da posição de regime de voo.
+keywords:
+- taxi-aereo
+- operacoes
+- controles
+- meios
+- operacao
+- posicao
+- possuir
+- reversao
+- tracao
+- a135
+- acessorios
+- avioes
+- batente
+- controle
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

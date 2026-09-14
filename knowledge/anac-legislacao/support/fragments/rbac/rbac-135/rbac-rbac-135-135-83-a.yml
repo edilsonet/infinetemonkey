@@ -1,0 +1,51 @@
+id: rbac-rbac-135-135-83-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.83'
+section_title: Informações operacionais requeridas
+subsection_id: a
+cite: 135.83(a)
+title: 135.83(a)
+text: '(a) O operador de uma aeronave deve prover os seguintes materiais, em forma atualizada
+  e apropriada, acessível ao piloto em seu posto de trabalho e de uso compulsório em voo:
+
+  (1) uma lista de verificações da cabine dos pilotos;
+
+  (2) para aeronaves multimotoras ou para aeronaves com trem de pouso retrátil, uma lista
+  de verificações em emergência da cabine dos pilotos contendo os procedimentos requeridos
+  pelo parágrafo (c) desta seção, como apropriado;
+
+  (3) cartas aeronáuticas pertinentes;
+
+  (4) para operações IFR, carta de navegação em aerovias, cartas de áreas terminais, cartas
+  de aproximação e de saída IFR e outros documentos pertinentes à operação;
+
+  (5) para aeronaves multimotoras, dados de desempenho em subida com um motor inoperante.
+  Se a aeronave for aprovada para utilização em operações IFR, esses dados devem ser suficientes
+  para permitir ao piloto verificar a conformidade com o parágrafo 135.181(a)(2) deste Regulamento;
+  e
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (6) toda informação essencial relativa aos serviços de busca e salvamento da área sobre
+  a qual irão operar.'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- cartas
+- aeronave
+- cabine
+- dados
+- lista
+- multimotoras
+- paragrafo
+- pertinentes
+- piloto
+- pilotos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

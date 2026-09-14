@@ -1,0 +1,31 @@
+id: rbac-rbac-121-121-125-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.125'
+section_title: Sistema de acompanhamento de voos
+subsection_id: d
+cite: 121.125(d)
+title: 121.125(d)
+text: (d) Nas especificações do detentor de certificado deve constar o sistema de acompanhamento
+  de voo autorizado, assim como a localização dos centros de controle.
+keywords:
+- transporte-aereo
+- operacoes
+- acompanhamento
+- sistema
+- assim
+- autorizado
+- centros
+- certificado
+- constar
+- controle
+- detentor
+- especificacoes
+- localizacao
+- voos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

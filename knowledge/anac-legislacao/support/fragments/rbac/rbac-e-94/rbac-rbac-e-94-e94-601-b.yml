@@ -1,0 +1,30 @@
+id: rbac-rbac-e-94-e94-601-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.601
+section_title: Disposições gerais
+subsection_id: b
+cite: E94.601(b)
+title: E94.601(b)
+text: (b) Exceto para RPAS Classe 2 ou Classe 3, somente é permitido operar um RPAS segundo
+  este Regulamento Especial se tiver sido executada uma Inspeção Anual de Manutenção (IAM)
+  neste RPAS nos últimos 12 meses. O proprietário ou operador deve apresentar à ANAC uma Declaração
+  de Inspeção Anual de Manutenção (DIAM) para o referido RPAS, atestando sua condição de aeronavegabilidade.
+keywords:
+- rpas
+- anual
+- classe
+- inspecao
+- manutencao
+- aeronavegabilidade
+- apresentar
+- atestando
+- condicao
+- declaracao
+- diam
+- disposicoes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

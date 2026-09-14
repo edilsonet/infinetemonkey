@@ -1,0 +1,35 @@
+id: rbac-rbac-121-121-162-body
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.162'
+section_title: Base de aprovação de tipo para operações ETOPS
+subsection_id: body
+cite: '121.162'
+title: Base de aprovação de tipo para operações ETOPS
+text: '121.162 Base de aprovação de tipo para operações ETOPS
+
+  Exceto em operações de transporte de passageiros com aviões com mais de dois motores fabricados
+  antes de 17 de fevereiro de 2015 e exceto um avião com dois motores seja utilizado em voos
+  ETOPS de até 75 minutos, nenhum detentor de certificado pode conduzir operações ETOPS a
+  não ser que o projeto de tipo do avião tenha sido aprovado para tais operações e cada avião
+  atenda ao seu documento CMP, como a seguir:'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- tipo
+- aprovacao
+- aviao
+- base
+- dois
+- exceto
+- motores
+- aprovado
+- atenda
+- avioes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

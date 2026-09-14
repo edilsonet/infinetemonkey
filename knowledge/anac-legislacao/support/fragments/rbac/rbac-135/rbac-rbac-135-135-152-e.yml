@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-152-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: e
+cite: 135.152(e)
+title: 135.152(e)
+text: (e) No evento de um acidente ou ocorrência que requeira imediata comunicação à ANAC
+  e que resulte no encerramento do voo, o detentor de certificado deve remover a gravação
+  da aeronave e conservar os dados requeridos pelos parágrafos (a) e (b) desta seção por pelo
+  menos 60 dias ou por um período maior se assim requerido pela ANAC. As informações obtidas
+  da gravação somente podem ser utilizadas em conformidade com os art. 88-I a 88-L da Lei
+  nº 7.565, de 19 de dezembro de 1986.
+keywords:
+- taxi-aereo
+- operacoes
+- dados
+- gravacao
+- acidente
+- aeronave
+- assim
+- certificado
+- comunicacao
+- conformidade
+- conservar
+- desta
+- detentor
+- dezembro
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

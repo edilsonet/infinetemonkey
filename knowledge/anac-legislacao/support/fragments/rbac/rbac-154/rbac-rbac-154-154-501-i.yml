@@ -1,0 +1,77 @@
+id: rbac-rbac-154-154-501-i
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: '154.501'
+section_title: Sistemas de suprimento de energia elétrica para facilidades de navegação aérea
+subsection_id: i
+cite: 154.501(i)
+title: 154.501(i)
+text: '(i) Para uma pista de pouso e decolagem de aproximação de precisão, deve ser
+
+  disponibilizada uma fonte secundária de energia capaz de satisfazer os requisitos da Tabela
+  F-1 para
+
+  a Categoria apropriada de pista de aproximação de precisão. As conexões da fonte de energia
+  elétrica
+
+  às facilidades que necessitam de energia secundária devem ser dispostas de modo que as instalações
+
+  sejam automaticamente conectadas à fonte secundária de energia em caso de falha da fonte
+  primária
+
+  de energia
+
+  (ii) Para uma pista destinada a decolagens em condições de alcance visual de pista inferior
+
+  a um valor de 800 m, deve ser disponibilizada uma fonte secundária de energia capaz de satisfazer
+  os
+
+  requisitos da Tabela F-1.
+
+  (iii) Em um aeródromo onde a pista de pouso e decolagem principal for uma pista de
+
+  aproximação de não-precisão, deve ser disponibilizada uma fonte secundária de energia capaz
+  de
+
+  satisfazer os requisitos da Tabela F-1, ressalvando-se que uma fonte secundária de energia
+  para
+
+  auxílios visuais não precisa ser disponibilizada para mais de uma pista de aproximação de
+  não-
+
+  precisão.
+
+  (iv) Em um aeródromo onde a pista de pouso e decolagem principal for uma pista para
+
+  operação visual, deve ser disponibilizada uma fonte secundária de energia capaz de satisfazer
+  os
+
+  requisitos do parágrafo 154.501(a)(4), ressalvando-se que uma fonte secundária de energia
+  para
+
+  auxílios visuais não precisa ser disponibilizada quando existir um sistema de iluminação
+  de
+
+  emergência de acordo com as especificações do parágrafo 154.305(b), que possa ser acionado
+  em 15
+
+  minutos.'
+keywords:
+- seguranca-aeroportuaria
+- energia
+- fonte
+- pista
+- secundaria
+- disponibilizada
+- aproximacao
+- capaz
+- precisao
+- requisitos
+- satisfazer
+- decolagem
+- pouso
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

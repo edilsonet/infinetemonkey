@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-375-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.375'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de pouso no aeródromo de destino'
+subsection_id: b
+cite: 135.375(b)
+title: 135.375(b)
+text: (b) Um avião que estaria proibido de decolar por não poder cumprir o parágrafo (a)(2)
+  desta seção, poderá decolar se indicar um aeródromo de alternativa onde possa atender todos
+  os requisitos desta seção, quando o pouso completo tomar 70% do comprimento efetivo da pista.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- decolar
+- desta
+- pouso
+- secao
+- alternativa
+- atender
+- aviao
+- avioes
+- categoria
+- completo
+- comprimento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

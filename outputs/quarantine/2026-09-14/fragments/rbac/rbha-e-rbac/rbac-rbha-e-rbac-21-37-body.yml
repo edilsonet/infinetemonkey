@@ -1,0 +1,36 @@
+id: rbac-rbha-e-rbac-21-37-body
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.37'
+section_title: Piloto de ensaios em voo
+subsection_id: body
+cite: '21.37'
+title: Piloto de ensaios em voo
+text: '21.37 Piloto de ensaios em voo
+
+  O requerente de um certificado de tipo de aeronave das categorias normal, utilidade, acrobática,
+  transporte regional ou transporte deve apresentar um piloto que possua qualificações e habilitações
+  apropriadas, o qual será responsável pela condução dos ensaios em voo requeridos por este
+  regulamento.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- piloto
+- transporte
+- acrobatica
+- aeronave
+- apresentar
+- apropriadas
+- categorias
+- certificado
+- conducao
+- habilitacoes
+- normal
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

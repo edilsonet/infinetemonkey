@@ -1,0 +1,38 @@
+id: rbac-rbac-135-a135-15-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.15
+section_title: Trem de pouso
+subsection_id: a
+cite: A135.15(a)
+title: A135.15(a)
+text: (a) Dispositivo de alarme do trem de pouso operado pelos flapes. Aviões com trem de
+  pouso retrátil e com flapes de asa devem ser equipados com um dispositivo de alarme que
+  funcione continuamente quando os flapes de asa estiverem baixados para uma posição que ative
+  o dispositivo de alarme, provendo um alarme adequado antes do pouso, quando usando os procedimentos
+  normais de pouso, caso o trem de pouso não se encontre totalmente baixado e travado. Não
+  pode haver um sistema de cancelamento manual desse dispositivo de alarme. A unidade sensora
+  da posição do flape pode ser instalada em qualquer posição conveniente. O sistema para esse
+  dispositivo pode usar qualquer parte do sistema provido para outros dispositivos de alarme
+  do trem de pouso (incluindo o dispositivo sonoro do alarme).
+keywords:
+- taxi-aereo
+- operacoes
+- alarme
+- pouso
+- dispositivo
+- trem
+- flapes
+- pode
+- posicao
+- sistema
+- a135
+- adequado
+- ative
+- avioes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

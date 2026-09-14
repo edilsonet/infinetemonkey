@@ -1,0 +1,50 @@
+id: rbac-rbac-23-23-2500-a
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2500'
+section_title: Requisitos de sistemas a nível avião.
+subsection_id: a
+cite: 23.2500(a)
+title: 23.2500(a)
+text: '(a) Os equipamentos ou sistemas requeridos
+
+  para um avião operar de forma segura, nos mo-
+
+  dos de operação para os quais certificação é
+
+  requerida (VFR diurno, VFR noturno, IFR)
+
+  devem ser projetados e instalados para:
+
+  (1) Satisfazer o nível de segurança aplicável
+
+  para o nível de certificação e de desempenho
+
+  do avião; e
+
+  (2) Desempenhar sua função pretendida dentro
+
+  dos limites operacionais e ambientais para os
+
+  quais o avião é certificado.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- aviao
+- nivel
+- certificacao
+- quais
+- sistemas
+- ambientais
+- aplicavel
+- certificado
+- dentro
+- desempenhar
+- desempenho
+- diurno
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

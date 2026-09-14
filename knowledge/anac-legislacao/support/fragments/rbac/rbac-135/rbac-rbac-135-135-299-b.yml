@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-299-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.299'
+section_title: 'Piloto em comando: exames em rota e em aeródromos'
+subsection_id: b
+cite: 135.299(b)
+title: 135.299(b)
+text: (b) O servidor designado pela ANAC ou piloto examinador credenciado deve determinar
+  se o piloto sendo examinado executa satisfatoriamente as obrigações e responsabilidades
+  de um piloto em comando conduzindo operações segundo este Regulamento e deve lançar os resultados
+  do exame nos registros do piloto.
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- comando
+- aerodromos
+- conduzindo
+- credenciado
+- designado
+- determinar
+- exame
+- exames
+- examinado
+- examinador
+- executa
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

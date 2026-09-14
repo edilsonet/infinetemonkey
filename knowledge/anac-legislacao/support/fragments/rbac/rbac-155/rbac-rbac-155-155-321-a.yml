@@ -1,0 +1,36 @@
+id: rbac-rbac-155-155-321-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.321'
+section_title: '155.321'
+subsection_id: a
+cite: 155.321(a)
+title: 155.321(a)
+text: '(a)
+
+  A sinalização horizontal de perímetro de TLOF deve ser aplicada em TLOF localizada dentro
+  de FATO.
+
+  (1)
+
+  A sinalização horizontal de perímetro de TLOF não se aplica para FATO tipo pista de pouso
+  e decolagem.'
+keywords:
+- seguranca-aeroportuaria
+- tlof
+- fato
+- horizontal
+- perimetro
+- sinalizacao
+- aplica
+- aplicada
+- decolagem
+- dentro
+- localizada
+- pista
+- pouso
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-e-94-e94-409-d
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.409
+section_title: Projeto de RPAS Classe 2
+subsection_id: d
+cite: E94.409(d)
+title: E94.409(d)
+text: '(d) O sistema de armazenamento de combustível/energia para alimentação do sistema de
+  propulsão da RPA deve:
+
+  (1) resistir às cargas esperadas em todas as fases de operação; e
+
+  (2) ser construído, arranjado e instalado de forma a minimizar condições perigosas à aeronave;'
+keywords:
+- sistema
+- aeronave
+- alimentacao
+- armazenamento
+- arranjado
+- cargas
+- classe
+- combustivel
+- condicoes
+- construido
+- energia
+- esperadas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,36 @@
+id: rbac-rbac-135-a135-12-i
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.12
+section_title: Cargas no solo
+subsection_id: i
+cite: A135.12(i)
+title: A135.12(i)
+text: '(i) 60% das cargas estabelecidas pelo RBAC nº 23 devem ser aplicadas a cada roda de
+  uma unidade; e
+
+  (ii) 60% da carga de arrasto limite e da carga lateral, juntamente com 100% da carga limite
+  vertical estabelecidas de acordo com o RBAC nº 23, devem ser aplicadas a cada roda de cada
+  unidade, exceto quando a carga vertical não exceder a carga vertical máxima do parágrafo
+  A135.12(a)(3)(i).'
+keywords:
+- taxi-aereo
+- operacoes
+- carga
+- cada
+- vertical
+- a135
+- aplicadas
+- cargas
+- estabelecidas
+- limite
+- roda
+- unidade
+- acordo
+- arrasto
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

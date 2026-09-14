@@ -1,0 +1,34 @@
+id: rbac-rbac-107-107-105-c
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.105'
+section_title: Pontos de Acesso à Área Restrita de Segurança
+subsection_id: c
+cite: 107.105(c)
+title: 107.105(c)
+text: '(c) O operador de aeródromo deve garantir que apenas pessoas, veículos e equipamentos
+  previamente identificados, autorizados e inspecionados tenham acesso à ARS através dos pontos
+  de controle de acesso.
+
+  (1) O acesso desacompanhado à ARS é permitido:'
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- pontos
+- aerodromo
+- area
+- atraves
+- autorizados
+- controle
+- desacompanhado
+- equipamentos
+- garantir
+- identificados
+- inspecionados
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

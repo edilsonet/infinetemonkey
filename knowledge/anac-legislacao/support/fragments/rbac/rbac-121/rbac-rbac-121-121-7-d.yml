@@ -1,0 +1,39 @@
+id: rbac-rbac-121-121-7-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.7'
+section_title: Definições
+subsection_id: d
+cite: 121.7(d)
+title: 121.7(d)
+text: '(d)
+
+  Ponto de entrada ETOPS
+
+  significa o primeiro ponto da rota em um voo ETOPS determinado, considerando-se velocidade
+  de cruzeiro com um motor inoperante sob atmosfera padrão e ar calmo e:
+
+  (1) distante mais de 75 minutos de um Aeródromo Adequado para aviões com dois motores;
+
+  (2) distante mais de 180 minutos de um Aeródromo Adequado para aviões com mais de dois motores;'
+keywords:
+- transporte-aereo
+- operacoes
+- adequado
+- aerodromo
+- avioes
+- distante
+- dois
+- etops
+- minutos
+- motores
+- ponto
+- atmosfera
+- calmo
+- considerando
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

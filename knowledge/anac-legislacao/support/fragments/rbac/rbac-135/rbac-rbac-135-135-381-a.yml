@@ -1,0 +1,51 @@
+id: rbac-rbac-135-135-381-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.381'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações em rota
+  com um motor inoperante'
+subsection_id: a
+cite: 135.381(a)
+title: 135.381(a)
+text: '(a) No caso de um grande avião categoria transporte com motores a turbina, é vedado
+  decolar com este avião com um peso que, considerando consumo normal de combustível e óleo,
+  seja maior do que aquele que permite conformidade com os parágrafos (a)(1) ou (a)(2) desta
+  seção (segundo os dados do manual de voo do avião para trajetória liquida em rota com um
+  motor inoperante), com base nas temperaturas ambiente esperadas em rota. O avião deve ter
+  um peso que:
+
+  (1) proporcione um gradiente positivo em uma altitude de pelo menos 1000 pés acima de qualquer
+  elevação ou obstáculo dentro de uma faixa de 5 milhas terrestres para cada lado da trajetória
+  pretendida e, em adição, se este avião foi certificado após 29 de agosto de 1958 (SR 422B),
+  proporcione um gradiente positivo a 1500 pés sobre a vertical do aeródromo onde o avião
+  é suposto pousar após a falha do motor; e
+
+  (2) permita uma trajetória líquida de voo em que o avião continue voando da altitude de
+  cruzeiro para um aeródromo onde pode ser executado um pouso de acordo com a seção 135.387,
+  livrando todas as elevações e obstruções dentro de uma faixa de 5 milhas terrestres para
+  cada lado da trajetória pretendida por, pelo menos, 2000 pés de altura e com um gradiente
+  positivo a 1000 pés acima do aeródromo onde o avião é suposto pousar após a falha do motor
+  ou, se este avião é de tipo certificado após 30 de setembro de 1958 (SR 422A, 422B), com
+  um gradiente positivo a 1500 pés acima do aeródromo onde o avião é suposto pousar após a
+  falha do motor.'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- motor
+- aerodromo
+- gradiente
+- positivo
+- trajetoria
+- acima
+- falha
+- pousar
+- rota
+- suposto
+- 422b
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

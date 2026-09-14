@@ -1,0 +1,33 @@
+id: rbac-rbac-107-107-213-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.213'
+section_title: Plano de Contingência de AVSEC do Aeródromo (PCA)
+subsection_id: a
+cite: 107.213(a)
+title: 107.213(a)
+text: (a) O operador de aeródromo deve elaborar, implementar e manter um plano de contingência,
+  em coordenação com os operadores aéreos, exploradores de área e demais órgãos públicos e
+  entidades envolvidos com a segurança da aviação civil, a fim de responder ameaças ou atos
+  de interferência ilícita que possam afetar a segurança, com o menor impacto possível às
+  operações do aeródromo.
+keywords:
+- seguranca
+- aeroporto
+- aerodromo
+- contingencia
+- plano
+- aereos
+- afetar
+- ameacas
+- area
+- atos
+- aviacao
+- avsec
+- civil
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

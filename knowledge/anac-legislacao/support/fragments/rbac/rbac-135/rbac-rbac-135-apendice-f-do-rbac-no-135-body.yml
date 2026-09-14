@@ -1,0 +1,1268 @@
+id: rbac-rbac-135-apendice-f-do-rbac-no-135-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: apendice-f-do-rbac-no-135
+section_title: APÊNDICE F DO RBAC Nº 135
+subsection_id: body
+cite: apendice-f-do-rbac-no-135
+title: APÊNDICE F DO RBAC Nº 135
+text: 'APÊNDICE F DO RBAC Nº 135
+
+  ESPECIFICAÇÕES DE GRAVADORES DE DADOS DE VOO PARA AVIÕES
+
+  Todos os valores registrados devem atender aos requisitos de faixa, resolução e precisão
+  durante condições estáticas e dinâmicas.
+
+  Todos os dados registrados devem ser correlacionados em tempo, dentro da faixa de um segundo.
+
+  Parâmetros
+
+  Faixa
+
+  Precisão na entrada do sensor
+
+  Segundos por intervalo de amostragem
+
+  Resolução da leitura
+
+  Notas
+
+  1. Hora ou contagem relativa de tempo (1)
+
+  24 h
+
+  0 a 4095
+
+  ± 0,125% por hora
+
+  4
+
+  1 seg
+
+  Tempo UTC preferido quando disponível. Incremento do contador a cada 4 segundos de operação
+  do sistema.
+
+  2. Altitude Pressão
+
+  -1000 pés até a altitude máxima certificada da aeronave. +5000 pés
+
+  ±100 a ±700 pés (ver tabela OTP C124a ou C51a.
+
+  1
+
+  5 a 35 pés
+
+  Quando praticável, os dados devem ser obtidos do computador de dados aéreos.
+
+  3. Velocidade no ar indicada ou calibrada
+
+  50 KIAS ou valor mínimo até a máxima V
+
+  SO
+
+  e da V
+
+  SO
+
+  até 1,2 V
+
+  D
+
+  ±5% e ±3%
+
+  1
+
+  1 nó
+
+  Quando praticável, os dados devem ser obtidos do computador de dados aéreos.
+
+  4. Proa (referência primária da tripulação)
+
+  0-360º e posições discretas “true” ou “mag”.
+
+  ±2º
+
+  1
+
+  0,5º
+
+  Quando proa magnética ou verdadeira for selecionável como referência primária de proa, a
+  indicação discreta selecionada deve ser gravada.
+
+  5. Aceleração normal (vertical)
+
+  (9)
+
+  -3g até +6g
+
+  ±1% da faixa máxima excluindo erro de referência de ±5%
+
+  0,125
+
+  0,004g
+
+  -
+
+  6. Atitude de arfagem
+
+  ±75º
+
+  ±2º
+
+  1 ou 0,25 para aviões sujeitos a 135.152(j).
+
+  0,5º
+
+  É recomendada uma razão de amostragem de 0,25.
+
+  7. Atitude de rolamento (2)
+
+  +
+
+  180%
+
+  ± 2º
+
+  1 ou 0,5 para aviões sujeitos a 135.152(j)
+
+  0,5º
+
+  É recomendada uma razão de amostragem de 0,5.
+
+  8. Seleção manual do comando do rádio transmissor ou referência de sincronização CVR/DFDR
+
+  On-off discreto
+
+  Nenhum
+
+  ..............
+
+  1
+
+  ...............
+
+  Preferencialmente de cada tripulante, mas aceitável um discreto para todas as transmissões
+  desde que o sistema CVR/ FDR atenda aos requisitos de sincronização do CVR da OTP 124a (parágrafo
+  4.2.1 ED-55).
+
+  9. Potência/empuxo de cada motor - referência primária da tripulação.
+
+  Toda a faixa à frente
+
+  ±2%
+
+  1 (por motor)
+
+  0,2% de toda a faixa
+
+  Devem ser registrados parâmetros suficientes (EPR, N1 ou torque, NP), como apropriado para
+  o particular motor, para determinação da potência à frente ou em reverso, incluindo possíveis
+  condições de sobre-velocidade.
+
+  10. Engajamento do piloto automático
+
+  On-off discreto
+
+  .................
+
+  1
+
+  .................
+
+  -
+
+  11. Aceleração longitudinal
+
+  ±1g
+
+  ±1,5% da faixa máxima, excluindo erro de referência de ±5%.
+
+  0,25
+
+  0,004g
+
+  -
+
+  12a. Posição do(s) controle(s) de arfagem (para aviões não fly-by-wire)
+
+  Faixa total
+
+  ±2%, a menos que precisão maior seja especificamente requerida.
+
+  0.5 ou 0,25 para aviões sujeitos a 135.152(j)
+
+  0,5% da faixa total.
+
+  Para aviões que possuem controles de voo com capacidade “break away”, permitindo que os
+  pilotos operem os controles independentemente, devem ser gravadas as posições de ambos os
+  controles. Os movimentos dos comandos podem ser amostrados alternadamente, uma vez por segundo,
+  para produzir um intervalo de amostragem de 0,5 ou 0,25, como apropriado.
+
+  12b. Posição do(s) controle(s) de arfagem (para aviões fly-by-wire) (3)
+
+  Faixa total
+
+  ±2%, a menos que precisão maior seja especificamente requerida.
+
+  0.5 ou 0,25 para aviões sujeitos a 135.152(j)
+
+  0,2% da faixa total.
+
+  -
+
+  13a. Posição do(s) controle(s) de rolamento (aviões não fly-by-wire)
+
+  Faixa total
+
+  ±2%, a menos que precisão maior seja especificamente requerida.
+
+  0.5 ou 0,25 para aviões sujeitos a 135.152(j).
+
+  0,2% da faixa total.
+
+  Para aviões que possuem controles de voo com capacidade “break away”, permitindo que os
+  pilotos operem os controles independentemente, devem ser gravadas as posições de ambos os
+  controles. Os movimentos dos comandos podem ser amostrados alternadamente, uma vez por segundo,
+  para produzir um intervalo de amostragem de 0,5 ou 0,25, como apropriado.
+
+  13b. Posição do(s) controle(s) de rolamento (aviões fly-by-wire) (4)
+
+  Faixa total
+
+  ±2°, a menos que precisão maior seja especificamente requerida.
+
+  0.5 ou 0,25 para aviões sujeitos a 135.152(j).
+
+  0,3% da faixa total.
+
+  -
+
+  14a. Posição do(s) controle(s) de guinada (aviões não fly-by-wire) (5)
+
+  Faixa total
+
+  ±2º, a menos que precisão maior seja especificamente requerida.
+
+  0,5 ou 0,25 para aviões sujeitos a 135.152(j).
+
+  0,3% da faixa total.
+
+  Para aviões que possuem controles de voo com capacidade “break away”, permitindo que os
+  pilotos operem os controles independentemente, devem ser gravadas as posições de ambos os
+  controles. Os movimentos dos comandos podem ser amostrados alternadamente, uma vez por segundo,
+  para produzir um intervalo de amostragem de 0,5.
+
+  14b. Posição do(s) controle(s) de guinada (aviões fly-by-wire)
+
+  Faixa total
+
+  ±2º, a menos que precisão maior seja especificamente requerida.
+
+  0,5
+
+  0,2% da faixa total.
+
+  -
+
+  15. Posição das superfícies do controle de arfagem (6)
+
+  Faixa total
+
+  ±2º, a menos que precisão maior seja especificamente requerida.
+
+  0,5 ou 0,25 para aviões sujeitos a 135.152(j).
+
+  0,3% da faixa total.
+
+  Para aviões dotados de superfícies múltiplas ou fendidas, uma combinação adequada de sensores
+  de posição é aceitável em lugar de gravar a posição de cada superfície separadamente. As
+  superfícies de controle podem ser amostradas alternadamente para produzir o intervalo de
+  amostragem de 0,5 ou 0,25.
+
+  16. Posição das superfícies do controle lateral
+
+  (7)
+
+  Faixa total
+
+  ±2º, a menos que precisão maior seja especificamente requerida.
+
+  0,5 ou 0,25 para aviões sujeitos a 135.152(j).
+
+  0,2% da faixa total.
+
+  Uma combinação adequada de sensores de posição é aceitável em lugar de gravar a posição
+  de cada superfície separadamente. As superfícies de controle podem ser amostradas alternadamente
+  para produzir o intervalo de amostragem de 0,5 ou 0,25.
+
+  17. Posições das superfícies do controle de guinada (8)
+
+  Faixa total
+
+  ±2º, a menos que precisão maior seja especificamente requerida.
+
+  0,5
+
+  0,2% da faixa total.
+
+  Para aviões dotados de superfícies múltiplas ou fendidas, uma combinação adequada de sensores
+  de posição é aceitável em lugar de gravar a posição de cada superfície separadamente. As
+  superfícies de controle podem ser amostradas alternadamente para produzir o intervalo de
+  amostragem de 0,5 ou 0,25.
+
+  18. Aceleração lateral
+
+  ±1g
+
+  ±1,5% da faixa máxima, excluindo erro de referência de ±5%
+
+  0,25
+
+  0,004g
+
+  -
+
+  19. Posição da superfície do compensador de profundidade
+
+  Faixa total
+
+  ±3º, a menos que precisão maior seja especificamente requerida
+
+  1
+
+  0,3 % da faixa total
+
+  20. Posição do flape de bordo de fuga ou do controle de seleção na cabine (10)
+
+  Faixa total ou cada posição (discreto)
+
+  ± 3º ou como indicado ao piloto
+
+  2
+
+  0,5 % da faixa total
+
+  As posições do flape e do controle de seleção podem ser amostradas alternadamente para prover
+  um ponto de posição a cada 2 seg.
+
+  21. Posição do flape de bordo de ataque ou do controle de seleção na cabine
+
+  (11)
+
+  Faixa total ou cada posição discreta
+
+  ± 3º ou como indicado ao piloto e suficiente para determinar cada posição discreta.
+
+  2
+
+  0,5 % da faixa total
+
+  Lado esquerdo e direito ou as posições do flape e do controle de seleção podem ser amostradas
+  com 4 seg. de intervalo para prover um ponto de posição a cada 2 seg.
+
+  22. Posição de cada reversor de empuxo (ou equivalente para aviões a hélice)
+
+  Recolhido, em trânsito ou reverso (discreto)
+
+  -
+
+  1 (por motor)
+
+  -
+
+  Turbojato - 2 discretos permitem que os três estados sejam determinados.
+
+  Turboélice - 1 discreto.
+
+  23. Posição do spoiler de solo ou posição do seletor do freio aerodinâmico (12)
+
+  Faixa total ou cada posição (discreto)
+
+  ±2º, a menos que precisão maior seja especificamente requerida.
+
+  0,5 para aviões sujeitos a 135.152(j).
+
+  0,2% da faixa total.
+
+  -
+
+  24. Temperatura do ar externo ou temperatura total do ar (13)
+
+  - 50º C até + 90º C
+
+  ± 2º C
+
+  2
+
+  0,3º C
+
+  -
+
+  25. Modo e situação de engajamento do autopilot/auto-throttle/AFCS
+
+  Uma combinação adequada de discretos
+
+  -
+
+  1
+
+  -
+
+  Os discretos devem mostrar quais sistemas estão engajados e que modos primários estão controlando
+  a trajetória de voo e a velocidade da aeronave.
+
+  26. Altitude rádio (14)
+
+  -20 até 2.500 pés
+
+  ±2 pés ou ±3% abaixo de 500 pés, o que for maior, e ±5% acima de 500 pés
+
+  1
+
+  1 pé + 5% acima de 500 pés.
+
+  Para operações de pouso automático Categoria III, cada rádio altímetro deve ser gravado
+  mas arranjados de modo a ter pelo menos 1 gravado a cada segundo.
+
+  27. Desvio do localizer, azimute do MLS ou desvio lateral do GPS
+
+  ±400 microampéres ou faixa do sensor disponível como instalado ±62º
+
+  Como instalado; ± 3% recomendável.
+
+  1
+
+  0,3% da faixa total.
+
+  Para operações de pouso automático Categoria III, cada sistema deve ser gravado, mas arranjados
+  de modo a ter pelo menos 1 gravado a cada segundo. Não é necessário gravar ILS e MLS ao
+  mesmo tempo; apenas o auxílio de aproximação sendo usado precisa ser gravado.
+
+  28. Desvio do glide-slope, elevação do MLS ou desvio vertical do GPS
+
+  ±400 microampéres ou faixa do sensor disponível como instalado, 0,9 até 30º
+
+  Como instalado; ± 3% recomendável
+
+  1
+
+  0,3% da faixa total.
+
+  Para operações de pouso automático Categoria III, cada sistema deve ser gravado, mas arranjados
+  de modo a ter pelo menos 1 gravado a cada segundo. Não é necessário gravar ILS e MLS ao
+  mesmo tempo; apenas o auxílio de aproximação sendo usado precisa ser gravado.
+
+  29. Passagem pelo Marker Beacon
+
+  “On-off” discreto
+
+  -
+
+  1
+
+  -
+
+  Um único discreto é aceito para todos os markers.
+
+  30. Alarme mestre
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  Gravar o alarme mestre e cada alarme vermelho que não puder ser determinado por outro parâmetro
+  ou pelo CVR.
+
+  31. Sensor ar/terra (referência primária do sistema do avião: trem de nariz ou principal)
+
+  Discreto “ar” ou “terra”
+
+  -
+
+  1 (0,25 recomendado)
+
+  -
+
+  -
+
+  32. Ângulo de ataque (se medido diretamente)
+
+  Como instalado
+
+  Como instalado
+
+  2 ou 0,5 para aviões operados segundo 135.152(j)
+
+  0,3% da faixa total.
+
+  Se forem disponíveis sensores esquerdo e direito, cada um pode ser gravado a intervalos
+  de 4 ou 1 seg., como apropriado, de modo a prover um ponto de dados a cada 2 ou 0,5 seg,
+  como requerido.
+
+  33. Baixa pressão hidráulica de cada sistema
+
+  Discreto ou conforme a faixa do sensor disponível, “low” ou “normal”
+
+  ±5%
+
+  2
+
+  0,5% da faixa total.
+
+  -
+
+  34. Velocidade no solo
+
+  Como instalado
+
+  Sistema mais preciso instalado
+
+  1
+
+  0,2 % da faixa total
+
+  -
+
+  35. GPWS (Sistema de alarme de proximidade do solo)
+
+  Discreto “warning” ou “off”
+
+  -
+
+  1
+
+  -
+
+  Uma combinação adequada de discretos, a menos que a capacidade do gravador seja limitada;
+  nesse caso um único discreto para todos os modos é aceitável.
+
+  36. Posição do trem de pouso ou posição do seletor do trem na cabine
+
+  Discreto
+
+  -
+
+  4
+
+  -
+
+  Deve ser gravada uma combinação adequada de discretos.
+
+  37. Ângulo de deriva (15)
+
+  Como instalado
+
+  Como instalado
+
+  4
+
+  0,1º
+
+  -
+
+  38. Velocidade e direção do vento
+
+  Como instalado
+
+  Como instalado
+
+  4
+
+  1 kt e 1,0º
+
+  -
+
+  39. Latitude e Longitude
+
+  Como instalado
+
+  Como instalado
+
+  4
+
+  0,002º ou como instalado
+
+  Fornecido pela referência do sistema primário de navegação. Quando a capacidade permitir,
+  a resolução da latitude/longitude deve ser de 0,0002º.
+
+  40. Ativação do “stick shaker” e do “pusher”
+
+  Discretos “on” e “off”
+
+  -
+
+  1
+
+  -
+
+  Uma combinação adequada de discretos para determinar ativação.
+
+  41. Detecção de tesouras de vento
+
+  Discretos “warning” e “off”
+
+  -
+
+  1
+
+  -
+
+  -
+
+  42. Posição das manetes de potência/ throttles
+
+  (16)
+
+  Faixa total
+
+  ±2%
+
+  1 para cada manete.
+
+  2% da faixa total.
+
+  Para aviões com controles dos motores na cabine não ligados mecanicamente.
+
+  43. Parâmetros adicionais dos motores
+
+  Como instalado
+
+  Como instalado
+
+  Cada motor cada segundo
+
+  2% da faixa total.
+
+  Quando a capacidade permitir, a prioridade preferida é nível de vibração indicado, N2, EGT,
+  Fuel Flow, posição da manete de corte do combustível e N3, a menos que o fabricante do motor
+  recomende de outra forma.
+
+  44. Sistema embarcado de prevenção de colisões (ACAS)
+
+  Discretos
+
+  Como instalado
+
+  1
+
+  -
+
+  Deve ser gravado uma combinação adequada de discretos para determinar a situação de: Controle
+  Combinado, Controle Vertical, Aviso de Subida e Aviso de Descida (ref. ARINC Characteristiques
+  735 Attachment 6E, TCAS VERTICAL RA DATA OUTPUT WORLD).
+
+  45. Distâncias DME 1 e 2
+
+  0 a 200 NM
+
+  Como instalado
+
+  4
+
+  1 NM
+
+  1 milha.
+
+  46. Frequências selecionadas em NAV1 e NAV2
+
+  Faixa total
+
+  Como instalado
+
+  4
+
+  -
+
+  Suficiente para determinar a frequência recomendada.
+
+  47. Ajuste barométrico selecionado
+
+  Faixa total
+
+  ±5%
+
+  (1 por 64 segundos)
+
+  0,2% da faixa total.
+
+  -
+
+  48. Altitude selecionada
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  100 pés
+
+  -
+
+  49. Velocidade selecionada
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  1 kt
+
+  -
+
+  50. Mach selecionado
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  0,01
+
+  -
+
+  51. Velocidade vertical selecionada
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  100 pés/min
+
+  -
+
+  52. Proa selecionada
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  1º
+
+  -
+
+  53. Trajetória de voo selecionada
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  1º
+
+  54. Altura de decisão (DH) selecionada
+
+  Faixa total
+
+  ±5%
+
+  64
+
+  1 pé
+
+  55. Formato do display do EFIS
+
+  Discreto(s)
+
+  -
+
+  4
+
+  -
+
+  Os discretos devem mostrar a situação do sistema (off, normal, fail, composite, sector,
+  plan, nav aids, weather radar, range, copy).
+
+  56. Formato do display Multi-function/Engine Alerts
+
+  Discreto(s)
+
+  -
+
+  4
+
+  -
+
+  Os discretos devem mostrar a situação do sistema (off, normal, fail). As identidades das
+  páginas dos procedimentos de emergência do display não precisam ser gravadas.
+
+  57. Comandos de empuxo (17)
+
+  Faixa total
+
+  ±2%
+
+  2
+
+  2% da faixa total
+
+  -
+
+  58. Empuxo desejado
+
+  Faixa total
+
+  ±2%
+
+  4
+
+  2% da faixa total
+
+  -
+
+  59. Quantidade de combustível no tanque de ajuste do CG
+
+  Faixa total
+
+  ±5%
+
+  (1 por 64 seg)
+
+  1% da faixa total
+
+  -
+
+  60. Referência do sistema primário de navegação
+
+  Discreto GPS, INS, VOR, DME, MLS, Loran C, Omega, Localizer, Glide-slope
+
+  -
+
+  4
+
+  -
+
+  Um número adequado de discretos para determinar a referência do sistema primário de navegação.
+
+  61. Detecção de gelo
+
+  Discreto “ice”, “no ice”.
+
+  -
+
+  4
+
+  -
+
+  -
+
+  62. Alarme de vibração para cada motor
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  -
+
+  63. Alarme de super aquecimento para cada motor
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  -
+
+  64. Alarme de baixa pressão de óleo para cada motor
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  -
+
+  65. Alarme de sobre velocidade para cada motor
+
+  Discreto
+
+  -
+
+  1
+
+  -
+
+  -
+
+  66. Posição da superfície do compensador de direção
+
+  Faixa total
+
+  ±3%, a menos que precisão maior seja requerida
+
+  2
+
+  0,3% da faixa total
+
+  -
+
+  67. Posição da superfície do compensador de inclinação
+
+  Faixa total
+
+  ±3%, a menos que precisão maior seja requerida
+
+  2
+
+  0,3% da faixa total
+
+  -
+
+  68. Pressão dos freios (esquerdo e direito)
+
+  Como instalado
+
+  ±5%
+
+  1
+
+  -
+
+  Para determinar esforço nos freios aplicado pelo piloto ou pelo “autobrake”.
+
+  69. Aplicação do pedal do freio (esquerdo e direito)
+
+  Discreto ou analógico “aplicado” ou “off”
+
+  ±5% (analógico)
+
+  1
+
+  -
+
+  Para determinar aplicação do freio pelos pilotos.
+
+  70. Ângulo de guinada ou de derrapagem
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  0,5º
+
+  -
+
+  71. Posição da válvula de sangria (bleed) do motor
+
+  Discreto “open” ou “closed”
+
+  -
+
+  4
+
+  -
+
+  -
+
+  72. Seleção do sistema de degelo ou antigelo
+
+  Discreto “on” ou “off”
+
+  -
+
+  4
+
+  -
+
+  -
+
+  73. Centro de gravidade calculado
+
+  Faixa total
+
+  ±5%
+
+  1 por 64 segundos
+
+  1% da faixa total
+
+  -
+
+  74. Estado da barra elétrica AC
+
+  Discreto “power” ou “off”
+
+  -
+
+  4
+
+  -
+
+  Cada barra
+
+  75. Estado da barra elétrica DC
+
+  Discreto “power” ou “off”
+
+  -
+
+  4
+
+  -
+
+  Cada barra
+
+  76. Posição da válvula de sangria do APU
+
+  Discreto “open” ou “closed”
+
+  -
+
+  4
+
+  -
+
+  -
+
+  77. Pressão hidráulica (cada sistema)
+
+  Faixa total
+
+  ±5%
+
+  2
+
+  100 psi
+
+  -
+
+  78. Perda de pressão da cabine
+
+  Discreto “loss” ou “normal”
+
+  -
+
+  1
+
+  -
+
+  -
+
+  79. Falha do computador (Sistemas de controle de voo e de controle do motor críticos)
+
+  Discreto “fail” ou “normal”
+
+  -
+
+  4
+
+  -
+
+  -
+
+  80. Display “heads-up” (quando instalada uma fonte de informação)
+
+  Discreto “on” ou “off”
+
+  -
+
+  4
+
+  -
+
+  -
+
+  81. Display “para-visual” (quando instalada uma fonte de informação)
+
+  Discreto “on” ou “off”
+
+  -
+
+  1
+
+  -
+
+  -
+
+  82. Posição comandada do controle do compensador de profundidade
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  0,2% da faixa total
+
+  Quando meios mecânicos para controle dos comandos não existirem, o indicador de posição
+  do compensador na cabine deve ser gravado.
+
+  83. Posição comandada do controle do compensador de inclinação
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  0,7% da faixa total
+
+  Quando meios mecânicos para controle dos comandos não existirem, o indicador de posição
+  do compensador na cabine deve ser gravado.
+
+  84. Posição comandada do controle do compensador de direção
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  0,3% da faixa total
+
+  Quando meios mecânicos para controle dos comandos não existirem, o indicador de posição
+  do compensador na cabine deve ser gravado.
+
+  85. Posição do flape de bordo de fuga e de seu comando na cabine
+
+  (18)
+
+  Faixa total
+
+  ±5%
+
+  2
+
+  0,5% da faixa total
+
+  As posições dos flapes de bordo de fuga e dos controles na cabine devem ser amostradas alternadamente
+  a intervalos de 4 segundos, de modo a prover uma amostra a cada 0,5 segundos.
+
+  86. Posição do flape de bordo de ataque e de seu comando na cabine
+
+  Faixa total
+
+  ±5%
+
+  1
+
+  0,5% da faixa total
+
+  -
+
+  87. Posição do spoiler de solo e seleção do freio aerodinâmico (speed brake)
+
+  Faixa total ou discreto
+
+  ±5%
+
+  0,5
+
+  0,2% da faixa total
+
+  -
+
+  88. Forças em todos os controles de voo da cabine (volante, coluna e pedais)
+
+  Faixa total
+
+  Volante ±70 lb
+
+  Coluna ±85 lb
+
+  Pedais ±165 lb
+
+  ±5%
+
+  1
+
+  0,2% da faixa total
+
+  Para sistemas de controles de voo “fly-by-wire”, quando a posição da superfície é função
+  apenas do deslocamento do dispositivo de controle da cabine, não é necessário gravar esse
+  parâmetro. Para aviões que possuem controles de voo com capacidade “break away”, que permite
+  que um piloto opere os controles independentemente, devem ser gravadas as forças em ambos
+  os controles. As forças nos comandos podem ser amostradas alternadamente uma vez cada 2
+  segundos para produzir um intervalo de amostragem de 1 seg.
+
+  (1) Para aviões AIRBUS A300 B2/B4, resolução = 6 seg.
+
+  (2) Para aviões das séries A330/A340, resolução = 0,703º.
+
+  (3) Para aviões das séries A318/A319/A320/A321, resolução = 0,275%(0,088º>0,064º). Para
+  aviões das séries A330/A340, resolução = 2.20% (0,703º>0,064º).
+
+  (4) Para aviões das séries A318/A319/A320/A321, resolução = 0,22%(0,088º>0,080º). Para aviões
+  das séries A330/A340, resolução = 1,76% (0,703º>0,064º).
+
+  (5) Para aviões das séries A330/A340, resolução = 1,18% (0,703º>0,120º).
+
+  (6) Para aviões das séries A330/A340, resolução = 0,783% (0,352º>0,100º).
+
+  (7) Para aviões das séries A330/A340, resolução do aileron = 0,704% (0,352º>0,100º). Para
+  aviões das séries A330/A340, resolução do spoiler = 1,406% (0,703º>0,100º).
+
+  (8) Para aviões das séries A330/A340, resolução = 0,30% (0,176º>0,12º). Para aviões das
+  séries A330/A340, intervalo de amostragem = 1 seg.
+
+  (9) Para aviões da série B-717, resolução = 0,05g. Para aviões Dassault F900C/F900EX, resolução
+  = 0,007g. Para aviões EMB 135/145, resolução = 0,009g.
+
+  (10) Para aviões das séries A330/A340, resolução = 1,05% (0,250º>0,120º).
+
+  (11) Para aviões das séries A330/A340, resolução = 1,05% (0,250º>0,120º). Para aviões das
+  séries A300 B2/B4, resolução = 0,92% (0,230º>0,125º).
+
+  (12) Para aviões das séries A330/A340, resolução do spoiler = 1,406% (0,703º>0,100º).
+
+  (13) Para aviões das séries A330/A340, resolução = 0,5ºC.
+
+  (14) Para aviões Dassault F900C/F900EX, resolução da altitude rádio = 1,25 pés. Para aviões
+  EMB 135/145, resolução da altitude rádio = 2 pés.
+
+  (15) Para aviões das séries A330/A340, resolução = 0,352º.
+
+  (16) Para aviões das séries A318/A319/A320/A321, resolução = 4,32%. Para aviões das séries
+  A330/A340, resolução = 3,27 da faixa total de ângulo das manetes (TLA); para empuxo reverso,
+  a resolução do ângulo reverso da manete (RLA) é não linear ao longo de toda a faixa ativa
+  do reverso que vai de 51,54° a 96,14°. Pode-se considerar a resolução como sendo de 2,8º
+  uniformemente ao longo de toda a faixa ativa de empuxo reverso ou de 2,9% de 96,14°, valor
+  total da faixa.
+
+  (17) Para aviões das séries A318/A319/A320/A321 com motores IAE, resolução = 2,58%.
+
+  (18) Para aviões EMB 135/145, resolução = 3,4% (4º>1º).'
+keywords:
+- taxi-aereo
+- operacoes
+- faixa
+- total
+- avioes
+- posicao
+- cada
+- discreto
+- resolucao
+- controle
+- instalado
+- series
+- menos
+- controles
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

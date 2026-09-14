@@ -1,0 +1,31 @@
+id: rbac-rbac-27-27-71-a
+kind: rbac
+document: rbac-27
+family: '27'
+section_id: '27.71'
+section_title: must be provided.
+subsection_id: a
+cite: 27.71(a)
+title: 27.71(a)
+text: '(a)
+
+  The Rotorcraft Flight Manual must contain the following information, determined in accordance
+  with §§'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- must
+- accordance
+- contain
+- determined
+- flight
+- following
+- information
+- manual
+- provided
+- with
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-27.md

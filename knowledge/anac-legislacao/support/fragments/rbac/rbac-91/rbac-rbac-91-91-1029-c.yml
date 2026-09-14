@@ -1,0 +1,35 @@
+id: rbac-rbac-91-91-1029-c
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1029'
+section_title: Requisitos de escala e de localização de voos
+subsection_id: c
+cite: 91.1029(c)
+title: 91.1029(c)
+text: '(c) As informações de localização de voo devem ser mantidas na base principal de operações
+  do
+
+  administrador de programa, ou em qualquer outro local designado pelo administrador de programa
+
+  nos procedimentos de localização de voo, até o término do voo.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- localizacao
+- administrador
+- programa
+- base
+- designado
+- escala
+- informacoes
+- local
+- mantidas
+- operacoes
+- outro
+- principal
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

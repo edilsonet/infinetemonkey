@@ -1,0 +1,32 @@
+id: rbac-rbac-121-121-277-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.277'
+section_title: Proteção de outros componentes do avião contra fogo
+subsection_id: a
+cite: 121.277(a)
+title: 121.277(a)
+text: (a) Exceto como previsto no parágrafo (b) desta seção, toda a superfície do avião atrás
+  das naceles, na área compreendida por um diâmetro de nacele em ambos os lados da linha central
+  de cada nacele, deve ser construída de material pelo menos resistente ao fogo.
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- fogo
+- nacele
+- ambos
+- area
+- atras
+- cada
+- central
+- componentes
+- compreendida
+- construida
+- contra
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

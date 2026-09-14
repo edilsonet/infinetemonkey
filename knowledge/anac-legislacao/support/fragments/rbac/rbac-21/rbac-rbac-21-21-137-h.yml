@@ -1,0 +1,39 @@
+id: rbac-rbac-21-21-137-h
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.137'
+section_title: Sistema da qualidade
+subsection_id: h
+cite: 21.137(h)
+title: 21.137(h)
+text: '(h) controle de produtos e artigos não conformes.
+
+  (1) Procedimentos para assegurar que apenas os produtos ou artigos que estejam em conformidade
+  com seu projeto aprovado sejam instalados em um produto com certificado de tipo. Estes procedimentos
+  devem estabelecer a identificação, documentação, avaliação, segregação e disposição de produtos
+  e artigos não conformes. Somente pessoas autorizadas podem fazer as determinações de disposições.
+
+  (2) Procedimentos para assegurar que os artigos descartados foram inutilizados.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- artigos
+- procedimentos
+- produtos
+- assegurar
+- conformes
+- aprovado
+- autorizadas
+- avaliacao
+- certificado
+- conformidade
+- controle
+- descartados
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

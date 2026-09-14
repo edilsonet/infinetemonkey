@@ -1,0 +1,43 @@
+id: rbac-rbac-135-135-331-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.331'
+section_title: Treinamento de emergências para tripulantes
+subsection_id: d
+cite: 135.331(d)
+title: 135.331(d)
+text: '(d) Tripulantes que voam em operações acima de 25.000 pés de altitude devem receber
+  instruções sobre:
+
+  (1) problemas respiratórios;
+
+  (2) hipóxia;
+
+  (3) duração da consciência, em altitude, sem oxigênio suplementar;
+
+  (4) expansão dos gases;
+
+  (5) formação de bolhas gasosas no sangue; e
+
+  (6) fenômeno físico e incidentes de descompressão.'
+keywords:
+- taxi-aereo
+- operacoes
+- altitude
+- tripulantes
+- acima
+- bolhas
+- consciencia
+- descompressao
+- duracao
+- emergencias
+- expansao
+- fenomeno
+- fisico
+- formacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

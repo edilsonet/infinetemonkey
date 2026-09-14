@@ -1,0 +1,38 @@
+id: rbac-rbac-91-91-223-d
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.223'
+section_title: Sistema de percepção e alarme de proximidade do solo (TAWS)
+subsection_id: d
+cite: 91.223(d)
+title: 91.223(d)
+text: '(d) O parágrafo (a) desta seção não se aplica a:
+
+  (1) operações de paraquedismo quando conduzidas inteiramente dentro de uma área circular
+
+  com raio de 93 km (50 NM) do aeródromo no qual o voo foi iniciado;
+
+  (2) operações de combate a incêndio; ou
+
+  (3) operações aéreas de aplicação de agentes químicos e outras substâncias.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- aereas
+- aerodromo
+- agentes
+- alarme
+- aplica
+- aplicacao
+- area
+- circular
+- combate
+- conduzidas
+- dentro
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

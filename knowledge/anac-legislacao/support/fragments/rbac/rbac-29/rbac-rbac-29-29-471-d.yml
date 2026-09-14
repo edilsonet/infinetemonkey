@@ -1,0 +1,45 @@
+id: rbac-rbac-29-29-471-d
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.471'
+section_title: through 29.475.
+subsection_id: d
+cite: 29.471(d)
+title: 29.471(d)
+text: '(d)
+
+  Auxiliary float immersion condition. In addition to the loads from the landing conditions,
+  the auxiliary
+
+  float, and its support and attaching structure in the hull, must be designed for the load
+  developed by a
+
+  fully immersed float unless it can be shown that full immersion of the float is unlikely,
+  in which case the
+
+  highest likely float buoyancy load must be applied that considers loading of the float immersed
+  to create
+
+  restoring moments compensating for upsetting moments caused by side wind, asymmetrical rotorcraft
+
+  loading, water wave action, and rotorcraft inertia.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- float
+- auxiliary
+- immersed
+- immersion
+- load
+- loading
+- moments
+- must
+- that
+- action
+- addition
+categories:
+- aeronavegabilidade
+- rotorcraft
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

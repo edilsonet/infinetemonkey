@@ -1,0 +1,35 @@
+id: rbac-rbac-135-a135-18-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.18
+section_title: Propulsão geral
+subsection_id: b
+cite: A135.18(b)
+title: A135.18(b)
+text: '(b) Reacendimento do motor em voo. Se o motor de um avião turboélice não puder ser
+  religado na altitude máxima de cruzeiro, deve ser determinada a altitude máxima na qual
+  o reacendimento pode ser executado consistentemente. As informações sobre reacendimento
+  em voo devem ser incluídas no manual de voo do avião.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- reacendimento
+- altitude
+- aviao
+- maxima
+- motor
+- a135
+- consistentemente
+- cruzeiro
+- dada
+- determinada
+- executado
+- geral
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,61 @@
+id: rbac-rbac-91-91-171-b
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.171'
+section_title: Verificação do equipamento de VOR para voo IFR
+subsection_id: b
+cite: 91.171(b)
+title: 91.171(b)
+text: '(b) Exceto como previsto no parágrafo (c) desta seção, cada pessoa conduzindo um teste
+  de VOR
+
+  segundo o parágrafo (a)(2) desta seção deve:
+
+  (1) usar, no aeródromo de onde pretende decolar, um sinal de teste de VOR operado pelo órgão
+
+  ATS ou por uma organização de manutenção certificada (ou, fora do Brasil, um sinal de VOR
+
+  aprovado pela autoridade com jurisdição sobre o aeródromo) para verificar o equipamento
+  de VOR,
+
+  sendo o erro máximo admissível, na indicação de marcação magnética, de ±4 graus;
+
+  (2) usar, caso um sinal de teste não esteja disponível no aeródromo de onde pretende decolar,
+
+  um ponto da superfície deste, designado como ponto de teste de VOR pela autoridade com jurisdição
+
+  sobre o aeródromo), sendo o erro máximo admissível, na indicação de marcação magnética,
+  de ± 4
+
+  graus;
+
+  (3) usar, caso não haja nem sinal de teste nem ponto de teste, um fixo de teste em voo aprovado,
+
+  quando então o erro máximo permissível, na indicação de marcação magnética, é de ± 6 graus;
+  ou
+
+  (4) realizar, caso não haja nem sinal de teste ou ponto de teste no solo, nem fixo de teste
+  em
+
+  voo aprovado, durante o voo:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- teste
+- sinal
+- aerodromo
+- ponto
+- aprovado
+- caso
+- erro
+- graus
+- indicacao
+- magnetica
+- marcacao
+- maximo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

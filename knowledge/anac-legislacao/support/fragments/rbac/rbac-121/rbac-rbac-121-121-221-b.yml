@@ -1,0 +1,37 @@
+id: rbac-rbac-121-121-221-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.221'
+section_title: Precauções contra incêndio
+subsection_id: b
+cite: 121.221(b)
+title: 121.221(b)
+text: '(b) Classe A. Compartimentos de carga ou bagagem são classificados na categoria "A",
+  se:
+
+  (1) um incêndio dentro do mesmo for prontamente discernível por um membro da tripulação
+  de seu posto normal de serviço; e
+
+  (2) todas as partes do compartimento forem facilmente acessíveis em voo. Deve haver um extintor
+  de incêndio manual disponível para cada compartimento classe A.'
+keywords:
+- transporte-aereo
+- operacoes
+- incendio
+- classe
+- compartimento
+- acessiveis
+- bagagem
+- cada
+- carga
+- categoria
+- classificados
+- compartimentos
+- contra
+- dentro
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

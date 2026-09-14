@@ -1,0 +1,1228 @@
+id: rbac-rbac-36-a36-9-b
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: of this ape
+subsection_id: b
+cite: A36.9(b)
+title: A36.9(b)
+text: '(b) Computing the overal arithmet
+
+  ic average for each reference condition (flyover, lateral or
+
+  aproach) using the values in paragraph (a) of this section and the related 90 percent confidence
+
+  limits.
+
+
+  A36.5.4.2
+
+  For each of the thre certification measuring points, the minimum sample size
+
+  is six. The
+
+  sample size must be large enough to establish statisticaly for each of the thre average
+  noise
+
+  certification levels a 90 percent confidence limit not exceding ±1.5 EPNdB. No test result
+  may be
+
+  omited from the averaging proces unles aprove
+
+  d by the FA.
+
+
+  Note: Permited methods for calculating the 90 percent confidence interval are shown in the
+  curent
+
+  advisory circular for this part.
+
+
+  A36.5.4.3
+
+  The average EPNL figures obtained by the proces described in section A36.5.4.1 must
+
+  be those by w
+
+  hich the noise performance of the airplane is asesed against the noise certification
+
+  criteria.
+
+
+  Section A36.6
+
+  Nomenclature: Symbols and Units
+
+
+  Symbol
+
+
+  Unit
+
+
+  Meaning
+
+
+  antilog
+
+
+  Antilogarithm to the base 10.
+
+
+  C(k)
+
+
+  dB
+
+
+  Tone corection factor.
+
+  The factor to be aded to PNL(k) to acount for
+
+  the presence of spectral iregularities such as tones at the k
+
+  - th increment of
+
+  time.
+
+
+  D
+
+  s
+
+  Duration time.
+
+  The time interval betwen the limits of t(1) and t(2) to the
+
+  nearest 0.5 second.
+
+
+  D
+
+  dB
+
+
+  Duration corec
+
+  tion.
+
+  The factor to be aded to PNLTM to acount for the
+
+  duration of the noise.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  46
+
+  / 121
+
+
+  EPNL
+
+
+  EPNdB
+
+
+  Efective perceived noise level.
+
+  The value of PNL adjusted for both
+
+  spectral iregularities and duration of the noise. (The unit EPNdB is used
+
+  instead of the unit d
+
+  B).
+
+
+  EPNL
+
+  r
+
+  EPNdB
+
+
+  Efective perceived noise level adjusted for reference conditions.
+
+
+  f(i)
+
+
+  Hz
+
+
+  Frequency.
+
+  The geometrical mean frequency for the i
+
+  - th one
+
+  - third octave
+
+  band.
+
+
+  F (i, k)
+
+
+  dB
+
+
+  Delta
+
+  - dB.
+
+  The diference betwen the original sound presure level and the
+
+  final background sound presure level in the i
+
+  - th one
+
+  - third octave band at
+
+  the k
+
+  - th interval of time. In this case, background sound presure level
+
+  means the broadband noise level that would
+
+  be present in the one
+
+  - third
+
+  octave band in the absence of the tone.
+
+
+  H
+
+  dB
+
+
+  dB
+
+  - down.
+
+  The value to be subtracted from PNLTM that defines the
+
+  duration of the noise.
+
+
+  H
+
+  Percent
+
+
+  Relative humidity.
+
+  The ambient atmospheric relative humidity.
+
+
+  I
+
+
+  Frequency band
+
+  index.
+
+  The numerical indicator that denotes any one of the
+
+  24 one
+
+  - third octave bands with geometrical mean frequencies from 50 to
+
+  10,0 Hz.
+
+
+  K
+
+
+  Time increment index.
+
+  The numerical indicator that denotes the number of
+
+  equal time increments that have elapse
+
+  d from a reference zero.
+
+
+  Log
+
+
+  Logarithm to the base 10.
+
+
+  log n(a)
+
+
+  Noy discontinuity cordinate.
+
+  The log n value of the intersection point of
+
+  the straight lines representing the variation of SPL with log n.
+
+
+  M(b),
+
+  M(c),
+
+  etc
+
+
+  Noy inverse slope.
+
+  The reciprocals of the slopes of straight lines
+
+  representing the variation of SPL with log n.
+
+
+  N
+
+  noy
+
+
+  The perceived noisines at any instant of time that ocurs in a specified
+
+  frequency range.
+
+
+  n(i,k)
+
+
+  noy
+
+
+  The perceived noisines at the k
+
+  - th instant of time
+
+  that ocurs in the i
+
+  - th
+
+  one
+
+  - third octave band.
+
+
+  n(k)
+
+
+  noy
+
+
+  Maximum perceived noisines.
+
+  The maximum value of al of the 24 values
+
+  of n(i) that ocurs at the k
+
+  - th instant of time.
+
+
+  N(k)
+
+
+  noy
+
+
+  Total perceived noisines.
+
+  The total perceived noisines at the k
+
+  - th instant
+
+  of time calculated from the 24
+
+  - instantaneous values of n (i, k).
+
+
+  p(b), p(c),
+
+  etc
+
+
+  Noy slope.
+
+  The slopes of straight lines representing the variation of SPL
+
+  with log n.
+
+
+  PNL
+
+
+  PNdB
+
+
+  The perceived noise level
+
+  at any instant of time. (The unit PNdB is used
+
+  instead of the unit dB).
+
+
+  PNL(k)
+
+
+  PNdB
+
+
+  The perceived noise level calculated from the 24 values of SPL (i, k), at
+
+  the k
+
+  - th increment of time. (The unit PNdB is used instead of the unit dB).
+
+
+  PNLM
+
+
+  PNdB
+
+
+  Maximum
+
+  perceived noise level.
+
+  The maximum value of PNL(k). (The unit
+
+  PNdB is used instead of the unit dB).
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  47
+
+  / 121
+
+
+  PNLT
+
+
+  TPNdB
+
+
+  Tone
+
+  - corected perceived noise level.
+
+  The value of PNL adjusted for the
+
+  spectral iregularities that ocur at any instant of time. (The unit TPN
+
+  dB is
+
+  used instead of the unit dB).
+
+
+  PNLT(k)
+
+
+  TPNdB
+
+
+  The tone
+
+  - corected perceived noise level that ocurs at the k
+
+  - th increment
+
+  of time. PNLT(k) is obtained by adjusting the value of PNL(k) for the
+
+  spectral iregularities that ocur at the k
+
+  - th increment of
+
+  time. (The unit
+
+  TPNdB is used instead of the unit dB).
+
+
+  PNLTM
+
+
+  TPNdB
+
+
+  Maximum tone
+
+  - corected perceived noise level.
+
+  The maximum value of
+
+  PNLT(k). (The unit TPNdB is used instead of the unit dB).
+
+
+  PNLT
+
+  r
+
+  TPNdB
+
+
+  Tone
+
+  - corected perceived noise level adjusted for
+
+  reference conditions.
+
+
+  s (i, k)
+
+
+  dB
+
+
+  Slope of sound presure level.
+
+  The change in level betwen adjacent one
+
+  -
+
+  third octave band sound presure levels at the i
+
+  - th band for the k
+
+  - th instant
+
+  of time.
+
+
+  ǻs (i
+
+
+  dB
+
+
+  Change in slope of sound presure level.
+
+
+  sƍ (i
+
+  k)
+
+
+  dB
+
+
+  Adjusted slope of sound presure level. The change in level betwen
+
+  adjacent adjusted one
+
+  - third octave band sound presure levels at the i
+
+  - th
+
+  band for the k
+
+  - th instant of time.
+
+
+  s (i, k)
+
+
+  dB
+
+
+  Average slope of sound presure level.
+
+
+  SPL
+
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  So
+
+  und presure level.
+
+  The sound presure level that ocurs in a specified
+
+  frequency range at any instant of time.
+
+
+  SPL(a)
+
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  Noy discontinuity cordinate.
+
+  The SPL value of the intersection point of
+
+  the straight lines representing the variation of S
+
+  PL with log n.
+
+
+  SPL(b)
+
+
+  SPL (c)
+
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  Noy intercept.
+
+  The intercepts on the SPL
+
+  - axis of the straight lines
+
+  representing the variation of SPL with log n.
+
+
+  SPL (i, k)
+
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  The sound presure level at the k
+
+  - th instant of time that ocurs in the
+
+  i - th
+
+  one
+
+  - third octave band.
+
+
+  SPLƍ
+
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  Adjusted sound presure level.
+
+  The first aproximation to background
+
+  sound presure level in the i
+
+  - th one
+
+  - third octave band for the k
+
+  - th instant of
+
+  time.
+
+
+  SPL(i)
+
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  Maximum sound presure
+
+  level.
+
+  The sound presure level that ocurs in the
+
+  i - th one
+
+  - third octave band of the spectrum for PNLTM.
+
+
+  SPL(i)
+
+  r
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  Corected maximum sound presure level.
+
+  The sound presure level that
+
+  ocurs in the i
+
+  - th one
+
+  - third octave band of the spectrum fo
+
+  r PNLTM
+
+  corected for atmospheric sound absorption.
+
+
+  SPLƍ
+
+
+  dB
+
+  re
+
+
+  20 µPa
+
+
+  Final background sound presure level.
+
+
+  The second and final
+
+  aproximation to background sound presure level in the i
+
+  - th one
+
+  - third
+
+  octave band for the k
+
+  - th instant of time.
+
+
+  t
+
+  s
+
+  Elapsed time.
+
+  The length of time measured from a reference zero.
+
+
+  t(1), t(2)
+
+
+  s
+
+  Time limit.
+
+  The begining and end, respectively, of the noise time history
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  48
+
+  / 121
+
+
+  defined by h.
+
+
+  ǻt
+
+
+  s
+
+  Time increment.
+
+  The equal increments of time for which PNL(k) and
+
+  PNLT(k) are calculated.
+
+
+  T
+
+  s
+
+  Normalizing time constant.
+
+  The length of time used as a reference in the
+
+  integration method for computing duration corections, where T=10s.
+
+
+  t(°F) (°C)
+
+
+  °F, °C
+
+
+  Temperature.
+
+  The
+
+  ambient air temperature.
+
+
+  Į(i)
+
+
+  dB/10ft
+
+  db/10m
+
+
+  Test atmospheric absorption.
+
+  The atmospheric atenuation of sound that
+
+  ocurs in the i
+
+  - th one
+
+  - third octave band at the measured air temperature
+
+  and relative humidity.
+
+
+  Į(i)
+
+  o
+
+  dB/10ft
+
+  db/10m
+
+
+  Reference
+
+  atmospheric absorption.
+
+  The atmospheric atenuation of sound
+
+  that ocurs in the i
+
+  - th one
+
+  - third octave band at a reference air temperature
+
+  and relative humidity.
+
+
+  A
+
+  1
+
+  Degres
+
+
+  First constant climb angle (Gear up, sped of at least V
+
+  2 +10 kt (V
+
+  2 +19
+
+  km/h), takeo
+
+  f thrust).
+
+
+  A
+
+  2
+
+  Degres
+
+
+  Second constant climb angle (Gear up, sped of at least V
+
+  2 +10 kt (V
+
+  2 +19
+
+  km/h), after cut
+
+  - back).
+
+
+  į
+
+  İ
+
+  Degres
+
+
+  Thrust cutback angles.
+
+  The angles defining the points on the takeof flight
+
+  path at which thrust reduction is started and ended respectively.
+
+
+  Ș
+
+  Degres
+
+
+  Aproach angle.
+
+
+  Șr
+
+  Degres
+
+
+  Reference aproach angle.
+
+
+  Ĭ
+
+  Degres
+
+
+  Noise angle (relative to flight path).
+
+  The angle betwen the
+
+  flight path and
+
+  noise path. It is identical for both measured and corected flight paths.
+
+
+  ȥ
+
+  Degres
+
+
+  Noise angle (relative to ground).
+
+  The angle betwen the noise path and the
+
+  ground. It is identical for both measured and corected flight paths.
+
+
+  ȝ
+
+
+  Engine noise emision parameter.
+
+
+  ȝr
+
+
+  Reference engine noise emision parameter.
+
+
+  ǻ1
+
+  EPNdB
+
+
+  PNLT corection.
+
+  The corection to be aded to the EPNL calculated from
+
+  measured data to acount for noise level changes due to diferences in
+
+  atmospheric absorption
+
+  and noise path length betwen reference and test
+
+  conditions.
+
+
+  ǻ2
+
+  EPNdB
+
+
+  Adjustment to duration corection.
+
+  The adjustment to be made to the
+
+  EPNL calculated from measured data to acount for noise level changes
+
+  due to the noise duration betwen reference and test conditions.
+
+
+  ǻ3
+
+  EPNdB
+
+
+  Source noise adjustment.
+
+  The adjustment to be made to the EPNL
+
+  calculated fro
+
+  m measured data to acount for noise level changes due to
+
+  diferences betwen reference and test engine operating conditions.
+
+
+  Section A36.7
+
+  Sound Atenuation in Air
+
+
+  A36.7.1
+
+  The atmospheric atenuation of sound must be determined in acordance with the
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  49
+
+  / 121
+
+
+  p rocedure presented in section A36.7.2.
+
+
+  A36.7.2
+
+  The relationship betwen sound atenuation, frequency, temperature, and humidity is
+
+  expresed by the folowing equations.
+
+
+  A36.7.2(a)
+
+  For calculations using the English System of Units:
+
+
+  and
+
+
+  where
+
+
+  Ș( į) is listed in Table A36
+
+  œ4 and f
+
+  0 in Table A36
+
+  œ5;
+
+  Į(i) is the atenuation coeficient in dB/10 ft;
+
+
+  Ĭ is the temperature in °F; and
+
+
+  H is the relative humidity, expresed as a percentage.
+
+
+  A36.7.2(b) For calculations using the International System of Units (SI):
+
+
+  and
+
+
+  where
+
+
+  Ș( į) is listed in Table A36
+
+  œ4 and f
+
+  0 in Table A36
+
+  œ5;
+
+  Į(i) is the atenuation coeficient in dB/10 m;
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  50
+
+  / 121
+
+
+  Ĭ is the temperature in °C; and
+
+
+  H is the relative humidity, expresed as a percentage.
+
+
+  A36.7.3
+
+  The values listed in table A36
+
+  œ4 ar
+
+  e to be used when calculating the equations listed in
+
+  section A36.7.2. A term of quadratic interpolation is to be used where necesary.
+
+
+  Section A36.8 [Reserved]
+
+
+  Section A36.9
+
+  Adjustment of Air
+
+  plane Flight Test Results.
+
+
+  A36.9.1
+
+  When certification test conditions are not identical to reference conditions, apropriate
+
+  adjustments must be made to the measured noise data using the methods described in this
+  section.
+
+
+  A36.9.1.1
+
+  Adjustments to the mea
+
+  sured noise values must be made using one of the methods
+
+  described in sections A36.9.3 and A36.9.4 for diferences in the folowing:'
+keywords:
+- ruido
+- meio-ambiente
+- level
+- noise
+- time
+- sound
+- presure
+- that
+- band
+- unit
+- octave
+- perceived
+- reference
+- third
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

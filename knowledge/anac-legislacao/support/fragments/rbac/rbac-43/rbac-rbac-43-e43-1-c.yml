@@ -1,0 +1,49 @@
+id: rbac-rbac-43-e43-1-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: E43.1
+section_title: Testes e inspeções do sistema do altímetro
+subsection_id: c
+cite: E43.1(c)
+title: E43.1(c)
+text: '(c) Teste de Integração de Equipamentos Automáticos de Informação de Altitude e Sistemas
+
+  Transponder. O teste deve ser conduzido por uma pessoa apropriadamente qualificada, conforme
+  as
+
+  condições especificadas no parágrafo (a) deste apêndice. Meça a indicação de altitude-pressão
+
+  automática na saída do transponder instalado na aeronave, interrogando no Mode C, em um
+  número
+
+  suficiente de pontos de teste que garanta que o equipamento, altímetro e transponder desempenham
+
+  satisfatoriamente as funções para as quais foram instalados na aeronave. A diferença entre
+  a
+
+  resposta automática de saída e a altitude mostrada no altímetro não deve exceder 125 pés
+  (38,1 m).
+
+
+  Data da emissão: 15 de março de 2021'
+keywords:
+- manutencao
+- aeronavegabilidade
+- altimetro
+- altitude
+- teste
+- transponder
+- aeronave
+- automatica
+- saida
+- apendice
+- apropriadamente
+- automaticos
+- condicoes
+- conduzido
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

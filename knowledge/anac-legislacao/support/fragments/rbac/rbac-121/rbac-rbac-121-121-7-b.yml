@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-7-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.7'
+section_title: Definições
+subsection_id: b
+cite: 121.7(b)
+title: 121.7(b)
+text: '(b)
+
+  Aeródromo de Alternativa em rota ETOPS
+
+  significa um Aeródromo Adequado e conveniente no qual um avião pode pousar após experimentar
+  uma parada de motor ou outra condição anormal ou de emergência que ocorra em rota durante
+  uma operação ETOPS;'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- etops
+- rota
+- adequado
+- alternativa
+- anormal
+- aviao
+- condicao
+- conveniente
+- definicoes
+- durante
+- emergencia
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-152-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.152'
+section_title: Gravadores de dados de voo
+subsection_id: c
+cite: 135.152(c)
+title: 135.152(c)
+text: (c) Para todos os aviões com motores a turbina tendo uma configuração para passageiros,
+  excluindo qualquer assento requerido para tripulantes, de 10 a 19 assentos e que tenha sido
+  fabricado após 18 de agosto de 2002, os parâmetros listados nos parágrafos 135.152(h)(1)
+  a 135.152(h)(88) devem ser registrados dentro das faixas, precisões, resoluções e intervalos
+  de gravação especificados no Apêndice M do RBAC nº 121.
+keywords:
+- taxi-aereo
+- operacoes
+- agosto
+- apendice
+- assento
+- assentos
+- avioes
+- configuracao
+- dados
+- dentro
+- especificados
+- excluindo
+- fabricado
+- faixas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

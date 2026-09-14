@@ -1,0 +1,47 @@
+id: rbac-rbac-135-135-367-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.367'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de decolagem'
+subsection_id: a
+cite: 135.367(a)
+title: 135.367(a)
+text: '(a) No caso de um grande avião categoria transporte com motores convencionais, somente
+  é permitido decolar com esse avião se for possível:
+
+  (1) parar o avião com segurança na pista, como mostrado pelos dados de aceleração e parada
+  do manual de voo do avião, a qualquer tempo durante a decolagem até atingir a velocidade
+  de falha do motor crítico;
+
+  (2) se o motor crítico falhar em qualquer tempo após ser atingida a velocidade de falha
+  do motor crítico, V1, continuar a decolagem e atingir uma altura de 50 pés, como indicado
+  pelos dados de trajetória de decolagem do manual de voo do avião, antes de passar sobre
+  o fim da pista; e
+
+  (3) livrar todos os obstáculos por pelo menos 50 pés verticalmente (como mostrado pelos
+  dados da trajetória da decolagem) ou por 200 pés horizontalmente dentro dos limites do aeródromo
+  e 300 pés horizontalmente além desses limites, sem inclinação antes de alcançar a altura
+  de 50 pés (como mostrado pelos dados da trajetória da decolagem) e, após, sem inclinação
+  maior do que 15º.'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- aviao
+- dados
+- pelos
+- critico
+- mostrado
+- motor
+- trajetoria
+- altura
+- atingir
+- categoria
+- convencionais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

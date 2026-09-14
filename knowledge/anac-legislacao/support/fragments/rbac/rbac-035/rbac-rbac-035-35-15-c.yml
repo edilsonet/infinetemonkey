@@ -1,0 +1,52 @@
+id: rbac-rbac-035-35-15-c
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.15'
+section_title: '35.15'
+subsection_id: c
+cite: 35.15(c)
+title: 35.15(c)
+text: '(c) As falhas principais de certos elementos
+
+  unitários de hélices (por exemplo, pás) não po-
+
+  dem ser sensatamente estimadas em termos nu-
+
+  méricos. Se for provável que a falha de tais
+
+  elementos resulte em efeitos hazardous de héli-
+
+  ce, estes elementos devem ser identificados co-
+
+  mo partes críticas de hélice. Para partes críticas
+
+  de hélice, o requerente deve satisfazer os requi-
+
+  sitos de integridade prescritos na seção 35.16.
+
+  Esses casos devem ser citados na análise de
+
+  segurança. (Redação dada pela Resolução nº
+
+  486, de 09.08.2018)'
+keywords:
+- helices
+- aeronavegabilidade
+- elementos
+- criticas
+- helice
+- partes
+- analise
+- casos
+- certos
+- citados
+- dada
+- efeitos
+- esses
+- estes
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

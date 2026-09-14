@@ -1,0 +1,43 @@
+id: rbac-rbac-119-119-65-e
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.65'
+section_title: Pessoal de administração requerido para operações conduzidas segundo o RBAC
+  121
+subsection_id: e
+cite: 119.65(e)
+title: 119.65(e)
+text: '(e) Cada detentor de certificado deve:
+
+  (1) estabelecer nas provisões de política geral do manual requerido pelo RBAC 121.133 os
+
+  deveres, responsabilidades e autoridade do pessoal requerido pelo parágrafo (a) desta seção;
+
+  (2) listar no manual os nomes e endereços comerciais dos indivíduos designados para aquelas
+
+  posições; e
+
+  (3) notificar à ANAC, no prazo de 10 dias, qualquer modificação no pessoal ou qualquer vaga
+
+  aberta em qualquer das posições listadas.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- pessoal
+- requerido
+- manual
+- posicoes
+- aberta
+- administracao
+- aquelas
+- autoridade
+- cada
+- certificado
+- comerciais
+- conduzidas
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

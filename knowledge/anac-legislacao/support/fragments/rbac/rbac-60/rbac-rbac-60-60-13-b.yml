@@ -1,0 +1,56 @@
+id: rbac-rbac-60-60-13-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.13'
+section_title: Requisitos de dados objetivos do
+subsection_id: b
+cite: 60.13(b)
+title: 60.13(b)
+text: '(b) e (c) desta seção, a fim de validar o
+
+  desempenho e as características do FSTD
+
+  durante a avaliação de qualificação, os dados
+
+  da aeronave disponibilizados para a ANAC
+
+  (pacote de dados de validação) devem incluir
+
+  os dados de ensaio em voo do fabricante da
+
+  aeronave e todos os dados relevantes
+
+  desenvolvidos após a emissão do certificado
+
+  de tipo da aeronave (por exemplo, dados
+
+  desenvolvidos em resposta a uma diretriz de
+
+  aeronavegabilidade) se estes dados afetarem
+
+  o desempenho, a qualidade de voo, as
+
+  funcionalidades ou outras características da
+
+  aeronave.'
+keywords:
+- simuladores
+- treinamento
+- dados
+- aeronave
+- caracteristicas
+- desempenho
+- desenvolvidos
+- aeronavegabilidade
+- afetarem
+- avaliacao
+- certificado
+- desta
+- diretriz
+- disponibilizados
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

@@ -1,0 +1,127 @@
+id: rbac-rbac-153-153-411-a
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: '153.411'
+section_title: '153.411'
+subsection_id: a
+cite: 153.411(a)
+title: 153.411(a)
+text: '(a) A CAT-AV das aeronaves de asas fixas é determinada a partir da Tabela 153.411-1,
+  da
+
+  seguinte forma:
+
+  (1)
+
+  pela CAT-AV associada ao comprimento total da aeronave, nos casos em que a largura
+
+  máxima de sua fuselagem não excede o limite da coluna 3; ou
+
+  (2)
+
+  pela CAT-AV imediatamente superior àquela associada ao comprimento total da
+
+  aeronave, nos casos em que a largura máxima de sua fuselagem excede o limite da coluna 3.
+
+
+  Data da emissão: 15 de março de 2021.
+
+
+  Tabela 153.411-1 - Categoria Contraincêndio das Aeronaves de Asas Fixas
+
+  CAT-AV
+
+  Comprimento total da
+
+  aeronave (em metros)
+
+  Largura máxima da
+
+  fuselagem (em metros)
+
+  [1]
+
+  [2]
+
+  [3]
+
+  1
+
+  De 0 a menos de 9
+
+  2
+
+  2
+
+  De 9 a menos de 12
+
+  2
+
+  3
+
+  De 12 a menos de 18
+
+  3
+
+  4
+
+  De 18 a menos de 24
+
+  4
+
+  5
+
+  De 24 a menos de 28
+
+  4
+
+  6
+
+  De 28 a menos de 39
+
+  5
+
+  7
+
+  De 39 a menos de 49
+
+  5
+
+  8
+
+  De 49 a menos de 61
+
+  7
+
+  9
+
+  De 61 a menos de 76
+
+  7
+
+  10
+
+  De 76 a menos de 90
+
+  8'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- menos
+- aeronave
+- comprimento
+- fuselagem
+- largura
+- maxima
+- total
+- aeronaves
+- asas
+- associada
+- casos
+- coluna
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

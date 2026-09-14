@@ -1,0 +1,31 @@
+id: rbac-rbac-110-emd-02-110-41-b
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.41'
+section_title: Turma de curso AVSEC
+subsection_id: b
+cite: 110.41(b)
+title: 110.41(b)
+text: (b) Uma turma de curso AVSEC deve possuir no mínimo um instrutor com certificação válida
+  até a data de término do curso, referente à etapa do centro de instrução.
+keywords:
+- carga
+- operacoes
+- curso
+- avsec
+- turma
+- centro
+- certificacao
+- data
+- etapa
+- instrucao
+- instrutor
+- minimo
+- possuir
+- referente
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-87-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.87'
+section_title: Transporte de carga, incluindo bagagem de mão
+subsection_id: v
+cite: 135.87(v)
+title: 135.87(v)
+text: '(v) não estando localizada diretamente acima de ocupantes sentados, exceto se em compartimentos
+  fechados aprovados (“
+
+  overhead bins
+
+  ”);
+
+  (vi) guardada em conformidade com esta seção para decolagens e pousos; e
+
+  (vii) para operações exclusivamente cargueiras, não se aplica o parágrafo (a)(3)(iv) desta
+  seção se a carga for colocada de modo que pelo menos uma saída de emergência ou normal permaneça
+  disponível para que todos os ocupantes tenham uma saída da aeronave desobstruída caso ocorra
+  uma emergência.'
+keywords:
+- taxi-aereo
+- operacoes
+- carga
+- emergencia
+- ocupantes
+- saida
+- secao
+- acima
+- aeronave
+- aplica
+- aprovados
+- bagagem
+- bins
+- cargueiras
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-135-135-155-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.155'
+section_title: 'Extintores de incêndio: aeronaves transportando passageiros'
+subsection_id: b
+cite: 135.155(b)
+title: 135.155(b)
+text: (b) pelo menos um extintor manual deve ser provido e adequadamente posicionado na cabine
+  de comando, para uso dos tripulantes; e
+keywords:
+- taxi-aereo
+- operacoes
+- adequadamente
+- aeronaves
+- cabine
+- comando
+- extintor
+- extintores
+- incendio
+- manual
+- menos
+- passageiros
+- posicionado
+- provido
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

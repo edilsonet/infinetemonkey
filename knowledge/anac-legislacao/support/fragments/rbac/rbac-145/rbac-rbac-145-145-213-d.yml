@@ -1,0 +1,34 @@
+id: rbac-rbac-145-145-213-d
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.213'
+section_title: Inspeção da manutenção, manutenção preventiva ou alteração
+subsection_id: d
+cite: 145.213(d)
+title: 145.213(d)
+text: '(d) Para uma organização de manutenção localizada no Brasil, somente uma pessoa autorizada
+
+  por essa organização, detentora de licença de mecânico de manutenção aeronáutica emitida
+  pela
+
+  ANAC, pode assinar a inspeção final e a liberação de manutenção.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- organizacao
+- aeronautica
+- alteracao
+- assinar
+- autorizada
+- brasil
+- detentora
+- emitida
+- final
+- liberacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

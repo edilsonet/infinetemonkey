@@ -1,0 +1,49 @@
+id: rbac-rbac-145-145-201-a
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.201'
+section_title: Prerrogativas e limitações do certificado
+subsection_id: a
+cite: 145.201(a)
+title: 145.201(a)
+text: '(a) Cada organização de manutenção certificada pode:
+
+  (1) executar manutenção, manutenção preventiva ou alteração, de acordo com o RBAC 43,
+
+  em qualquer artigo para a categoria na qual foi certificada e dentro das limitações em suas
+
+  especificações operativas;
+
+  (2) subcontratar outra pessoa para executar manutenção, manutenção preventiva ou alteração
+
+  de qualquer artigo para o qual é certificada. Se esta outra pessoa não é certificada conforme
+  este
+
+  RBAC, a organização de manutenção certificada deve assegurar que a pessoa não certificada
+
+  cumpre com um sistema de controle da qualidade equivalente ao usado por ela; e
+
+  (3) aprovar para retorno ao serviço qualquer artigo para o qual está certificada, depois
+  de ter
+
+  executado manutenção, manutenção preventiva ou alteração, de acordo com o RBAC 43.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- certificada
+- alteracao
+- artigo
+- pessoa
+- preventiva
+- qual
+- acordo
+- executar
+- limitacoes
+- organizacao
+- outra
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

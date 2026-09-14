@@ -1,0 +1,49 @@
+id: rbac-rbac-135-135-364-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.364'
+section_title: Limitações dos aviões. Tipo de rota
+subsection_id: b
+cite: 135.364(b)
+title: 135.364(b)
+text: '(b) Um avião a reação bimotor, impedido de realizar uma rota pelo parágrafo (a) desta
+  seção, pode fazê-lo se:
+
+  (1) sua certificação de aeronavegabilidade permitir especificamente operações além do tempo
+  descrito no parágrafo (a) desta seção, levando-se em conta seu projeto de tipo e os aspectos
+  de confiabilidade;
+
+  (2) o detentor de certificado demonstrar que é capaz de manter o nível de confiabilidade
+  requerida para aprovação ETOPS;
+
+  (3) todos os requisitos especiais de manutenção estiverem totalmente cumpridos;
+
+  (4) todos os requisitos para despacho de voo forem atendidos;
+
+  (5) todos os requisitos operacionais em voo necessários estiverem estabelecidos;
+
+  (6) o operador possuir os procedimentos descritos acima no manual geral da empresa ou em
+  um manual específico para operações ETOPS aceito pela ANAC; e
+
+  (7) a ANAC aprovar a operação por meio da sua inclusão nas especificações operativas do
+  detentor de certificado.'
+keywords:
+- taxi-aereo
+- operacoes
+- requisitos
+- todos
+- certificado
+- confiabilidade
+- desta
+- detentor
+- estiverem
+- etops
+- manual
+- paragrafo
+- rota
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

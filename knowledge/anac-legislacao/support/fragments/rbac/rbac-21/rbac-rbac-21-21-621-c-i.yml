@@ -1,0 +1,35 @@
+id: rbac-rbac-21-21-621-c-i
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.621'
+section_title: 'Emissão de carta de aprovação de projeto segundo uma OTP: artigos importados'
+subsection_id: c-i
+cite: 21.621(c-I)
+title: 21.621(c-I)
+text: (c)-I Após a ANAC emitir a carta de aprovação de projeto, o fabricante será autorizado
+  a identificar o seu artigo com a marcação OTP descrita nos parágrafos 21.616(d), na OTP
+  aplicável, a menos que a ANAC considere aceitável a manutenção da marcação autorizada pela
+  autoridade de aviação civil estrangeira, como, por exemplo, FAA-TSO. Cada artigo deve ser
+  acompanhado de uma aprovação de aeronavegabilidade para exportação emitida pelo país do
+  fabricante conforme especificado no parágrafo 21.502(a).
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aprovacao
+- artigo
+- carta
+- fabricante
+- marcacao
+- aceitavel
+- acompanhado
+- aplicavel
+- artigos
+- autoridade
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

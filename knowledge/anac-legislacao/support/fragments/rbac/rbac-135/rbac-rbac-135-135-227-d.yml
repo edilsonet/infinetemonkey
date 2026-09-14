@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-227-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.227'
+section_title: 'Condições de gelo: limitações operacionais'
+subsection_id: d
+cite: 135.227(d)
+title: 135.227(d)
+text: (d) Um piloto somente pode operar um helicóptero em voo IFR em condições conhecidas
+  ou previstas de formação de gelo, ou em voo VFR em condições conhecidas de formação de gelo,
+  se o helicóptero tiver sido certificado e esteja adequadamente equipado para operação em
+  condições de formação de gelo.
+keywords:
+- taxi-aereo
+- operacoes
+- condicoes
+- gelo
+- formacao
+- conhecidas
+- helicoptero
+- adequadamente
+- certificado
+- equipado
+- esteja
+- limitacoes
+- operacao
+- operacionais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

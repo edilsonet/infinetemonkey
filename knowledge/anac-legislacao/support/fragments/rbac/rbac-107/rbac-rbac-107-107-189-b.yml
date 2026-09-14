@@ -1,0 +1,38 @@
+id: rbac-rbac-107-107-189-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.189'
+section_title: Tratamento de Não Conformidades
+subsection_id: b
+cite: 107.189(b)
+title: 107.189(b)
+text: '(b) O operador de aeródromo deve aplicar procedimentos internos para identificar, documentar
+  e tratar não conformidades relacionadas à regulamentação AVSEC vigente.
+
+  (1) Devem ser tratadas tanto as não conformidades detectadas em atividades de controle de
+  qualidade AVSEC realizadas pelo operador de aeródromo quanto em atividades conduzidas pela
+  ANAC.
+
+  (2) As falhas de procedimentos identificadas ao longo da realização dos exercícios de segurança
+  devem ser corrigidas por meio de plano de ação que inclua as entidades envolvidas na falha.'
+keywords:
+- seguranca
+- aeroporto
+- conformidades
+- aerodromo
+- atividades
+- avsec
+- operador
+- procedimentos
+- acao
+- aplicar
+- conduzidas
+- controle
+- corrigidas
+- detectadas
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

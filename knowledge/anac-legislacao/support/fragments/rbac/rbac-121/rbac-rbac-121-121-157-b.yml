@@ -1,0 +1,34 @@
+id: rbac-rbac-121-121-157-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.157'
+section_title: Requisitos de certificação dos aviões
+subsection_id: b
+cite: 121.157(b)
+title: 121.157(b)
+text: (b) Aviões com certificado de tipo emitido depois de 30 de junho de 1942. Exceto como
+  previsto nos parágrafos (c), (d), (e) e (f) desta seção, nenhum detentor de certificado
+  pode operar um avião que tenha recebido um certificado de tipo após 30 de junho de 1942,
+  a menos que tal avião tenha sido certificado na categoria transporte e atenda aos requisitos
+  de 121.173(a), (b), (d) e (e).
+keywords:
+- transporte-aereo
+- operacoes
+- certificado
+- aviao
+- avioes
+- junho
+- requisitos
+- tenha
+- tipo
+- atenda
+- categoria
+- certificacao
+- depois
+- desta
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

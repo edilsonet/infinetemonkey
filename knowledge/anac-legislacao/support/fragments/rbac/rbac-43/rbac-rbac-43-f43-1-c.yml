@@ -1,0 +1,38 @@
+id: rbac-rbac-43-f43-1-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: c
+cite: F43.1(c)
+title: F43.1(c)
+text: '(c) Sensibilidade do receptor
+
+  (1) Verificar se para qualquer classe de transponder ATCRBS o nível mínimo de
+
+  acionamento (Minimum Triggering Level - MTL) do receptor do sistema é -73+4 dBm ou que para
+
+  qualquer classe de transponder Mode S o MTL do receptor, para interrogações Mode S formato
+
+  (tipo P6), é -74+3 dBm usando um equipamento de teste:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- receptor
+- transponder
+- classe
+- mode
+- acionamento
+- atcrbs
+- equipamento
+- formato
+- inspecoes
+- interrogacoes
+- level
+- minimo
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

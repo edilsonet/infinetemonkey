@@ -1,0 +1,36 @@
+id: rbac-rbac-110-emd-02-110-13-a
+kind: rbac
+document: rbac-110-emd-02
+family: '110'
+section_id: '110.13'
+section_title: Capacitação em Segurança da Aviação Civil - AVSEC
+subsection_id: a
+cite: 110.13(a)
+title: 110.13(a)
+text: '(a) Os cursos AVSEC abordam procedimentos de segurança e objetivam capacitar profissionais
+  que desempenharão atividades AVSEC.
+
+  (1) Durante as aulas dos cursos AVSEC do tipo Formação, os instrutores não devem utilizar
+  exemplos específicos de organização com responsabilidade AVSEC que possam comprometer a
+  segurança da aviação civil contra atos de interferência ilícita, como os critérios de imprevisibilidade,
+  entre outros aspectos específicos.'
+keywords:
+- carga
+- operacoes
+- avsec
+- seguranca
+- aviacao
+- civil
+- cursos
+- especificos
+- abordam
+- aspectos
+- atividades
+- atos
+- aulas
+- capacitacao
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-110-emd-02.md

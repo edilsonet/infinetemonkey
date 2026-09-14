@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-201-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.201'
+section_title: Aplicabilidade
+subsection_id: body
+cite: '135.201'
+title: Aplicabilidade
+text: '135.201 Aplicabilidade
+
+  Esta Subparte estabelece regras de limitações operacionais para operações VFR/IFR e as associadas
+  condições atmosféricas para operações segundo este Regulamento.'
+keywords:
+- taxi-aereo
+- operacoes
+- aplicabilidade
+- associadas
+- atmosfericas
+- condicoes
+- estabelece
+- limitacoes
+- operacionais
+- regras
+- regulamento
+- segundo
+- subparte
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

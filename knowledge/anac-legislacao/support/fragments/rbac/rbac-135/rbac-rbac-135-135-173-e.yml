@@ -1,0 +1,30 @@
+id: rbac-rbac-135-135-173-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.173'
+section_title: Requisitos para equipamentos de detecção de trovoadas
+subsection_id: e
+cite: 135.173(e)
+title: 135.173(e)
+text: (e) Esta seção não se aplica para aeronaves durante operações de treinamento, ensaios
+  e em voos de traslado.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- aplica
+- deteccao
+- durante
+- ensaios
+- equipamentos
+- requisitos
+- secao
+- traslado
+- treinamento
+- trovoadas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

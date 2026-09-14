@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-242-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.242'
+section_title: 'Tripulação de voo: geral'
+subsection_id: f
+cite: 135.242(f)
+title: 135.242(f)
+text: '(f) O detentor de certificado não pode permitir que um tripulante exerça e um tripulante
+  não pode exercer duas ou mais funções simultâneas a bordo de uma aeronave, mesmo que esse
+  tripulante seja habilitado pela ANAC para o exercício de mais de uma função a bordo.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- tripulante
+- bordo
+- pode
+- aeronave
+- certificado
+- dada
+- detentor
+- duas
+- exerca
+- exercer
+- exercicio
+- funcao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

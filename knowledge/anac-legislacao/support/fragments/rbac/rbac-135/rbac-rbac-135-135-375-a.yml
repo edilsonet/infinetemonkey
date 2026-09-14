@@ -1,0 +1,46 @@
+id: rbac-rbac-135-135-375-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.375'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de pouso no aeródromo de destino'
+subsection_id: a
+cite: 135.375(a)
+title: 135.375(a)
+text: '(a) Exceto como previsto no parágrafo (b) desta seção, no caso de um grande avião categoria
+  transporte com motores convencionais, somente é permitido decolar com esse avião se o seu
+  peso estimado na chegada ao aeródromo de destino, considerando consumo normal de combustível
+  e óleo em rota, permitir um pouso completo (pouso e parada na pista) nesse aeródromo, dentro
+  de 60% do comprimento efetivo de cada uma das pistas descritas abaixo, considerando que
+  o avião passa na altura de 50 pés sobre a vertical do ponto de interseção do plano de liberação
+  de obstáculos com a linha central da pista. Para o propósito de determinar o peso de pouso
+  autorizado no aeródromo de destino, considera-se que o avião deve pousar:
+
+  (1) na pista e no sentido mais favoráveis, considerando ar calmo; ou
+
+  (2) na pista mais adequada, considerando a direção e intensidade do vento previsto no horário
+  estimado de pouso, as características de manobrabilidade no solo do tipo de avião e outras
+  condições, como auxílios de pouso e características do terreno. Para a influência do vento
+  na aproximação e pouso é autorizado considerar não mais que 50% da componente de vento de
+  proa e não menos que 150% da componente de vento de cauda.'
+keywords:
+- taxi-aereo
+- operacoes
+- pouso
+- aviao
+- aerodromo
+- considerando
+- pista
+- vento
+- destino
+- autorizado
+- caracteristicas
+- categoria
+- componente
+- convencionais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

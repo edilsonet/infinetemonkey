@@ -1,0 +1,36 @@
+id: rbac-rbac-145-145-153-d-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.153'
+section_title: Requisitos do pessoal de supervisão
+subsection_id: d-i
+cite: 145.153(d-I)
+title: 145.153(d-I)
+text: '(d)-I O pessoal de supervisão deve ser capaz de ler e entender o(s) idioma(s) em que
+  são
+
+  apresentados os dados técnicos e as instruções para aeronavegabilidade continuada necessárias
+  para
+
+  a realização dos serviços constantes em suas especificações operativas.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- pessoal
+- supervisao
+- aeronavegabilidade
+- apresentados
+- capaz
+- constantes
+- continuada
+- dados
+- entender
+- especificacoes
+- idioma
+- instrucoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

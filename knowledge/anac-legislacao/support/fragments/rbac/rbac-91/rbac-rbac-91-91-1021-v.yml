@@ -1,0 +1,56 @@
+id: rbac-rbac-91-91-1021-v
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1021'
+section_title: Sistema de gerenciamento de segurança operacional (SGSO)
+subsection_id: v
+cite: 91.1021(v)
+title: 91.1021(v)
+text: '(v) descrição da documentação que suporta o SGSO, incluindo o MGSO:
+
+  (A) O administrador de programa deve desenvolver e manter atualizada a documentação
+
+  do SGSO que descreva:
+
+  ( 1 ) a política e os objetivos de segurança operacional;
+
+  ( 2 ) os requisitos de segurança operacional do SGSO;
+
+  ( 3 ) os processos e procedimentos do SGSO;
+
+  ( 4 ) as obrigações, responsabilidades e atribuições dos membros da organização em
+
+  relação aos processos e procedimentos do SGSO; e
+
+  ( 5 ) os registros do SGSO e os respectivos controles necessários para sua identificação,
+
+  armazenamento, proteção, retenção e descarte; e
+
+  (B) O administrador de programa deve desenvolver e manter atualizado um manual de
+
+  gerenciamento da segurança operacional (MGSO), que é parte do manual geral da empresa, como
+
+  parte da documentação de seu SGSO;
+
+  (2) gerenciamento de riscos à segurança operacional:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sgso
+- operacional
+- seguranca
+- documentacao
+- gerenciamento
+- administrador
+- desenvolver
+- manter
+- manual
+- mgso
+- parte
+- procedimentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

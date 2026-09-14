@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-173-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.173'
+section_title: Requisitos para equipamentos de detecção de trovoadas
+subsection_id: b
+cite: 135.173(b)
+title: 135.173(b)
+text: '(b) Somente é permitido operar um helicóptero que tenha uma configuração para passageiros
+  de 10 ou mais assentos, excluindo qualquer assento para piloto, em operações VFR noturnas
+  transportando passageiros quando informações meteorológicas indicarem que existem razoáveis
+  probabilidades de que trovoadas ou outras condições atmosféricas potencialmente perigosas,
+  que podem ser detectadas pelo equipamento de bordo de detecção de trovoadas, ocorram ao
+  longo da rota a ser voada, se o helicóptero estiver equipado com um equipamento de detecção
+  de trovoadas (tipo “
+
+  storm-scope
+
+  ”) ou um radar meteorológico, ambos aprovados.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- trovoadas
+- deteccao
+- equipamento
+- helicoptero
+- passageiros
+- ambos
+- aprovados
+- assento
+- assentos
+- atmosfericas
+- bordo
+- condicoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

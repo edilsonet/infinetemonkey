@@ -1,0 +1,43 @@
+id: rbac-rbac-155-155-109-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.109'
+section_title: '155.109'
+subsection_id: a
+cite: 155.109(a)
+title: 155.109(a)
+text: '(a)
+
+  As distâncias a seguir, quando declaradas, devem ser expressas em metros e arredondadas
+  para o número inteiro inferior mais próximo:
+
+  (1)
+
+  distância disponível para decolagem de helicópteros (TODAH);
+
+  (2)
+
+  distância disponível para decolagem interrompida de helicópteros (RTODAH); e
+
+  (3)
+
+  distância disponível para pouso de helicópteros (LDAH).'
+keywords:
+- seguranca-aeroportuaria
+- disponivel
+- distancia
+- helicopteros
+- decolagem
+- arredondadas
+- declaradas
+- distancias
+- expressas
+- inferior
+- inteiro
+- interrompida
+- ldah
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,40 @@
+id: rbac-rbac-035-35-24-c
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.24'
+section_title: '35.24'
+subsection_id: c
+cite: 35.24(c)
+title: 35.24(c)
+text: '(c) O software embarcado do sistema de
+
+  controle eletrônico da hélice deve ser projetado
+
+  e implementado por um método aprovado pela
+
+  ANAC que seja consistente com a criticalidade
+
+  das funções executadas e que minimize a exis-
+
+  tência de erros de software.'
+keywords:
+- helices
+- aeronavegabilidade
+- software
+- aprovado
+- consistente
+- controle
+- criticalidade
+- eletronico
+- embarcado
+- erros
+- executadas
+- exis
+- funcoes
+- helice
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

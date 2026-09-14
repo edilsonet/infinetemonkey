@@ -1,0 +1,122 @@
+id: rbac-rbac-43-e43-1-i
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: E43.1
+section_title: Testes e inspeções do sistema do altímetro
+subsection_id: i
+cite: E43.1(i)
+title: E43.1(i)
+text: '(i) Erro de escala. Com a pressão barométrica ajustada para 29,92 polegadas de Hg
+
+  (1.013,2 hPa), o altímetro deve ser submetido sucessivamente a pressões correspondentes
+  às
+
+  altitudes especificadas na Tabela I, até a máxima altitude de operação aprovada para a aeronave
+
+  onde o instrumento será instalado. A redução de pressão deve ser feita em uma razão que
+  não
+
+  exceda 20.000 pés (6.096 m) por minuto dentro dos 2.000 pés (609,6 m) vizinhos do ponto
+  do teste.
+
+  O ponto de teste deve ser aproximado em uma razão compatível com o equipamento. O altímetro
+
+  deve ser mantido na pressão correspondente a cada ponto do teste no mínimo por 1 minuto,
+  mas não
+
+
+  Data da emissão: 15 de março de 2021
+
+
+  mais que 10 minutos antes de a leitura ser feita. Os erros em todos os pontos de teste não
+  podem
+
+  exceder as tolerâncias especificadas na Tabela I deste apêndice;
+
+  (ii) Histerese. O teste de histerese deve começar não mais que 15 minutos após a exposição
+
+  inicial do altímetro à pressão correspondente ao limite superior do teste de erro de escala
+  prescrito
+
+  no parágrafo (b)(1)(i) deste apêndice e, enquanto o altímetro estiver submetido a essa pressão,
+  o
+
+  teste de histerese deve começar. A pressão deve ser aumentada com uma razão entre 5.000
+  e 20.000
+
+  pés (1.524 e 6.096 m) por minuto até aproximar-se de 3.000 pés (914,4 m) do primeiro ponto
+  de
+
+  teste (50% da altitude máxima). A aproximação do ponto de teste deve ser feita mantendo-se
+  uma
+
+  razão de aproximadamente 3.000 pés (914,4 m) por minuto. O altímetro deve ser mantido na
+
+  pressão do ponto de teste no mínimo por 5 minutos, mas por não mais que 15 minutos, antes
+  de
+
+  fazer a leitura de teste. Após a leitura, a pressão deve ser aumentada da mesma maneira
+  que
+
+  anteriormente, até a pressão correspondente ao 2º ponto de teste (40% de altitude máxima)
+  ser
+
+  atingida. O altímetro deve ser mantido nessa pressão no mínimo por 1 minuto, mas por não
+  mais
+
+  que 10 minutos, antes de ser feita a nova leitura de teste. Após a segunda leitura a pressão
+  deve ser
+
+  novamente aumentada, da mesma maneira já descrita, até ser atingida a pressão atmosférica
+  local. A
+
+  leitura do altímetro em qualquer dos dois pontos de teste não pode diferir por mais do que
+  a
+
+  tolerância prevista na Tabela II deste apêndice da leitura do altímetro nas correspondentes
+  altitudes
+
+  anotadas no teste de erro de escala estabelecido no parágrafo (b)(1)(i) deste apêndice;
+  (Redação
+
+  dada pela Resolução nº 348, de 02.12.2014)
+
+  (iii) Efeito posterior. Não mais que 5 minutos após o término do teste de histerese
+
+  estabelecido no parágrafo (b)(1)(ii) deste apêndice, a leitura do altímetro (corrigida para
+  qualquer
+
+  variação na pressão atmosférica) não deve ser diferente da leitura original da pressão atmosférica
+
+  por mais do que a tolerância correspondente mostrada na Tabela II deste apêndice;
+
+  (iv) Atrito. O altímetro deve ser submetido a uma razão constante de decréscimo de
+
+  pressão de aproximadamente 750 pés (228,6 m) por minuto. A cada altitude listada na Tabela
+  III
+
+  deste apêndice, a mudança de leitura entre os ponteiros, após vibração, não deve exceder
+  as
+
+  tolerâncias estabelecidas na referida tabela;'
+keywords:
+- manutencao
+- aeronavegabilidade
+- teste
+- pressao
+- altimetro
+- leitura
+- apendice
+- deste
+- ponto
+- minuto
+- minutos
+- tabela
+- razao
+- altitude
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

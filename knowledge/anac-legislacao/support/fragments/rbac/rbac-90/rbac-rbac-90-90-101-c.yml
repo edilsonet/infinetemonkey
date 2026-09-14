@@ -1,0 +1,33 @@
+id: rbac-rbac-90-90-101-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.101'
+section_title: Requisitos gerais
+subsection_id: c
+cite: 90.101(c)
+title: 90.101(c)
+text: '(c) A UAP poderá estabelecer publicações/manuais complementares conforme as atribuições
+  específicas de cada órgão ou ente público.
+
+  (1) Os manuais complementares não estarão sujeitos à aprovação da ANAC.'
+keywords:
+- regras-de-voo
+- operacoes
+- complementares
+- manuais
+- aprovacao
+- atribuicoes
+- cada
+- ente
+- especificas
+- estabelecer
+- estarao
+- gerais
+- orgao
+- publicacoes
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

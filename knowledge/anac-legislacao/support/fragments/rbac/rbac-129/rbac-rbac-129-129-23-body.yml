@@ -1,0 +1,37 @@
+id: rbac-rbac-129-129-23-body
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.23'
+section_title: Requisitos para as aeronaves
+subsection_id: body
+cite: '129.23'
+title: Requisitos para as aeronaves
+text: '129.23 Requisitos para as aeronaves
+
+  No foreign air carrier may conduct operations between Brazil and foreign countries unless
+  such operations are performed using aircraft that meet the following requirements for airworthiness
+  and operational requirements:
+
+  Nenhuma empresa estrangeira de transporte aéreo pode conduzir operações entre o Brasil e
+  o exterior a menos que tais operações sejam realizadas utilizando aeronaves que atendam
+  aos seguintes requisitos de aeronavegabilidade e operacionais:'
+keywords:
+- operador-estrangeiro
+- operacoes
+- aeronaves
+- requisitos
+- foreign
+- operations
+- requirements
+- aereo
+- aeronavegabilidade
+- aircraft
+- airworthiness
+- atendam
+- between
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

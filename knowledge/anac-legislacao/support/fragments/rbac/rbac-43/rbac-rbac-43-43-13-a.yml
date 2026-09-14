@@ -1,0 +1,50 @@
+id: rbac-rbac-43-43-13-a
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.13'
+section_title: Regras de execução (geral)
+subsection_id: a
+cite: 43.13(a)
+title: 43.13(a)
+text: '(a) Cada pessoa que estiver executando manutenção, manutenção preventiva e alteração
+  em um
+
+  artigo deve usar métodos, técnicas e práticas estabelecidas na última revisão do manual
+  de
+
+  manutenção do fabricante, ou nas instruções para aeronavegabilidade continuada preparadas
+  pelo
+
+  fabricante ou outros métodos, técnicas e práticas aceitáveis pela ANAC, exceto como previsto
+  na
+
+  seção 43.16. A pessoa deve usar as ferramentas, equipamentos e aparelhos de teste necessários
+  para
+
+  assegurar a execução do trabalho de acordo com práticas industriais de aceitação geral.
+  Se o
+
+  fabricante envolvido recomendar equipamentos e aparelhos de teste especiais, a pessoa deve
+  usar
+
+  tais equipamentos e aparelhos ou equivalentes aceitos pela ANAC.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- aparelhos
+- equipamentos
+- fabricante
+- pessoa
+- praticas
+- usar
+- execucao
+- geral
+- metodos
+- tecnicas
+- teste
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

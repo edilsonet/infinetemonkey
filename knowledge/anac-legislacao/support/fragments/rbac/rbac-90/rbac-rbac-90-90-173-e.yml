@@ -1,0 +1,40 @@
+id: rbac-rbac-90-90-173-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.173'
+section_title: 'Treinamento inicial: currículo de solo'
+subsection_id: e
+cite: 90.173(e)
+title: 90.173(e)
+text: '(e) O componente curricular CRM ou SRM deverá conter:
+
+  (1) o treinamento em ambiente não operacional (sala de aula e/ou
+
+  computer-based
+
+  ) e no ambiente operacional da UAP (FSTD e/ou aeronave);
+
+  (2) os SOP;
+
+  (3) os conceitos básicos do CRM:'
+keywords:
+- regras-de-voo
+- operacoes
+- ambiente
+- operacional
+- treinamento
+- aeronave
+- aula
+- based
+- basicos
+- componente
+- computer
+- conceitos
+- conter
+- curricular
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

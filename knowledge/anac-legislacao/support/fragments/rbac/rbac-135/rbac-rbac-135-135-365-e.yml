@@ -1,0 +1,34 @@
+id: rbac-rbac-135-135-365-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.365'
+section_title: 'Grandes aviões categoria transporte com motores convencionais: limitações
+  de peso'
+subsection_id: e
+cite: 135.365(e)
+title: 135.365(e)
+text: (e) É vedado pode decolar com um grande avião categoria transporte com motores convencionais,
+  se o seu peso estimado na chegada ao aeródromo de destino, considerando consumo normal de
+  combustível e óleo em rota, for maior do que o peso máximo de pouso previsto para a altitude
+  desse aeródromo.
+keywords:
+- taxi-aereo
+- operacoes
+- peso
+- aerodromo
+- categoria
+- convencionais
+- motores
+- transporte
+- altitude
+- aviao
+- avioes
+- chegada
+- combustivel
+- considerando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

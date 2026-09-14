@@ -1,0 +1,73 @@
+id: rbac-rbac-155-155-107-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.107'
+section_title: '155.107'
+subsection_id: a
+cite: 155.107(a)
+title: 155.107(a)
+text: '(a)
+
+  Os dados a seguir devem ser medidos ou descritos, apropriadamente, para cada característica
+  física e auxílio visual disponibilizado em um heliponto:
+
+  (1)
+
+  tipo de heliponto - nível do solo ou elevado;
+
+  (2)
+
+  TLOF - dimensões aproximadas em metros, declividade, tipo de superfície, capacidade de suporte
+  de carga em toneladas (1.000 kg);
+
+  (3)
+
+  FATO - tipo da FATO, azimute verdadeiro com acurácia de um centésimo de grau, número de
+  designação (quando apropriado), comprimento e largura aproximados em metros, declividade,
+  tipo de superfície;
+
+  (4)
+
+  área de segurança - comprimento, largura e tipo de superfície;
+
+  (5)
+
+  pista de táxi aérea de helicóptero e pista de táxi terrestre de helicóptero - designação,
+  largura, tipo de superfície;
+
+  (6)
+
+  pátio de estacionamento de helicópteros - tipo de superfície, posição de estacionamento;
+
+  (7)
+
+  zona desimpedida (
+
+  clearway
+
+  ) - comprimento, perfil de solo; e
+
+  (8)
+
+  auxílios visuais para procedimentos de aproximação, sinalização horizontal e luminosa da
+  FATO, da TLOF, das pistas de táxi aéreo de helicópteros, das pistas de táxi terrestre de
+  helicópteros e do pátio de estacionamento de helicópteros.'
+keywords:
+- seguranca-aeroportuaria
+- tipo
+- superficie
+- helicopteros
+- taxi
+- comprimento
+- estacionamento
+- fato
+- largura
+- declividade
+- designacao
+- helicoptero
+- heliponto
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

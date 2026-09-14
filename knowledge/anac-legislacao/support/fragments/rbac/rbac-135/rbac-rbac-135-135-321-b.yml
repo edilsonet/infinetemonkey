@@ -1,0 +1,60 @@
+id: rbac-rbac-135-135-321-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.321'
+section_title: Aplicabilidade e termos usados
+subsection_id: b
+cite: 135.321(b)
+title: 135.321(b)
+text: '(b) Para os propósitos desta Subparte e da Subparte G, aplicam-se os seguintes termos
+  e definições:
+
+  (1) treinamento inicial. É o treinamento para uma função requerido para um tripulante que
+  não haja sido qualificado e não tenha trabalhado nessa função em uma aeronave;
+
+  (2) treinamento de transição. É o treinamento para uma função requerido para um tripulante
+  que foi qualificado e trabalhou na mesma função em outra aeronave;
+
+  (3) treinamento de elevação de nível. É o treinamento requerido para um tripulante que foi
+  qualificado e trabalhou como piloto segundo em comando em um particular tipo de aeronave,
+  antes de começar a trabalhar como piloto em comando nesse tipo de aeronave;
+
+  (4) treinamento de diferenças. É o treinamento requerido para um tripulante que foi qualificado
+  e trabalhou em um particular tipo de aeronave antes de começar a trabalhar na mesma função
+  em uma particular variante do mesmo tipo de aeronave, se assim for considerado necessário
+  pela ANAC;
+
+  (5) treinamento periódico. É o treinamento requerido para um tripulante para permanecer
+  adequadamente treinado e permanentemente proficiente em cada aeronave, função a bordo e
+  tipo de operação em que o tripulante trabalha;
+
+  (6) em voo. As manobras, procedimentos ou funções que devem ser conduzidas em aeronave;
+
+  (7) CTAC. Uma organização funcionando de acordo com os requisitos aplicáveis do RBAC nº
+  142, que provê treinamento e exames sob contrato ou outra forma de acordo para detentores
+  de certificado sujeitos aos requisitos deste Regulamento;
+
+  (8) treinamento para requalificação. É o treinamento requerido para tripulantes previamente
+  treinados e qualificados, mas que tenham perdido a qualificação por não terem cumprido dentro
+  do período requerido:'
+keywords:
+- taxi-aereo
+- operacoes
+- treinamento
+- aeronave
+- requerido
+- funcao
+- tripulante
+- tipo
+- qualificado
+- particular
+- trabalhou
+- acordo
+- comando
+- comecar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

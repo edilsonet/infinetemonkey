@@ -1,0 +1,35 @@
+id: rbac-rbac-43-f43-1-f
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: f
+cite: F43.1(f)
+title: F43.1(f)
+text: '(f) Endereço do Mode S. Interrogar o transponder Mode S e verificar se ele responde
+  apenas ao
+
+  endereço designado. Usar o endereço correto e pelo menos 2 endereços errados. A interrogação
+
+  deve ser feita na razão nominal de 50 interrogações por segundo.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- endereco
+- mode
+- transponder
+- correto
+- designado
+- enderecos
+- errados
+- feita
+- inspecoes
+- interrogacao
+- interrogacoes
+- interrogar
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

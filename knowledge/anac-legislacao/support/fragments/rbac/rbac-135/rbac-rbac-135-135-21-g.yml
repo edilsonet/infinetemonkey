@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-21-g
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.21'
+section_title: Requisitos do manual geral da empresa
+subsection_id: g
+cite: 135.21(g)
+title: 135.21(g)
+text: '(g) Para os propósitos de conformidade com o parágrafo (e) desta seção, um detentor
+  de certificado pode fornecer às pessoas ali citadas parte do manual geral da empresa na
+  forma impressa ou em outra forma, aceitável pela ANAC, que seja recuperável em língua portuguesa.
+  Se o detentor de certificado fornecer a parte de manutenção do manual geral da empresa em
+  uma forma que não a impressa, ele deve se assegurar de que existe um dispositivo compatível
+  de leitura, disponível para aquelas pessoas, que forneça imagens legíveis das instruções
+  e informações de manutenção, ou um sistema que seja capaz de recuperar as instruções e informações
+  de manutenção em língua portuguesa.
+
+  (1) Para uso em voo de dispositivo eletrônico contendo parte do manual geral da empresa
+  requerida a bordo, é requerida autorização específica da ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- empresa
+- geral
+- manual
+- forma
+- manutencao
+- parte
+- certificado
+- detentor
+- dispositivo
+- fornecer
+- impressa
+- informacoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

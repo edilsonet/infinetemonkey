@@ -1,0 +1,24 @@
+id: rbac-rbac-135-135-154-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.154'
+section_title: Sistema de percepção e alarme de proximidade do solo (EGPWS)
+subsection_id: body
+cite: '135.154'
+title: Sistema de percepção e alarme de proximidade do solo (EGPWS)
+text: 135.154 Sistema de percepção e alarme de proximidade do solo (EGPWS)
+keywords:
+- taxi-aereo
+- operacoes
+- alarme
+- egpws
+- percepcao
+- proximidade
+- sistema
+- solo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

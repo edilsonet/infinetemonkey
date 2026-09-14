@@ -1,0 +1,38 @@
+id: rbac-rbac-29-29-60-a
+kind: rbac
+document: rbac-29
+family: '29'
+section_id: '29.60'
+section_title: is maintained and the descent (loss of height) below the landing surface is
+  determined.
+subsection_id: a
+cite: 29.60(a)
+title: 29.60(a)
+text: '(a)
+
+  For specified landing conditions, a design maximum weight must be used that is not less
+  than the
+
+  maximum weight. A rotor lift may be assumed to act through the center of gravity throughout
+  the landing
+
+  impact. This lift may not exceed two-thirds of the design maximum weight.'
+keywords:
+- aeronavegabilidade
+- rotorcraft
+- landing
+- maximum
+- weight
+- design
+- lift
+- assumed
+- below
+- center
+- conditions
+- descent
+- determined
+- exceed
+categories:
+- aeronavegabilidade
+- rotorcraft
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-29.md

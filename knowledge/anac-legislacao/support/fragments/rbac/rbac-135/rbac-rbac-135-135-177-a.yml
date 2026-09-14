@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-177-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.177'
+section_title: Requisitos de equipamentos de emergência para aeronaves tendo uma configuração
+  para passageiros com mais de 19 assentos
+subsection_id: a
+cite: 135.177(a)
+title: 135.177(a)
+text: (a) Somente é permitido operar uma aeronave tendo uma configuração para passageiros
+  com mais de 19 assentos se essa aeronave possuir a bordo equipamentos de emergência que
+  devem ser prontamente acessíveis aos tripulantes na cabine de comando ou de passageiros,
+  cuidadosamente guardados em local seguro e livre de poeira, umidade ou temperaturas que
+  possam danificá-los.
+keywords:
+- taxi-aereo
+- operacoes
+- passageiros
+- aeronave
+- assentos
+- configuracao
+- emergencia
+- equipamentos
+- tendo
+- acessiveis
+- aeronaves
+- bordo
+- cabine
+- comando
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

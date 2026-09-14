@@ -1,0 +1,41 @@
+id: rbac-rbac-91-91-5-i
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.5'
+section_title: Requisitos para tripulações
+subsection_id: i
+cite: 91.5(i)
+title: 91.5(i)
+text: '(i) com piloto automático em funcionamento, a tripulação deve ser composta por um piloto
+
+  habilitado em IFR; e
+
+  (ii) sem piloto automático, a tripulação deve ser composta por dois pilotos habilitados
+  em
+
+  IFR; e
+
+  (3) para aeronaves com configuração aprovada para passageiros de 10 ou mais assentos, a
+
+  tripulação deve ser composta por dois pilotos habilitados em IFR.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- composta
+- piloto
+- tripulacao
+- automatico
+- dois
+- habilitados
+- pilotos
+- aeronaves
+- aprovada
+- assentos
+- configuracao
+- funcionamento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

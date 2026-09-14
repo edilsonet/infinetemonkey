@@ -1,0 +1,32 @@
+id: rbac-rbac-91-91-1709-i
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.1709'
+section_title: Operações em espaço aéreo RVSM
+subsection_id: i
+cite: 91.1709(i)
+title: 91.1709(i)
+text: '(i) erro vertical total de 300 pés ou mais;
+
+  (ii) ASE de 245 pés ou mais; ou
+
+  (iii) desvio da altitude autorizada de 300 pés ou mais.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aereo
+- altitude
+- autorizada
+- desvio
+- erro
+- espaco
+- operacoes
+- rvsm
+- total
+- vertical
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

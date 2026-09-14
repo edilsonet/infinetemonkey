@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-69-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.69'
+section_title: 'Restrições ou suspensão de operação: continuação de um voo em uma emergência'
+subsection_id: b
+cite: 135.69(b)
+title: 135.69(b)
+text: '(b) Um piloto em comando somente pode consentir que um voo prossiga para um aeródromo
+  onde ele pretende pousar sob as condições referidas no parágrafo (a) desta seção se, na
+  opinião desse piloto em comando, existir razoável probabilidade de que essas condições consideradas
+  um perigo para operações seguras possam estar corrigidas no horário de chegada ou se não
+  houver mais nenhum outro procedimento seguro. Neste último caso, a continuação do voo em
+  direção ao aeródromo é uma situação de emergência conforme a seção 135.19 deste Regulamento.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- comando
+- condicoes
+- continuacao
+- emergencia
+- piloto
+- secao
+- caso
+- chegada
+- consentir
+- consideradas
+- corrigidas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

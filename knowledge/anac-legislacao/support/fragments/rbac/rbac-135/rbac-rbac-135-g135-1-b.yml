@@ -1,0 +1,32 @@
+id: rbac-rbac-135-g135-1-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.1
+section_title: Definições
+subsection_id: b
+cite: G135.1(b)
+title: G135.1(b)
+text: (b) Aeródromo de alternativa em rota ETOPS significa um aeródromo adequado e conveniente
+  no qual um avião pode pousar após experimentar uma parada de motor ou outra condição anormal
+  ou de emergência que ocorra em rota durante uma operação ETOPS.
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- etops
+- rota
+- adequado
+- alternativa
+- anormal
+- aviao
+- condicao
+- conveniente
+- definicoes
+- durante
+- emergencia
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

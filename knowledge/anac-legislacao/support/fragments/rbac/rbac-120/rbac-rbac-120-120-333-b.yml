@@ -1,0 +1,31 @@
+id: rbac-rbac-120-120-333-b
+kind: rbac
+document: rbac-120
+family: '120'
+section_id: '120.333'
+section_title: Funções e requisitos do médico revisor
+subsection_id: b
+cite: 120.333(b)
+title: 120.333(b)
+text: (b) O médico revisor deve possuir diploma registrado no MEC e registro profissional
+  válido e vigente que o habilitem ao exercício da medicina.
+keywords:
+- antidrogas
+- saude
+- medico
+- revisor
+- diploma
+- exercicio
+- funcoes
+- habilitem
+- medicina
+- possuir
+- profissional
+- registrado
+- registro
+- requisitos
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-120.md

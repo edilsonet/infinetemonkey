@@ -1,0 +1,34 @@
+id: rbac-rbac-135-a135-3-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.3
+section_title: Desempenho
+subsection_id: b
+cite: A135.3(b)
+title: A135.3(b)
+text: '(b) Decolagem.
+
+  (1) Geral. As velocidades de decolagem, a distância de aceleração e parada, a distância
+  de decolagem e os dados da trajetória de voo da decolagem com um motor inoperante (como
+  descrito nos parágrafos A135.3(b)(2), (3), (4) e (6)) devem ser determinados com:'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- a135
+- distancia
+- aceleracao
+- dados
+- descrito
+- desempenho
+- determinados
+- geral
+- inoperante
+- motor
+- parada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

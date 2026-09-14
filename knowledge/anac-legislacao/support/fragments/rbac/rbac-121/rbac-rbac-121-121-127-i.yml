@@ -1,0 +1,39 @@
+id: rbac-rbac-121-121-127-i
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.127'
+section_title: Sistema de acompanhamento de voo. Requisitos
+subsection_id: i
+cite: 121.127(i)
+title: 121.127(i)
+text: '(i) a tripulação de voo de cada avião; e
+
+  (ii) as pessoas designadas pelo detentor de certificado para executar o controle operacional
+  do voo; e
+
+  (2) o sistema possui meios de comunicação privados ou públicos (como telefone, telex ou
+  rádio) adequados ao acompanhamento do progresso de cada voo no que diz respeito à sua decolagem
+  do aeródromo de origem e ao seu pouso no aeródromo de destino, incluindo pousos intermediários
+  e pousos alternativos, assim como eventuais atrasos por problemas mecânicos ou de manutenção
+  ocorridos nesses pontos.'
+keywords:
+- transporte-aereo
+- operacoes
+- acompanhamento
+- aerodromo
+- cada
+- pousos
+- sistema
+- adequados
+- alternativos
+- assim
+- atrasos
+- aviao
+- certificado
+- comunicacao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

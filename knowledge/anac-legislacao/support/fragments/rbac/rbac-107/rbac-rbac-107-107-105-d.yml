@@ -1,0 +1,32 @@
+id: rbac-rbac-107-107-105-d
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.105'
+section_title: Pontos de Acesso à Área Restrita de Segurança
+subsection_id: d
+cite: 107.105(d)
+title: 107.105(d)
+text: '(d) O operador do aeródromo deve implementar um procedimento de confirmação quanto
+  à origem de objetos sujeitos a controles de segurança aplicados fora do aeroporto e que
+  isentam o processo de inspeção nos acessos às ARS, conforme previsão normativa da ANAC.
+
+  (Redação dada pela Resolução nº 644, de 05.11.2021)'
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- acessos
+- aerodromo
+- aplicados
+- area
+- confirmacao
+- controles
+- dada
+- fora
+- implementar
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

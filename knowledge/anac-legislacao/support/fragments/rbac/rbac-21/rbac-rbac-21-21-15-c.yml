@@ -1,0 +1,34 @@
+id: rbac-rbac-21-21-15-c
+kind: rbac
+document: rbac-21
+family: '21'
+section_id: '21.15'
+section_title: Requerimento para certificado de tipo
+subsection_id: c
+cite: 21.15(c)
+title: 21.15(c)
+text: (c) O requerimento para obtenção de um certificado de tipo de motor de aeronave deve
+  ser acompanhado de uma descrição das características de projeto, características de operação
+  e limitações operacionais propostas para o motor.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- caracteristicas
+- certificado
+- motor
+- requerimento
+- tipo
+- acompanhado
+- aeronave
+- descricao
+- limitacoes
+- obtencao
+- operacao
+- operacionais
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-21.md

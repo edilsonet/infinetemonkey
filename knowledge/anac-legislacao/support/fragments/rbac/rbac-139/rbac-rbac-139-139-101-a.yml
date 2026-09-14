@@ -1,0 +1,28 @@
+id: rbac-rbac-139-139-101-a
+kind: rbac
+document: rbac-139
+family: '139'
+section_id: '139.101'
+section_title: Obrigatoriedade de obtenção do Certificado Operacional de Aeroporto
+subsection_id: a
+cite: 139.101(a)
+title: 139.101(a)
+text: (a) Operadores de aeródromos que se enquadram no parágrafo 139.1(a) devem ser detentores
+  de Certificado Operacional de Aeroporto.
+keywords:
+- aerodromos
+- infraestrutura
+- aeroporto
+- certificado
+- operacional
+- detentores
+- enquadram
+- obrigatoriedade
+- obtencao
+- operadores
+- paragrafo
+categories:
+- aerodromos
+- infraestrutura
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-139.md

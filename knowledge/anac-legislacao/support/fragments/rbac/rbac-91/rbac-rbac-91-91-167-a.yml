@@ -1,0 +1,39 @@
+id: rbac-rbac-91-91-167-a
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.167'
+section_title: Requisitos de combustível e óleo para voos por instrumentos (IFR)
+subsection_id: a
+cite: 91.167(a)
+title: 91.167(a)
+text: '(a) Somente é permitido operar uma aeronave civil em voo IFR se, considerando vento
+  e condições
+
+  meteorológicas conhecidas, houver combustível e óleo suficiente para:
+
+  (1) completar o voo até o aeródromo previsto para primeiro pouso;
+
+  (2) voar desse aeródromo até o aeródromo de alternativa; e
+
+  (3) após isso, voar em velocidade normal de cruzeiro:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aerodromo
+- combustivel
+- oleo
+- voar
+- aeronave
+- alternativa
+- civil
+- completar
+- condicoes
+- conhecidas
+- considerando
+- cruzeiro
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

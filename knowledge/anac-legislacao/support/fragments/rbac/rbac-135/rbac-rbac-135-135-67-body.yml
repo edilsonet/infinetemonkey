@@ -1,0 +1,38 @@
+id: rbac-rbac-135-135-67-body
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.67'
+section_title: Informação sobre condições meteorológicas potencialmente perigosas e irregularidades
+  em instalações de comunicações ou navegação
+subsection_id: body
+cite: '135.67'
+title: Informação sobre condições meteorológicas potencialmente perigosas e irregularidades
+  em instalações de comunicações ou navegação
+text: '135.67 Informação sobre condições meteorológicas potencialmente perigosas e irregularidades
+  em instalações de comunicações ou navegação
+
+  Sempre que um piloto encontrar em voo uma condição meteorológica potencialmente perigosa
+  ou uma irregularidade em instalações de comunicações ou de navegação, cuja divulgação esse
+  piloto considerar essencial à segurança de outros voos, ele deve notificar uma apropriada
+  estação rádio de solo tão cedo quanto praticável.'
+keywords:
+- taxi-aereo
+- operacoes
+- comunicacoes
+- instalacoes
+- navegacao
+- potencialmente
+- condicoes
+- informacao
+- irregularidades
+- meteorologicas
+- perigosas
+- piloto
+- apropriada
+- cedo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

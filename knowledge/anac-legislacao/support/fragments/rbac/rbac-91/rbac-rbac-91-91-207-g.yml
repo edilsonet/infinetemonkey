@@ -1,0 +1,53 @@
+id: rbac-rbac-91-91-207-g
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.207'
+section_title: Transmissores localizadores de emergência (ELT) e Personal Locator Beacon (PLB)
+subsection_id: g
+cite: 91.207(g)
+title: 91.207(g)
+text: '(g) Cada ELT colocado a bordo de uma aeronave registrada no Brasil deve atender ao
+  previsto na
+
+  seção 91.229 deste Regulamento e, adicionalmente:
+
+  (1) todos os ELT utilizados em aeronaves registradas no Brasil devem poder transmitir
+
+  simultaneamente nas frequências 121.5 e 406 MHz;
+
+  (2) cada ELT instalado em aeronave brasileira e/ou os PLB citados no parágrafo (a)(5) desta
+
+  seção devem ser registrados junto ao BRMCC - Centro Brasileiro de Controle de Missão COSPAS
+
+  - SARSAT. Os operadores devem manter este registro atualizado; e
+
+
+  Data da emissão: 14 de junho de 2021.
+
+  Data da vigência: 1º de julho de 2021.
+
+
+  (3) um ELT que atenda apenas aos requisitos da OTP (TSO) C91, não pode ser usado em novas
+
+  instalações.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- brasil
+- cada
+- data
+- secao
+- adicionalmente
+- aeronaves
+- atenda
+- atender
+- atualizado
+- beacon
+- bordo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,48 @@
+id: rbac-rbac-135-135-429-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.429'
+section_title: Requisitos para pessoal de inspeção obrigatória
+subsection_id: d
+cite: 135.429(d)
+title: 135.429(d)
+text: '(d) No caso de helicóptero que opera em áreas ou locais remotos, a ANAC pode aprovar
+  procedimentos para a execução de itens de inspeção requerida por um piloto quando nenhuma
+  outra pessoa qualificada estiver disponível, desde que:
+
+  (1) o piloto seja vinculado ao detentor do certificado;
+
+  (2) possa ser demonstrado de modo a satisfazer à ANAC que cada piloto autorizado para executar
+  a inspeção requerida está devidamente treinado e qualificado;
+
+  (3) a inspeção requerida seja resultado de uma falha mecânica e não parte do programa de
+  aeronavegabilidade continuada do detentor de certificado;
+
+  (4) cada item seja inspecionado após cada voo até que ele tenha sido inspecionado por um
+  mecânico apropriadamente habilitado e qualificado, conforme estabelece a seção 135.429 deste
+  Regulamento, sendo outro que não aquele que originalmente realizou o item do trabalho; e
+
+  (5) cada item de trabalho que seja um item de inspeção requerida de parte do sistema de
+  controle de voo deve ser testado em voo e reinspecionado antes da aeronave ser aprovado
+  para retorno ao serviço.'
+keywords:
+- taxi-aereo
+- operacoes
+- inspecao
+- cada
+- requerida
+- seja
+- piloto
+- certificado
+- detentor
+- inspecionado
+- parte
+- qualificado
+- trabalho
+- aeronave
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

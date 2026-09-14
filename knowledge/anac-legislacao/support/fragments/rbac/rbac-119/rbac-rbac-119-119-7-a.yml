@@ -1,0 +1,36 @@
+id: rbac-rbac-119-119-7-a
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.7'
+section_title: Especificações operativas
+subsection_id: a
+cite: 119.7(a)
+title: 119.7(a)
+text: '(a) As EO emitidas para um detentor de COA conterá:
+
+  (1) as autorizações, limitações e os procedimentos segundo os quais cada operação de transporte
+
+  aéreo público deve ser conduzida; e
+
+  (2) outros procedimentos segundo os quais cada classe e tamanho de aeronave deve ser operada.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- cada
+- procedimentos
+- quais
+- segundo
+- aereo
+- aeronave
+- autorizacoes
+- classe
+- conduzida
+- contera
+- detentor
+- emitidas
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

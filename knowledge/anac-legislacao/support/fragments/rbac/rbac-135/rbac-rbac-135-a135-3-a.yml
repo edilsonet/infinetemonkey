@@ -1,0 +1,39 @@
+id: rbac-rbac-135-a135-3-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.3
+section_title: Desempenho
+subsection_id: a
+cite: A135.3(a)
+title: A135.3(a)
+text: '(a) Geral.
+
+  (1) Exceto se de outra forma estabelecido por este Apêndice, a conformidade com cada aplicável
+  requisito de desempenho constante nesta seção deve ser demonstrada em condição atmosférica
+  ambiente e em ar calmo.
+
+  (2) O desempenho deve corresponder à tração propulsiva disponível sob a particular condição
+  atmosférica ambiente e na particular condição de voo. A tração propulsiva disponível deve
+  corresponder à potência ou empuxo do motor, não excedendo a potência ou empuxo aprovados
+  menos:'
+keywords:
+- taxi-aereo
+- operacoes
+- condicao
+- desempenho
+- ambiente
+- atmosferica
+- corresponder
+- disponivel
+- empuxo
+- particular
+- potencia
+- propulsiva
+- tracao
+- a135
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

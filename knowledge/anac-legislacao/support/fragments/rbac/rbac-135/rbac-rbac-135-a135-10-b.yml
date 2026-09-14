@@ -1,0 +1,28 @@
+id: rbac-rbac-135-a135-10-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.10
+section_title: Manual de voo do avião
+subsection_id: b
+cite: A135.10(b)
+title: A135.10(b)
+text: '(b) Limitações de operação. O manual de voo do avião deve incluir as seguintes limitações:
+
+  (1) limitações de velocidade.'
+keywords:
+- taxi-aereo
+- operacoes
+- limitacoes
+- aviao
+- manual
+- a135
+- incluir
+- operacao
+- seguintes
+- velocidade
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

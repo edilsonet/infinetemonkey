@@ -1,0 +1,47 @@
+id: rbac-rbac-107-107-7-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.7'
+section_title: Metodologia de Aplicação do Regulamento
+subsection_id: a
+cite: 107.7(a)
+title: 107.7(a)
+text: '(a) A aplicação adequada dos requisitos contidos neste RBAC é alcançada com a utilização
+  da Tabela de Requisitos disponibilizada no Apêndice A deste regulamento.
+
+  (1) A Tabela de Requisitos apresenta, na sua primeira linha, as classes de aeródromos consideradas
+  neste regulamento e, na sua primeira coluna, cada uma das seções constantes neste regulamento.
+
+  (2) No cruzamento de cada classe de aeródromo com cada seção ou parágrafo dispostos na tabela
+  é indicado o grau de aplicação dos requisitos estabelecidos, podendo assumir as seguintes
+  designações gerais: obrigatório, recomendado ou dispensado.
+
+  (3) A designação geral de recomendação é entendida como uma especificação de característica
+  física, configuração, material, performance, pessoal ou procedimento cuja aplicação é desejável
+  para a segurança, e que os aeródromos poderiam buscar atender mesmo não estando sujeito
+  a sanções de fiscalização pelo seu não cumprimento.
+
+  (4) A designação do grau de aplicação pode conter condicionantes, por meio da descrição
+  de situações específicas que podem complementar a designação geral de aplicabilidade para
+  uma determinada combinação de requisito e classe de operador.'
+keywords:
+- seguranca
+- aeroporto
+- aplicacao
+- regulamento
+- requisitos
+- cada
+- designacao
+- tabela
+- aerodromos
+- classe
+- geral
+- grau
+- primeira
+- adequada
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

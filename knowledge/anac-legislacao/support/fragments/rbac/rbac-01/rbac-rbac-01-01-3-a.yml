@@ -1,0 +1,33 @@
+id: rbac-rbac-01-01-3-a
+kind: rbac
+document: rbac-01
+family: '1'
+section_id: '01.3'
+section_title: Regras de construção dos RBAC
+subsection_id: a
+cite: 01.3(a)
+title: 01.3(a)
+text: '(a) No texto dos RBAC, a menos que de outro modo explicitado:
+
+  (1) as palavras no singular incluem seu plural;
+
+  (2) as palavras no plural incluem seu singular; e
+
+  (3) as palavras no gênero masculino incluem seu feminino.'
+keywords:
+- incluem
+- palavras
+- plural
+- singular
+- construcao
+- explicitado
+- feminino
+- genero
+- masculino
+- menos
+- modo
+- outro
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-01.md

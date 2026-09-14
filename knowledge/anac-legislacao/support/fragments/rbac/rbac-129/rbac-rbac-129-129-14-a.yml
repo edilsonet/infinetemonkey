@@ -1,0 +1,34 @@
+id: rbac-rbac-129-129-14-a
+kind: rbac
+document: rbac-129
+family: '129'
+section_id: '129.14'
+section_title: Requisitos de manutenção e Lista de Equipamentos Mínimos (MEL)
+subsection_id: a
+cite: 129.14(a)
+title: 129.14(a)
+text: (a) Cada empresa estrangeira de transporte aéreo que opere no Brasil deve garantir que
+  cada uma de suas aeronaves é submetida a um Programa de Manutenção conforme prescrito no
+  Capítulo 8 do Anexo 6, Parte I, ou no Capítulo 6 do Anexo 6, Parte III, Seção II, conforme
+  aplicável, da Convenção de Aviação Civil Internacional, aprovado pela Autoridade de Aviação
+  Civil do país operador e de registro da aeronave.
+keywords:
+- operador-estrangeiro
+- operacoes
+- anexo
+- aviacao
+- cada
+- capitulo
+- civil
+- manutencao
+- parte
+- aereo
+- aeronave
+- aeronaves
+- aplicavel
+- aprovado
+categories:
+- operador-estrangeiro
+- operacoes
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-129.md

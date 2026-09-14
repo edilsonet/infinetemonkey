@@ -1,0 +1,38 @@
+id: rbac-rbac-107-107-101-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.101'
+section_title: Pontos de Acesso
+subsection_id: b
+cite: 107.101(b)
+title: 107.101(b)
+text: '(b) Os pontos de controle de acesso devem impedir o acesso de pessoas, veículos e equipamentos
+  sem credenciais ou autorizações ou com credenciais ou autorizações falsificadas, alteradas,
+  vencidas ou de terceiros por meio de vigilância permanente.
+
+  (Redação dada pela Resolução nº 644, de 05.11.2021)
+
+  (1) No caso de pontos de controle de acesso de uso comum para pessoas e veículos, o operador
+  de aeródromo deve garantir canais de fluxo segregados, de forma que as medidas de segurança
+  aplicadas no controle de acesso de pessoas não interfiram nas medidas aplicadas aos veículos.'
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- controle
+- pessoas
+- pontos
+- veiculos
+- aplicadas
+- autorizacoes
+- credenciais
+- medidas
+- aerodromo
+- alteradas
+- canais
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

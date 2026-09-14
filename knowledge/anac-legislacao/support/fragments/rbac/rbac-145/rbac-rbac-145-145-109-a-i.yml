@@ -1,0 +1,42 @@
+id: rbac-rbac-145-145-109-a-i
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.109'
+section_title: Requisitos de equipamentos, ferramentas, materiais e dados técnicos
+subsection_id: a-i
+cite: 145.109(a-I)
+title: 145.109(a-I)
+text: '(a)-I Cada organização de manutenção certificada deve possuir uma listagem, ou outro
+  formato
+
+  aceito pela ANAC, da relação do ferramental, próprio ou contratado, necessário para o desempenho
+
+  seguro de suas atividades. Quando o ferramental utilizado for de terceiros, a organização
+  deve
+
+  possuir um contrato (ou documento equivalente) que autorize o uso, o qual deve ser mantido
+
+  disponível para a ANAC por pelo menos 5 (cinco) anos, desde a sua última utilização. (Redação
+
+  dada pela Resolução nº 610, de 23.02.2021)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- ferramental
+- organizacao
+- possuir
+- aceito
+- anos
+- atividades
+- autorize
+- cada
+- certificada
+- cinco
+- contratado
+- contrato
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

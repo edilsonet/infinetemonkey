@@ -1,0 +1,47 @@
+id: rbac-rbac-121-121-221-d
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.221'
+section_title: Precauções contra incêndio
+subsection_id: d
+cite: 121.221(d)
+title: 121.221(d)
+text: '(d) Classe C. Compartimentos de carga e bagagem são classificados na categoria "C"
+  se não atenderem aos requisitos das Categorias "A”, “B” ou "E". Cada compartimento classe
+  C deve atender ao seguinte:
+
+  (1) deve possuir um sistema separado de detecção de fogo ou fumaça, aprovado, provendo alerta
+  no posto do piloto ou do mecânico de voo;
+
+  (2) deve possuir um sistema permanente de extinção de incêndio, aprovado, controlado a partir
+  do posto do piloto ou do mecânico de voo;
+
+  (3) deve ser projetado de modo a impedir que quantidades perigosas de fumaça, chamas ou
+  agente extintor atinjam a cabine de passageiros ou tripulantes;
+
+  (4) deve possuir ventilação e corrente de ar controlada, de modo a garantir que o agente
+  extintor possa controlar qualquer incêndio iniciado no compartimento;
+
+  (5) deve ser forrado com material resistente a fogo, exceto que forração adicional de proteção,
+  de material resistente a chamas, pode ser usada.'
+keywords:
+- transporte-aereo
+- operacoes
+- incendio
+- possuir
+- agente
+- aprovado
+- chamas
+- classe
+- compartimento
+- extintor
+- fogo
+- fumaca
+- material
+- mecanico
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

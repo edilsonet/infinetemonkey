@@ -1,0 +1,73 @@
+id: rbac-rbac-26-26-23-a
+kind: rbac
+document: rbac-26
+family: '26'
+section_id: '26.23'
+section_title: Limite de validade estendido
+subsection_id: a
+cite: 26.23(a)
+title: 26.23(a)
+text: '(a) Aplicabilidade. Qualquer pessoa pode requerer a extensão do limite de validade
+  dos dados de
+
+  engenharia que suportam o programa de manutenção estrutural (doravante referido como LOV,
+  do
+
+  inglês Limit of Validity) aprovado conforme a seção 25.571 do RBAC 25, conforme a seção
+  26.21
+
+  do RBAC 26, ou conforme esta seção. A extensão de um LOV é considerada uma grande
+
+  modificação de projeto. O requerente deve cumprir com as disposições pertinentes das subpartes
+  D
+
+
+  Data da emissão: 14 de junho de 2021. RBAC nº 26
+
+
+  ou E do RBAC 21 e com o parágrafo (b) desta seção.(b) Limite de validade estendido. Cada
+  pessoa
+
+  requerendo a extensão de um LOV deve cumprir com os seguintes requisitos:
+
+  (1) Estabelecer um LOV estendido que corresponda ao período de tempo considerado como o
+
+  número total de ciclos de voo ou de horas de voo ou ambos, durante o qual se demonstra que
+  não
+
+  ocorrerá dano generalizado por fadiga no avião. Essa demonstração deve incluir uma avaliação
+  das
+
+  configurações estruturais do avião e ser suportada no mínimo por evidências de ensaio e
+  análise, e,
+
+  se disponível, pela experiência em serviço, ou pela experiência em serviço e resultados
+  de inspeções
+
+  em estado desmontado, de aviões antigos de projeto estrutural semelhante, considerando-se
+  as
+
+  diferenças de procedimentos e condições operacionais. As configurações estruturais do avião
+  a ser
+
+  avaliadas incluem:'
+keywords:
+- aeronavegabilidade
+- envelhecimento
+- secao
+- aviao
+- estendido
+- extensao
+- limite
+- validade
+- configuracoes
+- cumprir
+- estruturais
+- estrutural
+- experiencia
+- pessoa
+categories:
+- aeronavegabilidade
+- envelhecimento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-26.md

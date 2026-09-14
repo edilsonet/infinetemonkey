@@ -1,0 +1,37 @@
+id: rbac-rbac-135-135-100-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.100'
+section_title: Obrigações dos tripulantes de voo
+subsection_id: b
+cite: 135.100(b)
+title: 135.100(b)
+text: '(b) O tripulante de voo não pode executar e o piloto em comando não pode permitir qualquer
+  atividade durante fases críticas do voo que possa desviar qualquer tripulante de voo do
+  desempenho de suas obrigações ou que possa interferir de algum modo com a execução apropriada
+  dessas obrigações. Atividades como alimentar-se, envolver-se em conversações não essenciais,
+  fazer comunicações desnecessárias aos passageiros ou ler publicações não relacionadas com
+  a condução do voo não são atividades requeridas para a operação segura da aeronave.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- obrigacoes
+- atividades
+- pode
+- possa
+- tripulante
+- aeronave
+- algum
+- alimentar
+- apropriada
+- atividade
+- comando
+- comunicacoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

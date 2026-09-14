@@ -1,0 +1,36 @@
+id: rbac-rbac-121-121-125-i
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.125'
+section_title: Sistema de acompanhamento de voos
+subsection_id: i
+cite: 121.125(i)
+title: 121.125(i)
+text: '(i) assegurar o apropriado acompanhamento do progresso de cada voo no que diz respeito
+  à sua partida do ponto de origem e sua chegada no ponto de destino, incluindo pousos intermediários,
+  desvios para alternativas e atrasos por problemas mecânicos ou de manutenção que possam
+  ocorrer nesses locais; e
+
+  (ii) assegurar que o piloto em comando receberá todas as informações necessárias à segurança
+  de voo.'
+keywords:
+- transporte-aereo
+- operacoes
+- acompanhamento
+- assegurar
+- ponto
+- alternativas
+- apropriado
+- atrasos
+- cada
+- chegada
+- comando
+- destino
+- desvios
+- incluindo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

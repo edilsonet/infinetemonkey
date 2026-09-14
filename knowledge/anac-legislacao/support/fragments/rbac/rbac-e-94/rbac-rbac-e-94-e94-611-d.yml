@@ -1,0 +1,30 @@
+id: rbac-rbac-e-94-e94-611-d
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.611
+section_title: Equipamentos de testes e inspeções em sistema de altímetro e em equipamento
+  automático de informação de altitude (Modo C) de RPAS Classe 1
+subsection_id: d
+cite: E94.611(d)
+title: E94.611(d)
+text: (d) É vedado operar um RPAS acima da altitude máxima na qual todos os altímetros e o
+  equipamento automático de informação de altitude da aeronave (se requerido na área de operação)
+  tenham sido testados com resultados satisfatórios.
+keywords:
+- altitude
+- automatico
+- equipamento
+- informacao
+- rpas
+- acima
+- aeronave
+- altimetro
+- altimetros
+- area
+- classe
+- equipamentos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

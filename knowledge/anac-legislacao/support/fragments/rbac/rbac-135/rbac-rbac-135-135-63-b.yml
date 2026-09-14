@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-63-b
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.63'
+section_title: Requisitos de conservação de registros
+subsection_id: b
+cite: 135.63(b)
+title: 135.63(b)
+text: (b) O detentor de certificado deve manter cada registro requerido pelo parágrafo (a)(3)
+  desta seção por pelo menos 6 meses e deve manter cada registro requerido pelos parágrafos
+  (a)(4) e (a)(5) desta seção por pelo menos 5 anos.
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- desta
+- manter
+- menos
+- registro
+- requerido
+- secao
+- anos
+- certificado
+- conservacao
+- detentor
+- meses
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

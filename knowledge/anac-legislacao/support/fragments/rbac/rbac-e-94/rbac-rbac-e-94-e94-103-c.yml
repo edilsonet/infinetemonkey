@@ -1,0 +1,22 @@
+id: rbac-rbac-e-94-e94-103-c
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.103
+section_title: Regras gerais para a operação de aeronaves não tripuladas
+subsection_id: c
+cite: E94.103(c)
+title: E94.103(c)
+text: (c) É proibida a operação autônoma de aeronaves não tripuladas.
+keywords:
+- aeronaves
+- operacao
+- tripuladas
+- autonoma
+- gerais
+- proibida
+- regras
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

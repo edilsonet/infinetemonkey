@@ -1,0 +1,42 @@
+id: rbac-rbac-141-141-61-i
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.61'
+section_title: Pessoal de administração requerido
+subsection_id: i
+cite: 141.61(i)
+title: 141.61(i)
+text: '(i) assegurar que o SGSO seja implementado de forma efetiva em todas as áreas da organização
+  do CIAC, em conformidade com os requisitos aplicáveis, de modo compatível com o porte e
+  a complexidade das operações;
+
+  (ii) comunicar a toda organização a importância de conduzir as operações em conformidade
+  com os requisitos de segurança operacional aplicáveis;
+
+  (iii) estabelecer e assinar a política da segurança operacional e comunicar a importância
+  do comprometimento de todos os colaboradores com a referida política, assegurando que ela
+  permaneça adequada ao CIAC;
+
+  (iv) assegurar a disponibilidade dos recursos necessários para garantir o alcance dos objetivos
+  da segurança operacional e para a gestão do SGSO;'
+keywords:
+- escolas
+- treinamento
+- operacional
+- seguranca
+- aplicaveis
+- assegurar
+- ciac
+- comunicar
+- conformidade
+- importancia
+- operacoes
+- organizacao
+- politica
+- requisitos
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

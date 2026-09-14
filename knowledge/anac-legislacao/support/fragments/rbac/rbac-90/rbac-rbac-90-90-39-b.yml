@@ -1,0 +1,30 @@
+id: rbac-rbac-90-90-39-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.39'
+section_title: Requisitos para exercício da função de chefe de operações
+subsection_id: b
+cite: 90.39(b)
+title: 90.39(b)
+text: (b) É vedado ao chefe de operações o acúmulo de outra função que não seja a de piloto
+  em comando, instrutor ou examinador credenciado, no âmbito da UAP.
+keywords:
+- regras-de-voo
+- operacoes
+- chefe
+- funcao
+- acumulo
+- ambito
+- comando
+- credenciado
+- examinador
+- exercicio
+- instrutor
+- outra
+- piloto
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

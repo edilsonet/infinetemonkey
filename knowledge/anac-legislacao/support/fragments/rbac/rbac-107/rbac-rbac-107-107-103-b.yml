@@ -1,0 +1,34 @@
+id: rbac-rbac-107-107-103-b
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.103'
+section_title: Pontos de Acesso à Área Controlada
+subsection_id: b
+cite: 107.103(b)
+title: 107.103(b)
+text: '(b) O operador de aeródromo deve garantir que apenas pessoas, veículos e equipamentos
+  previamente identificados e autorizados tenham acesso à área controlada através dos pontos
+  de controle de acesso.
+
+  (1) O acesso desacompanhado à área controlada é permitido:'
+keywords:
+- seguranca
+- aeroporto
+- acesso
+- area
+- controlada
+- pontos
+- aerodromo
+- atraves
+- autorizados
+- controle
+- desacompanhado
+- equipamentos
+- garantir
+- identificados
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

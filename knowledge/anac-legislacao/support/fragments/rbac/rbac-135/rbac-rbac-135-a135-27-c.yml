@@ -1,0 +1,45 @@
+id: rbac-rbac-135-a135-27-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.27
+section_title: Equipamentos e sistemas elétricos
+subsection_id: c
+cite: A135.27(c)
+title: A135.27(c)
+text: '(c) Sistema de distribuição.
+
+  (1) Para os propósitos de conformidade com o parágrafo (c) desta seção, o sistema de distribuição
+  inclui as barras de distribuição, seus alimentadores associados e cada dispositivo de controle
+  e de proteção.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (2) Cada sistema deve ser projetado de modo que os circuitos de cargas essenciais possam
+  ser supridos no evento de falhas razoavelmente prováveis ou aberturas de circuitos, incluindo
+  falhas em cabos transportando altas correntes.
+
+  (3) Se duas fontes independentes de energia elétrica, para um particular equipamento ou
+  sistema, forem requeridas por este Apêndice, sua alimentação de energia elétrica deve ser
+  assegurada por meios como duplicação de equipamentos elétricos, chaveamento automático ou
+  circuitos multicanais encaminhados separadamente.'
+keywords:
+- taxi-aereo
+- operacoes
+- sistema
+- circuitos
+- distribuicao
+- cada
+- eletrica
+- eletricos
+- energia
+- equipamentos
+- falhas
+- a135
+- aberturas
+- alimentacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

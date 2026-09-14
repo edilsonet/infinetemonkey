@@ -1,0 +1,52 @@
+id: rbac-rbac-135-a135-13-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: A135.13
+section_title: Avaliação de fadiga
+subsection_id: a
+cite: A135.13(a)
+title: A135.13(a)
+text: '(a) Avaliação em fadiga das asas e estruturas associadas. Exceto se for demonstrado
+  que a estrutura, os níveis de tensão de operação, os materiais utilizados e a utilização
+  esperada são comparáveis, sob o ponto de vista de fadiga, a um projeto similar que tenha
+  tido experiência satisfatória em serviço, a resistência, os detalhes de projeto e a fabricação
+  daquelas partes de asa, da estrutura de asa interna à fuselagem e das estruturas de suporte,
+  cuja falha possa ser catastrófica, devem ser avaliadas sob um dos critérios seguintes:
+
+  (1) uma investigação da resistência a fadiga na qual seja demonstrado por análise, por ensaios
+  ou por ambos que a estrutura é capaz de suportar as cargas repetidas, com magnitude variável,
+  esperadas em serviço; ou
+
+  (2) uma investigação da resistência “
+
+  fail-safe
+
+  ” na qual seja demonstrada por análise, por ensaios ou por ambos que não é provável uma
+  falha catastrófica da estrutura por fadiga ou por falha parcial óbvia de um elemento estrutural
+  principal, e que a estrutura remanescente é capaz de suportar um fator de carga final igual
+  a 75% do fator de carga limite crítico, na velocidade VC. Essas cargas devem ser multiplicadas
+  por um fator de 1,15, exceto se os efeitos dinâmicos da falha, sob carga estática, forem
+  considerados.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- estrutura
+- fadiga
+- falha
+- carga
+- fator
+- resistencia
+- ambos
+- analise
+- avaliacao
+- capaz
+- cargas
+- catastrofica
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

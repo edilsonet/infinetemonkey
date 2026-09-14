@@ -1,0 +1,39 @@
+id: rbac-rbac-91-91-221-e
+kind: rbac
+document: rbac-91
+family: '91'
+section_id: '91.221'
+section_title: Sistema embarcado de prevenção de colisões (Airborne colision avoidance system
+  -
+subsection_id: e
+cite: 91.221(e)
+title: 91.221(e)
+text: '(e) Aeronaves categoria transporte com configuração instalada para passageiros com
+  mais de 19
+
+  assentos, que tenham recebido seu primeiro certificado de aeronavegabilidade (independentemente
+
+  do país emissor) a partir de 1º de janeiro de 2010, devem ser equipadas com um sistema ACAS
+  II e
+
+  este deve atender à OTP (TSO) C-119b (versão 7.0) ou posterior.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- 119b
+- acas
+- aeronavegabilidade
+- aeronaves
+- airborne
+- assentos
+- atender
+- avoidance
+- categoria
+- certificado
+- colision
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-91.md

@@ -1,0 +1,47 @@
+id: rbac-rbac-26-26-45-c
+kind: rbac
+document: rbac-26
+family: '26'
+section_id: '26.45'
+section_title: 'Detentores de certificado de tipo: alterações e reparos'
+subsection_id: c
+cite: 26.45(c)
+title: 26.45(c)
+text: '(c) Dados de Tolerância ao Dano. Para dados de alteração existentes ou alterações futuramente
+
+  desenvolvidas pelo detentor de um certificado de tipo que afetem a estrutura básica crítica
+  a fadiga
+
+
+  Data da emissão: 14 de junho de 2021. RBAC nº 26
+
+
+  identificadas de acordo com o RBAC 26.43 (b)(1), o detentor deve, a menos que já previamente
+
+  realizado:
+
+  (1) realizar uma Avaliação de Tolerância ao Dano e desenvolver uma Inspeção de Tolerância
+
+  ao Dano para a alteração e para a estrutura básica crítica a fadiga que é afetada pela alteração;
+
+  (2) submeter os dados de Tolerância ao Dano, desenvolvidos de acordo com o parágrafo'
+keywords:
+- aeronavegabilidade
+- envelhecimento
+- dano
+- tolerancia
+- alteracao
+- dados
+- acordo
+- alteracoes
+- basica
+- certificado
+- critica
+- detentor
+- estrutura
+- fadiga
+categories:
+- aeronavegabilidade
+- envelhecimento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-26.md

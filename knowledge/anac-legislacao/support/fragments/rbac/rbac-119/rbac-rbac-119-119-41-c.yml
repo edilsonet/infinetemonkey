@@ -1,0 +1,41 @@
+id: rbac-rbac-119-119-41-c
+kind: rbac
+document: rbac-119
+family: '119'
+section_id: '119.41'
+section_title: Emendas ao certificado
+subsection_id: c
+cite: 119.41(c)
+title: 119.41(c)
+text: '(c) Quando um detentor de certificado requerer uma emenda a seu certificado, o seguinte
+
+  procedimento se aplica:
+
+  (1) o detentor do certificado deve apresentar um requerimento á ANAC com uma antecedência
+
+  de, pelo menos, 45 dias antes da data para a emenda proposta tornar-se efetiva, a menos
+  que à ANAC
+
+  aceite um prazo menor; e
+
+  (2) o requerimento deve ser preenchido no formato e da maneira prevista pela ANAC.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- certificado
+- detentor
+- menos
+- requerimento
+- aceite
+- antecedencia
+- aplica
+- apresentar
+- data
+- dias
+- efetiva
+- emendas
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-119.md

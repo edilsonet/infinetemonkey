@@ -1,0 +1,38 @@
+id: rbac-rbac-23-23-2250-e
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2250'
+section_title: Princípios de projeto e construção.
+subsection_id: e
+cite: 23.2250(e)
+title: 23.2250(e)
+text: '(e) Doors, canopies, and exits must be protect-
+
+  ed against inadvertent opening in flight, unless
+
+  shown to create no hazard when opened in
+
+  flight.
+
+  ça operacional.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- flight
+- against
+- canopies
+- construcao
+- create
+- doors
+- exits
+- hazard
+- inadvertent
+- must
+- opened
+- opening
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

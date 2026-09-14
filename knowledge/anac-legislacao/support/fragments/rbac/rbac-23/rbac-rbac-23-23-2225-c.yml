@@ -1,0 +1,73 @@
+id: rbac-rbac-23-23-2225-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.2225'
+section_title: Condições de carga em componen-
+subsection_id: c
+cite: 23.2225(c)
+title: 23.2225(c)
+text: '(c) A pressurized cabin resulting from the pres-
+
+  surization differential:
+
+  (1) From zero up to the maximum relief pres-
+
+  sure combined with gust and maneuver loads;
+
+
+  (2) From zero up to the maximum relief pres-
+
+  sure combined with ground and water loads if
+
+  the airplane may land with the cabin pressur-
+
+  ized; and
+
+  (3) At the maximum relief pressure multiplied
+
+  by 1,33, omitting all other loads.
+
+  rais associados resultantes de:
+
+  (1) Inércia de cada superfície e de cada ponto
+
+  de fixação de massa de balanceamento;
+
+  (2) Rajadas e manobras em voo;
+
+  (3) Atuações do piloto ou de sistemas automa-
+
+  tizados da aeronave;
+
+  (4) Condições induzidas pelo sistema, incluin-
+
+  do interferência e atrito; e
+
+  (5) Operações de táxi, decolagem e pouso so-
+
+  bre as superfícies aplicáveis, incluindo taxi
+
+  com vento de cauda e rajadas ocorrendo sobre
+
+  as superfícies aplicáveis.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- from
+- loads
+- maximum
+- pres
+- relief
+- with
+- aplicaveis
+- cabin
+- cada
+- combined
+- condicoes
+- rajadas
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

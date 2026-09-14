@@ -1,0 +1,3004 @@
+id: rbac-rbac-60-apendice-a-appendix-a-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: apendice-a-appendix-a
+section_title: APÊNDICE A (APPENDIX A)
+subsection_id: b
+cite: apendice-a-appendix-a(b)
+title: apendice-a-appendix-a(b)
+text: '(b) Cada FFS deve possuir um QTG, aceito
+
+  pela ANAC, contendo:
+
+  (1) Objective data obtained from
+
+  traditional aircraft testing or another approved
+
+  source;
+
+  (1) Dados objetivos obtidos de ensaio em
+
+  voo da aeronave ou outra fonte de dados
+
+  aprovada;
+
+  (2) The results of FFS objective tests;
+
+  (2) Os resultados dos testes objetivos do
+
+  FFS;
+
+  (3) The results of FFS subjective tests;
+
+  and
+
+  (3) Os resultados dos testes subjetivos do
+
+  FFS; e
+
+  (4) A description of the equipment
+
+  necessary to perform the evaluation for initial
+
+  qualification and the continuing qualification
+
+  evaluations.
+
+  (4) Uma descrição do equipamento
+
+  necessário para executar as avaliações para
+
+  qualificação inicial e para qualificação
+
+  recorrente.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table A1 - General technical requirements for level A, B, C and D full-flight simulators
+  -
+
+  Airplane
+
+
+  Qualification
+
+  Level
+
+  General technical requirements
+
+  A
+
+  The lowest level of FFS technical complexity.
+
+  An enclosed full-scale replica of the airplane cockpit/flight deck including simulation
+  of
+
+  all systems, instruments, navigational equipment, communications, and caution and
+
+  warning systems.
+
+  An instructor’s station with seat should be provided. Seats for the flight crew members
+  and
+
+  two seats for inspectors/observers should also be provided.
+
+  Control forces and displacement characteristics should correspond to those of the
+
+  replicated airplane and they should respond in the same manner as the airplane under the
+
+  same flight conditions.
+
+  The use of class-specific data tailored to the specific airplane type with fidelity sufficient
+
+  to meet the objective tests, functions and subjective tests is allowed.
+
+  Generic ground effect and ground handling models are permitted.
+
+  Motion, visual and sound systems sufficient to support the training, testing and checking
+
+  credits sought are required.
+
+  The visual system should provide at least 45 degrees horizontal and 30 degrees vertical
+
+  field of view per pilot.
+
+  The response to control inputs should not be greater than 300 ms more than that
+
+  experienced on the airplane.
+
+  See table A2 for more simulator requirements.
+
+  B
+
+  As for level A, plus:
+
+  Validation flight test data should be used as the basis for flight and performance and
+
+  systems’ characteristics.
+
+  Additionally, ground handling and aerodynamics programming to include ground effect
+
+  reaction and handling characteristics should be derived from validation flight test data.
+
+  See table A2 for more simulator requirements.
+
+  C
+
+  The second highest level of FFS fidelity.
+
+  As for level B, plus:
+
+  A daylight/twilight/night visual system is required with a continuous, cross-cockpit,
+
+  minimum collimated visual field of view providing each pilot with 176 degrees horizontal
+
+  and 36 degrees vertical field of view.
+
+  A six-degrees-of-freedom motion system should be provided.
+
+  The sound simulation should include the sounds of precipitation and other significant
+
+  airplane noises perceptible to the pilot and should be able to reproduce the sounds of a
+
+  crash landing.
+
+  The response to control inputs (motion and instrument cues) should not be greater than 100
+
+  ms more than that experienced on the airplane. For a visual system cues should not be
+
+  greater than 120 ms more than that experienced on the airplane.
+
+  Wind shear simulation should be provided.
+
+  An upset prevention and recovery training (UPRT) instructor operating station (IOS)
+
+  feedback mechanism should be available.
+
+  See table A2 for more simulator requirements.
+
+  D
+
+  The highest level of FFS fidelity.
+
+  As for level C, plus:
+
+  Extended set of sound and motion buffet tests.
+
+  Improved aerodynamic modeling.
+
+  See table A2 for more simulator requirements.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table A2 - General Simulator Requirements
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  1.
+
+  General Flight Deck Configuration.
+
+  See below
+
+  NA
+
+  1.a.
+
+  The simulator must have a flight deck that is a replica of the airplane simulated with
+
+  controls, equipment, observable flight deck indicators, circuit breakers, and
+
+  bulkheads properly located, functionally accurate and replicating the airplane. The
+
+  direction of movement of controls and switches must be identical to the airplane.
+
+  Pilot seats must allow the occupant to achieve the design “eye position” established
+
+  for the airplane being simulated. Equipment for the operation of the flight deck
+
+  windows must be included, but the actual windows need not be operable. Additional
+
+  equipment such as fire axes, extinguishers, and spare light bulbs must be available in
+
+  the FFS but may be relocated to a suitable location as near as practical to the original
+
+  position. Fire axes, landing gear pins, and any similar purpose instruments need only
+
+  be represented in silhouette.
+
+  The use of electronically displayed images with physical overlay or masking for
+
+  simulator instruments and/or instrument panels is acceptable provided:
+
+  (1) All instruments and instrument panel layouts are dimensionally correct with
+
+  differences, if any, being imperceptible to the pilot;
+
+  (2) Instruments replicate those of the airplane including full instrument
+
+  functionality and embedded logic;
+
+  (3) Instruments displayed are free of quantization (stepping);
+
+  (4) Instrument display characteristics replicate those of the airplane including:
+
+  resolution, colors, luminance, brightness, fonts, fill patterns, line styles and
+
+  symbology;
+
+  (5) Overlay or masking, including bezels and bugs, as applicable, replicates the
+
+  airplane panel(s);
+
+  (6) Instrument controls and switches replicate and operate with the same
+
+  technique, effort, travel and in the same direction as those in the airplane;
+
+  A,B,C,D
+
+  For simulator purposes, the flight
+
+  deck consists of all that space
+
+  forward of a cross section of the
+
+  flight deck at the most extreme aft
+
+  setting of the pilots'' seats,
+
+  including additional required
+
+  crewmember duty stations and
+
+  those required bulkheads aft of the
+
+  pilot seats. For clarification,
+
+  bulkheads containing only items
+
+  such as landing gear pin storage
+
+  compartments, fire axes and
+
+  extinguishers, spare light bulbs,
+
+  and aircraft document pouches are
+
+  not considered essential and may
+
+  be omitted.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  (7) Instrument lighting replicates that of the airplane and is operated from the
+
+  FSTD control for that lighting and, if applicable, is at a level commensurate
+
+  with other lighting operated by that same control; and
+
+  (8) As applicable, instruments must have faceplates that replicate those in the
+
+  airplane; and
+
+  1.a.
+
+  (1) The display image of any three dimensional instrument, such as an electro-
+
+  mechanical instrument, should appear to have the same three dimensional depth as
+
+  the replicated instrument. The appearance of the simulated instrument, when viewed
+
+  from the principle operator’s angle, should replicate that of the actual airplane
+
+  instrument. Any instrument reading inaccuracy due to viewing angle and parallax
+
+  present in the actual airplane instrument should be duplicated in the simulated
+
+  instrument display image.
+
+  Viewing angle error and parallax must be minimized on shared instruments such
+
+  and engine displays and standby indicators.
+
+  C,D
+
+  NA
+
+  1.b.
+
+  Those circuit breakers that affect procedures or result in observable flight deck
+
+  indications must be properly located and functionally accurate.
+
+  A,B,C,D
+
+  NA
+
+  2.
+
+  Programming.
+
+  See below
+
+  NA
+
+  2.a.
+
+  A flight dynamics model that accounts for various combinations of drag and thrust
+
+  normally encountered in flight must correspond to actual flight conditions, including
+
+  the effect of change in airplane attitude, thrust, drag, altitude, temperature, gross
+
+  weight, moments of inertia, center of gravity location, and configuration.
+
+  An SOC is required.
+
+  A,B,C,D
+
+  The SOC should include a range of
+
+  tabulated target values to enable a
+
+  demonstration of the mass
+
+  properties model to be conducted
+
+  from the instructor''s station. The
+
+  data at a minimum should contain 3
+
+  weight conditions including zero
+
+  fuel weight and maximum taxi
+
+  weight with a least 2 different
+
+  combinations of zero fuel weight,
+
+  fuel weight and payload for each
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  condition.
+
+  2.a.
+
+  For Level C and Level D simulators, the effects of pitch attitude and of fuel slosh on
+
+  the aircraft center of gravity must be simulated.
+
+  C,D
+
+  NA
+
+  2.b.
+
+  The simulator must have the computer capacity, accuracy, resolution, and
+
+  dynamic response needed to meet the qualification level sought.
+
+  An SOC is required.
+
+  A,B,C,D
+
+  NA
+
+  2.c.
+
+  Surface operations must be represented to the extent that allows turns within the
+
+  confines of the runway and adequate controls on the landing and roll-out from a
+
+  crosswind approach to a landing.
+
+  A
+
+  NA
+
+  2.d.
+
+  Ground handling and aerodynamic programming must include the following:
+
+  See below
+
+  NA
+
+  2.d.1.
+
+  Ground effect.
+
+  B,C,D
+
+  Ground effect includes
+
+  modeling that accounts for
+
+  roundout, flare, touchdown, lift,
+
+  drag, pitching moment, trim,
+
+  and power while in ground
+
+  effect.
+
+  2.d.2.
+
+  Ground reaction.
+
+  Ground reaction modeling must produce the appropriate effects during bounced or
+
+  skipped landings, including the effects and indications of ground contact due to
+
+  landing in an abnormal aircraft attitude (e.g. tailstrike or nosewheel contact). An
+
+  SOC is required.
+
+  B,C,D
+
+  Ground reaction includes modeling
+
+  that accounts for strut deflections,
+
+  tire friction, and side forces. This is
+
+  the reaction of the airplane
+
+  uponcontact with the runway
+
+  during landing, and may differ with
+
+  changes in factors such as gross
+
+  weight, airspeed, or rate of descent
+
+  on touchdown.
+
+  2.d.3.
+
+  Ground handling characteristics, including aerodynamic and ground reaction
+
+  modeling including steering inputs, operations with crosswind, braking, thrust
+
+  B,C,D
+
+  In developing gust models for use
+
+  in training, the FSTD sponsor
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  reversing, deceleration, and turning radius.
+
+  An SOC is required describing source data used to construct gusting
+
+  crosswind profiles.
+
+  should coordinate with the data
+
+  provider to ensure that the gust
+
+  models do not exceed the
+
+  capabilities of the aerodynamic and
+
+  ground models.
+
+  2.d.3.
+
+  Aerodynamic and ground reaction modeling to support training in crosswinds and
+
+  gusting crosswinds up to the aircraft’s maximum demonstrated crosswind
+
+  component. Realistic gusting crosswind profiles must be available to the instructors
+
+  that have been tuned in intensity and variation to require pilot intervention to avoid
+
+  runway departure during takeoff or landing roll.
+
+  An SOC is required describing source data used to construct gusting
+
+  crosswind profiles.
+
+  C,D
+
+  In developing gust models for use
+
+  in training, the FSTD sponsor
+
+  should coordinate with the data
+
+  provider to ensure that the gust
+
+  models do not exceed the
+
+  capabilities of the aerodynamic and
+
+  ground models.
+
+  2.e.
+
+  If the aircraft being simulated is one of the aircraft listed in section 121.358 of
+
+  RBAC 121, Low- altitude windshear system equipment requirements, the simulator
+
+  must employ windshear models that provide training for recognition of windshear
+
+  phenomena and the execution of recovery procedures. Models must be available to
+
+  the instructor/evaluator for the following critical phases of flight:
+
+  (1) Prior to takeoff rotation;
+
+  (2) At liftoff;
+
+  (3) During initial climb; and
+
+  (4) On final approach, below 500 ft AGL.
+
+  Only those simulators meeting these requirements may be used to satisfy the
+
+  training requirements of RBAC 121 pertaining to a certificate holder’s approved
+
+  low-altitude windshear flight training program.
+
+  The addition of realistic levels of turbulence associated with each required
+
+  windshear profile must be available and selectable to the instructor.
+
+  In addition to the four basic windshear models required for qualification, at least
+
+  C,D
+
+  If desired, Level A and B
+
+  simulators may qualify for
+
+  windshear training by meeting
+
+  these standards.
+
+  Windshear models may consist of
+
+  independent variable winds in
+
+  multiple simultaneous components.
+
+  The simulator should employ a
+
+  method to ensure the required
+
+  survivable and non-survivable
+
+  windshear scenarios are repeatable
+
+  in the training environment.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  two additional “complex” windshear models must be available to the instructor
+
+  which represent the complexity of actual windshear encounters. These models must
+
+  be available in the takeoff and landing configurations and must consist of
+
+  independent variable winds in multiple simultaneous components.
+
+  2.f.
+
+  The simulator must provide for manual and automatic testing of simulator hardware
+
+  and software programming to determine compliance with simulator objective tests.
+
+  An SOC is required.
+
+  C,D
+
+  Automatic “flagging” of out- of-
+
+  tolerance situations is
+
+  encouraged.
+
+  2.g.
+
+  Relative responses of the motion system, visual system, and flight deck instruments,
+
+  measured by latency tests or transport delay tests. Motion onset should occur before
+
+  the start of the visual scene change (the start of the scan of the first video field
+
+  containing different information) but must occur before the end of the scan of that
+
+  video field. Instrument response may not occur prior to motion onset. Test results
+
+  must be within the following limits:
+
+  See below
+
+  The intent is to verify that the
+
+  simulator provides instrument,
+
+  motion, and visual cues that are,
+
+  within the stated time delays, like
+
+  the airplane responses. For
+
+  airplane response, acceleration in
+
+  the appropriate, corresponding
+
+  rotational axis is preferred.
+
+  2.g.1.
+
+  300 milliseconds of the airplane response.
+
+  A,B
+
+  NA
+
+  2.g.2.
+
+  100 milliseconds of the airplane response (motion and instrument cues)
+
+  120 milliseconds of the airplane response (visual system cues)
+
+  C,D
+
+  NA
+
+  2.h.
+
+  The simulator must accurately reproduce the following runway conditions:
+
+  (1) Dry;
+
+  (2) Wet;
+
+  (3) Icy;.
+
+  (4) Patchy Wet;
+
+  (5) Patchy Icy; and
+
+  C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  (6) Wet on Rubber Residue in Touchdown Zone;
+
+  An SOC is required.
+
+  2.i.
+
+  The simulator must simulate:
+
+  (1) brake and tire failure dynamics, including antiskid failure; and
+
+  (2) decreased brake efficiency due to high brake temperatures, if
+
+  applicable.
+
+  An SOC is required
+
+  C,D
+
+  Simulator pitch, side loading, and
+
+  directional control characteristics
+
+  should be representative of the
+
+  airplane.
+
+  2.j.
+
+  Engine and Airframe Icing
+
+  Modeling that includes the effects of icing, where appropriate, on the airframe,
+
+  aerodynamics, and the engine(s). Icing models must simulate the aerodynamic
+
+  degradation effects of ice accretion on the airplane lifting surfaces including loss of
+
+  lift, decrease in stall angle of attack, change in pitching moment, decrease in control
+
+  effectiveness, and changes in control forces in addition to any overall increase in
+
+  drag. Aircraft systems (such as the stall protection system and autoflight system)
+
+  must respond properly to ice accretion consistent with the simulated aircraft.
+
+  Aircraft OEM data or other acceptable analytical methods must be utilized to
+
+  develop ice accretion models. Acceptable analytical methods may include wind
+
+  tunnel analysis and/or engineering analysis of the aerodynamic effects of icing on
+
+  the lifting surfaces coupled with tuning and supplemental subjective assessment by a
+
+  subject matter expert pilot.
+
+  SOC and tests required.
+
+  C,D
+
+  SOC should be provided describing
+
+  the effects which provide training
+
+  in the specific skills required for
+
+  recognition of icing phenomena
+
+  and execution of recovery. The
+
+  SOC should describe the source
+
+  data and any analytical methods
+
+  used to develop ice accretion
+
+  models including verification that
+
+  these effects have been tested.
+
+  Icing effects simulation models are
+
+  only required for those airplanes
+
+  authorized for operations in icing
+
+  conditions.
+
+  2.k.
+
+  The aerodynamic modeling in the simulator must include:
+
+  (1) Low-altitude level-flight ground effect;
+
+  (2) Mach effect at high altitude;
+
+  (3) Normal and reverse dynamic thrust effect on control surfaces;
+
+  D
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  (4) Aeroelastic representations; and
+
+  (5) Nonlinearities due to sideslip.
+
+  An SOC is required and must include references to computations of aeroelastic
+
+  representations and of nonlinearities due to sideslip.
+
+  2.l.
+
+  The simulator must have aerodynamic and ground reaction modeling for the effects
+
+  of reverse thrust on directional control, if applicable.
+
+  An SOC is required.
+
+  B,C,D
+
+  NA
+
+  2.m.
+
+  High Angle of Attack Modeling
+
+  Aerodynamic stall modeling that includes degradation in static/dynamic lateral-
+
+  directional stability, degradation in control response (pitch, roll, and yaw),
+
+  uncommanded roll response or roll-off requiring significant control deflection to
+
+  counter, apparent randomness or non-repeatability, changes in pitch stability, Mach
+
+  effects, and stall buffet, as appropriate to the aircraft type.
+
+  The aerodynamic model must incorporate an angle of attack and sideslip range to
+
+  support the training tasks. At a minimum, the model must support an angle of attack
+
+  range to ten degrees beyond the stall identification angle of attack. The stall
+
+  identification angle of attack is defined as the point where the behavior of the
+
+  airplane gives the pilot a clear and distinctive indication through the inherent flight
+
+  characteristics or the characteristics resulting from the operation of a stall
+
+  identification device (e.g., a stick pusher) that the airplane has stalled.
+
+  The model must be capable of capturing the variations seen in the stall
+
+  characteristics of the airplane (e.g., the presence or absence of a pitch break,
+
+  deterrent buffet, or other indications of a stall where present on the aircraft). The
+
+  aerodynamic modeling must support stall training maneuvers in the following flight
+
+  conditions:
+
+  (1) Stall entry at wings level (1g);
+
+  C,D
+
+  The requirements in this section
+
+  only apply to those FSTDs that are
+
+  qualified for full stall training tasks.
+
+  Sponsors may elect to not qualify
+
+  an FSTD for full stall training
+
+  tasks; however, the FSTD’s
+
+  qualification will be restricted to
+
+  approach to stall training tasks that
+
+  terminate at the activation of the
+
+  stall warning system.
+
+
+  Specific guidance should be
+
+  available to the instructor which
+
+  clearly communicates the flight
+
+  configurations and stall maneuvers
+
+  that have been evaluated in the
+
+  FSTD for use in training.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  (2) Stall entry in turning flight of at least 25° bank angle (accelerated stall);
+
+  (3) Stall entry in a power-on condition (required only for propeller driven
+
+  aircraft); and
+
+  (4) Aircraft configurations of second segment climb, high altitude cruise (near
+
+  performance limited condition), and approach or landing.
+
+  A Statement of Compliance (SOC) is required which describes the aerodynamic
+
+  modeling methods, validation, and checkout of the stall characteristics of the FSTD.
+
+  The SOC must also include verification that the FSTD has been evaluated by a
+
+  subject matter expert pilot acceptable to the ANAC.
+
+  Where known limitations exist in the aerodynamic model for particular stall
+
+  maneuvers (such as aircraft configurations and stall entry methods), these limitations
+
+  must be declared in the required SOC.
+
+  FSTDs qualified for full stall training tasks must also meet the instructor operating
+
+  station (IOS) requirements for upset prevention and recovery training (UPRT) tasks
+
+  as described in section 2.n. of this table.
+
+  2.n.
+
+  Upset Prevention and Recovery Training (UPRT).
+
+  Aerodynamics Evaluation: The simulator must be evaluated for specific upset
+
+  recovery maneuvers for the purpose of determining that the combination of angle of
+
+  attack and sideslip does not exceed the range of flight test validated
+
+  data or wind tunnel/analytical data while performing the recovery maneuver. The
+
+  following minimum set of required upset recovery maneuvers must be evaluated in
+
+  this manner and made available to the instructor/evaluator. Other upset recovery
+
+  scenarios as developed by the FSTD sponsor must be evaluated in the same manner:
+
+  (1) A nose-high, wings level aircraft upset;
+
+  (2) A nose-low aircraft upset; and
+
+  (3) A high bank angle aircraft upset.
+
+  C,D
+
+  This section generally applies to
+
+  the qualification of airplane upset
+
+  recovery training maneuvers or
+
+  unusual attitude
+
+  training maneuvers that exceed one
+
+  or more of the following
+
+  conditions:
+
+  Pitch attitude greater than 25
+
+  degrees, nose up
+
+  Pitch attitude greater than 10
+
+  degrees, nose down
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  Upset Scenarios: IOS selectable dynamic airplane upsets must provide guidance to
+
+  the instructor concerning the method used to drive the FSTD into an upset condition,
+
+  including any malfunction or degradation in the FSTD’s functionality required to
+
+  initiate the upset. The unrealistic degradation of simulator functionality (such as
+
+  degrading flight control effectiveness) to drive an airplane upset is generally not
+
+  acceptable unless used purely as a tool for repositioning the FSTD with the pilot out
+
+  of the loop.
+
+  Instructor Operating System (IOS): The simulator must have a feedback mechanism
+
+  in place to notify the instructor/evaluator when the simulator’s validated
+
+  aerodynamic envelope and aircraft operating limits have been exceeded during an
+
+  upset recovery training task. This feedback mechanism must include:
+
+  (1) FSTD validation envelope. This must be in the form of an alpha/beta
+
+  envelope (or equivalent method) depicting the “confidence level” of the
+
+  aerodynamic model depending on the degree of flight validation or source of
+
+  predictive methods The envelopes must provide the instructor real-time
+
+  feedback on the simulation during a maneuver. There must be a minimum of a
+
+  (2) flaps up and flaps down envelope available;
+
+  (3) Flight control inputs. This must enable the instructor to assess the pilot’s
+
+  flight control displacements and forces (including fly-by- wire as appropriate);
+
+  and
+
+  (4) Airplane operational limits. This must display the aircraft operating limits
+
+  during the maneuver as applicable for the configuration of the airplane.
+
+  Statement of Compliance (SOC): An SOC is required that defines the source data
+
+  used to construct the FSTD validation envelope. The SOC must also verify that each
+
+  upset prevention and recovery feature programmed at the instructor station and the
+
+  associated training maneuver has been evaluated by a suitably qualified pilot using
+
+  methods described in this section. The statement must confirm that the recovery
+
+  maneuver can be performed such that the FSTD does not exceed the FSTD
+
+  validation envelope, or when exceeded, that it is within the realm of confidence in
+
+  Bank angle greater than 45 degrees
+
+  Flight at airspeeds inappropriate for
+
+  conditions.
+
+  FSTDs used to conduct upset
+
+  recovery maneuvers at angles of
+
+  attack above the stall warning
+
+  system activation must meet the
+
+  requirements for high angle of
+
+  attack modeling as described in
+
+  section 2.m.
+
+  Special consideration should be
+
+  given to the motion system
+
+  response during upset prevention
+
+  and recovery maneuvers.
+
+  Notwithstanding the limitations of
+
+  simulator motion, specific
+
+  emphasis should be placed on
+
+  tuning out motion system
+
+  responses.
+
+  Consideration should be taken with
+
+  flight envelope protected airplanes
+
+  as artificially positioning the
+
+  airplane to a specified attitude may
+
+  incorrectly initialize flight control
+
+  laws.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  the simulation accuracy.
+
+  3.
+
+  Equipment Operation.
+
+  See below
+
+  NA
+
+  3.a.
+
+  All relevant instrument indications involved in the simulation of the airplane must
+
+  automatically respond to control movement or external disturbances to the simulated
+
+  airplane; e.g., turbulence or windshear. Numerical values must be presented in the
+
+  appropriate units.
+
+  For Level C and Level D simulators, instrument indications must also respond to
+
+  effects resulting from icing.
+
+  A,B,C,D
+
+  NA
+
+  3.b.
+
+  Communications, navigation, caution, and warning equipment must be installed and
+
+  operate within the tolerances applicable for the airplane.
+
+  Instructor control of internal and external navigational aids. Navigation aids must be
+
+  usable within range or line-of-sight without restriction, as applicable to the
+
+  geographic area.
+
+  A,B,C,D
+
+
+  3.b.1.
+
+  Complete navigation database for at least 3 airports with corresponding precision
+
+  and non-precision approach procedures, including navigational database updates.
+
+  C,D
+
+  NA
+
+  3.b.2.
+
+  Complete navigation database for at least 1 airport with corresponding precision and
+
+  non-precision approach procedures, including navigational database updates.
+
+  A,B
+
+  NA
+
+  3.c.
+
+  Simulated airplane systems must operate as the airplane systems operate under
+
+  normal, abnormal, and emergency operating conditions on the ground and in flight.
+
+  Once activated, proper systems operation must result from system management by
+
+  the crew member and not require any further input from the instructor''s controls.
+
+  A,B,C,D
+
+  Airplane system operation should
+
+  be predicated on, and traceable to,
+
+  the system data supplied by the
+
+  airplane manufacturer, original
+
+  equipment manufacturer or
+
+  alternative approved data for the
+
+  airplane system or component.
+
+  At a minimum, alternate approved
+
+  data should validate the operation
+
+  of all normal, abnormal, and
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  emergency operating procedures
+
+  and training tasks the FSTD is
+
+  qualified to conduct.
+
+  3.d.
+
+  The simulator must provide pilot controls with control forces and control travel that
+
+  correspond to the simulated airplane. The simulator must also react in the same
+
+  manner as in the airplane under the same flight conditions.
+
+  Control systems must replicate airplane operation for the normal and any non-
+
+  normal modes including back-up systems and should reflect failures of associated
+
+  systems.
+
+  Appropriate cockpit indications and messages must be replicated.
+
+  A,B,C,D
+
+  NA
+
+  3.e.
+
+  Simulator control feel dynamics must replicate the airplane. This must be determined
+
+  by comparing a recording of the control feel dynamics of the simulator to airplane
+
+  measurements. For initial and upgrade qualification evaluations, the control dynamic
+
+  characteristics must be measured and recorded directly from the flight deck controls,
+
+  and must be accomplished in takeoff, cruise, and landing flight conditions and
+
+  configurations.
+
+  C,D
+
+  NA
+
+  3.f.
+
+  For aircraft equipped with a stick pusher system, control forces, displacement, and
+
+  surface position must correspond to that of the airplane being simulated.
+
+  A Statement of Compliance (SOC) is required verifying that the stick pusher system
+
+  has been modeled, programmed, and validated using the aircraft manufacturer’s
+
+  design data or other acceptable data source. The SOC must address, at a minimum,
+
+  stick pusher activation and cancellation logic as well as system dynamics, control
+
+  displacement and forces as a result of the stick pusher activation.
+
+  Tests required.
+
+  C,D
+
+  The requirements in this section
+
+  only apply to those FSTDs that
+
+  are qualified for full stall
+
+  training tasks.
+
+  4.
+
+  Instructor or Evaluator Facilities.
+
+  See below
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  4.a.
+
+  In addition to the flight crewmember stations, the simulator must have at least two
+
+  suitable seats for the instructor/check airman and ANAC inspector. These seats must
+
+  provide adequate vision to the pilot''s panel and forward windows. All seats other
+
+  than flight crew seats need not represent those found in the airplane, but must be
+
+  adequately secured to the floor and equipped with similar positive restraint devices.
+
+  A,B,C,D
+
+  The ANAC will consider
+
+  alternatives to this standard for
+
+  additional seats based on unique
+
+  flight deck configurations.
+
+  4.b.
+
+  The simulator must have controls that enable the instructor/evaluator to control all
+
+  required system variables and insert all abnormal or emergency conditions into the
+
+  simulated airplane systems as described in the sponsor’s ANAC-approved training
+
+  program; or as described in the relevant operating manual as appropriate.
+
+  A,B,C,D
+
+  NA
+
+  4.c.
+
+  The simulator must have instructor controls for all environmental effects expected to
+
+  be available at the IOS; e.g., clouds, visibility, icing, precipitation, temperature,
+
+  storm cells and microbursts, turbulence, and
+
+  intermediate and high altitude wind speed and direction.
+
+  A,B,C,D
+
+  NA
+
+  4.d.
+
+  The simulator must provide the instructor or evaluator the ability to present ground
+
+  and air hazards.
+
+  C,D
+
+  For example, another airplane
+
+  crossing the active runway or
+
+  converging airborne traffic.
+
+  5.
+
+  Motion System.
+
+  See below
+
+  NA
+
+  5.a.
+
+  The simulator must have motion (force) cues perceptible to the pilot that are
+
+  representative of the motion in an airplane.
+
+  A,B,C,D
+
+  For example, touchdown cues
+
+  should be a function of the rate of
+
+  descent (RoD) of the simulated
+
+  airplane.
+
+  5.b.
+
+  The simulator must have a motion (force cueing) system with a minimum of three
+
+  degrees of freedom (at least pitch, roll, and heave).
+
+  An SOC is required.
+
+  A,B
+
+  NA
+
+  5.c.
+
+  The simulator must have a motion (force cueing) system that produces cues at least
+
+  equivalent to those of a six-degrees-of-freedom, synergistic platform motion system
+
+  C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  (i.e., pitch, roll, yaw, heave, sway, and surge).
+
+  An SOC is required.
+
+  5.d.
+
+  The simulator must provide for the recording of the motion system response time.
+
+  An SOC is required.
+
+  A,B,C,D
+
+  NA
+
+  5.e.
+
+  The simulator must provide motion effects programming to include:
+
+  See below
+
+  NA
+
+  5.e.1.
+
+  (1) Thrust effect with brakes set;
+
+  (2) Runway rumble, oleo deflections, effects of ground speed, uneven runway,
+
+  centerline lights, and taxiway characteristics;
+
+  (3) Buffets on the ground due to spoiler/speedbrake extension and thrust
+
+  reversal;
+
+  (4) Bumps associated with the landing gear;
+
+  (5) Buffet during extension and retraction of landing gear;
+
+  (6) Buffet in the air due to flap and spoiler/speedbrake extension;
+
+  (7) Approach-to-stall buffet and stall buffet (where applicable);
+
+  (8) Representative touchdown cues for main and nose gear;
+
+  (9) Nosewheel scuffing, if applicable;
+
+  (10) Mach and maneuver buffet;
+
+  (11) Engine failures, malfunctions, and engine damage
+
+  (12) Tail and pod strike;
+
+  B,C,D
+
+  If there are known flight
+
+  conditions where buffet is the first
+
+  indication of the stall, or where no
+
+  stall buffet occurs, this
+
+  characteristic should be included
+
+  in the model.
+
+  5.e.2.
+
+  (13) Taxiing effects such as lateral and directional cues resulting from steering
+
+  and braking inputs;
+
+  (14) Buffet due to atmospheric disturbances (e.g. buffets due to turbulence,
+
+  C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  gusting winds, storm cells, windshear, etc.) in three linear axes (isotropic);
+
+  (15) Tire failure dynamics; and
+
+  (16) Other significant vibrations, buffets and bumps that are not mentioned
+
+  above (e.g. RAT), or checklist items such as motion effects due to pre-flight
+
+  flight control inputs.
+
+  5.f.
+
+  The simulator must provide characteristic motion vibrations that result from
+
+  operation of the airplane if the vibration marks an event or airplane state that can be
+
+  sensed in the flight deck.
+
+  D
+
+  The simulator should be
+
+  programmed and instrumented in
+
+  such a manner that the
+
+  characteristic buffet modes can be
+
+  measured and compared to airplane
+
+  data.
+
+  6.
+
+  Visual System.
+
+  See below
+
+  NA
+
+  6.a.
+
+  The simulator must have a visual system providing an out-of-the-flight deck view.
+
+  A,B,C,D
+
+  NA
+
+  6.b.
+
+  The simulator must provide a continuous collimated field-of-view of at least 45º
+
+  horizontally and 30º vertically per pilot seat or the number of degrees necessary to
+
+  meet the visual ground segment requirement, whichever is greater. Both pilot seat
+
+  visual systems must be operable simultaneously. The minimum horizontal field-of-
+
+  view coverage must be plus and minus one-half (½) of the minimum continuous
+
+  field-of-view requirement, centered on the zero degree azimuth line relative to the
+
+  aircraft fuselage.
+
+  An SOC is required and must explain the system geometry measurements including
+
+  system linearity and field-of-view.
+
+  A,B
+
+  Additional field-of-view capability
+
+  may be added at the sponsor’s
+
+  discretion provided the minimum
+
+  fields of view are retained.
+
+  6.c.
+
+  (Reserved)
+
+  NA
+
+  NA
+
+  6.d.
+
+  The simulator must provide a continuous collimated visual field-of-view of at least
+
+  176° horizontally and 36° vertically or the number of degrees necessary to meet the
+
+  visual ground segment requirement, whichever is greater. The minimum horizontal
+
+  field-of-view coverage must be plus and minus one-half (½) of the minimum
+
+  C,D
+
+  The horizontal field-of-view is
+
+  traditionally described as a 180º
+
+  field-of-view. However, the field-
+
+  of-view is technically no less than
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  continuous field-of-view requirement, centered on the zero degree azimuth line
+
+  relative to the aircraft fuselage.
+
+  An SOC is required and must explain the system geometry measurements including
+
+  system linearity and field-of-view.
+
+  176º. Additional field-of-view
+
+  capability may be added at the
+
+  sponsor’s discretion provided the
+
+  minimum fields of view are
+
+  retained.
+
+  6.e.
+
+  The visual system must be free from optical discontinuities and artifacts that create
+
+  non-realistic cues.
+
+  A,B,C,D
+
+  Non-realistic cues might include
+
+  image “swimming” and image
+
+  “roll-off,” that may lead a pilot to
+
+  make incorrect assessments of
+
+  speed, acceleration, or situational
+
+  awareness.
+
+  6.f.
+
+  The simulator must have operational landing lights for night scenes. Where used,
+
+  dusk (or twilight) scenes require operational landing lights.
+
+  A,B,C,D
+
+  NA
+
+  6.g.
+
+  The simulator must have instructor controls for the following:
+
+  (1) Visibility in statute miles (km) and runway visual range (RVR) in ft.(m);
+
+  (2) Airport selection; and
+
+  (3) Airport lighting.
+
+  A,B,C,D
+
+  NA
+
+  6.h.
+
+  The simulator must provide visual system compatibility with dynamic response
+
+  programming.
+
+  A,B,C,D
+
+  NA
+
+  6.i.
+
+  The simulator must show that the segment of the ground visible from the simulator
+
+  flight deck is the same as from the airplane flight deck (within established
+
+  tolerances) when at the correct airspeed, in the landing configuration, at the
+
+  appropriate height above the touchdown zone, and with appropriate visibility.
+
+  A,B,C,D
+
+  This will show the modeling
+
+  accuracy of RVR, glideslope, and
+
+  localizer for a given weight,
+
+  configuration, and speed within the
+
+  airplane''s operational envelope for
+
+  a normal approach and landing.
+
+  6.j.
+
+  The simulator must provide visual cues necessary to assess sink rates (provide depth
+
+  B,C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  perception) during takeoffs and landings, to include:
+
+  (1) Surface on runways, taxiways, and ramps; and
+
+  (2) Terrain features.
+
+  6.k.
+
+  The simulator must provide for accurate portrayal of the visual environment relating
+
+  to the simulator attitude.
+
+  A,B,C,D
+
+  Visual attitude vs. simulator
+
+  attitude is a comparison of pitch
+
+  and roll of the horizon as displayed
+
+  in the visual scene compared to the
+
+  display on the attitude indicator.
+
+  6.l.
+
+  The simulator must provide for quick confirmation of visual system color, RVR,
+
+  focus, and intensity.
+
+  An SOC is required.
+
+  C,D
+
+  NA
+
+  6.m.
+
+  The simulator must be capable of producing at least 10 levels of occulting.
+
+  C,D
+
+  NA
+
+  6.n.
+
+  Night Visual Scenes. When used in training, testing, or checking activities, the
+
+  simulator must provide night visual scenes with sufficient scene content to recognize
+
+  the airport, the terrain, and major landmarks around the airport.
+
+  The scene content must allow a pilot to successfully accomplish a visual landing.
+
+  Scenes must include a definable horizon and typical terrain characteristics such as
+
+  fields, roads and bodies of water and surfaces illuminated by airplane landing lights.
+
+  A,B,C,D
+
+  NA
+
+  6.o.
+
+  Dusk (or Twilight) Visual Scenes. When used in training, testing, or checking
+
+  activities, the simulator must provide dusk (or twilight) visual scenes with sufficient
+
+  scene content to recognize the airport, the terrain, and major landmarks around the
+
+  airport. The scene content must allow a pilot to successfully accomplish a visual
+
+  landing. Dusk (or twilight) scenes, as a minimum, must provide full color
+
+  presentations of reduced ambient intensity, sufficient surfaces with appropriate
+
+  textural cues that include self-illuminated objects such as road networks, ramp
+
+  lighting and airport signage, to conduct a visual approach, landing and airport
+
+  movement (taxi). Scenes must include a definable horizon and typical terrain
+
+  C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  characteristics such as fields, roads and bodies of water and surfaces illuminated by
+
+  airplane landing lights. If provided, directional horizon lighting must have correct
+
+  orientation and be consistent with surface shading effects. Total night or dusk
+
+  (twilight) scene content must be comparable in detail to that produced by 10,000
+
+  visible textured surfaces and 15,000 visible lights with sufficient system capacity to
+
+  display 16 simultaneously moving objects.
+
+  An SOC is required.
+
+  6.p.
+
+  Daylight Visual Scenes. The simulator must provide daylight visual scenes with
+
+  sufficient scene content to recognize the airport, the terrain, and major landmarks
+
+  around the airport. The scene content must allow a pilot to successfully accomplish a
+
+  visual landing. Any ambient lighting must not “washout” the displayed visual scene.
+
+  Total daylight scene content must be comparable in detail to that produced by 10,000
+
+  visible textured surfaces and 6,000 visible lights with sufficient system capacity to
+
+  display 16 simultaneously moving objects. The visual display must be free of
+
+  apparent and distracting quantization and other distracting visual effects while the
+
+  simulator is in motion.
+
+  An SOC is required.
+
+  C,D
+
+  NA
+
+  6.q.
+
+  The simulator must provide operational visual scenes that portray physical
+
+  relationships known to cause landing illusions to pilots.
+
+  C,D
+
+  For example: short runways,
+
+  landing approaches over water,
+
+  uphill or downhill runways, rising
+
+  terrain on the approach path,
+
+  unique topographic features.
+
+  6.r.
+
+  The simulator must provide special weather representations of light, medium, and
+
+  heavy precipitation near a thunderstorm on takeoff and during approach and landing.
+
+  Representations need only be presented at and below an altitude of 2,000 ft. (610 m)
+
+  above the airport surface and within 10 miles (16 km) of the airport.
+
+  C,D
+
+  NA
+
+  6.s.
+
+  The simulator must present visual scenes of wet and snow-covered runways,
+
+  including runway lighting reflections for wet conditions, partially obscured lights for
+
+  C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  snow conditions, or suitable alternative effects.
+
+  6.t.
+
+  The simulator must present realistic color and directionality of all airport lighting.
+
+  C,D
+
+  NA
+
+  6.u.
+
+  The following weather effects as observed on the visual system must be
+
+  simulated and respective instructor controls provided.
+
+  (1) Multiple cloud layers with adjustable bases, tops, sky coverage and scud
+
+  effect;
+
+  (2) Storm cells activation and/or deactivation;
+
+  (3) Visibility and runway visual range (RVR), including fog and patchy fog
+
+  effect;
+
+  (4) Effects on ownship external lighting;
+
+  (5) Effects on airport lighting (including variable intensity and fog effects);
+
+  (6) Surface contaminants (including wind blowing effect);
+
+  (7) Variable precipitation effects (rain, hail, snow);
+
+  (8) In-cloud airspeed effect; and
+
+  (9) Gradual visibility changes entering and breaking out of cloud.
+
+  C,D
+
+  Scud effects are low, detached, and
+
+  irregular clouds below a defined
+
+  cloud layer.
+
+  Atmospheric model should
+
+  support representative effects of
+
+  wake turbulence and mountain
+
+  waves as needed to enhance
+
+  UPRT training.
+
+  The mountain wave model should
+
+  support the atmospheric climb,
+
+  descent, and roll rates which can be
+
+  encountered in mountain wave and
+
+  rotor conditions.
+
+  6.v.
+
+  The simulator must provide visual effects for:
+
+  (1) Light poles;
+
+  (2) Raised edge lights as appropriate; and
+
+  (3) Glow associated with approach lights in low visibility before physical lights
+
+  are seen,
+
+  C,D
+
+  Visual effects for light poles and
+
+  raised edge lights are for the
+
+  purpose of providing additional
+
+  depth perception during takeoff,
+
+  landing, and taxi training tasks.
+
+  Three dimensional modeling of the
+
+  actual poles and stanchions is not
+
+  required.
+
+  6.w
+
+  A minimum of one (1) representative airport model required for simulator
+
+  qualification. The fidelity of the airport model must be sufficient for the aircrew to
+
+  A,B
+
+  The model identifications must be
+
+  acceptable to the ANAC, selectable
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  visually identify the airport; determine the position of the simulated airplane within
+
+  a night visual scene; successfully accomplish take-offs, approaches, and landings;
+
+  and maneuver around the airport on the ground as necessary.
+
+  from the IOS, and listed on the
+
+  SOQ.
+
+  6.x
+
+  A minimum of three (3) real-world airport models required for simulator
+
+  qualification. Must be consistent with published data used for airplane operations.
+
+  Each model should be in a different visual scene to permit assessment of FSTD
+
+  automatic visual scene changes.
+
+  C,D
+
+  The model identifications must be
+
+  acceptable to the ANAC, selectable
+
+  from the IOS, and listed on the
+
+  SOQ.
+
+  7.
+
+  Sound System.
+
+  See below
+
+  NA
+
+  7.a.
+
+  The simulator must provide flight deck sounds that result from pilot actions that
+
+  correspond to those that occur in the airplane.
+
+  A,B,C,D
+
+  NA
+
+  7.b.
+
+  The volume control must have an indication of sound level setting which meets all
+
+  qualification requirements.
+
+  A,B,C,D
+
+  For Level D simulators, this
+
+  indication should be readily
+
+  available to the instructor on or
+
+  about the IOS and is the sound
+
+  level setting required to meet the
+
+  objective testing requirements.
+
+  For all other simulator levels, this
+
+  indication is the sound level setting
+
+  as evaluated during the simulator’s
+
+  initial evaluation.
+
+  7.c.
+
+  The simulator must accurately simulate the sound of precipitation, windshield
+
+  wipers, and other significant airplane noises perceptible to the pilot during normal
+
+  and abnormal operations, and include the sound of a crash (when the simulator is
+
+  landed in an unusual attitude or in excess of the structural gear limitations); normal
+
+  engine and thrust reversal sounds; and the sounds of flap, gear, and spoiler extension
+
+  and retraction.
+
+  Sounds must be directionally representative.
+
+  C,D
+
+  For simulators qualified for full
+
+  stall training tasks, sounds
+
+  associated with stall buffet should
+
+  be replicated if significant in the
+
+  airplane.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  General Simulator Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  A SOC is required.
+
+  7.d.
+
+  The simulator must provide realistic amplitude and frequency of flight deck noises
+
+  and sounds. Simulator performance must be recorded, compared to amplitude and
+
+  frequency of the same sounds recorded in the airplane, and be made a part of the
+
+  QTG.
+
+  D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table A3 - Table of Tasks vs. Simulator Level - Subjective Requirements
+
+  In order to be qualified at the simulator qualification level indicated, the simulator must
+  be able to perform at least the tasks associated with that
+
+  level of qualification.
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+
+  Notes/Information
+
+  1.
+
+  Preflight Procedures.
+
+  See below
+
+  1.a.
+
+  Preflight Inspection (flight deck only)
+
+  A,B,C,D
+
+  1.b.
+
+  Engine Start
+
+  A,B,C,D
+
+  1.c.
+
+  Taxiing
+
+  B(R),C,D
+
+  1.d.
+
+  Pre-takeoff Checks
+
+  A,B,C,D
+
+  2.
+
+  Takeoff and Departure Phase.
+
+  See below
+
+  2.a.
+
+  Normal and Crosswind Takeoff
+
+  B(R),C,D
+
+  2.b.
+
+  Instrument Takeoff
+
+  A,B,C,D
+
+  2.c.
+
+  Engine Failure During Takeoff
+
+  A(a),B,C,D
+
+  2.d.
+
+  Rejected Takeoff
+
+  A,B,C,D
+
+  2.e.
+
+  Departure Procedure
+
+  A,B,C,D
+
+  3.
+
+  Inflight Maneuvers.
+
+  See below
+
+  3.a.
+
+  Steep Turns
+
+  A,B,C,D
+
+  3.b.
+
+  High Angle of Attack Maneuvers
+
+  See below
+
+  3.b.1
+
+  Approaches to Stall
+
+  A,B,C,D
+
+  3.b.2
+
+  Full Stall
+
+  C,D
+
+  Stall maneuvers at angles of attack
+
+  above the activation of the stall
+
+  warning system.
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+
+  Notes/Information
+
+  Required only for FSTDs qualified to
+
+  conduct full stall training tasks as
+
+  indicated on the Statement of
+
+  Qualification.
+
+  3.c.
+
+  Engine Failure-Multiengine Airplane
+
+  A,B,C,D
+
+  3.d.
+
+  Engine Failure-Single-Engine Airplane
+
+  A,B,C,D
+
+  3.e.
+
+  Specific Flight Characteristics incorporated into the user’s ANAC
+
+  approved flight training program.
+
+  A(a),B(a),C(a),D(a)
+
+  3.f.
+
+  Recovery From Unusual Attitudes
+
+  A,B,C,D
+
+  Within the normal flight
+
+  envelope supported by
+
+  applicable simulation validation
+
+  data.
+
+  3.g.
+
+  Upset Prevention and Recovery Training (UPRT)
+
+  C,D
+
+  Upset recovery or unusual attitude
+
+  training maneuvers within the FSTD’s
+
+  validation envelope that are intended
+
+  to exceed pitch attitudes greater than
+
+  25 degrees nose up; pitch attitudes
+
+  greater than 10 degrees nose down,
+
+  and bank angles greater than 45
+
+  degrees.
+
+  4.
+
+  Instrument Procedures.
+
+  See below
+
+  4.a.
+
+  Standard Terminal Arrival / Flight Management System Arrivals
+
+  Procedures
+
+  A,B,C,D
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+
+  Notes/Information
+
+  4.b.
+
+  Holding
+
+  A,B,C,D
+
+  4.c.
+
+  Precision Instrument
+
+  See below
+
+  4.c.1.
+
+  All engines operating.
+
+  A,B,C,D
+
+  e.g., Autopilot, Manual (Flt. Dir.
+
+  Assisted), Manual (Raw Data)
+
+  4.c.2.
+
+  One engine inoperative.
+
+  A,B,C,D
+
+  e.g., Manual (Flt. Dir. Assisted),
+
+  Manual (Raw Data)
+
+  4.d.
+
+  Non-precision Instrument Approach
+
+  A,B,C,D
+
+  e.g., NDB, VOR, VOR/DME,
+
+  VOR/TAC, RNAV, LOC, LOC/BC,
+
+  ADF, and SDF.
+
+  4.e.
+
+  Circling Approach
+
+  A,B,C,D
+
+  Specific authorization required.
+
+  4.f.
+
+  Missed Approach
+
+  See below
+
+  4.f.1.
+
+  Normal.
+
+  A,B,C,D
+
+  4.f.2.
+
+  One engine Inoperative.
+
+  A,B,C,D
+
+  5.
+
+  Landings and Approaches to Landings.
+
+  See below
+
+  5.a.
+
+  Normal and Crosswind Approaches and Landings
+
+  B(R),C,D
+
+  5.b.
+
+  Landing From a Precision / Non-Precision Approach
+
+  B(R),C,D
+
+  5.c.
+
+  Approach and Landing with (Simulated) Engine Failure -
+
+  Multiengine Airplane
+
+  B(R),C,D
+
+  5.d.
+
+  Landing From Circling Approach
+
+  B(R),C,D
+
+  5.e.
+
+  Rejected Landing
+
+  A,B,C,D
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+
+  Notes/Information
+
+  5.f.
+
+  Landing From a No Flap or a Nonstandard Flap Configuration
+
+  Approach
+
+  B(R),C,D
+
+  6.
+
+  Normal and Abnormal Procedures.
+
+  See below
+
+  6.a.
+
+  Engine (including shutdown and restart)
+
+  A,B,C,D
+
+  6.b.
+
+  Fuel System
+
+  A,B,C,D
+
+  6.c.
+
+  Electrical System
+
+  A,B,C,D
+
+  6.d.
+
+  Hydraulic System
+
+  A,B,C,D
+
+  6.e.
+
+  Environmental and Pressurization Systems
+
+  A,B,C,D
+
+  6.f.
+
+  Fire Detection and Extinguisher Systems
+
+  A,B,C,D
+
+  6.g.
+
+  Navigation and Avionics Systems
+
+  A,B,C,D
+
+  6.h.
+
+  Automatic Flight Control System, Electronic Flight Instrument
+
+  System, and Related Subsystems
+
+  A,B,C,D
+
+  6.i.
+
+  Flight Control Systems
+
+  A,B,C,D
+
+  6.j.
+
+  Anti-ice and Deice Systems
+
+  A,B,C,D
+
+  6.k.
+
+  Aircraft and Personal Emergency Equipment
+
+  A,B,C,D
+
+  7.
+
+  Emergency Procedures.
+
+  See below
+
+  7.a.
+
+  Emergency Descent (Max. Rate)
+
+  A,B,C,D
+
+  7.b.
+
+  Inflight Fire and Smoke Removal
+
+  A,B,C,D
+
+  7.c.
+
+  Rapid Decompression
+
+  A,B,C,D
+
+  7.d.
+
+  Emergency Evacuation
+
+  A,B,C,D
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+
+  Notes/Information
+
+  8.
+
+  Postflight Procedures.
+
+  See below
+
+  8.a.
+
+  After-Landing Procedures
+
+  A,B,C,D
+
+  8.b.
+
+  Parking and Securing
+
+  A,B,C,D
+
+  ‘‘(a)’’-indicates that the system, task, or procedure may be examined if the appropriate
+  aircraft system or control is simulated in the FSTD and
+
+  is working properly.
+
+  ‘‘(R)’’-indicates that the simulator may be qualified for this task for continuing qualification
+  training. ‘‘A,B,C,D’’-indicates that the simulator
+
+  must be able to perform this task for this level of qualification
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  Table A4 - Table of Simulator System Tasks - Subjective Requirements
+
+  In order to be qualified at the simulator qualification level indicated, the simulator must
+  be able to perform at least the tasks associated with that
+
+  level of qualification.
+
+  Entry
+
+  Number
+
+  Subjective Requirements
+
+  Simulator
+
+  Levels
+
+  Notes/Information
+
+  1.
+
+  Instructor Operating Station (IOS), as appropriate.
+
+  See below
+
+  NA
+
+  1.a.
+
+  Power switch(es).
+
+  A,B,C,D
+
+  NA
+
+  1.b.
+
+  Airplane conditions.
+
+  A,B,C,D
+
+  e.g., GW, CG, Fuel loading and
+
+  Systems.
+
+  1.c.
+
+  Airports / Runways.
+
+  A,B,C,D
+
+  e.g., Selection, Surface, Presets,
+
+  Lighting controls.
+
+  1.d.
+
+  Environmental controls.
+
+  A,B,C,D
+
+  e.g., Clouds, Visibility, RVR, Temp,
+
+  Wind, Ice, Snow, Rain, and Windshear.
+
+  1.e.
+
+  Airplane system malfunctions (Insertion / deletion)
+
+  A,B,C,D
+
+  NA
+
+  1.f.
+
+  Locks, Freezes, and Repositioning.
+
+  A,B,C,D
+
+  NA
+
+  2.
+
+  Sound Controls.
+
+  See below
+
+  NA
+
+  2.a.
+
+  On / off / adjustment
+
+  A,B,C,D
+
+  NA
+
+  3.
+
+  Motion / Control Loading System.
+
+  See below
+
+  NA
+
+  3.a.
+
+  On / off / emergency stop.
+
+  A,B,C,D
+
+  NA
+
+  4.
+
+  Observer Seats / Stations.
+
+  See below
+
+  NA
+
+  4.a.
+
+  Position / Adjustment / Positive restraint system.
+
+  A,B,C,D
+
+  NA
+
+
+  Data da emissão: 20 de março de 2020.'
+keywords:
+- simuladores
+- treinamento
+- must
+- simulator
+- airplane
+- that
+- flight
+- system
+- data
+- visual
+- with
+- required
+- requirements
+- should
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

@@ -1,0 +1,59 @@
+id: rbac-rbha-e-rbac-21-93-d-i
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.93'
+section_title: Classificação de modificações ao projeto de tipo
+subsection_id: d-i
+cite: 21.93(d-I)
+title: 21.93(d-I)
+text: '(d)-I Para os propósitos de cumprimento com o RBAC 38, considera-se:
+
+  (1) versão derivada de um avião não certificado para CO
+
+  2
+
+  . Um avião individual que está inserido em um certificado de tipo existente, mas que não
+  é certificado pelo RBAC 38, e no qual são feitas modificações antes da emissão do primeiro
+  certificado de aeronavegabilidade do avião que aumentam o valor da sua medida de emissões
+  de CO
+
+  2
+
+  em mais de 1,5% ou que são consideradas significantes para os propósitos de emissões de
+  CO
+
+  2
+
+  .
+
+  (2) versão derivada de um avião certificado para CO
+
+  2
+
+  . Um avião que incorpora modificações no projeto de tipo que aumentam sua massa máxima de
+  decolagem ou que aumentam o valor da sua medida de emissões de CO
+
+  2
+
+  em mais de:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aviao
+- certificado
+- aumentam
+- emissoes
+- modificacoes
+- tipo
+- derivada
+- medida
+- propositos
+- valor
+- versao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

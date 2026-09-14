@@ -1,0 +1,27 @@
+id: rbac-rbac-90-90-261-d
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.261'
+section_title: Requisitos gerais
+subsection_id: d
+cite: 90.261(d)
+title: 90.261(d)
+text: (d) A rotina operacional para voo NVIS da UAP deverá estar prevista nos respectivos
+  SOP.
+keywords:
+- regras-de-voo
+- operacoes
+- devera
+- estar
+- gerais
+- nvis
+- operacional
+- requisitos
+- respectivos
+- rotina
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

@@ -1,0 +1,63 @@
+id: rbac-rbac-145-145-59-e
+kind: rbac
+document: rbac-145
+family: '145'
+section_id: '145.59'
+section_title: Categorias e Classes
+subsection_id: e
+cite: 145.59(e)
+title: 145.59(e)
+text: '(e) Categoria Instrumento:
+
+  (1) Classe 1: Mecânico. Instrumentos com diafragma, tubo Bourdon, aneróide, óptico, ou
+
+  instrumento acionado mecanicamente por força centrífuga, usado na aeronave ou para operar
+  a
+
+  aeronave, incluindo tacômetros, indicadores de velocidade, manômetros de pressão, bússolas,
+
+  altímetros ou instrumentos mecânicos similares;
+
+
+  Data da emissão: 26 de fevereiro de 2021.
+
+  (2) Classe 2: Elétrico. Sistemas e instrumentos de indicação, elétricos e autossíncronos,
+
+  incluindo instrumentos de indicação remota, instrumentos de indicação de temperatura de
+  cabeça de
+
+  cilindro, ou instrumentos elétricos similares;
+
+  (3) Classe 3: Giroscópios. Instrumentos ou sistemas que utilizam princípio giroscópico e
+
+  movidos a pressão de ar ou energia elétrica, incluindo unidades de controle de piloto automático,
+
+  indicadores de turn-bank, giros direcionais e suas partes, bússolas flux gate e gyrosyn;
+  e
+
+  (4) Classe 4: Eletrônico. Instrumentos cuja operação depende de válvulas eletrônicas,
+
+  transistores ou dispositivos similares, incluindo medidores de quantidade por capacitância,
+  sistemas
+
+  amplificadores e analisadores de motor.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- instrumentos
+- classe
+- incluindo
+- indicacao
+- similares
+- sistemas
+- aeronave
+- bussolas
+- eletricos
+- indicadores
+- instrumento
+- pressao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-145.md

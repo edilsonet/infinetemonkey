@@ -1,0 +1,36 @@
+id: rbac-rbac-135-135-707-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.707'
+section_title: Gerenciamento de riscos à segurança operacional
+subsection_id: a
+cite: 135.707(a)
+title: 135.707(a)
+text: '(a) Processo de identificação de perigos.
+
+  (1) O detentor de certificado deve desenvolver e manter um processo que assegure que os
+  perigos associados a seus produtos ou serviços sejam identificados.
+
+  (2) O processo de identificação de perigos deve ser baseado em uma combinação de métodos
+  reativos e proativos de coleta de dados de segurança operacional.'
+keywords:
+- taxi-aereo
+- operacoes
+- perigos
+- processo
+- identificacao
+- operacional
+- seguranca
+- assegure
+- associados
+- baseado
+- certificado
+- coleta
+- combinacao
+- dados
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

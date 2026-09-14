@@ -1,0 +1,38 @@
+id: rbac-rbac-105-105-21-body
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: '105.21'
+section_title: Saltos dentro ou sobre áreas de serviço radar de aeródromos
+subsection_id: body
+cite: '105.21'
+title: Saltos dentro ou sobre áreas de serviço radar de aeródromos
+text: '105.21 Saltos dentro ou sobre áreas de serviço radar de aeródromos
+
+  Ninguém pode realizar um salto de paraquedas e nenhum piloto em comando de uma aeronave
+  pode
+
+  autorizar saltos de paraquedas de sua aeronave dentro ou sobre uma área de serviço radar
+  de um
+
+  aeródromo sem, ou em violação de, uma autorização do órgão ATC.'
+keywords:
+- paraquedismo
+- operacoes
+- dentro
+- radar
+- saltos
+- servico
+- aerodromos
+- areas
+- aeronave
+- paraquedas
+- pode
+- aerodromo
+- area
+- autorizacao
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

@@ -1,0 +1,53 @@
+id: rbac-rbac-135-135-415-e
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.415'
+section_title: Relatório de dificuldades em serviço
+subsection_id: e
+cite: 135.415(e)
+title: 135.415(e)
+text: '(e) O detentor de certificado deve enviar relatórios requeridos por esta seção em um
+  formato aceitável pela ANAC. Cada relatório deve conter, pelo menos, o seguinte:
+
+  (1) o tipo e as marcas de nacionalidade e matrícula da aeronave;
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)
+
+  (2) o nome do operador;
+
+  (3) a data;
+
+  (4) a natureza da falha, mau funcionamento, ou defeito;
+
+  (5) identificação da parte e sistema envolvido, incluindo a informação disponível pertinente
+  à designação do tipo do componente maior e o tempo desde a última revisão, se conhecido;
+
+  (6) causa aparente da falha, mau funcionamento ou defeito (e.g., desgaste, trinca, deficiência
+  de projeto, ou erro humano);
+
+  (7) outras informações pertinentes e necessárias para uma completa identificação e determinação
+  da gravidade ou de ações corretivas relacionadas a falha, mau funcionamento ou defeito encontrados;
+  e
+
+  (8) uma identificação única da ocorrência, em forma aceitável pela ANAC.'
+keywords:
+- taxi-aereo
+- operacoes
+- defeito
+- falha
+- funcionamento
+- identificacao
+- aceitavel
+- relatorio
+- tipo
+- acoes
+- aeronave
+- aparente
+- cada
+- causa
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

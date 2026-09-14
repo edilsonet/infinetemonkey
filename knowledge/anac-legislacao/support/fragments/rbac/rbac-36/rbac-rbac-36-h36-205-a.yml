@@ -1,0 +1,61 @@
+id: rbac-rbac-36-h36-205-a
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: H36.205
+section_title: of this apendix.
+subsection_id: a
+cite: H36.205(a)
+title: H36.205(a)
+text: '(a) Efective Perceived Noise Level (EPNL), in units of efective perceived noise decibels
+
+  (EPNdB), sh
+
+  al be used for evaluating noise level values under §36.803 of this part. Except as
+
+  provided in paragraph (b) of this section, the procedures in apendix A of Part 36 must be
+  used for
+
+  computing EPNL. apendix A includes requirements governing determination
+
+  of noise values,
+
+  including calculations of:
+
+
+  (1) Perceived noise levels;
+
+
+  (2) Corections for spectral iregularities;
+
+
+  (3) Tone corections;
+
+
+  (4) Duration corections;
+
+
+  (5) Efective perceived noise levels; and
+
+
+  (6) Mathematical formulation of noy tables.'
+keywords:
+- ruido
+- meio-ambiente
+- noise
+- perceived
+- apendix
+- corections
+- efective
+- this
+- epnl
+- level
+- levels
+- part
+- used
+- values
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

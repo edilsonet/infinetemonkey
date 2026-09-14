@@ -1,0 +1,32 @@
+id: rbac-rbac-e-94-e94-617-body
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.617
+section_title: Transferência de registros de manutenção de RPAS Classe 1
+subsection_id: body
+cite: E94.617
+title: Transferência de registros de manutenção de RPAS Classe 1
+text: 'E94.617 Transferência de registros de manutenção de RPAS Classe 1
+
+  Qualquer proprietário ou operador que venda um RPAS ou algum de seus componentes principais
+  (RPA, RPS, etc.) deve transferir para o comprador, no momento da venda, os seguintes registros
+  correspondentes, em linguagem clara ou em forma codificada, a critério do comprador, desde
+  que a forma codificada permita a recuperação das informações de maneira aceitável pela ANAC:'
+keywords:
+- registros
+- rpas
+- classe
+- manutencao
+- transferencia
+- codificada
+- comprador
+- forma
+- venda
+- aceitavel
+- algum
+- clara
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

@@ -1,0 +1,35 @@
+id: rbac-rbac-135-135-227-f
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.227'
+section_title: 'Condições de gelo: limitações operacionais'
+subsection_id: f
+cite: 135.227(f)
+title: 135.227(f)
+text: '(f) Se informações confiáveis recebidas pelo piloto em comando indicarem que as previsões
+  de formação de gelo não se concretizarão em face de mudanças de tempo ocorridas desde a
+  última previsão meteorológica, não se aplicam as restrições dos parágrafos (b), (c) e (d)
+  desta seção baseadas em previsões de condições meteorológicas.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- condicoes
+- gelo
+- previsoes
+- aplicam
+- baseadas
+- comando
+- concretizarao
+- confiaveis
+- dada
+- desde
+- desta
+- face
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

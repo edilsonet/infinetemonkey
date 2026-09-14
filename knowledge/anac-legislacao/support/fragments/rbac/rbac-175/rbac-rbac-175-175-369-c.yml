@@ -1,0 +1,40 @@
+id: rbac-rbac-175-175-369-c
+kind: rbac
+document: rbac-175
+family: '175'
+section_id: '175.369'
+section_title: Inspeção contra danos ou vazamentos
+subsection_id: c
+cite: 175.369(c)
+title: 175.369(c)
+text: '(c) Volumes ou sobrembalagens contendo artigo perigoso e contêineres de carga contendo
+  material
+
+  radioativo devem ser inspecionados em busca de sinais de danos ou vazamentos após seu
+
+  descarregamento da aeronave ou ULD. Caso seja encontrada evidência de dano ou vazamento,
+  a
+
+  posição onde o artigo perigoso ou ULD estava armazenado na aeronave deve ser inspecionada
+  contra
+
+  danos ou contaminação e qualquer outra contaminação perigosa deve ser removida.'
+keywords:
+- artigos-perigosos
+- carga
+- danos
+- aeronave
+- artigo
+- contaminacao
+- contendo
+- contra
+- perigoso
+- vazamentos
+- armazenado
+- busca
+- caso
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-175.md

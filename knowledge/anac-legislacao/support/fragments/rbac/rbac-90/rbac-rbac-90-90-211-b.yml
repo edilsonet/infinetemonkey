@@ -1,0 +1,34 @@
+id: rbac-rbac-90-90-211-b
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.211'
+section_title: Requisitos gerais
+subsection_id: b
+cite: 90.211(b)
+title: 90.211(b)
+text: '(b) Para exercer a mesma função em outra UAP, o operador aerotático deverá realizar
+  o treinamento de ambientação, a critério da nova UAP.
+
+  (1) O treinamento de ambientação para operador aerotático terá por base o comparativo entre
+  os componentes curriculares dos programas de treinamento das UAP envolvidas.'
+keywords:
+- regras-de-voo
+- operacoes
+- treinamento
+- aerotatico
+- ambientacao
+- operador
+- base
+- comparativo
+- componentes
+- criterio
+- curriculares
+- devera
+- envolvidas
+- exercer
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

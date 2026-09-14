@@ -1,0 +1,35 @@
+id: rbac-rbac-121-121-201-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.201'
+section_title: 'Aviões não incluídos na categoria transporte: limitações de rota com um motor
+  inoperante'
+subsection_id: a
+cite: 121.201(a)
+title: 121.201(a)
+text: (a) Exceto como previsto no parágrafo (b) desta seção, ninguém pode decolar com um avião
+  não incluído na categoria transporte com um peso que não permita obter uma razão de subida
+  de, pelo menos, 50 pés por minuto, com o motor crítico inoperante, a uma altitude de, pelo
+  menos, 1000 pés acima da mais alta obstrução existente dentro de 5 milhas para cada lado
+  do curso pretendido, ou 5000 pés, o que for mais alto.
+keywords:
+- transporte-aereo
+- operacoes
+- categoria
+- inoperante
+- menos
+- motor
+- transporte
+- acima
+- alta
+- altitude
+- alto
+- aviao
+- avioes
+- cada
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

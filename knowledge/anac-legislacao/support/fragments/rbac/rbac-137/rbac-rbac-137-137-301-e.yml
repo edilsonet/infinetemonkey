@@ -1,0 +1,41 @@
+id: rbac-rbac-137-137-301-e
+kind: rbac
+document: rbac-137
+family: '137'
+section_id: '137.301'
+section_title: Área de pouso para uso aeroagrícola
+subsection_id: e
+cite: 137.301(e)
+title: 137.301(e)
+text: '(e) A operação de uma aeronave em área de pouso para uso aeroagrícola somente é permitida
+  se:
+
+  (1) a operação for exclusiva de atividades aeroagrícolas;
+
+  (2) o proprietário da área concordar com sua construção e utilização;
+
+  (3) [reservado];
+
+  (4) a área a ser utilizada atender às exigências para operação, com segurança, da aeronave
+  em seu máximo desempenho, de acordo com o respectivo manual de voo aprovado; e
+
+  (5) não for proibido, por qualquer dispositivo legal ou regulamentar, o uso da área escolhida.'
+keywords:
+- aeroagricola
+- operacoes
+- area
+- operacao
+- aeronave
+- pouso
+- acordo
+- aeroagricolas
+- aprovado
+- atender
+- atividades
+- concordar
+- construcao
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-137.md

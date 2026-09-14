@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-423-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.423'
+section_title: Organização da manutenção, manutenção preventiva e alterações
+subsection_id: a
+cite: 135.423(a)
+title: 135.423(a)
+text: (a) O detentor de certificado que execute qualquer manutenção (exceto inspeções obrigatórias),
+  manutenção preventiva e alterações e cada pessoa com que ela tenha contrato para executar
+  esses trabalhos deve possuir uma organização adequada à execução dos mesmos.
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- alteracoes
+- organizacao
+- preventiva
+- adequada
+- cada
+- certificado
+- contrato
+- detentor
+- esses
+- exceto
+- execucao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

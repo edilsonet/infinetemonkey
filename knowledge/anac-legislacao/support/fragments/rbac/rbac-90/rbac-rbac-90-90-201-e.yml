@@ -1,0 +1,30 @@
+id: rbac-rbac-90-90-201-e
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.201'
+section_title: Experiência operacional sob supervisão para piloto em comando
+subsection_id: e
+cite: 90.201(e)
+title: 90.201(e)
+text: (e) Caso a UAP realize operações aéreas sob IFR, RVSM, PBN ou NVIS, a experiência operacional
+  deverá incluir voos nas referidas condições.
+keywords:
+- regras-de-voo
+- operacoes
+- experiencia
+- operacional
+- aereas
+- caso
+- comando
+- condicoes
+- devera
+- incluir
+- nvis
+- piloto
+- realize
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

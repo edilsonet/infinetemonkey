@@ -1,0 +1,33 @@
+id: rbac-rbac-135-135-105-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.105'
+section_title: 'Exceção a requisitos de piloto segundo em comando: utilização do sistema de
+  piloto automático aprovado'
+subsection_id: c
+cite: 135.105(c)
+title: 135.105(c)
+text: (c) O detentor de certificado pode solicitar uma emenda às suas especificações operativas,
+  para obter uma autorização para o uso de um sistema de piloto automático em lugar de um
+  piloto segundo em comando.
+keywords:
+- taxi-aereo
+- operacoes
+- piloto
+- automatico
+- comando
+- segundo
+- sistema
+- aprovado
+- autorizacao
+- certificado
+- detentor
+- especificacoes
+- excecao
+- lugar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

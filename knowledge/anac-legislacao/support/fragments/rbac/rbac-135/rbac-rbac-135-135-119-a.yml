@@ -1,0 +1,32 @@
+id: rbac-rbac-135-135-119-a
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.119'
+section_title: Proibição do transporte de armas a bordo
+subsection_id: a
+cite: 135.119(a)
+title: 135.119(a)
+text: (a) Exceto como previsto no parágrafo (b) desta seção, uma pessoa, enquanto a bordo
+  de uma aeronave sendo operada por um detentor de certificado, não pode carregar ou trazer
+  próximo a ela uma arma perigosa ou mortal, esteja ela oculta ou não.
+keywords:
+- taxi-aereo
+- operacoes
+- bordo
+- aeronave
+- arma
+- armas
+- carregar
+- certificado
+- desta
+- detentor
+- enquanto
+- esteja
+- exceto
+- mortal
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

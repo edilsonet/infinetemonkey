@@ -1,0 +1,50 @@
+id: rbac-rbac-23-23-1459-c
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.1459'
+section_title: Gravadores de dados de voo.
+subsection_id: c
+cite: 23.1459(c)
+title: 23.1459(c)
+text: '(c) Uma correlação deve ser estabelecida entre
+
+  as leituras do gravador de voo para a velocida-
+
+  de no ar, altitude, direção e as leituras corres-
+
+  pondentes (levando em consideração os fatores
+
+  de correção) dos instrumentos do primeiro pilo-
+
+  to. A correlação deve cobrir toda a faixa de
+
+  operação de velocidades no ar em que a aero-
+
+  nave poderá operar, a faixa de altitudes que a
+
+  aeronave está limitada e em todos os 360 graus
+
+  de direção da proa. A correlação pode ser esta-
+
+  belecida no solo, conforme apropriado.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- correlacao
+- direcao
+- faixa
+- leituras
+- aero
+- aeronave
+- altitude
+- altitudes
+- apropriado
+- belecida
+- cobrir
+- consideracao
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

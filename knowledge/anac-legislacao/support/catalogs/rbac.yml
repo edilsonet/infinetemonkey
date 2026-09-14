@@ -1,0 +1,494 @@
+kind: rbac
+source_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac
+fetched_via: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac
+count: 56
+items:
+- kind: rbac
+  code: rbac-01
+  title: RBAC 01 EMD 16
+  ementa: Definições, regras de redação e unidades de medida para uso nos normativos da ANAC
+    Em vigor em 1º de março de 2024
+  publication_date: 15/02/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-01
+  pdf_url: ''
+  family: '1'
+- kind: rbac
+  code: rbac-01-emd-17
+  title: RBAC 01 EMD 17
+  ementa: Definições, regras de redação e unidades de medida para uso nos normativos da ANAC
+    Em vigor em 1º de abril de 2025
+  publication_date: 22/03/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-01-emd-17
+  pdf_url: ''
+  family: '1'
+- kind: rbac
+  code: rbac-01-emd-18
+  title: RBAC 01 EMD 18
+  ementa: Definições, regras de redação e unidades de medida para uso nos normativos da ANAC
+    Versão em vigor em 2 de janeiro de 2025
+  publication_date: 18/04/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-01-emd-18
+  pdf_url: ''
+  family: '1'
+- kind: rbac
+  code: rbac-011
+  title: RBAC 11 EMD 03
+  ementa: Regras Gerais para petição de emissão, alteração, revogação e isenção de cumprimento
+    de regra. Em vigor em 1º de abril de 2020.
+  publication_date: 24/03/2020
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-011
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-011/@@display-file/arquivo_norma/RBAC11EMD03.pdf
+  family: '11'
+- kind: rbac
+  code: rbac-21
+  title: RBAC 21 EMD 10
+  ementa: Certificação de produto e artigo aeronáuticos Em vigor em 1º de março de 2024
+  publication_date: ''
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21
+  pdf_url: ''
+  family: '21'
+- kind: rbac
+  code: rbac-21-emd-11
+  title: RBAC 21 EMD 11
+  ementa: Certificação de produto e artigo aeronáuticos Em vigor em 2 de janeiro de 2025
+  publication_date: 18/04/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-21-emd-11
+  pdf_url: ''
+  family: '21'
+- kind: rbac
+  code: rbac-23
+  title: RBAC 23 EMD 65
+  ementa: 'Requisitos de Aeronavegabilidade: Aviões Categoria Normal'
+  publication_date: 05/06/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-23
+  pdf_url: ''
+  family: '23'
+- kind: rbac
+  code: rbac-25-emd-146
+  title: RBAC 25 EMD 146
+  ementa: 'Requisitos de Aeronavegabilidade: Aviões Categoria Transporte Em vigor em 1º de
+    junho de 2022'
+  publication_date: 28/04/2022
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/resolveuid/d50f39dbfe814d0e8e30f5b7f1f00cf5
+  pdf_url: ''
+  family: '25'
+- kind: rbac
+  code: rbac-26
+  title: RBAC 26 EMD 03
+  ementa: Aeronavegabilidade continuada e melhorias na segurança para aviões categoria transporte.
+    Em vigor em 1º de julho de 2021.
+  publication_date: 14/06/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-26
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-26/@@display-file/arquivo_norma/RBAC26EMD03.pdf
+  family: '26'
+- kind: rbac
+  code: rbac-27
+  title: RBAC 27 EMD 51
+  ementa: 'Requisitos de Aeronavegabilidade: Aeronaves de Asas Rotativas Categoria Normal
+    Em vigor em 1º de novembro de 2023'
+  publication_date: 14/08/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-27
+  pdf_url: ''
+  family: '27'
+- kind: rbac
+  code: rbac-29
+  title: RBAC 29 EMD 59
+  ementa: 'Requisitos de Aeronavegabilidade: Aeronaves de Asas Rotativas Categoria Transporte
+    Em vigor em 1º de novembro de 2023'
+  publication_date: 14/08/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-29
+  pdf_url: ''
+  family: '29'
+- kind: rbac
+  code: rbac-031
+  title: RBAC 031 EMD 07
+  ementa: 'Requisitos de aeronavegabilidade: balões livres tripulados.'
+  publication_date: ''
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-031
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-031/@@display-file/arquivo_norma/RBAC31EMD07.pdf
+  family: '31'
+- kind: rbac
+  code: rbac-33-emd-35
+  title: RBAC 33 EMD 35
+  ementa: 'Requisitos de Aeronavegabilidade: Motores Aeronáuticos'
+  publication_date: 05/06/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/resolveuid/de3a31dabcb5483091780bb4cced8593
+  pdf_url: ''
+  family: '33'
+- kind: rbac
+  code: rbac-034
+  title: RBAC 034 EMD 07
+  ementa: Requisitos para drenagem de combustível e emissões de motores de aeronaves. Em vigor
+    em 1º de dezembro de 2021.
+  publication_date: 22/11/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-034
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-034/@@display-file/arquivo_norma/RBAC34EMD07.pdf
+  family: '34'
+- kind: rbac
+  code: rbac-035
+  title: RBAC 035 EMD 10
+  ementa: 'Requisitos de Aeronavegabilidade: Hélices.'
+  publication_date: 07/08/2019
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-035
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-035/@@display-file/arquivo_norma/RBAC35EMD10.pdf
+  family: '35'
+- kind: rbac
+  code: rbac-36
+  title: RBAC 36 EMD 31
+  ementa: Requisitos de ruído para aeronave Em vigor em 3 de maio de 2021.
+  publication_date: 12/04/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-36
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-36/@@display-file/arquivo_norma/RBAC36EMD31.pdf
+  family: '36'
+- kind: rbac
+  code: rbac-38
+  title: RBAC 38 EMD 01
+  ementa: Requisitos para emissões de CO2 de aviões Em vigor em 1º de março 2022
+  publication_date: 08/02/2022
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-38
+  pdf_url: ''
+  family: '38'
+- kind: rbac
+  code: rbac-039
+  title: RBAC 039 EMD 00
+  ementa: Diretrizes de aeronavegabilidade
+  publication_date: ''
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-039
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-039/@@display-file/arquivo_norma/RBAC%2039.pdf
+  family: '39'
+- kind: rbac
+  code: rbac-43
+  title: RBAC 43 EMD 05
+  ementa: Manutenção, manutenção preventiva, reconstrução e alteração. Em vigor em 26 de maio
+    de 2021.
+  publication_date: 15/03/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-43
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-43/@@display-file/arquivo_norma/RBAC43EMD05.pdf
+  family: '43'
+- kind: rbac
+  code: rbac-045
+  title: RBAC 45 EMD 04
+  ementa: Marcas de Identificação, de Nacionalidade e de Matrícula. Em vigor em 1º de julho
+    de 2020.
+  publication_date: 24/06/2020
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-045
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-045/@@display-file/arquivo_norma/RBAC45EMD04.pdf
+  family: '45'
+- kind: rbac
+  code: rbac-60
+  title: RBAC 60 EMD 00
+  ementa: Requisitos para qualificação e uso de dispositivos de treinamento para simulação
+    de voo. Em vigor em 1º de abril de 2020.
+  publication_date: 20/03/2020
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-60
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-60/@@display-file/arquivo_norma/RBAC60EMD00.pdf
+  family: '60'
+- kind: rbac
+  code: rbac-61
+  title: RBAC 61 EMD 14
+  ementa: 'Licenças, habilitações e certificados para pilotos Em vigor em 3 de abril de 2023
+    Alterada: Resolução nº 711, de 31.03.2023'
+  publication_date: 13/02/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-61
+  pdf_url: ''
+  family: '61'
+- kind: rbac
+  code: rbac-61-emd-15
+  title: RBAC 61 EMD 15
+  ementa: Licenças, habilitações e certificados para pilotos Em vigor em 2 de janeiro de 2025
+  publication_date: 18/04/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-61-emd-15
+  pdf_url: ''
+  family: '61'
+- kind: rbac
+  code: rbac-63
+  title: RBAC 63 EMD 00
+  ementa: Licenças e Habilitações para Comissários e Mecânicos de Voo Em vigor em 1º de janeiro
+    de 2024
+  publication_date: 02/03/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-63
+  pdf_url: ''
+  family: '63'
+- kind: rbac
+  code: rbac-65
+  title: RBAC 65 EMD 00
+  ementa: Licenças, habilitações e regras gerais para despachante operacional de voo e mecânico
+    de manutenção aeronáutica
+  publication_date: 25/05/2018
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-65
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-65/@@display-file/arquivo_norma/RBAC65EMD00.pdf
+  family: '65'
+- kind: rbac
+  code: rbac-67
+  title: RBAC 67 EMD 05
+  ementa: Requisitos para concessão de certificados médicos aeronáuticos, para o cadastro
+    e credenciamento de médicos, credenciamento de clínicas e para o convênio com entidades
+    públicas. Em vigor em 1º de novembro de 2021.
+  publication_date: 29/09/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-67
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-67/@@display-file/arquivo_norma/RBAC67EMD05.pdf
+  family: '67'
+- kind: rbac
+  code: rbac-90
+  title: RBAC 90 EMD 01
+  ementa: Requisitos para Operações Especiais de Aviação Pública Em vigor em 1º de dezembro
+    de 2022
+  publication_date: 16/11/2022
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90
+  pdf_url: ''
+  family: '90'
+- kind: rbac
+  code: rbac-90-emd-02
+  title: RBAC 90 EMD 02
+  ementa: Requisitos para Operações Especiais de Aviação Pública Em vigor em 2 de janeiro
+    de 2025
+  publication_date: 18/04/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-90-emd-02
+  pdf_url: ''
+  family: '90'
+- kind: rbac
+  code: rbac-91
+  title: RBAC 91 EMD 03
+  ementa: Requisitos gerais de operação para aeronaves civis Em vigor em 1º de julho 2021.
+  publication_date: 12/02/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91/@@display-file/arquivo_norma/rbac91emd03.pdf
+  family: '91'
+- kind: rbac
+  code: rbac-91-emd-04
+  title: RBAC 91 EMD 04
+  ementa: Requisitos gerais de operação para aeronaves civis Em vigor em 1º de abril de 2025
+  publication_date: 22/03/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-91-emd-04
+  pdf_url: ''
+  family: '91'
+- kind: rbac
+  code: rbac-e-94
+  title: RBAC-E 94 EMD 03
+  ementa: Requisitos Gerais para aeronaves não tripuladas de uso civil Em vigor em 2 de maio
+    de 2023
+  publication_date: 03/04/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-e-94
+  pdf_url: ''
+  family: '94'
+- kind: rbac
+  code: rbac-103
+  title: RBAC 103 EMD 01
+  ementa: Operação Aerodesportiva em Aeronaves sem Certificado de Aeronavegabilidade. Em vigor
+    em 1º de dezembro de 2021.
+  publication_date: 22/11/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-103/@@display-file/arquivo_norma/RBAC103EMD01.pdf
+  family: '103'
+- kind: rbac
+  code: rbac-105
+  title: RBAC 105 EMD 02
+  ementa: Salto de paraquedas. Em vigor em 11 de julho de 2019.
+  publication_date: 12/04/2019
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-105
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-105/@@display-file/arquivo_norma/RBAC105EMD02.pdf
+  family: '105'
+- kind: rbac
+  code: rbac-107
+  title: RBAC 107 EMD 09
+  ementa: Segurança da Aviação Civil Contra Atos de Interferência Ilícita – Operador de Aeródromo
+    Em vigor em 1º de março de 2024
+  publication_date: 25/01/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-107
+  pdf_url: ''
+  family: '107'
+- kind: rbac
+  code: rbac-108-emd-07
+  title: RBAC 108 EMD 07
+  ementa: Segurança da Aviação Civil Contra Atos de Interferência Ilícita – Operador Aéreo
+    Em vigor em 1º de março de 2024
+  publication_date: 25/01/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-108-emd-07
+  pdf_url: ''
+  family: '108'
+- kind: rbac
+  code: rbac-110-emd-02
+  title: RBAC 110 EMD 02
+  ementa: Programa Nacional de Instrução em Segurança da Aviação Civil Contra Atos de Interferência
+    Ilícita - PNIAVSEC Em vigor em 1º de março de 2024
+  publication_date: 25/01/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-110-emd-02
+  pdf_url: ''
+  family: '110'
+- kind: rbac
+  code: rbac-117
+  title: RBAC 117 EMD 00
+  ementa: Requisitos para gerenciamento de risco de fadiga humana.
+  publication_date: 19/03/2019
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-117
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-117/@@display-file/arquivo_norma/RBAC117EMD00.pdf
+  family: '117'
+- kind: rbac
+  code: rbac-119
+  title: RBAC 119 EMD 09
+  ementa: 'Certificação: Operadores de Serviço de Transporte Aéreo Em vigor em 1º de setembro
+    de 2023'
+  publication_date: 07/08/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-119
+  pdf_url: ''
+  family: '119'
+- kind: rbac
+  code: rbac-120
+  title: RBAC 120 EMD 04
+  ementa: Programa de prevenção do risco associado ao uso indevido de substâncias psicoativas
+    na aviação civil. Em vigor em 1º de março de 2024
+  publication_date: ''
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-120
+  pdf_url: ''
+  family: '120'
+- kind: rbac
+  code: rbac-121
+  title: RBAC 121 EMD 20
+  ementa: Operações de transporte aéreo público com aviões com configuração máxima certificada
+    de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga
+    acima de 3.400 kg Em vigor em 1º de fevereiro de 2024
+  publication_date: 25/01/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121
+  pdf_url: ''
+  family: '121'
+- kind: rbac
+  code: rbac-121-emd-21
+  title: RBAC 121 EMD 21
+  ementa: Operações de transporte aéreo público com aviões com configuração máxima certificada
+    de assentos para passageiros de mais de 19 assentos ou capacidade máxima de carga paga
+    acima de 3.400 kg Em vigor em 1º de abril de 2025
+  publication_date: 22/03/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-121-emd-21
+  pdf_url: ''
+  family: '121'
+- kind: rbac
+  code: rbac-129
+  title: RBAC 129 EMD 02
+  ementa: Operação de empresas estrangeiras que têm por objetivo o serviço de transporte aéreo
+    internacional no Brasil / operations of foreign air carriers within brazil engaged in
+    common carriage Em vigor em 3 de outubro de 2022
+  publication_date: 26/09/2022
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-129
+  pdf_url: ''
+  family: '129'
+- kind: rbac
+  code: rbac-133
+  title: RBAC 133 EMD 02
+  ementa: Operação de aeronaves de asas rotativas com cargas externas. Em vigor em 11 de julho
+    de 2019.
+  publication_date: 12/04/2019
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-133
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-133/@@display-file/arquivo_norma/RBAC133EMD02.pdf
+  family: '133'
+- kind: rbac
+  code: rbac-135
+  title: RBAC 135 EMD 13
+  ementa: Operações de transporte aéreo público com aviões com configuração máxima certificada
+    de assentos para passageiros de até 19 assentos e capacidade máxima de carga paga de até
+    3.400 kg (7.500 lb), ou helicópteros Em vigor em 1º de junho de 2023
+  publication_date: 28/04/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-135
+  pdf_url: ''
+  family: '135'
+- kind: rbac
+  code: rbac-136
+  title: RBAC 136 EMD 00
+  ementa: 'Certificação e requisitos operacionais: voos panorâmicos. Em vigor em 1º de julho
+    de 2020.'
+  publication_date: 24/06/2020
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-136
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-136/@@display-file/arquivo_norma/RBAC136EMD00.pdf
+  family: '136'
+- kind: rbac
+  code: rbac-137
+  title: RBAC 137 EMD 05
+  ementa: 'Cadastro e requisitos operacionais: operações aeroagrícolas Em vigor em 2 de outubro
+    de 2023'
+  publication_date: 14/06/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137
+  pdf_url: ''
+  family: '137'
+- kind: rbac
+  code: rbac-139
+  title: RBAC 139 EMD 06
+  ementa: Certificação Operacional de Aeroportos Em vigor em 3 de outubro de 2022
+  publication_date: 26/09/2022
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-139
+  pdf_url: ''
+  family: '139'
+- kind: rbac
+  code: rbac-141
+  title: RBAC 141 EMD 03
+  ementa: 'Certificação e requisitos operacionais: Centros de Instrução de Aviação Civil Em
+    vigor em 1º de janeiro de 2024'
+  publication_date: 02/03/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-141
+  pdf_url: ''
+  family: '141'
+- kind: rbac
+  code: rbac-142
+  title: RBAC 142 EMD 03
+  ementa: 'Certificação e Requisitos Operacionais: Centros de treinamento de aviação civil.
+    Em vigor em 1º de março de 2021.'
+  publication_date: 12/02/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-142
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-142/@@display-file/arquivo_norma/RBAC142EMD03.pdf
+  family: '142'
+- kind: rbac
+  code: rbac-145
+  title: RBAC 145 EMD 09
+  ementa: Organizações de manutenção de produto aeronáutico Em vigor em 1º de dezembro de
+    2023
+  publication_date: 07/07/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-145
+  pdf_url: ''
+  family: '145'
+- kind: rbac
+  code: rbac-153
+  title: RBAC 153 EMD 07
+  ementa: Aeródromos - Operação, Manutenção e Resposta à Emergência Em vigor em 2 de maio
+    de 2023
+  publication_date: 17/04/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-153
+  pdf_url: ''
+  family: '153'
+- kind: rbac
+  code: rbac-154
+  title: RBAC 154 EMD 07
+  ementa: Projeto de aeródromos. Em vigor em 1º de julho de 2021.
+  publication_date: 16/06/2021
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-154/@@display-file/arquivo_norma/RBAC154EMD07%20-%20retificado.pdf
+  family: '154'
+- kind: rbac
+  code: rbac-155
+  title: RBAC 155 EMD 01
+  ementa: Helipontos Em vigor em 1º de março de 2024
+  publication_date: 15/02/2024
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-155
+  pdf_url: ''
+  family: '155'
+- kind: rbac
+  code: rbac-161
+  title: RBAC 161 EMD 04
+  ementa: Planos de Zoneamento de Ruído de Aeródromos - PZR Em vigor em 1º de março de 2024
+  publication_date: ''
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-161
+  pdf_url: ''
+  family: '161'
+- kind: rbac
+  code: rbac-175
+  title: RBAC 175 EMD 04
+  ementa: Transporte de artigos perigosos em aeronaves civis Em vigor em 1º de junho de 2023
+  publication_date: 28/04/2023
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-175
+  pdf_url: ''
+  family: '175'
+- kind: rbac
+  code: rbac-183
+  title: RBAC 183 EMD 01
+  ementa: Credenciamento de pessoas.
+  publication_date: 08/06/2018
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-183
+  pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-183/@@display-file/arquivo_norma/RBAC183_EMD01.pdf
+  family: '183'

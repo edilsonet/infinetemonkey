@@ -1,0 +1,40 @@
+id: rbac-rbac-135-135-385-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.385'
+section_title: 'Grandes aviões categoria transporte com motores a turbina: limitações de pouso
+  no aeródromo de destino'
+subsection_id: d
+cite: 135.385(d)
+title: 135.385(d)
+text: '(d) Somente é permitido decolar com um avião com motor a reação quando as informações
+  meteorológicas indicarem que a pista do aeródromo de destino poderá estar molhada ou escorregadia
+  no horário estimado de pouso se o comprimento efetivo dessa pista for pelo menos 115% do
+  comprimento de pista requerido pelo parágrafo (b) desta seção. No entanto, se for demonstrado,
+  em condições reais, para um específico tipo e modelo de avião, que técnicas de pouso em
+  pistas molhadas requerem distâncias menores (porém nunca inferiores àquelas requeridas pelo
+  parágrafo (b) desta seção) e se essas técnicas e distâncias forem aprovadas e incluídas
+  no manual de voo do avião, a ANAC poderá autorizar operações de acordo com elas.
+
+  (Redação dada pela Resolução nº 689, de 25.08.2022)'
+keywords:
+- taxi-aereo
+- operacoes
+- aviao
+- pista
+- pouso
+- aerodromo
+- comprimento
+- desta
+- destino
+- distancias
+- paragrafo
+- secao
+- tecnicas
+- acordo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

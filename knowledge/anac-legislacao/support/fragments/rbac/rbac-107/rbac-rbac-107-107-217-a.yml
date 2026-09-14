@@ -1,0 +1,38 @@
+id: rbac-rbac-107-107-217-a
+kind: rbac
+document: rbac-107
+family: '107'
+section_id: '107.217'
+section_title: Plano de Segurança de Transporte Aéreo de Valores (PSTAV)
+subsection_id: a
+cite: 107.217(a)
+title: 107.217(a)
+text: '(a) O operador de aeródromo, em coordenação com os órgãos de segurança pública, os
+  operadores aéreos e as empresas de transporte de valores envolvidos, deve elaborar, implementar
+  e manter um Plano de Segurança de Transporte Aéreo de Valores (PSTAV).
+
+  (1) O PSTAV deve explicitar os procedimentos e infraestruturas empregados na aplicação de
+  medidas preventivas e de resposta durante as operações de embarque e desembarque de valores
+  no aeródromo, objetivando a proteção de tais operações.
+
+  (2) O PSTAV deve observar os requisitos regulatórios sobre transporte aéreo de valores estabelecidos
+  pelo RBAC 108.'
+keywords:
+- seguranca
+- aeroporto
+- valores
+- pstav
+- transporte
+- aereo
+- aerodromo
+- operacoes
+- plano
+- aereos
+- aplicacao
+- coordenacao
+- desembarque
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-107.md

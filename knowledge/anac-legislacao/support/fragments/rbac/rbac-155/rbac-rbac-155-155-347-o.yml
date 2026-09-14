@@ -1,0 +1,32 @@
+id: rbac-rbac-155-155-347-o
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: '155.347'
+section_title: Indicador visual de rampa de aproximação
+subsection_id: o
+cite: 155.347(o)
+title: 155.347(o)
+text: '(o)
+
+  Em máxima intensidade, a luz vermelha do HAPI deve ter uma coordenada Y que não exceda 0,320,
+  e a luz verde deve estar dentro dos limites especificados no parágrafo A.2(a)(3) do Apêndice
+  A do RBAC 154, Emenda 02.'
+keywords:
+- seguranca-aeroportuaria
+- apendice
+- aproximacao
+- coordenada
+- dentro
+- especificados
+- estar
+- exceda
+- hapi
+- indicador
+- intensidade
+- limites
+- maxima
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,63 @@
+id: rbac-rbac-035-35-42-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.42'
+section_title: '35.42'
+subsection_id: body
+cite: '35.42'
+title: '35.42'
+text: '35.42
+
+  Componentes do sistema de controle
+
+  da hélice
+
+
+  O requerente deve demonstrar por ensaios,
+
+  análise baseada em ensaios ou experiência em
+
+  serviço com componentes similares que cada
+
+  componente do sistema de controle do passo da
+
+  pá da hélice, incluindo reguladores, conjuntos
+
+  de mudança de passo, travas de passo, batentes
+
+  mecânicos e componentes do sistema de
+
+  embandeiramento, pode suportar uma operação
+
+  cíclica que simule a carga normal e a excursão
+
+  de mudança de passo às quais o componente
+
+  estaria sujeito durante o intervalo de revisão
+
+  geral inicialmente declarado ou durante um
+
+  mínimo de 1.000 (mil) horas de operação típica
+
+  em serviço.'
+keywords:
+- helices
+- aeronavegabilidade
+- passo
+- componentes
+- sistema
+- componente
+- controle
+- durante
+- ensaios
+- helice
+- mudanca
+- operacao
+- servico
+- analise
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

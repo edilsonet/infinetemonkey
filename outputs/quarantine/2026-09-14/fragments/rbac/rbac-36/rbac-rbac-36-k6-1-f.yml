@@ -1,0 +1,43 @@
+id: rbac-rbac-36-k6-1-f
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: K6.1
+section_title: General Conditions
+subsection_id: f
+cite: K6.1(f)
+title: K6.1(f)
+text: '(f) For tests conducted in accordance with sections K6.2, K6.3, and K6.4 of this appendix,
+  use the
+
+  maximum normal operating RPM corresponding to the airworthiness limit imposed by the
+
+  manufacturer. For configurations for which the rotor speed automatically links with the
+  flight
+
+  condition, use the maximum normal operating rotor speed corresponding with the reference
+  flight
+
+  condition. For configurations for which the rotor speed can change by pilot action, use
+  the highest
+
+  normal rotor speed specified in the flight manual limitation section for the reference conditions.'
+keywords:
+- ruido
+- meio-ambiente
+- rotor
+- speed
+- flight
+- normal
+- with
+- condition
+- conditions
+- configurations
+- corresponding
+- maximum
+- operating
+- reference
+categories:
+- ruido
+- meio-ambiente
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

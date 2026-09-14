@@ -1,0 +1,40 @@
+id: rbac-rbha-e-rbac-21-83-b
+kind: rbac
+document: rbha-e-rbac
+family: '21'
+section_id: '21.83'
+section_title: Requisitos para emissão de certificado de tipo provisório Classe II e de suas
+  emendas
+subsection_id: b
+cite: 21.83(b)
+title: 21.83(b)
+text: (b) Um requerente que fabrica aeronave no exterior faz jus à emissão de um certificado
+  de tipo provisório Classe II, ou de emenda a tal certificado, se o país no qual a aeronave
+  foi fabricada declarar que o requerente demonstrou cumprimento com esta seção, que a aeronave
+  atende aos requisitos do parágrafo (f) desta seção e que não existe aspecto, característica
+  ou condição que possa tornar a aeronave insegura quando operada de acordo com as limitações
+  impostas pelo parágrafo (h) desta seção e as seções 91.317 do RBHA 91, ou dispositivo correspondente
+  do RBAC que venha a substituí-lo, e 121.207 do RBAC 121. Esta declaração pode ser dispensada,
+  a critério da ANAC, se a aeronave já tiver recebido o certificado de tipo no país responsável
+  pela aprovação original do projeto de tipo.
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- certificado
+- tipo
+- secao
+- classe
+- desta
+- emissao
+- pais
+- paragrafo
+- provisorio
+- requerente
+- requisitos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbha-e-rbac.md

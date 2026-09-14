@@ -1,0 +1,30 @@
+id: rbac-rbac-135-135-175-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.175'
+section_title: Requisitos para radar meteorológico de bordo
+subsection_id: d
+cite: 135.175(d)
+title: 135.175(d)
+text: (d) Esta seção não se aplica para aeronaves durante operações de treinamento, ensaios
+  e em voos de traslado.
+keywords:
+- taxi-aereo
+- operacoes
+- aeronaves
+- aplica
+- bordo
+- durante
+- ensaios
+- meteorologico
+- radar
+- requisitos
+- secao
+- traslado
+- treinamento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-165-d
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.165'
+section_title: 'Equipamentos de comunicações e navegação: voos sobre grandes extensões de
+  água ou IFR'
+subsection_id: d
+cite: 135.165(d)
+title: 135.165(d)
+text: '(d) Ressalvados os requisitos dos parágrafos (a) e (b) desta seção, pode ser autorizado
+  pela ANAC e aprovado nas especificações operativas do detentor de certificado a instalação
+  e o uso de um único sistema de navegação de longo alcance e de um único sistema de comunicações
+  de longo alcance para operações sobre grandes extensões de água. Os fatores abaixo estão
+  entre aqueles que são analisados pela ANAC para conceder a autorização:
+
+  (1) a habilidade da tripulação de voo em determinar com confiabilidade os fixos de posição
+  do avião dentro do grau de precisão requerido pelo ATC;
+
+  (2) a extensão da rota a ser voada; e
+
+  (3) a duração das falhas de comunicações em frequência muito alta (VHF).'
+keywords:
+- taxi-aereo
+- operacoes
+- comunicacoes
+- agua
+- alcance
+- extensoes
+- grandes
+- longo
+- navegacao
+- sistema
+- unico
+- abaixo
+- alta
+- analisados
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

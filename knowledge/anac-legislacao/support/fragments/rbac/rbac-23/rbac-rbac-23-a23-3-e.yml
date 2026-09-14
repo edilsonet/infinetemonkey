@@ -1,0 +1,95 @@
+id: rbac-rbac-23-a23-3-e
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: A23.3
+section_title: Conteúdo
+subsection_id: e
+cite: A23.3(e)
+title: A23.3(e)
+text: '(e) Information needed to apply protective
+
+  nível de inspeção, as tolerâncias de desgaste
+
+  aplicáveis e as tarefas recomendadas nestes
+
+  períodos. No entanto, o requerente pode fazer
+
+  referência a um fabricante de acessórios, ins-
+
+  trumentos ou equipamentos como fonte dessas
+
+  informações se o requerente demonstrar que o
+
+  item possui um grau de complexidade excepci-
+
+  onalmente alto, requerendo técnicas de manu-
+
+  tenção especializadas, equipamentos de teste
+
+  ou conhecimentos especializados. Os períodos
+
+  de “overhaul” (revisão completa) recomenda-
+
+  dos e a necessária referência cruzada à seção de
+
+  Limitações de Aeronavegabilidade do manual
+
+  também devem ser incluídos. Além disso, o
+
+  requerente deve incluir um programa de inspe-
+
+  ção que inclua a frequência e a extensão das
+
+  inspeções necessárias para assegurar a manu-
+
+  tenção da aeronavegabilidade do avião;
+
+  (2) Informações para solução de problemas que
+
+  descrevem falhas prováveis, como reconhecer
+
+  aquelas falhas, e as ações corretivas para aque-
+
+  las falhas;
+
+  (3) Informações que descrevam a ordem e o
+
+  método de remoção e substituição de produtos
+
+  e peças com as precauções necessárias a serem
+
+  tomadas;
+
+  (4) Outras instruções processuais gerais, inclu-
+
+  indo procedimentos para testes de sistema du-
+
+  rante o funcionamento no solo com motor gi-
+
+  rando, verificações de simetria, pesagem e de-
+
+  terminação do centro de gravidade, levanta-
+
+  mento e escoramento, e limitações de armaze-
+
+  nagem.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- falhas
+- informacoes
+- requerente
+- equipamentos
+- limitacoes
+- manu
+- necessarias
+- periodos
+- referencia
+- tencao
+- acessorios
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

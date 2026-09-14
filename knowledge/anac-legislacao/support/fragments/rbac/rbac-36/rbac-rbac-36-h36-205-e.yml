@@ -1,0 +1,111 @@
+id: rbac-rbac-36-h36-205-e
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: H36.205
+section_title: of this apendix.
+subsection_id: e
+cite: H36.205(e)
+title: H36.205(e)
+text: '(e)
+
+  Corection of noise at source during level flyover.
+
+  (1) For level overflight, if any combination of
+
+  the folowing thre factors, airsped deviations from reference, rotor sped deviations from
+
+  reference, and temperature deviations from
+
+  reference, results in a noise corelating parameter whose
+
+  value deviates from the reference value of this parameter, then source noise adjustments
+  must be
+
+  determined from the manufacturer''s data that is aproved by the FA.
+
+
+  (2) Of
+
+  - reference tip Mach numbe
+
+  r adjustments must be based upon a sensitivity curve of PNLTM
+
+  versus advancing blade tip Mach number, deduced from overflights performed at diferent airspeds
+
+  surounding the reference airsped. If the test aircraft is unable to atain the reference
+  value
+
+  , then an
+
+  extrapolation of the sensitivity curve is permited if data cover at least a range of 0.03
+  Mach units.
+
+  The advancing blade tip Mach number must be computed using true airsped, onboard outside
+  air
+
+  temperature, and rotor sped. A separate PNLTM ve
+
+  rsus advancing blade tip Mach number function
+
+  must be derived for each of the thre certification microphone locations,
+
+  i.e.
+
+  , centerline, sideline
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  98
+
+  / 121
+
+
+  left, and sideline right. Sideline left and right are defined relative to the direction
+  of flight for each
+
+  r un. PNLTM adjustments are to be aplied to each microphone datum using the apropriate
+
+  PNLTM function.'
+keywords:
+- ruido
+- meio-ambiente
+- reference
+- from
+- mach
+- must
+- pnltm
+- adjustments
+- advancing
+- airsped
+- blade
+- data
+- deviations
+- each
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

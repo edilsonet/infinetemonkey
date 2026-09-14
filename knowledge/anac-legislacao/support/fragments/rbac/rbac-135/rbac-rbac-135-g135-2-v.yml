@@ -1,0 +1,40 @@
+id: rbac-rbac-135-g135-2-v
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: G135.2
+section_title: Requisitos
+subsection_id: v
+cite: G135.2(v)
+title: G135.2(v)
+text: '(v) perda inadvertida de combustível ou indisponibilidade ou desbalanceamento de combustível
+  em voo;
+
+  (vi) falhas, mau-funcionamentos ou defeitos associados com os Sistemas Significativos ETOPS;
+  e
+
+  (vii) qualquer evento que comprometa a segurança de voo e aterrissagem do avião em um voo
+  ETOPS.
+
+  (9) Monitoramento do sistema de propulsão. O detentor de certificado, em coordenação com
+  a ANAC, deve:'
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- etops
+- associados
+- aterrissagem
+- aviao
+- certificado
+- comprometa
+- coordenacao
+- defeitos
+- desbalanceamento
+- detentor
+- evento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

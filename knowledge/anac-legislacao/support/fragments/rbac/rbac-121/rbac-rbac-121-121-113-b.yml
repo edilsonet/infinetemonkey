@@ -1,0 +1,37 @@
+id: rbac-rbac-121-121-113-b
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.113'
+section_title: Requisitos para rotas e áreas. Geral
+subsection_id: b
+cite: 121.113(b)
+title: 121.113(b)
+text: '(b) Não obstante o parágrafo (a)(4) desta seção, a ANAC pode aprovar rotas fora do
+  espaço aéreo controlado se o detentor de certificado conduzindo operações não regulares
+  demonstrar que a rota é segura para a operação e a ANAC considerar que a densidade do tráfego
+  é tal que um adequado nível de segurança pode ser assegurado. O detentor de certificado
+  não pode usar tais rotas, a menos que sejam aprovadas pela ANAC e listadas nas especificações
+  operativas do detentor de certificado.
+
+  (Redação dada pela Resolução nº 526, de 06.08.2019)'
+keywords:
+- transporte-aereo
+- operacoes
+- certificado
+- detentor
+- pode
+- rotas
+- adequado
+- aereo
+- aprovadas
+- aprovar
+- areas
+- assegurado
+- conduzindo
+- considerar
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-141-141-11-body
+kind: rbac
+document: rbac-141
+family: '141'
+section_id: '141.11'
+section_title: Validade do certificado de CIAC
+subsection_id: body
+cite: '141.11'
+title: Validade do certificado de CIAC
+text: '141.11 Validade do certificado de CIAC
+
+  Um certificado de CIAC emitido segundo este Regulamento permanece válido até ser suspenso,
+  cassado ou revogado pela ANAC.'
+keywords:
+- escolas
+- treinamento
+- certificado
+- ciac
+- validade
+- cassado
+- emitido
+- permanece
+- regulamento
+- revogado
+- segundo
+- suspenso
+- valido
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-141.md

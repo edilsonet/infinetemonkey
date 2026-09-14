@@ -1,0 +1,103 @@
+id: rbac-rbac-43-43-10-c
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: '43.10'
+section_title: Controle de peças com limite de vida
+subsection_id: c
+cite: 43.10(c)
+title: 43.10(c)
+text: '(c) Controle de peças removidas de produtos com certificado de tipo. A partir de 8
+  de junho de
+
+  2013, cada pessoa que remover uma peça com limite de vida de um produto com certificado
+  de tipo
+
+  deve, exceto como previsto no parágrafo (b) desta seção, assegurar que essa peça será controlada
+
+  usando um dos métodos descritos nos parágrafos 43.10(c)(1) a 43.10(c)(7). O método deve
+  impedir
+
+  a instalação da peça após seu limite de vida ter sido atingido. Métodos aceitáveis incluem:
+  (Redação
+
+  dada pela Resolução nº 348, de 02.12.2014)
+
+  (1) Sistema de registro de informações. A peça pode ser controlada usando um sistema de
+
+  registro de informações que contenha o número da peça (part number), seu número de série
+  e sua
+
+  situação de vida. Os registros devem ser atualizados com a nova situação de vida da peça
+  cada vez
+
+  que a peça for removida de um produto com certificado de tipo. Este sistema pode ser feito
+  por
+
+  meio eletrônico, papel ou outro meio de registro de informações;
+
+  (2) Etiqueta ou registro preso à peça. Uma etiqueta ou outro tipo de registro pode ser preso
+  à
+
+  peça. A etiqueta ou registro deve conter o número da peça (part number), seu número de série
+  e sua
+
+  situação de vida. Uma nova etiqueta ou registro deve ser criado (ou a etiqueta ou registro
+  existente
+
+  deve ser atualizado com a nova situação de vida da peça) cada vez que a peça for removida
+  de um
+
+  produto com certificado de tipo;
+
+  (3) Marca não permanente. A peça pode ser marcada, de maneira legível, com sua atual
+
+  situação de vida, usando um método não permanente. A situação de vida deve ser atualizada
+  cada
+
+  vez que a peça for removida de um produto com certificado de tipo ou, se a marca for removida,
+
+  poderá ser usado outro método desta seção. Essa marca não permanente deve ser feita de acordo
+
+  com as instruções contidas na seção 45.16 do RBAC 45, visando a manter a integridade da
+  peça;
+
+  (4) Marca permanente. A peça pode ser marcada, de maneira legível, com sua atual situação
+
+  de vida, usando um método permanente. A situação de vida deve ser atualizada cada vez que
+  a peça
+
+  for removida de um produto com certificado de tipo. Essa marca permanente deve ser feita
+  de
+
+  acordo com as instruções contidas na seção 45.16 do RBAC 45, visando a manter a integridade
+  da
+
+  peça, a menos que essa peça seja definitivamente removida do uso em produtos com certificados
+  de
+
+  tipo;
+
+  (5) Segregação. A peça pode ser segregada usando métodos para impedir sua instalação em
+
+  um produto com certificado de tipo. Tais métodos devem incluir, pelo menos:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- peca
+- vida
+- tipo
+- registro
+- situacao
+- certificado
+- permanente
+- pode
+- produto
+- removida
+- cada
+- etiqueta
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

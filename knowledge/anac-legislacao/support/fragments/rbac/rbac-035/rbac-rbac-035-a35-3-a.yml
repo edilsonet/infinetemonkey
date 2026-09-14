@@ -1,0 +1,136 @@
+id: rbac-rbac-035-a35-3-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: A35.3
+section_title: A35.3
+subsection_id: a
+cite: A35.3(a)
+title: A35.3(a)
+text: '(a) Seção de manutenção da hélice.
+
+  (1) Informações introdutórias que incluam
+
+  uma explicação das características da hélice e
+
+  dados na extensão necessária para manutenção
+
+  ou manutenção preventiva.
+
+  (2) Uma descrição detalhada da hélice e de
+
+  seus sistemas e instalações.
+
+  (3) Informações básicas de controle e
+
+  operação descrevendo como os componentes e
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 35
+
+
+  systems are controlled and how they operate,
+
+  including any special procedures that apply.
+
+
+  (4) Instructions for uncrating, acceptance
+
+  checking, lifting, and installing the propeller.
+
+  (5) Instructions for propeller operational
+
+  checks.
+
+  (6) Scheduling information for each part of
+
+  the propeller that provides the recommended
+
+  periods at which it should be cleaned, adjusted,
+
+  and tested, the applicable wear tolerances, and
+
+  the degree of work recommended at these
+
+  periods. However, the applicant may refer to an
+
+  accessory,
+
+  instrument,
+
+  or
+
+  equipment
+
+  manufacturer as the source of this information if
+
+  it shows that the item has an exceptionally high
+
+  degree of complexity requiring specialized
+
+  maintenance techniques, test equipment, or
+
+  expertise. The recommended overhaul periods
+
+  and
+
+  necessary
+
+  cross-references
+
+  to
+
+  the
+
+  Airworthiness Limitations section of the manual
+
+  must also be included. In addition, the applicant
+
+  must include an inspection program that
+
+  includes the frequency and extent of the
+
+  inspections necessary to provide for the
+
+  continued airworthiness of the propeller.
+
+
+  (7) Troubleshooting information describing
+
+  probable malfunctions, how to recognize those
+
+  malfunctions, and the remedial action for those
+
+  malfunctions.
+
+  (8) Information describing the order and
+
+  method of removing and replacing propeller
+
+  parts with any necessary precautions to be
+
+  taken.
+
+  (9) A list of the special tools needed for
+
+  maintenance other than for overhauls.'
+keywords:
+- helices
+- aeronavegabilidade
+- propeller
+- information
+- that
+- helice
+- malfunctions
+- manutencao
+- necessary
+- periods
+- recommended
+- airworthiness
+- applicant
+- degree
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

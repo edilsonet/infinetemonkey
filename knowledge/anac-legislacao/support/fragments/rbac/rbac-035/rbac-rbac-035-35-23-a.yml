@@ -1,0 +1,80 @@
+id: rbac-rbac-035-35-23-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.23'
+section_title: '35.23'
+subsection_id: a
+cite: 35.23(a)
+title: 35.23(a)
+text: '(a) O sistema de controle da hélice deve ser
+
+  projetado, construído e validado para demons-
+
+  trar que:
+
+  (1) O sistema de controle da hélice, operando
+
+  nos modos de operação normal e alternativo e
+
+  em transição entre modos de operação, executa
+
+  as funções definidas pelo requerente em todas as
+
+  condições operacionais e envelope de voo de-
+
+  clarados.
+
+  (2) A funcionalidade do sistema de controle
+
+  da hélice não é adversamente afetada pelas con-
+
+  dições ambientais declaradas, incluindo tempe-
+
+  ratura, interferência eletromagnética (Electro-
+
+  magnetic Interference - EMI), campos irradi-
+
+  ados de alta intensidade (High Intensity Radia-
+
+  ted Fields - HIRF) e descargas atmosféricas.
+
+  Os limites ambientais para os quais o sistema
+
+  foi satisfatoriamente validado devem ser docu-
+
+  mentados nos manuais apropriados da hélice.
+
+
+  Data da emissão: 7 de agosto de 2019 RBAC nº 35
+
+
+  (3) A method is provided to indicate that an
+
+  operating mode change has occurred if flight
+
+  crew action is required. In such an event, oper-
+
+  ating instructions must be provided in the ap-
+
+  propriate manuals.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- sistema
+- controle
+- ambientais
+- modos
+- operacao
+- provided
+- validado
+- action
+- ados
+- adversamente
+- afetada
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

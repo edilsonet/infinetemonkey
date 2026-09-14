@@ -1,0 +1,40 @@
+id: rbac-rbac-121-121-289-a
+kind: rbac
+document: rbac-121
+family: '121'
+section_id: '121.289'
+section_title: Alarme sonoro do trem de pouso
+subsection_id: a
+cite: 121.289(a)
+title: 121.289(a)
+text: '(a) Exceto para aviões que atendam às provisões da seção 25.729 do RBAC 25, a partir
+  de 06 de janeiro de 1992 em diante, cada avião deve possuir um dispositivo de alarme sonoro
+  do trem de pouso que funcione continuamente sob as seguintes condições:
+
+  (1) para aviões com posição pré-estabelecida dos flapes para aproximação, sempre que os
+  flapes estiverem estendidos além da posição máxima certificada para descida em configuração
+  de aproximação prevista no AFM, e o trem de pouso não estiver totalmente baixado e travado;
+
+  (2) para aviões sem uma posição pré-estabelecida dos flapes para aproximação, sempre que
+  os flapes estiverem estendidos além da posição em que o abaixamento do trem é normalmente
+  executado e o trem de pouso não estiver totalmente baixado e travado.'
+keywords:
+- transporte-aereo
+- operacoes
+- trem
+- flapes
+- posicao
+- pouso
+- aproximacao
+- avioes
+- alarme
+- alem
+- baixado
+- estabelecida
+- estendidos
+- estiver
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-121.md

@@ -1,0 +1,67 @@
+id: rbac-rbac-035-35-24-b
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.24'
+section_title: '35.24'
+subsection_id: b
+cite: 35.24(b)
+title: 35.24(b)
+text: '(b) O sistema de controle da hélice deve ser
+
+  projetado e construído tal que, em adição ao
+
+  cumprimento com a seção 35.15 deste RBAC:
+
+
+  (1) nenhuma falha simples ou mau funcio-
+
+  namento de componentes elétricos ou eletrôni-
+
+  cos no sistema de controle resulte em um efeito
+
+  hazardous de hélice.
+
+  (2) falhas ou maus funcionamentos que afe-
+
+  tem diretamente o sistema de controle da hélice
+
+  em um avião típico, tais como falhas estruturais
+
+  de conexões ao sistema de controle, fogo ou
+
+  sobreaquecimento, não levem a um efeito ha-
+
+  zardous de hélice.
+
+  (3) a perda do controle normal de passo da
+
+  hélice não cause um efeito hazardous de hélice
+
+  nas condições operacionais pretendidas.
+
+  (4) a falha ou corrupção de dados ou sinais
+
+  compartilhados entre hélices não cause um efei-
+
+  to hazardous de hélice.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- controle
+- sistema
+- efeito
+- hazardous
+- cause
+- falha
+- falhas
+- adicao
+- aviao
+- compartilhados
+- componentes
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

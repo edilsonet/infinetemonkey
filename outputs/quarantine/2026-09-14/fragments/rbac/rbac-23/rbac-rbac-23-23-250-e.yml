@@ -1,0 +1,35 @@
+id: rbac-rbac-23-23-250-e
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: '23.250'
+section_title: Princípios de projeto e construção.
+subsection_id: e
+cite: 23.250(e)
+title: 23.250(e)
+text: '(e) Portas, canopis e saídas devem ser protegi-
+
+  das contra aberturas inadvertidas em vo, a
+
+  menos que demonstre não causar perigo quan-
+
+  do abertas em vo.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- abertas
+- aberturas
+- canopis
+- causar
+- construcao
+- contra
+- demonstre
+- inadvertidas
+- menos
+- perigo
+- portas
+- principios
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

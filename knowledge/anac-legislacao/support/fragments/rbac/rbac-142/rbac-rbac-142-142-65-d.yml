@@ -1,0 +1,31 @@
+id: rbac-rbac-142-142-65-d
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: '142.65'
+section_title: Limitações do CTAC
+subsection_id: d
+cite: 142.65(d)
+title: 142.65(d)
+text: '(d) O gestor responsável do detentor de certificado de CTAC não pode permitir que um
+
+  examinador credenciado exerça suas prerrogativas por mais de oito horas em qualquer período
+
+  sucessivo de 24 horas, incluindo “briefings” e “debriefings”.'
+keywords:
+- ctac
+- horas
+- briefings
+- certificado
+- credenciado
+- debriefings
+- detentor
+- examinador
+- exerca
+- gestor
+- incluindo
+- limitacoes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

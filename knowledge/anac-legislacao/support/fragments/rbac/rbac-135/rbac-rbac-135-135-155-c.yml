@@ -1,0 +1,42 @@
+id: rbac-rbac-135-135-155-c
+kind: rbac
+document: rbac-135
+family: '135'
+section_id: '135.155'
+section_title: 'Extintores de incêndio: aeronaves transportando passageiros'
+subsection_id: c
+cite: 135.155(c)
+title: 135.155(c)
+text: '(c) pelo menos um extintor manual deve ser colocado e adequadamente posicionado na
+  cabine de passageiros de:
+
+  (1) cada grande avião com configuração para passageiros de mais de 6 assentos, excluindo
+  qualquer assento para pilotos;
+
+  (2) cada avião multimotor com motor a turbina com configuração para passageiros de mais
+  de 6 assentos, excluindo qualquer assento para pilotos;
+
+  (3) cada aeronave não listada nos parágrafos (c)(1) e (c)(2) desta seção com configuração
+  para passageiros de mais de 9 assentos, excluindo qualquer assento para pilotos.
+
+  (Redação dada pela Resolução nº 494, de 17.10.2018)'
+keywords:
+- taxi-aereo
+- operacoes
+- passageiros
+- assento
+- assentos
+- cada
+- configuracao
+- excluindo
+- pilotos
+- aviao
+- adequadamente
+- aeronave
+- aeronaves
+- cabine
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-135.md

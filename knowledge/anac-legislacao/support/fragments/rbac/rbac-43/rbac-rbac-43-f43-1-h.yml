@@ -1,0 +1,38 @@
+id: rbac-rbac-43-f43-1-h
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: h
+cite: F43.1(h)
+title: F43.1(h)
+text: '(h) Interrogações Mode S All-call. Interrogar o transponder Mode S com o formato Mode
+  S all-
+
+  call somente UF = 11 e o ATCRBS/Mode S com o formato all-call (pulso P4 1,6 microsegundos)
+  e
+
+  verificar se o endereço e capacidade corretos são informados nas respostas (formato do downlink
+
+  DF = 11).'
+keywords:
+- manutencao
+- aeronavegabilidade
+- mode
+- call
+- formato
+- transponder
+- atcrbs
+- capacidade
+- corretos
+- downlink
+- endereco
+- informados
+- inspecoes
+- interrogacoes
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

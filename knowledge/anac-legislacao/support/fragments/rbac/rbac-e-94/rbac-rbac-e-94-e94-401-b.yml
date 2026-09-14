@@ -1,0 +1,30 @@
+id: rbac-rbac-e-94-e94-401-b
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: E94.401
+section_title: Autorização do projeto do RPAS
+subsection_id: b
+cite: E94.401(b)
+title: E94.401(b)
+text: '(b) Um requerente de autorização de projeto de RPAS deve:
+
+  (1) demonstrar, de maneira aceitável pela ANAC, que o RPAS satisfaz os requisitos aplicáveis
+  desta Subparte vigentes na data em que o requerimento foi apresentado, salvo se:'
+keywords:
+- rpas
+- autorizacao
+- projeto
+- aceitavel
+- aplicaveis
+- apresentado
+- data
+- demonstrar
+- desta
+- maneira
+- requerente
+- requerimento
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

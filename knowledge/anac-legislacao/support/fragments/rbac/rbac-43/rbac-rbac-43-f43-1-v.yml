@@ -1,0 +1,34 @@
+id: rbac-rbac-43-f43-1-v
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: F43.1
+section_title: Testes e inspeções no transponder
+subsection_id: v
+cite: F43.1(v)
+title: F43.1(v)
+text: '(v) para qualquer classe de transponders ATCRBS ou Mode S, verificar se o pico máximo
+
+  de saída de potência de RF não excede 27,0 dBw (500 watts).
+
+  Nota: Os testes de (e) até (j) aplicam-se apenas a transponders Mode S.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- mode
+- testes
+- transponders
+- aplicam
+- atcrbs
+- classe
+- excede
+- inspecoes
+- maximo
+- nota
+- pico
+- potencia
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

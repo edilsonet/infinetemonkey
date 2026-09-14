@@ -1,0 +1,38 @@
+id: rbac-rbac-90-90-25-c
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: '90.25'
+section_title: Requisitos para exercício da função de piloto segundo em comando
+subsection_id: c
+cite: 90.25(c)
+title: 90.25(c)
+text: '(c) Para operações aéreas IFR, o piloto segundo em comando deverá:
+
+  (1) cumprir com os requisitos previstos nos parágrafos (a) e (b) desta seção;
+
+  (2) ser detentor da habilitação relativa à operação de IFR na categoria da aeronave que
+  irá tripular, segundo o RBAC nº 61; e
+
+  (3) possuir a experiência mínima de voos por instrumentos (horas de voo IFR), no modelo
+  da aeronave em que irá voar, conforme estabelecido pela UAP no MOP.'
+keywords:
+- regras-de-voo
+- operacoes
+- segundo
+- aeronave
+- comando
+- piloto
+- requisitos
+- aereas
+- categoria
+- cumprir
+- desta
+- detentor
+- devera
+- estabelecido
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

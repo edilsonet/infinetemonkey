@@ -1,0 +1,64 @@
+id: rbac-rbac-60-60-7-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: '60.7'
+section_title: Requisitos para o operador de FSTD
+subsection_id: a
+cite: 60.7(a)
+title: 60.7(a)
+text: '(a) Uma organização é elegível a ser um
+
+  operador de FSTD se as seguintes condições
+
+  forem cumpridas:
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  (1) the organization holds, or is an
+
+  applicant for, a certificate under RBAC 119,
+
+  141, or 142; and
+
+
+  (1) a organização possuir, ou for um
+
+  requerente para possuir, um certificado
+
+  conforme o RBAC nº 119, 141 ou 142; e
+
+  (2) the FSTD will be used in the
+
+  sponsor´s ANAC-approved training program
+
+  for the aircraft being simulated.
+
+
+  (2) o FSTD for utilizado no programa
+
+  de treinamento aprovado pela ANAC do
+
+  operador, para a aeronave simulada.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- operador
+- organizacao
+- possuir
+- aeronave
+- aircraft
+- applicant
+- approved
+- aprovado
+- being
+- certificado
+- certificate
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

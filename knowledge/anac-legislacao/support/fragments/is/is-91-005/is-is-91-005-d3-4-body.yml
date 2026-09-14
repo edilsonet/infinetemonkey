@@ -1,0 +1,45 @@
+id: is-is-91-005-d3-4-body
+kind: is
+document: is-91-005
+family: '91'
+section_id: D3.4
+section_title: 'Os critérios que devem ser cumpridos em um envelope de voo completo são:'
+subsection_id: body
+cite: D3.4
+title: 'Os critérios que devem ser cumpridos em um envelope de voo completo são:'
+text: 'D3.4 Os critérios que devem ser cumpridos em um envelope de voo completo são:
+
+  a) no ponto do envelope completo onde a ASE média alcança seu valor máximo, esse valor não
+  pode exceder 37 m (120 ft);
+
+  b) no ponto do envelope completo, onde a ASE média, acrescida de três desvios-padrão, alcança
+  seu valor máximo absoluto, esse valor não pode exceder 75 m (245 ft); e
+
+  c) se for necessário, para se obter uma autorização operacional para RVSM para um grupo
+  de aeronaves, uma limitação operacional pode ser estabelecida, a fim de restringir a operação
+  RVSM destas aeronaves, nas partes de um envelope completo onde o valor absoluto da ASE média
+  exceder 37 m (120 ft) e/ou onde o valor absoluto da ASE média acrescida de três desvios-padrão
+  exceder 75 m (245 ft). Quando uma limitação deste tipo estiver em vigor, deve estar identificada
+  na documentação enviada pelo operador para embasar sua solicitação e deve estar documentada
+  nos manuais de operação das aeronaves envolvidas. No entanto, não será necessária a instalação
+  de nenhum aviso ou indicação visual ou sonoro associado com essa limitação nas aeronaves.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- completo
+- envelope
+- valor
+- aeronaves
+- exceder
+- media
+- absoluto
+- criterios
+- cumpridos
+- limitacao
+- pode
+- acrescida
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

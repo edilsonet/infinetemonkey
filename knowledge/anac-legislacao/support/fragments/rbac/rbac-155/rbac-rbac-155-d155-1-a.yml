@@ -1,0 +1,31 @@
+id: rbac-rbac-155-d155-1-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: D155.1
+section_title: Mapa de grade externo
+subsection_id: a
+cite: D155.1(a)
+title: D155.1(a)
+text: '(a)
+
+  O operador de heliponto deve elaborar um mapa de grade externo, para fins de localização
+  dos recursos externos que possam ser acionados em casos de emergências.'
+keywords:
+- seguranca-aeroportuaria
+- externo
+- grade
+- mapa
+- acionados
+- casos
+- d155
+- elaborar
+- emergencias
+- externos
+- fins
+- heliponto
+- localizacao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

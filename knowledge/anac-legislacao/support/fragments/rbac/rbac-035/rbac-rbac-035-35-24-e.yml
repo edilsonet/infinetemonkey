@@ -1,0 +1,42 @@
+id: rbac-rbac-035-35-24-e
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: '35.24'
+section_title: '35.24'
+subsection_id: e
+cite: 35.24(e)
+title: 35.24(e)
+text: '(e) O sistema de controle da hélice deve ser
+
+  projetado e construído tal que a perda, interrup-
+
+  ção ou característica anormal de potência elétri-
+
+  ca suprida pelo avião não resulte em efeitos
+
+  hazardous de hélice. Os requisitos de qualidade
+
+  da energia devem ser descritos nos manuais
+
+  apropriados.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- anormal
+- apropriados
+- aviao
+- caracteristica
+- construido
+- controle
+- descritos
+- efeitos
+- eletri
+- energia
+- hazardous
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

@@ -1,0 +1,45 @@
+document: is-23-001
+kind: is
+title: IS 23-001A
+ementa: Execução de Ensaios em Voo para Avaliação de Desempenho de Equipamentos de Comunicação
+  em VHF (VHF-COMM) instalados em Aeronaves certificadas segundo o RBAC 23.
+family: '23'
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-23-001
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-23-001/@@display-file/arquivo_norma/IS%2023-001A.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-23-001/@@display-file/arquivo_norma/IS%2023-001A.pdf
+language: pt
+foreign_annex: false
+sections:
+- 5.1.1
+- 5.2.1
+- 5.2.2
+- 5.2.3
+- 5.2.4
+- 5.2.5
+- 5.2.6
+- 5.3.1
+- apendice-a-lista-de-reducoes
+- apendice-b-referencias
+- apendice-c-criterios-de-clareza-e-intensidade
+- preambulo
+fragment_count: 15
+fragment_ids:
+- is-is-23-001-preambulo-body
+- is-is-23-001-5-1-1-body
+- is-is-23-001-5-2-1-body
+- is-is-23-001-5-2-2-body
+- is-is-23-001-5-2-3-body
+- is-is-23-001-5-2-3-a
+- is-is-23-001-5-2-3-b
+- is-is-23-001-5-2-3-c
+- is-is-23-001-5-2-4-body
+- is-is-23-001-5-2-5-body
+- is-is-23-001-5-2-6-body
+- is-is-23-001-5-3-1-body
+- is-is-23-001-apendice-a-lista-de-reducoes-body
+- is-is-23-001-apendice-b-referencias-body
+- is-is-23-001-apendice-c-criterios-de-clareza-e-intensidade-body
+parser_version: 7

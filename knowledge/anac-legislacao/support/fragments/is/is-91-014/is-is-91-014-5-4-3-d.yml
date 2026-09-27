@@ -1,0 +1,46 @@
+id: is-is-91-014-5-4-3-d
+kind: is
+document: is-91-014
+family: '91'
+section_id: 5.4.3
+section_title: 'O estudo deve conter ao menos os seguintes itens devidamente expostos e analisados:'
+subsection_id: d
+cite: 5.4.3(d)
+title: 5.4.3(d)
+text: 'd) apresentação e análise dos resultados, indicando os comprimentos de pista requeridos
+  para pouso completo do modelo de aeronave em determinado aeródromo, segundo as condições
+  estipuladas pelo operador: peso de pouso previsto, condição da pista (seca, molhada, contaminada),
+  etc. Na análise devem ser observados e considerados os fatores de correção devido à elevação
+  em relação ao nível do mar e temperatura de referência para os cálculos dos comprimentos
+  de pista requeridos; e
+
+  Nota 1: o percentual de 80% somente ser utilizado para condição de pista seca. Para pista
+  molhada, os parágrafos 135.385(d) do RBAC nº 135 e 91.1037(e) do RBAC nº 91 requerem que
+  se considere um comprimento efetivo de pista 15% superior ao que seria requerido para pista
+  seca. Para pista contaminada, devem ser atendidos os parágrafos 135.385(e) e (f) do RBAC
+  nº 135.
+
+  Nota 2: embora, para o estudo, se permita o uso de temperatura de referência e de peso de
+  pouso previsto, o planejamento de cada voo deve considerar as condições constantes em previsão
+  meteorológica vigente e os pesos esperados específicos para a o voo a ser realizado (com
+  a carga paga transportada, o combustível requerido etc).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- pista
+- pouso
+- seca
+- analise
+- comprimentos
+- condicao
+- condicoes
+- contaminada
+- estudo
+- molhada
+- nota
+- paragrafos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-014.md

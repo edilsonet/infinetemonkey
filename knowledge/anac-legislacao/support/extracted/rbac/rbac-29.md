@@ -6,7 +6,7 @@
 - language: en
 - foreign_annex: true
 - page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-29
-- pdf_url: 
+- pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-29/@@display-file/anexo_norma/Anexo%2014%20CFR%20Part%2029%20Amdt.%2057.pdf
 - archive_url: https://arquivo.pt/wayback/20230317200801id_/https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-29/@@display-file/anexo_norma/Anexo%2014%20CFR%20Part%2029%20Amdt.%2057.pdf
 - ementa: Requisitos de Aeronavegabilidade: Aeronaves de Asas Rotativas Categoria Transporte Em vigor em 1º de novembro de 2023
 

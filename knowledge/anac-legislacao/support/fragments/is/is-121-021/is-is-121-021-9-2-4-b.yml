@@ -1,0 +1,38 @@
+id: is-is-121-021-9-2-4-b
+kind: is
+document: is-121-021
+family: '121'
+section_id: 9.2.4
+section_title: Melhorias nos avisos de estol no modelo da aeronave.
+subsection_id: b
+cite: 9.2.4(b)
+title: 9.2.4(b)
+text: b) Normalmente, a velocidade inicial de buffet fornecida na maioria dos requisitos de
+  qualificação do FSTD foi validada em relação a duas condições de voo e suas características
+  de frequência e magnitude foram avaliadas para uma condição de voo. Além disso, o limiar
+  G para o início de um buffet foi menor do que o necessário para vibrações de inversões de
+  movimento. Alguns simuladores apresentam casos em que as referências de buffet ocorrem em
+  ordem errônea em relação aos outros avisos de estol, bem como há casos em que os buffet
+  representam erroneamente as referências registradas em voo. Além disso, houve pelo menos
+  um caso em que os pilotos identificaram erroneamente condições relacionadas a um estol,
+  uma vez que essas condições não foram reproduzidas no FSTD.
+keywords:
+- transporte-aereo
+- operacoes
+- buffet
+- condicoes
+- estol
+- alem
+- avisos
+- casos
+- disso
+- erroneamente
+- foram
+- fstd
+- referencias
+- relacao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

@@ -1,0 +1,85 @@
+id: is-is-121-006-5-1-2-body
+kind: is
+document: is-121-006
+family: '121'
+section_id: 5.1.2
+section_title: Categorias de treinamento
+subsection_id: body
+cite: 5.1.2
+title: Categorias de treinamento
+text: '5.1.2 Categorias de treinamento
+
+  5.1.2.1 Existem seis categorias básicas de treinamento aplicáveis aos operadores sob o RBAC
+  nº 121. Os principais fatores que determinam a categoria apropriada de treinamento são a
+  experiência anterior do aluno com o operador e a função anterior exercida no operador. Cada
+  categoria de treinamento consiste em um ou mais currículos, cada um dos quais é específico
+  para um tipo de aeronave e uma função (por exemplo, B-727 DOV, B-727 PIC e B-727 SIC). O
+  treinamento deve ser identificado e organizado de acordo com categorias específicas de treinamento.
+
+  5.1.2.2 Categoria Inicial de Nova Contratação. Essa categoria de treinamento é específica
+  para o pessoal que não tem experiência prévia com o operador (pessoal recém-contratado).
+  No entanto, aplica-se também ao pessoal empregado pelo operador que anteriormente não ocupava
+  uma função como membro de tripulação ou DOV com o operador. O treinamento inicial de novos
+  empregados inclui treinamento de doutrinamento básico e treinamento para função e tipo de
+  aeronave específicos. Com exceção do segmento de currículo de doutrinamento básico, os requisitos
+  regulamentares para o treinamento Inicial de Nova Contratação e Inicial de Equipamento são
+  iguais. Uma vez que a formação inicial de recém-contratados geralmente é a primeira exposição
+  do empregado a métodos, sistemas e procedimentos específicos da empresa, ela deve ser a
+  mais abrangente das seis categorias de treinamento. Por este motivo, o treinamento inicial
+  de novos empregados é uma categoria distinta e separada de treinamento e não deve ser confundido
+  com o treinamento inicial de equipamento.
+
+  5.1.2.3 Categoria Inicial de Equipamento. Essa categoria de treinamento é para o pessoal
+  que tenha sido previamente treinado e qualificado no operador (não novas contratações) para
+  uma função como tripulante ou DOV, e que esteja sendo habilitado para qualquer função em
+  um avião de um grupo diferente (conforme definido na seção 121.400 do RBAC nº 121, para
+  Grupo I e o Grupo II). Por exemplo, um PIC em um ATR-42 é redesignado como um PIC em um
+  B-737, ou um DOV habilitado em A-320 será agora qualificado no ATR-72). Aplica-se também
+  em caso de atribuição para uma função diferente como tripulante em um tipo de avião diferente,
+  quando o empregado não tiver sido previamente treinado e qualificado pelo operador para
+  essa função e tipo de avião. Por exemplo, um SIC em um B-737 é redesignado como um PIC em
+  um B-757.
+
+  5.1.2.4 Categoria Transição. Essa categoria de treinamento é para o empregado que tenha
+  sido anteriormente treinado e qualificado pelo operador para uma posição específica como
+  membro de tripulante ou DOV e que está sendo habilitado para a mesma função em um tipo de
+  aeronave diferente do mesmo grupo. Por exemplo, um SIC em um B-737 é redesignado como SIC
+  em um A-320, ou um DOV em B-737 é agora habilitado em B-767. Se as diferentes aeronaves
+  não estiverem no mesmo grupo, o treinamento inicial do equipamento é a categoria aplicável
+  de treinamento.
+
+  5.1.2.5 Categoria Elevação de Nível. Essa categoria de treinamento é para um membro de tripulação
+  de voo que foi previamente treinado e qualificado como SIC ou MCV pelo operador e está sendo
+  promovido como PIC ou SIC, respectivamente, para o mesmo tipo de aeronave para o qual foi
+  previamente treinado e qualificado. Por exemplo, um SIC em um E-190 é promovido como um
+  PIC em um E-190.
+
+  5.1.2.6 Categoria Periódico. Essa categoria de treinamento é para o empregado que tenha
+  sido treinado e qualificado pelo operador, que continuará a servir na mesma função e tipo
+  de aeronave e que deve receber treinamento periódico e exame prático dentro de um período
+  de elegibilidade apropriado.
+
+  5.1.2.7 Categoria Requalificação. Essa categoria de treinamento é para o empregado que tenha
+  sido treinado e qualificado pelo operador, mas se tornou não qualificado para servir em
+  uma determinada função em um tipo de aeronave devido a não ter recebido treinamento periódico
+  de solo ou de voo e/ou exame prático dentro do período de elegibilidade apropriado.'
+keywords:
+- transporte-aereo
+- operacoes
+- treinamento
+- categoria
+- funcao
+- operador
+- inicial
+- qualificado
+- tipo
+- treinado
+- aeronave
+- categorias
+- empregado
+- exemplo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-006.md

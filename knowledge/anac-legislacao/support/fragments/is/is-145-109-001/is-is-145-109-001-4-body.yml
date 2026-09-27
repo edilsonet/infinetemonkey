@@ -1,0 +1,128 @@
+id: is-is-145-109-001-4-body
+kind: is
+document: is-145-109-001
+family: '145'
+section_id: '4'
+section_title: 'DEFINIÇÕESData de emissão: 16 de junho de 2017. IS Nº 145.109-001'
+subsection_id: body
+cite: '4'
+title: 'DEFINIÇÕESData de emissão: 16 de junho de 2017. IS Nº 145.109-001'
+text: '4. DEFINIÇÕESData de emissão: 16 de junho de 2017. IS Nº 145.109-001
+
+  Revisão C
+
+  4.1 Artigo: aeronave, célula, motor, hélice, acessório, componente ou suas partes. Para
+  efeito
+
+  desta IS, artigo tem o mesmo significado de produto aeronáutico;
+
+  4.2 Autoridade Primária: Autoridade de Aviação Civil - AAC, responsável por um certo pro-
+
+  duto aeronáutico;
+
+  4.3 Boletim de serviço - BS: documento emitido pelo detentor do projeto de tipo ou fabricante
+
+  do produto aeronáutico (aeronave, motor, hélice, equipamento e componente), com o obje-
+
+  tivo de corrigir falha ou mau funcionamento deste produto ou nele introduzir modificações
+
+  e/ou aperfeiçoamentos, ou ainda visando à implantação de ação de manutenção ou manuten-
+
+  ção preventiva aditiva àquelas previstas no programa de manutenção do produto aeronáu-
+
+  tico;
+
+  4.4 Categoria de um BS: um BS pode ser emitido por um detentor de projeto de tipo de acordo
+
+  com um sistema próprio de indexação por severidade. Um BS pode ser classificado como
+
+  “mandatório”, geralmente em sua escala mais conservativa, e comumente associado a uma
+
+  Diretriz de Aeronavegabilidade; classificado como “econômico”, geralmente em seu valor
+
+  menos conservativo na escala de severidade; ou receber outras classificações definidas es-
+
+  pecificamente pelo detentor do projeto de tipo;
+
+  4.5 Dado Técnico - DT: Informação que suporta e/ou descreve a configuração de um produto
+
+  aeronáutico, a sua manutenção, manutenção preventiva, reconstrução, modificação ou re-
+
+  paro, incluindo o seguinte: (1) Desenhos, esquemas, e/ou fotografias; (2) Análise de tensões,
+
+  Relatório de ensaios/testes; (3) Boletins de Serviço, Instruções de Serviço; (4) Ordens
+  de
+
+  Engenharia, Relatórios de Engenharia; (5) Limitações de operação; e (6) Procedimentos de
+
+  Operação.
+
+  4.6 Diretriz de Aeronavegabilidade - DA: documento emitido pela ANAC, visando eliminar
+
+  uma condição insegura existente em um produto aeronáutico, com probabilidade de existir
+
+  ou de se desenvolver em outros produtos do mesmo projeto de tipo. O seu cumprimento é
+
+  obrigatório e frequentemente impõe o cumprimento de um BS de uma forma especificada.
+
+  As diretrizes emitidas pelas diversas AACs também são consideradas brasileiras e aqui apli-
+
+  cáveis se estas AACs são as responsáveis pelo projeto de tipo de produtos operando no Brasil
+
+  (para maiores informações, ver IS 39-001);
+
+  NOTA 1 - Diretrizes de Aeronavegabilidade de Emergência - DAE são emitidas pela ANAC
+
+  quando a necessidade determina que a ação deva ser imediata ou a prazo curto;
+
+  4.7 Instruções de Aeronavegabilidade Continuada - ICA: documento emitido pelo detentor
+
+  do projeto de tipo ou o fabricante do produto aeronáutico, que fornece métodos, técnicas
+  e
+
+  práticas aceitáveis para a execução de manutenção, manutenção preventiva e alterações (ver
+
+  seção 3.2 desta IS). As ICA são consideradas documentos aceitáveis pela ANAC para efeito
+
+  de cumprimento com a seção 43.13(a) do RBAC 43 por quem faz a manutenção, manutenção
+
+  preventiva ou alterações. O Apêndice B desta IS contém alguns exemplos de ICA;
+
+  NOTA 1 - Uma ICA pode conter informações que são aprovadas pela ANAC (por exemplo:
+
+  AFM, ALI, SRM).Data de emissão: 16 de junho de 2017. IS Nº 145.109-001
+
+  Revisão C
+
+  4.8 Publicação Técnica - PT: representa um termo genérico que inclui os documentos produ-
+
+  zidos pelo detentor do projeto de tipo ou fabricante do produto aeronáutico (dados técnicos
+
+  e instruções de aeronavegabilidade continuada) e os documentos produzidos pelas autorida-
+
+  des de aviação civil (Diretrizes de Aeronavegabilidade e Instruções Suplementares) a serem
+
+  utilizados na manutenção, manutenção preventiva e alterações. Alguns documentos produ-
+
+  zidos por organizações de manutenção também podem ser denominados por esse mesmo
+
+  termo.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- produto
+- aeronautico
+- projeto
+- tipo
+- aeronavegabilidade
+- detentor
+- preventiva
+- documentos
+- emissao
+- emitido
+- instrucoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-109-001.md

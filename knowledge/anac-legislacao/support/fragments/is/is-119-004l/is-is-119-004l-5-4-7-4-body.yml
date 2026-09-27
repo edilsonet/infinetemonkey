@@ -1,0 +1,47 @@
+id: is-is-119-004l-5-4-7-4-body
+kind: is
+document: is-119-004l
+family: '119'
+section_id: 5.4.7.4
+section_title: Caso seja pretendida a inclusão de autorizações operacionais, tais solicitações
+  devem ser submetidas conforme a seção 5.4.8 desta IS.
+subsection_id: body
+cite: 5.4.7.4
+title: Caso seja pretendida a inclusão de autorizações operacionais, tais solicitações devem
+  ser submetidas conforme a seção 5.4.8 desta IS.
+text: '5.4.7.4 Caso seja pretendida a inclusão de autorizações operacionais, tais solicitações
+  devem ser submetidas conforme a seção 5.4.8 desta IS.
+
+  5.4.7.5 Até a conclusão do processo de inclusão de modelo de aeronave, salvo parecer desfavorável
+  de algum setor envolvido, o operador pode utilizar a aeronave em operações não comerciais,
+  nos termos da legislação em vigor.
+
+  Nota: caso o modelo de aeronave a ser incluído seja um modelo de aeronave já presente nas
+  Especificações Operativas da empresa, conforme a Especificação de Tipo (TCDS - Type Certificate
+  Data Sheet) aplicável, não é necessário solicitar a inclusão do modelo à Anac, cabendo ao
+  operador adicionar o modelo por meio de seu gerenciamento de frota. O TCDS pode ser verificado
+  no site da Anac, disponível em https://sistemas.anac.gov.br/certificacao/Produtos/Especificacao.asp.
+  Se os modelos estão listados em uma mesma linha, identificada pelo mesmo numeral (geralmente
+  um algarismo romano), eles são considerados um mesmo modelo para os efeitos de inclusão
+  de novo modelo de aeronave. Caso o TCDS não esteja disponível no site da Anac, buscar as
+  informações junto à autoridade de aviação civil do Estado detentor do projeto.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- modelo
+- inclusao
+- aeronave
+- caso
+- seja
+- autorizacoes
+- desta
+- operacionais
+- pretendida
+- secao
+- solicitacoes
+- submetidas
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

@@ -1,0 +1,51 @@
+id: is-is-91-001-h3-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H3.4
+section_title: A capacidade de predição deve levar em conta as interrupções de serviço conhecidas
+  e prognosticadas dos satélites GPS ou outros efeitos sobre os sensores do sistema de navegação.
+  O programa de predição no deve utilizar um ângulo de mascaramento inferior a 5 graus, já
+  que a experiência operacional indica que os sinais satelitais não são confiáveis em baixas
+  elevações. A predição de disponibilidade de RAIM deve tomar em conta os avisos aos aviadores
+  (NOTAM) mais recentes sobre a constelação GPS, emitidas pela autoridade, e usar o algoritmo
+  idêntico ao utilizado no equipamento embarcado ou um algoritmo baseado nas suposições da
+  predição de RAIM que comprove um resultado mais conservador.
+subsection_id: body
+cite: H3.4
+title: A capacidade de predição deve levar em conta as interrupções de serviço conhecidas
+  e prognosticadas dos satélites GPS ou outros efeitos sobre os sensores do sistema de navegação.
+  O programa de predição no deve utilizar um ângulo de mascaramento inferior a 5 graus, já
+  que a experiência operacional indica que os sinais satelitais não são confiáveis em baixas
+  elevações. A predição de disponibilidade de RAIM deve tomar em conta os avisos aos aviadores
+  (NOTAM) mais recentes sobre a constelação GPS, emitidas pela autoridade, e usar o algoritmo
+  idêntico ao utilizado no equipamento embarcado ou um algoritmo baseado nas suposições da
+  predição de RAIM que comprove um resultado mais conservador.
+text: H3.4 A capacidade de predição deve levar em conta as interrupções de serviço conhecidas
+  e prognosticadas dos satélites GPS ou outros efeitos sobre os sensores do sistema de navegação.
+  O programa de predição no deve utilizar um ângulo de mascaramento inferior a 5 graus, já
+  que a experiência operacional indica que os sinais satelitais não são confiáveis em baixas
+  elevações. A predição de disponibilidade de RAIM deve tomar em conta os avisos aos aviadores
+  (NOTAM) mais recentes sobre a constelação GPS, emitidas pela autoridade, e usar o algoritmo
+  idêntico ao utilizado no equipamento embarcado ou um algoritmo baseado nas suposições da
+  predição de RAIM que comprove um resultado mais conservador.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- predicao
+- algoritmo
+- conta
+- raim
+- angulo
+- autoridade
+- aviadores
+- avisos
+- baixas
+- baseado
+- capacidade
+- comprove
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,127 @@
+id: is-is-91-011-4-body
+kind: is
+document: is-91-011
+family: '91'
+section_id: '4'
+section_title: BACKGROUND. Controlled flight into terrain (CFIT) is a primary cause of worldwide
+subsection_id: body
+cite: '4'
+title: BACKGROUND. Controlled flight into terrain (CFIT) is a primary cause of worldwide
+text: '4. BACKGROUND. Controlled flight into terrain (CFIT) is a primary cause of worldwide
+
+  commercial aviation fatal accidents. Unstabilized approaches are a key contributor to CFIT
+
+  events. Present NPAs are designed with and without stepdown fixes in the final approach
+
+  segment. Stepdowns flown without a constant descent will require multiple thrust, pitch,
+  and
+
+  altitude adjustments inside the final approach fix (FAF). These adjustments increase pilot
+
+  workload and potential errors during a critical phase of flight. NPAs designed without stepdown
+
+  fixes in the final segment allow pilots to immediately descend to the MDA after crossing
+  the
+
+  FAF. In both cases, the aircraft remains at the MDA until descending for the runway or reaching
+
+  the missed approach point (MAP). This practice, commonly referred to as “dive and drive,”
+  can
+
+  result in extended level flight as low as 250 feet above the ground in instrument meteorological
+
+  conditions (IMC) and shallow or steep final approaches. Figure 1A, Approach Example Without
+
+  Using Continuous Descent Final Approach, Appendix 1, illustrates the disadvantages of the
+
+  “dive and drive” technique.
+
+  a. Stabilized Approaches. A stabilized approach is a key feature to a safe approach and
+
+  landing. Operators are encouraged by the FAA and the International Civil Aviation Organization
+
+  (ICAO) to use the stabilized approach concept to help eliminate CFIT. The stabilized approach
+
+  concept is characterized by maintaining a stable approach speed, descent rate, vertical
+  flightpath,
+
+  and configuration to the landing touchdown point. Depart the FAF configured for landing
+  and on
+
+  the proper approach speed, power setting, and flightpath before descending below the minimum
+
+  stabilized approach height; e.g., 1,000 feet above the airport elevation and at a rate of
+  descent no
+
+  greater than 1,000 feet per minute (fpm), unless specifically briefed. (Refer to AC 120-71.)
+
+  b. Approach Designs and Continuous Descent. Precision IAPs and approach procedures
+
+  with vertical guidance (APV) have a continuous descent approach profile in their design.
+  NPAs
+
+  were not originally designed with this vertical path, but may easily be flown using the
+  CDFA
+
+  technique. Flying NPAs with a continuous descent profile will provide a safety advantage
+  over
+
+  flying approaches using the “dive and drive” technique. Therefore, the goal of implementing
+
+  CDFA is to incorporate the safety benefits derived from flying a continuous descent in a
+
+  stabilized manner as a standard practice on an NPA.
+
+  c. Definition of CDFA. CDFA is a technique for flying the final approach segment of an
+
+  NPA as a continuous descent. The technique is consistent with stabilized approach procedures
+
+  and has no level-off. A CDFA starts from an altitude/height at or above the FAF and proceeds
+  to
+
+  an altitude/height approximately 50 feet (15 meters) above the landing runway threshold
+  or to a
+
+  point where the flare maneuver should begin for the type of aircraft being flown. This definition
+
+  harmonizes with the ICAO and the European Aviation Safety Agency (EASA).
+
+  d. Advantages of CDFA. CDFA offers the following advantages:
+
+  (1) Increased safety by employing the concepts of stabilized approach criteria and
+
+  procedure standardization.
+
+  (2) Improved pilot situational awareness (SA) and reduced pilot workload.
+
+  (3) Improved fuel efficiency by minimizing the low-altitude level flight time.
+
+  (4) Reduced noise level by minimizing the level flight time at high thrust settings.
+
+  Page 2 Par 41/20/11 AC 120-108
+
+  (5) Procedural similarities to APV and precision approach operations.
+
+  (6) Reduced probability of infringement on required obstacle clearance during the final
+
+  approach segment.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- approach
+- descent
+- stabilized
+- cdfa
+- final
+- flight
+- continuous
+- with
+- cfit
+- level
+- technique
+- above
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-011.md

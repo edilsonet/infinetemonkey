@@ -1,0 +1,67 @@
+id: is-is-91-409-002-desenvolvimento-do-assunto-d
+kind: is
+document: is-91-409-002
+family: '91'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: d
+cite: desenvolvimento-do-assunto(d)
+title: desenvolvimento-do-assunto(d)
+text: 'd) assegure-se quanto ao correto funcionamento da válvula seletora de combustível.
+  Vários acidentes e incidentes graves com perda de motor em voo foram causados por incapacidade
+  de o piloto mover a alavanca seletora do tanque vazio para o tanque cheio ou falha de travamento
+  da seletora na posição correta. Esses problemas mecânicos geralmente são causados por válvula
+  seletora desgastada ou inoperante.
+
+  6.2.2 Caso não exista procedimento específico para detectar falhas na seletora de combustível,
+  aprovado no manual do fabricante, durante o táxi acione a válvula seletora trocando os tanques,
+  e garanta que haja fluxo de combustível de cada tanque selecionado para o(s) motor(es).
+  Lembre-se de dar tempo suficiente (3 a 4 minutos) para cada verificação, pois as linhas
+  do carburador ou injetor de combustível retêm o combustível do tanque selecionado anteriormente,
+  e não esqueça de monitorar a pressão da bomba de combustível durante o teste.
+
+  6.2.3 Durante as inspeções de 100h ou conforme estipulado pelo fabricante, verifique a função
+  de corte de combustível da válvula seletora ou shut off, de modo a assegurar o completo
+  corte de combustível para o motor. Lembre-se de que levará alguns minutos em baixa rotação
+  para o motor drenar o combustível das linhas e carburador ou injetor e fazer com que o motor
+  apague.
+
+  6.2.4 Essa verificação é muito importante porque, em caso de incêndio no motor, a válvula
+  de corte de combustível interromperá o fluxo de combustível no lado da cabine antes da parede
+  de fogo, evitando efetivamente que um incêndio no motor seja alimentado pelos tanques de
+  combustível da aeronave. Se houver suspeita de uma seletora de combustível desgastada ou
+  inoperante, procure imediatamente a manutenção para os devidos reparos ou substituição,
+  conforme necessário, e não voe a aeronave até que problema seja completamente solucionado.
+
+  6.3 Contaminação do combustível
+
+  6.3.1 Existem dois tipos básicos de contaminação do combustível: sólido e água. Contaminantes
+  sólidos como areia, ferrugem e outros detritos podem ser identificados por meio de inspeções
+  do fundo dos tanques vazios com uma lanterna e por meio de inspeções dos filtros de combustível
+  de linha e dos injetores quanto à presença de partículas sólidas. Se a contaminação por
+  partículas sólidas continua ocorrendo com certa frequência, o fornecedor de combustível
+  deve ser contatado pois pode ser a origem do problema.
+
+  6.3.2 A contaminação por água ainda representa boa parte dos acidentes e incidentes relacionados
+  com o combustível. A água entra no sistema de combustível da aeronave basicamente de três
+  maneiras:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- combustivel
+- seletora
+- motor
+- valvula
+- contaminacao
+- tanque
+- aeronave
+- agua
+- corte
+- durante
+- inspecoes
+- tanques
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-002.md

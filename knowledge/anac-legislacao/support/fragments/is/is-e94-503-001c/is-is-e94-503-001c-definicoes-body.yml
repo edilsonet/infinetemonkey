@@ -1,0 +1,63 @@
+id: is-is-e94-503-001c-definicoes-body
+kind: is
+document: is-e94-503-001c
+family: '94'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  4.1 Componente crítico: Aquele que possui limite de utilização para revisão, substituição,
+  teste e/ou calibração previstos no programa de manutenção do fabricante. Estes limites podem
+  ser estipulados em horas de utilização, número de pousos ou de ciclos, tempo calendárico,
+  métodos estatísticos de controle ou quaisquer outros métodos de controle predefinidos e
+  aprovados; podem ser propostos pelos fabricantes (inicialmente e de forma conservadora)
+  ou pelos operadores (em função de suas operações específicas, desde que sejam tão ou mais
+  conservadores de que os do fabricante), com a necessária aprovação e o acompanhamento da
+  ANAC.
+
+  4.2 Fabricante: Pessoa ou organização que manufatura o sistema de aeronave remotamente pilotada
+  (Remotely-Piloted Aircraft System - RPAS), criando-o a partir de componentes e peças. Pode
+  ou não ter projetado o RPAS.
+
+  4.3 Item aberto: é um apontamento (fato ou dúvida) feito na análise documental ou durante
+  a inspeção, pelo inspetor da ANAC ou um Profissional Credenciado, que requer esclarecimentos
+  por parte do requerente.
+
+  4.4 Item fechado: é um apontamento ou uma não conformidade cujos esclarecimentos ou correções,
+  respectivamente, são consideradas satisfatórias pela ANAC.
+
+  4.5 Não conformidade: é um item aberto que não atende aos requsitos aplicáveis.
+
+  4.6 Operador: Pessoa, órgão ou empresa dedicada à operação de RPAS.
+
+  4.7 Recuperação de emergência: conjunto de funções e procedimentos que objetivam conduzir
+  a Aeronave Remotamente Pilotada até um local de emergência pré-definido e realizar um pouso
+  seguro ou terminação do voo. Estas funções podem ser comandadas diretamente pelo piloto
+  remoto ou pré-programadas e disparadas automaticamente.
+
+  4.8 Requerente: Pessoa que solicita à ANAC e aos outros órgãos governamentais as aprovações
+  e solicitações necessárias à operação do RPAS. Pode ser o fabricante ou o operador.
+
+  4.9 Sistema de terminação de voo: sistema que visa o término imediato do voo e a redução
+  da energia cinética no momento do impacto, mas não necessariamente garante a localização
+  da queda.'
+keywords:
+- fabricante
+- rpas
+- definicoes
+- pessoa
+- podem
+- sistema
+- aberto
+- aeronave
+- apontamento
+- conformidade
+- controle
+- emergencia
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-503-001c.md

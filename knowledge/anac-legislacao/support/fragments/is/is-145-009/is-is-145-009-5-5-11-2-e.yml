@@ -1,0 +1,108 @@
+id: is-is-145-009-5-5-11-2-e
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.11.2
+section_title: 'Sistema e procedimentos: esta seção do MCQ deve incluir a descrição do sistema
+  e procedimentos usados para:'
+subsection_id: e
+cite: 5.5.11.2(e)
+title: 5.5.11.2(e)
+text: 'e) A subseção 5.5.8 desta IS contém informações adicionais para subcontratar funções
+  de manutenção. O procedimento deve também cobrir como as partes são armazenadas e requisitadas
+  para um serviço específico.
+
+  5.5.11.8 Manuseio de partes: o parágrafo 145.103(a)(2) do RBAC nº 145 requer à OM prover
+  espaço suficiente para segregar artigos e materiais armazenados para instalação, daqueles
+  artigos com manutenção, manutenção preventiva ou alterações, em andamento. Durante todo
+  ciclo de manutenção, será necessário cuidado no manuseio de partes e componentes em manutenção.
+  Os procedimentos no MCQ devem enfatizar que as pessoas precisam sempre tomar cuidado no
+  manuseio de produtos aeronáuticos. Esses procedimentos podem estar incluídos em uma única
+  seção do MCQ ou podem estar espalhados em várias seções do MCQ. Os procedimentos podem abranger
+  segregação e proteção de partes, evitando contato/impacto/abrasão de metal com metal, contaminação
+  e preservação, além de condições especiais de armazenagem (exemplo: pneus contra a umidade
+  e incidência de luz solar e/ou fluorescente, rebites termicamente tratados e selantes de
+  temperaturas maiores que as recomendadas, filmes radiográficos virgens de radiações ionizantes
+  ou abertura acidental dos cassetes, equipamento eletrônico em prateleiras equipadas com
+  revestimento antiestático, etc.). A movimentação de artigos de uma área da OM para outra
+  requer procedimentos para assegurar que esses artigos não sejam avariados no trânsito. As
+  OM (ou suas oficinas) que mantém equipamentos eletrônicos sensíveis precisarão descrever
+  os cuidados necessários a tomar quanto a descargas eletrostáticas.
+
+  NOTA 1: As OM que executam manutenção de instrumentos podem utilizar as instruções da AC
+  43-15, Recommended Guidelines for Instrument Shops, da FAA.
+
+  NOTA 2: A ANAC recomenda que as OM dediquem áreas reservadas para a contenção segura de
+  peças e materiais reprovados na inspeção de recebimento, as que atingiram a vida limite
+  (LLP - life limited part) e o shelf life. Geralmente, tais áreas são denominadas de “quarentena”.
+  A denominação pode variar para cada OM, mas o sistema da qualidade da OM deve garantir não
+  ser possível a utilização desses materiais, a menos que existam meios aprovados de recertificação,
+  garantindo a aeronavegabilidade. Essas peças e materiais necessitam ser apropriadamente
+  identificados e geralmente uma etiqueta identificando-o como “sucata”, “inutilizável” ou
+  “quarentena” é afixado ao mesmo. (Ver IS 43.001 - Elegibilidade, qualidade e identificação
+  de peças de reposição para melhores informações.)
+
+  5.5.11.9 Etiquetas e identificação: todos os artigos em manutenção dentro da OM devem ser
+  identificados de alguma maneira, de acordo com o tamanho, complexidade, e certificação da
+  OM. Muitas OM fixam etiquetas coloridas ou ordens de serviço nos artigos. O objetivo da
+  identificação é simplesmente assegurar que o status de qualquer artigo possa ser facilmente
+  determinado. Artigos aguardando reparo podem ser identificados de modo diferente daqueles
+  já reparados. Artigos considerados não reparáveis devem ser claramente identificados, e
+  aconselha-se serem armazenados em uma área segregada dentro das instalações da OM. Artigos
+  colocados em armazenagem precisam ser identificados para assegurar rastreabilidade a um
+  fabricante aprovado.
+
+  NOTA 1: A forma aceitável de identificação de artigos (exceto aeronaves) aprovados para
+  utilização em serviço é através do Certificado de Liberação Autorizada, Formulário ANAC
+  F-100-01 (equivalente ao FORM 8130-3 da FAA, FORM ONE da EASA, ou do TCCA - Transport Canada
+  Civil Aviation). O preenchimento do formulário deve seguir as orientações da IS nº 43.9-002,
+  em sua última revisão. Uma OM deve ter procedimentos estabelecidos nos seus manuais que
+  descrevam como e quem pode preencher e assinar o formulário.
+
+  NOTA 2: O formulário não constitui sozinho uma autorização de instalação de um artigo novo
+  ou usado e reparado, em uma aeronave. A OM deve descrever em seus manuais os procedimentos
+  adicionais de como verifica a aplicabilidade do artigo e autoriza a instalação destes em
+  aeronaves sob sua manutenção e processa os registros adequados.
+
+  NOTA 3: A ANAC recomenda a OM, caso manuseie, armazene ou trabalhe com material de uso não
+  aeronáutico, que mantenham estes materiais segregados dos materiais de uso aeronáutico,
+  inserindo no MOM as instruções e procedimentos para tal.
+
+  5.5.11.10 Inspeção de recebimento de artigos e materiais: o MCQ deve incluir procedimentos
+  que descrevem a inspeção de recebimento de matéria prima e artigos utilizados pela OM para
+  manutenção, manutenção preventiva e alterações. Esses materiais podem incluir desde blocos
+  de matéria prima a ser usinada, chapas ALCLAD, varetas de solda, etc., bem como motores,
+  hélices, componentes e partes de componentes. Os procedimentos devem definir o que é considerado
+  matéria prima e descrever como o material será inspecionado. Os procedimentos devem descrever
+  a disposição/ação tomada quando um item passa e quando é rejeitado na inspeção. O MCQ deve
+  também incluir procedimentos de manuseio de partes não aprovadas e/ou suspeitas de serem
+  não aprovadas (SUP - Suspected Unapproved Parts). Algumas matérias primas podem requerer
+  documentação ou certificação específica que deve ser mantido no arquivo pela OM. Os procedimentos
+  devem tratar como essa documentação é analisada e arquivada. Algumas vezes, matérias primas
+  são recebidas em lotes e armazenadas em um setor denominado “estoque”, tais como varetas
+  de solda, fluidos e filmes para END, e pós de revestimento, etc. Quando necessárias para
+  uma manutenção, são utilizadas em unidades menores que o lote inicial. Para tais situações,
+  o manual precisará incluir procedimentos que assegurem a rastreabilidade do material ao
+  lote original. Um exemplo de quebra de lote é mostrado na Nota 1 relativo ao item "k)” abaixo
+  (para mais informações sobre elegibilidade, qualidade e identificação de peças aeronáuticas
+  de reposição, consulte a IS nº 43-001). Os procedimentos gerais para a inspeção de recebimento
+  de artigos e materiais devem cobrir os seguintes aspectos, conforme aplicável:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- procedimentos
+- artigos
+- materiais
+- podem
+- nota
+- partes
+- identificacao
+- identificados
+- incluir
+- inspecao
+- descrever
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

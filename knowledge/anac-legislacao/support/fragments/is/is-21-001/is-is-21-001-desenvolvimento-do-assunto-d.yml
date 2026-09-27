@@ -1,0 +1,93 @@
+id: is-is-21-001-desenvolvimento-do-assunto-d
+kind: is
+document: is-21-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: d
+cite: desenvolvimento-do-assunto(d)
+title: desenvolvimento-do-assunto(d)
+text: 'd) Como qualquer modificação, a base de certificação de uma pequena modificação é definida
+  pela seção RBAC 21.101. Porém, por sua própria definição, uma pequena modificação é não
+  significativa e portanto, deve cumprir com a base de certificação do projeto de tipo aprovado
+  de referência sendo modificado (“baseline”).
+
+  5.9.4.9. No caso de grandes modificações é possível haver, conforme Nível de Envolvimento
+  definido pela Agência, atividades de investigação de cumprimento realizadas pela ANAC previamente
+  à aprovação. O processo de aprovação de grandes modificações é muito similar a um processo
+  de certificação de tipo original, porém com escopo circunscrito à modificação e às áreas
+  afetadas pela modificação, conforme estabelece a seção 21.97 do RBAC 21, e detalhado no
+  item 5.9.5 da presente IS.
+
+  5.9.4.10. Atenção especial deve ser dada à definição das áreas afetadas pela modificação
+  que, consequentemente, é fator fundamental para a definição da base de certificação. A próxima
+  seção desta IS traz mais detalhes sobre essa definição.
+
+  5.9.4.11. Projetos de grandes modificações propostos por organização não detentora do certificado
+  de tipo são aprovadas através de um Certificado Suplementar de Tipo e não são escopo da
+  presente IS. Para mais informações, veja a IS 21-004.
+
+  5.9.4.12. No campo da proteção ambiental, resumidamente, o RBAC 21 define como modificação
+  acústica e a modificação de emissões aquelas modificações voluntárias que, respectivamente,
+  aumentem os níveis de ruído e de emissão de combustível drenado e de escapamento, conforme
+  critérios descritos em material de orientações específicos para cada tipo de modificação.
+  Para os propósitos de cumprimento com os requisitos de emissão de emissões de CO2, considerar-se-á
+  os critérios definidos no parágrafo RBAC 21.93(d)-I e os critérios definidos no próprio
+  RBAC 38 para definir quando a modificação deve ser submetida para a ANAC.
+
+  NOTA: Modificações que não são classificadas como, “modificações de emissão” ou “modificações
+  acústicas” não precisam demonstrar novamente cumprimento com os requisitos do RBAC 34 e
+  RBAC 36.
+
+  5.9.4.13. A classificação de modificações é um julgamento de engenharia, havendo casos em
+  que a classificação é mais evidente. Porém, em outros casos, isso pode não ser tão trivial
+  e ser possível justificar tanto uma classificação como outra (por exemplo, grande ou pequena
+  modificação) Essa subjetividade pode ser minimizada por meio de critérios desenvolvidos
+  pelo requerente. Em caso de dúvidas, uma consulta à ANAC é uma opção. Independente da classificação,
+  é importante esclarecer que a modificação esteja documentada (vide item 5.4.2 desta IS)
+  e que o projeto de tipo modificado deve cumprir com os requisitos da base de certificação.
+  Portanto, um “erro” na classificação em si não significa necessariamente um prejuízo à segurança
+  ou à proteção ambiental. Entretanto, pode indicar uma eventual deficiência de processo,
+  podendo levar a uma revisão do método aceitável.
+
+  5.9.4.14. O RBAC 21 também classifica as modificações em obrigatórias (ver RBAC 21.99),
+  que são aquelas que forem requeridas pela ANAC por considerar que tais modificações são
+  necessárias para corrigir condições inseguras do produto que fundamentam uma Diretriz de
+  Aeronavegabilidade emitida conforme a seção 39.5 do RBAC 39. Após requisição da ANAC, o
+  detentor do Certificado de Tipo deve submeter tais modificações apropriadas no projeto de
+  tipo para a ANAC, que as aprovará. É importante ressaltar que, para os propósitos da seção
+  21.99 do RBAC 21, considerar que a modificação, aprovada sob a seção 21.95 ou 21.97 do RBAC
+  21, é apropriada para corrigir ou mitigar condição insegura identificada.
+
+  5.9.5. Modificações em projeto de tipo: requisitos aplicáveis, áreas afetadas e demonstração
+
+  5.9.5.1. Independente da classificação, a modificação deve ter seu escopo, seus requisitos
+  aplicáveis e os requisitos associados à modificação definidos, e sua demonstração de cumprimento
+  com requisito realizada.
+
+  5.9.5.2. Quanto ao escopo, utiliza-se o conceito de áreas afetadas. A definição de tais
+  áreas é fundamental, pois ela é necessária para a determinação dos requisitos associados
+  à modificação e, por consequência, o que seria necessário fazer em termos da demonstração.
+
+  Define-se como área afetada qualquer área do projeto modificado que se relacione a qualquer
+  das seguintes condições:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- modificacoes
+- tipo
+- requisitos
+- classificacao
+- secao
+- areas
+- definicao
+- afetadas
+- base
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

@@ -1,0 +1,57 @@
+document: is-91-409-002
+kind: is
+title: IS 91.409-002A
+ementa: Prevenção de acidentes por perda de potência em voo e monitoramento de tendências
+  de motores convencionais Em vigor em 10 de setembro de 2025
+family: '91'
+categories:
+- operacoes-gerais
+- regras-de-voo
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-409-002
+language: pt
+foreign_annex: false
+sections:
+- 7.9.1
+- 7.9.4
+- apendice-a-reservado
+- apendice-b-lista-de-reducoes
+- apendice-c-formulario-de-monitoramento-de-tendencias-8ccb99
+- apendice-d-planilha-de-monitoramento-de-analise-de-ol-86eb06
+- apendice-d-planilha-de-monitoramento-de-analise-de-ol-9ad426
+- apendice-e-planilha-de-rastreamento-de-amostra-de-dados
+- aprovacao
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 24
+fragment_ids:
+- is-is-91-409-002-preambulo-body
+- is-is-91-409-002-aprovacao-body
+- is-is-91-409-002-objetivo-body
+- is-is-91-409-002-revogacao-body
+- is-is-91-409-002-fundamentos-body
+- is-is-91-409-002-fundamentos-a
+- is-is-91-409-002-fundamentos-b
+- is-is-91-409-002-desenvolvimento-do-assunto-body
+- is-is-91-409-002-desenvolvimento-do-assunto-a
+- is-is-91-409-002-desenvolvimento-do-assunto-b
+- is-is-91-409-002-desenvolvimento-do-assunto-c
+- is-is-91-409-002-desenvolvimento-do-assunto-d
+- is-is-91-409-002-7-9-1-body
+- is-is-91-409-002-7-9-1-a
+- is-is-91-409-002-7-9-1-b
+- is-is-91-409-002-7-9-1-c
+- is-is-91-409-002-7-9-4-body
+- is-is-91-409-002-apendice-a-reservado-body
+- is-is-91-409-002-apendice-b-lista-de-reducoes-body
+- is-is-91-409-002-apendice-c-formulario-de-monitoramento-de-tendencias-8ccb99-body
+- is-is-91-409-002-apendice-d-planilha-de-monitoramento-de-analise-de-ol-86eb06-body
+- is-is-91-409-002-apendice-e-planilha-de-rastreamento-de-amostra-de-dados-body
+- is-is-91-409-002-disposicoes-finais-body
+- is-is-91-409-002-apendice-d-planilha-de-monitoramento-de-analise-de-ol-9ad426-body
+parser_version: 7

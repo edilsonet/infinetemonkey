@@ -1,0 +1,55 @@
+id: is-is-60-001-disposicoes-gerais-f
+kind: is
+document: is-60-001
+family: '60'
+section_id: disposicoes-gerais
+section_title: disposições gerais
+subsection_id: f
+cite: disposicoes-gerais(f)
+title: disposicoes-gerais(f)
+text: 'f) classificação das sessões de treinamento, baseadas no desempenho do simulador.
+
+  10.5 Uma adequada orientação de como parametrizar e quantificar a métrica de conformidade,
+  é o uso do ARINC 433. Este documento fornece as orientações necessárias para a elaboração
+  de como medir a conformidade do FSTD.
+
+  10.6 A métrica deve monitorar cada FSTD que compõe a frota do operador, pois os dados serão
+  avaliados pela ANAC em cada avaliação recorrente e nas inspeções do programa QMS. Também
+  é recomendável que os dados sejam compartilhados e disponibilizados para os fabricantes,
+  objetivando o monitoramento de problemas sistêmicos e de projeto para que sejam solucionados
+  adequadamente.
+
+  processo de aprovação do qms
+
+  11.1 Esta seção tem o objetivo de orientar o operador de FSTD, ou uma organização interessada
+  em ser um novo operador de FSTD, acerca dos procedimentos que devem ser seguidos para aprovação
+  do QMS de FSTD.
+
+  11.2 Um operador de FSTD ou um novo operador de FSTD deve entrar em contato com o setor
+  responsável pela qualificação de FSTD da ANAC, expressando sua intenção em aprovar o Manual
+  QMS, por meio de e-mail ou protocolo digital, conforme orientações no site da ANAC (https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/simuladores-de-voo-fstd).
+
+  11.3 Um novo operador de FSTD deve solicitar a avaliação de seu QMS em conjunto à solicitação
+  de qualificação inicial de seu primeiro FSTD.
+
+  11.4 O processo de aprovação do QMS de FSTD contém cinco fases:'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- operador
+- aprovacao
+- novo
+- avaliacao
+- cada
+- conformidade
+- dados
+- disposicoes
+- gerais
+- metrica
+- orientacoes
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

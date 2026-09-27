@@ -1,0 +1,76 @@
+id: is-is-121-021-7-3-6-body
+kind: is
+document: is-121-021
+family: '121'
+section_id: 7.3.6
+section_title: O Apêndice B fornece informações adicionais ao Apêndice A sobre treinamento
+  prático de UPRT.
+subsection_id: body
+cite: 7.3.6
+title: O Apêndice B fornece informações adicionais ao Apêndice A sobre treinamento prático
+  de UPRT.
+text: '7.3.6 O Apêndice B fornece informações adicionais ao Apêndice A sobre treinamento prático
+  de UPRT.
+
+  7.3.7 Reconhece-se que alguns operadores podem não ter um FSTD específico para algum tipo
+  de avião utilizado por eles. Nesse caso, mediante solicitação à ANAC nos termos do parágrafo
+  121.423(b) do RBAC nº 121, esses operadores podem optar por usar a tabela no Apêndice B
+  para seu UPRT usando um FSTD não específico do tipo.
+
+  7.4 Recomendações do fabricante (Original Equipment Manufacturer - OEM) - Cenários de treinamento
+  em FSTD
+
+  7.4.1 Os cenários de treinamento apresentados nesta seção foram desenvolvidos em conjunto
+  por representantes da Airbus, ATR, Boeing, Bombardier e Embraer e são extraídos do documento
+  Aircraft Upset Prevention and Recovery Training Aid (AUPRTA), Revisão 3, e, em cenários
+  relacionados a aproximação e recuperação de estol, da AC 120-109A - Treinamento de prevenção
+  e recuperação de estol, da FAA.
+
+  7.4.2 Com foco nos aspectos de conscientização e prevenção, os objetivos do OEM são garantir
+  que os pilotos sejam devidamente treinados para operar suas aeronaves. A aprovação em um
+  exame de proficiência para o tipo do avião não é uma medida de quão bem os pilotos entendem
+  o desempenho do avião em todo o envelope operacional, porque o exame é conduzido dentro
+  de uma faixa de desempenho operacional muito estreita. Os programas de treinamento que conduzem
+  a exames de proficiência no tipo do avião geralmente se concentram no envelope a ser verificado,
+  em vez do ambiente operacional mais amplo ao qual os pilotos serão expostos durante as operações
+  de linha. Além disso, os pilotos usam rotineiramente o piloto automático (PA) para gerenciar
+  a parte de um envelope de operações em que suas aeronaves normalmente voarão. Portanto,
+  não é realista que o piloto possa conhecer e evitar a perda de controle da aeronave sem
+  ter conhecimento prático do desempenho disponível (ou não disponível) por meio de uma gama
+  maior de capacidades da aeronave.
+
+  7.4.3 Não é razoável desenvolver sequências de treinamento nos limites ou mesmo além do
+  envelope normal sem primeiro expor os pilotos às capacidades do avião dentro do envelope
+  operacional normal. Combinados com instrução adequada em reconhecimento e recuperação das
+  perdas de controle, exercícios simples que expõem o piloto às capacidades da aeronave adicionam
+  vantagens consideráveis ​​na prevenção de perdas de controle da aeronave.
+
+  7.4.4 Após a conclusão do treinamento teórico, os exercícios de FSTD abaixo são pré-requisitos
+  para o treinamento de demonstração no envelope de desempenho de uma determinada aeronave
+  e demonstram claramente as capacidades da aeronave.
+
+  7.4.5 Todos esses cenários devem ser demonstrados para ver se ensinam ao aluno quando (ou
+  mesmo se necessário) desligar o sistema de voo automático. Por exemplo, se você estiver
+  enfrentando um encontro com esteira de turbulência, pode ser melhor deixar o sistema de
+  voo automático ligado do que desligá-lo, desde que o sistema de voo automático esteja funcionando
+  corretamente.'
+keywords:
+- transporte-aereo
+- operacoes
+- treinamento
+- apendice
+- aeronave
+- envelope
+- aviao
+- pilotos
+- automatico
+- capacidades
+- cenarios
+- desempenho
+- fstd
+- operacional
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

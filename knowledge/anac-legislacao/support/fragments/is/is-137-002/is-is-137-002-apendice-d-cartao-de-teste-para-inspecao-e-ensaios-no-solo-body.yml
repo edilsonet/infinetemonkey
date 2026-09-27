@@ -1,0 +1,265 @@
+id: is-is-137-002-apendice-d-cartao-de-teste-para-inspecao-e-ensaios-no-solo-body
+kind: is
+document: is-137-002
+family: '137'
+section_id: apendice-d-cartao-de-teste-para-inspecao-e-ensaios-no-solo
+section_title: APÊNDICE D - CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO SOLO
+subsection_id: body
+cite: apendice-d-cartao-de-teste-para-inspecao-e-ensaios-no-solo
+title: APÊNDICE D - CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO SOLO
+text: 'APÊNDICE D - CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO SOLO
+
+  Introdução: Este apêndice fornece um modelo de um “cartão de testes” para a Inspeção e Ensaios
+
+  no Solo e de EMC (compatibilidade eletromagnética) de um equipamento GPS diferencial agrícola
+
+  (DGPS).
+
+  Este é apenas um exemplo, que deve ser adaptado levando em consideração a instalação efetuada
+  e
+
+  os manuais de instalação aplicáveis.
+
+  Exemplo de Cabeçalho:
+
+  CARTÃO DE TESTES PARA INSPEÇÃO E ENSAIOS NO SOLO/EMI-EMC PARA GPS DIFERENCIAL AGRÍCOLA
+
+  Data:__/__/_______
+
+  Descrição do sistema e interligações com outros elementos do sistema de pulverização/
+
+  dispersão:______________________________________________________________________
+
+  _________________________________________________________________________
+
+  ______________________________________________________________________________
+
+  ______________________________________________________________________
+
+  AERONAVE
+
+  Fabricante:________________________
+
+  Modelo: ________________________
+
+  Matrícula: ________________________
+
+  Número de Série:__________________
+
+  Especificação:_________  TCDS/  EA/ER
+
+  Base de certificação:_________________
+
+  (RBAC/RBHA/FAR/JAR)
+
+  Base da Aeronave
+
+  (ver Certificado de Matrícula):
+
+  Cidade:____________________U.F.___
+
+  Proprietário/Operador:
+
+  __________________________________
+
+  Folha 01 de 04Data de emissão: 24 de agosto de 2018. IS nº 137-002
+
+  Revisão C
+
+  Exemplo de roteiro para verificação da instalação:
+
+  VERIFICAÇÃO DA INSTALAÇÃO Sat. Não
+
+  Sat.
+
+  Posição e fixação do display/teclado na cabine/painel da aeronave. Facilmente acessíveis
+  e
+
+  visíveis para o piloto
+
+  Não há reflexos indesejáveis no display
+
+  Posição, fixação e visibilidade para o piloto da barra de luzes (lightbar)
+
+  Posição e fixação do processador
+
+  Verificar se o local de instalação do equipamento não está sujeito a condições
+
+  ambientais excessivas (temperatura, pressão, umidade, entre outros) e se os limites
+
+  de operação do equipamento são compatíveis com os limites ambientais onde será
+
+  instalado na aeronave.
+
+  Fixações da antena e dos equipamentos/componentes na aeronave utilizam o kit
+
+  fornecido pelo fabricante do equipamento DGPS ou similar de uso aeronáutico.
+
+  Verificar a localização e a fixação de relés e módulos de acoplamento, entre outros
+
+  e a independência das proteções/alimentações elétricas deles, conforme aplicável.
+
+  Posição e fixação dos placares de limitação no painel de instrumentos, em local
+
+  apropriado e visível para o piloto (listar abaixo os placares instalados)
+
+  Placares de limitação:
+
+  __________________________________________________________________
+
+  __________________________________________________________________
+
+  _______________________________________________________________
+
+  Posição e fixação dos placares de limitação no bagageiro em local apropriado (listar
+
+  abaixo os placares instalados)
+
+  Placares de limitação:
+
+  __________________________________________________________________
+
+  __________________________________________________________________
+
+  _______________________________________________________________
+
+  Posição, identificação, valores, conformidade com manuais e acesso das proteções
+
+  elétricas (disjuntores/fusíveis) (listar abaixo os placares instalados)
+
+  Placares de disjuntores/fusíveis (dizeres e capacidade de corrente):
+
+  __________________________________________________________________
+
+  __________________________________________________________________
+
+  _______________________________________________________________
+
+  Posições / identificações / valores / acessos dos comandos (chaves e botões de controle)
+
+  (listar abaixo os placares instalados)
+
+  Placares de comandos:
+
+  __________________________________________________________________
+
+  __________________________________________________________________
+
+  _______________________________________________________________
+
+  Posição da antena do DGPS em local apropriado e afastada de outras antenas por 3 [pés]
+
+  (aproximadamente 1,0 [m]), ou conforme recomendado pelo fabricante
+
+  Selagem da antena. A antena não deve ser pintada.
+
+  Cabos da antena afastados dos outros cabos/fiação (mínimo 8 cm ou 3 pol.)
+
+  Fios de alimentação e interface em bitola adequada e de qualidade aeronáutica
+
+  Folha 02 de 04
+
+  Alguns itens podem não ser aplicáveis
+
+  Exemplo de roteiro para ensaios e conformidade:Data de emissão: 24 de agosto de 2018. IS
+  nº 137-002
+
+  Revisão C
+
+  ENSAIOS Sat. Não Sat.
+
+  Procedimentos de inicialização/autoteste
+
+  Inicialização e interrupção do DGPS pelo comando da chave/botão de
+
+  ligar/desligar
+
+  Verificação de existência de interferência mútua entre DGPS e outros
+
+  equipamentos de bordo (Dentre os testes com outros equipamentos verificar as
+
+  frequências 121.150 /121.175 / 121.185 / 121.190 / 121.200 / 130.285 / 131.250 /
+
+  131.275 / 131.290 / 131.300MHz para todos os VHF-COMM existentes, durante
+
+  uma transmissão contínua de 35s).
+
+  Operação do equipamento DGPS não causa interferência nos demais sistemas da
+
+  aeronave (VHF, HF, VOR, DME, ADF, rádio altímetro e outros), nem sofre
+
+  interferências dos outros sistemas e do chaveamento de fontes elétricas (geradores,
+
+  alternadores).
+
+  Não é aceitável que o DGPS gere interferência em qualquer
+
+  sistema/equipamento de bordo.
+
+  Interrupção do funcionamento do DGPS na abertura/interrupção da proteção
+
+  elétrica (disjuntor/fusível), conforme aplicável.
+
+  Não há reflexos indesejáveis, as informações são legíveis, os comandos e proteções
+
+  elétricas são acessíveis e visíveis ao piloto.
+
+  CONFORMIDADE DA INSTALAÇÃO E DO FUNCIONAMENTO COM: Sat. Não Sat.
+
+  - IS 137-002.
+
+  - Manual do fabricante do DGPS.
+
+  - Métodos e as técnicas descritas na AC 43.13-2 .
+
+  - Manual de Operação do equipamento e das demais funcionalidades interligadas
+
+  (aspersão e pulverização). Completar a tabela:
+
+  Nome do manual Part Number (P/N) Nº Revisão Data
+
+  __/__/_______
+
+  __/__/_______
+
+  __/__/_______
+
+  Folha 03 de 04
+
+  Alguns itens podem não ser aplicáveis
+
+  COMENTÁRIOS E CONCLUSÕES
+
+  RESPONSABILIDADE TÉCNICA
+
+  Local da Inspeção/Ensaios:______________________________ UF:___ Data ____/_____/________
+
+  Cartão elaborado por:________________________________________ Data ____/_____/_________
+
+  Inspeção e Ensaios realizados por: ______________________________Data ____/_____/_________
+
+  Oficina: __________________________________________________ Data ____/_____/________
+
+  Folha 04 de 04Data de emissão: 24 de agosto de 2018. IS nº 137-002
+
+  Revisão C'
+keywords:
+- aeroagricola
+- operacoes
+- placares
+- dgps
+- ensaios
+- outros
+- data
+- equipamento
+- inspecao
+- posicao
+- aeronave
+- cartao
+- fixacao
+- instalacao
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-002.md

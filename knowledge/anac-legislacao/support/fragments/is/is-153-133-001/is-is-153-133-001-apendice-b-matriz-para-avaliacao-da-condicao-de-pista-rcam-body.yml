@@ -1,0 +1,157 @@
+id: is-is-153-133-001-apendice-b-matriz-para-avaliacao-da-condicao-de-pista-rcam-body
+kind: is
+document: is-153-133-001
+family: '153'
+section_id: apendice-b-matriz-para-avaliacao-da-condicao-de-pista-rcam
+section_title: APÊNDICE B - MATRIZ PARA AVALIAÇÃO DA CONDIÇÃO DE PISTA (RCAM)
+subsection_id: body
+cite: apendice-b-matriz-para-avaliacao-da-condicao-de-pista-rcam
+title: APÊNDICE B - MATRIZ PARA AVALIAÇÃO DA CONDIÇÃO DE PISTA (RCAM)
+text: 'APÊNDICE B - MATRIZ PARA AVALIAÇÃO DA CONDIÇÃO DE PISTA (RCAM)
+
+
+  Matriz de Avaliação de Condição de Pista - RCAM
+
+  Critérios de Avaliação da pista
+
+  Critérios de Degradação da Avaliação
+
+
+  RWYCC
+
+
+  Descrição da superfície da pista
+
+  Desaceleração da Aeronave ou descrição da superfície da pista
+
+
+  RBA
+
+  6
+
+  SECA (DRY)
+
+  -
+
+  -
+
+
+  5
+
+  GEADA (Frost)
+
+  MOLHADA (WET): a superfície da pista está coberta por qualquer umidade ou água com até 3
+  mm ou menos de profundidade e com nível de atrito acima do mínimo.
+
+
+  Até 3mm ou menos de profundidade:
+
+  LAMA ou NEVE SEMIDERRETIDA (SLUSH)
+
+  NEVE SECA (DRY SNOW)
+
+  NEVE ÚMIDA (WET SNOW)
+
+  A desaceleração de frenagem é normal para o esforço de frenagem aplicado pelas rodas E o
+  controle direcional é normal.
+
+  BOA (GOOD)
+
+
+  4
+
+  -15°C ou abaixo da temperatura externa:
+
+  NEVE COMPACTADA (COMPACT SNOW)
+
+  A desaceleração de frenagem OU o controle está entre Bom e Médio.
+
+  BOA PARA MÉDIO (GOOD TO MEDIUM)
+
+
+  3
+
+  MOLHADA (WET): “Pista escorregadia quando molhada”, isto é, a superfície da pista está coberta
+  por qualquer umidade visível ou água até 3 mm de profundidade, com nível de atrito abaixo
+  do mínimo.
+
+  NEVE SECA ou ÚMIDA SOBRE NEVE COMPACTADA (DRY SNOW OR WET SNOW ON TOP OF COMPACTED SNOW)
+
+
+  Mais de 3mm de profundidade:
+
+  NEVE SECA (DRY SNOW)
+
+  NEVE ÚMIDA (WET SNOW)
+
+
+  Temperatura do ar maior que -15°C:
+
+  NEVE COMPACTADA (COMPACTED SNOW)
+
+  A desaceleração de frenagem é perceptivelmente reduzida para o esforço de frenagem aplicado
+  pelas rodas OU o controle direcional é perceptivelmente reduzido.
+
+  MÉDIO (MEDIUM)
+
+
+  2
+
+  Mais de 3 mm de profundidade de água ou neve semiderretida:
+
+  Reportar a profundidade média da lâmina d’agua de cada terço.
+
+
+  ÁGUA EMPOÇADA (STRANDING WATER):
+
+  NEVE SEMIDERRETIDA (SLUSH)
+
+  A desaceleração de frenagem OU o controle direcional estão entre perceptivelmente e significativamente
+  reduzidos.
+
+  MÉDIO PARA RUIM (MEDIUM TO POOR)
+
+
+  1
+
+
+  GELO (ICE)
+
+  A desaceleração de frenagem OU o controle direcional estão entre perceptivelmente e significativamente
+  reduzidos.
+
+  RUIM (POOR)
+
+
+  0
+
+  GELO ÚMIDO (WET ICE)
+
+  ÁGUA SOBRE NEVE COMPACTADA (WATER ON TOP OF COMPACTED SNOW)
+
+  NEVE SECA SOBRE GELO (DRY SNOW ON TOP OF ICE)
+
+  A desaceleração de frenagem é mínima para o esforço de frenagem aplicado OU o controle direcional
+  é incerto.
+
+  MENOS DO QUE RUIM (LESS THAN POOR)'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- neve
+- snow
+- pista
+- frenagem
+- desaceleracao
+- agua
+- avaliacao
+- controle
+- profundidade
+- direcional
+- seca
+- compactada
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-133-001.md

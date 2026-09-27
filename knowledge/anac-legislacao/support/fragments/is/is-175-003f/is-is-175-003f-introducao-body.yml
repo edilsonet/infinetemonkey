@@ -1,0 +1,130 @@
+id: is-is-175-003f-introducao-body
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: body
+cite: introducao
+title: Introdução
+text: 'Introdução
+
+  Esta IS estabelece o CT-e, o CT-e Simplificado, o MDF-e e o DT-e adotados pela Agência Nacional
+  de Aviação Civil - Anac - a serem utilizados no transporte aéreo doméstico de cargas definindo
+  as diretrizes para o seu preenchimento.
+
+  A Anac padroniza e torna compulsória a utilização do CT-e e do MDF-e, instituídos nesta
+  IS, com a finalidade de evitar contratempos decorrentes de deficiências de dados e de informações
+  necessários ao acompanhamento dos bens transportados, bem como ao controle e à fiscalização
+  pela Agência.
+
+  O CT-e Simplificado pode, mediante decisão do operador aéreo, ser utilizado em substituição
+  ao CT-e.
+
+  Não é permitida a emissão do CT-e Simplificado para o transporte de cargas especiais (animais
+  vivos, produtos perecíveis, transporte de valores, restos mortais, dentre outros) e para
+  o transporte de artigos perigosos por via aérea.
+
+  Deve ser dada especial atenção ao preenchimento completo e adequado dos documentos, uma
+  vez que os dados ali constantes são partes essenciais no contexto do embarque, trânsito
+  e desembarque da carga.
+
+  As disposições constantes nesta IS estão limitadas às informações de competência da Anac.
+  Informações solicitadas por outros Órgãos e/ou Entidades da Administração Pública devem
+  constar no CT-e, no CT-e Simplificado, no MDF-e ou no DT-e, de acordo com regulamentação
+  específica daqueles Órgãos e/ou Entidades.
+
+  Do Conhecimento de Transporte eletrônico - CT-e e do Conhecimento de Transporte eletrônico
+  Simplificado - CT-e Simplificado
+
+  O CT-e foi desenvolvido, de forma integrada, pelas Secretarias da Fazenda dos Estados -
+  SEFAZ -, pela Receita Federal do Brasil, pela Superintendência da Zona Franca de Manaus
+  - SUFRAMA -, pelos representantes das transportadoras e pelas Agências Reguladoras do segmento
+  de transporte, dentre elas a Anac.
+
+  O CT-e do modo aéreo substituiu o modelo de conhecimento aéreo doméstico tradicionalmente
+  emitido em papel, aumentando a confiança, controle e fiscalização do transporte aéreo de
+  carga, especialmente no transporte aéreo de artigos perigosos.
+
+  O CT-e Simplificado foi criado com objetivo de otimizar e agilizar a emissão de documentos
+  fiscais que possuam diversos remetentes ou destinatários, quando passa a ser permitida a
+  emissão de um único documento para acobertar o transporte de um único tomador de serviço.
+
+  A Anac adota os modelos eletrônicos e padronizados do CT-e e do CT-e Simplificado do modo
+  aéreo como documentos legais que evidenciam o contrato de transporte aéreo doméstico de
+  acordo com o CBA.
+
+  Conforme determina o CBA e para fins das atribuições da Anac, o CT-e deve ser emitido pelos
+  operadores aéreos regidos pelos RBAC nº 121 e 135 ou por outros operadores aéreos que transportem
+  carga, mala postal ou encomenda, mediante pagamento, por meio de aeronave.
+
+  Conforme determina o parágrafo 175.263(a) do RBAC nº 175, o conhecimento aéreo, tratado
+  nesta IS como CT-e, deve ser emitido em todo transporte de company material - COMAT - ou
+  aircraft on ground - AOG - que seja classificado como artigo perigoso.
+
+  De acordo com suas atribuições legais, outros Órgãos da Administração Pública podem determinar
+  ou permitir que outras empresas, reguladas ou não pela Anac, emitam o CT-e ou o CT-e Simplificado
+  para o modo aéreo. No entanto, esse documento não possui validade perante esta IS, devendo
+  o CT-e ou o CT-e Simplificado serem emitidos pelo operador aéreo.
+
+  O operador aéreo deve emitir o CT-e ou o CT-e Simplificado de acordo com o disposto nesta
+  IS e no Manual de Orientações do Contribuinte - MOC - do CT-e, publicado pelo Encontro Nacional
+  de Coordenadores e Administradores Tributários Estaduais - ENCAT - e disponível no endereço
+  eletrônico www.cte.fazenda.gov.br.
+
+  O operador aéreo deve emitir o CT-e ou CT-e Simplificado com base nas informações apresentadas
+  pelo embarcador presentes em todos documentos que acompanham a carga, principalmente nas
+  notas fiscais e nos documentos relacionados às cargas especiais.
+
+  A emissão do CT-e ou do CT-e Simplificado para o modo aéreo baseada apenas no CT-e ou CT-e
+  Simplificado anterior ao modo aéreo pode gerar ausência de informações obrigatórias, acarretando
+  riscos à segurança do voo.
+
+  Por decisão e responsabilidade do operador aéreo, o embarcador poderá informar eletronicamente
+  os dados referentes à carga e ao transporte para que o operador aéreo emita o CT-e ou o
+  CT-e Simplificado. O operador aéreo deverá, nesse caso, prover ao embarcador todas as ferramentas
+  necessárias.
+
+  É de responsabilidade do operador aéreo verificar se os dados informados eletronicamente
+  pelo embarcador estão de acordo com os demais documentos que acompanham a carga antes da
+  emissão do CT-e ou do CT-e Simplificado.
+
+  É de responsabilidade do operador aéreo verificar se os dados informados eletronicamente
+  pelo embarcador estão completos conforme determina esta IS, antes da emissão do CT-e ou
+  do CT-e Simplificado.
+
+  O embarcador deve obedecer aos demais regulamentos aplicáveis ao transporte e observar,
+  em especial, as regras relativas ao transporte aéreo de artigos perigosos.
+
+  Para acobertar a prestação de serviço de transporte aéreo doméstico pode ser impressa uma
+  representação gráfica simplificada do CT-e ou do CT-e Simplificado, intitulada Documento
+  Auxiliar do Conhecimento de Transporte Eletrônico - DACTE -, em papel comum conforme determina
+  o MOC do CT-e (ou documento equivalente para o CT-e Simplificado).
+
+  O DACTE poderá também ser apresentado em meio eletrônico, seguindo a disposição gráfica
+  especificada no MOC do CT-e (ou documento equivalente para o CT-e Simplificado)o, desde
+  que tenha sido emitido o MDF-e de acordo com os itens 5.4 e 5.5 desta IS.
+
+  Caso o operador aéreo opte por não imprimir o DACTE nos termos do item 5.2.16, este deverá
+  garantir que haja rastreabilidade entre cada volume ou sobreembalagem e os seus respectivos
+  CT-e, CT-e Simplificados e DACTE do modal aéreo. Isso pode ser realizado por diversos meios,
+  como, por exemplo:'
+keywords:
+- artigos-perigosos
+- carga
+- aereo
+- simplificado
+- transporte
+- operador
+- acordo
+- documentos
+- embarcador
+- emissao
+- conhecimento
+- dados
+- documento
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

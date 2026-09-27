@@ -1,0 +1,34 @@
+id: rbac-rbac-38-aprovacao-body
+kind: rbac
+document: rbac-38
+family: '38'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 501, de 12.12.2018
+
+  Resolução nº 662, de 03.02.2022
+
+  Resolução nº 760, de 27.11.2024
+
+  SAR
+
+  Data de emissão:
+
+  02.12.2024'
+keywords:
+- ice-protection
+- aeronavegabilidade
+- aprovacao
+- resolucao
+- data
+- emissao
+categories:
+- ice-protection
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-38.md

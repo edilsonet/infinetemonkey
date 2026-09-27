@@ -1,0 +1,243 @@
+id: is-is-117-004-fundamentos-body
+kind: is
+document: is-117-004
+family: '117'
+section_id: fundamentos
+section_title: Fundamentos
+subsection_id: body
+cite: fundamentos
+title: Fundamentos
+text: 'Fundamentos
+
+  3.1. A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar
+  - IS, norma suplementar de caráter geral editada pelo Superintendente da área competente,
+  objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC ou
+  RBHA.
+
+  3.2. O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de
+  requisito previsto em RBAC ou RBHA, poderá:
+
+  a. adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b. apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse
+  caso, a análise e concordância expressa do órgão competente da ANAC.
+
+  3.3. O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  3.4. A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC
+  ou outro ato normativo.
+
+  Definições, Acrônimos e Referências
+
+  4.1. Acrônimos
+
+  Para os efeitos desta IS, são válidos os acrônimos da IS nº 117-003, além dos abaixo especificados:
+
+  a. FDA: Flight Data Analysis (Programa de análise de dados de voo)
+
+  b. FOQA: Flight Operational Quality Assurance
+
+  c. GAGEF: Grupo de Ação de Gerenciamento da Fadiga
+
+  d. GRF: Gerenciamento de Risco da Fadiga
+
+  e. MAC: Método Alternativo de Cumprimento
+
+  f. RCA: Análise de Causa
+
+  g. SGRF: Sistema de Gerenciamento de Risco da Fadiga
+
+  h. SGSO: Sistema de Gerenciamento de Segurança Operacional
+
+  i. SPI: Safety Performance Indicator (indicator)
+
+  4.2. Definições
+
+  Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01, no RBAC nº
+  117, na IS nº 119-004 e na IS nº 00-002, além das abaixo (*definições extraídas da IS nº
+  119-002):
+
+  a. actígrafo ou actímetro significa um aparelho similar a um relógio de pulso que contém
+  um acelerômetro que detecta movimento. As contagens de atividades são gravadas por unidade
+  de tempo (por exemplo, por minuto). Os padrões de movimento podem ser analisados por meio
+  de software para estimar quando a pessoa estava dormindo, fornecendo alguma estimativa de
+  quão descansada ela está ou estava (isto é, qual foi a qualidade do sono). Actígrafos são
+  feitos para gravar de forma contínua durante semanas, por isso são úteis no monitoramento
+  dos padrões de sono, por exemplo, antes, durante e depois de um tipo de programação;
+
+  b. controles significam as estratégias defensivas sistêmicas projetadas para minimizar o
+  risco da fadiga de forma contínua;
+
+  c. dados:
+
+  i. dados significam as medidas de sono, desempenho e alerta coletadas de forma rotineira
+  ou planejada. Outras fontes de dados incluem relatórios de fadiga dos membros da tripulação,
+  relatórios de eventos relacionados à fadiga, ações tomadas pelo detentor de certificado
+  para mitigar eventos futuros de fadiga e monitoramento contínuo de indicadores de desempenho
+  para determinar a eficácia geral do SGRF;
+
+  ii. coleta de dados significa a aplicação de metodologia científica projetada para adquirir
+  as informações (dados) durante operações de voo, necessárias para comparações entre grupos,
+  entre condições ou ao longo do tempo para avaliar os níveis relativos de fadiga experimentados
+  pelos tripulantes de voo, tanto antes das operações do SGRF quanto após as operações do
+  SGRF, combinadas com estratégias de mitigação;
+
+  iii. pacote de dados significa a descrição dos métodos de coleta de dados, a compilação
+  dos dados coletados, os resultados da análise dos dados com comparações entre grupos, entre
+  condições ou ao longo do tempo e os procedimentos de operações do SGRF que são construídos
+  para suportar os resultados da análise de dados para aprovações do SGRF e monitoramento
+  contínuo;
+
+  d. estudo da operação específica significa a pesquisa realizada para estabelecer se o SGRF
+  relativo a uma operação específica é um método alternativo de cumprimento (MAC) eficaz.
+  O estudo da operação específica pode depender de um teste empírico, e deve ser conduzido
+  de forma metódica, sob regras explícitas que possam ser replicadas, não se tratando, portanto,
+  de um documento que contenha opiniões e crenças sobre fatos. Ele deve basear-se em dados,
+  princípios científicos e experiência operacional. Deve ser conduzido ou orientado por pessoas
+  com conhecimento público e notório na área estudada, considerados especialistas, que podem
+  ser funcionários do próprio operador ou pessoas externas (contratadas). O estudo da operação
+  específica deve ser assinado pelo(s) especialista(s) que o produziram. Abaixo estão relacionados
+  os componentes de um estudo da operação específica:
+
+  i. uma breve revisão de literatura sobre o assunto;
+
+  ii. a definição dos objetivos ou metas do estudo (vide itens 11.2.4.a, 11.2.4.b e 11.2.4.c);
+
+  iii. a descrição dos métodos de coleta de dados (vide item 11.2.4.g);
+
+  iv. os grupos ou condições que serão estudados e comparados (vide item 11.2.4.g);
+
+  v. as medições a serem feitas, bem como a frequência e o tempo dessas medições (vide item
+  11.2.4.g);
+
+  vi. os tripulantes a serem estudados (vide item 11.2.4.g);
+
+  vii. o prazo da coleta de dados (vide item 11.2.4.g);
+
+  viii. os métodos de análise, os critérios a serem aplicados para avaliar os resultados relativos
+  às metas ou objetivos do estudo e a abordagem proposta (vide item 11.2.4.h);
+
+  e. evento de segurança operacional significa acidente, incidente grave, incidente, ocorrência
+  de solo, ocorrência anormal ou qualquer situação de risco que cause ou tenha o potencial
+  de causar dano, lesão ou ameaça à viabilidade da operação aeroportuária ou aérea (definição
+  da Anacpédia; vide a NSCA 3-13 do Comando da Aeronáutica);
+
+  f. gerente de SGRF significa a pessoa física indicada pelo detentor de certificado, dentre
+  seus empregados, que é responsável pela implementação, gerenciamento e eficácia contínua
+  no dia a dia do SGRF. O gerente de SGRF pode acumular funções na empresa, desde que o acúmulo
+  não prejudique o desempenho e envolvimento esperado nas tarefas;
+
+  g. grupo de ação de gerenciamento da fadiga (GAGEF) significa o grupo, composto de representantes
+  de todos os envolvidos nas ações de gerenciamento da fadiga, que é responsável por coordenar
+  as atividades de gerenciamento da fadiga na organização. A implantação e a atualização do
+  Sistema de Gerenciamento de Risco da Fadiga devem ser acompanhadas pelo sindicato da categoria
+  profissional;
+
+  h. mitigações significam as intervenções no sistema destinadas a reduzir um risco específico
+  de fadiga apropriadamente identificado;
+
+  i. modelo biomatemático significa um programa de computador desenhado para predizer aspectos
+  da escala que podem gerar um aumento do risco da fadiga de uma pessoa, baseado no entendimento
+  científico dos fatores que contribuem para a fadiga. Modelos biomatemáticos são uma ferramenta
+  opcional para a identificação preditiva de perigos de fadiga dentro de um SGRF. Há vários
+  modelos comercializados, com algumas diferenças entre eles. Todos têm limitações, as quais
+  devem ser levadas em conta para uso apropriado na análise de risco;
+
+  j. operação específica significa uma operação que utilize limites diferentes dos estipulados
+  na Lei nº 13.475, de 28 de agosto de 2017, ou dos Apêndices B ou C do RBAC nº 117. Correspondente
+  à expressão safety case utilizada internacionalmente;
+
+  k. perigo* significa uma condição, objeto ou atividade que potencialmente pode causar lesões
+  às pessoas, danos a bens (equipamentos ou estruturas), redução de efetivo ou redução da
+  habilidade para desempenhar uma função determinada;
+
+  l. pessoas relevantes significam as pessoas envolvidas na operação cujo conhecimento no
+  gerenciamento do risco da fadiga seja importante para o funcionamento ótimo do SGRF na organização.
+  São exemplos: os tripulantes, o pessoal da escala, os gestores (gerentes operacionais e
+  os executivos que tomam decisões), os membros do GAGEF, a equipe do SGSO e outras pessoas
+  que, direta ou indiretamente, o operador entenda como participantes nos processos de SGRF;
+
+  m. polissonografia significa um exame médico considerado “padrão-ouro” para avaliar a qualidade
+  do sono. Avalia a latência para início do sono, sua duração total, o número de despertares,
+  duração dos estágios e eficiência do sono, diferenciando a percepção errônea do sono e outros
+  distúrbios como apneia obstrutiva do sono e síndrome das pernas inquietas;
+
+  n. probabilidade* significa a possibilidade de que um evento ou uma situação insegura possa
+  ocorrer;
+
+  o. processos de gerenciamento de risco da fadiga (GRF) significam os processos relacionados
+  ao GRF que são uma parte das operações diárias do SGRF. Eles são projetados para permitir
+  que o detentor de certificado atinja os objetivos de segurança definidos em sua política
+  de SGRF e são gerenciados pelo GAGEF;
+
+  p. processos de garantia da segurança operacional (GSO) significam os processos da relacionados
+  ao GSO que monitoram todo o SGRF para verificar se está funcionando conforme o planejado
+  e se atendem aos objetivos de segurança na política e nos requisitos regulamentares do SGRF.
+  Os processos de GSO também identificam mudanças operacionais e organizacionais que podem
+  afetar o SGRF e identificam áreas onde o desempenho de segurança do SGRF pode ser aprimorado
+  (melhoria contínua);
+
+  q. teste de vigilância psicomotora (Psychomotor Vigilance Test) ou PVT significa um teste
+  neurobiológico que avalia objetivamente (por meio do tempo de reação) as mudanças no estado
+  de alerta gerados pela fadiga, como perda de sono, vigília estendida, desajustes circadianos
+  e tempo na tarefa;
+
+  r. risco* significa a avaliação das consequências de um perigo, expressa em termos de probabilidade
+  e severidade, tomando como referência a pior condição possível;
+
+  s. segurança operacional:
+
+  i. desempenho da segurança operacional significa o nível de segurança alcançado em um ambiente
+  controlado por risco, medido (por SPI) contra um nível de segurança considerado tão baixo
+  quanto razoavelmente possível (metas dos SPI);
+
+  ii. indicador de segurança operacional (SPI) significa um parâmetro (indicador) baseado
+  em dados para monitorar ou avaliar o desempenho da segurança operacional;
+
+  t. severidade* significa as possíveis consequências de um evento ou de uma situação insegura,
+  tomando como referência a pior condição previsível;
+
+  u. trabalho em turno significa um padrão de trabalho em que a pessoa deve estar acordada
+  em um período em que normalmente estaria dormindo.
+
+  4.3. Referências
+
+  a. ANAC (2019). Regulamento Brasileiro de Aviação Civil nº 117 (RBAC nº 117). Requisitos
+  para gerenciamento de risco da fadiga.
+
+  b. ANAC (2012). INSTRUÇÃO SUPLEMENTAR - IS nº 119-002 Revisão D. Guia para elaboração de
+  SGSO de empresa aérea certificada de acordo com o RBAC nº 119.
+
+  c. CASA (2013). CAO 48.1. Civil Aviation Order 48.1 Instrument 2013.
+
+  d. CASA (2013). Fatigue Risk Management System Handbook. Versão 1.
+
+  e. FAA (2013). AC 120-103A. Fatigue Risk Management Systems for Aviation Safety.
+
+  f. ICAO (2018). DOC 9859. Safety Management Manual (SMM). 4ª edição.
+
+  g. ICAO (2016). DOC 9966. Manual for the oversight of Fatigue Management Approaches. 2ª
+  edição.'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- sgrf
+- significa
+- dados
+- risco
+- seguranca
+- gerenciamento
+- operacao
+- sono
+- operacional
+- vide
+- analise
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-117-004.md

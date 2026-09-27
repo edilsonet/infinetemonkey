@@ -1,0 +1,75 @@
+id: is-is-119-002-apendice-r-ou-i-fases-de-implantacao-do-sistema-de-gerenciamento-da-seguranca-operacional-do-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: apendice-r-ou-i-fases-de-implantacao-do-sistema-de-gerenciamento-da-seguranca-operacional-do
+section_title: Apêndice R ou I - Fases de implantação do sistema de gerenciamento da segurança
+  operacional do
+subsection_id: body
+cite: apendice-r-ou-i-fases-de-implantacao-do-sistema-de-gerenciamento-da-seguranca-operacional-do
+title: Apêndice R ou I - Fases de implantação do sistema de gerenciamento da segurança operacional
+  do
+text: 'Apêndice R ou I - Fases de implantação do sistema de gerenciamento da segurança operacional
+  do
+
+  RBAC 121 ou do RBAC 135. A representação desse planejamento em um cronograma, contendo os
+
+  responsáveis pelas ações, facilita a visualização dos compromissos assumidos para a adequação
+  da
+
+  estrutura organizacional e seus processos e procedimentos aos requisitos, bem como os prazos
+
+  estabelecidos para essa adequação.
+
+  Assim, o planejamento da segurança operacional do gestor responsável, a partir da incorporação
+
+  gradual dos componentes e elementos do SGSO estabelecidos nos RBACs 121 ou 135 vai permitir
+
+  a definição de uma série de passos ou etapas administráveis para a efetiva implantação do
+  SGSO,
+
+  estabelecendo os responsáveis por cada ação proposta neste planejamento.
+
+  4.4 COMPONENTES DO SGSO A SEREM IMPLANTADOS
+
+  O <Diretor ou Gerente> de Segurança Operacional deve apresentar para cada
+
+  componente/elemento definido para a estrutura do SGSO adotado pela ANAC, os principais pontos
+
+  analisados e as principais conclusões sobre o que já está implantado e funcionando, o que
+  precisa
+
+  ser melhorado ou está ausente, a partir da análise do faltante.
+
+  Estas informações e análises servirão, inicialmente, para o planejamento das fases de implantação,
+
+  de acordo com os requisitos estabelecidos no Apêndice R do RBAC 121 ou Apêndice I do RBAC
+  135.
+
+  A seguir são apresentados comentários sobre cada um dos componentes que deve fazer parte
+  do
+
+  SGSO do Detentor de Certificado, de forma a auxiliar na elaboração do plano e na verificação
+  da
+
+  adequabilidade da proposta aos requisitos estabelecidos.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- apendice
+- implantacao
+- operacional
+- seguranca
+- sgso
+- estabelecidos
+- fases
+- planejamento
+- cada
+- componentes
+- gerenciamento
+- requisitos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

@@ -1,0 +1,50 @@
+id: is-is-153-001-7-4-1-f
+kind: is
+document: is-153-001
+family: '153'
+section_id: 7.4.1
+section_title: 'O parágrafo 153.109(b) do RBAC nº 153 preleciona que o SOCMS é composto por
+  pelo menos os seguintes elementos:'
+subsection_id: f
+cite: 7.4.1(f)
+title: 7.4.1(f)
+text: 'f) operações em baixa visibilidade, quando aplicável.
+
+  7.4.2 Nas Seções seguintes são detalhados os requisitos e particularidades de cada um desses
+  elementos que compõem o SOCMS. Tais elementos se encontram dispostos nas Seções 153.111
+  a 153.119 e 153.131 do RBAC nº 153 e podem ser tratados como elementos do SOCMS ou de maneira
+  individualizada nos aeródromos que não tiverem o SOCMS implementado.
+
+  7.4.3 Ainda que não sejam considerados elementos do SOCMS, as Seções 153.121 a 153.129 do
+  RBAC nº 153, que tratam de estacionamento, abordagem, abastecimento e liberação da aeronave,
+  bem como processamento de passageiros, carga e mala postal, estão diretamente relacionados
+  com a orientação, controle e movimentação em solo e, portanto, devem ser considerados quando
+  da modelagem e implementação do SOCMS pelo operador de aeródromo, atendendo aos requisitos
+  dispostos nesta Instrução Suplementar.
+
+  7.5 Acordo operacional
+
+  7.5.1 O parágrafo 153.109(d) do RBAC nº 153 estabelece que o operador de aeródromo e o órgão
+  ATS devem estabelecer acordo operacional, o qual conterá os procedimentos necessários para
+  um fluxo ordenado de aeronaves, veículos, equipamentos e pessoas na área de movimento, indicando
+  a responsabilidade de cada um dos entes envolvidos.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- socms
+- elementos
+- secoes
+- acordo
+- aerodromo
+- cada
+- considerados
+- dispostos
+- operacional
+- operador
+- paragrafo
+- requisitos
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-001.md

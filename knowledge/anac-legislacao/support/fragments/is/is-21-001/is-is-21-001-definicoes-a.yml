@@ -1,0 +1,42 @@
+id: is-is-21-001-definicoes-a
+kind: is
+document: is-21-001
+family: '21'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: a
+cite: definicoes(a)
+title: definicoes(a)
+text: a) Desenhos e especificações do produto. São as informações necessárias para caracterizar
+  o produto (incluindo sua configuração). Tais características são aquelas sujeitas ao cumprimento
+  com a base de certificação. Essas informações são aquelas relativas a formatos, dimensões,
+  funcionalidades, materiais, interfaces e meios de fabricação. Adicionalmente, incluem agrupamentos
+  lógicos (listagens) de registros (por exemplo, desenhos, especificações, modelos etc.) que
+  contenham tais informações técnicas. É interessante destacar que o projeto de tipo consiste
+  nessas informações e não o documento que as contém, sendo que a forma é de livre escolha
+  pelo requerente (no caso de desenhos, por exemplo, podem estar em formato 2D, 3D ou como
+  modelos interativos). Porém, a ANAC espera que essas informações sejam claras e compatíveis
+  entre si, e que estejam adequadamente organizadas e estruturadas, pois isso facilita seu
+  exame
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- informacoes
+- desenhos
+- aquelas
+- definicoes
+- especificacoes
+- essas
+- exemplo
+- modelos
+- produto
+- tais
+- adequadamente
+- adicionalmente
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

@@ -1,0 +1,69 @@
+id: is-is-120-016-c2-1-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: C2.1
+section_title: De acordo com a esta seção, após 20 de dezembro de 2012, todos os operadores
+  sob o RBAC nº 121 passaram a ter que incluir as inspeções de tolerância ao dano dos reparos
+  e modificações (Damage Tolerance Inspections - DTI) no Programa de Manutenção das Aeronaves
+  - PMA.
+subsection_id: body
+cite: C2.1
+title: De acordo com a esta seção, após 20 de dezembro de 2012, todos os operadores sob o
+  RBAC nº 121 passaram a ter que incluir as inspeções de tolerância ao dano dos reparos e
+  modificações (Damage Tolerance Inspections - DTI) no Programa de Manutenção das Aeronaves
+  - PMA.
+text: 'C2.1 De acordo com a esta seção, após 20 de dezembro de 2012, todos os operadores sob
+  o RBAC nº 121 passaram a ter que incluir as inspeções de tolerância ao dano dos reparos
+  e modificações (Damage Tolerance Inspections - DTI) no Programa de Manutenção das Aeronaves
+  - PMA.
+
+  C2.2. Para incluir essas inspeções no PMA, as empresas devem realizar uma inspeção prévia
+  na aeronave para mapear, analisar e classificar esses reparos e modificações, e com o suporte
+  do fabricante, determinar as inspeções de tolerância ao dano que afetam as estruturas críticas
+  a fadiga.
+
+  C2.3. O RBAC nº 26 (ou o equivalente constante da base de certificação no país de origem)
+  requer que os fabricantes publiquem um Guia de Avaliação de Reparos (Repair Evaluation Guidelines
+  - REG) para dar suporte aos operadores no cumprimento da seção 121.1109. Esses Guias fornecem
+  instruções para o operador sobre como inspecionar os aviões, como obter DTIs, e um cronograma
+  de implementação que fornece prazos para essas ações. A FAA solicitou a todos os fabricantes
+  que têm aeronaves operando no estado norte americano que enviassem até 30 de dezembro de
+  2009 esses guias para aprovação da autoridade.
+
+  C2.4. A AC 120-93, da FAA, traz o entendimento que o cumprimento do requisito se inicia
+  com a aprovação por parte da autoridade de aviação civil do PIO. O PIO é um documento elaborado
+  pelo operador e aprovado pela autoridade, que tem no conteúdo o método, datas e planejamento
+  da empresa para concluir o processo de incorporação das DTIs no programa de manutenção.
+
+  C3. Abertura de processo
+
+  C3.1. O Plano de Implementação do Operador, por definição da AC 120-93, faz parte do programa
+  de manutenção e por isso deve ser aprovado. Sendo parte do PMA, caso já possua Programa
+  Aprovado e ainda não esteja cumprindo a seção 121.1109, o operador deve abrir processo na
+  ANAC de “Revisão de Programa de Manutenção” e incluir o texto do PIO em capítulo anexo para
+  não alterar o formato padrão do PMA. O andamento do processo será como o processo comum
+  de revisão de PMA. Caso seja certificação inicial, o operador já deve incorporar as mesmas
+  exigências já na revisão original.
+
+  C4. Conteúdo do PIO'
+keywords:
+- antidrogas
+- saude
+- programa
+- manutencao
+- incluir
+- inspecoes
+- operador
+- processo
+- reparos
+- secao
+- aeronaves
+- dano
+- dezembro
+- modificacoes
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

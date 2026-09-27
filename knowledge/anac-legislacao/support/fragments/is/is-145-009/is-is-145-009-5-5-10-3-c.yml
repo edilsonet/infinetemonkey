@@ -1,0 +1,56 @@
+id: is-is-145-009-5-5-10-3-c
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.10.3
+section_title: 'Dados utilizados: os dados técnicos utilizados pela OM podem incluir as seguintes
+  informações:'
+subsection_id: c
+cite: 5.5.10.3(c)
+title: 5.5.10.3(c)
+text: 'c) Dados de engenharia (tais como dados aprovados por um Representante Credenciado
+  de Engenharia ou dados desenvolvidos pela OM e aprovados pela ANAC).
+
+  5.5.10.4 Disponibilidade dos dados técnicos: os dados usados pela OM para executar a manutenção
+  devem estar atualizados e disponíveis para uso pelo pessoal da manutenção e inspeção, especificamente
+  quando a manutenção estiver sendo executada. Isso significa que os dados técnicos têm de
+  estar disponíveis e atualizados no momento em que o serviço de manutenção é executado no
+  artigo. O status de atualização dos manuais pode ser verificado através de consultas periódicas
+  ao fabricante, por exemplo, via website. Os dados técnicos de aeronaves operando sob os
+  RBAC nº 121 e 135 devem ser obtidos do operador (contratante), pois em algumas situações
+  os fabricantes liberam acesso aos manuais atualizados somente aos operadores. Geralmente,
+  esse acesso disponibilizado pelo fabricante ao operador leva em consideração os modelos
+  e seriais das aeronaves da frota desse operador. No caso de OM que atendem as aeronaves
+  de operadores sob o RBAC nº 91, ou seus componentes, é comum essas OM possuírem contratos
+  de atualização de manuais (assinatura) com os fabricantes, inclusive dos componentes, para
+  ter acesso aos manuais de revisão, como representantes das marcas. Os procedimentos devem
+  assegurar que alguém na OM é responsável por manter os dados técnicos atualizados. Os procedimentos
+  devem assegurar que todas as assinaturas para a disponibilização dos dados técnicos requeridos
+  sejam renovadas, conforme necessário. O procedimento deve descrever como o dado técnico
+  revisado será inserido no documento pertinente, e como a pessoa responsável por incorporar
+  as revisões nos documentos pertinentes será notificada sobre as revisões.
+
+  5.5.10.5 Procedimentos para controle dos documentos: em algumas OM, os dados técnicos (tais
+  como ordens de engenharia, STC, etc.) são emitidos em forma de documentos controlados. Procedimentos
+  para essas OM necessitam de uma completa descrição do sistema de controle de documentos,
+  incluindo a distribuição, a responsabilidade e a disponibilização. Os procedimentos para
+  controle de documentos podem incluir:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- dados
+- tecnicos
+- documentos
+- procedimentos
+- atualizados
+- manuais
+- acesso
+- aeronaves
+- controle
+- engenharia
+- operador
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

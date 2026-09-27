@@ -42,41 +42,22 @@ text: '153.53
   Data da emissão: 15 de março de 2021
 
 
-  SUBPARTE C - SISTEMA DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL (SGSO)
-
-  Requisitos
-
-  Descrição
-
-  Aeródromos
-
-  OBS
-
-  Classe I
-
-  Classe II
-
-  Classe III
-
-  Classe IV
-
-  Tipo A
-
-  Tipo B'
+  SUBPARTE C - SISTEMA DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL (SGSO)'
 keywords:
 - aerodromos
 - operacao-aeroportuaria
 - obrigatorio
-- classe
 - exigido
 - operacional
 - seguranca
-- tipo
 - comissao
 - data
-- descricao
 - emissao
 - gerenciamento
+- marco
+- objetivos
+- politica
+- sgso
 categories:
 - aerodromos
 - operacao-aeroportuaria

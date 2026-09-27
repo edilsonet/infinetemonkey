@@ -1,0 +1,48 @@
+id: is-is-61-001-5-2-3-d
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.2.3
+section_title: 'A seguir aparecerá uma tela, conforme mostrada na Figura 2, na qual devem
+  ser observadas as orientações dadas na sequência para lançamento de cada voo:'
+subsection_id: d
+cite: 5.2.3(d)
+title: 5.2.3(d)
+text: 'd) Observações: campo de texto livre e opcional para observações que julgar necessárias
+  (sobrevoo, TGL, etc.). Os endossos previstos no RBAC nº 61 devem obrigatoriamente ser escritos
+  pelo instrutor de voo neste campo em texto similar ao descrito na IS nº 61-006.
+
+  Para os voos de instrução, a etapa de instrução relacionada ao voo realizado, conforme Programa
+  de Instrução ou Programa de Treinamento aprovados devem ser registrados nesse campo conforme
+  o seguinte padrão: “Etapa x (identificação da etapa do treinamento, conforme descrição constante
+  do Programa de Instrução ou Programa de Treinamento) do Treinamento de y (por exemplo: concessão
+  de PP, concessão PC, concessão habilitação MLTE, concessão habilitação HMNC), conforme estabelecido
+  no Programa de Instrução ou Programa de Treinamento z (identificação do Programa de Instrução
+  ou Programa de Treinamento) aprovado pela ANAC”.
+
+  Para os casos em que seja possível o treinamento por PC ou PLA devidamente habilitado na
+  aeronave, o registro deve seguir o seguinte padrão: ““Etapa x (identificação da etapa do
+  treinamento) do Treinamento de y (por exemplo: concessão de PC, concessão de habilitação
+  de Tipo, renovação de habilitação de Tipo”;'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- treinamento
+- programa
+- concessao
+- instrucao
+- etapa
+- habilitacao
+- campo
+- identificacao
+- exemplo
+- observacoes
+- padrao
+- seguinte
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

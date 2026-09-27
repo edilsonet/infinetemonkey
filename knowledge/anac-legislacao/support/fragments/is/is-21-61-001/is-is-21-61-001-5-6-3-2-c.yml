@@ -1,0 +1,72 @@
+id: is-is-21-61-001-5-6-3-2-c
+kind: is
+document: is-21-61-001
+family: '21'
+section_id: 5.6.3.2
+section_title: 'Examples of minor changes to FCD are those that:'
+subsection_id: c
+cite: 5.6.3.2(c)
+title: 5.6.3.2(c)
+text: 'c) do not change the intent of the OSD document, e.g. changes to:
+
+  I- títulos, numeração, formatação, aplicabilidade;
+
+  I- titles, numbering, formatting, applicability;
+
+  II- ordem, sequência, paginação; ou
+
+  II- order, sequence, pagination; or
+
+  III- esboços, figuras, unidades de medida e correção de erros editoriais tais como de ortografia
+  ou números de referência.
+
+  III- sketches, figures, units of measurement, and correction of editorial mistakes such
+  as spelling or reference numbers.
+
+  5.6.3.3 Para determinar se uma modificação de projeto de tipo tem efeito apreciável nos
+  FCD, uma análise deve ser realizada para avaliar o impacto da modificação no FCD por meio
+  da alocação de níveis de diferença utilizando tabelas de DR conforme a seção C.3 do Apêndice
+  C. Nesse caso, a aeronave base é a aeronave sem a modificação de projeto de tipo, enquanto
+  a aeronave candidata é a aeronave que inclui a modificação de projeto de tipo.
+
+  5.6.3.3 In order to determine if a type design change has appreciable effect to FCD, an
+  analysis should be performed to assess the change impact on the FCD through the allocation
+  of difference levels utilizing DR tables as per section C.3 of Appendix C. In this case,
+  the base aircraft is the aircraft without the type design change, whereas the candidate
+  aircraft is the aircraft which includes the type design change.
+
+  5.6.3.4 Se uma diferença de no máximo nível B for atribuída em termos de treinamento, exame
+  e experiência recente para a aeronave candidata, a modificação relacionada aos FCD deve
+  ser classificada como pequena modificação, exceto se um teste T1 ou T2 for considerado necessário
+  pelo requerente para confirmar que a aeronave com a modificação ao projeto de tipo não é
+  um novo tipo para habilitação de tipo de piloto. Se uma diferença de nível C, D ou E para
+  treinamento, exame ou experiência recente for atribuída à aeronave candidata, a modificação
+  relacionada aos FCD deve ser classificada como grande modificação.
+
+  5.6.3.4 If a no more than level B difference is assigned for training, checking and currency
+  for the candidate aircraft, the related change to FCD should be classified as minor, except
+  if a T1 or T2 test is found necessary by the applicant to confirm that the aircraft with
+  the type design change is not a new type for pilot type rating. If a difference level C,
+  D or E for training, checking or currency is assigned to the candidate aircraft, the related
+  FCD change should be classified as major.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- change
+- aeronave
+- aircraft
+- tipo
+- type
+- design
+- candidata
+- candidate
+- diferenca
+- difference
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-001.md

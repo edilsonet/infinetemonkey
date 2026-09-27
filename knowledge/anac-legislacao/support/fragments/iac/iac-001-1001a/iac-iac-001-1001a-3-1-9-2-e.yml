@@ -1,0 +1,33 @@
+id: iac-iac-001-1001a-3-1-9-2-e
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 3.1.9.2
+section_title: O plano seguirá as prescrições estabelecidas pelo Instituto de Aviação Civil.
+subsection_id: e
+cite: 3.1.9.2(e)
+title: 3.1.9.2(e)
+text: 'e) a transcrição da Portaria de aprovação será parte integrante da publicação normativa,
+
+  sendo posicionada, entre a capa e a primeira página, e deverá fazer menção à data de
+
+  publicação no Diário Oficial da União, conforme o tipo de documento, e não
+
+  apresentará assinatura; e'
+keywords:
+- publicacao
+- apresentara
+- aprovacao
+- assinatura
+- aviacao
+- capa
+- civil
+- data
+- devera
+- diario
+- documento
+- estabelecidas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

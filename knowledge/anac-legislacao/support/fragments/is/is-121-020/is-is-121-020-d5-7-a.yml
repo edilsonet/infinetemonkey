@@ -1,0 +1,56 @@
+id: is-is-121-020-d5-7-a
+kind: is
+document: is-121-020
+family: '121'
+section_id: D5.7
+section_title: 'Durante a fase de demonstrações do processo de autorização:'
+subsection_id: a
+cite: D5.7(a)
+title: D5.7(a)
+text: 'a) o operador deve demonstrar à ANAC ser capaz de conduzir com segurança operações
+  no aeródromo SBSP. Essa demonstração deve ser realizada em simulador de voo aprovado para
+  o treinamento, contendo ao menos as seguintes manobras:
+
+  I - decolagem com falha de motor na V1;
+
+  II - rejeição de decolagem por falha de motor próximo à V1, com pista seca e com pista molhada;
+
+  III - arremetida/aproximação perdida em todas as pistas; e
+
+  IV - falha dos freios e/ou reversos após o pouso da aeronave.
+
+  Nota 1: devido a eventuais peculiaridades identificadas no processo, como características
+  atípicas da aeronave ou de procedimentos operacionais, a ANAC poderá requerer outras manobras
+  na demonstração em simulador de voo.
+
+  Nota 2: no caso de indisponibilidade de simulador de voo do modelo de aeronave que será
+  efetivamente operado, é aceitável que a demonstração seja realizada em simulador de voo
+  de um outro modelo, desde que o relatório de avaliação operacional estabeleça o nível de
+  diferenças entre os modelos como A, B ou C para treinamento e exame.
+
+  D5.7.1 Não obstante o previsto em D5.7, a fase de demonstrações operacionais poderá ser
+  reduzida ou dispensada, a critério da ANAC, considerando-se a experiência prévia do operador
+  em SBSP com modelos similares.
+
+  Nota: para avaliação do nível de similaridade entre modelos, considera-se normalmente o
+  relatório de avaliação operacional, incluindo as tabelas de MDR e ODR.'
+keywords:
+- transporte-aereo
+- operacoes
+- simulador
+- aeronave
+- avaliacao
+- demonstracao
+- falha
+- modelos
+- nota
+- decolagem
+- demonstracoes
+- fase
+- manobras
+- modelo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

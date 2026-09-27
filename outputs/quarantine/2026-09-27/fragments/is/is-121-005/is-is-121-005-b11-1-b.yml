@@ -1,0 +1,98 @@
+id: is-is-121-005-b11-1-b
+kind: is
+document: is-121-005
+family: '121'
+section_id: B11.1
+section_title: B11.1
+subsection_id: b
+cite: B11.1(b)
+title: B11.1(b)
+text: '(b) procedimentos para análise de viabilidade da operação, considerando o modelo da
+  aeronave, no aeródromo. Deve incluir, pelo menos:
+
+  I. elegibilidade do aeródromo, considerando:
+
+  a. para aeródromos regulares, Certificação Operacional de Aeroporto para aeródromos no Brasil,
+  conforme requerido pela definição de “aeródromo regular” do RBAC nº 01 e pelas seções 139.1
+  e 139.601 do RBAC nº 139, considerando também as limitações listadas nas Especificações
+  Operativas do aeródromo, ou documento equivalente;
+
+  b. disponibilidade de serviço de informações meteorológicas conforme requerido pelas seções
+  121.101, 121.599, 121.601, 121.611, 121.613 e 121.687 do RBAC nº 121; e
+
+  c. para aeródromos de alternativa ETOPS, atendimento dos requisitos de prevenção, salvamento
+  e combate a incêndio estabelecidos na seção 121.106 do RBAC nº 121;
+
+  II. adequação das caraterísticas e performance da aeronave às características do aeródromo,
+  seu entorno e das rotas pretendidas. Deve incluir pelo menos:
+
+  a. procedimento de elaboração, atualização e distribuição das análises de pista para decolagem
+  e pouso no aeródromo com a aeronave pretendida, em atendimento ao estabelecido na subparte
+  I do RBAC nº 121;
+
+  b. fontes de informação para obtenção de dados sobre dimensões da pista e relevo/obstáculos,
+  inclusive temporários, para elaboração das análises de pista;
+
+  c. adequação das dimensões e resistência de pistas, taxiways e pátios às características
+  da aeronave;
+
+  d. instruções para determinação de necessidade e para elaboração de procedimentos de contingência
+  específicos (ex: procedimentos de drift down, EOSID) para as rotas e aeródromos operados
+  onde, devido a falha ou degradação de componente ou sistema da aeronave, limitações de performance,
+  características do terreno, condições meteorológicas extremas, ou qualquer outra condição
+  conhecida, não seja possível manter a altitude mínima de voo; e
+
+  e. atendimento dos requisitos de prevenção, salvamento e combate a incêndio, em conformidade
+  com a IS nº 91-017 (em adição ao requerido para aeródromo de alternativa ETOPS, conforme
+  B3.6(b)(I)(c));
+
+  III. disponibilidade de serviços de comunicação entre aeronave e centro de despacho, e entre
+  aeronave e ATC ao longo das rotas que serão operadas no aeródromo, conforme aplicável pela
+  seção 121.99 e os procedimentos de controle operacional do operador;
+
+  IV. fontes de informações meteorológicas para as rotas que serão operadas de e para o aeródromo
+  (em adição às informações meteorológicas requeridas do aeródromo, conforme indicadas em
+  B3.6(b)(I)(b));
+
+  V. auxílios à navegação não visuais requeridos para as rotas pretendidas;
+
+  VI. adequação dos manuais em vigor (Guia de Rotas, MGO, etc) e das autorizações em EO à
+  operação, considerando o aeródromo e as rotas pretendidas. Tais autorizações incluem:
+
+  a. operação em aeroporto especial (SBSP ou SBRJ);
+
+  b. condições de formação de gelo em solo;
+
+  c. grandes extensões de água;
+
+  d. terreno desabitado ou selva;
+
+  e. ETOPS;
+
+  f. NAT HLA;
+
+  g. PBN;
+
+  h. RVSM; e
+
+  i. planejamento de redespacho;'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- aeronave
+- rotas
+- aerodromos
+- considerando
+- meteorologicas
+- procedimentos
+- adequacao
+- atendimento
+- caracteristicas
+- elaboracao
+- etops
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

@@ -1,0 +1,47 @@
+id: is-is-135-008a-5-5-5-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.5.5
+section_title: Formato
+subsection_id: body
+cite: 5.5.5
+title: Formato
+text: '5.5.5 Formato
+
+  5.5.5.1 Ao determinar como formatar procedimentos, devem ser considerados o propósito, o
+  modo e as condições sob os quais os procedimentos exibidos serão utilizados​​. A apresentação
+  dos procedimentos que se destinam a serem usados ​​no solo, com disponibilidade de tempo
+  e em forma impressa, pode diferir em formato da apresentação de procedimentos que serão
+  lidos a partir de um computador em voo, durante turbulência, à noite ou sob pressão de tempo.
+  A apresentação deve ser avaliada em condições que se aproximam daquelas sob as quais a exibição
+  do procedimento poderá ser necessária.
+
+  5.5.5.2 Tamanho. Use um tamanho de fonte suficientemente grande para o procedimento ser
+  legível em todas as condições prováveis de ser utilizado. Em geral, uma fonte sans serif
+  impressa a laser de 14 a 20 pontos é adequada. No entanto, isso deve ser testado em todas
+  as potenciais condições de utilização.
+
+  5.5.5.3 Espaçamento. Coloque espaço suficiente entre linhas de texto. Utilizar 25 a 33 por
+  cento do tamanho da fonte entre linhas (por exemplo, espaço de 3 a 5 pontos entre linhas,
+  quando utilizando fonte de 14 pontos) tornará o texto mais fácil de ler.'
+keywords:
+- taxi-aereo
+- operacoes
+- condicoes
+- fonte
+- formato
+- procedimentos
+- apresentacao
+- linhas
+- pontos
+- tamanho
+- espaco
+- impressa
+- procedimento
+- quais
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

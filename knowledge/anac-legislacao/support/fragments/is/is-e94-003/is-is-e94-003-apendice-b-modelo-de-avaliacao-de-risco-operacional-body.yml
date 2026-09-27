@@ -1,0 +1,201 @@
+id: is-is-e94-003-apendice-b-modelo-de-avaliacao-de-risco-operacional-body
+kind: is
+document: is-e94-003
+family: '94'
+section_id: apendice-b-modelo-de-avaliacao-de-risco-operacional
+section_title: APÊNDICE B - MODELO DE AVALIAÇÃO DE RISCO OPERACIONAL
+subsection_id: body
+cite: apendice-b-modelo-de-avaliacao-de-risco-operacional
+title: APÊNDICE B - MODELO DE AVALIAÇÃO DE RISCO OPERACIONAL
+text: 'APÊNDICE B - MODELO DE AVALIAÇÃO DE RISCO OPERACIONAL
+
+  Avaliação de Risco Operacional
+
+  Em cumprimento ao parágrafo [E94.103(f)(2) ou E94.103(g)(2)] do RBAC-E nº 94 da ANAC
+
+  Operador:
+
+  CPF ou CNPJ:
+
+  Aeronave(s): [incluir o cadastro ou o registro da(s) aeronave(s)]
+
+  Cenário operacional:
+
+  Aspectos gerais:
+
+  Legislação aplicável: [listar principalmente o CBA e as regras da ANAC, DECEA e Anatel]
+
+  O operador é obrigado a se manter em áreas distantes de terceiros? [Sim/Não]
+
+  Os pilotos e observadores devem passar por algum treinamento inicial ou periódico específico
+
+  provido pela empresa? Se sim, especificar:
+
+  Em caso de acidente com lesões a pessoas, quem acionar? Como proceder?
+
+  Avaliação do risco: [ver o exemplo de preenchimento no corpo da IS]
+
+  Situação 1 Perda do link
+
+  Probabilidade de ocorrência
+
+  Severidade da ocorrência
+
+  Risco
+
+  Tolerabilidade
+
+  Nível hierárquico de autorização da operação
+
+  Medidas de mitigação do risco
+
+  Situação 2 Existência de tráfego aéreo local
+
+  Probabilidade de ocorrência
+
+  Severidade da ocorrência
+
+  Risco
+
+  Tolerabilidade
+
+  Nível hierárquico de autorização da operação
+
+  Medidas de mitigação do risco
+
+  Situação 3 Presença de pessoas não anuentes
+
+  Probabilidade de ocorrência
+
+  Severidade da ocorrência
+
+  Risco
+
+  Tolerabilidade
+
+  Nível hierárquico de autorização da operação
+
+  Medidas de mitigação do risco
+
+  Situação 4
+
+  Etc....Data de emissão: 3 de maio de 2017. IS nº E94-003
+
+  Revisão A
+
+  Matriz de risco: [o operador deve utilizar uma matriz própria ou adotar o modelo aqui proposto]
+
+  Probabilidade da ocorrência:
+
+  - Nível 5 (frequente): é provável que ocorra muitas vezes, ou historicamente tem ocorrido
+  frequentemente;
+
+  - Nível 4 (ocasional): é provável que ocorra algumas vezes, ou historicamente tem ocorrido
+  com pouca frequência;
+
+  - Nível 3 (remoto): é improvável, mas é possível que venha a ocorrer, ou ocorre raramente;
+
+  - Nível 2 (improvável): é bastante improvável que ocorra e não se tem notícia de que tenha
+  alguma vez ocorrido; e
+
+  - Nível 1 (muito improvável): é quase impossível que o evento ocorra.
+
+  Severidade da ocorrência:
+
+  - Nível A (catastrófico): morte de múltiplas pessoas;
+
+  - Nível B (crítico): morte de pessoa, lesões gravíssimas, capazes de deixar sequelas significativas
+  e/ou incapacitantes,
+
+  tais como cegueira, paralisia, amputações, etc.;
+
+  - Nível C (significativo): lesões sérias a pessoas, mas não incapacitantes nem com sequelas
+  significativas;
+
+  - Nível D (pequeno): incidentes menores, danos a objetos, animais ou vegetação no solo,
+  lesões leves;
+
+  - Nível E (insignificante): somente danos ao equipamento.
+
+  Tolerabilidade:
+
+  Severidade
+
+  Catastrófico Crítico Significativo Pequeno Insignificante
+
+  A B C D E
+
+  Probabilidade Frequente 5 5A 5B 5C 5D 5E
+
+  Ocasional 4 4A 4B 4C 4D 4E
+
+  Remoto 3 3A 3B 3C 3D 3E
+
+  Improvável 2 2A 2B 2C 2D 2E
+
+  Muito improvável 1 1A 1B 1C 1D 1E
+
+  - Risco extremo (classificações 4A, 5A e 5B): a operação não deve ocorrer e, caso esteja
+  ocorrendo, deve cessar
+
+  imediatamente, enquanto persistir a condição ou até que medidas mitigadoras suficientes
+  reduzam o risco para um nível
+
+  aceitável pelo operador. Caso ainda se decida prosseguir com a operação, controles preventivos
+  para mitigação do risco
+
+  devem ser estabelecidos, devem estar em vigor e a aprovação da hierarquia mais alta da empresa
+  (presidente) deve ser
+
+  requerida.
+
+  - Alto risco (classificações 3A, 4B e 5C): a operação não deveria ocorrer e, caso esteja
+  ocorrendo, deveria cessar
+
+  imediatamente, enquanto persistir a condição ou até que medidas mitigadoras suficientes
+  reduzam o risco para um nível
+
+  aceitável pelo operador. Caso ainda se decida prosseguir com a operação, controles preventivos
+  para mitigação do risco
+
+  devem ser estabelecidos, devem estar em vigor e a aprovação da hierarquia de gestão da empresa
+  (gerente ou diretor) deve
+
+  ser requerida.
+
+  - Risco moderado (classificações 1A, 2A, 2B, 3B, 3C, 4C, 4D, 5D, 5E): a operação pode ocorrer
+  com controles
+
+  preventivos para mitigação do risco estabelecidos e que devem estar em vigor, conforme necessários.
+  Operações neste
+
+  nível de risco deveriam ser aprovadas por nível hierárquico imediatamente superior (chefia
+  imediata).
+
+  - Baixo risco (classificações 1B, 1C, 2C, 2D, 3D, 3E, 4E): a operação pode ocorrer e controles
+  preventivos para mitigação
+
+  de risco e aprovação por nível hierárquico imediatamente superior (chefia imediata) são
+  opcionais.
+
+  - Risco muito baixo (classificações 1D, 1E e 2E): a operação é aceitável como concebida,
+  e nenhum controle preventivo
+
+  para mitigação de risco e aprovação é requerida para que ela ocorra.'
+keywords:
+- risco
+- nivel
+- operacao
+- mitigacao
+- ocorrencia
+- improvavel
+- avaliacao
+- caso
+- classificacoes
+- hierarquico
+- medidas
+- ocorra
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-003.md

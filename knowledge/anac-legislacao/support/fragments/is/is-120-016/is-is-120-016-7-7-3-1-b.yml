@@ -1,0 +1,37 @@
+id: is-is-120-016-7-7-3-1-b
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.7.3.1
+section_title: 'Informações necessárias. A Programação de Manutenção deve conter as seguintes
+  informações:'
+subsection_id: b
+cite: 7.7.3.1(b)
+title: 7.7.3.1(b)
+text: b) Como (Tarefa). Uma tarefa de manutenção programada é uma ação de manutenção que a
+  empresa realiza em intervalos regulares e programados. A intenção desta tarefa é assegurar
+  que o item possa continuar a executar sua função pretendida e permitir que a empresa descubra
+  possíveis falhas ocultas. Não devem constar na programação de manutenção termos como Hard
+  Time (HT), On Condition (OC) ou Condition Monitoring (CM). A programação de manutenção deve
+  indicar o tipo de tarefa de manutenção a ser realizado (por exemplo, substituir, inspecionar
+  ou testar).
+keywords:
+- antidrogas
+- saude
+- manutencao
+- tarefa
+- programacao
+- condition
+- empresa
+- informacoes
+- acao
+- assegurar
+- constar
+- conter
+- continuar
+- descubra
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

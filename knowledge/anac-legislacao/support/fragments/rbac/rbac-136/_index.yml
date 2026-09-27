@@ -35,10 +35,14 @@ sections:
 - '136.53'
 - '136.7'
 - '136.9'
+- aprovacao
 - preambulo
-fragment_count: 110
+- sumario
+fragment_count: 112
 fragment_ids:
 - rbac-rbac-136-preambulo-body
+- rbac-rbac-136-aprovacao-body
+- rbac-rbac-136-sumario-body
 - rbac-rbac-136-136-1-body
 - rbac-rbac-136-136-5-body
 - rbac-rbac-136-136-7-body
@@ -148,4 +152,4 @@ fragment_ids:
 - rbac-rbac-136-136-51-e
 - rbac-rbac-136-136-53-a
 - rbac-rbac-136-136-53-b
-parser_version: 6
+parser_version: 7

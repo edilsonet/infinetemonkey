@@ -1,0 +1,87 @@
+id: is-is-21-010-5-7-5-b
+kind: is
+document: is-21-010
+family: '21'
+section_id: 5.7.5
+section_title: The import TSO/ETSO articles (or equivalent) shall come along with an airworthiness
+  approval for export (EASA Form 1, FAA Form 8130-3 or equivalent).
+subsection_id: b
+cite: 5.7.5(b)
+title: 5.7.5(b)
+text: 'b) The product accompanies an Export Airworthiness Approval (EASA Form 1, FAA Form
+  8130-3 or equivalent).
+
+  5.8.2 O uso de um componente em aeronave com CA Padrão brasileiro, ou em motor e hélice
+  operando no Brasil, deve ter uma aprovação de instalação (veja parágrafo 5.2.7 desta IS).
+
+
+  NOTA: A instalação de uma peça de reposição, tais como um PMA de reposição da FAA (PMA replacement
+  part), caso seja considerada uma pequena alteração, poderá ser executada sem a necessidade
+  de uma aprovação adicional da instalação por parte da ANAC.
+
+  5.8.2 The use of a component in an aircraft with a Brazilian Standard Airworthiness Certificate,
+  or aircraft engines and propellers operated in Brazil, must have an installation approval
+  (see paragraph 5.2.7 of this IS).
+
+  NOTE: The installation of a replacement part, such as a FAA PMA replacement part, in case
+  it is considered a minor alteration, may be performed without the need of an additional
+  approval from ANAC.
+
+  5.9 Aeronavegabilidade continuada
+
+  5.9 Continued Airworthiness
+
+  O fabricante estrangeiro de um produto, que recebeu uma aprovação de projeto brasileira
+  de acordo com as subseções 5.3 a 5.7, deve ser responsável por manter a ANAC atualizada
+  de todas as informações relevantes referentes à aeronavegabilidade continuada de seu produto
+  no Brasil. Esta deve incluir a retransmissão imediata para a ANAC de todas as informações
+  referentes a dificuldades em serviço, correções de projeto, precauções operacionais e DA
+  (ou documentos equivalentes).
+
+  The foreign manufacturer of a product which has received a Brazilian design approval according
+  to subsections 5.3 through 5.7 shall be responsible for maintaining ANAC informed of all
+  relevant information regarding the continuous airworthiness of its product in Brazil. This
+  shall include prompt remittance to ANAC of all information regarding hazardous service difficulties,
+  corresponding design corrections, proposed operational precautions and Airworthiness Directives
+  (or equivalent documents).
+
+  5.10 Aprovações de aeronavegabilidade para exportação para o Brasil
+
+  5.10 Export Airworthiness Approval to Brazil
+
+  5.10.1 Exceto como previsto no parágrafo 5.10.4, de acordo com as seções 21.183, 21.184,
+  21.185, 21.500 e 21.502 do RBAC 21, cada produto exportado para o Brasil deve ser acompanhado
+  de uma aprovação de aeronavegabilidade para exportação (certificado de aeronavegabilidade
+  para exportação, certificado de liberação autorizada ou documentos equivalentes como o EASA
+  Form 1 e o FAA Form 8130-3), emitido pela autoridade estrangeira conforme suas regras, atestando
+  a conformidade com o projeto aprovado brasileiro (no que concerne aos requisitos de aeronavegabilidade,
+  de ruído e de emissões de gases) e com quaisquer outros requisitos especiais.
+
+  5.10.1 Except as mentioned in paragraph 5.10.4, according to sections 21.183, 21.184, 21.185,
+  21.500, and 21.502 of RBAC 21, each product exported to Brazil shall come along with an
+  export airworthiness approval (Export Airworthiness Certificate, Authorized Release Certificate,
+  or equivalent documents such as EASA Form 1 and FAA Form 8130-3), issued by the foreign
+  authority according to its rules, stating the conformity with the Brazilian approved design
+  (regarding the airworthiness, noise and emissions requirements) and with any other special
+  requirements.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- airworthiness
+- form
+- approval
+- equivalent
+- export
+- with
+- aprovacao
+- brasil
+- brazil
+- easa
+- product
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

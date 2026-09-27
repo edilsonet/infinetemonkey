@@ -1,0 +1,69 @@
+id: is-is-121-012-5-2-1-2-6-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.6
+section_title: Rota.
+subsection_id: body
+cite: 5.2.1.2.6
+title: Rota.
+text: '5.2.1.2.6 Rota.
+
+  5.2.1.2.6.1 A escolha da rota deve garantir que o avião será mantido, a todo momento, a
+  um tempo de desvio para o aeródromo de alternativa ETOPS inferior ao tempo de desvio máximo
+  autorizado para o voo. Pode ser necessário selecionar uma rota que não seja direta, de forma
+  a permitir que os aeródromos de alternativa ETOPS fiquem na distância requerida.
+
+  Nota: a distância é considerada entre um ponto da rota e o sobrevoo do aeródromo de alternativa,
+  sem considerar a necessidade de cumprir rotas de voo específicas ou de realizar perfil de
+  descida ou procedimentos de aproximação para o aeródromo de alternativa. No entanto, esses
+  fatores serão considerados no cálculo de combustível, do oxigênio e da capacidade de sistemas
+  de tempo limite.
+
+  5.2.1.2.6.2 Durante a escolha da rota, pode ser necessário (ou desejável, para fins de eficiência)
+  revisitar os aeródromos de alternativa ETOPS selecionados e o cálculo da área de operações,
+  de forma a viabilizar a escolha de determinada rota.
+
+  5.2.1.2.6.3 Pode ocorrer de, durante um voo, haver trechos da rota em área de operações
+  ETOPS intercalados com trechos que não estão em área de operações ETOPS - ou seja, que estão
+  a menos de 75 (ou 180, conforme aplicável) minutos de um aeródromo adequado. Nesse caso,
+  o detentor de certificado pode optar por aplicar os requisitos ETOPS para todo o trecho
+  de voo, desde o primeiro ponto de entrada ETOPS até o último ponto de saída ETOPS (o último
+  ponto do voo em que se está em área de operações ETOPS), incluindo os trechos não ETOPS;
+  ou por aplicar os requisitos ETOPS apenas aos trechos que estão efetivamente em área de
+  operações ETOPS.
+
+  5.2.1.2.6.4 Na rota, devem ser cumpridos os requisitos de desempenho da Subparte I do RBAC
+  nº 121 (por exemplo, 121.191), os requisitos de oxigênio das seções 121.329 e 121.333, os
+  requisitos de combustível associados ao cenário crítico da seção 121.646 e os requisitos
+  de sistema de tempo limite da seção 121.633 do RBAC nº 121.
+
+  5.2.1.2.6.5 No planejamento do desvio para a alternativa, o detentor de certificado deve
+  considerar os motivos que levam ao desvio (por exemplo, falha de motor ou despressurização).
+
+  5.2.1.2.6.6 Pontos equidistantes em tempo (ETP). O detentor de certificado deve calcular
+  os pontos equidistantes em tempo (ETP) entre aeródromos de alternativa ETOPS consecutivos,
+  considerando as condições atmosféricas reais do voo (como vento e temperatura) e os níveis
+  de voo. Em razão dessas considerações, esses pontos podem ser diferentes do ponto intermediário
+  geográfico.
+
+  5.2.1.2.6.6.1 OS ETP devem ser estabelecidos como pontos para:'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- rota
+- alternativa
+- requisitos
+- tempo
+- area
+- ponto
+- aerodromo
+- desvio
+- pode
+- pontos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

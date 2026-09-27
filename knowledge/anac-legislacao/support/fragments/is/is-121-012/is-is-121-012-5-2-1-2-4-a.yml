@@ -1,0 +1,51 @@
+id: is-is-121-012-5-2-1-2-4-a
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.4
+section_title: Aeródromos de alternativa ETOPS
+subsection_id: a
+cite: 5.2.1.2.4(a)
+title: 5.2.1.2.4(a)
+text: 'a) deve ser um aeródromo de alternativa ETOPS constante na Lista de Aeródromos Regulares
+  e de Alternativa, cumprindo os requisitos de desempenho de pouso da seção 121.197 do RBAC
+  nº 121 tanto nas condições avaliadas no nível de engenharia de operações (vide parágrafo
+  5.2.1.1.2 desta IS), quanto nas condições específicas do voo a ser realizado;
+
+
+  Nota 1: os requisitos de 121.197 incluem a avaliação de direção e velocidade de vento (por
+  referência às condições descritas em 121.195(b)), mas não incluem a avaliação da condição
+  de pista (molhada ou contaminada). No entanto, conforme 121.624(b)(2) e o parágrafo 5.2.1.2.4.3.1
+  desta IS, o detentor de certificado deve considerar a condição de pista do aeródromo de
+  alternativa ETOPS na avaliação do desempenho de pouso no aeródromo.
+
+  Nota 2: com relação ao vento, se houver vento cruzado que exceda os limites operacionais
+  do avião, o aeródromo não pode ser considerado um aeródromo adequado, pois o avião não poderia
+  pousar cumprindo os requisitos da seção 121.197.
+
+  Nota 3: um aeródromo que não esteja aberto ao tráfego por qualquer motivo, ainda que conste
+  na Lista de Aeródromos Regulares e de Alternativa, não pode ser considerado um aeródromo
+  adequado, pois temporariamente não atende à seção 121.197. Caso apenas uma pista de pouso
+  e decolagem específica do aeródromo não esteja aberta ao tráfego, o aeródromo ainda pode
+  ser considerado um aeródromo adequado se houver outra pista de pouso e decolagem que permita
+  o pouso atendendo à seção 121.197.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- alternativa
+- pouso
+- pista
+- secao
+- adequado
+- aerodromos
+- avaliacao
+- condicoes
+- considerado
+- etops
+- nota
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

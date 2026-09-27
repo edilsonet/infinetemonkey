@@ -1,0 +1,27 @@
+id: iac-iac-001-1001a-12-1-1-2-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 12.1.1.2
+section_title: O texto, a partir do capítulo 2, quando necessário, será dividido sucessivamente
+  em
+subsection_id: body
+cite: 12.1.1.2
+title: O texto, a partir do capítulo 2, quando necessário, será dividido sucessivamente em
+text: '12.1.1.2 O texto, a partir do capítulo 2, quando necessário, será dividido sucessivamente
+  em
+
+  capítulos, itens, alíneas e sub-alíneas.'
+keywords:
+- capitulo
+- dividido
+- necessario
+- partir
+- sucessivamente
+- texto
+- alineas
+- capitulos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

@@ -1,0 +1,35 @@
+id: is-is-91-001-m7-1-i
+kind: is
+document: is-91-001
+family: '91'
+section_id: M7.1
+section_title: 'Além dos tópicos abordados no item 5.8 desta IS, o programa de treinamento
+  deve prover capacitação sobre os sistemas RNP e conceitos associados suficientes para que
+  os pilotos estejam familiarizados com os seguintes tópicos:'
+subsection_id: i
+cite: M7.1(i)
+title: M7.1(i)
+text: i) o equipamento não deve permitir que a tripulação selecione um procedimento ou rota
+  que não seja suportada pelo equipamento, manual ou automaticamente. O sistema também deve
+  restringir o acesso do piloto a procedimentos que possuam segmento de RF ou FRTs se o sistema
+  não estiver com a sua capacidade de execução do procedimento adequada e operacional;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- equipamento
+- procedimento
+- sistema
+- topicos
+- abordados
+- acesso
+- adequada
+- alem
+- associados
+- automaticamente
+- capacidade
+- capacitacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

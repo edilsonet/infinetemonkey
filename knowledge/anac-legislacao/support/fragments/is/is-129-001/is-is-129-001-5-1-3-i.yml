@@ -1,0 +1,74 @@
+id: is-is-129-001-5-1-3-i
+kind: is
+document: is-129-001
+family: '129'
+section_id: 5.1.3
+section_title: 'Esta IS não se aplica:'
+subsection_id: i
+cite: 5.1.3(i)
+title: 5.1.3(i)
+text: 'i) alteração ou obtenção de novas isenções (conforme parágrafo 5.2.4.4(j) desta IS)
+
+  I - formulário devidamente preenchido e assinado, conforme parágrafo 5.2.8.3 desta IS;
+
+  II - as EO emitidas pelo Estado do operador aplicáveis ao modelo de aeronave, conforme o
+  parágrafo 5.2.4.4(b) desta IS, caso a alteração impacte essa documentação;
+
+  III - Manual Geral de Operações, conforme o parágrafo 5.2.4.4(i) desta IS, nas partes afetadas
+  pela aprovação específica, caso a alteração impacte essa documentação;
+
+  IV - informações sobre a isenção, conforme o parágrafo 5.2.4.4(j) desta IS; e
+
+  V - outros documentos ou manuais que a ANAC considere necessários, conforme o parágrafo
+  5.2.4.5 desta IS.
+
+  5.2.8.7. No caso de alterações que impliquem em redução de prerrogativas de operação da
+  empresa, como exclusão de um modelo de aeronave ou a retirada de uma aprovação específica,
+  solicita-se que a empresa comunique essa redução à ANAC, para atualização de suas informações,
+  em até 30 dias após sua vigência.
+
+  5.2.8.8. Alterações que não sejam consideradas significativas não necessitam ser notificadas
+  à ANAC. Dessa forma, podem ser implementadas pelas empresas desde que autorizadas pelo Estado
+  do operador. São exemplos dessas alterações: inclusões de matrículas de aeronaves de modelo
+  já autorizado, operação em novos aeródromos e/ou novas rotas (se não gerar alterações significativas),
+  alterações de procedimentos no Manual Geral de Operações etc.
+
+  5.2.9. Limitações e revogação da autorização pela ANAC
+
+  5.2.9.1. Quando o COA de uma empresa estrangeira de transporte aéreo for suspenso ou revogado
+  pelo Estado do operador, a empresa deve interromper suas operações, em conformidade com
+  o parágrafo 129.11(d) do RBAC nº 129. Nessa situação, oportunamente, a ANAC suspenderá ou
+  revogará a autorização da empresa, conforme aplicável.
+
+  5.2.9.2. Conforme o parágrafo 129.33(a) do RBAC nº 129, a ANAC poderá limitar ou suspender
+  uma autorização de uma empresa estrangeira de transporte aéreo ou, ainda, negar a implementação
+  de alterações significativas, caso seja constatado pela ANAC que a segurança do transporte
+  aéreo assim o requer. Essa constatação pode decorrer, entre outros motivos, da verificação,
+  em inspeções ou vistorias, do não cumprimento com os requisitos aplicáveis (conforme listados
+  no parágrafo 5.2.7.5 desta IS) e de análise dos fatores elencados no parágrafo 5.2.7.2 desta
+  IS. Neste caso, a empresa estrangeira de transporte aéreo será comunicada pela ANAC da decisão.
+
+  5.2.9.3. Após a emissão da autorização para operar, é esperado que a empresa realize ao
+  menos uma operação regular para o Brasil a cada 60 dias. Conforme os parágrafos 129.11(d)
+  e 129.33(c) do RBAC nº 129, caso a empresa não realize qualquer operação regular nesse período,
+  deve deixar de conduzir operações regulares. Caso deseje retomar as operações, a empresa
+  deve:'
+keywords:
+- operador-estrangeiro
+- operacoes
+- empresa
+- paragrafo
+- desta
+- caso
+- alteracoes
+- aereo
+- autorizacao
+- operacao
+- transporte
+- alteracao
+- estado
+categories:
+- operador-estrangeiro
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-129-001.md

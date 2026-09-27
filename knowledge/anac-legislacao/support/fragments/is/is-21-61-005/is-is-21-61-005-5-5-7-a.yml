@@ -1,0 +1,35 @@
+id: is-is-21-61-005-5-5-7-a
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.5.7
+section_title: 'All that considered, a change to the type design requires a change to the
+  MMEL if any of the following conditions are met:'
+subsection_id: a
+cite: 5.5.7(a)
+title: 5.5.7(a)
+text: 'a) a modificação afeta um item da MMEL de uma forma mais restritiva: há uma alteração
+  em equipamento, sistema ou função vinculada a um item da MMEL, ou uma alteração nas limitações
+  e procedimentos operacionais vinculados a um item da MMEL;'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- alteracao
+- change
+- afeta
+- conditions
+- considered
+- design
+- equipamento
+- following
+- forma
+- funcao
+- limitacoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

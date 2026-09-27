@@ -1,0 +1,73 @@
+id: is-is-21-231-001-desenvolvimento-do-assunto-body
+kind: is
+document: is-21-231-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  Introdução ao Sistema de COPj
+
+  A subparte J do RBAC nº 21 estabelece as condições necessárias para a obtenção e manutenção
+  de uma COPj, suas obrigações e prerrogativas. Esta IS descreve de forma detalhada tais condições,
+  apresentando um meio aceitável de cumprimento aos requisitos da subparte em referência.
+
+  A certificação como Organização de Projeto não é necessária para a obtenção de um CT, CST,
+  emendas ao Certificado ou para aprovação de dado técnico para grande reparo ou para grande
+  alteração.
+
+  O credenciamento de pessoa física ou jurídica por meio do RBAC nº 183 é uma forma alternativa
+  de viabilização da aprovação de um projeto. Todavia, não se espera de uma organização certificada
+  que se utilize de pessoas físicas ou jurídicas credenciadas, e vice-versa. Tal fato pode
+  ser explicado pela análise do objetivo da COPj, que é o estabelecimento pela organização
+  de processos próprios de desenvolvimento de produto, demonstração e verificação do cumprimento
+  com os requisitos aplicáveis e a posterior análise e aceitação da ANAC de que tais processos
+  cumprem com os requisitos da subparte J do RBAC nº 21.
+
+  A COPj deve abranger todos os processos de projeto de produto certificável na organização.
+  Para detentores de CT, com a prerrogativa correlata (parágrafo 21.263-I(b)(2) do RBAC nº
+  21), a certificação da organização deve envolver todas as áreas relativas aos requisitos
+  aplicáveis ao projeto da aeronave, motor ou hélice. Para as outras prerrogativas, apesar
+  de não recomendável, é possível que coexistam os modelos de certificação e credenciamento
+  na mesma organização, aplicáveis a diferentes processos/áreas.
+
+  A certificação conforme a subparte J do RBAC nº 21 não tem impacto sobre o nível de envolvimento
+  da ANAC e a duração do processo de certificação, quando comparado com processos de certificação
+  que utilizam o credenciamento de pessoas físicas ou jurídicas.
+
+  NOTA: O conceito de nível de envolvimento é explicado na IS 21-001.
+
+  Entretanto, o nível de envolvimento e o prazo para a aprovação de projetos tende a ser reduzido
+  expressivamente quando se compara uma organização certificada com outra não certificada
+  e sem profissionais credenciados por meio do RBAC nº 183.
+
+  Sistema de Garantia do Projeto
+
+  Um Sistema de Garantia do Projeto é composto por estrutura, responsabilidades, procedimentos
+  e recursos organizacionais para assegurar o funcionamento devido de uma Organização de Projeto.
+
+  O Sistema de Garantia do Projeto abrange todas as ações planejadas e sistemáticas necessárias
+  a prover um nível de confiança adequado de que a organização detém a capacidade de:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- organizacao
+- processos
+- copj
+- desenvolvimento
+- nivel
+- requisitos
+- sistema
+- subparte
+- aplicaveis
+- aprovacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-231-001.md

@@ -1,0 +1,41 @@
+id: is-is-121-018-5-3-2-body
+kind: is
+document: is-121-018
+family: '121'
+section_id: 5.3.2
+section_title: Uso da técnica de aproximação CDFA
+subsection_id: body
+cite: 5.3.2
+title: Uso da técnica de aproximação CDFA
+text: '5.3.2 Uso da técnica de aproximação CDFA
+
+  5.3.2.1 Em conformidade com o Apêndice C, a técnica de CDFA deve ser usada para operações
+  de aproximação que utilizem procedimentos de não precisão, exceto se de outra forma autorizado.
+  Se não for utilizada a técnica CDFA (ou seja, se a aproximação for executada com segmento
+  de voo nivelado em ou acima da MDA/H), então devem ser adicionados 200 m ao RVR para aviões
+  categoria A ou B; e 400 m para aviões categoria C ou D.
+
+  Nota: se o método utilizado pelo detentor de certificado, conforme listado no parágrafo
+  5.1.3 desta IS, já inclui essa margem para operações realizadas sem CDFA, não é necessário
+  que o detentor de certificado inclua a mesma margem, de forma duplicada. Por exemplo, o
+  método especificado no Apêndice B desta IS prevê a inclusão dessa margem em operações não
+  CDFA, conforme seu parágrafo B3.2.2.'
+keywords:
+- transporte-aereo
+- operacoes
+- cdfa
+- aproximacao
+- tecnica
+- margem
+- apendice
+- avioes
+- categoria
+- certificado
+- desta
+- detentor
+- forma
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

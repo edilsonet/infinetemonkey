@@ -1,0 +1,102 @@
+id: is-is-135-21-001b-desenvolvimento-do-assunto-body
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Introdução
+
+  5.1.1 Esta Instrução Suplementar se aplica a operadores sob o RBAC nº 135 operando exclusivamente
+  aeronaves com configuração máxima certificada de assentos para passageiros de até 9 (nove)
+  assentos. No entanto, para aviões certificados conforme emendas anteriores à 23-34 do CFR
+  Part 23 da FAA, na categoria normal ou utilidade, poderá ser aceita a configuração instalada
+  e aprovada, para efeito de cumprimento do RBAC 135.411(a)(1) e (2).
+
+  Nota: Incluem-se os aviões isentos de certificação brasileira, conforme o RBAC 21.29(d)-I,
+  certificados na categoria normal ou utilidade por autoridade estrangeira conforme emendas
+  anteriores a 23-34 do FAR 23.
+
+  5.1.2 É dever do operador desenvolver um manual que descreva os procedimentos e as políticas
+  da empresa na condução de suas atividades, abrangendo adequadamente os requisitos aplicáveis
+  dos Regulamentos Brasileiros da Aviação Civil (RBAC). Esta IS contém instruções para elaboração
+  desse manual nos assuntos referentes à manutenção, doravante chamado de Manual Geral de
+  Manutenção (MGM).
+
+  5.1.3 Esta IS não visa estabelecer uma forma única e rígida para o MGM, mas sim apresentar
+  referências e orientações adicionais para seu desenvolvimento, listando tópicos tipicamente
+  encontrados nos MGM, esclarecendo ou associando requisitos da regulamentação a tais tópicos,
+  dentre outras providências. Desta forma, esta IS não é de cumprimento mandatório pelos operadores.
+  Contudo, esta publica meios aceitáveis pela Anac para produção do MGM. Recomenda-se ainda
+  que a IS nº 119-004 seja utilizada em conjunto com esta IS para o desenvolvimento do MGM.
+
+  5.1.4 O MGM é uma ferramenta administrativa usada para se controlar e dirigir as atividades
+  do pessoal de manutenção. Este deve definir todos os aspectos operacionais da manutenção,
+  própria ou contratada. A complexidade do MGM poderá variar em função da complexidade das
+  operações do táxi aéreo. Não obstante, ele deve abranger itens específicos de acordo com
+  os RBAC, podendo, ainda, incluir itens adicionais a critério do operador. Independentemente
+  da situação, ele deve permitir que o pessoal envolvido com a manutenção assegure a todo
+  momento as condições de aeronavegabilidade da frota. O MGM não pode contrariar nenhuma legislação
+  nacional, ou legislação estrangeira afeta às operações da empresa realizadas no exterior,
+  quando aplicável. O Apêndice A desta IS apresenta uma relação de assuntos e tópicos que
+  pode ser usada como referência para a organização do MGM da empresa.
+
+  5.1.5 Sempre que submetido à Anac, o MGM deverá ser acompanhado de uma lista de verificações
+  de conformidade que associe os requisitos aplicáveis às partes ou tópicos específicos do
+  referido manual. O Apêndice B desta IS apresenta uma referência para a elaboração de tal
+  lista de verificações de conformidade.
+
+  5.1.6 Para as empresas desejando obter sua primeira certificação, o MGM deverá ser encaminhado
+  juntamente com o pacote de solicitação formal de abertura do processo de certificação, observados
+  os prazos regulamentares.
+
+  5.1.7 O MGM deverá refletir os aperfeiçoamentos e alterações porventura adotados pelo operador
+  ao longo de suas operações e que se relacionem aos requisitos dos RBAC, o que deverá ensejar
+  revisões a tal manual. As revisões propostas ao MGM deverão ser encaminhadas à Anac, anexo
+  às quais constarão os motivos que levaram a empresa a propor a revisão.
+
+  5.1.8 A relação de assuntos e tópicos do MGM apresentada no Apêndice A constitui uma referência
+  básica para a elaboração daquele manual. No entanto, a sequência nela exposta poderá ser
+  adaptada a cada empresa, em função de seu porte ou das atividades de manutenção executadas.
+
+  5.1.9 A aceitação dos MGM dos operadores enquadrados na aplicabilidade desta IS constitui
+  parte integrante do processo de certificação de que trata a IS nº 119-004.
+
+  5.1.10 MGMs submetidos à Anac sem a competente lista de verificações de conformidade associada,
+  ou de forma que a lista apresentada esteja incompatível com o conteúdo do manual, são passíveis
+  de devolução ao requerente. Nestes casos, o processo de certificação não será aberto.
+
+  5.2 Manual Geral de Manutenção (MGM)
+
+  5.2.1 Tendo em vista a diversidade e a complexidade dos procedimentos de manutenção que
+  podem ser adotados pelos operadores e considerando ainda aquelas situações em que o operador
+  contrate a execução de serviços de manutenção, conforme os RBAC, alguns assuntos ou tópicos
+  incluídos nesta IS poderão não ser aplicáveis a todos os operadores enquadrados no item
+  5.1.1. Com exceção a casos em que o item não seja aplicável ao operador, ou a menos que
+  seja de outra forma estabelecido no próprio texto desta IS, o MGM deverá atender ao previsto
+  a seguir. Desta forma, quando algum item abaixo não estiver incluído em um MGM, o requerente,
+  ao submetê-lo para análise, deverá justificar os motivos de sua não aplicabilidade.'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- manual
+- desta
+- devera
+- topicos
+- certificacao
+- desenvolvimento
+- empresa
+- forma
+- operador
+- operadores
+- assuntos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

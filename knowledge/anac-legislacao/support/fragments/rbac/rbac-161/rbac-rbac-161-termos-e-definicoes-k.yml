@@ -1,0 +1,33 @@
+id: rbac-rbac-161-termos-e-definicoes-k
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: k
+cite: termos-e-definicoes(k)
+title: termos-e-definicoes(k)
+text: '(k)
+
+  Plano de Zoneamento de Ruído de Aeródromo - PZR: documento elaborado nos termos deste RBAC,
+  que tem como objetivo representar geograficamente a área de impacto do ruído aeronáutico
+  decorrente das operações nos aeródromos e, aliado ao ordenamento adequado das atividades
+  situadas nessas áreas, ser o instrumento que possibilita preservar o desenvolvimento dos
+  aeródromos em harmonia com as comunidades localizadas em seu entorno.'
+keywords:
+- termos
+- aerodromos
+- definicoes
+- ruido
+- adequado
+- aerodromo
+- aeronautico
+- aliado
+- area
+- areas
+- atividades
+- comunidades
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

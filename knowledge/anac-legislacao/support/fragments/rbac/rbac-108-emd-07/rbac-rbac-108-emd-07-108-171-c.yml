@@ -1,0 +1,32 @@
+id: rbac-rbac-108-emd-07-108-171-c
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.171'
+section_title: Despacho AVSEC do voo
+subsection_id: c
+cite: 108.171(c)
+title: 108.171(c)
+text: (c) Os modelos de formulários do Despacho AVSEC são estabelecidos em Instrução Suplementar
+  (IS) da ANAC, podendo ser adotado pelo operador aéreo um modelo de registro digital que
+  contemple as informações requeridas nos formulários.
+keywords:
+- seguranca
+- operador
+- avsec
+- despacho
+- formularios
+- adotado
+- aereo
+- contemple
+- digital
+- estabelecidos
+- informacoes
+- instrucao
+- modelo
+- modelos
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

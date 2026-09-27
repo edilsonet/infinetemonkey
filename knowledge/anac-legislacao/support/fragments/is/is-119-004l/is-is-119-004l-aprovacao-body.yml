@@ -1,0 +1,76 @@
+id: is-is-119-004l-aprovacao-body
+kind: is
+document: is-119-004l
+family: '119'
+section_id: aprovacao
+section_title: Aprovação
+subsection_id: body
+cite: aprovacao
+title: Aprovação
+text: 'Aprovação
+
+  MCV
+
+  Manual de Comissários de Voo
+
+  Requerido para os operadores classificados como Operadores Padrão cuja operação exija comissários
+  de voo, de acordo com a seção 135.107 do RBAC nº 135.
+
+  Deve ser elaborado de acordo com IS nº 121-014.
+
+  Aceitação
+
+  MGM
+
+  Manual Geral de Manutenção
+
+  Requerido para todos os operadores. Operadores Simples devem observar a seção 6.3.2 desta
+  IS.
+
+  Deve ser elaborado de acordo com a IS nº 135.21-001. Deve incluir a descrição dos procedimentos
+  de manutenção realizados pelas organizações de manutenção certificadas. Pode ser apresentado
+  em um ou mais volumes.
+
+  Partes aceitas e partes aprovadas
+
+  PMA
+
+  Programação de Manutenção de Aeronaves
+
+  Requerido para os operadores classificados como Operadores Padrão que operem aeronaves certificadas
+  com configuração para 10 (dez) ou mais assentos para passageiros.
+
+  Deve ser elaborado de acordo com a IS nº 120-016 e pode incluir o programa de controle e
+  prevenção de corrosão e outros manuais de suporte.
+
+  Partes aceitas e partes aprovadas
+
+  PTM
+
+  Programa de Treinamento de Manutenção
+
+  Requerido para os operadores classificados como Operadores Padrão que desejem ter autorização
+  para realização de manutenção de linha.
+
+  Deve ser elaborado conforme a IS nº 119-010 e pode ser estar incluído em um capítulo do
+  MGM'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operadores
+- manutencao
+- acordo
+- elaborado
+- partes
+- requerido
+- aprovacao
+- classificados
+- padrao
+- pode
+- aceitas
+- aeronaves
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

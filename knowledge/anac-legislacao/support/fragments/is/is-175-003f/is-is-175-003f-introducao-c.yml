@@ -1,0 +1,64 @@
+id: is-is-175-003f-introducao-c
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: c
+cite: introducao(c)
+title: introducao(c)
+text: 'c) o uso de marcação legível em cada volume contendo código de barras ou código QR
+  que permita o acesso ao CT-e ou ao CT-e Simplificado.
+
+  Nota: a lista acima não é exaustiva. Cabe ao operador aéreo apresentar os procedimentos
+  de marcação em seu MAP ou MGO, conforme aplicável, de acordo com as instruções da IS nº
+  175-006.
+
+  No caso descrito em 5.2.16 e 5.2.17, o operador aéreo deverá ser capaz de prover a informação
+  em tempo hábil, caso solicitado pela Anac.
+
+  O DACTE não é o CT-e ou CT-e Simplificado, nem os substitui, servindo apenas como instrumento
+  auxiliar para o transporte da carga e para a consulta ao CT-e ou ao CT-e Simplificado por
+  meio da chave de acesso numérica ali impressa. Permite ao detentor do documento confirmar
+  a efetiva existência do CT-e ou do CT-e Simplificado, por meio dos sítios das SEFAZ autorizadoras
+  ou Receita Federal do Brasil, além de visualizar algumas informações importantes para o
+  modo aéreo.
+
+  A informação preenchida no DACTE deve ser um retrato fiel da informação que consta no CT-e
+  ou no CT-e Simplificado, de modo que, ao se observar um mesmo campo no CT-e ou no CT-e Simplificado
+  e em seu DACTE, o conteúdo deverá ser idêntico.
+
+  Caso se verifique algum erro de preenchimento na emissão do CT-e ou do CT-e Simplificado,
+  ele deverá ser corrigido de acordo com o disposto no MOC do CT-e ou documento equivalente
+  para o CT-e Simplificado, conforme aplicável.
+
+  O CT-e ou CT-e Simplificado e o DACTE devem estar à disposição da Anac sempre que solicitados.
+
+  Do preenchimento do CT-e
+
+  As informações para preenchimento presentes no MOC do CT-e são oriundas das necessidades
+  de diversos Órgãos Públicos em conjunto com os operadores aéreos.
+
+  Para fins de fiscalização e controle da Anac, seguem abaixo os grupos de informações que
+  devem ser preenchidos corretamente e de forma completa, conforme orientação do MOC do CT-e
+  e do disposto nesta IS:'
+keywords:
+- artigos-perigosos
+- carga
+- simplificado
+- dacte
+- aereo
+- caso
+- devera
+- informacao
+- informacoes
+- preenchimento
+- acesso
+- acordo
+- aplicavel
+- codigo
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

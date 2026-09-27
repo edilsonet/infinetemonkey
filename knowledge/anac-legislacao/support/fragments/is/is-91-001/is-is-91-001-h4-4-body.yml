@@ -1,0 +1,62 @@
+id: is-is-91-001-h4-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H4.4
+section_title: Os pilotos não devem voar uma rota RNP 2 publicada a menos que possam verificar
+  a rota, por seu nome, da base de dados de navegação a bordo, e confirmar que coincide com
+  a rota que aparece nas cartas. Porém, os pilotos podem posteriormente modificar a rota mediante
+  a inserção ou eliminação de pontos de rota específicos em resposta às solicitações e autorizações
+  do ATC. Os pilotos não devem fazer entradas manuais ou criar novos waypoints inserindo-os
+  manualmente. Além disso, os pilotos não devem trocar na base de dados nenhum tipo de waypoint
+  de fly-by para fly-over, ou vice-versa. Para as estruturas de rotas flexíveis, pode estar
+  permitido o ingresso de latitude e longitude, sempre e quando se leve em consideração o
+  potencial de erro no ingresso dos dados por parte dos pilotos, no momento de realizar as
+  análises de segurança associados.
+subsection_id: body
+cite: H4.4
+title: Os pilotos não devem voar uma rota RNP 2 publicada a menos que possam verificar a rota,
+  por seu nome, da base de dados de navegação a bordo, e confirmar que coincide com a rota
+  que aparece nas cartas. Porém, os pilotos podem posteriormente modificar a rota mediante
+  a inserção ou eliminação de pontos de rota específicos em resposta às solicitações e autorizações
+  do ATC. Os pilotos não devem fazer entradas manuais ou criar novos waypoints inserindo-os
+  manualmente. Além disso, os pilotos não devem trocar na base de dados nenhum tipo de waypoint
+  de fly-by para fly-over, ou vice-versa. Para as estruturas de rotas flexíveis, pode estar
+  permitido o ingresso de latitude e longitude, sempre e quando se leve em consideração o
+  potencial de erro no ingresso dos dados por parte dos pilotos, no momento de realizar as
+  análises de segurança associados.
+text: 'H4.4 Os pilotos não devem voar uma rota RNP 2 publicada a menos que possam verificar
+  a rota, por seu nome, da base de dados de navegação a bordo, e confirmar que coincide com
+  a rota que aparece nas cartas. Porém, os pilotos podem posteriormente modificar a rota mediante
+  a inserção ou eliminação de pontos de rota específicos em resposta às solicitações e autorizações
+  do ATC. Os pilotos não devem fazer entradas manuais ou criar novos waypoints inserindo-os
+  manualmente. Além disso, os pilotos não devem trocar na base de dados nenhum tipo de waypoint
+  de fly-by para fly-over, ou vice-versa. Para as estruturas de rotas flexíveis, pode estar
+  permitido o ingresso de latitude e longitude, sempre e quando se leve em consideração o
+  potencial de erro no ingresso dos dados por parte dos pilotos, no momento de realizar as
+  análises de segurança associados.
+
+  Nota: quando os pontos de referência que formam uma rota RNP 2 estão disponíveis pelo nome
+  na base de dados de navegação a bordo da aeronave, a autoridade operacional pode permitir
+  que os pilotos ingressem manualmente os pontos de referência para definir uma rota publicada
+  RNP 2 em seu sistema de navegação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rota
+- pilotos
+- dados
+- base
+- ingresso
+- navegacao
+- pontos
+- bordo
+- manualmente
+- nome
+- pode
+- publicada
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

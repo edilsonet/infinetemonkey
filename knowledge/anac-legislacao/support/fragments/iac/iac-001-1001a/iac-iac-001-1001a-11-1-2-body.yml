@@ -1,0 +1,31 @@
+id: iac-iac-001-1001a-11-1-2-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 11.1.2
+section_title: SUMÁRIO
+subsection_id: body
+cite: 11.1.2
+title: SUMÁRIO
+text: '11.1.2 SUMÁRIO
+
+  É a numeração das principais divisões e subdivisões, na mesma ordem em que a
+
+  matéria é apresentada. Poderá ser dispensado no documento com menos de cinco páginas.'
+keywords:
+- sumario
+- apresentada
+- cinco
+- dispensado
+- divisoes
+- documento
+- materia
+- menos
+- mesma
+- numeracao
+- ordem
+- paginas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

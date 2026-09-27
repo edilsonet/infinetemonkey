@@ -1,0 +1,39 @@
+id: iac-iac-001-1001a-9-1-7-d
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 9.1.7
+section_title: A publicação de caráter sigiloso deverá ter a numeração acrescida da abreviatura
+subsection_id: d
+cite: 9.1.7(d)
+title: 9.1.7(d)
+text: 'd) configuração das margens:
+
+  -margem superior: 3,0 cm
+
+  -margem inferior: 2,5 cm
+
+  -margem interna ou esquerda: 3,0 cm
+
+  -margem externa ou direita: 2,0 cm
+
+  -a partir da margem - cabeçalho: 1,5 cm
+
+  -a partir da margem - rodapé: 1,5 cm'
+keywords:
+- margem
+- partir
+- abreviatura
+- acrescida
+- cabecalho
+- carater
+- configuracao
+- devera
+- direita
+- esquerda
+- externa
+- inferior
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

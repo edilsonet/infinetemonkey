@@ -1,0 +1,51 @@
+id: is-is-21-61-005-apendice-f-fluxograma-para-aprovacao-de-item-da-mmel-e
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: apendice-f-fluxograma-para-aprovacao-de-item-da-mmel
+section_title: APÊNDICE F - FLUXOGRAMA PARA APROVAÇÃO DE ITEM DA MMEL
+subsection_id: e
+cite: apendice-f-fluxograma-para-aprovacao-de-item-da-mmel(e)
+title: apendice-f-fluxograma-para-aprovacao-de-item-da-mmel(e)
+text: 'e) Finally, for every candidate item, an additional assessment is required: check if
+  the candidate item in the dispatch condition combined with the two next most critical failures
+  results in a catastrophic failure condition. If the answer is negative, the assessment is
+  done. However, if it is positive and there are no reasonably feasible measures to reduce
+  such criticality, then a quantitative analysis will be required to determine the maximum
+  allowable time to dispatch the candidate item inoperative.
+
+  F.3 Quando for necessário executar os passos d) e e) para um item, o menor valor entre os
+  calculados será o tempo máximo de despacho permitido para o item.
+
+  F.3 When steps d) and e) are required to be executed for an item, the lowest value among
+  those calculated will be the maximum dispatch time allowed for the item.
+
+  F.4 Vale lembrar que o descrito acima é apenas uma breve explicação. Consulte as seções
+  5.3, 5.4 e Apêndice E para informações completas sobre como executar tais avaliações e os
+  critérios relacionados.
+
+  F.4 Notice that the abovementioned is just a brief explanation. Refer to sections 5.3, 5.4
+  and Appendix E for complete information about how to perform such assessments and related
+  criteria.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- apendice
+- candidate
+- dispatch
+- required
+- aprovacao
+- assessment
+- condition
+- executar
+- fluxograma
+- maximum
+- mmel
+- such
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

@@ -1,0 +1,49 @@
+id: is-is-121-001-5-1-2-3-8-d
+kind: is
+document: is-121-001
+family: '121'
+section_id: 5.1.2.3.8
+section_title: 'Mínimos meteorológicos. Deve atender os requisitos das seções 121.649, 121.651
+  e 121.652 do RBAC nº 121, incluindo:'
+subsection_id: d
+cite: 5.1.2.3.8(d)
+title: 5.1.2.3.8(d)
+text: 'd) mínimos em caso de deterioração de instalações do aeródromo.
+
+  5.1.2.3.9 Serviços disponíveis no aeródromo ou, especificamente, os serviços contratados
+  pelo operador no aeródromo, incluindo combustível, handling, serviços de degelo/antigelo.
+
+  5.1.2.3.10 Aviões utilizados no aeródromo, os procedimentos específicos para utilização
+  do aeródromo e as limitações operacionais associadas a cada modelo (incluindo peso máximo
+  de operação e outras restrições, de acordo com análise de pista).
+
+  5.1.2.3.11 Riscos específicos para operação no aeródromo, como pássaros, operação de pequenas
+  aeronaves, helicópteros, aeronaves em instrução, balões em determinado período do ano, pista
+  escorregadia, etc.
+
+  Nota: esse conteúdo normalmente possui relação com o SGSO do operador, podendo ser alimentado
+  por reportes de situações observadas pelos tripulantes ou funcionários das estações de linha
+  do operador.
+
+  5.1.2.3.11.1 Quando necessárias, o operador deve incluir também as mitigações adotadas para
+  os riscos identificados, tais como:'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- operador
+- incluindo
+- operacao
+- servicos
+- aeronaves
+- especificos
+- minimos
+- pista
+- riscos
+- acordo
+- adotadas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

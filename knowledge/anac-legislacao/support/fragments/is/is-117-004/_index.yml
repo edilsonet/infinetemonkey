@@ -1,0 +1,43 @@
+document: is-117-004
+kind: is
+title: IS 117-004B
+ementa: Orientações para implementação de um SGRF para operadores que tenham um GRF aceito
+  pela ANAC Em vigor em 1º de novembro de 2022
+family: '117'
+categories:
+- fadiga
+- jornada
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-004
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-004
+language: pt
+foreign_annex: false
+sections:
+- apendice-a-utilizando-matrizes-de-risco-na-avaliacao-949dd4
+- apendice-b-utilizando-ferramentas-de-mensuracao
+- apendice-c-avaliando-a-contribuicao-da-fadiga-em-even-0954ad
+- apendice-d-sistema-de-coleta-de-informacoes-e-dados
+- apendice-e-controle-de-alteracoes
+- aprovacao
+- disposicoes-finais
+- fundamentos
+- introducao
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 12
+fragment_ids:
+- is-is-117-004-preambulo-body
+- is-is-117-004-aprovacao-body
+- is-is-117-004-objetivo-body
+- is-is-117-004-revogacao-body
+- is-is-117-004-fundamentos-body
+- is-is-117-004-introducao-body
+- is-is-117-004-disposicoes-finais-body
+- is-is-117-004-apendice-a-utilizando-matrizes-de-risco-na-avaliacao-949dd4-body
+- is-is-117-004-apendice-b-utilizando-ferramentas-de-mensuracao-body
+- is-is-117-004-apendice-c-avaliando-a-contribuicao-da-fadiga-em-even-0954ad-body
+- is-is-117-004-apendice-d-sistema-de-coleta-de-informacoes-e-dados-body
+- is-is-117-004-apendice-e-controle-de-alteracoes-body
+parser_version: 7

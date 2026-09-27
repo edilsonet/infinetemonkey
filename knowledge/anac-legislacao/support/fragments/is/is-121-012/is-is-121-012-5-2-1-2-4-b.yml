@@ -1,0 +1,109 @@
+id: is-is-121-012-5-2-1-2-4-b
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.4
+section_title: Aeródromos de alternativa ETOPS
+subsection_id: b
+cite: 5.2.1.2.4(b)
+title: 5.2.1.2.4(b)
+text: 'b) aeródromos mais bem equipados (em termos de segurança operacional e de serviços
+  ao bem-estar dos passageiros em solo).
+
+  5.2.1.2.4.3 Requisitos de desempenho de pouso. Para fins de despacho de voo, o detentor
+  de certificado deve garantir que o aeródromo de alternativa ETOPS cumpra os requisitos de
+  desempenho de pouso da seção 121.197.
+
+  5.2.1.2.4.3.1 O detentor de certificado deve ainda verificar que os reportes de condição
+  de pista do aeródromo de alternativa ETOPS indicam que um pouso seguro pode ser feito, conforme
+  121.624(b)(2) do RBAC nº 121. Embora o RBAC não seja explícito com relação a qual margem
+  de segurança deve ser aplicada nesse caso, considera-se adequado que seja utilizada a margem
+  estabelecida no parágrafo 121.195(d) do RBAC nº 121.
+
+  5.2.1.2.4.3.2 Na avaliação do cumprimento dos requisitos de desempenho de pouso, pode ser
+  considerado o alijamento de combustível, se o avião possuir tal capacidade e se o detentor
+  de certificado incluir treinamento sobre o procedimento de alijamento e garantir que os
+  requisitos de suprimento de combustível não são prejudicados.
+
+  5.2.1.2.4.4 Mínimos meteorológicos dos aeródromos de alternativa ETOPS (121.624).
+
+  5.2.1.2.4.4.1 A avaliação dos mínimos meteorológicos dos aeródromos de alternativa ETOPS
+  deve considerar todo o período em que é prevista a possibilidade de pouso naquele aeródromo
+  de alternativa. Para calcular o início do período, considera-se um desvio a partir do ponto
+  de entrada ETOPS ou do ponto equidistante em tempo anterior àquele aeródromo de alternativa
+  (ou seja, o ponto da rota em que primeiramente se passa a utilizar aquele aeródromo como
+  principal alternativa). De forma similar, para calcular o final do período, considera-se
+  um desvio a partir do ponto de saída ETOPS ou do ponto equidistante em tempo posterior àquele
+  aeródromo de alternativa (ou seja, o último ponto da rota em que se considera utilizar aquele
+  aeródromo como principal alternativa).
+
+  Nota: para informações sobre os pontos equidistantes em tempo, refira-se ao parágrafo 5.2.1.2.6.6
+  desta IS.
+
+  5.2.1.2.4.4.2 Os mínimos meteorológicos para os aeródromos de alternativa ETOPS, utilizados
+  para fins de planejamento de voo, devem ser superiores aos mínimos publicados para o aeródromo,
+  que são utilizados para fins de operação, conforme indicado na Tabela 2. Para outras configurações
+  do aeródromo, a ANAC irá determinar os mínimos meteorológicos necessários.
+
+  Tabela 2 - Mínimos de alternativa ETOPS, para planejamento
+
+  Configuração dos auxílios de aproximação
+
+  MDA(H) ou DA(H)
+
+  Visibilidade mínima
+
+  Para aeroportos com pelo menos um auxílio de aproximação com um:
+
+  - procedimento de aproximação de não precisão direto; ou
+
+  - procedimento de aproximação de precisão Categoria I; ou
+
+  - quando aplicável, procedimento de aproximação por instrumentos com aproximação para circular.
+
+  Adicione 400 pés
+
+  Adicione 1600 m
+
+  Para aeroportos com pelo menos dois auxílios de navegação operacionais, cada um provendo
+  um procedimento de aproximação direta para duas pistas adequadas diferentes
+
+  Adicione 200 pés à mais alta MDA(H) ou DA(H)
+
+  Adicione 700 m à visibilidade mínima mais alta
+
+  Uma aproximação ILS Categoria II em uso
+
+  300 pés
+
+  1200 m ou RVR 1200 m
+
+  Uma aproximação ILS Categoria III em uso
+
+  200 pés
+
+  700 m ou RVR 550 m
+
+  Nota: os aeródromos de origem e de destino, caso não sejam listados também como um aeródromo
+  de alternativa ETOPS, não precisam atender aos requisitos de mínimos meteorológicos da seção
+  121.624 do RBAC nº 121.'
+keywords:
+- transporte-aereo
+- operacoes
+- alternativa
+- aerodromo
+- etops
+- aproximacao
+- minimos
+- aerodromos
+- ponto
+- meteorologicos
+- pouso
+- procedimento
+- requisitos
+- adicione
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

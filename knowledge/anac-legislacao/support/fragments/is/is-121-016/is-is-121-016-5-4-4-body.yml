@@ -1,0 +1,48 @@
+id: is-is-121-016-5-4-4-body
+kind: is
+document: is-121-016
+family: '121'
+section_id: 5.4.4
+section_title: É aceitável uma margem de uma hora antes e uma hora depois do horário previsto
+  de utilização.
+subsection_id: body
+cite: 5.4.4
+title: É aceitável uma margem de uma hora antes e uma hora depois do horário previsto de utilização.
+text: '5.4.4 É aceitável uma margem de uma hora antes e uma hora depois do horário previsto
+  de utilização.
+
+  Nota: observa-se que a margem de uma hora antes deve ser aplicada mesmo que seja impossível
+  se chegar ao aeródromo naquele horário, pois também há imprecisão nas previsões meteorológicas.
+  Por exemplo, um voo com previsão de duração de 1h30 estaria com previsão de decolagem às
+  17h e chegada às 18h30. Aplicando-se a margem de uma hora, devem ser consideradas as condições
+  meteorológicas previstas para o aeródromo de destino desde 17h30 até as 19h30 porque, embora
+  seja impossível realizar o voo em 30 minutos (ou seja, há certeza de que o avião não estará
+  no aeródromo de destino às 17h30), é possível que as condições meteorológicas previstas
+  para estarem vigentes até as 17h30 estejam vigentes até as 18h30 - ou ainda uma combinação
+  de ambos os fatores (o voo se adianta cerca de 15 minutos, e as condições meteorológicas
+  previstas para as 17h30 se prolongam por 45 minutos, até as 18h15).
+
+  5.5 Aeródromo de alternativa de decolagem (121.617)
+
+  5.5.1 O parágrafo 121.617(a) do RBAC nº 121 requer que o detentor de certificado selecione
+  e especifique no plano operacional de voo um aeródromo de alternativa de decolagem se:'
+keywords:
+- transporte-aereo
+- operacoes
+- hora
+- aerodromo
+- margem
+- 17h30
+- horario
+- meteorologicas
+- aceitavel
+- condicoes
+- decolagem
+- depois
+- minutos
+- seja
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-016.md

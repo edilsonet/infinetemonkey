@@ -1,0 +1,57 @@
+id: is-is-91-012-1-5-4-2-1-b
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.4.2.1
+section_title: 'A aeronave deve se enquadrar nas situações previstas em 91.213(d)(1):'
+subsection_id: b
+cite: 5.4.2.1(b)
+title: 5.4.2.1(b)
+text: 'b) desativado e rotulado como "inoperante". O operador deve avaliar se a desativação
+  do item não resulta em nenhum efeito adverso na operação de outros sistemas. Se a desativação
+  do item envolver manutenção, manutenção preventiva, reconstrução ou alteração, ela deve
+  ser realizada por pessoa autorizada, conforme a seção 43.3 do RBAC nº 43; o retorno ao serviço
+  deve ser aprovado por pessoa autorizada, conforme a seção 43.7 do RBAC nº 43; e a ocorrência
+  deve ser registrada no diário de bordo ou registro próprio que corresponda à parte II do
+  diário de bordo, de acordo com a seção 43.9 do RBAC nº 43.
+
+  Nota: o placar indicando que o item foi removido ou que está inoperante, conforme aplicável,
+  deve ser mantido enquanto a aeronave operar nessa condição. O objetivo é que futuros pilotos
+  e o pessoal de manutenção sejam claramente avisados da situação do item.
+
+  5.4.2.4 Por fim, um piloto adequadamente qualificado para operar a aeronave, conforme o
+  RBAC nº 61, ou uma pessoa devidamente qualificada e autorizada para fazer manutenção da
+  aeronave, conforme os RBAC nº 43 e 65, deve determinar que o item inoperante não constitui
+  risco para a operação da aeronave.
+
+  5.4.3 É responsabilidade do operador da aeronave, conforme a seção 91.405 do RBAC nº 91,
+  assegurar que as anotações apropriadas tenham sido feitas nos registros de manutenção da
+  aeronave, indicando sua aprovação para o retorno ao serviço; e que os placares foram instalados.
+  Além disso, o operador deve tomar providências para que o item inoperante seja reparado,
+  substituído, removido ou inspecionado na próxima inspeção requerida.
+
+  5.4.4 O piloto em comando do voo é o responsável pela verificação das condições da aeronave
+  quanto à segurança do voo, conforme a seção 91.7 do RBAC nº 91. Assim, independentemente
+  de avaliações de outros representantes do operador ou de o regulamento permitir o item inoperante,
+  a determinação final é do piloto em comando que pretende operar a aeronave, que deve considerar,
+  para isso, as condições de operação esperadas para cada voo.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- inoperante
+- manutencao
+- secao
+- operador
+- autorizada
+- operacao
+- operar
+- pessoa
+- piloto
+- bordo
+- comando
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

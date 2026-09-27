@@ -1,0 +1,64 @@
+id: is-is-145-163-001-historico-body
+kind: is
+document: is-145-163-001
+family: '145'
+section_id: historico
+section_title: Histórico
+subsection_id: body
+cite: historico
+title: Histórico
+text: 'Histórico
+
+  Os Ensaios Não Destrutivos - END são métodos que permitem a inspeção de artigos aeronáuticos,
+  tais como aeronave, motor, hélice e componentes, com uso desde equipamentos extremamente
+  portáteis a complexas estações de trabalho. As técnicas permitem, por meio de um critério
+  de aceitação/rejeição estabelecido em uma documentação de engenharia voltada para a manutenção
+  da aeronavegabilidade, determinar a presença de condições indesejáveis, como por exemplo:
+  trincas, corrosão, delaminação, etc.
+
+  Tais ensaios passaram a ter maior importância no mercado aeronáutico quando do estabelecimento
+  dos programas de aeronaves geriátricas. No mercado aeronáutico brasileiro existem diversas
+  empresas certificadas pela ANAC para a realização de END envolvendo produtos aeronáuticos.
+
+  Por volta do ano de 2001, as empresas foram requeridas a uniformizar as atividades de END,
+  e a orientar a formação de pessoal junto ao então Centro Técnico Aeroespacial/Instituto
+  de Fomento e Coordenação Industrial - CTA/IFI. Em outubro de 2002, foi editada a Instrução
+  de Aviação Civil - IAC 3146 - Requisitos Para a Realização de Ensaios Não Destrutivos por
+  Empresas de Manutenção de Aeronaves, documento que continha como anexo, a tradução da norma
+  National Aerospace Standard AIA-NAS-410 - Norma de Qualificação e Certificação de Pessoal
+  para END. Em 2011, foi criada a IS nº 43.13-003A, que revogou a IAC 3146.
+
+  Em 2013, o assunto END foi transposto em dois documentos: a IS nº 145.163-001A, que trata
+  da qualificação em END, e a IS nº 43.13-003C, que trata dos métodos de ensaio, ambas aplicáveis
+  na aviação civil brasileira.
+
+  Na revisão A desta IS, foram incluídas referências à legislação da Comissão Nacional de
+  Energia Nuclear - CNEN, do Conselho Regional dos Técnicos em Radiologia - CRTR e do Conselho
+  Nacional dos Técnicos em Radiologia - CONTER. A norma AIA-NAS-410 ou a equivalente nacional
+  NBR editada pela Associação Brasileira de Normas Técnicas - ABNT tornaram-se normas de referência,
+  deixando de ser texto anexo. Também foram incluídas referências a outras normas de treinamento,
+  qualificação e certificação em END, para OM certificadas em estado estrangeiro e para as
+  pertencentes a organizações militares.
+
+  Nesta revisão B, foi incluída a possibilidade de qualificação de profissionais por meio
+  da Associação do Comitê Brasileiro Aeroespacial de Ensaios Não Destrutivos - CBRAEND.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- ensaios
+- qualificacao
+- destrutivos
+- empresas
+- foram
+- historico
+- nacional
+- norma
+- normas
+- aeroespacial
+- aeronautico
+- aeronauticos
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-163-001.md

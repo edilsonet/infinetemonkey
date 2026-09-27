@@ -1,0 +1,73 @@
+id: is-is-121-005-apendice-c-gerenciamento-da-frota-body
+kind: is
+document: is-121-005
+family: '121'
+section_id: apendice-c-gerenciamento-da-frota
+section_title: APÊNDICE C - GERENCIAMENTO DA FROTA
+subsection_id: body
+cite: apendice-c-gerenciamento-da-frota
+title: APÊNDICE C - GERENCIAMENTO DA FROTA
+text: 'APÊNDICE C - GERENCIAMENTO DA FROTA
+
+  C1. A seção 119.49 do RBAC nº 119 estabelece o conteúdo das EO de um detentor de certificado
+  emitido segundo o RBAC nº 119 para operações segundo o RBAC nº 121.
+
+  C2. As EO dos detentores de certificado operando segundo o RBAC nº 121 trazem as informações
+  de cada modelo, tipo OACI, e combinação modelo-motor de aeronaves autorizadas a realizar
+  operações comerciais, sejam elas regulares ou não regulares. Não são listadas as marcas
+  de nacionalidade e matrícula das aeronaves.
+
+  C3. Dessa maneira, é responsabilidade do detentor de certificado possuir e formalizar em
+  seus manuais, em particular no MGO, processos e procedimentos para gerenciamento de sua
+  frota.
+
+  C4. Durante o processo de certificação inicial de uma organização requerente ou de inclusão
+  de novo modelo nas EO de um detentor de certificado, deverá ser demonstrado que a organização
+  requerente ou o detentor de certificado possui processo de gerenciamento de frota documentado
+  e efetivo que garanta o atendimento dos requisitos operacionais, de equipamentos, de manutenção
+  e de registro da legislação aplicável, nas operações segundo o RBAC nº 121.
+
+  C5. Para cumprimento das seções 119.49(a)(4)(i) e 119.49(b)(4)(i) do RBAC nº 119, os detentores
+  de certificado deverão manter atualizada a listagem de cada aeronave operada (Lista de Matrículas
+  Autorizadas) detalhando as suas capacidades e autorizações de forma a garantir que somente
+  aeronaves capacitadas são designadas para as operações autorizadas para o modelo nas EO.
+
+  C6. A Lista de Matrículas Autorizadas deve possuir um controle formal de revisões, de publicação
+  e de distribuição.
+
+  C7. A Lista de Matrículas Autorizadas deve ser disponibilizada à Anac sempre que solicitada
+  ao detentor de certificado.
+
+  C8. A Lista de Matrículas Autorizadas deve estar disponível nos mesmos locais onde são requeridas
+  as especificações operativas, incluindo a bordo das aeronaves. Caso seja do interesse da
+  empresa, é aceitável que o documento a bordo de uma dada aeronave (matrícula) possua somente
+  as informações da Lista de Matrículas Autorizadas relativas àquela aeronave. Os procedimentos
+  devem informar o tempo aceitável para que a Lista de Matrículas Autorizadas seja disponibilizada
+  nos locais onde é requerida após sua emissão ou revisão.
+
+  C9. Todas as revisões da Lista de Matrículas Autorizadas deverão ser mantidas por ao menos
+  5 anos, inclusive após a exclusão da aeronave da frota do operador, podendo ser em formato
+  digital.
+
+  C10. A Lista de Matrículas Autorizadas deve permanecer sempre atualizada, assinada por pessoa
+  da administração requerida (pessoal requerido pelo RBAC nº 119) indicada no MGO, e disponível
+  para consulta pela Anac. A lista deve ser composta ao menos pelas seguintes informações:'
+keywords:
+- transporte-aereo
+- operacoes
+- autorizadas
+- lista
+- matriculas
+- certificado
+- frota
+- detentor
+- gerenciamento
+- aeronave
+- aeronaves
+- modelo
+- segundo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

@@ -1,0 +1,39 @@
+id: is-is-91-001-c7-2-d
+kind: is
+document: is-91-001
+family: '91'
+section_id: C7.2
+section_title: 'Ao planejar operações em áreas onde o RNAV 10 é aplicado, o operador deve
+  avaliar o efeito dos ventos (em particular, o efeito dos ventos de proa). O operador pode
+  optar por realizar esta avaliação uma única vez para a rota pretendida ou realizar avaliações
+  para cada voo realizado. Ao realizar a avaliação mencionada o operador deve considerar os
+  aspectos destacados abaixo:'
+subsection_id: d
+cite: C7.2(d)
+title: C7.2(d)
+text: 'd) fontes de dados para a componente de vento: as componentes de vento, em especial,
+  o vento de proa, que devem ser consideradas para a rota em questão devem ser obtidas a partir
+  de qualquer fonte aceitável para a ANAC. Dentre estas fontes é possível citar institutos,
+  departamentos ou outras entidades nacionais que trabalhem com informações meteorológicas
+  (como por exemplo, INMET, INPE e REDEMET), fontes da indústria (tal como o Boeing Winds
+  on World Air Routes) ou ainda dados históricos coletados pelos operadores;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- fontes
+- operador
+- realizar
+- vento
+- avaliacao
+- dados
+- efeito
+- proa
+- rota
+- ventos
+- abaixo
+- aceitavel
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

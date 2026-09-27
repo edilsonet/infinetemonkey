@@ -1,0 +1,48 @@
+id: is-is-135-008a-5-8-1-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.8.1
+section_title: Geral
+subsection_id: body
+cite: 5.8.1
+title: Geral
+text: '5.8.1 Geral
+
+  5.8.1.1 Vários estudos de desempenho de tripulações, incidentes e acidentes identificaram
+  o monitoramento e a verificação cruzada inadequados, como vulnerabilidades na segurança
+  da aviação. O monitoramento e a verificação cruzada eficazes podem ser a última barreira
+  ou linha de defesa contra acidentes, porque a detecção de um erro ou de uma situação insegura
+  pode quebrar a cadeia de eventos que leva a um acidente. Inversamente, quando essa camada
+  de defesa está ausente, erros e situações inseguras podem passar despercebidos, potencialmente
+  levando a consequências adversas. Tripulações de voo devem usar o monitoramento para ajudá-las
+  a identificar, prevenir e mitigar os eventos que possam impactar as margens de segurança.
+  Portanto, é imperativo que os operadores estabeleçam uma política operacional e procedimentos
+  sobre os deveres do PM, incluindo o monitoramento, e implementem um treinamento eficaz para
+  as tripulações de voo e instrutores na tarefa de monitoramento, de modo a ajudar o PM a
+  rapidamente identificar, prevenir e mitigar os eventos que possam impactar as margens de
+  segurança.
+
+  5.8.1.2 A seção a seguir descreve o monitoramento eficaz, como definir e treinar os deveres
+  do PM e a integração do monitoramento nos SOP. Além disso, a seção discute considerações
+  especiais para o monitoramento de operações com piloto automático.'
+keywords:
+- taxi-aereo
+- operacoes
+- monitoramento
+- eventos
+- geral
+- seguranca
+- tripulacoes
+- acidentes
+- cruzada
+- defesa
+- deveres
+- eficaz
+- identificar
+- impactar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

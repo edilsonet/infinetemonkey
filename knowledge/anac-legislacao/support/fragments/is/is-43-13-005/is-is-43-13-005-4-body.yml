@@ -1,0 +1,91 @@
+id: is-is-43-13-005-4-body
+kind: is
+document: is-43-13-005
+family: '43'
+section_id: '4'
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: '4'
+title: DEFINIÇÕES
+text: '4. DEFINIÇÕES
+
+  4.1 Ferramentas especiais: são ferramentas especialmente projetadas para serem utilizadas
+
+  em um determinado artigo, e geralmente aplicam-se unicamente àquele artigo. As ferra-
+
+  mentas especiais recomendadas pelo fabricante do produto aeronáutico são identificadas
+
+  em documentos de serviço (Illustrated Tool and Equipment Listing, Aircraft Maintenance
+
+  Manual, Component Maintenance Manual, Service Bulletins, etc., incluindo as publicações
+
+  de detentores de Certificado Suplementar de Tipo). Cada ferramenta especial possui um
+
+  número/código específico de identificação (Part Number - P/N) e podem conter um núme-
+
+  ro de série (Serial Number - S/N). Exemplos de ferramentas especiais: garfo de reboque,
+
+  macaco de asa, protractor, gerador de sinal TCAS, ferramental de remoção/instalação de
+
+  motores, gabaritos e ferramentas de medição customizadas (rigagem), bancos de prova,
+
+  etc.
+
+  Nota - ferramentas/equipamentos/aparelhos comuns, disponíveis no mercado, tais como
+
+  alicates, soquetes, chaves allen, furadeiras, rebitadeiras, etc. não se enquadram na defini-
+
+  ção de ferramenta especial, mesmo que listado em documentos de serviço. Incluem-se nes-
+
+  se contexto, equipamentos mais sofisticados, tais como micrômetros, torquímetros, multí-
+
+  metros, e até estações de trabalho, tais como para inspeção por END. Modelos diferentes
+
+  de uma mesma ferramentas/equipamentos/aparelhos comuns (entre um ou mais fabrican-
+
+  tes) podem apresentar requisitos de aplicação e desempenho equivalentes entre si, entre-
+
+  tanto não são consideradas como uma ferramenta especial, tal como descrito na definição
+
+  acima.
+
+  4.2 Ferramentas especiais alternativas (ou opcionais): são ferramentas especiais, recomen-
+
+  dadas pelo fabricante de um determinado produto aeronáutico, que podem ser utilizadas
+
+  opcionalmente a uma determinada ferramenta especial para a mesma finalidade.
+
+  Nota - esse conceito pode não ser aplicado no caso de P/N de substituição de uma deter-27/08/2013
+  IS Nº 43.13-005
+
+  Revisão A
+
+  minada ferramenta especial pela obsolescência de uma de modelo anterior, quando o novo
+
+  substitui o anterior.
+
+  4.3 Ferramentas especiais equivalentes: são aquelas que, apesar de não serem as especifica-
+
+  mente recomendadas pelo fabricante do artigo são suas equivalentes, conforme demonstra-
+
+  ção considerada aceitável pela ANAC, e detalhada nesta IS.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- ferramentas
+- especiais
+- especial
+- ferramenta
+- artigo
+- definicoes
+- equipamentos
+- equivalentes
+- fabricante
+- podem
+- tais
+- aeronautico
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-13-005.md

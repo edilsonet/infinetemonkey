@@ -1,0 +1,91 @@
+id: is-is-119-005-7-body
+kind: is
+document: is-119-005
+family: '119'
+section_id: '7'
+section_title: ESPECIFICIDADES RELACIONADAS AO RBAC Nº 135
+subsection_id: body
+cite: '7'
+title: ESPECIFICIDADES RELACIONADAS AO RBAC Nº 135
+text: '7. ESPECIFICIDADES RELACIONADAS AO RBAC Nº 135
+
+  7.1 O objetivo desta seção é alertar sobre especificidades relacionadas ao cumprimento dos
+
+  requisitos do RBAC nº 135.
+
+  7.2 Algumas superfícies e sistemas são listadas no parágrafo 135.227(a) do RBAC nº 135 como
+
+  objetos de atenção dos operadores. São elas: “qualquer pá de rotor, hélice, para-brisas,
+  asa,
+
+  estabilizador ou superfície de controle, instalação do motor ou a qualquer parte do sistema
+
+  de velocímetro, altímetro, indicador de velocidade vertical ou sistema dos instrumentos
+  de
+
+  indicação de atitude de voo”. Porém, esses itens não são restritivos da necessidade de
+
+  observância de outros itens, conforme aplicável.Data de publicação: 9 de fevereiro de 2018
+  IS nº 119-005
+
+  Revisão A
+
+  7.3 A seção 135.227 do RBAC nº 135 relaciona algumas situações específicas, devido aos
+
+  diversos tipos de categorias de certificação que as aeronaves operadas possuem. Por isso,
+  o
+
+  parágrafo 135.227(c) do RBAC nº 135 informa que:
+
+  “(c) Exceto para um avião que possua as provisões de proteção contra gelo previstas na seção
+
+  34 do apêndice A do [RBAC nº 135] ou aquelas previstas para aeronaves certificadas na
+
+  categoria transporte, nenhum piloto pode operar uma aeronave:
+
+  (1) em voo IFR, em condições conhecidas ou previstas de formação leve ou moderada de
+
+  gelo; ou
+
+  (2) em voo VFR, em condições conhecidas ou previstas de formação leve ou moderada de
+
+  gelo, exceto se a aeronave possuir equipamento de degelo ou de antigelo em funcionamento
+
+  protegendo cada pá de rotor ou hélice e cada para-brisa, asa, estabilizador ou superfície
+  de
+
+  controle e cada sistema de velocidade, altitude, razão de subida e instrumento de atitude
+  de
+
+  voo.”
+
+  7.4 Já o parágrafo 135.227(e) do RBAC nº 135 informa que “exceto para um avião que possua
+
+  as provisões de proteção contra gelo previstas na seção 34 do apêndice A do [RBAC nº 135]
+
+  ou aquelas previstas para aeronaves certificadas na categoria transporte, nenhum piloto
+  pode
+
+  voar com uma aeronave em condições conhecidas ou previstas de formação pesada de gelo.”
+
+  Nota: Apesar de os parágrafos 135.227(c) e (e) do RBAC nº 135 referenciarem a seção 34 do'
+keywords:
+- certificacao-de-operador
+- operacoes
+- gelo
+- secao
+- especificidades
+- relacionadas
+- aeronave
+- aeronaves
+- cada
+- condicoes
+- conhecidas
+- exceto
+- formacao
+- paragrafo
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-005.md

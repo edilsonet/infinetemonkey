@@ -1,0 +1,44 @@
+id: is-is-e94-503-001c-5-3-3-body
+kind: is
+document: is-e94-503-001c
+family: '94'
+section_id: 5.3.3
+section_title: Pré-requerimento
+subsection_id: body
+cite: 5.3.3
+title: Pré-requerimento
+text: '5.3.3 Pré-requerimento
+
+  5.3.3.1 É facultado ao requerente fazer contato com a Superintendência de Aeronavegabilidade
+  - SAR da ANAC antes do envio da solicitação, para apresentação das características básicas
+  da aeronave para que a ANAC faça uma pré-avaliação e possa dirimir eventuais dúvidas do
+  requerente.
+
+  5.3.3.2 As aeronaves remotamente pilotadas classes 2 e 3 (peso máximo de decolagem igual
+  ou menor que 150 kg) devem ser cadastradas no SISANT selecionando o campo “aeronave experimental”
+  na página de cadastro de novo drone.
+
+  NOTA 3 - Caso a RPA Classe 2 ou 3 experimental tenha recebido um Certificado de Marcas Experimental
+  (CME) antes de 1º de junho de 2022, o requerente pode continuar usando essas marcas ou solicitar
+  o cancelamento do registro e fazer um novo cadastro no SISANT.
+
+  5.3.3.3 Para aeronaves remotamente pilotadas classe 1 (peso máximo de decolagem maior que
+  150 kg), antes de enviar a solicitação à ANAC, o requerente deve realizar a reserva das
+  marcas da RPA por meio do sistema eletrônico disponível no sítio eletrônico da ANAC.'
+keywords:
+- requerente
+- experimental
+- marcas
+- requerimento
+- aeronave
+- aeronaves
+- cadastro
+- classe
+- decolagem
+- eletronico
+- fazer
+- maximo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-503-001c.md

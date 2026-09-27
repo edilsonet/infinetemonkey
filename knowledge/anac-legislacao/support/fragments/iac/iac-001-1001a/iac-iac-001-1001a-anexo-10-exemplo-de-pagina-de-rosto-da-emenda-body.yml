@@ -1,0 +1,53 @@
+id: iac-iac-001-1001a-anexo-10-exemplo-de-pagina-de-rosto-da-emenda-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: anexo-10-exemplo-de-pagina-de-rosto-da-emenda
+section_title: ANEXO 10 - EXEMPLO DE PÁGINA DE ROSTO DA EMENDA
+subsection_id: body
+cite: anexo-10-exemplo-de-pagina-de-rosto-da-emenda
+title: ANEXO 10 - EXEMPLO DE PÁGINA DE ROSTO DA EMENDA
+text: 'ANEXO 10 - EXEMPLO DE PÁGINA DE ROSTO DA EMENDA
+
+  COMANDO DA AERONÁUTICA
+
+  DEPARTAMENTO DE AVIAÇÃO CIVIL
+
+  <ÓRGÃO ELABORADOR>
+
+  CORREÇÃO (ÕES) À IAC 001-1001A, de AAAA
+
+  TÍTULO DA INSTRUÇÃO
+
+  INSERIR DESTRUIR
+
+  PÁGINA DATA PÁGINA DATA
+
+  03 AAAA 03 AAAA
+
+  07 AAAA 07 AAAA
+
+  08 AAAA 08 AAAA
+
+  16 AAAA 16 AAAA
+
+  21 AAAA 21 AAAA
+
+  23 AAAA 23 AAAA'
+keywords:
+- aaaa
+- pagina
+- anexo
+- exemplo
+- rosto
+- data
+- 1001a
+- aeronautica
+- aviacao
+- civil
+- comando
+- correcao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

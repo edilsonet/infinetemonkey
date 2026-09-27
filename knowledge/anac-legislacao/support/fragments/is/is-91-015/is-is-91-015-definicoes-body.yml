@@ -1,0 +1,75 @@
+id: is-is-91-015-definicoes-body
+kind: is
+document: is-91-015
+family: '91'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  4.1 Para os propósitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes
+  definições:
+
+  4.1.1 Aeronavegável: para aeronave que possui projeto de tipo aprovado, é a condição na
+  qual ela se encontra de acordo com o projeto de tipo aplicável e em condições de operação
+  segura. Para a aeronave que não possui projeto de tipo aprovado, considera-se que está em
+  condição aeronavegável quando se encontrar em condição segura para operação aérea.
+
+  4.1.2 Cadernetas de Célula, Motor, Hélice: é o documento destinado aos registros primários
+  e secundários dos serviços de manutenção executados na aeronave, motor e hélice e seus componentes,
+  tais como: correção de pane, troca de componente, serviços de inspeção, revisão, cumprimento
+  de Boletins de Serviço, Diretrizes de Aeronavegabilidade, incorporação de alterações e de
+  reparos, e quaisquer outras atividades de manutenção realizadas. Têm o objetivo de centralizar
+  os registros de manutenção e quaisquer registros técnicos que evidenciem as reais condições
+  de aeronavegabilidade da aeronave, motor e hélice e de seus componentes, de modo a cumprir
+  os requisitos estabelecidos nos RBAC e demais normas pertinentes. As cadernetas de célula,
+  motor e hélice devem ser confeccionadas de acordo com as instruções contidas na IS nº 43.9-003.
+
+  4.1.3 Diário de Bordo: é o documento único, de porte obrigatório, destinado aos registros
+  de horas de voo, jornada e ocorrências com a aeronave e seus tripulantes, em conformidade
+  com o estabelecido na Lei nº 7.565, de 19 de dezembro de 1986, e deve ser confeccionado
+  de acordo com a Resolução nº 457 e as instruções contidas nas Portarias nº 2.050/SPO/SAR
+  e nº 3.220/SPO/SAR. O Diário de Bordo também é o documento oficial de referência para o
+  controle de tempo em serviço, da manutenção e dos registros de horas de voo e ciclos a serem
+  escriturados nas Cadernetas de Célula, Motor e Hélice.
+
+  4.1.4 Hora de Voo, Tempo de Voo ou Tempo em serviço: para efeito desta IS e do controle
+  de manutenção, hora ou tempo de voo ou tempo em serviço segue a definição de “Tempo em serviço”
+  constante do RBAC nº 01, que significa o tempo transcorrido desde o momento em que a aeronave
+  deixa a superfície da terra até o momento em que ela toca essa superfície, no pouso.
+
+  4.1.5 Registro Primário de Manutenção: é o registro principal das atividades de manutenção,
+  devendo ser completo e claro, e conter o método de cumprimento utilizado e o resultado da
+  ação de manutenção executada. Será considerado registro primário de manutenção aquele que
+  possua o conteúdo e forma das anotações, como as previstas nas seções 43.9 ou 43.11 do RBAC
+  nº 43, podendo ser utilizado para tais registros: Cadernetas de Célula, de Motor e de Hélice,
+  Ordens de Serviços, Fichas de Cumprimento de Diretrizes de Aeronavegabilidade (FCDA), Formulários
+  F-400-04 (SEGVOO 001), F-100-01 (SEGVOO 003) e similares.
+
+  4.1.6 Tempo desde Novo (TSN) ou Tempo Total de Voo para a Célula, Motor e Hélice: é a soma
+  total do tempo em serviço, desde o primeiro voo da aeronave, do motor ou da hélice. Quando
+  definido nos manuais dos fabricantes dos motores ou quaisquer outros componentes, as horas
+  e os ciclos de operação no banco de ensaio e no solo, serão adicionadas ao tempo em serviço
+  para efeito do cálculo de tempo desde novo (TSN).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- tempo
+- manutencao
+- helice
+- motor
+- aeronave
+- servico
+- registros
+- celula
+- definicoes
+- cadernetas
+- desde
+- acordo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-015.md

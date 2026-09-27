@@ -1,0 +1,48 @@
+id: is-is-135-002-definicoes-body
+kind: is
+document: is-135-002
+family: '135'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01 e RBAC nº 135
+  e na IS nº 119-004.
+
+  DISPOSIÇÕES INICIAIS
+
+  5.1. O conteúdo do MGO estabelece políticas, processos e procedimentos operacionais diretamente
+  relacionados à complexidade de cada operador, a depender do ambiente operacional e sua frota.
+
+  5.2. Os assuntos descritos no MGO devem estar correlacionados às autorizações previstas
+  nas especificações operativas. Não se faz necessária a inclusão de qualquer tema que não
+  possua relação direta com a operação vivenciada pela empresa.
+
+  5.3. O MGO é uma ferramenta administrativa utilizada para controlar e dirigir as atividades
+  do pessoal envolvido nas operações da empresa. A elaboração do MGO deve ser conduzida, orientada
+  e supervisionada pelo diretor de operações da empresa.
+
+  5.4. No tocante à aplicação das políticas, dos processos e procedimentos estabelecidos no
+  MGO, ficam estabelecidos os seguintes critérios:'
+keywords:
+- taxi-aereo
+- operacoes
+- definicoes
+- empresa
+- estabelecidos
+- politicas
+- procedimentos
+- processos
+- administrativa
+- ambiente
+- aplicacao
+- assuntos
+- atividades
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-002.md

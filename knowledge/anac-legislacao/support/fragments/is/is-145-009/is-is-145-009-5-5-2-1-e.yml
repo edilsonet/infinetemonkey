@@ -1,0 +1,64 @@
+id: is-is-145-009-5-5-2-1-e
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.2.1
+section_title: 'Referências: RBAC nº 43 e RBAC nº 145, parágrafos 145.209(c) e 145.209(c)-(I).'
+subsection_id: e
+cite: 5.5.2.1(e)
+title: 5.5.2.1(e)
+text: 'e) Lista mestra de equipamentos/ferramentas/materiais: o parágrafo 145.51(a)(5)(IV)
+  do RBAC nº 145 especifica que a empresa deve manter uma listagem assinada pelo RT relacionando
+  os equipamentos, ferramentas e dados técnicos, próprios e contratados, necessários ao desempenho
+  seguro das obrigações e responsabilidades da organização de manutenção. O MOM por sua vez
+  deve possuir procedimentos adequados para manter essa listagem completa e atualizada. A
+  lista deve referenciar também equipamentos mantidos para outras instalações. A lista pode
+  ser mantida, por exemplo, pelo departamento de contabilidade para finalidade fiscal. A lista
+  deve estar disponível para consulta pela ANAC. A lista não precisa incluir o custo do equipamento
+  ou quaisquer informações financeiras ou comerciais. Geralmente, a lista contém o P/N (Part
+  Number), a designação, o nº de patrimônio e, em casos aplicáveis, o S/N (Serial Number)
+  de cada ferramenta. Caso uma determinada ferramenta/equipamento/teste esteja indisponível,
+  a lista deve demostrar isso. A OM também deve considerar:
+
+  I- Para toda ferramenta deve ter um procedimento descrito em seu manual que permita a sua
+  fácil localização na OM. O controle aceitável de localização é por intermédio da listagem;
+
+  II- A listagem, contendo todas as ferramentas necessárias à realização dos serviços que
+  constam nas especificações operativas e/ou lista de capacidade de uma OM, relacionam ferramentas
+  com as tarefas de manutenção requeridas;
+
+  III- A necessidade de manter esta listagem não se limita ao processo de certificação dos
+  artigos, já que a OM deve prover um controle adequado sobre o ferramental requerido, e neste
+  sentido a listagem deve ser mantida atualizada e pode ser solicitada para verificação da
+  ANAC a qualquer tempo, inclusive durante as auditorias técnicas realizadas na OM;
+
+  IV- Caso a OM não possua determinada ferramenta requerida deverá, na listagem, informar
+  o motivo dessa falta;
+
+  NOTA 1: A não inclusão na listagem de todas as ferramentas requeridas, poderá ser considerado
+  pela ANAC como uma não conformidade crítica, resultando na remoção, das autorizações da
+  OM, dos serviços de manutenção relacionados às ferramentas faltantes.
+
+  V- Quando a OM não possuir alguma ferramenta, incluindo ferramenta especial (ou sua equivalente
+  aceitável pela ANAC), a ANAC correlacionará a ferramenta com as tarefas requeridas, podendo
+  ocasionar a suspensão da autorização para realizar todos os serviços nos quais a ferramenta
+  é necessária;'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- ferramenta
+- lista
+- listagem
+- ferramentas
+- equipamentos
+- manter
+- requeridas
+- servicos
+- aceitavel
+- atualizada
+- caso
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

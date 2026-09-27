@@ -1,0 +1,63 @@
+id: is-is-91-001-h4-7-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H4.7
+section_title: Todos os pilotos devem manter o eixo da rota, como representam os indicadores
+  de desvio lateral e/ou guia de voo de bordo, durante todas as operações RNP 2 descritas
+  neste manual, a menos que estejam autorizados pelo ATC a desviar-se ou em condições de emergência.
+  Para as operações normais, o erro/desvio lateral (a diferença entre a trajetória calculada
+  pelo sistema e a posição da aeronave com relação à trajetória, o FTE) deverá limitar-se
+  a ±½ da precisão de navegação correspondente à rota (quer dizer, 1 NM para RNP 2). Se permite
+  breves desvios deste padrão (por exemplo, recorrer uma distância muito comprida ou muito
+  curta) durante e imediatamente depois de um desvio, até um máximo igual à precisão de navegação
+  (2 NM para RNP 2). Algumas aeronaves não apresentam na tela nem calculam a trajetória durante
+  os desvios, de modo que os pilotos destas aeronaves não podem observar o padrão de precisão
+  de navegação lateral de ±½ durante os desvios, mas de todo modo se espera que cumpram a
+  norma durante as interceptações depois dos desvios e nos segmentos em linha reta.
+subsection_id: body
+cite: H4.7
+title: Todos os pilotos devem manter o eixo da rota, como representam os indicadores de desvio
+  lateral e/ou guia de voo de bordo, durante todas as operações RNP 2 descritas neste manual,
+  a menos que estejam autorizados pelo ATC a desviar-se ou em condições de emergência. Para
+  as operações normais, o erro/desvio lateral (a diferença entre a trajetória calculada pelo
+  sistema e a posição da aeronave com relação à trajetória, o FTE) deverá limitar-se a ±½
+  da precisão de navegação correspondente à rota (quer dizer, 1 NM para RNP 2). Se permite
+  breves desvios deste padrão (por exemplo, recorrer uma distância muito comprida ou muito
+  curta) durante e imediatamente depois de um desvio, até um máximo igual à precisão de navegação
+  (2 NM para RNP 2). Algumas aeronaves não apresentam na tela nem calculam a trajetória durante
+  os desvios, de modo que os pilotos destas aeronaves não podem observar o padrão de precisão
+  de navegação lateral de ±½ durante os desvios, mas de todo modo se espera que cumpram a
+  norma durante as interceptações depois dos desvios e nos segmentos em linha reta.
+text: H4.7 Todos os pilotos devem manter o eixo da rota, como representam os indicadores de
+  desvio lateral e/ou guia de voo de bordo, durante todas as operações RNP 2 descritas neste
+  manual, a menos que estejam autorizados pelo ATC a desviar-se ou em condições de emergência.
+  Para as operações normais, o erro/desvio lateral (a diferença entre a trajetória calculada
+  pelo sistema e a posição da aeronave com relação à trajetória, o FTE) deverá limitar-se
+  a ±½ da precisão de navegação correspondente à rota (quer dizer, 1 NM para RNP 2). Se permite
+  breves desvios deste padrão (por exemplo, recorrer uma distância muito comprida ou muito
+  curta) durante e imediatamente depois de um desvio, até um máximo igual à precisão de navegação
+  (2 NM para RNP 2). Algumas aeronaves não apresentam na tela nem calculam a trajetória durante
+  os desvios, de modo que os pilotos destas aeronaves não podem observar o padrão de precisão
+  de navegação lateral de ±½ durante os desvios, mas de todo modo se espera que cumpram a
+  norma durante as interceptações depois dos desvios e nos segmentos em linha reta.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- durante
+- desvios
+- desvio
+- lateral
+- navegacao
+- precisao
+- trajetoria
+- aeronaves
+- depois
+- modo
+- operacoes
+- padrao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

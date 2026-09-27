@@ -1,0 +1,43 @@
+id: is-is-91-005-d3-6-b
+kind: is
+document: is-91-005
+family: '91'
+section_id: D3.6
+section_title: 'Os padrões das aeronaves que devem ser enviados para avaliação dos aspectos
+  referentes a aeronavegabilidade são os seguintes:'
+subsection_id: b
+cite: D3.6(b)
+title: D3.6(b)
+text: 'b) para todas as condições do envelope completo:
+
+  I. erro residual na tomada de pressão estática + pior caso possível decorrente dos aviônicos
+  ≤60 m (200 ft)
+
+  Nota
+
+  : pior caso possível decorrente dos aviônicos significa uma combinação de valores de tolerância,
+  especificados pelo fabricante para o altímetro instalado na aeronave, os quais preveem uma
+  combinação máxima do valor absoluto para o erro residual da tomada de pressão estática mais
+  os erros dos aviônicos.
+
+  D4. MANUTENÇÃO DE ALTITUDE'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- avionicos
+- caso
+- combinacao
+- decorrente
+- erro
+- estatica
+- pior
+- possivel
+- pressao
+- residual
+- tomada
+- absoluto
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

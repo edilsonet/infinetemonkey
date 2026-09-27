@@ -1,0 +1,69 @@
+id: is-is-135-008a-5-6-1-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.6.1
+section_title: Geral
+subsection_id: body
+cite: 5.6.1
+title: Geral
+text: '5.6.1 Geral
+
+  5.6.1.1 As listas de verificação são um tipo especial de procedimento. Elas são a forma
+  em que procedimentos expandidos são destrinchados e, muitas vezes, são a forma mais comum
+  e mais frequente pela qual as tripulações interagem com os procedimentos. Na cabine de pilotagem
+  as listas de verificação são uma ferramenta importante para garantir a padronização das
+  tarefas a serem executadas.
+
+  5.6.1.2 Os principais objetivos de uma lista de verificação são promover uma estrutura sequencial
+  de trabalho dentro da cabine, permitir a supervisão mútua dos tripulantes, estabelecer uma
+  divisão de tarefas lógica e otimizada, integrar os tripulantes em um time unificado conhecedor
+  da configuração atual da aeronave e prover uma ferramenta de controle de qualidade para
+  os pilotos.
+
+  5.6.1.3 Listas de verificação do tipo do-verify, do-response ou do-list são aquelas em que
+  o método de execução das tarefas se assemelha a um livro de receitas, apresentando instruções
+  passo a passo para que o piloto configure a aeronave. Esse tipo de lista de verificação
+  elimina a verificação de redundância, permitindo que um item seja omitido de maneira despercebida
+  pelos pilotos. Devido a essa desvantagem, esse método deve ser de uso restrito a procedimentos
+  pouco usuais, a fim de manter um nível aceitável de segurança operacional.
+
+  5.6.1.4 Listas de verificação do tipo challenge-do-verify, challenge-verification-response
+  ou challenge-response são aquelas em que a lista de verificação é um procedimento redundante,
+  em que primeiramente os pilotos configuram a aeronave de acordo com a memória - preferencialmente
+  seguindo um fluxo (flow) ou roteiro lógico, de fácil memorização, e, após terminarem a sequência
+  de ações, usam o checklist para verificar se todos os itens presentes na lista foram corretamente
+  executados. Esse é o método mais comumente utilizado hoje.
+
+  5.6.1.5 É recomendável que o operador estabeleça um ou mais procedimentos aceitáveis a serem
+  utilizados no caso da interrupção de execução de um checklist, como, por exemplo, retomar
+  a execução do início.
+
+  5.6.1.6 O desempenho dos pilotos se degrada enormemente na execução de mais de uma tarefa
+  por vez. Portanto, os procedimentos apresentados devem ser preferencialmente sequenciais,
+  com uma nova ação se iniciando apenas após o término da ação que a precede. Isso inclui,
+  por exemplo: limitar a execução de briefings e mudanças de configuração da aeronave para
+  situações que não exijam a realização de outras tarefas ou a interrupção do checklist; executar
+  o briefing de decolagem e a configuração dos flapes ainda com a aeronave estacionada e não
+  durante o táxi; ou evitar realizar briefing de aproximação próximo a momentos de comunicação
+  com o órgão ATC.'
+keywords:
+- taxi-aereo
+- operacoes
+- verificacao
+- aeronave
+- execucao
+- procedimentos
+- lista
+- listas
+- pilotos
+- tarefas
+- tipo
+- challenge
+- checklist
+- configuracao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

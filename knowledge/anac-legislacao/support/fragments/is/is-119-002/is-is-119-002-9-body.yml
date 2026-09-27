@@ -1,0 +1,174 @@
+id: is-is-119-002-9-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: '9'
+section_title: A ANÁLISE DO FALTANTE E O PLANO DE IMPLANTAÇÃO DO SGSO
+subsection_id: body
+cite: '9'
+title: A ANÁLISE DO FALTANTE E O PLANO DE IMPLANTAÇÃO DO SGSO
+text: '9. A ANÁLISE DO FALTANTE E O PLANO DE IMPLANTAÇÃO DO SGSO
+
+  9.1 Ao iniciar a implantação do SGSO, o gestor responsável do detentor de certificado deve
+
+  realizar uma Análise do Faltante relacionada à segurança operacional, considerando as
+
+  estruturas, os processos e procedimentos existentes ou implantados e a estrutura
+
+  proposta pela ANAC para o SGSO. Esta análise é importante, pois as estruturas
+
+  necessárias para iniciar a operação do SGSO podem já existir na organização.
+
+  9.2 A identificação dos componentes/elementos existentes deve ser feita de forma clara
+
+  permitindo que todos entendam as estruturas existentes e sua contribuição para a
+
+  operação do SGSO a ser implantado, uma vez que várias podem estar estabelecidas e
+
+  funcionando e o desenvolvimento do SGSO deveria ser construído considerando essas
+
+  estruturas.
+
+  9.3 Os estudos devem demonstrar a compatibilidade do existente em relação à política e aos
+
+  objetivos do SGSO estabelecidos pelo gestor responsável do gestor responsável de um
+
+  detentor do certificado e deixar claro quais estruturas de segurança operacional existem
+
+  e funcionam, e quais precisam ser implantadas ou adequadas.
+
+  9.4 O Apêndice E tem por objetivo auxiliar o gestor responsável do detentor do certificado
+
+  na realização da Análise do Faltante, ao apresentar perguntas estruturadas, baseadas na
+
+  regulação. Os resultados devem facilitar a identificação do que existe, do que precisa ser
+
+  adequado aos novos requisitos estabelecidos, bem como reconhecer quais asData da emissão:
+  9 de novembro de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  modificações na estrutura administrativa a serem implantadas e os novos processos e
+
+  procedimentos a serem instituídos, visando a aceitação do SGSO pela ANAC
+
+  9.5 A utilização do formulário apresentado não é de cumprimento obrigatório, mas servirá
+
+  para que cada gestor responsável do detentor do certificado elabore seu Plano de
+
+  Implantação do SGSO, bem como prepare a documentação a ser apresentada à ANAC,
+
+  como parte do processo de certificação.
+
+  9.6 Caso o gestor responsável do detentor do certificado adote outro modelo, caberá à
+
+  ANAC identificar se a proposta apresentada permite avaliar todos os requisitos que
+
+  podem ser verificados com a utilização do modelo proposto no Apêndice E, ou se a
+
+  documentação apresentada pelo detentor de certificado deve ser revisto e corrigido antes
+
+  de nova análise e aceitação.
+
+  9.7 Cada questão foi idealizada para receber um "sim" ou um "não" como resposta. A
+
+  resposta "sim" indica que o detentor do certificado já tem o componente ou o elemento
+
+  implantado e funcionando em seu SGSO ou excede a exigência. A resposta "não" indica
+
+  que existe uma lacuna entre o funcionamento da empresa e os requisitos previstos para
+
+  os componentes / elementos do SGSO do detentor do certificado.
+
+  9.8 A última coluna deve ser utilizada para inserir comentários a respeito do status de
+
+  implantação do requisito. Se a resposta na coluna anterior for “sim”, deve declarar onde
+
+  ou em que parte da documentação do detentor do certificado o requisito está atendido.
+
+  Se a resposta for “não”, deve ser identificada a ação ou o processo que precisa ser
+
+  desenvolvido e em que fase.
+
+  9.9 A avaliação dos resultados da Análise do Faltante (Apêndice E) permitirá que o gestor
+
+  responsável do detentor do certificado elabore um Plano de Implantação do SGSO mais
+
+  consistente, refletindo as ações identificadas como necessárias para a adequação ao
+
+  estabelecido na regulação em cada fase. Os prazos a serem considerados devem ser
+
+  compatíveis com aqueles estabelecidos no Apêndice Q do RBAC 121 ou no Apêndice I
+
+  do RBAC 135.
+
+  9.10 O Plano de Implantação do SGSO, parte integrante do MGSO, deve refletir a
+
+  implantação dos componentes/elementos do SGSO em cada fase sem, entretanto,
+
+  desconsiderar o apresentado no Apêndice A desta IS. Outro ponto importante é
+
+  representar esse Plano graficamente, por meio de um cronograma. Esta ferramenta, que
+
+  pode se tão sofisticada quanto deseje o gestor responsável do detentor e/ou requerente
+
+  de um certificado, vai auxiliar o grupo de planejamento e na visualização das atividades
+
+  planejadas ao longo das quatro fases. O Apêndice F apresenta um modelo para esse
+
+  cronograma de implantação dos componentes/elementos do SGSO de um detentor e/ou
+
+  requerente de um certificado, compatível com a estrutura do Apêndice A. Os elementos
+
+  a serem implantados ou modificados podem ser mais detalhados ou agrupados em
+
+  projetos maiores.
+
+  9.11 É importante considerar a alocação de um gestor por cada projeto, que ficará
+
+  responsável pela supervisão do desenvolvimento e por sua implantação. Para cada
+
+  implantação ou modificação proposta deveriam ser estabelecidos marcos ou produtos
+
+  com datas intermediárias àquelas estabelecidas para término da fase. Isso deve garantir
+
+  o compromisso de que a conclusão ocorra até a data aceita pela ANAC e vinculada ao
+
+  NADSO. O Apêndice G apresenta um exemplo de formulário cujo objetivo é ajudar oData da emissão:
+  9 de novembro de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  diretor ou gerente de segurança operacional na gestão do Plano de Implantação do
+
+  SGSO do PSAC.
+
+  9.12 As situações que demandarem mudanças no planejamento aceito pela ANAC devem ser
+
+  comunicadas o mais rápido possível ao inspetor responsável pelo processo de
+
+  certificação do detentor e/ou requerente de um certificado, de forma a obter nova
+
+  aceitação, considerando o tempo necessário à revisão dos documentos. O PSAC deveria
+
+  enviar relatórios periódicos ao inspetor sobre o progresso do plano acordado.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- sgso
+- certificado
+- detentor
+- implantacao
+- responsavel
+- apendice
+- gestor
+- plano
+- analise
+- cada
+- faltante
+- elementos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

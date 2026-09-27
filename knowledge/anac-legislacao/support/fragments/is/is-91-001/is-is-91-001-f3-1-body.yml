@@ -1,0 +1,57 @@
+id: is-is-91-001-f3-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: F3.1
+section_title: Os operadores devem atentar-se para a correta utilização dos designadores durante
+  o preenchimento do plano de voo, de acordo com as operações PBN que serão executadas durante
+  o trajeto planejado. A letra ‘R’ deve ser inserida no campo 10 do plano de voo OACI de forma
+  a indicar que o piloto avaliou a rota planejada, identificando os requisitos de navegação
+  e de modo a confirmar que tanto aeronave quanto operador encontram-se autorizados pela ANAC
+  para efetuar as operações RNP 4 planejadas. É importante salientar que requisitos adicionais
+  devem ser atendidos de maneira a possibilitar a autorização para operações em espaços aéreos
+  ou rotas RNP 4. Para operações em que o padrão de separação lateral e/ou longitudinal é
+  de 30 NM o Controller-Pilot Data Link Communications (CPDLC) e o Automatic Dependent Surveillance
+  - Contract (ADS-C) também podem ser requeridos.
+subsection_id: body
+cite: F3.1
+title: Os operadores devem atentar-se para a correta utilização dos designadores durante o
+  preenchimento do plano de voo, de acordo com as operações PBN que serão executadas durante
+  o trajeto planejado. A letra ‘R’ deve ser inserida no campo 10 do plano de voo OACI de forma
+  a indicar que o piloto avaliou a rota planejada, identificando os requisitos de navegação
+  e de modo a confirmar que tanto aeronave quanto operador encontram-se autorizados pela ANAC
+  para efetuar as operações RNP 4 planejadas. É importante salientar que requisitos adicionais
+  devem ser atendidos de maneira a possibilitar a autorização para operações em espaços aéreos
+  ou rotas RNP 4. Para operações em que o padrão de separação lateral e/ou longitudinal é
+  de 30 NM o Controller-Pilot Data Link Communications (CPDLC) e o Automatic Dependent Surveillance
+  - Contract (ADS-C) também podem ser requeridos.
+text: F3.1 Os operadores devem atentar-se para a correta utilização dos designadores durante
+  o preenchimento do plano de voo, de acordo com as operações PBN que serão executadas durante
+  o trajeto planejado. A letra ‘R’ deve ser inserida no campo 10 do plano de voo OACI de forma
+  a indicar que o piloto avaliou a rota planejada, identificando os requisitos de navegação
+  e de modo a confirmar que tanto aeronave quanto operador encontram-se autorizados pela ANAC
+  para efetuar as operações RNP 4 planejadas. É importante salientar que requisitos adicionais
+  devem ser atendidos de maneira a possibilitar a autorização para operações em espaços aéreos
+  ou rotas RNP 4. Para operações em que o padrão de separação lateral e/ou longitudinal é
+  de 30 NM o Controller-Pilot Data Link Communications (CPDLC) e o Automatic Dependent Surveillance
+  - Contract (ADS-C) também podem ser requeridos.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- durante
+- plano
+- requisitos
+- acordo
+- adicionais
+- aereos
+- aeronave
+- atendidos
+- atentar
+- automatic
+- autorizacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

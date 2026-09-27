@@ -1,0 +1,58 @@
+id: is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-f
+kind: is
+document: is-e94-004a
+family: '94'
+section_id: apendice-c-documentos-necessarios-para-abertura-do-processo
+section_title: APÊNDICE C - DOCUMENTOS NECESSÁRIOS PARA ABERTURA DO PROCESSO
+subsection_id: f
+cite: apendice-c-documentos-necessarios-para-abertura-do-processo(f)
+title: apendice-c-documentos-necessarios-para-abertura-do-processo(f)
+text: 'f) Informações do RPAS.
+
+
+  C.2 Documentos Técnicos
+
+  C.2.1 Manual de operação do RPAS, incluindo as seguintes seções: capa do manual; tabela
+  com controle de revisões; introdução; informações gerais e descrição técnica do RPAS; performance
+  (desempenho) e limitações do RPAS; procedimentos normais de operação; procedimentos de emergência;
+  peso e balanceamento e lista de equipamentos; instruções de manuseio, serviço, manutenção
+  de campo e aeronavegabilidade continuada; e suplementos ao manual de operação (se aplicável).
+  Para a elaboração deste manual, recomenda-se a norma ASTM F2908-23.
+
+  C.2.2 Lista de verificação (check-list) pré e pós-voo. O requerente deverá elaborar uma
+  lista de verificação, baseada no manual de operação, manual manutenção ou outro documento,
+  de maneira a orientar o operador.
+
+  C.2.3 Manual de manutenção. Para a elaboração desse manual, recomenda-se o uso da norma
+  ASTM F3366-19.
+
+  C.2.4 Programa de treinamento mínimo necessário. O fabricante deverá elaborar um programa
+  de treinamento mínimo para operação do RPAS. Para elaboração deste documento, recomenda-se
+  a utilização da norma ASTM F3330-23.
+
+  C.2.5 Distribuição de responsabilidades e deveres associados.
+
+  C.2.6 Declaração desempenho do enlace de C2. O requerente deverá declarar que o enlace de
+  C2 do RPAS possui desempenho adequado; que fora testado a uma distância pelo menos 20% maior
+  que o máximo alcance especificado entre o RPS e a RPA, conforme item 5.4.4 da IS nº E94-002A.
+  O requerente deverá ainda atestar que o RPAS possui certificado de homologação de seu enlace
+  de C2 junto à Anatel.
+
+  C.2.7 Declaração de que o RPAS fornece as seguintes informações para o piloto remoto:'
+keywords:
+- manual
+- rpas
+- operacao
+- devera
+- astm
+- desempenho
+- documentos
+- elaboracao
+- enlace
+- informacoes
+- lista
+- manutencao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-004a.md

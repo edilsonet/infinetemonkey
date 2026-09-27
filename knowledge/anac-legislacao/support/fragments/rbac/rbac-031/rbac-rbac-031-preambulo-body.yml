@@ -3,32 +3,11 @@ kind: rbac
 document: rbac-031
 family: '31'
 section_id: preambulo
-section_title: Preambulo e sumario
+section_title: PREÂMBULO
 subsection_id: body
 cite: preambulo
-title: Preambulo e sumario
-text: '143
-
-  REGULAMENTO BRASILEIRO
-
-  DA AVIAÇÃO CIVIL
-
-  Título:
-
-  REQUISITOS
-
-  DE
-
-  AERONAVEGABILIDADE:
-
-  BALÕES LIVRES TRIPULADOS.
-
-  Aprovação:
-
-  Resolução nº 363, de 14 de outubro de 2015.
-
-
-  PREÂMBULO
+title: PREÂMBULO
+text: 'PREÂMBULO
 
 
   Para aprovação no Brasil, quanto à aeronavegabilidade de balões livres tripulados, será
@@ -62,16 +41,17 @@ text: '143
 keywords:
 - aeronavegabilidade
 - baloes
-- regulamento
 - preambulo
 - referencia
-- aprovacao
-- aviacao
-- civil
+- regulamento
 - deste
 - federal
-- livres
 - numero
+- utilizado
+- adaptacoes
+- administration
+- america
+- aprovacao
 categories:
 - aeronavegabilidade
 - baloes

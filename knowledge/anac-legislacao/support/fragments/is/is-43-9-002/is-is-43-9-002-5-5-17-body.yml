@@ -1,0 +1,36 @@
+id: is-is-43-9-002-5-5-17-body
+kind: is
+document: is-43-9-002
+family: '43'
+section_id: 5.5.17
+section_title: 'Campo 15 - Nº de Autorização da ANAC (ANAC Authorization Number): Se a pessoa'
+subsection_id: body
+cite: 5.5.17
+title: 'Campo 15 - Nº de Autorização da ANAC (ANAC Authorization Number): Se a pessoa'
+text: '5.5.17 Campo 15 - Nº de Autorização da ANAC (ANAC Authorization Number): Se a pessoa
+
+  indicada no campo 14 for PCF, colocar o número do credenciamento que lhe foi dado pela
+
+  ANAC. Se a assinatura é de um inspetor da ANAC, o número será de sua identificação
+
+  funcional.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- campo
+- authorization
+- autorizacao
+- number
+- pessoa
+- numero
+- assinatura
+- colocar
+- credenciamento
+- dado
+- funcional
+- identificacao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-9-002.md

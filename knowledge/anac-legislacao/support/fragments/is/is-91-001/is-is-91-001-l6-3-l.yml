@@ -1,0 +1,37 @@
+id: is-is-91-001-l6-3-l
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.3
+section_title: Considerações pré-voo e de decolagem para operações RNP AR DP
+subsection_id: l
+cite: L6.3(l)
+title: L6.3(l)
+text: l) Procedimentos RNP AR, incluindo os RNP AR DP, requerem que o sistema RNP da aeronave
+  possua funcionalidade de escalabilidade automática de RNP. Se o sistema RNP não extrai e
+  configura automaticamente o valor RNP da base de dados de navegação para um procedimento
+  RNP AR DP, os procedimentos para os pilotos devem exigir que seja selecionado o menor valor
+  RNP para o respectivo procedimento RNP AR DP antes de iniciar a decolagem. Como o menor
+  valor RNP utilizado em procedimentos RNP AR DP é 0.3, um meio aceitável de cumprir essa
+  exigência é exigir que o piloto selecione RNP 0.3 para uso em todo o procedimento RNP AR
+  DP.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimento
+- procedimentos
+- valor
+- decolagem
+- exigir
+- menor
+- sistema
+- aceitavel
+- aeronave
+- automatica
+- automaticamente
+- base
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

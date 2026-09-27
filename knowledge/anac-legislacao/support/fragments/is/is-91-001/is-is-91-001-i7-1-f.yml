@@ -1,0 +1,49 @@
+id: is-is-91-001-i7-1-f
+kind: is
+document: is-91-001
+family: '91'
+section_id: I7.1
+section_title: 'Para a condução de operações RNP APCH, além dos tópicos destacados no item
+  5.8 desta IS, de forma complementar, o operador deve atentar para abordar e incorporar em
+  seu programa de treinamento os itens apresentados abaixo:'
+subsection_id: f
+cite: I7.1(f)
+title: I7.1(f)
+text: 'f) os procedimentos de operação dos sistemas RNP, conforme aplicável, incluindo como
+  realizar as seguintes ações:
+
+  i. carregar e voar um procedimento RNP APCH;
+
+  ii. verificar waypoints e programação do plano de voo;
+
+  iii. aderir às restrições de velocidade e/ou altitude associadas a um procedimento de aproximação;
+
+  iv. interceptar um segmento inicial ou intermediário de uma aproximação seguindo as instruções
+  do ATC;
+
+  v. determinar o erro/desvio perpendicular à trajetória (cross-track error);
+
+  vi. se requerido, realizar a verificação dos erros de navegação por meio de conferências
+  cruzadas utilizando auxílios à navegação convencionais; e
+
+  vii. alterar o aeródromo de chegada e o aeródromo de alternativa;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aerodromo
+- apch
+- aproximacao
+- navegacao
+- procedimento
+- realizar
+- abaixo
+- abordar
+- acoes
+- aderir
+- alem
+- alterar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

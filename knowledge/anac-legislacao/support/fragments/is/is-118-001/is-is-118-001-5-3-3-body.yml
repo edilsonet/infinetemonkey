@@ -1,0 +1,48 @@
+id: is-is-118-001-5-3-3-body
+kind: is
+document: is-118-001
+family: '118'
+section_id: 5.3.3
+section_title: O operador não pode incluir o item específico NEF dentro da MEL, mas, sim,
+  deve criar uma lista própria e fazer referência a essa lista na ATA 25 da MEL.
+subsection_id: body
+cite: 5.3.3
+title: O operador não pode incluir o item específico NEF dentro da MEL, mas, sim, deve criar
+  uma lista própria e fazer referência a essa lista na ATA 25 da MEL.
+text: '5.3.3 O operador não pode incluir o item específico NEF dentro da MEL, mas, sim, deve
+  criar uma lista própria e fazer referência a essa lista na ATA 25 da MEL.
+
+  5.3.4 A lista NEF, na maioria dos casos deve ser abrangente, mas pode ter itens listados
+  como generalidades. Como exemplo para esses casos, os frisos de acabamento podem estar listados
+  em termos gerais, ao invés de serem identificados individualmente.
+
+  5.4 Programa NEF
+
+  5.4.1 É um manual desenvolvido pelo operador que define Item NEF, coerentemente com a definição
+  contida na seção 4 desta IS, estabelece procedimentos para identificação, diferimento, extensão
+  do diferimento e controle da manutenção dos itens NEF para as aeronaves de sua frota, e
+  estabelece as responsabilidades sobre a execução dessas atividades. É aplicável aos operadores
+  aéreos que operem segundo o RBAC nº 91 (incluindo Subparte K), 121 e 135 que possuam MEL
+  aprovada.
+
+  Nota: para efeitos desta IS, operadores sob outros regulamentos específicos (como RBAC nº
+  90, 133, 136, 137, 141 e 142, entre outros), que não possuem requisitos específicos sobre
+  MEL, são considerados como operadores regidos exclusivamente sob o RBAC nº 91, pois suas
+  operações com itens inoperantes são reguladas pela seção 91.213 do RBAC nº 91.'
+keywords:
+- lista
+- operador
+- pode
+- criar
+- dentro
+- especifico
+- fazer
+- incluir
+- operadores
+- propria
+- referencia
+- casos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-118-001.md

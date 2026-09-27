@@ -1,0 +1,68 @@
+id: is-is-135-008a-5-8-7-6-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.8.7.6
+section_title: Os pilotos devem ser treinados em falhas de sistemas que podem distraí-los
+  de um monitoramento eficaz e do gerenciamento adequado da trajetória de voo.
+subsection_id: body
+cite: 5.8.7.6
+title: Os pilotos devem ser treinados em falhas de sistemas que podem distraí-los de um monitoramento
+  eficaz e do gerenciamento adequado da trajetória de voo.
+text: '5.8.7.6 Os pilotos devem ser treinados em falhas de sistemas que podem distraí-los
+  de um monitoramento eficaz e do gerenciamento adequado da trajetória de voo.
+
+  5.8.7.7 Os pilotos devem ser treinados para gerenciar distrações que interfiram no monitoramento
+  da trajetória de voo. O treinamento deve fornecer orientações sobre gestão de prioridades
+  de tarefas e capacitá-los efetivamente para alternar entre outras tarefas e para monitoramento
+  da trajetória de voo a fim que a vigilância da trajetória de voo seja sempre mantida. Inclua
+  estratégias de gestão de informações e tarefas que permitam aos pilotos utilizar cartas,
+  EFB, ACARS etc. enquanto monitoram eficazmente a trajetória de voo e o estado de energia
+  do avião.
+
+  5.8.7.8 Os pilotos devem ser treinados em métodos de intervenção que o PM possa usar para
+  ajudar o PF a recuperar o controle adequado da trajetória de voo e o treinamento deve oferecer
+  oportunidades para o PM praticar esses métodos (por exemplo, chamadas de desvios, níveis
+  de assertividade).
+
+  5.8.7.9 Os pilotos devem ser treinados e ser capazes de demonstrar a compreensão de combinações
+  entre diferentes níveis de orientação e automação de voo operacionalmente relevantes (por
+  exemplo, dado um determinado conjunto de circunstâncias, o que acontecerá a seguir?).
+
+  5.8.7.10 O treinamento deve assegurar que pilotos possam fazer a transição sem problemas
+  entre as combinações/níveis de orientação de voo/automação de voo (inclusive voo manual),
+  capacitando-os a antecipar, reconhecer e recuperar-se de desafios conhecidos de comportamento
+  dos sistemas de orientação de voo (inclusive FMS) e controle de voo (inclusive piloto automático
+  e autothrottles) (por exemplo, sutis reversões de modo) e armadilhas circunstanciais/ambientais
+  conhecidas por levar a erros relacionados à trajetória de voo (por exemplo, vetores para
+  fora, em seguida de volta pra dentro de uma STAR durante uma autorização de “descida via”).
+
+  5.8.7.11 O treinamento em sistemas de orientação e controle de voo deve incluir uma avaliação
+  da compreensão de um piloto sobre esses sistemas, incluindo como e por quais motivos o sistema
+  se comporta, dado um determinado conjunto de circunstâncias de voo. O treinamento deve incorporar
+  degradações e falhas de FMS e consequências operacionais que exijam uma ação por parte da
+  tripulação de voo, desafios conhecidos de comportamento dos sistemas de orientação de voo
+  e controle de voo (por exemplo, sutis reversões de modo), assim como armadilhas circunstanciais/ambientais
+  (por exemplo, vetores para fora, em seguida de volta para dentro de uma STAR durante uma
+  autorização de “descida via”) conhecidas por levar a erros relacionados à trajetória de
+  voo.'
+keywords:
+- taxi-aereo
+- operacoes
+- trajetoria
+- pilotos
+- sistemas
+- exemplo
+- treinados
+- monitoramento
+- orientacao
+- treinamento
+- adequado
+- controle
+- falhas
+- distrai
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

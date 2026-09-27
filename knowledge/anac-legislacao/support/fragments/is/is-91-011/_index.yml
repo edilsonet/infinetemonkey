@@ -1,0 +1,38 @@
+document: is-91-011
+kind: is
+title: IS 91-011C
+ementa: Aprovação de aproximação por instrumento utilizando créditos operacionais mediante
+  o uso de um EFVS - Enhanced Flight Vision System
+family: '91'
+categories:
+- operacoes-gerais
+- regras-de-voo
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-011
+pdf_url: ''
+archive_url: https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_120-108.pdf
+language: en
+foreign_annex: false
+sections:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- preambulo
+fragment_count: 11
+fragment_ids:
+- is-is-91-011-preambulo-body
+- is-is-91-011-1-body
+- is-is-91-011-2-body
+- is-is-91-011-3-body
+- is-is-91-011-4-body
+- is-is-91-011-5-body
+- is-is-91-011-6-body
+- is-is-91-011-6-a
+- is-is-91-011-6-b
+- is-is-91-011-7-body
+- is-is-91-011-8-body
+parser_version: 7

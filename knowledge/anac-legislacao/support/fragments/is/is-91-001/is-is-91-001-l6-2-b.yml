@@ -1,0 +1,36 @@
+id: is-is-91-001-l6-2-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.2
+section_title: Dados e cálculos de performance de decolagem e subida
+subsection_id: b
+cite: L6.2(b)
+title: L6.2(b)
+text: b) Operadores podem optar por utilizar um terceiro como provedor de cálculos de performance
+  de decolagem e de subida. Esses provedores podem também fornecer cálculos de performance
+  de decolagem e subida em condições OEI. A utilização desses provedores deve ser aceita pela
+  ANAC. O operador é responsável por confirmar que os cálculos são realizados com base no
+  conjunto de dados de performance de decolagem e subida fornecido pelo fabricante da aeronave,
+  e que os cálculos atendem a todas as exigências e orientações desta IS relativas a operações
+  RNP AR DP.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- calculos
+- decolagem
+- performance
+- subida
+- dados
+- podem
+- provedores
+- aceita
+- aeronave
+- atendem
+- base
+- condicoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

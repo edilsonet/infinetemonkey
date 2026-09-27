@@ -13,11 +13,7 @@ text: 'C2.1
 
   : o sistema altimétrico de uma aeronave é composto de todos os elementos envolvidos no processo
   de captação da pressão estática da corrente livre de ar na conversão deste dado em uma saída
-  de altitude barométrica. Os elementos do sistema altimétrico se dividem em dois grupos principais:
-
-  a) célula e fontes estáticas; e
-
-  b) equipamentos de aviônica e/ou instrumentos.'
+  de altitude barométrica. Os elementos do sistema altimétrico se dividem em dois grupos principais:'
 keywords:
 - operacoes-gerais
 - regras-de-voo
@@ -26,13 +22,13 @@ keywords:
 - elementos
 - aeronave
 - altitude
-- avionica
 - barometrica
 - captacao
-- celula
 - composicao
 - composto
 - conversao
+- corrente
+- dado
 categories:
 - operacoes-gerais
 - regras-de-voo

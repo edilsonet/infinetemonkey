@@ -1,0 +1,57 @@
+id: is-is-137-201-001-5-1-2-g
+kind: is
+document: is-137-201-001
+family: '137'
+section_id: 5.1.2
+section_title: Esta IS não autoriza nenhuma outra modificação além daquela relacionada à conversão
+  do avião e motor para o uso do etanol.
+subsection_id: g
+cite: 5.1.2(g)
+title: 5.1.2(g)
+text: 'g) Uma cópia do formulário F-400-04 deve ser anexada em um lugar de destaque nas cadernetas
+  da aeronave e do motor, em adição aos registros de manutenção requeridos pela seção 43.9
+  do RBAC 43.
+
+  5.4.2 A aprovação para retorno ao serviço será invalidada se o motor identificado no campo
+  4 for removido da aeronave e substituído por outro motor. Se o motor substituto for operado
+  com etanol, as condições das alíneas a), b) e c) devem ser satisfeitas para o motor substituto
+  e um novo formulário F-400-04 deverá ser preenchido, conforme as alíneas d), e), f) e g).
+
+  5.5 Limitações operacionais
+
+  Além da submissão às limitações operacionais prescritas pela seção 91.313 do RBAC 91, cada
+  aeronave agrícola certificada na categoria restrita ou na categoria normal, equipada com
+  motores convencionais utilizando etanol seguindo os preceitos desta IS não poderá operar
+  sobre áreas densamente povoadas, nem mesmo com o propósito de controle de vetores conforme
+  previsto pela seção 137.211 do RBAC 137.
+
+  5.6 Certificação de aeronavegabilidade
+
+  5.6.1 A aeronave submetida à alteração para uso de etanol sob esta IS, realizada em organização
+  de manutenção certificada pela ANAC, será autorizada a operar mediante a emissão de uma
+  autorização de especial de voo - AEV. Conforme a seção 21.175 do RBAC 21, a AEV é uma espécie
+  de certificado de aeronavegabilidade especial. Essa AEV é emitida para o propósito estabelecido
+  no parágrafo 137.201(e) do RBAC 137.
+
+  5.6.2 O requerente de uma AEV sob esta IS deve preencher o formulário F-245-13 e anexar
+  uma cópia do formulário F-400-04 preenchido conforme a subseção 5.4 desta IS.'
+keywords:
+- aeroagricola
+- operacoes
+- motor
+- aeronave
+- etanol
+- formulario
+- secao
+- aeronavegabilidade
+- alem
+- alineas
+- categoria
+- certificada
+- copia
+- desta
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-201-001.md

@@ -129,9 +129,29 @@ SECTION_RE = re.compile(
     r"(?P<issec>\d{1,3}(?:\.\d+){1,4}))"
     r"(?:\s+|$)(?P<title>.*)$"
 )
-LETTER_SUB_RE = re.compile(r"^\(([a-z])\)(?:-([IVX]+))?\s*(.*)$")
-NUM_SUB_RE = re.compile(r"^\((\d+|[ivx]+)\)\s*(.*)$")
-PARSER_VERSION = 6
+# A bare date ("27.05.2025") also matches the numeric section pattern, so it is
+# rejected explicitly before section detection.
+DATE_RE = re.compile(r"^\d{1,2}[./]\d{1,2}[./]\d{2,4}\.?$")
+# IS and IAC use single-level headings ("7. PREPARAÇÃO PARA O EXAME").
+SINGLE_SECTION_RE = re.compile(r"^(\d{1,3})\.\s+(\S.*)$")
+# Short standalone block names ("OBJETIVO", "DESENVOLVIMENTO DO ASSUNTO") do not
+# carry a number. Match the whole folded line to keep precision.
+STRUCTURAL_HEADINGS = frozenset({
+    "objetivo", "objetivos", "revogacao", "fundamento", "fundamentos",
+    "definicao", "definicoes", "termos e definicoes", "desenvolvimento",
+    "desenvolvimento do assunto", "disposicoes", "disposicoes finais",
+    "disposicoes gerais", "disposicoes preliminares", "disposicoes transitorias",
+    "introducao", "referencia", "referencias", "aplicabilidade", "abrangencia",
+    "escopo", "sumario", "historico", "historico de revisoes", "bibliografia",
+    "vigencia", "aprovacao", "preambulo", "consideracoes", "responsabilidades",
+    "requisitos", "procedimentos", "siglas", "acronimos", "abreviaturas",
+    "generalidades", "apendice", "apendices", "anexo", "anexos",
+})
+STRUCTURAL_PREFIXES = ("apendice", "anexo")
+APPENDIX_HEADS = frozenset({"apendice", "apendices", "anexo", "anexos"})
+# ANAC list items are written both "(a) ..." and "a) ...".
+LETTER_SUB_RE = re.compile(r"^\(?([a-z])\)(?:-([IVX]+))?\s*(.*)$")
+PARSER_VERSION = 7
 
 # Set ANAC_LIVE=1 (or pass --live) when www.anac.gov.br is reachable, so the
 # crawler tries the live site before falling back to Arquivo.pt snapshots.
@@ -154,6 +174,15 @@ def slug(text: str) -> str:
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     text = re.sub(r"[^a-zA-Z0-9]+", "-", text.lower()).strip("-")
     return text or "x"
+
+
+def short_slug(text: str, maxlen: int = 60) -> str:
+    """Slug that stays under filesystem limits, with a stable hash suffix."""
+    value = slug(text)
+    if len(value) <= maxlen:
+        return value
+    digest = hashlib.sha256(value.encode("utf-8")).hexdigest()[:6]
+    return value[: maxlen - 7].rstrip("-") + "-" + digest
 
 
 def fold(text: str) -> str:
@@ -482,7 +511,10 @@ def parse_listing(kind: str, html: str, base: str) -> list[dict]:
                     pdf_url = href
                 elif "anexo_norma" in href:
                     continue
-                elif not href.lower().endswith(".pdf"):
+                elif (
+                    not href.lower().endswith(".pdf")
+                    and "/resolveuid/" not in href
+                ):
                     page_url = href or page_url
         code = infer_code(kind, title, page_url)
         key = (kind, code, page_url)
@@ -611,30 +643,67 @@ def clean_legal_text(text: str) -> str:
     return cleaned.strip()
 
 
-def is_section_header(line: str, family: str, kind: str) -> re.Match | None:
-    m = SECTION_RE.match(line)
+class SectionHead:
+    """A detected section heading: stable id, display title, appendix marker."""
+
+    __slots__ = ("section_id", "title", "apendice")
+
+    def __init__(self, section_id: str, title: str, apendice: str = "") -> None:
+        self.section_id = section_id
+        self.title = title
+        self.apendice = apendice
+
+
+def is_section_header(line: str, family: str, kind: str) -> SectionHead | None:
+    text = line.strip()
+    if not text or DATE_RE.match(text):
+        return None
+
+    if kind in {"is", "iac"}:
+        single = SINGLE_SECTION_RE.match(text)
+        if single and len(text) <= 90:
+            title = single.group(2)
+            if title[:1].isupper() and 1 <= int(single.group(1)) <= 99:
+                return SectionHead(single.group(1), title)
+
+    folded = fold(text.rstrip(":").strip())
+    if folded in STRUCTURAL_HEADINGS or any(
+        folded == prefix or folded.startswith(prefix + " ")
+        for prefix in STRUCTURAL_PREFIXES
+    ):
+        # Appendices repeat their header on every page; mark them so the
+        # fragmenter merges the repeats instead of losing the later text.
+        is_appendix = folded in APPENDIX_HEADS or any(
+            folded.startswith(prefix + " ") for prefix in STRUCTURAL_PREFIXES
+        )
+        merge_key = short_slug(" ".join(folded.split()[:2]), 24) if is_appendix else ""
+        return SectionHead(short_slug(folded), text, merge_key)
+
+    m = SECTION_RE.match(text)
     if not m:
         return None
     code = m.group("code") or ""
     apendice = m.group("apendice") or ""
     issec = m.group("issec") or ""
+    title = (m.group("title") or "").strip()
     if apendice:
         if kind == "is":
             return None
-        return m
+        return SectionHead(short_slug(apendice + " " + title), text, slug(apendice))
     if code:
         if re.match(r"^\d+\.0{2,}$", code):
             return None
-        if m.group("prefix"):
-            return m
+        prefix = m.group("prefix") or ""
+        if prefix:
+            return SectionHead(prefix + code, title or prefix + code)
         head = code.split(".")[0].lstrip("0")
         fam = (family or "").lstrip("0")
         if fam and head != fam:
             return None
-        return m
+        return SectionHead(code, title or code)
     if kind in {"is", "iac"} and issec:
-        if len(line) < 160:
-            return m
+        if len(text) < 160:
+            return SectionHead(issec, title or issec)
     return None
 
 
@@ -647,26 +716,18 @@ def fragment_document(kind: str, code: str, family: str, text: str) -> list[dict
         "lines": [],
     }
     for line in lines:
-        m = is_section_header(line, family, kind)
-        if m:
-            if m.group("apendice"):
-                letter_slug = slug(m.group("apendice"))
-                if current["section_id"].startswith(letter_slug):
-                    current["lines"].append(line)
-                    continue
+        head = is_section_header(line, family, kind)
+        if head:
+            if head.apendice and current["section_id"].startswith(head.apendice):
+                current["lines"].append(line)
+                continue
             if current["lines"]:
                 sections.append(current)
-            if m.group("apendice"):
-                sid = slug(m.group("apendice") + " " + (m.group("title") or ""))
-                title = line
-            elif m.group("code"):
-                prefix = m.group("prefix") or ""
-                sid = prefix + m.group("code")
-                title = (m.group("title") or "").strip() or sid
-            else:
-                sid = m.group("issec")
-                title = (m.group("title") or "").strip() or sid
-            current = {"section_id": sid, "section_title": title, "lines": [line]}
+            current = {
+                "section_id": head.section_id,
+                "section_title": head.title,
+                "lines": [line],
+            }
         else:
             current["lines"].append(line)
     if current["lines"]:
@@ -681,16 +742,15 @@ def fragment_document(kind: str, code: str, family: str, text: str) -> list[dict
         current_lines: list[str] = []
         for line in body_lines:
             lm = LETTER_SUB_RE.match(line)
-            if lm and (not current_lines or current_sub == "body" or True):
-                # Start a lettered subsection when the line begins with (a), (b)-I, etc.
+            if lm:
+                # Every lettered item is its own fragment.
                 if current_lines:
                     buckets.append((current_sub, current_label, current_lines))
                 letter = lm.group(1)
                 roman = lm.group(2)
-                rest = lm.group(3) or ""
                 current_sub = f"{letter}-{roman.lower()}" if roman else letter
                 current_label = f"{section['section_id']}({letter}" + (f"-{roman}" if roman else "") + ")"
-                current_lines = [line if rest or True else line]
+                current_lines = [line]
                 continue
             current_lines.append(line)
         if current_lines:
@@ -700,7 +760,9 @@ def fragment_document(kind: str, code: str, family: str, text: str) -> list[dict
             body = "\n".join(sub_lines).strip()
             if len(body) < 20:
                 continue
-            frag_id = slug(f"{kind}-{code}-{section['section_id']}-{sub_id}")
+            frag_id = short_slug(
+                f"{kind}-{code}-{section['section_id']}-{sub_id}", 120
+            )
             fragments.append({
                 "id": frag_id,
                 "kind": kind,

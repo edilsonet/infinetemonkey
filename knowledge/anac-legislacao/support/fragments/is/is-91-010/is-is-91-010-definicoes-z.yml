@@ -1,0 +1,30 @@
+id: is-is-91-010-definicoes-z
+kind: is
+document: is-91-010
+family: '91'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: z
+cite: definicoes(z)
+title: definicoes(z)
+text: 'z) SMV: Suplemento ao manual de voo
+
+  aa) STC: Supplemental type certificate
+
+  bb) TCDS: Type certificate datasheet'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- certificate
+- definicoes
+- type
+- datasheet
+- manual
+- suplemento
+- supplemental
+- tcds
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

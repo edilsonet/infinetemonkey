@@ -1,0 +1,105 @@
+id: is-is-120-016-7-8-2-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.8.2
+section_title: Procedimentos, Normas e Limites dos IIOs
+subsection_id: body
+cite: 7.8.2
+title: Procedimentos, Normas e Limites dos IIOs
+text: '7.8.2 Procedimentos, Normas e Limites dos IIOs
+
+  7.8.2.1 Lista de Inspetores de IIO. O manual da empresa deve incluir uma lista (ou referência
+  a documento) contendo a relação de profissionais indicados pela empresa para a realização
+  de qualquer inspeção obrigatória (parágrafos 121.369(a) do RBAC nº 121 e 135.427(a) do RBAC
+  nº 135), tanto dentro da organização do operador, como nas contratadas que realizam manutenção
+  para ele. Essa lista deve incluir uma designação por cargo/função do pessoal autorizado
+  a realizar cada inspeção exigida (parágrafos 121.369(b)(3) do RBAC nº 121 e 135.427(b)(3)
+  do RBAC nº 135).
+
+  7.8.2.2 Licença / Habilitação. Conforme parágrafos 121.378(a) do RBAC nº 121 e 135.435(a)
+  do RBAC nº 135, exceto para manutenções realizadas fora do Brasil, cada indivíduo designado
+  como Inspetor de IIO deve possuir uma licença de MMA e habilitação apropriada. Além disso,
+  o Inspetor que realiza inspeções obrigatórias deve também possuir as competências definidas
+  pelo próprio operador. A empresa deve notificar formalmente cada um desses indivíduos sobre
+  a sua designação como inspetor de IIO, assim como o seu escopo de atuação (parágrafos 121.371(d)
+  do RBAC nº 121 e 135.429(e) do RBAC nº 135).
+
+  7.8.2.3 Tarefas de IIO. A empresa deve identificar claramente seus IIO em formulários de
+  trabalho, fichas de trabalho (Work Cards), ordens de engenharia, ou por qualquer outro método
+  consistente com o seu PMAC. Um conceito primário da tarefa de IIO é que a pessoa que executa
+  a manutenção não pode ser a mesma que realize a inspeção obrigatória desse trabalho (parágrafos
+  121.369(b)(7) do RBAC nº 121 e 135.427(b)(7) do RBAC nº 135). Portanto, é importante que
+  a empresa identifique os IIO sempre que possível para que todos saibam quando um IIO é requerido,
+  e suas limitações. A empresa também deve informar claramente em seu manual os procedimentos
+  de reinspeção de itens anteriormente reprovados em inspeção obrigatória. (parágrafos 121.369(b)(4)
+  do RBAC nº 121 e 135.427(b)(4) do RBAC nº 135).
+
+  7.8.2.4 Procedimentos de reinspeção. Os parágrafos 121.369(b)(4) do RBAC nº 121 e 135.427(b)(4)
+  do RBAC nº 135 requerem que o detentor do certificado tenha procedimentos em seu manual
+  de manutenção para realizar nova inspeção devido a discrepância encontrada durante ou após
+  inspeção obrigatória anterior (buy-back procedures). Esse procedimento deve incluir como
+  o pessoal que executa inspeção obrigatória irá documentar uma discrepância encontrada durante
+  a inspeção, também como o pessoal de manutenção irá documentar o trabalho executado durante
+  a correção da discrepância. Finalmente, o procedimento deve incluir como o pessoal de inspeção
+  obrigatória inspecionará novamente o trabalho executado para verificar a efetiva correção
+  da discrepância. Para garantir a execução da inspeção, conforme requerido pelos parágrafos
+  121.369(b)(6) do RBAC nº 121 e 135.427(b)(6) do RBAC nº 135, o detentor do certificado deve
+  considerar adicionar no procedimento requisito para abrir uma nova inspeção obrigatória
+  para cada discrepância encontrada durante a inspeção obrigatória. O detentor de certificado
+  deve estar ciente que uma reinspeção pode ser um indicador de uma deficiência no programa
+  de inspeção obrigatória. Portanto, os eventos de reinspeção devem ser inseridos dentro do
+  sistema de análise e supervisão continuada do detentor de certificado para análise.
+
+  7.8.2.5 Padrões e Limitações. A empresa deve estabelecer procedimentos, padrões e limitações
+  necessários às inspeções obrigatórias, para aceitação ou rejeição de um IIO (parágrafos
+  121.369(b)(5) do RBAC nº 121 e 135.427(b)(5) do RBAC nº 135). Como a empresa não encontrará
+  listas de IIO, ou procedimentos, padrões e limites para estabelecê-los no manual do fabricante
+  do equipamento, a empresa terá que desenvolvê-los e colocá-los em seu manual. A empresa
+  deve especificar também em seu manual o método para realizar as inspeções obrigatórias (parágrafos
+  121.369(b)(3) do RBAC nº 121 e 135.427(b)(3) do RBAC nº 135).
+
+  7.8.2.6 Procedimentos. O manual da empresa deve incluir procedimentos para garantir que
+  todas as inspeções obrigatórias foram executadas (parágrafos 121.369(b)(6) do RBAC nº 121
+  e 135.427(b)(6) do RBAC nº 135) antes de autorizar a operação da aeronave (parágrafos 121.369(b)(9)
+  do RBAC nº 121 e 135.427(b)(9) do RBAC nº 135).
+
+  7.9 Sistema de Registros de Manutenção
+
+  7.9.1 Gerar e Conservar Registros de Manutenção. A principal razão para um operador aéreo
+  gerar e conservar registros de manutenção é mostrar que o certificado de aeronavegabilidade
+  padrão de sua aeronave, emitido pela ANAC, está efetivo e que sua aeronave está aeronavegável.
+  Um certificado de aeronavegabilidade padrão está efetivo somente quando as manutenções e
+  as alterações realizadas na aeronave tenham sido feitas de acordo com as exigências dos
+  regulamentos da ANAC. Se os registros de manutenção da aeronave estiverem incompletos ou
+  imprecisos, seu certificado de aeronavegabilidade padrão poderá tornar-se não efetivo. As
+  ações de manutenção, na maioria dos casos, tornam-se intangíveis ou abstratas após realizadas.
+  Assim, para que uma ação de manutenção seja minimamente tangível após sua realização, a
+  empresa deve gerar adequados registros dessas ações de manutenção. Além disso, fazer um
+  registro de certas informações resumidas da vida da aeronave facilita a identificação da
+  inspeção atual necessária e do status de aeronavegabilidade da aeronave.
+
+  7.9.2 Requisitos do RBAC nº 43. O parágrafo 43.9(b) do RBAC nº 43 indica que os requisitos
+  para geração e conservação dos registros de manutenção dos operadores aéreos são encontrados
+  nos parágrafos 121.369(c) e 121.380(a) e (c) do RBAC nº 121, e no parágrafo 135.427(c) e
+  seção 135.439 do RBAC nº 135.'
+keywords:
+- antidrogas
+- saude
+- inspecao
+- paragrafos
+- empresa
+- manutencao
+- procedimentos
+- obrigatoria
+- aeronave
+- certificado
+- manual
+- registros
+- discrepancia
+- incluir
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

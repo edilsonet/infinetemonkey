@@ -1,0 +1,49 @@
+id: is-is-21-005-definicoes-body
+kind: is
+document: is-21-005
+family: '21'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Esta IS faz uso de definições e conceitos já estabelecidos no RBAC 01 e no RBAC 21.
+
+  Em adição as definições constantes no item 4.1, para os efeitos desta IS, temos:
+
+  Artigos: peças, dispositivos e componentes aeronáuticos, incluindo os materiais e processos
+  associados.
+
+  Componente crítico: É um termo aplicável a peças, dispositivos, características, processos,
+  procedimentos de fabricação, manutenção ou inspeção que possam, em caso de falha ou não-conformidade,
+  causar a degradação da aeronavegabilidade do produto ao qual se aplicam.
+
+  Peça com vida limitada: É qualquer peça para a qual tenha sido previamente determinado um
+  intervalo de inspeção ou um prazo para sua substituição.
+
+  Projeto: São todas as especificações, desenhos e informações sobre dimensões, tolerâncias,
+  materiais e processos de fabricação necessários para definir todas as características da
+  peça, bem como, suas limitações e instruções de aeronavegabilidade continuada.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- definicoes
+- peca
+- processos
+- caracteristicas
+- dispositivos
+- fabricacao
+- inspecao
+- materiais
+- pecas
+- qual
+- todas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-005.md

@@ -1,0 +1,33 @@
+id: is-is-21-010-5-10-4-a
+kind: is
+document: is-21-010
+family: '21'
+section_id: 5.10.4
+section_title: 'The export airworthiness approval is not applicable in the following cases:'
+subsection_id: a
+cite: 5.10.4(a)
+title: 5.10.4(a)
+text: a) aeronaves, motores e hélices que não possuam certificado de tipo, por exemplo, aeronaves
+  categoria leve esportiva, bem como peças e componentes de tais aeronaves, motores e hélices;
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronaves
+- helices
+- motores
+- airworthiness
+- applicable
+- approval
+- cases
+- categoria
+- certificado
+- componentes
+- esportiva
+- exemplo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

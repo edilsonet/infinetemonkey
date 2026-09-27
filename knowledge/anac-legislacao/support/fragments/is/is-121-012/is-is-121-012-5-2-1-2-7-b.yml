@@ -1,0 +1,86 @@
+id: is-is-121-012-5-2-1-2-7-b
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.7
+section_title: Limitação por sistema de tempo limite (121.633).
+subsection_id: b
+cite: 5.2.1.2.7(b)
+title: 5.2.1.2.7(b)
+text: 'b) Para operações ETOPS além de 180 minutos (121.633(b)), devem ser considerados separadamente
+  o sistema de supressão de fogo para os compartimentos de carga e bagagem que sejam requeridos
+  possuir tal sistema e os demais sistemas significativos ETOPS. Deve-se considerar, em ambos
+  os casos, a correção pelo vento e temperatura. O aeródromo de alternativa ETOPS deve estar
+  a, no máximo, uma distância igual à menor das seguintes distâncias:
+
+  i. distância associada ao tempo limite do sistema de supressão de fogo para os compartimentos
+  de carga e bagagem que sejam requeridos possuir tal sistema menos 15 minutos, considerando
+  a velocidade de cruzeiro com todos os motores operando; e
+
+  ii. distância associada ao tempo limite de quaisquer outros sistemas significativos ETOPS
+  menos 15 minutos, considerando a velocidade de cruzeiro com um motor inoperante.
+
+  Nota 1: para as operações ETOPS até 180 minutos e para ETOPS 207 minutos, não há, portanto,
+  efeitos das condições atmosféricas (como temperatura e vento) na escolha do aeródromo de
+  alternativa ETOPS em razão do tempo limite. Isso significa que essa análise pode ser feita
+  uma única vez, pela engenharia de operações, não necessitando ser refeita a cada voo. Entretanto,
+  para as operações ETOPS além de 180 minutos, como é requerida correção pelo vento e temperatura,
+  a cada voo, no processo de planejamento, deve ser reavaliado se os aeródromos de alternativa
+  ETOPS se encontram dentro das limitações por sistema de tempo limite.
+
+  Nota 2: a limitação por sistema de tempo limite se aplica também para aviões com mais de
+  dois motores a turbina que não requerem certificação ETOPS, como os aviões com mais de dois
+  motores a turbina de tipo certificado, ou cujo requerimento de certificação de tipo foi
+  submetido, até 15/02/2007 e que tenham sido fabricados antes de 17/02/2015 (vide seção 25.3
+  do RBAC nº 25).
+
+  Nota 3: para aviões que não possuem outro sistema de tempo limite além do sistema de supressão
+  de fogo para os compartimentos de carga e bagagem, o valor do tempo limite para os outros
+  sistemas significativos ETOPS deve ser considerado o tempo de desvio máximo da aeronave.
+
+  5.2.1.2.7.1 O detentor de certificado deve estabelecer as velocidades utilizadas, bem como,
+  no caso de ETOPS além de 180 minutos, a forma de correção pelo vento e temperatura.
+
+  5.2.1.2.7.2 O detentor de certificado deve estabelecer, em manual direcionado aos DOVs,
+  como obter informação sobre os tempos limite dos sistemas significativos ETOPS, ou deve
+  inserir diretamente tais dados em manual direcionado aos DOVs.
+
+  Nota: a capacidade do avião em termos do sistema mais limitante é identificada no CMP ou
+  no AFM (ou ainda em outro documento do detentor de projeto de tipo aprovado pela ANAC).
+
+  5.2.1.2.7.3 Operações com itens inoperantes, conforme previsto em MEL, podem ter reduzida
+  a capacidade da aeronave em termos de sistema de tempo limite. Nesse caso, o planejamento
+  do voo deve considerar a restrição estabelecida na MEL.
+
+  5.2.1.2.8 Os requisitos de área de operação ETOPS e de limitação por sistema de tempo limite
+  devem ser cumpridos no planejamento do voo, assim como durante o voo (ou seja, o avião não
+  pode sair da área de operações ETOPS ou estar a um ponto que descumpra as limitações de
+  sistema de tempo limite). No entanto, na condução da operação, em caso de desvio para alternativa,
+  pode ocorrer de o tempo de desvio real exceder o tempo de desvio máximo autorizado, em razão
+  de, em alguns casos, não se considerarem as condições atmosféricas (como vento e temperatura)
+  ou de as condições previstas não se concretizarem. A realização de um tempo de desvio superior
+  ao tempo de desvio máximo autorizado, por si só, não caracteriza uma infração.
+
+  Nota: a área de operações ETOPS e a limitação por sistema de tempo limite podem diferir,
+  pois para a primeira se utiliza sempre velocidade com um motor inoperante e se considera
+  ar calmo; já para a segunda, em algumas circunstâncias são considerados todos os motores
+  operando e, em outras circunstâncias, o vento é considerado.'
+keywords:
+- transporte-aereo
+- operacoes
+- tempo
+- etops
+- sistema
+- limite
+- minutos
+- desvio
+- vento
+- nota
+- temperatura
+- alem
+- alternativa
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

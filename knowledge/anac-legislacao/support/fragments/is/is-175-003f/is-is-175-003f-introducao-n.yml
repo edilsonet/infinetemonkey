@@ -1,0 +1,55 @@
+id: is-is-175-003f-introducao-n
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: n
+cite: introducao(n)
+title: introducao(n)
+text: 'n) informações do aéreo.
+
+  As informações dispostas no item 5.3.2 referem-se apenas ao conteúdo de atribuição legal
+  da Anac. As informações não contempladas nesse item devem ser preenchidas de acordo com
+  o MOC do CT-e e o disposto nos regulamentos dos Órgãos Públicos competentes.
+
+  Nos itens seguintes, encontram-se os critérios gerais para o preenchimento de forma completa
+  e adequada do CT-e. Ressalta-se que não é objetivo desta IS explicar o preenchimento de
+  cada campo do CT-e, visto que isso já é detalhado no MOC do CT-e. Os termos que se encontram
+  entre aspas representam o nome exato do campo de acordo com o MOC do CT-e.
+
+  Na “identificação do CT-e”, deve-se indicar no campo “modal” que o CT-e é do modo aéreo.
+
+  Ainda na “identificação do CT-e”, deve-se informar se o recebedor retirará a carga no aeroporto
+  no campo “indicador se o recebedor retira no aeroporto, filial, porto ou estação de destino?”,
+  podendo indicar os dados de quem irá retirar ou o local onde será entregue no campo “detalhes
+  do retira”.
+
+  As informações do emitente, do remetente, do expedidor, do recebedor, do destinatário e
+  do tomador, quando aplicáveis, devem estar o mais completas possível, incluindo, no mínimo:
+  o CNPJ e a razão social ou o CPF e o nome; o endereço completo; o telefone e o e-mail para
+  contato.
+
+  As informações referentes à “previsão do fluxo da carga”, que se encontram no grupo “dados
+  complementares do CT-e para fins operacionais ou comerciais”, são de preenchimento obrigatório.
+  Para indicar o aeroporto de origem, de passagem e de destino, deve-se preencher da seguinte
+  forma:'
+keywords:
+- artigos-perigosos
+- carga
+- campo
+- informacoes
+- aeroporto
+- encontram
+- indicar
+- preenchimento
+- recebedor
+- acordo
+- aereo
+- dados
+- destino
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

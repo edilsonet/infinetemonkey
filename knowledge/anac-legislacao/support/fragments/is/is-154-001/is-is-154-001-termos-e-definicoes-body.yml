@@ -1,0 +1,73 @@
+id: is-is-154-001-termos-e-definicoes-body
+kind: is
+document: is-154-001
+family: '154'
+section_id: termos-e-definicoes
+section_title: TERMOS E Definições
+subsection_id: body
+cite: termos-e-definicoes
+title: TERMOS E Definições
+text: 'TERMOS E Definições
+
+  4.1. Para os efeitos desta IS, são válidos os termos e definições apresentados na seção
+  154.15 do RBAC n° 154, acrescidos dos termos e definições a seguir.
+
+  ESTRUTURA DO DOCUMENTO
+
+  5.1. Esta IS está estruturada da seguinte forma:
+
+  5.1.1. Os itens que detalham o cumprimento de requisito trazem, no início do parágrafo,
+  a notação “FC” (Forma de Cumprimento), seguida do parágrafo do RBAC a que correspondem.
+  Sua observância é obrigatória, mas pode o administrado submeter à aprovação da Superintendência
+  de Infraestrutura Aeroportuária (SIA) - previamente à sua adoção - meio ou procedimento
+  alternativo, na forma prevista na Resolução ANAC n° 30, artigo 14, § 1° e 2°;
+
+  5.1.2. Sempre que um item for classificado como “FC” (Forma de Cumprimento), todos os seus
+  subitens, exceto aqueles que tratarem expressamente de uma recomendação, fazem parte do
+  conjunto de informações que compõem a forma de cumprimento;
+
+  5.1.3. Os itens que se iniciam com a notação “Recomendação”, apesar de não trazerem comando
+  obrigatório, representam as práticas que a ANAC entende como desejáveis para o aumento da
+  segurança e da eficiência das operações, merecendo os melhores esforços dos administrados
+  para sua consecução;
+
+  5.1.4. Sempre que um item for classificado como “Recomendação”, todos os seus subitens fazem
+  parte do conjunto de informações que compõem a recomendação;
+
+  5.1.5. Os demais itens trazem orientações e esclarecimentos - algumas vezes com exemplos
+  - para o melhor entendimento do conteúdo do RBAC e desta IS;
+
+  5.1.6. As Figuras contidas nesta IS trazem arranjos exemplificativos e não esgotam as possibilidades
+  de configurações de auxílios visuais nos pátios de aeronaves.
+
+  CARACTERÍSTICAS FÍSICAS DE AERÓDROMOS
+
+  6.1. Generalidades
+
+  6.1.1. A metodologia aplicada nesta IS adotou, com as devidas adaptações, o que consta no
+  Apron Markings and Signs Handbook, elaborado pelo Airports Council International (ACI),
+  e no Manual Normativo de Señalización en el Área de Movimiento, elaborado pela Aeropuertos
+
+  Españoles y Navegación Aérea (AENA).
+
+  6.1.2 As inscrições da sinalização horizontal e da sinalização vertical do pátio de aeronaves
+  devem ter a forma e as proporções indicadas nos Apêndices C e D, respectivamente, do RBAC
+  nº 154.'
+keywords:
+- seguranca-aeroportuaria
+- forma
+- definicoes
+- termos
+- cumprimento
+- recomendacao
+- trazem
+- aeronaves
+- classificado
+- compoem
+- conjunto
+- desta
+- elaborado
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-001.md

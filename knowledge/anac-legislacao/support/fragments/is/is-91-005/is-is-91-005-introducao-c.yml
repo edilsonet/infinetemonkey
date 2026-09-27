@@ -1,0 +1,72 @@
+id: is-is-91-005-introducao-c
+kind: is
+document: is-91-005
+family: '91'
+section_id: introducao
+section_title: Introdução
+subsection_id: c
+cite: introducao(c)
+title: introducao(c)
+text: 'c) um método completo de verificação do funcionamento seguro do sistema.
+
+  Como o TLS não cobre todas as causas de risco de colisão no plano vertical e uma vez que
+  a região do Atlântico Norte (NAT) passou a ser a primeira região da OACI a aplicar o RVSM,
+  o Grupo de Planejamento de Sistemas Atlântico Norte (NAT SPG -
+
+  North Atlantic Systems Planning Group
+
+  ) convencionou que seria necessário aumentar o TLS para aquelas operações de 2,5 x10
+
+  -9
+
+  para 5,0 x 10
+
+  -9
+
+  acidentes fatais por hora de voo como resultado de perda de separação vertical devido a
+  qualquer causa (erros técnicos ou operacionais).
+
+  Processo de autorização operacional para RVSM
+
+  Embora seja único, o processo de autorização operacional para RVSM observa aspectos referentes
+  tanto a requisitos de aeronavegabilidade quanto a requisitos de operações.
+
+  Não se deve confundir os aspectos deste processo de autorização operacional para RVSM referentes
+  à aeronavegabilidade com aprovações de aeronavegabilidade de processos de certificação de
+  tipo (CT) ou certificação suplementar de tipo (CST). Embora muitos dos aspectos de aeronavegabilidade
+  sejam os mesmos, nos dois últimos verifica-se a instalação de equipamentos de navegação
+  de área em aeronaves novas ou modificadas, para emissão de CT, de CST, ou documento equivalente.
+  Para o processo de autorização operacional para RVSM, o equipamento de navegação de área
+  já deve estar instalado e certificado.
+
+  A coordenação dos processos de autorização operacional para RVSM é de responsabilidade da
+  SPO por meio de suas gerências: a GCTA, para operadores regidos pelo RBAC nº 121, e a GOAG
+  para operadores segundo o RBAC nº 135 e o RBAC nº 91. Portanto, os processos de autorização
+  operacional para RVSM são conduzidos por estas gerências. Os aspectos referentes à aeronavegabilidade
+  da autorização operacional para RVSM são tratados pela GCAC.
+
+  Os processos de autorização operacional para RVSM seguem o conceito de processo de cinco
+  fases, conforme preconizado pela OACI no DOC 8335, sendo que apenas na última fase (Fase
+  5), após o operador ter demonstrado atendimento a todos os requisitos aplicáveis, será emitida
+  a autorização operacional para RVSM da Anac para que sejam realizadas as operações pretendidas.
+  As fases do processo são descritas a seguir:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rvsm
+- autorizacao
+- operacional
+- processo
+- aeronavegabilidade
+- aspectos
+- processos
+- operacoes
+- referentes
+- requisitos
+- area
+- atlantico
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

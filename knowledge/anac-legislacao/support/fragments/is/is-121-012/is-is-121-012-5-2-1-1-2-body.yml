@@ -1,0 +1,74 @@
+id: is-is-121-012-5-2-1-1-2-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.1.2
+section_title: Potenciais aeródromos adequados e potenciais aeródromos de alternativa ETOPS.
+subsection_id: body
+cite: 5.2.1.1.2
+title: Potenciais aeródromos adequados e potenciais aeródromos de alternativa ETOPS.
+text: '5.2.1.1.2 Potenciais aeródromos adequados e potenciais aeródromos de alternativa ETOPS.
+
+  Nota 1: a definição de aeródromo adequado se aplica ao momento do despacho do voo. Por isso,
+  na etapa de engenharia de operações, refere-se somente a “potencial aeródromo adequado”.
+  Fica a critério do detentor de certificado o quanto deve ser aprofundada a avaliação na
+  etapa de engenharia de operações, ciente de que essa avaliação deve ser complementada por
+  uma avaliação no nível de despacho de voo, considerando informações específicas do voo,
+  como condições meteorológicas (para cumprimento dos requisitos de desempenho de pouso de
+  121.197) e o peso do avião, conforme os parágrafos 5.2.1.2.4.1a) e 5.6.5b) desta IS. O mesmo
+  conceito se aplica a “potencial aeródromo de alternativa ETOPS”.
+
+  Nota 2: a diferença entre aeródromo adequado e aeródromo de alternativa ETOPS é que o aeródromo
+  adequado pode ser utilizado para sustentar um voo que não seja ETOPS, conforme detalhado
+  no parágrafo 5.6 desta IS. Já os aeródromos de alternativa ETOPS são os que de fato são
+  utilizados como alternativas em voos ETOPS.
+
+  5.2.1.1.2.1 No nível de engenharia de operações, o detentor de certificado deve avaliar
+  os potenciais aeródromos adequados, ou seja, aqueles que cumprem os requisitos de desempenho
+  de pouso da seção 121.197 do RBAC nº 121 com situação de ar calmo (121.195(b)(1)), utilizando
+  demais condições meteorológicas que possam ser encontradas normalmente no aeródromo, assim
+  como condições de peso normalmente encontradas no pouso. Esses aeródromos devem ser identificados
+  na Lista de Aeródromos Regulares e de Alternativa constante no guia de rota, seja como um
+  aeródromo regular (caso já recebam operações regulares) ou como aeródromo de alternativa,
+  seja especificamente como um aeródromo adequado. Orientações adicionais são dadas no parágrafo
+  5.6 desta IS.
+
+  5.2.1.1.2.2 O detentor de certificado deve identificar ainda os aeródromos de alternativa
+  ETOPS, que, além de serem um aeródromo adequado, devem cumprir adicionalmente os requisitos
+  de serviço de prevenção, salvamento e combate a incêndio aplicáveis aos aeródromos de alternativa
+  ETOPS (estabelecidos na seção 121.106 do RBAC nº 121). Esses aeródromos devem ser identificados
+  na Lista de Aeródromos Regulares e de Alternativa constante no guia de rota, seja como um
+  aeródromo regular (caso já recebam operações regulares), seja especificamente como um aeródromo
+  de alternativa ETOPS.
+
+  Nota: é possível que todos os aeródromos adequados sejam também aeródromos de alternativa
+  ETOPS. Nesse caso, é suficiente identificá-los na lista como aeródromos de alternativa ETOPS.
+
+  5.2.1.1.2.3 Na Lista de Aeródromos Regulares e de Alternativa constante no guia de rota,
+  se assume, por padrão, que todos os aeródromos regulares podem ser utilizados também como
+  aeródromos de alternativa ETOPS. No entanto, caso algum aeródromo regular não atenda aos
+  requisitos de serviço de prevenção, salvamento e combate a incêndio aplicáveis aos aeródromos
+  de alternativa ETOPS (estabelecidos na seção 121.106 do RBAC nº 121), esse aeródromo não
+  poderá ser utilizado como aeródromo de alternativa ETOPS. Nesse caso, o detentor de certificado
+  deve incluir observação na Lista de Aeródromos Regulares e de Alternativa informando que
+  “o aeródromo [designativo do aeródromo] não pode ser utilizado como aeródromo de alternativa
+  ETOPS, por não atender à seção 121.106 do RBAC nº 121”.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromos
+- alternativa
+- aerodromo
+- etops
+- potenciais
+- regulares
+- adequado
+- seja
+- adequados
+- caso
+- lista
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

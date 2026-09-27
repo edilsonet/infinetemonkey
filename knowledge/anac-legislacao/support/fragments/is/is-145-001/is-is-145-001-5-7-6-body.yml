@@ -1,0 +1,44 @@
+id: is-is-145-001-5-7-6-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: 5.7.6
+section_title: Categoria Instrumento
+subsection_id: body
+cite: 5.7.6
+title: Categoria Instrumento
+text: '5.7.6 Categoria Instrumento
+
+  5.7.6.1 Cada OM certificada na Categoria Instrumento possui a prerrogativa de executar as
+  tarefas de manutenção/revisão geral estabelecidas pelo fabricante de instrumentos mecânicos,
+  elétricos, giroscópicos e eletrônicos. Tais tarefas são referentes aos manuais de manutenção/revisão
+  geral (Component Maintenance & Overhaul Manual) dos instrumentos listados em sua LC, e dentro
+  das limitações previstas nesta.
+
+  5.7.6.2 Pode, inclusive, instalar e remover artigos da Categoria Instrumento em aeronave
+  e realizar os testes de funcionamento necessários, desde que atendidas as condições previstas
+  no item 5.7.6.3.
+
+  NOTA: a instalação de artigos da Categoria Instrumento pode incluir a instalação de itens
+  como tomada de pressão estática e dinâmica, smart probe, sensor de temperatura, unidades
+  de controle de piloto automático e outros elementos que fazem parte do sistema completo
+  a ser inserido na aeronave.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- categoria
+- instrumento
+- aeronave
+- artigos
+- geral
+- instalacao
+- instrumentos
+- pode
+- revisao
+- tarefas
+- atendidas
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

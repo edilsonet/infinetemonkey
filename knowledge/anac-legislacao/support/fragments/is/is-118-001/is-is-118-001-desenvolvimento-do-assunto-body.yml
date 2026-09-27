@@ -1,0 +1,72 @@
+id: is-is-118-001-desenvolvimento-do-assunto-body
+kind: is
+document: is-118-001
+family: '118'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Introdução
+
+  5.1.1 Antes da publicação da Policy Letter 116 pela Federal Aviation Administration (FAA),
+  a Master Minimum Equipment List (MMEL) proporcionava suporte aos itens de comodidade dos
+  passageiros (passenger convenience items - PCI), limitados às áreas da cabine de passageiros,
+  galleys e lavatórios. Muitos operadores dos Estados Unidos da América liberavam os equipamentos
+  não inclusos nessas áreas sem recorrer nem à Minimum Equipment List (MEL) nem à Configuration
+  Deviation List (CDL), utilizando programas de diferimento internos da empresa autorizados
+  em seus programas de manutenção.
+
+  5.1.2 No entanto, a não ser sob a aprovação de uma MEL ou CDL, os regulamentos não previam
+  a liberação de equipamentos ou instrumentos inoperantes, danificados ou faltantes. Devido
+  ao PCI estar limitado às áreas descritas acima, a FAA substituiu o título PCI, no capítulo
+  25 de todas as MMEL por um novo termo denominado Nonessential Furnishings, o qual posteriormente
+  veio a ser substituído por Nonessential Equipment and Furnishings (NEF).
+
+  5.1.3 Os operadores passaram então a ter permissão para estabelecer diferimentos, conforme
+  admitido na MMEL, desde que desenvolvam um programa específico que forneça orientação para
+  liberação dos equipamentos não essenciais e de interiores que estejam inoperantes, danificados
+  ou faltantes, localizados na aeronave. Não obstante o programa NEF ser listado no Capítulo
+  25 da MEL, ele pode endereçar equipamentos e acessórios de outros capítulos ATA.
+
+  5.1.4 A ANAC, por meio desta Instrução Suplementar, apresenta um método aceitável para que
+  os operadores brasileiros proponham um programa NEF, associado a uma MEL aprovada, para
+  liberação da aeronave com equipamentos e acessórios não essenciais inoperantes e obtenham
+  aprovação ou aceitação deste programa, conforme aplicabilidade estabelecida na seção 5.5
+  desta IS.
+
+  5.2 Itens NEF
+
+  5.2.1 Itens NEF são equipamentos e acessórios, doravante chamados de itens, instalados na
+  aeronave como parte da certificação de tipo original, certificação de tipo suplementar ou
+  outra forma de alteração, que não tenham efeito na segurança da operação de voo e que não
+  sejam requeridos pelas regras de certificação aplicáveis ou regras operacionais. São itens
+  que, se inoperantes, danificados ou faltantes, não têm efeito na habilidade da aeronave
+  de ser conduzida com segurança em todas as condições operacionais.
+
+  5.2.2 Esses itens “não essenciais” podem estar instalados em áreas que incluem, mas não
+  se limitam ao, compartimento de passageiros, cabine de comando, áreas de serviço, compartimentos
+  de carga, áreas de descanso de tripulantes, lavatórios e galleys. Itens de acabamento, relacionados
+  com estética ou aparência, em condições de uso, porém desgastados, podem ser diferidos conforme
+  estabelecido num programa NEF; no entanto, caso haja requisitos de bloqueio ou retenção
+  contra fogo associados a tais itens, eles devem ser considerados como cumpridos antes da
+  identificação do item como NEF.'
+keywords:
+- areas
+- equipamentos
+- programa
+- aeronave
+- inoperantes
+- acessorios
+- assunto
+- certificacao
+- danificados
+- desenvolvimento
+- equipment
+- essenciais
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-118-001.md

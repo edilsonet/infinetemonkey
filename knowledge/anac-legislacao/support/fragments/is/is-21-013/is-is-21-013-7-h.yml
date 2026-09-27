@@ -1,0 +1,56 @@
+id: is-is-21-013-7-h
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: h
+cite: 7(h)
+title: 7(h)
+text: 'h) Proteção antigelo: Se a aeronave for aprovada para o voo em condições de gelo
+
+  conhecidas, a antena não deve ser suscetível à formação de gelo (ou seja, ela deve ser
+
+  instalada em um local previsto para não formação de gelo na aeronave, ou ser de um
+
+  perfil suficientemente baixo para que o gelo não se acumule na antena).
+
+  Alternativamente, pode ser demonstrado que o equipamento opera satisfatoriamente
+
+  quando a antena está sujeita a formação de gelo e que não existem efeitos nocivos da
+
+  acumulação de gelo, tais como, possivelmente, a ingestão de gelo acumulado pelo motor
+
+  ou a degradação do desempenho aerodinâmico. Os efeitos de acumulação de gelo sobre
+
+  a antena, se aplicável, podem ser encontrados no manual de instalação/instruções de
+
+  instalação do fabricante do equipamento. Ver as últimas revisões das AC 23.1419-2 e
+
+  AC 25.1419-1 para orientações adicionais para aeronaves de asa fixa. Para helicópteros,
+
+  a AC 27.1419 está contida na última revisão da AC 27-1 e a AC 29.1419 está contida
+
+  na última revisão da AC 29-2;'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- gelo
+- antena
+- formacao
+- instalacao
+- acumulacao
+- aeronave
+- contida
+- efeitos
+- equipamento
+- revisao
+- ultima
+- acumulado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

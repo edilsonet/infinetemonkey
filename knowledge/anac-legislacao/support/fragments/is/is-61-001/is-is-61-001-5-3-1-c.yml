@@ -1,0 +1,40 @@
+id: is-is-61-001-5-3-1-c
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.3.1
+section_title: 'Cada linha da tabela “Lançamento de Horas”, localizada na parte inferior da
+  tela da Figura 2 pode possuir os seguintes status:'
+subsection_id: c
+cite: 5.3.1(c)
+title: 5.3.1(c)
+text: 'c) EXCLUSÃO SOLICITADA: registro de voo anteriormente com status CADASTRADO cuja exclusão
+  foi excepcionalmente solicitada pelo piloto. Trata-se de um status excepcional caso o piloto
+  não tenha identificado o erro ao enviar o rascunho, constatando-o somente após ter enviado
+  seu registro. Os registros de voo com status EXCLUSÃO SOLICITADA não serão mais, a partir
+  do momento em que foi solicitada a exclusão, contabilizados pela ANAC. Isso não isenta,
+  contudo, o piloto sobre a responsabilidade administrativa, civil e penal de fatos e direitos
+  produzidos pelo referido registro de voo enquanto este se encontrava com status CADASTRADO;
+  e'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- status
+- exclusao
+- solicitada
+- piloto
+- registro
+- cadastrado
+- administrativa
+- anteriormente
+- cada
+- caso
+- civil
+- constatando
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

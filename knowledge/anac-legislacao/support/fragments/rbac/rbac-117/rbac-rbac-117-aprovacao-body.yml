@@ -1,0 +1,25 @@
+id: rbac-rbac-117-aprovacao-body
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 507, de 13 de março de 2019.'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- aprovacao
+- marco
+- resolucao
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

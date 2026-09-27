@@ -1,0 +1,46 @@
+id: is-is-94-002-5-4-4-c
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.4
+section_title: Operação do enlace de comando e controle - RBAC-E 94.405(b)
+subsection_id: c
+cite: 5.4.4(c)
+title: 5.4.4(c)
+text: 'c) O requerente deve demonstrar que o(s) enlace(s) C2 utilizados tenham
+
+  características que assegurem a confiabilidade e minimizem a vulnerabilidade do
+
+  sistema a interferências prejudiciais de radiofrequências. Para tanto, éData de emissão:
+  3 de maio de 2017. IS Nº E94-002
+
+  Revisão A
+
+  recomendável que os RPAS que se pretendam operar BVLOS utilizem
+
+  radiofrequências destinadas em caráter primário ao Serviço Móvel Aeronáutico -
+
+  SMA, ao Serviço Móvel Aeronáutico em Rota - SMA(R), ao Serviço Móvel
+
+  Aeronáutico por Satélite - SMAS e ao Serviço Móvel Aeronáutico por Satélite em
+
+  Rota - SMAS(R), ou qualquer outra radiofrequência destinada em caráter primário
+
+  à operação do RPAS;'
+keywords:
+- aeronautico
+- movel
+- servico
+- carater
+- enlace
+- operacao
+- primario
+- radiofrequencias
+- rota
+- rpas
+- satelite
+- smas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

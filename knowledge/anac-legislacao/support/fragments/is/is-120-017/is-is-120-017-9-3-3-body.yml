@@ -1,0 +1,58 @@
+id: is-is-120-017-9-3-3-body
+kind: is
+document: is-120-017
+family: '120'
+section_id: 9.3.3
+section_title: Rendimento da Tarefa
+subsection_id: body
+cite: 9.3.3
+title: Rendimento da Tarefa
+text: '9.3.3 Rendimento da Tarefa
+
+  Qualquer análise de tarefa de manutenção programada que inclua tanto defeitos quanto a
+
+  ausência de defeitos encontrados deve considerar seu respectivo rendimento do intervalo.
+
+  Isso porque o intervalo atual da tarefa é estabelecido com a intenção de se detectar
+
+  degradação ou falha potencial naquele intervalo. Se a tarefa é executada significativamente
+
+  mais cedo que o intervalo especificado, os dados podem não ser válidos para basear uma
+
+  avaliação do intervalo especificado.
+
+  Nota: os operadores devem incluir, em seus processos de análises, defeitos descobertos em
+
+  intervalos com rendimentos de tarefa relativamente baixos, já que isso pode se tratar de
+
+  uma indicação de que o atual intervalo da tarefa não é eficaz.
+
+  Para chegar numa solução de rendimento, o intervalo definido e o intervalo no qual a tarefa
+
+  foi executada de fato devem ser calculados utilizando o mesmo parâmetro (horas de voo,
+
+  ciclos de voo, ou tempo calendário). Em alguns casos o operador pode precisar realizar
+
+  uma conversão de valores para chegar ao mesmo parâmetro de utilização. O cálculo do
+
+  rendimento divide o intervalo no qual a tarefa foi executada de fato pelo intervalo definido.'
+keywords:
+- antidrogas
+- saude
+- intervalo
+- tarefa
+- rendimento
+- defeitos
+- executada
+- atual
+- chegar
+- definido
+- especificado
+- fato
+- isso
+- mesmo
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

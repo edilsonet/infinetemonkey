@@ -1,0 +1,48 @@
+id: is-is-91-001-k8-5-n
+kind: is
+document: is-91-001
+family: '91'
+section_id: K8.5
+section_title: 'Para solicitações de autorização inicial genérica, ou para solicitação de
+  autorização específica, o operador deve submeter a ANAC no mínimo a seguinte documentação:'
+subsection_id: n
+cite: K8.5(n)
+title: K8.5(n)
+text: 'n) plano de validação. O operador deve submeter à ANAC um plano de validação a fim
+  de demonstrar a capacidade da realização das operações pretendidas. O plano de validação
+  deve incluir, no mínimo os seguintes aspectos:
+
+  i. procedimentos operacionais e de despacho;
+
+  ii. efetividade do programa de treinamento;
+
+  iii. a efetividade dos procedimentos de manutenção; e
+
+  iv. procedimentos envolvendo a MEL.
+
+  Nota 1: o plano de validação pode incluir treinamento em dispositivos de treinamento de
+  solo e simuladores de voo ou demonstrações na aeronave, que devem ser realizadas em período
+  diurno e em condições VMC.
+
+  Nota 2: validações são requeridas individualmente para cada fabricante, modelo ou variantes
+  de softwares instalados no FMS.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- plano
+- validacao
+- procedimentos
+- treinamento
+- autorizacao
+- efetividade
+- incluir
+- minimo
+- nota
+- operador
+- submeter
+- aeronave
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

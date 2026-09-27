@@ -1,0 +1,31 @@
+id: is-is-91-001-m1-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M1.3
+section_title: A operação A-RNP depende exclusivamente da integridade do sistema RNP (GNSS)
+  sem utilização de meios convencionais de navegação, como VOR ou NDB.
+subsection_id: body
+cite: M1.3
+title: A operação A-RNP depende exclusivamente da integridade do sistema RNP (GNSS) sem utilização
+  de meios convencionais de navegação, como VOR ou NDB.
+text: M1.3 A operação A-RNP depende exclusivamente da integridade do sistema RNP (GNSS) sem
+  utilização de meios convencionais de navegação, como VOR ou NDB.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- convencionais
+- depende
+- exclusivamente
+- gnss
+- integridade
+- meios
+- navegacao
+- operacao
+- sistema
+- utilizacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

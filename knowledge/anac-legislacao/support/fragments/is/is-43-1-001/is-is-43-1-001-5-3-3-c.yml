@@ -1,0 +1,37 @@
+id: is-is-43-1-001-5-3-3-c
+kind: is
+document: is-43-1-001
+family: '43'
+section_id: 5.3.3
+section_title: Conforme a seção 43.1(e)-I do RBAC 43, a solicitação deve identificar individualmente
+  os
+subsection_id: c
+cite: 5.3.3(c)
+title: 5.3.3(c)
+text: 'c) informação sobre o período em que a tarefa de manutenção deve ser realizada.
+
+  NOTA 1 - Exemplo: data prevista de início e término, podendo ser usada tolerância
+
+  de 2 (dois) meses além do término previsto em função do aparecimento de ações
+
+  corretivas não previstas.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- termino
+- acoes
+- alem
+- aparecimento
+- corretivas
+- data
+- dois
+- exemplo
+- funcao
+- identificar
+- individualmente
+- informacao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-1-001.md

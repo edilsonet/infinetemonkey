@@ -1,0 +1,38 @@
+id: is-is-91-001-m10-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M10.1
+section_title: Deslocamentos paralelos (parallel offset) fornecem a capacidade de a aeronave
+  permanecer em trajetória deslocada da trajetória original, conforme definido pela série
+  de waypoints. O sistema deve ser capaz de realizar trajetórias deslocadas de até 20 NM da
+  trajetória original.
+subsection_id: body
+cite: M10.1
+title: Deslocamentos paralelos (parallel offset) fornecem a capacidade de a aeronave permanecer
+  em trajetória deslocada da trajetória original, conforme definido pela série de waypoints.
+  O sistema deve ser capaz de realizar trajetórias deslocadas de até 20 NM da trajetória original.
+text: M10.1 Deslocamentos paralelos (parallel offset) fornecem a capacidade de a aeronave
+  permanecer em trajetória deslocada da trajetória original, conforme definido pela série
+  de waypoints. O sistema deve ser capaz de realizar trajetórias deslocadas de até 20 NM da
+  trajetória original.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- trajetoria
+- original
+- aeronave
+- capacidade
+- capaz
+- definido
+- deslocada
+- deslocadas
+- deslocamentos
+- fornecem
+- offset
+- paralelos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

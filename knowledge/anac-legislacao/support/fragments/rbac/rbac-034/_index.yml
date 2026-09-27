@@ -14,23 +14,27 @@ language: pt
 foreign_annex: false
 sections:
 - '34.1'
-- '34.3'
 - '34.5'
 - '34.7'
 - '34.9'
+- aprovacao
+- definicoes
 - preambulo
-fragment_count: 12
+- requisitos
+fragment_count: 14
 fragment_ids:
 - rbac-rbac-034-preambulo-body
+- rbac-rbac-034-requisitos-body
+- rbac-rbac-034-aprovacao-body
 - rbac-rbac-034-34-5-body
 - rbac-rbac-034-34-7-body
 - rbac-rbac-034-34-9-body
 - rbac-rbac-034-34-1-a
 - rbac-rbac-034-34-1-b
-- rbac-rbac-034-34-3-body
-- rbac-rbac-034-34-3-a
-- rbac-rbac-034-34-3-b
+- rbac-rbac-034-definicoes-body
+- rbac-rbac-034-definicoes-a
+- rbac-rbac-034-definicoes-b
 - rbac-rbac-034-34-7-a
 - rbac-rbac-034-34-7-b
 - rbac-rbac-034-34-7-c
-parser_version: 6
+parser_version: 7

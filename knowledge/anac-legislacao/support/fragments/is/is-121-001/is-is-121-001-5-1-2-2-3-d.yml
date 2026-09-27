@@ -1,0 +1,55 @@
+id: is-is-121-001-5-1-2-2-3-d
+kind: is
+document: is-121-001
+family: '121'
+section_id: 5.1.2.2.3
+section_title: 'sistema de revisão: deve ser descrito o sistema de revisão do guia de rota
+  e devem ser definidos os responsáveis pela atualização do conteúdo.'
+subsection_id: d
+cite: 5.1.2.2.3(d)
+title: 5.1.2.2.3(d)
+text: 'd) o diretor/gerente de operações, como responsável pela aprovação da publicação na
+  estrutura do operador.
+
+  5.1.2.2.4 sistema de distribuição: contém a lista de detentores, os responsáveis pela distribuição
+  e o método de distribuição. Caso o sistema de distribuição de manuais da empresa para todos
+  os manuais (incluindo as publicações produzidas por outras organizações) esteja definido
+  no MGO, é suficiente fazer referência à seção apropriada do MGO.
+
+  5.1.2.2.4.1 A lista de detentores deve garantir acesso aos empregados do operador que utilizem
+  o guia de rota, em seus postos usuais de trabalho, atendendo, pelo menos, ao parágrafo 5.3
+  desta IS.
+
+  5.1.2.2.4.2 Caso partes do guia de rota (por exemplo, as cartas) apresentem particularidades
+  no método de distribuição ou na lista de detentores, o operador deve especificar tais particularidades
+  no guia de rota.
+
+  5.1.2.2.4.3 O método de distribuição deve garantir que a documentação que possui data de
+  efetiva entrada em vigor (por exemplo, as publicações que seguem o ciclo AIRAC) estejam
+  disponíveis durante todo o período de efetividade.
+
+  5.1.2.2.4.4 O método de distribuição pode consistir de distribuição de arquivo digital,
+  desde que o operador disponibilize aos empregados meios de acessar, do seu posto usual de
+  trabalho, a informação do guia de rota. Para o acesso à informação eletrônica em formato
+  digital a bordo da aeronave, por meio de EFB, o operador deve obter autorização específica
+  da ANAC.'
+keywords:
+- transporte-aereo
+- operacoes
+- distribuicao
+- guia
+- operador
+- rota
+- metodo
+- sistema
+- detentores
+- lista
+- acesso
+- caso
+- digital
+- empregados
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

@@ -7,15 +7,55 @@ section_title: Luzes
 subsection_id: b
 cite: 154.305(b)
 title: 154.305(b)
-text: '(b) Iluminação de emergência
+text: 'b)
 
-  (1) Aplicação'
+  Quando um PAPI ou um APAPI for instalado em uma
+
+  pista equipada com ILS e/ou MLS, a distância D1 deve ser
+
+  calculada para garantir a melhor compatibilidade entre os
+
+  auxílios visuais e por instrumentos para a variação das alturas
+
+  visuais das aeronaves que utilizem a pista regularmente. A
+
+  distância deve ser igual à distância entre a cabeceira e a
+
+  origem efetiva da trajetória de descida do ILS ou a trajetória
+
+  mínima de descida do MLS, conforme for o caso, mais um fator
+
+  de correção para a variação das alturas visuais e por
+
+  instrumentos das aeronaves envolvidas. O fator de correção
+
+  para a variação das alturas visuais e por instrumentos das
+
+  aeronaves envolvidas. O fator de correção é obtido
+
+  multiplicando-se a média da altura visual e por instrumentos
+
+  dessas aeronaves pela cotangente do ângulo de aproximação.
+
+  No entanto, a distância deve ser tal que, em nenhuma hipótese,
+
+  a desobstrução das rodas sobre a cabeceira seja menor do que
+
+  a especificada na coluna (3) da Tabela D-5.'
 keywords:
 - seguranca-aeroportuaria
-- aplicacao
-- emergencia
-- iluminacao
-- luzes
+- aeronaves
+- distancia
+- instrumentos
+- visuais
+- alturas
+- correcao
+- fator
+- variacao
+- cabeceira
+- descida
+- envolvidas
+- pista
 categories:
 - seguranca-aeroportuaria
 language: pt

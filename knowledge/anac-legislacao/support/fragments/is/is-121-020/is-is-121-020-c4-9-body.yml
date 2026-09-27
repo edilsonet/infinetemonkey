@@ -1,0 +1,61 @@
+id: is-is-121-020-c4-9-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: C4.9
+section_title: Limitações operacionais para operação no aeródromo SBRJ
+subsection_id: body
+cite: C4.9
+title: Limitações operacionais para operação no aeródromo SBRJ
+text: 'C4.9 Limitações operacionais para operação no aeródromo SBRJ
+
+  C4.9.1 São elegíveis para operação no aeródromo SBRJ pilotos em comando (PIC) com ao menos
+  200 horas de experiência de operação em aeronaves abrangidas pela mesma habilitação de tipo.
+
+  C4.9.2 Os pousos e decolagens no aeródromo SBRJ são de operação exclusiva do PIC, exceto
+  nos casos em que o piloto esteja em fase de qualificação, supervisionado por um instrutor
+  ou examinador credenciado.
+
+  C4.9.3 O operador deve estabelecer limites de operação com vento de cauda e com vento de
+  través, em conformidade com os manuais de cada modelo de aeronave. Ao estabelecer esses
+  limites, devem ser desenvolvidas orientações aos pilotos sobre como identificar as condições
+  de vento no aeródromo e seu entorno, além das informações fornecidas pela torre de controle.
+  Para pista molhada, é proibida a operação com vento de cauda reportado superior a 6 KT e/ou
+  vento de través reportado maior que o valor do limite previsto no AOM reduzido de 5 KT.
+
+  C4.9.4 São proibidas operações de pouso ou decolagem com chuva forte, com pista contaminada
+  ou com reporte de windshear. O operador deve estabelecer orientações aos pilotos sobre como
+  identificar tais condições.
+
+  C4.9.5 São proibidas operações de decolagens no aeródromo SBRJ a partir de intersecções
+  da pista que não sejam as mais extremas de cada cabeceira.
+
+  C4.9.6 O operador deve estabelecer critérios de aproximação estabilizada e ponto de toque
+  na pista específicos para o aeródromo SBRJ, considerando as peculiaridades dos procedimentos
+  de aproximação.
+
+  C4.9.7 O operador deve estabelecer procedimentos para garantir que o piloto em comando não
+  continue ou permita a continuação de uma aproximação para pouso abaixo de 1000 ft AFE, a
+  menos que o piloto em comando se assegure de que, de acordo com a última informação disponível
+  sobre a condição da pista de pouso e decolagem, os dados de desempenho do avião indiquem
+  que um pouso seguro pode ser feito. Essa avaliação pode ser feita:'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- operacao
+- sbrj
+- estabelecer
+- pista
+- vento
+- operador
+- pouso
+- aproximacao
+- comando
+- limitacoes
+- operacionais
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

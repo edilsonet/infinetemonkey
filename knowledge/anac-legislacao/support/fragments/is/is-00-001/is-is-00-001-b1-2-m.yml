@@ -1,0 +1,51 @@
+id: is-is-00-001-b1-2-m
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.2
+section_title: SISTEMAS
+subsection_id: m
+cite: B1.2(m)
+title: B1.2(m)
+text: '(m) SISTEMAS DE NAVEGAÇÃO (INCLUINDO SISTEMAS DE APROXIMAÇÃO POR
+
+  PRECISÃO) E SISTEMAS DE DADOS DE AR
+
+  I- Perda total ou falhas múltiplas de equipamentos de navegação;
+
+  II- Perda total ou falhas múltiplas de equipamentos de dados de ar;
+
+  III- Indicações enganosas significativas;
+
+  IV- Erros de navegação significativos atribuídos a dados incorretos ou erro de código do
+
+  banco de dados utilizado;
+
+  V- Desvios inesperados na direção lateral ou vertical que não sejam causados por ações co-
+
+  mandadas pelo piloto;Data de emissão: 13 de março de 2018. IS nº 00-001
+
+  Revisão B
+
+  VI- Problemas com as facilidades de navegação de solo causando erros de navegação signi-
+
+  ficativos que não estejam associados com transitórios do modo de navegação inercial
+
+  para o modo de navegação por rádio.'
+keywords:
+- navegacao
+- dados
+- sistemas
+- equipamentos
+- erros
+- falhas
+- modo
+- multiplas
+- perda
+- total
+- acoes
+- aproximacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

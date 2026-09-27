@@ -1,0 +1,53 @@
+id: is-is-119-007-5-9-1-e
+kind: is
+document: is-119-007
+family: '119'
+section_id: 5.9.1
+section_title: Não há requisitos para que o operador aéreo forneça fonte de energia elétrica
+  da aeronave
+subsection_id: e
+cite: 5.9.1(e)
+title: 5.9.1(e)
+text: 'e) disponibilidade de fonte de energia elétrica. As saídas de energia da aeronave são
+
+  consideradas equipamentos não essenciais da aeronave e não são requeridas pelos
+
+  requisitos de certificação ou de operação da aeronave. Adicionalmente, o mau
+
+  funcionamento elétrico de alguns sistemas da aeronave pode requerer que a fonte de
+
+  energia dessas saídas seja desativada em solo ou em voo, com vistas à segurança do voo.
+
+  Se uma saída está disponível, operacional e sua localização é apropriada para uso como
+
+  uma fonte de energia para o POC, ela pode servir de backup para as baterias do POC.
+
+  Nesse caso, devem ser seguidos os procedimentos recomendados do fabricante do POC
+
+  a respeito da transição da bateria para a fonte de energia da aeronave. Os usuários de POC
+
+  não devem confiar na eventual disponibilidade de fonte de energia elétrica na aeronave
+
+  durante o voo.
+
+  5.10 Emissões de radiofrequência'
+keywords:
+- certificacao-de-operador
+- operacoes
+- aeronave
+- energia
+- fonte
+- eletrica
+- disponibilidade
+- pode
+- requisitos
+- saidas
+- adicionalmente
+- aereo
+- alguns
+- apropriada
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-007.md

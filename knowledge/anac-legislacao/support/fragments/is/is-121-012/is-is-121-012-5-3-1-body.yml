@@ -1,0 +1,53 @@
+id: is-is-121-012-5-3-1-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.3.1
+section_title: Programa de Manutenção de Aeronavegabilidade Continuada ETOPS (PMAC ETOPS)
+subsection_id: body
+cite: 5.3.1
+title: Programa de Manutenção de Aeronavegabilidade Continuada ETOPS (PMAC ETOPS)
+text: '5.3.1 Programa de Manutenção de Aeronavegabilidade Continuada ETOPS (PMAC ETOPS)
+
+  5.3.1.1 Requisitos adicionais de manutenção são aplicáveis para aviões com dois motores,
+  conforme estabelecido na seção 121.374 do RBAC nº 121, incluindo as limitações em manutenções
+  concomitantes.
+
+  5.3.1.1.1 Os requisitos devem ser cumpridos sempre que o avião for realizar operações ETOPS.
+  Se um avião realiza tanto operações ETOPS quanto operações não ETOPS, pode deixar de cumprir
+  os requisitos de manutenção adicionais para ETOPS, ficando dessa forma inelegível para operações
+  ETOPS. Para retomar a capacidade de realização de operações ETOPS, devem ser cumpridos todos
+  os requisitos de manutenção adicionais para ETOPS, incluindo as limitações em manutenções
+  concomitantes.
+
+  5.3.1.1.2 Se o detentor de certificado deixa de atender aos requisitos de manutenção adicionais
+  para ETOPS para um avião autorizado a realizar operações ETOPS, o detentor de certificado
+  deve implementar um controle de forma a garantir que esse avião não será utilizado em operações
+  ETOPS enquanto não retomar a capacidade de realização dessas operações.
+
+  5.3.1.2 O detentor de certificado deve monitorar a confiabilidade do sistema de propulsão
+  para cada combinação avião-motor utilizada em operações ETOPS, bem como tomar as ações requeridas
+  por 121.374(i) do RBAC nº 121 para as taxas de IFSD especificadas. O monitoramento se aplica
+  também aos voos em que tal combinação avião-motor operar em voos não ETOPS.
+
+  5.3.1.3 Além do requerido pela seção 121.703 do RBAC nº 121, os seguintes eventos devem
+  ser reportados em até 96h, contendo as informações requeridas por 121.703(e):'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- manutencao
+- aviao
+- requisitos
+- adicionais
+- aeronavegabilidade
+- certificado
+- continuada
+- detentor
+- pmac
+- programa
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

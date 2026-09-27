@@ -1,0 +1,64 @@
+id: is-is-135-008a-5-8-9-e
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.8.9
+section_title: Considerações sobre o piloto automático.
+subsection_id: e
+cite: 5.8.9(e)
+title: 5.8.9(e)
+text: 'e) inclusão de indicação de mudança de modo de piloto automático em procedimentos de
+  manobras/caixas de diálogo. Quando possível, associe os call-outs e o tempo para coincidir
+  com as mudanças de modo. Por exemplo, alguns operadores têm implementado procedimentos padronizados
+  de operação, tais como “Confirmar, Ativar, Monitorar, Intervir (CAMI),” ou “Verbalizar,
+  Verificar e Monitorar (VVM)” ou sistemas similares, ou mesmo suas variações. Tais procedimentos
+  proporcionam à tripulação de voo um método estruturado para realizar operações dentro da
+  cabine de comando que ajuda a interceptar erros. Independentemente da forma da estratégia,
+  o objetivo é garantir que todos na cabine de comando compreendam o modo ativo, os efeitos
+  do novo modo acoplado e habilmente reajam para garantir que a trajetória e a energia da
+  aeronave permaneçam como desejadas. Alguns efeitos de inserção e seleção são retardados
+  (por exemplo, armado para ativo) e erros latentes podem não ser aparentes até que algum
+  tempo já tenha se passado. Verificação de trajetória ou funções desejadas e consciência
+  dos modos são importantes em todas as fases do voo, incluindo nas operações em solo.
+
+  5.8.9.3 Consciência do modo de piloto automático. O Anunciador do Modo de Voo (FMA) fornece
+  à tripulação de voo informações sobre o estado dos sistemas de piloto automático/sistemas
+  automatizados, especificamente no que diz respeito às funções de orientação e de controle
+  sendo utilizadas. Seja controlando manualmente a aeronave, utilizando os sistemas automatizados
+  para controlar a trajetória de voo da aeronave e energia, ou várias combinações de ambos,
+  o FMA é a fonte de informações para descrever “quem faz o quê”.
+
+  5.8.9.4 É importante que os tripulantes de voo sejam exaustivamente treinados para entender
+  as implicações e relações de cada modo do piloto automático, já que o respectivo modo comunica
+  a fonte da trajetória de voo da aeronave e a energia. É também imperativo que todos os membros
+  da tripulação, como uma equipe, entendam o modo atual e seu sistema de controle para eficazmente
+  gerenciar a trajetória de voo e a energia da aeronave. Assim como a função de monitoramento
+  é de responsabilidade simultânea dos dois pilotos (e potenciais tripulações auxiliares quando
+  na cabine de comando), a consciência do FMA e suas implicações são também dever dos dois
+  pilotos. Entender a consequência dos modos, quer esperados ou inesperados, e a capacidade
+  de antecipar modos subsequentes e a compreensão do significado e efeitos sistêmicos do modo,
+  é central para o gerenciamento da trajetória de voo.
+
+  5.8.9.5 A consciência do modo do sistema de piloto automático requer um monitoramento eficaz
+  dos modos de piloto automático. Abaixo estão algumas estratégias que podem ser treinadas
+  para melhorar o monitoramento dos modos de piloto automático:'
+keywords:
+- taxi-aereo
+- operacoes
+- modo
+- automatico
+- piloto
+- trajetoria
+- aeronave
+- modos
+- consciencia
+- energia
+- sistemas
+- cabine
+- comando
+- efeitos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

@@ -1,0 +1,37 @@
+id: rbac-rbac-108-emd-07-108-241-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.241'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: a
+cite: 108.241(a)
+title: 108.241(a)
+text: '(a) O operador aéreo deve realizar as seguintes atividades de controle de qualidade,
+  observando as frequências mínimas estabelecidas no Apêndice A:
+
+  (1) auditorias internas;
+
+  (2) inspeções internas; e
+
+  (3) testes.'
+keywords:
+- seguranca
+- operador
+- atividades
+- controle
+- internas
+- qualidade
+- aereo
+- apendice
+- auditorias
+- avsec
+- estabelecidas
+- frequencias
+- inspecoes
+- minimas
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

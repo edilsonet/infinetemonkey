@@ -12,20 +12,24 @@ archive_url: ''
 language: pt
 foreign_annex: false
 sections:
-- '11.1'
 - '11.21'
 - '11.31'
 - '11.41'
+- aplicabilidade
+- aprovacao
 - preambulo
-fragment_count: 23
+- sumario
+fragment_count: 25
 fragment_ids:
 - rbac-rbac-011-preambulo-body
-- rbac-rbac-011-11-1-body
+- rbac-rbac-011-aprovacao-body
+- rbac-rbac-011-sumario-body
+- rbac-rbac-011-aplicabilidade-body
 - rbac-rbac-011-11-21-body
 - rbac-rbac-011-11-31-body
 - rbac-rbac-011-11-41-body
-- rbac-rbac-011-11-1-a
-- rbac-rbac-011-11-1-b
+- rbac-rbac-011-aplicabilidade-a
+- rbac-rbac-011-aplicabilidade-b
 - rbac-rbac-011-11-21-a
 - rbac-rbac-011-11-21-b
 - rbac-rbac-011-11-21-c
@@ -42,4 +46,4 @@ fragment_ids:
 - rbac-rbac-011-11-41-b
 - rbac-rbac-011-11-41-c
 - rbac-rbac-011-11-41-d
-parser_version: 6
+parser_version: 7

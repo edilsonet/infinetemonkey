@@ -1,0 +1,33 @@
+id: iac-iac-001-1001a-13-5-1-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 13.5.1
+section_title: As correções processadas deverão ser digitadas em negrito e ficar entre colchetes.
+subsection_id: body
+cite: 13.5.1
+title: As correções processadas deverão ser digitadas em negrito e ficar entre colchetes.
+text: '13.5.1 As correções processadas deverão ser digitadas em negrito e ficar entre colchetes.
+
+  Ao fim da seção envolvida, o número da emenda e o ano de publicação, conforme exemplo
+
+  acima, deverão constar entre parênteses. Para se eliminar capítulos e itens, basta citá-los,
+
+  acrescentando, a seguir, a expressão “SUPRIMIDO”.'
+keywords:
+- deverao
+- colchetes
+- correcoes
+- digitadas
+- ficar
+- negrito
+- processadas
+- acima
+- acrescentando
+- basta
+- capitulos
+- cita
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

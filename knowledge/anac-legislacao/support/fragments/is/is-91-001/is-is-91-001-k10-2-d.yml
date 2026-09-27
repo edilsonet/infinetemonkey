@@ -1,0 +1,31 @@
+id: is-is-91-001-k10-2-d
+kind: is
+document: is-91-001
+family: '91'
+section_id: K10.2
+section_title: 'A autorização genérica será explicita em informar:'
+subsection_id: d
+cite: K10.2(d)
+title: K10.2(d)
+text: d) Se está autorizada operação em procedimentos com precisão requerida inferior a 1.0
+  NM (RNP<1.0) no segmento de aproximação perdida.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aproximacao
+- autorizacao
+- autorizada
+- explicita
+- generica
+- inferior
+- informar
+- operacao
+- perdida
+- precisao
+- procedimentos
+- requerida
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

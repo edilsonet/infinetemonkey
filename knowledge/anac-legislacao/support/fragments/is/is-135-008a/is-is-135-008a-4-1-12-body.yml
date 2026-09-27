@@ -1,0 +1,106 @@
+id: is-is-135-008a-4-1-12-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 4.1.12
+section_title: Trajetória de voo (Flightpath). A trajetória da aeronave em voo.
+subsection_id: body
+cite: 4.1.12
+title: Trajetória de voo (Flightpath). A trajetória da aeronave em voo.
+text: '4.1.12 Trajetória de voo (Flightpath). A trajetória da aeronave em voo.
+
+  4.2 Lista de siglas:
+
+  ACARS - Sistema de Comunicações e Relatório de Aeronaves (Aircraft Communications, Addressing
+  and Reporing System)
+
+  ACAS - Sistema Anticolisão de Bordo (Airbone Collision Avoidance System)
+
+  AFM - Manual de Voo do Avião (Airplane Flight Manual)
+
+  AOM - Manual de Operações da Aeronave (Aircraft Operating Manual)
+
+  ATC - Controle de Tráfego Aéreo (Air Traffic Control)
+
+  ATS -Serviço de Tráfego Aéreo (Air Traffic Service)
+
+  BARO/VNAV - Navegação Vertical Barométrica (Barometric Vertical Navigation)
+
+  DME - Equipamento Medidor de Distância (Distance Measuring Equipment)
+
+  EFB - Informação Aeronáutica em Formato Digital (Electronic Flight Bag)
+
+  EGPWS - Sistema Aprimorado de Aviso de Proximidade do Solo (Enhanced Ground Proximity Warning
+  System)
+
+  FMA - Anunciador de Modo de Voo (Flight Mode Annunciator)
+
+  FMS - Sistema de Gerenciamento de Voo (Flight Management System)
+
+  FOQA - Garantia de Qualidade em Operações de Voo (Flight Operations Quality Assurance)
+
+  GPS - Sistema de Posicionamento Global (Global Positioning System)
+
+  IFR - Regras de Voo por Instrumento (Instrument Flight Rules)
+
+  ILS - Sistema de Pousos por Instrumentos (Instrument Landing System)
+
+  IS - Instrução Suplementar
+
+  LOSA - Auditoria de Segurança nas Operações de Linha (Line Operations Safety Audit)
+
+  MEL - Lista de Equipamentos Mínimos (Minimum Equipment List)
+
+  ND - Tela de Navegação (Navigation Display)
+
+  NDB - Radiofarol Não Direcional (Non-Directional Beacon)
+
+  NOTAM - Aviso aos Aeronavegantes (Notice to Airmen)
+
+  OEM - Fabricante do Equipamento Original (Original Equipment Manufacturer)
+
+  PA - Piloto Automático (Automatic Pilot)
+
+  PAADV - Programa de Acompanhamento e Análise de Dados de Voo
+
+  PF - Piloto Voando (Pilot Flying)
+
+  PFD - Monitor Primário de Voo (Primary Flight Display)
+
+  PIC - Piloto em Comando (Pilot in Command)
+
+  PM - Piloto Monitorando (Pilot Monitoring)
+
+  RBAC - Regulamento Brasileiro de Aviação Civil
+
+  RFM - Manual de Voo do Helicóptero (Rotorcraft Flight Manual)
+
+  SGSO - Sistema de Gerenciamento da Segurança Operacional
+
+  SOP - Procedimentos Operacionais Padronizados (Standard Operational Procedures)
+
+  TCAS - Sistema Anticolisão de Tráfego (Traffic Collision Avoidance System)
+
+  VMC - Condições Meteorológicas de Voo Visual (Visual Meteorological Conditions)
+
+  VOR - Radiofarol Onidirecional de Alta Frequência (Very High Frequency Omni-Directional
+  Radio Range)'
+keywords:
+- taxi-aereo
+- operacoes
+- flight
+- sistema
+- system
+- manual
+- trajetoria
+- aeronave
+- pilot
+- piloto
+- equipment
+- flightpath
+- trafego
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

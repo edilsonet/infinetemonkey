@@ -1,0 +1,53 @@
+id: rbac-rbac-108-emd-07-108-239-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.239'
+section_title: Diretrizes e Estrutura do Sistema de Controle de Qualidade AVSEC
+subsection_id: a
+cite: 108.239(a)
+title: 108.239(a)
+text: '(a) O Sistema de Controle de Qualidade AVSEC deve atender às seguintes diretrizes:
+
+  (1) ser um processo contínuo que incorpore procedimentos internos, tais como técnicas de
+  auditoria e inspeções, com o objetivo de garantir a qualidade da segurança da aviação civil
+  contra atos de interferência ilícita;
+
+  (2) ser capaz de identificar as deficiências e desenvolver meios padronizados de correção
+  para tratá-las;
+
+  (3) ser de responsabilidade primária da alta direção do operador aéreo, que deve avaliar
+  o relatório anual das atividades de controle de qualidade e estabelecer diretrizes e metas
+  para as ações futuras relacionadas ao controle de qualidade AVSEC do operador aéreo;
+
+  (4) prever ações que objetivem a implementação da cultura AVSEC em todos os níveis da empresa,
+  em especial nos seus dirigentes e profissionais que atuem diretamente na aplicação de procedimentos
+  de segurança;
+
+  (5) ser estruturado de forma a facilitar a obtenção de informações fidedignas em todas as
+  esferas administrativas e operacionais do operador;
+
+  (6) considerar conceitos de avaliação de risco ao processar as informações obtidas ao longo
+  da execução de suas operações e das atividades de controle de qualidade; e
+
+  (7) considerar tanto os procedimentos implementados pelo próprio operador aéreo quanto aqueles
+  desenvolvidos por empresas contratadas ou vinculadas ao operador aéreo e que executem diretamente
+  medidas e procedimentos de segurança.'
+keywords:
+- seguranca
+- operador
+- qualidade
+- controle
+- aereo
+- avsec
+- procedimentos
+- diretrizes
+- acoes
+- atividades
+- considerar
+- diretamente
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

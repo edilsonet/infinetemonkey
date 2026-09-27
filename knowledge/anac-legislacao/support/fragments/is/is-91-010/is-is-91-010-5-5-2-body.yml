@@ -1,0 +1,118 @@
+id: is-is-91-010-5-5-2-body
+kind: is
+document: is-91-010
+family: '91'
+section_id: 5.5.2
+section_title: 'As sub-redes atualmente padronizadas para uso aeronáutico são as demonstradas
+  conforme a Tabela 1:'
+subsection_id: body
+cite: 5.5.2
+title: 'As sub-redes atualmente padronizadas para uso aeronáutico são as demonstradas conforme
+  a Tabela 1:'
+text: '5.5.2 As sub-redes atualmente padronizadas para uso aeronáutico são as demonstradas
+  conforme a Tabela 1:
+
+
+  Tabela 1 - Designativos padronizadas para sub-redes de Data Link
+
+
+  5.5.3 A figura 1, publicada originalmente no ICAO DOC 10037 - Global Operational Data Link
+  Manual (GOLD), ilustra o caminho da troca de dados entre as diversas sub-redes possíveis:
+
+
+  Figura 1 - Fluxo de dados entre sub-redes de Data Link. (Fonte: FAA AC 90-117)
+
+
+  5.5.4 É importante ressaltar que nem toda aeronave e órgão ATS possuem acesso às sub-redes
+  de Data Link via HF e via satélite. Além disso, certos órgãos ATS podem requerer que as
+  aeronaves utilizem uma ou mais dessas sub-redes, ou ainda vedar sua utilização, e é responsabilidade
+  do operador verificar sempre se capacidade de sua aeronave atende aos requisitos dos órgãos
+  ATS responsáveis.
+
+  5.6 Designativos de interoperabilidade dos equipamentos de Data Link.
+
+  5.6.1 Adicionalmente à padronização das sub-redes, tratada no tópico anterior desta IS,
+  os equipamentos e protocolos de comunicação utilizados pelas Unidades ATS e pelas aeronaves
+  foram também padronizados pela indústria e pelas autoridades internacionais.
+
+  5.6.2 Este conjunto de regras técnicas é geralmente criado por determinado fabricante e/ou
+  autoridade de tráfego aéreo, e tem por objetivo garantir que os equipamentos de Data Link
+  da aeronave e dos órgãos ATS se comuniquem em uma “linguagem” comum, de forma que os dados
+  enviados por uma das pontas sejam corretamente recebidos e interpretados pela outra. A este
+  conjunto de regras técnicas dá-se o nome de Padrão de Interoperabilidade.
+
+  5.6.3 Devido à diversidade de fabricantes e autoridades, bem como à evolução tecnológica
+  da indústria, existem atualmente diversos Padrões de Interoperabilidade em uso. A cada um
+  deles é atribuído um Designativo de Interoperabilidade (INTEROP Standards), conforme Tabela
+  2:
+
+
+  Tabela 2 - Designativos de interoperabilidade aplicáveis a aeronaves
+
+
+  5.7 Conforme ilustrado na figura 2, não é incomum que uma mesma aeronave possua equipamentos
+  que atendam a mais de um Padrão de Interoperabilidade, o que lhe permite estabelecer conexões
+  de Data Link com Unidades ATS que utilizem padronizações distintas:
+
+
+  Figura 2 - Diferentes padrões de interoperabilidade de conectividade ATSU/aeronaves. (Fonte:
+  FAA AC 90-117)
+
+
+  COMUNICAÇÃO E VIGILÂNCIA BASEADOS EM DESEMPENHO (PERFORMANCE-BASED COMMUNICATION AND SURVEILLANCE
+  - PBCS)
+
+  6.1 O conceito de Comunicação e Vigilância Baseados em Desempenho - PBCS, estabelecido pela
+  ICAO no DOC 9869, fornece critérios operacionais objetivos para avaliar o desempenho das
+  diferentes tecnologias de comunicação e vigilância disponíveis na aviação civil.
+
+  6.2 Aplicando-se esses critérios, é possível avaliar e atribuir uma especificação aos sistemas
+  de comunicação (“Especificação RCP - Required Communication Performance”) e vigilância (“Especificação
+  RSP - Required Surveillance Performance”) de cada aeronave.
+
+  6.3 Estas Especificações permitem ao operador e aos órgãos ATS identificarem prontamente
+  as capacidades operacionais de cada aeronave. Também torna possível aos órgãos ATS estabelecer
+  os valores mínimos de RCP e RSP para as aeronaves que pretendam operar em espaços aéreos
+  cujas particularidades tornem recomendável exigir uma capacidade mínima de comunicação ou
+  vigilância. Atualmente especificações RCP e RSP mínimas já são requeridas, por exemplo,
+  para aeronaves que pretendam operar nas porções sujeitas a separação lateral reduzida (RLatSM
+  - Reduced Lateral Separation Minimum) das rotas OTS - Organized Track System do espaço aéreo
+  NAT-HLA (Atlântico Norte).
+
+  6.4 O PBCS está alinhado com outro conceito já bastante familiar para os operadores aéreos,
+  o PBN - Performance Based Navigation, que de forma similar estabelece especificações de
+  desempenho para os sistemas de navegação (conhecidas como “Especificações RNP e RNAV”).
+
+  6.5. A utilização conjunta das especificações RNP/RNAV, RSP e RCP possibilita a prestação
+  dos serviços de tráfego aéreo (CNS/ATM) em um modelo inteiramente baseado em desempenho,
+  conforme ilustrado pela figura 3:
+
+
+  Figura 3 - Modelo de CNS/ATM baseado em performance (Fonte: FAA AC 90-117)
+
+
+  6.6 Especificações RCP
+
+  6.6.1 Uma Especificação RCP (Required Communications Performance) representa um conjunto
+  de parâmetros operacionais que devem ser atingidos pelos sistemas de comunicação sujeitos
+  àquela Especificação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- redes
+- comunicacao
+- data
+- interoperabilidade
+- link
+- aeronave
+- aeronaves
+- especificacoes
+- figura
+- performance
+- tabela
+- atualmente
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

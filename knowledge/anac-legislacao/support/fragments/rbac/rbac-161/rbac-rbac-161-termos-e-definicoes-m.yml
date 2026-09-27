@@ -1,0 +1,26 @@
+id: rbac-rbac-161-termos-e-definicoes-m
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: m
+cite: termos-e-definicoes(m)
+title: termos-e-definicoes(m)
+text: '(m)
+
+  Ponto de teste de motores: posição prevista para que uma aeronave realize testes de motores.'
+keywords:
+- definicoes
+- motores
+- termos
+- aeronave
+- ponto
+- posicao
+- realize
+- teste
+- testes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

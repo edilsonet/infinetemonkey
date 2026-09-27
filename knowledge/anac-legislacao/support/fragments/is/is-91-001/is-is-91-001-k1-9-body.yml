@@ -1,0 +1,46 @@
+id: is-is-91-001-k1-9-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K1.9
+section_title: O Doc. 9905 - Required Navigation Performance Authorization Required (RNP AR)
+  Procedure Design Manual, estabelece critérios e recomendações que devem ser utilizadas para
+  o desenvolvimento de procedimentos RNP AR APCH. O documento citado sugere que em localidades
+  onde o desenvolvimento de um procedimento não seja viável por meio da aplicação dos critérios
+  e parâmetros sugeridos, soluções alternativas podem ser geradas especificando condições,
+  caso a caso, que devem ser atendidas pelos operadores de modo a prover um nível equivalente
+  de segurança operacional.
+subsection_id: body
+cite: K1.9
+title: O Doc. 9905 - Required Navigation Performance Authorization Required (RNP AR) Procedure
+  Design Manual, estabelece critérios e recomendações que devem ser utilizadas para o desenvolvimento
+  de procedimentos RNP AR APCH. O documento citado sugere que em localidades onde o desenvolvimento
+  de um procedimento não seja viável por meio da aplicação dos critérios e parâmetros sugeridos,
+  soluções alternativas podem ser geradas especificando condições, caso a caso, que devem
+  ser atendidas pelos operadores de modo a prover um nível equivalente de segurança operacional.
+text: K1.9 O Doc. 9905 - Required Navigation Performance Authorization Required (RNP AR) Procedure
+  Design Manual, estabelece critérios e recomendações que devem ser utilizadas para o desenvolvimento
+  de procedimentos RNP AR APCH. O documento citado sugere que em localidades onde o desenvolvimento
+  de um procedimento não seja viável por meio da aplicação dos critérios e parâmetros sugeridos,
+  soluções alternativas podem ser geradas especificando condições, caso a caso, que devem
+  ser atendidas pelos operadores de modo a prover um nível equivalente de segurança operacional.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- caso
+- criterios
+- desenvolvimento
+- required
+- alternativas
+- apch
+- aplicacao
+- atendidas
+- authorization
+- citado
+- condicoes
+- design
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

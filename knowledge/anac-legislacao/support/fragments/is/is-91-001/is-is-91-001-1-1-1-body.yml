@@ -1,0 +1,306 @@
+id: is-is-91-001-1-1-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: 1.1.1
+section_title: 1.1.1
+subsection_id: body
+cite: 1.1.1
+title: 1.1.1
+text: '1.1.1
+
+  5.1.1 O conceito PBN representa um esforço da OACI em harmonizar os métodos de navegação
+  de área e engloba os métodos de navegação RNAV e RNP. Estes últimos são dois métodos similares,
+  que se diferenciam basicamente pela existência, na navegação RNP, de um sistema de monitoramento
+  e alerta aos pilotos da integridade da informação de posicionamento da aeronave, que não
+  se faz necessário na navegação RNAV. O PBN veio a introduzir critérios baseados em desempenho
+  para os sistemas de navegação expressos em termos de precisão, integridade, disponibilidade,
+  continuidade e funcionalidade, em substituição aos conceitos anteriores cujos critérios
+  eram baseados em tecnologias específicas.
+
+  5.1.2 A implantação de rotas de acordo com o conceito de navegação baseada em desempenho
+  possibilita a redução da separação lateral e longitudinal entre as aeronaves, resultando
+  em benefícios para os operadores, mantendo o elevado nível de segurança das operações. Entre
+  outras vantagens, pode-se mencionar um maior número de rotas otimizadas, a redução do tempo
+  de voo, diminuição de atrasos, maior flexibilidade de operações e menor consumo de combustível.
+
+  5.1.3 Os sistemas de navegação de área permitem o voo em qualquer trajetória desde que a
+  aeronave se encontre dentro da cobertura dos auxílios à navegação (por satélite ou em terra)
+  ou dentro da capacidade dos equipamentos embarcados, ou uma combinação de ambos.
+
+  5.1.4 Os requisitos de desempenho de navegação em rotas ou espaços aéreos específicos devem
+  ser definidos de maneira clara e concisa. Esta condição visa assegurar que todo o pessoal
+  envolvido com as operações esteja devidamente informado sobre a situação e a correta operação
+  dos sistemas de navegação a bordo das aeronaves, assim como sobre compatibilidade e adequabilidade
+  destes sistemas para a realização dos procedimentos de navegação.
+
+  5.1.5 Para operadores aéreos operando sob as regras do RBAC nº 121, a seção 121.349 estabelece
+  a necessidade de autorização, por meio das especificações operativas (EO), de qualquer sistema
+  RNAV usado para atender aos requisitos de equipamentos de navegação.
+
+  5.1.6 A seção 135.165 do RBAC nº 135 menciona os equipamentos que necessitam estar instalados
+  em uma aeronave para que esta atenda aos requisitos de navegação IFR e ao valor de RNP para
+  a rota a ser voada.
+
+  5.1.7 A OACI, com o intuito de harmonizar os requisitos e padronizar as aprovações referentes
+  aos conceitos de navegação baseados em desempenho, publicou, por meio da terceira edição
+  de seu Doc 9613 - Performance-based Navigation Manual, recomendações para a elaboração dos
+  regulamentos nacionais de aprovação PBN por parte dos Estados. Este documento da OACI constitui
+  a referência primária para a elaboração da presente Instrução Suplementar, cuja concepção
+  também se valeu de documentos estadunidenses, europeus e de circulares de assessoramento
+  elaboradas pelo escritório regional da OACI em Lima, no Peru, conforme tabela abaixo:
+
+
+  Doc 9613 - Performance-based Navigation Manual
+
+  Operação
+
+  Documento
+
+  OACI - Lima
+
+  Documento EASA
+
+  Documento
+
+  FAA
+
+  RNAV 10
+
+  AC 91-001
+
+  AMC 20-12
+
+  Order 8400.12A
+
+  RNAV 5
+
+  AC 91-002
+
+  AMC 20-4
+
+  AC 90-96A
+
+  RNAV 1 e 2
+
+  AC 91-003
+
+  JAA TGL 10
+
+  AC 90-100A
+
+  RNP 1
+
+  AC 91-006
+
+  JAA TGL 10
+
+  AC 90-105
+
+  AC 20-138D
+
+  RNP 2
+
+  AC 91-005
+
+
+  AC 90-105
+
+  AC 20-138D
+
+  A-RNP
+
+  AC 91-007
+
+
+  AC 90-105A
+
+  AC 20-138D
+
+  RNP APCH
+
+  AC 91-008
+
+  AMC 20-27
+
+  AC 90-105
+
+  AC 20-138D
+
+  RNP AR APCH
+
+  AC 91-009
+
+  AMC 20-26
+
+  AC 90-101
+
+  AC 20-138D
+
+  APV/BARO-VNAV
+
+  AC 91-010
+
+  AMC 20-27
+
+  AC 90-105
+
+  AC 20-138D
+
+  RNP AR DP
+
+
+  CS-ACNS
+
+
+  Tabela 1: documentos equivalentes de outras autoridades de aviação civil considerados nesta
+  IS.
+
+  5.1.8 Tendo em vista que a evolução dos sistemas de navegação de área e o esforço de padronização
+  da OACI (levado a cabo com a terceira edição do Doc 9613, hoje já desatualizada) impuseram
+  uma forte evolução na conceituação e na normatização da navegação de área, faz-se necessário
+  frisar que muitos dos conceitos e acrônimos utilizados nos documentos de referência possuem
+  significados distintos em documentos distintos, ou mesmo mais de um significado em um mesmo
+  documento, dependo do contexto. Recomenda-se, portanto, atenção na leitura da documentação,
+  a fim de evitar distorções nas interpretações, em especial dos documentos editados antes
+  da terceira edição do Doc 9613.
+
+  5.1.9 Esta IS pode não atender a todas as especificidades estabelecidas para as operações
+  PBN. Nos casos omissos a ANAC deve basear as autorizações em documentos complementares,
+  como as circulares de assessoramento do SRVSOP e o Doc 7030, Regional Supplementary Procedures,
+  publicado pela OACI.
+
+  5.1.10 Cabe ressaltar que o acrônimo RNAV significa genericamente “navegador ou navegação
+  de área”, mas também é utilizado como designador de rotas PBN específicas (veja a Tabela
+  2). O acrônimo RNP, por sua vez, significa genericamente “desempenho de navegação requerida”
+  e foi largamente utilizado com este significado na segunda edição do Doc 9613, mas a partir
+  da terceira edição (que adotou o conceito PBN), tem sido utilizado como designador de rotas
+  PBN específicas.
+
+  5.1.11 A ANAC é a autoridade responsável pela aprovação das operações de voo dos prestadores
+  de serviços aéreos brasileiros e, no caso de aviação geral, das aeronaves de matrícula brasileira,
+  incluindo aquelas que possuam requisitos de navegação baseados em desempenho - conceito
+  PBN (RNAV e RNP). Com este intuito, a ANAC deve assegurar que tanto as aeronaves quanto
+  os operadores que pretendam realizar tais operações estejam devidamente capacitados à plena
+  execução de todos os procedimentos relacionados às operações PBN pleiteadas, antes de emitir
+  as respectivas autorizações.
+
+  5.1.12 A presente Instrução Suplementar foi elaborada considerando que as rotas e procedimentos
+  envolvendo o conceito PBN aqui tratado são publicados e executados tendo como referência
+  o sistema de coordenadas WGS 84 (World Geodetic System 84).
+
+  5.1.13 Esta IS aborda os aspectos que serão observados durante o processo de autorização
+  de operações PBN para as diversas especificações, de forma tal que outros documentos que
+  tratam do assunto devem ser considerados para a efetiva execução das operações. Os NOTAMs,
+  as Circulares de Informações Aeronáuticas (AIC), a Publicação de Informações Aeronáuticas
+  (AIP) do DECEA e os manuais de operação das aeronaves são exemplos de documentos que complementam
+  as instruções para a condução das operações de navegação baseada em desempenho.
+
+  5.1.14 Uma aprovação operacional emitida por força deste documento permite que o operador
+  realize operações PBN, de acordo com critérios adotados ao redor do globo, dentro de um
+  conceito de espaço aéreo por área de operação. A Tabela 2 relaciona as operações PBN abordadas
+  por este documento, com suas respectivas precisões e áreas de atuação.
+
+
+  Designação da
+
+  Operação
+
+  Precisão Lateral da Navegação
+
+  Área de Aplicação
+
+  RNAV 10 (RNP 10)
+
+  10
+
+  Em rota - Oceânica / Remota
+
+  RNAV 5
+
+  5
+
+  Em rota - Continental
+
+  RNAV 1 e 2
+
+  1 e 2
+
+  Em rota - Continental / Área Terminal
+
+  RNP 4
+
+  4
+
+  Em rota - Oceânica / Remota
+
+  RNP 1
+
+  1
+
+  Área Terminal
+
+  RNP 2
+
+  2
+
+  Em rota - Oceânica / Remota / Continental
+
+  A-RNP
+
+  0.3
+
+  Em rota - Oceânica / Remota / Continental - Área Terminal - Aproximação
+
+  RNP APCH
+
+  0.3
+
+  Aproximação
+
+  RNP AR APCH
+
+  0.5 - 0.1
+
+  APV/BARO-VNAV
+
+  -
+
+  RNP AR DP
+
+  <1 - 0.3
+
+  Saídas
+
+
+  Tabela 2: Áreas de aplicação e precisões laterais associadas aos procedimentos PBN.
+
+  Nota: os valores de precisão lateral de navegação estão expressos em milhas náuticas mantidas
+  por, pelo menos, 95% do tempo de voo, a partir do centro da trajetória desejada.
+
+  5.1.15 Esta IS trata de processos de autorização para a execução de operações PBN cujas
+  especificidades relativas às diversas precisões de navegação estão detalhadas nos apêndices
+  conforme tabela abaixo:
+
+
+  Operação'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- operacoes
+- rnav
+- area
+- documentos
+- desempenho
+- documento
+- oaci
+- rota
+- 138d
+- conceito
+- operacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

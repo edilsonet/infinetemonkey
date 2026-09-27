@@ -1,0 +1,390 @@
+id: is-is-20-001-desenvolvimento-do-assunto-body
+kind: is
+document: is-20-001
+family: '20'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  Diferenças entre modificações e alterações
+
+  O termo modificação é utilizado para designar mudanças ao certificado de tipo ou ao projeto
+  de tipo, conforme Subparte D do RBAC 21, ou seja, modificação se refere a qualquer mudança
+  relacionada ao projeto ou à certificação de produto aeronáutico.
+
+  Já o termo alteração é utilizado para designar a incorporação, fisicamente, de uma modificação
+  em uma aeronave, motor, hélice ou em algum de seus componentes. Os requisitos aplicáveis
+  a alterações estão previstos no RBAC 43.
+
+  Classificação de modificações e alterações
+
+  Conforme definido na seção 4, as modificações e alterações são classificadas em grandes
+  ou pequenas. Independentemente de uma modificação ser classificada como grande ou pequena,
+  ela também pode se enquadrar como modificação acústica ou de emissões ou aos OSD.
+
+  NOTA: Modificações classificadas como grandes, acústicas ou de emissões ou aos OSD não estão
+  cobertas pelos procedimentos desta IS. Para tais modificações, consulte a IS 21-001 para
+  aprovação por meio de emenda ao CT, ou a IS 21-004 para os demais casos.
+
+  Em razão das diferenças conceituais entre modificações e alterações, uma pequena modificação
+  pode corresponder a uma pequena ou a uma grande alteração. Independentemente desta diferença,
+  esta IS foca apenas na classificação de alterações.
+
+  Alterações em um número de série de aeronave podem demandar verificações e demonstrações
+  adicionais a nível de projeto. Assim, toda alteração deve ser classificada com relação ao
+  impacto no projeto da aeronave como grande ou pequena modificação e com isso identificar
+  os possíveis impactos relacionados aos dados da certificação de projeto.
+
+  Não obstante a definição de grande alteração na seção 4, o Apêndice A do RBAC 43 lista no
+  parágrafo A43.1(a) um conjunto de exemplos de grandes alterações, constituindo uma listagem
+  não exaustiva. Uma vez identificada naquela listagem, a alteração deve ser classificada
+  como grande.
+
+  Conforme parágrafos 91.403(a) e (b) do RBAC 91, o operador é responsável por manter a aeronave
+  em condição aeronavegável, incluindo o atendimento ao RBAC 43. Já o RBAC 43 estabelece requisitos
+  específicos para grandes alterações, sendo necessário que os profissionais envolvidos avaliem
+  se uma alteração sendo incorporada é grande ou pequena. Dessa forma, a responsabilidade
+  pela classificação de uma alteração é solidária entre o operador da aeronave e sua equipe
+  de manutenção.
+
+  O Apêndice C desta IS detalha a avaliação de todos os aspectos que determinam a classificação
+  de uma alteração como grande ou pequena, conforme definição presente na seção 4.
+
+  Incorporação de alterações
+
+  A incorporação de alterações deve ser realizada conforme o RBAC 43, destacando-se as seguintes
+  particularidades:
+
+  Devem ser utilizados dados técnicos conforme seção 5.4 desta IS;
+
+  O registro uma pequena alteração requer apenas anotação nos seus registros de manutenção
+  conforme seção 43.9 do RBAC 43, tipicamente por meio de caderneta de manutenção prevista
+  na IS 43.9-003;
+
+  O registro de grande alteração deve ser realizado por meio do Formulário F-400-04 (SEGVOO
+  001), conforme parágrafo 43.5(b)-I do RBAC 43 e IS 43.9-001, sem prejuízo aos registros
+  secundários em caderneta de manutenção, conforme IS 43.9-003; e
+
+  A incorporação da alteração não depende de aprovação prévia da ANAC quando forem utilizados
+  dados técnicos aceitáveis ou que são considerados aprovados pela ANAC, conforme definido
+  na seção 4 e detalhado na seção 5.4 desta IS.
+
+  Dados técnicos utilizáveis em alterações em aeronaves
+
+  Pequenas alterações. Para pequenas alterações, são necessários dados técnicos aceitáveis
+  ou aceitos conforme definido na seção 4 desta IS. Todavia, empresas de transporte aéreo
+  detentoras de certificado de operação segundo os RBAC 121 ou 135 e operadores segundo o
+  RBAC 129 devem seguir as provisões especiais previstas no parágrafo 43.13(c) do RBAC 43.
+  Adicionalmente, dados técnicos que afetem a seção de limitações de aeronavegabilidade das
+  Instruções de Aeronavegabilidade Continuada - ICA devem ser aprovados pela ANAC.
+
+  Grandes alterações. Para grandes alterações, são necessários dados técnicos aprovados, conforme
+  definido na seção 4 desta IS e requerido pelo parágrafo 43.7(i)-I do RBAC 43. Estes dados
+  podem:
+
+  ter sido aprovados anteriormente pela ANAC por meio de um CST, Emenda ao CT, DA, ou outros
+  documentos;
+
+  ser dados técnicos considerados aprovados pela ANAC, por exemplo, manuais e informações
+  de serviço aprovados pela autoridade de aviação civil do país do fabricante; ou
+
+  ser aprovados especificamente para a aeronave sendo alterada, por exemplo por meio de um
+  Formulário F-400-04 (SEGVOO 001) no campo 3. A aprovação específica a uma aeronave não pode
+  ser replicada em outras aeronaves.
+
+  NOTA: A instalação de uma peça de reposição, tais como um PMA (Parts Manufacturer Approval)
+  de reposição da FAA (PMA replacement part), caso seja considerada uma pequena alteração,
+  poderá ser executada sem a necessidade de uma aprovação adicional da instalação por parte
+  da ANAC.
+
+  Fluxogramas: alterações e modificações
+
+  Os Fluxogramas A e B a seguir ilustram o processo de classificação da intervenção entre
+  reparo, pequena alteração, grande alteração ou grande modificação, conforme definido na
+  seção 4 e detalhado na seção 5.2 desta IS. Todos os critérios de decisão contidos nos fluxogramas
+  estão detalhados no Apêndice C desta IS.
+
+
+  Fluxograma A: Classificação da intervenção entre reparo, pequena alteração, grande alteração
+  ou grande modificação.
+
+
+  Fluxograma B: Determinação se uma alteração é grande ou pequena
+
+
+  Compatibilidade entre novas alterações e alterações ou reparos existentes
+
+  Ao incorporar uma alteração em uma aeronave, deve ser realizada uma análise de compatibilidade
+  da nova alteração com a configuração e situação atuais da aeronave, considerando não apenas
+  seu certificado de tipo e a condição no momento da fabricação, mas também todas alterações
+  e reparos existentes na área afetada.
+
+  Deve ser dada atenção adicional no caso de grandes modificações incorporadas a partir de
+  aprovações que não são específicas ao número de série específico da aeronave a ser alterada,
+  por exemplo, por meio de CST. Todos os CST publicados pela ANAC possuem a seguinte frase,
+  ou equivalente:
+
+  “A instalação desta modificação não deve ser incorporada à aeronave, a menos que o responsável
+  pela instalação verifique se não há incompatibilidade desta modificação com as configurações
+  anteriormente aprovadas, incluindo modificações ao projeto de tipo, e que não haverá nenhum
+  efeito adverso na aeronavegabilidade da aeronave.”
+
+  A análise de compatibilidade da nova alteração com alterações e reparos existentes pode
+  ser realizada utilizando como base a AC 20-188 emitida pela FAA (Compatibility of Changes
+  to Type Design Installed on Aircraft).
+
+  NOTA: Ainda que a AC 20-188 tenha como foco a análise de compatibilidade para instalação
+  de uma grande modificação numa aeronave, a ANAC considera seu conteúdo adequado também para
+  avaliar a compatibilidade no caso de alterações.
+
+  Caso durante a análise de compatibilidade permaneçam dúvidas acerca dos impactos de uma
+  alteração, tal alteração deve ser classificada como grande.
+
+  Aprovação de dados técnicos para grandes alterações elegíveis ao processo simplificado
+
+  Determinadas grandes alterações consideradas de menor complexidade podem ter seus dados
+  técnicos aprovados por meio de um processo simplificado em relação ao processo tradicional
+  contido na IS 21-004.
+
+  Para tal, a ANAC disponibiliza procedimentos específicos por tipo de artigo aeronáutico
+  a ser instalado ou substituído, publicados em portarias específicas que devem ser utilizadas
+  em conjunto com os procedimentos e orientações contidos nesta IS. Tais portarias podem ser
+  consultadas no endereço eletrônico abaixo:
+
+  https://sistemas.anac.gov.br/certificacao/CHST/InstrucoesDeAlteracao.asp
+
+  A aprovação pelo processo simplificado é exclusiva para grandes alterações que atendam integralmente
+  à portaria específica aplicável e aos meios aceitáveis de cumprimento definidos nesta IS.
+  São previstas as seguintes possibilidades de aprovação de dados técnicos:
+
+  Aprovação dos dados técnicos diretamente pela ANAC: os dados técnicos são submetidos à ANAC
+  para aprovação por meio de processo administrativo, o que pode ocorrer das seguintes formas:
+
+  I- Aprovação pela ANAC sem envolvimento de PCP ou Organização de Projeto Certificada: os
+  dados técnicos desenvolvidos pelo requerente são analisados integralmente pela ANAC antes
+  da aprovação;
+
+  II- Um PCP atesta que os dados técnicos avaliados fundamentam o cumprimento com os termos
+  da portaria específica contendo procedimentos para a grande alteração: os dados técnicos
+  desenvolvidos pelo requerente são analisados por um PCP, o qual atesta a verificação de
+  cumprimento à ANAC. A ANAC levará em consideração o parecer do PCP, escolhendo os aspectos
+  a serem verificados, antes da emissão da aprovação; ou
+
+  III- Uma Organização de Projeto Certificada desenvolve os dados técnicos sob seu sistema
+  de garantia de projeto e solicita sua aprovação à ANAC, respeitado o escopo e prerrogativas
+  contidos em seu Certificado de Organização de Projeto; ou
+
+  Aprovação dos dados técnicos sem envolvimento direto da ANAC: somente quando previsto na
+  portaria específica aplicável, não será necessária a abertura de processo administrativo
+  na ANAC, podendo ocorrer das seguintes formas:
+
+  I - Com envolvimento de um PCP, quando os dados técnicos desenvolvidos de acordo com as
+  portarias específicas, sob responsabilidade do PCP, são considerados aprovados pela ANAC,
+  desde que o PCP possua o Escopo Reconhecido necessário à aprovação dos dados técnicos; ou
+
+  II - Com envolvimento de uma Organização de Projeto Certificada, quando os dados técnicos
+  desenvolvidos de acordo com as portarias específicas, sob responsabilidade da organização,
+  são aprovados segundo as prerrogativas de seu Certificado de Organização de Projeto.
+
+  O Apêndice D desta IS detalha o conteúdo das portarias específicas contendo procedimentos
+  para alterações.
+
+  Responsabilidades no processo de aprovação de grande alteração
+
+  São responsabilidades dos que pretendem alterar uma aeronave (requerentes):
+
+  Solicitar a abertura de um processo simplificado de aprovação de grande alteração junto
+  à SAR/GCPP, no caso de aprovação dos dados técnicos diretamente pela ANAC;
+
+  Submeter à SAR/GCPP os dados administrativos e os dados técnicos referentes à aprovação,
+  conforme Apêndice D desta IS, no caso de aprovação dos dados técnicos diretamente pela ANAC,
+  ou retê-los em arquivo no caso da aprovação não ser realizada diretamente pela ANAC;
+
+  Apresentar quaisquer esclarecimentos e dados técnicos complementares solicitados pela SAR/GCPP;
+  e
+
+  Emitir e, no caso de aprovação dos dados técnicos diretamente pela ANAC, apresentar a declaração
+  de cumprimento com os termos da portaria específica contendo procedimentos para a grande
+  alteração.
+
+  Desenvolvimento do processo de aprovação
+
+  Abertura do processo (somente no caso de aprovação dos dados técnicos diretamente pela ANAC):
+  Um processo de aprovação de dados técnicos para uma grande alteração é iniciado quando do
+  recebimento, pela ANAC, de um requerimento ou carta equivalente enviado por qualquer pessoa
+  física ou jurídica interessada através do Sistema Eletrônico de Informações - SEI, nos termos
+  da Resolução ANAC n° 520/2019. Deve ser escolhido o tipo processual “Certificação de Produto:
+  Aprovação de Grande Alteração - SEGVOO 001 (F-400-04)”, anexado o requerimento e todos os
+  anexos previstos nesta seção, e submetido o processo à ANAC.
+
+  Taxas dos serviços de certificação: Após a avaliação dos dados técnicos requeridos, a ANAC
+  informará o número do projeto (neste caso, numeração “H.20”) ao requerente, e, caso ainda
+  não tenha sido recolhida a Taxa de Fiscalização da Aviação Civil - TFAC aplicável, informará
+  também seu código e o valor referente aos serviços de certificação a serem prestados, para
+  que o requerente possa emitir e quitar a Guia de Recolhimento da União - GRU correspondente
+  àquela TFAC. As TFAC são regulamentadas por meio da Resolução ANAC n° 653/2021.
+
+  NOTA: Somente após o efetivo pagamento dos serviços de certificação, através da quitação
+  da GRU emitida pelo próprio requerente conforme instruções recebidas, é que o corpo técnico
+  da SAR/GCPP iniciará a análise do processo em questão.
+
+  Dados técnicos: Os dados técnicos devem atender os métodos da portaria específica aplicável
+  à alteração, sendo o requerente responsável por demonstrar cumprimento com todos os termos
+  nela previstos. Os dados técnicos incluem, de forma não exaustiva, desenhos, materiais,
+  processos, limitações de aeronavegabilidade, dados de substanciação necessários para demonstração
+  de cumprimento com as portarias específicas e relatórios de análise, de teste e de resultados
+  de ensaio (em caso de dúvida sobre estes tipos de relatórios, a IS 21-021 pode ser utilizada
+  como referência). Quando houver o envolvimento de PCP (em conformidade com a portaria específica
+  contendo procedimentos para a grande alteração), o PCP deverá apresentar o Formulário F-101-06
+  conforme IS 183-002 (em sua última revisão).
+
+  NOTA 1: No caso de aprovação dos dados técnicos sem envolvimento direto da ANAC por meio
+  de PCP ou Organização de Projeto Certificada, os dados técnicos não serão submetidos à ANAC,
+  todavia, ainda assim o responsável técnico deverá elaborar todos os dados técnicos previstos
+  na portaria específica e esses dados deverão ser avaliados e aprovados pelo PCP ou Organização
+  de Projeto Certificada. Quando houver o envolvimento de PCP, o PCP deverá enviar o Formulário
+  F-101-06 conforme IS 183-002 (em sua última revisão) para seu orientador, além de manter
+  em arquivo o pacote de dados aprovados. Quando houver o envolvimento de uma Organização
+  de Projeto Certificada, a organização deverá proceder conforme estabelecido na sua certificação.
+
+  NOTA 2: Apesar de muitas vezes não expresso nas próprias portarias, qualquer aprovação ou
+  aceitação de dados por parte da ANAC é baseada no cumprimento dos requisitos técnicos de
+  aeronavegabilidade previstos nos RBAC 23, RBAC 25, RBAC 27, RBAC 29 etc. Em alterações e
+  especialmente em diversas portarias, são apresentados métodos, técnicas e práticas (em substituição
+  aos requisitos de aeronavegabilidade) que são de utilização geral e consagradas em normas
+  da indústria aeronáutica que garantem o atingimento dos objetivos previstos nos requisitos
+  de certificação sem uma citação explícita desses.
+
+  Declaração de conformidade: O Responsável Técnico - RT pela alteração, após verificar a
+  conformidade da aeronave, das peças, dos componentes ou dos sistemas instalados com os dados
+  técnicos apresentados, deverá registrar essa conformidade no formulário F-300-18 (Declaração
+  de Conformidade) e, no caso de aprovação dos dados técnicos diretamente pela ANAC, enviá-lo
+  à ANAC. Quando houver o envolvimento de uma Organização de Projeto Certificada, a organização
+  deverá proceder conforme estabelecido na sua certificação.
+
+  Ensaios de Verificação de Atendimento: Dependendo do projeto, podem ser necessários ensaios
+  (mecânicos, estruturais, de inflamabilidade, de qualificação, de solo, de voo etc.), para
+  verificação de funcionamento de sistemas e equipamentos instalados. Os respectivos relatórios
+  de resultados, contendo laudos, conclusões, especificações técnicas etc., fazem parte dos
+  dados técnicos e deverão ser considerados no processo de aprovação.
+
+  Declaração de cumprimento com os termos da portaria específica contendo procedimentos para
+  a grande alteração: O responsável técnico deve apresentar esta declaração, informando o
+  cumprimento de todos os termos da portaria específica utilizada.
+
+  Análise dos dados técnicos: ANAC, PCP ou Organização de Projeto Certificada, conforme o
+  tipo de aprovação, examinará os dados submetidos e assim determinará o cumprimento com os
+  termos da regulamentação aplicável.
+
+  Envolvimento de Profissionais Credenciados em Projeto ou de Organizações de Projeto Certificadas
+
+  A ANAC recomenda a participação de um PCP ou de uma Organização de Projeto Certificada na
+  elaboração dos dados técnicos para grandes alterações a serem submetidos para aprovação
+  segundo o processo simplificado desta IS. O envolvimento de um PCP ou de uma Organização
+  de Projeto Certificada não é obrigatório, todavia a ausência desse envolvimento implicará
+  em uma análise completa pela ANAC do pacote de dados submetido, incluindo que o processo
+  siga os trâmites padrões previstos para processos com emissão do formulário F-400-04 (SEGVOO
+  001), conforme IS 21-004.
+
+  No caso de envolvimento de um PCP, as funções e áreas de atuação dos profissionais credenciados
+  são prescritas na portaria específica contendo procedimentos para a grande alteração. Cada
+  PCP deve seguir os procedimentos previstos na IS 183-002, seguindo os critérios do Quadro
+  e Função previstos para sua área de atuação. A relação dos profissionais credenciados pela
+  SAR/GCPP está disponível na página da SAR/GCPP na internet, no endereço eletrônico: https://sistemas.anac.gov.br/certificacao/ReprCredenc/ReprCredenc.asp.
+
+  O PCP deve manter em arquivo o pacote de dados pelo prazo mínimo de 5 anos. Além disso,
+  o PCP deve preencher e submeter o formulário F-101-06 aprovando ou atestando a verificação
+  de cumprimento, conforme o tipo de aprovação, dos dados técnicos que substanciam a alteração.
+
+  No caso do envolvimento de Organizações de Projeto Certificadas, estas devem desenvolver
+  suas atividades de acordo com os procedimentos estabelecidos por ela na certificação junto
+  à ANAC, dentro do escopo definido.
+
+  Cabe ressaltar que a certificação de uma organização de projeto é um processo específico
+  para cada organização, que deverá utilizar os processos e procedimentos estabelecidos e
+  acordados com a ANAC para a avaliação e aprovação de dados, e não podem ser automaticamente
+  expandidos para outras organizações, conforme IS 21.231-001.
+
+  Encerramento do processo de aprovação
+
+  No caso de aprovação dos dados técnicos diretamente pela ANAC, o processo de aprovação será
+  encerrado:
+
+  Após aprovação pela ANAC dos dados técnicos submetidos;
+
+  A qualquer tempo, mediante pedido de cancelamento pelo requerente conforme sua conveniência;
+  ou
+
+  Compulsoriamente pela ANAC, com notificação ao requerente por ofício, caso o processo permaneça
+  por mais de 4 (quatro) meses sem que haja manifestação ou resposta por parte do requerente
+  a pendências identificadas pela ANAC.
+
+  Validade da aprovação
+
+  A menos que a ANAC tenha estabelecido um prazo de validade, uma aprovação de dados técnicos
+  de uma grande alteração emitida pela ANAC tem validade até ser suspensa ou cassada pela
+  ANAC, ou devolvida por seu detentor.
+
+  Caso sejam constatadas irregularidades no processo de aprovação dos dados técnicos, seja
+  a aprovação emitida diretamente pela ANAC, ou reconhecida pela ANAC como aprovada, ou em
+  situações de risco iminente, a aeronave, motor, hélice ou parte alterados, o PCP e a Organização
+  de Projeto Certificada envolvidos, estarão sujeitos às providências administrativas previstas
+  na Resolução ANAC n° 472/2018 (até 22/06/2025), Resolução ANAC n° 761/2024 (a partir de
+  23/06/2025) e regulamentação vigente.
+
+  Restrição de acesso e uso de documentos
+
+  As previsões legais de restrição de acesso a documentos são listadas durante o cadastro
+  dos documentos, sendo responsabilidade do requerente utilizar a classificação correta. Os
+  documentos gerados pela ANAC no processo administrativo serão classificados conforme a legislação
+  vigente.
+
+  Os documentos apresentados pelos requerentes e classificados como restritos somente serão
+  disponibilizados aos próprios requerentes, às pessoas por ele autorizadas, ou conforme a
+  legislação vigente permitir.
+
+  Adicionalmente, o requerente deverá apresentar autorização de uso dos dados técnicos produzidos
+  ou detidos por terceiros, de forma a preservar sua propriedade intelectual.
+
+  Providências posteriores à incorporação de grandes alterações
+
+  Após a incorporação da grande alteração, o formulário F-400-04 (SEGVOO 001) e demais registros,
+  incluindo todo o pacote de dados técnicos, devem ser conservados pelo operador e, no caso
+  de venda, transferidos ao comprador da aeronave, conforme seções 91.417 e 91.419 do RBAC
+  91.
+
+  No caso de aprovação dos dados técnicos sem envolvimento direto da ANAC por meio de PCP
+  ou Organização de Projeto Certificada, o Formulário F-400-04 (SEGVOO 001) deverá ser preenchido
+  sem o preenchimento do campo 3 por parte da ANAC. Neste caso, o documento de aprovação dos
+  dados técnicos, por exemplo o F-101-06, deverá ser listado no campo 8 do F-400-04.
+
+  A organização de manutenção envolvida deve conservar os registros da grande alteração conforme
+  seção 145.219 do RBAC 145.
+
+  Caso a grande alteração possua um suplemento ao manual de voo, este suplemento se torna
+  parte integrante do manual de voo da aeronave e deve ser mantido a bordo conforme seção
+  91.9 do RBAC 91.
+
+  Devem também ser cumpridas as condições relativas a guarda de registros e documentos a bordo
+  presentes na portaria específica e no documento de aprovação da grande alteração, sem prejuízo
+  aos requisitos presentes em RBAC.'
+keywords:
+- dados
+- tecnicos
+- aprovacao
+- alteracao
+- alteracoes
+- grande
+- projeto
+- caso
+- processo
+- organizacao
+- aeronave
+- envolvimento
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-20-001.md

@@ -1,0 +1,42 @@
+id: is-is-91-001-d5-5-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: D5.5
+section_title: Para situações em que o GNSS constituir o meio primário de navegação, deve
+  ser verificada a disponibilidade da funcionalidade RAIM para operações RNAV 5. Caso seja
+  possível identificar que haverá uma degradação contínua do nível adequado de detecção de
+  falha superior a cinco minutos em qualquer parte do voo, o plano de voo deverá ser revisado.
+  Em tais situações o plano de voo poderá ser alterado, o voo atrasado ou até mesmo cancelado.
+subsection_id: body
+cite: D5.5
+title: Para situações em que o GNSS constituir o meio primário de navegação, deve ser verificada
+  a disponibilidade da funcionalidade RAIM para operações RNAV 5. Caso seja possível identificar
+  que haverá uma degradação contínua do nível adequado de detecção de falha superior a cinco
+  minutos em qualquer parte do voo, o plano de voo deverá ser revisado. Em tais situações
+  o plano de voo poderá ser alterado, o voo atrasado ou até mesmo cancelado.
+text: D5.5 Para situações em que o GNSS constituir o meio primário de navegação, deve ser
+  verificada a disponibilidade da funcionalidade RAIM para operações RNAV 5. Caso seja possível
+  identificar que haverá uma degradação contínua do nível adequado de detecção de falha superior
+  a cinco minutos em qualquer parte do voo, o plano de voo deverá ser revisado. Em tais situações
+  o plano de voo poderá ser alterado, o voo atrasado ou até mesmo cancelado.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- plano
+- situacoes
+- adequado
+- alterado
+- atrasado
+- cancelado
+- caso
+- cinco
+- constituir
+- continua
+- degradacao
+- deteccao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

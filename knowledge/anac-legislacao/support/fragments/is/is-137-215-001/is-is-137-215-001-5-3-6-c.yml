@@ -1,0 +1,71 @@
+id: is-is-137-215-001-5-3-6-c
+kind: is
+document: is-137-215-001
+family: '137'
+section_id: 5.3.6
+section_title: 'Quanto aos métodos de aquisição de dados de perigos existentes, eles podem
+  ser classificados em:'
+subsection_id: c
+cite: 5.3.6(c)
+title: 5.3.6(c)
+text: 'c) preditivos: neste, procura-se antecipar a identificação do perigo por meio da consideração
+  das condições e o cenário atuais de funcionamento de determinado sistema ou equipamento.
+
+  5.3.7 Os métodos preventivo e preditivo não são necessariamente intercambiáveis entre si,
+  ou seja, se o manual diz que uma determinada substituição de peça deve ser preventivamente
+  feita em determinado tempo, a peça deve ser substituída naquele tempo, independentemente
+  do monitoramento de suas reais condições. Em outras palavras, o gerenciamento de risco não
+  pode ser utilizado para se sobrepor aos requisitos prescritivos e aos procedimentos estabelecidos
+  em documentação da aeronave ou do operador.
+
+  5.3.8 No entanto, onde o método preditivo for possível de ser aplicado, ele tende a ser
+  menos custoso do que o método preventivo, pois prevê a substituição de peças e/ou equipamentos
+  apenas quando se constata a sua real deterioração e não em um tempo pré-determinado. Neste
+  caso, é importante o estabelecimento de uma periodicidade mínima para a peça ou equipamento
+  ser inspecionado.
+
+  5.3.9 De qualquer forma, os métodos preventivo e preditivo são muitíssimos menos custosos
+  do que o método reativo, já que, neste, o evento de segurança operacional imprevisto já
+  aconteceu, potencialmente de forma catastrófica, e o objetivo é justamente evitar que ele
+  ocorra. No entanto, uma vez ocorrido o evento de segurança operacional, o operador não pode
+  desperdiçar a oportunidade de aproveitar as “lições aprendidas” do evento.
+
+  Nota: a maioria dos eventos de segurança operacional devem ser reportados em conformidade
+  com a Resolução nº 714, de 26 de abril de 2023, que estabelece o Programa de Reportes Mandatórios
+  de Segurança Operacional no âmbito da ANAC. O cumprimento da referida Resolução será mandatório
+  para os operadores aeroagrícolas a partir de 1º de dezembro de 2024, mas recomenda-se que
+  o operador comece a fazer uso dela o quanto antes. Em adição a isso, há também a Resolução
+  nº 709, de 30 de março de 2023, que trata da notificação voluntária de desvios, de caráter
+  não-punitivo, que deve ser observada pelo operador aéreo, não apenas como benefício para
+  ele próprio, mas para evitar desvios similares em outros operadores aéreos e que poderiam
+  vir a ocasionar um evento de segurança operacional. A depender da natureza do desvio notificado,
+  a ANAC poderá não adotar medidas administrativas sancionatórias, de acordo com as condições
+  estabelecidas na referida Resolução nº 709/2023.
+
+  5.3.8 Independentemente do processo adotado, devem ser consideradas e identificadas as fontes
+  para a obtenção dos perigos existentes. Elas podem ser internas (autoinspeção, análise de
+  dados de voo, sistema de relato voluntário interno ao operador, auditorias internas e pesquisas,
+  dentre outras fontes) e externas (relatórios do CENIPA, informes de acidentes e incidentes,
+  recomendações de segurança operacional, sistemas de reportes mandatários e voluntários,
+  relatos da aviação civil - RAC, vistorias e auditorias de segurança operacional realizadas
+  pela ANAC, dentre outras fontes).'
+keywords:
+- aeroagricola
+- operacoes
+- operacional
+- seguranca
+- operador
+- evento
+- resolucao
+- condicoes
+- determinado
+- fontes
+- metodo
+- metodos
+- outras
+- peca
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-215-001.md

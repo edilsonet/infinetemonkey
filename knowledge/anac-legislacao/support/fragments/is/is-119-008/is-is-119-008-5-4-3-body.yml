@@ -1,0 +1,41 @@
+id: is-is-119-008-5-4-3-body
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.4.3
+section_title: Proteção dos dados do PAADV
+subsection_id: body
+cite: 5.4.3
+title: Proteção dos dados do PAADV
+text: '5.4.3 Proteção dos dados do PAADV
+
+  5.4.3.1 Uma das principais preocupações de um operador aéreo ao estabelecer um PAADV deve
+  ser a de estabelecer mecanismos para proteção dos dados obtidos dos gravadores de voo. Prevenir
+  o mau uso ou o vazamento dessas informações é um dos pilares para o sucesso do programa.
+  Qualquer divulgação de dados para fins cujo propósito não seja relacionado com o gerenciamento
+  da segurança operacional pode comprometer a confiança no programa e, consequentemente, ocasionar
+  em uma perda do apoio da tripulação de voo.
+
+  5.4.3.2 A integridade de um PAADV baseia-se na proteção dos dados obtidos dos gravadores
+  de voo. Com base nisso, um operador aéreo deve, conforme a seção 5.5 de proteção de dados
+  desta IS:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- dados
+- protecao
+- paadv
+- aereo
+- estabelecer
+- gravadores
+- obtidos
+- operador
+- programa
+- apoio
+- base
+- baseia
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

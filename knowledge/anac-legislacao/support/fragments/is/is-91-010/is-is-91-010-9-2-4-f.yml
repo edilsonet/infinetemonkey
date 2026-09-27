@@ -1,0 +1,60 @@
+id: is-is-91-010-9-2-4-f
+kind: is
+document: is-91-010
+family: '91'
+section_id: 9.2.4
+section_title: 'O treinamento inicial dos pilotos para comunicações por data link deve incluir,
+  no mínimo, os seguintes procedimentos:'
+subsection_id: f
+cite: 9.2.4(f)
+title: 9.2.4(f)
+text: 'f) possíveis impactos à separação das aeronaves em caso de falha dos serviços de comunicação
+  por data link, e procedimentos de contingência a serem adotados pelo despacho/coordenação
+  de voo nesses casos.
+
+  9.2.6 Uma vez que os pilotos e despachantes tenham completado o treinamento inicial, tópicos
+  de comunicação por Data Link devem ser abordados nos treinamentos periódicos (anuais), abordando
+  todo o conteúdo necessário para manter a proficiência e atualizá-los quanto às atualizações
+  de procedimentos e sistemas.
+
+  9.2.7 Treinamento de manutenção: O operador deve garantir que todo seu pessoal de manutenção
+  receba treinamento apropriado aos equipamentos de comunicação por data link instalados em
+  suas aeronaves.
+
+  PROVEDORES DE SERVIÇOS DE COMUNICAÇÃO (CSP)
+
+  10.1 Para operações em espaço aéreo oceânico e áreas continentais remotas, os operadores
+  são responsáveis por garantir que os provedores de serviços de comunicação (CSP) atinjam
+  as especificações mínimas previstas nesta seção da IS. O contrato entre operador e provedor
+  deve incluir tais requisitos, bem como prever ferramentas/procedimentos que permitam ao
+  operador monitorar o desempenho do serviço, nos termos no item 11 desta IS.
+
+  10.2 Desempenho abaixo do requerido: Se o CSP não satisfizer os requisitos de desempenho
+  de serviço estabelecidos nesta IS, o operador não deve utilizar o serviço até que o problema
+  seja resolvido. É permitido uma exceção a esta regra no caso em que o desempenho caia abaixo
+  de 99,9% do tempo operacional de transação, mas o CSP continue a operar no mínimo em 95%
+  do tempo nominal de transação, enquanto investiga as causas da deterioração e toma as medidas
+  corretivas cabíveis.
+
+  10.3 Arranjos entre o operador e o CSP: Os operadores devem garantir que os contratos firmados
+  com os seus CSP incluam os seguintes requisitos:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- comunicacao
+- operador
+- data
+- desempenho
+- link
+- procedimentos
+- treinamento
+- garantir
+- requisitos
+- servico
+- servicos
+- abaixo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

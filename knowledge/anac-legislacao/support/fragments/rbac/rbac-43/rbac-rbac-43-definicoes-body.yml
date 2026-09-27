@@ -1,0 +1,40 @@
+id: rbac-rbac-43-definicoes-body
+kind: rbac
+document: rbac-43
+family: '43'
+section_id: definicoes
+section_title: 'definições:'
+subsection_id: body
+cite: definicoes
+title: 'definições:'
+text: 'definições:
+
+  (1) Peça com limite de vida significa qualquer peça ou parte para a qual um limite obrigatório
+
+  de substituição é especificado no projeto de tipo, nas instruções de aeronavegabilidade
+  continuada
+
+  ou no manual de manutenção.
+
+  (2) Situação de vida significa número acumulado de ciclos, horas ou qualquer outro limite
+
+  obrigatório de substituição de uma peça com limite de vida.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- limite
+- definicoes
+- peca
+- vida
+- obrigatorio
+- significa
+- substituicao
+- acumulado
+- ciclos
+- continuada
+- especificado
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-43.md

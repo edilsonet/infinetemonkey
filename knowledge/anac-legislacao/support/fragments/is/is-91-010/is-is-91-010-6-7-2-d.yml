@@ -1,0 +1,32 @@
+id: is-is-91-010-6-7-2-d
+kind: is
+document: is-91-010
+family: '91'
+section_id: 6.7.2
+section_title: 'Uma especificação RSP é composta pelos seguintes parâmetros:'
+subsection_id: d
+cite: 6.7.2(d)
+title: 6.7.2(d)
+text: 'd) Integridade RSP: probabilidade mínima requerida de que uma transmissão de dados
+  de vigilância seja concluída sem falhas não detectadas. É especificada em termos de probabilidade
+  de falhas por hora de voo.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- falhas
+- probabilidade
+- composta
+- concluida
+- dados
+- detectadas
+- especificacao
+- especificada
+- hora
+- integridade
+- minima
+- parametros
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

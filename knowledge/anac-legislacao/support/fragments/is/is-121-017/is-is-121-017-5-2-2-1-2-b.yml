@@ -1,0 +1,37 @@
+id: is-is-121-017-5-2-2-1-2-b
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.2.2.1.2
+section_title: 'Para que esse parâmetro seja considerado no planejamento do voo, o operador:'
+subsection_id: b
+cite: 5.2.2.1.2(b)
+title: 5.2.2.1.2(b)
+text: b) alternativamente, pode estabelecer um valor específico a ser considerado pelo DOV
+  para o aeródromo (como, por exemplo, uma margem com relação à elevação do aeródromo, considerando
+  atmosfera padrão). Na execução da decolagem, se os instrumentos do avião indicarem uma pressão
+  atmosférica menor que a considerada pelo DOV, os cálculos de desempenho devem ser refeitos
+  com os valores atualizados, seja pelo DOV, seja pela tripulação de voo, caso o operador
+  possua equipamento a bordo da aeronave capaz de refazer os cálculos de forma automatizada,
+  considerando as limitações de desempenho da Subparte I do RBAC nº 121 (que incluem cumprimento
+  de pista e separação com os obstáculos na decolagem).
+keywords:
+- transporte-aereo
+- operacoes
+- seja
+- aerodromo
+- calculos
+- considerado
+- considerando
+- decolagem
+- desempenho
+- operador
+- aeronave
+- alternativamente
+- atmosfera
+- atmosferica
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

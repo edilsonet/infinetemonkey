@@ -1,0 +1,39 @@
+document: iac-160-1001
+kind: iac
+title: IAC 160-1001
+ementa: 16/04/2003
+family: '160'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-160-1001
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-160-1001/@@display-file/arquivo_norma/IAC160_1001A.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-160-1001/@@display-file/arquivo_norma/IAC160_1001A.pdf
+language: pt
+foreign_annex: false
+sections:
+- 3.4.1
+- 3.4.2
+- 3.4.2.1
+- 3.4.2.2
+- 3.5.1
+- anexo-1
+- anexo-1-empresas-de-transporte-a-reo-nacionais-do-grupo-i-a1
+- anexo-2
+- anexo-2-empresas-de-transporte-a-reo-estrangeiras-do-fcde60
+- preambulo
+fragment_count: 13
+fragment_ids:
+- iac-iac-160-1001-preambulo-body
+- iac-iac-160-1001-anexo-1-empresas-de-transporte-a-reo-nacionais-do-grupo-i-a1-body
+- iac-iac-160-1001-anexo-2-empresas-de-transporte-a-reo-estrangeiras-do-fcde60-body
+- iac-iac-160-1001-anexo-2-empresas-de-transporte-a-reo-estrangeiras-do-fcde60-a
+- iac-iac-160-1001-anexo-2-empresas-de-transporte-a-reo-estrangeiras-do-fcde60-b
+- iac-iac-160-1001-anexo-2-empresas-de-transporte-a-reo-estrangeiras-do-fcde60-c
+- iac-iac-160-1001-3-4-1-body
+- iac-iac-160-1001-3-4-2-body
+- iac-iac-160-1001-3-4-2-1-body
+- iac-iac-160-1001-3-4-2-2-body
+- iac-iac-160-1001-3-5-1-body
+- iac-iac-160-1001-anexo-1-body
+- iac-iac-160-1001-anexo-2-body
+parser_version: 7

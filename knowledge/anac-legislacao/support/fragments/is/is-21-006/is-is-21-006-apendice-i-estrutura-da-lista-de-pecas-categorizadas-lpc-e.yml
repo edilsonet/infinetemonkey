@@ -1,0 +1,775 @@
+id: is-is-21-006-apendice-i-estrutura-da-lista-de-pecas-categorizadas-lpc-e
+kind: is
+document: is-21-006
+family: '21'
+section_id: apendice-i-estrutura-da-lista-de-pecas-categorizadas-lpc
+section_title: APÊNDICE I - ESTRUTURA DA LISTA DE PEÇAS CATEGORIZADAS (LPC)
+subsection_id: e
+cite: apendice-i-estrutura-da-lista-de-pecas-categorizadas-lpc(e)
+title: apendice-i-estrutura-da-lista-de-pecas-categorizadas-lpc(e)
+text: 'e) sistemas e equipamentos.
+
+  I.2 Cada uma dessas áreas é ainda identificada pelo código do RBAC aplicável. Cada peça
+  categorizada é seguida por um número ou números entre parênteses. Esses números identificam
+  o RBAC aplicável e a categoria designada, 1 ou 2. Por exemplo, sob a área “Montagens estruturais”,
+  o item “Fuselagem” deve ser seguido por “23-1” e “25-1”. Isto indica que os RBAC 23 e 25
+  são aplicáveis e que a fuselagem é categoria 1 em ambos os casos.
+
+  I.3 Classificação Categoria 1
+
+  I.3.1 Recebe a classificação como Categoria 1 um conjunto ou suas partes, cuja falha poderia
+  impedir a continuidade de voo ou de pouso seguro, resultando em consequências que reduziriam
+  a margem de segurança, grau de desempenho, ou causariam perda da capacidade para conduzir
+  certas operações de voo.
+
+  I.4 Classificação Categoria 2
+
+  I.4.1 Receber a classificação como Categoria 2 um conjunto ou suas partes, cuja falha não
+  impediria a continuidade de voo ou de pouso seguro, mas como consequências resultantes poderiam
+  reduzir a capacidade da aeronave ou a capacidade da tripulação de enfrentar condições operacionais
+  adversas ou falhas subsequentes.
+
+  I.5 Exemplo de Lista de Peças Categorizadas (LPC) de produtos ou artigos
+
+  Structural Assemblies
+
+  Structural Elements
+
+  Hydraulic and Pneumatic Components
+
+  Propulsion System Components
+
+  Systems and Equipment
+
+  Fuselage
+
+  (23-1), (25-1)
+
+  Fuselage Structural Elements
+
+  Pressure Bulkheads (23-1), (25-1)
+
+  Keel Beam (25-1)
+
+  Longeron/Stringer (25-2)
+
+  Floor Beam (25-2)
+
+  Plates/Skins (25-2)
+
+  Fuselage to Wing Attach Fittings (25-1)
+
+  Stabilizer to Fuselage Attach Fittings (25-1)
+
+  Gear to Fuselage attach Fittings (25-1)
+
+  Door Hinge (on Fuselage)(25-1)
+
+  Fuselage Panels (23-1), (25-1)
+
+  Hydraulic Main Pump
+
+  (23-1), (25-2), (27-1), (29-1)
+
+  Main Accumulator
+
+  (25-2)
+
+  Main Reservoir (25-2)
+
+  Auxiliary Pump (25-2)
+
+  Software Thrust (EEC)
+
+  (23-1), (25-1)
+
+  Electrical Power System
+
+  Alternator/Generator Drive System (25-2)
+
+  AC Generator-Alternator (25-2)
+
+  AC Inverter (25-2)
+
+  Phase Adapter (25-2)
+
+  AC Regulator (25-2)
+
+  Fire Protection
+
+  Smoke Detection (25-2), (27-2), (29-2)
+
+  Fire Detection (25-2), (27-2), (29-2)
+
+  Overheat Detection (25-2), (27-2), (29-2)
+
+  Extinguishing System
+
+  (25-2), (27-2), (29-2)
+
+  Fire Bottle-Fixed (25-2), (27-2), (29-2)
+
+  Flight Control Surfaces Ailerons (23-1), (25-1)
+
+  Rudder (23-1), (25-1)
+
+  TE Flaps (23-1), (25-2)
+
+  LE Devices (25-2)
+
+  Elevator (23-1), (25-1)
+
+  Spoilers (25-2)
+
+  Flight Control Structural Elements
+
+  Aileron Tabs (25-2)
+
+  Jackscrew (23-1), (25-1)
+
+  Bellcranks (23-1), (25-1)
+
+  Flight Control Cables (23-1), (25-1)
+
+  Flight Control Servo Actuators (25-2),
+
+  (27-1), (29-1)
+
+  Flap Actuator (25-2)
+
+  Rudder Actuator
+
+  (25-2)
+
+  Stabilizer Actuator (25-2)
+
+  Thrust Reversers (23-1), (25-2)
+
+  Auxiliary Power Units (23-1)
+
+  FADEC (23-1)
+
+  Fuel System
+
+  Boost Pumps (23-1) , (25-2),
+
+  Transfer Valves (23-1),
+
+  (25-2)
+
+  Fuel S.O.V.(23-1), (25-1)
+
+  Digital Fuel Flow System (25-2)
+
+  Fuel Dump (25-2)
+
+  Fuel Hose (Single engine applications ONLY) (23-2)
+
+  Fuel Quantity Indicator
+
+  (25-2), (27-2), (29-2)
+
+  Fuel Flow Indicating (27-2), (29-2)
+
+  Fuel Pressure Indicating (27-2), (29-2)
+
+  Fuel Pump (25-2), (27-1), (29-1)
+
+  Oil Cooler (Single engine applications ONLY) (23-2)
+
+  Crew Oxygen System
+
+  (27-2), (29-2)
+
+  Indicating System
+
+  Warning, Caution, and Advisory Lights (27-2),
+
+  (29-2),
+
+  Main Rotor Indicating System (27-2), (29-2)
+
+  Engine Power (27-2), (29-2)
+
+  Engine Temperature (27-2), (29-2)
+
+  Empennage
+
+  Horizontal Stabilizers (23-1), (25-1)
+
+  Elevators (23-1), (25-1)
+
+  Vertical Stabilizers (23-1),
+
+  (25-1)
+
+  Rudder (23-1), (25-1)
+
+  Empennage Structural Elements Horizontal Stabilizer
+
+  Spars/Ribs (25-2)
+
+  Plates/Skins (25-2)
+
+  Tab Structure (25-2)
+
+  Attach Fitting (25-2) Empennage Structural Elements Elevator
+
+  Spars/Ribs (25-2)
+
+  Plates/Skins (25-2)
+
+  Tab Structure (25-2)
+
+  Attach Fitting Elevator Tab
+
+  (25-2)
+
+  Empennage Structural Elements Vertical Stabilizer
+
+  Spars/Ribs (25-2)
+
+  Plates/Skins (25-2)
+
+  Attach Fitting (25-2)
+
+  Ventral Structure (25-2)
+
+  Empennage Structural Elements Horizontal Stabilizer
+
+  Spars/Ribs (25-2)
+
+  Plates/Skins (25-2)
+
+  Tab Structure (25-2)
+
+  Attach Fitting (25-2)
+
+  Control Valves (23-2), (25-2)
+
+  Shut Off Valves
+
+  (23-2), (25-2)
+
+  Rudder Power Control
+
+  Units (23-1), (25-2)
+
+  Rudder Power Control
+
+  Unit (25-1)
+
+  Engine Cowling Systems
+
+  Inlets(23-1), (25-2)
+
+  Nacelles (23-1), (25-2)
+
+  Fairings (23-1), (25-2)
+
+  Brake System and Assembly Components
+
+  Brakes(23-1), (25-1)
+
+  Anti-Skid Valves (23-2),
+
+  (25-2)
+
+  Wheel Assemblies (23-1)
+
+  (25-2)
+
+  Tire Casing (25-2)
+
+  Tire Tube (25-2)
+
+  Anti Skid Section (25-2)
+
+  Master Cylinder/Brake Valve (25-1)
+
+  NOTAR (High Speed
+
+  Fan) (27-1), (29-1)
+
+  Wing Structure
+
+  (23-1), (25-1)
+
+  Wing Structure Structural Elements
+
+  Panels (23-1), (25-2)
+
+  Wing Webs (23-1), (25-2)
+
+  Spars (23-1), (25-1)
+
+  Ribs/Bulkheads (25-2)
+
+  Longeron/Stringers (25-2)
+
+  Center Wing Box (25-1)
+
+  Auxilliary Structure (25-2)
+
+  Wing Attach Fitting (25-1)
+
+  NAC/Pylon Wing Fitting
+
+  (23-1), (25-1)
+
+  Airborne Software Controlled Equipment
+
+  Software Level A (per RTCA/DO 178B), (23-1), (25-1)
+
+  Software Levels B, or C (per RTCA/DO 178B) (23-2)
+
+  (25-2)
+
+  Automatic Flight Control Systems/Stability Augmentation Systems
+
+  Flight Control Computers (27-1), (292)
+
+  Servo/Linear Actuators
+
+  (27-1), (29-1)
+
+  Electrical Power Systems
+
+  AC Generator (27-2), (29-2)
+
+  AC Inverters (27-2), (29-2) Battery (27-2), (29-2)
+
+  Starter Generator (27-2), (29-2)
+
+  Main Rotor
+
+  Hubs (27-1), (29-1)
+
+  Trunnions (27-1), (29-1)
+
+  Yokes (27-1), (29-1)
+
+  Spindles (27-1), (29-1)
+
+  Grips (27-1), (29-1)
+
+  Pitch Horns (27-1), (29-1)
+
+  Drag Braces (27-1), (29-1)
+
+  Blades (27-1), (29-1)
+
+  Blade Spars (27-1), (29-1)
+
+  Damper Hubs (27-1), (29-1)
+
+  Retention Pins/Straps/Bolts (27-1), (29-1)
+
+  Tension-Torsion Straps (27-1), (29-1)
+
+  Strap Packs (27-1), (29-1)
+
+  Pillow Blocks (27-1, (29-1)
+
+  Droop Restraint Bolts (27-1), (29-1)
+
+  Elastomeric Dampers (27-1), (29-1)
+
+  Bearings (27-1), (29-1)
+
+  Bushings (27-1), (29-1)
+
+  Main Rotor Control Swashplates (27-1), (29-1)
+
+  Swashplate Drives (27-1),
+
+  (29-1)
+
+  Anti-Drives (27-1), (29-1)
+
+  Anti- Links (27-1), (29-1)
+
+  Pitch Change Links (27-1),
+
+  (29-1)
+
+  Drive Links (27-1), (29-1)
+
+  Drive-Levers (27-1), (29-1)
+
+  Gimbal Stabilizer Bars (27-1), (29-1)
+
+  Mixing Levers (27-1), (29-1)
+
+  Collective Sleeves (27-1),
+
+  (29-1)
+
+  Cyclic & Collective
+
+  Control Sticks (27-1), (29-1)
+
+  Actuator Supports (27-1),
+
+  (29-1)
+
+  Control System Tubes/Bolts/Pins (27-1),
+
+  (29-1)
+
+  Propellers
+
+  (Hubs (35-1), Blades (35-1) Blade Retention Devices
+
+  (35-1)
+
+  Counter Weights (35-1)
+
+  Pitch Control Systems Including PCU (35-1) Governors (35-1)
+
+  Actuators (35-1)
+
+  PCU Mechanisms (35-1) Propeller Electronic Controls (35-1), and
+
+  Propeller Valve Modules
+
+  (35-1)
+
+  Drive Systems
+
+  Masts (27-1), (29-1)
+
+  Gear Boxes (27-1),
+
+  (29-1)
+
+  Driveshafts (27-1),
+
+  (29-1)
+
+  Bearings (27-1), (29-1)
+
+  Hanger Bearings (27-1), (29-1)
+
+  Clutches (27-1), (29-1)
+
+  Couplings (27-1), (29-1)
+
+  Transmissions
+
+  Cases (27-1), (29-1)
+
+  Gears (27-1), (29-1)
+
+  Clutches (27-1), (29-1)
+
+  Oil Pumps (27-1), (29-1)
+
+  Bearings (27-1), (29-1)
+
+  Nose Section (23-1), (25-1)
+
+  Radomes(23-2),(25-2)
+
+  Fuel Tank Structure
+
+  Fuel Cell (23-1), (25-1), (27-1), (29-1)
+
+  Drive Belts (27-1), (29-1)
+
+  Stall Warning (23-2), (25-2)
+
+  Nacelles/Pylons (23-1), (25-1)
+
+  Door
+
+  Passenger Crew Doors (25-1)
+
+  Emergency Exit Door (25-2)
+
+  Landing Gear Doors (25-2)
+
+  Cargo Baggage Door (25-2)
+
+  Nacelles/Pylons Structural Elements
+
+  Attachment Fittings (25-1), (27-1), (29-1)
+
+  Bulkhead/Firewalls (Nac/Pylon) (25-2),
+
+  Longerons/Stringers (Nac/Pylon) (25-2)
+
+  Plates/Skins (Nac/Pylon)
+
+  (25-2)
+
+  Attach Fittings (Nac/Pylon)
+
+  (25-1), (27-1), (29-1)
+
+  Engine Struts (23-1), (25-1),
+
+  (27-1), (29-1)
+
+  Engine Mounts (23-1), (25-1), (27-1), (29-1)
+
+  Pylon Lift/Link Assemblies
+
+  (27-1), (29-1)
+
+  Gas Turbine Engines-Engine Rotors
+
+  Fan Blades (33-1),
+
+  Disks (33-1), Blisks (33-1), Impellers (33-1), Spools (Drum Rotors) (33-1), Thermal Shields
+  for cooling of main rotors (33-1),
+
+  Cooling Plates (33-1),
+
+  Main Rotor Rotating Spacers and Seals (33-1), Main Line Engine Shafts (i.e., low and high
+  pressure rotor shafts, propeller shafts for turboprop applications and power transmission
+  shafts for input to propeller and transmission gearboxes) (33-1)
+
+  Main Line Engine Bearings (33-2) Main Engine Mounts (i.e., redundant designs)
+
+  (33-2), Electronic Engine Controls/Full Authority Digital Electronic Controls (33-2),
+
+  Gas Path (Static & Variable Nozzle Guide Vanes) (33-2), Rotating Compressor & Turbine Airfoils
+  (33-2),
+
+  Control System Actuators
+
+  (33-2), Combustion Liners
+
+  (33-2), Fuel Nozzles (33-2)
+
+  Anti-Ice System
+
+  Pitot/Static Anti-Ice (25-2)
+
+  Air Foil Anti Ice/Deice
+
+  (25-2), (27-2), (29-2)
+
+  Window/Windshield & Doors (25-2)
+
+  Antenna/Radome Anti Ice (25-2)
+
+  Intake Anti-Ice/Deice (27-2), (29-2)
+
+  Flight Control Mechanisms (23-1), (25-1)
+
+  Lift/Compression Struts (23-1) Flying Wires (23-1)
+
+  Floats (23-1), Skis (23-1)
+
+  Tail Wheels (23-1)
+
+  Reciprocating Engines Crankshafts (33-1) Connecting Rods (33-1) Pistons (33-1)
+
+  Wrist Pins (33-1)
+
+  Cylinders (33-1)
+
+  Cylinder Heads (33-1)
+
+  Engine Mounts (33-1 )
+
+  Crankcase (33-2)
+
+  Crankshaft Bearings (33-2)
+
+  Valve Train (valves, valve springs, pushrods, camshafts) (33-2)
+
+  Fuel Delivery Systems (carburetors, injectors, fuel pumps) (33-2)
+
+  Airborne Software Systems Software Level A (per RTCA/DO 178B),
+
+  (23-1) (25-1), (27-1), (29-1)
+
+  Software Levels B, or C (per RTCA/DO 178B) (23-2)
+
+  (25-2), (27-2), (29-2)
+
+  Navigation System
+
+  Wind Shear Detection System (25-2)
+
+  Ground Proximity System (25-2)
+
+  Air Collision Avoidance (TCAS) (25-2)
+
+  Air Speed Indicator (27-2), (29-2)
+
+  Altimeter (27-2), (29-2)
+
+  Air Data Computer (27-2), (29-2)
+
+  Attitude Gyro and Indication (27-2), (29-2)
+
+  Directional Gyro and Indication (27-2), (29-2)
+
+  Pitot/Static System (27-2), (29-2)
+
+  Localizer/VOR System
+
+  (27-2), (29-2)
+
+  Glide Slope System (27-2), (29-2)
+
+  Tail Rotor and Controls
+
+  Hubs (27-1), (29-1)
+
+  Yokes (27-1), (29-1)
+
+  Trunnions (27-1), (29-1)
+
+  Blades (27-1), (29-1)
+
+  Blade Spars (27-1), (29-1) Grips (27-1), (29-1)
+
+  Pitch Change Links (27-1), (29-1) Pitch Change Bearings (27-1), (29-1)
+
+  Output/Drive Shafts (27-1), (29-1) Gearsets (27-1), (29-1) Strap Packs (27-1), (29-1) Pedal
+  Linkages (27-1), (29-1)
+
+  Bellcranks (27-1), Flapping & Lead/Lag Bearings (27-1),
+
+  (29-1)
+
+  Balloons
+
+  Baskets (31-1)
+
+  Envelopes (31-1)
+
+  Balloon Burner Systems
+
+  Burner Units (31-1)
+
+  Balloon Fuel Systems
+
+  Fuel Manifolds (31-1)
+
+  Fuselage (27-1), (29-1)
+
+  Tail Boom (27-1), (29-1)
+
+  Tail Boom Struts (27-1), (29-1)
+
+  Tail Boom Mount Fittings
+
+  (27-1), (29-1)
+
+  Vertical Stabilizers (27-1),
+
+  (29-1)
+
+  Horizontal Stabilizers (27-1), (29-1)
+
+  Elevator (27-1), (29-1)
+
+  Elevator Horn (27-1), (29-1)
+
+  Skin Assemblies (27-1), (29-1)
+
+  Bonded Panel Assemblies
+
+  (27-1), (29-1)
+
+  Spars (27-1), (29-1)
+
+  Main Landing Gear
+
+  Struts (23-1), (25-1), (27-1),
+
+  (29-1)
+
+  Crosstubes (23-1), (25-1),
+
+  (27-1), (29-1)
+
+  Drag Links (23-1), (25-2),
+
+  (27-1), (29-1)
+
+  Fuse Pins (25-2)
+
+  Attach Section (25-1)
+
+  Extension and Retract System (25-2)
+
+  Landing Gear Door Retract Section (25-2)
+
+  Landing Gear Position and Warning (27-2), (29-2)
+
+  Nose Landing Gear
+
+  (23-1), (25-1)
+
+  Strut/Axle (25-1)
+
+  Attach Section (25-1)
+
+  Steering Links (23-1), (25-2), (27-1), (29-1)
+
+  Main Landing Gear Components
+
+  Landing Gear Actuator (23-1), (25-2), (27-1), (29-1)
+
+  Selector Valve (25-2)
+
+  Landing Gear Door Actuator (25-2)
+
+  Nose Landing Gear Components
+
+  Shimmy Damper
+
+  (25-2)
+
+  Steering Unit (25-2)
+
+  Gas Turbine Engines-Static Structures
+
+  Engine Mounts (i.e. non-redundant designs) (33-1)
+
+  High Pressure Vessels (Casings Subject to Compressor Discharge Pressure & Combuster Pressure)
+  (33-1)
+
+  Containment Structures (33-1)
+
+  Primary Structures (that provide support and rigidity of the main engine backbone and for
+  attachment of engine to airframe (33-1)
+
+  Window-Windshield System
+
+  Flight Compartment Windows (23-1), (25-1)
+
+  Passenger Compartment Windows (25-2)
+
+  Door Windows (25-2)
+
+  VHF Communication System (27-2), (29-2)'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- system
+- engine
+- fuel
+- control
+- main
+- attach
+- gear
+- systems
+- structural
+- anti
+- elements
+- landing
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-006.md

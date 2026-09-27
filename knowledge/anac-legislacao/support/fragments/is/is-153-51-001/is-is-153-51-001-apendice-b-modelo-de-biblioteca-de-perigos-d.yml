@@ -1,0 +1,120 @@
+id: is-is-153-51-001-apendice-b-modelo-de-biblioteca-de-perigos-d
+kind: is
+document: is-153-51-001
+family: '153'
+section_id: apendice-b-modelo-de-biblioteca-de-perigos
+section_title: APÊNDICE B - MODELO DE BIBLIOTECA DE PERIGOS
+subsection_id: d
+cite: apendice-b-modelo-de-biblioteca-de-perigos(d)
+title: apendice-b-modelo-de-biblioteca-de-perigos(d)
+text: 'd) definição da(s) barreira(s)/defesa(s) associadas.
+
+  B.2.1.1 É importante destacar que a alimentação da biblioteca de perigos deve se dar somente
+  uma única vez em relação a cada tipo de perigo e seu(s) risco(s) associado(s). Assim, caso
+  este se repita, não é necessário preencher novo campo na biblioteca de perigos.
+
+  B.2.1.2 Quando um risco/perigo é corretamente identificado, ao ocorrer em outra situação
+  semelhante, ele não deverá tornar-se outro elemento da biblioteca de perigos. Ele poderá
+  ser aprimorado em seus componentes, em suas consequências ou em suas defesas, se e quando
+  surgirem estas respectivas oportunidades de melhoria, porém fará parte do mesmo perigo outrora
+  identificado.
+
+  B.2.2 Uma boa prática é sistematizar a biblioteca de perigos em uma planilha eletrônica,
+  de fácil acesso ao corpo gerencial do aeródromo, porém cujo preenchimento se dá pelo responsável
+  pelo gerenciamento da segurança operacional do aeródromo.
+
+  B.2.3 Recomenda-se que a alimentação da biblioteca de perigos se dê após avaliação de risco
+  por uma equipe ou fórum de discussão, como a CSO ou outro grupo, de maneira a se buscar
+  a melhoria tanto das análises dos perigos já identificados quanto de novos perigos que surjam.
+
+  B.2.4 As ações de controle de riscos devem ser avaliadas em sua eficácia, sendo essa avaliação
+  registrada e eventuais oportunidades de melhoria implementadas.
+
+  B.2.5 Apresenta-se, a seguir, biblioteca de perigos com indicações e recomendações para
+  preenchimento.
+
+  Tabela B.1 -Biblioteca de perigos
+
+  Perigo identificado
+
+  Consequência associada
+
+  Medidas de mitigação existentes
+
+  Nível de risco atual
+
+  Medidas adicionais de mitigação
+
+  Responsabilidade
+
+  Prazo
+
+  Nível de risco atualizado
+
+
+  Perigo é uma condição, objeto ou atividade que potencialmente pode causar
+
+  lesões às pessoas, danos a bens (equipamentos ou estruturas), perda de
+
+  pessoal ou redução da habilidade para desempenhar uma função determinada.
+
+  Perigo é tudo
+
+  que tem o potencial
+
+  de causar dano.
+
+
+  Podemos dizer que “consequência” é o resultado de um perigo, porém,
+
+  não devemos confundi-los.
+
+  A consequência é resultado de um perigo.
+
+
+  É a eventual medida que já está sendo realizada pelo operador para amenizar o impacto negativo
+  na segurança da operação
+
+
+  É a avaliação das consequências de um perigo, expressa em termos de probabilidade e severidade,
+  tomando como referência a pior condição possível.
+
+  (Deve-se utilizar metodologia de avaliação e controle de risco à segurança operacional descrita
+  no Apêndice C)
+
+
+  É a medida implementada para
+
+  amenizar o impacto negativo na segurança da operação)
+
+
+  Identificação do responsável pela implementação da medida adicional de mitigação
+
+
+  Prazo para adoção da medida adicional de mitigação
+
+
+  É a atualização do nível de risco após a implementação das medidas adicionais de mitigação
+
+  (Deve-se utilizar metodologia de avaliação e controle de risco à segurança operacional descrita
+  no Apêndice C)'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- perigos
+- biblioteca
+- perigo
+- risco
+- avaliacao
+- mitigacao
+- seguranca
+- apendice
+- medida
+- consequencia
+- controle
+- identificado
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-51-001.md

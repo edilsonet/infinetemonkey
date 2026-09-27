@@ -1,0 +1,50 @@
+id: is-is-135-005-5-9-5-body
+kind: is
+document: is-135-005
+family: '135'
+section_id: 5.9.5
+section_title: Fase 1 - Solicitação Prévia
+subsection_id: body
+cite: 5.9.5
+title: Fase 1 - Solicitação Prévia
+text: '5.9.5 Fase 1 - Solicitação Prévia
+
+  5.9.5.1 O processo de aprovação de uma operação aeromédica tem início quando o operador
+  solicita informações à ANAC sobre a referida operação. Tal solicitação pode ser feita verbalmente
+  por telefone, em reunião marcada com o Gerente da Gerência de Operações da Aviação Geral
+  (GOAG) ou por carta endereçada ao referido Gerente.
+
+  5.9.5.2 As informações para esclarecimento sobre o processo de autorização de uma operação
+  aeromédica podem ser prestadas pela ANAC por qualquer meio disponível. Porém, é recomendada
+  a realização de uma Reunião de Orientação Prévia (ROP) para a conclusão desta fase do processo.
+  Nesta reunião devem estar presentes o servidor responsável pelo processo, bem como o gerente
+  da empresa ou quem ele designar para representá-lo. A solicitação de agendamento da ROP
+  pode ser feita pelo envio à GOAG de um FOP 200.
+
+  5.9.5.3 Na ROP serão discutidos todos os requisitos de uma operação aeromédica, as seções
+  pertinentes dos RBAC nº 91, RBAC n° 135 e desta IS. Serão ainda estabelecidos os documentos
+  que devem ser apresentados na reunião formal e explicado o preenchimento dos FOP citados
+  nesta seção.
+
+  5.9.5.4 Caso o operador se sinta suficientemente informado sobre as particularidades do
+  processo de aprovação para operação aeromédica, a Fase 1 poderá ser dispensada.'
+keywords:
+- taxi-aereo
+- operacoes
+- fase
+- operacao
+- processo
+- solicitacao
+- aeromedica
+- previa
+- reuniao
+- gerente
+- aprovacao
+- desta
+- feita
+- goag
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-005.md

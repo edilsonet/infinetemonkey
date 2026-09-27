@@ -1,0 +1,33 @@
+id: is-is-91-001-j8-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J8.4
+section_title: O sistema deve possuir a capacidade de carregar um procedimento APV/Baro-VNAV
+  por meio de seu nome diretamente a partir da desde a base de dados de navegação.
+subsection_id: body
+cite: J8.4
+title: O sistema deve possuir a capacidade de carregar um procedimento APV/Baro-VNAV por meio
+  de seu nome diretamente a partir da desde a base de dados de navegação.
+text: J8.4 O sistema deve possuir a capacidade de carregar um procedimento APV/Baro-VNAV por
+  meio de seu nome diretamente a partir da desde a base de dados de navegação.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- baro
+- base
+- capacidade
+- carregar
+- dados
+- desde
+- diretamente
+- meio
+- navegacao
+- nome
+- partir
+- possuir
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

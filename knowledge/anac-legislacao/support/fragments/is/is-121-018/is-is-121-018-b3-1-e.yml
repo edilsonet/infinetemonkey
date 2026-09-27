@@ -1,0 +1,34 @@
+id: is-is-121-018-b3-1-e
+kind: is
+document: is-121-018
+family: '121'
+section_id: B3.1
+section_title: 'A DH para uma operação de aproximação 3D ou para uma operação de aproximação
+  2D executada com a técnica CDFA deve ser de, pelo menos, o maior dos seguintes valores:'
+subsection_id: e
+cite: B3.1(e)
+title: B3.1(e)
+text: 'e) a DH mínima especificada no manual da aeronave (AFM/AOM), se aplicável.
+
+  Nota: embora conceitualmente o uso de DH se aplique a operações de aproximação 3D, pode
+  ser aplicável a operações de aproximação 2D executadas com a técnica CDFA (ver apêndice
+  C).'
+keywords:
+- transporte-aereo
+- operacoes
+- aproximacao
+- aplicavel
+- cdfa
+- operacao
+- tecnica
+- aeronave
+- apendice
+- aplique
+- conceitualmente
+- embora
+- especificada
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

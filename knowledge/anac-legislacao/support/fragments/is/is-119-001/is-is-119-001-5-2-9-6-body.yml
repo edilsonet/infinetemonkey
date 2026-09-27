@@ -1,0 +1,42 @@
+id: is-is-119-001-5-2-9-6-body
+kind: is
+document: is-119-001
+family: '119'
+section_id: 5.2.9.6
+section_title: Pacote de solicitação formal (PSF)
+subsection_id: body
+cite: 5.2.9.6
+title: Pacote de solicitação formal (PSF)
+text: '5.2.9.6 Pacote de solicitação formal (PSF)
+
+  5.2.9.6.1 O FOP 104 é o formulário utilizado para encaminhar informações relevantes para
+  o processo de certificação, assim como os documentos que serão analisados na fase 3.
+
+  5.2.9.6.2 No FOP 104 deve ser informado o designador de três letras (trigrama) e o designador
+  de telefonia, ambos fornecidos pela OACI. A solicitação desses designadores deve ser feita
+  pela própria organização requerente através do sítio da OACI, no endereço eletrônico: http://www.icao.int/3ld.
+  Caso as informações ainda não tenham sido fornecidas pela OACI na data do protocolo do PSF,
+  é aceitável a apresentação do comprovante da solicitação realizada junto à OACI
+
+  Nota: uma vez que a organização requerente registre sua solicitação no endereço eletrônico
+  indicado, a OACI entrará em contato com a Anac para confirmar as informações.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- solicitacao
+- oaci
+- formal
+- informacoes
+- pacote
+- designador
+- eletronico
+- endereco
+- organizacao
+- requerente
+- aceitavel
+- ambos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-001.md

@@ -1,0 +1,62 @@
+id: is-is-121-017-5-2-1-2-b
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.2.1.2
+section_title: Pouso
+subsection_id: b
+cite: 5.2.1.2(b)
+title: 5.2.1.2(b)
+text: 'b) o avião pousa na pista mais conveniente, considerando a direção e a velocidade prováveis
+  do vento, as características de manobrabilidade no solo do tipo de avião e outras variáveis
+  como auxílios de pouso e terreno (121.195(b)(2)).
+
+  Nota: se em razão de condições conhecidas ou previstas (como procedimentos do controle de
+  tráfego aéreo ou condições da infraestrutura de solo), somente uma pista e direção puder
+  ser utilizada, então essa pista e direção deve ser considerada para a condição de ar calmo
+  (121.195(b)(1)) - independentemente de a outra direção ser mais favorável.
+
+  5.2.1.2.2 Normalmente, a condição com ar calmo é a mais restritiva, considerando que, se
+  houver vento, o avião poderia, em tese, pousar com vento de proa, contribuindo para o desempenho
+  de pouso do avião. No entanto, comprimentos de LDA diferentes para cada cabeceira, limitação
+  por obstáculos no entorno do aeródromo ou por procedimentos do controle de tráfego aéreo
+  podem fazer com que a segunda condição seja mais restritiva.
+
+  5.2.1.2.3 O cumprimento dos requisitos de desempenho de pouso no aeródromo de destino, considerando
+  a pista e a direção mais favorável na condição de ar calmo (121.195(b)(1)), é obrigatório.
+  Dessa forma, caso isso não ocorra, o voo não pode ser despachado/liberado.
+
+  5.2.1.2.4 No entanto, conforme os parágrafos 121.195(c) e 121.195(e), se não puder se garantir
+  o cumprimento na condição de vento esperado (121.195(b)(2)), o voo pode ainda assim ser
+  despachado/liberado desde que se indique um aeródromo de alternativa que cumpra com 121.197.
+
+  Nota: no caso de o aeródromo de destino não possuir informações meteorológicas que atendam
+  às seções 121.101 ou 121.119, devem ser selecionados dois aeródromos de alternativa de destino
+  (conforme 121.619), ambos devem possuir informações meteorológicas (conforme 121.613(a)(3))
+  e ambos devem atender aos requisitos de desempenho da seção 121.197. Portanto, essa condição
+  já seria cumprida, sem a necessidade de procedimento específico conforme esta IS.
+
+  5.2.1.2.5 Recomenda-se, como forma de evitar desvio para a alternativa, por impossibilidade
+  de execução do pouso, que, para o planejamento de voo se considere para a condição de 121.195(b)(1)
+  a cabeceira que possui a maior limitação em termos peso de pouso (normalmente, a que possui
+  menor LDA).'
+keywords:
+- transporte-aereo
+- operacoes
+- condicao
+- pouso
+- direcao
+- aerodromo
+- aviao
+- pista
+- vento
+- alternativa
+- calmo
+- considerando
+- desempenho
+- destino
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

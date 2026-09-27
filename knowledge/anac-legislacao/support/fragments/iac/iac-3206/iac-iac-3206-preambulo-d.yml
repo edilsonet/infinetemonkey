@@ -1,0 +1,31 @@
+id: iac-iac-3206-preambulo-d
+kind: iac
+document: iac-3206
+family: '320'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: d
+cite: preambulo(d)
+title: preambulo(d)
+text: 'd) Será facultativo o emprego de comissários em aeronaves com menos de vinte passageiros.
+
+  III - COMPOSIÇÃO DE TRIPULAÇÃO PARA TÁXI AÉREO
+
+  01 - Aviões operando segundo as regras de vôo visual (VFR)'
+keywords:
+- preambulo
+- aereo
+- aeronaves
+- avioes
+- comissarios
+- composicao
+- emprego
+- facultativo
+- menos
+- operando
+- passageiros
+- regras
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-3206.md

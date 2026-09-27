@@ -1,0 +1,40 @@
+id: is-is-121-020-c5-2-c
+kind: is
+document: is-121-020
+family: '121'
+section_id: C5.2
+section_title: 'O operador, para requerer autorização para operação com aeronaves a reação
+  no aeródromo SBRJ, deve enviar à ANAC FOP 119 devidamente preenchido e contendo as seguintes
+  informações:'
+subsection_id: c
+cite: C5.2(c)
+title: C5.2(c)
+text: 'c) declaração de conformidade em relação a este apêndice:
+
+  I - a declaração de conformidade em relação ao item C4.2 deste apêndice (adequação da MEL/CDL)
+  deve listar os equipamentos que não podem estar inoperantes para operações no aeródromo
+  SBRJ, caso haja; e
+
+  II - a declaração de conformidade em relação ao item C4.10.4 deste apêndice (panes ocorridas
+  em voo) deve listar as panes que, caso ocorram em voo, permitem a continuação do voo para
+  o aeródromo SBRJ e as panes que requerem que o voo seja desviado para o aeródromo de alternativa.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- apendice
+- conformidade
+- declaracao
+- panes
+- relacao
+- sbrj
+- caso
+- deste
+- listar
+- adequacao
+- aeronaves
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

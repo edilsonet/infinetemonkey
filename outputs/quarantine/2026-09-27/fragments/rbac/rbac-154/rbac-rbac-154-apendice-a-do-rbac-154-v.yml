@@ -1,0 +1,814 @@
+id: rbac-rbac-154-apendice-a-do-rbac-154-v
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: apendice-a-do-rbac-154
+section_title: APÊNDICE A DO RBAC 154
+subsection_id: v
+cite: apendice-a-do-rbac-154(v)
+title: apendice-a-do-rbac-154(v)
+text: '(v) Verde
+
+   Limite amarelo
+
+
+  x = 0,313
+
+   Limite branco
+
+
+  y = 0,243 + 0,670x
+
+   Limite azul
+
+
+  y = 0,493 - 0,524x
+
+  ▪ Fator de luminosidade
+
+
+  β = 0,10 mínimo
+
+  (condição diurna)
+
+  ▪ Luminosidade relativa
+
+
+  5% (mínimo)
+
+  ao branco (condição noturna)
+
+  30% (máximo)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AA-1. Cores para luzes aeronáuticas de superfície (lâmpadas tipo filamento)
+
+
+  0
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  X
+
+  X
+
+  Y
+
+  Y
+
+  Verde
+
+  480
+
+  470
+
+  460
+
+  450
+
+  510
+
+  500
+
+  520
+
+  550
+
+  560
+
+  580
+
+  Gráfico de Cromaticidade da CIE
+
+  380
+
+  Azul
+
+  Amarelo
+
+  490
+
+  530
+
+  570
+
+  540
+
+  590
+
+  Vermelho
+
+  Branco Variável
+
+  4800K
+
+  2360K
+
+  Branco
+
+  6500K
+
+  10000K
+
+  +EE
+
+  3500K
+
+  2856K
+
+  1900K
+
+  y=0.320
+
+  600
+
+  610
+
+  620
+
+  630650
+
+  700
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AA-1A. Cores para luzes aeronáuticas de superfície (lâmpadas de estado sólido)
+
+
+  0
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  X
+
+  X
+
+  Y
+
+  Y
+
+  Verde
+
+  480
+
+  470
+
+  460
+
+  450
+
+  490
+
+  500
+
+  510
+
+  520
+
+  530
+
+  540
+
+  550
+
+  560
+
+  570
+
+  580
+
+  590
+
+  380
+
+  Vermelho
+
+  Gráfico de Cromaticidade da CIE
+
+  Azul
+
+  Amarelo
+
+  10000K
+
+  6500K
+
+  4800K
+
+  +EE
+
+  3500K
+
+  2858K
+
+  2360K
+
+  1900K
+
+  y=0.320
+
+  Branco
+
+  600
+
+  610
+
+  620
+
+  630
+
+  650
+
+  700
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AA-2. Cores comuns para sinalizações horizontais e para sinalizações verticais e
+  painéis
+
+  iluminados externamente
+
+
+  0
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  X
+
+  X
+
+  Y
+
+  Y
+
+  Verde
+
+  480
+
+  470
+
+  460
+
+  450
+
+  380-410
+
+  490
+
+  500
+
+  510
+
+  520
+
+  530
+
+  540
+
+  550
+
+  560
+
+  570
+
+  580
+
+  590
+
+  600
+
+  610
+
+  620
+
+  630
+
+  650
+
+  690-780
+
+  + Indica fonte luminosa padrão da CIE D65
+
+  Amarelo
+
+  Laranja
+
+  Vermelho
+
+  Branco
+
+  Preto
+
+  +
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AA-3. Cores de materiais retrorrefletivos para sinalizações horizontais, sinalizações
+  verticais
+
+  e painéis
+
+
+  0
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  X
+
+  X
+
+  Y
+
+  Y
+
+  Verde
+
+  480
+
+  470
+
+  460
+
+  450
+
+  490
+
+  500
+
+  510
+
+  520
+
+  530
+
+  540
+
+  550
+
+  560
+
+  570
+
+  580
+
+  590
+
+  Vermelho
+
+  Azul
+
+  Laranja
+
+  690-780
+
+  + Indica fonte luminosa padrão da CIE D65
+
+  380-410
+
+  Amarelo
+
+  +
+
+  Branco
+
+  600
+
+  610
+
+  620
+
+  640
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  Figura AA-4. Cores de sinalizações verticais e painéis luminosos (iluminados internamente)
+  ou
+
+  luminescentes
+
+
+  0
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  0.80
+
+  0.90
+
+  0.10
+
+  0.20
+
+  0.30
+
+  0.40
+
+  0.50
+
+  0.60
+
+  0.70
+
+  X
+
+  Y
+
+  Y
+
+  Verde
+
+  480
+
+  470
+
+  460
+
+  450
+
+  380-410
+
+  490
+
+  500
+
+  510
+
+  520
+
+  530
+
+  540
+
+  550
+
+  560
+
+  570
+
+  580
+
+  590
+
+  690-780
+
+  + Indica fonte luminosa padrão da CIE D65
+
+  Preto
+
+  +
+
+  Branco (dia)
+
+  Amarelo
+
+  Vermelho
+
+  Branco
+
+  (noite)
+
+  690-780
+
+  600
+
+  610
+
+  620
+
+  640
+
+  X
+
+
+  Data da emissão: 16 de junho de 2021.'
+keywords:
+- seguranca-aeroportuaria
+- branco
+- amarelo
+- data
+- emissao
+- junho
+- verde
+- cores
+- figura
+- sinalizacoes
+- vermelho
+- azul
+- fonte
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

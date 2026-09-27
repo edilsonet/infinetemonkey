@@ -1,0 +1,41 @@
+id: is-is-135-008a-5-8-3-1-3-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.8.3.1.3
+section_title: Design dos SOP. Os SOP podem deixar de abordar explicitamente tarefas de monitoramento.
+subsection_id: body
+cite: 5.8.3.1.3
+title: Design dos SOP. Os SOP podem deixar de abordar explicitamente tarefas de monitoramento.
+text: '5.8.3.1.3 Design dos SOP. Os SOP podem deixar de abordar explicitamente tarefas de
+  monitoramento.
+
+  5.8.3.1.4 Modelo mental inadequado do piloto a respeito dos modos dos sistemas de piloto
+  automático. Os pilotos podem não ter uma compreensão completa ou exata de todas as funções
+  e comportamentos do sistema de piloto automático. Alguns aspectos de sistemas automáticos
+  de gestão do voo não são bem combinados com as características humanas de processamento
+  de informações.
+
+  5.8.3.1.5 Treinamento. O treinamento pode ignorar a importância do monitoramento e como
+  fazê-lo de forma efetiva. A falta de ênfase no monitoramento pode ocorrer no treinamento
+  e na avaliação.'
+keywords:
+- taxi-aereo
+- operacoes
+- monitoramento
+- podem
+- abordar
+- deixar
+- design
+- explicitamente
+- piloto
+- tarefas
+- treinamento
+- automatico
+- pode
+- sistemas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

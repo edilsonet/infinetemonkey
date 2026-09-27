@@ -1,0 +1,206 @@
+id: is-is-164-001-apendice-c-exemplo-de-aplicacao-da-metodologia-descrita-na-body
+kind: is
+document: is-164-001
+family: '164'
+section_id: apendice-c-exemplo-de-aplicacao-da-metodologia-descrita-na
+section_title: APÊNDICE C - EXEMPLO DE APLICAÇÃO DA METODOLOGIA DESCRITA NA
+subsection_id: body
+cite: apendice-c-exemplo-de-aplicacao-da-metodologia-descrita-na
+title: APÊNDICE C - EXEMPLO DE APLICAÇÃO DA METODOLOGIA DESCRITA NA
+text: 'APÊNDICE C - EXEMPLO DE APLICAÇÃO DA METODOLOGIA DESCRITA NA
+
+  SUBSEÇÃO 5.4 PARA UM CASO HIPOTÉTICO
+
+  A Identificação do Perigo da Fauna - IPF realizada pelo aeródromo fictício “ADR” concluiu
+  que
+
+  são presentes, no referido aeródromo, quatro espécies-problema, aqui denominadas “A”, “B”,
+  “C” e
+
+  “D”.
+
+  Por intermédio dos dados obtidos pelas vistorias de fauna na área operacional e no sítio
+
+  aeroportuário, realizadas ao longo da realização da IPF, chegou-se à seguinte configuração
+  de risco:
+
+  Espécie Pop. Massa Bando Pres. Dia Loc. Voo/
+
+  ativ. Rep.
+
+  Evitar
+
+  (inv.)
+
+  Susc.
+
+  (inv.)
+
+  GRAU DE RISCO
+
+  Espécie
+
+  “A” 100 83 100 80 93 63 90 100 80 100 19,44
+
+  Espécie
+
+  “B” 81 100 30 74 100 100 50 57 100 100 18,72
+
+  Espécie
+
+  “C” 59 79 21 32 47 10 100 15 80 50 15,97
+
+  Espécie
+
+  “D” 22 19 50 100 20 25 10 23 20 20 14,00
+
+  Para o fator “população global”, a Espécie “A” foi a que atingiu o valor máximo populacional,
+
+  tendo sido registrados 59 indivíduos em uma determinada vistoria. Da Espécie B, o número
+
+  máximo registrado dentre todas as vistorias foi o de 48 indivíduos. Da Espécie C, 35 indivíduos.
+  E
+
+  da Espécie D, 13 indivíduos. Assim sendo, adotou-se para a Espécie A o valor 100, tendo
+  sido esta
+
+  a espécie com maior número de indivíduos identificados dentre todas as vistorias. Assim
+  sendo, a
+
+  considerar-se o valor de 59 como 100%, todos os outros valores dentro desse critério são
+  relativos a
+
+  59, tendo-se, portanto, 81% (48/59), 59% (35/59) e 22% (13/59) para, respectivamente, as
+  espécies
+
+  B, C, e D.
+
+  Analogamente, para o fator “presença”, temos o seguinte: em um universo de 200 vistorias
+
+  realizadas, em 100 delas a Espécie “D” foi avistada. Em 80 vistorias foi avistada a Espécie
+  A. Em
+
+  74, a Espécie B. Em 32, a Espécie C. Assim sendo, adotando-se para a Espécie D o valor de
+  100,
+
+  por ter sido o valor máximo obtido, tem-se para as outras espécies um valor relativo à Espécie
+  D,
+
+  obtendo-se, portanto, os valores de 80% (80/100), 74% (74/100) e 32%, respectivamente para
+  as
+
+  espécies A, B e C.
+
+  O mesmo procedimento deve ser adotado para todos os fatores. Por exemplo, no fator “Período
+  do
+
+  Dia”, a Espécie B foi a que mais se avistava nos períodos de maior movimento do aeródromo.
+  Já
+
+  para o histórico de reportes de colisão, a que apresentou maior quantidade foi a Espécie
+  A.
+
+  Concluído o cálculo de todos os fatores, tem-se para a Espécie “A” o grau de risco de 19,44,
+
+  aplicando-se a fórmula abaixo:31/7/2015 IS nº 164-001
+
+  Revisão A
+
+  Grau de risco = log (100 x 83 x 100 x 80 x 93 x 63 x 90 x 100 x 80 x 100) = 19,44
+
+  Assim sendo, é razoável que o operador do aeródromo “ADR” dedique maior parte de seus recursos
+
+  e intensifique suas ações mitigadoras no gerenciamento do risco provocado pelas espécies
+  A e B,
+
+  sem prescindir, é claro, de ações mitigadoras voltadas às espécies C e D.
+
+  Cumpre ressaltar que os resultados desta metodologia demonstram apenas que, por exemplo,
+  a
+
+  Espécie A provoca maior risco que a Espécie B, não fazendo juízo sobre o grau de risco que
+  ela de
+
+  fato representa (se alto, médio, baixo etc.).
+
+  Para uma mensuração do grau de risco das espécies presentes entre “muito alto”, “alto”,
+  “médio” e
+
+  “baixo”, deve ser aplicada a tabela constante do Apêndice C, para a qual devem ser utilizados
+  os
+
+  valores médios das vistorias realizadas no aeródromo (à exceção da coluna B, para a qual
+  se utiliza
+
+  a massa média da espécie adulta, e da coluna H, para a qual se utiliza o histórico de reportes
+  de
+
+  colisão).
+
+  Após a classificação do risco provocado pelas espécies-problema, o aeródromo “ADR” chegou
+  à
+
+  seguinte tabulação final:
+
+  Espécie
+
+  GRAU
+
+  DE
+
+  RISCO
+
+  CLASSIFICAÇÃO
+
+  DO RISCO
+
+  Espécie
+
+  “A”
+
+  19,44 Médio
+
+  Espécie
+
+  “B”
+
+  18,72 Médio
+
+  Espécie
+
+  “C”
+
+  15,97 Médio
+
+  Espécie
+
+  “D”
+
+  14,00 Baixo
+
+  Note-se que, não necessariamente por ter atingido o valor de 19,44, a Espécie A deve ser
+
+  considerada de “alto risco” para o ADR. Pela tabulação final, chegou-se à conclusão que
+  as
+
+  espécies A, B e C possuem a mesma classificação de risco “médio”. Assim sendo, ambas requerem
+
+  ações mitigadoras de intensidade semelhante, com priorização para as espécies A e B.'
+keywords:
+- servicos-aereos
+- especie
+- risco
+- especies
+- valor
+- aerodromo
+- grau
+- medio
+- vistorias
+- assim
+- exemplo
+- individuos
+- maior
+categories:
+- servicos-aereos
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-164-001.md

@@ -1,0 +1,57 @@
+id: is-is-61-006-5-4-13-body
+kind: is
+document: is-61-006
+family: '61'
+section_id: 5.4.13
+section_title: Endosso de liberação para o cheque de habilitação de classe - 61.195(f)
+subsection_id: body
+cite: 5.4.13
+title: Endosso de liberação para o cheque de habilitação de classe - 61.195(f)
+text: '5.4.13 Endosso de liberação para o cheque de habilitação de classe - 61.195(f)
+
+  Válido por 30 dias.
+
+  Quem pode endossar:
+
+  1 - Detentor da habilitação vigente de Instrutor de Voo (INVA, INVH, INVD); ou
+
+  2 - Piloto designado para ministrar instrução de voo em um operador que possua programa
+  de treinamento aprovado pela ANAC, quando ministrando instrução no âmbito da entidade a
+  que está vinculado. (ex: operadores 142, 135 e 90).
+
+  Instrução prévia mínima ao endosso:
+
+  A instrução prevista na seção 61.195 do RBAC nº 61 para a classe pertinente.
+
+  Endosso na CIV Digital:
+
+  Conforme item 5.4.4, o piloto endossante deve selecionar o botão “Endossar” na linha da
+  CIV Digital referente ao voo que deseja registrar o endosso. Na tela seguinte (vide figura
+  abaixo), no campo Filtro, deverá selecionar o Tipo de Endosso “Classe (check inicial)” e
+  a Categoria da aeronave utilizada na instrução (“Avião” ou “Helicóptero”). Na sequência
+  selecionar no campo Habilitação “Sim” e selecionar na lista ao lado a habilitação classe
+  pertinente (MLTE, MNAF, HMNT, HMLT etc.) O campo “Endosso*” ficará filtrado com “Classe
+  (check inicial) / categoria - habilitação”, bastando selecionar o botão Salvar para concluir
+  o registro.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- endosso
+- classe
+- habilitacao
+- instrucao
+- selecionar
+- campo
+- cheque
+- liberacao
+- botao
+- categoria
+- check
+- digital
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-006.md

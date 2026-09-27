@@ -1,0 +1,38 @@
+id: is-is-121-020-d4-5-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: D4.5
+section_title: Atualização da base de dados e do software do EGPWS
+subsection_id: body
+cite: D4.5
+title: Atualização da base de dados e do software do EGPWS
+text: 'D4.5 Atualização da base de dados e do software do EGPWS
+
+  D4.5.1 O operador deve implementar nas aeronaves utilizadas nas operações, e nos simuladores
+  utilizados para treinamento dos pilotos, em até 60 dias de sua emissão, as atualizações
+  da base de dados e/ou software do EGPWS que impactem aproximações ou saídas do aeródromo
+  SBSP. A operação durante esse período de até 60 dias é condicionada à uma avaliação de risco
+  realizada pelo operador.
+
+  D4.5.2 Aeronaves que não estejam com a base de dados e o software atualizados nos termos
+  especificados acima não poderão ser empregadas em condições IMC ou em operações noturnas.'
+keywords:
+- transporte-aereo
+- operacoes
+- base
+- dados
+- software
+- egpws
+- atualizacao
+- aeronaves
+- dias
+- operador
+- acima
+- aerodromo
+- aproximacoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

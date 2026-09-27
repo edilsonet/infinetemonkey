@@ -1,0 +1,43 @@
+id: is-is-00-009-5-5-2-1-7-body
+kind: is
+document: is-00-009
+family: '0'
+section_id: 5.5.2.1.7
+section_title: A apresentação do documento pode ser efetuada de forma digital.
+subsection_id: body
+cite: 5.5.2.1.7
+title: A apresentação do documento pode ser efetuada de forma digital.
+text: '5.5.2.1.7 A apresentação do documento pode ser efetuada de forma digital.
+
+  5.5.2.2. Certificado de Aeronavegabilidade (CA) / Certificado de Autorização de Voo Experimental
+  (CAVE) / Certificado de Autorização de Voo (CAV).
+
+  5.5.2.2.1 Aeronaves operando segundo o RBAC nº 91 e RBAC nº 135, devem possuir a bordo Certificado
+  de Aeronavegabilidade (CA) válido, emitido pela ANAC em nome do operador. [RBAC n° 91.203(a)(1)
+  / RBAC n° 135.3(a)(1)]
+
+  5.5.2.2.2 Aeronaves experimentais, operando segundo o RBAC nº 91, devem possuir a bordo
+  o Certificado de Autorização de Voo Experimental (CAVE) válido. [RBAC nº 91.203(b)]
+
+  5.5.2.2.3 Aeronaves com certificado de tipo provisório, operando segundo o RBAC nº 91, devem
+  possuir a bordo o Certificado de Aeronavegabilidade provisório válido. [RBAC nº 91.203(c)]
+
+  5.5.2.2.4 O Certificado de Autorização de Voo (CAV) pode ser apresentado no lugar de um
+  CAVE, devendo ser cumpridas as limitações da seção 91.319 do RBAC nº 91. [RBAC n° 91.319]'
+keywords:
+- certificado
+- autorizacao
+- pode
+- aeronavegabilidade
+- aeronaves
+- apresentacao
+- bordo
+- cave
+- digital
+- documento
+- efetuada
+- forma
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-009.md

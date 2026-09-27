@@ -1,0 +1,33 @@
+id: is-is-91-001-e7-1-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: E7.1
+section_title: 'Uma aeronave pode ser considerada elegível para operações RNAV 1 e 2, se o
+  AFM ou suplemento do AFM ou especificação da aeronave (TCDS para as aeronaves isentas da
+  certificação brasileira) ou POH contiver a declaração do fabricante ou do detentor do CST
+  que a aeronave está conforme um dos regulamentos listados abaixo:'
+subsection_id: b
+cite: E7.1(b)
+title: E7.1(b)
+text: b) aeronaves que cumprem com a AC 90-100;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- aeronaves
+- abaixo
+- brasileira
+- certificacao
+- considerada
+- contiver
+- cumprem
+- declaracao
+- detentor
+- elegivel
+- especificacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

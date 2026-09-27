@@ -1,0 +1,69 @@
+id: is-is-60-002-7-3-4-e
+kind: is
+document: is-60-002
+family: '60'
+section_id: 7.3.4
+section_title: 'Para Dispositivo de Treinamento (FTD) de Helicóptero:'
+subsection_id: e
+cite: 7.3.4(e)
+title: 7.3.4(e)
+text: 'e) Fase 5: Certificação.
+
+  A ANAC emite o Certificado de Qualificação, após constatar que o FSTD cumpre os requisitos
+  aplicáveis e o processo é finalizado.
+
+  QUALIFICATION TEST GUIDE (qtg)
+
+  8.1 De acordo com os Apêndices A,B, C e D, com exceção de um FTD nível 4, cada FSTD deve
+  possuir um QTG, aceito pela ANAC, contendo:
+
+
+  Dados objetivos obtidos de ensaio em voo da aeronave ou outra fonte de dados aprovada;
+
+  Os resultados dos testes objetivos do FSTD;
+
+  Os resultados dos testes subjetivos do FSTD;
+
+  Uma descrição do equipamento necessário para executar as avaliações para qualificação inicial
+  e para qualificação recorrente.
+
+  8.2 O Apêndice A dessa IS provê informações adicionais para a confecção do QTG.
+
+  AVALIAÇÃO PARA QUALIFICAÇÃO RECORRENTE (rbac 60.19)
+
+  9.1.1 Para evidenciar que um FSTD continua cumprindo com os requisitos aplicáveis a sua
+  base de qualificação e seu nível de qualificação, em intervalos de tempo regulares variando
+  entre 12 e 36 meses, a ANAC realiza uma qualificação recorrente. Este período está especificado
+  no Certificado de Qualificação, por meio de sua validade. Esse processo é considerado a
+  Renovação do certificado.
+
+  9.1.2 Além da renovação, há a previsão de Restauração do certificado, aplicado nos casos
+  de mudança de local de instalação do FSTD ou se o certificado estiver vencido em até 24
+  meses antes da data de avaliação sugerida, dentre outras situações. Apesar do procedimento
+  ser idêntico ao de renovação, o período necessário para avaliar o FSTD pode variar, de acordo
+  com a necessidade da ANAC.
+
+  9.1.3 O operador deve entrar em contato com a ANAC para solicitar a avaliação para qualificação
+  recorrente do FSTD com pelo menos 60 dias de antecedência ao dia da avaliação pretendida,
+  que deverá ocorrer antes do vencimento do certificado vigente, podendo ser realizada em
+  até 3 meses antes da data de vencimento.'
+keywords:
+- simuladores
+- treinamento
+- qualificacao
+- fstd
+- certificado
+- avaliacao
+- recorrente
+- meses
+- renovacao
+- acordo
+- aplicaveis
+- dados
+- data
+- necessario
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

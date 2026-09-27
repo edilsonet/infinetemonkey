@@ -1,0 +1,73 @@
+id: is-is-145-009-5-5-10-3-e
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.10.3
+section_title: 'Dados utilizados: os dados técnicos utilizados pela OM podem incluir as seguintes
+  informações:'
+subsection_id: e
+cite: 5.5.10.3(e)
+title: 5.5.10.3(e)
+text: 'e) Procedimentos para prevenir o uso de documentos obsoletos.
+
+  5.5.10.6 Biblioteca central/Secção de publicações técnicas: OM de grande porte podem incluir
+  provisões para distribuição de dados de uma biblioteca central para as pessoas ou bibliotecas
+  das oficinas específicas da OM (por exemplo: motores, interiores, estruturas, tapeçaria,
+  janelas, acessórios, etc.). Os procedimentos devem assegurar a distribuição precisa do material.
+  Procedimentos adicionais precisarão indicar quem revisa os documentos das oficinas específicas,
+  como os documentos são revisados e como a informação é distribuída.
+
+  5.5.10.7 Desenhos e dados técnicos do fabricante: OM que são associadas com, ou parte de
+  um detentor de produção aprovado (fabricante), frequentemente usam desenhos e dados técnicos
+  do fabricante para executar manutenção. Esses dados podem não atender aos requisitos da
+  seção 43.13 do RBAC nº 43. Essas OM devem estar cientes de que as partes fornecidas pelo
+  setor de produção do fabricante não podem ser utilizadas pela OM, a não ser que as partes
+  sejam aprovadas através de CPAA (Certificado de Produto Aeronáutico Aprovado), OTP (Ordem
+  Técnica Padrão), Certificação de Tipo, ou outros meios.
+
+  NOTA 1: Há uma clara distinção entre os procedimentos aceitos/aprovados pela ANAC para aeronaves
+  em processo de fabricação e aeronaves já entregues ao operador. Para essas últimas, utilizam-se
+  as ICA.
+
+  5.5.10.8 Idioma dos documentos: os documentos utilizados por OM podem ser traduzidos para
+  a língua portuguesa. Se os documentos requererem tradução antes da distribuição, os procedimentos
+  devem assegurar uma tradução precisa e completa. Devem ser previstas provisões para o pessoal
+  da qualidade analisar e aprovar o material traduzido antes da sua distribuição. Os documentos
+  que necessitam ser traduzidos podem incluir gráficos, diagramas ou outros auxílios visuais.
+  A OM deve reter em inglês (ou na língua original) quaisquer dados que demonstrem cumprimento
+  com os requisitos do RBAC nº 43.
+
+  5.5.10.9 Revisão de software: as OM que utilizam softwares de computador específicos para
+  teste de componentes (de sistemas ou equipamento de bordo, sistemas de aviônicos, motores,
+  etc.), precisam incluir procedimentos no manual, descrevendo como revisões/atualizações
+  são feitas e como o software atualizado é distribuído. Os procedimentos precisam indicar
+  um sistema de segurança, para evitar alterações inadvertidas do software, e métodos para
+  assegurar que somente revisão/versão atualizada seja utilizada. A distribuição e revisão
+  do software pode ser feita por um grupo de pessoas diferente daquele responsável pela revisão
+  e distribuição de outros documentos.
+
+  5.5.10.10 Orientação: as seguintes questões ou aspectos são sugeridos como uma orientação,
+  com a finalidade de auxiliar a OM a iniciar a criação dos procedimentos no manual. Elas
+  não devem ser consideradas como tendo abrangido todos os aspectos necessários. Cada OM é
+  única, e por isso, pode requerer procedimentos adicionais para validar os requisitos regulatórios
+  e as necessidades da OM:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- procedimentos
+- documentos
+- dados
+- distribuicao
+- podem
+- fabricante
+- incluir
+- revisao
+- software
+- assegurar
+- outros
+- requisitos
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

@@ -1,0 +1,28 @@
+id: iac-iac-001-1001a-12-1-3-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 12.1.3
+section_title: ITEM
+subsection_id: body
+cite: 12.1.3
+title: ITEM
+text: '12.1.3 ITEM
+
+  São as seções também da divisão primária, constituindo-se em subdivisões
+
+  secundária, terciária e quaternária, denominadas também de itens.'
+keywords:
+- constituindo
+- denominadas
+- divisao
+- primaria
+- quaternaria
+- secoes
+- secundaria
+- subdivisoes
+- terciaria
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-25-preambulo-c
+kind: rbac
+document: rbac-25
+family: '25'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: c
+cite: preambulo(c)
+title: preambulo(c)
+text: (c) The controllability, stability, trim, and stalling characteristics of the airplane
+  must be shown for each altitude up to the maximum expected in operation.
+keywords:
+- aeronavegabilidade
+- transporte
+- preambulo
+- airplane
+- altitude
+- characteristics
+- controllability
+- each
+- expected
+- maximum
+- must
+- operation
+- shown
+- stability
+categories:
+- aeronavegabilidade
+- transporte
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-25.md

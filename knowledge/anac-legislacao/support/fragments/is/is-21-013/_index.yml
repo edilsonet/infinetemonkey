@@ -1,0 +1,69 @@
+document: is-21-013
+kind: is
+title: IS 21-013B
+ementa: Instruções para obtenção de aprovação de instalação de equipamentos GNSS (Global Navigation
+  Satellite Systems) stand alone para operações VFR e IFR.
+family: '21'
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-013
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-013/@@display-file/arquivo_norma/IS21-013B.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-013/@@display-file/arquivo_norma/IS21-013B.pdf
+language: pt
+foreign_annex: false
+sections:
+- '1'
+- '10'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- apendice-a-lista-de-reducoes
+- apendice-b-referencias
+- apendice-c-modelo-de-cartao-de-teste-para-inspecao-e-1e5225
+- apendice-d-exemplo-de-suplemento-ao-manual-de-voo
+- aprovacao
+- preambulo
+fragment_count: 34
+fragment_ids:
+- is-is-21-013-preambulo-body
+- is-is-21-013-1-body
+- is-is-21-013-2-body
+- is-is-21-013-3-body
+- is-is-21-013-4-body
+- is-is-21-013-4-a
+- is-is-21-013-4-b
+- is-is-21-013-4-c
+- is-is-21-013-4-d
+- is-is-21-013-5-body
+- is-is-21-013-6-body
+- is-is-21-013-6-a
+- is-is-21-013-6-b
+- is-is-21-013-6-c
+- is-is-21-013-7-body
+- is-is-21-013-7-a
+- is-is-21-013-7-b
+- is-is-21-013-7-c
+- is-is-21-013-7-d
+- is-is-21-013-7-e
+- is-is-21-013-7-f
+- is-is-21-013-7-g
+- is-is-21-013-7-h
+- is-is-21-013-7-i
+- is-is-21-013-7-j
+- is-is-21-013-7-k
+- is-is-21-013-8-body
+- is-is-21-013-9-body
+- is-is-21-013-10-body
+- is-is-21-013-apendice-a-lista-de-reducoes-body
+- is-is-21-013-apendice-b-referencias-body
+- is-is-21-013-apendice-c-modelo-de-cartao-de-teste-para-inspecao-e-1e5225-body
+- is-is-21-013-aprovacao-body
+- is-is-21-013-apendice-d-exemplo-de-suplemento-ao-manual-de-voo-body
+parser_version: 7

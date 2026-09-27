@@ -1,0 +1,72 @@
+id: is-is-43-001-5-2-6-b
+kind: is
+document: is-43-001
+family: '43'
+section_id: 5.2.6
+section_title: Fabricantes que produzam peças aprovadas de aeronaves devem manter registros
+  de núme-
+subsection_id: b
+cite: 5.2.6(b)
+title: 5.2.6(b)
+text: 'b) Informações a serem obtidas: Os registros devem incluir informações, diretamente
+  ou
+
+  por referência, para dar suporte à documentação, com o objetivo de auxiliar o usuário
+
+  ou instalador a fazer a determinação final sobre o status de aeronavegabilidade e de
+
+  elegibilidade da peça. Alguns exemplos de informação a ser obtida são listados, con-
+
+  forme aplicável:
+
+  I- Status de cumprimento de Diretriz de Aeronavegabilidade - DA;
+
+  II- Cumprimento ou não cumprimento com os boletins de serviço - BS;
+
+  III- Status do limite de vida/ciclo das peças, isto é, tempo, tempo desde a revisão
+
+  geral, ciclos, histórico. Tal status deve ser substanciado. Se a peça é serializada
+
+  e com limite de vida, então ambos os tempos e/ou ciclos operacionais (onde a-
+
+  plicável) devem ser indicados. Registros históricos que claramente estabelecem
+
+  e substanciam tempo e ciclos devem ser fornecidos como evidência;2009-05-11 IS nº 43-001
+
+  Revisão A
+
+  IV- Dados de prazo de validade (shelf-life), incluindo data de fabricação ou data de
+
+  cura;
+
+  V- Data de retorno ao serviço;
+
+  VI- Demandas excessivas (shortage) aplicáveis a montagens ou kits;
+
+  VII- Documentos de certificação de importação ou exportação;
+
+  VIII- O nome da pessoa que removeu a peça;
+
+  IX- Formulário SEGVOO 001 “Registro de Grande Reparo/Modificação - Célula,
+
+  Motor, Hélice ou Parte Componente”;
+
+  X- Padrões do Manual de Manutenção utilizados para executar a manutenção;'
+keywords:
+- manutencao
+- aeronavegabilidade
+- status
+- ciclos
+- cumprimento
+- data
+- peca
+- registros
+- tempo
+- informacoes
+- limite
+- pecas
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-001.md

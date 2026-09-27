@@ -1,0 +1,28 @@
+id: iac-iac-180-1002a-3-5-1-3-body
+kind: iac
+document: iac-180-1002a
+family: '180'
+section_id: 3.5.1.3
+section_title: Documento que não necessita de autenticação
+subsection_id: body
+cite: 3.5.1.3
+title: Documento que não necessita de autenticação
+text: '3.5.1.3 Documento que não necessita de autenticação
+
+  Cópia do Certificado de Inscrição no Cadastro Nacional da Pessoa Jurídica; (CNPJ).'
+keywords:
+- autenticacao
+- documento
+- necessita
+- cadastro
+- certificado
+- cnpj
+- copia
+- inscricao
+- juridica
+- nacional
+- pessoa
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-180-1002a.md

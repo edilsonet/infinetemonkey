@@ -1,0 +1,37 @@
+id: is-is-94-002-5-4-4-d
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.4
+section_title: Operação do enlace de comando e controle - RBAC-E 94.405(b)
+subsection_id: d
+cite: 5.4.4(d)
+title: 5.4.4(d)
+text: 'd) O(s) enlace(s) C2 deve(m) incorporar características como, por exemplo,
+
+  criptografia de dados e salto em frequência, que minimizem os riscos associados a
+
+  atos de interferência ilícita.
+
+  NOTA 1 - A ASTM F-3002, Standard Specification for Design of the Command and Control
+
+  System for Small Unmanned Aircraft Systems (sUAS), contém orientações adequadas sobre
+
+  o projeto de enlaces de comando e controle.'
+keywords:
+- comando
+- controle
+- enlace
+- adequadas
+- aircraft
+- associados
+- astm
+- atos
+- caracteristicas
+- command
+- contem
+- control
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

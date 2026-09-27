@@ -1,0 +1,31 @@
+id: rbac-rbac-161-aplicabilidade-b
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: b
+cite: aplicabilidade(b)
+title: aplicabilidade(b)
+text: '(b)
+
+  A autorização de construção ou modificação de características físicas e/ou operacionais
+  e de cadastro de aeródromos está condicionada ao cumprimento das Subpartes B, C, D e E deste
+  regulamento.'
+keywords:
+- aplicabilidade
+- aerodromos
+- autorizacao
+- cadastro
+- caracteristicas
+- condicionada
+- construcao
+- cumprimento
+- deste
+- fisicas
+- modificacao
+- operacionais
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

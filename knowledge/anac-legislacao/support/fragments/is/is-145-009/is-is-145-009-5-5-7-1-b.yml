@@ -1,0 +1,53 @@
+id: is-is-145-009-5-5-7-1-b
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.7.1
+section_title: 'Referência: RBAC nº 145, parágrafo 145.209(g).'
+subsection_id: b
+cite: 5.5.7.1(b)
+title: 5.5.7.1(b)
+text: 'b) A OM deve solicitar informações do operador relativas a, pelo menos, o seguinte:
+
+  I- Identificação dos IIO;
+
+  II- Requisitos de treinamento para o trabalho a executar em nome do operador, incluindo
+  quem proverá o treinamento;
+
+  III- Manutenção especial ou instruções de alterações conforme ordens de engenharia, listas
+  de montagem, e outros métodos, técnicas e práticas do manual do operador, conforme o parágrafo
+  43.13(c) do RBAC nº 43; e
+
+  IV- Requisitos de conservação de registros, incluindo quem é o responsável pela manutenção
+  dos arquivos.
+
+  NOTA 1: A IS nº 120-016 inclui informações detalhadas e complementares que podem ser utilizadas
+  para instrução do pessoal da OM.
+
+  5.5.7.5 Coordenação com o Operador: A OM deve manter uma lista de pessoas qualificadas para
+  executar manutenção para o operador, conforme os critérios definidos no sistema de manuais
+  do operador (incluindo o programa de treinamento de manutenção do operador). Deve-se atentar
+  que possível treinamento fornecido pelo operador não libera a OM dos requisitos para assegurar
+  que seu pessoal esteja treinado para a execução de manutenção para a qual ela é certificada.
+
+  5.5.7.6 Desenvolvimento Inicial: o tratamento dos seguintes aspectos (quando aplicável)
+  permite iniciar o desenvolvimento dos procedimentos para executar manutenção para um operador:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- operador
+- treinamento
+- executar
+- incluindo
+- requisitos
+- desenvolvimento
+- informacoes
+- paragrafo
+- pessoal
+- quem
+- alteracoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

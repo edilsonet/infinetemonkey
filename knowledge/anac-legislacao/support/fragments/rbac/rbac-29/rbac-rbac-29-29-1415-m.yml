@@ -7,27 +7,32 @@ section_title: must be near an exit available during an unplanned ditching.
 subsection_id: m
 cite: 29.1415(m)
 title: 29.1415(m)
-text: '(m)
+text: 'm) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater.
 
-  The applicant may not practice, rehearse, or describe the demonstration for the participants
-  nor may any
+  (5)
 
-  participant have taken part in this type of demonstration within the preceding 6 months.'
+  From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150
+  V/m
+
+  peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency.
+  This
+
+  signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent.'
 keywords:
 - aeronavegabilidade
 - rotorcraft
-- demonstration
-- applicant
+- with
+- percent
+- cycle
+- duty
+- modulation
+- must
+- peak
+- pulse
 - available
-- describe
+- depth
 - ditching
 - during
-- exit
-- have
-- months
-- must
-- near
-- part
 categories:
 - aeronavegabilidade
 - rotorcraft

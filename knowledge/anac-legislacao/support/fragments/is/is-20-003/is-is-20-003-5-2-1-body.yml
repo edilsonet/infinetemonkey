@@ -25,82 +25,20 @@ text: '5.2.1
 
   halogenados mostram-se pelo menos 3 (três) vezes mais eficazes que os de dióxido de carbono
 
-  - CO2.
-
-  a) Halon 1301 - Bromotrifluorometano - CBrF3: na aplicação, apresenta-se na forma de
-
-  jato de gás, pois seu ponto de ebulição é de -57,8 ºC. É indicado para espaços ocupados
-
-  de aeronaves onde não existe ventilação forçada, não há disponibilidade de máscaras de
-
-  oxigênio e não há um segundo piloto. O extintor de Halon 1301 é o mais recomendado,
-
-  incluindo para a utilização em regiões extremamente frias; entretanto, a sua comerciali-
-
-  zação está restrita, embora ainda possa ser encontrado em revendedores autorizados.
-
-  b) Halon 1211 - Bromoclorodifluorometano - CBrClF2: na aplicação, apresenta-se na
-
-  forma líquida (85%), pois seu ponto de ebulição é de -3,4 ºC. É indicado para espaços
-
-  ocupados em aeronaves certificadas para até 4 (quatro) ocupantes, podendo ser utilizado
-
-  no lugar do Halon 1301; entretanto, a sua comercialização também está restrita, embora
-
-  ainda possa ser encontrado em revendedores autorizados.
-
-  c) Halotron I - mistura baseada no Diclorotrifluoretano (HCFC-123): apesar de ser um
-
-  agente extintor aprovado para substituir o Halon 1301 e 1211, sua utilização está restrita
-
-  com o Programa Brasileiro de Eliminação dos Hidroclorofluorcarbonos (HCFCs), pois
-
-  apresentam menor potencial de destruição do ozônio, mas ainda agredirem a camada de
-
-  ozônio.
-
-  d) Trifluorometano (HFC-23), Pentafluoretano (HFC-125), Hexafluoropropano
-
-  (HFC-236fa) e o Heptafluoropropano (HFC-227ea): gases fabricados como atuais
-
-  substitutos do Halon 1301, 1211 (e misturas destes) e do Halotron, com mesma eficiência
-
-  e que não afetam a camada de ozônio. Entretanto, nem todos esses gases são utilizados
-
-  para engarrafamento pelos fabricantes de extintores de incêndio.
-
-
-  Data de emissão: 8 de outubro de 2021
-
-  IS Nº 20-003
-
-  Revisão B
-
-
-  e) Halotron BrX - 2-bromo-3,3,3-trifluoropropene - 2-BTP: agente extintor de alto de-
-
-  sempenho que pode ser utilizado para substituir o Halon 1301 e 1211 (e misturas des-
-
-  tes), desde que a instalação cumpra com o regulamento de certificação de tipo da aero-
-
-  nave, com mesma eficiência e que não afeta a camada de ozônio.
-
-  Nota - os gases halogenados não podem ser utilizados para o combate ao incêndio em
-
-  materiais classe D (vide tabela da seção 5.3 desta IS).'
+  - CO2.'
 keywords:
 - halon
-- gases
-- halotron
-- ozonio
-- pois
-- camada
-- entretanto
-- extintor
+- agentes
 - halogenados
-- mesma
-- restrita
 - 227ea
+- 236fa
+- alto
+- bromoclorodifluorometano
+- bromotrifluorometano
+- capacidade
+- carbono
+- carga
+- classificacao
 categories:
 - legislacao
 language: pt

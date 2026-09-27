@@ -1,0 +1,93 @@
+id: is-is-91-001-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: '3'
+section_title: Considerações durante o voo
+subsection_id: body
+cite: '3'
+title: Considerações durante o voo
+text: '3. Considerações durante o voo
+
+  3.1 Modificação do plano de voo. Pilotos não são autorizados a executar um procedimento
+  RNP AR APCH sem que o mesmo seja ativado por meio da inserção do seu nome e esteja conforme
+  a publicação aeronáutica. A trajetória lateral não deve ser modificada, exceto se o piloto
+  aceitar uma autorização para voar direto a algum fixo localizado antes do FAF e este não
+  preceda um segmento RF. A única modificação aceitável no procedimento é alteração de restrição
+  de velocidade ou altitude em fixos na aproximação inicial, intermediária ou aproximação
+  perdida.
+
+  3.2 Lista de equipamentos necessários. Deve ser disponibilizada aos tripulantes a informação
+  para consulta em voo dos equipamentos necessários para a condução dos procedimentos RNP
+  AR APCH.
+
+  3.3 Monitoramento da Precisão. A tripulação deve assegurar-se que a precisão do sistema
+  de navegação está de acordo com a precisão requerida para o procedimento. Em casos em que
+  a carta de aproximação determina múltiplos valores de RNP a tripulação deve conferir se
+  cada segmento de aproximação está corretamente representado no banco de dados da aeronave.
+
+  Nota: caso a aeronave não possua a capacidade de atualização para diversos valores mínimos
+  de RNP durante a aproximação a tripulação deve inserir manualmente o menor valor de RNP
+  atribuído àquele procedimento (aproximação e arremetida).
+
+  3.4 Atualização do GNSS. Todo procedimento RNP AR APCH requer atualização dos cálculos de
+  posicionamento do GNSS. A tripulação deve verificar que esta atualização está disponível
+  antes de iniciar o procedimento. Caso tal atualização não esteja disponível a tripulação
+  deve abandonar o procedimento RNP AR APCH, salvo se a tripulação possuir referências visuais
+  para a continuidade da aproximação.
+
+  3.5 Atualização dos sinais provenientes dos auxílios de navegação. Todo procedimento RNP
+  AR APCH requer atualização dos cálculos de posicionamento do GNSS. Exceto quando a carta
+  de aproximação trouxer informação contrária, a atualização por meio de sinais DME/DME pode
+  ser utilizada como método alternativo de atualização quando os equipamentos de solo e embarcados
+  atendem as premissas requeridas. Atualizações por meio de sinais de VOR não são aceitas.
+
+  3.6 Confirmação dos procedimentos de aproximação. A tripulação deve conferir a seleção do
+  procedimento em uso. Este procedimento inclui a conferência da sequência dos fixos, os cursos
+  e distâncias a serem percorridos assim como eventuais restrições de altitudes ou velocidades.
+
+  3.7 Monitoramento do desvio de trajetória. Os pilotos devem utilizar indicador de desvio
+  lateral, FD e/ou AP durante a execução de procedimentos RNP AR APCH. Os pilotos devem assegurar
+  que a escala e a deflexão do indicador estão compatíveis com a precisão associada a todos
+  os segmentos do procedimento.
+
+  Nota 1: é esperado que os pilotos mantenham o centro da trajetória durante todos os segmentos
+  de procedimentos RNP, salvo se autorizados desvios pelo órgão ATC ou em situações de emergência.
+  Durante operações normais, o desvio lateral deve ser limitado à metade do valor de RNP associado
+  ao procedimento ou parte dele (RNP x ½). Pequenas extrapolações a esses limites são toleráveis
+  durante ou imediatamente após a execução de um segmento em curva (overshooting ou undershooting),
+  limitado a uma vez o valor de RNP requerido para o procedimento (RNP x 1).
+
+  Nota 2: o desvio de trajetória vertical deve ser limitado a 75 pés durante o segmento de
+  aproximação final. Os desvios laterais devem ser monitorados acima ou abaixo da rampa. O
+  fato de a aeronave voar acima da rampa provê um incremento na margem de segurança em relação
+  aos obstáculos, porém pode resultar em um início de aproximação perdida mais próximo à pista,
+  o que pode reduzir significativamente a margem de segurança referente a obstáculos no solo
+  durante o segmento de aproximação perdida.
+
+  3.8 Os tripulantes devem iniciar o procedimento de aproximação perdida sempre que o desvio
+  lateral exceder RNP x 1 ou o desvio vertical exceder 75 pés, salvo se existir referência
+  visual requerida para a continuidade da aproximação.
+
+  3.9 O operador deve garantir a efetividade da informação de desvios laterais nas seguintes
+  condições:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aproximacao
+- procedimento
+- durante
+- atualizacao
+- tripulacao
+- apch
+- desvio
+- segmento
+- lateral
+- perdida
+- pilotos
+- precisao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

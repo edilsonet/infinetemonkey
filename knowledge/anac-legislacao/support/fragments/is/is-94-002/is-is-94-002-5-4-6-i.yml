@@ -1,0 +1,30 @@
+id: is-is-94-002-5-4-6-i
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.6
+section_title: Informações e alertas relevantes para operações BVLOS ou acima de 400 pés AGL
+  -
+subsection_id: i
+cite: 5.4.6(i)
+title: 5.4.6(i)
+text: 'i) Indicação da qualidade do enlace de comando e controle (ex: intensidade do sinal,
+
+  taxa de erro de bit - BER, etc.);'
+keywords:
+- acima
+- alertas
+- bvlos
+- comando
+- controle
+- enlace
+- erro
+- indicacao
+- informacoes
+- intensidade
+- operacoes
+- qualidade
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

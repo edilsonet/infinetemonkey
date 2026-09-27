@@ -1,0 +1,96 @@
+id: is-is-43-13-004-apendice-d-modelo-de-relatorio-de-reparos-body
+kind: is
+document: is-43-13-004
+family: '43'
+section_id: apendice-d-modelo-de-relatorio-de-reparos
+section_title: APÊNDICE D - Modelo de Relatório de Reparos
+subsection_id: body
+cite: apendice-d-modelo-de-relatorio-de-reparos
+title: APÊNDICE D - Modelo de Relatório de Reparos
+text: 'APÊNDICE D - Modelo de Relatório de Reparos
+
+  Modelo de Relatório de Reparos: Operadores RBAC 91, RBAC 137 e RBAC 135 (Não TPR)
+
+  IDENTIFICAÇÃO
+
+  DA EMPRESA
+
+  (Logotipo)
+
+  (Nome da organização de manutenção)
+
+  (Número do certificado)
+
+  (Endereço, etc.)
+
+  AERONAVE
+
+  Fabricante: Modelo/Tipo:
+
+  Nº de Série:
+
+  Matrícula:
+
+  PROPRIETÁRIO / OPERADOR: Endereço:
+
+  Horas Totais: Ciclos Totais :
+
+  ACIDENTE Local: Data:
+
+  RELATÓRIO DE REPAROS
+
+  Aeronave: CESSNA - Modelo 182M
+
+  Nº de Série : 18260000
+
+  Matrícula : PP-CEU
+
+  Acidente: Garimpo do Morro Coberto
+
+  Município de Ouro Verde - GO
+
+  Data : 28 Fev 2008
+
+  Motor: Continental 0-470-R
+
+  Nº de Série : 10.000
+
+  Hélice: Mc Cauley 2A34C66/90AT-8 (passo fixo)
+
+  Nº de Série : 110.820
+
+  1Data de emissão: 16/10/2020
+
+  IS nº 43.13-004
+
+  Revisão C
+
+  RELATÓRIO DOS SERVIÇOS EXECUTADOS NA AERONAVE CESSNA 182M,
+
+  Nº DE SÉRIE 18260000, MATRÍCULA PP-CEU
+
+  A aeronave acima descrita foi reparada seguindo o previsto nos manuais de
+
+  serviços da “CESSNA” para modelos 182, manual de revisão da CONTINENTAL para motores 0-
+
+  470 e manual de revisão de hélices Mc Cauley.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- modelo
+- relatorio
+- reparos
+- serie
+- aeronave
+- apendice
+- cessna
+- matricula
+- revisao
+- 182m
+- acidente
+- cauley
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-13-004.md

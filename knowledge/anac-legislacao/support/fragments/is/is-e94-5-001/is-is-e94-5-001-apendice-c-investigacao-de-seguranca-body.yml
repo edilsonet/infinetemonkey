@@ -1,0 +1,49 @@
+id: is-is-e94-5-001-apendice-c-investigacao-de-seguranca-body
+kind: is
+document: is-e94-5-001
+family: '94'
+section_id: apendice-c-investigacao-de-seguranca
+section_title: APÊNDICE c - INVESTIGAÇÃO DE SEGURANÇA
+subsection_id: body
+cite: apendice-c-investigacao-de-seguranca
+title: APÊNDICE c - INVESTIGAÇÃO DE SEGURANÇA
+text: 'APÊNDICE c - INVESTIGAÇÃO DE SEGURANÇA
+
+  C.1 - A investigação técnica deve ser feita e assinado por um engenheiro com qualificação
+  e atribuição adequada no CREA que pode ser também o responsável técnico pela autorização
+  do produto junto à ANAC.
+
+  C.2 - A investigação técnica deve demonstrar um nível de risco solo menor ou igual a 2 (dois)
+  de acordo com a metodologia SORA publicada pela JARUS e EASA.
+
+  C.2.1 - A RPA deve possuir uma energia cinética menor que 34 kJ.
+
+  NOTA 1 - A demonstração de energia cinética não é requerida caso a RPA possua peso máximo
+  de decolagem menor que 115 kg e uma velocidade operacional máxima menor que 24 m/s.
+
+  NOTA 2 - A energia cinética calculada deverá considerar apenas a altura máxima do solo.
+  As operações realizadas até 5 metros acima do dossel das árvores não precisam ser consideradas
+  para efeito dessa demonstração.
+
+  C.3 - Não pode haver falha simples não-mitigada de sistema que possa resultar na saída do
+  volume de voo autorizado (fly-away).
+
+  C.3.1 - Falha simples de sistema que poderia resultar em fly-away deve ser mitigada por
+  meio de:'
+keywords:
+- investigacao
+- menor
+- apendice
+- cinetica
+- energia
+- seguranca
+- away
+- demonstracao
+- falha
+- maxima
+- mitigada
+- nota
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-5-001.md

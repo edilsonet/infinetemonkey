@@ -1,0 +1,44 @@
+id: is-is-135-008a-5-5-3-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.5.3
+section_title: Vocabulário
+subsection_id: body
+cite: 5.5.3
+title: Vocabulário
+text: '5.5.3 Vocabulário
+
+  5.5.3.1 Use palavras de forma consistente. O uso da palavra deve ser simples e consistente
+  ao longo dos SOP. Se possível, evite criar novos termos. Utilize palavras em seu sentido
+  usual, a menos que elas tenham um significado amplamente aceito na indústria da aviação.
+  Faça correspondências às nomenclaturas utilizadas na cabine de pilotagem.
+
+  5.5.3.2 Evite usar palavras com múltiplos significados. Evite usar palavras com múltiplos
+  significados (por exemplo, use "correto" em vez de "direito"). Evite utilizar palavras que
+  possam trazer ambiguidade.
+
+  5.5.3.3 Cuidado ao usar abreviações. Use somente abreviaturas e siglas que são definidas
+  e comumente utilizadas na indústria (por exemplo: GPS, VREF, ATC) e evite criar novas abreviaturas
+  sempre que possível. Apenas abreviaturas e siglas que sejam bastante claras no ambiente
+  operacional devem ser utilizadas.'
+keywords:
+- taxi-aereo
+- operacoes
+- evite
+- palavras
+- abreviaturas
+- usar
+- utilizadas
+- vocabulario
+- consistente
+- criar
+- exemplo
+- industria
+- multiplos
+- possivel
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

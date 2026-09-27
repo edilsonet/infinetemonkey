@@ -1,0 +1,135 @@
+id: iac-iac-001-1001a-anexo-3-portaria-formatada-para-publicacao-no-d-o-u-exemplo-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: anexo-3-portaria-formatada-para-publicacao-no-d-o-u-exemplo
+section_title: ANEXO 3 - PORTARIA FORMATADA PARA PUBLICAÇÃO NO D.O.U. - EXEMPLO
+subsection_id: body
+cite: anexo-3-portaria-formatada-para-publicacao-no-d-o-u-exemplo
+title: ANEXO 3 - PORTARIA FORMATADA PARA PUBLICAÇÃO NO D.O.U. - EXEMPLO
+text: 'ANEXO 3 - PORTARIA FORMATADA PARA PUBLICAÇÃO NO D.O.U. - EXEMPLO
+
+  MINISTÉRIO DA DEFESA
+
+  COMANDO DA AERONÁUTICA
+
+  DEPARTAMENTO DE AVIAÇÃO CIVIL
+
+  PORTARIA DAC No ......./DGAC, de XX DE XXX DE
+
+  XXXX.
+
+  Aprova a Instrução de Aviação Civil que dispõe
+
+  sobre .........
+
+  O DIRETOR GERAL DO DEPARTAMENTO
+
+  DE AVIAÇÃO CIVIL, com base no Decreto No 000, de ...,
+
+  que ... e tendo em vista o disposto na Portaria No 00-5, de
+
+  ..., que, resolve:
+
+  Art. 1o Seja efetivada a IAC abaixo
+
+  discriminada:
+
+  Título: ............................
+
+  Art. 2o Esta Portaria entra em vigor, 00 dias
+
+  após a data de sua publicação no......
+
+  Art. 3o Revogam-se a IAC 0000-000 de ....... e a
+
+  respectiva Portaria No XX/DGAC, de XX de XXXXX de
+
+  XXXX, publicada no ................, de XX de XXXXXXXX
+
+  de XXXX.
+
+  Maj. Brig.-do-Ar NOME
+
+  Diretor-Geral2005 IAC 001-1001A
+
+  A-3-1
+
+  ANEXO 3 - PORTARIA FORMATADA PARA PUBLICAÇÃO NO D.O.U -
+
+  INSTRUÇÃO DE ELABORAÇÃO
+
+  PADRÕES TÉCNICOS DE ELABORAÇÃO DE PORTARIAS PARA PUBLICAÇÃO NO DOU
+
+  - As matérias deverão ser geradas em editor de texto Microsoft Word e salvas em formato
+
+  RTF (Rich Text Format).
+
+  CONFIGURAÇÃO:
+
+  No menu Arquivo, opção Configurar página, guia Margens, configurar da seguinte forma:
+
+  - I - margem superior: 1 (um) centímetro;
+
+  - II - margem inferior: 0 (zero) centímetro;
+
+  - III - margem esquerda: 1 (um) centímetro;
+
+  - IV - margem direita: 0 (zero) centímetro;
+
+  - V - medianiz: 0 (zero) centímetro;
+
+  - VI - cabeçalho: 0 (zero) centímetro;
+
+  - VII - rodapé: 0 (zero) centímetro;
+
+  Na guia Tamanho do Papel, selecionar:
+
+  I - tamanho do papel: tamanho personalizado;
+
+  II - largura de página: 9 (nove) centímetros; e,
+
+  III - teclar em OK.
+
+  FORMATAÇÃO:
+
+  No menu Formatar, na opção Parágrafo, configurar:
+
+  I - alinhamento: justificado;
+
+  II - recuo: esquerda 0 cm
+
+  direito: 0 cm
+
+  III - primeira linha do parágrafo: recuo de 1 (um) centímetro;
+
+  IV - ementa: alinhada à direita, com recuo de 2 (dois) centímetros;
+
+  V - entrelinhas: simples;
+
+  VI - teclar em OK, para confirmar as configurações;
+
+  Marcar todo o texto (utilizando as teclas CTRL+T), e no menu Fontes, selecionar:
+
+  I - fonte: Times New Roman; e,
+
+  II - tamanho: 8.2005 IAC 001-1001A
+
+  A-4'
+keywords:
+- centimetro
+- portaria
+- publicacao
+- zero
+- anexo
+- formatada
+- margem
+- tamanho
+- aviacao
+- civil
+- configurar
+- exemplo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

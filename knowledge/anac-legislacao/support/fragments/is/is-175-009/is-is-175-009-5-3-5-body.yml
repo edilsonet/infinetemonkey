@@ -1,0 +1,32 @@
+id: is-is-175-009-5-3-5-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.5
+section_title: O campo “Data do voo” deve ser preenchido com o dia da decolagem da aeronave
+  no
+subsection_id: body
+cite: 5.3.5
+title: O campo “Data do voo” deve ser preenchido com o dia da decolagem da aeronave no
+text: '5.3.5 O campo “Data do voo” deve ser preenchido com o dia da decolagem da aeronave
+  no
+
+  aeródromo de origem, considerando hora local.'
+keywords:
+- artigos-perigosos
+- carga
+- aeronave
+- campo
+- data
+- decolagem
+- preenchido
+- aerodromo
+- considerando
+- hora
+- local
+- origem
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

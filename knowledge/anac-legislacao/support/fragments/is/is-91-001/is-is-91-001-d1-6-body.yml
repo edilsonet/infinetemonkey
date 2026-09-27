@@ -1,0 +1,47 @@
+id: is-is-91-001-d1-6-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: D1.6
+section_title: Por conta dos sensores que podem utilizados garantindo a precisão necessária
+  para operações RNAV 5, uma base de dados de navegação não faz parte das funcionalidades
+  mandatórias, o que pode demandar a inserção manual de waypoints e consecutivamente acarretar
+  um aumento da carga de trabalho da tripulação e a possibilidade de inserção de dados errôneos.
+  Tais limitações, associadas ao desvio lateral de cinco milhas náuticas permitido para as
+  operações RNAV 5 fazem com a estas operações sejam restritas à fase de voo em rota.
+subsection_id: body
+cite: D1.6
+title: Por conta dos sensores que podem utilizados garantindo a precisão necessária para operações
+  RNAV 5, uma base de dados de navegação não faz parte das funcionalidades mandatórias, o
+  que pode demandar a inserção manual de waypoints e consecutivamente acarretar um aumento
+  da carga de trabalho da tripulação e a possibilidade de inserção de dados errôneos. Tais
+  limitações, associadas ao desvio lateral de cinco milhas náuticas permitido para as operações
+  RNAV 5 fazem com a estas operações sejam restritas à fase de voo em rota.
+text: 'D1.6 Por conta dos sensores que podem utilizados garantindo a precisão necessária para
+  operações RNAV 5, uma base de dados de navegação não faz parte das funcionalidades mandatórias,
+  o que pode demandar a inserção manual de waypoints e consecutivamente acarretar um aumento
+  da carga de trabalho da tripulação e a possibilidade de inserção de dados errôneos. Tais
+  limitações, associadas ao desvio lateral de cinco milhas náuticas permitido para as operações
+  RNAV 5 fazem com a estas operações sejam restritas à fase de voo em rota.
+
+  D2. RNAV 5 - PROCEDIMENTOS OPERACIONAIS'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- rnav
+- dados
+- insercao
+- acarretar
+- associadas
+- aumento
+- base
+- carga
+- cinco
+- consecutivamente
+- conta
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

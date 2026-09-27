@@ -1,0 +1,50 @@
+id: is-is-91-003b-introducao-e
+kind: is
+document: is-91-003b
+family: '91'
+section_id: introducao
+section_title: INTRODUÇÃO
+subsection_id: e
+cite: introducao(e)
+title: introducao(e)
+text: 'e) se uma falha ou anormalidade na recepção de sinais de navegação não introduz risco
+  significante;
+
+  16.6 Quando as operações LVTO estiverem associadas a um procedimento RNP, as disposições
+  associadas ao RNP começam a ser aplicadas após a decolagem quando a aeronave cruzar 35 pés
+  de altura.
+
+  16.7 Para as operações com RVR abaixo de 400 metros, o aeródromo deverá possuir procedimentos
+  de operação em baixa visibilidade, detalhados em Carta de Acordo Operacional, a serem adotados
+  na operação do aeroporto pelas áreas de controle de tráfego aéreo, gerenciamento do pátio,
+  controle de veículos, controle de acesso, manutenção, serviço de emergência e contra incêndio
+  e serviço de veículo siga-me (follow me).
+
+  16.8 O operador deve certificar-se que as informações relevantes às operações devem ser
+  de conhecimento de todos os setores envolvidos nas operações, incluindo tripulantes, despacho
+  operacional e manutenção.
+
+  16.9 Em conformidade com o RBAC 154, uma barra de parada deve ser instalada em todas as
+  posições de espera da pista, que servirem a uma pista de pouso e decolagem, quando esta
+  for destinada ao uso em condições de alcance visual de pista menores que 350 metros, salvo
+  quando:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- controle
+- pista
+- associadas
+- decolagem
+- introducao
+- manutencao
+- metros
+- operacao
+- operacional
+- servico
+- abaixo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-003b.md

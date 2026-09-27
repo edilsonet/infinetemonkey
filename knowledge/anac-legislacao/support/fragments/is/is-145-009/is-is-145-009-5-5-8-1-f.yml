@@ -1,0 +1,71 @@
+id: is-is-145-009-5-5-8-1-f
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.8.1
+section_title: 'Referências: RBAC nº 145, parágrafos 145.209(h); 145.211(c); e seção 145.217.'
+subsection_id: f
+cite: 5.5.8.1(f)
+title: 5.5.8.1(f)
+text: 'f) Prover um procedimento que confirme por inspeção ou teste, que o trabalho foi executado
+  satisfatoriamente, de acordo com a seção 145.217 do RBAC nº 145. Por este procedimento deve
+  ser possível determinar as etapas exatas executadas e as inspeções e testes executados.
+
+  NOTA 1: A compra de partes mantidas por outras OMs (incluindo serviços classificados “a
+  base de troca”, ou como pool), de intermediários, ou “em uso” de outra OM, não são “funções
+  de manutenção” que necessitariam prévia aceitação pela ANAC. Esses são casos em que a OM
+  compradora não está exercendo prerrogativas do seu certificado. Quando uma OM vende um artigo
+  previamente mantido (incluindo produtos com certificado de tipo), ela está agindo somente
+  como um distribuidor. Embora a OM compradora possa conduzir o artigo com um Formulário ANAC
+  F-100-01 através do seu processo de inspeção de recebimento, ela está meramente confiando
+  no trabalho previamente executado por outra OM, e não exercendo a prerrogativa sob o parágrafo
+  145.201(a)(2) do RBAC nº 145.
+
+  NOTA 2: Quando para uma determinada função de manutenção a pessoa contratada é autorizada
+  pela seção 43.3 do RBAC nº 43 a executar essa manutenção e providencia o retorno ao serviço
+  do artigo de acordo com as seções 43.7 e 43.9 do RBAC nº 43, essa não é considerada uma
+  função de manutenção subcontratada, logo não requer a aceitação da ANAC.
+
+  NOTA 3: Serviços Especializados - no geral, não são aceitas funções de manutenção subcontratadas
+  para uma OM certificada sob a categoria Serviços Especializados, visto que os serviços autorizados
+  sob essa categoria requerem tipicamente a utilização de dados aprovados pela ANAC, bem como
+  instalações, equipamentos, treinamentos e habilidades muito específicos, que não estão comumente
+  disponíveis.
+
+  5.5.8.3 Revisão das informações da manutenção subcontratada (Seção 145.217 do RBAC nº 145):
+  o MOM deve conter procedimentos para manter e revisar, no formato recomendado pela ANAC,
+  a informação da manutenção subcontratada, requerida pela seção 145.217 do RBAC nº 145. Essa
+  informação é requerida para subcontratação de OM certificadas ou por pessoas não certificadas
+  pela ANAC. A informação requerida inclui a função de manutenção aprovada a ser subcontratada,
+  o nome de cada OM ou pessoa fornecedora externa com a qual a OM subcontrata tal manutenção,
+  e o tipo de certificação da fornecedora (se existente). O MCQ deve descrever o sistema e
+  os procedimentos usados para qualificar tanto as pessoas certificadas como as não certificadas
+  pela ANAC, que executem manutenção, manutenção preventiva ou alterações para a OM. Esses
+  procedimentos podem estar contidos em um manual ou em documento separado que é parte do
+  conjunto de manuais.
+
+  5.5.8.4 Funções de manutenção subcontratadas e considerações especiais sobre equipamentos/ferramentas/materiais:
+  uma OM deve ter equipamento/ferramentas/materiais necessários para que a organização execute
+  as funções de manutenção apropriadas à sua certificação. Entretanto, ela não precisa possuir
+  os equipamentos/ferramentas para as funções para as quais ela pode subcontratar. Os tipos
+  de funções de manutenção que uma OM pode desejar ter aprovadas junto à ANAC recaem em duas
+  categorias:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- funcoes
+- secao
+- certificadas
+- servicos
+- subcontratada
+- artigo
+- equipamentos
+- ferramentas
+- funcao
+- informacao
+- nota
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

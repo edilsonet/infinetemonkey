@@ -1,0 +1,40 @@
+id: is-is-91-409-001-definicoes-body
+kind: is
+document: is-91-409-001
+family: '91'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Esta IS utiliza os termos cujas definições podem ser encontradas na IS nº145.109-001 - Publicações
+  Técnicas: obtenção e controle pelas organizações de manutenção de produto aeronáutico e
+  RBAC nº145 - Organizações de manutenção de produto aeronáutico.
+
+  TBO - Time Between Overhaul (Tempo entre revisões gerais). Os fabricantes estabelecem os
+  tempos em operação entre as revisões gerais (ou os intervalos entre as revisões gerais).
+  Esses intervalos são estimados em número de horas, ciclos ou eventos que um produto ou artigo
+  aeronáutico pode operar de forma segura e confiável sem exceder os limites de desgaste do
+  produto em serviço.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- definicoes
+- produto
+- aeronautico
+- gerais
+- revisoes
+- intervalos
+- manutencao
+- no145
+- organizacoes
+- artigo
+- between
+- ciclos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-001.md

@@ -1,0 +1,39 @@
+id: rbac-rbac-63-aprovacao-body
+kind: rbac
+document: rbac-63
+family: '63'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 706, de 28.02.2023
+
+  -
+
+  Superintendência de Pessoal da Aviação Civil - SPL
+
+  Data de emissão:
+
+  02.03.2023
+
+  01.01.2024'
+keywords:
+- licencas
+- tripulacao
+- pessoal
+- aprovacao
+- aviacao
+- civil
+- data
+- emissao
+- resolucao
+- superintendencia
+categories:
+- licencas
+- tripulacao
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-63.md

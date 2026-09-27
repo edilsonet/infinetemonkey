@@ -1,0 +1,77 @@
+id: is-is-175-007-6-d
+kind: is
+document: is-175-007
+family: '175'
+section_id: '6'
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: d
+cite: 6(d)
+title: 6(d)
+text: 'd) operador postal designado.
+
+  6.3.3. O PTAP das demais entidades não mencionadas em 6.3.2, apesar de obrigatório, não
+  deve ser submetido à análise e aprovação da ANAC, exceto quando solicitado.
+
+  Nota: exemplos de entidades cujo PTAP é obrigatório mas não necessita de aprovação da ANAC
+  são encontrados no item A4.1.2-I da IS nº 175-001.
+
+  6.3.4. O PTAP possui como objetivo garantir que os funcionários dos empregadores, incluindo
+  aqueles que atuam em seu nome, são competentes para desempenhar cada função pelas quais
+  são responsáveis, por meio de treinamento e avaliação compatíveis com essas funções.
+
+  6.3.5. O PTAP de operadores aéreos deverá ser mantido fora de seu programa de treinamento
+  operacional (PTO), sendo este um manual distinto. Isso ocorre pois o PTAP apresenta funções
+  diferentes daquelas tratadas pelo PTO.
+
+  6.3.6. O operador aéreo deve referenciar o PTAP em seu PTO, sempre que aplicável. Além disso,
+  deve manter a consonância de informações entre os dois programas, sempre que houver atualização
+  de um deles.
+
+  6.3.7. O PTAP deve estar de acordo com todos os critérios definidos pela IS nº 175-002.
+
+  6.3.8. O treinamento e avaliação de artigos perigosos baseados em competências deverão refletir
+  a realidade do empregador e das tarefas e subtarefas de artigos perigosos desempenhadas
+  por seus funcionários. Portanto, um PTAP aplicado a um determinado empregador dificilmente
+  poderá ser aplicado a outro operador. Ademais, um PTAP genérico dificilmente poderá ser
+  implementado em consonância com o RBAC nº 175 e suas IS relacionadas.
+
+  6.3.9. O PTAP corresponde, em parte, ao que deve ser realizado ao longo do Fluxo de Trabalho
+  2 do modelo ADDIE, principalmente no que se refere aos itens B3.3.2, B3.3.3 e B3.3.4 da
+  IS nº 175-002.
+
+  6.3.10. O PTAP deve descrever o treinamento e avaliação de toda e qualquer pessoa que esteja
+  envolvida com uma ou mais responsabilidades do expedidor descritas no Apêndice E da IS nº
+  175-001 e/ou com uma ou mais responsabilidades do operador aéreo descritas no Apêndice G
+  da IS nº 175-001.
+
+  6.3.11. A estrutura mínima de um PTAP deve seguir aquela determinada pelo Apêndice A desta
+  IS.
+
+  6.3.12. Nos casos em que é necessário submeter o PTAP para aprovação da ANAC, conforme descrito
+  em 6.3.2, o Apêndice A deve ser encaminhado, conforme instruções detalhadas nos itens 6.4
+  e 6.5, junto com a documentação a ser aprovada.
+
+  6.3.12.1. O PTAP deve conter estritamente as políticas específicas para o treinamento de
+  artigos perigosos.
+
+  6.3.12.2. Não será aprovado pela ANAC o PTAP que contiver:'
+keywords:
+- artigos-perigosos
+- carga
+- ptap
+- treinamento
+- apendice
+- operador
+- aprovacao
+- artigos
+- avaliacao
+- perigosos
+- aereo
+- aplicado
+- consonancia
+- descritas
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-007.md

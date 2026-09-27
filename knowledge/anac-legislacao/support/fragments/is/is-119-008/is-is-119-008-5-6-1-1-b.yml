@@ -1,0 +1,40 @@
+id: is-is-119-008-5-6-1-1-b
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.6.1.1
+section_title: 'O operador aéreo deve garantir que o seu programa inclua:'
+subsection_id: b
+cite: 5.6.1.1(b)
+title: 5.6.1.1(b)
+text: 'b) estação para processamento, análise e reprodução de dados que permita:
+
+  I - converter os dados brutos de voo das aeronaves (raw data) em informações úteis para
+  a análise de dados;
+
+  II - gerenciar a de-identificação dos dados e controlar os níveis de acesso; e
+
+  III - processar os registros eletrônicos para a realização das atividades relacionadas à
+  detecção de eventos operacionais, confecção de estudos e análise estatística, medição de
+  dados de qualidade, investigação de eventos de segurança operacional e análise de itens
+  relacionados à aeronavegabilidade continuada, quando disponíveis;'
+keywords:
+- certificacao-de-operador
+- operacoes
+- dados
+- analise
+- eventos
+- acesso
+- aereo
+- aeronavegabilidade
+- aeronaves
+- atividades
+- brutos
+- confeccao
+- continuada
+- controlar
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

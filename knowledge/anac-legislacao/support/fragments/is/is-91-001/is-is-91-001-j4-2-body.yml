@@ -1,0 +1,54 @@
+id: is-is-91-001-j4-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J4.2
+section_title: Devido às características descritas no item anterior, os procedimentos baro-VNAV
+  são publicados contendo valores de temperatura limite, e essas limitações de temperatura
+  são apresentadas mediante uma nota na carta do procedimento de aproximação. Dessa forma,
+  ao executar um procedimento, os pilotos devem atentar para situações em que a temperatura
+  se apresente abaixo ou acima dos limites estabelecidos pela carta, pois em tais condições,
+  a utilização da altitude/altura de decisão de navegação vertical (VNAV DA/H) não é autorizada.
+  Para aeronaves equipadas com sistemas de compensação de temperatura, a tripulação técnica
+  deverá seguir os procedimentos operacionais elaborados pelo operador com base nas instruções
+  providas pelo fabricante do equipamento.
+subsection_id: body
+cite: J4.2
+title: Devido às características descritas no item anterior, os procedimentos baro-VNAV são
+  publicados contendo valores de temperatura limite, e essas limitações de temperatura são
+  apresentadas mediante uma nota na carta do procedimento de aproximação. Dessa forma, ao
+  executar um procedimento, os pilotos devem atentar para situações em que a temperatura se
+  apresente abaixo ou acima dos limites estabelecidos pela carta, pois em tais condições,
+  a utilização da altitude/altura de decisão de navegação vertical (VNAV DA/H) não é autorizada.
+  Para aeronaves equipadas com sistemas de compensação de temperatura, a tripulação técnica
+  deverá seguir os procedimentos operacionais elaborados pelo operador com base nas instruções
+  providas pelo fabricante do equipamento.
+text: J4.2 Devido às características descritas no item anterior, os procedimentos baro-VNAV
+  são publicados contendo valores de temperatura limite, e essas limitações de temperatura
+  são apresentadas mediante uma nota na carta do procedimento de aproximação. Dessa forma,
+  ao executar um procedimento, os pilotos devem atentar para situações em que a temperatura
+  se apresente abaixo ou acima dos limites estabelecidos pela carta, pois em tais condições,
+  a utilização da altitude/altura de decisão de navegação vertical (VNAV DA/H) não é autorizada.
+  Para aeronaves equipadas com sistemas de compensação de temperatura, a tripulação técnica
+  deverá seguir os procedimentos operacionais elaborados pelo operador com base nas instruções
+  providas pelo fabricante do equipamento.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- temperatura
+- carta
+- procedimento
+- procedimentos
+- vnav
+- abaixo
+- acima
+- aeronaves
+- altitude
+- altura
+- anterior
+- apresentadas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

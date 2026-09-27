@@ -1,0 +1,43 @@
+id: is-is-121-017-5-3-2-d
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.3.2
+section_title: 'Para o uso de métodos numéricos, o detentor de certificado deve avaliar a
+  confiabilidade do método. Para tanto:'
+subsection_id: d
+cite: 5.3.2(d)
+title: 5.3.2(d)
+text: 'd) caso as margens de segurança previstas nesta IS não garantam nível de segurança
+  equivalente à referência, o detentor de certificado deve estabelecer margens adicionais,
+  de forma que esse nível seja alcançado. Essas margens de segurança adicionais devem ser
+  aplicadas a todos os usos desse método numérico, a menos que possa ser identificado claramente
+  qual situação particular exige tais margens.
+
+  5.3.3 O detentor de certificado deve revisar essa avaliação quando pretender utilizar métodos
+  numéricos para novos aeródromos, de forma a incluir os dois aeródromos mais próximos - exceto
+  se esses aeródromos já constavam anteriormente na avaliação.
+
+  5.3.4 O detentor de certificado deve realizar essa avaliação periodicamente, com frequência
+  mínima anual, considerando diferentes períodos do ano e os aeródromos para os quais se utilizem
+  métodos numéricos.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromos
+- certificado
+- detentor
+- margens
+- avaliacao
+- metodos
+- numericos
+- seguranca
+- adicionais
+- forma
+- metodo
+- nivel
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

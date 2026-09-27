@@ -8,7 +8,7 @@ categories:
 - aeronavegabilidade
 - rotorcraft
 page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-27
-pdf_url: ''
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-27/@@display-file/anexo_norma/Anexo%2014%20CFR%20Part%2027%20Amdt.%2050.pdf
 archive_url: https://arquivo.pt/wayback/20230317200744id_/https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-27/@@display-file/anexo_norma/Anexo%2014%20CFR%20Part%2027%20Amdt.%2050.pdf
 language: en
 foreign_annex: true
@@ -23,7 +23,7 @@ sections:
 - C27.1
 - C27.2
 - preambulo
-fragment_count: 62
+fragment_count: 63
 fragment_ids:
 - rbac-rbac-27-preambulo-body
 - rbac-rbac-27-preambulo-a
@@ -85,6 +85,7 @@ fragment_ids:
 - rbac-rbac-27-c27-2-b
 - rbac-rbac-27-c27-2-c
 - rbac-rbac-27-c27-2-d
+- rbac-rbac-27-c27-2-m
 - rbac-rbac-27-c27-2-e
 - rbac-rbac-27-c27-2-f
-parser_version: 6
+parser_version: 7

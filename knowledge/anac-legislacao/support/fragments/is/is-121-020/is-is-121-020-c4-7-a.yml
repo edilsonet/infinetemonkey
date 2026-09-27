@@ -1,0 +1,33 @@
+id: is-is-121-020-c4-7-a
+kind: is
+document: is-121-020
+family: '121'
+section_id: C4.7
+section_title: Modelagem do aeródromo no simulador de voo
+subsection_id: a
+cite: C4.7(a)
+title: C4.7(a)
+text: a) para simuladores qualificados pela ANAC, por meio do certificado de qualificação
+  do simulador, que deve conter esse aeródromo como avaliado na qualificação. Nesse caso,
+  com a identificação do simulador de voo no PTO a ANAC irá verificar internamente se o mesmo
+  possui o aeródromo no certificado de qualificação;
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- qualificacao
+- simulador
+- certificado
+- avaliado
+- caso
+- conter
+- identificacao
+- internamente
+- meio
+- mesmo
+- modelagem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

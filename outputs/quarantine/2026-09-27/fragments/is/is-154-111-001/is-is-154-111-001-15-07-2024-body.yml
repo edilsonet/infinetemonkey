@@ -1,0 +1,326 @@
+id: is-is-154-111-001-15-07-2024-body
+kind: is
+document: is-154-111-001
+family: '154'
+section_id: 15.07.2024
+section_title: 15.07.2024
+subsection_id: body
+cite: 15.07.2024
+title: 15.07.2024
+text: '15.07.2024
+
+
+  OBJETIVO
+
+  Esta Instrução Suplementar - IS orienta quanto ao método ACR-PCR, utilizado para estabelecer
+  a resistência de pavimentos destinados a aeronaves de mais de 5.700 kg, referido na Seção
+  154.111 do Regulamento Brasileiro de Aviação Civil - RBAC nº 154.
+
+  REVOGAÇÃO
+
+  Esta Instrução Suplementar revoga a Instrução Suplementar nº 153.103-001 - Revisão A.
+
+  FUNDAMENTOS
+
+  Regulamento Brasileiro da Aviação Civil nº 153 (RBAC nº 153): Aeródromos - operações, manutenção
+  e resposta à emergência.
+
+  Regulamento Brasileiro da Aviação Civil nº 154 (RBAC nº 154): Projeto de Aeródromos.
+
+  Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes.
+
+  TERMOS E DEFINIÇÕES
+
+  Para efeito desta IS aplicam-se os termos e as definições estabelecidos nos RBACs nºs 153,
+  154 e demais normas relacionadas à matéria, bem como as seguintes:
+
+  ACR: Índice de Classificação de Aeronave.
+
+  CDF: Cumulative Damage Factor ou dano acumulado, significa a porção da vida útil estimada
+  para o pavimento que foi consumida por meio do processo de fadiga decorrente dos repetidos
+  esforços impostos à estrutura.
+
+  PCR: Índice de Classificação de Pavimento.
+
+  ESTRUTURA DO DOCUMENTO
+
+  Esta IS está estruturada da seguinte forma:
+
+  Os itens que detalham o cumprimento de requisito trazem, no início do parágrafo, a notação
+  “FC” (Forma de Cumprimento), seguida do parágrafo do RBAC a que correspondem. Sua observância
+  é obrigatória, mas pode o administrado submeter à aprovação da Superintendência de Infraestrutura
+  Aeroportuária (SIA) - previamente à sua adoção - meio ou procedimento alternativo, na forma
+  prevista na Resolução ANAC nº 30, artigo 14, § 1º e 2º;
+
+  Sempre que um item for classificado como “FC” (Forma de Cumprimento), todos os seus subitens,
+  exceto aqueles que tratarem expressamente de uma recomendação, fazem parte do conjunto de
+  informações que compõem a forma de cumprimento;
+
+  Os itens que se iniciam com a notação “Recomendação”, apesar de não trazerem comando obrigatório,
+  representam as práticas que a ANAC entende como desejáveis para o aumento da segurança e
+  da eficiência das operações, merecendo os melhores esforços dos administrados para sua consecução;
+
+  Sempre que um item for classificado como “Recomendação”, todos os seus subitens fazem parte
+  do conjunto de informações que compõem a recomendação;
+
+  Os demais itens trazem orientações e esclarecimentos - algumas vezes com exemplos - para
+  o melhor entendimento do conteúdo do RBAC e desta IS.
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  Generalidades
+
+  O método ACR-PCR é aplicável em pavimentos destinados a pouso e decolagem de aeronaves com
+  peso de rampa superior a 5.700 kg.
+
+  A resistência de pavimentos destinados a aeronaves com peso de rampa igual ou inferior a
+  5.700 kg deve ser definida por meio do peso máximo permitido da aeronave e da pressão máxima
+  permitida dos pneus.
+
+  Considera-se Índice de Classificação de Aeronave - ACR o número que expressa o efeito relativo
+  de uma aeronave sobre um pavimento para uma categoria padrão de subleito especificada.
+
+  O ACR varia de acordo com o peso e a configuração da aeronave (tipo de trem-de-pouso, pressão
+  de pneu, entre outros), o tipo de pavimento e a resistência do subleito.
+
+  Considera-se Índice de Classificação de Pavimento - PCR o número que expressa a capacidade
+  de suporte de um pavimento.
+
+  O método ACR-PCR tem por finalidade a aferição da resistência do pavimento em função das
+  características da aeronave (expressa pelo ACR) e do pavimento (expressa pelo PCR), sendo
+  estruturado de maneira que um pavimento com um determinado valor de PCR seja capaz de suportar,
+  sem restrições, uma aeronave que tenha um valor de ACR inferior ou igual ao valor do PCR
+  do pavimento, obedecidas as limitações relativas à pressão dos pneus.
+
+  [FC 154.111(b)(1)] Instruções para determinação do ACR
+
+  O procedimento de determinação do ACR envolve as seguintes etapas:
+
+  Dada uma aeronave, determina-se uma estrutura capaz de suportar a carga oriunda da aeronave
+  de projeto;
+
+  Uma vez obtida a espessura do pavimento, determina-se qual a carga isolada que, com pressão
+  de 1,50 MPa nos pneus, é capaz de demandar a mesma espessura de pavimento determinada no
+  dimensionamento, etapa anterior, considerando-se 36.500 passagens da aeronave sobre o pavimento.
+  É o que se chama de Derived Single Wheel Load (DSWL);
+
+  O valor numérico do ACR é duas vezes a carga determinada na etapa anterior.
+
+  Com relação aos pavimentos rígidos, considera-se uma tensão padronizada de 2,75 MPa na fibra
+  inferior da placa de concreto. Importante destacar que a tensão utilizada para avaliação
+  da capacidade de suporte de pavimentos rígidos não possui relação com a tensão padrão utilizada
+  no procedimento de dimensionamento desse tipo de estrutura.
+
+  [Recomendação] Os valores de ACR podem ser obtidos utilizando-se o programa ICAO-ACR, também
+  integrado no programa FAARFIELD, da FAA.
+
+  [FC 154.111(b)(1)] Instruções para determinação e apresentação do PCR
+
+  A determinação do PCR deve ser realizada a partir de um dos seguintes métodos:
+
+  Método de avaliação técnica: utilizado quando for conhecida, de forma confiável, a estrutura
+  do pavimento e uma análise das tensões e deformações tiver sido realizada. As avaliações
+  estruturais dos pavimentos com foco na determinação do PCR devem ser conduzidas de modo
+  a se obter as informações sobre as espessuras das camadas e materiais constituintes, o módulo
+  de elasticidade de cada camada, incluindo o módulo do subleito, e o coeficiente de Poisson
+  de cada camada. O PCR é calculado de modo que haja compatibilidade entre o projeto e a operação
+  do mix de aeronaves ao longo da vida útil definida; ou
+
+  Método da aeronave: utilizado quando as informações disponíveis sobre o solo (espessura
+  das camadas ou características) não forem confiáveis ou forem desconhecidas. Nesse caso,
+  avaliam-se as aeronaves que até então tenham operado no aeródromo sem que danos à estrutura
+  tenham sido associados. O resultado da avaliação nada mais é que a seleção do maior ACR
+  que operou no pavimento sem que danos à estrutura tenham sido identificados. Com isso, o
+  PCR será o maior ACR encontrado.
+
+  O método de avaliação técnica para determinação do PCR envolve as seguintes etapas:
+
+  Definição da aeronave mais exigente (maior CDF);
+
+  Considerando apenas a aeronave mais exigente, encontrar o número de partidas anuais que
+  corresponda ao CDF total do mix de aeronaves;
+
+  Alterar o peso bruto de táxi (gross taxi weigth) da aeronave mais exigente, de modo que
+  o CDF iguale-se à 1,00;
+
+  Encontrar o ACR da aeronave mais exigente para o peso bruto de táxi (gross taxi weigth)
+  determinado na etapa anterior;
+
+  Comparar o ACR da aeronave mais exigente com os demais ACR das aeronaves do mix. Caso alguma
+  aeronave do mix apresente ACR superior ao encontrado na etapa anterior, a aeronave mais
+  exigente ora analisada será desconsiderada e, então, a segunda aeronave mais exigente deve
+  fazer parte do cálculo, repetindo-se as etapas até aqui mostradas;
+
+  O valor do PCR é o maior valor de ACR encontrado, após as iterações necessárias.
+
+  [Recomendação] Os valores de PCR pelo método de avaliação técnica também podem ser obtidos
+  utilizando-se o programa FAARFIELD da FAA.
+
+  O PCR de um pavimento é apresentado por meio de código que utiliza, nesta ordem, os seguintes
+  elementos:
+
+  valor numérico do PCR;
+
+  tipo de pavimento;
+
+  resistência do subleito;
+
+  pressão máxima admissível dos pneus; e
+
+  método de avaliação.
+
+  O valor numérico do PCR é uma indicação da capacidade de suporte de um pavimento em termos
+  de uma carga de roda simples padrão, a uma pressão de pneus normalizada.
+
+  O valor numérico do PCR deve ser determinado como múltiplo de 10 imediatamente superior
+  ao resultado obtido. Para pavimentos de resistência variável, o valor numérico de PCR deve
+  ser o correspondente ao segmento com menor resistência do pavimento.
+
+  O método de determinação do valor numérico do PCR considera pressão de 1,50 MPa para os
+  pneus, a tensão padronizada de 2,75 MPa na fibra inferior da placa de concreto para pavimentos
+  rígidos e quatro categorias de resistência de subleito, conforme apresentado na Tabela 6.3-1.
+
+  O tipo de pavimento deve ser classificado:
+
+  Pelo código “R”, para pavimentos rígidos; ou
+
+  Pelo código “F”, para pavimentos flexíveis.
+
+  A resistência do subleito deve ser classificada pelo código correspondente da coluna [4]
+  da Tabela 6.3-1, para pavimentos flexíveis e rígidos.
+
+  Tabela 6.3-1 - Valores de resistência de subleito para aplicação do método ACR-PCR em pavimentos
+  flexíveis e rígidos
+
+  Categoria do subleito
+
+  [1]
+
+  Resistência do subleito E (MPa)
+
+  [2]
+
+  Resistência do subleito normalizada E (MPa) [3]
+
+  Código
+
+  [4]
+
+  Alta
+
+  E > 150
+
+  200
+
+  A
+
+  Média
+
+  100 < E < 150
+
+  120
+
+  B
+
+  Baixa
+
+  60 < E < 100
+
+  80
+
+  C
+
+  Ultrabaixa
+
+  E < 60
+
+  50
+
+  D
+
+  A pressão dos pneus deve ser classificada pelo código correspondente da coluna [2] da Tabela
+  6.3-2, para pavimentos flexíveis e rígidos.
+
+  Tabela 6.3-2 - Código de pressão dos pneus para aplicação do método ACR-PCR
+
+  Categoria
+
+  [1]
+
+  Código
+
+  [2]
+
+  Pressão máxima permitida nos pneus (MPa)
+
+  [3]
+
+  Ilimitada
+
+  W
+
+  Sem limite de pressão
+
+  Alta
+
+  X
+
+  Pressão limitada a 1,75 MPa
+
+  Média
+
+  Y
+
+  Pressão limitada a 1,25 MPa
+
+  Baixa
+
+  Z
+
+  Pressão limitada a 0,5 MPa
+
+  No cálculo do PCR pelo método ACR-PCR poderão ser utilizados ensaios previamente existentes,
+  desde que estes tenham sido conduzidos no período de 60 (sessenta) meses anteriores à data
+  do cálculo do PCR.
+
+  O método de avaliação do PCR deve ser classificado:
+
+  Pelo código “T”, se adotado o método de avaliação técnica; ou
+
+  Pelo código “U”, se adotado o método da aeronave.
+
+  DISPOSIÇÕES FINAIS
+
+  Os casos omissos serão dirimidos pela ANAC.
+
+  Esta IS entra em vigor na data de sua publicação.
+
+  REFERÊNCIAS BIBLIOGRÁFICAS
+
+  FEDERAL AVIATION ADMINISTRATION - FAA. Advisory Circular (AC) 150/5335-5D - Standardized
+  Method of Reporting Airport Pavement Strength - PCR. april 2022.
+
+  INTERNATIONAL CIVIL AVIATION ORGANIZATION. Annex 14 to the Convention on International Civil
+  Aviation, Aerodromes - Volume I, Aerodrome Design and Operations. Montréal, Quebec, Canada,
+  Eighth Edition (Amendment 16), july 2018.
+
+  INTERNATIONAL CIVIL AVIATION ORGANIZATION. Doc 9157 - Aerodrome Design Manual, Part 3 -
+  Pavements. Montréal, Quebec, Canada, Third Edition (Advance unedited), 2022.'
+keywords:
+- seguranca-aeroportuaria
+- aeronave
+- pavimento
+- metodo
+- pressao
+- pavimentos
+- resistencia
+- valor
+- codigo
+- subleito
+- pneus
+- avaliacao
+- aeronaves
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-111-001.md

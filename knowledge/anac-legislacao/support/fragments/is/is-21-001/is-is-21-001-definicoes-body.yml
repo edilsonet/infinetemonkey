@@ -1,0 +1,70 @@
+id: is-is-21-001-definicoes-body
+kind: is
+document: is-21-001
+family: '21'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1. Aeronavegabilidade continuada: é conjunto sistemático de ações que abrange os processos
+  que requerem que todas as aeronaves fabricadas conforme as informações que constituem o
+  certificado de tipo emitido ou suas modificações aprovadas estejam conforme o projeto aprovado
+  e que cumpra com os demais requisitos de manutenção e de operação aplicáveis a estas aeronaves,
+  visando a manutenibilidade da operação segura e continuada durante a vida operacional destas
+  aeronaves.
+
+  4.2. Base de Certificação: é o conjunto de requisitos de aeronavegabilidade e de proteção
+  ambiental, estabelecido conforme a seção RBAC 21.17, a partir dos RBAC aplicáveis a determinado
+  projeto de tipo com os quais se demonstra o cumprimento. O nível mínimo de segurança e proteção
+  ambiental é determinado pela emenda do RBAC aplicável, o que significa que cada projeto
+  de tipo tem um nível distinto, correspondente à sua base de certificação.
+
+  4.3. Certificado de Tipo: trata-se de uma aprovação de projeto emitida pela ANAC quando
+  o requerente demonstra cumprimento com os requisitos aplicáveis e a ANAC considera que o
+  projeto de tipo e o produto satisfazem os requisitos aplicáveis. Conforme definido pela
+  seção 21.41 do RBAC 21, o Certificado de Tipo, além do certificado em si, é composto pelo
+  projeto de tipo, pelas limitações operacionais, pela base de certificação, pela especificação
+  de tipo e por quaisquer outras condições ou limitações estabelecidas para o produto de acordo
+  com aquele regulamento.
+
+  4.4. Especificação de tipo: também conhecido pelo seu acrônimo na língua inglesa “TCDS -
+  Type Certificate Data Sheet”, é um documento que compõe o CT e é publicado e disponibilizado
+  pela ANAC. A especificação de tipo sumariza as características relevantes do produto sob
+  o ponto de vista de aeronavegabilidade e proteção ambiental e traz, ainda, condições e limitações
+  necessárias para o cumprimento com os requisitos presentes na base de certificação do produto.
+
+  4.5. Limitações operacionais: são as limitações relativas à operação do produto definidas
+  durante o processo de certificação de tipo em cumprimento aos requisitos aplicáveis da base
+  de certificação. Estas limitações são aquelas definidas como tal nos regulamentos aplicáveis
+  (vide RBAC 23, 25, 27, 29, 31, 33 e 35) e, portanto, sua abrangência e necessidade de disponibilização
+  à tripulação está determinada pelos mesmos. De acordo com a seção 21.41 do RBAC 21, essas
+  limitações consistem em um dos elementos do certificado de tipo.
+
+  4.6. Produto: aeronave, motor ou hélice de aeronave.
+
+  4.7. Projeto de tipo: trata-se das definições, no âmbito da engenharia, que caracterizam
+  um produto particular. O projeto de tipo, tal como o Certificado de Tipo, é composto pelas
+  seguintes informações, definidas na seção RBAC 21.31::'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- tipo
+- limitacoes
+- produto
+- aplicaveis
+- certificado
+- requisitos
+- base
+- cumprimento
+- definicoes
+- secao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

@@ -1,0 +1,59 @@
+id: is-is-43-001-5-5-2-b
+kind: is
+document: is-43-001
+family: '43'
+section_id: 5.5.2
+section_title: Tais itens, embora marcados como “recondicionado”, “alta qualidade”, “como
+  novo”, “sem
+subsection_id: b
+cite: 5.5.2(b)
+title: 5.5.2(b)
+text: 'b) Peças de Componentes Elétricos e Eletrônicos Discretos: Peças elétricas e eletrônicas
+
+  tais como resistores, capacitores, diodos e transistores que não forem marcados espe-
+
+  cificamente pelo P/N do fabricante ou por esquemas de marcação, podem ser substi-
+
+  tuídas ou utilizadas como peças de reposição desde que seja comprovado que tais pe-
+
+  ças foram ensaiadas ou que seja constatado que as mesmas cumprem com os requisi-
+
+  tos de desempenho listados nas especificações e não afetam adversamente o desem-
+
+  penho do equipamento ou do artigo no qual serão instaladas. O desempenho de tal
+
+  equipamento ou artigo deve ser igual à condição do original ou do equipamento a-
+
+  propriadamente modificado ou reparado. Circuitos integrados, tais como os híbridos,
+
+  de larga escala ou Large-Scale Integrated Circuit - LSIC, dispositivos lógicos pro-
+
+  gramáveis, portas matrizes ou Gate Arrays, circuitos integrados de aplicação especí-
+
+  fica ou Application Specific Integrated Circuit - ASIC, memórias, Unidades Cen-
+
+  trais de Processamento ou Central Processing Units - CPU´s, etc, não estão incluí-
+
+  dos, pois sua funcionalidade altamente especializada não os torna aptos à substitui-
+
+  ção;'
+keywords:
+- manutencao
+- aeronavegabilidade
+- tais
+- equipamento
+- pecas
+- artigo
+- circuit
+- circuitos
+- desempenho
+- integrados
+- integrated
+- marcados
+- seja
+- adversamente
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-001.md

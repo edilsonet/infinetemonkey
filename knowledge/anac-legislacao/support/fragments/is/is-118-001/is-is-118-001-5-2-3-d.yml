@@ -1,0 +1,30 @@
+id: is-is-118-001-5-2-3-d
+kind: is
+document: is-118-001
+family: '118'
+section_id: 5.2.3
+section_title: 'Não podem ser considerados como NEF:'
+subsection_id: d
+cite: 5.2.3(d)
+title: 5.2.3(d)
+text: d) itens cujos limites de operação ou funcionamento já façam parte das especificações
+  estabelecidas pelo manual de manutenção do fabricante (AMM, SRM, CMM, OHM etc.) ou pelo
+  programa de manutenção aprovado, tais como limites de desgaste, limites de vazamento em
+  linhas hidráulicas ou de combustível, consumo de óleo etc;
+keywords:
+- limites
+- manutencao
+- aprovado
+- combustivel
+- considerados
+- consumo
+- cujos
+- desgaste
+- especificacoes
+- estabelecidas
+- fabricante
+- facam
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-118-001.md

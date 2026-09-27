@@ -1,0 +1,47 @@
+document: is-61-003
+kind: is
+title: IS 61-003D
+ementa: Processo de exame de proficiência linguística de pilotos e averbação de proficiência
+  linguística com base em licença estrangeira em processo de convalidação
+family: '61'
+categories:
+- licencas
+- pilotos
+- pessoal
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-61-003
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-61-003
+language: pt
+foreign_annex: false
+sections:
+- 5.1.1.4
+- 5.1.1.6
+- 5.1.2
+- 5.1.5
+- apendice-a-lista-de-reducoes
+- apendice-b-controle-de-alteracoes
+- aprovacao
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 14
+fragment_ids:
+- is-is-61-003-preambulo-body
+- is-is-61-003-aprovacao-body
+- is-is-61-003-objetivo-body
+- is-is-61-003-revogacao-body
+- is-is-61-003-fundamentos-body
+- is-is-61-003-definicoes-body
+- is-is-61-003-desenvolvimento-do-assunto-body
+- is-is-61-003-apendice-a-lista-de-reducoes-body
+- is-is-61-003-apendice-b-controle-de-alteracoes-body
+- is-is-61-003-disposicoes-finais-body
+- is-is-61-003-5-1-1-6-body
+- is-is-61-003-5-1-2-body
+- is-is-61-003-5-1-1-4-body
+- is-is-61-003-5-1-5-body
+parser_version: 7

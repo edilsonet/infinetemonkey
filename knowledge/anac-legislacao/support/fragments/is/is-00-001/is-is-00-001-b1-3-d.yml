@@ -1,0 +1,45 @@
+id: is-is-00-001-b1-3-d
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.3
+section_title: PROPULSÃO (INCLUINDO MOTORES, HÉLICES E SISTEMAS DOS ROTORES)
+subsection_id: d
+cite: B1.3(d)
+title: B1.3(d)
+text: '(d) Perda, alteração ou oscilação não comandada na potência/empuxo classificadas como
+  perda de
+
+  controle de empuxo ou de potência (Loss of Thrust or Power Control - LOTC) nas seguintes
+  situa-
+
+  ções:
+
+  I- Aeronave monomotora; ou
+
+  II- Onde a LOTC for considerada excessiva para a aplicação requerida; ou
+
+  III- Onde puder afetar mais de um motor em uma aeronave multimotora, particularmente em
+
+  casos de aeronaves bimotoras; ou
+
+  IV- Em aeronaves multimotoras onde o mesmo modelo de motor ou de modelo similar for
+
+  usado em uma aplicação onde houver um evento crítico ou perigoso;'
+keywords:
+- aeronave
+- aeronaves
+- aplicacao
+- empuxo
+- lotc
+- modelo
+- motor
+- perda
+- potencia
+- afetar
+- alteracao
+- bimotoras
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

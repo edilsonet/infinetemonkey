@@ -1,0 +1,35 @@
+id: rbac-rbac-108-emd-07-108-27-c
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.27'
+section_title: Passageiro em trânsito ou em conexão
+subsection_id: c
+cite: 108.27(c)
+title: 108.27(c)
+text: '(c) O operador aéreo deve garantir que o passageiro em conexão, proveniente de aeródromo
+  cuja inspeção de segurança não é equivalente àquela do aeródromo intermediário, seja direcionado
+  ao ponto de inspeção de segurança do aeródromo antes de acessar a área de embarque para
+  conexão. (Redação dada pela Resolução nº 626, de 14.06.2021)
+
+  (1) Os aeródromos que possuem controles de segurança equivalentes serão determinados pela
+  ANAC e informados aos operadores aéreos e operadores de aeródromos por meio de DAVSEC.'
+keywords:
+- seguranca
+- operador
+- aerodromo
+- conexao
+- aerodromos
+- inspecao
+- operadores
+- passageiro
+- acessar
+- aereo
+- aereos
+- aquela
+- area
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

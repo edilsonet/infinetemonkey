@@ -1,0 +1,40 @@
+id: is-is-121-018-5-1-14-body
+kind: is
+document: is-121-018
+family: '121'
+section_id: 5.1.14
+section_title: As bases de dados de sistemas como TAWS e EGPWS devem estar atualizadas com
+  relação à área de operação.
+subsection_id: body
+cite: 5.1.14
+title: As bases de dados de sistemas como TAWS e EGPWS devem estar atualizadas com relação
+  à área de operação.
+text: '5.1.14 As bases de dados de sistemas como TAWS e EGPWS devem estar atualizadas com
+  relação à área de operação.
+
+  5.1.15 Essa IS não se aplica para operações em baixa visibilidade, que requerem aprovação
+  da ANAC (como LVTO, CAT I AR, CAT II, CAT III, entre outras), conforme requerido pelos parágrafos
+  121.648a(c) e (d) do RBAC nº 121. Para essas operações, devem ser seguidos os requisitos
+  aplicáveis, conforme demonstrado no processo de certificação.
+
+  5.2 Altitude e altura de decisão (DA/H) e altitude e altura mínima de descida (MDA/H)'
+keywords:
+- transporte-aereo
+- operacoes
+- area
+- atualizadas
+- bases
+- dados
+- egpws
+- estar
+- operacao
+- relacao
+- sistemas
+- taws
+- altitude
+- altura
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

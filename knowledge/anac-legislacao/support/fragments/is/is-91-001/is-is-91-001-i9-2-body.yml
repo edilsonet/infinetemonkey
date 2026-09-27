@@ -1,0 +1,45 @@
+id: is-is-91-001-i9-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: I9.2
+section_title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento RNP APCH antes de voar em condições IMC para assegurar a
+  compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  RNP APCH publicados. Para tanto, o operador deve, pelo menos, realizar a comparação entre
+  os dados de navegação dos procedimentos que serão inseridos no FMS com cartas e mapas vigentes
+  que contenham os procedimentos RNP APCH publicados.
+subsection_id: body
+cite: I9.2
+title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador deve
+  validar cada procedimento RNP APCH antes de voar em condições IMC para assegurar a compatibilidade
+  com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos RNP APCH
+  publicados. Para tanto, o operador deve, pelo menos, realizar a comparação entre os dados
+  de navegação dos procedimentos que serão inseridos no FMS com cartas e mapas vigentes que
+  contenham os procedimentos RNP APCH publicados.
+text: I9.2 Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento RNP APCH antes de voar em condições IMC para assegurar a
+  compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  RNP APCH publicados. Para tanto, o operador deve, pelo menos, realizar a comparação entre
+  os dados de navegação dos procedimentos que serão inseridos no FMS com cartas e mapas vigentes
+  que contenham os procedimentos RNP APCH publicados.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- apch
+- procedimentos
+- dados
+- navegacao
+- operador
+- publicados
+- aeronave
+- assegurar
+- banco
+- cada
+- cartas
+- comparacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

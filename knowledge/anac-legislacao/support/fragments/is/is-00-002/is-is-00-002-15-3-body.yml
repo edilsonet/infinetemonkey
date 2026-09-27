@@ -1,0 +1,35 @@
+id: is-is-00-002-15-3-body
+kind: is
+document: is-00-002
+family: '0'
+section_id: '15.3'
+section_title: Número da Ordem de Serviço.
+subsection_id: body
+cite: '15.3'
+title: Número da Ordem de Serviço.
+text: '15.3 Número da Ordem de Serviço.
+
+  Neste campo, os examinadores vinculados ao sistema de escalas da ANAC devem
+
+  incluir o número da Ordem de Serviço (OS) gerado pela ANAC para a atividade.
+
+  Examinadores não vinculados ao sistema de escalas da ANAC devem deixar o campo
+
+  sem preenchimento.'
+keywords:
+- numero
+- ordem
+- servico
+- campo
+- escalas
+- examinadores
+- sistema
+- vinculados
+- atividade
+- deixar
+- gerado
+- incluir
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-002.md

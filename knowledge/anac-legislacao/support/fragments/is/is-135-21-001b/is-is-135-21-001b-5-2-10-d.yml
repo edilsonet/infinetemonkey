@@ -1,0 +1,65 @@
+id: is-is-135-21-001b-5-2-10-d
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.10
+section_title: Gerenciamento de frota.
+subsection_id: d
+cite: 5.2.10(d)
+title: 5.2.10(d)
+text: 'd) validação técnica: emissão de parecer formal pela manutenção, atestando a elegibilidade
+  da aeronave.
+
+  Somente após o cumprimento dessas etapas, a aeronave poderá ser oficialmente incluída na
+  listagem e autorizada a operar.
+
+  5.2.10.4 Exclusão de aeronave ou autorização. Devem ser estabelecidos procedimentos de manutenção
+  no MGM para exclusão técnica de aeronaves ou autorizações específicas. O processo deve prever
+  critérios objetivos para exclusões temporárias (por exemplo, indisponibilidade prolongada)
+  ou definitivas (como desativação de sistemas). Toda exclusão deve ser justificada, documentada
+  e arquivada de forma apropriada.
+
+  5.2.10.5 Aeronaves com programas específicos de manutenção. Para aeronaves abrangidas pela
+  seção 135.411(a)(2) ou 135.419 do RBAC nº 135, o MGM deve conter procedimentos para sua
+  inclusão na listagem, com vínculo explícito ao programa de manutenção de aeronavegabilidade
+  ou ao programa de inspeções aplicável.
+
+  5.2.10.6 Atualização e conformidade da listagem. O MGM deve definir os responsáveis da manutenção
+  pelo processo de inserção, validação, aprovação e atualização da listagem de aeronaves.
+  Devem ser previstas auditorias internas periódicas para verificar a conformidade da listagem
+  com as EO vigentes e com a condição técnica das aeronaves. Toda alteração nas EO deve ser
+  acompanhada da correspondente atualização na listagem.
+
+  5.2.10.7 Controle da documentação técnica. Procedimentos para controle da documentação técnica
+  utilizada pela manutenção no gerenciamento da frota devem ser definidos no MGM, incluindo
+  controle de versão, data, justificativa e responsável. Todos os documentos que fundamentam
+  inclusões ou exclusões devem estar disponíveis para auditorias internas e da Anac.
+
+  5.2.10.8 Disponibilidade e distribuição da listagem. O MGM deve prever mecanismos para garantir
+  que a listagem atualizada esteja disponível nas bases de manutenção principais e secundárias,
+  bem como para a Anac quando solicitado. Durante operações sob o RBAC nº 135, uma cópia atualizada
+  da listagem deve estar a bordo da aeronave, podendo conter apenas as informações específicas
+  daquela aeronave. O procedimento deve indicar claramente os responsáveis pela distribuição
+  e atualização desse documento nas aeronaves.
+
+  5.3 Processo de aprovação e aceitação do MGM'
+keywords:
+- taxi-aereo
+- operacoes
+- listagem
+- manutencao
+- aeronaves
+- aeronave
+- tecnica
+- atualizacao
+- controle
+- exclusao
+- procedimentos
+- processo
+- aprovacao
+- atualizada
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

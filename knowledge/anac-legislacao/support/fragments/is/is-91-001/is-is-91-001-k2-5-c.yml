@@ -1,0 +1,34 @@
+id: is-is-91-001-k2-5-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: K2.5
+section_title: 'Limites de temperatura. Os limites inferiores e superiores de temperatura
+  para aeronaves que utilizam sistema de navegação barométrico (baro-VNAV) estão identificados
+  na carta de aproximação. Aeronaves utilizando sistema de compensação de temperatura ou um
+  meio alternativo de navegação vertical (ex.: SBAS), podem desconsiderar os limites de temperatura
+  informados.'
+subsection_id: c
+cite: K2.5(c)
+title: K2.5(c)
+text: c) as altitudes e alturas subsequentes no segmento de aproximação perdida.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- temperatura
+- limites
+- aeronaves
+- aproximacao
+- navegacao
+- sistema
+- alternativo
+- altitudes
+- alturas
+- baro
+- barometrico
+- carta
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

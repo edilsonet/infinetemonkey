@@ -1,0 +1,83 @@
+id: is-is-121-020-c4-10-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: C4.10
+section_title: Considerações operacionais
+subsection_id: body
+cite: C4.10
+title: Considerações operacionais
+text: 'C4.10 Considerações operacionais
+
+  C4.10.1 Características do aeródromo, do relevo e de obstáculos no seu entorno
+
+  C4.10.1.1 As características do aeródromo, do relevo e dos obstáculos, assim como mitigações
+  operacionais de risco implementadas pelo operador, devem ser abordadas de forma minuciosa
+  no treinamento dos pilotos. Especial atenção deve ser dada a aspectos de operação em pistas
+  curtas e procedimentos de rejeição de decolagem e pouso. Adicionalmente, deve ser reforçada
+  em procedimentos operacionais e alertas a necessidade de consulta de NOTAM para conhecimento
+  de obstáculos temporários.
+
+  C4.10.2 Alertas de EGPWS
+
+  C4.10.2.1 Devido ao relevo montanhoso e à quantidade de obstáculos próximos às trajetórias
+  de aproximação, arremetida e decolagem, a frequência de ocorrências de alertas de EGPWS
+  nas operações no aeródromo SBRJ historicamente é mais elevada que na maioria dos outros
+  aeródromos do Brasil.
+
+  C4.10.2.2 Entretanto, nenhum desvio pode ser adotado em relação aos procedimentos operacionais
+  que devem ser adotados pelos pilotos no caso de alertas de EGPWS.
+
+  C4.10.2.3 A ocorrência frequente de alertas EGPWS, mesmo em operações em condições VMC,
+  não deve ser considerada normal, e deve ser corrigida pelo operador por meio de aprimoramento
+  de treinamento dos pilotos, procedimentos operacionais, equipamentos e softwares relacionados
+  ao EGPWS.
+
+  C4.10.2.4 Durante o tratamento da ocorrência frequente de alertas EGPWS o operador deve
+  avaliar a necessidade de implementar restrições operacionais como mitigação de risco, como,
+  por exemplo, proibição de operações IMC ou noturnas, ou proibição do uso do procedimento
+  de aproximação no qual estejam ocorrendo os alertas EGPWS.
+
+  C4.10.3 Alertas de TCAS
+
+  C4.10.3.1 As características de tráfego aéreo no entorno do aeródromo SBRJ, em especial
+  as relativas a circulação de helicópteros, assim como mitigações operacionais de risco implementadas
+  pelo operador, devem ser abordadas no treinamento dos pilotos.
+
+  C4.10.4 Panes ocorridas em voo
+
+  C4.10.4.1 O operador deve estabelecer orientações para o caso de ocorrência de panes em
+  equipamentos ou sistemas da aeronave durante o voo com destino ao aeródromo SBRJ.
+
+  C4.10.4.2 As orientações devem ter como objetivo auxiliar o processo de decisão dos pilotos
+  quanto à continuação do voo para o aeródromo SBRJ ou ao prosseguimento para aeródromo de
+  alternativa.
+
+  C4.10.4.3 É aceitável que a decisão de continuação para o aeródromo SBRJ seja tomada em
+  casos onde a pane pode ser inequivocamente identificada, e para a qual o manual de operações
+  da aeronave (AOM) estabeleça que não há prejuízo de controlabilidade, e que não há prejuízo
+  de desempenho de desaceleração na aproximação e pouso, ou esse prejuízo pode ser avaliado
+  antes do início da aproximação por meio de dados de desempenho estabelecidos de acordo com
+  a AC 25-32 do FAA.
+
+  C4.10.4.4 O processo de decisão no caso de panes ocorridas em voos com destino ao aeródromo
+  SBRJ deve ser abordado no treinamento de pilotos.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- operacionais
+- alertas
+- egpws
+- pilotos
+- sbrj
+- operador
+- aproximacao
+- obstaculos
+- procedimentos
+- treinamento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

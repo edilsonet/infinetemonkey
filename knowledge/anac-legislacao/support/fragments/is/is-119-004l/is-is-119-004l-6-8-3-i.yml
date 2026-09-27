@@ -1,0 +1,61 @@
+id: is-is-119-004l-6-8-3-i
+kind: is
+document: is-119-004l
+family: '119'
+section_id: 6.8.3
+section_title: 'A seguir são apresentadas as limitações de tamanho e complexidade:'
+subsection_id: i
+cite: 6.8.3(i)
+title: 6.8.3(i)
+text: 'i) o operador deverá adotar o diário de bordo eletrônico e compartilhar as informações
+  com a Anac, nos moldes do previsto na regulamentação específica.
+
+  Nota: caso a plataforma para o compartilhamento de informações do diário de bordo ainda
+  não tenha sido disponibilizada, o operador deverá, pelo menos, adotar o diário de bordo
+  eletrônico. Neste caso, a partir da disponibilização, a Anac estabelecerá prazo para o início
+  do compartilhamento.
+
+
+  COMPARTILHAMENTO DE INFORMAÇÕES OPERACIONAIS E SOBRE DESEMPENHO DE SEGURANÇA OPERACIONAL
+
+  7.1 A seção 135.51 do RBAC nº 135 prevê o envio periódico de informações sobre as operações
+  e sobre o desempenho em segurança operacional.
+
+  7.2 A coleta dessas informações tem por objetivo monitorar o mercado e alimentar o processo
+  de vigilância continuada da Anac.
+
+  7.3 O envio dos dados deve ser realizado mensalmente através de plataforma digital. Até
+  o décimo dia de cada mês, os operadores deverão enviar os dados relativos ao mês anterior.
+
+  7.4 O envio dos dados deve ser feito através do preenchimento de formulário disponibilizado
+  na plataforma digital, ou pelo carregamento de arquivo de dados, contendo o conjunto completo
+  das informações mensais. Os formulários e os arquivos que deverão ser preenchidos estão
+  disponíveis no seguinte endereço eletrônico: https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/taxi-aereo.
+
+  7.5 O cadastro para acesso ao sistema será realizado pela Anac em nome do Gestor Responsável
+  das organizações requerentes e detentoras de certificado, utilizando os dados informados
+  no cadastro de pessoal de administração requerido. As instruções para acesso, bem como login
+  e senha serão encaminhados para o e-mail do Gestor Responsável constante do cadastro.
+
+  7.6 Operadores aéreos classificados como Operadores Simples devem enviar mensalmente o seguinte
+  conjunto de dados:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- dados
+- informacoes
+- bordo
+- cadastro
+- compartilhamento
+- diario
+- eletronico
+- envio
+- operadores
+- plataforma
+- acesso
+- adotar
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

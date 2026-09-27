@@ -1,0 +1,31 @@
+id: iac-iac-5301-objetivo-body
+kind: iac
+document: iac-5301
+family: '530'
+section_id: objetivo
+section_title: OBJETIVO
+subsection_id: body
+cite: objetivo
+title: OBJETIVO
+text: 'OBJETIVO
+
+  Estabelecer os requisitos referentes à localização e às áreas necessárias para abrigar as
+
+  instalações das Seções de Aviação Civil (SAC) nos aeroportos.'
+keywords:
+- objetivo
+- abrigar
+- aeroportos
+- areas
+- aviacao
+- civil
+- estabelecer
+- instalacoes
+- localizacao
+- necessarias
+- referentes
+- requisitos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-5301.md

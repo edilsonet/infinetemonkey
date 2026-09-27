@@ -42,127 +42,22 @@ text: '153.133
   Data da emissão: 15 de março de 2021
 
 
-  SUBPARTE D - OPERAÇÕES AEROPORTUÁRIAS
-
-  Requisitos
-
-  Descrição
-
-  Aeródromos
-
-  OBS
-
-  Classe I
-
-  Classe II
-
-  Classe III
-
-  Classe IV
-
-  Tipo A
-
-  Tipo B
-
-
-  153.133(a)(3) - monitoramento do
-
-  sistema de proteção da área
-
-  operacional
-
-  Não exigido
-
-  Não exigido
-
-  Obrigatório
-
-  Obrigatório
-
-  Obrigatório
-
-
-  153.133(a)(5) a (7) - atividades de
-
-  monitoramento
-
-  Não exigido
-
-  Não exigido
-
-  Não exigido
-
-  Obrigatório
-
-  Obrigatório
-
-
-  153.133(c) - estabelecer e
-
-  documentar requisitos
-
-  Não exigido
-
-  Não exigido
-
-  Obrigatório
-
-  Obrigatório
-
-  Obrigatório
-
-
-  153.133(d) - desenho adequado
-
-  Não exigido
-
-  Não exigido
-
-  Obrigatório
-
-  Obrigatório
-
-  Obrigatório
-
-
-  153.133(e) - periodicidade do
-
-  monitoramento diário da área de
-
-  movimento
-
-  Não exigido
-
-  Pelo menos 1 (uma)
-
-  vez por dia
-
-  Pelo menos 1 (uma) vez
-
-  por dia
-
-  Pelo menos 2 (duas)
-
-  vezes por dia
-
-  Pelo menos 2 (duas)
-
-  vezes por dia'
+  SUBPARTE D - OPERAÇÕES AEROPORTUÁRIAS'
 keywords:
 - aerodromos
 - operacao-aeroportuaria
 - obrigatorio
 - exigido
 - monitoramento
-- classe
-- menos
-- area
-- duas
+- aerodromo
+- aeroportuarias
+- condicao
+- data
+- emissao
+- fisica
+- marco
+- obstaculos
 - operacional
-- requisitos
-- tipo
-- vezes
-- adequado
 categories:
 - aerodromos
 - operacao-aeroportuaria

@@ -1,0 +1,45 @@
+id: is-is-91-001-k2-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K2.3
+section_title: Segmentos de aproximação perdida que requerem valor de RNP menor que 1.0. A
+  execução de determinados procedimentos de aproximação perdida pode requerer, em função de
+  tráfego aéreo ou obstáculos, trajetórias com valor de RNP menores que 1.0, resultando na
+  necessidade da confiabilidade do sistema de navegação ser muito elevada. Essa capacidade,
+  normalmente requer da aeronave equipamentos redundantes, visto que uma falha isolada não
+  deve causar a perda da capacidade de navegação.
+subsection_id: body
+cite: K2.3
+title: Segmentos de aproximação perdida que requerem valor de RNP menor que 1.0. A execução
+  de determinados procedimentos de aproximação perdida pode requerer, em função de tráfego
+  aéreo ou obstáculos, trajetórias com valor de RNP menores que 1.0, resultando na necessidade
+  da confiabilidade do sistema de navegação ser muito elevada. Essa capacidade, normalmente
+  requer da aeronave equipamentos redundantes, visto que uma falha isolada não deve causar
+  a perda da capacidade de navegação.
+text: K2.3 Segmentos de aproximação perdida que requerem valor de RNP menor que 1.0. A execução
+  de determinados procedimentos de aproximação perdida pode requerer, em função de tráfego
+  aéreo ou obstáculos, trajetórias com valor de RNP menores que 1.0, resultando na necessidade
+  da confiabilidade do sistema de navegação ser muito elevada. Essa capacidade, normalmente
+  requer da aeronave equipamentos redundantes, visto que uma falha isolada não deve causar
+  a perda da capacidade de navegação.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aproximacao
+- capacidade
+- navegacao
+- perdida
+- valor
+- aereo
+- aeronave
+- causar
+- confiabilidade
+- determinados
+- elevada
+- equipamentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,41 @@
+id: is-is-60-002-10-1-1-d
+kind: is
+document: is-60-002
+family: '60'
+section_id: 10.1.1
+section_title: 'As etapas de uma qualificação especial são descritas a seguir:'
+subsection_id: d
+cite: 10.1.1(d)
+title: 10.1.1(d)
+text: 'd) Fase 4: Inspeção do FSTD.
+
+  Com não menos do que 5 dias de antecedência ao início da inspeção, o representante do operador
+  deve enviar uma declaração de que um piloto habilitado e qualificado na aeronave simulada
+  avaliou subjetivamente o FSTD nas áreas modificadas ou não avaliadas anteriormente.
+
+  A ANAC irá coordenar com o operador a inspeção para avaliar as modificações implementadas
+  no FSTD. O tempo necessário varia de acordo com a quantidade de modificações, sua complexidade
+  e o impacto que elas causarão no FSTD.
+
+  Durante a inspeção, a ANAC reporta ao interessado quaisquer não conformidades encontradas
+  no FSTD. Ao final da inspeção, a ANAC gera um relatório de avaliação de FSTD.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- inspecao
+- modificacoes
+- operador
+- acordo
+- aeronave
+- antecedencia
+- anteriormente
+- areas
+- avaliacao
+- avaliadas
+- avaliar
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

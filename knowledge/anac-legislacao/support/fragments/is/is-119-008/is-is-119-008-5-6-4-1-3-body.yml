@@ -1,0 +1,45 @@
+id: is-is-119-008-5-6-4-1-3-body
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.6.4.1.3
+section_title: Núcleo de eficiência e qualidade operacional
+subsection_id: body
+cite: 5.6.4.1.3
+title: Núcleo de eficiência e qualidade operacional
+text: '5.6.4.1.3 Núcleo de eficiência e qualidade operacional
+
+  5.6.4.1.3.1 O núcleo de eficiência e qualidade operacional possui atribuições relacionadas
+  à análise dos dados, exclusivamente estatísticos, utilizando parâmetros de voo não diretamente
+  relacionados à segurança operacional, com objetivo exclusivo de eficiência operacional.
+
+  5.6.4.1.3.2 As informações trabalhadas neste núcleo, assim como os estudos e análises produzidos,
+  possuem finalidade exclusivamente estatística e não podem conter informações que permitam
+  o rastreio de dados de indivíduo envolvido na operação.
+
+  5.6.4.1.3.3 Todo compartilhamento de dados brutos não processados (raw data) deverá obedecer
+  a regras específicas de confidencialidade e deverá ser registrado em acordos de sigilo mútuo
+  (exemplo: Non Disclosure Agreement).
+
+  5.6.4.1.3.4 O núcleo de eficiência e qualidade operacional possui as seguintes atribuições
+  e tarefas:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operacional
+- eficiencia
+- nucleo
+- qualidade
+- dados
+- atribuicoes
+- devera
+- exclusivamente
+- informacoes
+- possui
+- acordos
+- agreement
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

@@ -1,0 +1,54 @@
+id: is-is-137-201-001-d3-3-body
+kind: is
+document: is-137-201-001
+family: '137'
+section_id: D3.3
+section_title: 'Composição da água corrosiva:'
+subsection_id: body
+cite: D3.3
+title: 'Composição da água corrosiva:'
+text: 'D3.3 Composição da água corrosiva:
+
+  3000 ml de água destilada; 5 ml de acetato de etila; 4 ml de aldeído acético; 1 ml de ácido
+  acético glacial; 0,1 g de sulfato de sódio; 0,1 g de cloreto de sódio.
+
+  D.4 Ensaio estático para avaliação da resistência a corrosão dos componentes do sistema
+  de combustível da aeronave e do motor
+
+  Todas as peças do sistema de combustível devem permanecer imersas no fluido de teste durante
+  15 dias, no mínimo, com aeração, a 70 °C + ou - 3 °C, de acordo com o dispositivo descrito
+  na ASTM D1384 e não devem apresentar produtos de corrosão.
+
+  D.5 Ensaio dinâmico para avaliação da resistência a corrosão dos componentes do sistema
+  de combustível da aeronave e do motor
+
+  D.5.1 Uma montagem simplificada simulando o sistema de combustível da aeronave e do motor,
+  com componentes representativos daqueles sistemas, deve funcionar por 700 h, no mínimo,
+  em condições normais de operação (vazão, pressão, etc.), à temperatura de 70 °C + ou - 3
+  °C.
+
+  D.5.2 O período mínimo de 700 h de funcionamento do ensaio deve corresponder à somatória
+  dos períodos diários de funcionamento de 18 h, no mínimo.
+
+  D.5.3 O fluido de teste deve ser trocado a cada intervalo de 72 h e 96 h respectivamente,
+  durante as 700 h de ensaio.'
+keywords:
+- aeroagricola
+- operacoes
+- agua
+- combustivel
+- ensaio
+- minimo
+- sistema
+- aeronave
+- componentes
+- composicao
+- corrosao
+- corrosiva
+- motor
+- acetico
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-201-001.md

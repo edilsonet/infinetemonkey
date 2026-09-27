@@ -1,0 +1,43 @@
+id: is-is-121-010-5-2-3-1-body
+kind: is
+document: is-121-010
+family: '121'
+section_id: 5.2.3.1
+section_title: O sistema de documentos de segurança operacional deve manter a consistência
+  na
+subsection_id: body
+cite: 5.2.3.1
+title: O sistema de documentos de segurança operacional deve manter a consistência na
+text: '5.2.3.1 O sistema de documentos de segurança operacional deve manter a consistência
+  na
+
+  terminologia e no uso de termos padronizados para itens e ações comuns.
+
+  Exemplo: considerando que os termos "throttles" e "thrust levers" se referem ao mesmo item,
+  o
+
+  operador deve escolher um dos termos e usá-lo de forma consistente em sua
+
+  documentação. O operador também deve se atentar para manter a consistência entre seus
+
+  documentos e as marcações, etiquetas e placares de aeronaves e componentes.'
+keywords:
+- transporte-aereo
+- operacoes
+- consistencia
+- documentos
+- manter
+- operacional
+- seguranca
+- sistema
+- termos
+- operador
+- acoes
+- aeronaves
+- atentar
+- componentes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-010.md

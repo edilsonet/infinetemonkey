@@ -1,0 +1,63 @@
+id: is-is-145-009-5-5-12-1-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.12.1
+section_title: 'Referências: RBACs nº 43 e 145, seções 43.9 e 145.219; e parágrafo 145.209(i).'
+subsection_id: body
+cite: 5.5.12.1
+title: 'Referências: RBACs nº 43 e 145, seções 43.9 e 145.219; e parágrafo 145.209(i).'
+text: '5.5.12.1 Referências: RBACs nº 43 e 145, seções 43.9 e 145.219; e parágrafo 145.209(i).
+
+  5.5.12.2 Descrição do Sistema: o MOM deve incluir uma descrição dos registros requeridos
+  e o sistema de arquivamento usado para obter, arquivar e recuperar esses registros. Os registros
+  devem ser em português ou inglês e satisfazer o RBAC nº 43.
+
+  5.5.12.3 Requisitos: a seção 43.9 do RBAC nº 43 descreve o conteúdo, forma e disposição
+  dos registros de manutenção, manutenção preventiva e alterações. O conteúdo deve incluir
+  uma descrição do trabalho executado, a data em que o trabalho foi concluído e o nome da
+  pessoa que executou o trabalho. Ele deve também incluir a assinatura, o número e o tipo
+  de licença ANAC da pessoa que aprovou o trabalho para retorno ao serviço. Para grandes reparos,
+  feitos de acordo com manual aprovado pela ANAC ou outro dado aprovado, a OM pode usar a
+  ordem de serviço do cliente para registrar o reparo ou usar o Formulário ANAC F-400-04.
+  A OM deve usar o Formulário ANAC F-400-04 para registrar a incorporação de grandes reparos/alterações.
+
+  5.5.12.4 Amostras de Formatos: os registros podem ser de diferentes formatos, dependendo
+  do tipo de trabalho executado. Amostras dos vários formulários que são parte dos registros
+  da OM devem ser incluídas no manual, ou podem ser mantidas em um manual de “formulários”
+  em separado.
+
+  5.5.12.5 Procedimentos para Transportador Aéreo: anotações de registro de manutenção para
+  um transportador aéreo devem ser feitas de acordo com os procedimentos do transportador
+  aéreo. Os procedimentos podem incluir o uso de formulários especificamente requeridos pelo
+  transportador aéreo. Os procedimentos, formulários e registros podem diferir daqueles normalmente
+  usados.
+
+  5.5.12.6 Conteúdo do pacote de serviços: os procedimentos devem descrever o conteúdo do
+  “pacote de serviços” a serem executados pela OM. Esse “pacote de serviços” pode incluir
+  fichas de serviço, ordens de engenharia, etc. que descrevem cada etapa da manutenção ou
+  alterações. Se a OM executou inspeções em aeronaves, os registros devem incluir a lista
+  de verificação usada para executar as inspeções, listas de discrepâncias, e ações corretivas
+  necessárias e/ou tomadas, incluindo cumprimento de DA e/ou BS (Boletim de Serviço). Se a
+  OM executou reparos de acordo com dados técnicos aprovados ou aceitos pela ANAC, deverá
+  ser incluída uma cópia dessa aprovação ou aceitação nos registros. Documentos suplementares
+  em um pacote de serviços podem incluir, mas não estão limitados a:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- registros
+- incluir
+- podem
+- procedimentos
+- trabalho
+- aereo
+- conteudo
+- formularios
+- pacote
+- servico
+- servicos
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

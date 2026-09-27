@@ -1,0 +1,170 @@
+id: is-is-00-001-apendice-c-formato-aceitavel-de-envio-de-dados-de-dif-ec7592-body
+kind: is
+document: is-00-001
+family: '0'
+section_id: apendice-c-formato-aceitavel-de-envio-de-dados-de-dif-ec7592
+section_title: APÊNDICE C - FORMATO ACEITÁVEL DE ENVIO DE DADOS DE DIFICULDADES
+subsection_id: body
+cite: apendice-c-formato-aceitavel-de-envio-de-dados-de-dif-ec7592
+title: APÊNDICE C - FORMATO ACEITÁVEL DE ENVIO DE DADOS DE DIFICULDADES
+text: 'APÊNDICE C - FORMATO ACEITÁVEL DE ENVIO DE DADOS DE DIFICULDADES
+
+  EM SERVIÇO.
+
+  SDR Submission Form (Registro de RDS)
+
+  Entende-se como formato aceitável para o envio dos relatórios de dificuldades em serviço
+  aquele
+
+  pelo qual o notificante envia os dados à ANAC através do sistema de banco de dados de
+
+  dificuldades em serviço disponibilizado no Portal ANAC, na rede mundial de computadores
+
+  (internet).
+
+  Por meio de uma senha e login fornecidos pela ANAC, a empresa, através de algum de seus
+
+  representantes devidamente designados pela alta direção, solicitará o cadastramento no banco
+  de
+
+  dados de dificuldades em serviço e fará as subsequentes inserções dos relatórios de dificuldades
+
+  em serviço, quando aplicáveis.
+
+  Para acessar o banco de dados de dificuldades em serviço, deve-se acessar o portal da ANAC
+  em
+
+  www.anac.gov.br e fazer uma busca no portal pela sigla SDR. Escolhendo o item “SDR
+
+  Submission Form”, o interessado será direcionado para a página que permitirá acessar o banco
+  de
+
+  dados de dificuldades em serviço.
+
+  Caso o notificante já tenha cadastro prévio, basta inserir os dados solicitados (login e
+  senha); caso
+
+  contrário, deverá solicitar o acesso através do link no próprio site ou encaminhar o pedido
+  de
+
+  cadastro à Superintendência de Aeronavegabilidade (SAR) da Agência Nacional de Aviação Civil
+
+  (ANAC) em São José dos Campos, cujo endereço pode ser encontrado no site da ANAC através
+
+  do link “Institucional - Unidades da ANAC”, ou através do e-mail: pac@anac.gov.br.
+
+  Na hipótese de se encontrar, por qualquer motivo, impossibilitado de enviar os relatórios
+  de
+
+  dificuldades em serviço por meio da internet dentro dos prazos definidos nos RBAC nº 21,
+  nº 121,
+
+  nº 135 e nº 145, o notificante poderá fazer o envio através de outro meio (carta, e-mail,
+  etc.).
+
+  Devem ser incluídas as mesmas informações obrigatórias que constam nos campos do banco de
+
+  dados do sistema de dificuldades em serviço, que são as seguintes.
+
+  Grupo “1. Informações do Evento”
+
+  Difficulty Date: Data em que ocorreu a Dificuldade em Serviço (DS);
+
+  Marks: marcas de nacionalidade e de matrícula da aeronave, consoante com o RBAC nº 45;
+
+  Submitter Type: tipo de certificação que melhor identifica a empresa ou operadora que está
+
+  reportando a ocorrência segundo o RBAC nº 21, nº 121, nº 135 ou nº 145. Exemplo: “Operador
+  aéreo
+
+  Revisão B
+
+  Local: local, trecho ou aeroporto onde ocorreu a dificuldade em serviço. Exemplo, “Aeroporto
+
+  de Congonhas - SP - Brasil”; “Fazenda Sta. Cruz - Município de Taubaté - SP - Brasil”.
+
+  Grupo “2. Códigos”
+
+  Operator Designator: nome do operador ou, se a aeronave for particular (regido pelo
+
+  RBHA/RBAC nº 91), com o nome do proprietário;
+
+  Operation Type: tipo de operação da aeronave (RBHA/RBAC nº 91, RBAC nº 121 ou nº 135);
+
+  Stage of Operation: fase de operação na qual se verificou a ocorrência. Exemplo, se a ocorrência
+
+  foi detectada em inspeção ou manutenção, colocar “Inspeção” ou “Manutenção”;
+
+  Injuries Type: reportar os níveis das lesões provocadas pela ocorrência aos tripulantes
+  e passa-
+
+  geiros da aeronave, listando apenas os termos aplicáveis da lista a seguir:
+
+  • Nenhum,
+
+  • Leves,
+
+  • Sérios,
+
+  • Fatais.
+
+  ATA Code: código ATA 2200 do sistema afetado pelo defeito, falha ou mau funcionamento.
+
+  Grupo “3. Identificação do Equipamento”
+
+  Manufacturer: nome do fabricante da aeronave, conforme os certificados de matrícula e aero-
+
+  navegabilidade da aeronave;
+
+  Aircraft Model: modelo da aeronave, conforme o certificado de matrícula e aeronavegabilidade
+
+  da aeronave;
+
+  Serial Number: número de série de fabricação da aeronave, conforme os certificados da matrí-
+
+  cula e aeronavegabilidade da aeronave.
+
+  Grupo “4. Problem Description”
+
+  Problem Description: Identificar claramente e descrever da melhor forma possível os detalhes
+
+  da falha, mau funcionamento, ou defeito. Incluir descrições detalhadas acerca das condições
+  dos com-
+
+  ponentes e montagens que resultaram na geração da comunicação de dificuldade em serviço.
+  Se pos-
+
+  sível, identificar as causas e suas consequências. Relatar fatos significantes que possam
+  ajudar a re-
+
+  duzir a reincidência do problema e auxiliar nas investigações. Informar as ações corretivas
+  se implan-
+
+  tadas a tempo do envio do relatório.Data de emissão: 13 de março de 2018. IS nº 00-001
+
+  Revisão B
+
+  Grupo “5. Dados do notificante”
+
+  - Nome do responsável da empresa pelo cadastramento do RDS;
+
+  - Telefone com DDD para contato em caso de necessidade; e
+
+  - Endereço eletrônico do executor da notificação.'
+keywords:
+- servico
+- dados
+- dificuldades
+- aeronave
+- atraves
+- envio
+- banco
+- grupo
+- aceitavel
+- formato
+- nome
+- notificante
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

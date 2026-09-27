@@ -1,0 +1,73 @@
+id: is-is-60-002-disposicoes-gerais-body
+kind: is
+document: is-60-002
+family: '60'
+section_id: disposicoes-gerais
+section_title: disposições gerais
+subsection_id: body
+cite: disposicoes-gerais
+title: disposições gerais
+text: 'disposições gerais
+
+  5.1 O RBAC 60 estabelece que somente um FSTD que esteja qualificado ou validado pela ANAC
+  pode ser utilizado com o fim de cumprir requisitos de treinamento de voo, exame de proficiência
+  ou para obtenção de experiência de voo de tripulantes, estabelecidos por algum RBAC.
+
+  5.2 A qualificação de FSTD é o processo pelo qual a ANAC avalia e determina que um FSTD
+  cumpre os requisitos do RBAC 60, para um determinado nível. Para cada FSTD qualificado,
+  a ANAC emite um Certificado de Qualificação, em que constam os detalhes da sua configuração
+  e do nível de qualificação.
+
+  5.3 A Qualificação de FSTD se distingue da Aprovação de FSTD em um programa de treinamento
+  aprovado pela ANAC. Após o FSTD ser qualificado, este deverá ser aprovado para uso em um
+  currículo de treinamento. Para tanto, a organização interessada, como exemplo, um detentor
+  de certificado sob o RBAC 141, 142, 121 ou 135, deverá obter tal aprovação junto aos setores
+  da ANAC responsáveis pela sua certificação.
+
+  5.4 Embora a qualificação do FSTD e sua aprovação no treinamento sejam dois processos distintos
+  na ANAC, recomenda-se que o interessado em obter a qualificação de um FSTD a um determinado
+  nível, faça essa seleção de nível considerando o treinamento pretendido no dispositivo.
+
+  Operador de fstd (rbac 60.7)
+
+  6.1 Para uma organização ser um operador de FSTD, ela deve cumprir os requisitos estabelecidos
+  na seção 60.7 do RBAC 60.
+
+  6.2 Um desses requisitos é a organização possuir um Sistema de Gerenciamento da Qualidade
+  (QMS), em acordo com a seção 60.5. A IS 60-001 propõe os meios e procedimentos para o operador
+  implantar e obter a aprovação de seu QMS.
+
+  QUALIFICAÇÃO INICIAL (RBAC 60.15)
+
+  7.1 A Qualificação Inicial do FSTD é aquela necessária para obter o certificado de qualificação
+  do FSTD pela primeira vez, ou quando o certificado estiver vencido há mais de 24 meses.
+  Somente um operador de FSTD que atenda aos requisitos do RBAC 60.7 pode solicitar uma qualificação
+  inicial e, consequentemente, ser o detentor de Certificado de FSTD.
+
+  7.2 Exceto como previsto nos parágrafos 60.15(c)(1) e (c)(2) do RBAC 60, cada FSTD avaliado
+  para qualificação inicial deve cumprir os requisitos de desempenho para qualificação, definidos
+  na seção 60.4 do RBAC 60 e nos seus Apêndices A,B, C ou D, conforme aplicável.
+
+  7.3 De forma complementar aos requisitos estabelecidos nos Apêndices supracitados, a ANAC
+  adota como meio de cumprimento dos requisitos, os critérios técnicos estabelecidos no normativo
+  estadunidense 14CFR Part 60. Dessa forma, os requisitos e meios de cumprimento para a qualificação
+  de FSTD pela ANAC são:'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- qualificacao
+- requisitos
+- certificado
+- aprovacao
+- estabelecidos
+- inicial
+- nivel
+- obter
+- operador
+- cumprir
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

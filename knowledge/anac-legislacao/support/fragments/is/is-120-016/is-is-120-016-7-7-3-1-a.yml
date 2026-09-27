@@ -1,0 +1,56 @@
+id: is-is-120-016-7-7-3-1-a
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.7.3.1
+section_title: 'Informações necessárias. A Programação de Manutenção deve conter as seguintes
+  informações:'
+subsection_id: a
+cite: 7.7.3.1(a)
+title: 7.7.3.1(a)
+text: 'a) O quê (Identificador Único). Este é o item que sofrerá o processo de manutenção.
+  Deve ser suficientemente específico para permitir ao indivíduo que a empresa designar para
+  realizar a tarefa identificar o item de forma fácil e precisa. A seguir estão exemplos de
+  itens que a programação de manutenção de um operador inclui:
+
+  · Diretrizes de Aeronavegabilidade (DA), Boletins de Serviço (SB) / Cartas de Serviço (SL);
+
+  · Substituição de itens com tempo de vida limite;
+
+  · Substituição de componentes para revisão geral ou reparo;
+
+  · Inspeções especiais;
+
+  · Checks ou testes;
+
+  · Lubrificação e serviços (servicing);
+
+  · Tarefas listadas no Maintenance Review Board Report (MRBR);
+
+  · Limitações de Aeronavegabilidade (ALI);
+
+  · Requisitos de Manutenção de Certificação (CMR);
+
+  · Documentos Complementares de Inspeção Estrutural (SSID); e
+
+  · Sistema de interconexão de cabeamento elétrico (EWIS).'
+keywords:
+- antidrogas
+- saude
+- manutencao
+- aeronavegabilidade
+- informacoes
+- programacao
+- servico
+- substituicao
+- board
+- boletins
+- cabeamento
+- cartas
+- certificacao
+- checks
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

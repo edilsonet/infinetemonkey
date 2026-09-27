@@ -1,0 +1,109 @@
+id: rbac-rbac-36-a36-9-m
+kind: rbac
+document: rbac-36
+family: '36'
+section_id: A36.9
+section_title: A36.9
+subsection_id: m
+cite: A36.9(m)
+title: A36.9(m)
+text: 'm). This requirement must be met for the propagation path at PNLTM. The mean of the
+  values of
+
+  the atmospheric absorption coeficients at the top and botom of each layer may be used to
+
+  characterize the absorp
+
+  tion properties of each layer.
+
+
+  A36.2.2.4
+
+  The airport control tower or another facility must be aproved by the FA for use as the
+
+  central location at which measurements of atmospheric parameters are representative of those
+
+  conditions existing over the geog
+
+  raphical area in which noise measurements are made.
+
+
+  A36.2.3
+
+  Flight path measurement.
+
+
+  A36.2.3.1
+
+  The airplane height and lateral position relative to the flight track must be determined
+  by
+
+  a method independent of normal flight instrumentation such as
+
+  radar tracking, theodolite
+
+  triangulation, or photographic scaling techniques, to be aproved by the FA.
+
+
+  Data da e
+
+  misão:
+
+  14
+
+  de abril de 2021
+
+  .
+
+  RBAC
+
+  nº 36
+
+
+  31
+
+
+  Origem
+
+  : SAR
+
+
+  25
+
+  / 121
+
+
+  A36.2.3.2
+
+  The airplane position along the flight path must be related to the noise recorded at the
+
+  noise measurement locations by means of synchronizi
+
+  ng signals over a distance suficient to asure
+
+  adequate data during the period that the noise is within 10 dB of the maximum value of PNLT.
+
+
+  A36.2.3.3
+
+  Position and performance data required to make the adjustments refered to in section'
+keywords:
+- ruido
+- meio-ambiente
+- flight
+- must
+- noise
+- data
+- path
+- position
+- airplane
+- aproved
+- atmospheric
+- each
+- layer
+- measurement
+categories:
+- ruido
+- meio-ambiente
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-36.md

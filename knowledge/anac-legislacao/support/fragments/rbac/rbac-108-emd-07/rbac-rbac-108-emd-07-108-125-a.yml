@@ -1,0 +1,42 @@
+id: rbac-rbac-108-emd-07-108-125-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.125'
+section_title: Aceitação da carga e mala postal
+subsection_id: a
+cite: 108.125(a)
+title: 108.125(a)
+text: '(a) Na aceitação da carga ou mala postal o operador aéreo deve:
+
+  (1) exigir informações documentadas que permitam a identificação da(s) pessoa(s) que entrega(m)
+  o(s) volume(s) de carga;
+
+  (2) exigir informações documentadas, física ou eletronicamente, suficientes para caracterizar
+  o volume a ser recebido e processado como carga conhecida ou carga desconhecida;
+
+  (3) verificar as condições do volume a ser recebido, de forma a garantir que os volumes
+  com indícios de violação ou adulteração sejam identificados, notificados e negados para
+  embarque;
+
+  (4) classificar o volume como carga conhecida, carga desconhecida ou carga de alto risco;'
+keywords:
+- seguranca
+- operador
+- carga
+- volume
+- aceitacao
+- conhecida
+- desconhecida
+- documentadas
+- exigir
+- informacoes
+- mala
+- postal
+- recebido
+- adulteracao
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

@@ -1,0 +1,42 @@
+id: is-is-91-001-j3-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J3.3
+section_title: Altitudes e/ou velocidades associadas aos procedimentos publicados devem ser
+  automaticamente extraídas do banco de dados de navegação por meio da seleção do procedimento
+  de aproximação. Caso ajustes manuais das informações de altitude sejam necessários, a tripulação
+  deverá realizar as alterações necessárias às altitudes do procedimento e reverter para utilização
+  da temperatura ajustada LNAV MDA.
+subsection_id: body
+cite: J3.3
+title: Altitudes e/ou velocidades associadas aos procedimentos publicados devem ser automaticamente
+  extraídas do banco de dados de navegação por meio da seleção do procedimento de aproximação.
+  Caso ajustes manuais das informações de altitude sejam necessários, a tripulação deverá
+  realizar as alterações necessárias às altitudes do procedimento e reverter para utilização
+  da temperatura ajustada LNAV MDA.
+text: J3.3 Altitudes e/ou velocidades associadas aos procedimentos publicados devem ser automaticamente
+  extraídas do banco de dados de navegação por meio da seleção do procedimento de aproximação.
+  Caso ajustes manuais das informações de altitude sejam necessários, a tripulação deverá
+  realizar as alterações necessárias às altitudes do procedimento e reverter para utilização
+  da temperatura ajustada LNAV MDA.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- altitudes
+- procedimento
+- ajustada
+- ajustes
+- alteracoes
+- altitude
+- aproximacao
+- associadas
+- automaticamente
+- banco
+- caso
+- dados
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,90 @@
+id: is-is-91-003b-definicoes-body
+kind: is
+document: is-91-003b
+family: '91'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  5.1 Esta Instrução Suplementar utiliza alguns termos e definições na língua inglesa por
+  entender que os mesmos já são amplamente utilizados pela indústria e operadores.
+
+  5.2 No escopo desta IS são válidas todas as definições contidas no RBAC nº 01 e RBAC nº
+  91.
+
+  5.3 Aproximação estabilizada. Aproximação efetuada de maneira controlada e apropriada em
+  termos de configuração, energia e trajetória de voo a partir de uma altura pré-determinada
+  até 50 pés acima da cabeceira ou o ponto onde a manobra do flare é iniciada.
+
+  5.4 Certificação Suplementar de Tipo. Constitui uma aprovação de grande modificação introduzida
+  em um projeto de tipo já certificado, usualmente, por uma pessoa (física ou jurídica) que
+  não o detentor do Certificado de Tipo - CT.
+
+  5.5 Combined Vision System. Sistema que disponibiliza simultaneamente imagens oriundas de
+  um EVS e SVS.
+
+  5.6 Decolagem com Baixa Visibilidade. Termo utilizado com relação a operações de decolagem
+  em uma pista onde o RVR é menor que 400 metros.
+
+  5.7 Enhanced Flight Vision System. É um EVS associado a um HUD.
+
+  5.8 Enhanced Vision System. Sistema que disponibiliza eletronicamente imagens em tempo real
+  do cenário externo através de sensores de imagem.
+
+  5.9 Flight Path Angle. Trajetória vertical na condição presente de potência, configuração
+  e posição dos controles de voo.
+
+  5.10 Flight Path Vector. Consiste num ícone apresentado no PFD ou HUD que indica a trajetória
+  da aeronave na condição presente de potência, configuração e posição dos controles de voo.
+  A informação é normalmente calculada através do sistema inercial ou outro processador específico
+  e enviada ao Sistema de Gerenciamento de Voo (FMS/FCC/AFMC ou outro acrônimo dependendo
+  do fabricante).
+
+  5.11 Head-down Display. Sistema que disponibiliza informações de voo, de desempenho ou de
+  navegação no painel convencional de instrumentos (não disponibilizado no campo de visão
+  do piloto).
+
+  5.12 Head Up Guidance System. Um sistema óptico e eletrônico que gera e projeta informações
+  de voo dentro do campo externo de visão do piloto. Ele apresenta dados primários de voo
+  e de navegação que se sobrepõem à cena externa, incluindo a representação gráfica da pista
+  de pouso e decolagem nas operações de aproximação com utilização do sistema, em escala natural
+  precisa (1:1).
+
+  5.13 Head-up Display. Sistema que disponibiliza informações de voo no campo de visão externo
+  do piloto.
+
+  5.14 Low Visibility Procedures. Conjunto de procedimentos específicos aplicados em um aeródromo
+  afim de garantir a segurança das operações de aproximação CAT II e CAT III e/ou LVTO.
+
+  5.15 Low Visibility Take-Off. Decolagem com visibilidade reduzida.
+
+  5.16 Synthetic Vision System. Sistema que disponibiliza aos tripulantes imagens externas
+  geradas através de dados.
+
+  5.17 Visibilidade Intensificada. Distância medida a frente da aeronave, como vista do posto
+  de pilotagem dessa aeronave, no qual objetos topográficos proeminentes podem ser claramente
+  distinguidos e identificados, no período diurno ou noturno, por um piloto usando um sistema
+  intensificador de visibilidade (EFVS).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- definicoes
+- disponibiliza
+- system
+- aproximacao
+- decolagem
+- piloto
+- visibilidade
+- vision
+- aeronave
+- atraves
+- campo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-003b.md

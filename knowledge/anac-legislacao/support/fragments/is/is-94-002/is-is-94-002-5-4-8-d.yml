@@ -1,0 +1,52 @@
+id: is-is-94-002-5-4-8-d
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.8
+section_title: Capacidade de recuperação de emergências para operações BVLOS ou acima de 400
+subsection_id: d
+cite: 5.4.8(d)
+title: 5.4.8(d)
+text: 'd) Outras falhas para as quais a Análise de Segurança tenha apontado a recuperação
+
+  de emergências como ação mitigatória efetiva.
+
+  A capacidade de recuperação de emergência deve ser executável em todo envelope de voo
+
+  na mais adversa combinação de condições ambientais e operacionais.
+
+  A capacidade de recuperação de emergência deve ser salvaguardada de interferência que
+
+  possa resultar em operação inadvertida ou não autorizada.Data de emissão: 3 de maio de 2017.
+  IS Nº E94-002
+
+  Revisão A
+
+  Caso requeira energia elétrica para operar, a capacidade de recuperação de emergências deve
+
+  ser alimentada pelo barramento elétrico que forneça a maior confiabilidade para operação.
+
+  A capacidade de recuperação de emergência deve ser possível após perda do sistema elétrico
+
+  primário.
+
+  O uso de explosivos para realizar a destruição em voo da RPA não é um meio aceitável para
+
+  cumprir com este requisito.'
+keywords:
+- recuperacao
+- capacidade
+- emergencia
+- emergencias
+- eletrico
+- operacao
+- acao
+- aceitavel
+- acima
+- adversa
+- alimentada
+- ambientais
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

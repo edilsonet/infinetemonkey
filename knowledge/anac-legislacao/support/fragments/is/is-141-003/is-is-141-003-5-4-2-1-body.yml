@@ -1,0 +1,38 @@
+id: is-is-141-003-5-4-2-1-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 5.4.2.1
+section_title: Sistema de navegação inercial - Plataforma estabelecida
+subsection_id: body
+cite: 5.4.2.1
+title: Sistema de navegação inercial - Plataforma estabelecida
+text: '5.4.2.1 Sistema de navegação inercial - Plataforma estabelecida
+
+  com orientação para o norte. Dois acelerômetros. Integração das
+
+  acelerações fornecida pela leitura contínua do curso verdadeiro e da
+
+  velocidade do solo fornecida pela CPU (control and display unit).
+
+  Aplicação em linha aéreas'
+keywords:
+- escolas
+- treinamento
+- estabelecida
+- inercial
+- navegacao
+- plataforma
+- sistema
+- fornecida
+- aceleracoes
+- acelerometros
+- aereas
+- aplicacao
+- continua
+- control
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

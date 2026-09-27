@@ -1,0 +1,34 @@
+id: rbac-rbac-108-emd-07-108-255-d
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.255'
+section_title: Implementação do Programa de Segurança do Operador Aéreo
+subsection_id: d
+cite: 108.255(d)
+title: 108.255(d)
+text: '(d) O operador aéreo deve manter ao menos uma cópia do seu PSOA em cada base operacional,
+  em formato físico ou digital.
+
+  (1) A última versão da Listagem de Inclusão de Medidas de Segurança e Procedimentos Alternativos,
+  aprovada pela ANAC, é parte integrante do PSOA.
+
+  (Redação dada pela Resolução nº 604, de 29.01.2021)'
+keywords:
+- seguranca
+- operador
+- aereo
+- psoa
+- alternativos
+- aprovada
+- base
+- cada
+- copia
+- dada
+- digital
+- fisico
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

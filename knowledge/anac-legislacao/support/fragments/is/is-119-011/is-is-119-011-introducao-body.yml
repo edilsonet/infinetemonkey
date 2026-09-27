@@ -1,0 +1,64 @@
+id: is-is-119-011-introducao-body
+kind: is
+document: is-119-011
+family: '119'
+section_id: introducao
+section_title: Introdução
+subsection_id: body
+cite: introducao
+title: Introdução
+text: 'Introdução
+
+  Normalmente, na condução de uma operação de serviço de transporte aéreo, um único operador
+  aéreo assume as responsabilidades sobre os aspectos técnicos e sobre os aspectos comerciais.
+  Nos acordos abrangidos por esta IS, é possível que ocorra uma cisão da figura do operador
+  aéreo, com um operador responsável perante a Anac pelos aspectos técnico-operacionais da
+  condução do voo propriamente dito (operador técnico); e outro operador responsável pelos
+  aspectos comerciais (operador comercial).
+
+  Ainda, é possível que esses acordos entre operadores aéreos impliquem em alteração na forma
+  de execução de atividades necessárias à condução da operação aérea (sob responsabilidade
+  do operador técnico), que podem passar a ser realizada
+
+  s pelo operador comercial (ou empresas subcontratadas).
+
+  Os mesmos requisitos devem ser cumpridos, de acordo com os procedimentos estabelecidos no
+  sistema de documentos de segurança operacional do operador técnico, porém, por se alterar
+  quem executará os procedimentos e eventualmente alterar os próprios procedimentos utilizados
+  para garantir esse cumprimento, fica caracterizado um impacto na forma de cumprimento dos
+  requisitos operacionais.
+
+  Ressalta-se que a responsabilidade primária pelas atividades se mantém com o operador técnico,
+  podendo haver somente a alteração de quem executará as atividades. Eventual falha na execução
+  da atividade pelo operador comercial (ou empresas subcontratadas) que implique em descumprimento
+  de um requisito aplicável ao operador técnico ou um descumprimento dos procedimentos estabelecidos
+  no sistema de documentos de segurança operacional do operador técnico é re
+
+  sponsabilidade final do operador técnico.
+
+  Nota
+
+  : alguns exemplos de atividades que poderiam ser impactadas constam no parágrafo 5.2.3.1
+  desta IS.
+
+  Esses acordos podem ser denominados, entre outras formas:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operador
+- tecnico
+- aspectos
+- atividades
+- procedimentos
+- acordos
+- aereo
+- comercial
+- conducao
+- introducao
+- alteracao
+- alterar
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-011.md

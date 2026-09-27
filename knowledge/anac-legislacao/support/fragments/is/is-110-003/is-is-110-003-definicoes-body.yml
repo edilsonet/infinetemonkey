@@ -1,0 +1,58 @@
+id: is-is-110-003-definicoes-body
+kind: is
+document: is-110-003
+family: '110'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Para os efeitos desta IS, são válidas as definições listadas nas:
+
+  seção 01.1 do RBAC nº 01; e
+
+  seção 110.3 do RBAC nº 110.
+
+  Além disso, são válidas as seguintes definições:
+
+  Cadastro no sistema AVSEC (https://sistemas.anac.gov.br/avsec/): registro oficial dos profissionais
+  AVSEC, mantido pela ANAC. A manutenção dos dados é em meio eletrônico, mediante inscrição
+  para o processo de certificação de Instrutor AVSEC, devendo o cadastro no sistema estar
+  atualizado e com foto.
+
+  Exame: conjunto de questões cujo resultado serve de demonstração de atingimento de grau
+  de conhecimento mínimo.
+
+  Executante: terceiro, pessoa jurídica, contratado para execução indireta de serviço da ANAC
+  para inscrição, agendamento e aplicação do exame de conhecimento teórico, conforme o Decreto
+  nº 9.507, de 21 de setembro de 2018.
+
+  Fiscal de prova: pessoa física contratada pelo executante do exame de conhecimento teórico
+  responsável pelos procedimentos e ordem a serem observados na sala de provas, que gozará
+  das prerrogativas e terá as responsabilidades próprias de agente público, na qualidade de
+  particular em colaboração com o Estado.
+
+  Objetivo de aprendizagem: resultado ou meta relacionado ao domínio do conhecimento que se
+  pretende alcançar ao final de uma instrução.'
+keywords:
+- carga
+- operacoes
+- definicoes
+- avsec
+- conhecimento
+- exame
+- cadastro
+- executante
+- inscricao
+- pessoa
+- resultado
+- secao
+- sistema
+- teorico
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-110-003.md

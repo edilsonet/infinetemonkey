@@ -1,0 +1,41 @@
+id: is-is-91-001-m2-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M2.3
+section_title: A verificação cruzada com os auxílios à navegação convencionais não é necessária,
+  pois a ausência de alerta de integridade é considerada suficiente para atender aos requisitos
+  de integridade. No entanto, sugere-se o monitoramento da navegação e qualquer perda de capacidade
+  RNP deve ser relatada ao ATC.
+subsection_id: body
+cite: M2.3
+title: A verificação cruzada com os auxílios à navegação convencionais não é necessária, pois
+  a ausência de alerta de integridade é considerada suficiente para atender aos requisitos
+  de integridade. No entanto, sugere-se o monitoramento da navegação e qualquer perda de capacidade
+  RNP deve ser relatada ao ATC.
+text: 'M2.3 A verificação cruzada com os auxílios à navegação convencionais não é necessária,
+  pois a ausência de alerta de integridade é considerada suficiente para atender aos requisitos
+  de integridade. No entanto, sugere-se o monitoramento da navegação e qualquer perda de capacidade
+  RNP deve ser relatada ao ATC.
+
+  M3. PROCEDIMENTOS OPERACIONAIS PARA SEGMENTOS RF (RADIUS TO FIX)'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- integridade
+- navegacao
+- alerta
+- atender
+- ausencia
+- auxilios
+- capacidade
+- considerada
+- convencionais
+- cruzada
+- entanto
+- monitoramento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,45 @@
+id: is-is-133-001-5-3-3-3-d
+kind: is
+document: is-133-001
+family: '133'
+section_id: 5.3.3.3
+section_title: Gerenciamento da frota de aeronaves
+subsection_id: d
+cite: 5.3.3.3(d)
+title: 5.3.3.3(d)
+text: 'd) Operação com guincho: as operações com guincho são um tipo de operação especial,
+  que requerem equipamentos aprovados (o próprio guincho) e pessoal de apoio devidamente treinado,
+  para operação do guincho. As operações com guincho devem obedecer ao previsto no RBAC nº
+  133. Os seguintes itens devem ser verificados e cumpridos:
+
+  i. o içamento de cargas pode ser feito com uma combinação aeronave-carga classe B, devendo
+  o conjunto aeronave-guincho possuir um meio de se alijar a carga em emergência;
+
+  ii. o içamento de pessoas somente pode ser realizado com uma combinação aeronave-carga classe
+  D, seguindo o previsto no item 7 desta IS, e atendendo aos requisitos do parágrafo 133.45(e)
+  do RBAC nº 133;
+
+  iii. o içamento deve ser executado com a aeronave em voo pairado; e
+
+  iv. deve-se inserir no Manual de Carga Externa as limitações de peso, especialmente quanto
+  à posição do CG, tanto longitudinal quanto lateral.'
+keywords:
+- carga-externa
+- helicoptero
+- guincho
+- aeronave
+- carga
+- icamento
+- operacao
+- classe
+- combinacao
+- operacoes
+- pode
+- quanto
+- aeronaves
+- alijar
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

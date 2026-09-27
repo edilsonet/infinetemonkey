@@ -1,0 +1,69 @@
+id: is-is-135-007-135-398-d
+kind: is
+document: is-135-007
+family: '135'
+section_id: '135.398'
+section_title: e, por referência, 135.385 e 135.387
+subsection_id: d
+cite: 135.398(d)
+title: 135.398(d)
+text: 'd) condição da pista.
+
+  Nota: o parágrafo 135.363(l) do RBAC nº 135 e esta IS não tratam de meios alternativos para
+  considerar parâmetros não relacionados com as informações meteorológicas de aeródromos,
+  como, por exemplo, o peso estimado do avião no momento do pouso.
+
+  5.1.4 Para o cálculo do desempenho de decolagem, considerando que o planejamento é realizado
+  pouco tempo antes da decolagem, normalmente se utilizam os valores vigentes para esses parâmetros,
+  obtidos de informes de condições meteorológicas, como o METAR.
+
+  5.1.5 Para o cálculo do desempenho de pouso, considerando que o RBAC nº 135 requer que se
+  considere o horário estimado de utilização do aeródromo, incluindo margens de tempo apropriadas,
+  normalmente se utilizam os valores previstos para esses parâmetros, obtidos de previsões
+  de condições meteorológicas, como o TAF.
+
+  5.1.6 Esses parâmetros normalmente seriam obtidos de informações meteorológicas providas
+  pelo órgão competente do Estado do aeródromo ou por provedor reconhecido por ele, em atendimento
+  à seção 135.213 do RBAC nº 135. No entanto, pode ocorrer de o aeródromo não dispor de tais
+  informações, seja temporariamente (por alguma falha no serviço de informações meteorológicas
+  existente), seja de forma permanente (por o aeródromo não estar dotado desse tipo de serviço).
+
+  5.1.7 Para atendimento a tais situações, o detentor pode solicitar aprovação da ANAC para
+  uso de meios alternativos aos das informações meteorológicas publicadas que atendam à seção
+  135.213 do RBAC nº 135. Esta IS fornece meios aceitáveis para se obter essa aprovação, que
+  somente pode ser utilizada em operações domésticas (ou seja, com aeródromos de origem, de
+  destino e de alternativa situados em território nacional).
+
+  5.1.8 Aeródromos que não disponham de informação meteorológica de forma permanente (ou seja,
+  para além de inoperâncias notificadas por NOTAM; ou, no caso de NOTAM, indisponibilidades
+  superiores a 60 dias) somente podem ser utilizados em operações regulares com base nos critérios
+  desta IS se o número de operações regulares do operador no aeródromo for inferior a 3 frequências
+  (3 pousos e 3 decolagens) semanais. No caso de indisponibilidades superiores ao prazo previsto
+  neste parágrafo, os operadores deverão se adequar ao limite de frequências estabelecido.
+
+  Nota: na avaliação do número de operações regulares semanais, não são consideradas situações
+  excepcionais, como, por exemplo, o fato de o último voo de uma semana ter sido adiado, fazendo
+  com que na semana seguinte o operador realize 4 frequências.
+
+  5.1.9 Conforme o item 4.1.1 da ICA 100-1, para operações IFR, é requerido que o aeródromo
+  possua informações meteorológicas disponibilizadas por meio de órgão ATS ou estação de radiodifusão
+  automática de aeródromo. Assim:'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- meteorologicas
+- informacoes
+- parametros
+- seja
+- aerodromos
+- esses
+- frequencias
+- meios
+- normalmente
+- obtidos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-007.md

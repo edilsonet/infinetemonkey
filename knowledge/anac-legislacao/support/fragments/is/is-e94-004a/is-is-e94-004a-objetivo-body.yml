@@ -1,0 +1,43 @@
+id: is-is-e94-004a-objetivo-body
+kind: is
+document: is-e94-004a
+family: '94'
+section_id: objetivo
+section_title: Objetivo
+subsection_id: body
+cite: objetivo
+title: Objetivo
+text: 'Objetivo
+
+  A subparte E do RBAC-E nº 94 estabelece requisitos para autorização de projeto de Sistema
+  de Aeronave Remotamente Pilotada (RPAS) levando-se em consideração critérios como o peso
+  máximo de decolagem (PMD) da aeronave não tripulada, se operada ou não além da visada visual
+  (BVLOS) ou acima ou não dos 120 m (400 pés) AGL (acima do nível do solo).
+
+  Atualmente, com base no uso da metodologia SORA (Specific Operations Risk Assessment) da
+  JARUS, é possível mensurar o risco da operação de um RPAS de maneira holística, propor mitigações
+  ou limitações e assim orientar o cumprimento de requisitos para autorização de projeto mais
+  proporcionais ao risco avaliado.
+
+  Caso o fabricante tenha o interesse de ter autorizado seu projeto de RPAS sob essa perspectiva,
+  deverá cumprir os critérios abordados nesta Instrução Suplementar, desenvolvidos de acordo
+  com a metodologia SORA na versão 2.5 e limitada às operações SAIL I ou II. Para os casos
+  não detalhados nesta IS, aplicam-se diretamente os requisitos já estabelecidos na Subparte
+  E do RBAC-E nº 94, e orientações contidas nas IS nº E94-001B e IS nº E94-002A.'
+keywords:
+- objetivo
+- projeto
+- requisitos
+- rpas
+- acima
+- aeronave
+- autorizacao
+- criterios
+- metodologia
+- risco
+- sora
+- subparte
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-004a.md

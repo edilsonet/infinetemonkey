@@ -1,0 +1,48 @@
+id: is-is-91-001-m8-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M8.1
+section_title: Generalidades
+subsection_id: body
+cite: M8.1
+title: Generalidades
+text: 'M8.1 Generalidades
+
+  a) A documentação relevante aceitável deve estar disponível para estabelecer que a aeronave
+  está equipada com um sistema RNP com capacidade demonstrada de execução de segmento RF e
+  deslocamento paralelo (parallel offset). A determinação da elegibilidade para os sistemas
+  existentes deve considerar a aceitação da documentação de conformidade do fabricante, por
+  ex. FAA ACs 90-105, 90-101A, 20-138B, EASA AMC 20-26.
+
+  b) A especificação para a operação A-RNP exige que a aeronave utilize sistema GNSS. O sistema
+  GNSS deve ser o principal sensor de navegação, seja como sistema de navegação autônomo,
+  ou como parte de um sistema multissensor.
+
+  i) Para aeronaves com um sistema GNSS: a aeronave é elegível para certificação A-RNP Continental.
+
+  ii) Para aeronaves com dois sistemas GNSS segregados e independentes: a aeronave é elegível
+  para certificação A-RNP Continental e Oceânico/Remoto.
+
+  c) Aeronaves aprovadas para operação RNP AR APCH com capacidade RF (T1) são elegíveis para
+  a operação A-RNP sem maiores demonstrações.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- aeronave
+- gnss
+- aeronaves
+- generalidades
+- operacao
+- capacidade
+- certificacao
+- continental
+- documentacao
+- elegivel
+- navegacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

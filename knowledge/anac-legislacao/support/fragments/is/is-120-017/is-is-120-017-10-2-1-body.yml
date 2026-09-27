@@ -1,0 +1,54 @@
+id: is-is-120-017-10-2-1-body
+kind: is
+document: is-120-017
+family: '120'
+section_id: 10.2.1
+section_title: Intervalos escalonados e exclusão de tarefas. Estas mudanças normalmente se
+  tornarão
+subsection_id: body
+cite: 10.2.1
+title: Intervalos escalonados e exclusão de tarefas. Estas mudanças normalmente se tornarão
+text: '10.2.1 Intervalos escalonados e exclusão de tarefas. Estas mudanças normalmente se
+  tornarão
+
+  efetivas assim que protocoladas na Anac para aceitação, conforme o item 10.1.1 e
+
+  conforme o processo interno definido do operador para alterações nas tarefas. A
+
+  implementação de tarefas individuais com intervalos escalonados é relativamente simples.
+
+  Nota: o operador deve prestar atenção especial a tarefas de cheques de tempo/data que
+
+  avaliem limites de vida restantes. Itens com vida-limite não podem ter seu limite de vida
+
+  excedido por causa de escalonamentos de tarefa. Antes de implementar o escalonamento, o
+
+  operador deve se assegurar que há tempo restante suficiente em itens com vida-limite no
+
+  novo intervalo. Um item com vida limitada não pode permanecer em serviço após o limite
+
+  de seu vencimento.Data de emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X'
+keywords:
+- antidrogas
+- saude
+- tarefas
+- vida
+- escalonados
+- intervalos
+- limite
+- estas
+- exclusao
+- mudancas
+- normalmente
+- operador
+- tornarao
+- data
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

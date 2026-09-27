@@ -1,0 +1,63 @@
+id: is-is-21-61-001-5-6-1-4-b
+kind: is
+document: is-21-61-001
+family: '21'
+section_id: 5.6.1.4
+section_title: 'The FCD aspects associated to the design change shall be documented and recorded,
+  including, at least, the following data:'
+subsection_id: b
+cite: 5.6.1.4(b)
+title: 5.6.1.4(b)
+text: 'b) When the change application needs to be complemented by updated FCD:
+
+  I- Descrição da modificação, incluindo a identificação das aeronaves base e candidata;
+
+  I- Description of the change, including the identification of the base and candidate aircraft;
+
+  II- Propostas de MDR, DR e requisitos especiais (consulte o Apêndice D);
+
+  II- Proposals for MDR, DR, and special requirements (refer to Appendix D);
+
+  III- Classificação da modificação (conforme explicado mais detalhadamente na seção 5.6.3);
+
+  III- Classification of the change (as further explained in section 5.6.3);
+
+  IV- Requisitos aplicáveis;
+
+  IV- Applicable requirements;
+
+  V- Meios pelos quais a conformidade com os requisitos aplicáveis foi demonstrada, bem como
+  evidências de suporte; e
+
+  V- Means by which compliance with applicable requirements has been shown, as well as supporting
+  evidence; and
+
+  VI- Declaração certificando que o requerente cumpriu com todos os requisitos aplicáveis.
+  Se o requerente possuir um certificado de organização de projeto, tal declaração deverá
+  ser feita de acordo com a Subparte J do RBAC 21.
+
+  VI- Statement certifying that the applicant complied with all applicable requirements. If
+  the applicant holds a design organization certificate, such statement shall be done in accordance
+  with Subpart J of RBAC 21.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- change
+- requirements
+- requisitos
+- aplicaveis
+- applicable
+- with
+- applicant
+- base
+- declaracao
+- design
+- including
+- modificacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-001.md

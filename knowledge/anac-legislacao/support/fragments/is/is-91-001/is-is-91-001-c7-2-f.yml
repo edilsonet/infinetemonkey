@@ -1,0 +1,43 @@
+id: is-is-91-001-c7-2-f
+kind: is
+document: is-91-001
+family: '91'
+section_id: C7.2
+section_title: 'Ao planejar operações em áreas onde o RNAV 10 é aplicado, o operador deve
+  avaliar o efeito dos ventos (em particular, o efeito dos ventos de proa). O operador pode
+  optar por realizar esta avaliação uma única vez para a rota pretendida ou realizar avaliações
+  para cada voo realizado. Ao realizar a avaliação mencionada o operador deve considerar os
+  aspectos destacados abaixo:'
+subsection_id: f
+cite: C7.2(f)
+title: C7.2(f)
+text: 'f) cálculo do tempo limite para cada voo específico: o operador pode optar por avaliar
+  cada voo individual, aplicando as informações de ventos utilizadas no planejamento de voo
+  para determinar se a aeronave cumprirá com o tempo limite especificado. Se a avaliação apontar
+  que o tempo de voo em espaço aéreo RNP 10 (RNAV 10), considerando os efeitos dos ventos
+  previstos, irá exceder o tempo limite do sistema de navegação inercial, então o plano de
+  voo deverá ser alterado e aeronave deverá voar uma rota alternativa ou então o voo deverá
+  sofrer mudanças de horário até que as condições de tempo limite possam ser satisfeitas.
+  Esta avaliação deve ser considerada uma tarefa de planejamento de voo ou de despacho.
+
+  C8. EFEITO DAS ATUALIZAÇÕES EM ROTA'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- tempo
+- avaliacao
+- limite
+- operador
+- ventos
+- cada
+- devera
+- efeito
+- realizar
+- rota
+- aeronave
+- avaliar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

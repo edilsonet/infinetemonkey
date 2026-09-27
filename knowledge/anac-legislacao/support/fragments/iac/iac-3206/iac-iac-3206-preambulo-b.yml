@@ -1,0 +1,87 @@
+id: iac-iac-3206-preambulo-b
+kind: iac
+document: iac-3206
+family: '320'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: b
+cite: preambulo(b)
+title: preambulo(b)
+text: '(b) - Quando for exigida uma tripulação de revezamento, o número de comissários deverá
+
+  ser acrescido de cinqüenta por cento do número exigido para uma tripulação simples,
+
+  arredondando-se, quando fração, para o número inteiro superior.
+
+  QUADRO DEMONSTRATIVO DO NÚMERO MÍNIMO DE
+
+  COMISSÁRIOS A BORDO
+
+  TIPO
+
+  AERONAVE
+
+  TOTAL SAÍDAS
+
+  NÍVEL PISO
+
+  N° Mínimo de Comissários - Requisitos (1) (2) (3)
+
+  TRIPULAÇÃO
+
+  SIMPLES COMPOSTA REVEZAMENTO
+
+  B-747/300 10 10 12 15
+
+  B-747-200 09 09 11 14
+
+  DC-10 08 08 10 12
+
+  A-300 08 08 10 12
+
+  B-767 04 04 05 06
+
+  B-707 04 04 05 06
+
+  B-727/200 05 05 06 08
+
+  \B-727/100 03 03 04 05IAC 3206
+
+  B-737/200/300 04 04 05 06
+
+  L-188/A 03 02 02 03
+
+  L-188/C 02 02 02 03
+
+  FH-227 01 01 - -
+
+  F-27 01 01 - -
+
+  ERJ 170-100 (*) 02 02 03 03
+
+  ERJ 170-200 (*) 02 02 03 03
+
+  ERJ 190-100 (*) 02 03 04 05
+
+  ERJ 190-200 (*) 02 03 04 05
+
+  (Itens incluídos pela Resolução ANAC N° 59, de 05 de novembro de 2008)
+
+  NOTA:'
+keywords:
+- numero
+- comissarios
+- tripulacao
+- minimo
+- preambulo
+- revezamento
+- simples
+- 05iac
+- acrescido
+- aeronave
+- arredondando
+- bordo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-3206.md

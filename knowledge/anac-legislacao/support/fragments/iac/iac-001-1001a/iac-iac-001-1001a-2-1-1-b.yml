@@ -1,0 +1,43 @@
+id: iac-iac-001-1001a-2-1-1-b
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 2.1.1
+section_title: TÍTULO DO ÍTEM
+subsection_id: b
+cite: 2.1.1(b)
+title: 2.1.1(b)
+text: 'b) alínea
+
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+  xxx:
+
+  - subalínea xxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxx
+
+  xxxxxxxxx xxxxxxx xxxx xxx x x xx xxxxxxxxxxxx x x x x x x x ; ou
+
+  - subalínea xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+  xxxxxxxxxxxxxxxxxx xxxxxxxxxx xxxxx xx xx xxxxx x x x x x x x x x x x x
+
+  .
+
+  2.2 TÍTULO DO ITEM'
+keywords:
+- subalinea
+- titulo
+- xxxx
+- xxxxx
+- xxxxxxxxx
+- alinea
+- xxxxxxx
+- xxxxxxxxxx
+- xxxxxxxxxxxx
+- xxxxxxxxxxxxxxx
+- xxxxxxxxxxxxxxxxxx
+- xxxxxxxxxxxxxxxxxxxx
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

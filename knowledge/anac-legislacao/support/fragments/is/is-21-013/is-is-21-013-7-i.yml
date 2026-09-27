@@ -1,0 +1,54 @@
+id: is-is-21-013-7-i
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: i
+cite: 7(i)
+title: 7(i)
+text: 'i) Análise estrutural para a instalação de antenas: Qualquer modificação para
+
+  instalação de uma nova antena necessita ser avaliada quanto a seu impacto na estrutura
+
+  da aeronave. Exemplos são as análises e ensaios quanto à buffeting e vibração quando
+
+  de instalações de antenas (cumprimento com a seção 251 dos RBAC 23, 25, 27 ou 29,
+
+  conforme aplicável), ou quanto a controle de pressurização nas modificações em cabines
+
+  pressurizadas (cumprimento com as seções 841 e 843 dos RBAC 23, 25, 27 ou 29,
+
+  conforme aplicável). Assim, a instalação de antena externa em área pressurizada deverá
+
+  ser substanciada através de um Relatório de Análise Estrutural, conforme os critérios da
+
+  área onde a antena será instalada. Para orientações específicas relativas a modificações
+
+  na estrutura da fuselagem ver a AC 43.13-2, em sua última revisão. Orientações
+
+  adicionais relativas a estruturas podem ser encontradas nas últimas revisões das ACs
+
+  20-107, 20-13 e 25.1529-1;'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- instalacao
+- antena
+- quanto
+- analise
+- antenas
+- aplicavel
+- area
+- criterios
+- cumprimento
+- estrutura
+- estrutural
+- modificacoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

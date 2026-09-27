@@ -1,0 +1,88 @@
+id: is-is-91-409-001-apendice-c-perguntas-mais-frequentes-sobre-tbo-body
+kind: is
+document: is-91-409-001
+family: '91'
+section_id: apendice-c-perguntas-mais-frequentes-sobre-tbo
+section_title: APÊNDICE C - PERGUNTAS MAIS FREQUENTES SOBRE TBO
+subsection_id: body
+cite: apendice-c-perguntas-mais-frequentes-sobre-tbo
+title: APÊNDICE C - PERGUNTAS MAIS FREQUENTES SOBRE TBO
+text: 'APÊNDICE C - PERGUNTAS MAIS FREQUENTES SOBRE TBO
+
+
+  C.1 É OBRIGATÓRIO O CUMPRIMENTO DOS TEMPOS ENTRE REVISÕES GERAIS - TBO (TIME BETWEEN OVERHAUL)
+  PARA GARANTIR A OPERAÇÃO SEGURA DOS MOTORES AERONÁUTICOS QUE EQUIPAM AERONAVES QUE SE ENQUADRAM
+  NO PARÁGRAFO 91.409(I) DO RBAC Nº 91?
+
+  A obrigatoriedade no cumprimento do TBO dependerá do processo de certificação do motor.
+  O TBO será obrigatório se constar das limitações de aeronavegabilidade, ou se for tornado
+  mandatório por regulamento ou Diretriz de Aeronavegabilidade. Nos demais casos, o TBO é
+  uma recomendação do fabricante e, portanto, de cumprimento facultativo. O TBO é específico
+  por modelo de motor, e os tempos de revisão recomendados são normalmente identificados em
+  Manuais de Manutenção, Boletins ou Cartas de Serviço do fabricante do motor.
+
+
+  C.2 O QUE SÃO LIMITAÇÕES DE AERONAVEGABILIDADE?
+
+  Limitações de aeronavegabilidade são tarefas de manutenção que afetam o nível mínimo de
+  segurança do produto aeronáutico. Incluem tarefas que visam detectar falhas latentes que,
+  em conjunto com uma ou mais falhas específicas adicionais, podem resultar em uma situação
+  perigosa ou catastrófica. São definidas pelo fabricante durante a certificação de tipo ou
+  suplementar de tipo, aprovadas pela autoridade de aviação civil e identificadas como tal
+  no Manual de Manutenção ou das Instruções para Aeronavegabilidade Continuada, tornando-se
+  de cumprimento obrigatório. As limitações de aeronavegabilidade envolvem prazos ou intervalos
+  máximos de utilização em termos de horas e/ou ciclos, ou outro valor mensurável.
+
+
+  C.3 O TBO É FACULTATIVO PARA QUALQUER AERONAVE QUE OPERA NO BRASIL SE NÃO CONSTAR DAS LIMITAÇÕES
+  DE AERONAVEGABILIDADE?
+
+  Não. O cumprimento do TBO recomendado pelos fabricantes é facultativo para aeronaves que
+  se enquadram no parágrafo 91.409(i) do RBAC nº 91. Os RBAC nº 121 e 135, por envolverem
+  empresas de serviço de transporte aéreo, exigem o cumprimento do programa de manutenção
+  recomendado pelo fabricante ou aprovado pela Anac.
+
+
+  C.4 SEGUNDO OS CRITÉRIOS DESTA IS, A REVISÃO GERAL DE UM MOTOR CONVENCIONAL JAMAIS SERÁ
+  EXECUTADA?
+
+  Não. O funcionamento de um motor provoca desgastes e em algum momento a revisão geral do
+  motor terá de ser feita. Ela poderá ser realizada dentro do TBO estabelecido pelo fabricante
+  ou dentro de outro intervalo, mas deverá ser realizada sempre que as condições do motor
+  estiverem deterioradas a ponto de requerer a revisão, ou quando o TBO for alcançado nas
+  situações em que ele for mandatório conforme citado na resposta da pergunta C.1.
+
+
+  C.5 COMO É POSSÍVEL SABER SE AS CONDIÇÕES DO MOTOR ESTÃO DETERIORADAS?
+
+  Quando o motor estiver fora dos parâmetros normais de operação previstos pelo fabricante
+  ou quando for identificado por meio de monitoramento. O monitoramento pode ser feito por
+  meio de métodos recomendados pelo fabricante. Também poderá ser usada a IS nº 91.409-002
+  para motores convencionais e a AC 120-113 da FAA para motores a turbina.
+
+
+  C.6 E SE O OPERADOR OPTAR POR NÃO REALIZAR O MONITORAMENTO DAS CONDIÇÕES DO MOTOR?
+
+  Caso o monitoramento das condições do motor não seja realizado, a Anac recomenda fortemente
+  a realização da revisão geral dentro do TBO recomendado pelo fabricante ou quando as suas
+  condições estiverem deterioradas, o que ocorrer primeiro.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- motor
+- fabricante
+- aeronavegabilidade
+- cumprimento
+- condicoes
+- limitacoes
+- revisao
+- manutencao
+- monitoramento
+- apendice
+- dentro
+- deterioradas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-001.md

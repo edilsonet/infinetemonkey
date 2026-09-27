@@ -1,0 +1,51 @@
+id: is-is-21-61-005-5-3-3-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.3
+section_title: MMEL Safety Level
+subsection_id: body
+cite: 5.3.3
+title: MMEL Safety Level
+text: '5.3.3 MMEL Safety Level
+
+  5.3.3.1 Os requisitos aplicáveis a serem considerados no desenvolvimento da MMEL incluem
+  os requisitos da Base de Certificação de Tipo e quaisquer requisitos operacionais (incluindo
+  requisitos de espaço aéreo) aplicáveis ao item considerado.
+
+  5.3.3.1 Applicable requirements to be considered in the MMEL development include the Type
+  Certification Basis requirements and any operational requirements (including airspace requirements)
+  applicable to the considered item.
+
+  5.3.3.2 O termo “como pretendido” no parágrafo 21.61-I(e)(1) do RBAC 21 significa que o
+  estrito cumprimento com os requisitos aplicáveis pode não ser garantido contanto que meios
+  de mitigação apropriados sejam propostos, garantindo que seja mantido um nível aceitável
+  de segurança em linha com a intenção geral dos requisitos, durante o tempo em que o despacho
+  será autorizado.
+
+  5.3.3.2 The term “as intended” in paragraph 21.61-I(e)(1) of RBAC 21 means that strict compliance
+  with the applicable requirements may not be ensured provided appropriate mitigation means
+  are proposed ensuring that an acceptable level of safety is maintained in line with the
+  overall intent of the requirements, for the time in which the dispatch will be authorized.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- requirements
+- requisitos
+- mmel
+- level
+- safety
+- aplicaveis
+- applicable
+- considered
+- means
+- that
+- with
+- acceptable
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

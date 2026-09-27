@@ -1,0 +1,32 @@
+id: rbac-rbac-108-emd-07-108-139-b
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.139'
+section_title: Transporte aéreo de valores
+subsection_id: b
+cite: 108.139(b)
+title: 108.139(b)
+text: (b) Os valores a serem transportados devem ser descritos, sem utilizar palavras genéricas,
+  no formulário de Declaração de Transporte Aéreo de Valores, documento de caráter sigiloso
+  conforme modelo estabelecido em Instrução Suplementar (IS) da ANAC.
+keywords:
+- seguranca
+- operador
+- valores
+- aereo
+- transporte
+- carater
+- declaracao
+- descritos
+- documento
+- estabelecido
+- formulario
+- genericas
+- instrucao
+- modelo
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

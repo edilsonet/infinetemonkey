@@ -1,0 +1,37 @@
+id: is-is-145-009-5-5-13-13-z
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.13.13
+section_title: Registros de calibração periódica
+subsection_id: z
+cite: 5.5.13.13(z)
+title: 5.5.13.13(z)
+text: 'z) Se a OM inclui um banco de prova de motor ou APU (Auxiliary Power Unit), o manual
+  inclui procedimentos para correlação, calibração e limitações, se aplicável?
+
+  aa) Para organizações que efetuam END, o manual inclui procedimentos para certificação de
+  blocos de referência de END de fabricação própria (se algum é usado)? e
+
+  bb) Os procedimentos tratam da aceitação no inventário de novos “blocos de referência” de
+  END?'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inclui
+- procedimentos
+- blocos
+- calibracao
+- manual
+- referencia
+- aceitacao
+- algum
+- aplicavel
+- auxiliary
+- banco
+- certificacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

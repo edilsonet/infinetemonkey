@@ -1,0 +1,202 @@
+id: is-is-117-004-apendice-b-utilizando-ferramentas-de-mensuracao-body
+kind: is
+document: is-117-004
+family: '117'
+section_id: apendice-b-utilizando-ferramentas-de-mensuracao
+section_title: Apêndice B. Utilizando Ferramentas de Mensuração.
+subsection_id: body
+cite: apendice-b-utilizando-ferramentas-de-mensuracao
+title: Apêndice B. Utilizando Ferramentas de Mensuração.
+text: 'Apêndice B. Utilizando Ferramentas de Mensuração.
+
+  B.1. Os processos de gerenciamento de risco de fadiga e os processos de garantia da segurança
+  vão por vezes requerer a mensuração da fadiga, do sono, do desempenho ou da carga de trabalho
+  de um tripulante. Para a maior parte destes conceitos, não há um método único que seja correto
+  ou perfeito. Justamente pelo fato da fadiga afetar muitas habilidades e ter múltiplas causas,
+  mais de um tipo de medida são normalmente utilizadas nas pesquisas científicas para sustentar
+  uma figura mais abrangente da fadiga.
+
+  B.2. Quando se desejar verificar se uma medida é apropriada para uso, os pontos abaixo devem
+  ser levados em conta:
+
+  a. a medida demonstrou ser sensível em medir aquilo que ela se propõe a medir (ou seja,
+  foi validade cientificamente);
+
+  b. o uso da medida não prejudica a habilidade de o tripulante em cumprir suas tarefas operacionais;
+  e
+
+  c. a medida já foi utilizada anteriormente na aviação, por isso os dados podem ser comparados
+  entre diferentes tipos de operação.
+
+  B.3. Novos métodos de medir fadiga, sono, desempenho e carga de trabalho estão sendo continuamente
+  desenvolvidos, e serão ferramentas valiosas a serem adicionadas às já validadas. Enquanto
+  isso, o SGRF depende de medidas que sejam aceitas pela ANAC, pelos provedores de serviço,
+  pelo pessoal operacional e pela literatura científica como significativas e confiáveis.
+  Tal cuidado evita gastos e inconvenientes de se coletar dados cujo valor seja duvidoso.
+
+  B.4. As medidas variam entre subjetivas (baseadas inteiramente na lembrança ou percepção
+  da pessoa) e objetivas (como os testes de desempenho diferentes tipos de monitoramento fisiológico).
+  Cada uma tem forças e fraquezas. Na decisão de qual tipo de dados coletar, o mais importante
+  é considerar o nível de fadiga esperado. Por exemplo, o risco de fadiga esperado é baixo,
+  então medidas mais baratas, menos invasivas e mais simples de serem utilizadas podem ser
+  adequadas; por outro lado, se o risco é maior, então medidas escolhidas devem ser mais abrangentes
+  e consequentemente mais trabalhosas e custosas.
+
+  B.5. A Tabela 8 apresenta um resumo das possíveis medidas de fadiga, sono, desempenho e
+  carga de trabalho, suas forças e fraquezas.
+
+
+  Ferramenta de mensuração
+
+  Subjetiva/ Objetiva
+
+  Forças
+
+  Fraquezas
+
+  Fadiga
+
+  Reportes de fadiga
+
+  Subjetiva
+
+  Simples, bom custo/ benefício, possibilidade de se fazer online, permite identificação imediata
+  do risco de fadiga
+
+  Sujeito a possíveis vieses, depende de uma efetiva cultura de reporte na organização
+
+  Pesquisas retrospectivas
+
+  Subjetiva
+
+  Simples, bom custo/ benefício, muitos dados podem ser coletados
+
+  Sujeito a lembrança conter vieses, itens nem sempre bem validados
+
+  Escalas de avaliação (ex.: KSS, SP, VAS)
+
+  Subjetiva
+
+  Simples, bom custo/ benefício, rápido em completar, muitos dados podem ser coletados, muitas
+  escalas bastante usadas na aviação
+
+  Sujeito a possíveis vieses
+
+  Medidas fisiológicas (ex.: EEG, EOG)
+
+  Objetiva
+
+  Objetivo e não sujeito a vieses
+
+  Invasivo, pode ser um fardo ao tripulante, consome tempo, caro, interferências (como barulho)
+  nos dados pode ser um problema
+
+  Sono
+
+  Pesquisas retrospectivas
+
+  Subjetiva
+
+  Simples, bom custo/ benefício
+
+  Sujeito a lembrança conter vieses, itens nem sempre bem validados
+
+  Diários de sono
+
+  Subjetiva
+
+  Simples, bom custo/ benefício
+
+  Sujeito a lembrança conter vieses, a maioria dos diários não é bem validada, múltiplos dias
+  devem ser coletados, pode gerar um fardo ao tripulante
+
+  Actígrafo
+
+  Objetiva
+
+  Objetivo e não sujeito a vieses, já usado em aviação
+
+  Moderadamente invasivo, pode ser um fardo ao tripulante, tempo de análise dispendioso, trabalhoso,
+  custos moderados
+
+  Polissonografia
+
+  Objetiva
+
+  Objetivo e não sujeito a vieses, já usado em aviação
+
+  Invasivo, pode ser um fardo ao tripulante, consome tempo, caro, trabalhoso
+
+  Ritmo circadiano
+
+  Medidas fisiológicas (ex.: temperatura corporal, melatonina)
+
+  Objetiva
+
+  Objetivo e não sujeito a vieses, já usado em aviação
+
+  Invasivo, pode ser um fardo ao tripulante, consome tempo, caro, interferências (como barulho)
+  nos dados pode ser um problema
+
+  Desempenho
+
+  Pesquisas retrospectivas
+
+  Subjetiva
+
+  Simples, bom custo/benefício, muitos dados podem ser coletados
+
+  Sujeito a lembrança conter vieses, itens nem sempre bem validados
+
+  Testes de desempenho (ex.: PVT)
+
+  Objetiva
+
+  Objetivo e não sujeito a vieses, algumas medidas bastante usadas em aviação
+
+  Moderadamente invasivo, pode ser um fardo ao tripulante, tempo de análise dispendioso, trabalhoso,
+  custos moderados, distrações no ambiente de teste podem ser problemáticas
+
+  Carga de trabalho
+
+  Escalas de avaliação (ex.: NASA TLX*, Overall Workload Scale, VAS)
+
+  Subjetiva
+
+  Simples, bom custo/ benefício
+
+  Sujeito a lembrança conter vieses, itens nem sempre bem validados
+
+  Medidas fisiológicas (ex.: EEG, ECG)
+
+  Objetiva
+
+  Objetivo e não sujeito a vieses, algumas medidas bastante usadas em aviação
+
+  Invasivo, consome tempo, caro, interferências (como barulho) nos dados pode ser um problema
+
+  * https://humansystems.arc.nasa.gov/groups/TLX/tlxpaperpencil.php
+
+  Tabela 8. Resumo sobre as medidas de fadiga, sono, desempenho e carga de trabalho (Fonte:
+  DOC 9966, 2ª ed., 2016).'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- sujeito
+- vieses
+- medidas
+- dados
+- pode
+- simples
+- subjetiva
+- tripulante
+- aviacao
+- beneficio
+- custo
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-117-004.md

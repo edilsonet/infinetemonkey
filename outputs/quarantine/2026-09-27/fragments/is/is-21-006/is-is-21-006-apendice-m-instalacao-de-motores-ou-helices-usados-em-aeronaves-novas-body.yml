@@ -1,0 +1,92 @@
+id: is-is-21-006-apendice-m-instalacao-de-motores-ou-helices-usados-em-aeronaves-novas-body
+kind: is
+document: is-21-006
+family: '21'
+section_id: apendice-m-instalacao-de-motores-ou-helices-usados-em-aeronaves-novas
+section_title: APÊNDICE M - INSTALAÇÃO DE MOTORES OU HÉLICES USADOS EM AERONAVES NOVAS
+subsection_id: body
+cite: apendice-m-instalacao-de-motores-ou-helices-usados-em-aeronaves-novas
+title: APÊNDICE M - INSTALAÇÃO DE MOTORES OU HÉLICES USADOS EM AERONAVES NOVAS
+text: 'APÊNDICE M - INSTALAÇÃO DE MOTORES OU HÉLICES USADOS EM AERONAVES NOVAS
+
+  M.1 Objetivo
+
+  M.1.1 O fabricante de uma aeronave segundo as subpartes F ou G é responsável pela conformidade
+  com o projeto de tipo dos motores ou hélices instalados na aeronave. São estabelecidos a
+  seguir os critérios para que o fabricante cumpra com as suas responsabilidades ao instalar
+  motores ou hélices usados em aeronaves novas.
+
+  M.2 Referências
+
+  M.2.1 AC 21-19 (FAA) Installation of Used Engines in New Production Aircraft.
+
+  M.2.2 IS 43.9-003 Cadernetas de Célula, de Motor e de Hélice
+
+  M.3 Critérios
+
+  M.3.1 O fabricante de uma aeronave nova segundo as Subpartes F ou G do RBAC 21 que pretenda
+  instalar motores ou hélices usados deve atender aos seguintes critérios:
+
+  M.3.1.1 O fabricante que seja detentor de um COP deve possuir procedimentos em seu sistema
+  da qualidade para a instalação de motores ou hélices usados;
+
+  M.3.1.2 O fabricante deve manter informações, registros e dados necessários para verificar
+  a instalação correta do motor;
+
+  M.3.1.3 O fabricante deve verificar a configuração do motor ou hélice usado que está sendo
+  instalado e se o motor ou hélice está listado na especificação do certificado de tipo da
+  aeronave;
+
+  M.3.1.4 Todas as instalações de acessórios que compõem o grupo motopropulsor, e aquelas
+  que não fazem parte do motor, devem estar em conformidade com o projeto de tipo da aeronave
+  e devem estar em condições de operação segura. Tais instalações, quando não forem novas,
+  devem ter sido mantidas conforme o RBAC 43;
+
+  M.3.1.5 Aeronaves novas com motores e/ou hélices usados devem satisfazer todos os parâmetros
+  de ensaio em voo de produção estabelecidos no projeto de tipo e nos procedimentos de ensaio
+  aprovados. Se qualquer parâmetro de ensaio não puder ser verificado por causa da condição
+  de motor ou hélice usado, a aeronave não é elegível para um certificado de aeronavegabilidade,
+  a menos que o motor ou hélice seja reparado ou substituído por um que permita a aeronave
+  operar de acordo com as exigências de ensaio em voo aplicáveis a uma aeronave nova;
+
+  M.3.1.6 Os registros de manutenção dos motores/hélices usados, incluindo acessórios, devem
+  estar de acordo com o RBAC 91.417, 121 ou 135, e devem acompanhar o motor ou hélice. Esses
+  registros devem ser fornecidos pelo fabricante da aeronave ao seu comprador, a menos que
+  o comprador forneça seu próprio motor ou hélice (ref. Nota 1 desta IS). Informações relativas
+  aos registros de manutenção, estão descritos na IS 43.9-003 “Cadernetas de Célula, de Motor
+  e de Hélice”;
+
+  M.3.1.7 O fabricante deve garantir que todas as diretrizes de aeronavegabilidade que afetem
+  o motor ou hélice tenham sido incorporadas de acordo com o RBAC 39. Os registros de manutenção
+  devem conter as informações sobre diretrizes de aeronavegabilidade e boletins de serviço
+  incorporados.
+
+  NOTA 1 - Em caso de exportação da aeronave, é indispensável a aceitação formal da autoridade
+  do país importador sobre a condição específica.
+
+
+  NOTA 2 - Quando o projeto de tipo faz referência a um motor ou hélice que não é mais produzido,
+  e são obtidos motores ou hélices usados que atendem às necessidades de produção do fabricante,
+  os motores ou hélices devem ser recém revisados ou recém reconstruído (ref. RBAC 91.421(c)).'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- motor
+- helices
+- motores
+- aeronave
+- helice
+- fabricante
+- usados
+- novas
+- aeronaves
+- instalacao
+- registros
+- tipo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-006.md

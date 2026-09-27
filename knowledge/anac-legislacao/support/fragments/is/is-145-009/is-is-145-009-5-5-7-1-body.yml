@@ -1,0 +1,66 @@
+id: is-is-145-009-5-5-7-1-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.7.1
+section_title: 'Referência: RBAC nº 145, parágrafo 145.209(g).'
+subsection_id: body
+cite: 5.5.7.1
+title: 'Referência: RBAC nº 145, parágrafo 145.209(g).'
+text: '5.5.7.1 Referência: RBAC nº 145, parágrafo 145.209(g).
+
+  5.5.7.2 Requisitos: algumas OM executam manutenção, manutenção preventiva ou alterações
+  para um operador que conduz operações sob os RBAC nº 121, 129 ou 135, que possua um Programa
+  de Manutenção de Aeronavegabilidade Continuada (PMAC), conforme descrito na IS nº 120-016.
+  Nesse caso, o MOM deve descrever os procedimentos para assegurar que todos os trabalhos
+  contratados serão realizados de acordo com o manual de manutenção do operador, e não de
+  acordo com os procedimentos previstos nos manuais da organização de manutenção. Os procedimentos
+  devem assegurar que o operador tenha fornecido à OM as informações necessárias para garantir
+  o cumprimento desse requisito. Exemplo: se a OM executa uma inspeção para um operador, o
+  manual da OM deve conter procedimentos para assegurar que as inspeções são executadas de
+  acordo com o Programa de Manutenção de Aeronavegabilidade Continuada do operador. O operador
+  deve fornecer à OM as seções aplicáveis do seu PMAC, ou claramente resumir os requisitos
+  (tarefas) na ordem de serviço (work order).
+
+  5.5.7.3 Identificar Responsabilidade: os procedimentos devem identificar quem (por título)
+  é o responsável por manter todos os dados técnicos do operador atualizados e onde esses
+  manuais/seções estão localizados, se retidos na OM. Os procedimentos devem explicar quais
+  as informações do operador devem estar disponíveis para o pessoal da manutenção quando o
+  serviço é executado. Também são requeridos procedimentos para assegurar que as ordens de
+  serviço do operador são analisadas, para assegurar que este tenha claramente especificado
+  quais dados técnicos que devem ser utilizados para executar a manutenção. As pessoas da
+  OM podem necessitar de treinamento adicional para executar adequadamente essa análise. O
+  sistema de ordem de serviço, ou de ficha de acompanhamento de serviços da OM, pode ser utilizado
+  para integrar essa informação no sistema de controle de qualidade. Se a OM transfere os
+  requisitos do operador ao seu pessoal de manutenção através de instruções especiais na ordem
+  de serviço ou ficha de acompanhamento, essa seção do Manual (parte referente ao sistema
+  da qualidade) deve explicar claramente como isso é feito.
+
+  5.5.7.4 Organização da OM: uma OM executando manutenção para um operador aéreo deve ter
+  uma organização adequada para executar o trabalho. Isso inclui a habilidade para distinguir
+  o trabalho executado para diferentes operadores. Além disso, se a OM executa itens de inspeção
+  obrigatória - IIO, a estrutura organizacional da OM deve prover a separação do pessoal que
+  executa a manutenção do pessoal que realiza as inspeções (pessoal da qualidade). O operador
+  (e não a OM) é quem determina quais as ações de manutenção são IIO. Se os inspetores da
+  OM são autorizados a executar inspeção no IIO para (e pelo) operador, o operador deve assegurar
+  que os inspetores da OM estão treinados nos procedimentos para inspeção de IIO, incluindo
+  como as inspeções são executadas e registradas.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- operador
+- procedimentos
+- assegurar
+- pessoal
+- servico
+- executar
+- inspecao
+- acordo
+- claramente
+- executa
+- inspecoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

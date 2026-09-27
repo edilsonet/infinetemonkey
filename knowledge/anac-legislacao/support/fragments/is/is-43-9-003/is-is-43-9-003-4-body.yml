@@ -1,0 +1,139 @@
+id: is-is-43-9-003-4-body
+kind: is
+document: is-43-9-003
+family: '43'
+section_id: '4'
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: '4'
+title: DEFINIÇÕES
+text: '4. DEFINIÇÕES
+
+  4.1 Caderneta de Célula: É o livro destinado aos registros primários e secundários dos
+
+  serviços de manutenção executados na aeronave e seus componentes, tais como: ações de
+
+  correção de manutenção, troca de componente, serviços de inspeção e revisão,
+
+  cumprimento de Boletins de Serviço e de Diretrizes de Aeronavegabilidade, incorporação
+
+  de modificações e de reparos, e qualquer outra atividade de manutenção realizada. Tem o
+
+  objetivo de centralizar os registros de manutenção e quaisquer registros técnicos que
+
+  evidenciem as reais condições de aeronavegabilidade da aeronave e de seus componentes,
+
+  de modo a cumprir os requisitos estabelecidos nos RBHA/RBAC aplicáveis e conforme
+
+  padrão definido no Apêndice A desta IS.
+
+  4.2 Caderneta de Motor: É o livro destinado aos registros primários e secundários dos
+
+  serviços de manutenção executados no motor e seus componentes, tais como: ações de
+
+  correção de manutenção, troca de componente, serviços de inspeção e revisão,
+
+  cumprimento de Boletins de Serviço e de Diretrizes de Aeronavegabilidade, incorporação
+
+  de modificações e de reparos, e qualquer outra atividade de manutenção realizada. Tem o
+
+  objetivo de centralizar os registros manutenção e quaisquer registros técnicos que
+
+  evidenciem as reais condições de aeronavegabilidade do motor e de seus componentes, de
+
+  modo a cumprir os requisitos estabelecidos nos RBHA/RBAC aplicáveis e conforme
+
+  padrão definido no Apêndice B desta IS.Origem: SAR 2/47
+
+  Data de emissão: 28.02.2020 IS nº 43.9-003
+
+  Revisão B
+
+  4.3 Caderneta de Hélice: É o livro destinado aos registros primários e secundários dos
+
+  serviços de manutenção executados na hélice e seus componentes, tais como: ações de
+
+  correção de manutenção, troca de componente, serviços de inspeção e revisão,
+
+  cumprimento de Boletins de Serviço e de Diretrizes de Aeronavegabilidade, incorporação
+
+  de modificações e de reparos, e qualquer outra atividade de manutenção realizada. Tem o
+
+  objetivo de centralizar os registros de manutenção e quaisquer registros técnicos que
+
+  evidenciem as reais condições de aeronavegabilidade da hélice e de seus componentes, de
+
+  modo a cumprir os requisitos estabelecidos nos RBHA/RBAC aplicáveis e conforme
+
+  padrão definido no Apêndice C desta IS.
+
+  4.4 Hora de Voo, Tempo de Voo ou Tempo em serviço: Para efeito desta IS e do controle de
+
+  manutenção, hora ou tempo de voo ou tempo em serviço segue a definição de “Tempo em
+
+  serviço” constante do RBAC 01, que significa o tempo transcorrido desde o momento em
+
+  que a aeronave deixa a superfície da terra até o momento em que ela toca essa superfície,
+
+  no pouso.
+
+  4.5 Tempo desde Novo (TSN) ou Tempo Total de Voo para a Célula, Motor e Hélice: É a
+
+  soma total do tempo em serviço, desde o primeiro voo da aeronave, do motor e da hélice.
+
+  Quando definido nos manuais dos fabricantes dos motores ou quaisquer outros
+
+  componentes, as horas e os ciclos de operação no banco de ensaio e no solo, serão
+
+  adicionadas ao tempo em serviço para efeito do cálculo de tempo desde novo (TSN).
+
+  4.6 Registro Primário de Manutenção: É o registro principal das atividades de manutenção.
+
+  O registro de cumprimento (registro primário) deverá ser completo e claro, conter o
+
+  método de cumprimento utilizado e o resultado da ação de manutenção executada. Será
+
+  considerado registro primário de manutenção aquele que contenha o conteúdo e forma das
+
+  anotações, como as previstas nas seções 43.9 ou 43.11 do RBAC 43, podendo ser utilizado
+
+  para tais registros: Cadernetas de Célula, de Motor e de Hélice, Ordens de Serviços, Fichas
+
+  de Cumprimento de Diretrizes de Aeronavegabilidade (FCDA), Formulários SEGVOO
+
+  001 e SEGVOO 003, etc.
+
+  4.7 Registro Secundário de Manutenção: É o registro simplificado das atividades de
+
+  manutenção. Fica definido, para os assuntos tratados nesta IS, que se constitui registro
+
+  secundário de manutenção aquele que referencie ou complemente um registro primário de
+
+  manutenção executada. O registro secundário não necessitará conter o conteúdo e forma
+
+  das anotações como as previstas nas seções 43.9 ou 43.11 do RBAC 43. Todo registro
+
+  secundário feito deverá conter o número ou referência do registro primário utilizado para
+  o
+
+  retorno ao serviço, bem como possuir a identificação da pessoa que transcreveu tal registro
+
+  e ser capaz de comprovar sua veracidade.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- registro
+- tempo
+- registros
+- servico
+- componentes
+- servicos
+- cumprimento
+- helice
+- motor
+- definido
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-9-003.md

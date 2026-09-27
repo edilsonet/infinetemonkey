@@ -1,0 +1,42 @@
+id: is-is-145-163-001-definicoes-body
+kind: is
+document: is-145-163-001
+family: '145'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Ajuste ou verificação: ajuste ou verificação do desempenho do sistema de inspeção por END
+  (equipamento, instrumento ou acessório de END, em conjunto ou em separado) com um valor
+  de referência, geralmente um bloco de referência ou corpo de prova - CDP, antes da sua utilização
+  na inspeção de artigos. Também denominado de calibration ou system calibration nos documentos
+  de serviço de END.
+
+  Avaliação de uma indicação: confrontação de uma indicação relevante com um parâmetro estabelecido
+  em norma ou procedimento específico, com a finalidade de classificar o artigo sob um critério
+  de aceitação/rejeição.
+
+  Calibração:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- definicoes
+- ajuste
+- calibration
+- indicacao
+- inspecao
+- referencia
+- verificacao
+- aceitacao
+- acessorio
+- artigo
+- artigos
+- avaliacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-163-001.md

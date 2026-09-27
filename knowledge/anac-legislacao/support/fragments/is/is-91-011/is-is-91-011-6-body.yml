@@ -1,0 +1,153 @@
+id: is-is-91-011-6-body
+kind: is
+document: is-91-011
+family: '91'
+section_id: '6'
+section_title: OPERATIONAL PROCEDURES AND FLIGHT TECHNIQUES.
+subsection_id: body
+cite: '6'
+title: OPERATIONAL PROCEDURES AND FLIGHT TECHNIQUES.
+text: '6. OPERATIONAL PROCEDURES AND FLIGHT TECHNIQUES.
+
+  a. Equipment Requirement. CDFA requires no specific aircraft equipment other than that
+
+  specified by the title of the NPA procedure. Pilots can safely fly suitable NPAs with CDFA
+  using
+
+  basic piloting techniques, aircraft flight management systems (FMS), and RNAV systems. Pilots
+
+  can use points defined by a DME fix, crossing radial, GPS distance from the runway, etc.,
+  on the
+
+  approach plate to track their progress along both the lateral and vertical approach paths
+  to the
+
+  MAP.
+
+  b. Approach Requirement. CDFA requires the use of a published VDA or barometric
+
+  vertical guidance (GS) on the IAP. Figure 2, Instrument Approach Procedure Legend, shows
+  the
+
+  legend for an IAP and defines the GS and VDA. RNAV approaches with lateral navigation
+
+  (LNAV)/vertical navigation (VNAV) minima are published with a GS. Non-RNAV NPAs or
+
+  RNAV approaches with LNAV-only minima are published with a VDA. In rare cases, the VDA
+
+  or GS may be calculated from a stepdown fix altitude (see subparagraph 6d). Aircraft with
+  FMS,
+
+  barometric vertical navigation (baro-VNAV), wide area augmentation system (WAAS), or that
+
+  are similarly equipped typically provide the published VDA or GS when the IAP isselected
+  from
+
+  the database. Aircraft equipped with Flight Path Angle (FPA) allow the pilot to enter an
+
+  Par 4 Page 3AC 120-108 1/20/11
+
+  electronic descent angle based on the published GS or VDA. Pilots flying aircraft without
+  either
+
+  type of equipment must compute a required rate of descent.
+
+  c. Computing Rate of Descent. Both U.S. Government and private fight information
+
+  publications offer the pilot a way to compute a rate of descent. (The climb/descent table,
+
+  Figure 3, Rate of Descent Table, is provided in government publications.) Pilots can use
+  this
+
+  table to translate the published VDA or GS into the required rate of descent. In the example
+
+  below, LOC/NDB Runway 2 approach at La Porte Municipal Airport (see Appendix 1, Figure 4,
+
+  Sample Approach: Localizer/Nondirectional Beacon Runway 2), the climb/descent table, aircraft
+
+  groundspeed, and a published VDA are used to determine the descent gradient and, ultimately,
+
+  the required rate of descent needed to fly a CDFA.
+
+  (1) Find the published VDA. In this example, it is 3.20 degrees.
+
+  (2) Find the descent gradient that equates to a VDA of 3.20 degrees (see Appendix 1,
+
+  Figure 3) (i.e., 340 feet (ft) per nautical mile (NM) (ft/NM)).
+
+  (3) Find the descent rate based on groundspeed (see Appendix 1, Figure 3).
+
+  A groundspeed of 120 knots (kts) requires a rate of descent of 680 fpm to fly the 3.20-degree
+
+  descent angle.
+
+  d. VDA/GS Design. The VDA or GS is calculated from the FAF/precise final approach fix
+
+  (PFAF) altitude to the threshold crossing height (TCH). The optimum NPA descent angle (VDA
+
+  or GS) is 3.0 degrees. Descent angles are found in the following range when the optimum
+  VDA
+
+  is not possible: 2.75º-3.77º (IAPs w/≤ Category (CAT) C minimums), 2.75º-3.50º (IAPs w/CAT
+
+  D/E minimums). On approaches with stepdown fixes, the goal is to publish a VDA that keeps
+  the
+
+  Vertical Path (VPATH) above the stepdown fix altitude. However, in some cases, the VDA is
+
+  calculated from the stepdown fix altitude to the TCH. In this situation, the VDA is published
+  on
+
+  the IAP following the associated stepdown fix (see Appendix 1, Figure 5, Instrument Approach
+
+  Procedures with Controlling Stepdown Fix). In most cases, the descent angle between the
+  FAF
+
+  altitude and the stepdown fix altitude is slightly shallower than the published VDA for
+  the
+
+  segment between the stepdown fix and the runway. Operators should determine how they would
+
+  like their pilots to fly the approach.
+
+  (1) Examples for Calculating Descent Point for Stepdown Fix Associated VDA.
+
+  Two examples of how pilots may fly the approach are:
+
+  • Descend from the FAF at the shallower rate in order to cross above the stepdown
+
+  fix altitude and then transition to published VDA, or
+
+  • Begin a descent at a point past the FAF that will allow the aircraft to descend at
+
+  the published VDA and still clear the stepdown fix altitude.
+
+  (2) Demonstration of Techniques. Both techniques will be demonstrated below using the
+
+  Tallahassee Regional, VOR RWY 18 approach (see Appendix 1, Figure 5). In this example, the
+
+  descent angle from the FAF to the stepdown fix is abnormally shallow compared to the
+
+  published VDA.
+
+  Page 4 Par 61/20/11 AC 120-108'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- descent
+- published
+- stepdown
+- approach
+- rate
+- with
+- altitude
+- aircraft
+- figure
+- from
+- angle
+- pilots
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-011.md

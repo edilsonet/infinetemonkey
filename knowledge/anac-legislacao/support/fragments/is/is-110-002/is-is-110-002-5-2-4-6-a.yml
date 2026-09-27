@@ -1,0 +1,33 @@
+id: is-is-110-002-5-2-4-6-a
+kind: is
+document: is-110-002
+family: '110'
+section_id: 5.2.4.6
+section_title: 'O Treinamento em Serviço é composto pelas seguintes fases, de responsabilidade
+  da organização com responsabilidade AVSEC:'
+subsection_id: a
+cite: 5.2.4.6(a)
+title: 5.2.4.6(a)
+text: a) o resultado obtido nas 12 (doze) horas de simulação de ameaças, aplicando um exame
+  prático no CBT caso o desempenho geral do profissional tenha sido inferior ao parâmetro
+  desejado (Detecção de ameaças >= 70% e Alarmes falsos <= 40%);
+keywords:
+- carga
+- operacoes
+- ameacas
+- responsabilidade
+- alarmes
+- aplicando
+- avsec
+- caso
+- composto
+- desejado
+- desempenho
+- deteccao
+- doze
+- exame
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-110-002.md

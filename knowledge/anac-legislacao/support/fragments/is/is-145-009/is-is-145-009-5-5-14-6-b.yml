@@ -1,0 +1,62 @@
+id: is-is-145-009-5-5-14-6-b
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.14.6
+section_title: 'Exemplos: Os seguintes cenários são exemplos de um programa de ação corretiva:'
+subsection_id: b
+cite: 5.5.14.6(b)
+title: 5.5.14.6(b)
+text: 'b) Cenário 2
+
+  A OM revisa motor à turbina. Parte do processo de revisão envolve aplicação de um revestimento
+  especial na parede interna do furo de certa peça do motor, seguido de uma usinagem para
+  o diâmetro final. A OM subcontrata a aplicação desse revestimento a uma empresa. Durante
+  a operação posterior de usinagem, várias áreas do revestimento da parede descascaram por
+  completo. Uma vez que essa condição é inaceitável, o revestimento aplicado teve de ser removido
+  e reaplicado. Após experimentar essa condição em diversas peças, a OM conduziu uma investigação
+  para descobrir a causa raiz. Uma análise do processo de usinagem indicou que todos os procedimentos
+  recomendados eram seguidos. A OM, em coordenação com a empresa subcontratada, conduziu uma
+  análise do processo usado para aplicar o revestimento. A investigação revelou um mau funcionamento
+  do equipamento de pulverização por plasma, permitindo uma incorreta aplicação do revestimento.
+  O equipamento de pulverização foi reparado e ajustado, eliminando o problema. O que inicialmente
+  parecia um problema de usinagem mostrou ser um problema de aplicação. Conduzindo uma investigação
+  completa até a causa raiz, foram eliminados futuros problemas.
+
+  5.5.14.7 Inadequações e Deficiências: procedimentos, meio ambiente, condições de trabalho,
+  treinamento, instruções ou recursos inadequados podem ser fatores para muitas deficiências
+  que são atribuídas a falha humana. O envolvimento de pessoas de vários níveis dentro da
+  OM (se apropriado) contribui ao programa de assegurar qualidade. Ação corretiva requer que
+  a causa raiz, ou causas da discrepância sejam investigadas e determinadas, para eliminar
+  tais causas. A investigação de uma causa raiz deve ser baseada em fatos, e tipicamente se
+  inicia com uma análise das causas potenciais da discrepância. Usualmente é útil ter um pequeno
+  time de pessoas informadas e envolvidas com o artigo/processo. Fatores humanos podem ser
+  determinantes, assim como fatores físicos, tais como ambiente do local de trabalho, facilidades,
+  equipamento e ferramental; fatores de processo, tais como clareza das instruções; e treinamento/compreensão
+  da metodologia para que o trabalho seja adequadamente executado. Diagramas de processo ou
+  fluxo do processo de manutenção dos artigos afetados é um típico local de início. Tipicamente,
+  cada item no processo, e interações entre tais itens, são questionadas/analisadas em uma
+  tentativa para determinar o que causou ou contribuiu para as deficiências finais. Muitas
+  vezes as interações resultam em efeito cumulativo que resultam em deficiência. Uma vez identificada
+  cada fraqueza potencial, o indivíduo/time analisa cada uma delas para corrigir as discrepâncias.
+  O produto é verificado para determinar se a ação corretiva efetuou a eliminação da deficiência/discrepância.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- processo
+- revestimento
+- aplicacao
+- causa
+- fatores
+- investigacao
+- raiz
+- tais
+- usinagem
+- acao
+- analise
+- cada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

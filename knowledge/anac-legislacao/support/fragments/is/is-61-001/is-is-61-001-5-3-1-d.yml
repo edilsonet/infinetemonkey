@@ -1,0 +1,86 @@
+id: is-is-61-001-5-3-1-d
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.3.1
+section_title: 'Cada linha da tabela “Lançamento de Horas”, localizada na parte inferior da
+  tela da Figura 2 pode possuir os seguintes status:'
+subsection_id: d
+cite: 5.3.1(d)
+title: 5.3.1(d)
+text: 'd) EXCLUÍDO: registro de voo excluído pela ANAC.
+
+  5.3.2 Quando o instrutor de voo registrar um voo na função “Instrutor voo”, tal registro
+  será exibido na função “Piloto em Instrução” na CIV Digital do aluno por ele indicado.
+
+  5.3.3 Quando o instrutor de voo registrar um voo na função “Instrutor de voo em solo”, tal
+  registro será exibido na função “Piloto em Instrução Solo” na CIV Digital do aluno por ele
+  indicado.
+
+  5.3.4 O registro de voo feito pelo instrutor de voo nas funções “Instrutor voo” e “Instrutor
+  de voo em solo” serão exibidos com status RASCUNHO tanto na CIV Digital do instrutor quanto
+  na CIV Digital do aluno por ele indicado. O aluno é o responsável por enviar (vide 5.3.1.a))
+  o registro, quando o mesmo passará para o status CADASTRADO em ambas as CIVs Digitais (do
+  próprio aluno e do instrutor). Responde, pois, tanto o aluno quanto o instrutor por qualquer
+  informação ou dado inexato após o envio do registro.
+
+  5.3.5 O próprio piloto é o responsável por enviar os registros de voo com status RASCUNHO
+  (passando-os para o status CADASTRADO) quando nas funções “Piloto em Comando” ou “Co-piloto”.
+
+  5.4 Procedimento para declaração online de experiência de voo por entidades jurídicas
+
+  5.4.1 Para declarar experiência de voo relacionada a operações aéreas realizadas por operadores
+  aéreos regidos pelo RBAC 121 ou RBAC 135, a entidade declarante deve solicitar seu acesso
+  ao módulo contido no sistema SACI da ANAC que permite tal registro.
+
+  5.4.2 A solicitação de acesso é feita por meio de Ofício da entidade dirigido à Gerência
+  de Certificação de Pessoal (GCEP), assinado pelo Diretor de Operações da empresa, solicitando
+  acesso ao módulo “CIV > Declaração de Experiência de Voo - Empresa” para os colaboradores
+  da empresa que deverão ter tal acesso. Deve constar ainda no Ofício os dados (nome, e-mail,
+  CPF e telefone) dos colaboradores para os quais se deseja a concessão de acesso.
+
+  5.4.3 O Diretor de Operações e a entidade respondem solidariamente por toda informação inserida
+  no sistema por aqueles colaboradores por eles indicados. É necessário pois que a entidade
+  possua controle daqueles colaboradores para os quais solicitou tal acesso. Quando não for
+  mais interesse da entidade que um dado colaborador ou ex-colaborador continue possuindo
+  tal acesso em nome desta, é responsabilidade pois da entidade enviar Ofício a GCEP, nos
+  mesmos termos do descrito no item 5.4.2, solicitando a revogação do acesso daquele usuário,
+  sob a pena de continuar a se responsabilizar sobre quaisquer informações inseridas no sistema
+  por este.
+
+  5.4.4 Uma vez cadastrado, o colaborador da empresa deve acessar o link https://sistemas.anac.gov.br/saci,
+  digitar os dados cadastrados (login e senha) e escolher a opção “CIV > Declaração de Experiência
+  de Voo - Empresa”, conforme a Figura 4:
+
+
+  Figura 4: atalho para inserção de horas de voo na CIV Digital de tripulantes e ex-tripulantes
+  vinculados a operadores regidos pelo RBAC nº 121 ou RBAC nº 135
+
+  5.4.5 A seguir aparecerá uma tela, conforme Figura 5, na qual devem ser observadas as orientações
+  dadas na sequência para lançamento do total de horas voado na empresa por função/habilitação:
+
+
+  Figura 5: tela para que os operadores regidos pelo RBAC nº 121 ou RBAC nº 135 insiram horas
+  de voo na CIV Digital de tripulantes e ex-tripulantes'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- instrutor
+- acesso
+- registro
+- aluno
+- digital
+- empresa
+- entidade
+- figura
+- funcao
+- piloto
+- status
+- colaboradores
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

@@ -1,0 +1,159 @@
+id: is-is-21-61-005-apendice-g-criterio-alternativo-a-avaliacao-quantitativa-de-seguranca-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: apendice-g-criterio-alternativo-a-avaliacao-quantitativa-de-seguranca
+section_title: APÊNDICE G - CRITÉRIO ALTERNATIVO À AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+subsection_id: body
+cite: apendice-g-criterio-alternativo-a-avaliacao-quantitativa-de-seguranca
+title: APÊNDICE G - CRITÉRIO ALTERNATIVO À AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+text: 'APÊNDICE G - CRITÉRIO ALTERNATIVO À AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+
+  APPENDIX G - ALTERNATIVE CRITERIA TO QUANTITATIVE SAFETY ASSESSMENT
+
+  G.1 Conforme definido no item 5.3.4.17, se a aeronave não for certificada nas categorias
+  transporte, transporte regional (commuter) ou normal sob nível 4, é possível adotar um critério
+  alternativo à avaliação quantitativa de segurança, mesmo para casos em que a aplicação direta
+  do item 5.3.4.9 exigiria uma análise quantitativa, conforme explicado abaixo.
+
+  G.1 As defined in item 5.3.4.17, if the aircraft is not certified as transport, commuter
+  as Level-4 normal category, it is possible to adopt an alternative criteria to quantitative
+  safety assessment even for cases in which the direct application of item 5.3.4.9 would require
+  a quantitative analysis, as explained below.
+
+  G.2 Para instalações simples e convencionais (ou seja, aquelas com baixa complexidade e
+  com similaridade nos atributos relevantes), pode ser possível durante a certificação do
+  projeto de tipo avaliar a probabilidade de uma condição de falha crítica (hazardous) ou
+  catastrófica como sendo extremamente remota ou extremamente improvável, respectivamente
+  (consulte a base da certificação de tipo para os valores associados), com base em um julgamento
+  de engenharia experiente, usando para isso apenas a análise qualitativa.
+
+  G.2 For simple and conventional installations (that is, those with low complexity and with
+  similarity in the relevant attributes), it may be possible during the type design certification
+  to assess the probability of a hazardous or catastrophic failure condition as being extremely
+  remote or extremely improbable, respectively (refer type certificate basis for associated
+  values), on the basis of experienced engineering judgment, using only qualitative analysis.
+
+  G.3 A base para tal avaliação será o grau de redundância, a independência e o isolamento
+  existente entre os canais, bem como o histórico de confiabilidade da tecnologia envolvida.
+  Uma satisfatória experiência em serviço de sistemas semelhantes comumente usados em muitas
+  aeronaves pode ser suficiente quando houver boa similaridade quanto ao projeto do sistema
+  e às condições operacionais. Uma abordagem semelhante pode ser usada para a justificativa
+  de itens da MMEL, em particular:
+
+  G.3 The basis for such an assessment will be the degree of redundancy, the established independence
+  and isolation of the channels, and the reliability record of the technology involved. Satisfactory
+  service experience on similar systems commonly used in many aircraft may be sufficient when
+  a close similarity is established regarding both the system design and the operating conditions.
+  A similar approach may be used for the justification of MMEL items. In particular:
+
+  G.3.1 Para itens da MMEL envolvidos em condições de falha catastróficas:
+
+  G.3.1 For MMEL items involved in catastrophic failure conditions:
+
+  G.3.1.1 Deve ser demonstrado que o grau de redundância na configuração de despacho da MMEL
+  permanece adequado para garantir que a condição de falha catastrófica envolvida ainda seja
+  extremamente improvável (consultar a base de certificação de tipo aplicável para a definição).
+  Esta demonstração pode ser, em alguns casos, limitada à demonstração de que uma combinação
+  de um mínimo de duas falhas independentes ou eventos externos são necessários para levar
+  à condição de falha catastrófica. Será levado em consideração que a confiabilidade dos sistemas
+  envolvidos, baseando-se em um julgamento experiente de engenharia e do histórico em serviço,
+  permitiria que a ocorrência da condição de falha continuaria a atender ao objetivo qualitativo
+  usado para a certificação do projeto de tipo.
+
+  G.3.1.1 It should be demonstrated that the degree of redundancy under the MMEL dispatch
+  configuration remains adequate to ensure that the involved catastrophic failure condition
+  is still extremely improbable (refer to the applicable type certification basis definition).
+  This demonstration may be, in some cases, limited to the demonstration that a combination
+  of a minimum of two independent failures or external events is necessary to lead to the
+  catastrophic failure condition. It will take into account that the reliability of the involved
+  systems, based on experienced engineering judgment and service history, would allow the
+  occurrence of the failure condition to continue to meet the qualitative objective used for
+  the type design certification.
+
+  G.3.1.2 Nenhuma condição de falha catastrófica deve resultar da falha de um único componente,
+  parte ou elemento de um sistema sob qualquer configuração de despacho da MMEL. A lógica
+  e a justificativa usadas na avaliação devem ser diretas e devem, obviamente, comprovar que
+  o modo de falha simplesmente não ocorreria a menos que estivesse combinado a uma condição
+  de falha não-associada e que seria, em si mesma, catastrófica.
+
+  G.3.1.2 No catastrophic failure condition should result from the failure of a single component,
+  part, or element of a system under any MMEL dispatch configuration. The logic and rationale
+  used in the assessment should be straightforward and should obviously substantiate that
+  the failure mode simply would not occur unless it is associated with an unrelated failure
+  condition that would be, in itself, catastrophic.
+
+  G.3.1.3 O despacho da MMEL deve usar o intervalo de reparo categoria B, ou um intervalo
+  mais restritivo, para itens que deixam a aeronave a duas falhas independentes ou eventos
+  externos de distância de uma condição de falha catastrófica. Se não houver redução nas margens
+  de segurança em comparação com a configuração completa (íntegra), a categoria C pode ser
+  aceitável.
+
+  G.3.1.3 The MMEL entry should use standard rectification interval B, or a more restrictive
+  interval, for items that leave the aircraft two independent failures or external events
+  away from a catastrophic failure condition. If there is no reduction in safety margins compared
+  with the full-up configuration, category C may be acceptable.
+
+  G.3.2 Para itens da MMEL envolvidos em condições de falha críticas (hazardous):
+
+  G.3.2 For MMEL items involved in hazardous failure conditions:
+
+  G.3.2.1 Deve ser demonstrado que um grau de redundância sob a configuração de despacho da
+  MMEL permanece presente para que uma combinação de um mínimo de duas falhas independentes
+  ou eventos externos seja necessária para levar à condição de falha crítica (hazardous).
+  Em tal caso, não há necessidade de demonstrar (mesmo qualitativamente) que a condição de
+  falha permanece extremamente remota (consultar a base de certificação de tipo aplicável
+  para a definição) sob a configuração de despacho da MMEL, pois o fato de não haver nenhuma
+  falha ou evento externo único (capaz de levar à uma condição de falha crítica) é suficiente
+  para garantir uma adequada probabilidade de ocorrência sob a configuração de despacho da
+  MMEL, ou
+
+  G.3.2.1 It should be demonstrated that a degree of redundancy under the MMEL dispatch configuration
+  remains available so that a combination of a minimum of two independent failures or external
+  events is necessary to lead to the hazardous failure condition. In such a case, there is
+  no need to demonstrate (even qualitatively) that the failure condition remains extremely
+  remote (refer to the applicable type certification basis definition) under the MMEL dispatch
+  configuration, as the fact that no single failure or external event exists is sufficient
+  to grant an adequate probability of occurrence under the MMEL dispatch configuration, or
+
+  G.3.2.2 Deve ser demonstrado, usando julgamento experiente de engenharia e histórico em
+  serviço, que a falha simples ou evento externo tem uma probabilidade de ocorrência compatível
+  com os objetivos de segurança usados na certificação do projeto de tipo, levando-se em consideração
+  o intervalo de reparo proposto.
+
+  G.3.2.2 It should be demonstrated, using experienced engineering judgment and service history,
+  that the simple failure or external event has a probability of occurrence that is compatible
+  with the safety objectives used for type design certification, taking into account the proposed
+  rectification interval.
+
+  G.3.2.3 O despacho da MMEL deve usar o intervalo de reparo categoria B, ou um intervalo
+  mais restritivo, para itens que deixam a aeronave a uma falha ou evento externo de distância
+  de uma condição de falha crítica (hazardous). Se não houver redução nas margens de segurança
+  em comparação com a configuração completa (íntegra), a categoria C pode ser aceitável.
+
+  G.3.2.3 The MMEL entry should use standard rectification interval B, or a more restrictive
+  interval, for items that leave the aircraft one failures or external events away from a
+  hazardous failure condition. If there is no reduction in safety margins compared to the
+  full-up configuration, category C may be acceptable.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- falha
+- failure
+- that
+- condicao
+- condition
+- hazardous
+- should
+- catastrophic
+- configuracao
+- configuration
+- despacho
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

@@ -1,0 +1,32 @@
+id: is-is-91-001-l3-2-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: L3.2
+section_title: Execução da trajetória de um procedimento RNP AR DP
+subsection_id: a
+cite: L3.2(a)
+title: L3.2(a)
+text: a) O sistema de RNP deve ser capaz de carregar e executar um plano de voo em que a trajetória
+  de um procedimento RNP AR DP começa no ou imediatamente além do DER, incluindo o uso de
+  RF leg.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimento
+- trajetoria
+- alem
+- capaz
+- carregar
+- comeca
+- execucao
+- executar
+- imediatamente
+- incluindo
+- plano
+- sistema
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

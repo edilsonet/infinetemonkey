@@ -1,0 +1,46 @@
+id: is-is-21-61-001-5-6-1-4-a
+kind: is
+document: is-21-61-001
+family: '21'
+section_id: 5.6.1.4
+section_title: 'The FCD aspects associated to the design change shall be documented and recorded,
+  including, at least, the following data:'
+subsection_id: a
+cite: 5.6.1.4(a)
+title: 5.6.1.4(a)
+text: 'a) Demonstration that existing OSD remain valid, if that is the case. This can be done
+  by:
+
+  I- declaração, por exemplo, quando não há impacto relevante dos FCD na interface homem-máquina,
+  no desempenho da aeronave, no manual de voo da aeronave ou em fatores humanos; ou
+
+  I- statement, e.g., when there is no relevant FCD impact to the human-machine interface,
+  aircraft performance, aircraft flight manual or human factors; or
+
+  II- análise, por exemplo, quando o requerente avalia a modificação e conclui que os OSD
+  existentes permanecem válidos.
+
+  II- analysis, e.g., when the applicant assesses the change and concludes that existing OSD
+  remain valid.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- that
+- aeronave
+- aircraft
+- change
+- exemplo
+- existing
+- human
+- interface
+- manual
+- remain
+- valid
+- when
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-001.md

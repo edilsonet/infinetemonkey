@@ -1,0 +1,124 @@
+id: is-is-21-001-desenvolvimento-do-assunto-c
+kind: is
+document: is-21-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: c
+cite: desenvolvimento-do-assunto(c)
+title: desenvolvimento-do-assunto(c)
+text: 'c) Caso as ICA estejam disponíveis ao público antes de estarem completas, um alerta
+  visível deve ser adicionado às mesmas dizendo “Estas ICA estão incompletas. A aeronave só
+  estará apta ao retorno ao serviço após estas instruções serem consideradas aceitáveis pela
+  ANAC”. Alternativamente, esse alerta poderá ser adicionado às Especificações de Tipo ou
+  à seção “Limitações” de um CST ao invés das ICA, mas em qualquer dos casos, este poderá
+  ser removido e qualquer aeronave para as quais essas instruções sejam requeridas estará
+  apta ao retorno a serviço somente após as ICA serem consideradas aceitáveis pela ANAC.
+
+  5.4.13.8. A versão final, com todas as instruções para aeronavegabilidade continuada, deve
+  ser publicada até a data da emissão do primeiro certificado de aeronavegabilidade padrão
+  ou na entrega do primeiro produto, o que ocorrer por último.
+
+  5.4.13.9. Há alguns requisitos de aeronavegabilidade (por exemplo, a seção 25.571 do RBAC
+  25) que requerem ICA consideradas como Seção de Limitações de Aeronavegabilidade, mas às
+  vezes as informações completas para determinação final das tarefas programadas ou das limitações
+  a serem incluídas em tal seção não estão disponíveis no momento da aprovação do projeto.
+
+  5.4.13.10. Nestes casos, uma alternativa possível é a adoção na Seção de Limitações de Aeronavegabilidade
+  de condicionantes mais restritivos como, por exemplo, a redução da vida operacional limitando
+  a operação da aeronave a um determinado número de horas ou de ciclos. Com isso, o cumprimento
+  com os requisitos aplicáveis terá sido demonstrado. É importante notar que o alerta no TCDS
+  ou na seção de limitações de um CST não seria necessário, visto que o produto terá sido
+  fornecido com um conjunto completo de ICA, sendo possível, portanto, a obtenção de um certificado
+  de aeronavegabilidade padrão. Quando informações de demonstração adicionais estiverem disponíveis,
+  os condicionantes mais restritivos poderão ser revistos, excluídos ou modificados. Neste
+  caso, a revisão da Seção de Limitações de Aeronavegabilidade estará sujeita a um processo
+  de aprovação de uma grande modificação, em conformidade com a seção 21.97 do RBAC 21.
+
+  5.4.13.11. No caso de organizações de projeto certificadas conforme a subparte J do RBAC
+  21, algumas ICA podem ser emitidas conforme a prerrogativa estabelecida na certificação
+  da organização. As permissões e restrições para esta ação estão descritas na IS 21.231-001.
+
+  5.4.14. Manual de voo
+
+  5.4.14.1. O Manual de Voo é uma exigência para toda aeronave (ver RBAC 21.5) O requerente
+  é responsável por sua elaboração, desde que seu conteúdo atenda aos requisitos aplicáveis
+  em sua base de certificação. Em geral, o Manual de Voo é composto pelas limitações operacionais,
+  procedimentos operacionais, informações de desempenho e informações de ruído.
+
+  5.4.14.2. Convém destacar que as limitações operacionais são explicitamente citadas pela
+  seção 21.41 do RBAC 21 como parte do Certificado de Tipo. Velocidades limites, envelope
+  de temperatura, envelope de peso e balanceamento e tripulação mínima são exemplos de características
+  usualmente associadas às limitações operacionais.
+
+  NOTA - Alguns regulamentos de aeronavegabilidade podem estabelecer, como conteúdo do manual
+  de voo, limitações adicionais em cumprimento com requisitos ambientais (por exemplo, o RBAC
+  36) Porém, estas limitações não fazem parte das limitações operacionais, exceto se explicitamente
+  definido em contrário pela regulamentação aplicável.
+
+  5.4.14.3. No meio aeronáutico, há muitas referências à ideia de que o manual de voo é uma
+  publicação aprovada, porém isso consiste em uma simplificação, pois a ANAC aprova as informações
+  contidas em tal publicação, e não o documento em si. De fato, há partes aprovadas e não
+  aprovadas no manual. As partes aprovadas devem estar claramente identificadas e segregadas
+  das partes não aprovadas.
+
+  5.4.14.4. O conteúdo sujeito à aprovação depende do tipo de produto e de sua base de certificação
+  (ver seções RBAC 23.2620, RBAC 25.1581, RBAC 27.1581, RBAC 29.1581, RBAC 33.5, RBAC 35.3
+  e RBAC 36.1581) Através de tais seções é possível saber se, por exemplo, procedimentos operacionais,
+  informações de desempenho e informações de ruído devem ser aprovados ou não.
+
+  NOTA - O detentor do certificado de tipo e a ANAC podem estabelecer processos otimizados
+  para tratar de modificações de partes aprováveis do manual de voo, mas não necessariamente,
+  processos idênticos àqueles para aprovar as modificações do projeto de tipo, conforme as
+  seções 21.95 e 21.97 do RBAC 21. Este processo pode estar registrado em um documento específico
+  ou em TME.
+
+  5.4.14.5. No caso de organizações de projeto certificadas conforme a subparte J do RBAC
+  21, algumas modificações ao manual de voo podem ser emitidas conforme a prerrogativa estabelecida
+  na certificação da organização. As permissões e restrições para esta ação estão descritas
+  na IS 21.231-001.
+
+  5.5. Aspectos operacionais
+
+  5.5.1. Requisitos operacionais que exigem características específicas da aeronave
+
+  5.5.1.1. Há certos requisitos operacionais (RBAC 91, 121, 135, etc.) que não fazem parte
+  do conteúdo mínimo da certificação de tipo e que podem variar conforme o tipo de operação.
+  Convém atentar que a emissão do Certificado de Tipo não está atrelada aos requisitos operacionais
+  e teoricamente é possível que um projeto de tipo de aeronave seja certificado, mas a aeronave
+  não possa operar por não cumprir com os requisitos operacionais aplicáveis. Um exemplo disso
+  é a obrigatoriedade do Terrain Avoidance and Warning System - TAWS para certas aeronaves.
+
+  5.5.1.2. Embora a ANAC procure orientar quanto aos requisitos operacionais no início do
+  projeto de certificação, isso não exime o requerente de estudar o impacto de tais requisitos
+  em seu produto e identificar quais atividades complementares precisariam ser desenvolvidas
+  na certificação de tipo.
+
+  5.5.2. Avaliação operacional da aeronave
+
+  5.5.2.1. A avaliação operacional de aeronaves é uma atividade que ocorre paralelamente ao
+  processo de certificação de tipo, normalmente realizada em caso de um novo projeto de modelo
+  de aeronave ou modificação de projeto que seja substancialmente diferente do projeto original
+  em termos de treinamento de pilotos. A realização desta atividade fica a critério do detentor
+  ou requerente do Certificado de Tipo e serve como referência nos processos de certificação
+  de operadores aéreos, organizações de treinamento e certificação de pessoal. Entre os principais
+  objetivos da avaliação operacional, pode-se citar:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- limitacoes
+- operacionais
+- tipo
+- requisitos
+- aeronave
+- secao
+- manual
+- certificado
+- informacoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

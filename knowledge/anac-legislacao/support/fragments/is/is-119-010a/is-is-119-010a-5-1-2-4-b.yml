@@ -1,0 +1,39 @@
+id: is-is-119-010a-5-1-2-4-b
+kind: is
+document: is-119-010a
+family: '119'
+section_id: 5.1.2.4
+section_title: 'Para operadores conforme o RBAC nº 135, o PTM será requerido quando:'
+subsection_id: b
+cite: 5.1.2.4(b)
+title: 5.1.2.4(b)
+text: 'b) quando o operador possuir autorização para execução de manutenção ou manutenção
+  preventiva, conforme lista de bases de manutenção - LBM aprovada ou aceita.
+
+  Nota: mesmo não sendo requerido um PTM, o pessoal do operador conforme o RBAC nº 135 envolvido
+  em atividades de gerenciamento da aeronavegabilidade precisa ser treinado nos procedimentos
+  estabelecidos no MGM.
+
+  5.1.2.5 A Anac entende que operadores aéreos são diferentes entre si, em termos de aeronaves
+  operadas, autorização para execução de manutenção, dimensões etc. Em consequência, espera-se
+  que cada um tenha um PTM adequado às suas características'
+keywords:
+- certificacao-de-operador
+- operacoes
+- manutencao
+- autorizacao
+- execucao
+- operador
+- operadores
+- requerido
+- aceita
+- adequado
+- aereos
+- aeronavegabilidade
+- aeronaves
+- aprovada
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-010a.md

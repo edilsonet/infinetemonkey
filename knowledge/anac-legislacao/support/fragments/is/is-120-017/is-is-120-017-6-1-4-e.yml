@@ -1,0 +1,85 @@
+id: is-is-120-017-6-1-4-e
+kind: is
+document: is-120-017
+family: '120'
+section_id: 6.1.4
+section_title: Treinamento/competência técnica do pessoal de confiabilidade
+subsection_id: e
+cite: 6.1.4(e)
+title: 6.1.4(e)
+text: 'e) hélices/pás.
+
+  7.2 Identificação de tipos de dados. O sistema de coleta de dados deve incluir a identificação
+
+  dos tipos de dados. A Tabela 7-1 apresenta dados operacionais típicos, para referência.Data
+  de emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X
+
+  Tipos de dados Dados em
+
+  serviço
+
+  Não conformidades
+
+  identificadas em
+
+  tarefas de rotina
+
+  Livro de manutenção e diário de bordo da
+
+  aeronave (irregularidades mecânicas)
+
+  X X
+
+  Engine in-flight shut down (IFSD) X
+
+  Interrupções operacionais (atrasos,
+
+  cancelamentos, voos alternados, etc.)
+
+  X
+
+  Remoções não programadas de componentes X
+
+  Irregularidades identificadas na manutenção de
+
+  componentes
+
+  X X
+
+  Inspeções por amostragem X X
+
+  Inspeções especiais X X
+
+  Manutenção deferida pela Lista de
+
+  Equipamentos Mínimos (MEL) X X
+
+  Sistemas crônicos (Ver 9.2) X X
+
+  Manutenção não programada X
+
+  Integrated Vehicle Health Monitoring'
+keywords:
+- antidrogas
+- saude
+- dados
+- manutencao
+- tipos
+- componentes
+- identificacao
+- identificadas
+- inspecoes
+- irregularidades
+- operacionais
+- aeronave
+- alternados
+- amostragem
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

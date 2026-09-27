@@ -1,0 +1,37 @@
+id: is-is-135-006-5-3-2-5-d
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.2.5
+section_title: Margem de tempo apropriada para o horário estimado de utilização (135.219(c))
+subsection_id: d
+cite: 5.3.2.5(d)
+title: 5.3.2.5(d)
+text: 'd) para um aeródromo de alternativa em rota ETOPS, esse horário abrange todo o período
+  em que o aeródromo é a principal alternativa em caso de desvio, desde um desvio a partir
+  do ponto equidistante em tempo anterior até um desvio a partir do ponto equidistante em
+  tempo posterior.
+
+  5.3.2.5.3 A margem de tempo é um valor a ser adicionado ao horário previsto de utilização,
+  de forma a considerar atrasos em solo ou em voo, bem como incertezas nos horários das previsões
+  meteorológicas.'
+keywords:
+- taxi-aereo
+- operacoes
+- tempo
+- desvio
+- horario
+- aerodromo
+- alternativa
+- equidistante
+- margem
+- partir
+- ponto
+- utilizacao
+- abrange
+- adicionado
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

@@ -1,0 +1,82 @@
+id: is-is-175-003f-introducao-b
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: b
+cite: introducao(b)
+title: introducao(b)
+text: 'b) informar o valor por quilo quando se tratar de um valor cobrado por quilo.
+
+  O grupo “preenchido quando for transporte de produtos classificados pela ONU como perigosos”
+  não poderá estar preenchido dado que diz respeito ao transporte de artigos perigosos, que
+  não são permitidos na emissão de um CT-e Simplificado.
+
+  Do Manifesto de Documentos Fiscais eletrônico - MDF-e
+
+  O MDF-e foi desenvolvido, de forma integrada, pelas SEFAZ dos Estados, pela Receita Federal
+  do Brasil, pela SUFRAMA, pelos representantes das transportadoras e pelas Agências Reguladoras
+  do segmento de transporte, dentre elas a Anac.
+
+  O MDF-e é o documento emitido e armazenado eletronicamente, de existência apenas digital,
+  para vincular os documentos fiscais utilizados na operação e/ou prestação, à unidade de
+  carga utilizada no transporte, cuja validade jurídica é garantida pela assinatura digital
+  do emitente e autorização de uso pela administração tributária da unidade federada do contribuinte.
+
+  A Anac adota o modelo eletrônico e padronizado do MDF-e do modo aéreo como documento operacional
+  que substitui o modelo de manifesto de carga doméstico tradicionalmente emitido em papel.
+
+  O MDF-e deve ser emitido pelos operadores aéreos regidos pelos RBAC nº 121 e 135 quando
+  necessário.
+
+  O operador aéreo deve emitir o MDF-e de acordo com o disposto nesta IS e no Manual de Orientações
+  do Contribuinte - MOC - do MDF-e, publicado pelo Encontro Nacional de Coordenadores e Administradores
+  Tributários Estaduais - ENCAT - no site https://dfe-portal.svrs.rs.gov.br/Mdfe.
+
+  Para acompanhar o transporte das mercadorias, pode ser impresso o Documento Auxiliar do
+  Manifesto de Documentos Fiscais eletrônico - DAMDFE - de acordo com o definido nesta IS
+  e no MOC do MDF-e.
+
+  O DAMDFE é uma representação gráfica resumida do MDF-e, impressa em papel comum, para acompanhar
+  o transporte da carga, permitindo o acesso ao arquivo do MDF-e pela fiscalização além de
+  visualizar algumas informações importantes para a operação do modo aéreo.
+
+  O MDF-e e o DAMDFE devem estar à disposição da Anac sempre que solicitados.
+
+  Do preenchimento do MDF-e
+
+  Para fins de fiscalização e controle da Anac, todas as informações do MDF-e devem ser preenchidas
+  corretamente e de forma completa, conforme orientação do MOC do MDF-e e o disposto nesta
+  IS.
+
+  Nos itens seguintes, encontram-se os critérios gerais para o preenchimento de forma completa
+  e adequada do MDF-e. Ressalta-se que não é objetivo desta IS explicar o preenchimento de
+  cada campo do MDF-e, visto que isso já é detalhado no MOC do MDF-e. Os termos que se encontram
+  entre aspas representam o nome exato do campo de acordo com o MOC do MDF-e.
+
+  O preenchimento dos campos da estrutura genérica do MDF-e deve obedecer o disposto no MOC
+  do MDF-e e o disposto no item 5.5.4.
+
+  O campo “Informações complementares de interesse do contribuinte” deve apresentar o conteúdo
+  necessário para a operação do voo com vistas a substituir o manifesto de carga para o transporte
+  doméstico. Dessa forma, deve constar obrigatoriamente o seguinte:'
+keywords:
+- artigos-perigosos
+- carga
+- transporte
+- disposto
+- forma
+- manifesto
+- preenchimento
+- acordo
+- aereo
+- campo
+- contribuinte
+- damdfe
+- documento
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

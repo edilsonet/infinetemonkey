@@ -1,0 +1,36 @@
+id: is-is-91-001-5-8-8-d
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.8.8
+section_title: Operações PBN utilizando o GNSS
+subsection_id: d
+cite: 5.8.8(d)
+title: 5.8.8(d)
+text: d) fornecedores de dados de navegação devem possuir autorização emitida pela autoridade
+  reguladora competente, indicando que as informações providas estão de acordo com os critérios
+  de qualidade, integridade e gestão da qualidade, estabelecidas por documentos de padronização
+  de processamento de dados aeronáuticos como a RTCA DO-200A e a EUROCAE ED-76. O provedor
+  da base de dados de um operador deve possuir uma LOA do tipo 2 emitida pelo FAA, certificado
+  DAT emitido pela EASA ou documento equivalente e este provedor, por sua vez, deve possuir
+  um fornecedor que detenha uma LOA do tipo 1 ou tipo 2;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- dados
+- possuir
+- tipo
+- emitida
+- provedor
+- qualidade
+- 200a
+- acordo
+- aeronauticos
+- autoridade
+- autorizacao
+- base
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,94 @@
+id: rbac-rbac-90-aprovacao-body
+kind: rbac
+document: rbac-90
+family: '90'
+section_id: aprovacao
+section_title: APROVAÇÃO
+subsection_id: body
+cite: aprovacao
+title: APROVAÇÃO
+text: 'APROVAÇÃO
+
+  UAP
+
+  ANAC
+
+  Treinamento para pilotos - piloto em comando e piloto segundo em comando (inicial, periódico,
+  elevação de nível, transição entre modelos e diferenças)
+
+  SIM
+
+  SIM
+
+  Treinamento de ambientação entre UAP
+
+  SIM
+
+  NÃO
+
+  Experiência operacional sob supervisão para piloto em comando
+
+  SIM
+
+  NÃO
+
+  Treinamento para comissário de voo (inicial e periódico)
+
+  SIM
+
+  SIM
+
+  Treinamentos para operador aerotático, operador de suporte médico e PSE
+
+  SIM
+
+  NÃO
+
+  Treinamento de instrutor de voo (inicial, transição)
+
+  SIM
+
+  SIM
+
+  Treinamento de ambientação de instrutor
+
+  SIM
+
+  NÃO
+
+  Treinamento em artigos perigosos (vide 90.285(c))
+
+  SIM
+
+  SIM
+
+  Treinamentos especiais
+
+  (armas e munições embarcadas, pouso em local não cadastrado pela ANAC, voo tático à baixa
+  altura, lançamento de objetos, operação helocasting, embarque e desembarque em voo pairado,
+  paraquedismo, operações sobre extensões de água, operação com separação reduzida entre aeronaves,
+  carga externa, NVIS, aeromédico etc.)
+
+  SIM
+
+  NÃO'
+keywords:
+- regras-de-voo
+- operacoes
+- treinamento
+- aprovacao
+- comando
+- inicial
+- piloto
+- ambientacao
+- instrutor
+- operacao
+- operador
+- periodico
+- transicao
+- treinamentos
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-90.md

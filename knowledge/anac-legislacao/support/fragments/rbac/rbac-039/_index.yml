@@ -27,10 +27,12 @@ sections:
 - 39.5-I
 - '39.7'
 - '39.9'
+- aprovacao
 - preambulo
-fragment_count: 23
+fragment_count: 24
 fragment_ids:
 - rbac-rbac-039-preambulo-body
+- rbac-rbac-039-aprovacao-body
 - rbac-rbac-039-39-1-body
 - rbac-rbac-039-39-3-body
 - rbac-rbac-039-39-3-i-body
@@ -53,4 +55,4 @@ fragment_ids:
 - rbac-rbac-039-39-19-b
 - rbac-rbac-039-39-23-a
 - rbac-rbac-039-39-23-b
-parser_version: 6
+parser_version: 7

@@ -1,0 +1,50 @@
+id: is-is-20-001-apendice-c-c-3-body
+kind: is
+document: is-20-001
+family: '20'
+section_id: apendice-c-c-3
+section_title: Apêndice C, C.3
+subsection_id: body
+cite: apendice-c-c-3
+title: Apêndice C, C.3
+text: 'Apêndice C, C.3
+
+  Inclusão de modificações aos OSD na lista de modificações e de referência às IS 21.61-001
+  e 21.61-005.
+
+  Apêndice C, C.5.1
+
+  Remoção do texto correspondente à sigla ICA e inclusão do texto em inglês para IPC.
+
+  Apêndice C, C.9.1
+
+  Substituição de "AOA" por "indicador de Ângulo de Ataque (Angle of Attack - AOA).
+
+  Apêndice C, C.10.1
+
+  Inclusão do texto completo para as siglas HIRF, EMC, RNP, RVSM, IFR, TCAS, TAWS, GNSS, FMS,
+  FDR, EFIS, ADS-B, LIDAR e OTP.
+
+  Substituição da referência ao Guia de FHA por Guia de Análise de Falhas ("Safety Assessment")
+  para Grandes Modificações, disponível em https://sistemas.anac.gov.br/certificacao/CHST/CHST.asp"
+
+  Apêndice C, C.11.2
+
+  Atualização da referência cruzada de 4.1 para 4.2 e de 4.2 para 4.3.'
+keywords:
+- apendice
+- inclusao
+- modificacoes
+- referencia
+- texto
+- chst
+- guia
+- substituicao
+- analise
+- angle
+- angulo
+- assessment
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-20-001.md

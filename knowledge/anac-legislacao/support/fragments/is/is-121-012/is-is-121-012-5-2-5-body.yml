@@ -1,0 +1,79 @@
+id: is-is-121-012-5-2-5-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.5
+section_title: MEL
+subsection_id: body
+cite: 5.2.5
+title: MEL
+text: '5.2.5 MEL
+
+  5.2.5.1 O detentor de certificado deve garantir que todos os itens de sua MEL estejam de
+  acordo com as limitações da MMEL especificamente para as operações ETOPS, considerando o
+  tempo de desvio máximo pretendido. Deve-se observar que, conforme o Apêndice P do RBAC nº
+  121, é requerido que, em alguns casos, a MEL esteja adequada a um tempo de desvio máximo
+  superior ao tempo de desvio máximo pretendido, conforme as tabelas 3 e 4:
+
+  Tabela 3 - Considerações sobre ETOPS para MEL de aeronaves com dois motores
+
+  Tempo de desvio máximo pretendido
+
+  Tempo de desvio máximo considerado para elaboração da MEL
+
+  Considerações adicionais
+
+  90 minutos
+
+  120 minutos
+
+  Seção I, (c)(4) do Apêndice P do RBAC nº 121
+
+  120 minutos
+
+  120 minutos
+
+  Seção I, (d)(4) do Apêndice P do RBAC nº 121
+
+  138 minutos
+
+  Além de 120 minutos
+
+  Seção I, (e)(1)(v) do Apêndice P do RBAC nº 121
+
+  180 minutos
+
+  Além de 120 minutos
+
+  Seção I, (f)(4) do Apêndice P do RBAC nº 121
+
+  Além de 180 minutos (aplicável para 207, 240 e além de 240 minutos)
+
+  180 minutos
+
+
+  Seção I, (g)(5) do Apêndice P do RBAC nº 121
+
+
+  Adicionalmente ao requerido para a MEL para ETOPS 180 minutos, devem estar operacionais:
+  a) Sistema indicador de quantidade de combustível;'
+keywords:
+- transporte-aereo
+- operacoes
+- minutos
+- apendice
+- desvio
+- maximo
+- secao
+- tempo
+- alem
+- etops
+- pretendido
+- consideracoes
+- requerido
+- acordo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

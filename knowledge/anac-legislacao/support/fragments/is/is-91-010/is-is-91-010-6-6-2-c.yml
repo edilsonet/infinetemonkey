@@ -1,0 +1,31 @@
+id: is-is-91-010-6-6-2-c
+kind: is
+document: is-91-010
+family: '91'
+section_id: 6.6.2
+section_title: 'Uma especificação RCP é composta pelos seguintes parâmetros:'
+subsection_id: c
+cite: 6.6.2(c)
+title: 6.6.2(c)
+text: 'c) Disponibilidade RCP: probabilidade mínima requerida de que uma transação de comunicação
+  possa ser iniciada; e'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- composta
+- comunicacao
+- disponibilidade
+- especificacao
+- iniciada
+- minima
+- parametros
+- pelos
+- possa
+- probabilidade
+- requerida
+- seguintes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

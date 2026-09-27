@@ -1,0 +1,56 @@
+id: is-is-00-002-4-c
+kind: is
+document: is-00-002
+family: '0'
+section_id: '4'
+section_title: Conhecimento prévio requerido
+subsection_id: c
+cite: 4(c)
+title: 4(c)
+text: 'c) componentes de um sistema de rádio aeronáutico:Data de emissão: 31 de dezembro de
+  2024
+
+  IS nº 00-002
+
+  Revisão H
+
+  i. sistema de energização do rádio (master da aeronave, master de aviônicos, bateria, etc.);
+
+  ii. microfone;
+
+  iii. transmissor;
+
+  iv. receptor;
+
+  v. antena;
+
+  vi. headphones e alto-falantes;
+
+  vii. procedimentos para utilizar o rádio;
+
+  viii. uso dos switches de seleção de canais (VHF, HF, Intercom, PA);
+
+  ix. como ligar e desligar o rádio;
+
+  x. como selecionar frequências no rádio;
+
+  xi. uso do controle de squelch;
+
+  xii. uso adequado do microfone.'
+keywords:
+- radio
+- master
+- microfone
+- sistema
+- adequado
+- aeronautico
+- aeronave
+- alto
+- antena
+- avionicos
+- bateria
+- canais
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-002.md

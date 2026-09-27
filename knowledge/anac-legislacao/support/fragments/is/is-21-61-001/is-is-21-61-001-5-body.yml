@@ -1,0 +1,128 @@
+id: is-is-21-61-001-5-body
+kind: is
+document: is-21-61-001
+family: '21'
+section_id: '5'
+section_title: DISCUSSION
+subsection_id: body
+cite: '5'
+title: DISCUSSION
+text: '5. DISCUSSION
+
+  5.1 Introdução
+
+  5.1 Introduction
+
+  Quando solicitado por um requerente, a ANAC realiza avaliações de aeronaves novas e relacionadas
+  e seus sistemas associados com a finalidade de determinar os requisitos recomendados de
+  treinamento e qualificação do piloto, bem como a habilitação de tipo de piloto, resultando
+  no estabelecimento de FCD.
+
+  When requested by an applicant, ANAC undertakes analyses of new and related aircraft and
+  their associated systems for the purpose of determining recommended pilot training and qualification
+  requirements, as well as pilot type rating, resulting in the establishment of FCD.
+
+  5.2 Aplicabilidade
+
+  5.2 Applicability
+
+  Esta IS se aplica a detentores e requerentes de certificados de tipo ou certificados suplementares
+  de tipo de aeronaves que exigem uma habilitação de tipo de piloto de acordo com o RBAC 61.
+
+  This IS applies to holders and applicants of type certificates or supplementary type certificates
+  of aircraft which require a pilot type rating in accordance with RBAC 61.
+
+  5.3 Requisitos obrigatórios e voluntários
+
+  5.3 Mandatory and voluntary requirements
+
+  5.3.1 O FCD é voluntário. No entanto, para se beneficiar dos resultados de uma atividade
+  de avaliação operacional, um requerente deve desenvolver o FCD e ele fará parte do certificado
+  de tipo de aeronave, conforme disposto na seção 21.41 do RBAC 21.
+
+  5.3.1 FCD is voluntary. However, to benefit from the results of an operational evaluation
+  activity, an applicant must develop the FCD and it will be part of the aircraft type certificate,
+  as provided in section 21.41 of RBAC 21.
+
+  5.3.2 No caso de aeronaves que possuam FCD e modificações sejam propostas, o requerente
+  é obrigado a manter o FCD atualizado, caso contrário a ANAC poderá limitar seu uso (consulte
+  o item 5.6.1.3).
+
+  5.3.2 In the case of aircraft with existing FCD and changes are implemented, the applicant
+  is required to keep FCD updated, otherwise ANAC may limit its use (refer to item 5.6.1.3).
+
+  5.4 Regras de transição
+
+  5.4 Transition rules
+
+  5.4.1 Os relatórios de avaliação operacional emitidos pela ANAC até 2024 são considerados
+  FCD de acordo com os requisitos OSD contidos no RBAC 21. Não é necessário solicitar aprovação
+  de modificação ao certificado de tipo apenas para incluir os resultados da avaliação operacional
+  como FCD no certificado de tipo da aeronave.
+
+  5.4.1 Operational evaluation reports issued by ANAC until 2024 are considered FCD according
+  to OSD requirements contained in RBAC 21. It is not necessary to apply for type certificate
+  change approval just to include the operational evaluation results as FCD into the aircraft
+  type certificate.
+
+  5.4.2 No entanto, tais relatórios são aplicáveis aos modelos e configurações de aeronaves
+  conforme foram originalmente avaliados. Modificações posteriores no projeto de tipo que
+  afetam FCD podem não ser cobertas pelos relatórios de avaliação operacional existentes.
+  Os detentores de certificado de tipo podem, a seu critério, solicitar a aprovação de modificações
+  isoladas (stand-alone) aos FCD de acordo com as novas regras e procedimentos do OSD, para
+  atualizar aqueles FCD que não cobrem todas as modificações de projeto submetidas até 1°
+  de janeiro de 2025.
+
+  5.4.2 However, such reports are applicable to the aircraft models and configurations as
+  they were originally assessed. Later design changes affecting FCD may not be covered by
+  the existing operational evaluation reports. Type certificate holders may, upon their discretion,
+  apply for the approval of stand-alone FCD changes according to new OSD rules and procedures,
+  for updating those FCD which do not cover all design changes submitted until January 1st,
+  2025.
+
+  5.4.3 Os requerimentos de modificação ao certificado de tipo submetidos após 1º de janeiro
+  de 2025 para aeronaves que possuam FCD (incluindo relatórios de avaliação operacional emitidos
+  pela ANAC até 2024) devem atender aos requisitos para modificações aos OSD (seção 21.107-I
+  do RBAC 21), conforme explicado na seção 5.6.
+
+  5.4.3 Applications for type certificate change submitted after January 1st, 2025 for aircraft
+  having FCD (including operational evaluation reports issued by ANAC until 2024) must comply
+  with requirements for changes to OSD (section 21.107-I of RBAC 21), as explained in section
+  5.6.
+
+  5.5 Emissão inicial dos FCD
+
+  5.5 FCD Initial issuance
+
+  5.5.1 Conforme parágrafo 21.61-I(a) do RBAC 21, o detentor ou requerente de um certificado
+  de tipo para uma aeronave para a qual seja requerida uma habilitação de tipo de pilotos,
+  conforme o RBAC 61, deve realizar uma campanha de avaliação operacional de forma aceitável
+  e com resultado satisfatório caso tenha intenção de que sejam incluídos FCD no respectivo
+  certificado.
+
+  5.5.1 As per paragraph 21.61-I(a) of RBAC 21, the holder of or applicant to a type certificate
+  for an aircraft for which a pilot type rating is required, according to RBAC 61, shall perform
+  an operational evaluation campaign in an acceptable manner and with satisfactory result
+  if intending to include FCD in the respective certificate.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- tipo
+- type
+- aircraft
+- certificado
+- certificate
+- avaliacao
+- evaluation
+- operacional
+- operational
+- aeronaves
+- changes
+- modificacoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-001.md

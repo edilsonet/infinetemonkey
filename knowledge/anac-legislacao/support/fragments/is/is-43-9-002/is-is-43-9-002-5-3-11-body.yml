@@ -1,0 +1,38 @@
+id: is-is-43-9-002-5-3-11-body
+kind: is
+document: is-43-9-002
+family: '43'
+section_id: 5.3.11
+section_title: 'Campo 10 - Número de Série / Lote (Serial/Batch Number): Indique o número
+  de série'
+subsection_id: body
+cite: 5.3.11
+title: 'Campo 10 - Número de Série / Lote (Serial/Batch Number): Indique o número de série'
+text: '5.3.11 Campo 10 - Número de Série / Lote (Serial/Batch Number): Indique o número de
+  série
+
+  ou lote equivalente (identificado no motor de aeronave, hélice ou artigo) para cada motor
+
+  de aeronave, hélice ou artigo aprovado. Se o número de série/lote não for aplicável,
+
+  indique “N/A”.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- numero
+- serie
+- lote
+- indique
+- batch
+- campo
+- number
+- serial
+- aeronave
+- artigo
+- helice
+- motor
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-9-002.md

@@ -1,0 +1,52 @@
+document: is-117-001
+kind: is
+title: IS 117-001B
+ementa: Conceitos básicos sobre fadiga humana
+family: '117'
+categories:
+- fadiga
+- jornada
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001/@@display-file/arquivo_norma/IS117-001B.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-001
+language: pt
+foreign_annex: false
+sections:
+- acronimos
+- apendice-a-controle-de-alteracoes
+- apendice-a-do-rbac-no-117-nb
+- apendice-b-do-rbac-no-117-grf
+- apendice-c-do-rbac-no-117-grf
+- apendice-d-do-rbac-no-117-grf
+- apendice-e-do-rbac-no-117-grf
+- aprovacao
+- definicoes
+- disposicoes-finais
+- fundamentos
+- introducao
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 19
+fragment_ids:
+- is-is-117-001-preambulo-body
+- is-is-117-001-aprovacao-body
+- is-is-117-001-objetivo-body
+- is-is-117-001-revogacao-body
+- is-is-117-001-fundamentos-body
+- is-is-117-001-acronimos-body
+- is-is-117-001-definicoes-body
+- is-is-117-001-introducao-body
+- is-is-117-001-apendice-a-do-rbac-no-117-nb-body
+- is-is-117-001-apendice-b-do-rbac-no-117-grf-body
+- is-is-117-001-apendice-c-do-rbac-no-117-grf-body
+- is-is-117-001-apendice-d-do-rbac-no-117-grf-body
+- is-is-117-001-apendice-e-do-rbac-no-117-grf-body
+- is-is-117-001-apendice-e-do-rbac-no-117-grf-a
+- is-is-117-001-apendice-e-do-rbac-no-117-grf-b
+- is-is-117-001-apendice-e-do-rbac-no-117-grf-c
+- is-is-117-001-apendice-e-do-rbac-no-117-grf-d
+- is-is-117-001-apendice-a-controle-de-alteracoes-body
+- is-is-117-001-disposicoes-finais-body
+parser_version: 7

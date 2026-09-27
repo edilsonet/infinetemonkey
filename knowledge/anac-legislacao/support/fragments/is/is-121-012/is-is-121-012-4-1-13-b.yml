@@ -1,0 +1,141 @@
+id: is-is-121-012-4-1-13-b
+kind: is
+document: is-121-012
+family: '121'
+section_id: 4.1.13
+section_title: Tempo de desvio máximo significa o tempo máximo para desvio de um ponto da
+  rota até um aeródromo de alternativa, conforme autorizado para um voo ETOPS.
+subsection_id: b
+cite: 4.1.13(b)
+title: 4.1.13(b)
+text: 'b) determinar se um aeródromo de alternativa ETOPS se encontra dentro do tempo de desvio
+  máximo autorizado para um voo ETOPS.
+
+  4.2 Lista de abreviaturas:
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  APU - Auxiliary Power Unit (unidade auxiliar de potência)
+
+  CMP - Configuration, maintenance, and procedures (documento de configuração, manutenção
+  e procedimentos)
+
+  EO - Especificações Operativas
+
+  ETOPS - Operações prolongadas
+
+  ETP - Equal-time point (ponto equidistante em tempo)
+
+  FMS - Flight Management System (sistema de gerenciamento de voo)
+
+  IAS - Indicated air speed (velocidade indicada)
+
+  IFSD - In-flight shutdown (parada de motor em voo)
+
+  IS - Instrução Suplementar
+
+  LOFT - Line-oriented flight training (Treinamento orientado para operação em rota)
+
+  MCT - Maximum continuous thrust (empuxo máximo contínuo)
+
+  MGM - Manual Geral de Manutenção
+
+  OACI - Organização da Aviação Civil Internacional
+
+  PMAC - Programa de Manutenção de Aeronavegabilidade Continuada
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  SPO - Superintendência de Padrões Operacionais
+
+  CONTEÚDO
+
+  5.1 Introdução
+
+  5.1.1 O parágrafo 121.161(a) do RBAC nº 121 requer que as operações prolongadas (ETOPS)
+  e as operações nas áreas polar sul ou norte sejam aprovadas pela ANAC e autorizadas nas
+  Especificações Operativas do detentor de certificado.
+
+  5.1.2 Para aviões com motores a turbina, as operações prolongadas ETOPS são aquelas que
+  possuem um ponto a um tempo de voo de um aeródromo adequado, em velocidade de cruzeiro com
+  um motor inoperante sob atmosfera padrão e ar calmo, superior a 75 minutos para aviões com
+  dois motores; e a 180 minutos para aviões com mais de dois motores transportando passageiros.
+  O requisito não se aplica para aviões com mais de dois motores a turbina em operações exclusivamente
+  cargueiras.
+
+  Nota: inicialmente a abreviatura ETOPS se referia a “extended twin engine operations” (operações
+  prolongadas com bimotores), pois os requisitos se aplicavam somente a aviões bimotores.
+  No entanto, atualmente a abreviatura significa “Extended operations” (operações prolongadas)
+  e os requisitos se aplicam a aviões com dois ou mais motores a turbina.
+
+  5.1.3 Para aviões com motores convencionais, não é definida operação ETOPS. No entanto,
+  há requisito similar no parágrafo 121.161(d) do RBAC nº 121, que estabelece a necessidade
+  de autorização da ANAC para a operação a mais de 75 minutos de tempo de voo de um aeródromo
+  adequado, em velocidade de cruzeiro com um motor inoperante sob atmosfera padrão e ar calmo.
+  Para conceder tal autorização, a ANAC considerará as características do terreno, o tipo
+  de operação e o desempenho do avião. No entanto, o detalhamento de tal autorização está
+  além do escopo desta IS.
+
+  5.1.4 O conceito geral da regulamentação de operações ETOPS é evitar um desvio para alternativa
+  e, caso ele seja necessário, proteger esse desvio. Sob esse conceito, os sistemas de propulsão
+  são projetados e testados para garantir um nível adequado de IFSD, e outros sistemas do
+  avião são projetados e testados para garantir sua confiabilidade. Procedimentos de manutenção
+  específicos para aviões com dois motores são desenvolvidos para manter e monitorar as condições
+  dos motores e dos sistemas significativos ETOPS, minimizando a probabilidade de ocorrer
+  um desvio para alternativa.
+
+  5.1.5 No entanto, seja por razões técnicas (relacionadas a motores ou sistemas do avião)
+  ou não técnicas, o detentor de certificado deve planejar o voo buscando proteger o desvio.
+  Tais medidas incluem designação de aeródromos de alternativa ETOPS, avaliação das condições
+  meteorológicas nesses aeródromos, possibilidade de comunicação com o centro de despacho
+  e com o controle de tráfego aéreo e um possível aumento na quantidade de combustível requerida.
+
+  5.1.6 Diversos aspectos são considerados, como falhas de motores, despressurização, falhas
+  de sistemas, condições de gelo em voo, ocorrência de fogo a bordo ou ocorrências médicas
+  e a operação em áreas remotas e inóspitas, que podem apresentar dificuldades em termos de
+  manutenção do bem-estar dos passageiros após um pouso em aeródromo de alternativa ETOPS,
+  bem como da continuação da viagem desses passageiros. Enquanto alguns desses aspectos afetam
+  igualmente aviões de dois e aviões de mais de dois motores, outros afetam de forma diferente
+  esses aviões.
+
+  5.1.7 Alguns dos aspectos relevantes para operações ETOPS são também aplicáveis para operações
+  em áreas polares, cujas autorizações também são tratadas nesta IS. As orientações a respeito
+  de operações em áreas polares se encontram no Apêndice B.
+
+  5.2 Conteúdo de manuais
+
+  Nota 1: esta seção identifica simultaneamente os requisitos que devem ser cumpridos para
+  a realização das operações ETOPS e os procedimentos que devem ser incluídos nos manuais
+  dos detentores de certificado. Portanto, todo procedimento identificado deve ser incorporado
+  nos manuais do detentor de certificado, ainda que não se explicite, a cada parágrafo, que
+  é obrigação do detentor do certificado estabelecer tais procedimentos. Os trechos meramente
+  informativos (que não estabeleçam a necessidade de procedimento) não precisam ser incluídos
+  nos manuais, ficando tal decisão a critério do detentor de certificado.
+
+  Nota 2: diferentes autorizações ETOPS requerem diferentes procedimentos, com procedimentos
+  mais exigentes quanto maior o tempo de desvio máximo autorizado. O detentor de certificado
+  pode estabelecer em seus manuais conjuntos de procedimentos diferentes para cada autorização
+  ETOPS, até o maior tempo de desvio autorizado. Isso permite ao detentor de certificado adequar
+  a complexidade de suas operações de acordo com os requisitos aplicáveis a cada voo. No entanto,
+  caso o detentor de certificado estabeleça somente os procedimentos aplicáveis à autorização
+  mais complexa, deverá executar tais procedimentos mesmo em rotas ETOPS que não exijam o
+  mais alto nível de tempo de desvio máximo autorizado.'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- avioes
+- motores
+- desvio
+- certificado
+- procedimentos
+- tempo
+- detentor
+- dois
+- alternativa
+- maximo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

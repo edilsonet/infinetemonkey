@@ -1,0 +1,25 @@
+id: rbac-rbac-142-aprovacao-body
+kind: rbac
+document: rbac-142
+family: '142'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 232, de 30.05.2012. [Emenda nº 00]
+
+  Resolução nº 467, de 03.05.2018. [Emenda nº 01]
+
+  Resolução nº 503, de 07.02.2019. [Emenda nº 02]
+
+  Resolução nº 606, de 11.02.2021. [Emenda nº 03]'
+keywords:
+- resolucao
+- aprovacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-142.md

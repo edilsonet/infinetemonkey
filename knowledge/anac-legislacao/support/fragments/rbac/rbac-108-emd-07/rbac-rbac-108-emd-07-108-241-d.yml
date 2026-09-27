@@ -1,0 +1,42 @@
+id: rbac-rbac-108-emd-07-108-241-d
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.241'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: d
+cite: 108.241(d)
+title: 108.241(d)
+text: '(d) Na execução das inspeções internas o operador aéreo deve observar as seguintes
+  disposições:
+
+  (1) o escopo da inspeção deve ser definido pelo responsável AVSEC local da base onde ocorrerá
+  a atividade, de forma justificada no relatório de inspeção, buscando o foco nas medidas
+  de segurança e procedimentos que se relacionem às vulnerabilidades e ameaças mais significativas,
+  às eventuais ações corretivas anteriores e àqueles que sofreram alterações recentes;
+
+  (2) a inspeção deve ser realizada em cada base do operador aéreo e ser conduzida pelo responsável
+  local pela AVSEC da base, pelo responsável nacional pela AVSEC ou por profissional capacitado,
+  nos termos do PNIAVSEC; e
+
+  (3) a inspeção deve utilizar técnicas similares à auditoria, tais como revisão de documentos,
+  entrevistas e observações diretas.'
+keywords:
+- seguranca
+- operador
+- avsec
+- inspecao
+- base
+- responsavel
+- aereo
+- local
+- acoes
+- alteracoes
+- ameacas
+- anteriores
+- aqueles
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

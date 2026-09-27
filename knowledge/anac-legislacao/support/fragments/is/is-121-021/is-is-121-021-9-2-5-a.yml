@@ -1,0 +1,67 @@
+id: is-is-121-021-9-2-5-a
+kind: is
+document: is-121-021
+family: '121'
+section_id: 9.2.5
+section_title: Qualificação FSTD apropriada para o programa UPRT.
+subsection_id: a
+cite: 9.2.5(a)
+title: 9.2.5(a)
+text: 'a) Os níveis de fidelidade do FSTD que atendem a todos os requisitos do programa UPRT
+  são obtidos por meio da qualificação apropriada do dispositivo de treinamento de simulação
+  de voo de acordo com as seções aplicáveis ​​da Diretiva nº 2 do 14 CFR Part 60, da FAA,
+  ou da Diretiva nº 2 do LAR 60, do SRVSOP (ou regulamentos equivalentes), conforme a seguir:
+
+  1. Seção I - Requisitos Adicionais de Qualificação para Tarefas de Instrução de Manobra
+  de Estol;
+
+  2. Seção II - Requisitos adicionais de qualificação para tarefas de instrução em prevenção
+  e recuperação de perda de controle; e
+
+  Nota: para evitar confusão, é importante observar que a qualificação nesta seção pode ser
+  encontrada na folha de especificações do FSTD sob o nome “UPRT” como sinônimo de “Upset
+  Recovery”.
+
+  3. Seção III - Requisitos adicionais de qualificação para tarefas de treinamento contra
+  o acúmulo de gelo na estrutura da aeronave e seus motores.
+
+  9.3 Requisitos de treinamento de FSTD baseados em cenários para UPRT
+
+  9.3.1 Uma maneira eficaz de ensinar prevenção e recuperação de perda de controle é usar
+  cenários realistas que podem ocorrer em operações reais. Os cenários de UPRT não devem necessariamente
+  ser direcionados ao tratamento de uma condição de perda de controle estabelecida. O objetivo
+  da introdução desses eventos é permitir a consolidação do conhecimento obtido no treinamento
+  teórico em situações conhecidas por contribuir para a perda de controle. A inclusão de cenários
+  de UPRT em todos os aspectos da instrução reforça o conhecimento dos elementos precursores
+  e promove a fase de prevenção de UPRT. A maioria dos FSTD fornece vários recursos que podem
+  ser usados ​​para dar suporte a esse treinamento, e prevê-se que pouco ou nenhum upgrade
+  de dispositivo será necessário para permitir um treinamento útil em tais cenários. No parágrafo
+  7.4, se encontram os cenários recomendados pelos OEM.
+
+  9.4 Requisitos de ferramentas para o instrutor no UPRT
+
+  9.4.1 As ferramentas aprimoradas do instrutor permitem obter um feedback preciso do desempenho
+  do piloto. Atualmente, essas atualizações são tecnicamente possíveis e podem ser instaladas
+  em FSTD existentes a um custo limitado. Essas ferramentas devem incluir recursos adequados
+  de registro de áudio e vídeo, bem como um recurso de registro de dados para monitorar certos
+  parâmetros em tempo real durante o treinamento e para uso em sessões de debriefing.'
+keywords:
+- transporte-aereo
+- operacoes
+- uprt
+- treinamento
+- cenarios
+- fstd
+- qualificacao
+- requisitos
+- controle
+- perda
+- secao
+- adicionais
+- ferramentas
+- instrucao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

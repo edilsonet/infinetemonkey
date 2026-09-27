@@ -1,0 +1,90 @@
+id: is-is-175-000-definicoes-body
+kind: is
+document: is-175-000
+family: '175'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01 e 175, na
+  IS nº
+
+  175-001 e as seguintes definições:
+
+  Certificado de operador aéreo (COA): documento por meio do qual a ANAC atesta que
+
+  uma empresa está certificada para prestar serviços de transporte aéreo público, após ter
+
+  demonstrado possuir condições técnico-operacionais, conforme a legislação vigente e de
+
+  acordo com os procedimentos estabelecidos em seus manuais e programas, autorizados ou
+
+  limitados em suas Especificações Operativas (EO). Equivale ao Certificado de Empresa de
+
+  Transporte Aéreo (certificado ETA) mencionado no RBAC n° 119.Data de emissão: 17 de março
+  de 2021
+
+  IS nº 175-000
+
+  Revisão B
+
+  Conhecimento de transporte eletrônico (CT-e): documento de existência exclusivamente
+
+  digital, emitido e armazenado eletronicamente com o intuito de documentar a prestação do
+
+  serviço de transporte aéreo doméstico, com validade jurídica garantida pela assinatura digital
+
+  do transportador e pela autorização de uso fornecida pela administração tributária do
+
+  domicílio do contribuinte.
+
+  Especificações operativas (EO): documento emitido pela ANAC que define, lista e
+
+  estabelece especificamente para um operador aéreo suas instalações, pessoal de
+
+  administração, frota, área de operação, autorizações e/ou limitações de operações
+
+  específicas, informações sobre manutenção de aeronaves e, se existirem, isenções ou
+
+  desvios. A revisão mais recente das EO revoga as revisões anteriores a partir da data de
+
+  emissão. As EO são vinculadas ao COA, mas não constituem parte dele. As características
+
+  do operador são vinculadas às informações contidas em suas EO;
+
+  Formulário padronizado (FOP): documento que tem como objetivo delimitar informações
+
+  por assuntos específicos de forma padronizada em substituição a cartas, memorandos e
+
+  ofícios. Os FOP são utilizados nas interações entre o requerente e a ANAC e nas
+
+  comunicações internas da Agência relativas ao processo de certificação.
+
+  Manifesto de documentos fiscais eletrônico - MDF-e: o documento emitido e armazenado
+
+  eletronicamente, de existência apenas digital, para vincular os documentos fiscais utilizados
+
+  na operação e/ou prestação, à unidade de carga utilizada no transporte.'
+keywords:
+- artigos-perigosos
+- carga
+- aereo
+- definicoes
+- documento
+- transporte
+- certificado
+- digital
+- emitido
+- informacoes
+- operador
+- administracao
+- armazenado
+- data
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-000.md

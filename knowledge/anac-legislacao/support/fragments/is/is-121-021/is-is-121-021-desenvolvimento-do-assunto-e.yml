@@ -1,0 +1,85 @@
+id: is-is-121-021-desenvolvimento-do-assunto-e
+kind: is
+document: is-121-021
+family: '121'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: e
+cite: desenvolvimento-do-assunto(e)
+title: desenvolvimento-do-assunto(e)
+text: 'e) instrução inadequada.
+
+  5.1.5 Também houve vários incidentes de perda de controle da aeronave em que a recuperação
+  foi bem-sucedida e muitos outros casos em que uma perda de controle em evolução pôde ser
+  evitada. O fator determinante para a recuperação para um estado seguro na maioria desses
+  incidentes foi a análise precisa do caso por parte da tripulação de voo e a aplicação oportuna
+  e correta de técnicas de prevenção e recuperação, ou a estabilidade inerente da aeronave
+  juntamente com seu sistema de proteção de envelope que forneceu uma medida adicional de
+  tempo ou uma entrada no sistema de voo automático que reduziu a gravidade do incidente.
+
+  5.2 Definição de perda de controle da aeronave
+
+  5.2.1 O termo “perda de controle da aeronave” é uma condição em voo em que uma aeronave
+  inadvertidamente excede os parâmetros normalmente experimentados em operações normais de
+  linha ou treinamento e é geralmente reconhecida como uma condição de voo durante a qual
+  a aeronave inadvertidamente se inclina acima de 25º nariz para cima ou 10º nariz para baixo
+  ou tem um ângulo de inclinação superior a 45º ou está voando dentro dos parâmetros acima,
+  mas em velocidades inadequadas.
+
+  5.2.2 É importante esclarecer dois pontos sobre a perda de controle da aeronave. Primeiro,
+  a aeronave não está se comportando de acordo com as intenções da tripulação de voo e está
+  se aproximando de parâmetros inseguros, em outras palavras, a situação é inadvertida. Em
+  segundo lugar, há o fato de que o piloto não deve esperar até que a aeronave esteja em uma
+  “perda de controle estabelecida” antes de tomar medidas de recuperação para retornar aos
+  parâmetros da trajetória de voo estabilizada. A este respeito, LOC-I é uma categorização
+  de um acidente ou incidente devido a um desvio da trajetória de voo pretendida.
+
+  5.2.3 Por fim, é importante entender que existe uma relação entre as definições de “estol”
+  e “perda de controle da aeronave”. Embora nem todos os casos de perda de controle da aeronave
+  envolvam um estol, um estol não intencional é realmente uma forma de perda de controle,
+  já que certamente estarão presentes os parâmetros de perda de controle relativos à atitude,
+  ou ao ângulo de inclinação lateral ou da velocidade.
+
+  5.2.4 Em todos os casos em que a perda de controle da aeronave envolva um estol, ela deve
+  primeiro ser recuperada da condição de estol antes que outras medidas de recuperação da
+  perda de controle possam ser efetuadas. Portanto, uma vez que os eventos de perda de controle
+  e estol estão intimamente relacionados, é altamente desejável garantir que qualquer programa
+  abrangente de treinamento de prevenção e recuperação de perda de controle da aeronave esteja
+  intimamente relacionado ao treinamento de prevenção e recuperação de estol.
+
+  5.2.5 Esta IS fornece um quadro genérico para programas de treinamento para mitigar o risco
+  de acidentes LOC-I. No entanto, o texto pode conter elementos de treinamento que podem ser
+  afetados ou invalidados por futuras tecnologias específicas de aeronaves ou outros desenvolvimentos
+  de natureza operacional. Os fabricantes podem, em algum momento, desenvolver orientações
+  de procedimentos diferentes para abordar essas áreas de treinamento. As recomendações dos
+  fabricantes têm precedência sobre qualquer informação diferente que conste nesta IS.
+
+  DESENVOLVIMENTO DO PROGRAMA DE TREINAMENTO
+
+  6.1 Abordagem para o desenvolvimento do programa UPRT
+
+  6.1.1 O UPRT identifica os recursos de treinamento - teórico e prático (no FSTD, no caso
+  desta IS) - bem como os elementos de treinamento necessários para transmitir aos pilotos
+  os conhecimentos, habilidades e atitudes (CHA) necessários para a finalidade de reduzir
+  a probabilidade de perda de controle da aeronave e maximizar a capacidade de recuperar a
+  aeronave de tais eventos.'
+keywords:
+- transporte-aereo
+- operacoes
+- aeronave
+- controle
+- perda
+- treinamento
+- estol
+- recuperacao
+- parametros
+- desenvolvimento
+- casos
+- condicao
+- prevencao
+- programa
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

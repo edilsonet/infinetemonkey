@@ -1,0 +1,57 @@
+id: is-is-91-001-e4-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E4.1
+section_title: Antes de iniciar a fase de chegada, a tripulação deve verificar se a rota terminal
+  foi corretamente inserida. O plano de voo ativo deve ser verificado comparando as cartas
+  de navegação correspondentes com a informação disponibilizada pelo display de mapas (se
+  disponível) e pelo MCDU. Esta conferência deve englobar a sequência de waypoints, a proporcionalidade
+  dos ângulos e distâncias da trajetória, quaisquer restrições de altitudes e velocidades
+  e, quando aplicável, quais waypoints são fly-by ou fly-over. Se for necessário para uma
+  determinada rota, uma verificação deverá ser realizada para confirmar que a atualização
+  excluirá um auxílio à navegação em particular. Uma rota não poderá ser utilizada caso existam
+  dúvidas quanto à sua validade no banco de dados de navegação.
+subsection_id: body
+cite: E4.1
+title: Antes de iniciar a fase de chegada, a tripulação deve verificar se a rota terminal
+  foi corretamente inserida. O plano de voo ativo deve ser verificado comparando as cartas
+  de navegação correspondentes com a informação disponibilizada pelo display de mapas (se
+  disponível) e pelo MCDU. Esta conferência deve englobar a sequência de waypoints, a proporcionalidade
+  dos ângulos e distâncias da trajetória, quaisquer restrições de altitudes e velocidades
+  e, quando aplicável, quais waypoints são fly-by ou fly-over. Se for necessário para uma
+  determinada rota, uma verificação deverá ser realizada para confirmar que a atualização
+  excluirá um auxílio à navegação em particular. Uma rota não poderá ser utilizada caso existam
+  dúvidas quanto à sua validade no banco de dados de navegação.
+text: 'E4.1 Antes de iniciar a fase de chegada, a tripulação deve verificar se a rota terminal
+  foi corretamente inserida. O plano de voo ativo deve ser verificado comparando as cartas
+  de navegação correspondentes com a informação disponibilizada pelo display de mapas (se
+  disponível) e pelo MCDU. Esta conferência deve englobar a sequência de waypoints, a proporcionalidade
+  dos ângulos e distâncias da trajetória, quaisquer restrições de altitudes e velocidades
+  e, quando aplicável, quais waypoints são fly-by ou fly-over. Se for necessário para uma
+  determinada rota, uma verificação deverá ser realizada para confirmar que a atualização
+  excluirá um auxílio à navegação em particular. Uma rota não poderá ser utilizada caso existam
+  dúvidas quanto à sua validade no banco de dados de navegação.
+
+  Nota: no mínimo, as verificações na fase de chegada podem consistir em uma simples inspeção
+  de uma exibição de um mapa adequado (display de mapas) que alcance os objetivos deste item.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- rota
+- waypoints
+- chegada
+- display
+- fase
+- mapas
+- altitudes
+- angulos
+- aplicavel
+- ativo
+- atualizacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

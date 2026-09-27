@@ -1,0 +1,100 @@
+id: is-is-23-002-5-5-5-body
+kind: is
+document: is-23-002
+family: '23'
+section_id: 5.5.5
+section_title: Classe D - É um compartimento de carga que deixou de existir a partir da emenda
+  93 do RBAC 25, de 17 de fevereiro de 1998.
+subsection_id: body
+cite: 5.5.5
+title: Classe D - É um compartimento de carga que deixou de existir a partir da emenda 93
+  do RBAC 25, de 17 de fevereiro de 1998.
+text: '5.5.5 Classe D - É um compartimento de carga que deixou de existir a partir da emenda
+  93 do RBAC 25, de 17 de fevereiro de 1998.
+
+  5.5.6 Classe E - É um compartimento de carga onde toda a cabine do avião é utilizada exclusivamente
+  para transporte de carga e no qual existe um sistema exclusivo e independente de detecção
+  de fogo ou de fumaça para emitir um alerta aos tripulantes, na cabine de pilotagem; é revestido
+  com um liner; existem meios de comandar, da cabine de pilotagem, o bloqueio de todo fluxo
+  de ar e da ventilação para esse compartimento; existem meios para eliminar quantidades perigosas
+  de fumaça, de agente extintor, e/ou de gases tóxicos do compartimento dos tripulantes e
+  as saídas de emergência requeridas para os tripulantes devem ser acessíveis sob qualquer
+  condição de carregamento do compartimento.
+
+  5.6 SEAT CONTAINER
+
+  É um invólucro ou recipiente aprovado para transporte de carga e/ou bagagem sobre os assentos
+  de passageiros de um avião, previstos no RBAC 135.87. Para sua utilização em uma aeronave
+  é recomendável a instalação de um equipamento portátil de oxigênio; de óculos contra fumaça
+  ou de máscaras do tipo full-face, ou de um equipamento portátil de proteção de respiração
+  (PBE - Protective Breathing Equipment), para cada ocupante, e de um extintor de incêndio
+  adicional, de capacidade e de tipo adequado à configuração do avião, de acordo com a AC
+  20-42 emitida pela Federal Aviation Administration of United States of America - FAA-USA.
+
+  5.7 CARACTERÍSTICAS DE PROTEÇÃO CONTRA FOGO
+
+  5.7.1 Exceção feita aos aviões certificados na categoria transporte regional, onde há a
+  necessidade de demonstração de cumprimento com o RBAC/14 CFR Part 23.855, para os demais
+  casos referidos nesta IS, pode haver a necessidade de adoção do RBAC/14 CFR Part 25.855.
+
+  5.7.2 Devem estar instaladas as proteções contra fogo com as características requeridas
+  para a classe do compartimento envolvido, conforme aplicável, como por exemplo liner, sistema
+  de detecção de fogo ou de fumaça, extintor de incêndio portátil, sistema de extinção de
+  fogo exclusivo e independente e devem ter demonstrado o cumprimento com os requisitos de
+  certificação apropriados.
+
+  5.7.3 O objetivo principal de um liner é evitar que um fogo originado no compartimento de
+  carga e/ou de bagagem se alastre para outras partes do avião antes que esteja sob controle.
+  O liner não precisa manter o compartimento estanque, mas neste caso é necessário instalar
+  detectores de chama para evitar que qualquer chama possa se propagar para outra parte do
+  avião e não deve haver nada adjacente ao compartimento que possa se incendiar com o fluxo
+  de calor. Muitas vezes o liner é utilizado com outras funções secundárias como conter o
+  agente extintor descarregado e controlar o fluxo de oxigênio no compartimento. Se por alguma
+  razão as paredes do compartimento não forem estanques, o liner deve desempenhar esta função.
+  O liner também deve manter sua integridade para evitar que uma chama o atravesse e atinja
+  outro local, antes que o fogo esteja sob controle. Em adição, o termo liner inclui todo
+  e qualquer dispositivo tal como uma união ou prendedor que possa afetar as características
+  do compartimento de conter um fogo com segurança. O RBAC/14 CFR Part 25.855 e a parte III
+  do apêndice F do RBAC/14 CFR Part 25 especificam os ensaios aplicáveis ao liner do teto
+  e das paredes laterais dos compartimentos Classe B, C e E.
+
+  5.7.4 Um compartimento de carga Classe A ou Classe B deve permitir que um tripulante tenha
+  acesso suficiente para efetivamente alcançar todo o espaço do compartimento com o jato de
+  um extintor de incêndio portátil. Isto significa que o tripulante deve estar apto a se aproximar
+  o suficiente para combater um fogo em qualquer parte do compartimento sem que haja a necessidade
+  de se movimentar ou engatinhar sobre a carga. A distância que um tripulante deve se aproximar
+  do fogo depende do alcance e de outras características do extintor utilizado e da forma
+  do compartimento. Lembrar que o compartimento deve ser considerado como se estivesse totalmente
+  ocupado. Com relação a esta preocupação, os compartimentos de carga Classe A são especialmente
+  críticos por não possuírem liner. Como mencionado acima, um fogo em um compartimento Classe
+  A que não é extinto imediatamente pode rapidamente se tornar catastrófico e se alastrar
+  por toda a aeronave.
+
+  5.7.5 Nenhuma aeronave aprovada para operação com um único piloto, sem que esteja instalado
+  um piloto automático em funcionamento, pode ter um compartimento de carga Classe A ou Classe
+  B, pois o piloto não poderia combater um fogo em toda a extensão do compartimento enquanto
+  permanece no controle da aeronave. Em geral, um compartimento de carga com volume igual
+  ou superior a 1500 litros não é enquadrado na Classe A pela dificuldade em combater um fogo
+  em todas as partes de um compartimento com esse volume ou com um volume maior.
+
+  5.8 SAÍDA DE EMERGÊNCIA'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- compartimento
+- classe
+- fogo
+- carga
+- liner
+- extintor
+- aviao
+- aeronave
+- caracteristicas
+- fumaca
+- part
+- portatil
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-23-002.md

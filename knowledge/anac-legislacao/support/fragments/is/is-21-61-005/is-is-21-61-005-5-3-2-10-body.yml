@@ -1,0 +1,47 @@
+id: is-is-21-61-005-5-3-2-10-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.2.10
+section_title: When reference is made to a component of a system, only the function performed
+  by that component in the system may be inoperative.
+subsection_id: body
+cite: 5.3.2.10
+title: When reference is made to a component of a system, only the function performed by that
+  component in the system may be inoperative.
+text: '5.3.2.10 When reference is made to a component of a system, only the function performed
+  by that component in the system may be inoperative.
+
+  5.3.2.11 Por outro lado, quando a referência for a um sistema inoperante, um equipamento
+  ou instrumento diretamente associado a ele e que não tenham outra função senão as relacionadas
+  a este sistema também é considerado inoperante. Isto só não se aplica a sistemas de alerta
+  e alarme associados ao sistema inoperante, que devem permanecer operacionais a menos que
+  haja relaxamento específico na MMEL em relação a tais sistemas de alerta e alarme.
+
+  5.3.2.11 On the other hand, when the reference is to an inoperative system, those equipment
+  and instruments directly associated with it and which have no other function than that one
+  related to such system are also considered inoperative. This does not apply to warning and
+  alarm systems associated with the inoperative system, which must remain operational unless
+  there is a specific relief in the MMEL regarding such warning and alarm systems.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- system
+- component
+- inoperative
+- function
+- reference
+- that
+- when
+- inoperante
+- made
+- only
+- performed
+- sistema
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

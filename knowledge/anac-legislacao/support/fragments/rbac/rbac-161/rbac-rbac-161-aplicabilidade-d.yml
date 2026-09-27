@@ -1,0 +1,33 @@
+id: rbac-rbac-161-aplicabilidade-d
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: d
+cite: aplicabilidade(d)
+title: aplicabilidade(d)
+text: '(d)
+
+  O operador de aeródromo deve consultar o Comando da Aeronáutica - COMAER a fim de considerar
+  o número de movimentos de aeronaves militares para cálculo das curvas de ruído do processo
+  de elaboração do PZR, quando o aeródromo for compartilhado.
+
+  (Redação dada pela Resolução nº 609, de 23.02.2021)'
+keywords:
+- aerodromo
+- aplicabilidade
+- aeronautica
+- aeronaves
+- calculo
+- comaer
+- comando
+- compartilhado
+- considerar
+- consultar
+- curvas
+- dada
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

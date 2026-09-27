@@ -1,0 +1,39 @@
+id: rbac-rbac-108-emd-07-108-169-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.169'
+section_title: Inspeção de segurança da aeronave
+subsection_id: a
+cite: 108.169(a)
+title: 108.169(a)
+text: '(a) O operador aéreo deve executar a inspeção de segurança da aeronave quando:
+
+  (1) a aeronave passar por atividade de manutenção fora do pátio de aeronaves situado em
+  ARS;
+
+  (2) a aeronave ficar fora de operação por um período superior a 6 (seis) horas, considerando
+  o horário de calço e descalço da aeronave;
+
+  (3) houver suspeita da ocorrência de acesso indevido à aeronave; ou
+
+  (4) for constatada a violação de lacres.'
+keywords:
+- seguranca
+- operador
+- aeronave
+- fora
+- inspecao
+- acesso
+- aereo
+- aeronaves
+- atividade
+- calco
+- considerando
+- constatada
+- descalco
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

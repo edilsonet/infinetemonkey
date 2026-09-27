@@ -1,0 +1,33 @@
+id: is-is-121-018-b3-1-c
+kind: is
+document: is-121-018
+family: '121'
+section_id: B3.1
+section_title: 'A DH para uma operação de aproximação 3D ou para uma operação de aproximação
+  2D executada com a técnica CDFA deve ser de, pelo menos, o maior dos seguintes valores:'
+subsection_id: c
+cite: B3.1(c)
+title: B3.1(c)
+text: c) a altura mínima para a qual o auxílio de aproximação ou o sistema de determinação
+  de posição pode ser usado somente por referência aos instrumentos (mínimo do sistema, conforme
+  Tabela B2);
+keywords:
+- transporte-aereo
+- operacoes
+- aproximacao
+- operacao
+- sistema
+- altura
+- auxilio
+- cdfa
+- determinacao
+- executada
+- instrumentos
+- maior
+- menos
+- minima
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

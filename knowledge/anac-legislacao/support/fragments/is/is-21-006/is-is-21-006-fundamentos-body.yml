@@ -1,0 +1,72 @@
+id: is-is-21-006-fundamentos-body
+kind: is
+document: is-21-006
+family: '21'
+section_id: fundamentos
+section_title: Fundamentos
+subsection_id: body
+cite: fundamentos
+title: Fundamentos
+text: 'Fundamentos
+
+  O Art. 69 da Lei nº 7.565 de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica) dispõe
+  que a autoridade aeronáutica emitirá os certificados de homologação de empresa destinada
+  à fabricação de produtos aeronáuticos, desde que o respectivo sistema de fabricação e controle
+  assegure que toda unidade fabricada atenderá ao projeto aprovado. Dispõe ainda que qualquer
+  interessado em fabricar produto aeronáutico, de tipo já certificado, deverá requerer o certificado
+  de homologação de empresa, na forma do respectivo Regulamento.
+
+  NOTA 1 - Onde se lê - Certificado de Homologação de Empresa, entenda Certificado de Organização
+  de Produção.
+
+  O RBAC 21 estabelece, na seção 21.6, que uma pessoa somente pode fabricar uma aeronave nova,
+  um motor de aeronave novo ou uma hélice nova conforme um certificado de tipo se, além de
+  ser detentora ou licenciada de um certificado de tipo, ela cumprir os requisitos das subpartes
+  F ou G do mesmo regulamento.
+
+  O RBAC 21 estabelece, nas subpartes G, K e O, os requisitos para emissão de um certificado
+  de organização de produção para um fabricante de produtos ou artigos aeronáuticos e, na
+  subparte F, requisitos para produção sob certificado de tipo.
+
+  O Art. 14 da Resolução n° 030 de 21 de maio de 2008, que instituiu o RBAC e IS e estabelece
+  critérios para a sua elaboração, dispõe em seu parágrafo 1° que a IS é uma norma suplementar,
+  de caráter geral e abstrato, com efeito externo ou externo e interno, objetivando esclarecer,
+  detalhar e orientar a aplicação de requisito existente em RBAC. Dispõe, ainda, que o administrado
+  que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito previsto em
+  RBAC poderá adotar os meios e procedimentos previamente especificados em IS ou apresentar
+  meio alternativo devidamente justificado, exigindo-se, nesse caso, a análise e concordância
+  expressa da ANAC.
+
+  O parágrafo 2° do Art. 14 da Resolução n° 030, de 21 de maio de 2008, supracitado, dispõe
+  que o meio ou procedimento alternativo mencionado no parágrafo 1° do referido artigo deve
+  garantir nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou
+  concretizar o objetivo do procedimento normalizado em IS.
+
+  O parágrafo 3° do Art. 14 da Resolução n° 030, de 21 de maio de 2008, supracitado, dispõe
+  que a IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC
+  ou outro ato normativo.
+
+  Considerando o exposto nesta seção, esta IS tem como objetivo detalhar e orientar a aplicação
+  dos requisitos contidos nas subpartes F, G, K e O do RBAC 21.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- dispoe
+- requisitos
+- paragrafo
+- tipo
+- empresa
+- estabelece
+- fundamentos
+- homologacao
+- maio
+- producao
+- requisito
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-006.md

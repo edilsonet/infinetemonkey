@@ -1,0 +1,43 @@
+id: is-is-133-001-6-1-1-body
+kind: is
+document: is-133-001
+family: '133'
+section_id: 6.1.1
+section_title: Inclusão de modelo de aeronave
+subsection_id: body
+cite: 6.1.1
+title: Inclusão de modelo de aeronave
+text: '6.1.1 Inclusão de modelo de aeronave
+
+  6.1.1.1 O acréscimo de uma aeronave de modelo diferente das que já constam da frota autorizada
+  da empresa gera naturalmente a necessidade de novas demonstrações. No caso de a nova aeronave
+  ser do mesmo modelo já operado pela empresa não há a necessidade de alteração da autorização,
+  sendo de responsabilidade do operador o gerenciamento da frota, conforme parágrafo 5.3.3.3
+  desta IS.
+
+  6.1.1.2 Porém, no caso de se introduzir uma aeronave diferente de todas as aeronaves já
+  autorizadas, o processo deve ser seguido exatamente como se fosse um processo inicial, diferindo
+  apenas nos itens que serão vistos. Não será necessário verificar as bases de operação nem
+  realizar a verificação de conhecimentos do pessoal de solo. A fase mais importante, neste
+  caso, é a fase de demonstrações em voo. Os procedimentos a serem seguidos nesta fase são
+  os mesmos descritos no item 5.3.4.'
+keywords:
+- carga-externa
+- helicoptero
+- aeronave
+- modelo
+- caso
+- fase
+- inclusao
+- demonstracoes
+- diferente
+- empresa
+- frota
+- necessidade
+- processo
+- acrescimo
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

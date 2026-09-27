@@ -1,0 +1,54 @@
+id: is-is-119-006-definicoes-body
+kind: is
+document: is-119-006
+family: '119'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas na Seção 119.3 do RBAC
+  nº 119, as definições listadas no RBAC nº 01 e as seguintes definições:
+
+  4.1.1 proprietário: pessoa (física ou jurídica) que detém o título de propriedade, oficializado
+  junto ao Estado de registro da aeronave. No caso de aeronaves com matrícula brasileira,
+  o proprietário é a pessoa (física ou jurídica) que inscreveu uma aeronave em seu nome no
+  Registro Aeronáutico Brasileiro - RAB, nos termos do inciso V do Art. 116 da Lei nº 7.565,
+  de 19/12/1986 (CBAer);
+
+  4.1.2 operador: pessoa (física ou jurídica) que possui os direitos de uso de uma aeronave.
+  Um operador poderá ou não assumir responsabilidade parcial ou total sobre o controle operacional
+  de uma aeronave;
+
+  4.1.3 operador aéreo: empresa de transporte aéreo devidamente certificada e autorizada a
+  realizar operações comerciais de transporte de passageiros e/ou carga. Deve ser detentor
+  de certificado de operador aéreo e de EO, emitidos pela AAC do Estado do operador;
+
+  4.1.4 operador aéreo brasileiro: empresa de transporte aéreo certificada e autorizada a
+  realizar operações comerciais de transporte de passageiros e/ou carga, segundo o RBAC nº
+  121 ou RBAC nº 135. Deve ser detentor de COA e de EO emitidos pela ANAC, segundo o RBAC
+  nº 119;
+
+  4.1.5 Estado do Operador: é o Estado em que o operador aéreo é devidamente certificado e
+  autorizado a realizar operações comerciais de transporte aéreo de passageiros e/ou carga.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operador
+- aereo
+- definicoes
+- transporte
+- aeronave
+- estado
+- carga
+- comerciais
+- fisica
+- juridica
+- passageiros
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-006.md

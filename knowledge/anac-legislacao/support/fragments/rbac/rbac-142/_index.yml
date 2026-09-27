@@ -50,10 +50,15 @@ sections:
 - '142.73'
 - '142.75'
 - '142.9'
+- aprovacao
+- definicoes
 - preambulo
-fragment_count: 252
+- sumario
+fragment_count: 255
 fragment_ids:
 - rbac-rbac-142-preambulo-body
+- rbac-rbac-142-aprovacao-body
+- rbac-rbac-142-sumario-body
 - rbac-rbac-142-142-1-body
 - rbac-rbac-142-142-5-body
 - rbac-rbac-142-142-7-body
@@ -95,8 +100,9 @@ fragment_ids:
 - rbac-rbac-142-142-1-c
 - rbac-rbac-142-142-1-d
 - rbac-rbac-142-142-3-a
-- rbac-rbac-142-142-3-i
-- rbac-rbac-142-142-3-v
+- rbac-rbac-142-definicoes-body
+- rbac-rbac-142-definicoes-i
+- rbac-rbac-142-definicoes-v
 - rbac-rbac-142-142-5-a
 - rbac-rbac-142-142-5-b
 - rbac-rbac-142-142-5-c
@@ -305,4 +311,4 @@ fragment_ids:
 - rbac-rbac-142-142-125-a
 - rbac-rbac-142-142-125-b
 - rbac-rbac-142-142-125-c
-parser_version: 6
+parser_version: 7

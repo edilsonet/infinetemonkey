@@ -1,0 +1,52 @@
+document: is-153-403-001
+kind: is
+title: IS 153.403-001B
+ementa: CAT – Categoria Contraincêndio de Aeródromo Em vigor em 2 de maio de 2023
+family: '153'
+categories:
+- aerodromos
+- operacao-aeroportuaria
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-403-001
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-153-403-001
+language: pt
+foreign_annex: false
+sections:
+- 5.1.4
+- 5.1.5
+- 6.1.6
+- apendice-a-lista-de-siglas
+- aprovacao
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+- termos-e-definicoes
+fragment_count: 24
+fragment_ids:
+- is-is-153-403-001-preambulo-body
+- is-is-153-403-001-aprovacao-body
+- is-is-153-403-001-objetivo-body
+- is-is-153-403-001-revogacao-body
+- is-is-153-403-001-fundamentos-body
+- is-is-153-403-001-termos-e-definicoes-body
+- is-is-153-403-001-5-1-4-body
+- is-is-153-403-001-5-1-5-body
+- is-is-153-403-001-6-1-6-body
+- is-is-153-403-001-6-1-6-a
+- is-is-153-403-001-6-1-6-b
+- is-is-153-403-001-6-1-6-c
+- is-is-153-403-001-6-1-6-d
+- is-is-153-403-001-apendice-a-lista-de-siglas-body
+- is-is-153-403-001-disposicoes-finais-body
+- is-is-153-403-001-apendice-a-lista-de-siglas-a
+- is-is-153-403-001-apendice-a-lista-de-siglas-b
+- is-is-153-403-001-apendice-a-lista-de-siglas-c
+- is-is-153-403-001-apendice-a-lista-de-siglas-d
+- is-is-153-403-001-apendice-a-lista-de-siglas-e
+- is-is-153-403-001-apendice-a-lista-de-siglas-f
+- is-is-153-403-001-apendice-a-lista-de-siglas-g
+- is-is-153-403-001-apendice-a-lista-de-siglas-h
+- is-is-153-403-001-apendice-a-lista-de-siglas-i
+parser_version: 7

@@ -1,0 +1,38 @@
+id: is-is-91-001-i4-6-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: I4.6
+section_title: Intervenções do controle de tráfego aéreo na área terminal podem incluir vetoração
+  radar, a interceptação de um segmento inicial ou intermediário de uma aproximação, autorizações
+  “direto para” (“direct to”) que fazem com que não sejam executados os segmentos iniciais
+  do procedimento, ou a inserção de waypoints carregados diretamente do banco de dados da
+  aeronave. Ao seguir as instruções do tráfego aéreo, a tripulação deve estar ciente das implicações
+  dos sistemas RNP.
+subsection_id: b
+cite: I4.6(b)
+title: I4.6(b)
+text: 'b) Autorizações “direct to” ao fixo intermediário da aproximação (IF) podem ser aceitas
+  desde que o resultado desta mudança de trajetória no fixo não exceda 45º.
+
+  Nota: autorizações “direct to” ao FAF não podem ser aceitas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- autorizacoes
+- direct
+- podem
+- aceitas
+- aereo
+- aproximacao
+- fixo
+- intermediario
+- trafego
+- aeronave
+- area
+- banco
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

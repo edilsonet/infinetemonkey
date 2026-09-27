@@ -1,0 +1,103 @@
+id: is-is-91-001-5-7-9-j
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.7.9
+section_title: 'Devem ser observados os procedimentos operacionais específicos dos equipamentos
+  RNAV/RNP, incluindo:'
+subsection_id: j
+cite: 5.7.9(j)
+title: 5.7.9(j)
+text: 'j) realizar ABAS, RAIM e FDE, considerando:
+
+  I - essencialmente, as constelações de satélites para provimento de informação de posicionamento
+  global não foram desenvolvidas de forma a satisfazer com os estritos requisitos da navegação
+  IFR. Dessa maneira, os sistemas aviônicos baseados em GNSS que são utilizados em operações
+  IFR devem aprimorar os sinais recebidos dos satélites de modo a garantir, entre outras coisas,
+  a sua integridade. Os sistemas ABAS (Aircraft-Based Augmentation System) melhoram e/ou integram
+  a informação proveniente da constelação de satélites com outras informações disponíveis
+  a bordo da aeronave de forma a aprimorar o desempenho do sistema GNSS. A técnica ABAS mais
+  comumente empregada é denominada RAIM (Receiver Autonomous Integrity Monitoring System),
+  outro exemplo de técnica ABAS que pode ser citado envolve a integração do GNSS com outros
+  sensores de navegação embarcados, tais como os sistemas de navegação inerciais;
+
+  II - a funcionalidade RAIM é uma técnica de monitoramento da integridade do sinal de posicionamento
+  proveniente das constelações de satélites GNSS. A determinação da integridade do sinal de
+  posicionamento é obtida por meio de cheques de consistência das informações provenientes
+  de medições redundantes dos sinais dos satélites;
+
+  III - existem dois eventos distintos que podem resultar em um alerta de RAIM. O primeiro
+  ocorre quando não é possível obter o sinal de um número suficiente de satélites em geometria
+  adequada. Nestas condições, é possível que a informação de posição continue sendo estimada
+  com precisão, contudo, a função de verificação de integridade do receptor (isto é, a habilidade
+  em detectar um satélite falhado) é perdida. O segundo evento ocorre quando o receptor detecta
+  um satélite falhado sendo que, nestes casos, um alerta resulta em perda da capacidade de
+  navegação GNSS;
+
+  IV - Fault Detection and Exclusion (FDE) é uma função desempenhada por alguns receptores
+  GNSS que possuem a capacidade de detectar um sinal de um satélite defeituoso e automaticamente
+  excluí-lo do cálculo da solução de posição;
+
+  V - para operações baseadas em áreas oceânicas ou áreas continentais remotas, as aeronaves
+  aprovadas para uso do GNSS como meio primário de navegação devem não só possuir a capacidade
+  de detectar um satélite defeituoso (como por exemplo, por meio da função RAIM) como também
+  devem possuir a capacidade de determinar qual o satélite defeituoso e excluir as informações
+  por ele fornecidas do cômputo para a determinação da solução de posicionamento. Ou seja,
+  os receptores GNSS das referidas aeronaves devem ser capazes de realizar o Fault Detection
+  and Exclusion (FDE);
+
+  VI - os algoritmos de RAIM requerem um mínimo de cinco satélites visíveis ao receptor para
+  realizar a detecção de falha e, consecutivamente, detectar a presença de erros excessivos
+  da informação de posicionamento para uma determinada fase de voo. Já os algoritmos FDE demandam
+  um mínimo de seis satélites não apenas para detectar a presença de um satélite defeituoso,
+  mas também para excluí-lo do cálculo de posicionamento, de forma que a solução de navegação
+  possa ser realizada de forma contínua;
+
+  VII - softwares de predição da disponibilidade de RAIM ou FDE não garantem o serviço dos
+  sistemas GNSS, contudo, constituem ferramentas utilizadas para avaliar a capacidade esperada
+  de se atingir o desempenho de navegação requerido. Em decorrência de falhas inesperadas
+  dos elementos do sistema GNSS, pilotos e provedores de serviços aeronáuticos devem ter a
+  consciência que a capacidade de navegação GNSS pode ser perdida ou degradada durante o voo,
+  situação que demandaria a reversão para meios alternativos de navegação;
+
+  VIII - deste modo, quando o GNSS constituir o meio primário de navegação, a predição de
+  disponibilidade da função RAIM deverá ser verificada para cada rota prevista, segmentos
+  de rota e procedimentos terminais (decolagens, chegadas ou aproximações), incluindo aeródromos
+  de alternativa, para as seguintes situações:
+
+  IX - qualquer satélite estiver programado para estar fora de serviço; ou
+
+  X - dois ou mais satélites estiverem programados para estar fora de serviço, para os sistemas
+  RNAV que incluam a informação de altitude barométrica;
+
+  XI - de modo complementar ao exposto no item V, a predição da funcionalidade FDE deve ser
+  realizada durante o pré-voo para operações previstas em áreas oceânicas ou remotas (RNAV
+  10 ou RNP 4) em que o GNSS constituir o meio primário de navegação;
+
+  XII - a predição de disponibilidade das funções RAIM e FDE deve considerar os mais recentes
+  NOTAMs expedidos para a constelação de satélites GNSS; e
+
+  XIII - a disponibilidade pode ser conferida por meio de um programa de previsão instalado
+  na aeronave ou um programa executado fora da aeronave (este último deve utilizar os mesmos
+  algoritmos daqueles embarcados na aeronave, quando aplicável, ou algoritmos que forneçam
+  resultados mais conservativos); e'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- gnss
+- navegacao
+- satelites
+- raim
+- satelite
+- capacidade
+- meio
+- posicionamento
+- detectar
+- informacao
+- sistemas
+- abas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

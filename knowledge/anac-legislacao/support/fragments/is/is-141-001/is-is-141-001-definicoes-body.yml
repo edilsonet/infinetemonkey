@@ -1,0 +1,135 @@
+id: is-is-141-001-definicoes-body
+kind: is
+document: is-141-001
+family: '141'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Para os efeitos desta IS, são válidas as definições listadas nas:
+
+  seção 01.1 do RBAC nº 01;
+
+  seção 61.2 do RBAC nº 61;
+
+  seção 141.3 do RBAC nº 141.
+
+  Além disso, são válidas as seguintes definições:
+
+  Base de Certificação: ato normativo que disciplina os programas de instrução dos Ciacs.
+
+  Código de Matrícula: código que identifica, no Sistema S141, a matrícula do aluno em um
+  curso, composto pelo código do Ciac Sede ou Satélite, sigla do curso, ano do registro, e
+  uma numeração sequencial.
+
+  Declaração de Adequação de Instrução: documento que descreve os procedimentos e métodos
+  de adequação entre Programas de Instrução distintos em um mesmo registro de matrícula de
+  um curso.
+
+  Formação Requerida: documento apresentado pelo Ciac, que demonstra o conjunto de conhecimentos
+  e experiências de um instrutor para o exercício da função, contendo informações específicas
+  para ministrar uma determinada disciplina de um curso teórico ou missões/lições/tarefas
+  de um curso prático.
+
+  Histórico da Instrução: documento que comprova a situação instrucional do aluno, no qual
+  estão descritas as disciplinas do curso, ou missões/lições/tarefas realizadas para os cursos
+  práticos, com os registros de seu desempenho.
+
+  Instrutor: profissional do Ciac responsável por ministrar as disciplinas dos cursos teóricos
+  ou missões/lições/tarefas dos cursos práticos.
+
+  Nomenclatura de um curso: cada curso é definido pela combinação dos seguintes elementos:
+
+  Grupo - identifica uma determinada carreira profissional na aviação civil.
+
+  Curso - identifica as trilhas das carreiras profissionais na aviação civil, com denominações
+  previstas nos diferentes regulamentos da Anac.
+
+  Especialidade do curso - identifica as variações de um curso, podendo se referir a um tipo
+  de equipamento ou qualificação.
+
+  Tipo do curso - identifica o curso como Teórico quando não envolver instrução em aeronaves
+  em voo, ou Prático quando ocorrer instrução em aeronaves em voo, incluindo treinamento de
+  solo complementar.
+
+  Modalidade do curso - identifica a modalidade educacional aplicada na instrução, podendo
+  ser Presencial (PR), Semipresencial (SP) ou Ensino a Distância (ED).
+
+  Período do curso: período compreendido entre a Data de Início e a data de Previsão de Término,
+  levando-se em consideração a carga horária prevista no Programa de Instrução, ou redimensionada/reduzida
+  para as situações de aproveitamento de estudos ou experiência anterior para a conclusão
+  do curso.
+
+  Sistema S141: sistema informatizado utilizado para registro, monitoramento e controle da
+  certificação dos Ciacs, de pessoal requerido e de alunos matriculados nos diversos cursos
+  teóricos e práticos de formação dos profissionais de aviação civil.
+
+  Situação do aluno: terminologia utilizada no Sistema S141 para designar a situação do aluno
+  em um curso:
+
+  Matriculado - aluno que iniciou o Programa de Instrução de um Curso em um Ciac;
+
+  Aprovado - aluno que concluiu, com aproveitamento, todos os requisitos do curso em no máximo
+  o dobro do período normal previsto no Programa de Instrução;
+
+  Cancelado - aluno cujo registro não foi concluído pelo Ciac Revogado, Suspenso ou Cassado;
+
+  Reprovado - aluno que não obteve aproveitamento e/ou frequência mínimos do curso ou não
+  o concluiu em no máximo o dobro do período normal previsto no Programa de Instrução;
+
+  Transferido - aluno que:
+
+  manifestou o interesse em ser transferido para outro Programa de Instrução ou Ciac;
+
+  manifestou o interesse em interromper o curso (trancamento de matrícula); ou
+
+  abandonou o curso.
+
+  Situação do Ciac: no Sistema S141, o Ciac pode apresentar as seguintes situações:
+
+  Ativo - quando o Ciac se encontrar com a situação regular após obter a Certificação (141.5
+  (b) do RBAC nº 141), ou quando uma situação restritiva for revertida;
+
+  Suspenso - quando o Ciac apresentar elementos que configurem o descumprimento do parágrafo
+  141.9(a) do RBAC nº 141;
+
+  Cassado - quando o Ciac apresentar elementos que configurem o descumprimento do parágrafo
+  141.9 (b) do RBAC nº 141.
+
+  Revogado - quando o Ciac manifestou interesse em não manter a certificação (141.9 (c) do
+  RBAC nº 141);
+
+  Transferência externa: quando é oferecido ao aluno, ou por sua manifestação, a possibilidade
+  de transferir-se para outro Ciac podendo ocorrer o aproveitamento de estudos ou experiência
+  de voo registrados no Histórico da Instrução do aluno.
+
+  Transferência interna: quando é oferecido ao aluno, ou por sua manifestação, a possibilidade
+  de transferir-se para outro curso, podendo ocorrer o aproveitamento de estudos ou experiência
+  de voo registrados no Histórico da Instrução do aluno.
+
+  Vínculo do profissional: significa o registro do período em que um instrutor esteve vinculado
+  a um Ciac por meio de um contrato de trabalho para ministrar uma ou mais disciplinas ou
+  missões/lições/atividades práticas de instrução'
+keywords:
+- escolas
+- treinamento
+- curso
+- instrucao
+- ciac
+- aluno
+- identifica
+- situacao
+- aproveitamento
+- definicoes
+- periodo
+- programa
+- registro
+- sistema
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-001.md

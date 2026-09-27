@@ -1,0 +1,84 @@
+id: is-is-91-010-9-2-4-e
+kind: is
+document: is-91-010
+family: '91'
+section_id: 9.2.4
+section_title: 'O treinamento inicial dos pilotos para comunicações por data link deve incluir,
+  no mínimo, os seguintes procedimentos:'
+subsection_id: e
+cite: 9.2.4(e)
+title: 9.2.4(e)
+text: 'e) Fase 5 - aprovação: após a finalização de todas as análises, inspeções e demonstrações,
+  tendo o requerente demonstrado atendimento satisfatório a todas as exigências estabelecidas,
+  a ANAC emitirá uma autorização permitindo ao requerente uso de CPDLC e ADS-C. A autorização
+  constitui a Fase 5 do processo, sendo concluída por meio da emissão das EO para as operações
+  realizadas de acordo com os RBAC nº 121 e RBAC nº 135, por meio de Especificações Administrativas
+  para as operações realizadas de acordo com a Subparte K do RBAC nº 91 e por meio de carta
+  de autorização (LOA), para as operações realizadas pelo RBAC nº 91, exceto Subparte K.
+
+  A LOA é uma autorização do operador, de forma que aeronaves com mais de um operador podem:
+
+  - ter mais de uma LOA;
+
+  - ter LOA com mais de um operador autorizado; ou
+
+  - serem autorizadas a operar PBN apenas com operadores específicos.
+
+  12.1.6. Aeronaves cujos operadores são empresas regidas pelo RBAC nº 121, pelo RBAC nº 135
+  ou pela Subparte K do RBAC nº 91 e que ainda não fazem parte da frota, ou seja, aeronaves
+  cujos modelos ainda não estão inclusos em EO ou Especificações Administrativas poderão ser
+  autorizadas a usar CPDLC e/ou ADS-C de acordo com as regras do RBAC nº 91 por meio de LOA.
+
+  12.2. Representantes e pessoas de contato da organização requerente
+
+  12.2.1. A adequada condução do processo depende da efetividade da comunicação entre a ANAC
+  e o interessado. Portanto, é essencial que interessado realize e mantenha atualizado seu
+  cadastro no protocolo eletrônico da ANAC, bem como as indicações dos representantes legais
+  e procuradores especiais no sistema SEI.
+
+  12.2.2. As comunicações oficiais acerca do processo de autorização do uso de comunicação
+  por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato
+  (ADS-C) serão encaminhadas por meio do sistema SEI exclusivamente por meio eletrônico, para
+  os representantes legais e procuradores cadastrados para o CNPJ ou CPF do interessado no
+  sistema.
+
+  12.2.3. O processo eletrônico da ANAC está previsto na Resolução nº 520/2019 e maiores informações
+  podem ser consultadas no seguinte endereço: https://www.gov.br/anac/pt-br/sistemas/protocolo-eletronico-sei.
+
+  12.2.4. Todas as comunicações, interações e documentos necessários ao processo de certificação
+  somente serão aceitos se realizados pelas pessoas legalmente designadas pelo interessado,
+  respeitadas as respectivas áreas de atuação.
+
+  12.2.5. São consideradas pessoas legalmente designadas pelo interessado os procuradores
+  cadastrados no SEI como procuradores especiais ou pessoas legalmente constituídas, que apresentem
+  procuração, contrato de trabalho ou prestação de serviços ou outro documento que comprove
+  a legalidade e efetividade da representação.
+
+  12.3. Autorização do uso de comunicação por enlace de dados controlador-piloto (CPDLC) e
+  de vigilância dependente automática-contrato (ADS-C) conforme tipo de operação
+
+  12.3.1. Para operadores regidos pelo RBAC nº 91, a autorização de LOA deve ser realizada
+  mediante petição no sistema SEI, anexando-se a documentação comprobatória listada a seguir:
+
+  12.3.1.1. Documento de solicitação inicial padronizado como um Relatório Técnico no SEI
+  com as seguintes informações:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- autorizacao
+- meio
+- interessado
+- processo
+- cpdlc
+- eletronico
+- pessoas
+- procuradores
+- sistema
+- acordo
+- aeronaves
+- comunicacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

@@ -1,0 +1,72 @@
+id: is-is-91-001-2-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: '2'
+section_title: Currículo de solo para pilotos
+subsection_id: a
+cite: 2(a)
+title: 2(a)
+text: 'a) conceitos gerais. O treinamento deve abordar conceitos gerais e procedimentos operacionais
+  associados aos procedimentos RNP AR APCH. Deve ser abordado no mínimo os seguintes elementos:
+
+  i. definições de RNAV, RNP e RNP AR APCH;
+
+  ii. diferenças entre RNAV e RNP;
+
+  iii. os tipos e características de procedimentos RNP AR APCH e a familiarização com as cartas
+  e publicações aeronáuticas;
+
+  iv. características específicas dos procedimentos classificados pelo DECEA como Procedimentos
+  Especiais;
+
+  v. autorizações genéricas e específicas emitidas pela ANAC por meio das EO ou Especificações
+  Administrativas, em especial sobre como determinar quais procedimentos o operador está autorizado
+  a operar;
+
+  vi. especificidades dos sistemas aviônicos;
+
+  vii. modos de habilitar e desabilitar os modos de navegação;
+
+  viii. a precisão de navegação requerida para as diferentes fases do procedimento;
+
+  ix. métodos e procedimentos para verificação de disponibilidade de sinal de navegação via
+  GNSS (ex: RAIM);
+
+  x. utilização das ferramentas de predição;
+
+  xi. condições e procedimentos para abandonar a execução de um procedimento RNP AR APCH;
+
+  xii. determinação da validade do banco de dados e a confirmação dos dados;
+
+  xiii. explicações sobre os diferentes componentes que contribuem para os erros do sistema
+  e suas características; e
+
+  xiv. compensação de temperatura. Tripulações que operam sistemas aviônicos com a função
+  de compensação de temperatura devem ser alertadas a desconsiderar os limites de altas temperaturas
+  expressos nas cartas IAL. Porém o treinamento deve enfatizar que o referido sistema não
+  substitui a compensação para baixas temperaturas;
+
+  Nota: pilotos são responsáveis por todas as correções de altura/altitude envolvendo baixas
+  temperaturas incluindo restrições no segmento de aproximação perdida, IAF, FAF e DA/DH,
+  etc.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- apch
+- caracteristicas
+- compensacao
+- navegacao
+- temperaturas
+- avionicos
+- baixas
+- cartas
+- conceitos
+- dados
+- diferentes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

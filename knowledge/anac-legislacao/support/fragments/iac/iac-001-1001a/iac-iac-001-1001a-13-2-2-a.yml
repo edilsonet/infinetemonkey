@@ -1,0 +1,33 @@
+id: iac-iac-001-1001a-13-2-2-a
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 13.2.2
+section_title: Abaixo do espaço reservado à nominata e ao número e ano de publicação da emenda,
+subsection_id: a
+cite: 13.2.2(a)
+title: 13.2.2(a)
+text: 'a) o número da publicação a ser corrigida, a data da sua efetivação e o título,
+
+  conforme exemplo abaixo:
+
+  CORREÇÃO(ÕES) À IAC 001-1001, de AAAA, e "ELABORAÇÃO E
+
+  CONTROLE DE PUBLICAÇÕES DO DAC”;'
+keywords:
+- abaixo
+- numero
+- publicacao
+- aaaa
+- controle
+- correcao
+- corrigida
+- data
+- efetivacao
+- elaboracao
+- espaco
+- exemplo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

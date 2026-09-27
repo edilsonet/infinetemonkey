@@ -1,0 +1,80 @@
+id: is-is-21-013-7-body
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: body
+cite: '7'
+title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+text: '7. CRITÉRIOS PARA INSTALAÇÃO GNSS
+
+  7.1. Instalação:
+
+  7.1.1. Considerações Gerais: O equipamento deve ser instalado de acordo com as instruções
+  e
+
+  limitações fornecidas pelo fabricante do equipamento GNSS. Durante o processo de
+
+  certificação da modificação, qualquer aspecto adicional que afetar a aeronavegabilidade
+
+  também deverá ser incluído na documentação técnica do projeto, conforme aplicável;
+
+  7.1.2. Configuração do GNSS: Alguns equipamentos GNSS utilizam a configuração de software
+
+  por meios físicos (straps, jumpers, switches etc.). Os parâmetros de instalação também
+
+  podem ser configurados manualmente ou através de um módulo de configuração para a
+
+  aeronave. Essas configurações de parâmetros permitem habilitar/desabilitar uma
+
+  funcionalidade, configurar os formatos de entrada/saída, determinar quais serão as unidades
+
+  de medida apresentadas, entre outros. Desta forma, a configuração de hardware/software
+
+  aplicável para a instalação pretendida deve ser incluída no manual/instruções de instalação
+
+  do projeto de modificação. Caso o projeto desenvolvido seja para mais de uma aeronave,
+
+  através de um CST, com a possibilidade de múltiplas configurações de hardware/software,
+
+  o manual/instruções de instalação deve abranger cada uma dessas instalações. Também deve
+
+  ser verificada a necessidade de se apresentar SMVs para cada uma das possibilidades de
+
+  instalação, conforme aplicável;16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  7.1.3. Instalação de Cabos: A separação entre cabos de equipamentos redundantes deve ser
+
+  realizada conforme a AC 43.13-1, em sua revisão mais recente. A separação de cabos pode
+
+  mitigar a possibilidade de perda de navegação devido a um único evento. Durante a
+
+  aprovação da instalação do sistema, quando a separação de cabos não puder ser obtida, as
+
+  seguintes perguntas devem ser avaliadas e o potencial para um evento único de falha deve
+
+  ser minimizado:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- instalacao
+- gnss
+- cabos
+- configuracao
+- aplicavel
+- criterios
+- instrucoes
+- separacao
+- software
+- aeronave
+- atraves
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

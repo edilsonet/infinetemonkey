@@ -1,0 +1,274 @@
+id: is-is-121-005-apendice-c-gerenciamento-da-frota-g
+kind: is
+document: is-121-005
+family: '121'
+section_id: apendice-c-gerenciamento-da-frota
+section_title: APÊNDICE C - GERENCIAMENTO DA FROTA
+subsection_id: g
+cite: apendice-c-gerenciamento-da-frota(g)
+title: apendice-c-gerenciamento-da-frota(g)
+text: '(g) Relação de todas as matrículas de aeronaves autorizadas pela empresa para operações
+  segundo o RBAC nº 121. Para cada matrícula, devem constar ao menos as seguintes informações:
+
+  I. Modelo.
+
+  II. Número de série.
+
+  III. Motores instalados.
+
+  IV. Peso Máximo de Decolagem (PMD).
+
+  V. Certificado de ruído.
+
+  VI. Nº de assentos de passageiros.
+
+  VII. Configuração interna da aeronave (informação se a aeronave é de passageiros, cargueira,
+  quick-change ou combi).
+
+  VIII. Autorização para ETOPS (incluir observação que os detalhes sobre a autorização estão
+  informados nas especificações operativas).
+
+  IX. Autorização para SBSP.
+
+  X. Autorização para SBRJ.
+
+  XI. Autorização para Grandes Extensões de água.
+
+  XII. Autorização para Terreno desabitado.
+
+  XIII. Autorização para RVSM.
+
+  XIV. Autorização para NAT-HLA.
+
+  XV. Autorização para APCH GNSS.
+
+  XVI. Autorização para Navegação GNSS.
+
+  XVII. Autorização para CAT I AR HGS.
+
+  XVIII. Autorização para LVTO HGS.
+
+  XIX. Autorização para ILS CAT II (incluir observação que os detalhes sobre a autorização
+  estão informados nas especificações operativas).
+
+  XX. Autorização para ILS CAT III (incluir observação que os detalhes sobre a autorização
+  estão informados nas especificações operativas).
+
+  XXI. Autorização para Operação PBN (informar os códigos, e incluir observação que os detalhes
+  sobre a especificação RNP AR APCH estão informados na parte B.3 das especificações operativas).
+
+  XXII. Autorização para Uso expandido de PED (incluir observação que os detalhes sobre a
+  autorização estão informados nas especificações operativas)
+
+  C11. Os procedimentos para construção da Lista de Matrículas Autorizadas devem prever a
+  geração de evidências de que foram realizadas todas as verificações necessárias para cumprimento
+  das exigências, incluindo referência a outros documentos e manuais utilizados como fonte
+  de informação.
+
+  C12. Para a construção da Lista de Matrículas Autorizadas, especificamente para inclusão
+  das informações sobre características e autorizações, a tabela ao final deste Apêndice indica
+  formas de coletar as informações sobre as autorizações. Caso haja discrepância entre informações
+  de posse da empresa e sistemas ou documentos da Anac, a Anac deverá ser notificada antes
+  de que a aeronave seja utilizada.
+
+  C13. No caso específico das autorizações que devem ser notificadas à CARSAMMA, o detentor
+  de certificado deverá preencher e enviar à Anac para validação os formulários disponíveis
+  em http://portal.cgna.decea.mil.br/carsamma/home/formularios.
+
+  C14. Caso um detentor de certificado não apresente a listagem solicitada pela Anac e/ou
+  falhe em demonstrar que o seu processo de gerenciamento da frota está documentado e efetivo
+  estará sujeito às sanções administrativas previstas nas Resoluções nº 761 e 762, ambas de
+  18 de dezembro de 2024.
+
+  C15. Caso detentor de certificado deixe de possuir direitos de uso e operação sobre pelo
+  menos uma aeronave de um determinado modelo e/ou com determinada autorização operacional
+  ou de manutenção, por mais de 30 (trinta) dias, deverá solicitar a Anac a revisão de suas
+  EO para retirada do modelo de aeronave das suas EO, ou para atualização das autorizações
+  operacionais e/ou de manutenção afetadas.
+
+  Informação requerida na Lista de Matrículas Autorizadas
+
+  Forma de recuperar a informação
+
+  Matrícula
+
+  A Consulta RAB Online (https://sistemas.anac.gov.br/aeronaves/cons_rab.asp) pode ser utilizada
+  para verificar qual é o operador de uma dada matrícula, assim como verificar a situação
+  de aeronavegabilidade, e os números de CA e CM e sua validade (o que indica que o CA e CM
+  foram emitidos). O SACI (https://sistemas.anac.gov.br/SACI), além de permitir a mesma consulta
+  do RAB Online, permite ainda a pesquisa de todas as aeronaves que tem uma dada empresa como
+  operador.
+
+  Modelo
+
+  Conhecendo a matrícula, o modelo de uma aeronave (matrícula) pode ser obtido no SACI (https://sistemas.anac.gov.br/SACI),
+  na Consulta RAB Online (https://sistemas.anac.gov.br/aeronaves/cons_rab.asp) e ainda no
+  laudo de vistoria (F-100-39D).
+
+  Número de série
+
+  Conhecendo a matrícula, o número de série de uma aeronave (matrícula) pode ser obtido no
+  SACI (https://sistemas.anac.gov.br/SACI), na Consulta RAB Online (https://sistemas.anac.gov.br/aeronaves/cons_rab.asp)
+  e ainda no laudo de vistoria (F-100-39D).
+
+  Motores instalados
+
+  Conhecendo a matrícula, os motores instalados em uma aeronave podem ser obtidos no laudo
+  de vistoria (F-100-39D).
+
+  Peso Máximo de Decolagem (PMD)
+
+  Conhecendo a matrícula, o peso máximo de decolagem de uma aeronave pode ser obtido no SACI
+  (https://sistemas.anac.gov.br/SACI), na Consulta RAB Online (https://sistemas.anac.gov.br/aeronaves/cons_rab.asp)
+  e ainda no laudo de vistoria (F-100-39D).
+
+  ETOPS
+
+  Conhecendo a matrícula, a capacidade de operação ETOPS de uma aeronave pode ser obtida no
+  laudo de vistoria (F-100-39D). Usando as informações de capacidade ETOPS, modelo e motores
+  instalados, todos constantes no laudo de vistoria, é possível, através de cruzamento dessas
+  informações com as constantes nas especificações operativas, concluir se a matrícula está
+  autorizada para operações ETOPS.
+
+  SBSP
+
+  No modelo atual de especificações operativas a autorização para operação de aeronave a jato
+  em SBSP é dada por matrícula através de referência à configuração, ou seja, todas as aeronaves
+  de uma dada configuração estão autorizadas a realizar a operação. Dessa forma, considerando
+  que com a matrícula é possível obter o modelo e os motores da aeronave, por consequência
+  pode ser obtida a informação de autorização para operação em SBSP.
+
+  SBRJ
+
+  No modelo atual de especificações operativas a autorização para operação de aeronave a jato
+  em SBRJ é dada por matrícula através de referência à configuração, ou seja, todas as aeronaves
+  de uma dada configuração estão autorizadas a realizar a operação. Dessa forma, considerando
+  que com a matrícula é possível obter o modelo e os motores da aeronave, por consequência
+  pode ser obtida a informação de autorização para operação em SBRJ.
+
+  Certificado de ruído
+
+  No modelo atual de especificações operativas a certificação de ruído é dada por matrícula
+  através de referência à configuração, ou seja, todas as aeronaves de uma dada configuração
+  possuem uma mesma certificação de ruído. Dessa forma, considerando que com a matrícula é
+  possível obter o modelo e os motores da aeronave, por consequência pode ser obtida a informação
+  sobre a certificação de ruído.
+
+  PAX/CRG (informação se a aeronave é de passageiros, cargueira ou quick-change)
+
+  Conhecendo a matrícula, é possível obter informações sobre a configuração interna da aeronave
+  (pax, cargo, quick change, combi) na ficha de peso e balanceamento, na LOPA e no certificado
+  de seguro, todos documentos que fazem parte do processo de vistoria da aeronave.
+
+  (Grande) Extensão de água
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de operar em grandes
+  extensões de água de uma aeronave pode ser obtida no laudo de vistoria (F-100-39D). O novo
+  modelo de especificações operativas irá possuir a informação sobre essa autorização por
+  modelo. Cruzando as informações das especificações operativas com o laudo de vistoria é
+  possível determinar se a matrícula está autorizada a operar em grandes extensões de água.
+
+  Terreno desabitado
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de operar em terreno
+  desabitado de uma aeronave pode ser obtida no laudo de vistoria (F-100-39D). O novo modelo
+  de especificações operativas irá possuir a informação sobre essa autorização por modelo.
+  Cruzando as informações das especificações operativas com o laudo de vistoria é possível
+  determinar se a matrícula está autorizada a operar em terreno desabitado.
+
+  RVSM
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de operar em RVSM
+  de uma aeronave pode ser obtida no laudo de vistoria (F-100-39D). O novo modelo de especificações
+  operativas irá possuir a informação sobre essa autorização por modelo. Cruzando as informações
+  das especificações operativas com o laudo de vistoria é possível determinar se a matrícula
+  está autorizada a operar em RVSM.
+
+  NAT-MNPS
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de operar em NAT-MNPS
+  de uma aeronave pode ser obtida no laudo de vistoria (F-100-39D). O novo modelo de especificações
+  operativas irá possuir a informação sobre essa autorização por modelo. Cruzando as informações
+  das especificações operativas com o laudo de vistoria é possível determinar se a matrícula
+  está autorizada a operar em NAT-MNPS.
+
+  APCH/Navegação GNSS
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de navegação GNSS
+  de uma aeronave pode ser obtida no laudo de vistoria (F-100-39D). O novo modelo de especificações
+  operativas irá possuir a informação sobre essa autorização por modelo. Cruzando as informações
+  das especificações operativas com o laudo de vistoria é possível determinar se a matrícula
+  está autorizada para APCH/Navegação GNSS.
+
+  CAT I AR HGS
+
+  As autorizações relativas a CAT I AR HGS e LVTO HGS devem ser mantidas por modelo, como
+  é atualmente.
+
+  LVTO HGS
+
+  As autorizações relativas a CAT I AR HGS e LVTO HGS devem ser mantidas por modelo, como
+  é atualmente.
+
+  ILS CAT II
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de operar em ILS
+  CAT II de uma aeronave pode ser obtida no laudo de vistoria (F-100-39D). Cruzando as informações
+  das especificações operativas com o laudo de vistoria é possível determinar se a matrícula
+  está autorizada a operar em ILS CAT II.
+
+  ILS CAT III
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de operar em ILS
+  CAT III de uma aeronave pode ser obtida no laudo de vistoria (F-100-39D). Cruzando as informações
+  das especificações operativas com o laudo de vistoria é possível determinar se a matrícula
+  está autorizada a operar em ILS CAT III.
+
+  Operação PBN
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de uma aeronave
+  de operar em cada especificação de navegação PBN pode ser obtida no laudo de vistoria (F-100-39D).
+  Cruzando as informações das especificações operativas com o laudo de vistoria é possível
+  determinar se a matrícula está autorizada a operar e em quais especificações de navegação
+  PBN.
+
+  RNP AR APCH - GEN
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de uma aeronave
+  de operar em cada especificação de navegação PBN pode ser obtida no laudo de vistoria (F-100-39D).
+  Cruzando as informações das especificações operativas com o laudo de vistoria é possível
+  determinar se a matrícula está autorizada a operar e em quais especificações de navegação
+  PBN.
+
+  RNP AR APCH - ESP
+
+  Conhecendo a matrícula (o que viabiliza conhecer o modelo), a capacidade de uma aeronave
+  de operar em cada especificação de navegação PBN pode ser obtida no laudo de vistoria (F-100-39D).
+  Cruzando as informações das especificações operativas com o laudo de vistoria é possível
+  determinar se a matrícula está autorizada a operar e em quais especificações de navegação
+  PBN.
+
+  Uso expandido de PED
+
+  Conhecendo a matrícula, o que viabiliza conhecer o tipo OACI é possível verificar através
+  das especificações operativas se a matrícula está autorizada para uso expandido de PED.'
+keywords:
+- transporte-aereo
+- operacoes
+- matricula
+- modelo
+- autorizacao
+- aeronave
+- especificacoes
+- vistoria
+- laudo
+- operativas
+- operar
+- pode
+- conhecendo
+- informacoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

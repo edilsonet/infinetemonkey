@@ -1,0 +1,33 @@
+id: is-is-91-001-l2-1-d
+kind: is
+document: is-91-001
+family: '91'
+section_id: L2.1
+section_title: Dados de performance de decolagem e subida
+subsection_id: d
+cite: L2.1(d)
+title: L2.1(d)
+text: d) Operações RNP AR DP requerem que o operador utilize o conjunto completo de dados
+  de performance de forma a avaliar as fases de decolagem e de subida independentemente. Essa
+  avaliação permite que o piloto possa operar a aeronave e cumprir com os limites laterais
+  da trajetória ao mesmo tempo em que cumpre com as restrições de altitude barométrica.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- dados
+- decolagem
+- performance
+- subida
+- aeronave
+- altitude
+- avaliacao
+- avaliar
+- barometrica
+- completo
+- conjunto
+- cumpre
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

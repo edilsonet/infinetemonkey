@@ -1,0 +1,56 @@
+id: is-is-91-006-5-6-2-4-b
+kind: is
+document: is-91-006
+family: '91'
+section_id: 5.6.2.4
+section_title: Procedimentos de despacho
+subsection_id: b
+cite: 5.6.2.4(b)
+title: 5.6.2.4(b)
+text: 'b) Descrição de um procedimento para que, antes do despacho ou liberação de cada voo
+  que ingressará no espaço aéreo NAT-HLA, o operador realize uma análise preditiva da disponibilidade
+  de cobertura satélite em toda a rota do voo, incluindo alternativa. O programa informatizado
+  utilizado para a predição deve:
+
+  I - ser capaz de indicar qualquer perda de cobertura de satélite (menos de 3 satélites disponíveis
+  na visada da aeronave);
+
+  II - ser capaz de indicar qualquer perda da função RAIM/FDE, bem como sua duração;
+
+  III - ser adequado para os equipamentos GNSS instalados na aeronave; e
+
+  IV - permitir que o operador do sistema indique manualmente satélites que estejam programados
+  para estar fora de serviço. Esta informação não é automaticamente recebida pelos receptores
+  GPS, e por isso deve sempre ser consultada pelo operador a partir das fontes oficiais disponíveis
+  (atualmente esta informação pode ser consultada via NANUs - Notice Advisory to Navstar Users,
+  na página web https://www.navcen.uscg.gov/).
+
+  Nota 1: o operador deve descrever em seu procedimento que, caso o programa preveja perda
+  da cobertura de satélite (menos de 3 satélites disponíveis na visada da aeronave) por qualquer
+  período de tempo, ou perda da função RAIM/FDE por mais de 51 minutos (ou 25 minutos para
+  voos nas rotas RLatSM), o voo deverá ser replanejado para outra rota adequada, adiado ou
+  cancelado.
+
+  Nota 2: esses procedimentos podem ser realizados de forma complementar nas etapas de despacho
+  de voo e de pré-voo, desde que se garanta que a aeronave não decole antes da realização
+  do procedimento.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- operador
+- perda
+- cobertura
+- despacho
+- disponiveis
+- procedimento
+- satelite
+- satelites
+- capaz
+- consultada
+- funcao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-006.md

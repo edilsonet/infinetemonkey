@@ -31,38 +31,22 @@ text: '(b) A Tabela 1 apresenta as infrações relacionadas ao transporte de art
 
   descumprimento do requisito que mais se enquadra na descrição apresentada na referência.
 
-  Tabela 1: Infrações relacionadas ao transporte de artigos perigosos
-
-  Referência
-
-  Descrição
-
-  Valores em reais
-
-  Incidência da sanção
-
-  Mínimo
-
-  Intermediário
-
-  Máximo
-
-  SUBPARTE A - ESCOPO E APLICABILIDADE'
+  Tabela 1: Infrações relacionadas ao transporte de artigos perigosos'
 keywords:
 - artigos-perigosos
 - carga
+- tabela
 - incidencia
 - referencia
 - sancao
-- tabela
-- valores
 - infracao
 - infracoes
 - requisito
+- valores
 - artigos
-- descricao
 - deste
 - exemplo
+- perigosos
 categories:
 - artigos-perigosos
 - carga

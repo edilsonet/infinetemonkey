@@ -1,0 +1,33 @@
+id: is-is-91-001-m8-2-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: M8.2
+section_title: 'Uma aeronave pode ser considerada elegível para operações A-RNP, se o AFM
+  ou suplemento do AFM ou especificação da aeronave (TCDS para as aeronaves isentas da certificação
+  brasileira) ou POH contiver a declaração do fabricante ou do detentor do CST que a aeronave
+  está conforme um dos regulamentos listados abaixo:'
+subsection_id: b
+cite: M8.2(b)
+title: M8.2(b)
+text: b) outros critérios equivalentes aos mencionados no item anterior.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- abaixo
+- aeronaves
+- anterior
+- brasileira
+- certificacao
+- considerada
+- contiver
+- criterios
+- declaracao
+- detentor
+- elegivel
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

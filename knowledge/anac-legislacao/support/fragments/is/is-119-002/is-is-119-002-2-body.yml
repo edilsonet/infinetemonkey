@@ -1,0 +1,147 @@
+id: is-is-119-002-2-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: '2'
+section_title: DESCRIÇÃO DO AMBIENTE OPERACIONAL DO (NOME
+subsection_id: body
+cite: '2'
+title: DESCRIÇÃO DO AMBIENTE OPERACIONAL DO (NOME
+text: '2. DESCRIÇÃO DO AMBIENTE OPERACIONAL DO (NOME
+
+  DO DETENTOR DO CERTIFICADO)
+
+  A descrição do ambiente operacional, também conhecida como descrição do sistema, é um dos
+
+  primeiros requisitos para que o Gestor Responsável de um Detentor do Certificado elabore
+  seu
+
+  Sistema de Gerenciamento da Segurança Operacional (SGSO). É importante identificar as possíveis
+
+  vulnerabilidades de segurança operacional inerentes à atividade, que passam a ser caracterizadas
+
+  como perigos.
+
+  Assim, a partir de uma boa descrição do ambiente operacional, pode-se definir qual a abrangência
+
+  a ser utilizada para o processo de identificação de perigos. Neste enfoque, essa descrição
+  deve ser
+
+  suficientemente ampla para abarcar todas as possíveis fontes de perigos que o Detentor do
+
+  Certificado poderia enfrentar ou conviver.
+
+  As conseqüências para segurança operacional decorrente da perda ou da deteriorização do
+
+  ambiente operacional podem ser, em parte, determinadas pelas características dos componentes
+
+  do ambiente onde ele se integra.
+
+  2.1 ATIVIDADES DESENVOLVIDAS
+
+  Descrever de forma resumida o tipo de atividades desenvolvidas pelo Detentor de Certificado,
+
+  passando por seus processos de gestão, de inspeção, de manutenção, de remoção de aeronaves
+
+  inutilizadas ou acidentadas, de transporte de mercadorias perigosas, operações em aeródromos
+
+  com dificuldades climáticas ou de infraestrutura (exemplo ver Seção 121.445, do RBAC 121)
+  etc.
+
+  Identificar e descrever o ambiente operacional do Detentor de Certificado, incluindo todos
+  os
+
+  fatores que podem ter conseqüências significativas para a segurança operacional de suas
+
+  atividades. Esses fatores variam de um Detentor para outro, podendo compreender, por exemplo,
+
+  características do tráfego aéreo, da movimentação em solo, da infraestrutura dos aeródromos
+
+  onde opere e os fatores relacionados com as condições meteorológicas.
+
+  2.2 INTERAÇÕES DO SGSO COM OUTROS SISTEMAS DA AVIAÇÃO CIVIL
+
+  A descrição do ambiente operacional deve compreender as interfaces dentro do SGSO do próprio
+
+  Detentor de Certificado, bem como com outros sistemas externos nos quais as atividades estão
+
+  inseridas.
+
+  Deve também, tratar dos procedimentos de contingência ou outras operações fora do padrão,
+  por
+
+  exemplo, falha de comunicação ou de auxílios à navegação aérea, entre outros.
+
+  2.3 PROCEDIMENTOS QUE DEFINEM AS DIRETRIZES PARA A OPERAÇÃO DO DETENTOR DO
+
+  CERTIFICADO
+
+  Apresentar as diretrizes existentes para a operação e a utilização dos recursos disponíveis,
+
+  humanos e financeiros, principalmente considerando os perigos e as não conformidades já
+
+  identificadas, tanto interna quanto externamente.
+
+  Considerar os fatores humanos nas operações existentes, bem como as diretrizes existentes
+  para a
+
+  capacitação e qualificação dos principais atores, uma vez que são as pessoas que operam,
+
+  gerenciam e defendam a segurança das operações.Data da emissão: 9 de novembro de 2012 IS
+  nº 119-002
+
+  REVISÃO D
+
+  Avaliar o conjunto de equipamentos (hardware) disponíveis para a operação, de forma a
+
+  identificar as interfaces entre os funcionários e esses equipamentos, principalmente considerando
+
+  os perigos e não conformidades associados ao ambiente físico do local de trabalho.
+
+  Identificar as diretrizes para o suporte “lógico” (software) relacionado aos procedimentos,
+
+  instruções, apoio etc. existentes para a operação e a utilização dos recursos, principalmente
+
+  considerando as relações, e seus problemas, entre os funcionários e o local de trabalho,
+  tais como,
+
+  regulamentos, listas de verificação, publicações, procedimentos operacionais padronizados
+  (SOP) e
+
+  o suporte logístico da informática. Deve considerar também as dificuldades de divulgação
+  e
+
+  adoção de novos requisitos emitidos pelo órgão regular e as questões de comunicação, tais
+  como
+
+  aceitação geral, precisão, formato, apresentação, vocabulário, claridade e simbologia.
+
+  Analisar as diretrizes existentes para a contratação de serviços que possam comprometer
+  a
+
+  segurança operacional do Detentor de Certificado, principalmente considerando a complexidade
+
+  de seu ambiente operacional e as interfaces com outros operadores.Data da emissão: 9 de
+  novembro de 2012 IS nº 119-002
+
+  REVISÃO D'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operacional
+- ambiente
+- detentor
+- certificado
+- descricao
+- seguranca
+- diretrizes
+- existentes
+- perigos
+- atividades
+- considerando
+- fatores
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

@@ -1,0 +1,68 @@
+id: is-is-91-001-anexo-4-ao-apendice-k-programa-de-monitoramento-das-o-1cd55b-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: anexo-4-ao-apendice-k-programa-de-monitoramento-das-o-1cd55b
+section_title: ANEXO 4 AO APÊNDICE K - PROGRAMA DE MONITORAMENTO DAS OPERAÇÕES RNP AR
+subsection_id: body
+cite: anexo-4-ao-apendice-k-programa-de-monitoramento-das-o-1cd55b
+title: ANEXO 4 AO APÊNDICE K - PROGRAMA DE MONITORAMENTO DAS OPERAÇÕES RNP AR
+text: 'ANEXO 4 AO APÊNDICE K - PROGRAMA DE MONITORAMENTO DAS OPERAÇÕES RNP AR
+
+  1. O operador deve desenvolver e manter um programa de monitoramento a fim de assegurar
+  conformidade com esta IS e identificar tendências de degradação de desempenho das operações
+  RNP AR. O programa deve incluir um processo de revisão periódica de informações sobre operações
+  RNP AR (APCH e DP, conforme aplicável), e pode ser incorporado ao SGSO do operador.
+
+  2. O programa de monitoramento deverá coletar e registrar as seguintes informações sobre
+  as operações RNP AR realizadas, sejam elas bem-sucedidas ou malsucedidas:
+
+  I - Quantidade total de tentativas de realização de operação RNP AR.
+
+  II - Quantidade de operações bem-sucedidas. A operação é considerada bem-sucedida caso ocorra
+  sem nenhum tipo de anormalidade de performance, nos sistemas de navegação ou outros sistemas.
+
+  III - Quantidade de operações malsucedidas.
+
+  IV - Causas que levaram a operações RNP AR malsucedidas, como, por exemplo:
+
+  - Alertas/falhas/indisponibilidade de sistemas (ex: i. UNABLE REQ NAV PERF, NAV ACCUR DOWNGRAD)
+  que tenham levado os pilotos a abandonar o procedimento.
+
+  - Desvios laterais ou verticais excessivos.
+
+  - Alertas de EGPWS/TAWS.
+
+  - Desacoplamento de piloto automático.
+
+  - Erros de dados de navegação.
+
+  V - Anomalias e outros comentários reportados por pilotos.
+
+  3. Durante o período que o operador possuir somente autorização provisória para operações
+  RNP AR, essas informações deverão reportadas à ANAC a cada 30 dias. Esse reporte deve informar
+  a qual operação RNP AR se refere (APCH ou DP), e a qual modelo de aeronave se refere.
+
+  4. Após emissão de autorização final, o programa deve permanecer em funcionamento. Devem
+  ser reportadas à ANAC causas recorrentes de problemas durante a execução de operações RNP
+  AR, sejam elas associadas à aeronave e seus sistemas, ou ao desempenho dos pilotos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- programa
+- monitoramento
+- sistemas
+- anexo
+- apendice
+- informacoes
+- malsucedidas
+- operacao
+- operador
+- pilotos
+- quantidade
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

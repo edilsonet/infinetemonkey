@@ -1,0 +1,681 @@
+id: is-is-21-021-desenvolvimento-do-assunto-body
+kind: is
+document: is-21-021
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  Geral
+
+  Envio dos Documentos
+
+  Os documentos pertinentes ao processo de modificação devem ser enviados em formato eletrônico,
+  via Sistema Eletrônico de Informações - SEI, nos termos da Resolução ANAC nº 520, de 3 de
+  julho de 2019.
+
+  É responsabilidade do requerente cadastrar os documentos com o adequado nível de acesso,
+  conforme Art. 3° do Anexo à Resolução ANAC nº 520, de 3 de julho de 2029, inclusive quanto
+  à existência de informações pessoais ou com sigilo fiscal, contábil ou empresarial.
+
+  Identificação, Apresentação e Organização de Documentos
+
+  Qualquer documento técnico produzido pelo requerente deve possuir, conforme aplicável:
+
+  Identificação do requerente;
+
+  Título, número, data e identificação da revisão;
+
+  Identificação e assinatura do autor;
+
+  Aprovação do engenheiro responsável pelo projeto, com identificação, assinatura e número
+  de registro no CREA. O engenheiro que assina deve verificar se suas atribuições definidas
+  pelo CREA permitem se responsabilizar pela aprovação do documento em questão;
+
+  Lista de páginas efetivas;
+
+  Sumário;
+
+  Controle de revisões, incluindo o motivo da revisão (aplicável também a desenhos);
+
+  Identificação das alterações ou acréscimos efetuados na última revisão, por meio de marcas
+  de revisão de documento (por exemplo: barras laterais).
+
+  Práticas recomendadas
+
+  As seguintes práticas são recomendadas durante a elaboração dos documentos:
+
+  Separar a documentação administrativa da documentação técnica, a fim de evitar a necessidade
+  de revisão da documentação técnica quando houver alguma alteração na documentação administrativa;
+
+  Identificar, em cada página, o número do relatório e sua revisão;
+
+  Numerar os documentos em ordem progressiva, com sequência lógica que permita a fácil localização
+  das páginas. Devem-se seguir as normas da ABNT;
+
+  Organizar relatórios técnicos e desenhos por sistemas ou equipamentos instalados;
+
+  Utilizar folhas de tamanho A4 na elaboração de documentos;
+
+  Utilizar folhas maiores que A4 somente para grandes desenhos, esquemas e diagramas, seguindo
+  o padrão ABNT; e
+
+  Identificar e referenciar apropriadamente os dados ilustrativos nos relatórios.
+
+  Lista Mestra de Documentos
+
+  O processo deve conter uma lista mestra de documentos (ou equivalente) que relacione todos
+  os relatórios da documentação técnica e a lista mestra de desenhos, indicando suas respectivas
+  revisões e datas de emissão. Esta lista deve ser enviada à ANAC assinada pelo engenheiro
+  responsável pelo projeto. Quando houver a revisão de qualquer um dos documentos listados,
+  a lista mestra de documentos deverá ser atualizada e reapresentada.
+
+  Plano de Certificação
+
+  É necessário que ao menos um dos relatórios apresentados contenha o plano de certificação
+  (ver exemplo no Apêndice C desta IS). Esse plano deve incluir:
+
+  Base de Certificação. Deve-se informar a base de certificação utilizada no projeto, esclarecendo
+  se foi necessária sua atualização com base nos critérios da Advisory Circular - AC 21.101-1
+  em sua última revisão, conforme aplicável, e se há necessidade de cumprir condições especiais,
+  meios alternativos de cumprimento, isenções etc., se aplicável.
+
+  Lista dos Requisitos e Método de Cumprimento (Compliance Checklist). Deve ser apresentada
+  uma tabela informando:
+
+  Os requisitos definidos na base de certificação adotada e respectivas emendas, listando
+  todos os requisitos e informando quais os afetados e os não afetados;
+
+  Os meios de cumprimento (Means of Compliance - MOC) de cada um dos requisitos afetados.
+  Usualmente, os MOC aceitos pela ANAC são:
+
+  I - Declaração de conformidade - DCF;
+
+  II - Safety assessment - SFA;
+
+  III - Revisão de projeto - RPJ;
+
+  IV - Inspeções - INP;
+
+  V - Cálculos - CAL;
+
+  VI - Análises - ANL;
+
+  VII - Desenhos - DES;
+
+  VIII - Similaridade - SML;
+
+  IX - Simulações - SIM;
+
+  X - Laudos - LDO;
+
+  XI - Ensaios em laboratório - LAB;
+
+  XII - Ensaios no solo - ES;
+
+  XIII - Ensaios em voo - EV; e
+
+  XIV - Qualificação de equipamento - QLE.
+
+  A parte da documentação técnica (número de relatório de análise, de ensaio, de testes, desenho
+  etc.) que substancia o cumprimento de cada requisito.
+
+  Descrição da Modificação
+
+  É necessário que pelo menos um dos relatórios apresentados descreva e defina completamente
+  a modificação (ver exemplo no Apêndice D desta IS). Essa descrição deve incluir:
+
+  O objetivo da modificação, por exemplo;
+
+  I - Aumento da segurança de voo;
+
+  II - Atendimento a um determinado requisito;
+
+  III - Modernização de sistemas e equipamentos;
+
+  IV - Provimento de recursos específicos para utilização e operação da aeronave, tais como:
+  instalação de equipamentos aeromédicos, aerofotogramétricos, faróis de busca, modificações
+  para cargueiros etc.;
+
+  V - Modificação de layout de cabine;
+
+  VI - Provimento de conforto aos passageiros.
+
+  Informações técnicas dos sistemas ou dos equipamentos objetos da modificação, incluindo,
+  quando aplicável:
+
+  I - Materiais utilizados, identificados por especificação de material, bem como os critérios
+  e os procedimentos para ensaios desses materiais;
+
+  II - Dispositivos de união utilizados e respectivas localizações (é aceitável que cada rebite,
+  porca, parafuso, rosca ou outro tipo de dispositivo de união seja identificado por alguma
+  norma, como Associação Brasileira de Normas Técnicas - ABNT, Army-Navy Standards - AN, National
+  Aerospace Standard - NAS, American Welding Society - AWS e Military Specifications and Standards
+  - MIL);
+
+  III - Dimensões (incluindo tolerâncias, quando aplicável);
+
+  IV - Listagem e descrição do que se pretende remover, reaproveitar ou instalar. A descrição
+  deve incluir o fabricante, o modelo, o número de peça (part number - PN) e as especificações
+  técnicas;
+
+  V - Quando houver substituição de sistema ou equipamento, deve ser apresentada uma análise
+  comparativa de ambos, tendo em vista suas características técnicas (Ordem Técnica Padrão
+  - OTP, Technical Standard Order - TSO ou equivalente, potência etc.);
+
+  VI - Marcação dos instrumentos quanto às faixas e aos limites de operação;
+
+  VII - Documentação dos softwares.
+
+  Informações sobre os Produtos a serem Instalados no Projeto: Os produtos a serem instalados
+  devem estar completamente definidos. Para produtos com aprovação OTP, TSO ou equivalente,
+  dados da placa de identificação podem ser necessários. Outros produtos podem requerer um
+  documento de rastreabilidade (source-control drawing) identificando o fabricante, o modelo,
+  o PN, o número do desenho, o número de revisão ou quaisquer outros dados necessários.
+
+  Especificações de Processo: As especificações de processo necessárias para produção de peças
+  devem ser incluídas no pacote de dados descritivos. Estas especificações devem incluir todos
+  os procedimentos sobre materiais, fabricação e montagem. São exemplos de especificações:
+
+  I - Normas e especificações industriais, como ABNT, MIL, NAS, SAE International, ASTM International
+  e AWS;
+
+  II - Especificações não padronizadas, as quais devem incluir uma definição clara e completa
+  dos materiais a serem usados, procedimentos detalhados, processos críticos e/ou especiais
+  (em termos de temperatura, tempos, parâmetros adotados etc.), critérios de inspeção, limites
+  de retrabalho etc.
+
+  Diagramas de blocos e descrições das interconexões dos sistemas ou equipamentos objetos
+  da modificação, informando suas respectivas funções, quando aplicável;
+
+  Anunciadores, alertas e dispositivos de acionamento e de controle (chaves, botões e alavancas
+  etc.). Devem ser apresentados:
+
+  I - Especificações: capacidade, corrente, tensão, potência, limitações;
+
+  II - Funções: tais como liga/desliga, controle de brilho etc.;
+
+  III - Indicações: alertas, avisos, cores, símbolos, modo de apresentação na tela, mensagens
+  sonoras, bandeiras etc.
+
+  Marcas e placares: Devem ser informados: o texto, o material e a localização de todas as
+  marcas e placares (pictoriais), como as de alerta, de limitações, de utilização e de dispositivos
+  (chaves, disjuntores, fusíveis, alavancas, dispositivos de segurança, entre outros); e
+
+  Descrição das modificações no painel da aeronave: Quando houver modificação no painel da
+  aeronave, devem ser apresentados ou referenciados desenhos mostrando o painel antes e depois
+  da modificação, indicando a posição do que será removido, reposicionado ou instalado.
+
+  Projeto Estrutural
+
+  É necessário que pelo menos um dos relatórios apresentados contenha a análise estrutural.
+  Esta análise deverá incluir, quando aplicável:
+
+  Substanciação por análise estrutural. Quando permitido pelos regulamentos da base de certificação
+  da aeronave, o cumprimento com os requisitos de tensão, deflexão e deformação pode ser demonstrado
+  por análise estrutural, desde que a estrutura esteja em conformidade com padrões cuja experiência
+  prévia tenha demonstrado a confiabilidade dos métodos empregados. O procedimento para análise
+  estrutural segue os seguintes passos:
+
+  Determinar o peso total e o centro de gravidade - CG dos itens acrescentados;
+
+  Determinar o efeito dos itens propostos sobre o peso e o CG da aeronave, utilizando os dados
+  certificados constantes da especificação de tipo;
+
+  NOTA - Se o envelope de peso e CG for expandido além dos limites certificados, todas as
+  seções do RBAC aplicável referentes à estrutura, ao desempenho e à qualidade de voo devem
+  ser revistas.
+
+  Calcular e identificar os valores máximos dos fatores de carga limite, de acordo com os
+  requisitos para cargas em voo e no solo, conforme aplicável;
+
+  Identificar as cargas críticas devido à pressão (em aeronaves com cabine pressurizada),
+  flexão, torção, cisalhamento e combinações dessas cargas;
+
+  Conduzir uma análise estrutural detalhada e completa para a estrutura modificada. A substanciação
+  estrutural deverá conter:
+
+  I - Características do conjunto instalado, seus elementos estruturais e fixações (desenhos,
+  fichas técnicas etc.);
+
+  II - Documentos de referência e complementares;
+
+  III - Diagrama de corpo livre do elemento ou conjunto, ilustrando cada caso de carga e as
+  cargas aplicadas;
+
+  IV - Uma análise detalhada das cargas, considerando, conforme aplicável, os fitting factors
+  definidos pela seção 23.625 do RBAC 23 até a emenda 63, ou suas equivalentes dos RBAC 25,
+  27 e 29, mostrando todos os elementos estruturais e as cargas em cada elemento ou conjunto;
+
+  V - Uma análise detalhada das tensões em todos os elementos estruturais, mostrando as Margens
+  de Segurança - MS para cada elemento:
+
+
+  NOTA - Essa demonstração pode ser apresentada, em alguns casos, no formato de tabela.
+
+  Substanciação estrutural por comparação de cargas. Este método aplica-se à substituição
+  de um equipamento por outro de características semelhantes (troca de motor e troca de câmera
+  fotográfica, por exemplo). Devem ser realizados os cálculos tanto para o equipamento original
+  quanto para o item proposto. Demonstrar que as cargas críticas produzidas pelo item proposto
+  são iguais ou próximas às do item original.
+
+  Substanciação estrutural por ensaio de carga. Para a aplicação deste método, as cargas de
+  ensaio devem ser definidas com base nos fatores de carga máximos, calculados de acordo com
+  o item 5.5.1.1. Informar detalhadamente todos os procedimentos de ensaio, instrumentação,
+  calibração dos instrumentos, representatividade dos ensaios em relação às condições reais
+  e os critérios para aceitação.
+
+  Efeitos de flutter e cargas dinâmicas no solo. Devido à alteração de rigidez em certos elementos
+  estruturais, podem ser necessários ensaios de vibração no solo e análise dos efeitos nas
+  características de flutter.
+
+  Flaps, dispositivos aerodinâmicos especiais e superfícies da cauda. Se houver itens que
+  modifiquem o escoamento aerodinâmico em flaps, dispositivos aerodinâmicos especiais e superfícies
+  da cauda, podem ser ocasionadas cargas dinâmicas, vibrações e cargas assimétricas na cauda,
+  entre outros efeitos. Possíveis reduções na vida em fadiga de certos elementos estruturais
+  e de suas fixações devem ser analisadas, se a base de certificação da aeronave assim o requerer.
+
+  Inspeção de Conformidade. É essencial que o corpo de prova para ensaio estrutural seja submetido
+  a uma inspeção de conformidade antes de ser realizado qualquer ensaio. Além disso, deve
+  haver uma proposta de ensaio em solo e/ou em voo previamente aprovada. Os ensaios devem
+  ser testemunhados pela ANAC ou por profissional credenciado autorizado. O projeto final
+  da modificação estrutural deverá refletir o mesmo desenho usado na fabricação do item ensaiado.
+
+  Avaliação de tensões de fadiga. A avaliação das tensões de fadiga associadas aos critérios
+  de safe-life, fail-safe ou damage tolerance pode ser requerida, conforme a base de certificação
+  adotada e as características da modificação.
+
+  NOTA - Havendo reflexos decorrentes da análise estrutural (desempenho, qualidade de voo,
+  limitações operacionais, procedimentos de manutenção, limites de vida das peças, etc.),
+  esses deverão ser informados em placares, suplementos ao manual de voo e instruções para
+  aeronavegabilidade continuada, conforme aplicável.
+
+  Análise de Peso e Balanceamento. É necessário que pelo menos um dos relatórios apresentados
+  contenha a análise de peso e balanceamento, contemplando os aspectos abaixo:
+
+  Uma análise dos pesos e momentos individuais dos equipamentos acrescentados e removidos
+  deve ser realizada para determinação do peso e momento final, bem como da variação percentual
+  do peso e CG da aeronave. Quando for necessário o uso de lastro, deve ser apresentada a
+  sua posição em relação ao datum da aeronave, juntamente com a comprovação de sua fixação
+  na estrutura da aeronave; e
+
+  Quando houver a substituição de sistemas e equipamentos, deve ser apresentada uma análise
+  contendo o balanço dos sistemas e equipamentos removidos ou instalados.
+
+  Projeto de Modificação de Interiores. Um projeto de modificação de interiores deverá ser
+  apresentado junto com os relatórios e desenhos, quando aplicável.
+
+  Projeto Elétrico
+
+  É necessário que pelo menos um dos relatórios apresentados contenha a análise elétrica.
+  Essa análise deverá incluir, quando aplicável:
+
+  Análise de carga elétrica. A análise de carga elétrica deve considerar os aspectos a seguir:
+
+  A análise deve considerar a aeronave nas configurações de consumo em regime permanente e
+  consumo máximo em todas as fases de voo, nas condições pré e pós-instalação;
+
+  NOTA - Em geral, a análise elétrica deve ser feita por meio de cálculos analíticos baseados
+  nos dados dos manuais da aeronave e dos equipamentos instalados. Para alguns casos é aceitável
+  que a substanciação seja feita por meio da realização de medições diretas, desde que o requisito
+  da base de certificação da aeronave o permita, por exemplo, conforme previsto nas seções
+  23.1351 do RBAC 23 até emenda 63 e 27.1351 do RBAC 27.
+
+  Devem ser apresentados (por exemplo, na forma de tabela) os consumos individuais de cada
+  sistema ou equipamento instalado ou removido, bem como o balanço geral das cargas acrescentadas
+  e removidas de cada barramento;
+
+  Cálculos ou ensaios demonstrando que a carga elétrica contínua total não excede a capacidade
+  de geração da aeronave, conforme a norma ASTM F2490-05, a AC 43.13-1 e a norma MIL-E-7016,
+  ou outro meio aceitável de cumprimento;
+
+  Quando a modificação implicar em aumento da carga elétrica conectada à barra de emergência,
+  uma análise das cargas ligadas à bateria deverá ser apresentada. Essa análise deve demonstrar
+  que, em caso de emergência elétrica, a bateria continuará sendo capaz de suprir energia
+  para os sistemas essenciais durante, ao menos, o tempo mínimo estabelecido nos requisitos
+  aplicáveis.
+
+  Alimentação e Proteção Elétrica. Compõem dados de substanciação do projeto elétrico, conforme
+  aplicável:
+
+  Identificação dos barramentos elétricos utilizados para alimentação de cada equipamento
+  instalado;
+
+  Informações sobre os fabricantes, os PNs, as características e as bitolas dos fios e cabos
+  aeronáuticos utilizados para alimentação e interligação dos equipamentos instalados pela
+  modificação;
+
+  Compatibilidade da fiação de alimentação com o sistema a ser alimentado, conforme recomendação
+  do fabricante do equipamento;
+
+  Informações sobre os fabricantes, os PNs e os valores dos dispositivos de proteção elétrica
+  (fusível ou disjuntor) utilizados no projeto;
+
+  Compatibilidade da proteção elétrica com as recomendações do fabricante do equipamento instalado.
+  Como referência, pode-se utilizar a AC 43.13-1, Capítulo 11 (ver tabela 11-4 - DC wire and
+  circuit protector chart).
+
+  Outros dados relativos ao projeto elétrico:
+
+  Desenhos de encaminhamento da cablagem;
+
+  Desenhos da localização (por exemplo, espaçamento de antenas, painéis etc.);
+
+  Esquemas elétricos, e outros detalhes pertinentes.
+
+  Avaliação de segurança (Safety Assessment)
+
+  É necessário que pelo menos um dos relatórios apresentados contenha um safety assessment.
+
+  O objetivo do safety assessment é avaliar os efeitos de falhas previsíveis de sistemas,
+  equipamentos e estrutura da aeronave. A profundidade e o nível de detalhamento são dependentes
+  da consequência das condições de falha, a severidade e probabilidade da falha (matriz de
+  risco), das funções desempenhadas, da complexidade e de novas tecnologias empregadas na
+  aeronave.
+
+  Para a elaboração do safety assessment, sugere-se adotar os critérios da AC 23.1309-1, AC
+  25.1309-1, AC 27-1, AC 29-2, conforme aplicável, ou outro meio aceitável de cumprimento
+  aceitável. Como referência, recomenda-se a observação do guia sobre safety assessment para
+  grandes modificações disponível em: https://www.gov.br/anac/pt-br/assuntos/regulados/aeronaves/certificacao-e-fabricacao/certificacao-suplementar-de-tipo/guias-e-checklists.
+
+  Metodologia. Os métodos a seguir podem ser utilizados:
+
+  Análise zonal (Zonal Safety Analysis - ZSA);
+
+  Avaliação de perigos funcionais (Functional Hazard Assessment - FHA);
+
+  Análise de modos de falha (Failure Mode and Effect Analysis - FMEA);
+
+  Análise por árvores de falhas (Fault Tree Analysis - FTA), entre outros.
+
+  Resultados e Conclusões
+
+  Devem ser informadas as ações necessárias para corrigir condições inseguras encontradas
+  na análise de falhas, tais como reprojeto do sistema, criação de procedimentos de manutenção,
+  inspeção ou testes de funcionamento, entre outros. Pode ser necessário incluir essas ações
+  na ICA, nos suplementos ao manual de voo, ou em outro documento aplicável.
+
+  Para a análise de resultados, recomenda-se adotar os critérios contidos na ARP4761, conforme
+  aplicável.
+
+  Ensaios, Propostas de Ensaios e Relatórios de Resultados de Ensaio
+
+  É necessário que os relatórios apresentados contenham as informações relativas aos ensaios,
+  as propostas de ensaio e os resultados destes ensaios.
+
+  As seguintes informações devem estar contidas nas propostas de ensaios e relatórios de resultados
+  de ensaios:
+
+  Objetivo do ensaio;
+
+  Requisitos aplicáveis;
+
+  Condições relevantes para realização dos ensaios (condições ambientais, dispositivos, equipamentos,
+  instrumentação etc.);
+
+  Relação dos ensaios propostos;
+
+  Procedimentos de ensaio;
+
+  Execução do ensaio proposto;
+
+  Resultados esperados e obtidos;
+
+  Conclusões e recomendações para cada ensaio; e
+
+  Outros, conforme aplicável.
+
+  Ensaios de Desenvolvimento
+
+  De acordo com o projeto, podem ser necessários ensaios mecânicos, estruturais, de inflamabilidade,
+  de qualificação ou de voo de desenvolvimento para verificação de funcionamento de sistemas
+  e equipamentos instalados, entre outros, conforme aplicável. Os respectivos relatórios de
+  resultados, contendo laudos, conclusões, especificações técnicas etc., poderão ser aceitos
+  pela ANAC no âmbito do processo de certificação.
+
+  Propostas de Ensaios no Solo
+
+  A proposta de ensaios no solo para sistemas e equipamentos eletroeletrônicos deverá incluir
+  os seguintes procedimentos, quando aplicável:
+
+  Lista de verificação (checklist) dos itens da instalação:
+
+  I - Equipamento e peças: local de instalação, fixação e posição com relação a temperaturas
+  excessivas, acessibilidade (se aplicável), reflexos indesejáveis nos displays, etc.;
+
+  II - Fiação e cablagem: conexões, passagem, proteções, afastamentos, fixação, identificação,
+  fios de alimentação e interface em bitola adequada e de qualidade aeronáutica;
+
+  III - Disjuntores, fusíveis, chaves e relés: local de instalação, posição, fixação, acessibilidade,
+  capacidade, marcas e placares, conforme a documentação técnica;
+
+  IV - Marcas e placares: localização e materiais apropriados, conforme relatório ou desenho.
+  A inscrição não deve ser facilmente apagável, desfigurável ou removível;
+
+  V - Anunciadores: localização e cores apropriadas, conforme relatório ou desenho;
+
+  VI - Manuais de operação presentes na aeronave, quando aplicável;
+
+  VII - Metalização e aterramento; e
+
+  VIII - Outros, conforme requeridos pela instalação.
+
+  Lista de verificação (checklist) dos itens de funcionamento:
+
+  I - Procedimentos aplicáveis para energizar os sistemas e equipamentos;
+
+  II - Procedimentos de inicialização e autoteste;
+
+  III - Versões dos softwares;
+
+  IV - Testes de anunciadores, bandeiras, ponteiros e indicações em displays;
+
+  V - Simulação da perda de energia elétrica;
+
+  VI - Simulação de aeronave em emergência elétrica, quando aplicável;
+
+  VII - Testes de funcionamento, no solo, em condições reais de operação ou utilizando-se
+  equipamentos de teste (test set);
+
+  VIII - Outros, conforme requeridos pela instalação.
+
+  Ensaios de Interferência Eletromagnética e Compatibilidade Eletromagnética (Eletromagnetic
+  Interference/Eletromagnetic Compatibility - EMI/EMC):
+
+  I - Devem ser apresentados os procedimentos para realização dos ensaios de EMI/EMC, relacionando,
+  por exemplo, os sistemas e equipamentos envolvidos e as correspondentes frequências utilizadas.
+
+  II - Os procedimentos para a verificação de interferências devido à transmissão de equipamentos
+  de comunicação ou navegação devem adequar-se ao que é recomendado nas IS n° 23-001, IS n°
+  21-013, AC 23-8, AC 25-7, AC 27-1, AC 29-2 ou outros documentos equivalentes, conforme aplicável.
+
+  III - Os resultados a serem obtidos devem evidenciar que os sistemas instalados não interferem
+  no funcionamento normal de outros sistemas da aeronave nem sofrem interferências deles.
+
+  Propostas de Ensaios em Voo
+
+  Devem ser apresentados, quando aplicável, os procedimentos para a realização dos ensaios
+  em voo. Estes procedimentos devem adequar-se ao que está estabelecido na IS n° 23-001, AC
+  23-8, AC 25-7, AC 27-1 AC 29-2 ou em outros documentos equivalentes. Caso a aeronave seja
+  certificada segundo o RBAC ou RBHA n° 23, ou regulamentação equivalente do Estado de Projeto,
+  sugere-se, como referência, a observação do “Guia de Ensaios em Voo de Sistemas para Grandes
+  Modificações (RBAC 23)”, disponível em: https://www.gov.br/anac/pt-br/assuntos/regulados/aeronaves/certificacao-e-fabricacao/certificacao-suplementar-de-tipo/guias-e-checklists.
+
+  Resultados de Ensaios
+
+  Relatórios de resultados de ensaios devem ser apresentados, quando requisitados.
+
+  Os relatórios devem apresentar, de forma detalhada, os procedimentos realizados nas inspeções
+  e nos ensaios, bem como os respectivos resultados obtidos, inclusive informando desvios
+  de indicação e de funcionamento observados, bem como as características de estabilidade
+  das indicações.
+
+  Como parte integrante dos relatórios, devem ser apresentadas fotos da instalação. As fotos
+  devem ilustrar a localização, identificação e fixação de todos os componentes instalados
+  (antenas, displays, processadores, controles, disjuntores, placares, anunciadores, chaves
+  e chaves anunciadoras, cablagem, bandejas, shock mounts, dispositivos de fixação etc.).
+
+  Além das fotos, vídeos também podem ser requisitados. Os vídeos devem ilustrar os procedimentos
+  relevantes dos ensaios.
+
+  Esses relatórios devem conter as assinaturas de aprovação do responsável técnico da oficina
+  que realizou as instalações, do engenheiro responsável pelo projeto de modificação e do
+  piloto em comando que realizou o voo (se houver voo).
+
+  Detalhes como data (dia e hora) de realização dos ensaios, local, horários de decolagem
+  e pouso (se houver voo), pessoas envolvidas e marcas de nacionalidade e matrícula da aeronave
+  devem constar dos relatórios também.
+
+  Os relatórios devem conter, portanto, introdução, desenvolvimento (com a descrição detalhada
+  e passo a passo dos procedimentos realizados em cada ensaio) e conclusão. Os cartões de
+  teste preenchidos devem ser incluídos apenas como anexos ou apêndices, conforme exigido
+  para fins de documentação.
+
+  Como conclusão do relatório, os resultados dos ensaios podem indicar a necessidade de se
+  alterar o projeto, refazer a instalação, realizar novas inspeções e ensaios, adicionar itens
+  de manutenção, entre outras providências, as quais devem estar indicadas nos documentos
+  aplicáveis.
+
+  Manual de Instalação e Instruções de Instalação
+
+  É necessária a apresentação de um documento contendo instruções de instalação detalhadas
+  relativas ao projeto proposto. Um manual de instalação deve ser apresentado para projetos
+  de aprovação por CST (processos H.02 múltiplos ou limitados a alguns números de série).
+  Para projetos de aprovação por formulário F-400-04 (processos H.20), pelo menos um dos relatórios
+  ou desenhos apresentados deve conter as informações relativas à instalação da modificação
+  proposta.
+
+  Esses documentos devem abranger, se aplicável:
+
+  Procedimentos de segurança e preparativos para a realização dos serviços;
+
+  Procedimentos de remoção;
+
+  Retrabalhos, furações, vedações, fixações, fabricação de elementos de fixação, fabricação
+  e fixação de marcas e placares, aproveitamento, encaminhamento e confecção de cabos, aterramento
+  e materiais utilizados;
+
+  Acessibilidade para manutenção de fios, cabos, fusíveis, disjuntores, sistemas, equipamentos,
+  pontos de lubrificação, fixações, portas de acesso, tampas em galleys, drenos, entre outros
+  componentes;
+
+  Configuração do software dos equipamentos objetos da modificação, com a especificação de
+  cada parâmetro a ser adotado;
+
+  Referências aos desenhos de instalação;
+
+  Referência às normas, aos manuais ou aos regulamentos utilizados como guia para a instalação;
+  e
+
+  Procedimentos e testes pós-instalação. Esses procedimentos devem ser baseados nas recomendações
+  dos fabricantes e adequados à modificação proposta.
+
+  Propostas de Suplementos ao Manual de Voo
+
+  É necessária a elaboração de propostas de suplementos ao manual de voo do avião ou aeronave
+  de asas rotativas (Airplane Flight Manual Supplement - AFMS ou Rotorcraft Flight Manual
+  Supplement - RFMS), se requeridos pela modificação. As propostas de suplementos ao manual
+  de voo devem ser apresentadas à ANAC juntamente à documentação técnica. Como referência,
+  consta um modelo de AFMS para uma instalação específica (Terrain Awareness and Warning System
+  - TAWS) em: https://www.gov.br/anac/pt-br/assuntos/regulados/aeronaves/certificacao-e-fabricacao/certificacao-suplementar-de-tipo/guias-e-checklists.
+  Outros modelos podem ser encontrados em normas (IS da ANAC, AC da FAA etc.) específicas
+  para a certificação de outras instalações.
+
+  Instruções para Aeronavegabilidade Continuada (Instructions for Continued Airworthiness
+  - ICA)
+
+  É necessária a elaboração de uma proposta de ICA, conforme a seção 21.50 do RBAC 21. A elaboração
+  da ICA deve contemplar o conteúdo dos Apêndices “Instructions for Continued Airworthiness”
+  dos RBAC ou RBHA n°s 23, 25, 27, 29, 33 e 35, ou regulamentação equivalente da base de certificação
+  do produto aeronáutico, conforme aplicável à modificação proposta. Recomenda-se utilizar,
+  como referência, os modelos disponibilizados pelos fabricantes dos equipamentos a serem
+  instalados na modificação proposta. Não obstante, como referência, sugere-se a observação
+  do “Guia de Elaboração das Instruções para Aeronavegabilidade Continuada (ICA) em Grandes
+  Modificações ou Grandes Alterações”, disponível em: https://www.gov.br/anac/pt-br/assuntos/regulados/aeronaves/certificacao-e-fabricacao/certificacao-suplementar-de-tipo/guias-e-checklists.
+
+  Desenhos
+
+  Lista Mestra de Desenhos
+
+  O projeto deve conter uma lista mestra de desenhos (ou equivalente) listando todos os desenhos
+  e diagramas constantes no projeto, com suas respectivas revisões e datas de emissão. Quando
+  houver revisão de qualquer um dos desenhos listados, a lista mestra de desenhos deverá ser
+  atualizada e reapresentada (ver exemplo no Apêndice F desta IS).
+
+  Desenhos Elétricos e Eletrônicos
+
+  Diagramas de blocos. Os diagramas de blocos devem apresentar, de forma simplificada, a interconexão
+  entre os equipamentos instalados e os demais sistemas da aeronave, incluindo displays, anunciadores
+  etc. (ver exemplo no Apêndice G desta IS).
+
+  Desenhos de encaminhamento da cablagem:
+
+  Os desenhos de encaminhamento de cablagem devem ser apresentados em, pelo menos, duas vistas
+  (planta e elevação) da aeronave. Deve-se evidenciar a segregação da cablagem dos equipamentos
+  instalados com relação a itens críticos, como cabos de comando, superfícies móveis, linhas
+  (combustível, pneumáticas, hidráulicas, oxigênio etc.), passagem de áreas pressurizadas
+  para não pressurizadas, EMI/EMC, entre outros.
+
+  Deve-se também representar a cablagem pré-existente que está sendo reaproveitada de outros
+  sistemas e diferenciar os sistemas existentes dos novos e dos substituídos.
+
+  Diagramas elétricos. Os diagramas elétricos devem indicar as conexões dos pinos dos equipamentos
+  instalados, a identificação da cablagem e dos conectores, os pinos sem conexão que possam
+  interferir no funcionamento dos sistemas, bem como os pinos de alimentação, configuração
+  e aterramento. Dispositivos de proteção e controle e barramentos envolvidos também devem
+  ser representados e devidamente identificados. Devem-se diferenciar os sistemas e dispositivos
+  novos dos já existentes na aeronave.
+
+  Desenhos de localização, posição e fixação
+
+  O projeto deve incluir desenhos que indiquem claramente a localização, a posição e os pontos
+  de fixação dos sistemas, equipamentos e peças (ver exemplos no Apêndice G desta IS).
+
+  Desenhos de peças e detalhes de fabricação
+
+  Os desenhos devem estar em conformidade com as normas técnicas, apresentando cotas, especificações
+  de acabamento, materiais e todos os detalhes pertinentes à fabricação (ver exemplos no Apêndice
+  G desta IS).
+
+  Outros Documentos
+
+  Dados existentes de um CST ou STC podem ser utilizados, quando aplicável, desde que autorizados
+  pelo detentor do certificado. Cópias desses dados e da autorização deverão ser apresentadas
+  à ANAC.
+
+  Conforme as exigências do processo, outros documentos de substanciação poderão ser requeridos,
+  tais como:
+
+  Laudos de Calibração de Equipamentos. Os laudos de calibração devem ser apresentados quando
+  a modificação incluir equipamentos que devem ser calibrados, tais como: altímetros, cápsulas
+  altimétricas para transponder (modo C, S ou equivalentes), radioaltímetro, altitude alerter
+  etc.; e
+
+  Laudos de Radiação. Caso a modificação envolva a instalação de equipamentos capazes de gerar
+  radiações nocivas, poderão ser exigidos laudos, declarações ou outros documentos aprovados
+  pelos órgãos competentes, atestando que as radiações emitidas não representam risco à saúde
+  dos ocupantes da aeronave e do pessoal em solo.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- analise
+- aplicavel
+- equipamentos
+- aeronave
+- desenhos
+- modificacao
+- outros
+- sistemas
+- procedimentos
+- relatorios
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-021.md

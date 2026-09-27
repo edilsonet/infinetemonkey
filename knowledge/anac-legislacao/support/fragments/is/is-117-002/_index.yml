@@ -1,0 +1,64 @@
+document: is-117-002
+kind: is
+title: IS 117-002A
+ementa: Nível básico do gerenciamento da fadiga – NB.
+family: '117'
+categories:
+- fadiga
+- jornada
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-002
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-002/@@display-file/arquivo_norma/IS117-002A.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-117-002
+language: pt
+foreign_annex: false
+sections:
+- '10'
+- '11'
+- '4'
+- '6'
+- '7'
+- '8'
+- '9'
+- acronimos
+- apendice-a-controle-de-alteracoes
+- apendice-b-conteudo-do-manual-do-operador-do-nb
+- apendice-c-ferramenta-de-auxilio-para-autoavaliacao-d-52e979
+- apendice-c-ferramenta-de-auxilio-para-autoavaliacao-d-81501a
+- apendice-d-exemplos-de-modelos-de-reporte-de-ocorrenc-92d52b
+- apendice-e-tabela-de-equivalencia-entre-a-lei-13-475-ad3174
+- aplicabilidade
+- bibliografia
+- definicoes
+- disposicoes-finais
+- fundamentos
+- introducao
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 23
+fragment_ids:
+- is-is-117-002-preambulo-body
+- is-is-117-002-4-body
+- is-is-117-002-6-body
+- is-is-117-002-7-body
+- is-is-117-002-8-body
+- is-is-117-002-9-body
+- is-is-117-002-10-body
+- is-is-117-002-11-body
+- is-is-117-002-apendice-a-controle-de-alteracoes-body
+- is-is-117-002-apendice-b-conteudo-do-manual-do-operador-do-nb-body
+- is-is-117-002-apendice-c-ferramenta-de-auxilio-para-autoavaliacao-d-81501a-body
+- is-is-117-002-apendice-d-exemplos-de-modelos-de-reporte-de-ocorrenc-92d52b-body
+- is-is-117-002-apendice-e-tabela-de-equivalencia-entre-a-lei-13-475-ad3174-body
+- is-is-117-002-objetivo-body
+- is-is-117-002-revogacao-body
+- is-is-117-002-fundamentos-body
+- is-is-117-002-acronimos-body
+- is-is-117-002-definicoes-body
+- is-is-117-002-bibliografia-body
+- is-is-117-002-introducao-body
+- is-is-117-002-aplicabilidade-body
+- is-is-117-002-disposicoes-finais-body
+- is-is-117-002-apendice-c-ferramenta-de-auxilio-para-autoavaliacao-d-52e979-body
+parser_version: 7

@@ -1,0 +1,39 @@
+id: is-is-91-001-f1-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: F1.2
+section_title: O RNP 4 foi desenvolvido para operações em áreas oceânicas ou remotas e, dessa
+  maneira, não pressupõe a disponibilidade de infraestrutura terrestre de auxílios à navegação.
+  O GNSS é o sensor de navegação primário que suporta o RNP 4, seja por meio de equipamentos
+  GNSS stand-alone ou como sensores GNSS componentes de um sistema multissensor.
+subsection_id: body
+cite: F1.2
+title: O RNP 4 foi desenvolvido para operações em áreas oceânicas ou remotas e, dessa maneira,
+  não pressupõe a disponibilidade de infraestrutura terrestre de auxílios à navegação. O GNSS
+  é o sensor de navegação primário que suporta o RNP 4, seja por meio de equipamentos GNSS
+  stand-alone ou como sensores GNSS componentes de um sistema multissensor.
+text: F1.2 O RNP 4 foi desenvolvido para operações em áreas oceânicas ou remotas e, dessa
+  maneira, não pressupõe a disponibilidade de infraestrutura terrestre de auxílios à navegação.
+  O GNSS é o sensor de navegação primário que suporta o RNP 4, seja por meio de equipamentos
+  GNSS stand-alone ou como sensores GNSS componentes de um sistema multissensor.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- gnss
+- navegacao
+- alone
+- areas
+- auxilios
+- componentes
+- desenvolvido
+- dessa
+- disponibilidade
+- equipamentos
+- infraestrutura
+- maneira
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

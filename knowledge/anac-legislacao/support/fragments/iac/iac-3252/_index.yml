@@ -1,0 +1,22 @@
+document: iac-3252
+kind: iac
+title: IAC 3252
+ementa: 27/02/1997
+family: '325'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3252
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3252/@@display-file/arquivo_norma/IAC3252.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3252/@@display-file/arquivo_norma/IAC3252.pdf
+language: pt
+foreign_annex: false
+sections:
+- anexo-01-da-iac-3252-121-135-0197
+- anexo-03-iac-3252-121-135-0197-fl-1-4
+- preambulo
+fragment_count: 3
+fragment_ids:
+- iac-iac-3252-preambulo-body
+- iac-iac-3252-anexo-03-iac-3252-121-135-0197-fl-1-4-body
+- iac-iac-3252-anexo-01-da-iac-3252-121-135-0197-body
+parser_version: 7

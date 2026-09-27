@@ -1,0 +1,37 @@
+id: is-is-121-020-d4-6-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: D4.6
+section_title: Implementação de PAADV
+subsection_id: body
+cite: D4.6
+title: Implementação de PAADV
+text: 'D4.6 Implementação de PAADV
+
+  D4.6.1 Independentemente das características do modelo de aeronave autorizada ou para o
+  qual se busca autorização para operação no aeródromo SBSP, o operador deve possuir um PAADV
+  implementado para o respectivo modelo de aeronave.
+
+  D4.6.2 Por meio do PAADV o operador deve monitorar ao menos os padrões de operação de pouso
+  e decolagem, e o desempenho de frenagem.'
+keywords:
+- transporte-aereo
+- operacoes
+- paadv
+- implementacao
+- aeronave
+- modelo
+- operacao
+- operador
+- aerodromo
+- autorizacao
+- autorizada
+- busca
+- caracteristicas
+- decolagem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

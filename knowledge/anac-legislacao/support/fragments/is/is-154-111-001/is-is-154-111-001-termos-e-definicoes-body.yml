@@ -1,0 +1,63 @@
+id: is-is-154-111-001-termos-e-definicoes-body
+kind: is
+document: is-154-111-001
+family: '154'
+section_id: termos-e-definicoes
+section_title: TERMOS E DEFINIÇÕES
+subsection_id: body
+cite: termos-e-definicoes
+title: TERMOS E DEFINIÇÕES
+text: 'TERMOS E DEFINIÇÕES
+
+  Para efeito desta IS aplicam-se os termos e as definições estabelecidos nos RBACs nºs 153,
+  154 e demais normas relacionadas à matéria, bem como as seguintes:
+
+  ACR: Índice de Classificação de Aeronave.
+
+  CDF: Cumulative Damage Factor ou dano acumulado, significa a porção da vida útil estimada
+  para o pavimento que foi consumida por meio do processo de fadiga decorrente dos repetidos
+  esforços impostos à estrutura.
+
+  PCR: Índice de Classificação de Pavimento.
+
+  ESTRUTURA DO DOCUMENTO
+
+  Esta IS está estruturada da seguinte forma:
+
+  Os itens que detalham o cumprimento de requisito trazem, no início do parágrafo, a notação
+  “FC” (Forma de Cumprimento), seguida do parágrafo do RBAC a que correspondem. Sua observância
+  é obrigatória, mas pode o administrado submeter à aprovação da Superintendência de Infraestrutura
+  Aeroportuária (SIA) - previamente à sua adoção - meio ou procedimento alternativo, na forma
+  prevista na Resolução ANAC nº 30, artigo 14, § 1º e 2º;
+
+  Sempre que um item for classificado como “FC” (Forma de Cumprimento), todos os seus subitens,
+  exceto aqueles que tratarem expressamente de uma recomendação, fazem parte do conjunto de
+  informações que compõem a forma de cumprimento;
+
+  Os itens que se iniciam com a notação “Recomendação”, apesar de não trazerem comando obrigatório,
+  representam as práticas que a ANAC entende como desejáveis para o aumento da segurança e
+  da eficiência das operações, merecendo os melhores esforços dos administrados para sua consecução;
+
+  Sempre que um item for classificado como “Recomendação”, todos os seus subitens fazem parte
+  do conjunto de informações que compõem a recomendação;
+
+  Os demais itens trazem orientações e esclarecimentos - algumas vezes com exemplos - para
+  o melhor entendimento do conteúdo do RBAC e desta IS.'
+keywords:
+- seguranca-aeroportuaria
+- forma
+- cumprimento
+- definicoes
+- recomendacao
+- termos
+- classificacao
+- classificado
+- compoem
+- conjunto
+- demais
+- desta
+- esforcos
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-111-001.md

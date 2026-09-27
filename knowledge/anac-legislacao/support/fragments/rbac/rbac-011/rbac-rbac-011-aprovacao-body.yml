@@ -1,0 +1,28 @@
+id: rbac-rbac-011-aprovacao-body
+kind: rbac
+document: rbac-011
+family: '11'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 73, de 11.02.2009. [Emenda nº 00]
+
+  Resolução nº 396, de 19.10.2016. [Emenda nº 01]
+
+  Resolução nº 501, de 12.12.2018. [Emenda nº 02]
+
+  Resolução nº 548, de 20.03.2020. [Emenda nº 03]
+
+  SPO/SAR/SIA'
+keywords:
+- processo-normativo
+- resolucao
+- aprovacao
+categories:
+- processo-normativo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-011.md

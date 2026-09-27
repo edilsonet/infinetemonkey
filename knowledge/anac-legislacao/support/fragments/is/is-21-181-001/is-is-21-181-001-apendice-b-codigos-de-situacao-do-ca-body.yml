@@ -1,0 +1,93 @@
+id: is-is-21-181-001-apendice-b-codigos-de-situacao-do-ca-body
+kind: is
+document: is-21-181-001
+family: '21'
+section_id: apendice-b-codigos-de-situacao-do-ca
+section_title: APÊNDICE B - CÓDIGOS DE SITUAÇÃO DO CA
+subsection_id: body
+cite: apendice-b-codigos-de-situacao-do-ca
+title: APÊNDICE B - CÓDIGOS DE SITUAÇÃO DO CA
+text: 'APÊNDICE B - CÓDIGOS DE SITUAÇÃO DO CA
+
+  B.1.1 As aeronaves civis brasileiras poderão ter seus Certificados de Aeronavegabilidade
+
+  suspensos ou cassados, conforme definido no artigo 114, parágrafo 1º do CBAer. A
+
+  suspensão do CA de uma aeronave pode ser decorrente de suspensões automáticas por
+
+  vencimento de prazos estipulados na legislação de inspeções de rampa ou análises
+
+  documentais.
+
+  B.1.2 A identificação do motivo de suspensão do CA, pode ser feita por meio do Código da
+
+  Situação de Aeronavegabilidade do sistema SACI, no módulo SIAC » Aeronave » Status.
+
+  Os códigos possíveis para este campo estão definidos na tabela abaixo:
+
+  CÓDIGO SITUAÇÃO DE AERONAVEGABILIDADE
+
+  R Reserva de Marcas
+
+  N Situação normal
+
+  Z Aeronave experimental (situação normal)
+
+  U Aeronave ultraleve (situação normal)
+
+  M Matrícula cancelada
+
+  S Certificado de Aeronavegabilidade suspenso (complementado por um dos
+
+  números abaixo)
+
+  V Certificado de Aeronavegabilidade vencido
+
+  C
+
+  Certificado de Aeronavegabilidade cancelado (complementado por um dos
+
+  números
+
+  abaixo)
+
+  X Aeronave interditada
+
+  P Aeronave com suspensão punitiva em vigor
+
+  1 Aeronave com avarias de grande monta decorrentes de acidente ou
+
+  incidente
+
+  3 Aeronave com pendências judiciais ou administrativas (RAB)
+
+  4 Aeronave em situação irregular no RAB
+
+  6 Aeronave em situação técnica irregular
+
+  7 Não cumprimento de determinações de NCIA
+
+  8 CVA vencidoData de emissão: 7 de agosto de 2020 IS Nº 21.181-001
+
+  Revisão E'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeronave
+- situacao
+- codigos
+- abaixo
+- apendice
+- certificado
+- normal
+- suspensao
+- codigo
+- complementado
+- irregular
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-181-001.md

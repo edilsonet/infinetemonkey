@@ -1,0 +1,54 @@
+id: is-is-145-009-b1-14-j
+kind: is
+document: is-145-009
+family: '145'
+section_id: B1.14
+section_title: Sistema de Inspeção
+subsection_id: j
+cite: B1.14(j)
+title: B1.14(j)
+text: 'j) Aprovação para Retorno ao Serviço.
+
+  I- O formulário atende aos requisitos das seções 43.9 e 43.11 do RBAC nº 43?
+
+  II- Quem (por título) está autorizado a preencher o formulário? Como ele(ela) é autorizado(a)?
+
+  III- Os procedimentos asseguram que uma pessoa qualificada e autorizada pode assumir as
+  responsabilidades desta tarefa, se a pessoa, que normalmente a executa, não está disponível
+  (i.e., doente, de férias, etc.)?
+
+  IV- O documento de aprovação para retorno ao serviço inclui, ou referencia, uma lista de
+  partes aprovadas?
+
+  V- Os procedimentos asseguram que somente aqueles artigos para os quais a organização está
+  certificada são aprovados para retorno ao serviço?
+
+  VI- Os procedimentos descrevem como a organização determina se um reparo/alteração é grande?
+  Se a manutenção foi um grande reparo/alteração, os procedimentos descrevem como ele/ela
+  será registrado(s)?
+
+  VII- Quem (por título) está autorizado a preencher o Formulário ANAC F-400-04, e como essa
+  pessoa é autorizada?
+
+  VIII- Quais registros são entregues ao cliente, e quais registros são mantidos no arquivo
+  da organização?'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- procedimentos
+- autorizado
+- formulario
+- organizacao
+- pessoa
+- quais
+- retorno
+- servico
+- alteracao
+- aprovacao
+- asseguram
+- autorizada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

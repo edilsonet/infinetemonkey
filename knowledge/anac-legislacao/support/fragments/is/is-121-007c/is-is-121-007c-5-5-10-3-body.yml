@@ -1,0 +1,73 @@
+id: is-is-121-007c-5-5-10-3-body
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.5.10.3
+section_title: 'Os parágrafos seguintes apresentam exemplos de módulos de treinamento aceitáveis
+  em integração de sistemas da aeronave, com seus típicos elementos:'
+subsection_id: body
+cite: 5.5.10.3
+title: 'Os parágrafos seguintes apresentam exemplos de módulos de treinamento aceitáveis em
+  integração de sistemas da aeronave, com seus típicos elementos:'
+text: '5.5.10.3 Os parágrafos seguintes apresentam exemplos de módulos de treinamento aceitáveis
+  em integração de sistemas da aeronave, com seus típicos elementos:
+
+  5.5.10.3.1 Uso das listas de verificação. Os elementos típicos incluem cheques de segurança,
+  preparação da cabine de comando (posição dos interruptores e fluxo das listas de verificação),
+  chamadas e respostas às listas de verificação e sua respectiva sequência.
+
+  5.5.10.3.2 Planejamento do Voo. Os elementos típicos incluem limitações de desempenho (peso,
+  meteorologia e itens MEL/CDL), combustível requerido, planejamento meteorológico (ex: requisitos
+  de alternativa).
+
+  5.5.10.3.3 Sistemas de telas. Os elementos típicos incluem o uso de radares meteorológicos
+  e outras telas (telas de listas de verificação, navegação vertical ou navegação longitudinal).
+
+  5.5.10.3.4 Sistemas de navegação. Os elementos típicos incluem verificações pré-voo e operações
+  dos instrumentos aplicáveis, sistemas de navegação a bordo, e entrada e recuperação das
+  informações do plano operacional de voo.
+
+  5.5.10.3.5 Voo automático. Os elementos típicos incluem os sistemas de piloto automático,
+  autothrottles e diretores de voo, incluindo procedimentos apropriados, indicações normais
+  e anormais, e anunciadores.
+
+  5.5.10.3.6 Familiarização com a cabine de comando. Os elementos típicos incluem a ativação
+  de controles e interruptores dos sistemas da aeronave, posição dos controles e interruptores
+  em condições normais, anormais e de emergência, anunciadores relevantes, luzes, sistemas
+  de alerta e prevenção.
+
+  5.5.10.4 A abrangência do treinamento em integração de sistemas depende da complexidade
+  do avião. O treinamento em integração é particularmente efetivo quando a aeronave está equipada
+  com sistemas computadorizados de navegação, diretor de voo, de desempenho e de voo automático
+  relativamente sofisticados. A chave para o treinamento efetivo nesta área é utilizar um
+  dispositivo de treinamento que proporcione em tempo real meios interativos e acurados para
+  os tripulantes durante a prática dos procedimentos. As exigências funcionais do dispositivo
+  de treinamento não requerem necessariamente sistemas visuais ou de movimento, ou de características
+  específicas dos dados de voo da aeronave. No entanto, o dispositivo de treinamento deve
+  retratar com precisão teclados, interruptores e telas relevantes e incluir trajetórias de
+  voo lógicas.
+
+  5.5.10.5 O treinamento também deve incluir a política e os procedimentos operacionais padronizados
+  (SOP) do operador, em especial sobre aproximações perdidas e arremetidas, incluindo o cumprimento
+  imediato na sequência de um chamado (callout) de aproximação perdida ou arremetida do pilot
+  flying (PF), do pilot monitoring (PM) ou do mecânico de voo, conforme aplicável.'
+keywords:
+- transporte-aereo
+- operacoes
+- sistemas
+- treinamento
+- elementos
+- tipicos
+- aeronave
+- incluem
+- integracao
+- navegacao
+- interruptores
+- listas
+- telas
+- verificacao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

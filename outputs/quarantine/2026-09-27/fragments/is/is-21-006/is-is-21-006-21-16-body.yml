@@ -1,0 +1,259 @@
+id: is-is-21-006-21-16-body
+kind: is
+document: is-21-006
+family: '21'
+section_id: '21.16'
+section_title: (c)
+subsection_id: body
+cite: '21.16'
+title: (c)
+text: '21.16 (c)
+
+  a) Apresentar lista dos fornecedores dos itens categorias 01 e 02.
+
+  b) Apresentar lista geral dos fornecedores.
+
+  C.2. Roteiro de Inspeção de recebimento.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(g)
+
+  21.137(k)
+
+  a) Apresentar lista dos padrões de inspeção - PI para itens categorias 01 e 02.
+
+  b) Apresentar o procedimento para padrões de inspeção - PI.
+
+  C.3. Acceptance Test Procedure (ATP).
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(e)
+
+  21.137(g)
+
+  a) Apresentar ATPs (Procedimentos de Testes para Aceitação) aplicáveis para os itens categorias
+  01 e 02.
+
+  C.4. Lista de processos especiais de fornecedores.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(c)
+
+  21.137(d)
+
+  a) Apresentar lista dos processos especiais executados por fornecedores.
+
+  C.5. Planejamento de ações em fornecedores.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(c)
+
+  a) Apresentar como é feito o planejamento de ações em fornecedores.
+
+  D. Processos de Fabricação
+
+  D.1. Lista de Processos especiais e END.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(d)
+
+  a) Apresentar lista dos processos especiais e END com os respectivos planos de qualificação.
+
+  D.2. Lista de Processos críticos.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(d)
+
+  a) Apresentar lista dos processos considerados críticos com os respectivos planos de qualificação.
+  Ref. FAI.
+
+  b) Apresentar a evolução da execução da FAI na lista apresentada.
+
+  D.3. Roteiro de montagem de itens categorizados.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(d)
+
+  a) Apresentar lista dos roteiros de montagem para os itens CPL categorias “1” e “2”.
+
+  D.4. Lista de Ferramentais e gabaritos.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(d)
+
+  a) Apresentar lista dos ferramentais e gabaritos utilizados na fabricação/montagem.
+
+  D.5. Fluxograma de produção.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(d)
+
+  a) Apresentar layout das instalações ou fluxograma de produção para a fabricação/montagem.
+
+  E. Liberação final
+
+  E.1. Ensaios do produto final.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(e)
+
+  a) Apresentar lista dos ensaios no solo de aceitação final das aeronaves.
+
+  E.2. Voo de produção.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(e)
+
+  Apresentar procedimento para voo de produção.
+
+  E.3. Conformidade com o projeto aprovado.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status
+
+  21.137(e)
+
+  a) Descrever o processo de inspeção para garantir a conformidade de cada aeronave com o
+  projeto aprovado.
+
+  F. Aeronavegabilidade continuada.
+
+  F.1. Procedimento para tratamento de Dificuldade em Serviço.
+
+  Requisito
+
+  Ação
+
+  Responsável
+
+  Prazo
+
+  Status'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- apresentar
+- lista
+- acao
+- prazo
+- requisito
+- responsavel
+- status
+- processos
+- fornecedores
+- categorias
+- especiais
+- inspecao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-006.md

@@ -1,0 +1,71 @@
+id: is-is-21-61-005-5-5-7-c
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.5.7
+section_title: 'All that considered, a change to the type design requires a change to the
+  MMEL if any of the following conditions are met:'
+subsection_id: c
+cite: 5.5.7(c)
+title: 5.5.7(c)
+text: 'c) the change invalidates any dispatch conditions of the MMEL.
+
+  5.5.8 O requerente de uma modificação ao CT é o responsável por conduzir tais avaliações,
+  substanciá-las e registrá-las adequadamente. A ANAC pode exigir uma declaração de conformidade
+  a esse respeito e pode analisar as avaliações feitas.
+
+  5.5.8 The applicant for a TC change is the one responsible to conduct, substantiate and
+  record such assessments appropriately. ANAC may require a statement of compliance in this
+  respect and may review the assessments made.
+
+  5.5.9 Caso o requerente falhe em cumprir o acima exposto, ou caso a ANAC não concorde com
+  as avaliações apresentadas, a Agência poderá limitar a MMEL incluindo limitações no TCDS
+  ou no CST, ou ainda emitindo um Suplemento à MMEL, que substitui os itens nele contidos
+  na MMEL original , para todas as aeronaves com a modificação em questão incorporada.
+
+  5.5.9 If the applicant fails to comply with the abovementioned, or in case ANAC does not
+  agree with the assessments presented, the Agency may limit the MMEL by including limitations
+  in the TCDS or in the STC, or issuing a Supplement to the MMEL overriding affected item
+  in the original MMEL, for all aircrafts with the concerning change incorporated.
+
+  5.5.10 Por fim, para o correto entendimento da seção 21.107-I do RBAC 21, é importante esclarecer
+  que, para os propósitos desta IS, “aeronave que possui dados relevantes à operação” deve
+  ser entendida simplesmente como “aeronave que possui uma MMEL”, independentemente da origem
+  desta ou de qualquer data associada. Além disso, a referência a “cujo requerimento tenha
+  sido realizado após 1º de janeiro de 2025” refere-se à data do requerimento à ANAC para
+  aprovação da modificação ao certificado de tipo, e não à data do requerimento ao certificado
+  de tipo, à aprovação da modificação no estado de projeto ou qualquer outra data.
+
+  5.5.10 Finally, for the correct understanding of section 21.107-I of RBAC 21, it is important
+  to clarify that “aircraft having operational suitability data” for the matter of this IS
+  shall be simply understood as “aircraft having an MMEL”, regardless of its origin or any
+  associated date. Also, the reference to “whose application has been submitted after January
+  1st, 2025” refers to the date of application for ANAC approval of the type certificate change.
+  It does not refer to date of application for the type certificate, for the approval of the
+  change in the state of design or any other.
+
+  5.6 Critérios para classificação das modificações à MMEL
+
+  5.6 MMEL changes classification criteria'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- change
+- data
+- modificacao
+- application
+- assessments
+- avaliacoes
+- date
+- requerimento
+- type
+- with
+- aeronave
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

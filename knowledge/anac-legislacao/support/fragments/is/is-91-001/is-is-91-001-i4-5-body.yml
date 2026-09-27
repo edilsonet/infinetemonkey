@@ -1,0 +1,42 @@
+id: is-is-91-001-i4-5-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: I4.5
+section_title: Quando a operação se fundamenta na disponibilidade do ABAS, a tripulação de
+  voo deve realizar uma nova conferência de disponibilidade da função RAIM para casos em que
+  o ETA diferir em mais de 15 (quinze) minutos do ETA utilizado durante o planejamento do
+  voo. Esta verificação é realizada automaticamente 2 NM antes do FAF para receptores E/TSO-C129a
+  classe A1.
+subsection_id: body
+cite: I4.5
+title: Quando a operação se fundamenta na disponibilidade do ABAS, a tripulação de voo deve
+  realizar uma nova conferência de disponibilidade da função RAIM para casos em que o ETA
+  diferir em mais de 15 (quinze) minutos do ETA utilizado durante o planejamento do voo. Esta
+  verificação é realizada automaticamente 2 NM antes do FAF para receptores E/TSO-C129a classe
+  A1.
+text: I4.5 Quando a operação se fundamenta na disponibilidade do ABAS, a tripulação de voo
+  deve realizar uma nova conferência de disponibilidade da função RAIM para casos em que o
+  ETA diferir em mais de 15 (quinze) minutos do ETA utilizado durante o planejamento do voo.
+  Esta verificação é realizada automaticamente 2 NM antes do FAF para receptores E/TSO-C129a
+  classe A1.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- disponibilidade
+- abas
+- automaticamente
+- c129a
+- casos
+- classe
+- conferencia
+- diferir
+- durante
+- funcao
+- fundamenta
+- minutos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

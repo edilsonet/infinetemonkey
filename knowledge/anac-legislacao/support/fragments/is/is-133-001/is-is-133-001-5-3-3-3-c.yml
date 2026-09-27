@@ -1,0 +1,51 @@
+id: is-is-133-001-5-3-3-3-c
+kind: is
+document: is-133-001
+family: '133'
+section_id: 5.3.3.3
+section_title: Gerenciamento da frota de aeronaves
+subsection_id: c
+cite: 5.3.3.3(c)
+title: 5.3.3.3(c)
+text: 'c) Combate a incêndios ambientais com uso de water bucket:
+
+  i. Este é um tipo especial de transporte de carga externa, onde a carga externa é composta
+  de um recipiente próprio para esse tipo de operação. Neste recipiente é transportada água,
+  cujo volume depende do recipiente utilizado. Esta operação de combate a incêndios ambientais
+  consiste, basicamente, nas seguintes fases:
+
+  1) Conexão do recipiente (water bucket) à aeronave, que pode ser feita no solo ou com a
+  aeronave em voo pairado;
+
+  2) Captação da água;
+
+  3) Liberação da água no ponto a ser atingido; e
+
+  4) Pouso da aeronave com o recipiente conectado.
+
+  ii. Este tipo de operação pode ser realizado com linha curta ou linha longa. Não se deve
+  confundir esta operação com a de combate a incêndios ambientais realizados com uma combinação
+  aeronave-carga classe A.
+
+  iii. O equipamento deve ter comandos independentes para a liberação da água e do conjunto
+  linha/recipiente.'
+keywords:
+- carga-externa
+- helicoptero
+- recipiente
+- aeronave
+- agua
+- operacao
+- ambientais
+- carga
+- combate
+- incendios
+- linha
+- tipo
+- bucket
+- externa
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

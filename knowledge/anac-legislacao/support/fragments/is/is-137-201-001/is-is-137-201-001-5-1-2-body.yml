@@ -1,0 +1,103 @@
+id: is-is-137-201-001-5-1-2-body
+kind: is
+document: is-137-201-001
+family: '137'
+section_id: 5.1.2
+section_title: Esta IS não autoriza nenhuma outra modificação além daquela relacionada à conversão
+  do avião e motor para o uso do etanol.
+subsection_id: body
+cite: 5.1.2
+title: Esta IS não autoriza nenhuma outra modificação além daquela relacionada à conversão
+  do avião e motor para o uso do etanol.
+text: '5.1.2 Esta IS não autoriza nenhuma outra modificação além daquela relacionada à conversão
+  do avião e motor para o uso do etanol.
+
+  5.2 Requisitos afetados
+
+  RBAC 21.93
+
+  Classificação de modificação ao projeto de tipo.
+
+  RBAC 21.97
+
+  Aprovação de grande modificação no projeto de tipo.
+
+  RBAC 43.3
+
+  Pessoas autorizadas a executar manutenção, manutenção preventiva, reconstrução e modificação.
+
+  RBAC 43.7
+
+  Pessoas autorizadas a aprovar o retorno ao serviço de aeronave, célula, motor, hélice, rotor
+  ou equipamento após sofrer manutenção, manutenção preventiva, reconstrução e modificação.
+
+  RBAC 43.9
+
+  Conteúdo, forma e disposição de registros de manutenção, manutenção preventiva, reconstrução
+  e modificação (exceto inspeções realizadas conforme os RBAC 91 e conforme os RBAC 135.411
+  (a)(1) e 135.419).
+
+  RBAC 43.13
+
+  Regras de execução (geral).
+
+  RBAC 91.313
+
+  Aeronaves civis categoria restrita. Limitações de operação.
+
+  RBAC 137.201
+
+  Requisitos das aeronaves e equipamentos.
+
+  RBAC 137.211
+
+  Operações sobre áreas densamente povoadas.
+
+  5.3 Antecedentes
+
+  5.3.1 O baixo preço do etanol frente à gasolina de aviação aliado à tecnologia já disponível
+  na indústria automotiva despertou o interesse de operadores de aviões equipados com motores
+  aeronáuticos convencionais, notadamente dos prestadores de serviço da aviação agrícola,
+  quanto ao uso desse combustível.
+
+  5.3.2 A mudança do combustível a ser utilizado em um motor aeronáutico e na respectiva aeronave
+  é considerada, de acordo com a seção 21.93 do RBAC 21, uma grande modificação ao projeto
+  de tipo original e, por este motivo, deve ser aprovada segundo os regulamentos aplicáveis,
+  conforme a seção 21.97 do RBAC 21.
+
+  5.3.3 O processo de modificação de projetos de tipo é muitas vezes requerido à ANAC pelo
+  próprio fabricante, pois ele pode abater os custos do processo com o número de aplicações.
+  No caso de operadores interessados em alterar uma única aeronave, os custos de certificação
+  são proibitivos. Portanto, se não houver uma modificação de projeto aprovada para o produto,
+  não restam alternativas aos operadores que permitam a alteração almejada individualmente.
+
+  5.3.4 Visando a possibilitar uma solução de compromisso para a questão, a ANAC estabelece
+  esta IS, na qual o operador se responsabiliza pela alteração da aeronave, sem que haja a
+  demonstração do cumprimento com os requisitos de certificação de produto aeronáutico, e
+  sua operação é submetida a limitações adicionais.
+
+  5.4 Procedimentos
+
+  5.4.1 Qualquer pessoa operando uma aeronave que demonstre o cumprimento com as prescrições
+  de aplicabilidade da seção 5.1 desta IS pode usar etanol na operação desta aeronave sob
+  as seguintes condições:'
+keywords:
+- aeroagricola
+- operacoes
+- modificacao
+- aeronave
+- manutencao
+- etanol
+- motor
+- projeto
+- tipo
+- alem
+- autoriza
+- aviao
+- conversao
+- daquela
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-201-001.md

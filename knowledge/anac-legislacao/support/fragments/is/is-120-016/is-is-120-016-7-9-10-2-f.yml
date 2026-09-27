@@ -1,0 +1,81 @@
+id: is-is-120-016-7-9-10-2-f
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.9.10.2
+section_title: Documento de Liberação da Aeronave para Voo ou Registro no Livro de Manutenção
+  da Aeronave
+subsection_id: f
+cite: 7.9.10.2(f)
+title: 7.9.10.2(f)
+text: 'f) O sistema de manuais da empresa deve incluir procedimentos detalhados para qualificar
+  e autorizar cada indivíduo que a empresa utilize para emissão do documento de liberação
+  da aeronave para voo ou registro no livro de manutenção da aeronave (seções 121.709 do RBAC
+  nº 121 ou 135.443 do RBAC nº 135). Esses procedimentos devem incluir um meio para que a
+  empresa documente e dê conhecimento da autorização ao indivíduo, incluindo o escopo e as
+  limitações de sua autorização.
+
+  7.9.10.3 Relatórios de Dificuldade em Serviço (SDR). De acordo com requisitos contidos nas
+  seções 121.703 do RBAC nº 121 e 135.415 do RBAC nº 135, a empresa deve emitir SDR quando
+  requerido. Além da análise desses relatórios poderem ajudar o SASC da empresa a identificar
+  deficiências dentro de seu Programa de Manutenção, esses relatórios também são utilizados
+  pela ANAC como o principal meio de coleta de informações para o Sistema de Dificuldade em
+  Serviço. A IS nº 00-001 - Sistema de Dificuldades em Serviço - descreve um meio aceitável
+  para estabelecer a sistematização e envio de SDR à ANAC.
+
+  7.9.10.4 Relatórios de Interrupção Mecânica. A ANAC requer que a empresa, de acordo com
+  as seções 121.705 do RBAC nº 121 e 135.417 do RBAC nº 135, emita relatórios de interrupções
+  mecânicas. Esses relatórios documentam aqueles casos em que há interrupção de voos, mudança
+  não programada de aeronave em rota, parada ou desvio não programado de uma rota causado
+  por dificuldades mecânicas conhecidas ou suspeitas, que não precisam ser relatadas de acordo
+  com as definições das seções 121.703 do RABC nº 121 e 135.415 do RBAC nº 135. Os relatórios
+  devem incluir no mínimo eventos classificados como: Air Turn Back (ATB), Diversion (DIV),
+  Ground Turn Back (GTB), Rejected Take Off (RTO), Cancelled (CAN) e/ou Delayed (DLY), e apresentados
+  à ANAC em formato definido pela área responsável pela vigilância continuada. Adicionalmente,
+  a empresa também deve relatar o número de motores que foram removidos prematuramente devido
+  a mau funcionamento, falha ou defeito, listados por fabricante, marca, modelo e o modelo
+  de aeronave em que foi instalado. Se a empresa operar aeronaves com motores turboélices,
+  deve informar a quantidade de eventos de embandeiramento de hélices em voo, listadas por
+  tipo de hélice, motor e aeronave em que foram instaladas. A empresa não precisa informar
+  os embandeiramentos de hélice para fins de treinamento, demonstração ou voo de cheque. Esse
+  relatório é um indicador primordial da eficácia de seu PMAC. Além disso, a Análise da Causa
+  Raiz desses eventos é um dos seus meios mais úteis de fazer a supervisão da eficácia de
+  seu PMAC.
+
+  7.9.10.4.1 Os Relatórios de Interrupção Mecânica devem ser enviados por meio do Sistema
+  de Gestão de Relatórios de Aeronavegabilidade Continuada - SIGRAC, ou sistema eletrônico
+  que venha a substituí-lo.
+
+  7.9.10.5 Relatórios mensais de SASC ou de confiabilidade (RCON): Os relatórios de um programa
+  de confiabilidade devem ser abrangentes e frequentes, refletindo a filosofia operacional
+  do operador e seus objetivos econômicos. Eles precisam apresentar os dados de forma clara
+  e detalhada, monitorando o desempenho de todos os sistemas da aeronave para garantir a eficácia
+  da programação de manutenção. O objetivo é identificar prontamente qualquer tendência de
+  degradação, destacar itens com desempenho insatisfatório, acompanhar a implementação de
+  ações corretivas e monitorar a efetividade das revisões feitas na programação de manutenção.
+
+  Nota 1: os relatórios devem ser enviados por meio do Sistema de Gestão de Relatórios de
+  Aeronavegabilidade Continuada - SIGRAC, ou sistema eletrônico que venha a substituí-lo.
+
+  Nota 2: em situações excepcionais, a ANAC pode aceitar outras formas e frequências para
+  o recebimento dos relatórios.'
+keywords:
+- antidrogas
+- saude
+- relatorios
+- empresa
+- aeronave
+- sistema
+- manutencao
+- meio
+- secoes
+- acordo
+- continuada
+- eficacia
+- esses
+- eventos
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

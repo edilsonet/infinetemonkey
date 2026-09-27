@@ -1,0 +1,75 @@
+id: is-is-137-201-001-5-6-5-body
+kind: is
+document: is-137-201-001
+family: '137'
+section_id: 5.6.5
+section_title: A AEV emitida sob este propósito não terá prazo de validade.
+subsection_id: body
+cite: 5.6.5
+title: A AEV emitida sob este propósito não terá prazo de validade.
+text: '5.6.5 A AEV emitida sob este propósito não terá prazo de validade.
+
+  5.6.6 A aeronave cuja operação for autorizada sob as provisões desta IS não será considerada
+  experimental e poderá ser considerada aeronavegável, uma vez que satisfaça os demais critérios
+  para determinação de sua aeronavegabilidade. A alteração da aeronave para operação com etanol
+  sob esta IS não a isenta da apresentação do Certificado de Verificação de Aeronavegabilidade-CVA,
+  nem representa impedimento para sua emissão, desde que a organização de manutenção certificada
+  constate a operação segura da aeronave.
+
+  5.6.7 A AEV em questão só é válida se acompanhada de Certificado de Verificação de Aeronavegabilidade-CVA
+  válido. Ainda, a AEV está sujeita à condição “normal” da aeronave no Sistema de Aviação
+  Civil - SACI.
+
+  5.6.8 A aeronave que tenha operado com uma AEV segundo as provisões desta IS e que seja
+  alterada para retornar à sua configuração original, em organização de manutenção certificada
+  pela ANAC, poderá receber um certificado de aeronavegabilidade categoria restrita ou de
+  categoria normal (caso a aeronave já tivesse sido certificada na categoria normal antes
+  da incorporação da alteração para operação com etanol), desde que seu motor e sistemas afetados
+  sejam submetidos a uma revisão geral ou sejam completamente substituídos por produtos em
+  conformidade com o projeto de tipo aprovado.
+
+  5.7 Recomendações
+
+  5.7.1 Uma possível forma simplificada de alteração para o uso do etanol num motor aeronáutico
+  convencional é mediante o aumento da vazão de combustível com a recalibração do sistema
+  de combustível do motor e alteração nos avanços de ignição, não sendo recomendado um aumento
+  da taxa de compressão.
+
+  5.7.2 Esta recalibração do sistema de combustível pode ser feita através de ajuste da pressão
+  da bomba mecânica e, se necessário, da injetora ou do carburador. A alteração dos diâmetros
+  dos calibradores do carburador, da injetora e dos bicos injetores poderá ser necessária.
+  A referida recalibração pode implicar na substituição dos indicadores de fluxo de combustível.
+
+  5.7.3 É recomendada a avaliação da compatibilidade dos materiais originais, quanto ao desgaste
+  e aos aspectos corrosivos do uso do etanol, de todos os principais componentes do motor
+  (bomba mecânica, servo-injetora, carburador, válvula distribuidora, bicos injetores e mangueira
+  de combustível) e do sistema de combustível da aeronave (tanques, linhas e válvulas de combustível)
+  em contato com o etanol. A substituição por componentes de material resistente à corrosão
+  ao etanol poderá ser necessária. Recomenda-se ensaiar tais componentes e sistema conforme
+  o Apêndice D desta IS.
+
+  5.7.4 É recomendado executar uma avaliação funcional e operacional do motor quando utilizando
+  o etanol nas condições de partida (incluindo partida fria), marcha lenta, aceleração, corte,
+  overspeed e backfire, como também, uma avaliação do desempenho da aeronave em todo o envelope
+  operacional previsto. Os limites estabelecidos nas especificações da aeronave, do motor
+  e da hélice não devem ser ultrapassados.'
+keywords:
+- aeroagricola
+- operacoes
+- aeronave
+- combustivel
+- etanol
+- motor
+- alteracao
+- sistema
+- aeronavegabilidade
+- operacao
+- avaliacao
+- carburador
+- categoria
+- certificada
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-201-001.md

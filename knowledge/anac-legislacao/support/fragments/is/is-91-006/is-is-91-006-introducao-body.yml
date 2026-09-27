@@ -1,0 +1,71 @@
+id: is-is-91-006-introducao-body
+kind: is
+document: is-91-006
+family: '91'
+section_id: introducao
+section_title: Introdução
+subsection_id: body
+cite: introducao
+title: Introdução
+text: 'Introdução
+
+  O parágrafo 91.705(a) do RBHA 91 determinava que os operadores interessados em voar no espaço
+  aéreo sobre o Atlântico Norte (denominado NAT-MNPS naquele Regulamento) deveriam obter autorização
+  prévia da ANAC para tal fim.
+
+  No entanto, o conceito de MNPS - Minimum Navigation Performance Specification foi superado
+  pelo conceito mais abrangente de PBN - Perfomance Based Navigation, que encontra-se detalhado
+  no Doc 9613 - PBN Manual da ICAO e, no Brasil, pela IS nº 91-001.
+
+  Em decorrência dessa nova realidade, o espaço aéreo até então designado NAT - MNPS passou
+  a ser formalmente denominado NAT - HLA (North Atlantic High Level Airspace), a partir de
+  4 de fevereiro de 2016.
+
+  Autorizações concedidas pelos Estados a seus operadores em data anterior a 4 de fevereiro
+  de 2016 e, portanto, ainda sob a designação NAT-MNPS, seriam aceitas até 31 de dezembro
+  de 2019. Após esta data, todos os operadores que transitarem no espaço aéreo NAT HLA deveriam
+  possuir uma autorização já adequada à nova designação.
+
+  Com a publicação do RBAC nº 91, a partir da emenda 00 foi criada a seção 91.1707 que trata
+  de Operações definidas por NAT-HLA cujo cumprimento das condições necessárias para a autorização
+  estão descritos nesta IS.
+
+  Atualmente, em nível internacional, as informações relevantes à operação no espaço aéreo
+  NAT HLA encontram-se dispersas em Anexos da ICAO, no PANS/ATM (Doc. 4444), nos Regional
+  Suplementary Procedures (Doc. 7030), além de AIPs e NOTAMs emitidos pelos estados responsáveis
+  pelas áreas de controle do Atlântico Norte. Para consolidação didática dessas informações,
+  foi publicado o ICAO NAT Doc 007 - North Atlantic Operations and Airspace Manual, utilizado
+  como fonte primária na elaboração desta IS e cujo conhecimento é indispensável pelos operadores
+  que pretenderem operar naquele espaço aéreo.
+
+  Limites do espaço aéreo NAT HLA
+
+  Lateralmente, o espaço aéreo NAT HLA consiste nas seguintes áreas de controle (CTA): REYKJAVIK,
+  SHANWICK (exceto as áreas denominadas Shannon Oceanic Transition Area - SOTA e Brest Oceanic
+  Transition Area - BOTA), GANDER, SANTA MARIA OCEANIC, BODO OCEANIC e a porção ao norte da
+  latitude 27o N da CTA NEW YORK OCEANIC EAST, conforme indicado pela imagem ilustrativa abaixo:
+
+
+  Verticalmente, o espaço aéreo NAT HLA situa-se entre os FL285 e 420, inclusive.
+
+  Processo de aprovação NAT - HLA'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aereo
+- espaco
+- oceanic
+- mnps
+- operadores
+- areas
+- autorizacao
+- icao
+- introducao
+- norte
+- pelos
+- airspace
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-006.md

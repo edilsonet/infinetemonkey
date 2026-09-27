@@ -1,0 +1,35 @@
+id: iac-iac-4201a-2-4-3-1-body
+kind: iac
+document: iac-4201a
+family: '420'
+section_id: 2.4.3.1
+section_title: Relatório Mensal de Acompanhamento
+subsection_id: body
+cite: 2.4.3.1
+title: Relatório Mensal de Acompanhamento
+text: '2.4.3.1 Relatório Mensal de Acompanhamento
+
+  O DAC/SIE efetuará o controle do empreendimento através do Relatório Mensal de A-
+
+  companhamento de cada empreendimento, Anexo 6 da ICA 58-37, que deverá ser re-
+
+  metido pelo COMAR até o quinto dia útil do mês seguinte ao mês de referência do Rela-
+
+  tório.'
+keywords:
+- mensal
+- relatorio
+- acompanhamento
+- empreendimento
+- anexo
+- atraves
+- cada
+- comar
+- companhamento
+- controle
+- devera
+- efetuara
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-4201a.md

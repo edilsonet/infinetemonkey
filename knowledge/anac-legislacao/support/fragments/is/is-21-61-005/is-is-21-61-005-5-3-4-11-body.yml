@@ -1,0 +1,116 @@
+id: is-is-21-61-005-5-3-4-11-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.4.11
+section_title: A fault tree analysis (or equivalent) should be used to identify the MMEL items
+  involved in hazardous or catastrophic failure conditions.
+subsection_id: body
+cite: 5.3.4.11
+title: A fault tree analysis (or equivalent) should be used to identify the MMEL items involved
+  in hazardous or catastrophic failure conditions.
+text: '5.3.4.11 A fault tree analysis (or equivalent) should be used to identify the MMEL
+  items involved in hazardous or catastrophic failure conditions.
+
+  5.3.4.12 Por simplificidade, as orientações sobre como realizar a análise quantitativa de
+  segurança foram incluídas no Apêndice E e um fluxograma com uma visão geral do processo
+  foi incluído no Apêndice F.
+
+  5.3.4.12 For simplicity, guidelines on how to perform the quantitative safety analysis were
+  included in Appendix E and a flowchart with an overview of this process was included in
+  Appendix F.
+
+  5.3.4.13 Ao realizar as análises mencionadas acima, a classificação original das condições
+  de falha estabelecidas no processo de avaliação de segurança por meio das Avaliações de
+  Perigos Funcionais (Functional Hazard Assessments - FHA) da aeronave e seus sistemas deve
+  ser usada com cautela, pois os meios de mitigação relacionados ao item da MMEL proposto
+  podem levar à redução da criticalidade da falha em comparação àquela identificada para fins
+  de certificação de tipo.
+
+  5.3.4.13 While performing the abovementioned assessments, the original classification of
+  failure conditions established in the safety assessment process through the aircraft and
+  systems Functional Hazard Assessments - FHA should be used carefully, as the mitigation
+  means associated with the proposed MMEL item may lead to a reduction in the severity of
+  the failure compared to that identified for type certification purposes.
+
+  5.3.4.14 Por exemplo, a falha de um item durante uma fase de voo específica pode ser considerada
+  significativa (major) devido a uma perda temporária de função até que a tripulação execute
+  uma reconfiguração manual durante o voo. Mas quando já se sabe no solo, antes da partida,
+  que esse item está falhado, a consequência pode ser menos crítica para a tripulação, e a
+  aplicação das condições de despacho associadas pode permitir que a classificação seja reduzida
+  a um nível aceitável.
+
+  5.3.4.14 For example, the failure of one item during a particular flight phase may be considered
+  to be major due to a temporary loss of function until the flight crew performs a manual
+  reconfiguration during the flight. But when this item is known to have failed on the ground,
+  prior to the departure, the consequence may be less critical for the crew, and the application
+  of the associated dispatch conditions can allow the classification to be reduced to an acceptable
+  level.
+
+  5.3.4.15 Por outro lado, algumas severidades que foram estabelecidas para fins de certificação
+  de tipo podem precisar ser complementadas ou aumentadas. Em particular, os efeitos sobre
+  a carga de trabalho da tripulação e a fadiga potencial precisam ser cuidadosamente avaliados.
+  Inclusive, a severidade de uma falha que pode ter sido considerada como tendo efeitos pequenos
+  (minor) em voo durante a certificação de tipo pode ser considerada como tendo mais do que
+  repercussões pequenas (minor) devido à operação continuada por vários voos em certas condições
+  operacionais. Alguns fatores agravantes (por exemplo, a quantidade de voos de exposição,
+  a duração do voo, regras de voo, operações especiais) às vezes precisarão ser mitigados
+  por limitações que normalmente não se aplicariam a uma configuração de aeronave completa
+  (por exemplo, apenas VFR diurno, em vez de VFR diurno e noturno, tipos de operações).
+
+  5.3.4.15 On the other hand, some severities that were set up for the purpose of type certification
+  may need to be complemented or increased. In particular, the effects on crew workload and
+  potential fatigue need to be carefully assessed. Indeed, the severity of a failure that
+  may have been assessed as having minor effects as an in-flight failure during the type certification
+  may be considered to have more than minor repercussions due to the continued operation for
+  several flights in some operational conditions. Some aggravating factors (e.g. the number
+  of flights of the exposure, the flight duration, flight rules, special operations) will
+  sometimes need to be mitigated by limitations that would normally not apply for a full-up
+  aircraft configuration (e.g. day VFR only, instead of day and night VFR, types of operations).
+
+  5.3.4.16 É importante também lembrar, no caso de condições de despacho MMEL que deixam a
+  aeronave a duas falhas de uma condição de falha catastrófica, que especial atenção deve
+  ser dada a combinações que envolvam uma falha que permaneça latente por mais de um voo.
+  Sempre que possível, tais combinações devem ser evitadas nas condições de despacho MMEL
+  (por exemplo, através de tarefas de verificação para eliminar a falha latente antes de cada
+  voo). Onde essas falhas latentes não forem evitadas, esse fato deve ser destacado na justificativa.
+
+  5.3.4.16 It is also important to recall that, for MMEL dispatch conditions that leave the
+  aircraft two failures away from a catastrophic failure condition, special attention must
+  be given to combinations that involve a failure that remains latent for more than one flight.
+  Whenever practical, such combinations should be avoided per MMEL dispatch conditions (e.g.
+  verification task clearing the latent failure prior to each flight). Where these latent
+  failures are not avoided, this fact must be highlighted in the justification.
+
+  5.3.4.17 E finalmente, para casos em que uma análise quantitativa detalhada seria normalmente
+  necessária, uma análise qualitativa simplesmente pode ser suficiente quando envolver sistemas
+  convencionais e simples e quando a aeronave não for certificada nas categorias transporte,
+  transporte regional (commuter) ou normal sob nível 4. Para mais informações a respeito,
+  consultar o Apêndice G.
+
+  5.3.4.17 Finally, for cases in which a detailed quantitative analysis would regularly be
+  required, a qualitative-only analysis may be sufficient for conventional and simple systems
+  when the aircraft is not certified as transport, commuter or level-4 normal category. Refer
+  to Appendix G for more information.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- failure
+- mmel
+- conditions
+- flight
+- that
+- falha
+- analysis
+- pode
+- condicoes
+- should
+- aeronave
+- aircraft
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

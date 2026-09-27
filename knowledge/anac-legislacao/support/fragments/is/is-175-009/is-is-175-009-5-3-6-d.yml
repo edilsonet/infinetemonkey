@@ -1,0 +1,31 @@
+id: is-is-175-009-5-3-6-d
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.6
+section_title: 'O campo “Operador aéreo” deve ser preenchido:'
+subsection_id: d
+cite: 5.3.6(d)
+title: 5.3.6(d)
+text: 'd) não existindo a designação IATA e OACI, nem o trigrama ANAC, o operador aéreo
+
+  deve preencher com “ZZZZ”; e'
+keywords:
+- artigos-perigosos
+- carga
+- aereo
+- operador
+- campo
+- designacao
+- existindo
+- iata
+- oaci
+- preencher
+- preenchido
+- trigrama
+- zzzz
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

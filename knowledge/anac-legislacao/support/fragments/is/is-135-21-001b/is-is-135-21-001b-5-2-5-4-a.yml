@@ -1,0 +1,47 @@
+id: is-is-135-21-001b-5-2-5-4-a
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.5.4
+section_title: Controle Técnico de Manutenção (CTM)
+subsection_id: a
+cite: 5.2.5.4(a)
+title: 5.2.5.4(a)
+text: 'a) O MGM deve descrever como será feito o controle da manutenção das aeronaves, motores,
+  rotores, hélices e componentes e equipamentos de emergência incluindo, no mínimo, os seguintes
+  itens:
+
+  I- A indicação da presente situação de partes com tempo de vida limitado, de cada célula,
+  motor, hélice, rotor e equipamentos;
+
+  II- O tempo desde a última revisão geral de cada item aplicável instalado em cada aeronave;
+
+  III- A indicação da presente situação de inspeções nas aeronaves, incluindo tempo desde
+  a última inspeção requerida pelo programa de manutenção;
+
+  IV- A situação corrente das diretrizes de aeronavegabilidade aplicáveis, incluindo data
+  e métodos de conformidade, se a diretriz envolve ações periódicas, tempo e data para a próxima
+  ação requerida; e
+
+  V- Uma lista atualizada de grandes alterações e grandes reparos de cada célula, motor, hélice,
+  rotor e equipamento.'
+keywords:
+- taxi-aereo
+- operacoes
+- cada
+- tempo
+- incluindo
+- manutencao
+- situacao
+- aeronaves
+- celula
+- controle
+- data
+- desde
+- equipamentos
+- grandes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

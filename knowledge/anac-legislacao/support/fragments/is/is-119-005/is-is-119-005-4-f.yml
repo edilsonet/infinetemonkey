@@ -1,0 +1,96 @@
+id: is-is-119-005-4-f
+kind: is
+document: is-119-005
+family: '119'
+section_id: '4'
+section_title: DEFINIÇÕES
+subsection_id: f
+cite: 4(f)
+title: 4(f)
+text: 'f) concentrados ou misturas aquecidos de água e fluido SAE Tipo IV.
+
+  4.5 Processo (de degelo/antigelo) de um passo - o fluído antigelo é usado para remover a
+
+  geada, gelo, lama, ou neve de uma aeronave de modo a proporcionar superfícies limpas, e
+  o
+
+  fluido permanece na aeronave para fornecer proteção contra a formação de geada ou gelo e
+
+  acumulação de neve ou lama. Esse processo é realizado com fluído antigelo aquecido.
+
+  4.6 Processo (de degelo/antigelo) de dois passos - este processo possui dois passos distintos.
+
+  O primeiro passo (degelo), para remover a geada, gelo, lama, ou neve de uma aeronave, é
+
+  seguido por um segundo passo (antigelo) com a aplicação separada de fluído antigelo. O
+
+  processo de degelo pode ser realizado por diferentes meios, como com energia
+
+  infravermelha, deixando a superfície limpa para aplicação do fluído de antigelo, fornecendo
+
+  proteção máxima antigelo.
+
+  4.7 Tempo de atuação (Holdover time - HOT) - o tempo estimado que o fluido de
+
+  degelo/antigelo permanece impedindo a formação de geada ou gelo e a acumulação de neve
+
+  nas superfícies protegidas do avião. O tempo de atuação tem início no começo da aplicação
+
+  final do fluido de degelo/antigelo e termina quando o fluido aplicado ao avião perde sua
+
+  eficácia (RBAC nº 121, parágrafo 121.629(c)(3)).
+
+  4.8 Verificação pré-decolagem - uma verificação das asas e de outras superfícies sensíveis
+  do
+
+  avião quanto à geada, gelo ou neve, dentro do tempo de atuação estabelecido para esse avião.
+
+  (RBAC nº 121, parágrafo 121.629(c)(4)). Pode ser feita observando-se superfícies
+
+  representativas através da cabine de comando, cabine de passageiros, ou fora da aeronave,
+
+  dependendo do tipo de aeronave e do programa aprovado pela ANAC.
+
+  4.9 Verificação de contaminação pré-decolagem - verificação para assegurar que asas,
+
+  superfícies de controle e outras superfícies críticas definidas no programa do detentor
+  deData de publicação: 9 de fevereiro de 2018 IS nº 119-005
+
+  Revisão A
+
+  certificado estão livres de geada, gelo ou neve. Essa verificação deve ser conduzida dentro
+
+  dos cinco minutos anteriores ao início da decolagem, devendo ser feita do lado de fora do
+
+  avião, exceto se o programa aprovado der outra solução” (RBAC nº 121, parágrafo
+
+  121.629(c)(4)). Busca-se verificar se as superfícies estão livres de todos os contaminantes
+
+  de congelamento. Trata-se de uma verificação após o HOT ter sido excedido.
+
+  4.10 Verificação de pós-degelo/antigelo - verificação multi-parte (pós degelo, antes do
+  antigelo
+
+  e antes do pushback/taxi), após a aplicação do procedimento de degelo, para assegurar que
+
+  todas as superfícies da aeronave estejam livres de contaminantes de congelamento.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- antigelo
+- degelo
+- fluido
+- superficies
+- verificacao
+- aeronave
+- geada
+- gelo
+- neve
+- aviao
+- processo
+- aplicacao
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-005.md

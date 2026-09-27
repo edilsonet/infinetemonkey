@@ -1,0 +1,44 @@
+id: rbac-rbac-108-emd-07-108-255-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.255'
+section_title: Implementação do Programa de Segurança do Operador Aéreo
+subsection_id: a
+cite: 108.255(a)
+title: 108.255(a)
+text: '(a) O operador aéreo deve adotar os meios e procedimentos previstos no seu Programa
+  do Segurança de Operador Aéreo (PSOA), o qual é definido pela ANAC por meio de Instrução
+  Suplementar (IS).
+
+  (1) Caso o operador aéreo pretenda implementar inclusão de medida de segurança ou procedimento
+  alternativo de segurança em relação ao disposto na IS, deverá informar previamente à ANAC
+  as alterações pretendidas para fins de aprovação.
+
+  (2) Na hipótese do parágrafo 108.255(a)(1), o operador aéreo deverá apresentar somente as
+  alterações pretendidas à ANAC, acompanhadas de justificativa.
+
+  (3) O meio ou procedimento alternativo apresentado deve garantir nível de segurança igual
+  ou superior ao estabelecido ao requisito aplicável ou concretizar o objetivo do procedimento
+  normalizado na IS.
+
+  (4) Previamente à exploração de serviço de transporte aéreo público, o operador aéreo deve
+  comprovar ter acesso ao conteúdo da IS que define seu PSOA.'
+keywords:
+- seguranca
+- operador
+- aereo
+- procedimento
+- alteracoes
+- alternativo
+- devera
+- meio
+- pretendidas
+- previamente
+- programa
+- psoa
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

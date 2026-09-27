@@ -1,0 +1,101 @@
+id: is-is-154-001-6-2-1-10-2-body
+kind: is
+document: is-154-001
+family: '154'
+section_id: 6.2.1.10.2
+section_title: As linhas interrompidas de entrada, virada e saída devem respeitar as dimensões
+  apresentadas na Figura 21.
+subsection_id: body
+cite: 6.2.1.10.2
+title: As linhas interrompidas de entrada, virada e saída devem respeitar as dimensões apresentadas
+  na Figura 21.
+text: '6.2.1.10.2 As linhas interrompidas de entrada, virada e saída devem respeitar as dimensões
+  apresentadas na Figura 21.
+
+
+  Figura 21 - Linhas interrompidas de entrada, virada e saída
+
+  6.2.1.10.3 É recomendável que, para evitar confusão, a identificação das posições de estacionamento
+  secundárias não siga a mesma ordem da identificação das posições principais. A Figura 22
+  apresenta duas possibilidades de numeração dos conjuntos de posição de estacionamento.
+
+
+  Figura 22 - Identificação de conjuntos de posição de estacionamento sobrepostos
+
+
+  Figura 23 - Exemplo de conjuntos de posições de estacionamento sobrepostas
+
+
+  Figura 24 - Exemplo de conjunto de posições de estacionamento sobrepostas
+
+  6.2.1.11 Em pátios de aeronaves dedicados exclusivamente à aviação geral, pode ser utilizada
+  a sinalização da Figura 25 para determinar as posições de estacionamento para aeronaves
+  de até 24 metros de envergadura (letra de código de referência B). As dimensões dessa sinalização
+  devem estar de acordo com a Tabela 4, conforme a aeronave crítica que utiliza a posição
+  de estacionamento.
+
+
+  Figura 25 - Posição de estacionamento para aeronave de aviação geral
+
+
+  Tabela 4 - Dimensões da sinalização horizontal de posição de estacionamento para aeronave
+  de aviação geral Letra do código da aeronave crítica A (m) A 4 B 7
+
+
+  6.2.1.11.1 O arranjo dessas posições no pátio deve garantir os espaçamentos de segurança
+  previstos na Tabela C-7 do RBAC n° 154. A Figura 26 apresenta uma disposição possível para
+  essa situação.
+
+
+  Figura 26 - Pátio de aeronaves dedicado à aviação geral
+
+  6.2.1.11.2 Nessas posições de estacionamento, pode ser necessário prover pontos de amarração
+  para evitar que as aeronaves sejam deslocadas pelo vento. Se implantados, esses dispositivos
+  não podem configurar obstáculos quando não estiverem em uso e devem seguir as diretrizes
+  específicas da NBR 10.855 da Associação Brasileira de Normas Técnicas.
+
+  6.2.2 [FC 154.303(a)(2)(iv)] - Para aumentar o tráfego de aeronaves nos pátios, pistas de
+  táxi de acesso ao de estacionamento de aeronaves (taxilanes) alternativas podem ser implementadas.
+  Nesses casos, para evitar confusão situacional do piloto, admite-se o uso das cores laranja
+  e azul para indicar as linhas de eixo das taxilanes alternativas, conforme exemplos da Figura
+  27. Quando houver apenas uma pista de táxi de acesso ao estacionamento de aeronaves, esta
+  deve ser amarela.
+
+  6.2.2.1 Usualmente, a taxilane principal (amarela) é destinada às aeronaves maiores, ao
+  passo que as taxilanes alternativas são destinadas às aeronaves menores. Como exemplificado
+  na Figura 27, pode-se prover uma taxilane principal para aeronaves até código E e taxilanes
+  alternativas para aeronaves até código C. Nessa situação, as taxilanes alternativas podem
+  ser utilizadas simultaneamente por aeronaves de até 36 metros de envergadura, enquanto a
+  taxilane principal pode ser utilizada por aeronaves de até 65 metros de envergadura. Quando
+  houver uma aeronave na taxilane principal, as alternativas não podem ser utilizadas.
+
+  6.2.2.2 A distância mínima entre os eixos de duas taxilanes alternativas, quando for possível
+  o uso concomitante delas, e a distância mínima entre o eixo da taxilane alternativa e um
+  objeto devem ser estabelecidas de acordo com a aeronave crítica que utiliza a pista de táxi
+  (ver colunas 12 e 13 da Tabela C-5 do RBAC 154).
+
+  6.2.2.3 Sinalizações horizontais de “MAX SPAN” (ver item 6.2.4.3 desta IS) devem ser dispostas
+  na entrada das taxilanes alternativas para indicar a envergadura máxima da aeronave que
+  pode utilizá-la, conforme Figura 27.
+
+
+  Figura 27 - Exemplo de utilização das cores laranja e azul e da sinalização de "MAX SPAN"
+  para pistas de táxi alternativas de acesso às posições de estacionamento'
+keywords:
+- seguranca-aeroportuaria
+- figura
+- aeronaves
+- estacionamento
+- alternativas
+- posicoes
+- aeronave
+- taxilanes
+- dimensoes
+- entrada
+- linhas
+- pode
+- posicao
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-001.md

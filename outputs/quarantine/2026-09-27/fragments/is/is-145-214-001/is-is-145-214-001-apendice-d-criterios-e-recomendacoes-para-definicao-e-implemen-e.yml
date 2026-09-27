@@ -1,0 +1,647 @@
+id: is-is-145-214-001-apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen-e
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen
+section_title: APÊNDICE D - CRITÉRIOS E RECOMENDAÇÕES PARA DEFINIÇÃO E IMPLEMEN-
+subsection_id: e
+cite: apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen(e)
+title: apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen(e)
+text: 'e) viabilizar a análise comparativa do desempenho da segurança operacional da própria
+  or-
+
+  ganização ao longo do tempo e/ou em relação à outras organizações atuantes na mesma
+
+  área/atividade.
+
+  D2.9. Recomendações para o desenvolvimento de uma sistemática de avaliação de desempenho
+  em
+
+  segurança operacional
+
+  D2.9.1. Nessa seção é apresentado um roteiro passo - a - passo para realizar a modelagem
+  e cons-
+
+  trução de uma sistemática de avaliação de desempenho organizacional, cuja utilização é re-
+
+  comendada para organizações que devem avaliar seu desempenho da segurança operacional.
+
+  1º passo - Identificação das dimensões do desempenho e objetos de mensuração:
+
+   Qual a definição de desempenho para a organização?
+
+   Quais procedimentos e/ou processos influenciam os resultados e impactos gerados
+
+  peal atividades da organização?
+
+   Quais são os pontos mais sensíveis ou condições latentes dentro de cada um desses
+
+  procedimentos e/u processos?
+
+   Quais tipos de dados e informações serão buscados para avaliar esses procedimentos
+
+  e/u processos?
+
+   Os dados e informações necessários estão disponíveis ou é factível buscá-los?
+
+  2º passo - Estabelecimento dos indicadores:
+
+   Quais tipos de indicadores (quantitativos ou qualitativos) serão utilizados?
+
+   Qual o comportamento esperado (maior-melhor, menor-melhor, igual-melhor, etc.)
+
+  para cada um dos indicadores?
+
+  3º passo - Análise e validação intermediária dos indicadores com as partes envolvidas:
+
+   Os indicadores propostos são de fato representativos dos procedimentos e/ou proces-
+
+  sos avaliados?
+
+   Os indicadores permitem uma visão global do desempenho da organização?
+
+   São necessários ajustes nos indicadores propostos?
+
+   Algum indicador poderia ser descartado sem prejuízo à avaliação de desempenho?
+
+   Algum indicador deveria ser incluído, a fim de aprimorar a avaliação de desempenho?
+
+  4º passo - Construção das fórmulas, métricas e estabelecimento das metas:Data de emissão:
+  8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+   Os indicadores propostos podem ser objetivamente expressos e computados?
+
+   Quais são as faixas de valores esperados (índices) para cada um dos indicadores?
+
+   Quais são as metas associadas a cada um dos indicadores?
+
+  5º passo - Definição dos responsáveis:
+
+   Quem são os responsáveis por coletar e processar os dados e informações necessárias
+
+  ao cômputo dos indicadores?
+
+   Quem são os responsáveis pela análise dos indicadores?
+
+   Quem são os responsáveis pela divulgação dos indicadores?
+
+   Quem são os responsáveis pelo acompanhamento dos indicadores?
+
+   Qual é a periodicidade de cada uma dessas atividades?
+
+  6º passo - Geração do sistema de coleta de dados:
+
+   Quais métodos ou ferramentas serão utilizados para coletar, processar e analisar os
+
+  indicadores?
+
+  7º passo - Ponderação e validação final dos indicadores com as partes envolvidas:
+
+   Os indicadores gerados são apropriados à mensuração dos objetivos da organização,
+
+  segundo consenso das partes envolvidas?
+
+   Os indicadores possuem pesos diferentes, ou seja, permitem avaliar o quanto cada pro-
+
+  cedimento e/ou processo impacta o desempenho organizacional?
+
+  8º passo - Mensuração dos resultados:
+
+   Os indicadores são gerados conforme planejado?
+
+  9º passo - Análise e interpretação dos indicadores:
+
+   Os indicadores fornecem um diagnóstico da organização?
+
+   Os resultados são analisados criticamente pela organização?
+
+   A análise crítica dos resultados aponta para necessidade de revisão da política, dos
+
+  objetivos ou das metas da organização?
+
+   A análise crítica dos resultados é levada em conta no processo de tomada de decisões
+
+  organizacionais?
+
+  10º passo - Comunicação dos resultados:
+
+   Os resultados do desempenho organizacional são comunicados através de toda a orga-
+
+  nização?
+
+   De que forma esses resultados afetam aqueles que desenvolvem quaisquer atividades
+
+  que impactam o desempenho da organização?Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  A figura a seguir apresenta o ciclo realizado pelo processo de monitoramento e medição de
+
+  desempenho organizacional utilizado no contexto do SGSO.
+
+  Figura 01 - Ciclo das atividades relacionadas à avaliação de desempenho organizacional
+
+  D2.10. Exemplo de modelagem e construção da sistemática de avaliação de desempenho em segu-
+
+  rança operacional para uma OM de pequeno porte/média complexidade.
+
+  Nessa seção é apresentado o desenvolvimento uma forma aceitável para modelagem e cons-
+
+  trução da sistemática de avaliação de desempenho em segurança operacional, tomando por
+
+  base uma OM de pequeno porte/média complexidade, conforme definido na subseção 5.2
+
+  desta IS.
+
+  D2.10.1. Descrição do contexto organizacional
+
+  Determinada OM aeronáutica, certificada para revisão geral de motores à reação, tal como
+
+  provedora de serviços da aviação civil, tem como objetivo estratégico-comercial ser uma
+
+  empresa capaz de exercer suas atividades de modo financeiramente sustentável e gerar
+
+  dividendos para as partes interessadas. Por força da regulamentação vigente, o exercício
+
+  de tal atividade deve contribuir de modo efetivo e eficaz para a segurança operacional da
+
+  aviação civil. Os operadores aéreos, por sua vez, contratam seus serviços com o propósito
+
+  de manter seus motores em condições aeronavegáveis, conforme requerido pela regula-
+
+  mentação.
+
+  Com o objetivo mensurar sua participação no cenário acima descrito, tal organização deve
+
+  ser capaz de avaliar seu desempenho da segurança operacional, conforme requerido pelaData
+  de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  operacionalização de seu SGSO, recentemente implantado. A fim de avaliar suas três ba-
+
+  ses de manutenção, localizadas no Rio de Janeiro (RJ), São Paulo (SP) e Manaus (MN),
+
+  a organização partiu de uma base de dados referentes aos últimos cinco anos, porém sem
+
+  nenhum tipo de tratamento. Ao analisá-los, a organização obteve um diagnóstico de sua
+
+  situação atual, utilizado para orientar a modelagem e a construção de sua sistemática de
+
+  avaliação de desempenho da segurança operacional.
+
+  As três bases possuem as seguintes características:
+
+   Base RJ - 70% do volume anual de serviços corresponde a shop visit, manutenção
+
+  on-condition e pequenos reparos de motores de helicópteros de operadores off-shore
+
+  e operadores aéreos públicos (polícias, corpo de bombeiros, defesa civil, etc).
+
+   Base SP - 80% do volume anual de serviços corresponde a shop visit, manutenção
+
+  on-condition e pequenos reparos de motores de aeronaves executivas e helicópteros
+
+  de operadores aéreos públicos (polícias, corpo de bombeiros, defesa civil, etc).
+
+   Base MN - 90% do volume anual de serviços corresponde a shop visit, manutenção
+
+  on-condition e serviços fora de sede (áreas remotas) de motores de helicópteros de
+
+  operadores aéreos públicos (IBAMA, polícias, corpo de bombeiros, defesa civil,
+
+  etc.).
+
+  Considerando que a complexidade desses serviços e que o efetivo técnico das três bases
+
+  totaliza 48 funcionários, a organização foi classificada como pequeno porte/média com-
+
+  plexidade, segundo os critérios de escalabilidade estabelecidos na seção 5.2 desta IS.
+
+  D2.10.2. Modelagem da sistemática de avaliação de desempenho em segurança operacional
+
+  Com o propósito de estabelecer sua própria definição de desempenho da segurança ope-
+
+  racional, a organização adaptou o conceito da Cadeia de Valor para descrever e represen-
+
+  tar suas atividades, chegando ao seguinte resultado:Data de emissão: 8 de junho de 2018.
+  IS nº 145.214-001
+
+  Revisão B
+
+  Figura 02 - Conceito da cadeia de valor desenvolvido pela organização
+
+  Essa abordagem permitiu que a organização visualizasse qual é a sua contribuição para o
+
+  segurança operacional do ambiente enfrentado por seus clientes. Partindo dela, a organi-
+
+  zação definiu, nos seguintes termos, seu desempenho da segurança operacional, em fun-
+
+  ção da efetividade e da eficácia dos seus processos e procedimentos que impactam a se-
+
+  gurança operacional:
+
+  “Entrega de motores revisados em condição efetivamente aeronavegável, de acordo com
+
+  a regulamentação em vigor e em atendimento satisfatório do escopo dos serviços contra-
+
+  tados e demais condições estabelecidas pelos clientes, visando à segurança operacio-
+
+  nal.”
+
+  A organização também mapeou o processo de revisão dos motores, conforme fluxograma
+
+  apresentado a seguir. A título de exemplo, foram identificados nesse fluxograma os pon-
+
+  tos de coleta de dados referentes a três indicadores de desempenho em segurança opera-
+
+  cional adotados pela organização.Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Fluxograma 01 - Processo de revisão de motoresData de emissão: 8 de junho de 2018. IS nº
+  145.214-001
+
+  Revisão B
+
+  D2.10.3. Estabelecimento dos indicadores de desempenho da segurança operacional
+
+  Partindo dessa definição de desempenho da segurança operacional, a organização procu-
+
+  rou responder às seguintes questões:
+
+  - Primeiro - Quais são os fatores (ex.: insumos), procedimentos e/ou processos orga-
+
+  nizacionais que afetam a capacidade de entregar motores em condições efetivamente
+
+  aeronavegáveis?
+
+  - Segundo - Quais são os fatores (ex.: insumos), procedimentos e/ou processos orga-
+
+  nizacionais que afetam a capacidade de atender satisfatoriamente o escopo dos ser-
+
+  viços contratados e demais condições de segurança operacional estabelecidas pelos
+
+  clientes?
+
+  Após análise dessas questões por todos os gerentes, supervisores e demais colaboradores
+
+  envolvidos no processo de revisão e aprovação para retorno ao serviço (APRS), foram
+
+  estabelecidos indicadores intermediários de base mensal para monitorar as seguintes ati-
+
+  vidades consideradas críticas:
+
+   qualificação e proficiência da mão-de-obra recém-contratada para revisão geral de
+
+  motores;
+
+   percentual de cumprimento do programa de capacitação continuada para o pessoal
+
+  de revisão geral de motores;
+
+   percentual de cumprimento do programa de manutenção preventiva de instalações,
+
+  equipamentos, instrumentos e ferramentas, conforme aplicável;
+
+   percentual de partes ou materiais aeronáuticos impróprios para o uso e que foram
+
+  disponibilizados para a revisão de motores, em função de falhas no procedimento de
+
+  inspeção de recebimento de partes e materiais;
+
+   percentual de motores cujo escopo de serviço foi aumentado, em função de falhas no
+
+  delineamento inicial;
+
+   percentual de manuais técnicos e manuais de procedimentos desatualizados que fo-
+
+  ram encontrados disponíveis para o uso durante as auditorias internas da organização
+
+  ou inspeções rotineiras dos supervisores de cada setor;
+
+   percentual de atividades/tarefas reprovadas pelos inspetores da qualidade.Data de emissão:
+  8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+   O cômputo e a análise desses indicadores foram essenciais para que a organização
+
+  pudesse avaliar e tratar satisfatoriamente todos os fatores relacionados ao desempe-
+
+  nho da segurança operacional, que em cumprimento ao estabelecido nas alíneas “c”,
+
+  “d” e “e” da subseção 4.4 desta IS, é parcialmente mensurado através dos seguintes
+
+  indicadores de base mensal:
+
+   percentual de motores retrabalhados em OM antes da emissão da aprovação para re-
+
+  torno ao serviço e liberação dos mesmos para os operadores, devido à falhas ao longo
+
+  do processo de revisão e reprovados no banco de provas;
+
+   percentual de motores retrabalhados em OM após a emissão da aprovação para re-
+
+  torno ao serviço e liberação dos mesmos para os operadores, em função da não acei-
+
+  tação dos itens durante testes nas aeronaves executados pelos operadores; e
+
+   percentual de motores retrabalhados em OM após a emissão da aprovação para re-
+
+  torno ao serviço e liberação dos mesmos para os operadores, em função das dificul-
+
+  dades em serviço experimentadas pelos operadores.
+
+  Para fins de padronização, a organização adotou a seguinte nomenclatura para esses três
+
+  indicadores:
+
+   MRBP - percentual mensal de motores reprovados no banco de provas antes da
+
+  APRS e retrabalhados em OM;
+
+   MRTA - percentual mensal de motores reprovados retrabalhados em OM, devido
+
+  atestes nas aeronaves pelos operadores com resultados insatisfatórios; e
+
+   MRDS - percentual mensal de motores reprovados e retrabalhados em OM, devido
+
+  às dificuldades em serviço.
+
+  Esses três indicadores são de cômputo simples, pois são alimentados pela razão entre o
+
+  número de motores reprovados e o número total de motores revisados ao longo de cada
+
+  mês.
+
+  As partes envolvidas nessa discussão preliminar chegaram ao consenso de que este grupo
+
+  de indicadores, além de cumprir com o requisito aplicável, era suficiente para avaliar o
+
+  desempenho da segurança operacional da organização.
+
+  D2.10.4. Estabelecimento das metas da segurança operacionalData de emissão: 8 de junho de
+  2018. IS nº 145.214-001
+
+  Revisão B
+
+  Analisando os dados referentes aos serviços executados nos últimos cinco anos, a orga-
+
+  nização obteve a média dos motores revisados ao longo desse período e que foram repro-
+
+  vados pelos motivos acima descritos, e em razão disso, retrabalhados em OM. Com base
+
+  nos resultados obtidos foram estabelecidas as seguintes metas para cada uma das bases:
+
+   Meta M1 - Ao final dos próximos três anos, reduzir em 70% em relação à média dos
+
+  últimos cinco anos, o número de motores reprovados antes da APRS e retrabalhados
+
+  em OM;
+
+   Meta M2 - Ao final dos próximos três anos, reduzir em 70% em relação à média dos
+
+  últimos cinco anos, o número de motores reprovados e retrabalhados em OM, devido
+
+  às inspeções ou testes nas aeronaves pelos operadores; e
+
+   Meta M3 - Ao final dos próximos três anos, reduzir em 90% em relação à média dos
+
+  últimos cinco anos, o número de motores reprovados e retrabalhados em OM, devido
+
+  às dificuldades em serviço relatadas por operadores logo após execução dos serviços.
+
+  D2.10.5. Definição dos responsáveis
+
+  Com relação aos responsáveis pela coleta e processamento dos dados e informações que
+
+  compõem os indicadores, a organização definiu o seguinte:
+
+  Indica-
+
+  dor
+
+  Meta associada ao
+
+  indicador
+
+  Prazo para coleta e
+
+  processamento dos da-
+
+  dos
+
+  Responsável
+
+  MRBP Meta M1
+
+  Até o 2º dia útil do mês
+
+  subsequente à medição.
+
+  Chefe do Setor de Qua-
+
+  lidade -
+
+  Inspetor Antônio Carlos
+
+  MRTA Meta M3
+
+  Chefe do Setor de Su-
+
+  porte Técnico ao Cli-
+
+  ente - Supervisor João
+
+  Pedro
+
+  MRDS Meta M3
+
+  Chefe do Setor de Su-
+
+  porte Técnico ao Cli-
+
+  ente - Supervisor João
+
+  Pedro
+
+  Tabela 01 - Composição de indicadores
+
+  Com relação aos responsáveis pela análise e divulgação dos resultados alcançados, orga-
+
+  nização definiu o seguinte:Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Indica-
+
+  dor
+
+  Meta associada ao
+
+  indicador
+
+  Prazo para análise e di-
+
+  vulgação dos resultados Responsável
+
+  MRBP Meta M1
+
+  Até o 5º dia útil do mês
+
+  subsequente à medição.
+
+  RT
+
+  Eng.Pedro Henrique
+
+  MRTA Meta M3 RSO
+
+  Eng. Marco Aurélio
+
+  MRDS Meta M3 RSO
+
+  Eng. Marco Aurélio
+
+  Tabela 02 - Exemplo por responsabilização por resultados interpretados de indicadores
+
+  Também foi decidido que o RSO é responsável por manter o GR atualizado com respeito
+
+  ao comportamento dos indicadores e alcance das metas.
+
+  D2.10.6. Geração do sistema de coleta de dados
+
+  Como os três indicadores são de percentuais, não requerem mais do simples planilhas
+
+  eletrônicas para seu registro, cômputo e processamento. Logo, a organização optou por
+
+  utilizar a planilha de cálculo da qual já possui licença de utilização comercial.
+
+  D2.10.7. Ponderação e validação dos indicadores
+
+  Todo esse desenvolvimento da sistemática da avaliação de desempenho em segurança
+
+  operacional foi apresentado ao GR, que em reunião com os gerentes e chefes dos setores
+
+  envolvidos, aprovou sua utilização. A única alteração incorporada mediante consenso foi
+
+  feita pelo RT. Ele recomendou que os indicadores deveriam ter pesos diferentes, uma vez
+
+  que através deles é avaliado o impacto do trabalho da OM sobre a segurança operacional
+
+  de seus clientes em situações de criticidade diferentes.
+
+  O RT argumentou que problemas detectados após a liberação do motor, em geral são mais
+
+  críticos do que aqueles detectados com o motor ainda na OM, uma vez que aquela situa-
+
+  ção traz consequências para os operadores e para a própria OM. Além disso, as inspeções
+
+  e testes dos motores realizados pelos operadores antes da liberação das aeronaves são
+
+  uma defesa adicional. Quando essa defesa não funciona e o problema de um motor só é
+
+  detectado diante de uma dificuldade em serviço, essa vem a ser a situação mais crítica a
+
+  ser considerada. Considerando esse aspecto da criticidade dos eventos, foram atribuídos
+
+  pesos aos indicadores.
+
+  Devido a isso, o RSO ainda propôs a inclusão de um indicador geral de desempenho da
+
+  segurança operacional, denominado IGDSO. Desse modo, chegou-se a seguinte formata-
+
+  ção final para o conjunto de indicadores da OM:Data de emissão: 8 de junho de 2018. IS nº
+  145.214-001
+
+  Revisão B
+
+  Indica-
+
+  dor Peso
+
+  MRBP 2
+
+  MRTA 3
+
+  MRDS 5
+
+  IGDSO
+
+  𝐼𝐺𝐷𝑆𝑂
+
+  = 𝑀𝑅𝐵𝑃 𝑥 2 + 𝑀𝑅𝑇𝐴 𝑥 3 + 𝑀𝑅𝐷𝑆 𝑥 5
+
+  10
+
+  Tabela 03 - Conjunto de indicadores da OM
+
+  D2.10.8. Mensuração dos resultados
+
+  Após a aprovação final da sistemática de avaliação de desempenho da segurança opera-
+
+  cional por parte do GR, o modelo então concebido foi colocado em “fase de teste” durante
+
+  os seis primeiros meses. Ao final desse período foi convocada uma reunião de avaliação
+
+  dessa sistemática com todas as partes envolvidas no seu desenvolvimento e operaciona-
+
+  lização. Chegou-se à conclusão de que tudo estava funcionando tal como esperado. Po-
+
+  rém, os dados obtidos ainda eram muito elementares, e seria necessário “rodar o sistema”
+
+  por mais algum tempo, a fim de obter dados mais consistentes para subsidiar as decisões
+
+  gerenciais a respeito da segurança operacional.
+
+  D2.10.9. Análise e interpretação dos indicadores
+
+  Transcorrido o primeiro dos três anos estabelecidos inicialmente para o alcance das me-
+
+  tas, o RSO convocou a primeira reunião geral para avaliação dos resultados obtidos, apre-
+
+  sentados a seguir para cada uma das bases de manutenção.
+
+  Análise individual do desempenho da segurança operacional da Base RJ.
+
+  A tabela a baixo apresenta os índices alcançados pelos indicadores da Base RJ:
+
+  Tabela 04 - Índice Base RJ
+
+  Mês
+
+  Indicador jan fev mar abr mai jun jul ago set out nov dez
+
+  MRBP (em %) 5 7 9 5 4 5 3 7 8 6 5 8
+
+  MRTA(em %) 6 6 6 6 4 5 4 4 5 5 4 4
+
+  MRDS (em %) 2 4 4 5 4 9 7 5 8 5 5 9
+
+  IGDSO 3,8 5,6 6,4 5,1 4,0 6,8 4,9 5,8 7,7 5,2 4,7 7,3Data de emissão: 8 de junho de 2018.
+  IS nº 145.214-001
+
+  Revisão B'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- indicadores
+- desempenho
+- motores
+- seguranca
+- organizacao
+- operacional
+- revisao
+- operadores
+- resultados
+- emissao
+- avaliacao
+- analise
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

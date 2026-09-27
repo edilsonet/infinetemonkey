@@ -1,0 +1,41 @@
+id: is-is-00-001-b1-2-l
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.2
+section_title: SISTEMAS
+subsection_id: l
+cite: B1.2(l)
+title: B1.2(l)
+text: '(l) SISTEMAS DE TREM DE POUSO/FREIOS/PNEUS
+
+  I- Fogo nos freios;
+
+  II- Perda significativa da ação dos freios;
+
+  III- Frenagem assimétrica alterando a trajetória pretendida;
+
+  IV- Falha no sistema de extensão do trem de pouso por gravidade (free fall), inclusive du-
+
+  rante ensaios e testes;
+
+  V- Extensão ou retração não comandada das portas dos trens de pouso;
+
+  VI- Estouros múltiplos de pneus.'
+keywords:
+- freios
+- pouso
+- extensao
+- pneus
+- sistemas
+- trem
+- acao
+- alterando
+- assimetrica
+- comandada
+- ensaios
+- estouros
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

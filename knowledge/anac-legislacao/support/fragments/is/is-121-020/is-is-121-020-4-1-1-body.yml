@@ -1,0 +1,142 @@
+id: is-is-121-020-4-1-1-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: 4.1.1
+section_title: 'terreno montanhoso: área cujo perfil do terreno sofra modificações que excedam
+  900m (3.000 pés) de elevação dentro de um raio de 18,5km (10 NM).'
+subsection_id: body
+cite: 4.1.1
+title: 'terreno montanhoso: área cujo perfil do terreno sofra modificações que excedam 900m
+  (3.000 pés) de elevação dentro de um raio de 18,5km (10 NM).'
+text: '4.1.1 terreno montanhoso: área cujo perfil do terreno sofra modificações que excedam
+  900m (3.000 pés) de elevação dentro de um raio de 18,5km (10 NM).
+
+  4.2 Lista de abreviaturas:
+
+  AC - circular de assessoramento (advisory circular)
+
+  AEO - todos os motores operacionais (all engine operative)
+
+  AFE - altura em relação a elevação do aeródromo/pista (above field elevation)
+
+  AFM - manual de voo aprovado (aircraft flight manual ou aeroplane flight manual)
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  AOM - manual de operações da aeronave (aircraft operating manual)
+
+  ASDA - distância disponível para aceleração e parada (accelerate-stop distance available)
+
+  CDL - lista de desvios de configuração (configuration deviation list)
+
+  CFR - código de regulamentos federais [dos Estados Unidos] (Code of Federal Regulations)
+
+  DECEA - Departamento de Controle do Espaço Aéreo
+
+  DOV - despachante operacional de voo
+
+  EGPWS - sistema de alerta de proximidade do solo melhorado (enhanced ground proximity warning
+  system)
+
+  EOSID - procedimento de saída por instrumentos para voo com motor inoperante (engine out
+  standard instrument departure)
+
+  EO - especificações operativas
+
+  FAA - Federal Aviation Administration
+
+  FAF - fixo de aproximação final (final approach fix)
+
+  FAP - ponto de aproximação final (final approach point)
+
+  FWC - computador de alerta de voo (flight warning computer)
+
+  GCTA - Gerência de Operações de Empresas de Transporte Aéreo - 121
+
+  IAC - carta de aproximação por instrumentos (instrument approach chart)
+
+  IFR - regras de voo por instrumentos (instrument flight rules)
+
+  IMC - condições meteorológicas de voo por instrumentos (instrument meteorological conditions)
+
+  IS - Instrução Suplementar
+
+  LDA - distância disponível para pouso (landing distance available)
+
+  MDA - altitude mínima de descida (minimum descente altitude)
+
+  MDR - Master difference requirements
+
+  MEA - altitude mínima em rota em voo IFR
+
+  MEL - lista de equipamentos mínimos (minimum equipment list)
+
+  MGM - manual geral de manutenção
+
+  MGO - manual geral de operações
+
+  MOCA - altitude mínima livre de obstáculos
+
+  NOTAM - aviso aos aeronavegantes (notice to airman)
+
+  OACI - Organização da Aviação Civil Internacional
+
+  ODR - Operator difference requirements
+
+  OEI - um motor inoperante (one engine inoperative)
+
+  PAADV - programa de acompanhamento e análise de dados de voo
+
+  PIC - piloto em comando (pilot in command)
+
+  PTO - programa de treinamento operacional
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  RESA - área de segurança de fim de pista (runway end safety area)
+
+  SBRJ - Código OACI do Aeroporto Santos Dumont, no Rio de Janeiro-RJ
+
+  SBSP - Código OACI do Aeroporto de Congonhas, em São Paulo-SP
+
+  SPO - Superintendência de Padrões Operacionais
+
+  TCAS - sistema anticolisão de bordo (traffic alert and collision avoidance system)
+
+  TODA - distância disponível para decolagem (take-off distance available)
+
+  TORA - pista disponível para corrida de decolagem (take-off run available)
+
+  TVD - trajetória visual definida
+
+  VASIS - sistema visual indicador de rampa de aproximação (visual approach slope indicator
+  system)
+
+  VFR - regras de voo visual (visual flight rules)
+
+  VMC - condições meteorológicas de voo visual (visual meteorological conditions)
+
+  VMCA - velocidade mínima de controle no ar (minimum control speed in the air)
+
+  VMCG - velocidade mínima de controle no solo (minimum control speed on the ground)'
+keywords:
+- transporte-aereo
+- operacoes
+- manual
+- visual
+- terreno
+- area
+- flight
+- minima
+- altitude
+- approach
+- aproximacao
+- available
+- disponivel
+- elevacao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

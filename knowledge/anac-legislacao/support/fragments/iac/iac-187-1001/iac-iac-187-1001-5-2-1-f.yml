@@ -1,0 +1,34 @@
+id: iac-iac-187-1001-5-2-1-f
+kind: iac
+document: iac-187-1001
+family: '187'
+section_id: 5.2.1
+section_title: DEPÓSITO VIA DOC (Documento de Operação de Crédito) - (poderá ser efetuado
+  de qualquer
+subsection_id: f
+cite: 5.2.1(f)
+title: 5.2.1(f)
+text: 'f) Nome do destinatário: Neste campo, informe apenas um dos códigos seguintes:
+
+  12003300001220809 (para serviços de inspeção, fiscalização, taxas, emolumentos e for-
+
+  necimentos de editais), ou 12003300001220817 (para multas), ou 12003300001107085
+
+  (para adicional tarifário), conforme a finalidade do serviço pretendido;'
+keywords:
+- adicional
+- campo
+- codigos
+- credito
+- deposito
+- destinatario
+- documento
+- editais
+- efetuado
+- emolumentos
+- finalidade
+- fiscalizacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-187-1001.md

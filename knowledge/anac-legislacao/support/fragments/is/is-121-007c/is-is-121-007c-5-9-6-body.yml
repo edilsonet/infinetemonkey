@@ -1,0 +1,148 @@
+id: is-is-121-007c-5-9-6-body
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.9.6
+section_title: Avaliação das diferenças
+subsection_id: body
+cite: 5.9.6
+title: Avaliação das diferenças
+text: '5.9.6 Avaliação das diferenças
+
+  5.9.6.1 O relatório de avaliação operacional da ANAC contém MDR para as variantes envolvidas.
+  Quando um relatório de avaliação operacional foi publicado pela ANAC e contém MDR para as
+  variantes envolvidas, o treinamento de diferenças proposto pelo operador deve cumprir os
+  requisitos do relatório de avaliação operacional. Os operadores devem usar tabelas de Requisitos
+  de Diferença do Operador (ODR) para mostrar como o programa aborda diferenças através de
+  descrições dos métodos de treinamento e exames para cada variante. As tabelas ODR fornecem
+  um meio uniforme para os operadores gerenciarem de forma abrangente o treinamento de diferenças
+  e fornecem uma base para a aprovação da ANAC. Os ODR devem cumprir e ser tão ou mais restritivos
+  do que os MDR e outras recomendações do relatório de avaliação operacional.
+
+  5.9.6.2 O relatório de avaliação operacional da ANAC não existe ou não contém MDR para as
+  variantes envolvidas. O operador que pretende propor treinamento de diferenças para o qual
+  um relatório de avaliação operacional não foi publicado pela ANAC ou não contém MDR para
+  as variantes envolvidas deve enviar uma análise de diferenças realizada pelo próprio ou
+  por outra parte qualificada (como o fabricante ou outro operador). Relatórios de avaliação
+  operacional publicados por outras autoridades de aviação civil devem ser usados como referência,
+  com prioridade para o relatório publicado pela autoridade de aviação civil de certificação
+  primária do modelo da aeronave. A análise pode assumir qualquer forma, desde que identifique
+  com precisão todas as diferenças de projeto e manobras que afetem as características do
+  voo, as habilidades e/ou procedimentos dos tripulantes de voo. Um meio aceitável de elaborar
+  uma análise de diferenças é construir um currículo para a aeronave base e identificar cada
+  item do currículo em que há uma diferença (veja exemplo da Figura 16).
+
+
+  AERONAVE BASE
+
+  VARIANTE DA AERONAVE
+
+  Áreas de Sistemas da Aeronave
+
+  Sistema hidráulico
+
+
+  • Bombas
+
+  Pneumática excluída; elétrica adicionada
+
+  • Abastecimento do sistema
+
+  Sem mudança
+
+  • Componentes do sistema A
+
+  Yaw dumper adicionado
+
+  • Componentes do Sistema B
+
+  Excluído
+
+  • RAT
+
+  Tempo da bomba elétrica
+
+  • Limitações
+
+  Yaw dumper desligado abaixo de 100 pés
+
+  Sistema elétrico
+
+  Sem mudança
+
+  Sistema de ar condicionado
+
+  Sem mudança
+
+  Áreas de Integração de Sistemas
+
+  Procedimentos normais
+
+
+  • Sistema de Navegação Inercial
+
+  Novos procedimentos
+
+  Procedimentos não-normais
+
+
+  • Perda de fluido hidráulico
+
+  Sem mudança
+
+  • Falha na bomba hidráulica
+
+  Procedimentos diferentes
+
+  • Superaquecimento do fluido hidráulico
+
+  Sem mudança
+
+  • Sistema elétrico
+
+  Sem mudança
+
+  Manobras e Procedimentos do Treinamento de Voo
+
+  Procedimentos normais
+
+  Procedimentos diferentes
+
+  Pré-voo
+
+  Diferenças
+
+  Aproximação sem flap
+
+  Procedimentos diferentes
+
+  Despressurização
+
+  Sem mudança
+
+  Aproximação com motor inoperante
+
+  Procedimentos diferentes
+
+
+  Figura 16 - Exemplo de planilha de diferenças'
+keywords:
+- transporte-aereo
+- operacoes
+- diferencas
+- avaliacao
+- procedimentos
+- sistema
+- mudanca
+- operacional
+- relatorio
+- aeronave
+- treinamento
+- contem
+- diferentes
+- envolvidas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

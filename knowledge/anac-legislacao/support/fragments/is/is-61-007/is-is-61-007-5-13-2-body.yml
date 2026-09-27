@@ -1,0 +1,45 @@
+id: is-is-61-007-5-13-2-body
+kind: is
+document: is-61-007
+family: '61'
+section_id: 5.13.2
+section_title: Caso sejam detectadas irregularidades no treinamento da empresa, a situação
+  de NRT será
+subsection_id: body
+cite: 5.13.2
+title: Caso sejam detectadas irregularidades no treinamento da empresa, a situação de NRT
+  será
+text: '5.13.2 Caso sejam detectadas irregularidades no treinamento da empresa, a situação
+  de NRT será
+
+  alterada para “Pendente”. Entretanto, se houver no SISHAB uma SAE que referencia a
+
+  NRT com problemas, para alteração da situação da NRT, haverá também a alteração da
+
+  situação da SAE para “Pendências no treinamento”. Se houver NEC referenciando a
+
+  NRT e a SAE em questão, a situação da NEC também será alterada pela ANAC para
+
+  “Pendências no treinamento”.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- situacao
+- treinamento
+- caso
+- detectadas
+- empresa
+- irregularidades
+- sejam
+- alteracao
+- alterada
+- houver
+- pendencias
+- entretanto
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-007.md

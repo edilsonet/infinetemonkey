@@ -1,0 +1,70 @@
+id: is-is-120-016-7-12-3-2-b
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.12.3.2
+section_title: Usando um Programa de Auditoria.
+subsection_id: b
+cite: 7.12.3.2(b)
+title: 7.12.3.2(b)
+text: 'b) Em complemento às auditorias, a coleta de dados operacionais suporta a medição da
+  eficácia (resultados do programa). Dentre esses dados, estão: acidentes/incidentes, atrasos
+  e cancelamentos por motivos de manutenção, falha de motores em voo, pousos não programados,
+  desempenho de motor, reportes de pilotos e falhas não confirmadas de componentes ou peças
+  removidos.
+
+  7.12.3.3 Análise de dados. Na segunda etapa, a empresa analisará os dados para identificar
+  pontos fracos do Programa de Manutenção. A análise de dados deve ser realizada por indivíduos
+  experientes e/ou treinados como analistas. Um de seus principais objetivos não é apenas
+  identificar um ponto fraco, mas determinar a causa raiz do problema. É aqui que o conhecimento
+  sobre fatores humanos se torna crítico.
+
+  7.12.3.4 Desenvolvimento da Ação Corretiva. Com base nos resultados da análise, o terceiro
+  passo é desenvolver ações corretivas, se necessário, levando novamente em conta fatores
+  humanos para que elas sejam efetivas. Uma vez que a empresa determine a ação corretiva,
+  esta será desenvolvida e implementada como parte de um Plano de Ação Corretiva (PAC).
+
+  7.12.3.5 Conduzir um Processo de Medição de Acompanhamento (Follow-up). Para fechar o loop,
+  a quarta etapa do SASC da empresa fará com que ela conduza um processo de acompanhamento
+  usando vigilância e análise para verificar se a ação corretiva efetivamente corrigiu a deficiência
+  que foi identificada. A empresa pode organizar esse processo de coleta de dados especificamente
+  para a questão de interesse, ou pode torná-lo uma parte de sua vigilância continuada, que
+  é a primeira etapa do SASC da empresa. Determinar se a empresa precisa de um procedimento
+  especial de coleta de informações é parte da análise que a empresa realiza na terceira etapa.
+
+  7.12.3.6 Aspectos da Vigilância. Observe que tanto a vigilância (supervisão) inicial quanto
+  a de acompanhamento podem e devem ter aspectos proativos e reativos. No caso de auditorias
+  de sistemas e procedimentos, bem como de ações específicas, a análise dos resultados da
+  auditoria pode identificar pontos fracos em um processo. Corrigir esses pontos fracos antes
+  que um problema ocorra é uma abordagem proativa. Uma auditoria também pode revelar uma ação
+  de manutenção não realizada ou inadequadamente executada. Investigar as evidências e corrigir
+  o problema imediato é um processo reativo. Desenvolver e implementar uma ação corretiva
+  para evitar um evento futuro semelhante é importante para melhorar o Programa de Manutenção.
+
+  7.12.4 Decisões Baseadas no Risco. Todos os SASC eficazes levam em conta a necessidade de
+  gerenciar o risco a um nível aceitável, bem como as limitações práticas que devem ser enfrentadas
+  ao abordar as deficiências encontradas. Consequentemente, a empresa deve estabelecer prioridades
+  e tomar decisões para planejar auditorias e outras atividades de coleta de informações,
+  analisar dados e selecionar e implementar ações corretivas. A empresa deve vincular o estabelecimento
+  de tais prioridades diretamente a um processo de avaliação de risco para que o Programa
+  de Manutenção resultante atinja seus objetivos.'
+keywords:
+- antidrogas
+- saude
+- empresa
+- dados
+- acao
+- analise
+- processo
+- corretiva
+- manutencao
+- programa
+- coleta
+- etapa
+- pode
+- vigilancia
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

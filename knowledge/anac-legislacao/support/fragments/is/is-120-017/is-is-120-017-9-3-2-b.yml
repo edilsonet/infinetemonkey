@@ -1,0 +1,63 @@
+id: is-is-120-017-9-3-2-b
+kind: is
+document: is-120-017
+family: '120'
+section_id: 9.3.2
+section_title: Amostragem de dados. Em cumprimento com as obrigações do Sistema de Análise
+  e
+subsection_id: b
+cite: 9.3.2(b)
+title: 9.3.2(b)
+text: 'b) a inclusão de um ou mais dos métodos seguintes ao definir um método de seleção de
+
+  dados. Dados devem ser selecionados a partir do arranjo de dados disponíveis gerados a
+
+  partir de critérios como:
+
+  I - um número definido de aeronaves (tipicamente utilizado com frotas
+
+  pequenas);
+
+  II - uma porcentagem do tamanho da frota (por exemplo, uma porcentagem
+
+  mínima de aeronaves selecionadas aleatoriamente), mais aeronaves fora
+
+  da curva pelos critérios aplicáveis conforme o parágrafo 9.3.2.5 desta IS,
+
+  item a) (por exemplo, alta ou baixa utilização, alto ou baixo número de
+
+  horas de voo, alta ou baixa ciclagem, etc);
+
+  III - uma fórmula estatística (primariamente usada para análise quantitativa de
+
+  dados); e
+
+  IV - dados coletados ao longo de um período definido. Aqui, a amostra
+
+  consiste em dados coletados ao longo do período especificado, ao invés
+
+  de todos os dados que possam estar disponíveis ou que já tenham sido
+
+  coletados (particularmente útil ao se identificar tendências de
+
+  desempenho);'
+keywords:
+- antidrogas
+- saude
+- dados
+- aeronaves
+- coletados
+- alta
+- analise
+- baixa
+- criterios
+- definido
+- disponiveis
+- exemplo
+- longo
+- numero
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

@@ -1,0 +1,80 @@
+id: is-is-135-008a-5-9-4-e
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.9.4
+section_title: 'Os procedimentos e responsabilidades normais devem incluir, pelo menos:'
+subsection_id: e
+cite: 5.9.4(e)
+title: 5.9.4(e)
+text: 'e) aproximação, preparação para pouso e briefing:
+
+  I - comunicação com a tripulação (se aplicável);
+
+  II - call-outs (10.000, se aplicável, e altitude mínima de segurança);
+
+  III - uso do automatismo/piloto automático;
+
+  IV - procedimentos para ajuste dos rádios para aproximação;
+
+  V - procedimentos para ajuste do FMS/GNSS (se aplicável);
+
+  VI - procedimento para ajuste e conferência dos altímetros (cheque cruzado);
+
+  VII - execução, leitura e conferência dos itens da lista de verificação (checklist de aproximação);
+
+  VIII - critérios de aproximação estabilizada (configuração);
+
+  IX - procedimentos para solicitação, ajuste e conferência dos flapes;
+
+  X - configuração da aeronave em procedimentos de aproximação em condições VMC;
+
+  XI - desvios operacionais em procedimentos de aproximação VMC;
+
+  XII - call-outs de desvios operacionais em procedimentos VMC e ações corretivas;
+
+  XIII - configuração da aeronave em procedimentos IFR de precisão (ILS);
+
+  XIV - desvios operacionais em procedimentos ILS;
+
+  XV - call-outs de desvios operacionais em procedimento ILS e ações corretivas;
+
+  XVI - configuração da aeronave em procedimentos IFR de aproximação com guia vertical (BARO/VNAV);
+
+  XVII - desvios operacionais em procedimento BARO/VNAV;
+
+  XVIII - call-outs de desvios operacionais em procedimento BARO/VNAV e ações corretivas;
+
+  XIX - configuração da aeronave em procedimentos IFR de não precisão (VOR/VOR-DME);
+
+  XX - desvios operacionais em procedimento (VOR/VOR-DME);
+
+  XXI - call-outs de desvios operacionais em procedimento e ações corretivas (VOR/VOR-DME);
+
+  XXII - configuração da aeronave em procedimentos IFR de não precisão (NDB);
+
+  XXIII - desvios operacionais em procedimento (NDB);
+
+  XXIV - call-outs de desvios operacionais em procedimento NDB e ações corretivas; e
+
+  XXV - execução, leitura e conferência dos itens da lista de verificação (checklist de pouso);'
+keywords:
+- taxi-aereo
+- operacoes
+- procedimentos
+- desvios
+- operacionais
+- procedimento
+- aproximacao
+- call
+- configuracao
+- outs
+- acoes
+- aeronave
+- corretivas
+- ajuste
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

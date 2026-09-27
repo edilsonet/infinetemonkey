@@ -1,0 +1,57 @@
+id: is-is-120-016-7-4-3-3-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.4.3.3
+section_title: Acesso a dados técnicos que descrevem as normas, métodos, técnicas e procedimentos
+  de manutenção
+subsection_id: body
+cite: 7.4.3.3
+title: Acesso a dados técnicos que descrevem as normas, métodos, técnicas e procedimentos
+  de manutenção
+text: '7.4.3.3 Acesso a dados técnicos que descrevem as normas, métodos, técnicas e procedimentos
+  de manutenção
+
+  7.4.3.3.1 Realização de tarefas específicas. Esta seção do manual diz respeito a procedimentos
+  detalhados para a realização de tarefas específicas. Nesta seção devem estar descritos métodos,
+  técnicas, padrões técnicos, medições, padrões de calibração, testes operacionais, reparos
+  estruturais, etc. Também devem ser incluídos procedimentos para a pesagem e o balanceamento
+  da aeronave (W&B), macaqueamento, elevação e escoramento, preservação, operações em tempo
+  frio, reboque, taxiamento e limpeza da aeronave. O conteúdo do manual de manutenção pode
+  ser obtido a partir das publicações do fabricante. Entretanto, com base em experiência própria
+  em serviço, organização e contexto operacional, é possível customizar o manual, conforme
+  necessário, para garantir a eficácia do Programa de Manutenção. Este é um dos resultados
+  desejados de um Sistema de Análise e Supervisão Continuada (SASC), explicado em maiores
+  detalhes na Seção 7.12 desta IS, e na edição atualizada da AC 120-79 da FAA, intitulada
+  "Developing and Implementing an Air Carrier Continuing Analysis and Surveillance System".
+
+  7.4.3.3.2 Diretrizes de Aeronavegabilidade (DA). A empresa deve cumprir as disposições das
+  DA aplicáveis aos produtos aeronáuticos por ela operados que sejam emitidas pela Anac e
+  pela Autoridade de Aviação Civil do Estado do detentor do projeto de tipo do produto aeronáutico,
+  em conformidade com o previsto no RBAC nº 39. Embora não exigido especificamente por nenhum
+  regulamento, a empresa também deve incluir em seu manual um processo para gerenciar as DA
+  (ou seja, avaliar, realizar e verificar as DA). O processo de gerenciamento de DA deve incluir
+  os seis elementos seguintes: planejamento, suporte, provisionamento, implementação, registro
+  e auditoria. Uma aeronave, à qual se aplica uma DA, não pode ser operada exceto em estrita
+  conformidade com as disposições da DA. Portanto é extremamente importante que a empresa
+  inclua em seu processo de DA disposições que garantam que:'
+keywords:
+- antidrogas
+- saude
+- manutencao
+- procedimentos
+- manual
+- metodos
+- tecnicas
+- tecnicos
+- acesso
+- aeronave
+- dados
+- descrevem
+- disposicoes
+- empresa
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

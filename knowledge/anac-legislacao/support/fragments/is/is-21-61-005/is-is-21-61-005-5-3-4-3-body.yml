@@ -1,0 +1,61 @@
+id: is-is-21-61-005-5-3-4-3-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.4.3
+section_title: When non-safety related items are proposed, the associated justifications may
+  be limited to demonstrate the non-safety related nature of the item.
+subsection_id: body
+cite: 5.3.4.3
+title: When non-safety related items are proposed, the associated justifications may be limited
+  to demonstrate the non-safety related nature of the item.
+text: '5.3.4.3 When non-safety related items are proposed, the associated justifications may
+  be limited to demonstrate the non-safety related nature of the item.
+
+  5.3.4.4 Quando uma MMEL emprega o formato “orientado a mensagens” (veja apêndice D, modelo
+  D.2), todas as condições e combinações de falhas para as quais uma determinada mensagem
+  seria exibida devem ser consideradas ao se preparar as justificativas.
+
+  5.3.4.4 When an MMEL employs the “message-oriented format” (see Appendix D, template D.2),
+  all failures combination and conditions for which a given message would be displayed should
+  be considered when preparing the justifications.
+
+  5.3.4.5 A justificativa pode refletir a experiência do requerente com aprovações de MMEL
+  anteriores. No entanto, uma aprovação anterior do mesmo item em MMEL de aeronave de outro
+  tipo não implica, por si só, que o nível de segurança seja aceitável. Para isso, fatores
+  adicionais devem ser considerados e incluem similaridade de operação do sistema e tipo de
+  operações.
+
+  5.3.4.5 The justification may reflect applicant''s experience with previous MMEL approvals.
+  However, a previous MMEL approval of the same item on another aircraft type does not in
+  itself imply that the level of safety is acceptable. Therefore, additional factors should
+  be considered, including similarity of system operation and type of operations.
+
+  5.3.4.6 As justificativas precisam incluir pelo menos uma avaliação qualitativa de segurança
+  para demonstrar conformidade com o parágrafo 21.61-I(e)(1) do RBAC 21, onde o requerente
+  deve:
+
+  5.3.4.6 Justifications must include at least a qualitative safety assessment to show compliance
+  with paragraph 21.61-I(e)(1) of RBAC 21, where the applicant must:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- safety
+- mmel
+- related
+- justifications
+- when
+- associated
+- demonstrate
+- items
+- limited
+- nature
+- proposed
+- applicant
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

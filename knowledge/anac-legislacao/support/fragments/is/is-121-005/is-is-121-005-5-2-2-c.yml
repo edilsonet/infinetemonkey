@@ -1,0 +1,55 @@
+id: is-is-121-005-5-2-2-c
+kind: is
+document: is-121-005
+family: '121'
+section_id: 5.2.2
+section_title: 'Quanto à estrutura do MGO, o operador poderá adotar uma das opções abaixo:'
+subsection_id: c
+cite: 5.2.2(c)
+title: 5.2.2(c)
+text: 'c) Estrutura alternativa: neste caso, o MGO é composto tanto de uma quantidade de volumes
+  quanto de uma estrutura de capítulos e seções definida a critério do operador, e o conjunto
+  é acompanhado de uma declaração de conformidade do Apêndice B. A declaração de conformidade
+  é administrada e suas revisões controladas como se fosse o próprio MGO.
+
+  5.2.3 Nas hipóteses de 5.2.2b) e c), as referências a outros manuais e documentos complementares
+  (seja no volume principal do MGO, seja na declaração de conformidade do Apêndice B) devem
+  ser completas, precisas e exaustivas, de forma que seja imediata a demonstração de cumprimento
+  às diretrizes desta IS.
+
+  5.2.4 As referências a outros manuais e documentos no corpo do MGO devem conter pelo menos
+  nome do manual e o número da seção, página ou parágrafo onde o conteúdo pode ser encontrado.
+  Por sua vez, a introdução do MGO deve conter a relação completa de todos os manuais, volumes
+  e documentos que o compõem, identificados pelo nome e pela data e número da revisão. Em
+  consequência, a revisão do manual complementar também implicará em revisão do MGO, dado
+  que pelo menos as referências precisarão ser atualizadas.
+
+  5.2.5 Exceção ao parágrafo anterior se aplica quando o MGO contiver referência a outro manual
+  ou programa individualmente aceito/aprovado pela Anac. Neste caso, a referência não precisa
+  conter a data ou número da revisão (dado que a revisão deste manual naturalmente demandará
+  nova aceitação/aprovação da Anac).
+
+  5.3 Processo de aprovação e aceitação do MGO
+
+  5.3.1 O processo de aprovação e aceitação do MGO segue, de forma geral, os procedimentos
+  estabelecidos na IS nº 121-010, que trata do sistema de documentos de segurança operacional.'
+keywords:
+- transporte-aereo
+- operacoes
+- revisao
+- documentos
+- manual
+- aceitacao
+- aprovacao
+- conformidade
+- conter
+- declaracao
+- estrutura
+- manuais
+- numero
+- referencias
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

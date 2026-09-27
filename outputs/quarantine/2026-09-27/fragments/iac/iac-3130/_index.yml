@@ -1,0 +1,18 @@
+document: iac-3130
+kind: iac
+title: IAC 3130
+ementa: 31/12/1996
+family: '313'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3130
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3130/@@display-file/arquivo_norma/IAC3130.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-3130/@@display-file/arquivo_norma/IAC3130.pdf
+language: pt
+foreign_annex: false
+sections:
+- preambulo
+fragment_count: 1
+fragment_ids:
+- iac-iac-3130-preambulo-body
+parser_version: 6

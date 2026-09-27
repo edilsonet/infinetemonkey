@@ -1,0 +1,183 @@
+id: is-is-145-001-apendice-c-sistema-de-monitoramento-com-auditoria-interna-independente-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: apendice-c-sistema-de-monitoramento-com-auditoria-interna-independente
+section_title: APÊNDICE C - SISTEMA DE MONITORAMENTO COM AUDITORIA INTERNA INDEPENDENTE
+subsection_id: body
+cite: apendice-c-sistema-de-monitoramento-com-auditoria-interna-independente
+title: APÊNDICE C - SISTEMA DE MONITORAMENTO COM AUDITORIA INTERNA INDEPENDENTE
+text: 'APÊNDICE C - SISTEMA DE MONITORAMENTO COM AUDITORIA INTERNA INDEPENDENTE
+
+
+  C.1 INTRODUÇÃO
+
+  C.1.1 Um sistema da qualidade é utilizado para assegurar aderência a determinado processo
+  em uma organização, com o objetivo final de garantir que requisitos pré-estabelecidos sejam
+  atendidos.
+
+  C.1.2 O RBAC n° 145 requer que uma organização de manutenção desenvolva e mantenha um sistema
+  de controle da qualidade, que assegure a aeronavegabilidade dos artigos nos quais a organização,
+  ou qualquer dos seus subcontratados, executa manutenção, manutenção preventiva ou alteração.
+  O sistema de controle da qualidade possui foco na inspeção de cada artigo no qual um serviço
+  de manutenção foi realizado.
+
+  C.1.3 O conceito de monitoramento presente neste Apêndice, por sua vez, possui foco nos
+  processos da organização. O seu objetivo é possibilitar que a organização garanta que pode
+  entregar um artigo seguro após a realização dos serviços contratados e em conformidade com
+  os requisitos regulamentares, provendo mecanismos para a correção e melhoria dos processos.
+  O monitoramento proposto neste Apêndice pode ser entendido como um sistema simplificado
+  de garantia da qualidade.
+
+  C.1.4 É esperado que o sistema de monitoramento com auditorias internas seja integrado ao
+  SGSO de uma OM, tanto como uma possível fonte de informações de segurança, quanto como um
+  mecanismo de melhoria contínua da organização.
+
+  C.1.5 Os procedimentos e formulários necessários para a operacionalização do sistema de
+  monitoramento devem estar contidos ou serem referenciados nos manuais da OM.
+
+  NOTA: para a realização das auditorias internas independentes, a OM pode desenvolver formulários
+  próprios ou utilizar como apoio as listas de verificação utilizadas pela ANAC nas auditorias
+  de vigilância continuada, disponíveis no sítio eletrônico da Agência, na página dedicada
+  às organizações de manutenção certificadas pelo RBAC nº 145.
+
+  C.1.6 Um sistema de monitoramento possui dois componentes: a auditoria interna independente
+  e a gestão dos resultados e das ações propostas.
+
+  NOTA: este Apêndice aplica-se no contexto desta IS e das demais normas da ANAC que possam
+  referenciá-lo. Algumas Autoridades de Aviação Civil (AAC) com as quais a ANAC possui acordos
+  internacionais relativos a certificação de Organizações de Manutenção podem exigir o desenvolvimento
+  de um sistema de monitoramento com auditorias internas independentes, contudo, estabelecendo
+  requisitos ou critérios mais exigentes do que aqueles aqui apresentados. Em tais casos,
+  a OM deve atender aos requisitos específicos estabelecidos nos acordos em questão.
+
+  C.2 AUDITORIA INTERNA INDEPENDENTE
+
+  C.2.1 A auditoria interna independente é um processo objetivo de verificações de amostragem
+  de rotina que cobre todos os aspectos da capacidade da organização para realizar as manutenções
+  de acordo com os padrões exigidos, de forma a garantir que os artigos sejam aprovados em
+  condição aeronavegável.
+
+  C.2.2 A auditoria interna independente deve garantir que todos os aspectos de conformidade
+  com o RBAC n° 145 sejam verificados em periodicidade definida pela OM. O intervalo de tempo
+  para avaliação de todos os requisitos do RBAC n° 145 não deve ser superior a 24 meses. As
+  auditorias devem abranger os processos que compõem o sistema de controle de qualidade da
+  OM e devem incluir a amostragem de artigos em e após manutenção, podendo ser realizada como
+  um exercício único completo ou subdividido ao longo do período estabelecido, de acordo com
+  um cronograma.
+
+  C.2.3 A auditoria independente deve abranger a verificação de artigos contidos em todas
+  as classes de todas as categorias especificadas no COM da organização, conforme a seção
+  145.59 do RBAC n° 145, dentro da periodicidade estabelecida conforme o item C.2.2, devendo
+  abranger múltiplos artigos de uma mesma classe quando houver diferenças significativas em
+  sistemas e procedimentos utilizados na manutenção desses artigos.
+
+  C.2.4 A verificação de um artigo requer a observação direta de uma amostra e envolve testemunhar
+  qualquer teste relevante e inspecionar visualmente o produto e a documentação associada,
+  devendo o auditor observar as principais etapas dos processos envolvidos na manutenção,
+  desde a entrada do artigo na organização até a aprovação para retorno ao serviço. A verificação
+  da amostra não precisa envolver a repetição de desmontagens ou testes, a menos que se identifique
+  não conformidade que indique essa necessidade.
+
+  C.2.5 Durante a auditoria independente, não é necessário que cada procedimento seja verificado
+  em relação a artigos de classes distintas quando puder ser demonstrado que o procedimento
+  específico é comum a mais de uma classe de artigos.
+
+  C.2.6 Quando não conformidades forem identificadas na auditoria em um procedimento que se
+  aplica a mais de uma classe de artigo, o procedimento deve ser verificado novamente em relação
+  a outras classes até que se conclua sobre a abrangência da não conformidade, podendo ser
+  de caráter pontual ou sistêmico, para que se providencie o tratamento adequado.
+
+  C.2.7 As auditorias independentes devem incluir verificações aleatórias, realizadas por
+  amostragem, enquanto a manutenção estiver sendo realizada. Isso pode significar a realização
+  de algumas auditorias durante a noite em organizações que possuam turno de trabalho noturno,
+  auditorias em fornecedores de serviços de manutenção subcontratada, e auditorias em outras
+  localidades nas quais a organização exerça as prerrogativas previstas na seção 145.203 do
+  RBAC nº 145.
+
+  C.2.8 Quando a organização possuir bases secundárias o sistema de monitoramento deve se
+  estender às respectivas bases, dentro do mesmo intervalo estabelecido em C.2.2.
+
+  C.2.9 A organização deve contemplar, no escopo da amostragem, a realização de auditorias
+  internas em modelos de artigos que tenham sido objeto de um processo de autoinclusão nas
+  Especificações Operativas ou na Lista de Capacidade da OM.
+
+  C.2.10 É esperado que a auditoria interna considere a amostragem de artigos que estejam
+  relacionados a áreas em que o SGSO tenha identificado perda de desempenho de segurança ou
+  relacionados a perigos tratados pelo processo de controle de riscos do SGSO da OM, como
+  forma de avaliação da eficácia das medidas mitigadoras, conforme aplicável.
+
+  C.2.11 Uma OM pode possuir um grupo de pessoas dedicado ou parcialmente dedicado às auditorias
+  independentes, incluindo a realização de auditorias, elaboração de relatórios de resultados
+  e acompanhamento para verificar se as não conformidades foram ou estão sendo corrigidas,
+  ou pode optar por contratar a auditoria independente em outra organização que possua pessoal
+  com conhecimento técnico apropriado e experiência satisfatória comprovada em auditorias.
+
+  C.2.12 A independência da auditoria deve ser estabelecida assegurando que sejam sempre realizadas
+  por pessoal não responsável pela função, procedimento ou artigos que estão sendo verificados.
+
+  C.2.13 Cada vez que uma auditoria for realizada, um relatório deve ser elaborado descrevendo
+  o que foi verificado e as constatações resultantes em relação aos requisitos, procedimentos
+  e artigos aplicáveis.
+
+  C.2.14 A OM deve manter um cronograma atualizado com o planejamento das auditorias internas
+  independentes, que poderá ser solicitado e acompanhado pela ANAC a qualquer tempo.
+
+  C.3 GESTÃO DOS RESULTADOS E DAS AÇÕES PROPOSTAS
+
+  C.3.1 Os resultados da auditoria interna independente devem ser informados a uma pessoa
+  ou a um grupo de pessoas em funções de gestão na OM, incluindo o(a) Gestor(a) Responsável
+  e o(a) Responsável Técnico(a), para assegurar a alocação dos recursos necessários e a execução
+  das ações requeridas em tempo hábil.
+
+  C.3.2 A gestão dos resultados e das ações propostas é atribuição da OM, responsável primária
+  por manter os seus processos e atividades aderentes aos requisitos regulamentares aplicáveis,
+  e não pode ser delegada a pessoas externas à organização.
+
+  C.3.3 A gestão dos resultados permite que todas as não conformidades ou aspectos relevantes
+  identificados nas auditorias independentes sejam devidamente investigados quanto a causas
+  e impactos, e tratados conforme apropriado.
+
+  C.3.4 A investigação dos resultados da auditoria deve buscar definir a natureza das não
+  conformidades, e se há impacto em termos de segurança operacional. Assim, é relevante que
+  a OM determine se os achados se referem a perigos cujos riscos associados devem ser tratados
+  e mitigados conforme previstos nos processos do SGSO da OM, ou se trata de não cumprimentos
+  a requisitos de natureza administrativa (o que configura um problema de compliance).
+
+  C.3.5 Em todo caso, as tratativas para a correção das não conformidades ou tratamento dos
+  perigos encontrados devem estar alinhados com os procedimentos estabelecidos no SGSO para
+  o gerenciamento de risco da OM. A sinergia entre os processos de auditoria interna (como
+  fonte de informações e controle de riscos) e o SGSO reforça a necessidade de integração
+  entre os sistemas.
+
+  C.3.6 Os prazos para a execução das ações apropriadas, seja a correção de não conformidades
+  ou a implementação de ações mitigatórias para os riscos identificados, devem ser acordados
+  com os departamentos responsáveis pela condução das ações.
+
+  C.3.7 A OM deve estabelecer rotinas de acompanhamento e reporte do andamento das ações propostas
+  junto ao Gestor(a) Responsável e ao Responsável Técnico(a).
+
+  C.3.8 Todos os registros relativos a uma auditoria interna independente, incluindo os registros
+  e evidências de correções e ações mitigatórias, devem ser retidos pela OM por pelo menos
+  5 (cinco) anos contados a partir da data em que a auditoria foi encerrada, ou seja, quando
+  todas as não conformidades foram consideradas corrigidas e o plano de ações corretivas foi
+  concluído.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- auditoria
+- auditorias
+- organizacao
+- sistema
+- artigos
+- independente
+- interna
+- acoes
+- monitoramento
+- requisitos
+- conformidades
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

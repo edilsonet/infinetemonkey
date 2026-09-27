@@ -1,0 +1,51 @@
+id: is-is-91-014-2-body
+kind: is
+document: is-91-014
+family: '91'
+section_id: '2'
+section_title: Descrição do aeródromo
+subsection_id: body
+cite: '2'
+title: Descrição do aeródromo
+text: '2. Descrição do aeródromo
+
+  Com base nas informações oficiais presentes nas Cartas Aeronáuticas e em informativos dos
+  Operadores Aeroportuários, indicar:
+
+  - Todas as facilidades presentes no aeródromo;
+
+  - Cabeceira e sentido da operação proposta na pista, bem como todas as condições de contorno
+  ou limitantes (obstáculos). Em aeródromos com mais de uma pista, deverá ser indicada a pista
+  (ou pistas) pretendida(s).;
+
+  - Infraestrutura relacionada às operações aéreas;
+
+  - Temperatura de referência;
+
+  - Elevação em relação ao nível do mar;
+
+  - Designativo ICAO;
+
+  - LDA; e
+
+  - dimensões da RESA e forma de implementação (física, medida alternativa ou medida mitigadora).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aerodromo
+- descricao
+- pista
+- medida
+- presentes
+- todas
+- aereas
+- aerodromos
+- aeronauticas
+- aeroportuarios
+- alternativa
+- base
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-014.md

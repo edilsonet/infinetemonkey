@@ -21,10 +21,14 @@ sections:
 - '103.5'
 - '103.7'
 - '103.701'
+- aprovacao
 - preambulo
-fragment_count: 28
+- sumario
+fragment_count: 30
 fragment_ids:
 - rbac-rbac-103-preambulo-body
+- rbac-rbac-103-aprovacao-body
+- rbac-rbac-103-sumario-body
 - rbac-rbac-103-103-1-body
 - rbac-rbac-103-103-5-body
 - rbac-rbac-103-103-7-body
@@ -52,4 +56,4 @@ fragment_ids:
 - rbac-rbac-103-103-701-a
 - rbac-rbac-103-103-701-b
 - rbac-rbac-103-103-701-c
-parser_version: 6
+parser_version: 7

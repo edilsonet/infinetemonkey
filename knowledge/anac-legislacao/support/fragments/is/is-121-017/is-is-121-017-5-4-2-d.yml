@@ -1,0 +1,52 @@
+id: is-is-121-017-5-4-2-d
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.4.2
+section_title: 'O detentor de certificado deve monitorar, por meio do PAADV:'
+subsection_id: d
+cite: 5.4.2(d)
+title: 5.4.2(d)
+text: 'd) dados de pagamento ou comprovante de pagamento da TFAC relativa à alteração das
+  EO.
+
+  5.5.2 O detentor de certificado deve indicar, na solicitação, os aeródromos para os quais
+  pretende utilizar inicialmente os critérios estabelecidos nesta IS, detalhando os métodos
+  a serem utilizados para cada aeródromo, bem como a fontes dos dados utilizados como meios
+  alternativos.
+
+  5.5.3 Caso existam aeródromos que possuam informações meteorológicas parciais, conforme
+  descrito no parágrafo 5.1.9 desta IS, o detentor de certificado deve detalhar o método específico
+  que se aplica para esses aeródromos, considerando as informações meteorológicas disponíveis.
+
+  5.5.4 Caso o detentor de certificado pretenda utilizar os critérios estabelecidos nesta
+  IS para indisponibilidades temporárias de informação meteorológica, ele deve detalhar o
+  método específico que se aplica para esses aeródromos.
+
+  5.5.5 Uma vez aprovado, o detentor de certificado deve manter no guia de rota (podendo ser
+  usada a Lista de Aeródromos Regulares e de Alternativa, prevista na IS nº 121-001), informação
+  de quais aeródromos utilizados não dispõem de informações meteorológicas que atendam às
+  seções 121.101 ou 121.119, ou que dispõem somente de informações parciais. A atualização
+  dessa informação, inclusive com a indicação de novos aeródromos que utilizem métodos para
+  os quais o detentor de certificado já recebeu aprovação da ANAC, não demanda nova interação
+  com a ANAC.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromos
+- certificado
+- detentor
+- informacoes
+- informacao
+- meteorologicas
+- quais
+- utilizados
+- aplica
+- caso
+- criterios
+- dados
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

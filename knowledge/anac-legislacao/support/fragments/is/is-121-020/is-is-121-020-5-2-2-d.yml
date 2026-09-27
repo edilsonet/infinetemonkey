@@ -1,0 +1,56 @@
+id: is-is-121-020-5-2-2-d
+kind: is
+document: is-121-020
+family: '121'
+section_id: 5.2.2
+section_title: Para fins de interpretação da seção 121.445 do RBAC nº 121, são considerados
+  aeródromos especiais os classificados como grupo C.
+subsection_id: d
+cite: 5.2.2(d)
+title: 5.2.2(d)
+text: 'd) documentar e manter a análise de risco e evidências de aplicação das mitigações
+  para eventual fiscalização pela ANAC.
+
+  5.2.4 Ao avaliar a possibilidade de classificação de um dado aeródromo em grupo diferente
+  do que seria classificado por meio da aplicação dos critérios desta IS, especial atenção
+  deve ser dada a existência nesse aeródromo de múltiplas especificidades listadas nos grupos
+  B ou C.
+
+  5.2.5 A existência de fatores de curta duração (ex: inoperância de um PAPI para manutenção,
+  ou indisponibilidade temporária de órgão ATS) não deve ser considerada na classificação
+  dos aeródromos.
+
+  5.2.6 Caso a ANAC determine previamente o grupo de algum aeródromo, o operador não poderá
+  classificá-lo em grupo menos exigente. A relação de aeródromos com classificação de grupo
+  definida pela ANAC pode ser encontrada no apêndice B desta IS.
+
+  5.2.7 A ANAC pode, independentemente de determinar a classificação de um dado aeródromo,
+  determinar especificidades que devem ser abordadas na qualificação de pilotos em comando
+  desse aeródromo. As especificidades determinadas pela ANAC podem ser encontradas no apêndice
+  B desta IS.
+
+  5.2.8 A ANAC pode determinar a necessidade de autorização para operação em aeródromos específicos.
+  A relação desses aeródromos pode ser encontrada no apêndice B desta IS, e o detalhamento
+  dos critérios e processo para obtenção da autorização nos apêndices seguintes desta IS.
+
+  5.3 Qualificação do piloto em comando'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- aerodromos
+- desta
+- grupo
+- classificacao
+- pode
+- apendice
+- determinar
+- especificidades
+- aplicacao
+- autorizacao
+- comando
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

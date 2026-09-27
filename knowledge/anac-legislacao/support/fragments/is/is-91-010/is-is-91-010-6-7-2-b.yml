@@ -1,0 +1,32 @@
+id: is-is-91-010-6-7-2-b
+kind: is
+document: is-91-010
+family: '91'
+section_id: 6.7.2
+section_title: 'Uma especificação RSP é composta pelos seguintes parâmetros:'
+subsection_id: b
+cite: 6.7.2(b)
+title: 6.7.2(b)
+text: 'b) Continuidade RSP: proporção mínima de dados de vigilância que devem ser entregues
+  dentro do tempo nominal de entrega (95%) ou do tempo operacional de entrega (99,9%), considerando-se
+  que o serviço esteja disponível no momento em que a remessa de dados se inicia;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- dados
+- entrega
+- tempo
+- composta
+- considerando
+- continuidade
+- dentro
+- disponivel
+- entregues
+- especificacao
+- esteja
+- inicia
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

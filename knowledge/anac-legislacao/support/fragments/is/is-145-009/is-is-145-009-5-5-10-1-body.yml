@@ -1,0 +1,53 @@
+id: is-is-145-009-5-5-10-1-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.10.1
+section_title: 'Referências: RBACs nº 43 e 145, parágrafos 43.13(a); 145.201(c) e 145.211(b).'
+subsection_id: body
+cite: 5.5.10.1
+title: 'Referências: RBACs nº 43 e 145, parágrafos 43.13(a); 145.201(c) e 145.211(b).'
+text: '5.5.10.1 Referências: RBACs nº 43 e 145, parágrafos 43.13(a); 145.201(c) e 145.211(b).
+
+  5.5.10.2 Atualização de dados técnicos: esta seção do manual deve conter os procedimentos
+  para assegurar que dados técnicos atualizados estão disponíveis para o escopo de trabalho
+  que a OM está executando. O parágrafo 43.13(a) do RBAC nº 43 requer que cada pessoa executando
+  manutenção, alterações ou manutenção preventiva, utilize métodos, técnicas e práticas prescritas
+  em manual atualizado do fabricante, tais como manual de manutenção, Instruções para Aeronavegabilidade
+  Continuada ou outros métodos, técnicas, ou práticas aceitáveis à ANAC. O parágrafo 145.201(c)
+  do RBAC nº 145 estabelece que uma OM certificada somente pode aprovar o retorno ao serviço
+  de um artigo se a manutenção, manutenção preventiva ou alteração tiver sido executada de
+  acordo com dados técnicos aplicáveis aprovados ou aceitáveis pela ANAC.
+
+  NOTA 1: Os documentos utilizados para a manutenção de aeronaves dos operadores estão contidos
+  nas instruções de aeronavegabilidade continuada (Instructions for Continued Airworthiness
+  - ICA) que são documentos de serviço fornecidos pelos detentores de projeto dos produtos
+  aeronáuticos.
+
+  NOTA 2: A IS 145.109-001 prevê a possibilidade de que um serviço iniciado antes da atualização
+  de uma publicação técnica possa ser concluído utilizando-se a publicação técnica vigente
+  na data de sua abertura, desde que não se trate de publicações técnicas mandatórias pela
+  autoridade aeronáutica (Diretrizes de Aeronavegabilidade; seção de limitação de aeronavegabilidade
+  do manual de manutenção; instruções aprovadas pela autoridade aeronáutica) e que o serviço
+  seja concluído em no máximo em 60 (sessenta) dias após a publicação da atualização da publicação
+  técnica. Caso a OM pretenda fazer uso deste prazo, deve inseri-lo no MOM junto aos procedimentos
+  de atualização das publicações técnicas.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- aeronavegabilidade
+- atualizacao
+- manual
+- publicacao
+- servico
+- tecnicas
+- dados
+- instrucoes
+- paragrafos
+- rbacs
+- referencias
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

@@ -1,0 +1,42 @@
+id: is-is-61-007-5-8-15-body
+kind: is
+document: is-61-007
+family: '61'
+section_id: 5.8.15
+section_title: A empresa regida pelo RBAC nº 135 deve selecionar o exame “Rota (aeronave)”
+  ou
+subsection_id: body
+cite: 5.8.15
+title: A empresa regida pelo RBAC nº 135 deve selecionar o exame “Rota (aeronave)” ou
+text: '5.8.15 A empresa regida pelo RBAC nº 135 deve selecionar o exame “Rota (aeronave)”
+  ou
+
+  “Rota (Simulador)” quando o exame realizado tiver o objetivo de demonstrar o
+
+  cumprimento da seção 135.299 do RBAC nº 135. O lançamento desta SAE deve estar
+
+  vinculado a uma NRT específica, conforme estrutura de cadastro de treinamento exposta
+
+  no item 5.6 desta IS.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- exame
+- rota
+- aeronave
+- empresa
+- regida
+- selecionar
+- desta
+- cadastro
+- cumprimento
+- demonstrar
+- especifica
+- estar
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-007.md

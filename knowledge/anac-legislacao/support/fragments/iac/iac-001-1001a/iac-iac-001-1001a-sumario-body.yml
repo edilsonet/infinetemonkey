@@ -1,0 +1,41 @@
+id: iac-iac-001-1001a-sumario-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: sumario
+section_title: SUMÁRIO
+subsection_id: body
+cite: sumario
+title: SUMÁRIO
+text: 'SUMÁRIO
+
+  PORTARIA DE APROVAÇÃO, I
+
+  SUMÁRIO, II
+
+  INTRODUÇÃO, V
+
+  SIGLAS E ABREVIATURAS, VI
+
+  CONTROLE DE EMENDAS, VII
+
+  LISTA DE PÁGINAS EFETIVAS, VIII
+
+  1 DISPOSIÇÕES PRELIMINARES, 1'
+keywords:
+- sumario
+- abreviaturas
+- aprovacao
+- controle
+- disposicoes
+- efetivas
+- emendas
+- introducao
+- lista
+- paginas
+- portaria
+- preliminares
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

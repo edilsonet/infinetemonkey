@@ -1,0 +1,66 @@
+id: is-is-21-001-apendice-c-criterio-de-nivel-de-envolvimento-na-demonstracao-de-cumprimento-body
+kind: is
+document: is-21-001
+family: '21'
+section_id: apendice-c-criterio-de-nivel-de-envolvimento-na-demonstracao-de-cumprimento
+section_title: APÊNDICE C - CRITÉRIO DE NÍVEL DE ENVOLVIMENTO NA DEMONSTRAÇÃO DE CUMPRIMENTO
+subsection_id: body
+cite: apendice-c-criterio-de-nivel-de-envolvimento-na-demonstracao-de-cumprimento
+title: APÊNDICE C - CRITÉRIO DE NÍVEL DE ENVOLVIMENTO NA DEMONSTRAÇÃO DE CUMPRIMENTO
+text: 'APÊNDICE C - CRITÉRIO DE NÍVEL DE ENVOLVIMENTO NA DEMONSTRAÇÃO DE CUMPRIMENTO
+
+
+  C.1 A partir das informações prestadas pelo requerente, a ANAC estabelece um plano de atividades
+  que serve de base para sua avaliação da substanciação que demonstra o cumprimento com requisitos
+  aplicáveis de aeronavegabilidade e proteção ambiental. Neste contexto, tais atividades referem-se
+  àquelas descritas no âmbito da seção 5.4.7 desta IS (atuação da ANAC), tendo por objetivo
+  o exame do projeto de tipo e a realização de ensaios e inspeções previstos nas seções 21.21,
+  21.33 e 21.35 do RBAC 21.
+
+  C.2 Para a avaliação do Nível de Envolvimento, a ANAC utiliza-se do conceito de Atividades
+  e Dados de Certificação - ADC, que normalmente são geradas com base na proposta do Plano
+  de Certificação do Requerente. As variáveis acima serão avaliadas no contexto de cada ADC:
+
+  ADC é o menor conjunto de atividades e dados para demonstrar cumprimento com um conjunto
+  de requisitos, um único requisito ou parte de um requisito associados a um projeto ou modificação,
+  descrevendo uma área, sistema e tecnologia relacionados identificado no plano de certificação,
+  que pode ser considerado isoladamente para o propósito de realizar a avaliação de risco
+  que permite à ANAC determinar seu nível de envolvimento.
+
+  C.3 ADC é um conjunto significativo de atividades e dados de demonstração cumprimento com
+  um conjunto de requisitos, um único requisito ou parte de um requisito associados a um projeto
+  ou modificação, fornecidos pelo requerente sob a égide dos parágrafos 21.20(a), 21.21(b)
+  e 21.21(c) do RBAC 21. Tal conjunto é gerado, portanto, através da combinação de um ou mais
+  meios de cumprimento (incluindo, se disponível, a descrição da estratégia de como serão
+  utilizados na produção da demonstração) e dos requisitos da base de certificação.
+
+  C.4 Desta forma, o ADC deverá trazer um grupo de informações que pode ser considerado isoladamente
+  para o propósito de realizar a avaliação de risco de não cumprimento, substanciando o resultado
+  do Nível de Envolvimento da ANAC.
+
+  C.5 O processo de definição de Nível de Envolvimento utiliza uma metodologia de avaliação
+  de risco que considera a probabilidade na falha de identificação de algum não-cumprimento
+  de um requisito aplicável conjuntamente com a sua severidade correspondente.
+
+  C.6 Nessa avaliação de risco, os seguintes fatores são utilizados de forma integrada:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- cumprimento
+- envolvimento
+- nivel
+- avaliacao
+- atividades
+- conjunto
+- demonstracao
+- requisito
+- requisitos
+- risco
+- apendice
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

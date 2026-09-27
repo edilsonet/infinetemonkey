@@ -1,0 +1,38 @@
+id: is-is-21-001-apendice-d-terminologia-para-informacoes-de-demonstracao-b
+kind: is
+document: is-21-001
+family: '21'
+section_id: apendice-d-terminologia-para-informacoes-de-demonstracao
+section_title: APÊNDICE D - TERMINOLOGIA PARA INFORMAÇÕES DE DEMONSTRAÇÃO
+subsection_id: b
+cite: apendice-d-terminologia-para-informacoes-de-demonstracao(b)
+title: apendice-d-terminologia-para-informacoes-de-demonstracao(b)
+text: '(b) Representatividade quanto aos objetivos do requisito: que é a capacidade de a informação
+  abarcar os principais objetivos do requisito sob análise. Normalmente, existem materiais
+  orientativos que podem ser úteis para este fim. Utilizando o mesmo exemplo acima, se a informação
+  for obtida a partir de uma asa representativa do projeto de tipo, mas submetida a cargas
+  de um voo típico, sem rajadas ou manobras agressivas, tal informação não será representativa
+  quanto ao objetivo do requisito, por não atender as preocupações dos requisitos de resistência
+  estrutural, pois estes preveem situações extremas de carregamento; e'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- informacao
+- requisito
+- apendice
+- demonstracao
+- informacoes
+- objetivos
+- quanto
+- representativa
+- terminologia
+- abarcar
+- acima
+- agressivas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

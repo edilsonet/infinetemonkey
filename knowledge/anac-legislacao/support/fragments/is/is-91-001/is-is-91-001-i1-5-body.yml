@@ -1,0 +1,42 @@
+id: is-is-91-001-i1-5-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: I1.5
+section_title: De acordo com o que versa o Anexo 6 da Convenção de Aviação Civil Internacional,
+  as operações RNP APCH sem guia vertical (sem baro-VNAV) são consideradas operações de não-precisão
+  (NPA). Já operações RNP APCH que contam com guia vertical, como o baro-VNAV, mas não atendem
+  aos mínimos de aproximações de precisão, são consideradas operações de aproximação com guia
+  vertical (APV).
+subsection_id: body
+cite: I1.5
+title: De acordo com o que versa o Anexo 6 da Convenção de Aviação Civil Internacional, as
+  operações RNP APCH sem guia vertical (sem baro-VNAV) são consideradas operações de não-precisão
+  (NPA). Já operações RNP APCH que contam com guia vertical, como o baro-VNAV, mas não atendem
+  aos mínimos de aproximações de precisão, são consideradas operações de aproximação com guia
+  vertical (APV).
+text: I1.5 De acordo com o que versa o Anexo 6 da Convenção de Aviação Civil Internacional,
+  as operações RNP APCH sem guia vertical (sem baro-VNAV) são consideradas operações de não-precisão
+  (NPA). Já operações RNP APCH que contam com guia vertical, como o baro-VNAV, mas não atendem
+  aos mínimos de aproximações de precisão, são consideradas operações de aproximação com guia
+  vertical (APV).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- guia
+- vertical
+- apch
+- baro
+- consideradas
+- precisao
+- vnav
+- acordo
+- anexo
+- aproximacao
+- aproximacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

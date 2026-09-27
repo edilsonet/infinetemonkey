@@ -1,0 +1,55 @@
+id: is-is-137-002-4-body
+kind: is
+document: is-137-002
+family: '137'
+section_id: '4'
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: '4'
+title: DEFINIÇÕES
+text: '4. DEFINIÇÕES
+
+  4.1 Equipamento DGPS: Para efeito desta IS, é considerado equipamento DGPS todo sistema
+
+  GPS com correção diferencial. Compreende seus componentes, tais como: antena, barra de
+
+  luzes, display, proteção da alimentação elétrica, interruptores, computador, receptores
+  GPS,
+
+  receptor diferencial, controladores de vazão e seus subconjuntos e conjuntos.
+
+  4.2 Equipamento dispersor: Para efeito desta IS, é considerado equipamento dispersor todo
+
+  aquele que instalado em aeronave engajada em operação agrícola se destina ao lançamento
+
+  de carga sólida ou líquida com emprego específico na aviação agrícola (defensivos agrícolas,
+
+  fertilizantes, sementes e outros produtos correlatos). Compreende seus componentes, tais
+
+  como: bombas, válvulas, barras de pulverização, tubos em geral, filtros para fluxômetro,
+
+  caixa de alijamento, atomizadores rotativos, barras aerofólicas, seus subconjuntos e
+
+  conjuntos.
+
+  Nota - a instalação e alteração de equipamentos dispersores é objeto da IS nº 137-001.'
+keywords:
+- aeroagricola
+- operacoes
+- equipamento
+- definicoes
+- agricola
+- barras
+- componentes
+- compreende
+- conjuntos
+- considerado
+- desta
+- dgps
+- diferencial
+- dispersor
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-002.md

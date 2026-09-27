@@ -1,0 +1,41 @@
+id: is-is-121-021-9-1-1-body
+kind: is
+document: is-121-021
+family: '121'
+section_id: 9.1.1
+section_title: Esta seção descreve as áreas que requerem consideração para permitir o desempenho
+  efetivo do UPRT em um FSTD.
+subsection_id: body
+cite: 9.1.1
+title: Esta seção descreve as áreas que requerem consideração para permitir o desempenho efetivo
+  do UPRT em um FSTD.
+text: '9.1.1 Esta seção descreve as áreas que requerem consideração para permitir o desempenho
+  efetivo do UPRT em um FSTD.
+
+  9.1.2 A preocupação mais importante em relação ao desempenho do UPRT em FSTD é a possibilidade
+  de introdução de treinamento negativo, que pode ser devido a vários fatores, incluindo simulação
+  inadequada da condição de perda de controle, comportamento inadequado do FSTD em uma condição
+  de perda de controle, resposta inadequada de referências críticas de feedback (de movimento,
+  visuais, sonoras) durante a condição de perda de controle ou instrução inadequada. Melhorias
+  nas seguintes áreas ajudam a garantir que o FSTD esteja adequadamente equipado para fornecer
+  este treinamento:'
+keywords:
+- transporte-aereo
+- operacoes
+- fstd
+- areas
+- desempenho
+- uprt
+- condicao
+- consideracao
+- controle
+- descreve
+- efetivo
+- inadequada
+- perda
+- permitir
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

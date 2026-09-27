@@ -1,0 +1,80 @@
+id: is-is-137-002-apendice-a-circuit-breakers-e-fusiveis-body
+kind: is
+document: is-137-002
+family: '137'
+section_id: apendice-a-circuit-breakers-e-fusiveis
+section_title: APÊNDICE A - CIRCUIT-BREAKERS E FUSÍVEIS
+subsection_id: body
+cite: apendice-a-circuit-breakers-e-fusiveis
+title: APÊNDICE A - CIRCUIT-BREAKERS E FUSÍVEIS
+text: 'APÊNDICE A - CIRCUIT-BREAKERS E FUSÍVEIS
+
+  (Conforme AC 43.13-1[12], Capítulo 11, Seção 4)
+
+  CABO
+
+  (AWG)
+
+  CIRCUIT-BREAKER
+
+  (AMPÉRES)
+
+  FUSÍVEL
+
+  (AMPÉRES)
+
+  22 5 5
+
+  20 7.5 5
+
+  18 10 10
+
+  16 15 10
+
+  14 20 15
+
+  12 30 20
+
+  10 40 30
+
+  8 50 50
+
+  6 80 70
+
+  4 100 70
+
+  2 125 100
+
+  1 - 150
+
+  0 - 150
+
+  Especificações:
+
+  - MIL-W-5088 (cabos de cobre);
+
+  - MIL-C-5809 ou equivalente (Circuit-Breakers);
+
+  - MIL-F-15160 ou equivalente (fusíveis).Data de emissão: 24 de agosto de 2018. IS nº 137-002
+
+  Revisão C'
+keywords:
+- aeroagricola
+- operacoes
+- circuit
+- breakers
+- fusiveis
+- apendice
+- amperes
+- equivalente
+- agosto
+- breaker
+- cabo
+- cabos
+- capitulo
+- cobre
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-002.md

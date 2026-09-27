@@ -1,0 +1,76 @@
+id: is-is-121-020-d4-9-f
+kind: is
+document: is-121-020
+family: '121'
+section_id: D4.9
+section_title: Treinamento e qualificação de pilotos
+subsection_id: f
+cite: D4.9(f)
+title: D4.9(f)
+text: 'f) aproximação e pouso com falha de motor.
+
+  Nota 1: não é necessário que a modelagem desse aeródromo cumpra com os requisitos de aeródromos
+  classe I estabelecidos no Title 14 CFR Part 60, Apêndice A, Tabela A3B - Functions and Subjective
+  Tests - Class I Airport Models, aprovado em 30 de março de 2016, incluindo as correções
+  publicadas em 20 de maio de 2016 (revisão informalmente conhecida como “Part 60, Change
+  2”). A tabela encontra-se disponível em https://www.govinfo.gov/content/pkg/FR-2016-05-20/pdf/C1-2016-05860.pdf.
+
+  Nota 2: as manobras de emergência devem ser realizadas simulando as condições mais críticas
+  de desempenho e meteorologia.
+
+  Nota 3: no treinamento periódico de simulador de voo, a cada 12 meses, os pilotos devem
+  realizar essas mesmas manobras, mas não necessariamente em SBSP. Recomenda-se que sejam
+  utilizados aeródromos similares, em termos de comprimento de pista, elevação de aeródromo
+  e demais características físicas que afetem o desempenho do avião.
+
+  D4.9.3 É aceitável que o treinamento em simulador de voo para pilotos seja realizado em
+  simulador de voo de modelo diferente do que será efetivamente operado, desde que o relatório
+  de avaliação operacional estabeleça o nível de diferenças entre os modelos como A, B ou
+  C para treinamento e exame.
+
+  D4.9.4 Os treinamentos de solo e o treinamento em simulador de voo tem validade de 12 meses.
+
+  D4.9.5 A qualificação para pilotos deve ser realizada da seguinte forma:
+
+  D4.9.5.1 Os pilotos devem realizar, em avião ou em simulador de voo, ao menos 6 pousos e
+  6 decolagens no aeródromo SBSP sob supervisão de um instrutor ou examinador credenciado.
+  Ao menos 2 pousos e 2 decolagens devem ser realizados em período noturno.
+
+  D4.9.5.2 Ao final da qualificação, o operador deve revisar o desempenho do piloto, e decidir
+  pela realização de novas operações supervisionadas ou liberação para operação sem supervisão.
+
+  D4.9.5.3 Instrutores e examinadores somente podem supervisionar pilotos durante a qualificação
+  se já tiverem passado pela qualificação para operação no aeródromo SBSP. Para formação da
+  primeira turma de instrutores e examinadores, é aceitável que sua qualificação seja realizada
+  em simulador ou em avião em operações não produtivas (ou seja, sem transporte de passageiros
+  ou carga pagos), mesmo sem a supervisão de um instrutor ou examinador qualificado no respectivo
+  aeródromo.
+
+  D4.9.5.4 A qualificação de pilotos no aeródromo SBSP é mantida pela execução do treinamento
+  periódico previsto em D4.9.1 e D4.9.2, a cada 12 meses. No caso de perda da qualificação,
+  a requalificação deve ser obtida por meio da realização dos treinamentos iniciais.
+
+  D4.9.5.5 O operador deve implementar um controle da validade dessas qualificações de forma
+  a não permitir a operação de pilotos que não estejam com qualificação válida.
+
+  D5 Processo de autorização'
+keywords:
+- transporte-aereo
+- operacoes
+- qualificacao
+- pilotos
+- aerodromo
+- simulador
+- treinamento
+- sbsp
+- aviao
+- desempenho
+- meses
+- nota
+- operacao
+- seja
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

@@ -1,0 +1,84 @@
+id: is-is-91-006-definicoes-body
+kind: is
+document: is-91-006
+family: '91'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 A presente IS utiliza termos e abreviaturas na língua inglesa por entender que eles
+  já são amplamente utilizados pela indústria e pelos operadores.
+
+  4.2 No escopo da presente Instrução Suplementar, são válidas as definições previstas nos
+  RBAC nº 01, 91, 121 e 135 e as seguintes definições:
+
+  ADS-C: Automatic Dependent Surveillance-Contract
+
+  ATA: Actual time of arrival
+
+  ATC: Air Traffic Control
+
+  COA: Certificado de Operador Aéreo
+
+  CPDLC: Controller-Pilot Data Link Communications
+
+  EO: Especificações Operativas
+
+  ETA: Estimated time of arrival
+
+  FANS 1/A: Future Air Navigation System
+
+  GNSS: Global Navigation Satellite System
+
+  GPS: Global Positioning System
+
+  INS: Inertial Navigation System
+
+  IRS: Inertial Reference System
+
+  LOA: Letter of Authorization
+
+  LRNS: Long Range Navigation Systems
+
+  MGO: Manual Geral de Operações
+
+  NANU: Notice Advisory to Navstar Users
+
+  NAT-HLA: North Atlantic High Level Airspace
+
+  NAT-MNPS: North Atlantic - Minimum Navigation Performance Specification
+
+  NIST: National Institute of Standards and Technology
+
+  NRC: National Research Council
+
+  OTS: Organised Track System
+
+  PTO: Programa de Treinamento Operacional
+
+  Rota RLatSM: Rotas com separação lateral mínima reduzida (Reduced Lateral Separation Minima)
+
+  RAIM/FDE: Receiver Autonomous Integrity Monitoring/Fault Detection and Exclusion'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- system
+- definicoes
+- navigation
+- arrival
+- atlantic
+- global
+- inertial
+- lateral
+- minima
+- national
+- north
+- presente
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-006.md

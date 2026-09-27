@@ -1,0 +1,56 @@
+id: is-is-91-001-h3-6-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H3.6
+section_title: O programa (software) de predição de disponibilidade RAIM não garante o serviço.
+  O programa é, melhor dizendo, uma ferramenta para avaliar a capacidade esperada de satisfazer
+  o desempenho de navegação requerida. Devida a falhas não planejadas de alguns elementos
+  GNSS, os pilotos e o controle de tráfego devem entender que se pode perder tanto o RAIM
+  como a própria navegação GNSS enquanto a aeronave está em voo, o qual poderia requerer uma
+  reversão a um meio de navegação alternativo. Por tanto, os pilotos devem avaliar sua capacidade
+  de navegação (potencialmente, a um aeródromo alternado) em caso de falha da navegação GNSS.
+  Se resultar necessário verificar a integridade do sistema, o programa de predição de RAIM
+  deverá satisfazer os critérios da AC 20-138 do FAA.
+subsection_id: body
+cite: H3.6
+title: O programa (software) de predição de disponibilidade RAIM não garante o serviço. O
+  programa é, melhor dizendo, uma ferramenta para avaliar a capacidade esperada de satisfazer
+  o desempenho de navegação requerida. Devida a falhas não planejadas de alguns elementos
+  GNSS, os pilotos e o controle de tráfego devem entender que se pode perder tanto o RAIM
+  como a própria navegação GNSS enquanto a aeronave está em voo, o qual poderia requerer uma
+  reversão a um meio de navegação alternativo. Por tanto, os pilotos devem avaliar sua capacidade
+  de navegação (potencialmente, a um aeródromo alternado) em caso de falha da navegação GNSS.
+  Se resultar necessário verificar a integridade do sistema, o programa de predição de RAIM
+  deverá satisfazer os critérios da AC 20-138 do FAA.
+text: 'H3.6 O programa (software) de predição de disponibilidade RAIM não garante o serviço.
+  O programa é, melhor dizendo, uma ferramenta para avaliar a capacidade esperada de satisfazer
+  o desempenho de navegação requerida. Devida a falhas não planejadas de alguns elementos
+  GNSS, os pilotos e o controle de tráfego devem entender que se pode perder tanto o RAIM
+  como a própria navegação GNSS enquanto a aeronave está em voo, o qual poderia requerer uma
+  reversão a um meio de navegação alternativo. Por tanto, os pilotos devem avaliar sua capacidade
+  de navegação (potencialmente, a um aeródromo alternado) em caso de falha da navegação GNSS.
+  Se resultar necessário verificar a integridade do sistema, o programa de predição de RAIM
+  deverá satisfazer os critérios da AC 20-138 do FAA.
+
+  H4. PROCEDIMENTOS DE OPERAÇÃO GERAL'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- gnss
+- programa
+- raim
+- avaliar
+- capacidade
+- pilotos
+- predicao
+- satisfazer
+- tanto
+- aerodromo
+- aeronave
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

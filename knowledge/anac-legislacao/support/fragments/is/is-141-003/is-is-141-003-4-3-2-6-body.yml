@@ -1,0 +1,86 @@
+id: is-is-141-003-4-3-2-6-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 4.3.2.6
+section_title: 'Fixos de posição que podem ser obtidos por:'
+subsection_id: body
+cite: 4.3.2.6
+title: 'Fixos de posição que podem ser obtidos por:'
+text: '4.3.2.6 Fixos de posição que podem ser obtidos por:
+
+  -- Leitura direta de latitude e longitude da área
+
+  -- Traçado de alcance e proa simultâneos a partir de uma única
+
+  origem.
+
+  -- Traçado de linhas de posição a partir de múltiplas origens
+
+  -- Permissão para o movimento de aeronaves entre os intervalos de
+
+  linhas de posição
+
+  -- Análise da interseção das múltiplas linhas de posição para
+
+  estimar a posição.
+
+  5 Medida da velocidade da aeronave
+
+  Objetivos Específicos Subunidades
+
+  5.1
+
+  • Definir velocidade indicada, velocidade calibrada,
+
+  velocidade aerodinâmica e velocidade verdadeira,
+
+  • Efetuar cálculos e conversões de unidades de medida de
+
+  velocidade.
+
+  5.2
+
+  • Identificar os erros nos indicadores de velocidades e
+
+  explicar de que forma eles podem ser corrigidos
+
+  5.3
+
+  • Calcular velocidade verdadeira pela indicação direta de
+
+  velocidade.
+
+  • Determinar correções de erro de sistema de pitot estático
+
+  para velocidade calibrada usando dados do manual de voo
+
+  da aeronave.
+
+  • Determinar velocidade equivalente usando cartas de
+
+  correção de compressibilidade.
+
+  • Identificar outros instrumentos que indicam velocidade.
+
+  5.1 Conceitos básicos'
+keywords:
+- escolas
+- treinamento
+- velocidade
+- posicao
+- podem
+- fixos
+- linhas
+- obtidos
+- aeronave
+- calibrada
+- determinar
+- direta
+- identificar
+- medida
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

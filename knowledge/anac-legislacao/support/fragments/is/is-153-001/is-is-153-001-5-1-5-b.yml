@@ -1,0 +1,33 @@
+id: is-is-153-001-5-1-5-b
+kind: is
+document: is-153-001
+family: '153'
+section_id: 5.1.5
+section_title: Os demais itens trazem orientações e esclarecimentos - algumas vezes com exemplos
+  - para o melhor entendimento do conteúdo do RBAC e desta IS.
+subsection_id: b
+cite: 5.1.5(b)
+title: 5.1.5(b)
+text: b) o dimensionamento do sistema e o posicionamento dos equipamentos devem estar compatíveis
+  com a condição de visibilidade mais restritiva sob a qual as operações serão realizadas,
+  bem como com a densidade de tráfego aéreo na hora-pico;
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- aereo
+- algumas
+- compativeis
+- condicao
+- conteudo
+- demais
+- densidade
+- desta
+- dimensionamento
+- entendimento
+- equipamentos
+- esclarecimentos
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-001.md

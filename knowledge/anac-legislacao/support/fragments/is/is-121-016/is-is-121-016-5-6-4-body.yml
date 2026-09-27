@@ -1,0 +1,83 @@
+id: is-is-121-016-5-6-4-body
+kind: is
+document: is-121-016
+family: '121'
+section_id: 5.6.4
+section_title: 'Voos sem designação de aeródromo de alternativa de destino: aeródromos isolados
+  (121.619(a)(2))'
+subsection_id: body
+cite: 5.6.4
+title: 'Voos sem designação de aeródromo de alternativa de destino: aeródromos isolados (121.619(a)(2))'
+text: '5.6.4 Voos sem designação de aeródromo de alternativa de destino: aeródromos isolados
+  (121.619(a)(2))
+
+  5.6.4.1 A outra situação em que o RBAC nº 121 permite a realização de um voo sem designação
+  de um aeródromo de alternativa de destino é quando o aeródromo de destino é isolado.
+
+  5.6.4.2 Aeródromo isolado, conforme definido no RBAC nº 01, é um aeródromo de destino para
+  o qual não há aeródromo de alternativa de destino apropriado para um determinado tipo de
+  aeronave. Na prática, um aeródromo pode ser considerado isolado quando o suprimento de combustível
+  requerido associado ao uso do aeródromo isolado (121.645(c)(4)(iv)) for superior ao que
+  seria requerido para o voo, se fosse selecionado um aeródromo de alternativa de destino
+  mais próximo.
+
+  Nota: tomando como exemplo, um voo de avião com motor a turbina, o suprimento de combustível
+  requerido pelo parágrafo 121.645(c)(4)(iv) é de duas horas sobre o aeródromo de destino,
+  com consumo normal de cruzeiro, já incluindo o combustível de reserva final. Para um voo
+  em que fosse selecionado um aeródromo de alternativa de destino, pelo parágrafo 121.645(c)(4)(i),
+  seria necessário executar uma aproximação perdida no aeródromo de destino, voar até o aeródromo
+  de alternativa de destino e nele pousar, com o combustível de reserva final de 30 minutos,
+  a velocidade de espera. Essas duas quantidades de combustível devem ser comparadas: caso
+  a primeira seja menor, o aeródromo pode ser considerado isolado.
+
+  5.6.4.3 Somente é possível utilizar os critérios para aeródromo isolado se não existir aeródromo
+  adequado que possa ser utilizado como aeródromo de alternativa de destino. Em outras palavras,
+  o operador não pode optar por utilizar um aeródromo de destino como isolado quando for possível
+  indicar um aeródromo de alternativa de destino que requereria menos combustível.
+
+  Nota: no caso de um aeródromo de destino que somente teria um aeródromo de alternativa de
+  destino próximo, a impossibilidade de considerar o aeródromo de destino isolado permanece
+  mesmo se esse aeródromo de alternativa de destino estiver temporariamente indisponível (por
+  exemplo, se o aeródromo de alternativa estiver abaixo dos mínimos de planejamento, o operador
+  deve aguardar as condições melhorarem, para poder realizar o voo com um aeródromo de alternativa).
+  Por outro lado, caso a indisponibilidade seja de caráter mais prolongado, como, por exemplo,
+  em razão de obras, o operador poderia considerar o aeródromo de destino como isolado durante
+  o período de indisponibilidade do único aeródromo de alternativa de destino próximo.
+
+  5.6.4.4 Além de cumprir com os requisitos de suprimento de combustível de 121.645(c)(4)(iv),
+  o operador deve determinar no plano operacional de voo um ponto de não retorno (PNR), que
+  é definido como o último ponto geográfico da rota em que o avião pode seguir tanto para
+  o aeródromo de destino quanto para um aeródromo de alternativa em rota disponível. Esse
+  aeródromo de alternativa deve também ser indicado no plano operacional de voo.
+
+  5.6.4.5 Embora o PNR deva ser indicado no plano operacional de voo, é possível que o cálculo
+  não considere o combustível discricionário e, adicionalmente, não levará em conta as variações
+  no consumo de combustível que ocorram após a decolagem. Dessa forma, os operadores devem
+  fornecer instruções para que a tripulação de voo possa calcular a posição real do PNR, em
+  voo.
+
+  5.6.4.6 Em voo, pouco antes do PNR, o operador deve realizar uma avaliação atualizada das
+  informações meteorológicas, condições de tráfego e outras condições operacionais relevantes,
+  de forma a permitir a previsão de que um pouso seguro possa ser feito no horário estimado
+  de utilização do aeródromo isolado. Caso as informações atualizadas não permitam essa confirmação,
+  o voo deve ser alternado.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- destino
+- alternativa
+- isolado
+- combustivel
+- operador
+- caso
+- designacao
+- pode
+- aerodromos
+- condicoes
+- exemplo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-016.md

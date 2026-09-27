@@ -1,0 +1,31 @@
+id: rbac-rbac-108-emd-07-108-255-c
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.255'
+section_title: Implementação do Programa de Segurança do Operador Aéreo
+subsection_id: c
+cite: 108.255(c)
+title: 108.255(c)
+text: (c) Além do cumprimento dos requisitos deste Regulamento, conforme descrição no PSOA,
+  segundo aplicabilidade presente na seção 108.7, o operador aéreo deve, também, conhecer
+  e cumprir as medidas de AVSEC estabelecidas pelo operador do aeródromo onde opera.
+keywords:
+- seguranca
+- operador
+- aereo
+- aerodromo
+- alem
+- aplicabilidade
+- avsec
+- conhecer
+- cumprimento
+- cumprir
+- descricao
+- deste
+- estabelecidas
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

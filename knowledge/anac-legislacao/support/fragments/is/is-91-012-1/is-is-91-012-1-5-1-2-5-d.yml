@@ -1,0 +1,253 @@
+id: is-is-91-012-1-5-1-2-5-d
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.2.5
+section_title: Conteúdo das páginas do sistema ATA
+subsection_id: d
+cite: 5.1.2.5(d)
+title: 5.1.2.5(d)
+text: 'd) Categoria D: itens nessa categoria devem ser reparados dentro de 120 dias calendáricos
+  consecutivos (2.880h), excluindo o dia em que foi detectado o mau funcionamento, conforme
+  registrado nos registros da aeronave.
+
+  Nota: a título de esclarecimento, se o mau funcionamento de um item categoria C for detectado
+  em 14 de outubro, às 10h, o intervalo de 10 dias começará à 0h do dia 15 de outubro e terminará
+  à 0h do dia 25 de outubro. Assim, vê-se que se exclui o dia 14 de outubro. Nesse exemplo,
+  a aeronave poderia decolar com o item inoperante somente até as 23h59 do dia 24 de outubro.
+
+  5.1.2.5.3.1 Se na MMEL de referência não for especificado o intervalo de reparo, o operador
+  deve propor os intervalos de reparo para sua MEL, considerando os princípios de que o relaxamento
+  da MEL somente é válido por um período limitado de tempo e de que os reparos devem ser efetuados
+  na primeira oportunidade. Recomenda-se a adoção de intervalo de reparo contido em uma MMEL
+  aprovada por outra autoridade aeronáutica membro da OACI para o modelo da aeronave. A adoção
+  de outros intervalos estará sujeita à avaliação da Anac.
+
+  5.1.2.5.4 Para cada item, a MEL deve listar a quantidade instalada em cada aeronave do operador,
+  que pode ser maior ou menor do que o previsto na MMEL (considerando que a MMEL lista a quantidade
+  normalmente instalada para uma aeronave de determinado modelo).
+
+  Nota: durante o processo de certificação de tipo, são estabelecidas a configuração da aeronave
+  e a quantidade de itens instalados. Instalações ou remoções de itens apenas podem ser efetuadas
+  mediante certificação suplementar de tipo, ordem de engenharia ou outro procedimento reconhecido
+  pela Anac.
+
+  5.1.2.5.4.1 As MMEL normalmente utilizam o símbolo “-” para indicar uma quantidade variável
+  instalada, porém, em geral, esse símbolo não pode ser utilizado na MEL do operador. Somente
+  é permitido manter o símbolo “-” se for impraticável evidenciar a quantidade efetivamente
+  instalada de um item específico (por exemplo, bulbos de lâmpada ou LED).
+
+  5.1.2.5.4.2 A informação sobre quantidade de itens instalados na aeronave, declarada na
+  MEL, é responsabilidade do operador. Caso haja dúvidas sobre a quantidade instalada, a Anac
+  poderá solicitar lista de equipamentos que estão instalados na aeronave (por exemplo, um
+  laudo de vistoria) ou outros documentos que comprovem a regularidade da instalação ou remoção
+  dos itens.
+
+  5.1.2.5.4.3 No caso de MEL para uma frota (ver o parágrafo 5.1.2.4.3 desta IS), caso haja
+  quantidade variável de determinado item nas aeronaves de sua frota, o operador deve indicar
+  as possíveis configurações de sua frota, indicando a quantidade instalada em cada configuração.
+
+  5.1.2.5.4.3.1 No caso de algumas aeronaves da frota não terem o item instalado (quantidade
+  instalada igual a zero), o operador pode, a seu critério, listar uma configuração com quantidade
+  instalada igual a zero para uso por essas aeronaves; ou pode fazer uso do símbolo (***)
+  ou equivalente, junto ao nome do item, para indicar que o item somente é aplicável se instalado.
+  Mantém-se, em qualquer das opções, a obrigação do operador de, por meio de um controle de
+  aplicabilidade da MEL permitir aos seus prepostos que utilizem a MEL identificar a configuração
+  e os itens instalados em cada aeronave específica, conforme item 5.1.2.4.3.2 desta IS.
+
+  5.1.2.5.5 Para cada item, a MEL deve listar a quantidade requerida para despacho, que não
+  pode ser inferior à estabelecida na MMEL e que deve atender aos demais critérios do parágrafo
+  5.1.2.3 desta IS.
+
+  5.1.2.5.5.1 Caso a quantidade requerida para despacho dependa do tipo de operação (por exemplo,
+  VFR ou IFR, transporte de passageiros ou de carga), deve ser utilizada a quantidade requerida
+  pela operação menos restritiva, ou seja, a quantidade que sempre será requerida. Nesse caso,
+  as condições e limitações de operação devem complementar a informação, especificando a quantidade
+  requerida para cada situação. Alternativamente, o operador pode optar por descrever as diferentes
+  quantidades requeridas para despacho, associadas a suas diferentes condições, em linhas
+  distintas da MEL.
+
+  5.1.2.5.5.2 Se um item não estiver instalado na aeronave, a quantidade requerida para despacho
+  deve ser zero e não pode haver categoria de reparo associada (ver o parágrafo 5.1.2.5.2.5
+  desta IS).
+
+  5.1.2.5.5.3 Se não for permitido o relaxamento de um item, o operador não precisa incluir
+  o item na MEL. No entanto, caso, a critério do operador, o item seja incluído, a quantidade
+  requerida para despacho deve ser igual à quantidade instalada, não pode haver categoria
+  de reparo associada e deve constar com a observação “NO GO”, “Despacho proibido com este
+  item inoperante” ou equivalente.
+
+  5.1.2.5.5.4 As MMEL normalmente utilizam o símbolo “-” para indicar uma quantidade variável
+  requerida para despacho, porém, em geral, esse símbolo não pode ser utilizado na MEL do
+  operador, que deve estabelecer a quantidade requerida para despacho. Somente é permitido
+  manter o símbolo “-” nos casos em que a quantidade instalada também apresentar esse símbolo
+  (ver o parágrafo 5.1.2.5.4.1 desta IS) e se for apresentado um meio alternativo de verificação
+  do atendimento à condição de despacho.
+
+  5.1.2.5.5.5 No caso de MEL para uma frota (ver o parágrafo 5.1.2.4.3 desta IS), caso seja
+  requerida quantidade variável de determinado item nas aeronaves de sua frota, de acordo
+  com a configuração da aeronave, o operador deve indicar as possíveis configurações de sua
+  frota, indicando as quantidades requeridas para despacho e observações associadas a cada
+  configuração.
+
+  5.1.2.5.5.6 Com base na MMEL, ou outro requisito aplicável, podem ser especificadas mais
+  de uma possibilidade de despacho para um determinado item, com diferentes quantidades requeridas.
+  Deve-se atentar, nesse caso, para que a MEL seja clara sobre quais condições permitem cada
+  possibilidade de despacho.
+
+  5.1.2.5.6 Observações e exceções incluem declarações proibindo ou permitindo a operação
+  com determinada quantidade de itens inoperantes, condições e limitações para essa operação
+  e notas aplicáveis. Conforme a MMEL de referência, os requisitos regulamentares ou os procedimentos
+  do operador, alguns itens requerem a inclusão de observações na MEL. A critério do operador,
+  esse campo pode ser utilizado para descrever também os procedimentos (O) e (M).
+
+  5.1.2.5.6.1 As condições e limitações (provisões) da MEL devem ser tão ou mais restritivas
+  do que as condições e limitações contidas na MMEL.
+
+  5.1.2.5.6.2 Onde a MMEL estabelece como condição “As required by regulations” (ou “as required
+  by 14 CFR” ou equivalente), a MEL deve claramente especificar as condições do regulamento
+  aplicáveis às operações. O operador deve pesquisar a regulamentação para garantir que sua
+  MEL requer esse item operacional sempre que os regulamentos aplicáveis às suas operações
+  requererem sua instalação. Embora se possa fazer referência à seção do regulamento aplicável,
+  essa referência não é suficiente se não for detalhado o requisito que tal seção estabelece,
+  pois, de forma geral, o piloto em comando ou o mecânico de manutenção aeronáutica não terão
+  acesso direto ao regulamento quando precisarem utilizar a MEL. Algumas condições comuns
+  referentes aos regulamentos são relacionadas com a regra de voo utilizada (VFR/IFR), o tipo
+  de operação (passageiros/carga) e a área de operações (espaço aéreo controlado, voo sobre
+  grandes extensões d’água etc.).
+
+  Nota: a Anac disponibiliza uma lista dos principais equipamentos listados em MMEL e os requisitos
+  dos regulamentos de operações associados em https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/modelos-e-formularios.
+  Essa lista serve de material de orientação, mas não é exaustiva.
+
+  5.1.2.5.6.3 O operador pode ainda estabelecer condições e limitações adicionais que, em
+  sua avaliação, sejam adequadas para garantir um nível adequado de segurança operacional
+  ou mesmo o cumprimento adequado dos objetivos do voo. Um exemplo comum é a realização de
+  voos de treinamento ou exames, que podem requerer equipamentos específicos que, de outra
+  forma, poderiam estar inoperantes.
+
+  5.1.2.5.6.4 Observações como “May be inoperative provided procedures do not require its
+  use”, “May be inoperative provided enroute or approach procedures do not require its use”
+  ou equivalentes, que podem ser encontradas em MMEL, não podem ser simplesmente copiadas
+  para a MEL do operador. Nesses casos, o operador deve verificar se seus procedimentos, estabelecidos
+  em seus manuais (MGO, SOP ou AOM, por exemplo), e suas condições de operações requerem o
+  uso do item, detalhando em sua MEL quando o item pode estar inoperante, de acordo com suas
+  operações.
+
+  5.1.2.5.6.4.1 Em alguns casos, especialmente para as ATAs 23 e 34, a determinação de que
+  os procedimentos requerem ou não o uso do item depende da área, do espaço aéreo ou da rota
+  a ser voada, ou ainda dos procedimentos de aproximação a serem utilizados. Essa avaliação
+  deve incluir todo o voo planejado, incluindo os aeródromos de alternativa requeridos.
+
+  5.1.2.5.6.4.2 Caso não seja possível especificar previamente quais procedimentos ou quais
+  rotas requerem o uso de determinado item, o operador deve detalhar na MEL os procedimentos
+  para que seu pessoal de operações de solo (incluindo os despachantes operacionais de voo,
+  quando aplicáveis) e seus tripulantes determinem, no momento do despacho e da decolagem,
+  se o item será requerido para o voo específico a ser realizado. Esses procedimentos podem
+  envolver consulta ao plano de voo e às cartas aeronáuticas.
+
+  5.1.2.5.6.5 Observações como “May be inoperative or missing if alternate procedures are
+  established and used” ou equivalentes, que podem ser encontradas em MMEL, não são suficientes
+  para a elaboração da MEL. Nesses casos, o operador deve estabelecer em sua MEL os citados
+  procedimentos alternativos para o caso de o item estar inoperante ou faltante.
+
+  5.1.2.5.6.6 Observações como “Deactivated and/or secured” ou equivalentes, que podem ser
+  encontradas em MMEL, requerem que o operador estabeleça métodos aceitáveis de desativar
+  e/ou prevenir a utilização do item pela tripulação.
+
+  5.1.2.5.6.7 Observações genéricas ou imprecisas, que podem ser encontradas em MMEL, requerem
+  que o operador as especifique melhor ao elaborar sua MEL.
+
+  5.1.2.5.6.7.1 Por exemplo, se a MMEL traz um texto condicionado à instalação de um item
+  (“Where a servoed electric altimeter is installed a functioning pneumatic altimeter is required”),
+  o operador deve avaliar se o item está ou não instalado e, assim, definir se a observação
+  lhe é aplicável.
+
+  5.1.2.5.6.7.2 Ainda, se, por exemplo, a MMEL traz um texto como “VHF pode estar inoperante
+  desde que o equipamento não seja alimentado pelo barramento de emergência”, o operador deve
+  especificar qual VHF pode estar inoperante, de forma que o correto uso da MEL não dependa
+  da informação sobre a alimentação elétrica do equipamento.
+
+  5.1.2.5.6.8 As observações podem conter ainda notas, com o objetivo de fornecer informação
+  adicional (como, por exemplo, material de referência aplicável) para consideração do pessoal
+  de operações ou de manutenção do operador, orientando o uso da MEL. Notas adicionais às
+  da MMEL podem ser incluídas, editadas ou excluídas a critério do operador. Porém, notas
+  não podem impor condições ou limitações à operação.
+
+  Nota: caso uma nota constante em MMEL imponha condições ou limitações à operação, o operador
+  deve escrevê-la na MEL como parte das provisões - e não como nota.
+
+  5.1.2.6 Procedimentos (O) e (M). Quando requerido pela MMEL, a MEL deve conter os procedimentos
+  operacionais (O) e de manutenção (M), contendo o passo a passo necessário para se garantir
+  a segurança das operações com um item inoperante. O desenvolvimento desses procedimentos
+  é responsabilidade do operador, que deve elaborá-los com base nas orientações contidas na
+  MMEL, nos procedimentos recomendados pelo fabricante (como Dispatch deviation procedures
+  guides - DDPG ou Dispatch deviation guides - DDG, quando existirem) e em outras publicações
+  técnicas do fabricante, sempre em conformidade com suas revisões mais recentes. O operador
+  deve indicar as referências utilizadas para desenvolver seus procedimentos, incluindo part
+  number e o número e data da revisão dessas publicações de referência (por exemplo, programas
+  de manutenção, manual de manutenção, manual de serviço, DDPG, DDG, entre outros). Os símbolos
+  (O) e (M) presentes na MMEL devem ser copiados na MEL do operador, no campo de observações
+  e exceções de cada item para o qual a MEL permita um relaxamento. A critério do operador,
+  outros procedimentos (O) e (M) podem ser adicionados em sua MEL.
+
+  Nota: algumas MMEL possuem seção “Guidelines for (O) & (M) procedures”, com orientações
+  para elaboração dos procedimentos (O) e (M). Normalmente essas orientações não são equivalentes
+  a procedimentos, pois não indicam claramente quais as ações que devem ser tomadas, mas apenas
+  seus objetivos. Nesses casos, o operador deve considerar essas orientações, juntamente com
+  outras publicações técnicas aplicáveis, para desenvolver seus procedimentos.
+
+  5.1.2.6.1 Procedimentos operacionais (O): o símbolo (O) na MMEL indica a necessidade de
+  um procedimento específico de operações, que deve ser cumprido no planejamento ou nas operações
+  de voo com determinado item inoperante. Normalmente são executados pelos tripulantes, podendo,
+  entretanto, outras pessoas serem qualificadas e autorizadas a realizar determinados procedimentos,
+  desde que tal delegação esteja explícita na MEL ou nos manuais do operador. A responsabilidade
+  por se assegurar que os procedimentos foram executados de acordo com a MEL é do operador,
+  independentemente de quem os execute.
+
+  5.1.2.6.2 Procedimentos de manutenção (M): o símbolo (M) na MMEL indica a necessidade de
+  um procedimento específico de manutenção, que deve ser cumprido antes de uma operação prosseguir
+  com o item relacionado inoperante. Devem ser executados pelo pessoal de manutenção do operador,
+  por organização de manutenção contratada ou por outra pessoa autorizada a executar manutenção
+  e aprovar para retorno ao serviço, observando-se os requisitos das seções 43.3 e 43.7 do
+  RBAC nº 43. A responsabilidade por se assegurar que os procedimentos foram executados de
+  acordo com a MEL é do operador, independentemente de quem os execute.
+
+  5.1.2.6.2.1 Alguns procedimentos que requerem conhecimentos ou habilitações específicos,
+  ou que requerem o uso de ferramentas ou equipamentos de teste podem ser indicados na MMEL
+  de referência, ou apenas na MEL do operador, por símbolo específico, como, por exemplo,
+  (M#).
+
+  5.1.2.6.3 Na determinação dos procedimentos, os operadores devem especificar quando os procedimentos
+  devem ser realizados, tendo em conta que, enquanto alguns procedimentos devem ser realizados
+  apenas na primeira vez em que a aeronave for operar com um determinado item inoperante,
+  outros procedimentos podem ser requeridos repetidamente enquanto o item estiver inoperante
+  (por exemplo, a cada partida, a cada voo ou a cada dia de voo).
+
+  5.1.2.6.4 O operador pode incluir nas observações e nos procedimentos (O) e (M) referências
+  a uma seção, capítulo, parágrafo ou tarefa de algum outro manual aceito ou aprovado pela
+  Anac que contenha os procedimentos requeridos para atender à situação do item inoperante.
+  Por exemplo, um procedimento (O) pode referenciar uma seção do manual da aeronave (AFM ou
+  AOM); ou um procedimento (M) pode referenciar uma tarefa do manual de manutenção da aeronave
+  (AMM). Caso seja utilizada referência como alternativa a escrever os procedimentos diretamente
+  na MEL, as seguintes condições devem ser atendidas:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operador
+- procedimentos
+- mmel
+- quantidade
+- pode
+- podem
+- aeronave
+- caso
+- condicoes
+- despacho
+- exemplo
+- cada
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

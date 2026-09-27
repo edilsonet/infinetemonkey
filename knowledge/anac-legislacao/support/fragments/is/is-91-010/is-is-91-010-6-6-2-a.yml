@@ -1,0 +1,40 @@
+id: is-is-91-010-6-6-2-a
+kind: is
+document: is-91-010
+family: '91'
+section_id: 6.6.2
+section_title: 'Uma especificação RCP é composta pelos seguintes parâmetros:'
+subsection_id: a
+cite: 6.6.2(a)
+title: 6.6.2(a)
+text: 'a) Tempo de Transação: tempo máximo (em segundos) para que uma transação de comunicação
+  seja completada (contado do momento em que uma das partes da comunicação envia a mensagem
+  até o momento em que esta parte recebe a resposta). Subdivide-se nos seguintes parâmetros:
+
+  I. Tempo Nominal de Transação (TT): tempo máximo (em segundos) dentro do qual 95% das transações
+  de comunicação devem ser completadas; e
+
+  II. Tempo Operacional de Transação: tempo máximo (em segundos) dentro do qual 99,9% das
+  transações de comunicação devem ser completadas. Após este tempo, caso a transação não tenha
+  se completado, deve-se considerar atingido o Tempo de Expiração (ET) da comunicação, e a
+  parte que iniciou a comunicação deve reverter para um procedimento de comunicação alternativo;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- tempo
+- comunicacao
+- transacao
+- maximo
+- segundos
+- completadas
+- dentro
+- momento
+- parametros
+- parte
+- qual
+- seguintes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

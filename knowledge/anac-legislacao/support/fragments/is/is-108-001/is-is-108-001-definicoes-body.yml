@@ -1,0 +1,91 @@
+id: is-is-108-001-definicoes-body
+kind: is
+document: is-108-001
+family: '108'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+
+  Aeronave em manutenção: significa a aeronave estacionada, enquanto estiver sendo submetida
+  a procedimentos de manutenção com a presença de funcionários do operador aéreo.
+
+  Aeronave em operação no solo: significa a aeronave estacionada, enquanto estiver ocorrendo
+  o embarque e o desembarque de passageiros, bem como as atividades preparatórias para início
+  do voo, tais como: limpeza, abastecimento de combustível, carregamento do porão e recebimento
+  de provisões de serviço de bordo.
+
+  Aeronave fora operação: significa a aeronave estacionada que não está em operação no solo
+  e nem em manutenção.
+
+  Auditoria AVSEC: avaliação detalhada de todos os aspectos previstos no PNAVSEC e na regulamentação
+  da ANAC dentro das organizações envolvidas na segurança da aviação civil, para determinar
+  o grau de conformidade frente à regulamentação vigente.
+
+  Carga consolidada: compreende a consolidação de múltiplas remessas de carga ou volumes de
+  carga, de um ou mais expedidor ou agente de carga em um ou mais pallets ou dispositivos
+  similares.
+
+  Carga em trânsito: carga que permanece a bordo da aeronave ou que desembarca em aeródromo
+  intermediário para reembarcar na mesma aeronave.
+
+  Exercício AVSEC: representa formas de treinamento para verificar a eficácia de procedimentos
+  de segurança, principalmente no que tange aos Planos de Contingência.
+
+  Funcionário: quando não especificado, entende-se como qualquer pessoa contratada pelo operador
+  aéreo, de forma direta ou indireta, ou preposto que esteja, sob autorização formal do operador
+  aéreo, prestando serviço para este.
+
+  Inspeção AVSEC: corresponde à avaliação de um ou mais aspectos das medidas e procedimentos
+  de segurança das organizações envolvidas nas atividades AVSEC, com o objetivo de avaliar
+  o grau de conformidade frente à regulamentação vigente.
+
+  Item proibido em bagagem despachada ou em carga e mala postal: item que compromete a segurança
+  da aviação civil, incluindo armas de fogo e artigos perigosos não declarados, bem como substância
+  explosiva, incendiária ou destrutiva.
+
+  Objeto(s) suspeito(s): qualquer substância, objeto ou volume, incluindo bagagem de mão,
+  bagagem despachada, carga e correio, suspeito de conter artefatos explosivos, artefatos
+  QBRN ou outro artigo perigoso com potencial de causar dano iminente.
+
+  Reciclagem: significa uma atividade prática conduzida por organização com responsabilidade
+  AVSEC para o profissional que desempenha atividade em seu benefício que busca enfatizar
+  conhecimentos e técnicas identificados como frágeis em atividade de fiscalização ou de controle
+  de qualidade realizada pela ANAC ou pela organização com responsabilidade AVSEC.
+
+  Remessa de carga ou mala postal: Conjunto de volumes de carga ou mala postal encaminhados
+  ao operador aéreo por um expedidor ou agente de carga. Cada remessa possui um único destino.
+
+  Teste AVSEC: simulação de ato de interferência ilícita que objetiva verificar o desempenho
+  das medidas de segurança existentes e procedimentos aplicados em determinado local.
+
+  Treinamento em serviço: significa uma etapa da certificação em Inspeção de Segurança da
+  Aviação Civil, com propósito de orientar e avaliar o profissional em relação às suas habilidades
+  e conhecimentos no desempenho de atividade AVSEC em ambiente operacional.
+
+  Volume de carga ou mala postal: Caixa, envelope ou qualquer item individual similar dentro
+  de uma remessa de carga. O número de volumes dentro da remessa é determinado pelo número
+  de itens descritos no AWB ou documento que o substitua. Uma remessa ou parte de uma remessa
+  contida em um pallet (ou similar), quando é evidente que é composta por vários itens não
+  é considerada um único volume, mesmo que assim esteja descrito na documentação da carga.'
+keywords:
+- seguranca
+- operador
+- carga
+- aeronave
+- avsec
+- remessa
+- significa
+- aereo
+- atividade
+- mala
+- postal
+- procedimentos
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-108-001.md

@@ -1,0 +1,52 @@
+id: is-is-121-021-9-2-1-body
+kind: is
+document: is-121-021
+family: '121'
+section_id: 9.2.1
+section_title: Introdução
+subsection_id: body
+cite: 9.2.1
+title: Introdução
+text: '9.2.1 Introdução
+
+  a) Os requisitos aqui mencionados são apenas para reforçar a necessidade de qualificação
+  adequada, mas não são de forma algumas instruções sobre como qualificar um FSTD, que é uma
+  atividade que está fora do escopo desta IS.
+
+  b) A maioria dos FSTD pode ser usada satisfatoriamente para o treinamento relacionado ao
+  AOA e para uma porção significativa do treinamento de perdas de controle que não se configuram
+  como estol completo. Na medida em que o avião simulado permanece dentro de seu ETV (a partir
+  dos dados do envelope de voo da aeronave fornecidos pelo OEM e usados ​​para qualificação
+  do FSTD) para ângulo de ataque e guinada, a perda de controle subsequente com atitudes mais
+  altas (ângulo de ataque ou guinada) pode ser representado de forma confiável. No entanto,
+  a maioria dos modelos de FSTD atuais não representam adequadamente a aeronave em um regime
+  pós-estol. O desenvolvimento e uso de um “modelo aerodinâmico pós-estol representativo do
+  tipo” para apoiar a demonstração de um estol além do ângulo crítico de ataque (estol completo
+  ou regime pós-estol), é necessário para que tal treinamento seja realizado.
+
+  c) Um programa de treinamento de estol eficaz e abrangente requer melhorias nos aspectos
+  da dinâmica do modelo de voo, modelo de desempenho da aeronave e sistemas de aviso/alerta
+  de estol do FSTD. A qualificação adequada do FSTD para conduzir o programa completo de UPRT
+  descrito nesta IS é obtida pelo cumprimento dos requisitos aplicáveis ​​da Diretiva nº 2
+  do 14 CFR Part 60, da FAA, ou da Diretiva nº 2 do LAR 60, do SRVSOP (ou regulamentos equivalentes),
+  o que inclui as seguintes considerações.'
+keywords:
+- transporte-aereo
+- operacoes
+- estol
+- fstd
+- treinamento
+- aeronave
+- angulo
+- ataque
+- completo
+- introducao
+- modelo
+- qualificacao
+- adequada
+- controle
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

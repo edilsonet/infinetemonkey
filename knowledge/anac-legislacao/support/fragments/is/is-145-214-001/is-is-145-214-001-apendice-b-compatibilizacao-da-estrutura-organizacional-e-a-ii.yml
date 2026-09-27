@@ -1,0 +1,92 @@
+id: is-is-145-214-001-apendice-b-compatibilizacao-da-estrutura-organizacional-e-a-ii
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-b-compatibilizacao-da-estrutura-organizacional-e
+section_title: APÊNDICE B - COMPATIBILIZAÇÃO DA ESTRUTURA ORGANIZACIONAL E
+subsection_id: a-ii
+cite: apendice-b-compatibilizacao-da-estrutura-organizacional-e(a-II)
+title: apendice-b-compatibilizacao-da-estrutura-organizacional-e(a-II)
+text: '(a)-II do RBAC 145, desde que atenda simultaneamente às condições estabelecidas no
+  subpa-
+
+  rágrafo 5.6.1.2 desta IS e na seção 145.3 (a)-I e Apêndice A
+
+  do RBAC 145, respectivamente.
+
+  Item SIGLA DESCRIÇÃO APLICABILIDADE
+
+  1 GR Gestor Responsável Mandatório
+
+  2 RSO Representante da Alta Direção para a Se-
+
+  gurança Operacional
+
+  De acordo com a escalabili-
+
+  dade (ver Apêndice A)
+
+  3 CSO Comitê de Segurança Operacional De acordo com a escalabili-
+
+  dade (ver Apêndice A)
+
+  4 GASO Grupo de Ação da Segurança Operacio-
+
+  nal MandatórioData de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  B1.11. No caso de pessoas distintas, o RT pode representar tecnicamente o GR perante à ANAC,
+  tal
+
+  como previsto na seção 145.151(a)-I do RBAC 145. Entretanto, tal representação é limitada
+  a
+
+  responder pela implementação de ações demandadas pelo gerenciamento de riscos aplicado aos
+
+  processos e procedimentos afetos à qualidade dos serviços prestados pela organização. Neste
+
+  caso, o RT não responde pela alocação dos recursos necessários, uma vez que tal responsabili-
+
+  dade cabe exclusivamente ao GR.
+
+  B1.12. Com exceção do GR, que é definido segundo atributos e características, e não por
+  indicação,
+
+  recomenda-se que um dos critérios básicos para escolha do pessoal envolvido com o SGSO
+
+  seja a voluntariedade, sendo a designação compulsória a última opção.
+
+  B1.13. O fluxograma e as perguntas apresentados respectivamente nos Apêndices H e I da IS
+  119-002
+
+  devem ser utilizados pela OM para auxiliar na identificação de seu GR.
+
+  B2. AVALIAÇÃO DA CAPACIDADE DE DECISÃO E ATUAÇÃO DO GR NAS QUESTÕES
+
+  AFETAS À SEGURANÇA OPERACIONAL
+
+  B2.1. Uma vez identificado o GR, em atendimento aos critérios estabelecidos no subparágrafo
+  5.6.1.2
+
+  desta IS, cabe à Alta Direção assegurar formalmente à ANAC que o GR é a pessoa que:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- apendice
+- dade
+- operacional
+- seguranca
+- acordo
+- alta
+- cabe
+- caso
+- compatibilizacao
+- criterios
+- desta
+- direcao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

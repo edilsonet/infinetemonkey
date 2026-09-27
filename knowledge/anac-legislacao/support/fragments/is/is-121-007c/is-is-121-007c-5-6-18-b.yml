@@ -1,0 +1,37 @@
+id: is-is-121-007c-5-6-18-b
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.6.18
+section_title: Tabelas de manobras e procedimentos
+subsection_id: b
+cite: 5.6.18(b)
+title: 5.6.18(b)
+text: b) um “A” indica que um FSTD de nível mais baixo pode ser utilizado para o treinamento
+  de procedimentos se aquele dispositivo tiver as representações de sistemas e funções necessárias
+  para o treinamento do evento. Como estas representações de sistemas e funções excedem os
+  requisitos básicos para aquele nível de dispositivo, um “A” indica que o dispositivo deve
+  ser avaliado e aprovado para aquele evento em particular. Qualquer manobra ou procedimento
+  permitido em um nível específico de FSTD também pode ser conduzido em um simulador ou dispositivo
+  de treinamento de nível mais alto ou na própria aeronave (desde que o evento possa ser realizado
+  com segurança na aeronave);
+keywords:
+- transporte-aereo
+- operacoes
+- dispositivo
+- nivel
+- aquele
+- evento
+- treinamento
+- aeronave
+- fstd
+- funcoes
+- indica
+- pode
+- procedimentos
+- representacoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

@@ -1,0 +1,300 @@
+id: is-is-21-61-005-introducao-i
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: introducao
+section_title: Introdução
+subsection_id: i
+cite: introducao(i)
+title: introducao(i)
+text: '(i) Quando um período é especificado em dias corridos ou dias de voo, o intervalo exclui
+  o dia da descoberta.
+
+  (ii) Para todos os outros intervalos (por exemplo, voos, trechos de voo, ciclos, horas),
+  ele deverá começar no momento em que o item for despachado pelo operador.
+
+  18. ''Item'' é um instrumento, equipamento, sistema, componente, mensagem ou função que
+  é instalado ou exibido na aeronave.
+
+  19. ''Item operante'' é aquele que cumprirá sua finalidade pretendida e está consistentemente
+  funcionando normalmente dentro de seus limites operacionais e tolerâncias de projeto. Quando
+  um item da MMEL especifica que um item deve estar operante, não é necessário verificar o
+  status operacional do item. Ele deve ser considerado operante, a menos que seja relatado
+  ou conhecido como apresentando mau funcionamento. Veja também a definição de ‘Verificado
+  operante’.
+
+  20. ''Itens excedentes'' são itens que foram instalados em uma quantidade maior do que a
+  exigida pelos regulamentos aplicáveis.
+
+  21. ''Lista de Equipamentos Mínimos (Minimum Equipment List - MEL)'' significa um documento
+  aprovado para uso de um operador de aeronave, em conformidade com ou mais restritivo que
+  a MMEL estabelecida para o tipo ou modelo específico da aeronave, que lista itens que podem
+  estar temporariamente inoperantes, observadas as limitações, procedimentos e condições especiais
+  de operação ali descritas, conforme aplicável.
+
+  22. ''Lista Mestra de Equipamentos Mínimos (Master Minimum Equipment List - MMEL)'' significa
+  um documento aprovado para um tipo ou modelo específico de aeronave que lista itens que
+  podem estar temporariamente inoperantes, observadas as limitações, procedimentos e condições
+  especiais de operação ali descritas, conforme aplicável.
+
+  23. ''(M)'' Este símbolo indica que um procedimento de manutenção específico deve ser realizado
+  antes da operação com o item listado inoperante. Normalmente, esses procedimentos são realizados
+  por pessoal de manutenção, no entanto, outras pessoas podem ser qualificadas e autorizadas
+  a executar certas funções. A realização satisfatória de todos os procedimentos de manutenção,
+  independentemente de quem os executa, é de responsabilidade do operador.
+
+  24. ''Não é usado'' nas disposições, observações ou exceções para um item da MMEL pode especificar
+  que outro item aliviado na MMEL não seja usado. Em tais casos, os membros da tripulação
+  não devem ativar, atuar ou utilizar de outra forma esse item em operações normais. Não é
+  necessário que os operadores realizem os procedimentos (M) associados a esse outro item.
+  No entanto, as disposições relacionadas às operações, os procedimentos (O) devem ser cumpridos.
+  Um placar adicional deve ser afixado, na medida do possível, adjacente ao controle ou indicador
+  para o item que não deve ser usado para informar os membros da tripulação que um item não
+  deve ser usado em operações normais.
+
+  25. ''Notas'' presentes na coluna Observações ou Exceções de um item da MMEL, fornecem informações
+  adicionais a serem consideradas pela tripulação de voo ou equipe de manutenção. São usadas
+  para indicar material orientativo para auxiliar na conformidade do item, mas não isentam
+  o operador da aeronave da responsabilidade pelo cumprimento com todos os requisitos aplicáveis.
+  As notas não fazem parte das provisões.
+
+  26. ''Número do item'' é uma identificação única associada a cada item da MMEL.
+
+  27. ''Número instalado'' é uma coluna da MMEL que indica o número (a quantidade) de itens
+  normalmente instalados na aeronave. Este número representa a configuração da aeronave considerada
+  no desenvolvimento da MMEL. Caso o número seja variável ou seja impraticável determinar
+  exatamente, um número não é necessário, e o símbolo de traço “-” é usado em seu lugar (por
+  exemplo, quando trata-se de equipamento opcional, há diferenças de configuração da frota,
+  itens de iluminação da cabine ou do cockpit, componentes de contenção de carga, parâmetros
+  de gravação dos dados de voo (FDR), etc).
+
+  28. ''Número requerido para despacho'' é uma coluna da MMEL que indica o número mínimo (a
+  quantidade) de itens requeridas para a operação, desde que as condições especificadas sejam
+  atendidas. Caso o número seja uma variável (por exemplo, itens de cabine de passageiros)
+  ou não aplicável, um número não é necessário e um ''-'' (traço) é então inserido.
+
+  29. ''(O)'' Este símbolo indica que um procedimento operacional específico precisa ser realizado
+  no planejamento e/ou operação com o item listado inoperante. Normalmente, esses procedimentos
+  são realizados pela tripulação de voo; no entanto, outras pessoas podem ser qualificadas
+  e autorizadas a executar certas funções. A realização satisfatória de todos os procedimentos,
+  independentemente de quem os executa, é de responsabilidade do operador.
+
+  30. ''Observações ou exceções'' é uma coluna da MMEL que pode estar em branco ou pode incluir
+  declarações proibindo ou permitindo a operação com um número específico de itens inoperantes,
+  ressalvas (condições e limitações), notas, símbolos (M) e/ou (O), conforme apropriado para
+  tal operação.
+
+  31. ''Operações prolongadas (Extended Range - ER) ou ETOPS'' refere-se a uma aprovação para
+  operações prolongadas de uma aeronave de acordo com os regulamentos aplicáveis.
+
+  32. ''Página de Sistema'' é uma página da MMEL dividida em colunas que incluem número sequencial,
+  item, categoria de reparo, número instalado, número requerido para despacho e observações
+  ou exceções.
+
+  33. ''Placares'' Cada item inoperante deve receber um placar, conforme aplicável, para informar
+  e lembrar os membros da tripulação e o pessoal de manutenção da condição do item. Na medida
+  do possível, os placares devem ser localizados adjacentes ao controle ou indicador do item
+  afetado; no entanto, a menos que especificado de outra forma, o texto e a localização do
+  placar serão determinados pelo operador.
+
+  34. ''Procedimentos alternativos são estabelecidos e usados'' ou declaração similar, significa
+  que procedimentos alternativos devem ser desenvolvidos pelo operador como parte do processo
+  de aprovação da MEL. Tais procedimentos alternativos são normalmente incluídos no procedimento
+  de operações (O) associado.
+
+  35. ''Provisões'' são as condições ou limitações que devem ser cumpridas para a operação
+  com o item listado inoperante.
+
+  36. ''Rota de voo pretendida'' corresponde a qualquer ponto na rota, incluindo desvios para
+  alcançar aeródromos alternativos que devem ser selecionados pelas regras operacionais.
+
+  37. ''Traço (-)'' nas colunas de número instalado ou requerido indica número variável de
+  itens instalados ou requeridos ou pode indicar também ‘não aplicável’.
+
+  38. ''Umidade visível'' significa um ambiente atmosférico que contém água em qualquer forma
+  que possa ser vista em luz natural ou artificial, por exemplo, nuvens, neblina, névoa, chuva,
+  granizo ou neve.
+
+  39. ''Verificado Operante'' significa que é necessário verificar e confirmar que o item
+  está operante no(s) intervalo(s) especificado(s) para aquele item da MMEL (por exemplo,
+  verificado operante antes de cada voo). Se nenhum intervalo for especificado, a verificação
+  será necessária apenas no momento do despacho do item original.
+
+  40. ''Visita de Manutenção Pesada (Heavy Maintenance Visit - HMV)'' é uma inspeção programada,
+  como um check C ou check D, ou inspeção do programa de manutenção de aeronavegabilidade,
+  onde a aeronave está programada para ficar fora de serviço por quatro ou mais dias corridos.
+
+  41. ''Voo prolongado sobre a água'' significa um voo em que a aeronave é operada sobre a
+  água, longe de uma porção de terra adequada a um pouso de emergência, conforme definido
+  nos regulamentos operacionais aplicáveis.
+
+  1. ‘Alternate procedures are established and used’ or similar statement, means that alternate
+  procedures must be developed by the operator as part of the MEL approval process. Such alternate
+  procedures are normally included in the associated operations (O) procedure.
+
+  2. ‘As required by (operational or local) regulations'' means that the listed item is subject
+  to certain provisions (restrictive or permissive) expressed in the applicable legislation.
+  When the equipment is not required, it may be inoperative for the time specified by its
+  rectification interval category.
+
+  3. ‘ATA’ refers to an internationally standardized numerical system, developed to identify
+  systems and components of different aircraft in a common format.
+
+  4. ‘Calendar day’ means a 24-hour period from midnight to midnight based on either UTC or
+  local time, as selected by the operator. All calendar days are considered to run consecutively.
+
+  5. ‘Considered Inoperative’ as used in the Remarks or Exceptions column, means that item
+  must be treated for dispatch, taxiing and flight purposes as though it were inoperative.
+  The item must not be used or operated until the original deferred item is repaired. Additional
+  actions include: documenting the item on the dispatch release (if applicable), placarding,
+  and complying with all remarks, exceptions, and related MMEL provisions, including any (M)
+  and (O) procedures; considering applicable notes; and observing the rectification interval.
+
+  6. ‘Day of discovery’ means the calendar day that a malfunction was recorded in the aircraft
+  maintenance record/logbook.
+
+  7. ‘Day or Daylight’ means the period between the beginning of morning civil twilight and
+  the end of evening civil twilight relevant to the local aeronautical airspace; or such other
+  period, as may be prescribed by the appropriate authority.
+
+  8. ‘Deactivated or Secured’, or both, means that the specified item must be put into an
+  acceptable condition for safe flight. An acceptable method of deactivating or securing may
+  either be recommended by the manufacturer or established by the aircraft operator.
+
+  9. ‘Excess Items’ are items that have been installed in a quantity greater than that required
+  by applicable regulations.
+
+  10. ‘Extended range operations (ER) or ETOPS’ refers to an approval for extended range operations
+  of an airplane in accordance with the applicable regulations.
+
+  11. ‘Extended overwater flight’ means a flight where the aircraft is operated over water
+  at a distance, away from land suitable for making an emergency landing, as defined in applicable
+  operational regulations.
+
+  12. ‘Flight Day’ is a 24-hour period from midnight to midnight based on either UTC or local
+  time, as selected by the operator, during which at least one flight is initiated for the
+  affected aircraft.
+
+  13. ‘Heavy Maintenance Visit (HMV)’ is a scheduled inspection, such as a C-check/D-check,
+  or airworthiness maintenance program inspection where the aircraft is scheduled to be out
+  of service for four or more consecutive calendar-days.
+
+  14. ‘Icing Conditions’ means an atmospheric environment that may cause ice to form on the
+  aircraft or in the engines. Icing conditions may be known or forecast, and may be defined
+  in the Airplane Flight Manual (AFM), Rotorcraft Flight Manual (RFM), or Pilot Operating
+  Handbook (POH).
+
+  15. ‘Inoperative’ means that the item does not accomplish its intended purpose or is not
+  consistently functioning within its approved operating limits or tolerances.
+
+  16. ‘Inoperative components of an inoperative system’ are usually considered components
+  directly associated with and having no other function than to support that system. Warning/caution
+  systems associated with the inoperative system must be operative unless relief is specifically
+  authorized per the MMEL.
+
+  17. ‘Intended flight route’ corresponds to any point on the route including diversions to
+  reach alternate aerodromes required to be selected by the operational rules.
+
+  18. ‘Is not used’ in the provisions, remarks or exceptions for an MMEL item may specify
+  that another item relieved in the MMEL ‘is not used’. In such cases, crew members should
+  not activate, actuate, or otherwise utilize that item under normal operations. It is not
+  necessary for the operators to accomplish the (M) procedures associated with this another
+  item. However, operations-related provisions, (O) procedures must be complied with. An additional
+  placard must be affixed, to the extent practical, adjacent to the control or indicator for
+  the item that is not used to inform crew members that an item is not to be used under normal
+  operations.
+
+  19. ‘Item’ is an instrument, equipment, system, component, message, or function that is
+  installed on or exhibited by the aircraft.
+
+  20. ‘Item Number’ is a unique identification associated with each MMEL item.
+
+  21. ‘(M)’ symbol indicates a requirement for a specific maintenance procedure which must
+  be accomplished prior to operation with the listed item inoperative. Normally these procedures
+  are accomplished by maintenance personnel, however, other personnel may be qualified and
+  authorized to perform certain functions. The satisfactory accomplishment of all maintenance
+  procedures, regardless of who performs them, is the responsibility of the operator.
+
+  22. ‘Master Minimum Equipment List (MMEL)’ means an approved document for a specific aircraft
+  type or model which lists items that may be temporarily inoperative, provided that limitations,
+  procedures and special operating conditions therein described are met, as applicable.
+
+  23. ‘Minimum Equipment List (MEL)’ means an approved document to be used by an aircraft
+  operator, in conformity to or more restrictive than the MMEL established for the aircraft
+  type or specific model, which lists items that may be temporarily inoperative, provided
+  that limitations, procedures and special operating conditions therein described are met,
+  as applicable. This definition may vary depending on local regulations.
+
+  24. ‘Nonessential Equipment and Furnishings (NEF)’ are those items installed on the aircraft
+  that have no effect on the safe operation of flight and would not be required by the applicable
+  certification or operational rules. These are items that, if inoperative, damaged, or missing,
+  have no effect on the aircraft’s ability to be operated safely under all operational conditions.
+
+  25. ‘Notes’ in the Remarks or Exceptions column for an MMEL item, a note provides additional
+  information for flight crew or maintenance consideration. Notes are used to identify applicable
+  material that is intended to assist with compliance, but do not relieve the aircraft operator
+  of the responsibility for compliance with all applicable requirements. Notes are not part
+  of the proviso.
+
+  26. ‘Number installed’ is a column in MMEL that indicates the number (quantity) of items
+  normally installed in the aircraft. This number represents the aircraft configuration considered
+  in developing the MMEL. Should the number be a variable or impractical to exactly determine,
+  a number is not required, and the dash “-” symbol is used instead (e.g., optional equipment,
+  fleet configuration differences, cockpit lighting items, cabin lighting items, cargo restraint
+  components, Flight Data Recorder (FDR) recording parameters, etc).
+
+  27. ‘Number required for dispatch’ is a column in MMEL that indicates the minimum number
+  (quantity) of items required for operation provided the conditions specified are met. Should
+  the number be a variable (e.g. passenger cabin items) or not applicable, a number is not
+  required and a ‘-’ (dash) is then inserted.
+
+  28. ‘(O)’ symbol indicates a requirement for a specific operational procedure which must
+  be accomplished in planning for and/or operating with the listed item inoperative. Normally
+  these procedures are accomplished by the flight crew; however, other personnel may be qualified
+  and authorized to perform certain functions. The satisfactory accomplishment of all procedures,
+  regardless of who performs them, is the responsibility of the operator.
+
+  29. ‘Operative’ item is one that will accomplish its intended purpose and is consistently
+  functioning normally within its design operating limit(s) and tolerance(s). When an MMEL
+  item specifies an item must be operative, it is not required to verify the item’s operational
+  status. It should be considered operative unless reported or known to be malfunctioning.
+  See definition for ‘Verified Operative’.
+
+  30. ‘Placarding’ Each inoperative item must be placarded, as applicable, to inform and remind
+  the crew members and maintenance personnel of the item’s condition. To the extent practical,
+  placards should be located adjacent to the control or indicator for the item affected; however,
+  unless otherwise specified, placard wording and location will be determined by the operator.
+
+  31. ‘Proviso’ is used to stipulate conditions or limitations that must be complied with
+  for operation with the listed item inoperative.
+
+  32. ‘Remarks or Exceptions’ is a MMEL column that may be blank, or it may include statements
+  either prohibiting or allowing operation with a specific number of items inoperative, provisos
+  (conditions and limitations), notes, (M) and/or (O) symbols, as appropriate for such operation.
+
+  33. ‘Repair interval’ is the time or frequency on which an aircraft is allowed to be operated
+  with inoperative items specified in a MMEL or MEL. The operator is responsible to accomplish
+  repairs of inoperative items at or prior to expiration of the repair intervals established
+  in MMEL/ MEL. When computing the repair interval, the following rules apply:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- that
+- aircraft
+- inoperative
+- numero
+- with
+- items
+- applicable
+- flight
+- means
+- must
+- procedures
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

@@ -1,0 +1,89 @@
+id: is-is-91-001-apendice-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: apendice
+section_title: APÊNDICE
+subsection_id: body
+cite: apendice
+title: APÊNDICE
+text: 'APÊNDICE
+
+  RNAV 10
+
+  C
+
+  RNAV 5
+
+  D
+
+  RNAV 1 e 2
+
+  E
+
+  RNP 4
+
+  F
+
+  RNP 1
+
+  G
+
+  RNP 2
+
+  H
+
+  RNP APCH
+
+  I
+
+  APV/BARO-VNAV
+
+  J
+
+  RNP AR APCH
+
+  K
+
+  RNP AR DP
+
+  L
+
+  A-RNP
+
+  M
+
+  Tabela 3: relação das operações PBN especificadas nos apêndices desta IS.
+
+  5.1.16 Embora as distintas operações PBN possuam aspectos em comum, o cumprimento ao estabelecido
+  pela presente IS, por parte do operador, deve ser satisfeito individualmente para cada uma
+  das especificações para as quais o operador desejar autorização para operação. De tal maneira,
+  exceto quando explicitamente declarado, a demonstração de conformidade com uma determinada
+  especificação de navegação não garante a conformidade com as demais.
+
+  5.1.17 Operações de aproximação GNSS com aprimoramento de sinal (signal augmentation), tais
+  como SBAS e GBAS, não são cobertas por esta IS. O mesmo se aplica às operações LP e LPV
+  cujo funcionamento se vale do mesmo princípio de aprimoramento do sinal de posicionamento
+  proveniente dos satélites.
+
+  5.2 Processo de Aprovação PBN'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- apendice
+- rnav
+- apch
+- aprimoramento
+- conformidade
+- mesmo
+- operador
+- sinal
+- apendices
+- aplica
+- aprovacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

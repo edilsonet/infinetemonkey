@@ -1,0 +1,444 @@
+id: is-is-120-016-13-01-2026-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: 13.01.2026
+section_title: 13.01.2026
+subsection_id: body
+cite: 13.01.2026
+title: 13.01.2026
+text: '13.01.2026
+
+  Objetivo
+
+  1.1 Esta Instrução Suplementar - IS tem por objetivo fornecer informações sobre um meio
+  aceitável para que uma empresa detentora ou que deseje obter um Certificado de Operador
+  Aéreo (COA) realize ou contrate manutenção de suas aeronaves e componentes, além de descrever
+  as diferenças entre os requisitos presentes na subparte L do RBAC nº 121 e na subparte J
+  do RBAC nº 135. Por fim, esta Instrução Suplementar também tem por objetivo apresentar o
+  conceito de um Programa de Manutenção de Aeronavegabilidade Continuada (PMAC) de uma empresa
+  aérea, explicando cada um dos seus 10 elementos.
+
+  Revogação
+
+  2.1 Esta IS revoga a IS nº 120-016, Revisão C.
+
+  Fundamentos
+
+  3.1 A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar
+  - IS, norma suplementar de caráter geral editada pelo Superintendente da área competente,
+  objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC.
+
+  3.2 O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito
+  previsto em RBAC, poderá:
+
+  a) adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo nesse caso,
+  a análise e concordância expressa do órgão competente da ANAC.
+
+  3.3 O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  3.4 A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC
+  ou outro ato normativo.
+
+  3.5 Esta IS é fundamentada e objetiva oferecer método de cumprimento às seções 121.367 do
+  RBAC nº 121 e 135.425 do RBAC nº 135, que requerem que um detentor de certificado de operador
+  aéreo, exceto aquele que opere somente aeronaves enquadradas sob o parágrafo 135.411(a)(1)
+  do RBAC nº 135, tenha um Programa de Manutenção de Aeronavegabilidade Continuada (PMAC).
+
+  3.6 Esta IS contempla ainda, orientações para o cumprimento das seções 121.379 do RBAC nº
+  121 e 135.437 do RBAC nº 135, que estabelecem que um operador aéreo pode executar manutenção,
+  manutenção preventiva, alterações e reparos aplicáveis às aeronaves da sua frota, assim
+  como aprová-las para retorno ao serviço.
+
+  3.7 Esta IS se relaciona com a IS nº 119-001 e com a IS nº 119-004, relativas aos processos
+  de certificação de empresas de transporte aéreo, regidas pelo RBAC nº 121 e pelo RBAC nº
+  135, respectivamente.
+
+  Definições
+
+  Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01, bem como as
+  seguintes definições:
+
+  4.1 Equivalente: Para um detentor de COA, o termo é empregado para indicar algo que detém
+  mesmo nível de segurança, mesma finalidade e é capaz de produzir o mesmo resultado, ainda
+  que não seja literalmente igual.
+
+  4.2 Extensão de Tarefa de Manutenção: prolongamento excepcional do intervalo para a execução
+  de tarefas de manutenção, além do previsto nas tolerâncias indicadas pelo fabricante. Deve
+  ser expressamente autorizada pela ANAC antes de seu uso. Não trata a presente definição
+  de aumento de intervalos de manutenção (escalation).
+
+  4.3 Limitação de Manutenção: Descrição da capacidade de execução de manutenção de um artigo.
+  Deve refletir a complexidade e a extensão da manutenção, indicar o artigo ao qual a limitação
+  é referente, assim como a base onde a manutenção é realizada.
+
+  4.4 Programa de Manutenção de Aeronavegabilidade Continuada (PMAC): Programa composto por
+  dez elementos, que tem por objetivo o fortalecimento das atividades de gerenciamento da
+  segurança operacional relacionadas às atividades de manutenção. Possui como objetivos garantir
+  que: (1) cada aeronave liberada para voo esteja em condições aeronavegáveis e tenha sido
+  apropriadamente mantida; (2) todos os serviços de manutenção e/ou alterações foram executados
+  de acordo com o sistema de manuais de manutenção do operador; e (3) todos os serviços foram
+  executados por pessoal competente, com equipamentos e instalações apropriados.
+
+  4.5 Programa de Manutenção Recomendado pelo Fabricante: programa de manutenção recomendado
+  pelo detentor do certificado de tipo (ou certificado suplementar de tipo), que contém todas
+  as instruções de manutenção aplicáveis a um determinado artigo, incluindo, por exemplo:
+  plano de inspeções programadas, fichas de inspeção, descrição detalhada das tarefas, práticas
+  de manutenção recomendadas, critérios para manutenção não programada, limites de tempo de
+  utilização de partes, procedimentos de preservação, etc.
+
+  4.6 Programação de Manutenção: culturalmente conhecida como Programa de Manutenção Aprovado
+  (PMA). Estabelecido através de aprovação da ANAC, é um dos elementos do Programa de Manutenção
+  (PMAC).
+
+  4.7 Sistema de Manuais de Manutenção: conjunto de manuais que contém procedimentos, instruções
+  e orientações de aeronavegabilidade continuada para uso do pessoal de manutenção e de operações
+  na execução de seus deveres.
+
+  Nota: também chamado de Manual de Manutenção no conceito da Federal Aviation Administration
+  - FAA, deve cobrir todo o conteúdo aplicável à manutenção requerido pela regulamentação
+  nacional, em especial às seções 121.133, 121.135 e 121.369 do RBAC nº 121 e 135.21, 135.23
+  e 135.427 do RBAC nº 135. Abrange o Manual Geral de Manutenção, descrito nesta IS, a Programação
+  de Manutenção, a lista de itens IIO, o Programa de Treinamento de Manutenção, o Manual SASC,
+  o Programa de Confiabilidade, a Lista de Equipamentos Mínimos, o Manual de Operações Especiais
+  (RVSM, CAT II/III, PBN, ETOPS etc) e quaisquer outros manuais aplicáveis à manutenção, incluindo
+  as publicações técnicas utilizadas na manutenção das aeronaves, emitidas pelo fabricante
+  ou autoridade aeronáutica do país de projeto ou pela ANAC.
+
+  4.8 Tolerância de Tarefa de Manutenção: prazo adicional, além do intervalo previamente estabelecido,
+  definido nas publicações técnicas do fabricante, para execução das tarefas de manutenção.
+
+  Desenvolvimento do Assunto
+
+  5.1 Limitação a manutenção de linha e referências ao RBAC nº 145. A manutenção realizada
+  pelos operadores aéreos que operam sob o RBAC nº 121 ou RBAC nº 135 tinha como referência
+  os requisitos de estrutura e desempenho exigidos de uma organização de manutenção (RBAC
+  nº 145), além de ser limitada a manutenção de linha nos termos das seções 43.3 e 43.7 do
+  RBAC nº 43. Após as emendas aplicadas pela Resolução nº 612, de 9 de março de 2021, com
+  as revogações das seções 121.362 do RBAC nº 121 e 135.412 do RBAC nº 135, e alterações das
+  seções 43.3 e 43.7 do RBAC nº 43, essa referência aos regulamentos utilizados pelas organizações
+  de manutenção, assim como a limitação a manutenção de linha, foram retiradas para a manutenção
+  realizada pelos operadores aéreos.
+
+  5.2 As modificações acima indicadas foram implementadas com dois objetivos: (1) com a retirada
+  das limitações impostas pelas seções 43.3 e 43.7 do RBAC nº 43, buscou-se eliminar a exigência
+  de dupla certificação para operadores aéreos realizarem manutenção com escopo superior ao
+  de manutenção de linha, uma vez que a realização de manutenção acima deste nível demandava
+  que o operador obtivesse também um certificado de organização de manutenção; (2) adotar
+  o conceito de Programa de Manutenção de Aeronavegabilidade Continuada (PMAC) já adotado
+  pela FAA, menos prescritivo e mais alinhado com regulamentos baseados em desempenho como
+  o RBAC nº 121 e o RBAC nº 135.
+
+  5.3 Por meio da Resolução nº 612, de 9 de março de 2021, foram introduzidas também nas referências
+  do parágrafo 135.411(a)(1) do RBAC nº 135, que trata da manutenção realizada em aeronaves
+  com 9 ou menos assentos para passageiros, as seções 135.423, 135.433, 135.435 e 135.437
+  do RBAC nº 135, que tratam respectivamente da organização da manutenção, programa de treinamentos,
+  qualificações requeridas e autoridade para executar e aprovar manutenção. Tais alterações
+  visam a introdução de requisitos complementares para execução de manutenção das aeronaves
+  com 9 assentos ou menos pelo próprio operador. Foi alterado também o parágrafo 135.437(a)
+  do RBAC nº 135 para permitir que os operadores enquadrados no parágrafo 135.411(a)(2), operando
+  aeronaves com mais de 9 assentos para passageiros, possam prestar serviço para operadores
+  congêneres, como já permitido para operadores sob o RBAC nº 121.
+
+  5.4 A retirada da limitação à manutenção realizada pelo operadores aéreos, somada ao fato
+  de que os regulamentos RBAC nº 121 e 135, diferentemente do RBAC nº 145, são regulamentos
+  baseados em desempenho, não aplicando-se totalmente à manutenção realizada pelos operadores
+  aéreos as instruções aplicáveis às Organizações de Manutenção certificadas conforme RBAC
+  nº 145, trouxe a necessidade de novas instruções quanto à execução da manutenção pelos operadores
+  aéreos, razão pela qual foi desenvolvida esta Instrução Suplementar, baseada na Advisory
+  Circular (AC) 120-16 da FAA. Como ponto principal, esta IS apresenta o conceito de um Programa
+  de Manutenção de Aeronavegabilidade Continuada (PMAC), assim como os requisitos exigidos
+  para a manutenção realizada por operadores regidos pelo RBAC nº 135, operando aeronaves
+  com 9 ou menos assentos para passageiros.
+
+  5.5 Deve-se observar que os RBAC nº 121 e 135 já possuem todos os requisitos aplicáveis
+  a cada um dos elementos do PMAC. Deste modo, esta IS não estabelece requisitos adicionais,
+  mas tão somente busca enxergar a totalidade dos requisitos já existentes como um Programa
+  que, se bem gerido pela própria empresa, é capaz de garantir a adequada aeronavegabilidade
+  de sua frota.
+
+  5.6 Regulamentos baseados em desempenho. A maioria das regras de manutenção contidas nos
+  RBAC nº 121 e RBAC nº 135 foram desenvolvidas em formato baseado em desempenho. A abordagem
+  da regulação baseada em desempenho foca nos resultados, em vez de processos, técnicas ou
+  procedimentos prescritivos. A regulação baseada em desempenho leva a resultados definidos
+  sem especificar as direções ou instruções relacionadas a como obter estes resultados. Esta
+  abordagem permite aos regulamentos serem aplicados a uma ampla variedade de detentores de
+  certificado e ainda ter os mesmos padrões. Por exemplo, os requisitos baseados em desempenho
+  contidos nas seções 121.367 do RBAC nº 121 e 135.425 do RBAC nº 135 aplicam-se igualmente
+  a todos os operadores, não importando o tamanho de sua frota, devendo-se, em qualquer caso,
+  atingir-se os três objetivos do Programa de Manutenção de Aeronavegabilidade Continuada.
+  Outra vantagem dos regulamentos baseados em desempenho é que eles permanecem atualizados
+  mesmo quando ocorrem avanços na tecnologia ou metodologia.
+
+  5.7 Níveis distintos de segurança. Ainda, a ANAC regula as operações de aeronaves em diferentes
+  níveis de segurança. Portanto, os regulamentos da ANAC podem requerer estruturas diferentes
+  para refletir as diferenças entre segmentos da indústria da aviação civil.
+
+  5.8 Os RBAC nº 121 e 135 apresentam diretamente os requisitos relacionados à manutenção
+  das aeronaves engajadas no transporte aéreo. A subparte L do RBAC nº 121 e a subparte J
+  do RBAC nº 135 descrevem tais requisitos, instituindo dois segmentos distintos entre os
+  operadores.
+
+  5.9 A seção 121.367 do RBAC nº 121 e o parágrafo 135.411(a)(2) do RBAC nº 135 exigem que
+  um detentor de certificado operando sob as regras do RBAC nº 121 ou do parágrafo 135.411(a)(2)
+  do RBAC nº 135 estabeleça um Programa de Manutenção de Aeronavegabilidade Continuada (PMAC).
+  Um PMAC é estabelecido com base em 10 (dez) elementos apresentados na Seção 7 desta IS.
+
+  5.10 Deve-se notar que os parágrafos 135.411(a)(1) e 135.411(a)(2) do RBAC nº 135 estabelecem
+  diferentes requisitos para detentores de certificado operando sob as regras do RBAC nº 135,
+  utilizando como critério o número de assentos previsto na certificação de tipo.
+
+  5.11 Dentre os requisitos diferenciados previstos na seção 135.411(a) do RBAC nº 135, é
+  exigido dos operadores cujo tipo foi certificado com configuração para passageiros, excluindo
+  qualquer assento de piloto, de 10 ou mais assentos, um PMAC, conforme a seção 135.425 do
+  RBAC nº 135. Esta orientação se aplica ao detentor de certificado operando uma aeronave
+  enquadrada no parágrafo 135.411(a)(2) do RBAC nº 135, e também às empresas aéreas que optem
+  por manter suas aeronaves utilizando um PMAC, conforme previsto no parágrafo 135.411(b)
+  do RBAC nº 135 ou que operem sob a seção 135.364 do RBAC nº 135, conforme previsto no parágrafo
+  135.411(d) do RBAC nº 135.
+
+  5.12 Já os detentores de certificado com aeronaves cujo tipo foi certificado com uma configuração
+  para passageiros, excluindo qualquer assento de piloto, com 9 assentos ou menos, não precisam
+  estabelecer um PMAC, mas devem manter tais aeronaves de acordo com o previsto no parágrafo
+  135.411(a)(1) do RBAC nº 135, conforme detalhado na seção 6 desta IS.
+
+  5.13 “Configuração para passageiros”, conforme utilizada no RBAC 135.411(a)(1) e (2), refere-se
+  à “configuração máxima certificada de assentos para passageiros”, conforme definida no RBAC
+  nº 01. No entanto, para aviões certificados conforme emendas anteriores à emenda 23-34 do
+  FAR 23, na categoria normal ou utilidade, poderá ser aceita a configuração instalada e aprovada,
+  para efeito de cumprimento ao RBAC 135.411(a)(1) e (2).
+
+  Nota: estão incluídos os aviões isentos de certificação brasileira, conforme o RBAC 21.29(d)-I,
+  certificados na categoria normal ou utilidade por autoridade estrangeira conforme emendas
+  anteriores a 23-34 do FAR 23.
+
+  REQUISITOS DE MANUTENÇÃO E INSPEÇÃO - aeronaves com 9 ou menos assentos para passageiros
+  - RBAC 135.411(a)(1)
+
+  6.1 Geral
+
+  6.1.1 Um detentor de certificado ao qual se aplique o parágrafo 135.411(a)(1) do RBAC nº
+  135 pode realizar manutenção nas aeronaves de sua própria frota, desde que autorizado em
+  suas Especificações Operativas (EO). A autoridade para realizar manutenção em suas aeronaves
+  é prevista no parágrafo 135.437(a) do RBAC nº 135. Entretanto, não é eliminada a necessidade
+  de atender aos demais requisitos de execução de manutenção do RBAC nº 43, além das demais
+  seções aplicáveis do RBAC nº 135. A limitação de manutenção em EO é coerente com o parágrafo
+  119.5(c) do RBAC nº 119.
+
+  6.1.2 Um detentor de certificado que mantém sua aeronave de acordo com o parágrafo 135.411
+  (a)(1) do RBAC nº 135 é considerado responsável pela manutenção, desde que autorizado a
+  realizar e aprovar manutenção em suas aeronaves, de acordo com seu certificado e dentro
+  das limitações de suas especificações operativas. Se não executa a própria manutenção, é
+  responsável apenas por garantir a adequada aeronavegabilidade de sua frota, conforme seção
+  135.413 do RBAC nº 135, e que os provedores de manutenção contratados sigam o procedimento
+  de contratação estabelecido no sistema de manuais do operador.
+
+  6.1.3 Toda localidade onde for estabelecida estrutura física, de material e de pessoal necessários
+  para as atividades de manutenção (base de manutenção) deve ser listada na EO, ou em lista
+  a ser definida pela ANAC conforme procedimento aprovado, detalhando as limitações de manutenção,
+  conforme definido pela ANAC.
+
+  6.2 Organização
+
+  6.2.1 O detentor de certificado que mantém sua aeronave de acordo com o parágrafo 135.411(a)(1)
+  do RBAC nº 135 não é obrigado a cumprir os requisitos do manual especificados na seção 135.427
+  do RBAC nº 135. Entretanto, esse detentor de certificado deve ter os programas, instruções
+  e manuais exigidos em outras partes dos regulamentos, além da obrigação de submeter o manual
+  especificado na seção 135.21 do RBAC nº 135 à aceitação prévia da ANAC.
+
+  6.2.2 A IS nº 135.21-001 estabelece orientação sobre como preparar o manual no que se refere
+  à manutenção das aeronaves e deve ser utilizada na preparação do manual e dos procedimentos
+  da empresa. Caso o detentor de certificado também possua certificação como organização de
+  manutenção aeronáutica conforme RBAC nº 145, os procedimentos e padrões voltados às funções
+  de execução de manutenção podem estar descritos apenas nos manuais requeridos pela certificação
+  pelo RBAC nº 145 e omitidos no manual requerido pela seção 135.21 ou apenas indicados por
+  referências cruzadas ao longo do texto.
+
+  6.2.3 O parágrafo 135.423(a) do RBAC nº 135 requer que um detentor de certificado que execute
+  qualquer serviço de manutenção, manutenção preventiva e alterações possua uma organização
+  adequada para tal.
+
+  6.2.4 A seção 43.13 do RBAC nº 43, exceto o parágrafo 43.13(c), contém as regras de desempenho
+  para manutenção, manutenção preventiva e alterações para aeronaves mantidas de acordo com
+  o parágrafo 135.411(a)(1) do RBAC nº 135. A seção 43.13 do RBAC nº 43 apresenta maiores
+  detalhes do que se espera de uma organização adequada no que se refere a recursos, equipamentos,
+  ferramentas e publicações técnicas.
+
+  6.2.5 Um detentor de certificado, que mantenha suas aeronaves de acordo com o parágrafo
+  135.411(a)(1) do RBAC nº 135, e que execute qualquer manutenção, manutenção preventiva e
+  alterações, deve cumprir os requisitos do RBAC nº 43, exceto os parágrafos exclusivos aplicados
+  aos operadores aéreos sob RBAC nº 121 e 135 que requerem um programa de aeronavegabilidade
+  continuada (PMAC). Para o cumprimento com o parágrafo 135.423(a) do RBAC nº 135, a ANAC
+  considera como meio aceitável o cumprimento com os seguintes requisitos aplicáveis a uma
+  organização de manutenção certificada pelo RBAC nº 145: 145.103, 145.109, 145.153, 145.155,
+  145.157, 145.203, 145.211, 145.213 e 145.217. Para o cumprimento dessas seções, é esperado
+  que sejam utilizadas as IS contendo as orientações para cumprimento dos citados requisitos.
+
+  6.3 Responsabilidade
+
+  6.3.1 O parágrafo 135.413(a) do RBAC nº 135 define o detentor de certificado que mantém
+  sua aeronave de acordo com o parágrafo 135.411(a)(1) como o principal responsável pela aeronavegabilidade
+  de suas aeronaves.
+
+  6.4 Sistema de Registros
+
+  6.4.1 A seção 43.9 do RBAC nº 43 contém os requisitos para registro de manutenção, manutenção
+  preventiva, reconstrução e alterações para aeronaves mantidas de acordo com o parágrafo
+  135.411(a)(1) do RBAC nº 135. A seção 43.11 do RBAC nº 43 contém os requisitos para os registros
+  de inspeções realizadas sob o parágrafo 135.411(a)(1) e seção 135.419 do RBAC nº 135.
+
+  6.4.2 O sistema de registros de um detentor de certificado que mantenha suas aeronaves de
+  acordo com o parágrafo 135.411(a)(1) do RBAC nº 135 deve ainda cumprir com o preconizado
+  na seção 91.417 do RBAC nº 91.
+
+  6.5 Relatório de Dificuldades em Serviço e Relatório Sumário de Interrupção
+
+  6.5.1 A seção 135.415 do RBAC nº 135 exige que os detentores de certificado relatem cada
+  ocorrência ou detecção de cada falha, mau funcionamento ou defeito em uma aeronave com relação
+  aos itens listados nessa seção do RBAC. Devem ser observadas as orientações e disposições
+  constantes na IS nº 00-001, inclusive ao estabelecer os procedimentos do manual da empresa
+  requerido pela seção 135.21 do RBAC nº 135.
+
+  6.5.2 A seção 135.417 do RBAC nº 135 exige que os detentores de certificado enviem ou entreguem,
+  antes do final do 10º dia útil do mês seguinte, um relatório resumido das ocorrências listadas
+  nessa seção do RBAC. Caso não haja ocorrência a ser relatada, nenhuma comunicação é necessária,
+  exceto se de outra forma determinado pela Anac.
+
+  6.6 Programa de Inspeção
+
+  6.6.1 Limitações de Aeronavegabilidade. De acordo com o parágrafo 91.403(c) do RBAC nº 91,
+  somente é permitido operar uma aeronave que possua um Manual de Manutenção ou Instruções
+  para Aeronavegabilidade Continuada (ICA) contendo uma seção de Limitações de Aeronavegabilidade
+  se essa seção for cumprida. A seção 43.16 do RBAC nº 43, aplicável também ao detentor de
+  certificado que mantenha sua aeronave sob o parágrafo 135.411(a)(1) do RBAC nº 135, exige
+  que cada pessoa que estiver executando uma inspeção ou manutenção especificadas em uma seção
+  de Limitação de Aeronavegabilidade de um manual de manutenção do fabricante ou ICA, deve
+  executar o trabalho em conformidade com aquela seção ou conforme especificações operativas
+  emitidas segundo os RBAC nº 121 ou 135 ou, ainda, conforme um programa de inspeções aprovado
+  conforme a seção 91.409(e) do RBAC nº 91.
+
+  6.6.2 Manutenção e Inspeção. O parágrafo 135.411(a)(1) do RBAC nº 135 requer que o detentor
+  de certificado que utilize aeronaves com certificado de tipo com configuração para assentos
+  de passageiros, excluindo qualquer assento de piloto, de nove ou menos assentos mantenha
+  a aeronave de acordo com os RBAC nº 43 e 91. Conforme parágrafo 135.411(a)(1) do RBAC nº
+  135, uma opção disponível ao operador é, no lugar das inspeções previstas no RBAC nº 91,
+  utilizar um programa de inspeção aprovado para a aeronave (PIA), conforme a seção 135.419
+  do RBAC nº 135. Adicionalmente, o parágrafo 135.411(b) do RBAC nº 135 fornece uma terceira
+  opção para o detentor do certificado, que é aderir voluntariamente ao previsto no parágrafo
+  135.411(a)(2) do RBAC nº 135, e manter a aeronave de acordo com um Programa de Manutenção
+  de Aeronavegabilidade Continuada (PMAC).
+
+  6.6.3 Dentre as inspeções previstas no RBAC nº 91, especial atenção deve ser dada ao parágrafo
+  91.409(i) do RBAC nº 91, que estabelece que, exceto como previsto nos parágrafos (d), (e),
+  (f) e (g) da mesma seção, somente é permitido operar uma aeronave que possua um programa
+  de manutenção recomendado pelo detentor do certificado de tipo (ou certificado suplementar
+  de tipo) se forem cumpridas as inspeções desse programa de manutenção atualizado recomendado
+  pelo fabricante. Deve-se notar que havendo disponível um programa de manutenção recomendado
+  pelo fabricante, é mandatório apenas que as inspeções nele contidas sejam executadas.
+
+  6.6.4 Requisitos adicionais de manutenção. Além disso, cada detentor de certificado que
+  mantenha sua aeronave de acordo com o parágrafo 135.411(a)(1) do RBAC nº 135 também deve
+  cumprir os requisitos adicionais de manutenção da seção 135.421 do RBAC nº 135. O detentor
+  de certificado deve cumprir com o programa de manutenção recomendado pelos fabricantes,
+  ou com um programa aprovado pela Anac para cada motor, hélice, rotor, componentes e para
+  cada item de equipamento de emergência requerido pelos RBAC. Deve-se observar que os requisitos
+  não se limitam apenas a inspeções. Eles devem incluir toda a manutenção prevista. Além disso,
+  deve ser notada a clara diferença entre o disposto na seção 135.421 do RBAC nº 135 e no
+  parágrafo 91.409(i) do RBAC nº 91. Nesse último, apenas inspeções são requeridas, já na
+  seção 135.421 do RBAC nº 135, toda manutenção (incluindo inspeções) é requerida.
+
+  Nota: a definição de “componente” é equivalente à definição de “aparelho” constante no RBAC
+  nº 01.
+
+  6.6.5 Ao adotar o programa de manutenção recomendado pelo fabricante conforme o parágrafo
+  135.421(a) do RBAC nº 135 ao invés de desenvolver um programa a ser aprovado pela Anac,
+  o detentor de certificado deve cumprir todas as instruções de manutenção recomendadas pelo
+  fabricante. Essas instruções de manutenção incluem a execução de itens de quaisquer publicações
+  de serviço do fabricante (por exemplo, Boletins de Serviço (SB), Cartas de Serviço (SL)
+  e Instruções de Serviço (SI)) que abordam especificamente um procedimento de manutenção.
+  O detentor de certificado, ao adotar o programa de manutenção recomendado pelo fabricante,
+  irá cumprir o programa atualizado do fabricante, cumprindo o programa em conformidade com
+  todas as publicações de serviço que abordam os procedimentos de manutenção atualmente aplicáveis
+  ​​e a serem desenvolvidos pelo fabricante no futuro. Essa política é consistente com o parágrafo
+  43.13(a) do RBAC nº 43. A seção 43.15 do RBAC nº 43 contém regras de desempenho adicionais
+  para as inspeções, e é aplicável ​​a aeronaves mantidas de acordo com o parágrafo 135.411(a)(1)
+  do RBAC nº 135.
+
+  6.6.6 O Programa de Manutenção Aprovado. A seção 135.421 do RBAC nº 135 também oferece ao
+  requerente a opção de usar um programa de manutenção aprovado pela Anac, ao invés de usar
+  o programa de manutenção recomendado pelo fabricante para cada motor, hélice, rotor, componentes
+  e equipamentos de emergência exigidos pelo regulamento. Para o desenvolvimento de tal programa
+  poderá ser utilizada como referência aceitável a AC 135-07 da FAA, em suas partes aplicáveis,
+  em sua versão vigente.
+
+  6.6.7 Programa de Inspeções Aprovado. A opção de utilizar um programa de inspeção aprovado
+  para aeronaves é suportada pela seção 135.419 do RBAC nº 135. Caso escolha essa opção, o
+  detentor de certificado deve enviar o programa para aprovação em conformidade com o disposto
+  no elemento “programação de manutenção” desta IS (ver parágrafo 7.7).
+
+  6.6.8 Programa de Manutenção de Aeronavegabilidade Continuada - PMAC. O detentor de certificado
+  pode também escolher a utilização de um PMAC para suas aeronaves de nove ou menos assentos
+  para passageiros, cabendo enquadramento com o parágrafo 135.411(a)(2) do RBAC nº 135 e conformidade
+  com as instruções da Seção 7 desta IS.
+
+  6.7 Treinamento de Pessoal de Manutenção
+
+  6.7.1 O detentor de certificado que execute manutenção conforme autorizado nas suas especificações
+  operativas deve estabelecer um programa de treinamento de manutenção visando garantir que
+  seu pessoal que determina a adequabilidade de um trabalho executado, (incluindo pessoal
+  de inspeção), esteja totalmente informado sobre técnicas, procedimentos e novos equipamentos
+  em uso e seja competente para executar suas obrigações.
+
+  6.7.2 O programa de treinamento requerido pela seção 135.433 do RBAC nº 135 pode ser organizado
+  como um documento separado ou como parte do manual requerido pela seção 135.21 do RBAC nº
+  135. O programa deve ser preparado e implementado conforme estabelecido na IS nº 119-010.
+
+  PROGRAMA DE MANUTENÇÃO DE AERONAVEGABILIDADE CONTINUADA (PMAC)
+
+  7.1 Introdução
+
+  7.1.1 Aplicabilidade. Este programa é aplicável a um detentor de certificado emitido pelo
+  RBAC nº 119 conduzindo operações sob o RBAC nº 121 ou 135. Para as operações sob RBAC nº
+  135, esta seção é aplicável somente às aeronaves mantidas sob os parágrafos 135.411(a)(2),
+  135.411(b) e 135.411(d) do RBAC nº 135.
+
+  7.1.2 Autorização do Programa de Manutenção de Aeronavegabilidade Continuada. O PMAC surgiu
+  como uma resposta às preocupações com a segurança operacional e pela descoberta de fraquezas
+  nos programas de manutenção de alguns operadores aéreos encontradas durante investigações
+  de acidentes e atividades de vigilância da manutenção dos operadores. O PMAC foi projetado
+  para fortalecer os requisitos das atividades voltadas à segurança operacional de uma empresa
+  de transporte aéreo.
+
+  7.1.3 O PMAC não recebe uma aprovação específica, uma vez que não há nenhum regulamento
+  que exija uma aprovação. Entretanto, a emissão de uma EO, assim como os manuais exigidos
+  pelos RBAC em conformidade e relacionados ao seu cumprimento, autorizam o detentor de certificado
+  a usar o seu PMAC.
+
+  7.1.4 A forma de cumprimento de cada um dos elementos do Programa de Manutenção deve estar
+  descrita em seção específica do manual de manutenção do operador, a ser referenciada na
+  autorização de uso do Programa. Essa autorização é emitida por modelo de aeronave na EO,
+  e implica que:'
+keywords:
+- antidrogas
+- saude
+- manutencao
+- programa
+- paragrafo
+- secao
+- certificado
+- aeronaves
+- detentor
+- requisitos
+- pmac
+- aeronavegabilidade
+- operadores
+- acordo
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

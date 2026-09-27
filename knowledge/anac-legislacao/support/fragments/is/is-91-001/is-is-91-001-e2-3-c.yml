@@ -1,0 +1,36 @@
+id: is-is-91-001-e2-3-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: E2.3
+section_title: 'Quando o GNSS constituir o meio primário de navegação:'
+subsection_id: c
+cite: E2.3(c)
+title: E2.3(c)
+text: 'c) quando o DME constituir o sensor primário de navega&ccccedil;ão, a disponibilidade
+  de eventuais DME críticos deve ser conferida por meio de NOTAM. Deverá ser verificada também
+  a capacidade de navegação (potencialmente para um destino alternado) no caso de falha de
+  um DME crítico durante voo.
+
+  E3. CRITÉRIOS ESPECÍFICOS PARA PROCEDIMENTOS DE SAÍDA PADRÃO POR INSTRUMENTOS (SID) RNAV
+  1 E 2'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- constituir
+- meio
+- navegacao
+- primario
+- alternado
+- capacidade
+- caso
+- ccccedil
+- conferida
+- criterios
+- critico
+- criticos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

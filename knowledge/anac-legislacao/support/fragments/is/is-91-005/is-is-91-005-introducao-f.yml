@@ -1,0 +1,85 @@
+id: is-is-91-005-introducao-f
+kind: is
+document: is-91-005
+family: '91'
+section_id: introducao
+section_title: Introdução
+subsection_id: f
+cite: introducao(f)
+title: introducao(f)
+text: 'f)
+
+  Relatório de monitoramento.
+
+  Deve seguir o estabelecido no parágrafo 5.5.1.2 desta IS, para a aeronave representando
+  o modelo envolvido na autorização operacional para RVSM, inclusive com relação à necessidade
+  de manutenção deste citado relatório atualizado. O relatório de monitoramento pode ser dispensado
+  caso o operador apresente e obtenha aprovação de um programa de monitoramento, conforme
+  descrito na seção 5.6 desta IS.
+
+  Matrículas de aeronaves recém incluídas na frota devem ser avaliadas em até 6 (seis) meses,
+  a contar da inclusão na Lista de Matrículas de Aeronaves, caso não tenha sido possível garantir
+  que as aeronaves tenham sido monitoradas anteriormente ou que tenham estado sujeitas a um
+  programa de monitoramento RVSM. Este parágrafo não se aplica a aeronaves recém-fabricadas.
+
+  Nota:
+
+  aeronaves que passaram por processo de preservação ou inatividade de ao menos 24 (vinte
+  e quatro) meses devem ser avaliadas em até 6 (seis) meses, não sendo válida a operação RVSM
+  anterior da aeronave como forma de demonstração, exceto se de outra forma autorizado pela
+  Anac.
+
+  Operadores que não possuem programa de monitoramento RVSM devem respeitar a validade dos
+  relatórios altimétricos de 24 (vinte e quatro) meses ou 1.000 (um mil) horas totais voadas,
+  o que for maior, para toda a sua frota.
+
+  Caso os manuais do operador, listados acima, já tenham sido enviados para avaliação da Anac
+  e tenham sido considerados satisfatórios, o operador estará dispensado de apresentá-los
+  juntamente com a solicitação de alteração de EA.
+
+  Na maioria dos casos, o conteúdo do pedido de autorização operacional para RVSM será suficiente
+  para verificar o desempenho e os procedimentos da aeronave. No entanto, a Anac pode exigir
+  a realização de inspeções e demonstrações (verificação de equipamentos instalados na aeronave,
+  voo de avaliação operacional, inspeção de acompanhamento de treinamento, inspeções de acompanhamento
+  de centro de despacho de voo etc.), para verificar se os procedimentos relevantes são aplicados
+  de forma eficiente.
+
+  Estando todos os manuais revisados e considerados satisfatórios, com a respectiva aceitação
+  ou aprovação da Anac; e sendo o voo de avaliação operacional também satisfatório ou dispensado
+  pela Anac, o operador terá suas EA revisadas para incluir a autorização operacional para
+  RVSM.
+
+  Operação RVSM para operações regidas pelo RBAC nº 135
+
+  Para inclusão de autorização operacional para RVSM na EO de operador aéreo regido pelo RBAC
+  nº 135, doravante denominado “Operador 135”, esse operador deve seguir a orientação constante
+  da seção 5.4 da IS nº 119-004. As alterações nos manuais do Operador 135 para inclusão de
+  operação RVSM em suas EO devem seguir o exposto nos Apêndices desta IS.
+
+  Nota
+
+  : aeronaves ainda não inclusas em EO poderão ser autorizadas a operar RVSM de acordo com
+  as regras do RBAC nº 91 por meio de LOA.
+
+  Em adição ao exposto no parágrafo anterior, o Operador 135 deve fazer constar do seu pacote
+  de solicitação:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rvsm
+- operador
+- aeronaves
+- operacional
+- monitoramento
+- aeronave
+- autorizacao
+- meses
+- tenham
+- avaliacao
+- caso
+- desta
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

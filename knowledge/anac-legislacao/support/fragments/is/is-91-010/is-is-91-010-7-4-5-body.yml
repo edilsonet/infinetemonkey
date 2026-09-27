@@ -1,0 +1,103 @@
+id: is-is-91-010-7-4-5-body
+kind: is
+document: is-91-010
+family: '91'
+section_id: 7.4.5
+section_title: 'A figura 4 apresenta um exemplo de equipamentos de Data Link incluídos na
+  MEL:'
+subsection_id: body
+cite: 7.4.5
+title: 'A figura 4 apresenta um exemplo de equipamentos de Data Link incluídos na MEL:'
+text: '7.4.5 A figura 4 apresenta um exemplo de equipamentos de Data Link incluídos na MEL:
+
+
+  7.4.6 Controle de atualizações: após obter a aprovação para operações de que trata esta
+  IS, o operador deve avaliar os impactos de quaisquer alterações ou atualizações (incluindo
+  de software) realizadas em seus sistemas de Data Link, e garantir que as alterações não
+  afetem as capacidades declaradas em suas especificações operativas. Caso haja impacto às
+  capacidades declaradas, o operador deve solicitar à ANAC alteração das especificações operativas,
+  que seguirá os mesmos moldes da aprovação inicial.
+
+  7.4.7 Controle de configurações: é responsabilidade do operador gerenciar as configurações
+  do sistema de Data Link da aeronave, a fim de garantir a cobertura ótima durante suas operações.
+  Tais configurações podem incluir, por exemplo, os parâmetros de gerenciamento de sub-redes
+  (ex: em que ponto do voo a aeronave alterna automaticamente de uma sub-rede VDL para SATCOM).
+  A alteração das configurações pode também ser necessária a fim de atender aos requisitos
+  de alguns países (ex: certos países podem proibir a utilização de determinadas sub-redes
+  por aeronaves que sobrevoam seu espaço aéreo).
+
+
+  PROCEDIMENTOS OPERACIONAIS
+
+  8.1 É atribuição do operador padronizar o uso do CPDLC e do ADS-C por seus tripulantes e,
+  quando aplicável, despachantes de voo. Os procedimentos padronizados devem abranger situações
+  normais, anormais e de emergência.
+
+  8.2 A padronização operacional deve garantir a aderência às normas e procedimentos estabelecidos
+  pelo DECEA (MCA 100-23 ou norma que venha a substituí-la) e, para operadores que realizem
+  voos fora do espaço aéreo brasileiro, pelas demais autoridades de tráfego aéreo competentes.
+
+  8.3 Para operações em espaço aéreo internacional, recomenda-se adicionalmente que o operador
+  consulte os procedimentos previstos no ICAO Doc 10037 (Global Operational Data Link - GOLD)
+  e no ICAO Doc 9869 (Performance-Based Communication and Surveillance Manual).
+
+  8.4 No caso de operadores sob a Subparte K do RBAC nº 91 ou certificados sob os RBAC nº
+  121 ou 135, a padronização operacional deve ser formalizada por meio de instruções e procedimentos
+  expressos no sistema de manuais do operador (ex: AOM, MGO e Guia de Rotas). As instruções
+  e procedimentos devem ser específicas para os equipamentos utilizados, e se necessário para
+  as rotas operadas. As instruções devem ainda abordar eventuais aspectos operacionais necessários
+  do controle de configurações (item 7.4.7). Uma lista compreensiva de instruções e procedimentos
+  necessários para padronização da operação pode ser encontrada nos itens 9.2.4 e 9.2.5.
+
+  8.5 CRM: Para operações com aeronaves com mais de um piloto, o pilot flying e o pilot monitoring
+  devem revisar de forma independente cada mensagem de CPDLC recebida, antes de responder
+  e/ou executar a instrução recebida. A leitura individual das mensagens é um procedimento
+  essencial para evitar erros de interpretação. Caso um piloto verifique o texto da mensagem
+  e leia/parafraseie em voz alta para o outro piloto, os erros de interpretação cometidos
+  pelo primeiro podem ser transmitidos para o segundo. Por isso, é importante que ambos verifiquem
+  individualmente a fonte primária da informação (isto é, o texto escrito da mensagem). Somente
+  após esta leitura individual é que os pilotos devem discutir conjuntamente qual a ação apropriada
+  a adotar (isto é, responder a mensagem, seguir as instruções recebidas na mensagem, etc.).
+  De forma similar, é importante que ambos os pilotos revisem individualmente as mensagens
+  que serão enviadas ao órgão ATS, antes de seu envio.
+
+  8.6 O procedimento do operador deve assegurar que, sempre que a tripulação tiver quaisquer
+  dúvidas quanto à mensagem recebida, deverá utilizar os meios de comunicação por voz para
+  dirimir a dúvida junto ao órgão ATS.
+
+  8.7 O operador deve garantir que os pilotos sempre mantenham o monitoramento das frequências
+  dos órgãos ATS responsáveis, por meio dos rádios VHF ou HF (SELCAL).
+
+  8.8 Os tripulantes deverão informar ao órgão ATS qualquer degradação da capacidade CPDLC
+  ou ADS-C da aeronave. Esta informação deve ser transmitida ao órgão ATS tão logo quanto
+  possível, de modo a permitir a adoção dos procedimentos de contingência necessários, tais
+  como manter o contato por meios de comunicação alternativos e revisar os padrões de separação
+  aplicáveis.
+
+  TREINAMENTO
+
+  9.1 Operadores RBAC nº 91 (exceto Subparte K)
+
+  9.1.1Os pilotos devem ser proficientes nas normas e procedimentos pertinentes ao uso de
+  sistemas de comunicação de data link, conforme os regulamentos vigentes e os manuais aprovados
+  da aeronave utilizada.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- operador
+- data
+- link
+- mensagem
+- configuracoes
+- instrucoes
+- aereo
+- aeronave
+- equipamentos
+- exemplo
+- garantir
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

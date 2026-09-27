@@ -1,0 +1,45 @@
+id: is-is-91-001-c1-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: C1.2
+section_title: O termo RNP 10 foi inicialmente utilizado para designar esta especificação
+  de navegação, que foi uma das primeiras do atual conceito PBN a ter sido implementada, de
+  forma que, hoje em dia, existem diversos documentos como autorizações operacionais, certificações
+  de equipamentos e definições de rotas e espaços aéreos já publicados que remetem ao termo.
+  Embora leve o nome ‘RNP’, o RNP 10 não requer um sistema de monitoramento e alerta da informação
+  de posicionamento da aeronave.
+subsection_id: body
+cite: C1.2
+title: O termo RNP 10 foi inicialmente utilizado para designar esta especificação de navegação,
+  que foi uma das primeiras do atual conceito PBN a ter sido implementada, de forma que, hoje
+  em dia, existem diversos documentos como autorizações operacionais, certificações de equipamentos
+  e definições de rotas e espaços aéreos já publicados que remetem ao termo. Embora leve o
+  nome ‘RNP’, o RNP 10 não requer um sistema de monitoramento e alerta da informação de posicionamento
+  da aeronave.
+text: C1.2 O termo RNP 10 foi inicialmente utilizado para designar esta especificação de navegação,
+  que foi uma das primeiras do atual conceito PBN a ter sido implementada, de forma que, hoje
+  em dia, existem diversos documentos como autorizações operacionais, certificações de equipamentos
+  e definições de rotas e espaços aéreos já publicados que remetem ao termo. Embora leve o
+  nome ‘RNP’, o RNP 10 não requer um sistema de monitoramento e alerta da informação de posicionamento
+  da aeronave.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- termo
+- aereos
+- aeronave
+- alerta
+- atual
+- autorizacoes
+- certificacoes
+- conceito
+- definicoes
+- designar
+- diversos
+- documentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

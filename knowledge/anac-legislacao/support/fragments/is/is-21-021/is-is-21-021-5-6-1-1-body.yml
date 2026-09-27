@@ -1,0 +1,60 @@
+id: is-is-21-021-5-6-1-1-body
+kind: is
+document: is-21-021
+family: '21'
+section_id: 5.6.1.1
+section_title: (antigo 5.6.1)
+subsection_id: body
+cite: 5.6.1.1
+title: (antigo 5.6.1)
+text: '5.6.1.1 (antigo 5.6.1)
+
+  Inclusão de texto introdutório para as alíneas seguintes.
+
+  Nota em 5.6.1.1(a) (antigo 5.6.1(a))
+
+  O texto foi ajustado para apenas exemplificar requisito quer permitem análise de carga elétrica
+  por medição, evitando conflito com seção que deixou de existir com a mesma numeração e formato
+  a partir da Emenda 64 do RBAC 23.
+
+  5.6.1.1(a) (antigo 5.6.1(a))
+
+  Atualizada referência à norma ASTM.
+
+  Removida referência à utilização das normas em suas últimas revisões, em razão de já existir
+  dispositivo a respeito no item 7.2.
+
+  5.6.1.2(e) (antigo 5.6.2(e))
+
+  A referência à tabela 11-3 da AC 43.13-1 foi atualizada para 11-4, em razão de atualização
+  da norma, com inclusão do título da tabela.
+
+  Foi removida a Nota no mesmo item a respeito de uso de revisões diferentes, em razão de
+  já existir dispositivo a respeito no item 7.2.
+
+  5.7, 5.7.1, 5.7.2, 5.7.3
+
+  Substituição do termo "análise de falhas" por "avaliação de segurança", por melhor representar
+  o que é um safety assessment, com utilização apenas do termo em inglês posteriormente.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- antigo
+- existir
+- razao
+- referencia
+- respeito
+- analise
+- atualizada
+- dispositivo
+- inclusao
+- norma
+- nota
+- removida
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-021.md

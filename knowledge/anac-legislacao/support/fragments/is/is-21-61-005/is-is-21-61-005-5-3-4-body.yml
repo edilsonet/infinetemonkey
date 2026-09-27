@@ -1,0 +1,54 @@
+id: is-is-21-61-005-5-3-4-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.4
+section_title: Justification of MMEL items
+subsection_id: body
+cite: 5.3.4
+title: Justification of MMEL items
+text: '5.3.4 Justification of MMEL items
+
+  5.3.4.1 O requerente deve fornecer justificativas adequadas para cada item da MMEL, conforme
+  estabelecido no parágrafo 21.61-I(e)(2) do RBAC 21. Isso deve ser feito seguindo-se um ou
+  mais métodos, também chamados de metodologias de segurança da MMEL, conforme acordado com
+  a ANAC.
+
+  5.3.4.1 The applicant must provide appropriate justifications for each MMEL item, as established
+  in paragraph 21.61-I(e)(2) of RBAC 21. It must be done by following one or more methods,
+  also referred to as MMEL safety methodologies, as agreed with ANAC.
+
+  5.3.4.2 As justificativas devem incluir as informações necessárias para demonstrar o cumprimento
+  com os requisitos aplicáveis dos RBAC e com as diretrizes desta IS. Também devem incluir
+  a lista de funções associadas ao item, as falhas funcionais associadas, os efeitos das falhas
+  e, tanto quanto possível, as causas das falhas.
+
+  5.3.4.2 Justifications must include the information necessary to demonstrate compliance
+  with the applicable requirements of the RBAC and with the guidelines in this IS. It must
+  also include the list of functions associated with the item, the associated functional failures,
+  failure effects and, as far as practical, the failure causes.
+
+  5.3.4.3 Quando itens não relacionados à segurança operacional são propostos, as justificativas
+  associadas podem se limitar a demonstrar a natureza não relacionada à segurança do item.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- must
+- with
+- associadas
+- falhas
+- items
+- justification
+- justificativas
+- seguranca
+- also
+- associated
+- demonstrar
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

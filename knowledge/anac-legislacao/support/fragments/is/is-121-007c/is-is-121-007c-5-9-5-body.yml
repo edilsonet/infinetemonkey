@@ -1,0 +1,56 @@
+id: is-is-121-007c-5-9-5-body
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.9.5
+section_title: Métodos para gerenciamento das diferenças
+subsection_id: body
+cite: 5.9.5
+title: Métodos para gerenciamento das diferenças
+text: '5.9.5 Métodos para gerenciamento das diferenças
+
+  5.9.5.1 Existem vários métodos aceitáveis ​​que os operadores podem usar para gerenciar
+  as diferenças. Os operadores devem ter conhecimento dos seguintes métodos aceitáveis:
+
+  5.9.5.1.1 Configurações padronizadas. O método mais simples e tradicional para os operadores
+  usarem quando tratam as diferenças é evitá-las instalando instrumentos e equipamentos comuns
+  em cada aeronave da frota.
+
+  5.9.5.1.2 Frotas separadas. Os operadores podem tratar as variantes de um tipo como se fossem
+  aeronaves diferentes, desenvolvendo currículos separados para cada variante e designando
+  tripulantes de voo para operar apenas as variantes para as quais eles foram treinados.
+
+  5.9.5.1.3 Treinamento integrado. Os operadores podem realizar treinamento de diferenças
+  como parte integrante de cada uma das seis categorias de treinamento definidas. Por exemplo,
+  um segmento de currículo de solo inicial do Boeing 737 pode incluir módulos de treinamento
+  sobre os motores do Boeing 737-300 e sobre os motores do Boeing 737-500.
+
+  5.9.5.1.4 Segmentos de currículo de diferenças separados. Os operadores podem optar por
+  limitar a instrução ao longo de um currículo a uma aeronave base específica e, em seguida,
+  realizar treinamento sobre as diferenças presentes nas variantes como um segmento de currículo
+  separado e distinto. Por exemplo, um operador pode designar as aeronaves da série 700 como
+  a aeronave base em um currículo de transição para segundo em comando em Boeing 737. Os segmentos
+  do currículo de solo, voo e qualificação seriam baseados nesta aeronave. Em um ponto apropriado
+  da instrução, um segmento de currículo distinto seria apresentado para cobrir as diferenças
+  nas aeronaves das séries 800 ou 900. Este método pode ser vantajoso quando o operador usa
+  numerosas variantes de um tipo de aeronave.'
+keywords:
+- transporte-aereo
+- operacoes
+- diferencas
+- curriculo
+- operadores
+- aeronave
+- metodos
+- treinamento
+- boeing
+- podem
+- variantes
+- aeronaves
+- cada
+- gerenciamento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

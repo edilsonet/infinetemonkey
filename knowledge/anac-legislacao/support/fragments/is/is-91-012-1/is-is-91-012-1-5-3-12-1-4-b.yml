@@ -1,0 +1,81 @@
+id: is-is-91-012-1-5-3-12-1-4-b
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.3.12.1.4
+section_title: 'Os principais motivos que podem fundamentar a solicitação de extensão de prazo
+  são:'
+subsection_id: b
+cite: 5.3.12.1.4(b)
+title: 5.3.12.1.4(b)
+text: 'b) dificuldade de identificação da falha, como dificuldade de identificação do componente
+  em pane ou falha intermitente do sistema (sobre falhas intermitentes, ver o parágrafo 5.3.10
+  desta IS). Para esses casos, o operador deve enviar o seguinte documento em anexo ao SEGVOO
+  002:
+
+  I - comprovação de pesquisa de pane (troubleshooting) realizada, juntamente com cópia das
+  páginas aplicáveis do manual de manutenção ou do manual de troubleshooting da aeronave.
+
+  Nota: neste caso, para a solicitação, a pesquisa de pane já deve ter sido realizada, no
+  sentido de que deve estar claramente identificado o item da MEL que está inoperante e para
+  o qual se solicita extensão. A extensão pode se justificar em razão de parte razoável do
+  prazo ter sido consumida para essa identificação ou para identificação do componente que
+  necessita ser reparado ou substituído.
+
+  5.3.12.1.5 Na análise da solicitação, a Anac considerará o histórico do operador, as ações
+  mitigatórias, o acréscimo de carga de trabalho à tripulação, a conveniência de passageiros,
+  o risco potencial à segurança de voo, a frequência com que aquele determinado sistema ou
+  a mesma seção ATA tem sido alvo de solicitações de extensão de prazo, a adequabilidade do
+  prazo solicitado (conforme parágrafo 5.3.12.1.1 desta IS) e outros aspectos que a Anac julgar
+  relevantes. A concessão da extensão é uma prerrogativa discricionária da Anac - e não um
+  direito do operador.
+
+  5.3.12.1.6 O operador deve enviar por protocolo eletrônico à GCAC, em até 5 (cinco) dias
+  após o término do prazo estendido, as evidências de correção do item da MEL ou, se for o
+  caso, a informação de que a aeronave está considerada não aeronavegável.
+
+  5.3.12.2 Programa de auto-extensão de prazo de itens da MEL. A Anac poderá autorizar que
+  um detentor de certificado emitido segundo o RBAC nº 119 e que opere conforme o RBAC nº
+  121 ou o parágrafo 135.411(a)(2) do RBAC nº 135 tenha autoridade para prorrogar a correção
+  de itens das categorias B ou C, por no máximo uma vez e por período igual ao da categoria,
+  desde que o operador demonstre ter sistemas de controle de qualidade e de gerenciamento
+  de uso da MEL bem implementados. Após essa extensão, a correção deve ser realizada na primeira
+  oportunidade em que for possível.
+
+  Nota: no caso de o operador ser autorizado a prorrogar a correção de itens da MEL, não é
+  requerido que o operador solicite à Anac extensão, individualmente, para cada item, por
+  meio do SEGVOO 002.
+
+  5.3.12.2.1 Essas extensões devem ser registradas pelo operador com base no formulário SEGVOO
+  002B (disponível em https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/modelos-e-formularios).
+  O formulário deve ser assinado pelo responsável pela manutenção das aeronaves do operador,
+  conforme previsto em seus manuais, devendo permanecer arquivados pelo operador pelo prazo
+  de 36 meses. A relação de controle de itens ACR deve referenciar esse formulário.
+
+  5.3.12.2.1.1 O operador deve enviar à Anac, para ciência, relatório mensal contendo dados
+  dos formulários SEGVOO 002B. O relatório deve ser enviado até o 10º dia do mês seguinte
+  ao da emissão.
+
+  5.3.12.2.2 A autorização será concedida pelas EO do operador. Para ser autorizado a realizar
+  auto-extensões, o operador deve incluir, em seu manual geral de manutenção, no programa
+  de gerenciamento da MEL, os seguintes tópicos:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operador
+- extensao
+- prazo
+- correcao
+- identificacao
+- segvoo
+- caso
+- enviar
+- formulario
+- manual
+- manutencao
+- pane
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

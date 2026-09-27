@@ -1,0 +1,43 @@
+id: is-is-121-003-5-5-8-6-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.5.8.6
+section_title: Espera, ações contínuas e ações repetidas. Em alguns casos, uma ação deve ser
+  mantida ou
+subsection_id: body
+cite: 5.5.8.6
+title: Espera, ações contínuas e ações repetidas. Em alguns casos, uma ação deve ser mantida
+  ou
+text: '5.5.8.6 Espera, ações contínuas e ações repetidas. Em alguns casos, uma ação deve ser
+  mantida ou
+
+  repetida até que alguma condição ocorra. Nestes casos, especifique:
+
+  1) quais ações são devem ser repetidas;
+
+  2) as condições em que essas ações devem ser descontinuadas ou desfeitas; e
+
+  3) se demais linhas de ação devem ser continuadas. Por exemplo: “Segure o botão
+
+  pressionado até a pressão atingir 120 psi, e ENTÃO vá para a etapa 5 deste procedimento.”'
+keywords:
+- transporte-aereo
+- operacoes
+- acoes
+- acao
+- casos
+- repetidas
+- alguns
+- continuas
+- espera
+- mantida
+- alguma
+- atingir
+- botao
+- condicao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

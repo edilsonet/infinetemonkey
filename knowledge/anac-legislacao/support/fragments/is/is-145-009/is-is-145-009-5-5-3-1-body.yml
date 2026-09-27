@@ -1,0 +1,37 @@
+id: is-is-145-009-5-5-3-1-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.3.1
+section_title: 'Referências: RBAC nº 145, parágrafo 145.209(d) e seção 145.215-I.'
+subsection_id: body
+cite: 5.5.3.1
+title: 'Referências: RBAC nº 145, parágrafo 145.209(d) e seção 145.215-I.'
+text: '5.5.3.1 Referências: RBAC nº 145, parágrafo 145.209(d) e seção 145.215-I.
+
+  5.5.3.2 Introdução: uma OM certificada pode executar manutenção, manutenção preventiva ou
+  alteração em um artigo, se esse artigo estiver contido nas Especificações Operativas ou
+  em uma Lista de Capacidade da OM. As Especificações Operativas são um documento emitido
+  pela ANAC enquanto a Lista de Capacidade é um documento emitido pela OM, devendo ser mantida
+  atualizada pela organização. Cada artigo somente pode estar contido nas Especificações Operativas
+  ou na Lista de Capacidade se precedido de aprovação da ANAC, exceto se a OM possuir autorização
+  para realizar autoinclusão.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- artigo
+- capacidade
+- especificacoes
+- lista
+- operativas
+- paragrafo
+- referencias
+- secao
+- contido
+- documento
+- emitido
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

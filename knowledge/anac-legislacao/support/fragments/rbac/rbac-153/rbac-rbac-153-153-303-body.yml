@@ -31,41 +31,22 @@ text: '153.303
   Data da emissão: 15 de março de 2021
 
 
-  SUBPARTE F - RESPOSTA À EMERGÊNCIA AEROPORTUÁRIA
-
-  Requisitos
-
-  Descrição
-
-  Aeródromos
-
-  OBS
-
-  Classe I
-
-  Classe II
-
-  Classe III
-
-  Classe IV
-
-  Tipo A
-
-  Tipo B'
+  SUBPARTE F - RESPOSTA À EMERGÊNCIA AEROPORTUÁRIA'
 keywords:
 - aerodromos
 - operacao-aeroportuaria
-- classe
 - obrigatorio
-- tipo
 - aeroportuaria
 - aeroportuarias
 - aplicavel
 - atendimento
 - data
-- descricao
 - emergencia
 - emergencias
+- emissao
+- exigido
+- marco
+- necessarios
 categories:
 - aerodromos
 - operacao-aeroportuaria

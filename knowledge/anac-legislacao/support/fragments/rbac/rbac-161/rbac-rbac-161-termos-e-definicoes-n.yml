@@ -1,0 +1,30 @@
+id: rbac-rbac-161-termos-e-definicoes-n
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: n
+cite: termos-e-definicoes(n)
+title: termos-e-definicoes(n)
+text: '(n)
+
+  Redução de Nível de Ruído (exterior para interior) - RR: diferença entre as medidas simultâneas
+  de nível de ruído externo e interno à edificação, considerando uma fonte sonora constante.'
+keywords:
+- definicoes
+- nivel
+- ruido
+- termos
+- considerando
+- constante
+- diferenca
+- edificacao
+- exterior
+- externo
+- fonte
+- interior
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

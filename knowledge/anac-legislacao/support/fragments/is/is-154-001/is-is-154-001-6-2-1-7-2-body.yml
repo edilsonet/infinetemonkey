@@ -1,0 +1,90 @@
+id: is-is-154-001-6-2-1-7-2-body
+kind: is
+document: is-154-001
+family: '154'
+section_id: 6.2.1.7.2
+section_title: A linha de roda deve ser centrada e perpendicular em relação à linha de entrada.
+subsection_id: body
+cite: 6.2.1.7.2
+title: A linha de roda deve ser centrada e perpendicular em relação à linha de entrada.
+text: '6.2.1.7.2 A linha de roda deve ser centrada e perpendicular em relação à linha de entrada.
+
+  6.2.1.7.3 Em posições de estacionamento atendidas por ponte de embarque, ou quando requerido
+  para preservar os espaçamentos em relação a obstáculos, pode ser necessário o emprego de
+  mais de uma linha de roda. Elas devem, então, ser codificadas de acordo com a aeronave à
+  qual se destina cada linha, conforme Figura 16. Quando não for possível enumerar todas as
+  aeronaves para as quais as linhas de roda se destinam ou não houver espaço suficiente, as
+  linhas de roda podem ser codificadas por um número ou uma letra isolada (por exemplo, A,
+  B ou 1, 2). Nesse caso, o sinaleiro deve ser previamente informado sobre qual posição a
+  aeronave deve utilizar.
+
+  6.2.1.7.4 Em caso de conjuntos de posições de estacionamento sobrepostos (ver item 6.2.1.10),
+  com linhas de roda sobrepostas ou próximas umas das outras, é recomendável que não haja
+  letras ou números repetidos para codificar as linhas de roda, de modo a evitar possíveis
+  confusões por parte do sinaleiro, conforme exemplificado na Figura 17.
+
+  6.2.1.7.5 A codificação das linhas de roda deve estar alinhada com a linha de roda, em ambos
+  os lados ou do lado esquerdo do sinaleiro, virada para ele, e suas dimensões devem estar
+  de acordo com a Figura 16. Quando não for possível colocar a codificação das linhas de roda
+  do lado esquerdo do sinaleiro, admite-se que ela seja colocada apenas no seu lado direito.
+
+
+  Figura 16 - Linhas de roda codificadas
+
+
+  Figura 17 - Codificação de linhas de roda sobrepostas
+
+  6.2.1.7.6 Mesmo que não necessária, recomenda-se a utilização de sinalização de linha de
+  roda em posições que possuem sistema de orientação visual de estacionamento, tendo em vista
+  as possíveis inoperâncias do sistema.
+
+  6.2.1.8 A linha de saída indica a trajetória a ser percorrida pela aeronave ao sair da posição
+  de estacionamento em direção ao eixo da pista de táxi, de forma a manter distâncias seguras
+  em relação a obstáculos. O uso dessa sinalização é indicado quando a aeronave deixa a posição
+  de estacionamento por meios próprios, sem auxílios externos.
+
+  6.2.1.8.1 A linha de saída pode ser contínua desde a posição de estacionamento até a linha
+  de eixo de pista de táxi ou descontínua com seta de indicação de continuidade, conforme
+  Figura 18.
+
+
+  Figura 18 - Linha de saída descontínua com seta de indicação de continuidade
+
+  6.2.1.8.2 A linha de saída pode ser reta, curva ou deslocada em relação à linha de eixo
+  de pista de táxi, conforme exemplos (a), (b) e (c), respectivamente, da Figura 19.
+
+
+  Figura 19 - Linha de saída (a) reta, (b) curva e (c) deslocada
+
+  6.2.1.9 Quando for pretendido que a aeronave prossiga em uma única direção, setas podem
+  ser acrescentadas como parte das linhas de entrada e saída, de acordo com a Figura 20.
+
+
+  Figura 20 - Seta indicativa de direção única
+
+  6.2.1.10 Em caso de sobreposição de dois conjuntos de sinalização horizontal de posição
+  de estacionamento, as linhas de entrada, virada e saída do conjunto principal devem ser
+  contínuas, ao passo que as linhas de entrada, virada e saída do conjunto secundário devem
+  ser interrompidas.
+
+  6.2.1.10.1 O conjunto principal destina-se preferencialmente à aeronave que utiliza a posição
+  com mais frequência. No entanto, pode ser destinado à aeronave crítica se a frequência de
+  utilização for similar.'
+keywords:
+- seguranca-aeroportuaria
+- linha
+- roda
+- figura
+- linhas
+- saida
+- aeronave
+- estacionamento
+- entrada
+- posicao
+- relacao
+- pode
+- sinaleiro
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-001.md

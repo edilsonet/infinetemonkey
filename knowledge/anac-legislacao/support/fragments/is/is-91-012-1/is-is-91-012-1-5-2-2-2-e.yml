@@ -1,0 +1,108 @@
+id: is-is-91-012-1-5-2-2-2-e
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.2.2.2
+section_title: 'Quando ocorrer alguma das situações descritas abaixo, o operador deve analisar
+  sua MEL, objetivando verificar se há impacto no conteúdo de sua MEL:'
+subsection_id: e
+cite: 5.2.2.2(e)
+title: 5.2.2.2(e)
+text: 'e) forem atualizadas as publicações de referência utilizadas para a elaboração da MEL,
+  como por exemplo o manual de voo da aeronave, um manual de manutenção ou as publicações
+  utilizadas para elaboração dos procedimentos (O) e (M). Nesse caso, deve se considerar se
+  essas atualizações afetam o conteúdo da MEL, independentemente de a publicação de referência
+  ser explicitamente citada e independentemente de haver citação explícita à revisão de tais
+  publicações de referência. No entanto, não é necessário revisar a MEL apenas para atualizar
+  os números de revisão das publicações de referência quando o conteúdo referenciado não for
+  alterado.
+
+  5.2.2.2.1 Caso alguma das situações descritas no parágrafo 5.2.2.2 desta IS impacte a MEL,
+  o operador deve submeter uma revisão atualizada de sua MEL no prazo de 60 dias ou em prazo
+  anterior estabelecido pela Anac. No caso de a situação alterada ser do controle do operador,
+  como por exemplo a autorização de uma nova operação, é requerido que a MEL esteja atualizada
+  e de acordo com tal operação, antes que a nova operação seja autorizada.
+
+  5.2.2.2.2 Caso o operador não atenda ao parágrafo anterior e a Anac verifique que a MEL
+  não está adequada às suas operações, a Anac notificará o operador dessa situação, concedendo-lhe
+  prazo de 30 dias para que seja submetida uma revisão atualizada de sua MEL. Nesse prazo,
+  o operador pode solicitar reconsideração, ficando o prazo suspenso até análise da solicitação
+  da reconsideração pela Anac. Expirado o prazo, a Anac poderá revogar o documento de aprovação
+  da última MEL do operador.
+
+  5.2.2.3 A instalação de novos itens, de forma adicional, não relacionados aos itens previamente
+  instalados e listados na MEL, não exige a revisão da MEL. Assim, a MEL aprovada pode continuar
+  a ser utilizada para a aeronave. Porém, o novo item, por não estar listado na MEL, não pode
+  ser liberado inoperante até que uma nova revisão da MEL, que liste esse item, seja aprovada.
+
+  5.2.2.3.1 Caso o novo item instalado seja de um tipo já listado na MEL, a MEL deve passar
+  a prever a configuração resultante da aeronave. No caso de MEL para uma frota, conforme
+  o parágrafo 5.1.2.4.3 desta IS, pode ocorrer de a configuração resultante já estar abrangida
+  pela MEL, bastando, nesse caso, a atualização do controle de aplicabilidade da MEL.
+
+  5.2.2.4 A cada nova revisão submetida para análise, todas as alterações com relação à última
+  revisão aprovada da MEL devem ser indicadas com uma barra vertical adjacente ao texto.
+
+
+  5.2.2.4.1 Nas revisões seguintes, para as páginas afetadas por essas revisões, a barra vertical
+  deve ser removida caso não haja nova alteração no mesmo texto. Para as páginas não afetadas
+  por essas revisões, fica a critério do operador ou manter a página inalterada (incluindo
+  as barras verticais) ou retirar somente as barras verticais, mantendo todo o conteúdo restante;
+  em qualquer dos dois casos, não se altera a revisão associada a essas páginas.
+
+  5.2.2.4.2 A barra vertical pode ser acompanhada de letras, símbolos ou números indicando
+  o tipo de alteração efetuada. Por exemplo, a alteração pode ser classificada como inserção
+  de texto (i), remoção de texto (r) ou apenas uma mudança no texto da revisão anterior (m).
+
+  5.2.2.4.3 Quando parte do texto for reposicionada, em virtude de formatação, mantendo-se
+  todo o conteúdo e sua posição relativa (por exemplo, apenas com conteúdo sendo deslocado
+  entre as páginas), não é necessário indicá-la com a barra lateral.
+
+  5.2.2.5 Os trechos em que houver alteração com relação à última revisão aprovada da MEL
+  devem também ser indicados na sinopse de modificações da MEL. Além disso, ao encaminhar
+  para análise a primeira proposta de uma nova revisão da MEL, os trechos alterados com relação
+  à última revisão aprovada da MEL devem ser listados também no documento de encaminhamento
+  da MEL (FOP 107 ou 207, por exemplo). No caso do encaminhamento de resposta a não-conformidades
+  verificadas pela Anac (por FOP 125 ou 225, por exemplo), devem ser listados todos os trechos
+  alterados com relação à última versão proposta, ou seja, a última versão analisada pela
+  Anac, em que foram verificadas as não-conformidades sendo respondidas.
+
+  5.2.2.6 Quando o operador submete uma revisão da MEL, mesmo que seja enviado o arquivo completo
+  da MEL, apenas serão considerados aprovados naquela revisão os trechos devidamente identificados,
+  conforme requerido pelos parágrafos 5.2.2.4 e 5.2.2.5 desta IS. Caso o operador deixe de
+  identificar corretamente os trechos alterados, tais trechos não serão objeto de análise
+  e, portanto, não serão aprovados pela Anac. O uso de MEL com informações diferentes das
+  aprovadas pela Anac torna a operação irregular, colocando em risco as operações da aeronave,
+  além de sujeitar o operador a processos administrativos sancionadores.
+
+  5.2.2.7 Uma vez aprovada uma revisão da MEL, o operador deve atualizar a cópia da MEL disponibilizada
+  aos seus funcionários, tanto a bordo das aeronaves quanto em atividades de solo (como mecânicos
+  de manutenção aeronáutica e despachantes operacionais de voo) e tanto para cópias impressas
+  quanto para cópias digitais (por exemplo, em computadores ou EFB). No caso de aeronaves
+  que estejam fora da base de operações ou para as quais seja apresentada alguma dificuldade
+  para atualização da MEL e da aplicação da nova revisão, a revisão anterior da MEL pode continuar
+  a ser usada em um prazo de 15 dias após a aprovação da nova revisão. Caso o operador entenda
+  que esse prazo é insuficiente para um caso particular, deve solicitar à Anac extensão do
+  prazo, por um período adicional de no máximo 15 dias, incluindo suas justificativas.
+
+  Nota: ver notas ao parágrafo 5.3.12 desta IS.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- revisao
+- caso
+- operador
+- prazo
+- nova
+- exemplo
+- pode
+- seja
+- aprovada
+- conteudo
+- texto
+- trechos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

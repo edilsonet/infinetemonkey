@@ -1,0 +1,83 @@
+id: is-is-91-001-m7-1-j
+kind: is
+document: is-91-001
+family: '91'
+section_id: M7.1
+section_title: 'Além dos tópicos abordados no item 5.8 desta IS, o programa de treinamento
+  deve prover capacitação sobre os sistemas RNP e conceitos associados suficientes para que
+  os pilotos estejam familiarizados com os seguintes tópicos:'
+subsection_id: j
+cite: M7.1(j)
+title: M7.1(j)
+text: 'j) procedimentos operacionais relacionados aos sistemas RNP, quando aplicável, incluindo
+  o modo de realizar as seguintes ações:
+
+  i. verificar a atualização e integridade dos dados de navegação da aeronave;
+
+  ii. verificar a realização dos autotestes do sistema RNP;
+
+  iii. inicializar a posição do sistema de navegação;
+
+  iv. recuperar e voar uma SID ou STAR com transição apropriada;
+
+  v. aderir às restrições de velocidade e/ou altitude associadas a um SID ou STAR;
+
+  vi. selecionar a SID ou STAR apropriada para pista ativa em uso e estar familiarizado com
+  os procedimentos relacionados a eventuais mudanças de procedimentos;
+
+  vii. verificar os waypoints e a programação do plano de voo;
+
+  viii. efetuar uma atualização manual ou automática da pista (com deslocamento do ponto de
+  decolagem, se aplicável);
+
+  ix. realizar voo direto para um waypoint;
+
+  x. realizar o voo de uma trajetória até um waypoint;
+
+  xi. voar sob vetoração radar e regressar a uma rota/procedimento RNP a partir do modo “heading”;
+
+  xii. determinar o erro/desvio lateral. Mais especificamente, o valor máximo de desvio lateral
+  permitido para a condução dos procedimentos RNP deve ser compreendido e respeitado;
+
+  xiii. manter a trajetória publicada e as velocidades máximas durante a execução de operações
+  RNP com segmentos de RF ou FRTs, quando aplicável;
+
+  xiv. solucionar as descontinuidades de rota (inserir e apagar/eliminar eventuais descontinuidades);
+
+  xv. remover e selecionar novamente sensores de navegação;
+
+  xvi. confirmar a exclusão de um auxílio à navegação específico ou um determinado tipo de
+  auxílio à navegação, quando requerido;
+
+  xvii. realizar deslocamentos horizontais paralelos (parallel offsets), se esta capacidade
+  existir. Os pilotos devem ter ciência sobre a forma de aplicação dos deslocamentos, as funcionalidades
+  relacionadas dos sistemas RNP e a necessidade de informar ao ATC se esta funcionalidade
+  não estiver disponível;
+
+  xviii. alterar o aeródromo de chegada e o aeródromo de alternativa;
+
+  xix. realizar funções de espera RNP;
+
+  xx. realizar os procedimentos de contingência para perda de capacidade RNP; e
+
+  xxi. realizar a configuração manual da precisão de navegação necessária; e'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- realizar
+- navegacao
+- procedimentos
+- aplicavel
+- sistemas
+- star
+- verificar
+- aerodromo
+- apropriada
+- atualizacao
+- auxilio
+- capacidade
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

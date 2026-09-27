@@ -1,0 +1,52 @@
+id: is-is-145-009-b1-14-c
+kind: is
+document: is-145-009
+family: '145'
+section_id: B1.14
+section_title: Sistema de Inspeção
+subsection_id: c
+cite: B1.14(c)
+title: B1.14(c)
+text: 'c) Inspeção de recebimento.
+
+  I- Quem (por título) irá executar esta inspeção?
+
+  II- Como a inspeção será executada? Quais dados técnicos serão necessários para executar
+  essa inspeção?
+
+  III- O manual inclui procedimentos para controle de itens que tem limite de vida de prateleira?
+
+  IV- Os procedimentos descrevem a ação tomada se o material atende à especificação, bem como
+  qual ação é tomada se o material não atende à especificação?
+
+  V- Como o material é identificado, se aceitável ou não aceitável?
+
+  VI- Os materiais requerem algum requisito de teste especial? Se afirmativo, quais procedimentos
+  são seguidos para executar esses testes? Como é efetuado o teste?
+
+  VII- Qual o destino dos registros da inspeção de recebimento?
+
+  VIII- Como a rastreabilidade dos materiais recebidos em lotes, tais como varetas de solda
+  e pós de revestimento, é assegurada?
+
+  IX- O MCQ contém procedimentos para detectar e reportar partes suspeitas não aprovadas?'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- procedimentos
+- executar
+- material
+- acao
+- aceitavel
+- atende
+- especificacao
+- materiais
+- quais
+- qual
+- recebimento
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

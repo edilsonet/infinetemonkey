@@ -1,0 +1,144 @@
+id: is-is-120-016-7-6-1-2-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.6.1.2
+section_title: Requisitos de Certificado (Licença)
+subsection_id: body
+cite: 7.6.1.2
+title: Requisitos de Certificado (Licença)
+text: '7.6.1.2 Requisitos de Certificado (Licença)
+
+  7.6.1.2.1 Cada indivíduo que fizer uma liberação de aeronavegabilidade em nome da empresa
+  deve possuir a licença apropriada como mecânico de manutenção aeronáutica (MMA). As seções
+  121.378 do RBAC nº 121 e 135.435 do RBAC nº 135 exigem que qualquer indivíduo que a empresa
+  empregar como diretamente responsável pela manutenção possua licença apropriada como MMA.
+  A seção 121.371 do RBAC nº 121 exige que qualquer indivíduo que a empresa autorize a executar
+  os Itens de Inspeção Obrigatória (IIO) possua licença apropriada como MMA e designação para
+  tal. A seção 121.709 do RBAC nº 121 exige que qualquer pessoa que a empresa autorize a emitir
+  uma aprovação para retornar ao serviço seja portadora de uma licença apropriada como MMA
+  e de designação para tal.
+
+  Nota: as prerrogativas indicadas acima pertencem à empresa aérea. O pessoal habilitado que
+  atua nessas funções não exerce a autoridade ou privilégios unicamente gerados por sua licença,
+  mas sim através do vínculo/designação com a empresa aérea.
+
+  7.6.1.2.1.1 A empresa deve controlar as licenças de MMA, incluindo as datas de recadastramento,
+  e sua respectiva designação para realizar aprovação para retorno ao serviço (APRS) e IIO
+  e enviar, trimestralmente, à Anac um relatório com a relação desse pessoal.
+
+  7.6.1.2.1.2 Conteúdo do relatório: o nome, cargo ou função, CANAC (se aplicável), data de
+  admissão e data de demissão. Deve ser informado todo o pessoal envolvido com a manutenção
+  ou atividades de suporte à manutenção (Auxiliares de manutenção, MMA, pessoas autorizadas
+  a aprovar para retorno ao serviço (APRS), pessoas autorizadas para realizar inspeções obrigatórias
+  (IIO), etc.).
+
+  7.6.1.2.1.3 Forma de envio: os relatórios devem ser enviados por meio do Sistema de Gestão
+  de Relatórios de Aeronavegabilidade Continuada - SIGRAC, ou sistema eletrônico que venha
+  a substituí-lo.
+
+  Nota: em situações excepcionais, a Anac pode aceitar outras formas e frequências para o
+  recebimento dos relatórios.
+
+  7.6.1.2.2 A empresa aérea executa toda manutenção e aprovação para retorno ao serviço na
+  sua aeronave sob o seu certificado de operador aéreo, por sua organização de manutenção,
+  ou pessoas autorizadas pela empresa, e não por qualquer indivíduo ou organização sob sua
+  própria licença ou certificado individual. Há, no entanto, uma exceção à exigência de habilitação
+  para o mecânico de manutenção aeronáutica. Ela ocorre se a empresa aérea contratar uma Organização
+  de Manutenção localizada fora do Brasil para realizar a manutenção. Em tais organizações
+  de manutenção, os indivíduos diretamente responsáveis por realizar a manutenção ou as Inspeções
+  Obrigatórias (IIO) não são obrigados a possuir uma licença de mecânico de manutenção aeronáutica
+  emitida pela Anac, valendo neste caso a licença emitida pela autoridade local.
+
+  7.6.2 Grandes Reparos e Alterações. Sob parágrafos 121.379(b) do RBAC nº 121 e 135.437(b)
+  do RBAC nº 135, grandes reparos e grandes alterações devem ser feitos de acordo com os dados
+  técnicos aprovados pela Anac. O Apêndice A do RBAC nº 43 contém uma lista de reparos e alterações
+  que são enquadrados como grandes reparos e grandes alterações. Entretanto, a confiança exclusiva
+  nessa lista para fazer a classificação em grande ou pequeno(a) pode resultar na classificação
+  errada de alguns reparos e alterações, já que a lista do RBAC nº 43, Apêndice A, pode não
+  incluir evoluções de projeto e técnicas de construção de aeronaves, tais como estruturas
+  de materiais compostos e o transporte a jato pressurizado em altas velocidade e altitude.
+  A empresa aérea deve ter em seu manual procedimentos detalhados de classificação em grande/pequeno
+  para avaliar cada reparo ou alteração caso a caso, usando fatores como a base de certificação
+  (certification basis - TCDS) da aeronave, classificação da estrutura como primária, secundária
+  ou um elemento estrutural primário ou classificação como uma estrutura à prova de falhas
+  (fail-safe), de vida segura (safe life) ou tolerante a danos (damage tolerant).
+
+  7.6.3 Uso de Autorizações de Engenharia/Ordens de Engenharia (AE/OE) por Empresas Aéreas.
+  Detentores de certificado podem usar AE/OE como um formato aceitável para documentar procedimentos
+  para execução de manutenção, alteração, e reparos em aeronaves, hélices, grupo-motopropulsor
+  e componentes. O parágrafo 43.13(c) do RBAC nº 43 estabelece que, a menos que seja determinado
+  de outra maneira pela Anac, os métodos, técnicas, e práticas contidas no manual de manutenção
+  de um detentor de certificado conforme RBAC nº 121 ou RBAC nº 135, e que possua um PMAC
+  autorizado, constituem um meio aceitável de cumprimento. O detentor de certificado deve
+  ter políticas e procedimentos em seu manual de manutenção quanto ao uso de AE/OE. A autoridade
+  para os detentores de certificado executarem e aprovarem a manutenção, manutenção preventiva,
+  e alterações está contida nas seções 121.379 do RBAC nº 121 e 135.437 do RBAC nº 135.
+
+  Nota: a Advisory Circular nº 120-77 publicada pela Federal Aviation Administration - FAA
+  é considerada um método de cumprimento aceitável na elaboração de políticas e procedimentos
+  relativos à emissão de autorizações de engenharia, em suas partes aplicáveis, em sua versão
+  vigente.
+
+  7.6.4 Desativando sistemas ou componentes com mau funcionamento. É possível aos operadores
+  alterarem suas aeronaves para desativar sistemas ou componentes com mau funcionamento que
+  não possam ser reparados imediatamente. Estas alterações são executadas para preservar a
+  segurança operacional, mitigando potenciais perigos causados pelo defeito. Estas alterações
+  podem incluir a remoção ou realocação de equipamentos para desativar um sistema, e não podem
+  ir além dos limites estabelecidos pela Lista de Equipamentos Mínimos (MEL), responsável
+  primária por permitir a operação com equipamentos inoperantes até que o reparo seja realizado.
+  Uma ordem de engenharia produzida de acordo com o programa de gerenciamento da MEL é um
+  meio aceitável para suplementar o manual de manutenção do operador para estabelecer, esclarecer,
+  ou adicionar instruções para aumentar a segurança, adicionar etiquetas de instruções, ou
+  desativar um sistema ou componente inoperante, mas não pode ser menos restritiva que a MMEL.
+
+  7.6.5 Documento de Liberação da Aeronave para Voo ou Registro no Livro de Manutenção e Aprovação
+  para Retorno ao Serviço. Após realizar qualquer manutenção, manutenção preventiva ou alterações
+  em sua aeronave, a empresa deve aprová-la para retornar ao serviço antes de poder operá-la.
+  Como empresa aérea, a empresa deve emitir uma aprovação para retornar ao serviço sob a seção
+  121.709 do RBAC nº 121 ou 135.443 do RBAC nº 135, no caso de aeronave enquadrada sob o parágrafo
+  135.411(a)(2) do RBAC nº 135. Informações adicionais e mais detalhadas sobre o processo
+  de aprovação de aeronaves para retorno ao serviço estão disponíveis na Seção 7.9 desta IS.
+
+  7.6.6 Escopo da Manutenção. A empresa deve prover instruções em seu PMAC e manual de manutenção
+  para tratar manutenção e alteração. Essas instruções devem indicar o que fazer, quando fazer,
+  como fazer, e como verificar se foi feito corretamente. As três principais áreas a serem
+  consideradas são: (1) manutenção programada, (2) manutenção não programada e (3) requisitos
+  específicos de manutenção para os principais componentes da aeronave.
+
+  7.6.6.1 Manutenção programada. A manutenção programada compõe-se de todas as tarefas individuais
+  de manutenção realizadas de acordo com as limitações de tempo de manutenção, também chamadas
+  de programação de manutenção. As atividades de manutenção programada devem incluir instruções
+  de realização para as tarefas de manutenção, assim como procedimentos para registrar os
+  resultados das inspeções, verificações, testes e manutenções. Os procedimentos da manutenção
+  programada também devem prever ainda manutenções e inspeções de caráter repetitivo, tais
+  como Diretrizes de Aeronavegabilidade (DA) recorrentes, Requisitos de Manutenção de Certificação
+  (Certification Maintenance Requirements - CMR), e remoção de peças com limite de vida útil.
+
+  7.6.6.2 Manutenção não programada. A manutenção não programada inclui procedimentos, instruções
+  e padrões para manutenções que ocorrem em condições imprevistas ou não programadas. A necessidade
+  de manutenção não programada pode resultar de tarefas de manutenção programadas, reportes
+  de pilotos, ou eventos imprevistos, tais como, por exemplo, eventos de altas cargas, pousos
+  duros ou com sobrepeso, impactos de cauda, danos ocorridos em solo, descargas atmosféricas
+  ou temperaturas excessivas de motor. O manual de manutenção da empresa deve incluir instruções
+  e padrões para a realização e registro de manutenções não programadas.'
+keywords:
+- antidrogas
+- saude
+- manutencao
+- empresa
+- licenca
+- alteracoes
+- certificado
+- programada
+- servico
+- instrucoes
+- procedimentos
+- aerea
+- aeronave
+- aprovacao
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

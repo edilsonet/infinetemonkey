@@ -1,0 +1,47 @@
+id: is-is-91-006-5-7-4-body
+kind: is
+document: is-91-006
+family: '91'
+section_id: 5.7.4
+section_title: Cada LRNS deve ser capaz de fornecer à tripulação uma indicação contínua da
+  posição da aeronave em relação à trajetória desejada.
+subsection_id: body
+cite: 5.7.4
+title: Cada LRNS deve ser capaz de fornecer à tripulação uma indicação contínua da posição
+  da aeronave em relação à trajetória desejada.
+text: '5.7.4 Cada LRNS deve ser capaz de fornecer à tripulação uma indicação contínua da posição
+  da aeronave em relação à trajetória desejada.
+
+  5.7.5 Algumas aeronaves possuem dois LRNS independentes, mas apenas um FMS. Este tipo de
+  configuração não provê a redundância necessária para operar no espaço NAT-HLA; por isso,
+  para obter a aprovação NAT-HLA, dois FMS são requeridos.
+
+  5.7.6 Airborne Collision Avoidance Systems (ACAS). Para aeronaves a turbina com Peso Máximo
+  de Decolagem acima de 5.700 kg, ou com autorização para transportar mais de 19 passageiros,
+  é necessário transportar e operar ACAS II. Somente o TCAS versão 7.1, ou superior, atende
+  às especificações técnicas para ACAS II contidas no Anexo 10, Volume IV da ICAO.
+
+  5.7.7 Data link mandated airspace. Para voos na faixa de altitude RVSM, que compreende os
+  níveis de voo de FL 290 à FL 410, inclusive, a aeronave deve estar equipada e operando com
+  FANS 1/A ou, de forma equivalente, com CPDLC e ADS-C. Este requisito não se aplica às aeronaves
+  operando nas seguintes regiões:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- lrns
+- acas
+- aeronaves
+- cada
+- capaz
+- continua
+- desejada
+- fornecer
+- indicacao
+- posicao
+- relacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-006.md

@@ -64,12 +64,12 @@ items:
   pdf_url: ''
   family: '23'
 - kind: rbac
-  code: rbac-25-emd-146
+  code: rbac-25
   title: RBAC 25 EMD 146
   ementa: 'Requisitos de Aeronavegabilidade: Aviões Categoria Transporte Em vigor em 1º de
     junho de 2022'
   publication_date: 28/04/2022
-  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/resolveuid/d50f39dbfe814d0e8e30f5b7f1f00cf5
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-25
   pdf_url: ''
   family: '25'
 - kind: rbac
@@ -108,11 +108,11 @@ items:
   pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-031/@@display-file/arquivo_norma/RBAC31EMD07.pdf
   family: '31'
 - kind: rbac
-  code: rbac-33-emd-35
+  code: rbac-33
   title: RBAC 33 EMD 35
   ementa: 'Requisitos de Aeronavegabilidade: Motores Aeronáuticos'
   publication_date: 05/06/2024
-  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/resolveuid/de3a31dabcb5483091780bb4cced8593
+  page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-33
   pdf_url: ''
   family: '33'
 - kind: rbac

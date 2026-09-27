@@ -1,0 +1,49 @@
+id: is-is-00-002-4-e
+kind: is
+document: is-00-002
+family: '0'
+section_id: '4'
+section_title: Conhecimento prévio requerido
+subsection_id: e
+cite: 4(e)
+title: 4(e)
+text: 'e) Operações PBN:
+
+  i. conceitos e definições relacionados à operação PBN;
+
+  ii. requisitos de desempenho para operação PBN em diversos espaços aéreos;
+
+  iii. tolerâncias RNP;
+
+  iv. APV Baro - VNAV;
+
+  v. Trajetórias radius to fix (RF)
+
+  v. requisitos de equipamento para a realização de operações PBN;
+
+  vi. monitoramento do desempenho de sistemas e alertas requeridos em caso de perda de
+
+  integridade;
+
+  vii. procedimentos para os quais um sensor GNSS é requerido como instrumento primário
+
+  de navegação.
+
+  IFF Manobras com referências no painel de instrumentos completo'
+keywords:
+- desempenho
+- operacao
+- operacoes
+- requerido
+- requisitos
+- aereos
+- alertas
+- baro
+- caso
+- completo
+- conceitos
+- conhecimento
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-002.md

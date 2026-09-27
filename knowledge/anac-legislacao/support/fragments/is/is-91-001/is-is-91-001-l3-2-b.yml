@@ -1,0 +1,35 @@
+id: is-is-91-001-l3-2-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: L3.2
+section_title: Execução da trajetória de um procedimento RNP AR DP
+subsection_id: b
+cite: L3.2(b)
+title: L3.2(b)
+text: b) Posicionar o fixo inicial de um procedimento RNP AR DP na ou muito próximo ao início
+  da cabeceira de aproximação da pista de decolagem (approach end of takeoff runway, ver figura
+  1) é uma forma aceitável de facilitar a execução de RF leg se iniciando no DER. O segmento
+  retilíneo entre o fixo inicial e o fixo que define o início de uma RF leg no DER busca garantir
+  que a trajetória da aeronave é tangente à RF leg, viabilizando o funcionamento adequado
+  do sistema de navegação para captura da RF leg.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- fixo
+- execucao
+- inicial
+- inicio
+- procedimento
+- trajetoria
+- aceitavel
+- adequado
+- aeronave
+- approach
+- aproximacao
+- busca
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

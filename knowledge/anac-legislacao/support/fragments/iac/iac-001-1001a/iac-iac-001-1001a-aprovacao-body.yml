@@ -1,0 +1,32 @@
+id: iac-iac-001-1001a-aprovacao-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: aprovacao
+section_title: 'APROVAÇÃO:'
+subsection_id: body
+cite: aprovacao
+title: 'APROVAÇÃO:'
+text: 'APROVAÇÃO:
+
+  A PRESENTE EMENDA FOI APROVADA PELO: <Autoridade competente>
+
+  Maj-Brig-do-Ar NOME
+
+  AAAA2005 IAC 001-1001A
+
+  A-11'
+keywords:
+- aprovacao
+- 1001a
+- aaaa2005
+- aprovada
+- autoridade
+- brig
+- competente
+- nome
+- presente
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

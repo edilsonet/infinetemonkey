@@ -1,0 +1,32 @@
+id: rbac-rbac-25-preambulo-e
+kind: rbac
+document: rbac-25
+family: '25'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: e
+cite: preambulo(e)
+title: preambulo(e)
+text: (e) If compliance with the flight characteristics requirements is dependent upon a stability
+  augmentation system or upon any other automatic or power-operated system, compliance must
+  be shown with §§ 25.671 and 25.672.
+keywords:
+- aeronavegabilidade
+- transporte
+- compliance
+- preambulo
+- system
+- upon
+- with
+- augmentation
+- automatic
+- characteristics
+- dependent
+- flight
+- must
+- operated
+categories:
+- aeronavegabilidade
+- transporte
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-25.md

@@ -1,0 +1,47 @@
+id: is-is-91-001-k8-4-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: K8.4
+section_title: 'Os tipos de solicitação de autorização para operações RNP AR APCH são os seguintes:'
+subsection_id: a
+cite: K8.4(a)
+title: K8.4(a)
+text: 'a) autorizações genéricas:
+
+  i. solicitação de autorização inicial: aplicável quando o operador não possui qualquer autorização
+  para operações RNP AR APCH;
+
+  ii. solicitação de adição de autorização de nova capacidade: aplicável quando o operador
+  possui, para um determinado modelo de aeronave, autorização genérica para parte das capacidades
+  listadas em K1.12 a) a), e pretende adicionar nova capacidade em sua autorização para o
+  mesmo modelo de aeronave; ou
+
+  iii. solicitação de adição de autorização para nova matrícula de aeronave: aplicável quando
+  um operador possui autorização genérica para um determinado modelo de aeronave, que contempla
+  um conjunto de aeronave (matrículas), e deseja incluir na autorização genérica uma nova
+  aeronave (matrícula); e
+
+  Nota: as autorizações genéricas não especificam os procedimentos que podem ser operados,
+  e sim as capacidades, conforme K1.12 a). Com isso, não é necessária solicitação de autorização
+  para operação em novo procedimento, ou para procedimentos já operados que tenham sido alterados.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- autorizacao
+- aeronave
+- solicitacao
+- nova
+- aplicavel
+- generica
+- modelo
+- operador
+- possui
+- adicao
+- apch
+- autorizacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

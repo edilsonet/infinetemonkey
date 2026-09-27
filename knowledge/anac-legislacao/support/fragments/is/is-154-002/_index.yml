@@ -1,0 +1,40 @@
+document: is-154-002
+kind: is
+title: IS 154-002B
+ementa: Características físicas de aeródromos
+family: '154'
+categories:
+- seguranca-aeroportuaria
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-002
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-002
+language: pt
+foreign_annex: false
+sections:
+- aprovacao
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+- termos-e-definicoes
+fragment_count: 17
+fragment_ids:
+- is-is-154-002-preambulo-body
+- is-is-154-002-aprovacao-body
+- is-is-154-002-objetivo-body
+- is-is-154-002-revogacao-body
+- is-is-154-002-fundamentos-body
+- is-is-154-002-termos-e-definicoes-body
+- is-is-154-002-termos-e-definicoes-a
+- is-is-154-002-termos-e-definicoes-b
+- is-is-154-002-termos-e-definicoes-c
+- is-is-154-002-termos-e-definicoes-d
+- is-is-154-002-termos-e-definicoes-e
+- is-is-154-002-termos-e-definicoes-f
+- is-is-154-002-termos-e-definicoes-g
+- is-is-154-002-termos-e-definicoes-h
+- is-is-154-002-termos-e-definicoes-i
+- is-is-154-002-termos-e-definicoes-j
+- is-is-154-002-disposicoes-finais-body
+parser_version: 7

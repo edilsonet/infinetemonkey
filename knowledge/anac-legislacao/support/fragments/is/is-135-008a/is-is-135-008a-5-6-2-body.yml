@@ -1,0 +1,53 @@
+id: is-is-135-008a-5-6-2-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.6.2
+section_title: Métodos para gerenciar a realização da lista de verificação
+subsection_id: body
+cite: 5.6.2
+title: Métodos para gerenciar a realização da lista de verificação
+text: '5.6.2 Métodos para gerenciar a realização da lista de verificação
+
+  5.6.2.1 Listas de verificação relacionadas ao voo. As listas de verificação relacionadas
+  ao voo devem ser realizadas por um membro da tripulação que lê a lista de verificação, com
+  o segundo membro da tripulação confirmando e respondendo a cada item, conforme apropriado.
+  As exceções a isso podem ser as listas de verificação “Após a decolagem” e “Após o pouso”.
+  Enquanto estiver no ar, o PF não deve ser distraído de controlar a trajetória de voo da
+  aeronave para executar um item de lista de verificação que um outro membro da tripulação
+  pode realizar. Apenas um piloto deve estar com a cabeça baixa enquanto a aeronave estiver
+  em movimento.
+
+  5.6.2.2 Verificação. Os membros da tripulação devem ser orientados de modo que, quando observam
+  que outro membro da tripulação não está tomando ou não tomou uma ação necessária, eles são
+  obrigados a informá-lo.
+
+  5.6.2.3 Acompanhamento da conclusão da lista de verificação. O membro da tripulação responsável
+  por iniciar a lista de verificação deve ser responsável por garantir que essa lista seja
+  completada de forma sistemática e expedita. Esse piloto deve ser responsável por gerenciar
+  interrupções, pela verificação cruzada de controles e indicadores para assegurar que as
+  ações necessárias foram realizadas, e por informar que a lista de verificação foi concluída.
+
+  5.6.2.4 Call-outs. Um call-out (ou chamada) deve ser feito pelo piloto se ele está realizando
+  uma tarefa que exige que ele esteja com a cabeça baixa. Isso ajuda a garantir que o outro
+  piloto não esteja com a cabeça baixa ao mesmo tempo.'
+keywords:
+- taxi-aereo
+- operacoes
+- verificacao
+- lista
+- tripulacao
+- membro
+- gerenciar
+- piloto
+- baixa
+- cabeca
+- listas
+- metodos
+- outro
+- realizacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

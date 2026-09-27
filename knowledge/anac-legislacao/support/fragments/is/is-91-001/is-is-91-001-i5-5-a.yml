@@ -1,0 +1,32 @@
+id: is-is-91-001-i5-5-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: I5.5
+section_title: 'A aproximação perdida deverá ser executada de acordo com o procedimento publicado.
+  A utilização do sistema RNAV é aceitável, desde que:'
+subsection_id: a
+cite: I5.5(a)
+title: I5.5(a)
+text: a) o sistema RNAV esteja operacional (por exemplo, sem a degradação do sistema de navegação,
+  sem a indicação de falhas, sem alertas de NSE); e
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- rnav
+- aceitavel
+- acordo
+- alertas
+- aproximacao
+- degradacao
+- desde
+- devera
+- esteja
+- executada
+- exemplo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

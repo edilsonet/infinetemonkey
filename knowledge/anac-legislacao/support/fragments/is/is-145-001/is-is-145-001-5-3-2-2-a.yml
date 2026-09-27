@@ -1,0 +1,32 @@
+id: is-is-145-001-5-3-2-2-a
+kind: is
+document: is-145-001
+family: '145'
+section_id: 5.3.2.2
+section_title: 'O documento de solicitação formal deve conter:'
+subsection_id: a
+cite: 5.3.2.2(a)
+title: 5.3.2.2(a)
+text: a) Um Manual da Organização de Manutenção (MOM), requerido pela seção 145.207 do RBAC
+  nº 145 e um Manual de Controle da Qualidade (MCQ), requerido pelo parágrafo 145.211(c) do
+  RBAC n° 145. Para o desenvolvimento de tais manuais, veja orientações contidas na IS nº
+  145-009;
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- manual
+- requerido
+- conter
+- contidas
+- controle
+- desenvolvimento
+- documento
+- formal
+- manuais
+- organizacao
+- orientacoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

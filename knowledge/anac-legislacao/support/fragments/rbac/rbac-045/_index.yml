@@ -13,7 +13,6 @@ archive_url: ''
 language: pt
 foreign_annex: false
 sections:
-- '45.1'
 - '45.11'
 - 45.12-I
 - '45.13'
@@ -28,11 +27,16 @@ sections:
 - 45.30-I
 - '45.31'
 - '45.33'
+- aplicabilidade
+- aprovacao
 - preambulo
-fragment_count: 76
+- sumario
+fragment_count: 78
 fragment_ids:
 - rbac-rbac-045-preambulo-body
-- rbac-rbac-045-45-1-body
+- rbac-rbac-045-aprovacao-body
+- rbac-rbac-045-sumario-body
+- rbac-rbac-045-aplicabilidade-body
 - rbac-rbac-045-45-11-body
 - rbac-rbac-045-45-12-i-body
 - rbac-rbac-045-45-13-body
@@ -46,9 +50,9 @@ fragment_ids:
 - rbac-rbac-045-45-30-i-body
 - rbac-rbac-045-45-31-body
 - rbac-rbac-045-45-33-body
-- rbac-rbac-045-45-1-a
-- rbac-rbac-045-45-1-b
-- rbac-rbac-045-45-1-c
+- rbac-rbac-045-aplicabilidade-a
+- rbac-rbac-045-aplicabilidade-b
+- rbac-rbac-045-aplicabilidade-c
 - rbac-rbac-045-45-11-a
 - rbac-rbac-045-45-11-i
 - rbac-rbac-045-45-11-b
@@ -107,4 +111,4 @@ fragment_ids:
 - rbac-rbac-045-45-33-a
 - rbac-rbac-045-45-33-b
 - rbac-rbac-045-45-33-c
-parser_version: 6
+parser_version: 7

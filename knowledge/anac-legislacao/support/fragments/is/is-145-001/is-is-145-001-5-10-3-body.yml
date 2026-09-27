@@ -1,0 +1,70 @@
+id: is-is-145-001-5-10-3-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: 5.10.3
+section_title: Cada pedido de certificação inicial de base secundária deve ser endereçado
+  à ANAC utilizando o formulário F-143-07.
+subsection_id: body
+cite: 5.10.3
+title: Cada pedido de certificação inicial de base secundária deve ser endereçado à ANAC utilizando
+  o formulário F-143-07.
+text: '5.10.3 Cada pedido de certificação inicial de base secundária deve ser endereçado à
+  ANAC utilizando o formulário F-143-07.
+
+  NOTA: há situações em que instalações adicionais não requerem a certificação como base secundária,
+  conforme o parágrafo 5.6.1.7 desta IS.
+
+  5.10.4 Exceto se a organização possuir autorização em sua EO para realizar autoinclusão,
+  cada solicitação de inclusão de novos artigos ou serviços na EO ou na LC de uma OM deve
+  ser endereçada à ANAC utilizando o formulário F-143-05.
+
+  NOTA: para a obtenção de autorização para a realização de autoinclusão em EO ou em LC, a
+  OM deve observar as instruções e os procedimentos apresentados no APÊNDICE B desta IS.
+
+  5.10.5 A inclusão de um novo artigo ou serviço na EO ou na LC pode implicar na emissão pela
+  ANAC de um novo COM, caso esse artigo ou serviço se enquadre em uma Categoria e/ou Classe
+  para a qual a OM ainda não esteja certificada.
+
+  5.10.6 Cada OM deve apresentar apenas as informações necessárias ao respectivo processo
+  de emenda ao certificado, como por exemplo: alterações nas instalações da organização (se
+  necessárias), lista de ferramentas e equipamentos especiais, qualificação de pessoal, conforme
+  aplicável, e revisão dos manuais aplicáveis. Em todos os casos, a emenda pretendida deve
+  ser precedida de uma autoavaliação realizada pela OM.
+
+  5.10.7 Exceto se a OM possuir autorização para autoinclusão, ao solicitar à ANAC uma emenda
+  ao certificado, devem ser observadas todas as fases aplicáveis desta IS, sendo opcionais
+  a Fase 1 e a reunião inicial da Fase 2.
+
+  5.10.8 Conforme estabelecido na seção 145.57 do RBAC nº 145, a diminuição da capacidade
+  da OM deve ser comunicada à ANAC em até 5 (cinco) dias úteis após ocorrer a diminuição de
+  capacidade.
+
+  5.10.9 Conforme estabelecido na seção 145.57 do RBAC nº 145, as solicitações de emenda ao
+  certificado devem ser enviadas no mínimo 30 (trinta) dias antes da data proposta para efetivação,
+  embora uma antecedência maior seja recomendada, considerando que a duração do processo pode
+  variar significativamente conforme a complexidade do escopo de manutenção pretendido e conforme
+  a capacidade do requerente em demonstrar satisfatoriamente o cumprimento dos requisitos
+  estabelecidos pela ANAC.
+
+  5.11 Encerramento compulsório de processo'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- cada
+- base
+- certificacao
+- formulario
+- inicial
+- secundaria
+- utilizando
+- autoinclusao
+- autorizacao
+- capacidade
+- certificado
+- desta
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

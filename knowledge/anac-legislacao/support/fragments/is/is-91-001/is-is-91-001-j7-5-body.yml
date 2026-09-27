@@ -1,0 +1,50 @@
+id: is-is-91-001-j7-5-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J7.5
+section_title: Para a demonstração da configuração da aeronave, o operador deve listar os
+  equipamentos envolvidos na operação APV/Baro-VNAV (Air Data Computer, etc.) e os dados referentes
+  a cada um desses equipamentos (quantidade, fabricante e modelo). Esse documento deve ter
+  a assinatura do diretor de manutenção, quando se tratar de uma empresa aérea regida pelo
+  RBAC nº 135 ou 121 ou do administrador de programa segundo a Subparte K do RBAC nº 91, ou
+  assinatura do proprietário/operador quando se tratar de operador regido pelo RBAC nº 91
+  (exceto Subparte K).
+subsection_id: body
+cite: J7.5
+title: Para a demonstração da configuração da aeronave, o operador deve listar os equipamentos
+  envolvidos na operação APV/Baro-VNAV (Air Data Computer, etc.) e os dados referentes a cada
+  um desses equipamentos (quantidade, fabricante e modelo). Esse documento deve ter a assinatura
+  do diretor de manutenção, quando se tratar de uma empresa aérea regida pelo RBAC nº 135
+  ou 121 ou do administrador de programa segundo a Subparte K do RBAC nº 91, ou assinatura
+  do proprietário/operador quando se tratar de operador regido pelo RBAC nº 91 (exceto Subparte
+  K).
+text: 'J7.5 Para a demonstração da configuração da aeronave, o operador deve listar os equipamentos
+  envolvidos na operação APV/Baro-VNAV (Air Data Computer, etc.) e os dados referentes a cada
+  um desses equipamentos (quantidade, fabricante e modelo). Esse documento deve ter a assinatura
+  do diretor de manutenção, quando se tratar de uma empresa aérea regida pelo RBAC nº 135
+  ou 121 ou do administrador de programa segundo a Subparte K do RBAC nº 91, ou assinatura
+  do proprietário/operador quando se tratar de operador regido pelo RBAC nº 91 (exceto Subparte
+  K).
+
+  J8. BANCO DE DADOS DE NAVEGAÇÃO'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operador
+- assinatura
+- equipamentos
+- subparte
+- tratar
+- dados
+- administrador
+- aerea
+- aeronave
+- baro
+- cada
+- computer
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

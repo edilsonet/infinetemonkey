@@ -1,0 +1,45 @@
+id: is-is-145-010c-5-3-4-2-e
+kind: is
+document: is-145-010c
+family: '145'
+section_id: 5.3.4.2
+section_title: 'Segue abaixo um resumo de diferentes métodos para ministrar treinamento:'
+subsection_id: e
+cite: 5.3.4.2(e)
+title: 5.3.4.2(e)
+text: 'e) Treinamento embutido. Alguns equipamentos, particularmente aqueles que usam software
+  para teste ou para executar Função de Manutenção, têm o treinamento embutido no processo.
+  A incorporação de um tutorial ou um menu de ajuda (help menu) são exemplos simples de como
+  um programa de software pode prover instrução quando o utilizador executa uma tarefa específica.
+  O treinamento embutido é mais útil quando:
+
+  I - o Funcionário Técnico já conhece a informação técnica inerente à tarefa básica e necessita
+  apenas aprender os detalhes do procedimento;
+
+  II - o procedimento é simples e pode ser facilmente entendido com uma explicação escrita;
+
+  III - a mídia e o método nos quais o treinamento está embutido é parte da tarefa ou do equipamento
+  a ser manuseado e compreendido; e
+
+  IV - existe um método para avaliar o desempenho do Funcionário Técnico e registrar que o
+  treinamento tenha sido realizado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- treinamento
+- embutido
+- tarefa
+- funcionario
+- menu
+- metodo
+- pode
+- procedimento
+- simples
+- software
+- tecnico
+- abaixo
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-010c.md

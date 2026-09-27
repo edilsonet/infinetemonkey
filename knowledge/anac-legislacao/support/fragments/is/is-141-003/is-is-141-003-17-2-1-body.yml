@@ -1,0 +1,74 @@
+id: is-is-141-003-17-2-1-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 17.2.1
+section_title: Tipos de relatórios -- Visão geral e finalidades
+subsection_id: body
+cite: 17.2.1
+title: Tipos de relatórios -- Visão geral e finalidades
+text: '17.2.1 Tipos de relatórios -- Visão geral e finalidades
+
+  -- Informe meteorológico de rotina (Aviation Routine Weather
+
+  Report / Message d’Observation Météorologique Regulière pour
+
+  l’Aviation - METAR)
+
+  -- Informe meteorológico especial selecionado (Aviation
+
+  Selected Special Weather Report / Message d’Observaction
+
+  Spécial Selectionné pour l’Aviation - SPECI)
+
+  -- Informe meteorológico operacional transmitido pelas
+
+  aeronaves - aeronotificação (Air-report - AIREP): de rotina e
+
+  especial
+
+  -- Informação relativa a fenômenos meteorológicos em rota que
+
+  possam afetar a segurança operacional das aeronaves (Significant
+
+  Meteorological Information - SIGMET)
+
+  -- Informação relativa a fenômenos meteorológicos em rota que
+
+  possam afetar a segurança operacional das aeronaves em níveis
+
+  baixos (Airmen''s Meteorological Information - AIRMET)
+
+  -- Aviso de cortante de vento
+
+  -- Previsão de Área (General Aviation Meteorological
+
+  Information - GAMET);
+
+  -- Previsão de Aeródromo (Terminal Aerodrome Forecast -
+
+  TAF);
+
+  -- Aviso de atividade vulcânica (ASHTAM)
+
+  -- Avisos de formação de gelo e neve (SNOWTAM)'
+keywords:
+- escolas
+- treinamento
+- aviation
+- aeronaves
+- finalidades
+- geral
+- information
+- informe
+- meteorological
+- meteorologico
+- operacional
+- relatorios
+- report
+- tipos
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

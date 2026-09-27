@@ -1,0 +1,135 @@
+id: is-is-61-006-5-4-14-body
+kind: is
+document: is-61-006
+family: '61'
+section_id: 5.4.14
+section_title: Endosso para modelo específico de aeronave classe - 61.199(b)(1)
+subsection_id: body
+cite: 5.4.14
+title: Endosso para modelo específico de aeronave classe - 61.199(b)(1)
+text: '5.4.14 Endosso para modelo específico de aeronave classe - 61.199(b)(1)
+
+  Quem pode endossar:
+
+  Piloto devidamente qualificado nos termos da Tabelas de modelos de aeronave classe que requerem
+  endosso específico, disponível no sítio eletrônico da Agência, por meio do link https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/tabela-de-endossos.pdf
+  e doravante denominada Tabela de endossos. As instruções de uso da lista de habilitações
+  de tipo seguem no item Apêndice B desta IS.
+
+  Instrução prévia mínima ao endosso:
+
+  A instrução prevista na Tabela de endossos, disponível no sítio eletrônico da Agência, por
+  meio do link https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/tabela-de-endossos.pdf.
+
+  Endosso na CIV Digital:
+
+  Conforme item 5.4.4, o piloto endossante deve selecionar o botão “Endossar” na linha da
+  CIV Digital referente ao voo que deseja registrar o endosso. Na tela seguinte (vide figura
+  abaixo) deverá preencher o CANAC do piloto endossado. No campo Filtro, deverá selecionar
+  o Tipo de Endosso “Classe (modelo específico)” e a Categoria da aeronave utilizada na instrução
+  (“Avião” ou “Helicóptero”). Na sequência selecionar no campo Habilitação “Sim” e selecionar
+  na lista ao lado a habilitação de classe pertinente a modelo (MNTE, MLTE, MNAF, HMNT, HMLT
+  etc.). Por fim selecionar Classe de Modelo “Sim” e selecionar o fabricante/modelo endossado,
+  conforme Tabela de endossos, disponível no sítio eletrônico da Agência, por meio do link
+  https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/tabela-de-endossos.pdf.
+  O campo “Endosso*” ficará filtrado com “Classe (modelo específico) / categoria - habilitação
+  - fabricante - modelo”, bastando selecionar o botão Salvar para concluir o registro.
+
+
+  Regra de transição:
+
+  Os pilotos cujas habilitações de tipo tenham sido convertidas em habilitações de classe
+  por ocasião da Emenda 06 ao RBAC nº 61 consideram-se endossados em todos os modelos de aeronave
+  que já tenham voado dentro dessa habilitação de tipo (para maiores detalhes, vide Apêndice
+  B desta IS)
+
+  5.4.15 Endosso de treinamento inicial ou periódico para habilitação de tipo (somente quando
+  não há CTAC certificado ou validado pela ANAC para o tipo) - 61.213(a)(2)(iii), 6.213(a)(3)(iii)
+  e 61.215(c).
+
+  Quem pode endossar:
+
+  Piloto Comercial ou Piloto de Linha Aérea com habilitação vigente no tipo para o qual NÃO
+  haja CTAC certificado ou validado pela ANAC.
+
+  A lista de habilitações de tipo averbadas pela ANAC encontra-se disponível no sítio eletrônico
+  da Agência, por meio do link https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Lista-de-Habilitacoes-de-Tipo-ANAC.pdf.
+
+  A lista de CTAC certificados ou validados pela ANAC encontra-se disponível no sítio eletrônico
+  da Agência, por meio do link https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/pilotos/treinamento-de-tipo
+
+  Instrução prévia mínima ao endosso:
+
+  A instrução prevista na Avaliação Operacional da aeronave publicada pela ANAC em https://www.gov.br/anac/pt-br/assuntos/regulados/aeronaves/avaliacao-operacional
+  ou, caso não haja, a instrução necessária para aquisição de proficiência pelo piloto instruído,
+  tomando-se por referência o previsto pelo fabricante da aeronave e pela Instrução Suplementar
+  61-005;
+
+  Endosso na CIV Digital:
+
+  Conforme item 5.4.4, o piloto endossante deve selecionar o botão “Endossar” na linha da
+  CIV Digital referente ao voo que deseja registrar o endosso. Na tela seguinte (vide figura
+  abaixo) deverá preencher o CANAC do piloto endossado. No campo Filtro, deverá selecionar
+  o Tipo de Endosso “Tipo - check (inexistir CTAC)” e a Categoria da aeronave utilizada na
+  instrução (“Avião” ou “Helicóptero”). Na sequência selecionar no campo Habilitação “Sim”
+  e selecionar na lista ao lado a habilitação de tipo pertinente ao modelo. O campo “Endosso*”
+  ficará filtrado com “Tipo - check (inexistir CTAC) / categoria - habilitação”, bastando
+  selecionar o botão Salvar para concluir o registro.
+
+
+  5.4.16 Endosso de treinamento de diferenças em aeronave tipo (somente quando não há CTAC
+  certificado ou validado pela ANAC para ministrar o treinamento de diferenças para o modelo)
+  - 61.217(b)
+
+  Quem pode endossar:
+
+  Piloto Comercial ou Piloto de Linha Aérea com habilitação vigente no tipo e qualificado
+  no modelo para o qual NÃO haja CTAC certificado ou validado pela ANAC.
+
+  A lista de habilitações de tipo averbadas pela ANAC encontra-se disponível no sítio eletrônico
+  da Agência, por meio do link https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Lista-de-Habilitacoes-de-Tipo-ANAC.pdf
+
+  A lista de CTAC certificados ou validados pela ANAC encontra-se disponível no sítio eletrônico
+  da Agência, por meio do link https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/pilotos/treinamento-de-tipo
+
+  Instrução prévia mínima ao endosso:
+
+  A instrução prevista na Avaliação Operacional da aeronave publicada pela ANAC em https://www.gov.br/anac/pt-br/assuntos/regulados/aeronaves/avaliacao-operacional
+  ou, caso não haja, a instrução necessária para aquisição de proficiência pelo piloto instruído,
+  tomando-se por referência o previsto pelo fabricante da aeronave e pela Instrução Suplementar
+  61-005;
+
+  Endosso na CIV Digital:
+
+  Conforme item 5.4.4, o piloto endossante deve selecionar o botão “Endossar” na linha da
+  CIV Digital referente ao voo que deseja registrar o endosso. Na tela seguinte (vide figura
+  abaixo) deverá preencher o CANAC do piloto endossado. No campo Filtro, deverá selecionar
+  o Tipo de Endosso “Tipo - diferenças (inexistir CTAC)” e a Categoria da aeronave utilizada
+  na instrução (“Avião” ou “Helicóptero”). Na sequência selecionar no campo Habilitação “Sim”
+  e selecionar na lista ao lado a habilitação de tipo pertinente ao modelo. Por fim selecionar
+  Classe de Modelo “Sim” e selecionar o grupo que abarca o modelo cujo treinamento de diferenças
+  foi ministrado e será endossado, conforme https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Lista-de-Habilitacoes-de-Tipo-ANAC.pdf.
+  O campo “Endosso*” ficará filtrado com “Tipo - diferenças (inexistir CTAC) / categoria -
+  habilitação - modelo”, bastando selecionar o botão Salvar para concluir o registro.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- tipo
+- endosso
+- selecionar
+- modelo
+- habilitacoes
+- aeronave
+- habilitacao
+- instrucao
+- piloto
+- lista
+- assuntos
+- classe
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-006.md

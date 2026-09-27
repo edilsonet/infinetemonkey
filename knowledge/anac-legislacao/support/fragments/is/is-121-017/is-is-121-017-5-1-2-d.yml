@@ -1,0 +1,79 @@
+id: is-is-121-017-5-1-2-d
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.1.2
+section_title: 'Os parâmetros necessários para o cálculo de desempenho que se relacionam com
+  as informações meteorológicas de aeródromo incluem:'
+subsection_id: d
+cite: 5.1.2(d)
+title: 5.1.2(d)
+text: 'd) condição da pista.
+
+  Nota: o parágrafo 121.173(h) do RBAC nº 121 e esta IS não tratam de meios alternativos para
+  considerar parâmetros não relacionados com as informações meteorológicas de aeródromos,
+  como, por exemplo, o peso estimado do avião no momento do pouso.
+
+  5.1.3 Para o cálculo do desempenho de decolagem, considerando que o planejamento é realizado
+  pouco tempo antes da decolagem, normalmente se utilizam os valores vigentes para esses parâmetros,
+  obtidos de informes de condições meteorológicas, como o METAR.
+
+  5.1.4 Para o cálculo do desempenho de pouso, considerando que o RBAC nº 121 requer que se
+  considere o horário estimado de utilização do aeródromo, incluindo margens de tempo apropriadas,
+  normalmente se utilizam os valores previstos para esses parâmetros, obtidos de previsões
+  de condições meteorológicas, como o TAF.
+
+  5.1.5 Esses parâmetros normalmente seriam obtidos de informações meteorológicas providas
+  pelo órgão competente do Estado do aeródromo ou por provedor reconhecido por ele, em atendimento
+  às seções 121.101 ou 121.119 do RBAC nº 121. No entanto, pode ocorrer de o aeródromo não
+  dispor de tais informações, seja temporariamente (por alguma falha no serviço de informações
+  meteorológicas existente), seja de forma permanente (por o aeródromo não estar dotado desse
+  tipo de serviço).
+
+  5.1.6 Para atendimento a tais situações, o detentor pode solicitar aprovação da ANAC para
+  uso de meios alternativos aos das informações meteorológicas que atendam às seções 121.101
+  ou 121.119 do RBAC nº 121. Esta IS fornece meios aceitáveis para se obter essa aprovação,
+  que somente pode ser utilizada em operações domésticas (ou seja, com aeródromos de origem,
+  de destino e de alternativa situados em território nacional).
+
+  Nota 1: a aprovação não se aplica aos aeródromos de alternativa em rota ou de alternativa
+  de destino requeridos, uma vez que esses aeródromos sempre devem possuir informações meteorológicas,
+  para atendimento ao parágrafo 121.613(a)(3) do RBAC nº 121.
+
+  Nota 2: a aprovação não se aplica aos aeródromos de alternativa de decolagem requeridos,
+  uma vez que esses aeródromos sempre devem possuir informações meteorológicas, para atendimento
+  ao parágrafo 121.617(b) do RBAC nº 121.
+
+  5.1.7 Aeródromos que não disponham de informação meteorológica de forma permanente (ou seja,
+  para além de inoperâncias notificadas por NOTAM; ou, no caso de NOTAM, indisponibilidades
+  superiores a 60 dias) somente podem ser utilizados com base nos critérios desta IS se o
+  número de operações regulares do operador no aeródromo for inferior a 3 frequências (3 pousos
+  e 3 decolagens) semanais. No caso de indisponibilidades superiores ao prazo previsto neste
+  parágrafo, os operadores deverão se adequar ao limite de frequências estabelecido.
+
+  Nota: na avaliação do número de operações regulares semanais, não são consideradas situações
+  excepcionais, como, por exemplo, o fato de o último voo de uma semana ter sido adiado, fazendo
+  com que na semana seguinte o operador realize 4 frequências.
+
+  5.1.8 Conforme o item 4.1.1 da ICA 100-1, para operações IFR, é requerido que o aeródromo
+  possua informações meteorológicas disponibilizadas por meio de órgão ATS ou estação de radiodifusão
+  automática de aeródromo. Assim:'
+keywords:
+- transporte-aereo
+- operacoes
+- meteorologicas
+- informacoes
+- aerodromo
+- aerodromos
+- esses
+- parametros
+- alternativa
+- aprovacao
+- atendimento
+- nota
+- paragrafo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

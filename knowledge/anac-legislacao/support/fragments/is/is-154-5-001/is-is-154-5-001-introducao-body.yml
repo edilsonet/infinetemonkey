@@ -1,0 +1,164 @@
+id: is-is-154-5-001-introducao-body
+kind: is
+document: is-154-5-001
+family: '154'
+section_id: introducao
+section_title: INTRODUÇÃO
+subsection_id: body
+cite: introducao
+title: INTRODUÇÃO
+text: 'INTRODUÇÃO
+
+  Descrição da não conformidade, caracterizando os conflitos com a regulamentação em vigor,
+  os problemas operacionais decorrentes (atuais e potenciais), relacionando-os com a aeronave
+  crítica e as condições operacionais do aeroporto, e indicando eventuais situações onde os
+  riscos sejam potencializados.
+
+  Descrição sucinta da metodologia da análise de risco.
+
+  Medidas já adotadas em relação à não conformidade, com a finalidade de reduzir riscos imediatos,
+  como, por exemplo, acordos ou restrições operacionais já estabelecidos.
+
+  Justificativa que demonstre o interesse público para a obtenção de isenção.
+
+  REGULAMENTAÇÃO APLICÁVEL
+
+  Descrever a regulamentação brasileira aplicável.
+
+  Descrever, caso possível, a regulamentação adotada em outros países.
+
+  ANÁLISE
+
+  Dados operacionais específicos (que possuam pertinência com o pleito), tais como o histórico
+  de movimentos (dados de tráfego aéreo na área de aproximação do aeroporto, se for relevante
+  para compreensão dos impactos operacionais), descrição do mix de aeronaves, descrição do
+  percentual de operações que ocorrem sob cada tipo de regra de voo (VFR/IFR), bem como sob
+  condição meteorológica (VMC/IMC).
+
+  Caracterização (tais como localização, altura, natureza, frangibilidade) dos obstáculos
+  existentes que tenham relação com o pleito da isenção.
+
+  Histórico de fechamentos, condições meteorológicas, predominância e intensidade e direção
+  de ventos.
+
+  Histórico de acidentes ou incidentes no aeroporto ou de acidentes ou incidentes que aconteceram
+  em outros aeroportos similares, ou em circunstâncias operacionais semelhantes, quando relacionados
+  à não conformidade.
+
+  Descrição das metodologias utilizadas na análise do risco, do impacto na capacidade operacional.
+  Indicar as restrições do estudo e caracterizar as condições que foram assumidas. Utilizar
+  estudos similares conduzidos para casos semelhantes pode ser um boa alternativa para orientar
+  a análise de risco.
+
+  Definição sobre a abordagem quantitativa ou qualitativa da análise de risco, em função das
+  fontes de dados disponíveis. Recomenda-se a abordagem quantitativa, mas, quando dados confiáveis
+  não estão disponíveis ou são muito restritos, deve-se adotar a abordagem qualitativa. Comparações
+  com a média nacional de acidentes ou incidentes pertinentes ao requisito em análise podem
+  ser utilizadas.
+
+  Análise do risco existente, conforme descrito no RBAC 153, parágrafo 153.55(c).
+
+  Análise de sensibilidade, com base nos aspectos abordados anteriormente, caracterizando
+  a probabilidade de ocorrência e as consequências associadas à não conformidade, para cada
+  tipo de condição operacional no aeroporto (proposição de possíveis cenários, incluindo o
+  cenário de atendimento ao requisito, e avaliação do risco seguindo a mesma metodologia,
+  isto é, como varia o risco em função de uma ou mais melhorias, medidas mitigadoras ou restrições
+  operacionais possíveis de serem implementadas).
+
+  Avaliação das defesas existentes no aeroporto, tais como: existência de ranhuras na pista,
+  auxílios visuais, auxílios à navegação aérea, procedimentos, etc.
+
+  Proposição de medidas mitigadoras adicionais, tais como: restrições operacionais, instalação
+  de novos auxílios visuais (PAPI, por exemplo), modernização de equipamentos no aeroporto
+  (implantação de um SOCMS avançado), implantação de outros melhorias na infraestrutura do
+  aeroporto, etc.
+
+  Exposição de eventuais novos perigos que podem surgir em virtude de proposição de alguma
+  restrição operacional (ex: restrição a operações somente em condições VMC) ou de alguma
+  medida mitigadora adicional.
+
+  Apresentação de participação dos impactados no processo de avaliação risco, caso a não conformidade,
+  bem como a adoção de medidas mitigadoras adicionais, impactarem os agentes envolvidos nas
+  operações no aeroporto. Dependendo das proposições de restrições operacionais ou medidas
+  mitigadoras adicionais, os agentes impactados necessitarão apresentar suas próprias avaliações
+  de riscos em separado. A participação de representantes do serviço de tráfego aéreo (ATS)
+  é importante para compreensão dos impactos operacionais das medidas propostas.
+
+  CONCLUSÃO
+
+  Estimativa dos custos econômicos e avaliação dos impactos operacionais no aeroporto, considerando
+  a(s) solução(ões) de adequação da infraestrutura ao requisito (incluindo detalhes de impacto
+  na capacidade e eficiência operacional do aeroporto).
+
+  Apresentação do Plano de Ações Corretivas - PAC, com meios e prazos, para adequação da não
+  conformidade, caso o pedido seja de isenção temporária, ou de implantação de melhorias compensatórias
+  em outros aspectos da infraestrutura ou das operações no aeroporto.
+
+  Apresentação de plano de implementação das medidas mitigadoras adicionais propostas, incluindo
+  informações de quando, quem e como.
+
+  Descrição da forma como as operações serão monitoradas e os riscos reavaliados periodicamente,
+  incluindo eventuais novos perigos que tenham sido introduzidos em virtude das medidas mitigadoras
+  adicionais, bem como proposição dos gatilhos para a necessidade de reavaliação da análise
+  de risco (tais como alterações significativas do mix de aeronaves, alteração da condição
+  meteorológica, entrada em operação de novas empresas aéreas no aeroporto, etc.).
+
+  Apresentação de quais e como as informações relevantes de procedimentos ou restrições operacionais
+  serão divulgadas no AIS e coordenadas e comunicadas aos agentes impactados (ex: a proposição
+  de redução de distâncias declaradas para provimento de RESA foi avaliada em conjunto com
+  os operadores aéreos?).
+
+  Critérios de risco recomendados:
+
+  É de fundamental importância enfatizar que nenhum critério quantitativo fixo ou absoluto
+  de risco é estabelecido nesta IS. Os níveis de risco descritos devem ser utilizados como
+  referências, tendo em vista os aspectos práticos observados por ocasião da análise das situações
+  de perigo em aeroportos específicos.
+
+  Dessa forma, serão adotados dois princípios que nortearão o processo de decisão sobre a
+  possibilidade de concessão de uma isenção em relação aos requisitos em vigor:
+
+  os critérios serão guias genéricos para o estabelecimento e implementação do processo de
+  gerenciamento de risco; e
+
+  o nível de risco deve ser tão baixo quanto praticamente possível, independente de qualquer
+  critério absoluto.
+
+  Deve-se notar que há uma diferença entre o risco total de determinada operação e o risco
+  relacionado com determinada situação de perigo. Assim, no caso de uma decolagem abortada,
+  por exemplo, o risco total é integrado pelos riscos de saída lateral (veer-off), de parada
+  após a cabeceira (overrun) e de colisão.
+
+  Os critérios básicos, definidos a seguir, referem-se à possibilidade de ocorrência de acidentes
+  fatais por movimento (operação de pouso ou decolagem) da aeronave:
+
+  Referência para determinada situação de perigo: 1 × 10-7
+
+  Referência para o risco total em determinado aeródromo: 2 × 10-7
+
+  Quando praticável, para determinada situação de perigo: 1 × 10-8
+
+  Situação ideal, para determinada situação de perigo: 1 × 10-9
+
+  Tendo em vista outros riscos geralmente encontrados na aviação, a aplicação de recursos
+  para reduzir riscos inferiores a 10-9 por movimento pode ser desconsiderada. Além disso,
+  é possível questionar sobre a incerteza da base de dados para análise de riscos abaixo desse
+  nível.'
+keywords:
+- seguranca-aeroportuaria
+- risco
+- aeroporto
+- operacionais
+- analise
+- medidas
+- riscos
+- conformidade
+- descricao
+- mitigadoras
+- restricoes
+- adicionais
+- dados
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-5-001.md

@@ -1,0 +1,51 @@
+id: is-is-91-001-e1-5-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E1.5
+section_title: Embora estejam realizando esforços no sentido de harmonizar a especificação
+  P-RNAV de acordo com o conceito RNAV 1 estabelecido pela OACI, os Estados europeus continuam
+  utilizando o conceito e a terminologia P-RNAV. De tal forma, diante da existência de diversas
+  publicações e autorizações já emitidas que fazem referência ao termo e com o intuito de
+  padronizar a nomenclatura, sempre que possível, o designador P-RNAV deve ser entendido e
+  referenciado como RNAV 1.
+subsection_id: body
+cite: E1.5
+title: Embora estejam realizando esforços no sentido de harmonizar a especificação P-RNAV
+  de acordo com o conceito RNAV 1 estabelecido pela OACI, os Estados europeus continuam utilizando
+  o conceito e a terminologia P-RNAV. De tal forma, diante da existência de diversas publicações
+  e autorizações já emitidas que fazem referência ao termo e com o intuito de padronizar a
+  nomenclatura, sempre que possível, o designador P-RNAV deve ser entendido e referenciado
+  como RNAV 1.
+text: 'E1.5 Embora estejam realizando esforços no sentido de harmonizar a especificação P-RNAV
+  de acordo com o conceito RNAV 1 estabelecido pela OACI, os Estados europeus continuam utilizando
+  o conceito e a terminologia P-RNAV. De tal forma, diante da existência de diversas publicações
+  e autorizações já emitidas que fazem referência ao termo e com o intuito de padronizar a
+  nomenclatura, sempre que possível, o designador P-RNAV deve ser entendido e referenciado
+  como RNAV 1.
+
+  Nota: embora os conceitos P-RNAV e RNAV 1 requeiram a mesma precisão lateral de forma a
+  suportar as operações, o P-RNAV não satisfaz na íntegra todos os critérios da especificação
+  RNAV 1. Assim, quando pertinente, as diferenças entre o P-RNAV e o RNAV 1 devem ser avaliadas
+  (possivelmente comparando as especificações constantes na TGL - 10 para P-RNAV e os aqui
+  estabelecidos para RNAV 1).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rnav
+- conceito
+- embora
+- especificacao
+- forma
+- acordo
+- autorizacoes
+- continuam
+- designador
+- diante
+- diversas
+- emitidas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

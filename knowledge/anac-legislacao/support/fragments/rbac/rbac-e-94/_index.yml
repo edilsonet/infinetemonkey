@@ -56,10 +56,12 @@ sections:
 - E94.7
 - E94.701
 - E94.9
+- aprovacao
 - preambulo
-fragment_count: 177
+fragment_count: 178
 fragment_ids:
 - rbac-rbac-e-94-preambulo-body
+- rbac-rbac-e-94-aprovacao-body
 - rbac-rbac-e-94-e94-1-body
 - rbac-rbac-e-94-e94-5-body
 - rbac-rbac-e-94-e94-7-body
@@ -236,4 +238,4 @@ fragment_ids:
 - rbac-rbac-e-94-e94-701-i
 - rbac-rbac-e-94-e94-701-v
 - rbac-rbac-e-94-e94-701-b
-parser_version: 6
+parser_version: 7

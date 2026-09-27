@@ -1,0 +1,75 @@
+document: is-91-002
+kind: is
+title: IS 91-002D
+ementa: 'Uso de informação aeronáutica em formato digital -
+
+  Electronic Flight Bag (EFB).'
+family: '91'
+categories:
+- operacoes-gerais
+- regras-de-voo
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-002
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-002/@@display-file/arquivo_norma/IS91-002D.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-002/@@display-file/arquivo_norma/IS91-002D.pdf
+language: pt
+foreign_annex: false
+sections:
+- '1'
+- '10'
+- 10.2.1
+- 10.2.2
+- '11'
+- '12'
+- '13'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- apendice-a-ajuste-textual
+- apendice-a-exemplos-de-aplicativos
+- apendice-b-ferramenta-de-avaliacao
+- apendice-b-item-11-ajuste-textual
+- apendice-c-controle-de-alteracoes
+- preambulo
+fragment_count: 35
+fragment_ids:
+- is-is-91-002-preambulo-body
+- is-is-91-002-1-body
+- is-is-91-002-1-a
+- is-is-91-002-1-b
+- is-is-91-002-1-c
+- is-is-91-002-2-body
+- is-is-91-002-3-body
+- is-is-91-002-4-body
+- is-is-91-002-4-a
+- is-is-91-002-4-b
+- is-is-91-002-5-body
+- is-is-91-002-6-body
+- is-is-91-002-7-body
+- is-is-91-002-8-body
+- is-is-91-002-9-body
+- is-is-91-002-9-a
+- is-is-91-002-9-b
+- is-is-91-002-10-body
+- is-is-91-002-10-2-1-body
+- is-is-91-002-10-2-1-a
+- is-is-91-002-10-2-1-b
+- is-is-91-002-10-2-1-c
+- is-is-91-002-10-2-1-d
+- is-is-91-002-10-2-2-body
+- is-is-91-002-10-2-2-a
+- is-is-91-002-10-2-2-b
+- is-is-91-002-10-2-2-c
+- is-is-91-002-11-body
+- is-is-91-002-12-body
+- is-is-91-002-apendice-a-exemplos-de-aplicativos-body
+- is-is-91-002-apendice-b-ferramenta-de-avaliacao-body
+- is-is-91-002-13-body
+- is-is-91-002-apendice-c-controle-de-alteracoes-body
+- is-is-91-002-apendice-a-ajuste-textual-body
+- is-is-91-002-apendice-b-item-11-ajuste-textual-body
+parser_version: 7

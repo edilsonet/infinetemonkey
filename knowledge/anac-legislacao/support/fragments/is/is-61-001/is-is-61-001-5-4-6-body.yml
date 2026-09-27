@@ -1,0 +1,64 @@
+id: is-is-61-001-5-4-6-body
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.4.6
+section_title: Para cada tripulante só deve ser feito um único lançamento de horas para uma
+  determinada função/habilitação.
+subsection_id: body
+cite: 5.4.6
+title: Para cada tripulante só deve ser feito um único lançamento de horas para uma determinada
+  função/habilitação.
+text: '5.4.6 Para cada tripulante só deve ser feito um único lançamento de horas para uma
+  determinada função/habilitação.
+
+  5.4.7 Cada entidade deve lançar o total de horas de determinado tripulante por função/habilitação
+  informando sempre qual foi o período aquisitivo daquela experiência (“Data inicial” e “Data
+  final”). No caso de ter havido dois ou mais períodos distintos de aquisição de experiência
+  para um mesmo tripulante/função/habilitação, deve ser lançado o período total e o total
+  de horas, começando no primeiro dia do primeiro período e terminando no último dia do último
+  período.
+
+  5.5 Procedimento para declaração online de experiência de voo realizada em aeronaves de
+  marca e matrícula estrangeiras
+
+  5.5.1 Para declarar experiência de voo relacionada a operações aéreas realizadas em aeronaves
+  de marca e matrícula estrangeiras, a piloto declarante deve solicitar seu acesso ao módulo
+  contido no sistema SACI da ANAC que permite tal registro.
+
+  5.5.2 Para efetuar o cadastro, o piloto deve acessar o link https://sistemas.anac.gov.br/saci,
+  digitar os dados cadastrados (login e senha) e escolher a opção “CIV > Declaração de Experiência
+  de Voo - Anv estrangeira”:
+
+  5.5.3 AA seguir aparecerá uma tela, conforme Figura 5, na qual devem ser observadas as orientações
+  dadas na sequência para lançamento do total de horas voado em aeronaves estrangeiras.
+
+  NOTA: Conforme previsto na seção 61.29.(j) do RBAC 61, somente os voos realizados em aeronaves
+  estrangeiras operadas por CIACs estrangeiros, CTACs estrangeiros ou operadores aéreos certificados
+  estrangeiros devem ser declarados.
+
+
+  Figura 6: tela para que os operadores regidos pelo RBAC nº 121 ou RBAC nº 135 insiram horas
+  de voo na CIV Digital de tripulantes e ex-tripulantes'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- horas
+- experiencia
+- funcao
+- habilitacao
+- tripulante
+- aeronaves
+- cada
+- estrangeiras
+- lancamento
+- periodo
+- total
+- determinada
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

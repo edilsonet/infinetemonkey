@@ -1,0 +1,32 @@
+id: is-is-119-008-5-5-2-2-b
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.5.2.2
+section_title: 'Os níveis de acesso deverão obedecer, no mínimo, à seguinte hierarquia:'
+subsection_id: b
+cite: 5.5.2.2(b)
+title: 5.5.2.2(b)
+text: b) Nível 2 (acesso a dados não identificados) - este nível permite acesso a vários parâmetros
+  e estatísticas de voo, excluindo aqueles dados e informações que possam associar, por exemplo,
+  um determinado tripulante a um voo, com sua respectiva data e número de voo; e
+keywords:
+- certificacao-de-operador
+- operacoes
+- acesso
+- dados
+- nivel
+- aqueles
+- associar
+- data
+- determinado
+- deverao
+- estatisticas
+- excluindo
+- exemplo
+- hierarquia
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

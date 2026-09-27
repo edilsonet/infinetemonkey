@@ -1,0 +1,38 @@
+id: rbac-rbac-60-revogacao-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: revogacao
+section_title: revogação
+subsection_id: b
+cite: revogacao(b)
+title: revogacao(b)
+text: '(b) The ANAC may revoke a FSTD’s or an
+
+  operator’s Statement of Qualification when the
+
+  operator or the FSTD is suspended and it is
+
+  found that the operator does not have interest
+
+  or capacity to regularize the situation.'
+keywords:
+- simuladores
+- treinamento
+- operator
+- fstd
+- revogacao
+- capacity
+- does
+- found
+- have
+- interest
+- qualification
+- regularize
+- revoke
+- situation
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

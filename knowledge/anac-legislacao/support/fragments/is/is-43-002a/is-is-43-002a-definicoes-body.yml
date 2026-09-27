@@ -1,0 +1,69 @@
+id: is-is-43-002a-definicoes-body
+kind: is
+document: is-43-002a
+family: '43'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes
+  definições:
+
+  Mecânico Vinculado: MMA com licença e habilitações conforme RBAC nº 65, que possui vínculo
+  empregatício, contratual ou societário com a empresa.
+
+  Mecânico Cadastrado: MMA com licença e habilitações conforme RBAC nº 65, que é cadastrado
+  pela Anac, em conformidade com esta IS, para prestar serviços de manutenção aeronáutica
+  para os CIAC ou as EAP, conforme o parágrafo 43.7(b)-I(1) do RBAC nº 43.
+
+  Certificado de Verificação de Aeronavegabilidade - CVA: ver definição na IS nº 91.403-001.
+
+  Empresas que operam segundo o RBAC nº 91: empresas aéreas autorizadas para prestar Serviços
+  Aéreos Especializados - SAE, conforme definido pela Resolução nº 659, de 2 de fevereiro
+  de 2022 da Anac.
+
+  Nota: apesar de a atividade de ensino e adestramento (instrução) estar prevista no item
+  1.2.15 do Anexo à Resolução nº 659, de 2 de fevereiro de 2022 da Anac como uma atividade
+  SAE, para efeitos desta IS, os CIAC devem seguir o processo estabelecido no item 5.12 desta
+  IS, para dar cumprimento à necessidade de cadastramento do MMA prevista no parágrafo 43.7(b)-I(1)
+  do RBAC nº 43.
+
+  Programa de manutenção do fabricante: um documento do fabricante que descreve as tarefas
+  específicas de manutenção programada e suas frequências de realização e procedimentos relacionados
+  para a operação segura das aeronaves às quais se aplica.
+
+  NOTA: o parágrafo 43.7(b)-I(1) do RBAC nº 43 se refere a “plano de manutenção do fabricante”,
+  o qual deve ser entendido como “programa de manutenção do fabricante”.
+
+  Programa aprovado de inspeções progressivas: é um programa aprovado de acordo com o parágrafo
+  91.409(d) do RBAC nº 91.
+
+  Limitações de aeronavegabilidade: são tarefas de manutenção que afetam o nível mínimo de
+  segurança do produto aeronáutico. Incluem tarefas que visam detectar falhas latentes que,
+  em conjunto com uma ou mais falhas específicas adicionais, podem resultar em uma situação
+  perigosa ou catastrófica. São definidas pelo fabricante durante a certificação de tipo ou
+  suplementar de tipo, aprovadas pela autoridade de aviação civil e identificadas como tal
+  no Manual de Manutenção ou nas Instruções para Aeronavegabilidade Continuada, tornando-se
+  de cumprimento obrigatório. As limitações de aeronavegabilidade envolvem prazos ou intervalos
+  máximos de utilização em termos de horas e/ou ciclos, ou outro valor mensurável.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- definicoes
+- fabricante
+- paragrafo
+- programa
+- desta
+- tarefas
+- aprovado
+- atividade
+- cadastrado
+- ciac
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-002a.md

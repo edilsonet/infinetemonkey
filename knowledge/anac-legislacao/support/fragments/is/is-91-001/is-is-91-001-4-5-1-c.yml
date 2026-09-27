@@ -1,0 +1,44 @@
+id: is-is-91-001-4-5-1-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: 4.5.1
+section_title: 'Aeronave:'
+subsection_id: c
+cite: 4.5.1(c)
+title: 4.5.1(c)
+text: 'c) condições normais, anormais e emergências:
+
+  i. desempenho normal. As capacidades de navegação lateral e vertical são específicas por
+  equipamentos e traduzem a capacidade em situação em que todos os equipamentos e instrumentos
+  operam normalmente em configuração normal, enquanto falhas nos componentes são monitoradas
+  por meio de procedimentos operacionais; e
+
+  ii. desempenho degradado ou situação incomum. Durante a qualificação da aeronave a capacidade
+  de navegação lateral e vertical é verificada considerando falhas específicas. Adicionalmente
+  outras situações incomuns devem ser consideradas considerando falhas nos serviços ATC ou
+  auxílios à navegação, procedimentos operacionais adotados pelo operador, ou características
+  da operação. A capacidade de navegação deve atender ao valor de RNP requerido ou RNP x 2.
+  Quando o resultado das falhas ou condições não estiver dentro dos níveis aceitos para a
+  continuidade das operações, devem ser desenvolvidas medidas mitigatórias ou estabelecidas
+  limitações para a aeronave e/ou tripulantes.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- falhas
+- navegacao
+- aeronave
+- capacidade
+- condicoes
+- considerando
+- desempenho
+- equipamentos
+- especificas
+- lateral
+- normal
+- operacionais
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

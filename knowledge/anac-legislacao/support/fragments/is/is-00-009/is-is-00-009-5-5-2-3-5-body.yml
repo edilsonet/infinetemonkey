@@ -1,0 +1,65 @@
+id: is-is-00-009-5-5-2-3-5-body
+kind: is
+document: is-00-009
+family: '0'
+section_id: 5.5.2.3.5
+section_title: Se o diário de bordo for físico, deve estar em conformidade com a Portaria
+  nº 2.050/SPO/SAR, de 29 de junho de 2018 e suas alterações posteriores.
+subsection_id: body
+cite: 5.5.2.3.5
+title: Se o diário de bordo for físico, deve estar em conformidade com a Portaria nº 2.050/SPO/SAR,
+  de 29 de junho de 2018 e suas alterações posteriores.
+text: '5.5.2.3.5 Se o diário de bordo for físico, deve estar em conformidade com a Portaria
+  nº 2.050/SPO/SAR, de 29 de junho de 2018 e suas alterações posteriores.
+
+  5.5.2.3.6 Se o diário de bordo for eletrônico, deve estar em conformidade com a Portaria
+  nº 3.220/SPO/SAR, de 15 de outubro de 2019 e suas alterações posteriores.
+
+  5.5.2.4. Licença de estação.
+
+  5.5.2.4.1 A obtenção da Licença de Estação de Aeronave é uma responsabilidade do proprietário
+  ou operador, sendo requerida para toda aeronave que possuir um equipamento emissor de radiofrequência.
+  Todos os dados constantes da Licença de Estação (matrícula, operador, categoria de registro
+  e equipamentos) devem estar de acordo com o que consta no Certificado de Aeronavegabilidade
+  e com o registrado no SIAC-ANAC. Caso um ou mais desses dados estejam em desacordo, a Licença
+  de Estação não será aceita, devendo o operador providenciar uma nova junto à ANATEL.
+
+  5.5.2.4.2 A solicitação de emissão da nova licença à ANATEL deve ser realizada tão logo
+  receba a aeronave (ou tão logo o RAB proceda com a sua transferência). No entanto, tendo
+  em vista que a ANATEL não emite o documento imediatamente (primeiramente analisa a solicitação,
+  verifica se existem não conformidades e, caso os requisitos tenham sido atendidos, emite
+  a Licença), o prazo para a regularização junto à ANAC é o prazo estabelecido pela ANATEL
+  (Agência responsável pela emissão da Licença).
+
+  5.5.2.4.3 Aeronaves operando segundo o RBAC nº 91 e RBAC nº 135 devem possuir a bordo licença
+  de estação da aeronave válida ou protocolo de solicitação junto à ANATEL, contemplando os
+  transmissores instalados. [RBAC nº 91.203(a)(6) / RBAC nº 135.3(a)(1)]
+
+  5.5.2.4.4 Para aeronaves operando segundo o RBAC nº 136, não é necessário possuir a bordo
+  licença de estação da aeronave válida ou protocolo de solicitação junto à ANATEL durante
+  as operações, mas a licença de estação da aeronave válida ou o protocolo de solicitação
+  junto à ANATEL, contemplando os transmissores instalados, deve estar disponível no local
+  de operação. [RBAC nº 136.15(a)]
+
+  5.5.2.4.5 Para aeronaves operando segundo o RBAC nº 137, não é necessário possuir a bordo
+  licença de estação da aeronave válida ou protocolo de solicitação junto à ANATEL durante
+  as operações aeroagrícolas, mas a licença de estação da aeronave válida ou o protocolo de
+  solicitação junto à ANATEL, contemplando os transmissores instalados, deve estar disponível
+  no local de operação. [RBAC nº 137.501(a)(9)]'
+keywords:
+- licenca
+- anatel
+- estacao
+- aeronave
+- bordo
+- estar
+- junto
+- solicitacao
+- protocolo
+- valida
+- alteracoes
+- conformidade
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-009.md

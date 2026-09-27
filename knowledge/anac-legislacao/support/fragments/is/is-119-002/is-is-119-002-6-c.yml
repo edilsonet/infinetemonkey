@@ -1,0 +1,160 @@
+id: is-is-119-002-6-c
+kind: is
+document: is-119-002
+family: '119'
+section_id: '6'
+section_title: GERENCIAMENTO DOS RISCOS À SEGURANÇA
+subsection_id: c
+cite: 6(c)
+title: 6(c)
+text: 'c) preditivos
+
+  Independentemente do processo adotado, devem ser consideradas e identificadas as fontes
+  para
+
+  a obtenção dos perigos existentes. Elas podem ser internas (autoinspeção, análise de dados
+  de
+
+  vôo, sistema de relato voluntário interno à companhia, auditorias e pesquisas, e externas
+
+  (informes de acidentes, recomendações de segurança operacional, sistemas de reporte
+
+  mandatórios e confidenciais, Relatos da Aviação Civil - RAC, Vistorias e Auditorias de Segurança
+
+  Operacional realizadas pela ANAC).
+
+  Deve ser apresentado um processo que permita identificar os perigos à segurança operacional
+
+  resultantes de ocorrências ou condições específicas, tais como, um aumento incomum de eventos
+
+  relacionados com a segurança operacional ou infrações a ela, previsão de importantes mudanças
+
+  operacionais, períodos de mudanças organizacionais significativas etc.
+
+  No caso das empresas operando segundo o RBAC 135 deve ser considerada ainda, conforme o
+
+  caso, a fase de transição estabelecida no RBAC 119 e no RBAC 121.
+
+  Os processos de identificação de perigos devem incluir os seguintes passos:
+
+  − Estabelecimento de processos de coleta de dados;
+
+  − Identificação de eventos ou fatos relacionados à segurança operacional;
+
+  − Organização de um sistema de armazenamento de dados de segurança operacional
+
+  (biblioteca de dados de segurança operacional);
+
+  − Armazenamento dos dados coletados e análise de tendências de novos perigos; e
+
+  − Distribuição de relatórios consolidados sobre as informações de segurança operacional,
+
+  obtidas a partir dos dados coletados e analisados, para os setores responsáveis pela
+
+  implantação das medidas.
+
+  Devem se estabelecidos processos e procedimentos para reportar à ANAC/GGAP,
+
+  independentemente de outras comunicações exigidas em regulamento específico, as ocorrências
+
+  que indiquem desempenho deficiente da segurança operacional no Detentor de Certificado,
+  como
+
+  dificuldades de serviço, ocorrências anormais, ocorrências de solo, incidentes e acidentes
+
+  aeronáuticos, consideradas como Eventos de Segurança Operacional - ESO (ver PSOE-ANAC).
+
+  Destaca-se, ainda, a obrigação de os comandantes de aeronave voando em espaço aéreo
+
+  brasileiro de informar à ANAC sempre que avistar um grupo de aves, que possa colocar em
+  risco asData da emissão: 9 de novembro de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  operações aéreas próximas aos sítios aeroportuários. Além disso, deve ser informado, também,
+
+  caso sua aeronave tenha sofrido colisão com uma ou mais aves, a não ser que já tenha sido
+
+  relatada como um acidente ou incidente.
+
+  A comunicação deve ser feita preferencialmente por meio do endereço eletrônico
+
+  ocorrencia.ggap@anac.gov.br, ou, na indisponibilidade deste, por outro meio cabível. Acidentes
+  e
+
+  incidentes devem ser reportados imediatamente. As demais ocorrências devem ser reportadas
+  em
+
+  prazo não superior a sete dias.
+
+  Deve ser estabelecida uma forma de proteger, quando necessário, as fontes para a identificação
+
+  de perigos a segurança operacional, de forma a não sofrer represália e tornar o sistema
+  ineficaz.
+
+  6.5 PROCESSOS DE AVALIAÇÃO E MITIGAÇÃO DE RISCOS
+
+  O <Diretor ou Gerente> de Segurança Operacional deve desenvolver, implantar e manter um
+
+  processo formal de gerenciamento de riscos que inclua uma clara diferenciação entre perigos,
+
+  como fontes de possíveis lesões ou danos, e suas conseqüências para a segurança operacional.
+
+  Entretanto, só se pode gerenciar o que se pode medir. Assim, é necessário avaliar para cada
+
+  conseqüência a probabilidade e a gravidade de sua possível ocorrência, visando estabelecer
+
+  prioridades para a alocação dos recursos no momento de propor as estratégias de mitigação
+
+  (Plano de Ação).
+
+  O Diretor ou Gerente, juntamente com o Grupo de Ação de Segurança Operacional (GASO), deve
+
+  avaliar os perigos identificados e suas conseqüências, a tolerabilidade de cada conseqüência,
+
+  considerando probabilidade e severidade se ocorrer. A partir dessa avaliação e dos conhecimentos
+
+  sobre as defesas existentes é possível identificar a situação atual da tolerabilidade dos
+  riscos e a
+
+  necessidade ou não de propor medidas mitigadoras adicionais para proteger a operação contra
+
+  essas conseqüências estudadas.
+
+  Neste item deve ser apresentado um fluxograma contendo as cinco etapas do processo acima
+
+  descrito, bem como as responsabilidades pelas decisões e ações ali estabelecidas.
+
+  Como forma de auxiliar o Diretor ou Gerente, coloca-se a seguir uma sequência de ações a
+  serem
+
+  avaliadas e representadas no fluxograma a ser desenvolvido.Data da emissão: 9 de novembro
+  de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  A partir da análise da figura anterior, espera-se que o Diretor ou Gerente de Segurança
+
+  Operacional seja capaz de descrever o processo pelo qual vai gerenciar os riscos à segurança
+
+  operacional da empresa.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- seguranca
+- operacional
+- perigos
+- dados
+- ocorrencias
+- processo
+- riscos
+- diretor
+- gerente
+- processos
+- acidentes
+- analise
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

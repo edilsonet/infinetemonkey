@@ -16,94 +16,22 @@ title: 'O envelope de voo operacional RVSM é definido como o número de Mach, W
 text: 'D2.3 O envelope de voo operacional RVSM é definido como o número de Mach, W/δ e faixas
   de altitude sobre as quais pode ser operada uma aeronave em voo de cruzeiro dentro do espaço
   aéreo RVSM. Como anteriormente mencionado, o envelope de voo operacional RVSM para qualquer
-  aeronave pode ser dividido em duas partes, conforme a seguir:
-
-  a)
-
-  Envelope de voo completo RVSM
-
-  : o envelope de voo completo RVSM compreenderá toda faixa de número de Mach operacional,
-  W/δ e valores de altitude sobre os quais se pode operar uma aeronave dentro do espaço aéreo
-  RVSM. A tabela D-1 estabelece os parâmetros que devem ser considerados neste envelope:
-
-  Limite inferior
-
-  Limite superior
-
-  Altitude
-
-  FL 290
-
-  O menor dos seguintes valores:
-
-  - FL 410
-
-  - Altitude máxima certificada para a aeronave
-
-  - Altitude limitada por: empuxo de cruzeiro, velocidade de batimento e outras limitações
-  de voo da aeronave
-
-  Mach ou velocidade
-
-  O menor dos seguintes valores:
-
-  - Velocidade de máxima autonomia
-
-  - Velocidade de manobra
-
-  O menor dos seguintes valores:
-
-  - M
-
-  mo
-
-  /V
-
-  mo
-
-  - Velocidade limitada por: empuxo de cruzeiro, velocidade de batimento e outras limitações
-  de voo da aeronave
-
-  Peso bruto
-
-  - O menor peso bruto compatível com operações em espaço aéreo RVSM
-
-  - O maior peso bruto compatível com operações em espaço aéreo RVSM
-
-  Tabela D-1 - Limites do envelope de voo completo RVSM
-
-  b)
-
-  Envelope de voo básico RVSM
-
-  : Os limites para o envelope de voo básico RVSM são os mesmos do envelope de voo completo
-  RVSM, com exceção do limite superior de Mach.
-
-  I. Para o envelope de voo básico RVSM, o limite de Mach superior pode estar limitado a uma
-  faixa de velocidades sobre as quais pode se esperar de maneira razoável que o grupo de aeronaves
-  opere com maior frequência. O limite deve ser declarado para cada grupo de aeronaves pelo
-  fabricante ou organização de projeto. O limite pode ser definido como igual ao limite de
-  velocidade/Mach superior definido para o envelope de voo completo RVSM ou um valor inferior.
-  Este valor menor não pode ser inferior ao número de Mach de cruzeiro de longo alcance mais
-  0.04 Mach, a não ser que a limitação tenha origem no empuxo de cruzeiro disponível, velocidade
-  de batimento e outras limitações de voo da aeronave.
-
-  D3. ERRO DO SISTEMA ALTIMÉTRICO'
+  aeronave pode ser dividido em duas partes, conforme a seguir:'
 keywords:
 - operacoes-gerais
 - regras-de-voo
 - rvsm
-- envelope
 - aeronave
-- pode
-- mach
-- velocidade
-- altitude
-- cruzeiro
-- limite
+- envelope
 - operacional
+- pode
 - aereo
-- espaco
+- altitude
+- anteriormente
+- cruzeiro
+- definido
+- dentro
+- dividido
 categories:
 - operacoes-gerais
 - regras-de-voo

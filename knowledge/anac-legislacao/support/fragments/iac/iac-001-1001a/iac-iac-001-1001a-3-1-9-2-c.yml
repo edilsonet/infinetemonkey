@@ -1,0 +1,33 @@
+id: iac-iac-001-1001a-3-1-9-2-c
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 3.1.9.2
+section_title: O plano seguirá as prescrições estabelecidas pelo Instituto de Aviação Civil.
+subsection_id: c
+cite: 3.1.9.2(c)
+title: 3.1.9.2(c)
+text: 'c) o original assinado da respectiva Portaria (Anexo 1 e 2), duas cópias em papel e
+
+  disquete, contendo a Portaria em tamanho original e no padrão reduzido para
+
+  DOU (Anexo 3) deverão ser entregues à Seção de Publicações para publicação no
+
+  Diário Oficial da União, na Internet e no Boletim do DAC;'
+keywords:
+- anexo
+- original
+- portaria
+- assinado
+- aviacao
+- boletim
+- civil
+- contendo
+- copias
+- deverao
+- diario
+- disquete
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

@@ -1,0 +1,48 @@
+id: is-is-39-001-5-11-2-body
+kind: is
+document: is-39-001
+family: '39'
+section_id: 5.11.2
+section_title: Se um Boletim de Serviço foi incorporado por referência em uma DA, a ação nele
+subsection_id: body
+cite: 5.11.2
+title: Se um Boletim de Serviço foi incorporado por referência em uma DA, a ação nele
+text: '5.11.2 Se um Boletim de Serviço foi incorporado por referência em uma DA, a ação nele
+
+  contida passa a ser um requisito de cumprimento obrigatório, independentemente da
+
+  eventual classificação que tenha sido fornecida pelo fabricante para aquele boletim
+
+  (ex.: mandatório, recomendado, altamente recomendado, etc.). Entretanto, não
+
+  prevalece qualquer orientação do boletim que seja contrária ao requisito definido pela
+
+  DA. Por exemplo, se uma DA requer uma inspeção por líquido penetrante a cada 1500
+
+  horas de voo de uma aeronave e a descrição para a realização da inspeção encontra-se,
+
+  por referência, em um Boletim de Serviço que estabelece tal inspeção a cada 3000
+
+  horas de voo da aeronave, a inspeção deve, então, ser realizada a cada 1500 horas de
+
+  voo.
+
+  5.12 Registros de cumprimento de uma DA'
+keywords:
+- diretrizes-de-aeronavegabilidade
+- boletim
+- inspecao
+- referencia
+- servico
+- acao
+- cada
+- horas
+- incorporado
+- nele
+- aeronave
+- cumprimento
+- recomendado
+categories:
+- diretrizes-de-aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-39-001.md

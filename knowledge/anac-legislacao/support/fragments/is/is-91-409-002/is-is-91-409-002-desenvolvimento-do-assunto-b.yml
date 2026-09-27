@@ -1,0 +1,133 @@
+id: is-is-91-409-002-desenvolvimento-do-assunto-b
+kind: is
+document: is-91-409-002
+family: '91'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: b
+cite: desenvolvimento-do-assunto(b)
+title: desenvolvimento-do-assunto(b)
+text: 'b) Realize o mesmo teste a fim de verificar vazamento no filtro de ar. Se houver vazamento
+  de ar, a válvula de admissão, sede, guia ou todas estão desgastadas. Nesse caso, uma inspeção
+  detalhada deverá ser feita com o cilindro removido de modo a determinar e eliminar a fonte
+  do problema.
+
+  6.9.13.2 Para verificar se os anéis de segmento, pistão ou cilindro estão desgastados, remova
+  a tampa do bocal de abastecimento de óleo e verifique se ar está saindo por esse local.
+  Se ouvir um vazamento de ar, os anéis de segmento, as paredes do cilindro, o pistão ou todos
+  estão desgastados. Nesse caso, uma inspeção detalhada deverá ser feita com o cilindro removido
+  de modo a determinar e eliminar a fonte do problema.
+
+  6.9.13.3 Uma boa inspeção visual no interior do cilindro pode ser realizada por meio de
+  um boroscópio para verificar a presença de arranhões, degrau (rebaixo) corrosão nas paredes
+  do cilindro e condição das válvulas e sedes.
+
+  6.9.14 Entrada de ar do motor. O ar não filtrado, seja ele proveniente de um filtro de ar
+  sujo ou danificado, controle de aquecimento do carburador ou porta de ar alternada deixada
+  aberta durante o táxi, permite que sujeira, areia e outros detritos sejam ingeridos pelo
+  motor. Essa sujeira poderá danificar as paredes do cilindro e anéis do pistão, causando
+  baixa compressão dos cilindros, aumentando o consumo de óleo e ocasionando o blow-by (passagem
+  de gases da câmara de combustão para o bloco do motor).
+
+  6.9.14.1 O filtro de ar do motor deve ser inspecionado e substituído conforme previsto no
+  manual de manutenção do fabricante e sempre que for identificado algum problema, e os controles
+  de aquecimento do carburador e ar alternado devem ser usados com moderação no solo, principalmente
+  em pistas não pavimentadas.
+
+
+  PROGRAMA DE MONITORAMENTO DE TENDÊNCIAS
+
+  7.1 O monitoramento de tendências do motor é um sistema de coleta de dados no qual periodicamente
+  (durante as operações e em todas as inspeções da aeronave) um número selecionado de leituras
+  e indicações do motor são registrados, analisados e a partir dessa análise de dados são
+  tomadas as decisões em relação à aeronavegabilidade do motor.
+
+  7.2 O objetivo de um programa de monitoramento de tendências é prever modos de falha antes
+  que ocorram. Um programa de monitoramento de tendências para motores convencionais deve
+  abordar pelo menos três áreas do motor, as quais são detalhadas nas seções seguintes:
+
+  7.2.1 Área 1. Os componentes internos do motor, como eixo de manivelas, comando de válvulas,
+  tuchos hidráulicos, mancais, bielas e engrenagens, são alojados dentro do bloco do motor
+  que se divide em duas partes. Devido a sua localização, a inspeção visual da condição e
+  a medição do desgaste desses componentes não podem ser realizadas adequadamente sem antes
+  desmontar o motor. No entanto, de modo geral, as condições internas de um motor em operação
+  podem ser determinadas por meio de um programa de análise de óleo, inspeções frequentes
+  do filtro de óleo (pressão e sucção), inspeção boroscópica e acompanhamento contínuo dos
+  parâmetros do motor como (pressão x temperatura do óleo). Um aumento de temperatura do óleo
+  sempre estará acompanhado de queda da pressão do óleo, e vice-versa.
+
+  7.2.2 Área 2. O conjunto de cilindro inclui: o cilindro, pistão, anéis, pinos, válvulas,
+  sedes, guias, molas, balancins e retentores. Esses componentes podem ser facilmente removidos
+  para uma inspeção detalhada, mas normalmente uma inspeção das velas de ignição, inspeção
+  boroscópica, teste de compressão e acompanhamento contínuo da RPM, pressão de admissão,
+  temperatura da cabeça do cilindro e consumo de óleo e combustível fornecerão uma boa visão
+  geral da condição do cilindro. As velas de ignição são verificadas quanto a desgaste e incrustação.
+  Velas de ignição sujas podem indicar, por exemplo, mistura muito rica ou desgaste dos anéis
+  de segmento, cilindro, pistão e retentores de válvulas.
+
+  7.2.3 Área 3. Os acessórios, incluindo os magnetos, cabos de ignição, velas de ignição,
+  escapamento, gerador/alternador e correia, bomba mecânica de combustível, carburador, unidade
+  de injeção de combustível, bicos injetores, governador de hélice e bomba de vácuo/pressão
+  são facilmente removíveis para inspeção e teste, e geralmente fornecem ao piloto uma indicação
+  de sua condição de operação por meio da instrumentação e medidores na cabine de comando.
+
+  7.3 Um modelo de Programa de Monitoramento de Tendências para motor convencional é ilustrado
+  nos Apêndices C, D e E desta IS. O Apêndice C traz um modelo de formulário de coleta de
+  dados de parâmetros do motor, o qual deverá ser preenchido pelo mecânico durante a manutenção
+  e cheque operacional. O Apêndice D traz uma planilha de coleta de dados de análise do óleo,
+  e o Apêndice E traz uma planilha de rastreamento de amostras de dados na qual todos os itens
+  rastreados e coletados nos formulários anteriores são listados juntos e em sequência para
+  facilitar a comparação e a análise.
+
+  7.4 A análise dos parâmetros do motor deve ser realizada comparando as leituras obtidas
+  e observando a tendência medida em relação às recomendações do fabricante. Por exemplo,
+  se o fabricante do motor recomenda uma pressão de óleo de cruzeiro de 55 a 60 PSI e a leitura
+  indicada em cruzeiro foi de 48 PSI, o mecânico deve verificar a quantidade e viscosidade
+  do óleo, ajuste da válvula de alívio da pressão do óleo, filtros de óleo, desgastes internos
+  do motor (por exemplo, eixos e mancais), indicações de blow-by e a precisão/calibração do
+  medidor de pressão do óleo.
+
+  7.5 A relação específica entre a RPM e a pressão de admissão deve ser verificada durante
+  cada teste operacional do motor (run up) de modo a medir a performance do motor contra uma
+  condição padrão conhecida. Sob as mesmas condições atmosféricas, uma pressão de admissão
+  mais alta que a normal para uma mesma RPM, pode indicar algum problema nos cilindros ou
+  ignição fora do ponto.
+
+  7.6 O mecânico também deverá comparar os resultados da análise de óleo, temperaturas da
+  cabeça do cilindro (CHT), temperatura do gás de escape (EGT), fluxo de combustível, pressão
+  de admissão, temperaturas do óleo, condições das velas de ignição e compressão dos cilindros
+  em relação às recomendações do fabricante.
+
+  7.7 Um programa de monitoramento de tendências depende, em grande parte, de informações
+  precisas para coleta e análise. Assim, antes de incorporar um programa de monitoramento
+  de tendências do motor, o operador deve garantir que os seguintes instrumentos e medidores
+  da aeronave tenham sido testados e calibrados, conforme necessário: indicador de RPM, pressão
+  do óleo, temperatura do óleo, CHT, EGT, pressão de admissão, pressão de combustível e fluxo
+  de combustível, conforme aplicável.
+
+  7.8 As orientações e procedimentos constantes desta Instrução Suplementar, se aplicam a
+  todas as aeronaves detentoras de projeto de tipo (certificadas) com motor convencional,
+  operando segundo as regras do RBAC nº 91 e RBAC nº 135. Incluem-se, neste contexto, aeronaves
+  operando sob o RBAC nº 137.
+
+  7.9 Intervalo de monitoramento:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- motor
+- oleo
+- pressao
+- cilindro
+- inspecao
+- monitoramento
+- analise
+- ignicao
+- programa
+- tendencias
+- admissao
+- combustivel
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-002.md

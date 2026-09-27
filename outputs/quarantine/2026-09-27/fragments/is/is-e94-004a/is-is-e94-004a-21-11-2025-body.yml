@@ -1,0 +1,1099 @@
+id: is-is-e94-004a-21-11-2025-body
+kind: is
+document: is-e94-004a
+family: '94'
+section_id: 21.11.2025
+section_title: 21.11.2025
+subsection_id: body
+cite: 21.11.2025
+title: 21.11.2025
+text: '21.11.2025
+
+  Objetivo
+
+  A subparte E do RBAC-E nº 94 estabelece requisitos para autorização de projeto de Sistema
+  de Aeronave Remotamente Pilotada (RPAS) levando-se em consideração critérios como o peso
+  máximo de decolagem (PMD) da aeronave não tripulada, se operada ou não além da visada visual
+  (BVLOS) ou acima ou não dos 120 m (400 pés) AGL (acima do nível do solo).
+
+  Atualmente, com base no uso da metodologia SORA (Specific Operations Risk Assessment) da
+  JARUS, é possível mensurar o risco da operação de um RPAS de maneira holística, propor mitigações
+  ou limitações e assim orientar o cumprimento de requisitos para autorização de projeto mais
+  proporcionais ao risco avaliado.
+
+  Caso o fabricante tenha o interesse de ter autorizado seu projeto de RPAS sob essa perspectiva,
+  deverá cumprir os critérios abordados nesta Instrução Suplementar, desenvolvidos de acordo
+  com a metodologia SORA na versão 2.5 e limitada às operações SAIL I ou II. Para os casos
+  não detalhados nesta IS, aplicam-se diretamente os requisitos já estabelecidos na Subparte
+  E do RBAC-E nº 94, e orientações contidas nas IS nº E94-001B e IS nº E94-002A.
+
+  Revogação
+
+  Não aplicável.
+
+  Fundamentos
+
+  A Lei nº 11.182/2005 (Lei de Criação da ANAC) estabelece no seu Art. 8, que "Cabe à ANAC
+  adotar as medidas necessárias para o atendimento do interesse público e para o desenvolvimento
+  e fomento da aviação civil, (...) atuando com independência, legalidade, impessoalidade
+  e publicidade (...)".
+
+  O mesmo artigo determina em seu inciso X, que compete à ANAC "regular e fiscalizar os serviços
+  aéreos, os produtos e processos aeronáuticos, a formação e o treinamento de pessoal especializado,
+  os serviços auxiliares, a segurança da aviação civil, a facilitação do transporte aéreo,
+  (...) e as demais atividades de aviação civil".
+
+  O requisito contido no parágrafo E94.401(b)(1)(i) do RBAC-E nº 94 estabelece que a ANAC
+  pode determinar forma diferente da estabelecida pela Subparte E do RBAC-E nº 94 para autorização
+  de projeto de RPAS.
+
+  O art. 14 da Resolução nº 30, de 21 de maio de 2008, modificado pela Resolução n° 162, de
+  20 de julho de 2010, também determina, em seu § 1°, que o administrado que pretenda, para
+  qualquer finalidade, demonstrar o cumprimento de requisito poderá adotar os meios e procedimentos
+  previamente especificados em IS ou apresentar meio ou procedimento alternativo devidamente
+  justificado, exigindo-se, nesse caso, a análise e concordância expressa do órgão competente
+  da ANAC. O § 2° do mesmo artigo estabelece que o meio ou procedimento alternativo deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  Definições
+
+  Área Adjacente (Adjacente Area). Significa toda a área que está para além da Distância de
+  Segurança no Solo (Ground Risk Buffer).
+
+  Área Controlada (Controlled Ground Area). Significa uma área em que o operador do RPAS pode
+  garantir que não haverá pessoas não anuentes em solo expostas ao risco.
+
+  Área Escassamente Povoada (Lightly Populated). Região com densidade populacional menor que
+  50 pessoas por km2.
+
+  Área Rural ou Remota (Rural or Remote Area). Região com densidade populacional menor que
+  5 pessoas por km2.
+
+  Classe de Risco Aéreo (ARC - Air Risk Class). Significa uma classificação qualitativa da
+  probabilidade de uma RPA encontrar uma aeronave tripulada no espaço aéreo genérico típico.
+
+  Nota: Para efeitos desta IS, somente é aplicável a classe de risco aéreo ARC-a, também denominada
+  de atípica e que ocorre mediante a segregação do espaço aéreo pelo DECEA via NOTAM.
+
+  Classe de Risco ao Solo (GRC - Ground Risk Class). Significa o risco de uma pessoa ser atingida
+  pela RPA (no caso de uma perda de controle da RPA com um pressuposto razoável de segurança
+  operacional), ou então do atingimento de uma infraestrutura crítica.
+
+  Detentor do Projeto. Pessoa física ou jurídica que detém, conforme a legislação brasileira,
+  os direitos autorais patrimoniais sobre a totalidade do projeto da aeronave.
+
+  Distância de Segurança no Solo (GRB - Ground Risk Buffer). Significa a distância no solo
+  para além do volume operacional, a partir da qual devem ser acionados os procedimentos de
+  emergência.
+
+  Fabricante. Pessoa física ou jurídica responsável pela verificação da conformidade de todas
+  as partes, peças e materiais adquiridos de terceiros, conforme seus respectivos projetos.
+  Também é responsável pela conformidade de todos os processos de transformação e integração
+  dessas partes, peças e materiais, além da verificação final da conformidade da aeronave,
+  frente seu projeto aprovado na ANAC.
+
+  Geografia de Voo (Flight Geografic). Significa o volume de espaço aéreo onde se planeja
+  realizar a operação da RPA.
+
+  Objetivos de segurança operacional (Operational Safety Object - OSO). Significa a expressão
+  do SAIL em termos de requisitos específicos e com a robustez requerida para cada nível de
+  SAIL.
+
+  Requerente. Pessoa física ou jurídica que solicita à ANAC e aos outros órgãos governamentais
+  as autorizações e solicitações necessárias para o projeto do RPAS, sendo o próprio fabricante
+  ou representante por ele designado, em qualquer caso, detentor dos dados técnicos completos
+  do projeto.
+
+  Responsável Técnico - RT. Engenheiro com atribuição adequada e registro no Conselho Regional
+  de Engenharia e Agronomia - Crea, responsável pelo projeto de RPAS.
+
+  Risco no contexto SORA. Significa a análise de potenciais situações que podem resultar em
+  danos a terceiros durante a operação do RPAS.
+
+  Nível específico de integridade e confiança (Specific Assurance Integrity Level - SAIL).
+  Significa a consolidação das análises de risco aéreo e no solo, que direciona as atividades
+  necessárias e representa o nível de confiança de que a operação do RPAS permanecerá sob
+  controle.
+
+  Volume de Contingência (Contingency Volume). Significa um volume de espaço aéreo, para além
+  da geografia de voo, que a UA poderá acessar em caso de evento anormal e, a partir do qual,
+  devem ser acionados os procedimentos de contingência.
+
+
+  Figura 1 - Apresentação dos volumes e áreas para análise.
+
+  Desenvolvimento do Assunto
+
+  Aplicabilidade
+
+  Esta IS é aplicável a qualquer pessoa que pretenda obter autorização declaratória de projeto
+  de RPAS, utilizando a metodologia SORA, limitada a SAIL I ou II.
+
+  Limitações
+
+  As aprovações de projeto consideradas por esta IS possuem as seguintes limitações:
+
+  Exclusivamente em espaço aéreo segregado via NOTAM, ou de outra forma definida pelo DECEA;
+
+  Operações sobre áreas controladas, rurais, remotas, ou escassamente povoadas, conforme definidas
+  nesta IS;
+
+  Classe de Risco ao Solo menor ou igual a 3; e
+
+  Um piloto remoto somente pode operar um único RPAS por vez.
+
+  Atribuições de Responsabilidades
+
+  A autorização declaratória de projeto de RPAS é um processo que objetiva assegurar que a
+  aeronave não tripulada atenda aos requisitos mínimos de aeronavegabilidade aplicáveis. Esta
+  atividade envolve responsabilidades tanto daqueles que pretendem receber a autorização quanto
+  da Anac.
+
+  São responsabilidades dos requerentes:
+
+  Solicitar a abertura do processo de autorização declaratória de projeto de RPAS, destinado
+  às operações de baixo risco (SAIL I ou II), junto à Anac conforme estabelecido na IS;
+
+  Submeter à Anac os documentos técnicos referentes ao cumprimento com requisitos da Subparte
+  E do RBAC-E nº 94;
+
+  Apresentar quaisquer esclarecimentos e dados técnicos complementares solicitados pela Anac;
+
+  Realizar as análises e executar todos os ensaios em laboratório, solo e voo, conforme aplicável,
+  julgados necessários pela Anac para a autorização, bem como elaborar e apresentar à Anac
+  os relatórios dos resultados de ensaios (se aplicável);
+
+  Nota: Para a realização dos ensaios, a aeronave protótipo deverá ser cadastrada no Sisant
+  (Sistema de Aeronaves não Tripuladas) e estar em conformidade com os dados técnicos apresentados.
+  Conforme necessário, a aeronave deverá possuir um Certificado de Autorização de Voo Experimental
+  (Cave de RPAS), de acordo com a IS E94.503, para a realização dos ensaios em voo.
+
+  Colaborar com as inspeções da Anac, quando necessárias, para determinação da conformidade
+  do RPAS com os dados técnicos apresentados;
+
+  Elaborar Manual de Voo com informações objetivas sobre a definição da Geografia de Voo,
+  Volume de Contingência, Distância de Segurança no Solo, Área Adjacente, e quaisquer outras
+  informações que a Anac julgar necessário para a segurança da operação;
+
+  Apresentar declaração de cumprimento com requisitos conforme Subparte E do RBAC-E nº 94
+  para aprovação de projeto ou no caso de modificação ao projeto aprovado;
+
+  Permitir que a Anac testemunhe ou realize, se aplicáveis, os ensaios em laboratório, solo
+  e voo relacionados ao cumprimento dos requisitos da Subparte E do RBAC-E nº 94; e
+
+  Possuir sistema de qualidade que atenda, pelo menos, aspectos como: controle de dados técnicos
+  de projeto; controle de documentação; controle de fornecedores; controle do processo de
+  fabricação, inspeção e ensaios; controle de equipamentos de medição e testes; controle de
+  artigos ou produtos não-conformes; ações de prevenção e correção; procedimentos de manuseio
+  e armazenagem; controle dos registros de qualidade; procedimentos internos de auditoria
+  e controle dos desvios de qualidade;
+
+  Nota: A utilização da norma ASTM nº F3686 - 24, ou equivalente, é aceitável para a avaliação
+  do sistema de qualidade.
+
+  No âmbito de suas competências legais e regulatórias, compete a ANAC:
+
+  Avaliar a documentação apresentada pelo requerente;
+
+  Determinar, quando aplicável, a necessidade de ensaios adicionais; e
+
+  Autorizar o projeto de RPAS quando estiver assegurado que este atende aos requisitos de
+  aeronavegabilidade aplicáveis.
+
+  Processo de Autorização de Projeto de RPAS, destinada às operações de baixo risco (SAIL
+  I ou II)
+
+  O processo de autorização declaratória de projeto de RPAS, destinado às operações de baixo
+  risco (SAIL I ou II), é composto pelas seguintes etapas:
+
+  Preliminar;
+
+  Inicial e submissão de dados técnicos; e
+
+  Final.
+
+  Caso a Anac identifique, em qualquer etapa, algum aspecto que impeça o andamento do processo
+  de autorização, o requerente será informado pela Agência.
+
+  Etapa preliminar
+
+  Antes de iniciar um processo de autorização de projeto de RPAS, é recomendável que o requerente
+  obtenha o máximo de informações sobre as regulamentações aplicáveis. Nesta fase, a Anac
+  pode auxiliar respondendo sobre procedimentos para obtenção da autorização, orientando quanto
+  ao material regulatório apropriado, políticas comuns ou outros materiais de orientação pertinentes.
+  Os questionamentos podem ser realizados por meio do Fale com ANAC ou via endereço eletrônico
+  cdnt.gcpp@anac.gov.br.
+
+  De acordo com o projeto, podem ser necessários ensaios mecânicos, estruturais, de inflamabilidade,
+  de qualificação, de voo de desenvolvimento, ensaios para verificação de funcionamento de
+  sistemas e equipamentos instalados, entre outros. Conforme aplicável, os ensaios em voo
+  devem ser realizados de acordo com as regras da Anac para operações experimentais. O requerente
+  deve consultar a Instrução Suplementar nº E94.503-001 revisão C ou posterior, intitulada
+  “Emissão de Certificado de Autorização de Voo Experimental para Aeronaves Remotamente Pilotadas”
+  para mais informações sobre esse assunto.
+
+  É importante que o requerente tenha atingido um certo grau de maturidade com seu projeto
+  antes de requerer a abertura de processo de autorização declaratória de projeto de RPAS,
+  ou seja, sem alterações no projeto, softwares e com horas de voo suficientes para atestar
+  a segurança do RPAS. Os relatórios de resultados produzidos ao longo do desenvolvimento,
+  contendo laudos, conclusões, especificações técnicas etc., poderão ser aceitos pela Anac,
+  dependendo do controle, registro dos ensaios e da representatividade do protótipo em relação
+  aos dados submetidos.
+
+  Etapa inicial e submissão de dados técnicos
+
+  Um processo de autorização declaratória de projeto de RPAS, destinado às operações de baixo
+  risco (SAIL I ou II), é iniciado na Anac quando da submissão do formulário F-105-70, assim
+  como da apresentação de toda a documentação administrativa e técnica referenciada no Apêndice
+  C.
+
+  A não apresentação de toda a documentação, no ato da abertura, ensejará no indeferimento
+  do pedido.
+
+  O requerente deverá apresentar uma declaração, devidamente preenchida e assinada pelo RT,
+  atestando o cumprimento de todos os requisitos aplicáveis, conforme o parágrafo RBAC-E 94.401(b)(3).
+  A declaração será via formulário de peticionamento.
+
+  Etapa final
+
+  Emissão do ofício de autorização e da folha de especificações. Após a aceitação pela Anac
+  de toda a documentação administrativa e técnica, será emitido o ofício de autorização declaratória
+  de projeto de RPAS acompanhado da folha de especificações do RPAS (Design Authorization
+  Data Sheet - DADS), a qual será publicada no sítio eletrônico da Agência.
+
+  Após a emissão do ofício de autorização e DADS, o processo será considerado encerrado pela
+  Anac.
+
+  O detentor de uma autorização de projeto de RPAS poderá modificar o projeto por meio do
+  processo de Modificação de Projeto Autorizado de RPAS, por meio do preenchimento do formulário
+  F-105-50.
+
+  Suspensão ou cancelamento da Autorização de Projeto de RPAS
+
+  A Anac poderá suspender ou cancelar a autorização de projeto de RPAS, a qualquer tempo,
+  nos seguintes casos:
+
+  Constatação de prestação de informações falsas, inexatas ou adulteradas;
+
+  Por dificuldades do detentor da autorização em manter a aeronavegabilidade continuada; ou
+
+  Quando a segurança de voo ou interesse público o exigir.
+
+  Confidencialidade
+
+  Todos os dados técnicos apresentados à Anac para substanciar a autorização são considerados
+  de propriedade do detentor do projeto e, portanto, de caráter reservado. Por essa razão,
+  não podem ser divulgados ou utilizados por terceiros, a não ser com expressa autorização
+  de seu detentor.
+
+  Pontos adicionais
+
+  O RPAS com projeto autorizado deverá ser cadastrado no SISANT pelo detentor da autorização.
+
+  A transferência do cadastro do RPAS, quando necessária, deverá ser feita entre o detentor
+  da autorização e o operador.
+
+  Caso ocorra evento que resulte em acionamento da terminação de voo (exceto em ensaio com
+  essa finalidade específica), queda descontrolada, saída da área de voo designada ou pouso
+  fora de zona designada, o detentor da autorização deverá comunicar o fato à ANAC, via endereço
+  eletrônico cdnt.gcpp@anac.gov.br, em até 24 horas após a ocorrência.
+
+  APÊNDICES
+
+  Apêndice A - Siglas e Abreviaturas
+
+  Apêndice B - Análise de Risco
+
+  Apêndice C - Documentos Necessários Para a Abertura do Processo
+
+  DISPOSIÇÕES FINAIS
+
+  Os casos omissos serão dirimidos pela Anac.
+
+
+  APÊNDICE A - LISTA DE REDUÇÕES
+
+
+  A.1 SIGLAS E ABREVIATURAS
+
+  ARC - Air Risk Class;
+
+  AGL - Acima do Nível do Solo;
+
+  Anac - Agência Nacional de Aviação Civil;
+
+  Anatel - Agência Nacional de Telecomunicações;
+
+  ART - Anotação de Responsabilidade Técnica;
+
+  ASTM - American Society for Testing and Materials;
+
+  BER - Taxa de Erro do Bit;
+
+  BVLOS - Além da Visada Visual;
+
+  C2, C3 - Comando e Controle; Comando, Controle e Comunicação;
+
+  Cave - Certificado de Autorização de Voo Experimental;
+
+  ConOps - Conceito operacional;
+
+  CPF - Cadastro de Pessoas Físicas;
+
+  Crea - Conselho Regional de Engenharia e Agronomia;
+
+  DADS - Design Authorization Data Sheet;
+
+  Decea - Departamento de Controle do Espaço Aéreo;
+
+  ERP - Plano de Resposta a Emergências;
+
+  EURICAE - Organização Europeia para Equipamentos de Aviação Civil;
+
+  GNSS - Sistema Global de Navegação por Satélite;
+
+  GPS - Sistema de Posicionamento Global;
+
+  GRB - Ground Risk Buffer;
+
+  GRC - Ground Risk Class;
+
+  IHM - Interface Homem-Máquina;
+
+  IS - Instrução Suplementar;
+
+  JARUS - Joint Authorities for Rulemaking on Unmanned Systems;
+
+  LOC - Lost of Control;
+
+  Notam - Notice to Air Missions;
+
+  OSO - Operational Safety Object;
+
+  PMD - Peso Máximo de Decolagem;
+
+  RBAC E - Regulamento Brasileiro de Aviação Civil Especial;
+
+  RPA - Aeronave Remotamente Pilotada;
+
+  RPAS - Sistema de Aeronave Remotamente Pilotada;
+
+  RPS - Estação de Pilotagem Remota;
+
+  RT - Responsável Técnico;
+
+  SAIL - Specific Assurance Integrity Level;
+
+  Sisant - Sistema de Serviço de Aeronaves Não Tripuladas;
+
+  SORA - Specific Operations Risk Assessment.
+
+
+  APÊNDICE B - ANÁLISE DE RISCO
+
+
+  B.1 GERAL
+
+  B.1.1 Para análise do risco operacional e pertinência quanto ao uso desta IS, o requerente
+  deverá avaliar o RPAS e considerar os seguintes aspectos:
+
+  a) Especificação da área onde o RPAS será operado.
+
+  Nota: Para efeitos desta IS, considerar apenas áreas controladas, rurais, remotas ou escassamente
+  povoadas.
+
+  b) Definir características operacionais do RPAS como máxima altitude de operação, máxima
+  velocidade, limitações ambientais (vento, chuva, temperatura etc.);
+
+  c) O tipo de RPA, ou seja, se asa-fixa, rotor, multirotor, híbrido etc;
+
+  d) Dimensões da RPA, peso máximo de decolagem, necessidade de infraestrutura de apoio à
+  operação;
+
+  e) Programa de treinamento específico para operação do RPAS; e
+
+  f) Propósito ou missão do RPAS: imageamento, pulverização, vigilância etc.
+
+  B.1.2 As informações analisadas no item 5.4.4 desta IS, assim como outras que a Anac julgar
+  necessárias, farão parte do Manual de Operação do RPAS que será apresentado como parte do
+  processo de autorização de projeto, de preferência, seguindo os padrões estabelecidos na
+  norma ASTM F2908-23.
+
+
+  B.2 CÁLCULO DA CLASSE DE RISCO AO SOLO (GRC)
+
+  B.2.1 Para o cálculo do GRC, o requerente deverá utilizar as máximas dimensões da RPA, em
+  metros, considerando:
+
+  a) Envergadura, no caso de aeronaves de asa fixa;
+
+  b) Diâmetro do rotor, para helicópteros;
+
+  c) Distância entre as pontas de rotores diametralmente opostos, no caso de multirotores.
+  Para outras configurações de RPA, poderá ser apresentada uma proposta específica;
+
+  d) Máxima velocidade da RPA definida pelo fabricante.
+
+  B.2.3 A definição da classe de risco ao solo (GRC) deverá ser feita com base na Tabela 1.
+
+  Tabela 1 - Determinação da classe de risco ao solo (GRC)
+
+  Classe de risco ao solo (GRC)
+
+  Máxima dimensão do RPA
+
+  1m
+
+  (≈ 3 pés)
+
+  3 m
+
+  (≈ 10 pés)
+
+  8 m
+
+  (≈ 25 pés)
+
+  20 m
+
+  (≈ 65 pés)
+
+  40 m
+
+  (≈ 130 pés)
+
+  Máxima velocidade
+
+  25 m/s
+
+  (90 km/h)
+
+  35 m/s
+
+  (126 km/h)
+
+  75 m/s
+
+  (270 km/h)
+
+  120 m/s
+
+  (432 km/h)
+
+  200 m/s
+
+  (720 km/h)
+
+  Máxima densidade populacional (pessoas/km2)
+
+  Área controlada
+
+  1
+
+  1
+
+  2
+
+  3
+
+  3
+
+  Área rural ou remota (menor que 5 pessoas/km2)
+
+  2
+
+  3
+
+
+  Área escassamente povoada
+
+  (menor que 50 pessoas por/km2)
+
+  3
+
+
+  B.2.4 A classe de risco ao solo (GRC) pode variar de 1 até 3, devendo o requerente adotar
+  a abordagem mais conservadora possível ao determinar a classificação do RPAS na Tabela 1.
+
+
+  B.3 DETERMINAÇÃO DA DISTÂNCIA DE SEGURANÇA AO SOLO (GROUND RISK BUFFER)
+
+  B.3.1 A Distância de Segurança ao Solo (GRB - Ground Risk Buffer) visa o estabelecimento
+  de uma área segura envolvendo todo o volume de contingência que, em caso de necessidade
+  de acionamento de um procedimento de emergência, a operação seja cessada dentro dessa área.
+
+  B.3.2 Para RPAS com teto operacional de até 120 m (400 pés) AGL, recomenda-se a utilização
+  da regra 1:1, ou seja, para 120 m de altura AGL usar uma Distância de Segurança ao Solo
+  de, pelo menos, 120 m.
+
+  B.3.3 Para RPAS com teto operacional superior aos 120 m (400 pés) AGL, ou dependendo do
+  tipo do RPAS (se de asa-fixa ou multirotor), ou mesmo se possui sistema de paraquedas, a
+  utilização da regra 1:1 pode não ser a mais conveniente e, nestes casos, recomenda-se que
+  o requerente calcule a Distância de Segurança ao Solo utilizando a abordagem de planeio
+  ou balística para a RPA, conforme o Anexo A do SORA 2.5.
+
+  B.3.4 Caso a regra 1:1 não venha a ser utilizada, o requerente deverá apresentar a memória
+  de cálculo utilizada para estimar a Distância de Segurança ao Solo, como anexo ao Manual
+  do Operador. Em quaisquer dos casos, o valor estabelecido ou forma de cálculo deverá constar
+  no Manual do Operador.
+
+
+  B.4 DETERMINAÇÃO DA ÁREA ADJACENTE (ADJACENT AREA)
+
+  B.4.1 O cálculo da Área Adjacente visa manter o nível de segurança da operação do RPAS uma
+  vez que se tenha perdido o controle em voo (LOC) do RPA.
+
+  B.4.2 Com base na máxima velocidade da RPA, o requerente deverá calcular o distanciamento
+  de 3 min de voo sob essa condição. Se a distância exceder 35 km, usar esse valor; se ficar
+  entre 5 e 35km, usar o valor calculado; e, por fim, se for inferior a 5km, usar esse valor.
+
+  B.4.3 Com base nessa distância calculada, o requerente deverá instruir o operador a como
+  avaliar a média da densidade populacional exposta que não deverá ser superior ao estabelecido
+  para áreas remota, rural ou escassamente povoadas, conforme estabelecido por esta IS.
+
+  B.4.4 Nenhuma provável falha simples do RPAS ou de um serviço externo que suporta a operação
+  poderá resultar na saída da RPA do Volume de Operação. O requerente deve avaliar o projeto
+  do RPAS e declarar que atende essa condição.
+
+  Nota: Para efeitos desta IS, uma falha é dita provável quando é esperado que aconteça uma
+  ou mais vezes durante a vida operacional do produto.
+
+
+  B.5 CÁLCULO DO SAIL
+
+  A.5.1 Para efeitos desta IS, o cálculo do SAIL considera apenas a classe de risco aéreo
+  ARC-a, ou seja, toda operação BVLOS deverá ocorrer com segregação do espaço aéreo via NOTAM
+  emitido pelo Decea.
+
+  A.5.2 A definição SAIL deverá ser feita com base na Tabela 2.
+
+  Tabela 2 - Determinação do SAIL
+
+  Determinação do SAIL
+
+  Classe de risco ao solo (GRC)
+
+  Classe de risco aéreo (ARC-a)
+
+  1
+
+  SAIL I
+
+  2
+
+  SAIL I
+
+  3
+
+  SAIL II
+
+
+  B.5.3 O requerente, ao classificar o risco ao solo (GRC) do seu RPAS como 1 ou 2, definirá
+  a operação como de SAIL I e não poderá fazer uso da aeronave em cenários operacionais equivalentes
+  ao SAIL II ou superiores. Em contrapartida, um RPAS classificado como de SAIL II poderá
+  também ser utilizado em cenários de menor risco como o de SAIL I.
+
+
+  B.6 DETERMINAÇÃO DOS OSOS E SUAS EVIDÊNCIAS
+
+  B.6.1 Com base no SAIL definido acima, o requerente deverá cumprir com os OSO obrigatórios
+  de acordo com o nível de robustez definido na Tabela 3 (Baixo, Médio ou Alto).
+
+  Tabela 3 - OSOs para SAIL I e II
+
+  Número OSO
+
+  (vide Apêndice F)
+
+
+  SAIL
+
+  I
+
+  II
+
+  OSO#01
+
+  Garantia de que o operador de RPAS seja competente e/ou aprovado
+
+  NR
+
+  B
+
+  OSO#03
+
+  RPAS mantido por entidade competente e/ou aprovada
+
+  B
+
+  B
+
+  OSO#06
+
+  O desempenho do enlace C2,C3 é apropriado para a operação
+
+  NR
+
+  B
+
+  OSO#07
+
+  Inspeção do RPAS (inspeção de produto) para garantir a consistência com o ConOps
+
+  B
+
+  B
+
+  OSO#08
+
+  Os procedimentos operacionais são definidos, validados e seguidos
+
+  B
+
+  M
+
+  OSO#09
+
+  Tripulação remota treinada e atualizada e capaz de controlar uma situação anormal
+
+  B
+
+  B
+
+  OSO#13
+
+  Os serviços externos de apoio às operações de RPAS são adequados para a operação
+
+  B
+
+  B
+
+  OSO#16
+
+  Coordenação entre tripulações múltiplas
+
+  B
+
+  B
+
+  OSO#17
+
+  A tripulação remota está apta a operar
+
+  B
+
+  B
+
+  OSO#20
+
+  Uma avaliação de fatores humanos foi realizada e a interface homem-máquina (IHM) foi considerada
+  apropriada para a missão.
+
+  NR
+
+  B
+
+  OSO#23
+
+  As condições ambientais para operações seguras são definidas, mensuráveis e seguidas
+
+  B
+
+  B
+
+  Nota: NR significa “Não Requerido” para o SAIL buscado e, para fins de simplificação, não
+  é abordado nesta IS. B significa robustez “Baixa” e M significa robustez “Média”.
+
+  B.6.2 Os documentos que serão disponibilizados ao operador do RPAS deverão ser elaborados
+  pelo requerente na língua portuguesa.
+
+  B.6.3 Em adição aos documentos que satisfaçam os critérios de cada OSO, deve ser fornecido
+  o formulário F-105-70 indicando em qual documento, sessão e página encontram-se as informações
+  requeridas. A Tabela 4 mostra um exemplo de como as evidências devem ser apresentadas.
+
+  Tabela 4 - Exemplo de declaração de cumprimento com os OSOs aplicáveis.
+
+  OSO
+
+  Critério
+
+  Documentos
+
+  #1
+
+  Listas de verificação
+
+  Checklist pré-voo: Manual de Operação nº XYZ, versão A, seção Z, página XY.
+
+  Checklist pós-voo: Manual de Operação nº XYZ, versão A, seção Z, página XY.
+
+  #1
+
+  Manutenção
+
+  Manual de Manutenção nº YZX, versão A.
+
+  #1
+
+  Treinamento
+
+  Manual de Treinamento nº ZXY, versão A.
+
+  #1
+
+  Responsabilidades e deveres associados
+
+  Manual de Operação nº XYZ, versão A, sessão X, página XY.
+
+
+  B.6.4 OSO #01 - O requerente deve prover os meios necessários para garantir que o operador
+  do RPAS seja competente (Obrigatório somente para SAIL II - robustez baixa):
+
+  Critério: O operador deve conhecer o RPAS que está sendo utilizado e, no mínimo, possui
+  os seguintes procedimentos operacionais: listas de verificação, manutenção, treinamento,
+  responsabilidades e deveres associados.
+
+  Evidência: O requerente deve fornecer ao operador documentação que contenham, pelo menos,
+  o manual de operação do RPAS, lista de verificação pré e pós-voo, procedimentos de manutenção,
+  treinamento mínimo necessário e definição de responsabilidades e deveres do operador. Para
+  elaboração dos documentos exigidos, a utilização das normas ASTM F2908-23, F3330-23, F3366-19
+  e F3364-19 é considerado como meio aceitável.
+
+  B.6.3 OSO #03 - O requerente deve prover os meios necessários que possibilitem que o RPAS
+  seja mantido por entidade competente (Aplicável para SAIL I e II - robustez baixa):
+
+  Critério: As instruções de manutenção foram definidas pelo fabricante do RPAS; a equipe
+  de manutenção é competente, recebeu autorização para realizar a manutenção e utiliza as
+  instruções definidas pelo fabricante.
+
+  Evidência: O requerente deve fornecer procedimentos de manutenção adequados para o responsável
+  pela manutenção. Para a elaboração desses documentos recomenda-se a utilização das normas
+  ASTM F2483-18, F3366-19 e F3600-22. O requerente deverá elaborar os documentos e submeter
+  à Anac como evidência.
+
+  B.6.4 OSO#06 - O requerente deve assegurar que o desempenho do enlace C2, C3 é apropriado
+  para a operação (Obrigatório somente para SAIL II - robustez baixa):
+
+  Critério: O requerente deve verificar que a performance e uso de espectro radioelétrico
+  são adequadas para a condução segura da operação. O RPAS deve prover meios para que o piloto
+  remoto consiga monitorar continuamente a performance do link garantindo, assim, que este
+  atende aos requisitos operacionais.
+
+  Demonstração: O requerente deve declarar que atende ao critério acima, assim como declarar
+  aderência quanto aos aspectos regulados pela Anatel. Para análise do atendimento a este
+  requisito recomenda-se a utilização da norma ASTM F3002-14.
+
+  B.6.5 OSO#07 - O requerente deve prover os meios necessários que possibilitem que o RPAS
+  seja inspecionado (inspeção de produto) para garantir a consistência com o ConOps (Aplicável
+  para SAIL I e II - robustez baixa):
+
+  Critério: O requerente deve definir a periodicidade dos procedimentos de verificação do
+  RPAS de maneira a garantir a segurança da operação.
+
+  Demonstração: O requerente deverá indicar em qual documento a periodicidade dos procedimentos
+  de verificação foi estabelecida. Para a elaboração desse documento recomenda-se a utilização
+  da norma ASTM F2909-19. O requerente deverá elaborar os documentos e submeter à Anac como
+  evidência.
+
+  B.6.6 OSO#08 - O requerente deve prover os meios necessários que possibilitem que os procedimentos
+  operacionais sejam definidos, validados e seguidos (SAIL I - robustez baixa; SAIL II - robustez
+  média):
+
+  Critério #1 (Aplicável para SAIL I e II): O requerente deverá fornecer um manual de instruções
+  de operação do RPAS que contenha, no mínimo, os seguintes elementos: (1) planejamento de
+  voo; (2) inspeções pré e pós-voo; (3) procedimentos para avaliar as condições meteorológicas
+  antes e durante a missão; (4) procedimentos para lidar com condições meteorológica adversas
+  inesperadas (por exemplo, quando há chuva durante a operação e a RPAS não está aprovada
+  para tal condição); (5) procedimentos normais; (6) procedimentos de contingência (para lidar
+  com situações anormais); (7) procedimentos de emergência; e (8) procedimentos de comunicação
+  de ocorrências.
+
+  Critério #2 (SAIL I): O requerente deverá fornecer um manual de instruções de operação do
+  RPAS que contenha, no mínimo, os seguintes elementos: (1) distribuição e atribuição de tarefas;
+  (2) lista de verificação para garantir que a equipe está realizando adequadamente as tarefas
+  atribuídas.
+
+  Critério #2 (SAIL II): Em adição ao critério #2 (SAIL I), o requerente deverá ter procedimentos
+  para lidar com erro humano na operação do RPAS.
+
+  Critério #3 (Aplicável para SAIL I e II): O requerente deverá fornecer ao operador uma proposta
+  de Plano de Resposta a Emergências (ERP) que contenha, no mínimo, os seguintes elementos:
+  (1) seja conveniente para potenciais situações secundárias resultantes do impacto da RPA
+  com o solo como, por exemplo, fogo, explosão ou vazamento de substâncias que ofereçam perigo;
+  (2) mitigue efetivamente todos os efeitos secundários considerados perigosos resultantes
+  de uma colisão da UA com o solo; (3) delineia claramente todas as responsabilidades e obrigações
+  da tripulação remota; (4) seja de fácil utilização e treinamento de sorte que a tripulação
+  remota possa efetivamente executar o procedimento mesmo sob pressão; (5) contenha uma lista
+  de situações previstas de emergência com seus efeitos secundários; (6) procedimento para
+  cada situação de emergência previamente identificada; (7) lista de contatos relevantes como,
+  por exemplo, Decea, polícia, bombeiros, socorristas, etc.
+
+
+  Demonstração: O requerente deverá fornecer ao operador uma proposta de um Plano de Resposta
+  a Emergências que contenha as informações dos critérios supracitados. Para elaboração desse
+  documento recomenda-se a utilização das normas ASTM F2908-18 e F2909-19. O requerente deverá
+  submeter o documento à ANAC com evidências.
+
+
+  B.6.7 OSO#09 - O requerente deve prover os meios necessários que possibilitem que a Tripulação
+  remota seja treinada, atualizada e capaz de controlar uma situação anormal (Aplicável para
+  SAIL I e II - robustez baixa):
+
+  Critério: O requerente deverá definir um treinamento mínimo, teórico e prático, para operação
+  do RPAS. O treinamento deverá cobrir aspectos como: regulamentação; princípios de uso do
+  espaço aéreo; disciplina de voo e segurança da aviação; fatores humanos; meteorologia; navegação;
+  descrição do RPAS; procedimentos operacionais e de ERP; e uso de serviços externos, quando
+  aplicável.
+
+  Demonstração: O requerente deverá fornecer documento contendo o treinamento mínimo especificado
+  para a operação do RPAS. Para a elaboração desse documento recomenda-se a utilização da
+  norma ASTM F3266-18. O requerente deverá elaborar o documento e submeter à Anac como evidência.
+
+  B.6.8 OSO#13 - O requerente deve prover os meios necessários que possibilitem que os serviços
+  externos de apoio às operações de RPAS sejam adequados para a operação (Aplicável para SAIL
+  I e II - robustez baixa):
+
+  Critério: O requerente deve estabelecer o nível mínimo de desempenho de qualquer serviço
+  externo e necessário para a segurança do voo, adequado para a operação pretendida. São exemplos
+  de serviços externos: GNSS (GPS ou outra constelação de satélites), uso de rede de telefonia
+  móvel, informações de meteorologia, banco de dados, etc.
+
+  Demonstração: Listar os serviços externos com a especificação do nível mínimo de desempenho
+  necessário para o tipo de serviço. Para análise de atendimento, com relação ao uso de GNSS,
+  recomenda-se a utilização da norma EUROCAE ED-301.
+
+  B.6.9 OSO#16 - O requerente deve prover os meios necessários que possibilitem coordenação
+  entre tripulações múltiplas (Aplicável para SAIL I e II - robustez baixa):
+
+  Critério #1: Quando a aeronave exigir mais de uma pessoa para sua operação, o requerente
+  deve instruir o operador a como estabelecer procedimentos de coordenação e comunicação entre
+  os membros da equipe. Tais procedimentos devem avaliar a forma de comunicação, sua robustez
+  e eficiência para a operação desejada.
+
+  Critério #2: O requerente deverá definir o treinamento mínimo, teórico e prático, para operações
+  em que se requeira a coordenação entre membros da equipe.
+
+  Demonstração: O requerente deverá fornecer documento contendo o treinamento mínimo especificado
+  para a coordenação de membros da equipe. Para a elaboração desse documento recomenda-se
+  a utilização da norma ASTM F3266-18. O requerente deverá elaborar o documento e submeter
+  à Anac como evidência.
+
+  B.6.10 OSO#17 - O requerente deve prover os meios necessários que possibilitem que a tripulação
+  remota esteja apta a operar (Aplicável para SAIL I e II - robustez baixa):
+
+  Critério: A política para definir como a tripulação remota declara estar apta a operar (antes
+  de uma operação) está documentada. A declaração de aptidão para operar da tripulação remota
+  (antes de uma operação) é baseada na política definida pelo requerente.
+
+  Demonstração: O requerente deve fornecer ao operador documentação que o auxilie na elaboração
+  de procedimentos para identificar que a tripulação remota está apta a operar. O documento
+  elaborado deverá ser apresentado à Anac como evidência.
+
+  B.6.11 OSO#20 - Uma avaliação de fatores humanos foi realizada e a interface homem-máquina
+  (IHM) foi considerada apropriada para a operação (Obrigatório somente para SAIL II - robustez
+  baixa):
+
+  Critério: Fatores humanos e a interface homem-máquina (IHM) foram avaliados pelo requerente.
+  Deve-se assegurar que as informações apresentadas são claras, sucintas e não causam fadiga
+  extrema ou confusão ao piloto remoto.
+
+  Demonstração: O requerente deve declarar que o RPAS atende ao critério.
+
+  B.6.12 OSO#23 - O requerente deve prover os meios necessários que possibilitem que as condições
+  ambientais para operações seguras sejam definidas, mensuráveis e seguidas (Aplicável para
+  SAIL I e II -robustez baixa):
+
+  Critério #1: As condições ambientais para operações seguras são definidas e refletidas no
+  manual de voo ou documento equivalente.
+
+  Demonstração: O requerente deverá declarar que o RPAS atende as condições ambientais especificadas
+  para as operações pretendidas.
+
+
+  APÊNDICE C - DOCUMENTOS NECESSÁRIOS PARA ABERTURA DO PROCESSO
+
+
+  C.1 Documentos Administrativos
+
+  C.1.1 Formulário F-105-70.
+
+  a) Da solicitação de abertura do processo de autorização declaratória de projeto de RPAS.
+
+  b) Informações do requerente.
+
+  c) Declaração de responsabilidade técnica pelo projeto de RPAS informando nome, endereço
+  e CPF ou número de registro no CREA do RT. Incluir o número da Anotação de Responsabilidade
+  Técnica (ART) relativa ao serviço de engenharia a ser executado que contenha descrição do
+  projeto submetido à Anac.
+
+  Nota 1 - Deve ser informada uma ART válida de obra ou serviço específica para o projeto
+  que se pretenda autorizar, emitida em nome do RT. Caso o requerente informe uma ART em nome
+  da empresa, deve ser informada também uma ART de cargo ou função que demonstre o vínculo
+  da empresa com um engenheiro com atribuição adequada no CREA.
+
+  Nota 2 - A ART deve estar quitada para ser considerada válida.
+
+  d) Declaração isentando a Anac de quaisquer ônus e responsabilidades por eventuais danos
+  ocorridos na aeronave, ou danos a terceiros, durante a realização dos ensaios em solo e
+  em voo.
+
+  e) Declaração de cumprimento;
+
+  f) Informações do RPAS.
+
+
+  C.2 Documentos Técnicos
+
+  C.2.1 Manual de operação do RPAS, incluindo as seguintes seções: capa do manual; tabela
+  com controle de revisões; introdução; informações gerais e descrição técnica do RPAS; performance
+  (desempenho) e limitações do RPAS; procedimentos normais de operação; procedimentos de emergência;
+  peso e balanceamento e lista de equipamentos; instruções de manuseio, serviço, manutenção
+  de campo e aeronavegabilidade continuada; e suplementos ao manual de operação (se aplicável).
+  Para a elaboração deste manual, recomenda-se a norma ASTM F2908-23.
+
+  C.2.2 Lista de verificação (check-list) pré e pós-voo. O requerente deverá elaborar uma
+  lista de verificação, baseada no manual de operação, manual manutenção ou outro documento,
+  de maneira a orientar o operador.
+
+  C.2.3 Manual de manutenção. Para a elaboração desse manual, recomenda-se o uso da norma
+  ASTM F3366-19.
+
+  C.2.4 Programa de treinamento mínimo necessário. O fabricante deverá elaborar um programa
+  de treinamento mínimo para operação do RPAS. Para elaboração deste documento, recomenda-se
+  a utilização da norma ASTM F3330-23.
+
+  C.2.5 Distribuição de responsabilidades e deveres associados.
+
+  C.2.6 Declaração desempenho do enlace de C2. O requerente deverá declarar que o enlace de
+  C2 do RPAS possui desempenho adequado; que fora testado a uma distância pelo menos 20% maior
+  que o máximo alcance especificado entre o RPS e a RPA, conforme item 5.4.4 da IS nº E94-002A.
+  O requerente deverá ainda atestar que o RPAS possui certificado de homologação de seu enlace
+  de C2 junto à Anatel.
+
+  C.2.7 Declaração de que o RPAS fornece as seguintes informações para o piloto remoto:
+
+  a) Imagem de vídeo frontal da RPA, caso se intente operações BVLOS com alcance superior
+  a 5 km;
+
+  b) Altitude barométrica da RPA, caso se intente autorização da referida RPA para voo acima
+  de 400 pés em relação ao solo;
+
+  c) Altura geométrica da RPA em relação ao nível do solo;
+
+  d) Ângulos de arfagem, inclinação e proa da RPA;
+
+  e) Direção de voo da RPA;
+
+  f) Velocidades necessárias para operação segura da RPA;
+
+  g) Parâmetros essenciais do motor da RPA;
+
+  h) Indicação e alertas de autonomia da RPA (ex: nível de combustível e de carga da bateria);
+
+  i) Indicação da qualidade do enlace de comando e controle (ex: intensidade do sinal, taxa
+  de erro de bit - BER, etc.);
+
+  j) Posição atual da RPA sobreposta a mapa que também indique a área onde o voo foi autorizado.
+
+  Nota 1: As taxas de atualização de informação e atrasos na apresentação das informações
+  de voo não deverão comprometer a capacidade do piloto em controlar a RPA.
+
+  C.2.8 Declaração de que o RPAS fornece os seguintes alertas ao piloto remoto:
+
+  a) Degradação das informações de posição e navegação do RPAS;
+
+  b) Degradação do enlace de comando e controle;
+
+  c) Quantidade de combustível que comprometa a operação segura da RPA, se aplicável;
+
+  d) Carga baixa de baterias relacionadas a propulsão, comando ou controle;
+
+  e) Alertas que indiquem risco de exceder os limites da área onde o voo foi autorizado;
+
+  f) Alertas que indiquem risco de exceder os limites de altura ou altitude em que o voo foi
+  autorizado;
+
+  g) Outros alertas que tenham sido definidos como relevantes a partir da Análise de Risco
+  de Projeto de RPAS.
+
+  Nota 1: Os alertas deverão ser sempre apresentados com tempo suficiente para que o piloto
+  possa tomar as providências necessárias em relação ao evento ocorrido.
+
+  C.2.9 Declaração de que o RPAS possui sistema de navegação adequado para operação. O requerente
+  deve declarar que os sistemas de posicionamento, navegação e tempo do RPAS são adequados.
+  Para análise e fundamentação da declaração, recomenda-se o uso da norma ASTM F3609-25.
+
+  C.2.10 Declaração de que o RPAS possui capacidade de recuperação de emergência.
+
+  a) A capacidade de recuperação de emergências tem o objetivo de prevenir riscos a terceiros
+  e deve ser constituído por:
+
+  i) Um sistema, procedimento ou função de terminação do voo que objetive finalizar o voo
+  imediatamente, ou;
+
+  ii) Um procedimento de recuperação de emergência que seja implementado por meio de comandos
+  fornecidos pelo piloto ou pelos sistemas embarcados, o qual pode incluir um curso automático
+  pré-programado para alcançar uma área pré-definida de pouso, ou;
+
+  iii) Qualquer combinação das opções anteriores.
+
+  b) A capacidade de recuperação de emergências deve ser efetiva para lidar com os seguintes
+  cenários de falha:
+
+  i) Perda de enlace C2;
+
+  ii) Perda de capacidade de navegação;
+
+  iii) Perda de fonte elétrica primária; e
+
+  iv) Outras falhas que possam ensejar na saída do RPA do volume de operação.
+
+  Nota 1: A capacidade de recuperação de emergência deve ser executável em todo envelope de
+  voo na mais adversa combinação de condições ambientais e operacionais.
+
+  Nota 2: A capacidade de recuperação de emergência deve ser salvaguardada de interferência
+  que possa resultar em operação inadvertida ou não autorizada.
+
+  Nota 3: O uso de explosivos para realizar a destruição em voo da RPA não é um meio aceitável
+  para cumprir com este requisito.
+
+  Nota 4: Não confundir capacidade de recuperação de emergência com Plano de Resposta a Emergências
+  (ERP).
+
+  C.2.11 Declaração de que o RPA possui sistema de iluminação adequado para operação.
+
+  a) O sistema de iluminação externa da RPA deve estar em funcionamento tanto para operações
+  diurnas, quanto noturnas. A iluminação deverá incluir a instalação de luz anticolisão estroboscópica
+  de cor branca ou vermelha.
+
+  b) O sistema de iluminação da RPA deve permitir uma efetiva visualização da RPA, de modo
+  que a aeronave seja avistada por pessoas que possam estar próximas do local de operação
+  da RPA. Deve ser demonstrado que a aeronave é visível, mesmo à noite, à distância tal que
+  permita que a aeronave seja vista, no mínimo, 30 segundos antes de chegar ao ponto do qual
+  foi avistada, considerando para isto a máxima velocidade em que a aeronave pode se deslocar.
+
+  c) Toda RPA que opere acima de 400 pés em relação ao solo deverá possuir sistema de iluminação
+  que permita a visualização da RPA a uma distância mínima de 2 km, considerando uma inclinação
+  de até 5 graus em relação ao plano horizontal de voo da RPA. De forma alternativa a este
+  item, é facultado ao requerente cumprir os requisitos do RBAC 23, seção 23.1401 ou RBAC
+  27, seção 27.1401, conforme aplicável.
+
+  d) Para RPA que opere em voos noturnos, a instalação de luzes de navegação é obrigatória.'
+keywords:
+- rpas
+- requerente
+- operacao
+- sail
+- devera
+- projeto
+- autorizacao
+- risco
+- solo
+- procedimentos
+- area
+- aplicavel
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-004a.md

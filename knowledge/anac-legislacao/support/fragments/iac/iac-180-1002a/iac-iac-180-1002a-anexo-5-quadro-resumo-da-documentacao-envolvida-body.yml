@@ -1,0 +1,193 @@
+id: iac-iac-180-1002a-anexo-5-quadro-resumo-da-documentacao-envolvida-body
+kind: iac
+document: iac-180-1002a
+family: '180'
+section_id: anexo-5-quadro-resumo-da-documentacao-envolvida
+section_title: ANEXO 5 - QUADRO RESUMO DA DOCUMENTAÇÃO ENVOLVIDA
+subsection_id: body
+cite: anexo-5-quadro-resumo-da-documentacao-envolvida
+title: ANEXO 5 - QUADRO RESUMO DA DOCUMENTAÇÃO ENVOLVIDA
+text: 'ANEXO 5 - QUADRO RESUMO DA DOCUMENTAÇÃO ENVOLVIDA
+
+  1) PARA CESSÃO DE AERONAVES
+
+  NOTAS:
+
+  ORIGEM - entidade responsável pela lavratura do documento.
+
+  QTD - quantidade de exemplares dos documentos a serem feitos.
+
+  TIPO - especifica a "qualidade" do documento : " O" - original; "C" - cópia comum; " CA"-
+  cópia
+
+  autenticada em Cartório.
+
+  DESTINO - detentor(es) final(ais) de exemplar(es) do documento.
+
+  * - Toda a documentação técnica prevista no RBHA-91, conforme aplicável.
+
+  ORIGEM DOCUMENTO QTD TIPO DESTINO
+
+  ER Laudo sobre Inventário do Bem (LIB)
+
+  (Caso de Redistribuição) 4 O SERAC, RAB, EC, ER
+
+  ER Documentos Técnicos do Bem
+
+  (Caso de Redistribuição) * O EC
+
+  ER Certificado de Matrícula (CM)
+
+  (antigo) 1 O SERAC
+
+  ER Certif. de Aeronavegabilidade (CA)
+
+  (antigo) 1 O SERAC
+
+  EC Cadastro Nacional da Pessoa Jurídica 1 C RAB
+
+  EC Estatuto Social da Entidade 1 CA RAB
+
+  EC/ER Edital de Convocação da Assembléia que
+
+  elegeu a atual Diretoria 1/1 CA RAB
+
+  EC/ER Ata da Assembléia que elegeu a atual Di-
+
+  retoria 1/1 CA RAB
+
+  EC
+
+  Edital de Convocação da Assembléia que
+
+  aprovou o recebimento do bem objeto da
+
+  Cessão
+
+  1 CA RAB
+
+  EC Ata da Assembléia que aprovou o recebi-
+
+  mento do bem objeto da Cessão 1 CA RAB
+
+  EC Termo de Exame e Recebimento (TER)
+
+  (caso de entrega inicial ) 3 O SERAC, RAB, EC
+
+  EC Termo de Exame e Recebimento (TER)
+
+  (caso de redistribuição) 4 O SERAC, RAB, EC, ER
+
+  EC Requerimento Padronizado do RAB de-
+
+  vidamente preenchido e assinado 1 O RAB
+
+  AA Item de Distribuição ou Redistribuição 1 C RAB
+
+  AA Contrato de Cessão de Uso (CC) 3 O SERAC, RAB, EC
+
+  AA Laudo sobre Inventário do Bem (LIB)
+
+  (Caso de Entrega Inicial) 3 O SERAC, RAB, EC
+
+  AA Documentos Técnicos do Bem
+
+  (Caso de Entrega Inicial) * O EC
+
+  RAB Certificado de Matrícula (CM)
+
+  (novo) 1 O EC
+
+  RAB Certif. de Aeronavegabilidade (CA)
+
+  (novo) 1 O EC2005 IAC 180-1002A
+
+  A5-2
+
+  2) PARA CESSÃO DE OUTROS EQUIPAMENTOS
+
+  NOTAS:
+
+  ORIGEM - entidade responsável pela lavratura do documento.
+
+  QTD - quantidade de exemplares dos documentos a serem feitos.
+
+  TIPO - especifica a "qualidade" do documento : " O" - original; "C" - cópia comum; " CA"-
+  cópia
+
+  autenticada em Cartório.
+
+  DESTINO - detentor(es) final(ais) de exemplar(es) do documento.
+
+  * - Toda a documentação técnica prevista, conforme aplicável.
+
+  ORIGEM DOCUMENTO QTD TIPO DESTINO
+
+  ER Laudo sobre Inventário do Bem (LIB)
+
+  (Caso de Redistribuição) 3 O SERAC, EC, ER
+
+  ER Documentos Técnicos do Bem
+
+  (Caso de Redistribuição) * O EC
+
+  EC Cadastro Nacional da Pessoa Jurídica 1 C SERAC
+
+  EC Estatuto Social da Entidade 1 CA SERAC
+
+  EC Edital de Convocação da Assembléia que
+
+  elegeu a atual Diretoria 1 CA SERAC
+
+  EC Ata da Assembléia elegeu a atual Diretoria 1 CA SERAC
+
+  EC
+
+  Edital de Convocação da Assembléia que
+
+  aprovou o recebimento do bem objeto da Ces-
+
+  são
+
+  1 CA SERAC
+
+  EC Ata da Assembléia que aprovou o recebimen-
+
+  to do bem objeto da Cessão 1 CA SERAC
+
+  EC Termo de Exame e Recebimento (TER)
+
+  (Caso de Entrega Inicial) 2 O SERAC, EC
+
+  EC Termo de Exame e Recebimento (TER)
+
+  (Caso de Redistribuição) 3 O SERAC, EC, ER
+
+  AA Item de Distribuição ou Redistribuição 1 C SERAC
+
+  AA Contrato de Cessão (CC) 2 O SERAC, EC
+
+  AA Laudo sobre Inventário do Bem (LIB)
+
+  (Caso de Entrega Inicial) 2 O SERAC, EC
+
+  AA Documentos Técnicos do Bem
+
+  (Caso de Entrega Inicial) * O EC'
+keywords:
+- serac
+- caso
+- assembleia
+- documento
+- redistribuicao
+- cessao
+- documentos
+- entrega
+- inicial
+- recebimento
+- documentacao
+- aprovou
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-180-1002a.md

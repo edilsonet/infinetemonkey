@@ -1,0 +1,43 @@
+id: is-is-121-007c-5-7-3-body
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.7.3
+section_title: Formato do segmento de currículo de qualificação
+subsection_id: body
+cite: 5.7.3
+title: Formato do segmento de currículo de qualificação
+text: '5.7.3 Formato do segmento de currículo de qualificação
+
+  5.7.3.1 O conteúdo de um segmento de currículo de qualificação para as operações segundo
+  o RBAC nº 121 é quase totalmente controlado pelo regulamento. Um operador pode, no entanto,
+  usar mais de um meio para cumprir esses requisitos. Por exemplo, o operador pode realizar
+  exames para alguns currículos de treinamento em um simulador de voo de nível C ou D. Nesse
+  caso, o operador seria obrigado a realizar um módulo de treinamento LOFT após a conclusão
+  do módulo básico de exame. Um operador que use um simulador de voo nível A seria obrigado
+  a realizar um módulo básico de exame no simulador e um segundo módulo no avião. Para garantir
+  um entendimento claro entre o operador e a ANAC, o operador deve listar cada elemento ou
+  evento de um módulo de qualificação junto com a aeronave, simulador de voo ou dispositivo
+  de treinamento de voo a ser usado. O formato usado pelo operador pode ser uma descrição
+  simples, uma tabela ou qualquer outro que estabeleça claramente os métodos a serem utilizados
+  e os elementos e eventos a serem verificados.'
+keywords:
+- transporte-aereo
+- operacoes
+- operador
+- modulo
+- qualificacao
+- curriculo
+- formato
+- segmento
+- simulador
+- pode
+- realizar
+- treinamento
+- basico
+- exame
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

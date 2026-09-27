@@ -1,0 +1,144 @@
+id: is-is-21-61-005-apendice-e-avaliacao-quantitativa-de-seguranca-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: apendice-e-avaliacao-quantitativa-de-seguranca
+section_title: APÊNDICE E - AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+subsection_id: body
+cite: apendice-e-avaliacao-quantitativa-de-seguranca
+title: APÊNDICE E - AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+text: 'APÊNDICE E - AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+
+  APPENDIX E - QUANTITATIVE SAFETY ASSESSMENT
+
+  E.1 Em sua proposta de MMEL o requerente deve apontar para a ANAC os itens para os quais
+  uma avaliação quantitativa de segurança foi conduzida para complementar o processo de avaliação
+  qualitativa da MMEL de acordo com o item 5.3.4.9.
+
+  E.1 In its MMEL proposal the applicant must highlight to ANAC the items for which a quantitative
+  safety assessment is carried out to supplement the qualitative MMEL development process
+  in accordance with item 5.3.4.9.
+
+  E.2 As diretrizes a seguir se aplicam às configurações de despacho propostas na MMEL para
+  as quais as probabilidades de 10-8 por hora de voo para condições de falha catastrófica
+  e 10-6 por hora de voo para condições de falha crítica (hazardous) não são atendidas. É
+  incluída uma equação para controlar por quanto tempo essas configurações podem permanecer
+  (tempo máximo de despacho), tornando-a compatível com os requisitos de confiabilidade média
+  da frota estabelecidos no 25.1309.
+
+  E.2 The following guidelines apply to dispatch configurations proposed in the MMEL for which
+  the probabilities per flight hour of 10-8 for catastrophic failure conditions and 10-6 for
+  hazardous failure conditions are not met. This guidance includes an equation to control
+  how long these configurations are allowed to exist (maximum dispatch time), making it compatible
+  with the fleet average top level reliability requirements of 25.1309.
+
+  E.3 Para condições de falha catastrófica, uma probabilidade por hora de voo sob a condição
+  de despacho menor ou igual a 10-8 é o objetivo ao despachar com o item inoperante. Quando
+  esse objetivo é alcançado, nenhum cálculo de tempo máximo de despacho permitido é considerado
+  necessário.
+
+  E.3 For catastrophic failure conditions, a probability per flight hour under dispatch condition
+  less than or equal to 10-8 is the objective when dispatching with the inoperative item.
+  When this objective is met, no calculation for a maximum allowable dispatch time is considered
+  necessary.
+
+  E.4 Um número limitado de itens pode ser aceito quando o objetivo de 10-8 por hora de voo
+  não for alcançado. Nesses casos, a probabilidade máxima permitida ao despachar com o item
+  inoperante não deve exceder 10-7 por hora de voo, e o tempo máximo de despacho deve ser
+  menor do que o calculado usando-se a equação abaixo:
+
+  E.4 A limited number of items may be accepted when the 10-8 per flight hour objective is
+  not met. In these cases, the maximum allowable probability per flight hour when dispatching
+  with the inoperative item should not exceed 10-7 per flight hour, and the maximum dispatch
+  time should be less than that calculated using equation below:
+
+
+  Onde:
+
+  MDT = Tempo máximo de despacho [em horas de voo]
+
+  SOP = Probabilidade do objetivo de segurança. Equivale a 10-9 por hora de voo para condições
+  de falha catastrófica e 10-7 por hora de voo para condições de falha críticas (hazardous).
+
+  PF = Probabilidade da condição de falha na condição de despacho [por hora de voo]
+
+  FR = Taxa de falha do item da MMEL proposto [por hora de voo]
+
+  Where:
+
+  MDT = Maximum dispatch time [in flight hours]
+
+  SOP = Safety objective probability. Equals to 10-9 per flight hour for catastrophic failure
+  conditions and 10-7 per flight hour for hazardous failure conditions.
+
+  PF = Probability of failure condition under dispatch condition [per flight hour]
+
+  FR = Failure rate of proposed MMEL item [per flight hour]
+
+  E.5 Para condições de falha crítica (hazardous), uma probabilidade por hora de voo menor
+  ou igual a 10-6 é o objetivo ao se despachar com o item inoperante. Quando este objetivo
+  é atingido, nenhum cálculo de tempo máximo de despacho permitido é considerado necessário.
+
+  E.5 For hazardous failure conditions, a probability per flight hour of less than or equal
+  to 10-6 is the objective when dispatching with the inoperative item. When this objective
+  is met, no calculation for a maximum allowable dispatch period is considered necessary.
+
+  E.6 Um número limitado de itens pode ser considerado quando o objetivo de 10-6 por hora
+  de voo não for atingido. Nesses casos, a probabilidade máxima permitida ao despachar com
+  o item inoperante não deve exceder 10-5 por hora de voo, e o tempo máximo de despacho permitido
+  deve ser menor do que o calculado usando a equação to item E.4.
+
+  E.6 A limited number of items may be considered when 10-6 per flight hour objective is not
+  met. In these cases, the maximum allowable probability per flight hour when dispatching
+  with the inoperative item should not exceed 10-5 per flight hour, and the maximum dispatch
+  time should be less than that calculated using the equation in item E.4.
+
+  E.7 Seja qual for o caso, é importante notar que o intervalo de probabilidades reduzidas
+  aceitáveis mencionado nos itens E.4 e E.6 se aplica a cada condição de falha envolvendo
+  o item da MMEL inoperante no despacho. Se mais de um evento de nível topo estiver envolvido,
+  o tempo máximo de despacho permitido deve ser o menor daqueles calculados para as condições
+  de falha envolvidas.
+
+  E.7 Whatever the case, it´s important to notice that the acceptable reduced probabilities
+  range mentioned in items E.4 and E.6 applies to each failure condition involving the inoperative-at-dispatch
+  MMEL item. If more than one top-level event is involved, the maximum allowable dispatch
+  time should be the smallest of those calculated for the affected failure conditions.
+
+  E.8 Além disso, os tempos de despacho devem ser baseados principalmente em considerações
+  operacionais. Sempre que possível, o item da MMEL deve usar as categorias de intervalo de
+  reparo padrão arredondando-se o tempo máximo de despacho calculado (em horas de voo) para
+  uma categoria conservadora (com base na utilização máxima da aeronave por dia), não excedendo
+  a categoria C.
+
+  E.8 Also, dispatch times should primarily be based on operational considerations. Whenever
+  possible, the MMEL item should use the standard repair interval categories by rounding the
+  calculated maximum dispatch time (in flight hours) to a conservative category (based on
+  maximum aircraft utilization per day), not exceeding the C category.
+
+  E.9 O Apêndice F apresenta o fluxograma geral para aprovação de um item da MMEL, incluindo
+  a análise quantitativa de segurança.
+
+  E.9 Appendix F presents a general flowchart for approval of an MMEL item, including the
+  quantitative safety analysis.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- flight
+- mmel
+- despacho
+- dispatch
+- hour
+- hora
+- maximum
+- failure
+- falha
+- tempo
+- maximo
+- when
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

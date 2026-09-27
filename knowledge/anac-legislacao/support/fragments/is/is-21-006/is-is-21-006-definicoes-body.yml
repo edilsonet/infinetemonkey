@@ -1,0 +1,135 @@
+id: is-is-21-006-definicoes-body
+kind: is
+document: is-21-006
+family: '21'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Acordo de licenciamento: Um acordo comercial entre um detentor de CT ou CST e um detentor
+  de um COP (ou requerente) formalizando os direitos e deveres de ambos parceiros para usar
+  os dados de projeto com o propósito de fabricação do produto ou artigo.
+
+  Aprovação de Aeronavegabilidade: Um documento emitido pela ANAC para uma aeronave, um motor
+  de aeronave, hélice ou artigo que certifica que a aeronave, o motor de aeronave, a hélice,
+  ou o artigo está conforme com o projeto aprovado e está em condição para operação segura,
+  a menos que de outra forma especificado.
+
+  Aprovação de produção: Um documento emitido pela ANAC que permite a produção de um produto
+  ou artigo, em conformidade com o seu projeto aprovado e sistema de qualidade aprovado.
+
+  Aprovado: A menos que usado como referência para outra pessoa, significa aprovado pela ANAC
+  ou a quem a ANAC tenha delegado sua autoridade no assunto em questão, ou aprovado conforme
+  disposições de um acordo bilateral entre o Brasil e outro país ou jurisdição.
+
+  Artigo: Um material, parte, componente, processo ou aparelho.
+
+  Atributo crítico de processo: atributo cuja falta de conformidade afeta diretamente o produto
+  ou artigo, podendo causar falha ou criar uma condição insegura.
+
+  Autorização: Permissão concedida pela administração a indivíduos autorizados com acesso
+  total ou parcial a sistemas de gestão de informação de acesso restrito.
+
+  Autorização de embarque direto: A autorização por escrito concedida por um detentor de certificado
+  de organização de produção com responsabilidade pela aeronavegabilidade de um artigo, para
+  um fornecedor embarcar artigos produzidos de acordo com o sistema de qualidade do detentor
+  do COP, diretamente para o usuário final sem que as partes produzidas passem por unidade
+  de propriedade do detentor de certificado de organização de produção.
+
+  Campo: Um elemento de um arquivo de computador que pode conter dados e cujo tamanho é controlado
+  pelo programa.
+
+  Capacidade de escrita (alteração de arquivos): A autoridade dada a um usuário que permite
+  que a pessoa introduza ou altere dados em um campo.
+
+  Capacidade de leitura: A autoridade dada a um indivíduo, permitindo a pessoa acessar ou
+  ler os dados em um campo sem ser capaz de alterar ou inserir dados.
+
+  Certificado de liberação autorizada: Um documento emitido pela ANAC, ou por quem ela delegar,
+  para um motor de aeronave, hélice ou artigos, que certifica que o motor de aeronave, hélice
+  ou artigo está conforme com seu projeto aprovado e está em condição segura para operação,
+  a menos que de outra forma especificado.
+
+  Componente de Interface: Um artigo que serve como interface funcional entre uma aeronave
+  e um motor de aeronave, entre um motor de aeronave e uma hélice, ou entre uma aeronave e
+  uma hélice. Um componente de interface é definido pelo detentor do certificado de tipo ou
+  do certificado suplementar de tipo que controla os dados de projeto aprovados para aquele
+  artigo.
+
+  Dados: Um conjunto de caracteres alfanuméricos e/ou gráficos organizados para representar
+  fatos ou instruções, adequados para comunicação, interpretação ou processamento por computador.
+
+  Dados de Projeto Aplicáveis: Todos os desenhos, especificações, e outras informações técnicas
+  necessárias fornecidas pelo requerente ou detentor de uma aprovação de projeto, CT, CST,
+  OTP, CPAA, ou equivalente, e liberada de maneira controlada para propósitos de produção.
+
+  Dados de Projeto Aprovado: Dados de projeto aplicáveis aos quais tenha sido concedida uma
+  aprovação (por exemplo: CT, CST, OTP, CPAA, ou equivalente) pela autoridade de aviação civil.
+
+  Desvio de Qualidade: ocorre quando um produto ou artigo é liberado pelo sistema de qualidade
+  e não está conforme os dados de projeto aplicáveis ou requisitos do sistema da qualidade.
+
+  Documento de Liberação Autorizada: Uma declaração emitida pelo detentor de um COP para um
+  motor de aeronave, hélice ou artigos, que certifica que o motor de aeronave, hélice ou artigo
+  está conforme com seu projeto aprovado e está em condição segura para operação, a menos
+  que de outra forma especificado.
+
+  Fornecedor: Qualquer pessoa, em qualquer nível da cadeia de fornecimento, que forneça um
+  produto, artigo ou serviço que seja utilizado ou consumido no projeto ou fabricação, ou
+  instalado em um produto ou artigo.
+
+  Gestor Responsável: Representante de um requerente ou detentor de um COP. Deve ser responsável
+  por, e ter autoridade sobre todas as operações de produção realizadas sob o RBAC 21. O gestor
+  responsável serve como ponto primário de contato entre o requerente ou detentor de um COP
+  e a ANAC. O gestor responsável deve confirmar que os procedimentos descritos no manual de
+  qualidade, exigidos pela seção 21.138 21.308 ou 21.608, estão em vigor e que o detentor
+  do certificado de organização de produção satisfaz os requisitos das regulamentações aplicáveis.
+
+  Peça padronizada (“standard part”): Uma peça fabricada em conformidade completa com uma
+  especificação governamental estabelecida ou aceita pela indústria que contenha projeto,
+  fabricação e requisitos de identificação uniformes. A especificação deve incluir todas as
+  informações necessárias para produzir e conformar a peça, e devem ser publicadas de modo
+  que qualquer pessoa/organização possa fabricar a peça.
+
+  Processo crítico: processo que possui um ou mais atributo crítico de processo.
+
+  Recuperável: Peças de aviação que estejam fora de serviço, mas possam ter um potencial uso
+  na aviação.
+
+  Senhas individuais: Uma senha ou procedimento que permita acesso total ou parcial a um sistema
+  de gerenciamento de informações restritas.
+
+  Sistema da qualidade: Uma estrutura organizacional documentada contendo responsabilidades,
+  procedimentos, processos e recursos que implementem uma função de gestão para determinar
+  e aplicar princípios de qualidade.
+
+  Sistemas de informação: Um sistema de computador projetado para automatizar uma função específica,
+  tal como gerenciamento de registros.
+
+  Sucata: produtos e artigos que um proprietário tenha descartado por estarem fora de um reparo
+  economicamente aceitável, considerados de pouco valor ou inutilizados por qualquer outro
+  motivo.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- artigo
+- aeronave
+- dados
+- detentor
+- aprovado
+- helice
+- motor
+- qualidade
+- producao
+- sistema
+- certificado
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-006.md

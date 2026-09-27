@@ -71,15 +71,19 @@ sections:
 - J36.303
 - J36.305
 - J36.5
+- apendice
 - apendice-a
 - preambulo
-fragment_count: 153
+- sumario
+fragment_count: 157
 fragment_ids:
 - rbac-rbac-36-preambulo-body
-- rbac-rbac-36-preambulo-a
-- rbac-rbac-36-preambulo-b
-- rbac-rbac-36-preambulo-c
-- rbac-rbac-36-preambulo-d
+- rbac-rbac-36-sumario-body
+- rbac-rbac-36-apendice-body
+- rbac-rbac-36-apendice-a
+- rbac-rbac-36-apendice-b
+- rbac-rbac-36-apendice-c
+- rbac-rbac-36-apendice-d
 - rbac-rbac-36-apendice-a-body
 - rbac-rbac-36-apendice-a-a
 - rbac-rbac-36-apendice-a-b
@@ -110,10 +114,12 @@ fragment_ids:
 - rbac-rbac-36-a36-9-a
 - rbac-rbac-36-a36-9-b
 - rbac-rbac-36-a36-9-c
+- rbac-rbac-36-a36-9-m
 - rbac-rbac-36-a36-9-d
 - rbac-rbac-36-a36-9-e
 - rbac-rbac-36-a36-9-f
 - rbac-rbac-36-a36-9-g
+- rbac-rbac-36-a36-9-k
 - rbac-rbac-36-a36-9-h
 - rbac-rbac-36-a36-9-i
 - rbac-rbac-36-a36-9-j
@@ -228,4 +234,4 @@ fragment_ids:
 - rbac-rbac-36-j36-1-f
 - rbac-rbac-36-j36-1-g
 - rbac-rbac-36-j36-1-h
-parser_version: 6
+parser_version: 7

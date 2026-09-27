@@ -1,0 +1,47 @@
+id: rbac-rbac-153-objetivos-j
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: objetivos
+section_title: 'objetivos:'
+subsection_id: j
+cite: objetivos(j)
+title: objetivos(j)
+text: '(j)
+
+  O operador do aeródromo deve compor um banco de dados do risco da fauna, envolvendo
+
+  os eventos de segurança operacional ocorridos no aeródromo. O acompanhamento estatístico
+  dos
+
+  dados obtidos, conforme previsto no parágrafo 153.505(h), deve seguir os seguintes critérios.
+
+  (1)
+
+  quantidade absoluta anual de eventos para os últimos 5 (cinco) anos; e
+
+  (2)
+
+  índice anual de colisões com fauna que tenham gerado acidente aeronáutico ou incidente
+
+  aeronáutico grave, para os últimos 5 (cinco) anos.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- aerodromo
+- aeronautico
+- anos
+- anual
+- cinco
+- dados
+- eventos
+- fauna
+- objetivos
+- ultimos
+- absoluta
+- acidente
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

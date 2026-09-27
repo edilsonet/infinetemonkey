@@ -11,44 +11,19 @@ text: '5.3.9.1
 
   no caso de aeronaves certificadas para operar com tripulação mínima composta por dois
 
-  pilotos:
-
-
-  a)
-
-  AAAA (PIC) - para pilotos que tenham recebido treinamento aprovado para
-
-  habilitação de tipo no posto de pilotagem definido pelo fabricante da aeronave para
-
-  PIC e que tenham sido aprovados em voo de verificação de proficiência neste posto
-
-  de pilotagem; e
-
-
-  b)
-
-  AAAA (SIC) - para pilotos que tenham recebido treinamento aprovado para
-
-  habilitação de tipo no posto de pilotagem definido pelo fabricante da aeronave para
-
-  SIC e que tenham sido aprovados em voo de verificação de proficiência neste posto
-
-  de pilotagem; e'
+  pilotos:'
 keywords:
 - licencas
 - pilotos
 - pessoal
-- pilotagem
-- posto
-- tenham
-- aaaa
-- aeronave
-- aprovado
-- aprovados
-- definido
-- fabricante
-- habilitacao
-- proficiencia
+- aeronaves
+- caso
+- certificadas
+- composta
+- dois
+- minima
+- operar
+- tripulacao
 categories:
 - licencas
 - pilotos

@@ -1,0 +1,45 @@
+id: is-is-00-002-15-4-body
+kind: is
+document: is-00-002
+family: '0'
+section_id: '15.4'
+section_title: 'Área de assinaturas:'
+subsection_id: body
+cite: '15.4'
+title: 'Área de assinaturas:'
+text: '15.4 Área de assinaturas:
+
+  O nome do examinador deve ser completo, sem abreviaturas ou apelidos.
+
+  Campo "Assinatura do Examinador": O examinador deve assinar conforme sua
+
+  assinatura apresentada no Perfil da ANAC.
+
+  Campo "Assinatura do Candidato": em caso de aprovação ou reprovação, o candidato
+
+  deve assinar a FAP para demonstrar sua ciência. Caso o candidato recuse-se a assinar a
+
+  FAP, o Examinador deve detalhar tal ato no campo Comentários para as devidas ações
+
+  administrativas.
+
+  O Código ANAC deve sempre ser grafado com 6 dígitos, mesmo que o primeiro dígito
+
+  seja 0 (zero).'
+keywords:
+- examinador
+- area
+- assinar
+- assinatura
+- assinaturas
+- campo
+- candidato
+- caso
+- abreviaturas
+- acoes
+- administrativas
+- apelidos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-002.md

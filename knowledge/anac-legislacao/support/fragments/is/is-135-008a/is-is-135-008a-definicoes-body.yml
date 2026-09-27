@@ -1,0 +1,45 @@
+id: is-is-135-008a-definicoes-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os fins desta IS, as seguintes definições e termos são fornecidos:
+
+  4.1.1 Ambiente de alta carga de trabalho. Qualquer ambiente em que as múltiplas demandas
+  para a tripulação de voo exigem a priorização das funções de trabalho. Por exemplo, a operação
+  IFR abaixo de 10.000 pés durante chegada ou partida de uma área terminal (incluindo os procedimentos
+  de táxi) é considerada como um ambiente de alta carga de trabalho.
+
+  4.1.2 Cabeça Baixa (Heads down). Um piloto está com a “cabeça baixa” quando se encontra
+  com a cabeça voltada para baixo, concentrado em alguma tarefa que o impede de olhar para
+  frente e para fora da aeronave.
+
+  4.1.3 Challenge response. Modelo de execução de checklist em que, primeiro, os pilotos configuram
+  a aeronave de acordo com a memória. Após, os pilotos utilizam o checklist para certificar-se
+  de que todos os itens foram cumpridos corretamente.'
+keywords:
+- taxi-aereo
+- operacoes
+- definicoes
+- ambiente
+- cabeca
+- trabalho
+- aeronave
+- alta
+- baixa
+- carga
+- checklist
+- pilotos
+- abaixo
+- acordo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

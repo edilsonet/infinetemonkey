@@ -1,0 +1,41 @@
+id: is-is-91-005-introducao-a
+kind: is
+document: is-91-005
+family: '91'
+section_id: introducao
+section_title: Introdução
+subsection_id: a
+cite: introducao(a)
+title: introducao(a)
+text: 'a)
+
+  Documento de solicitação formal.
+
+  É o documento submetido à Anac que formaliza as intenções do operador em obter a autorização
+  operacional para RVSM. O envio deste documento, juntamente com o restante da documentação
+  pertinente e sua aceitação por parte desta Agência, constitui a fase 2 do processo. O preenchimento
+  e envio do Relatório Técnico é realizado por meio de formulário digital diretamente no sistema
+  SEI.
+
+  O Relatório Técnico deve ter seu preenchimento completo, incluindo a informação do código
+  hexadecimal ou binário fornecido pelo CGNA para o transponder da aeronave.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- documento
+- envio
+- introducao
+- preenchimento
+- relatorio
+- tecnico
+- aceitacao
+- aeronave
+- agencia
+- autorizacao
+- binario
+- cgna
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

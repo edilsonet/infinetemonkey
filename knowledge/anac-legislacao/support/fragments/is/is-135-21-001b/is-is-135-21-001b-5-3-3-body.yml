@@ -1,0 +1,39 @@
+id: is-is-135-21-001b-5-3-3-body
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.3.3
+section_title: O operador deve ter uma política de revisão clara e detalhada, de modo a identificar
+  todas as alterações efetuadas a cada revisão, aceita ou aprovada.
+subsection_id: body
+cite: 5.3.3
+title: O operador deve ter uma política de revisão clara e detalhada, de modo a identificar
+  todas as alterações efetuadas a cada revisão, aceita ou aprovada.
+text: '5.3.3 O operador deve ter uma política de revisão clara e detalhada, de modo a identificar
+  todas as alterações efetuadas a cada revisão, aceita ou aprovada.
+
+  5.3.4 O MGM deve ser enviado à Anac em formato digital, pesquisável, acompanhado do formulário
+  FOP 207 (previsto na IS nº 119-004). O FOP 207 deverá indicar claramente quais seções do
+  manual foram alteradas, de modo que seja possível identificar rapidamente se a nova revisão
+  irá requerer aprovação ou apenas aceitação. A documentação também deverá estar acompanhada
+  dos dados do pagamento da TFAC ou de cópia do respectivo comprovante de pagamento.'
+keywords:
+- taxi-aereo
+- operacoes
+- revisao
+- identificar
+- modo
+- aceita
+- alteracoes
+- aprovada
+- cada
+- clara
+- detalhada
+- efetuadas
+- operador
+- politica
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

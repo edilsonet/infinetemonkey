@@ -1,0 +1,86 @@
+id: is-is-145-010c-5-1-1-6-c
+kind: is
+document: is-145-010c
+family: '145'
+section_id: 5.1.1.6
+section_title: 'A OM deve garantir que o programa de treinamento seja reavaliado periodicamente
+  quanto à necessidade de sua revisão, para:'
+subsection_id: c
+cite: 5.1.1.6(c)
+title: 5.1.1.6(c)
+text: 'c) garantir a efetividade dos treinamentos sendo ministrados, visando que o Funcionário
+  Técnico atinja o nível de competência esperado após cada treinamento.
+
+  5.1.1.7 A frequência mínima aceitável para reavaliação do programa de treinamento é anual,
+  e caso haja necessidade de revisão, deverá ser realizada em até 3 meses a partir da data
+  da reavaliação.
+
+  5.1.1.8 Tanto os procedimentos para revisão do programa de treinamento como sua submissão
+  à aprovação da Anac são requisitos regulatórios básicos para o conteúdo do MOM, de acordo
+  com a seção 145.209(e) do RBAC nº 145 e item 5.2.6 da IS 145-009, e são discutidos em detalhe
+  nas seções dessa IS. Por isso é recomendada a leitura da IS 145-009 ao se elaborar o Programa
+  de Treinamento em Manutenção - PTM. Para submissão do PTM à Anac após revisado, a OM deve
+  seguir os critérios estabelecidos na seção 5.1.2 desta IS.
+
+  5.1.1.9 Encontra-se disponível no site da Anac, na página das organizações de manutenção
+  (clique no link para acessar), como material orientativo associado a esta IS, um modelo
+  de programa de treinamento, que pode ser utilizado, com as devidas adequações, por: uma
+  OM de pequeno, médio ou grande porte. Este modelo não é de uso obrigatório; somente representa
+  possível meio para estruturar um PTM. Por isso, apenas adotar o modelo disponibilizado,
+  sem considerar todas as informações dispostas nesta IS para o desenvolvimento do PTM, não
+  garante estar totalmente em conformidade com os requisitos regulamentares. Portanto, a leitura
+  completa desta IS é indispensável para assegurar o desenvolvimento de um PTM que cumpra
+  integralmente com o regulamento.
+
+  5.1.1.10 Cada OM deve elaborar o seu próprio programa de treinamento, adequado às características
+  de sua operação. Como a presente IS descreve um meio de cumprimento aceitável, mas não único,
+  a palavra “deve”, quando utilizada, somente se aplica a uma OM que escolha seguir as instruções
+  desta IS, que, então, deve ser seguida integralmente.
+
+  5.1.1.11 O programa de treinamento deve ser aprovado pela Anac. Se a OM optar por elaborar
+  um programa de treinamento com assuntos adicionais, não relacionados a um regulamento ou
+  requisito específico, somente aqueles assuntos requeridos pelos regulamentos ou requisitos
+  estarão sujeitos à aprovação da Anac. Um meio de elaborar esse tipo de programa de treinamento
+  seria separar os assuntos de treinamento requeridos dos não requeridos pelo regulamento
+  dentro do manual que contém o programa de treinamento.
+
+  5.1.1.12 Empresas que desejam obter uma certificação conforme o RBAC nº 145 e as OMs já
+  certificadas pela Anac, localizadas dentro ou fora do Brasil, podem usar esta IS para elaborar
+  o programa de treinamento requerido pela seção 145.163 do RBAC nº 145.
+
+  5.1.1.13 Para o caso de empresas que tenham ou pretendam ter certificação segundo mais de
+  um RBAC, por exemplo RBAC nº 121 e RBAC nº 145, é aceitável a elaboração de apenas um programa
+  de treinamento que atenda a ambos os regulamentos, desde que isso esteja claramente identificado.
+
+  5.1.1.14 Conforme o RBAC 145.205(a), se uma OM executa trabalho para operadores certificados
+  segundo o RBAC nº 121 ou RBAC nº 135 que tem um programa de manutenção de aeronavegabilidade
+  continuada segundo esses regulamentos, ela deve seguir esse programa, descrito nos manuais
+  desse operador. Portanto, considerando o requisito 145.163(b), o programa de treinamento
+  da OM deve assegurar que cada pessoa autorizada a executar tarefas para aqueles operadores
+  esteja treinada de acordo com os requisitos daqueles operadores.
+
+  5.1.1.15 A OM deve identificar claramente o cargo do responsável pela análise e decisão
+  dos diferentes aspectos do PTM, por exemplo: avaliar a competência requerida para cada função
+  de manutenção exercida, avaliar e aprovar os treinamentos ministrados internamente ou contratados,
+  assegurar a efetividade dos treinamentos, propor mudanças ao programa de treinamento aprovado,
+  assegurar que cada pessoa que executa Função de Manutenção esteja treinada ou seja capaz
+  de executar o que lhe foi designado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- programa
+- treinamento
+- cada
+- elaborar
+- assegurar
+- requisitos
+- aceitavel
+- assuntos
+- desta
+- esteja
+- isso
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-010c.md

@@ -1,0 +1,96 @@
+id: is-is-21-006-apendice-e-disposicoes-para-produtos-e-artigos-nao-conformes-b
+kind: is
+document: is-21-006
+family: '21'
+section_id: apendice-e-disposicoes-para-produtos-e-artigos-nao-conformes
+section_title: APÊNDICE E - DISPOSIÇÕES PARA PRODUTOS E ARTIGOS NÃO CONFORMES
+subsection_id: b
+cite: apendice-e-disposicoes-para-produtos-e-artigos-nao-conformes(b)
+title: apendice-e-disposicoes-para-produtos-e-artigos-nao-conformes(b)
+text: 'b) Utilizadas para identificar, segregar e controlar produtos e artigos rejeitados
+  para impedir o seu uso em um produto acabado.
+
+  E.2 Desenvolvimento
+
+  E.2.1 Produtos e artigos que tenham sido determinados como fora de serviço ou não elegíveis
+  para instalação em uma aeronave, motor de aeronave ou hélice podem ser considerados sucata
+  ou recuperáveis. Em alguns casos, tem sido prática comum eliminar produtos e artigos sucateados
+  por meio de venda, descarte, ou transferência dos artigos. A falta de controles adequados
+  da indústria pode resultar em um artigo copiado ou reparado, reintroduzido no mercado, e
+  sendo falsamente identificado como um artigo aprovado. O uso de tais produtos e artigos
+  pode ter implicações de segurança graves e com responsabilidade para o fabricante, operador
+  ou organização de manutenção. Um controle eficaz para sucata ou produtos e artigos responsável
+  irá reduzir a probabilidade de que esses artigos sejam distribuídos ou vendidos como utilizáveis.
+
+  E.3 Documentando o processo
+
+  E.3.1 A manutenção de um programa de qualidade bem definido é fundamental para o controle
+  de produtos e artigos rejeitados. Um elemento a ser abordado no âmbito desse programa é
+  o controle e eliminação de produtos e artigos não conformes considerados sucata ou recuperáveis.
+  Sistemas de qualidade sem esse elemento poderiam permitir que produtos e artigos não conformes
+  retornem para inventários ativos.
+
+  E.4 Prevenção de declarações falsas sobre sucata de produtos e artigos
+
+  E.4.1 Os fabricantes devem eliminar os produtos e artigos sucateados por meio de destruição
+  (descaracterização), quando apropriado. A destruição adequada e completa de produtos e artigos
+  vai garantir que não sejam utilizáveis para a sua aplicação original e torná-los incapazes
+  de serem retrabalhados ou camuflados para terem aparência de peças utilizáveis.
+
+  E.4.2 A destruição eficaz pode ser conseguida por um ou uma combinação dos seguintes métodos:
+  moagem, queima, a remoção de uma grande característica integral, a deformação permanente
+  dos produtos e artigos, o corte de um furo de tamanho significativo com um maçarico ou serra,
+  fundição, serrar em pequenos pedaços, e remoção da identificação do fabricante, peça, lote
+  e número de série.
+
+  E.5 Descarte de produtos e artigos com disposição de sucata
+
+  E.5.1 Fabricantes podem optar por liberar produtos ou artigos com disposição de sucata para
+  uso legítimo não relacionado ao voo. Esse uso não relacionado ao voo pode incluir treinamento,
+  educação, pesquisa e desenvolvimento, configuração de ferramental, ou aplicações não aeronáuticas.
+  Em tais casos, a destruição pode não ser apropriada. Os seguintes métodos podem ser usados
+  para prevenir futuros equívocos:
+
+  E.5.1.1 Marcar os produtos e artigos de forma clara e permanente, como "Não deve ser usado
+  na aviação" e "Não utilizável." Carimbo de tinta não é normalmente considerado um método
+  aceitável, a menos que tinta indelével (que não apaga) seja utilizada e os produtos e artigos
+  sejam verificados para garantir que a tinta não possa ser removida.
+
+  E.5.1.2 Retirar a identificação do número da peça (part number).
+
+  E.5.1.3 Remover a placa de identificação e demais marcações.
+
+  E.5.1.4 Manter um rastreamento ou sistema de controle, por número de série ou outros dados
+  individualizados, para registrar os produtos e artigos sucateados transferidos.
+
+  E.5.1.5 Em qualquer acordo ou contrato de transferência de produtos e artigos com disposição
+  de sucata, desenvolver procedimentos escritos que identifiquem os requisitos de disposição
+  e descarte.
+
+  E.5.1.6 Assegurar uma declaração de certificação assinada pelo comprador, indicando que
+  "o comprador não vai usar ou transferir esses produtos e artigos para uso em produtos aeronáuticos."
+
+  E.5.1.7 Para aqueles artigos com disposição de sucata e que não tenham uso da aviação, fabricantes
+  devem:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- artigos
+- produtos
+- sucata
+- disposicao
+- pode
+- conformes
+- controle
+- destruicao
+- descarte
+- fabricantes
+- identificacao
+- numero
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-006.md

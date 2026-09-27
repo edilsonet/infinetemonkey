@@ -1,0 +1,37 @@
+id: is-is-43-1-001-5-3-3-b
+kind: is
+document: is-43-1-001
+family: '43'
+section_id: 5.3.3
+section_title: Conforme a seção 43.1(e)-I do RBAC 43, a solicitação deve identificar individualmente
+  os
+subsection_id: b
+cite: 5.3.3(b)
+title: 5.3.3(b)
+text: 'b) informação sobre a tarefa de manutenção a ser realizada.
+
+  NOTA 1 - Exemplos: revisão geral, reparo decorrente de incidente ou perda de
+
+  performance constatada por deterioração de parâmetros operacionais,
+
+  incorporação de DA, alteração, realização de cheque “C”, etc.;'
+keywords:
+- manutencao
+- aeronavegabilidade
+- alteracao
+- cheque
+- constatada
+- decorrente
+- deterioracao
+- exemplos
+- geral
+- identificar
+- incidente
+- incorporacao
+- individualmente
+- informacao
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-1-001.md

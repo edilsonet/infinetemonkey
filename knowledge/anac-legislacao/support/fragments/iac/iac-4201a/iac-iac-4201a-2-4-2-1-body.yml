@@ -1,0 +1,39 @@
+id: iac-iac-4201a-2-4-2-1-body
+kind: iac
+document: iac-4201a
+family: '420'
+section_id: 2.4.2.1
+section_title: Controle da Prestação de Contas Parcial
+subsection_id: body
+cite: 2.4.2.1
+title: Controle da Prestação de Contas Parcial
+text: '2.4.2.1 Controle da Prestação de Contas Parcial
+
+  O Estado emitirá solicitação para que seja feita uma visita de inspeção à obra por técnicos
+
+  do COMAR. Tal solicitação deverá conter planilha dos serviços realizados, detalhando, por
+
+  item, o custo unitário, o quantitativo executado e o valor total.
+
+  O Estado deverá providenciar a Prestação de Contas Parcial da última parcela repassada,
+
+  cabendo ao COMAR informar sua aprovação ao DAC/SIE, através de mensagem pelo
+
+  SIAFI, para efeito de controle.'
+keywords:
+- contas
+- controle
+- parcial
+- prestacao
+- comar
+- devera
+- estado
+- solicitacao
+- aprovacao
+- atraves
+- cabendo
+- conter
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-4201a.md

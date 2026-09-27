@@ -1,0 +1,33 @@
+id: is-is-91-001-d6-1-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: D6.1
+section_title: 'Uma aeronave pode ser considerada elegível para operações RNAV 5, se o AFM
+  ou suplemento do AFM, ou especificação da aeronave (TCDS para as aeronaves isentas da certificação
+  brasileira), ou POH contiver a declaração do fabricante ou do detentor do CST que a aeronave
+  está conforme as especificações técnicas de um dos documentos listados abaixo:'
+subsection_id: a
+cite: D6.1(a)
+title: D6.1(a)
+text: 'a) FAA: AC 90-96A, AC 90-45A, AC 20-121A, AC 20-130A, AC 20-138 ( ) ou AC 25-15;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- 121a
+- 130a
+- abaixo
+- aeronaves
+- brasileira
+- certificacao
+- considerada
+- contiver
+- declaracao
+- detentor
+- documentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

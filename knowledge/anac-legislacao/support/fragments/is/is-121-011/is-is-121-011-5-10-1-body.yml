@@ -1,0 +1,69 @@
+id: is-is-121-011-5-10-1-body
+kind: is
+document: is-121-011
+family: '121'
+section_id: 5.10.1
+section_title: Generalidades
+subsection_id: body
+cite: 5.10.1
+title: Generalidades
+text: '5.10.1 Generalidades
+
+  5.10.1.1 Esta seção contém informações, diretrizes e orientações a serem usadas pelos operadores
+  ao elaborar treinamento de diferenças em todas as categorias de treinamento. De acordo com
+  o RBAC nº 121, treinamento de diferenças é necessário se um tripulante servirá em uma variante
+  de um tipo específico de aeronave que tenha diferenças relevantes em relação à aeronave
+  base.
+
+  5.10.1.2 Contexto. Devido às diferenças nos equipamentos instalados, as habilidades e os
+  conhecimentos necessários para operar uma variante de um tipo de aeronave podem ser diferentes.
+  A extensão das diferenças entre as variantes de um tipo de aeronave pode ser significativa
+  devido aos avanços tecnológicos. Os tripulantes treinados em uma variante de um tipo de
+  aeronave podem precisar de treinamento adicional para operar de forma segura e eficiente
+  em outra variante desse tipo de aeronave.
+
+  5.10.1.3 Identificação da aeronave base e variantes. Para desenvolver um treinamento de
+  diferenças, o operador deve primeiro identificar uma aeronave base e as variantes da aeronave.
+
+  5.10.1.4 Aeronave base. A aeronave base é a aeronave ou o grupo de aeronaves usado como
+  referência pelo operador para comparar diferenças com outras aeronaves dentro da sua frota.
+  Esta comparação das diferenças entre as aeronaves é para itens que afetam ou podem afetar
+  o conhecimento ou as habilidades dos tripulantes relevantes à segurança do voo. Os operadores
+  podem identificar a aeronave base pela matrícula (como "PT-ABC"), pelo fabricante, modelo
+  e série (como "DC-9-31") ou outras classificações que podem distinguir de forma única dentro
+  do conjunto de aeronaves do operador aquelas pertencentes a diferentes configurações, características
+  de voo, desempenhos, limitações, controles, instrumentos, indicadores, sistemas, equipamentos
+  ou modificações. Uma aeronave base pode ser uma única aeronave ou um grupo de aeronaves
+  com os mesmos recursos e pode ser alterada a critério do operador. As aeronaves base normalmente
+  são aquelas dentro de uma frota em que os tripulantes são treinados pela primeira vez, ou
+  que o operador possui em maior quantidade, ou que representam uma configuração específica
+  que operador eventualmente queira usar como padrão.
+
+  5.10.1.5 Variantes do tipo de aeronave. Uma variante tem características similares às da
+  aeronave base. Se a variante tiver diferenças relevantes em relação à aeronave base, então
+  é necessário um treinamento de diferenças. As diferenças relevantes são aquelas que podem
+  afetar a segurança do voo. As diferenças relevantes típicas são aquelas relativas a configurações,
+  características de voo, desempenhos, limitações, controles, instrumentos, indicadores, sistemas,
+  equipamentos ou modificações. Por exemplo, um ATR 72-600 é uma variante do ATR 72-500, ou
+  um Boeing 737-900 é uma variante do Boeing 737-700. Um operador pode possuir diversas variantes
+  de uma aeronave em sua frota.'
+keywords:
+- transporte-aereo
+- operacoes
+- aeronave
+- diferencas
+- base
+- variante
+- operador
+- aeronaves
+- podem
+- tipo
+- treinamento
+- relevantes
+- variantes
+- aquelas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-011.md

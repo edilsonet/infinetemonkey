@@ -1,0 +1,57 @@
+id: is-is-121-012-definicoes-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas na seção 01.1 do RBAC nº
+  01 e na seção 121.7 do RBAC nº 121 e as seguintes definições:
+
+  4.1.1 Aeródromo adequado significa um aeródromo constante na Lista de Aeródromos Regulares
+  e de Alternativa de um detentor de certificado que atende às limitações para pouso da seção
+  121.197 do RBAC nº 121. Podem ser considerados aeródromos militares que estejam ativos e
+  operacionais, desde que cumpram a disposição anterior.
+
+  Nota 1: embora a definição do RBAC nº 121 estabeleça como exigência que o aeródromo, além
+  de atender às limitações para pouso da seção 121.197 do RBAC nº 121, deve ser, também, um
+  aeródromo militar ativo e operacional, na prática isso inviabilizaria praticamente qualquer
+  operação não ETOPS sob o RBAC nº 121. Portanto, para os fins desta IS, a ANAC estabelece
+  a definição acima como a interpretação correta da definição de aeródromo adequado presente
+  na seção 121.7 do RBAC nº 121, até que o RBAC seja alterado.
+
+  Nota 2: a definição do RBAC nº 121 foi adequada com relação à menção às Especificações Operativas,
+  considerando que a ANAC adota a lista de aeródromos regulares e de alternativa como forma
+  de registro dos aeródromos utilizados pelo detentor de certificado, conforme autorizado
+  pelos parágrafos 119.49(a)(4)(i) e (b)(4)(i) do RBAC nº 119.
+
+  4.1.2 Aeródromo de alternativa ETOPS (também denominado aeródromo de alternativa em rota
+  ETOPS) significa aeródromo adequado designado no despacho de voo para uso no evento de desvio
+  para alternativa durante uma operação ETOPS.
+
+  Nota: essa definição se aplica ao planejamento de voo e de nenhuma forma limita a autoridade
+  do piloto em comando durante o voo.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- alternativa
+- definicao
+- definicoes
+- secao
+- aerodromos
+- etops
+- adequado
+- nota
+- certificado
+- desta
+- detentor
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

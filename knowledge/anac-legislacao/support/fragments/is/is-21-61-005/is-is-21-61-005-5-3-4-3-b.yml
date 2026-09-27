@@ -1,0 +1,67 @@
+id: is-is-21-61-005-5-3-4-3-b
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.4.3
+section_title: When non-safety related items are proposed, the associated justifications may
+  be limited to demonstrate the non-safety related nature of the item.
+subsection_id: b
+cite: 5.3.4.3(b)
+title: 5.3.4.3(b)
+text: 'b) evaluate the consequences of the next worst safety-related failure and, if applicable
+  for the item, separately evaluate the consequences of the external event (as defined in
+  item 4.1) for which the item was designed to protect against and ensure the combination
+  of the MMEL dispatch configuration with the next worst safety-related failure or external
+  event do not correspond to a hazardous or catastrophic failure condition.
+
+  5.3.4.7 Após essas avaliações, consequências classificadas como “insignificantes” ou “pequenas”
+  (minor), conforme definido na base de certificação de tipo de aeronave, são consideradas
+  aceitáveis, e o item pode ser incluído na MMEL sem análise adicional.
+
+  5.3.4.7 After these assessments, consequences classified as “no safety effect” or “minor”,
+  as defined in the aircraft type certification basis, are considered acceptable, and the
+  item can be included in the MMEL without further analysis.
+
+  5.3.4.8 Itens avaliados conforme 5.3.4.6(a) cujas consequências são classificadas como “significativas”
+  (major) não são considerados em conformidade com os parágrafos 21.61-I(e)(1)(i) e (ii) do
+  RBAC 21. No entanto, se for necessária a combinação de duas ou mais falhas para termos consequências
+  no máximo “significativas” (major), então isso será aceitável, e tais itens poderão também
+  serem incluídos na MMEL com base apenas na avaliação qualitativa.
+
+  5.3.4.8 Items evaluated according to item 5.3.4.6(a) whose consequences are classified as
+  “major” are not considered to comply with paragraphs 21.61-I(e)(1)(i) and (ii) of RBAC 21.
+  However, if is the combination of two or more failures that lead to “major” consequences
+  at maximum, then this is acceptable, and such items can also be included in the MMEL based
+  only in that qualitative assessment.
+
+  5.3.4.9 Quando as consequências da combinação de duas ou mais falhas forem mais graves,
+  isto é, críticas (hazardous) ou catastróficas, casos específicos ainda poderão ser aceitos
+  na MMEL, mas a avaliação qualitativa de segurança precisará ser complementada por uma avaliação
+  quantitativa de segurança, a ser realizada quando ambas as condições seguintes forem atendidas:
+
+  5.3.4.9 When the consequences of the combination of two or more failures are more serious
+  (i.e. hazardous or catastrophic), specific cases may still be accepted in the MMEL, but
+  the qualitative safety assessment needs to be supplemented by a quantitative safety assessment,
+  which is performed when both of the following conditions are met:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- safety
+- consequences
+- consequencias
+- major
+- related
+- assessment
+- avaliacao
+- combination
+- failure
+- hazardous
+- items
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

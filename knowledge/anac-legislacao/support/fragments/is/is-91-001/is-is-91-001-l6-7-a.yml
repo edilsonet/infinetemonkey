@@ -1,0 +1,71 @@
+id: is-is-91-001-l6-7-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.7
+section_title: Treinamento inicial de voo para pilotos para operações RNP AR DP
+subsection_id: a
+cite: L6.7(a)
+title: L6.7(a)
+text: 'a) Em adição aos procedimentos e treinamento sobre RNP AR APCH, deve ser provido aos
+  pilotos o seguinte treinamento de voo sobre RNP AR DP:
+
+  i. cumprimento de limitações e procedimentos constantes na MEL ou CDL para operação RNP
+  AR DP;
+
+  ii. cumprimento da trajetória lateral cumprindo os requisitos de performance AEO e OEI para
+  as fases de decolagem e subida;
+
+  iii. procedimentos RNP AR DP onde o fixo inicial de uma RF leg está localizado no DER e
+  com exigências de performance de subida não padrão aplicáveis a múltiplos segmentos do procedimento.
+  Esse item é aplicável caso o procedimento RNP AR DP a ser utilizado e/ou procedimentos de
+  contingência relacionados possuam essas características;
+
+  iv. acionamento de orientação de LNAV a partir do sistema RNP para o diretor de voo (FD)
+  e para o piloto automático assim que possível;
+
+  v. confirmação da disponibilidade de GNSS para o sistema RNP imediatamente antes da decolagem;
+
+  vi. alinhamento e atualização da posição do sistema inercial. Durante operações de solo
+  o piloto deve demonstrar capacidade de conduzir um alinhamento completo do sistema inercial
+  e atualizar a posição imediatamente antes da decolagem; e
+
+  vii. realização, por cada piloto, de duas operações RNP AR DP, uma como PF e uma com PM,
+  como segue:
+
+  1) uma operação até a última posição do procedimento onde existem características específicas
+  do RNP AR DP (RF leg, gradientes não padrão, etc), com a aeronave operando normalmente (sem
+  falhas ou panes); e
+
+  2) uma operação RNP AR DP em condições OEI. Durante a operação RNP AR DP em condições OEI,
+  o piloto deve demonstrar capacidade de executar os procedimentos de contingência específicos
+  do operador para o procedimento RNP AR DP em uso. Durante os testes e demonstrações, assim
+  como no FOSA, deverá ser determinado qual o cenário da falha de motor deve ser utilizado
+  (ex: falha de motor na VI, ou falha de motor a 20ft), devendo ser utilizado o considerado
+  mais crítico.
+
+  Nota: No caso de o operador possuir política operacional, associada ou não a aeródromos
+  especiais, pela qual somente o piloto em comando atue como PF nas operações RNP AR DP, a
+  necessidade de o segundo em comando realizar durante o treinamento ao menos uma operação
+  como PF deverá ser avaliada durante o processo de autorização. Essa avaliação deve fazer
+  parte do FOSA.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- durante
+- operacao
+- piloto
+- procedimentos
+- operacoes
+- procedimento
+- sistema
+- treinamento
+- decolagem
+- falha
+- motor
+- posicao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

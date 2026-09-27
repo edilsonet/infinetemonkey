@@ -1,0 +1,30 @@
+id: rbac-rbac-108-emd-07-108-167-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.167'
+section_title: Verificação de segurança da aeronave
+subsection_id: a
+cite: 108.167(a)
+title: 108.167(a)
+text: (a) O operador aéreo deve executar a verificação de segurança da aeronave previamente
+  a todos os voos em que não se realize a inspeção de segurança da aeronave, bem como nos
+  casos previstos em DAVSEC. (Redação dada pela Resolução nº 626, de 14.06.2021)
+keywords:
+- seguranca
+- operador
+- aeronave
+- verificacao
+- aereo
+- casos
+- dada
+- davsec
+- executar
+- inspecao
+- previamente
+- realize
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

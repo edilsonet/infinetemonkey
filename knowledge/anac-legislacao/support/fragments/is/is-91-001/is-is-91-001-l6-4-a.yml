@@ -1,0 +1,62 @@
+id: is-is-91-001-l6-4-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.4
+section_title: Procedimentos de contingência OEI em operações RNP AR DP
+subsection_id: a
+cite: L6.4(a)
+title: L6.4(a)
+text: 'a) O operador é responsável por estabelecer o procedimento de contingência OEI para
+  operações RNP AR DP. Orientações relativas a procedimentos de contingência OEI podem ser
+  encontrados na AC 120-91 do FAA. Abaixo estão apresentadas algumas opções de procedimentos
+  de contingência:
+
+  i. voar o procedimento RNP AR DP em condição OEI: essa opção requer que o operador garanta
+  que a performance de decolagem e subida da aeronave em condição OEI cumpre ou excede todos
+  os requisitos regulatórios de decolagem, subida e afastamento de obstáculos enquanto segue
+  a trajetória lateral do procedimento RNP AR DP. Como uma falha de motor durante a decolagem
+  é uma condição não normal, ela determina precedência do procedimento de contingência sobre
+  condições operacionais normais relacionadas a ruído e tráfego aéreo. O operador deve prover
+  aos pilotos procedimentos e treinamento para voar o procedimento RNP AR DP em condição OEI
+  quando esse tipo de procedimento de contingência é utilizado. Isso inclui documentar quando
+  esse tipo de procedimento de contingência se aplica a cada procedimento RNP AR DP.
+
+  ii. voar um procedimento customizado de saída para condição OEI: elaborar um procedimento
+  customizado de saída pode fornecer trajetória lateral e restrições verticais que a aeronave
+  pode cumprir em condição OEI com segurança. Para a elaboração desse procedimento devem ser
+  considerados os critérios constantes na AC 120-91 do FAA, ou documento equivalente se aceito
+  pela ANAC. O procedimento deve ser disponibilizado na base de dados de navegação da aeronave.
+  O piloto deve selecionar o procedimento customizado acionando um “plano de voo secundário”,
+  caso a aeronave disponha dessa funcionalidade. Alguns sistemas RNP também apresentam automaticamente
+  para o piloto selecionar um procedimento de saída (no caso o procedimento customizado) caso
+  a aeronave identifique perda de tração equivalente à da perda de um motor.
+
+  iii. voar um “procedimento de pilotagem” em condição monomotor: nesse caso o operador deve
+  obter uma aprovação específica para um “procedimento de pilotagem” OEI para um procedimento
+  RNP AR DP. Esses procedimentos possuem instruções para os pilotos que devem ser seguidas
+  para permitir uma subida segura até uma altitude de segurança livre de obstáculos e terreno.
+  Diferentemente das alternativas anteriores, um “procedimento de pilotagem” não é incluído
+  na base de dados de navegação. Os operadores podem publicar esses procedimentos em seus
+  manuais ou outros documentos de suporte para os pilotos. Esses procedimentos devem fazer
+  parte do briefing antes da decolagem.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimento
+- condicao
+- contingencia
+- procedimentos
+- aeronave
+- caso
+- customizado
+- decolagem
+- operador
+- voar
+- esses
+- pilotagem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,54 @@
+id: is-is-121-003-5-5-8-4-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.5.8.4
+section_title: 'Instruções condicionais podem começar com uma das seguintes palavras:'
+subsection_id: body
+cite: 5.5.8.4
+title: 'Instruções condicionais podem começar com uma das seguintes palavras:'
+text: '5.5.8.4 Instruções condicionais podem começar com uma das seguintes palavras:
+
+  1) SE - usar para indicar uma condição que pode ou não acontecer.
+
+  2) QUANDO - use para indicar uma condição que deve ser cumprida antes que uma ação
+
+  seja tomada e quando a condição é muito provável que ocorra (por exemplo, “quando a
+
+  pressão atingir 120 psi, colocar a seletora para baixo.”).
+
+  3) ENTÃO - usar para identificar ações que devem ser tomadas quando determinada
+
+  condição ocorrer.
+
+  4) E - usar para combinar duas condições que devem ser cumpridas antes de a ação ser
+
+  praticada.
+
+  5) OU - usar para indicar que uma, ou mais, das várias condições devem ser atendidas
+
+  (como alternativas) antes de realizar uma ação.
+
+  6) Se forem utilizados formatos alternativos, garantir que eles são usados de forma
+
+  consistente e a intenção é clara.'
+keywords:
+- transporte-aereo
+- operacoes
+- condicao
+- usar
+- acao
+- comecar
+- condicionais
+- indicar
+- instrucoes
+- palavras
+- podem
+- seguintes
+- condicoes
+- acoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

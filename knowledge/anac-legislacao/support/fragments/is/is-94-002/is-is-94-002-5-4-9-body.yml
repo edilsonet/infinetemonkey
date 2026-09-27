@@ -1,0 +1,46 @@
+id: is-is-94-002-5-4-9-body
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.9
+section_title: Sistema de iluminação externa para operações BVLOS ou acima de 400 pés AGL
+  -
+subsection_id: body
+cite: 5.4.9
+title: Sistema de iluminação externa para operações BVLOS ou acima de 400 pés AGL -
+text: '5.4.9 Sistema de iluminação externa para operações BVLOS ou acima de 400 pés AGL -
+
+  RBAC-E 94.407(d)
+
+  De acordo com o requisito RBAC-E 94.407(d), todo RPAS destinado a operação BVLOS
+
+  deve possuir um sistema adequado de iluminação da aeronave. Este item da IS tem a
+
+  finalidade de orientar o requerente quanto à definição de iluminação adequada, associada
+
+  com o contexto de operação do RPAS.
+
+  Adicionalmente, em cumprimento ao requisito RBAC-E 94.403(d), esta seção é também
+
+  aplicável a todo RPAS Classe 2 ou 3 destinado a operação VLOS cuja altura máxima de
+
+  operação exceda 400 pés AGL.
+
+  Desta forma, como meio aceitável para cumprimento deste requisito:'
+keywords:
+- iluminacao
+- bvlos
+- operacao
+- sistema
+- acima
+- externa
+- operacoes
+- requisito
+- rpas
+- cumprimento
+- destinado
+- todo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

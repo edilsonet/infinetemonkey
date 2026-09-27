@@ -1,0 +1,130 @@
+id: is-is-120-016-7-7-3-1-c
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.7.3.1
+section_title: 'Informações necessárias. A Programação de Manutenção deve conter as seguintes
+  informações:'
+subsection_id: c
+cite: 7.7.3.1(c)
+title: 7.7.3.1(c)
+text: 'c) Quando (Tempo). A empresa deve realizar tarefas de manutenção programadas (únicas
+  ou repetitivas) em um tempo em serviço aceitável. A empresa pode medir o tempo em serviço
+  em tempo calendário, horas de voo operacionais (flight hours), ciclos de voo (flight cycles),
+  ou qualquer outro parâmetro apropriado.
+
+  7.7.3.2 Objetivo da Programação de Manutenção. O objetivo geral da programação de manutenção
+  é permitir fazer as tarefas corretas no intervalo correto. A empresa deve ter em mente que
+  mais manutenção nem sempre é uma boa ideia, portanto, se a empresa decidir diminuir os intervalos
+  ou adicionar tarefas, deverá seguir o mesmo procedimento utilizado para qualquer outra alteração
+  na programação de manutenção.
+
+  7.7.3.3 Melhores Práticas da Programação de Manutenção. Para fins de gerenciamento de tarefas,
+  inventário e auditoria, a empresa deve identificar na programação de manutenção cada tarefa
+  de manutenção programada ou ficha de trabalho (Work Card) associado a ela. Dessa forma,
+  a empresa facilita o controle da realização de suas tarefas de manutenção programada.
+
+  7.7.4 Padrões para Determinar as Programações de Manutenção. Como mencionado no item 7.7.1
+  desta IS, as seções 119.49 do RBAC nº 119 e 121.135 do RBAC nº 121 permitem que a empresa
+  tenha padrões para determinar suas limitações de tempo de manutenção. No passado, essa linguagem
+  foi usada como base normativa para os programas de confiabilidade, desenvolvidos pela FAA
+  durante os anos 60. Esses programas eram baseados na lógica de decisão da Associação de
+  Transporte Aéreo da América (ATA) cujos processos de manutenção eram baseados na lógica
+  de decisão agora obsoleta do Maintenance Steering Group 2 (MSG-2), que se concentrava nas
+  taxas de falha e na manutenção de partes individuais da aeronave. Consistente com a contínua
+  evolução da aviação, o MSG-2 tornou-se obsoleto em 1980 com o advento da lógica de decisão
+  do Maintenance Steering Group 3 (MSG-3), que se concentrou nos sistemas das aeronaves e
+  na perda de funções, e não em uma falha individual da peça. O gerenciamento desses programas
+  baseados no processo MSG-2 era basicamente uma análise de risco. As empresas aéreas utilizavam
+  as taxas de falha de uma peça para determinar, através de processo estatístico, a probabilidade
+  de que a peça tivesse uma taxa de falha semelhante no futuro. Os padrões utilizados eram
+  taxas de falha aceitáveis. As empresas aéreas usavam um programa de alerta de taxa de falha
+  com limites superiores de controle (Upper Control Limits - UCL) e limites inferiores de
+  controle (Lower Control Limits - LCL) para rastrear as taxas de falha das peças fora do
+  desejável. A empresa aérea era obrigada a agir somente quando a taxa de falha se desviava
+  da previsão baseada em probabilidade (ou seja, excedesse a UCL ou a LCL). Se a peça não
+  respondesse a manutenções, a empresa aérea tinha autorização para mover o UCL ou LCL para
+  fazer a taxa de falha cair dentro dos limites do programa de alerta.
+
+  7.7.4.1 Manutenção Baseada na Confiabilidade. Durante os anos 70, após coletar uma grande
+  quantidade de dados operacionais ao longo do tempo, a indústria chegou à conclusão de que
+  o uso de taxas de falha e programas de alerta não era a forma mais eficaz de gerenciar a
+  manutenção programada. Usando a grande quantidade de dados operacionais disponíveis, a United
+  Airlines, Inc. (UAL) desenvolveu e publicou um relatório em 1978 sob um contrato com o Departamento
+  de Defesa dos EUA (DOD) intitulado Reliability Centered Maintenance (RCM) (Manutenção Centrada
+  na Confiabilidade). As conclusões deste documento eram muito significativas e apontaram
+  as falhas na metodologia que utilizava as taxas de falha de peças. A RCM se concentrou nas
+  perdas de funções de um sistema de aeronave, e determinou que nem todos os componentes falham
+  da mesma forma, e que as falhas ocorrem de acordo com seis padrões diferentes. A RCM também
+  determinou que nem todos os itens requerem o mesmo tipo de manutenção; existem quatro tipos
+  diferentes de manutenção programada. Também levou em conta as possíveis consequências (segurança
+  operacional (safety), operacional e econômica) de uma perda de função, bem como a redundância
+  funcional de cada sistema e a segurança inerente ao projeto, para determinar se a manutenção
+  programada era necessária. Em alguns casos, a RCM determinou que nenhuma manutenção programada
+  era necessária. Como resultado, somente as manutenções necessárias foram recomendadas e
+  uma menor carga de manutenção foi gerada.
+
+  7.7.4.2 Lógica de decisão MSG-3. O documento RCM foi a principal base para o desenvolvimento
+  da lógica de decisão do MSG-3 em 1980. Desde então, a maioria dos fabricantes de aeronaves
+  tem usado esta lógica de decisão para ajudá-los a desenvolver requisitos de manutenção programada
+  para seus novos produtos. Além de proporcionar organização e fluxo para o processo deliberativo,
+  o principal atributo do processo MSG-3 é que o usuário pode desenvolver requisitos iniciais
+  de manutenção programada sem ter necessariamente os dados operacionais necessários para
+  determinar a necessidade de tarefas de manutenção programada. Usando as técnicas da lógica
+  de decisão do MSG-3, é bastante simples decidir quais tarefas são necessárias na programação
+  de manutenção inicial. Entretanto, a lógica de decisão do MSG-3 não contempla a definição
+  de intervalos de tarefas, não ajudando o usuário a determinar os intervalos, nem como ajustá-los
+  após o início do serviço. Usando o processo MSG-3, os intervalos iniciais de tarefas são
+  definidos com base no conhecimento do projeto e no melhor julgamento dos membros do grupo
+  de trabalho MRBR. Como resultado, a validação dos intervalos inicialmente definidos deve
+  ocorrer quando a aeronave inicia o serviço e começa a gerar os dados operacionais que não
+  estavam disponíveis quando os intervalos iniciais foram definidos.
+
+  7.7.4.3 Programação de Manutenção Eficaz. Uma função inerente ao SASC da empresa é determinar
+  a eficácia da sua programação de manutenção através da coleta e análise de dados operacionais.
+  A empresa usa essa importante função para determinar o nível de eficácia da sua manutenção
+  programada e fazer os ajustes necessários nela. Eficácia significa "estar produzindo os
+  resultados desejados". Assim, do ponto de vista operacional, um indicador da eficácia da
+  manutenção programada é a disponibilidade de aeronaves para voo. Se as aeronaves não estão
+  disponíveis para voo devido a razões de manutenção, então a programação de manutenção da
+  empresa pode não ser tão eficaz quanto deveria ser. Nesse exemplo, outros elementos do PMAC
+  da empresa, além da programação de manutenção, podem estar deficientes, cabendo ao SASC
+  identificar os problemas, suas causas raízes, assim como indicar ajustes e mudanças necessários
+  para retornar o nível de disponibilidade de aeronaves ao patamar que a empresa definiu.
+
+  7.7.4.4 Mudanças no MRBR (Maintenance Review Board Report). As revisões do MRBR são desenvolvidas
+  para abordar a experiência em serviço de operadores de todo o mundo, além de refletir novas
+  configurações de projeto e novas regras. Portanto, quando as revisões do MRBR ocorrem, a
+  empresa deve analisá-las e determinar se é necessária uma mudança em sua programação de
+  manutenção com base em suas necessidades particulares, experiência, objetivos e filosofia
+  do programa.
+
+  7.7.4.5 Categorias de Efeitos de Falha - Failure Effect Categories (FEC). A FEC é parte
+  integrante da lógica MSG-3 e ajuda a identificar a criticidade de uma tarefa. Embora a empresa
+  possa propor alterações em sua programação de manutenção, é importante que a empresa considere
+  a respectiva FEC da tarefa. A empresa não deve excluir ou alterar o escopo de tarefas FECs
+  5 (Evident Safety) e 8 (Hidden Safety) do MSG-3.
+
+  Nota: para proteger a identidade e a relevância de uma tarefa relacionada à segurança, a
+  empresa deve identificar em sua programação de manutenção ou sistema de controle cada tarefa
+  que seja CMR, ALI, ou aquelas com FECs 5 e 8.'
+keywords:
+- antidrogas
+- saude
+- manutencao
+- empresa
+- programacao
+- falha
+- programada
+- tarefas
+- determinar
+- logica
+- decisao
+- intervalos
+- operacionais
+- taxas
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

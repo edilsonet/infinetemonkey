@@ -1,0 +1,101 @@
+id: is-is-175-010-6-d
+kind: is
+document: is-175-010
+family: '175'
+section_id: '6'
+section_title: INFORMAÇÕES GERAIS
+subsection_id: d
+cite: 6(d)
+title: 6(d)
+text: 'd) saídas de emergência requeridas para os membros da tripulação acessíveis sob quaisquer
+  condições de carregamento de carga.
+
+  6.2. Localizações dos compartimentos de carga
+
+  6.2.1. Tipicamente, os compartimentos de carga Classe A são compartimentos de carga pequenos
+  que podem estar localizados entre a cabine de comando e a cabine de passageiros, junto à
+  galley (também chamada de cozinha ou de guarda de alimentos) ou na parte traseira da aeronave.
+
+  6.2.2. O compartimento de carga Classe B é normalmente bem maior que o compartimento de
+  carga Classe A e pode ser localizado em uma área distante da cabine de comando. Os compartimentos
+  de carga Classe B são encontrados nas aeronaves “combi” entre a cabine de comando e a cabine
+  de passageiros ou atrás da cabine de passageiros na parte traseira da aeronave.
+
+  Nota: aeronave “combi” é aquela em que tanto a carga quanto o passageiros são carregados
+  na cabine principal.
+
+  6.2.3. O volume do compartimento de carga Classe C é normalmente maior que os da Classe
+  A ou B e geralmente encontra-se embaixo do piso da cabine principal. O compartimento de
+  carga Classe C pode ter dois sistemas de extinção de incêndio, habilitando uma segunda descarga
+  de extintor a ser disparado dentro do compartimento de carga algum tempo após o fogo ter
+  sido controlado pela primeira descarga.
+
+  6.2.4. O compartimento de carga Classe E normalmente compreende o compartimento da cabine
+  principal inteira em uma aeronave de carga.
+
+  6.2.5. Um avião convencional de passageiros normalmente possui o compartimento de carga
+  Classe C embaixo da cabine de passageiros. Um avião cargueiro normalmente possui o compartimento
+  de carga Classe E na cabine principal e o compartimento de carga Classe C embaixo dela.
+  Um avião “combi” normalmente possui o compartimento de carga principal Classe B, seja na
+  frente ou atrás da cabine de passageiro, e o compartimento de carga Classe C embaixo do
+  piso. Os aviões de pequeno porte, que geralmente realizam voos regionais, em alguns casos
+  possuem somente o compartimento de carga Classe A, normalmente posicionado em área adjacente
+  à cabine de comando.
+
+  6.2.6. Helicópteros são capazes de carregar carga tanto na cabine principal (compartimento
+  de carga Classe A) ou embaixo do piso da cabine principal. O compartimento de carga embaixo
+  do piso não possui classificação e não é capaz de resistir ao fogo por qualquer período
+  de tempo. Alguns helicópteros possuem compartimentos de carga que estão na parte de trás
+  da aeronave e que são inacessíveis pelo lado de dentro do helicóptero. Esses compartimentos
+  de carga são normalmente pequenos e não possuem qualquer sistema de detecção de fogo, sistema
+  de extinção de incêndio ou liners.
+
+  6.3. Extintores de incêndio
+
+  6.3.1. Os extintores de incêndio mais comumente encontrados em aeronaves são os que possuem
+  halon (BCF), agente seco, dióxido de carbono (CO2) ou água glicol como agente extintor.
+  Pode ocorrer de nem todos esses agentes extintores estarem presentes em uma mesma aeronave.
+  Orientações sobre o uso de extintores de incêndio estão presentes no manual geral de operações
+  e podem também estar dispostas nos próprios extintores. Os códigos de resposta a emergências
+  (drill codes), apresentados no Doc 9481 AN/928 da OACI, indicam quais agentes extintores
+  deveriam ser utilizados e as situações em que o uso de água é considerado perigoso.
+
+  6.4. Equipamento de oxigênio
+
+  6.4.1. Equipamento fixo e portátil de oxigênio é disponibilizado em aeronaves pressurizadas
+  para o uso da tripulação e dos passageiros. O equipamento disponível para os membros da
+  tripulação de voo normalmente possui máscara de gás estanque e pode fornecer 100% de oxigênio.
+  As aeronaves podem estar equipadas com capuzes antifumaça portáteis para combate a fogo
+  em área confinada, mas geralmente o equipamento disponível para os membros da tripulação
+  de cabine em situação de despressurização consiste em garrafas de oxigênio portáteis equipadas
+  com máscaras terapêuticas. Máscaras de oxigênio do sistema fixo sobressalentes de passageiros
+  podem ser disponibilizadas para uso dos membros da tripulação de cabine na cabine de passageiros,
+  na galley e nos lavatórios. Tanto as máscaras de passageiros como as máscaras terapêuticas
+  são projetadas para permitir o fluxo baixo de oxigênio complementado por ar aspirado através
+  das válvulas ou dos orifícios nas laterais da máscara. Essas máscaras não têm a intenção
+  de ser estanques e, consequentemente, qualquer presença de fumaça ou de fumo tóxico será
+  inalada pelo passageiro ou pelo membro da tripulação de cabine que a estiver usando.
+
+  6.5. Acessibilidade dos artigos perigosos
+
+  6.5.1. Artigos perigosos fixados com etiqueta de manuseio “somente em aeronave de carga”
+  devem ser acessíveis em voo, exceto:'
+keywords:
+- artigos-perigosos
+- carga
+- cabine
+- classe
+- compartimento
+- passageiros
+- normalmente
+- aeronave
+- principal
+- compartimentos
+- embaixo
+- extintores
+- oxigenio
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-010.md

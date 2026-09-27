@@ -1,0 +1,88 @@
+id: is-is-91-012-1-5-1-2-5-g
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.2.5
+section_title: Conteúdo das páginas do sistema ATA
+subsection_id: g
+cite: 5.1.2.5(g)
+title: 5.1.2.5(g)
+text: 'g) o piloto em comando de detentores de certificado emitido segundo o RBAC nº 119 e
+  de administradores de programa segundo a Subparte K do RBAC nº 91 deve se encontrar capacitado
+  conforme previsto no parágrafo 5.1.3.6 desta IS. O treinamento deve se encontrar dentro
+  da validade prevista no programa de treinamento aprovado do operador.
+
+  Nota: uma das situações em que o piloto pode liberar o item ACR é descrita no parágrafo
+  5.3.8 desta IS, no caso de falhas que ocorram após o início da movimentação da aeronave
+  (ou, se aplicável, a emissão do despacho/liberação de voo), mas antes da decolagem, desde
+  que as condições acima sejam cumpridas.
+
+  5.1.2.7.1 Crew Applied MEL (CA MEL). Em algumas MMEL ou nos procedimentos associados (DDPG
+  ou DDG), é utilizado o conceito de “Crew Applied MEL”, que identificaria os procedimentos
+  que poderiam ser executados pelos pilotos. No entanto, tais procedimentos, quando incluírem
+  procedimentos (M), somente podem ser executados e aprovados para retorno ao serviço por
+  pessoa autorizada segundo as seções 43.3 e 43.7 do RBAC nº 43.
+
+  5.1.2.8 Placares. A MEL deve incluir ainda previsão de que os itens inoperantes devem ser
+  identificados com placares para informar e lembrar os membros da tripulação e o pessoal
+  de manutenção sobre a condição dos itens. Sempre que possível, os placares devem ser localizados
+  adjacentes ao controle ou ao indicador do item afetado; quando isto não for possível, devem
+  ser colocados em posição central na cabine de voo, de forma a serem claramente visíveis
+  pela tripulação de voo (ou em posição claramente visível de um assento de comissário, se
+  for o caso). A menos que se especifique de outra forma, o texto e a localização dos placares
+  devem ser determinados pelo operador em sua MEL. Geralmente, essa previsão é detalhada nos
+  campos de observações e exceções ou nos procedimentos (O) e (M).
+
+  5.1.2.8.1 Um método aceitável é utilizar placares adesivos, que podem ser divisíveis em
+  duas partes: a primeira, com o nome do item afetado e o número da entrada da MEL utilizada,
+  a ser colada adjacente ao controle ou indicador associado ao item inoperante; e a segunda,
+  com uma descrição do defeito e o número da entrada da MEL, a ser colada no diário de bordo
+  (ou registro próprio que corresponda à parte II do diário de bordo), atendendo ao parágrafo
+  5.3.3 desta IS.
+
+  5.1.2.8.2 Adicionalmente aos placares que indicam itens específicos inoperantes, o operador
+  pode, a seu critério, utilizar placares que indicam quando uma determinada operação não
+  está autorizada, em razão de algum item inoperante. Tais placares podem aumentar a consciência
+  situacional dos tripulantes com relação às limitações aplicáveis a um determinado voo. No
+  entanto, a utilização de tais placares não retira dos tripulantes a obrigação de, previamente
+  ao início do voo, identificar os itens inoperantes da aeronave e consultar a MEL para saber
+  as limitações associadas à operação da aeronave com esses itens inoperantes.
+
+  5.1.2.9 Grandes alterações na aeronave. Conforme o parágrafo 5.1.2.4 desta IS, o operador
+  deve considerar as grandes alterações incorporadas a suas aeronaves na elaboração da MEL.
+  Da mesma forma, conforme o parágrafo 5.2.2.2 desta IS, também deve ser avaliado o impacto
+  de tais alterações em uma aeronave que já possua MEL aprovada.
+
+  5.1.2.9.1 A incorporação de um CST pode tornar itens da MMEL inválidos para uma aeronave.
+  Itens de um CST não podem estar inoperantes, a menos que incluídos na MMEL ou que de outra
+  forma as autoridades envolvidas (na ordem de prioridade estabelecida na IS nº 21.61-005)
+  autorizem que tais itens fiquem inoperantes, pela documentação da alteração.
+
+  5.1.2.9.2 No caso de a MMEL já mencionar o CST ou de haver suplemento à MMEL (conforme previsto
+  na IS nº 21-004), considera-se que o impacto da grande alteração já foi avaliado no processo
+  de elaboração da MMEL (ou suplemento). Assim, o operador deve utilizar as disposições da
+  MMEL (ou suplemento) aplicáveis ao CST.
+
+  5.1.2.9.3 O operador pode utilizar a documentação da alteração (CST ou processo H.20) para
+  fundamentar sua avaliação do impacto da alteração na MEL. Se nessa documentação houver análise
+  do efeito de itens inoperantes, o operador deve seguir tal documentação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- placares
+- inoperantes
+- mmel
+- operador
+- aeronave
+- desta
+- paragrafo
+- procedimentos
+- tais
+- alteracao
+- documentacao
+- forma
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

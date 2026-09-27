@@ -1,0 +1,28 @@
+id: rbac-rbac-26-aprovacao-body
+kind: rbac
+document: rbac-26
+family: '26'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 144, de 17.03.2020. [Emenda nº 00]
+
+  Resolução nº 264, de 05.03.2013. [Emenda nº 01]
+
+  Resolução nº 518, de 23.03.2019. [Emenda nº 02]
+
+  Resolução nº 624, de 07.06.2021. [Emenda nº 03]'
+keywords:
+- aeronavegabilidade
+- envelhecimento
+- resolucao
+- aprovacao
+categories:
+- aeronavegabilidade
+- envelhecimento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-26.md

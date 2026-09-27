@@ -1,0 +1,420 @@
+id: is-is-21-61-005-5-8-4-i
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.8.4
+section_title: All ANAC MMEL Supplements and ANAC MEL Policies are available, in their latest
+  revisions on the Agency’s website.
+subsection_id: i
+cite: 5.8.4(i)
+title: 5.8.4(i)
+text: '(i) Where a time period is specified in calendar days or flight days, the interval
+  excludes the day of discovery.
+
+  (ii) For all other intervals (e.g., flights, flight legs, cycles, hours) , it shall start
+  at the point when the item is deferred by the operator.
+
+  34. ‘Repair Category’ is a classification of the repair interval into defined categories,
+  designed as A, B, C and D, as follows:
+
+  Category A - No standard interval is specified. Items in this category shall be repaired
+  in accordance with the conditions stated in the MMEL/MEL. It may be specified in calendar
+  days that differs from other categories or other types of intervals, such as flights, flight
+  legs, cycles, hours.
+
+  Category B - Items in this category shall be repaired within 3 calendar days, excluding
+  the day of discovery. For example, if it was recorded at 10 a.m. on January 1st, the 3-day
+  interval would begin at 00:00 on January 2nd and end at 23:59 on January 4th.
+
+  Category C - Items in this category shall be repaired within 10 calendar days, excluding
+  the day of discovery. For example, if it was recorded at 10 p.m. on January 1st, the 10-day
+  interval would begin at 00:00 on January 2nd and end at 23:59 on January 11th.
+
+  Category D - Items in this category shall be repaired within 120 calendar days, excluding
+  the day of discovery.
+
+  35. ‘Required by regulations’ or other statements such as ‘Not required by regulations’,
+  or ‘Any in excess of those required by regulation’, means that the listed item is subject
+  to certain requirements expressed in operational rules. The number of items required by
+  applicable operational rules must be operative. A dash may be used when the number required
+  for dispatch is variable. When the listed item is not required by regulations, it may be
+  inoperative for the time specified by repair category.
+
+  36. ‘System Page’ is a MMEL page divided into columns that include sequence number, item,
+  repair category, number installed, number required for dispatch, and remarks or exceptions.
+
+  37. ‘Verified Operative’ or checked operative, means that it is required to check and confirm
+  the item is operative at the interval(s) specified for that MMEL item (e.g., verified operative
+  prior to each flight). If no interval is specified, verification is required only at the
+  time of deferral of the original item.
+
+  38. ‘Visible Moisture’ means an atmospheric environment containing water in any form that
+  can be seen in natural or artificial light, for example, clouds, fog, mist, rain, sleet,
+  hail, or snow.
+
+  39. ‘Visual Meteorological Conditions (VMC)’ means the atmospheric environment is such that
+  would allow a flight to proceed under VFR applicable to the flight. This does not preclude
+  operation under IFR.
+
+  40. ‘Dash (-)’ in the number installed or required columns, indicates a variable number
+  (quantity) of the item installed or required for dispatch or ‘not applicable’.
+
+  41. ‘Triple Asterisk (***)’ in the Item column indicates an item which is not required by
+  the regulations, but which may have been installed on some but not all aircraft covered
+  by this MMEL. The use of this symbol does not provide the authority to install or remove
+  an item from an aircraft.
+
+  APÊNDICE D - EXEMPLOS DE PÁGINA DA MMEL
+
+  APPENDIX D - MMEL PAGE EXAMPLES
+
+  D.1 Exemplo do formato de cinco colunas
+
+  D.1 Five column format example
+
+
+  D.2 Exemplo do formato orientado a mensagens
+
+  D.2 Message oriented format example
+
+
+  APÊNDICE E - AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+
+  APPENDIX E - QUANTITATIVE SAFETY ASSESSMENT
+
+  E.1 Em sua proposta de MMEL o requerente deve apontar para a ANAC os itens para os quais
+  uma avaliação quantitativa de segurança foi conduzida para complementar o processo de avaliação
+  qualitativa da MMEL de acordo com o item 5.3.4.9.
+
+  E.1 In its MMEL proposal the applicant must highlight to ANAC the items for which a quantitative
+  safety assessment is carried out to supplement the qualitative MMEL development process
+  in accordance with item 5.3.4.9.
+
+  E.2 As diretrizes a seguir se aplicam às configurações de despacho propostas na MMEL para
+  as quais as probabilidades de 10-8 por hora de voo para condições de falha catastrófica
+  e 10-6 por hora de voo para condições de falha crítica (hazardous) não são atendidas. É
+  incluída uma equação para controlar por quanto tempo essas configurações podem permanecer
+  (tempo máximo de despacho), tornando-a compatível com os requisitos de confiabilidade média
+  da frota estabelecidos no 25.1309.
+
+  E.2 The following guidelines apply to dispatch configurations proposed in the MMEL for which
+  the probabilities per flight hour of 10-8 for catastrophic failure conditions and 10-6 for
+  hazardous failure conditions are not met. This guidance includes an equation to control
+  how long these configurations are allowed to exist (maximum dispatch time), making it compatible
+  with the fleet average top level reliability requirements of 25.1309.
+
+  E.3 Para condições de falha catastrófica, uma probabilidade por hora de voo sob a condição
+  de despacho menor ou igual a 10-8 é o objetivo ao despachar com o item inoperante. Quando
+  esse objetivo é alcançado, nenhum cálculo de tempo máximo de despacho permitido é considerado
+  necessário.
+
+  E.3 For catastrophic failure conditions, a probability per flight hour under dispatch condition
+  less than or equal to 10-8 is the objective when dispatching with the inoperative item.
+  When this objective is met, no calculation for a maximum allowable dispatch time is considered
+  necessary.
+
+  E.4 Um número limitado de itens pode ser aceito quando o objetivo de 10-8 por hora de voo
+  não for alcançado. Nesses casos, a probabilidade máxima permitida ao despachar com o item
+  inoperante não deve exceder 10-7 por hora de voo, e o tempo máximo de despacho deve ser
+  menor do que o calculado usando-se a equação abaixo:
+
+  E.4 A limited number of items may be accepted when the 10-8 per flight hour objective is
+  not met. In these cases, the maximum allowable probability per flight hour when dispatching
+  with the inoperative item should not exceed 10-7 per flight hour, and the maximum dispatch
+  time should be less than that calculated using equation below:
+
+
+  Onde:
+
+  MDT = Tempo máximo de despacho [em horas de voo]
+
+  SOP = Probabilidade do objetivo de segurança. Equivale a 10-9 por hora de voo para condições
+  de falha catastrófica e 10-7 por hora de voo para condições de falha críticas (hazardous).
+
+  PF = Probabilidade da condição de falha na condição de despacho [por hora de voo]
+
+  FR = Taxa de falha do item da MMEL proposto [por hora de voo]
+
+  Where:
+
+  MDT = Maximum dispatch time [in flight hours]
+
+  SOP = Safety objective probability. Equals to 10-9 per flight hour for catastrophic failure
+  conditions and 10-7 per flight hour for hazardous failure conditions.
+
+  PF = Probability of failure condition under dispatch condition [per flight hour]
+
+  FR = Failure rate of proposed MMEL item [per flight hour]
+
+  E.5 Para condições de falha crítica (hazardous), uma probabilidade por hora de voo menor
+  ou igual a 10-6 é o objetivo ao se despachar com o item inoperante. Quando este objetivo
+  é atingido, nenhum cálculo de tempo máximo de despacho permitido é considerado necessário.
+
+  E.5 For hazardous failure conditions, a probability per flight hour of less than or equal
+  to 10-6 is the objective when dispatching with the inoperative item. When this objective
+  is met, no calculation for a maximum allowable dispatch period is considered necessary.
+
+  E.6 Um número limitado de itens pode ser considerado quando o objetivo de 10-6 por hora
+  de voo não for atingido. Nesses casos, a probabilidade máxima permitida ao despachar com
+  o item inoperante não deve exceder 10-5 por hora de voo, e o tempo máximo de despacho permitido
+  deve ser menor do que o calculado usando a equação to item E.4.
+
+  E.6 A limited number of items may be considered when 10-6 per flight hour objective is not
+  met. In these cases, the maximum allowable probability per flight hour when dispatching
+  with the inoperative item should not exceed 10-5 per flight hour, and the maximum dispatch
+  time should be less than that calculated using the equation in item E.4.
+
+  E.7 Seja qual for o caso, é importante notar que o intervalo de probabilidades reduzidas
+  aceitáveis mencionado nos itens E.4 e E.6 se aplica a cada condição de falha envolvendo
+  o item da MMEL inoperante no despacho. Se mais de um evento de nível topo estiver envolvido,
+  o tempo máximo de despacho permitido deve ser o menor daqueles calculados para as condições
+  de falha envolvidas.
+
+  E.7 Whatever the case, it´s important to notice that the acceptable reduced probabilities
+  range mentioned in items E.4 and E.6 applies to each failure condition involving the inoperative-at-dispatch
+  MMEL item. If more than one top-level event is involved, the maximum allowable dispatch
+  time should be the smallest of those calculated for the affected failure conditions.
+
+  E.8 Além disso, os tempos de despacho devem ser baseados principalmente em considerações
+  operacionais. Sempre que possível, o item da MMEL deve usar as categorias de intervalo de
+  reparo padrão arredondando-se o tempo máximo de despacho calculado (em horas de voo) para
+  uma categoria conservadora (com base na utilização máxima da aeronave por dia), não excedendo
+  a categoria C.
+
+  E.8 Also, dispatch times should primarily be based on operational considerations. Whenever
+  possible, the MMEL item should use the standard repair interval categories by rounding the
+  calculated maximum dispatch time (in flight hours) to a conservative category (based on
+  maximum aircraft utilization per day), not exceeding the C category.
+
+  E.9 O Apêndice F apresenta o fluxograma geral para aprovação de um item da MMEL, incluindo
+  a análise quantitativa de segurança.
+
+  E.9 Appendix F presents a general flowchart for approval of an MMEL item, including the
+  quantitative safety analysis.
+
+
+  APÊNDICE F - FLUXOGRAMA PARA APROVAÇÃO DE ITEM DA MMEL
+
+  APPENDIX F - MMEL ITEM APPROVAL FLOWCHART
+
+  F.1 O fluxograma a seguir descreve o processo geral para adição de um item à MMEL em casos
+  em que a aprovação da ANAC é necessária. Consulte as seções 5.3, 5.4 e o Apêndice E para
+  informações adicionais.
+
+  F.1 The following flowchart depicts the general process of adding an item into MMEL in cases
+  where ANAC approval is required. Refer to sections 5.3, 5.4 and Appendix E for additional
+  information.
+
+
+  F.2 Para melhor entendimento do fluxograma, as avaliações necessárias para inclusão de um
+  item candidato podem ser resumidas como descrito abaixo:
+
+  F.2 For better understanding of the flowchart, the required assessments to include a candidate
+  item can be summarized as described below:
+
+  a) Avaliar qualitativamente o efeito do item candidato, na condição de despacho, em relação
+  aos requisitos 21.61-I (e)(1)( i ) e (ii) do RBAC 21;
+
+  a) Qualitatively evaluate the effect of the candidate item in the dispatch condition against
+  requirements 21.61-I (e)(1)(i) and (ii) of RBAC 21;
+
+  b) Avaliar qualitativamente a combinação do item candidato, na condição de despacho, com
+  o evento crítico contra o qual o item foi projetado para proteger, quando aplicável;
+
+  b) Qualitatively evaluate the candidate item in the dispatch condition combined with the
+  critical event against which the item was designed to protect, when applicable;
+
+  c) Avaliar qualitativamente a combinação do item candidato, na condição de despacho, porém
+  combinando-o agora com sua próxima falha mais crítica;
+
+  c) Qualitatively evaluate the candidate item in the dispatch condition combined with its
+  next most critical failure;
+
+  d) Se a consequência do passo c) acima for considerada crítica (hazardous) ou catastrófica,
+  e não houver medidas razoavelmente viáveis para reduzir tal criticidade, então uma análise
+  quantitativa será necessária para determinar o tempo máximo permitido para despacho com
+  o item candidato inoperante;
+
+  d) If the consequence of step c) above is found to be hazardous or catastrophic, and there
+  aren´t reasonably feasible measures to reduce such criticality, then a quantitative analysis
+  is required to determine the maximum allowable time to dispatch the candidate item inoperative;
+
+  e) Por fim, para cada item candidato, uma verificação adicional é necessária: avaliar se
+  o item candidato, na condição de despacho, combinado às duas falhas seguintes mais críticas
+  resultaria em uma condição de falha catastrófica. Caso negativo, a análise termina aqui.
+  Caso positivo, e não houver medidas razoavelmente viáveis para reduzir tal criticidade,
+  então uma análise quantitativa será necessária para determinar o tempo máximo permitido
+  para despacho do item candidato inoperante.
+
+  e) Finally, for every candidate item, an additional assessment is required: check if the
+  candidate item in the dispatch condition combined with the two next most critical failures
+  results in a catastrophic failure condition. If the answer is negative, the assessment is
+  done. However, if it is positive and there are no reasonably feasible measures to reduce
+  such criticality, then a quantitative analysis will be required to determine the maximum
+  allowable time to dispatch the candidate item inoperative.
+
+  F.3 Quando for necessário executar os passos d) e e) para um item, o menor valor entre os
+  calculados será o tempo máximo de despacho permitido para o item.
+
+  F.3 When steps d) and e) are required to be executed for an item, the lowest value among
+  those calculated will be the maximum dispatch time allowed for the item.
+
+  F.4 Vale lembrar que o descrito acima é apenas uma breve explicação. Consulte as seções
+  5.3, 5.4 e Apêndice E para informações completas sobre como executar tais avaliações e os
+  critérios relacionados.
+
+  F.4 Notice that the abovementioned is just a brief explanation. Refer to sections 5.3, 5.4
+  and Appendix E for complete information about how to perform such assessments and related
+  criteria.
+
+
+  APÊNDICE G - CRITÉRIO ALTERNATIVO À AVALIAÇÃO QUANTITATIVA DE SEGURANÇA
+
+  APPENDIX G - ALTERNATIVE CRITERIA TO QUANTITATIVE SAFETY ASSESSMENT
+
+  G.1 Conforme definido no item 5.3.4.17, se a aeronave não for certificada nas categorias
+  transporte, transporte regional (commuter) ou normal sob nível 4, é possível adotar um critério
+  alternativo à avaliação quantitativa de segurança, mesmo para casos em que a aplicação direta
+  do item 5.3.4.9 exigiria uma análise quantitativa, conforme explicado abaixo.
+
+  G.1 As defined in item 5.3.4.17, if the aircraft is not certified as transport, commuter
+  as Level-4 normal category, it is possible to adopt an alternative criteria to quantitative
+  safety assessment even for cases in which the direct application of item 5.3.4.9 would require
+  a quantitative analysis, as explained below.
+
+  G.2 Para instalações simples e convencionais (ou seja, aquelas com baixa complexidade e
+  com similaridade nos atributos relevantes), pode ser possível durante a certificação do
+  projeto de tipo avaliar a probabilidade de uma condição de falha crítica (hazardous) ou
+  catastrófica como sendo extremamente remota ou extremamente improvável, respectivamente
+  (consulte a base da certificação de tipo para os valores associados), com base em um julgamento
+  de engenharia experiente, usando para isso apenas a análise qualitativa.
+
+  G.2 For simple and conventional installations (that is, those with low complexity and with
+  similarity in the relevant attributes), it may be possible during the type design certification
+  to assess the probability of a hazardous or catastrophic failure condition as being extremely
+  remote or extremely improbable, respectively (refer type certificate basis for associated
+  values), on the basis of experienced engineering judgment, using only qualitative analysis.
+
+  G.3 A base para tal avaliação será o grau de redundância, a independência e o isolamento
+  existente entre os canais, bem como o histórico de confiabilidade da tecnologia envolvida.
+  Uma satisfatória experiência em serviço de sistemas semelhantes comumente usados em muitas
+  aeronaves pode ser suficiente quando houver boa similaridade quanto ao projeto do sistema
+  e às condições operacionais. Uma abordagem semelhante pode ser usada para a justificativa
+  de itens da MMEL, em particular:
+
+  G.3 The basis for such an assessment will be the degree of redundancy, the established independence
+  and isolation of the channels, and the reliability record of the technology involved. Satisfactory
+  service experience on similar systems commonly used in many aircraft may be sufficient when
+  a close similarity is established regarding both the system design and the operating conditions.
+  A similar approach may be used for the justification of MMEL items. In particular:
+
+  G.3.1 Para itens da MMEL envolvidos em condições de falha catastróficas:
+
+  G.3.1 For MMEL items involved in catastrophic failure conditions:
+
+  G.3.1.1 Deve ser demonstrado que o grau de redundância na configuração de despacho da MMEL
+  permanece adequado para garantir que a condição de falha catastrófica envolvida ainda seja
+  extremamente improvável (consultar a base de certificação de tipo aplicável para a definição).
+  Esta demonstração pode ser, em alguns casos, limitada à demonstração de que uma combinação
+  de um mínimo de duas falhas independentes ou eventos externos são necessários para levar
+  à condição de falha catastrófica. Será levado em consideração que a confiabilidade dos sistemas
+  envolvidos, baseando-se em um julgamento experiente de engenharia e do histórico em serviço,
+  permitiria que a ocorrência da condição de falha continuaria a atender ao objetivo qualitativo
+  usado para a certificação do projeto de tipo.
+
+  G.3.1.1 It should be demonstrated that the degree of redundancy under the MMEL dispatch
+  configuration remains adequate to ensure that the involved catastrophic failure condition
+  is still extremely improbable (refer to the applicable type certification basis definition).
+  This demonstration may be, in some cases, limited to the demonstration that a combination
+  of a minimum of two independent failures or external events is necessary to lead to the
+  catastrophic failure condition. It will take into account that the reliability of the involved
+  systems, based on experienced engineering judgment and service history, would allow the
+  occurrence of the failure condition to continue to meet the qualitative objective used for
+  the type design certification.
+
+  G.3.1.2 Nenhuma condição de falha catastrófica deve resultar da falha de um único componente,
+  parte ou elemento de um sistema sob qualquer configuração de despacho da MMEL. A lógica
+  e a justificativa usadas na avaliação devem ser diretas e devem, obviamente, comprovar que
+  o modo de falha simplesmente não ocorreria a menos que estivesse combinado a uma condição
+  de falha não-associada e que seria, em si mesma, catastrófica.
+
+  G.3.1.2 No catastrophic failure condition should result from the failure of a single component,
+  part, or element of a system under any MMEL dispatch configuration. The logic and rationale
+  used in the assessment should be straightforward and should obviously substantiate that
+  the failure mode simply would not occur unless it is associated with an unrelated failure
+  condition that would be, in itself, catastrophic.
+
+  G.3.1.3 O despacho da MMEL deve usar o intervalo de reparo categoria B, ou um intervalo
+  mais restritivo, para itens que deixam a aeronave a duas falhas independentes ou eventos
+  externos de distância de uma condição de falha catastrófica. Se não houver redução nas margens
+  de segurança em comparação com a configuração completa (íntegra), a categoria C pode ser
+  aceitável.
+
+  G.3.1.3 The MMEL entry should use standard rectification interval B, or a more restrictive
+  interval, for items that leave the aircraft two independent failures or external events
+  away from a catastrophic failure condition. If there is no reduction in safety margins compared
+  with the full-up configuration, category C may be acceptable.
+
+  G.3.2 Para itens da MMEL envolvidos em condições de falha críticas (hazardous):
+
+  G.3.2 For MMEL items involved in hazardous failure conditions:
+
+  G.3.2.1 Deve ser demonstrado que um grau de redundância sob a configuração de despacho da
+  MMEL permanece presente para que uma combinação de um mínimo de duas falhas independentes
+  ou eventos externos seja necessária para levar à condição de falha crítica (hazardous).
+  Em tal caso, não há necessidade de demonstrar (mesmo qualitativamente) que a condição de
+  falha permanece extremamente remota (consultar a base de certificação de tipo aplicável
+  para a definição) sob a configuração de despacho da MMEL, pois o fato de não haver nenhuma
+  falha ou evento externo único (capaz de levar à uma condição de falha crítica) é suficiente
+  para garantir uma adequada probabilidade de ocorrência sob a configuração de despacho da
+  MMEL, ou
+
+  G.3.2.1 It should be demonstrated that a degree of redundancy under the MMEL dispatch configuration
+  remains available so that a combination of a minimum of two independent failures or external
+  events is necessary to lead to the hazardous failure condition. In such a case, there is
+  no need to demonstrate (even qualitatively) that the failure condition remains extremely
+  remote (refer to the applicable type certification basis definition) under the MMEL dispatch
+  configuration, as the fact that no single failure or external event exists is sufficient
+  to grant an adequate probability of occurrence under the MMEL dispatch configuration, or
+
+  G.3.2.2 Deve ser demonstrado, usando julgamento experiente de engenharia e histórico em
+  serviço, que a falha simples ou evento externo tem uma probabilidade de ocorrência compatível
+  com os objetivos de segurança usados na certificação do projeto de tipo, levando-se em consideração
+  o intervalo de reparo proposto.
+
+  G.3.2.2 It should be demonstrated, using experienced engineering judgment and service history,
+  that the simple failure or external event has a probability of occurrence that is compatible
+  with the safety objectives used for type design certification, taking into account the proposed
+  rectification interval.
+
+  G.3.2.3 O despacho da MMEL deve usar o intervalo de reparo categoria B, ou um intervalo
+  mais restritivo, para itens que deixam a aeronave a uma falha ou evento externo de distância
+  de uma condição de falha crítica (hazardous). Se não houver redução nas margens de segurança
+  em comparação com a configuração completa (íntegra), a categoria C pode ser aceitável.
+
+  G.3.2.3 The MMEL entry should use standard rectification interval B, or a more restrictive
+  interval, for items that leave the aircraft one failures or external events away from a
+  hazardous failure condition. If there is no reduction in safety margins compared to the
+  full-up configuration, category C may be acceptable.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- falha
+- dispatch
+- failure
+- despacho
+- that
+- flight
+- condicao
+- condition
+- required
+- category
+- hazardous
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

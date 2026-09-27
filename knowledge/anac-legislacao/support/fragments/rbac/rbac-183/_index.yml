@@ -45,10 +45,14 @@ sections:
 - '183.81'
 - '183.83'
 - '183.85'
+- aprovacao
 - preambulo
-fragment_count: 136
+- sumario
+fragment_count: 138
 fragment_ids:
 - rbac-rbac-183-preambulo-body
+- rbac-rbac-183-aprovacao-body
+- rbac-rbac-183-sumario-body
 - rbac-rbac-183-183-1-body
 - rbac-rbac-183-183-11-body
 - rbac-rbac-183-183-13-body
@@ -184,4 +188,4 @@ fragment_ids:
 - rbac-rbac-183-183-85-i
 - rbac-rbac-183-183-85-d
 - rbac-rbac-183-183-85-e
-parser_version: 6
+parser_version: 7

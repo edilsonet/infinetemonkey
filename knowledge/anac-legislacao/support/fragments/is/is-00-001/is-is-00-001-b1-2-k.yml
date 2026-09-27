@@ -1,0 +1,39 @@
+id: is-is-00-001-b1-2-k
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.2
+section_title: SISTEMAS
+subsection_id: k
+cite: B1.2(k)
+title: B1.2(k)
+text: '(k) INDICAÇÕES/ALERTAS/SISTEMAS DE GRAVAÇÃO DE DADOS
+
+  I- Mau funcionamento ou defeito de qualquer sistema de indicação, quando a possibilidade
+
+  de indicação duvidosa para a tripulação resultar em ações inapropriadas em sistemas es-
+
+  senciais;
+
+  II- Perda de funções de alerta (vermelho) de um sistema;
+
+  III- Para glass cockpits; perda ou mau funcionamento de mais de uma unidade de indicação
+
+  (display unit) ou computador associado com a função de alerta ou display.'
+keywords:
+- indicacao
+- sistemas
+- alerta
+- display
+- funcionamento
+- perda
+- sistema
+- acoes
+- alertas
+- associado
+- cockpits
+- computador
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

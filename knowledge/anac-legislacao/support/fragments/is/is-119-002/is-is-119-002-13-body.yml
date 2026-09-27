@@ -1,0 +1,48 @@
+id: is-is-119-002-13-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: '13'
+section_title: DETENTOR DE CERTIFICADO MÚLTIPLO
+subsection_id: body
+cite: '13'
+title: DETENTOR DE CERTIFICADO MÚLTIPLO
+text: '13. DETENTOR DE CERTIFICADO MÚLTIPLO
+
+  13.1 As organizações que possuem mais de um certificado, como de empresa de transporte
+
+  aéreo e de empresa de manutenção de aeronaves podem escolher implantar apenas um
+
+  SGSO. Esta decisão é opcional e permitirá que o SGSO seja planejado de forma a
+
+  acomodar os requisitos dos dois certificados, garantindo que o SGSO seja um sistema
+
+  totalmente integrado às atividades, e não sistemas de gerenciamento da segurança
+
+  operando de forma independente um do outro.
+
+  13.2 Isto não implica combinar ou juntar os requisitos de cada processo de certificação,
+
+  devendo o detentor de certificado atender a todos os requisitos de cada regulamento.
+
+  Entretanto, os dois certificados podem estar vinculados a apenas um SGSO.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- certificado
+- detentor
+- sgso
+- multiplo
+- requisitos
+- cada
+- certificados
+- dois
+- empresa
+- forma
+- podem
+- seja
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

@@ -1,0 +1,62 @@
+id: is-is-91-001-m7-1-k
+kind: is
+document: is-91-001
+family: '91'
+section_id: M7.1
+section_title: 'Além dos tópicos abordados no item 5.8 desta IS, o programa de treinamento
+  deve prover capacitação sobre os sistemas RNP e conceitos associados suficientes para que
+  os pilotos estejam familiarizados com os seguintes tópicos:'
+subsection_id: k
+cite: M7.1(k)
+title: M7.1(k)
+text: 'k) em relação a execução de segmento RF, o programa de treinamento deve conter:
+
+  i. o significado e uso adequado da funcionalidade de RF em sistemas RNP;
+
+  ii. características do procedimento, conforme determinado pela carta aeronáutica;
+
+  iii. níveis associados de automação, anunciações de modo, alterações, alertas, interações,
+  reversões e degradação;
+
+  Nota: a seleção manual das funções de limitação de inclinação da aeronave pode reduzir a
+  capacidade da aeronave de manter a rota desejada e não é permitida. Os pilotos devem reconhecer
+  que as funções de limitação de inclinação da aeronave selecionáveis manualmente podem reduzir
+  sua capacidade de satisfazer as expectativas da trajetória ATC, especialmente ao executar
+  curvas de grande ângulo.
+
+  iv. monitoramento do desempenho de seguimento da trajetória deslocada;
+
+  v. o efeito do vento no desempenho da aeronave durante a execução do segmento RF e a necessidade
+  de permanecer dentro da área de contenção da RNP. O programa de treinamento deve abordar
+  quaisquer limitações operacionais de vento e configurações de aeronaves essenciais para
+  completar o segmento RF com segurança;
+
+  vi. o efeito da velocidade do solo no cumprimento do segmento RF e como as restrições do
+  ângulo de inclinação (bank angle) podem afetar a capacidade de permanecer na linha central
+  da trajetória;
+
+  vii. interpretação de símbolos e displays eletrônicos; e
+
+  viii. procedimentos de contingência.
+
+  M8. CRITÉRIOS DE AERONAVEGABILIDADE'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- segmento
+- capacidade
+- inclinacao
+- programa
+- trajetoria
+- treinamento
+- angulo
+- associados
+- desempenho
+- efeito
+- execucao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

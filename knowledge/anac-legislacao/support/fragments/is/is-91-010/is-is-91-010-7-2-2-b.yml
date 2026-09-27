@@ -1,0 +1,33 @@
+id: is-is-91-010-7-2-2-b
+kind: is
+document: is-91-010
+family: '91'
+section_id: 7.2.2
+section_title: 'As seguintes informações devem constar expressamente da declaração de conformidade:'
+subsection_id: b
+cite: 7.2.2(b)
+title: 7.2.2(b)
+text: b) os padrões de interoperabilidade aplicáveis ao sistema de Data Link da aeronave.
+  Caso seja utilizado um padrão de interoperabilidade não constante da Tabela 2, a declaração
+  de conformidade deve fazer referência expressa às normas técnicas que definiram o referido
+  padrão; e
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- conformidade
+- declaracao
+- interoperabilidade
+- padrao
+- aeronave
+- aplicaveis
+- caso
+- constante
+- constar
+- data
+- definiram
+- expressa
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

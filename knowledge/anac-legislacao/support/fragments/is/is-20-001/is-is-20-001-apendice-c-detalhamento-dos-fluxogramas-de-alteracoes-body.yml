@@ -1,0 +1,521 @@
+id: is-is-20-001-apendice-c-detalhamento-dos-fluxogramas-de-alteracoes-body
+kind: is
+document: is-20-001
+family: '20'
+section_id: apendice-c-detalhamento-dos-fluxogramas-de-alteracoes
+section_title: APÊNDICE C- Detalhamento dos Fluxogramas de Alterações
+subsection_id: body
+cite: apendice-c-detalhamento-dos-fluxogramas-de-alteracoes
+title: APÊNDICE C- Detalhamento dos Fluxogramas de Alterações
+text: 'APÊNDICE C- Detalhamento dos Fluxogramas de Alterações
+
+  C.1 Este Apêndice detalha os passos dos Fluxogramas A e B apresentados na Seção 5.5 desta
+  Instrução Suplementar.
+
+  C.2 Distinção entre alteração e reparo
+
+  C.2.1 A primeira etapa a ser realizada pelo interessado é a determinação se a intervenção
+  pretendida é uma alteração ou reparo.
+
+  C.2.2 Conforme RBAC 01:
+
+
+  Alteração significa qualquer alteração levada a efeito em aeronaves e seus componentes.
+
+  Reparo significa a restituição de uma aeronave e/ou de seus componentes à situação aeronavegável,
+  após a eliminação de defeitos ou danos, inclusive os causados por acidentes/incidentes.
+
+  C.2.3 Esta IS não abrange reparos, que devem ser realizados conforme o RBAC 43 e instruções
+  específicas.
+
+  C.3 Classificação da modificação
+
+  Conforme definido na seção 4, as modificações são classificadas entre pequena, grande, acústica,
+  de emissões ou aos OSD (ver IS 21.61-001 e IS 21.61-005, para classificação das modificações
+  a MMEL ou FCD). Uma forma prática para avaliar se é uma grande modificação é verificar o
+  “Major Repair and Alteration Data Approval Online Job Aid” da FAA, disponível no endereço
+  https://drs.faa.gov.
+
+
+  Este Job Aid determina a classificação das modificações através de exemplos.
+
+  Sempre que em um item receber a classificação “STC”, este item deve ser classificado como
+  uma grande modificação. Caso a instalação pretendida não esteja exemplificada no Job Aid,
+  deverá ser feita uma análise de similaridade com algum dos exemplos presentes para tentar
+  identificar a possível classificação da modificação.
+
+  Nota-se que as classificações “EVL” ou “ENG” poderão ser classificadas tanto como pequenas
+  ou como grandes. Verificar as notas presentes no Job Aid para avaliar quando estas instalações
+  podem ser feitas por meio de uma grande alteração (assim sendo uma pequena modificação)
+  e quando devem ser consideradas uma grande modificação ao projeto de tipo.
+
+  Toda vez que a modificação for classificada como grande, o requerente deverá obter um CST
+  ou uma Emenda ao CT.
+
+  C.4 Classificação da alteração
+
+  C.4.1 Uma vez que a modificação foi classificada como pequena, o interessado deverá classificar
+  a alteração.
+
+  C.4.2 Para essa classificação, o requerente deverá executar o passo a passo previsto no
+  Fluxograma B. Cada passo do fluxograma B está definido nas próximas subseções.
+
+  C.5 Alterações listadas nas especificações técnicas da aeronave
+
+  C.5.1 São todas as alterações previstas pelo Manual de Manutenção - MM ou nas ICA do fabricante
+  da aeronave, incluindo o Catálogo Ilustrado de Peças (Illustrated Parts Catalog - IPC) e
+  os Boletins e Cartas de Serviço (Service Bulletins/Service Letters - SB/SL) que estiverem
+  referenciados diretamente nesses documentos (MM/ICA).
+
+  C.5.2 Neste caso, a alteração deve ser considerada pequena, não requerendo aprovação de
+  dados técnicos pela ANAC.
+
+  C.5.3 Caso a alteração não esteja listada nas especificações técnicas da aeronave, deve-se
+  seguir com a avaliação se ela pode ter algum efeito apreciável nos parâmetros conforme descrito
+  nas seções C.6 a C.11.
+
+  NOTA: O Apêndice A do RBAC 43 lista no parágrafo A43.1(a) um conjunto de exemplos de grandes
+  alterações, constituindo uma listagem não exaustiva. Uma vez identificada naquela listagem,
+  a alteração deve ser classificada como grande. As seções C.6 a C.11 abaixo permitem verificar,
+  com base em critérios técnicos, impactos que, se existentes, também tornam a alteração uma
+  grande alteração.
+
+  C.6 Impacto das alterações no peso e balanceamento
+
+  C.6.1 Para avaliação se a alteração possui efeito apreciável no peso ou no balanceamento,
+  i.e. na posição do seu Centro de Gravidade (CG), deve ser seguido o Fluxograma C a seguir:
+
+  NOTA: O Fluxograma C apenas determina se a alteração se a avalição resulta em uma grande
+  modificação, grande alteração ou se aquele aspecto não possui efeito apreciável em peso
+  e balanceamento. Cabe ao operador determinar os casos em que a aeronave deverá ser pesada
+  ou ter sua ficha de peso e balanceamento recalculada, conforme seção 91.423 do RBAC 91.
+
+
+  Fluxograma C: Impacto em Peso e CG de uma alteração
+
+
+  C.7 Impacto das alterações na resistência estrutural
+
+  C.7.1 Para análise do impacto na resistência estrutural, responder as seguintes perguntas:
+
+
+  A alteração envolve algum componente principal da estrutura da aeronave, como longarinas,
+  cavernas, nervuras, reforçadores ou paredes?
+
+  A alteração envolve algum elemento estrutural primário (relacionado a cargas de voo, cargas
+  estáticas e/ou cargas de pressurização, isto é, elementos submetidos à alguma avaliação
+  de tolerância ao dano ou de análise de fadiga / propagação de trinca? (Ver AC 23-13 da FAA,
+  Fatigue, Fail-Safe, and Damage Tolerance Evaluation of Metallic Structure for Normal, Utility,
+  Acrobatic, and Commuter Category Airplanes).
+
+  A alteração envolve estruturas significantes para permitir a instalação de equipamentos
+  no exterior da aeronave (por exemplo, Sistema Forward Looking Infrared - FLIR, câmeras,
+  dispositivos de Combate ao Fogo, equipamentos de dispersão para operações agrícolas, etc.?
+  (Ver AC 23-17 da FAA, Systems and Equipment Guide for Certification of Part 23 Airplanes
+  and Airships)
+
+  Envolve perfuração em estrutura que separa a região pressurizada da aeronave do exterior
+  ou região não pressurizada?
+
+  A alteração envolve a instalação de um item de massa que necessite de reavaliação estrutural
+  de sua fixação?
+
+  NOTA: itens de massa são itens que, caso se soltem da estrutura da aeronave ou de suas fixações,
+  possam ferir um ocupante, quando experimentando as cargas de inércia finais prováveis de
+  ocorrerem em um pouso de emergência.
+
+
+  A alteração envolve a instalação ou alteração de um sistema de contenção ou fixação destinado
+  ao armazenamento de itens de massa significativa?
+
+  A alteração envolve reparos ou alterações na estrutura de fixação dos assentos, cintos de
+  segurança ou seus meios de fixação, ou qualquer outro equipamento de contenção/segurança
+  para ocupantes?
+
+  A alteração envolve a substituição de materiais da estrutura primária do avião (ligas, compósitos
+  etc.)?
+
+  Houve alterações estruturais nas asas, empenagens ou superfícies de controle primárias e/ou
+  secundárias? (impacta em “flutter” e vibração)
+
+  Houve algum reforço estrutural que possa afetar “flutter”?
+
+  Houve alguma substituição de fixadores nas estruturas de carga primária do avião?
+
+  Houve alteração da configuração da aeronave de passageiros (somente) para cargueiro (somente)
+  ou uma combinação (passageiro + carga)?
+
+  Houve reconfiguração de interior de alguma configuração de passageiro para outra configuração
+  (também de passageiro) ou de alguma configuração cargueiro para outra configuração (também
+  cargueiro)?
+
+  Caso a resposta a qualquer das perguntas acima seja afirmativa, considerar a alteração/modificação
+  apreciável com relação à resistência estrutural.
+
+  C.8 Impacto das alterações na operação do grupo motopropulsor
+
+  C.8.1 Para análise do impacto no sistema de propulsão, responder as seguintes perguntas:
+
+
+  A alteração afeta apreciavelmente o motor ou a hélice ou seus acessórios?
+
+  A alteração envolve a troca de motor ou hélice (como a troca de um motor a pistão por um
+  motor a reação)?
+
+  A alteração substitui ou altera um motor a pistão resultando em um aumento de potência?
+
+  Houve alteração no projeto básico do motor ou hélice, ou de seus controles que afetam os
+  limites operacionais do produto (motor e/ou hélice)?
+
+  Houve alteração nos ajustes ou limitações de configuração do conjunto motopropulsor que
+  afeta o rendimento da potência?
+
+  Houve alterações no coletor de admissão, sistema de indução ou nas entradas de ar do motor,
+  capota ou defletor do motor que afetem o fluxo de ar de resfriamento e impliquem no aumento
+  de temperatura no carburador ou na ignição do motor?
+
+  Houve alteração ou inclusão de um novo tipo de combustível?
+
+  NOTA: Caso a alteração seja para uso de etanol em avião agrícola segundo a IS 137.201-001,
+  ela deve ser classificada como grande e devem ser seguidas as orientações daquela IS acerca
+  da incorporação da alteração e seu registro.
+
+  Caso a resposta a qualquer das perguntas acima seja afirmativa, considerar a alteração/modificação
+  apreciável com relação à operação do grupo motopropulsor.
+
+  C.9 Impacto das alterações no desempenho e qualidades de voo
+
+  C.9.1 Para análise do impacto a desempenho e qualidades de voo, responder as seguintes perguntas:
+
+
+  Houve modificação no envelope de peso e balanceamento?
+
+  Houve modificação das dimensões básicas da aeronave?
+
+  Houve modificação do peso máximo de desbalanceamento aprovado?
+
+  Houve modificação das trações do motor (idle, máximo e outros ratings) ou do tempo de resposta
+  ou no “propwash”?
+
+  Pretende instalar algum equipamento na parte externa da aeronave?
+
+
+  Exceções:
+
+
+  Pequenas antenas com formato de “gota” ou delgadas;
+
+  Probes delgadas;
+
+  Pequenos equipamentos externos com área frontal menor ou igual a 40 cm2.
+
+  Houve alterações estruturais nas asas, empenagens ou superfícies de controle primárias ou
+  secundárias?
+
+  Houve modificações nos limites operacionais (velocidades operacionais como VMO/MMO, VFC/MFC,
+  VDF/MDF, VFE, VLE, VNE, VNO, etc.; teto operacional da aeronave; outros dados de performance;
+  etc.)? (Nota: modificações em velocidades de design estrutural como VD e VA podem afetar
+  essas velocidades)
+
+  Houve alterações nos comandos de voo?
+
+  Houve alterações nos trens de pouso (incluindo tempo de retração) ou nas características
+  de frenagem da aeronave?
+
+  A alteração interfere com as tomadas ou probes de anemometria?
+
+  A alteração pretende obter algum crédito operacional relacionado a desempenho, por exemplo,
+  instalação de indicador de Ângulo de Ataque (Angle of Attack - AOA) para redução da velocidade
+  de estol ou de tamanho de pista, aprovação de operação em condições de gelo; etc.?
+
+  Houve alterações aerodinâmicas (de qualquer espécie) nas superfícies ou formato das asas,
+  empenagens ou superfícies de controle primárias ou secundárias? Exceção: Instalação de probes
+  em tampas de inspeções da asa, quando não interferir com o funcionamento das superfícies
+  de controle.
+
+  Caso a resposta a qualquer das perguntas acima seja afirmativa, considerar a alteração/modificação
+  apreciável com relação à desempenho e qualidades de voo.
+
+  C.10 Impacto das alterações em outras qualidades que afetam a aeronavegabilidade
+
+  C.10.1 Para análise do impacto em outras qualidades que afetam a aeronavegabilidade, responder
+  as seguintes perguntas:
+
+
+  A alteração envolve a instalação de equipamento ou sistema cuja falha possa afetar adversamente
+  a segurança da tripulação e dos passageiros ou prejudicar ou impedir a continuação do voo
+  ou o pouso seguro?
+
+  A alteração afeta a funcionalidade, confiabilidade ou aeronavegabilidade de maneira que:
+
+
+  Conflita com os limites operacionais especificados pelo fabricante do equipamento ou peça?
+
+  Ocorra troca de sistema operacional ou aplicação de software embarcado, ainda que apenas
+  em mudança de versão, de forma a causar potencial conflito de compatibilidade entre os sistemas
+  da aeronave?
+
+  Ocorra mudança nos parâmetros de configuração relativos à execução das funções dos componentes
+  e sistemas, seja por software, seja por hardware, de forma a causar potencial conflito de
+  compatibilidade entre os sistemas da aeronave?
+
+  Ocorra troca ou modificação de cablagem, aterramento ou metalização de forma a afetar adversamente
+  a proteção contra High-Intensity Radiated Field - HIRF, Electromagnetic Compatibility -
+  EMC ou descargas atmosféricas?
+
+
+  NOTA: Para níveis adequados de HIRF e descargas atmosféricas, verificar a tabela do apêndice
+  7 do Guia de Análise de Falhas ("Safety Assessment") para Grandes Modificações, disponível
+  em https://sistemas.anac.gov.br/certificacao/CHST/CHST.asp. Com relação a EMC, ver itens
+  11-106 e 11-107 da AC 43.13-1B chg. 1
+
+
+  Afete a visibilidade, a controlabilidade ou a acessibilidade do piloto?
+
+  A alteração envolve modificação no tipo de operação aprovada da aeronave, por exemplo, operação
+  Required Navigation Procedure - RNP, Reduced Vertical Separation Minimum - RVSM, em Regras
+  de Voo por Instrumentos (Instrument Flight Rules - IFR), condições de gelo, etc.?
+
+  A alteração envolve alterações na configuração de interior ou em materiais utilizados na
+  cabine (carpete, cortina, assento, mesa, divã etc.)?
+
+  A alteração envolve o trem de pouso ou seus componentes associados?
+
+  A alteração envolve sistemas de pressurização da cabine ou o fornecimento de oxigênio para
+  tripulação ou passageiros?
+
+  A alteração envolve controles de voo, o piloto automático ou o sistema diretor de voo?
+
+  A alteração envolve componentes críticos ou essenciais do sistema elétrico, como geradores,
+  alternadores, conversores, inversores, baterias, barramentos de distribuição ou barramentos
+  de proteção e dispositivos de controle e proteção?
+
+  A alteração tem potencial efeito adverso na disponibilidade do fornecimento de carga elétrica
+  aos sistemas necessários à operação segura da aeronave nas diversas situações de voo, inclusive
+  na emergência elétrica, na medida do uso que se espera fazer deles em tal situação?
+
+  A alteração possui algum impacto em instrumentos ou indicadores ou seus subsistemas que
+  fornecem informações de navegação?
+
+  A alteração possui algum impacto em instrumentos, indicadores ou seus subsistemas que fornecem
+  informações essenciais ou críticas sobre o “status” da aeronave?
+
+  A alteração afeta algum placar requerido previamente instalado?
+
+  A alteração afeta qualquer informação aprovada contida no manual de voo ou documento relevante?
+
+  A alteração envolve a inserção de sistema ou componente com potencial problema de interface
+  de comunicação com os demais existentes na aeronave (compatibilidade de protocolos e dados
+  entre os equipamentos)?
+
+  A alteração implica em troca, alteração ou realocação de sistemas (incluindo hidráulico,
+  óleo e combustível) e equipamentos que podem afetar a integridade estrutural, voo, características
+  de manuseio no solo, ou ruído?
+
+  A alteração potencialmente afeta:
+
+
+  Linhas de combustível e componentes associados?
+
+  Linhas hidráulicas e componentes associados?
+
+  Linhas de oxigênio e componentes associados?
+
+  Equipamentos aquecidos, dutos de ar quente e linhas associadas?
+
+  Cabos associados a sistemas de controle mecânico, cabos de comando e seus componentes associados,
+  bem como outros objetos que se movem?
+
+  Superfícies e cantos pontiagudos?
+
+  Cablagem de sistemas essenciais?
+
+  A alteração afeta equipamentos ou sistemas eletro/eletrônicos críticos de voo tais como:
+  comandos de voo fly-by-wire, sistema de controle de motor, Full-Authority Digital Electronic
+  Control - FADEC) ou Electronic Engine Control - EEC)?
+
+  A alteração consiste na instalação de aviônicos com elevado nível de integração com outros
+  sistemas?
+
+  A alteração consiste na instalação de aviônicos tais como:
+
+
+  Traffic Collision Avoidance System - TCAS II;
+
+  Terrain Avoidance and Warning System - TAWS;
+
+  Global Navigation Satellite System - GNSS (exceto quando GNSS portátil);
+
+  Flight Management System - FMS;
+
+  Cockpit Voice Recorder - CVR;
+
+  Flight Data Recorder - FDR, componentes associados ou unidades de aquisição de dados de
+  voo;
+
+  Electronic Flight Instrument System - EFIS;
+
+  Automatic Dependent Surveillance - Broadcast - ADS-B;
+
+  A alteração afeta ou instala sistema de proteção de gelo?
+
+  A alteração afeta o acesso ou uso das saídas de emergência?
+
+  A alteração instala sistema de Head-Up Display - HUD, sistema de visão sintética, sistemas
+  FLIR, Light Detection And Ranging - LIDAR, imageamento ou qualquer outro sistema de emissão
+  intencional de radiofrequência ou laser para fins não aeronáuticos?
+
+  A instalação envolve hardware elétrico não aeronáutico (diferente do previsto na AC 43.13-1)?
+  Ex.: Cabos, conectores, relés, chaves etc.
+
+  A alteração envolve a instalação de equipamento emissor intencional de rádio-frequência?
+  Ex.: Wi-Fi, Celular, Iridium etc.
+
+  A alteração envolve a instalação de equipamento considerado essencial ou requerido por RBAC
+  para operação e esse equipamento não é artigo aprovado conforme seções 21.8 e 21.9 do RBAC
+  21 (por exemplo, CPAA, Ordem Técnica Padrão - OTP, etc.)?
+
+
+  NOTAS:
+
+  1) Como parte do processo de aprovação da grande alteração deverá ser obtida a aprovação
+  dos equipamentos essenciais ou requeridos, conforme seções 21.8 e 21.9 do RBAC 21; e
+
+  2) Para alterações, uma aprovação aeronáutica do equipamento não é necessária se ele não
+  for essencial nem requerido por RBAC (Ver AC 20-168 do FAA, em sua versão mais recente).
+
+  Caso a resposta a qualquer das perguntas acima seja afirmativa, considerar a alteração apreciável
+  com relação à aeronavegabilidade e deve ser considerada como grande alteração. Caso contrário,
+  pode-se considerar que não tem efeito apreciável quanto a esse quesito.
+
+  Recomenda-se a avaliação prévia da classificação da alteração pela ANAC se houver suspeita
+  de impacto de aeronavegabilidade na aeronave de modo apreciável, ainda que não cobertos
+  pelos casos indicados nesta seção. Alternativamente, podem ser utilizados os exemplos de
+  classificação do “Major Repair and Alteration Data Approval Online Job Aid” da FAA, disponível
+  no endereço https://drs.faa.gov.
+
+  C.11 Práticas aceitáveis e operações elementares
+
+  C.11.1 Para que a alteração seja classificada como pequena, a avaliação de impacto descrita
+  nas seções C.6 a C.10 deve resultar em um efeito não apreciável e, adicionalmente, a alteração
+  deve poder ser incorporada na aeronave utilizando somente práticas aceitáveis e através
+  de operações elementares.
+
+  C.11.2 Práticas aceitáveis são tarefas para incorporação da alteração e que são provenientes
+  de dados técnicos aceitáveis ou aceitos pela ANAC, conforme definido nos itens 4.2 e 4.3
+  desta IS.
+
+  C.11.3 A prática deve ser suficiente para a execução de como instalar a alteração e não
+  necessariamente ser estritamente relacionada ao PN a ser instalado ou à prática a ser utilizada.
+  Exemplos:
+
+
+  A ICA da aeronave possui a instrução como instalar uma lâmpada diferente da que pretende
+  instalar na sua aeronave (com consumo elétrico e peso semelhantes e mesma TSO), porém com
+  o mesmo conector elétrico e mesma fixação. Nota-se que é possível executar a tarefa com
+  a instrução prevista para a outra lâmpada. O responsável pela instalação poderá utilizar
+  a mesma instrução e considerar uma prática aceita.
+
+  A alteração pretende remover um equipamento da aeronave. A ICA da aeronave não prevê esta
+  remoção, porém possui uma instrução de como substituir o equipamento e uma das etapas é
+  a completa remoção do equipamento. O responsável pela instalação poderá utilizar a parte
+  da instrução relativa à remoção prevista na ICA (tarefa que é subparte da substituição)
+  e considerar uma prática aceita (desde que julgue que a remoção não afeta apreciavelmente
+  nenhuma característica de aeronavegabilidade).
+
+  C.11.4 Operação elementar significa, no contexto de alterações, operações rotineiras realizadas
+  por pessoal qualificado (dentro de suas prerrogativas), onde não é necessária a produção
+  de novo material técnico com instruções para a execução e nem a necessidade de ferramentas
+  especiais para sua execução.
+
+  C.11.5 A utilização de qualquer dado que impacte as Limitações de Aeronavegabilidade das
+  ICA necessita de aprovação por parte da ANAC e a utilização de técnicas ou equipamentos
+  especiais necessita a aceitação formal por parte da ANAC.
+
+  C.11.6 Caso o operador ou responsável pela manutenção considere que a alteração não afeta
+  apreciavelmente nenhuma característica de aeronavegabilidade, poderá então utilizar práticas
+  aceitáveis e operações elementares e assim classificar uma alteração como pequena.
+
+  C.12 Pequena alteração
+
+  C.12.1 Uma vez considerada como pequena, a alteração pode ser incorporada com base em dados
+  técnicos aceitos ou aceitáveis, conforme o RBAC 43 e seções 5.3 e 5.4 desta IS.
+
+  Caso exista uma portaria específica publicada pela ANAC para a pequena alteração pretendida,
+  ela poderá ser utilizada como dado técnico aceito. O Apêndice D desta IS detalha o conteúdo
+  de tais portarias específicas.
+
+  C.13 Grande alteração
+
+  C.13.1 Uma vez considerada como grande, a alteração somente pode ser incorporada com base
+  em dados técnicos aprovados, conforme o RBAC 43 e seções 5.3 e 5.4 desta IS, tenham os dados
+  técnicos sido previamente aprovados pela ANAC, considerados aprovados pela ANAC ou aprovados
+  especificamente para a grande alteração sendo incorporada.
+
+  C.13.2 São exemplos de dados técnicos aprovados previamente pela ANAC e de dados técnicos
+  considerados aprovados:
+
+
+  Especificações de Aeronave, Motor ou Hélice e TCDS
+
+  NOTA: Tais especificações contém apenas um resumo dos dados aprovados e o dado técnico deve
+  estar presente em outro documento aprovado ou aceito, tais como, manual de manutenção ou
+  ICA;
+
+
+  Versões mais atuais das AC 43.13-1 e AC 43.13-2, desde que:
+
+
+  Apropriadas para a aeronave que esteja sendo alterada;
+
+  Apropriadas para instalação do equipamento em questão; e
+
+  Não forem contrárias a qualquer dado do fabricante.
+
+  Boletins de Serviço relacionados a DA (Diretrizes de Aeronavegabilidade);
+
+  Dados provenientes da aprovação de CPAA;
+
+  NOTA: No caso de Certificado de Produto Aeronáutico Aprovado sob um Ordem Técnica Padrão
+  (CPAA/OTP), apesar de ser um dado técnico aprovado, sua emissão considera apenas os requisitos
+  aplicáveis ao componente, não sendo suficientes para substanciar a alteração na aeronave
+  decorrente da incorporação daquele artigo.
+
+
+  Dados aprovados por meio de CST;
+
+  Partes aprovadas do Structural Repair Manual (SRM);
+
+  Boletins de Serviço quando explicitamente aprovados pela ANAC;
+
+  Boletins de Serviço de fabricantes estrangeiros quando aprovados pela autoridade de aviação
+  civil do país de origem, quando houver aceitação direta por acordo bilateral ou evidência
+  de aprovação da ANAC; e
+
+  Dados técnicos aprovados sem envolvimento direto da ANAC por meio de PCP ou Organização
+  de Projeto Certificada, no âmbito de seus escopos de credenciamento ou certificação, respectivamente.
+
+  C.13.3 Caso todos os dados técnicos estejam previamente aprovados, a grande alteração pode
+  ser incorporada. Neste caso, não haverá preenchimento do campo 3 do Formulário F-400-04
+  (SEGVOO 001).
+
+  C.13.4 Caso seja necessária a aprovação de algum dado técnico, o requerente deverá requerer
+  aprovação dos dados técnicos para a Grande Alteração através do processo simplificado descrito
+  na seção 5.7 desta IS ou através dos procedimentos descritos na IS 21-004.'
+keywords:
+- alteracao
+- aeronave
+- alteracoes
+- envolve
+- grande
+- houve
+- modificacao
+- caso
+- dados
+- instalacao
+- impacto
+- sistema
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-20-001.md

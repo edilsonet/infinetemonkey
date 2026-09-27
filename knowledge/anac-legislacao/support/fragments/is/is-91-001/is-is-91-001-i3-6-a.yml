@@ -1,0 +1,35 @@
+id: is-is-91-001-i3-6-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: I3.6
+section_title: A predição da disponibilidade da função RAIM deve ser executada antes da decolagem.
+subsection_id: a
+cite: I3.6(a)
+title: I3.6(a)
+text: 'a) No evento da predição de uma perda contínua da função RAIM superior a 5 (cinco)
+  minutos em qualquer parte do procedimento RNP APCH o voo deve ser revisado (por exemplo:
+  atrasado, re-planejado levando em conta a execução de um procedimento alternativo ou até
+  mesmo cancelado).
+
+  I4. ANTES DE INICIAR O PROCEDIMENTO'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimento
+- funcao
+- predicao
+- raim
+- alternativo
+- apch
+- atrasado
+- cancelado
+- cinco
+- conta
+- continua
+- decolagem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

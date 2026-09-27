@@ -17,10 +17,12 @@ sections:
 - '01.3'
 - 01.3-I
 - 01.3-II
+- aprovacao
 - preambulo
-fragment_count: 10
+fragment_count: 11
 fragment_ids:
 - rbac-rbac-01-preambulo-body
+- rbac-rbac-01-aprovacao-body
 - rbac-rbac-01-01-2-body
 - rbac-rbac-01-01-3-body
 - rbac-rbac-01-01-3-i-body
@@ -30,4 +32,4 @@ fragment_ids:
 - rbac-rbac-01-01-1-v
 - rbac-rbac-01-01-3-a
 - rbac-rbac-01-01-3-b
-parser_version: 6
+parser_version: 7

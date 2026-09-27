@@ -1,0 +1,54 @@
+id: is-is-145-009-5-2-7-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.2.7
+section_title: Identificação e controle das seções
+subsection_id: body
+cite: 5.2.7
+title: Identificação e controle das seções
+text: '5.2.7 Identificação e controle das seções
+
+  5.2.7.1 Numeração das páginas: um sistema de numeração única, sequencial e contínua das
+  páginas dos manuais (do início ao fim) pode dificultar o processo de revisão. Uma pequena
+  revisão em uma das primeiras páginas pode causar mudanças no conteúdo de cada página sucessiva.
+  A ANAC aconselha que a OM divida o manual em várias seções, de modo que a revisão em uma
+  página de uma seção não afete a numeração do manual como um todo.
+
+  5.2.7.2 Assuntos relacionados: a maioria dos manuais é dividida em seções que tratam, cada
+  qual, de assuntos específicos. Por exemplo, uma seção do manual pode conter todos os procedimentos
+  relacionados ao sistema de inspeção. A OM pode estabelecer essas seções, ou as seções podem
+  ser desenvolvidas seguindo um formato estabelecido pela indústria (tal como a ISO). Os modelos
+  de formatos incluídos neste capítulo contêm alguns exemplos dos muitos métodos possíveis
+  usados para identificação. As seções podem consistir de muitos procedimentos individuais
+  similares agrupados, através de um sistema de numeração comum, ou muitos procedimentos similares
+  descritos em formato narrativo dentro de uma seção. Independentemente do método utilizado,
+  cada seção deve ser identificada e controlada.
+
+  5.2.7.3 Índice: muitas seções do MOM são controladas utilizando-se um índice. O índice lista
+  cada seção e a sua localização no manual. Algumas OM optam por reemitir a seção completa
+  do manual se alguma página dessa seção é revisada. Nesse caso, o índice pode indicar o status
+  de revisão de cada seção em vez de cada página.
+
+  5.2.7.4 Lista de páginas efetivas: as páginas de um MOM podem ser controladas por uma lista
+  de páginas efetivas. Essa lista relaciona cada página e seu status de revisão.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- secoes
+- secao
+- cada
+- paginas
+- manual
+- pagina
+- pode
+- revisao
+- identificacao
+- indice
+- lista
+- numeracao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

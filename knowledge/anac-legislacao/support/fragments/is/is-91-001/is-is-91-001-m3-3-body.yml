@@ -1,0 +1,40 @@
+id: is-is-91-001-m3-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M3.3
+section_title: Se uma falha no sistema da aeronave resultar na perda da capacidade de seguir
+  um segmento RF, o piloto deve manter a inclinação atual e o curso de saída do segmento RF
+  determinado nas cartas. O piloto deve avisar o ATC o mais rápido possível sobre a falha
+  do sistema.
+subsection_id: body
+cite: M3.3
+title: Se uma falha no sistema da aeronave resultar na perda da capacidade de seguir um segmento
+  RF, o piloto deve manter a inclinação atual e o curso de saída do segmento RF determinado
+  nas cartas. O piloto deve avisar o ATC o mais rápido possível sobre a falha do sistema.
+text: 'M3.3 Se uma falha no sistema da aeronave resultar na perda da capacidade de seguir
+  um segmento RF, o piloto deve manter a inclinação atual e o curso de saída do segmento RF
+  determinado nas cartas. O piloto deve avisar o ATC o mais rápido possível sobre a falha
+  do sistema.
+
+  M4. CRITÉRIOS ESPECÍFICOS PARA PROCEDIMENTOS DE SAÍDA PADRÃO POR INSTRUMENTOS (SID)'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- falha
+- piloto
+- segmento
+- sistema
+- saida
+- aeronave
+- atual
+- avisar
+- capacidade
+- cartas
+- curso
+- determinado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

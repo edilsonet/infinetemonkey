@@ -1,0 +1,46 @@
+id: is-is-91-001-l5-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: L5.3
+section_title: Caso a elegibilidade não esteja atestada no AFM, o operador deverá comprovar
+  que a aeronave é elegível para operações RNP AR APCH e adicionalmente demonstrar que ela
+  possui as funcionalidades adicionais requeridas para operações RNP AR DP conforme critérios
+  estabelecidos na seção L3 desta IS. A demonstração dessas funcionalidades deve se basear
+  em documentação técnica da aeronave (AFM, AOM/FCOM, outros documentos emitidos pelo detentor
+  do TC ou STC), que poderá, a critério da ANAC, ser verificada em testes durante o desenvolvimento
+  do FOSA.
+subsection_id: body
+cite: L5.3
+title: Caso a elegibilidade não esteja atestada no AFM, o operador deverá comprovar que a
+  aeronave é elegível para operações RNP AR APCH e adicionalmente demonstrar que ela possui
+  as funcionalidades adicionais requeridas para operações RNP AR DP conforme critérios estabelecidos
+  na seção L3 desta IS. A demonstração dessas funcionalidades deve se basear em documentação
+  técnica da aeronave (AFM, AOM/FCOM, outros documentos emitidos pelo detentor do TC ou STC),
+  que poderá, a critério da ANAC, ser verificada em testes durante o desenvolvimento do FOSA.
+text: L5.3 Caso a elegibilidade não esteja atestada no AFM, o operador deverá comprovar que
+  a aeronave é elegível para operações RNP AR APCH e adicionalmente demonstrar que ela possui
+  as funcionalidades adicionais requeridas para operações RNP AR DP conforme critérios estabelecidos
+  na seção L3 desta IS. A demonstração dessas funcionalidades deve se basear em documentação
+  técnica da aeronave (AFM, AOM/FCOM, outros documentos emitidos pelo detentor do TC ou STC),
+  que poderá, a critério da ANAC, ser verificada em testes durante o desenvolvimento do FOSA.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- funcionalidades
+- operacoes
+- adicionais
+- adicionalmente
+- apch
+- atestada
+- basear
+- caso
+- comprovar
+- criterio
+- criterios
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

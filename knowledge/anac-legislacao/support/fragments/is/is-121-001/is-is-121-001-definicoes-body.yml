@@ -1,0 +1,92 @@
+id: is-is-121-001-definicoes-body
+kind: is
+document: is-121-001
+family: '121'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes
+  definições:
+
+  4.1.1 Guia de rota: uma parte do sistema de manuais de operações do operador, que contém
+  informações específicas sobre os aeródromos, rotas e áreas utilizados pelo operador em suas
+  operações.
+
+  4.2 Lista de abreviaturas:
+
+  AIP - Aeronautical information publication
+
+  AIRAC - Aeronautical Information Regulation And Control (Regulamentação e Controle de Informação
+  Aeronáutica)
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  ATS - Air traffic service (serviço de tráfego aéreo)
+
+  EFB - Electronic flight bag
+
+  EO - Especificações operativas
+
+  ETOPS - Extended operations
+
+  EVS - Enhanced vision system
+
+  FMS - Flight management system
+
+  FOSA - Flight operational safety assessment
+
+  HUD - Head up display
+
+  IATA - International Air Transport Association
+
+  ICAO - International Civil Aviation Organization (Organização da Aviação Civil Internacional)
+
+  IFR - Instrument flight rules (regras de voo por instrumentos)
+
+  IS - Instrução Suplementar
+
+  MEL - Minimum equipment list (Lista de equipamentos mínimos)
+
+  MNPS - Minimum navigation performance specification
+
+  NOTAM - Notice to airmen
+
+  RBAC - Regulamento Brasileiro de Aviação Civil
+
+  RVR - Runway visual range (alcance visual de pista)
+
+  RVSM - Reduced vertical separation minimum
+
+  SPO - Superintendência de Padrões Operacionais
+
+  VFR - Visual flight rules (regras de voo visual)
+
+  VHF - Very high frequency
+
+  PROCEDIMENTOS PARA ELABORAÇÃO, ATUALIZAÇÃO E UTILIZAÇÃO DO GUIA DE ROTA
+
+  5.1 Elaboração do guia de rota'
+keywords:
+- transporte-aereo
+- operacoes
+- definicoes
+- flight
+- civil
+- visual
+- aviacao
+- guia
+- minimum
+- rota
+- aeronautical
+- elaboracao
+- information
+- international
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

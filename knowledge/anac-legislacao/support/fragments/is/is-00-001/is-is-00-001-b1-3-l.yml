@@ -1,0 +1,41 @@
+id: is-is-00-001-b1-3-l
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.3
+section_title: PROPULSÃO (INCLUINDO MOTORES, HÉLICES E SISTEMAS DOS ROTORES)
+subsection_id: l
+cite: B1.3(l)
+title: B1.3(l)
+text: '(l) Adicionalmente, para o caso de APU:
+
+  I- Apagamento ou falha da APU, quando esta for requerida funcionar apropriadamente de-
+
+  vido a requisitos operacionais como em casos de despachos da aeronave pela Lista de
+
+  Equipamentos Mínimos do operador (Minimum Equipment List - MEL) ou durante ope-
+
+  rações ETOPS - Extended Twin Operations;
+
+  II- Incapacidade de apagar o APU;
+
+  III- Disparo;
+
+  IV- Incapacidade de ligar a APU quando necessário por requisitos operacionais.'
+keywords:
+- incapacidade
+- operacionais
+- requisitos
+- adicionalmente
+- aeronave
+- apagamento
+- apagar
+- apropriadamente
+- caso
+- casos
+- despachos
+- disparo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

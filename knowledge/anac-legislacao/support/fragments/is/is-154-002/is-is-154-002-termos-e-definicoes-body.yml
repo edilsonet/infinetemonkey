@@ -1,0 +1,631 @@
+id: is-is-154-002-termos-e-definicoes-body
+kind: is
+document: is-154-002
+family: '154'
+section_id: termos-e-definicoes
+section_title: TERMOS E Definições
+subsection_id: body
+cite: termos-e-definicoes
+title: TERMOS E Definições
+text: 'TERMOS E Definições
+
+  4.1. Para os efeitos desta IS, são válidos os termos e definições apresentados na seção
+  154.15 do RBAC nº 154.
+
+  ESTRUTURA DO DOCUMENTO
+
+  5.1. Esta IS está estruturada da seguinte forma:
+
+  5.1.1. Os itens que detalham o cumprimento de requisito trazem, no início do parágrafo,
+  a notação “FC” (Forma de Cumprimento), seguida do parágrafo do RBAC a que correspondem.
+  Sua observância é obrigatória, mas pode o administrado submeter à aprovação da Superintendência
+  de Infraestrutura Aeroportuária (SIA) - previamente à sua adoção - meio ou procedimento
+  alternativo, na forma prevista na Resolução ANAC n° 30, artigo 14, § 1º e 2º;
+
+  5.1.2. Sempre que um item for classificado como “FC” (Forma de Cumprimento), todos os seus
+  subitens, exceto aqueles que tratarem expressamente de uma recomendação, fazem parte do
+  conjunto de informações que compõem a forma de cumprimento;
+
+  5.1.3. Os itens que se iniciam com a notação “Recomendação”, apesar de não trazerem comando
+  obrigatório, representam as práticas que a ANAC entende como desejáveis para o aumento da
+  segurança e da eficiência das operações, merecendo os melhores esforços dos administrados
+  para sua consecução;
+
+  5.1.4. Sempre que um item for classificado como “Recomendação”, todos os seus subitens fazem
+  parte do conjunto de informações que compõem a recomendação;
+
+  5.1.5. Os demais itens trazem orientações e esclarecimentos - algumas vezes com exemplos
+  - para o melhor entendimento do conteúdo do RBAC e desta IS;
+
+  5.1.6. As Figuras contidas nesta IS têm caráter exemplificativo e visam a auxiliar o entendimento
+  deste documento, bem como dos requisitos do RBAC nº 154 aqui abordados.
+
+  CARACTERÍSTICAS FÍSICAS DE AERÓDROMOS
+
+  6.1. Generalidades
+
+  6.1.1. A metodologia aplicada nesta IS adotou, com as devidas adaptações, o que consta no
+  Anexo 14 à Convenção de Chicago e nas Partes 1, 2 e 3 do DOC 9157 da Organização da Aviação
+  Civil Internacional (OACI), além das Advisory Circular (AC) nº 150/5300-13A e 150/5320-6F
+  da Federal Aviation Administration (FAA).
+
+  6.2. Pistas de pouso e decolagem
+
+  6.2.1. [FC 154.201(f)(1)] - As declividades da pista de pouso e decolagem devem obedecer
+  aos seguintes parâmetros:
+
+  Declividades longitudinais
+
+  6.2.1.1. A declividade longitudinal, computada dividindo-se a diferença entre a elevação
+  máxima e a mínima ao longo do eixo da pista de pouso e decolagem pelo comprimento dessa
+  pista, não deve exceder:
+
+  6.2.1.1.1. 1 por cento, onde o número de código for 3 ou 4; e
+
+  6.2.1.1.2. 2 por cento, onde o número de código for 1 ou 2.
+
+  6.2.1.2. Ao longo de qualquer trecho de uma pista de pouso e decolagem, a declividade longitudinal
+  não deve exceder:
+
+  6.2.1.2.1. 1,25 por cento, onde o número de código for 4, ressalvando-se que, para a primeira
+  e a última quarta parte do comprimento da pista, a declividade longitudinal não deve exceder
+  0,8 por cento;
+
+  6.2.1.2.2. 1,5 por cento, onde o número de código for 3, ressalvando-se que, para a primeira
+  e a última quarta parte do comprimento de uma pista de aproximação de precisão Categoria
+  II ou III, a declividade longitudinal não deve exceder 0,8 por cento; e
+
+  6.2.1.2.3. 2 por cento, onde o número de código for 1 ou 2.
+
+  Mudanças de declividade longitudinal
+
+  6.2.1.3. Onde mudanças de declividade longitudinal não puderem ser evitadas, a mudança de
+  declividade entre dois trechos consecutivos com diferentes declividades não deve exceder:
+
+  6.2.1.3.1. 1,5 por cento, onde o número de código for 3 ou 4; e
+
+  6.2.1.3.2. 2 por cento, onde o número de código for 1 ou 2.
+
+  6.2.1.4. A transição de uma declividade para outra deve ser realizada por meio de uma superfície
+  curva, com uma taxa de mudança que não exceda:
+
+  6.2.1.4.1. 0,1 por cento por 30 m (raio mínimo de curvatura de 30.000 m), onde o número
+  de código for 4;
+
+  6.2.1.4.2. 0,2 por cento por 30 m (raio mínimo de curvatura de 15.000 m), onde o número
+  de código for 3; e
+
+  6.2.1.4.3. 0,4 por cento por 30 m (raio mínimo de curvatura de 7.500 m), onde o número de
+  código for 1 ou 2.
+
+  Distância visual
+
+  6.2.1.5. Quando as mudanças de declividade não puderem ser evitadas, elas devem ocorrer
+  de forma que haja uma linha de visão desobstruída a partir de:
+
+  6.2.1.5.1. Qualquer ponto posicionado 3 m acima da pista de pouso e decolagem para todos
+  os outros pontos posicionados 3m acima dessa pista, dentro de uma distância de, no mínimo,
+  metade do comprimento da pista de pouso e decolagem, onde a letra de código for C, D, E
+  ou F;
+
+  6.2.1.5.2. Qualquer ponto posicionado 2 m acima da pista de pouso e decolagem para todos
+  os outros pontos posicionados 2 m acima dessa pista, dentro de uma distância de, no mínimo,
+  metade do comprimento da pista de pouso e decolagem, onde a letra de código for B; e
+
+  6.2.1.5.3. Qualquer ponto posicionado 1,5 m acima da pista de pouso e decolagem para todos
+  os outros pontos posicionados 1,5 m acima dessa pista, dentro de uma distância de, no mínimo,
+  metade do comprimento da pista de pouso e decolagem, onde a letra de código for A.
+
+  6.2.1.6. [Recomendação] - Recomenda-se que, quando não houver uma pista de táxi paralela
+  ao longo de toda a pista de pouso e decolagem, seja considerada uma linha de visão desobstruída
+  sobre todo o comprimento da pista de pouso e decolagem.
+
+  6.2.1.7. [Recomendação] - Recomenda-se que, quando um aeródromo tiver pistas de pouso e
+  decolagem que se interceptam, sejam considerados os seguintes critérios adicionais para
+  a linha de visão da área de interseção:
+
+  6.2.1.7.1. Deve haver uma linha de visão desobstruída entre os finais das pistas interseccionadas.
+  O terreno deve ser nivelado e objetos permanentes devem ser situados de modo que haja uma
+  linha de visão desobstruída a partir de qualquer ponto posicionado acima da pista de pouso
+  e decolagem, conforme item 6.2.1.5 desta IS, e outro ponto, dentro da zona de visibilidade,
+  acima do eixo da pista de pouso e decolagem interseccionada.
+
+  6.2.1.7.2. A zona de visibilidade é uma área formada por linhas imaginárias que conectam
+  os pontos de visibilidade das pistas interseccionadas, conforme demonstrado na Figura 1.
+  Os pontos de visibilidade devem ser localizados da seguinte forma:
+
+  6.2.1.7.2.1. Se a distância entre o ponto de interseção e o final da pista de pouso e decolagem
+  for igual ou inferior a 250 m, o ponto de visibilidade deve ser localizado no centro e ao
+  final da pista;
+
+  6.2.1.7.2.2. Se a distância entre o ponto de interseção e o final da pista de pouso e decolagem
+  for superior a 250 m e inferior a 500 m, o ponto de visibilidade deve ser localizado no
+  eixo da pista de pouso e decolagem e a 250 metros do ponto de interseção;
+
+  6.2.1.7.2.3. Se a distância entre o ponto de interseção e o final da pista de pouso e decolagem
+  for igual ou superior a 500m, o ponto de visibilidade deve ser localizado no eixo da pista
+  de pouso e decolagem e no ponto médio entre o ponto de interseção e o final da pista de
+  pouso e decolagem.
+
+
+  Figura 1 - Zona de visibilidade em interseções de pistas de pouso e decolagem.
+
+
+  Distâncias entre mudanças de declividades
+
+  6.2.1.8. Ondulações ou consideráveis mudanças de declividade localizadas muito próximas
+  ao longo da pista de pouso e decolagem devem ser evitadas.
+
+  6.2.1.9. A distância entre os pontos de interseção de duas curvas sucessivas, representado
+  por ‘D na Figura 2, não deve ser inferior à soma dos valores numéricos absolutos das mudanças
+  de declividade correspondentes, multiplicada pelo valor apropriado, conforme itens abaixo,
+  ou a 45 m, o que for maior.
+
+  6.2.1.9.1. 30.000 m, onde o número de código for 4;
+
+  6.2.1.9.2. 15.000 m, onde o número de código for 3; e
+
+  6.2.1.9.3. 5.000 m, onde o número de código for 1 ou 2.
+
+
+  Figura 2 - Perfil do eixo da pista.
+
+
+  6.2.1.10. Tomando como base a Figura 2 e o critério exposto pelo item 6.2.1.9 acima, e supondo
+  uma pista de pouso e decolagem em que o número de código seja 3, tem-se que a distância
+  entre declividades ‘D ’, em metros, deve ser pelo menos:
+
+  D = 15000 ∙ (|x-y| +|y-z|)
+
+  6.2.1.10.1. Sendo ‘|x-y|’ o módulo de ‘x-y ’ e ‘|y-z|’ o módulo de ‘y-z’.
+
+  6.2.1.10.2. Assumindo uma inclinação ascendente de 1% para x (+0,01 ), uma inclinação descendente
+  de 0,5% para y (-0,005 ) e uma inclinação ascendente de 0,5% para z (+0,05 ), tem-se que:
+
+  D = 15000 ∙ (|x-y| +|y-z|) = 375 m
+
+  6.2.1.10.3. Como o valor calculado acima é superior a 45 m, ele deve ser adotado como distância
+  mínima entre os pontos de interseção adotados neste exemplo.
+
+  Declividades transversais
+
+  6.2.1.11. Para promover uma drenagem mais rápida da água, a superfície da pista de pouso
+  e decolagem deve ser inclinada em direção a ambas as bordas (com o ponto mais alto localizado
+  no eixo longitudinal da pista), salvo quando um único declive transversal, na direção do
+  vento mais frequentemente associado com a chuva, garantir uma drenagem rápida. A declividade
+  transversal deve ser, no máximo:
+
+  6.2.1.11.1. 1,5 por cento onde a letra de código for C, D, E ou F; e
+
+  6.2.1.11.2. 2 por cento onde a letra de código for A ou B;
+
+  6.2.1.12. A declividade transversal não deve ser inferior a 1 por cento, salvo em interseções
+  com outra pista de pouso e decolagem ou com uma pista de táxi, onde possam ser necessárias
+  declividades mais aplainadas.
+
+  6.2.1.13. [Recomendação] - Recomenda-se que a declividade transversal seja essencialmente
+  a mesma ao longo do comprimento da pista de pouso e decolagem, salvo em interseções com
+  outra pista ou com uma pista de táxi, onde uma transição uniforme deve ser provida considerando-se
+  a necessidade de drenagem adequada.
+
+  6.2.2. [Reservado]
+
+  6.2.2.1. [Reservado]
+
+  6.2.2.2. [Reservado]
+
+  6.2.3. [Recomendação 154.201(h)(1)] - Ao adotar tolerâncias para as irregularidades da superfície
+  da pista de pouso e decolagem, os seguintes padrões de construção devem ser atendidos:
+
+  6.2.3.1. Para curtas distâncias de 3 m, exceto sobre a superfície mais alta de um abaulamento
+  de pista de pouso e decolagem, a superfície da pista deve ter uma regularidade tal que,
+  quando testada com uma régua de 3 m colocada em qualquer ponto e em qualquer direção da
+  superfície, não haja desvio superior a 3 mm entre a parte inferior da régua e a superfície
+  do pavimento.
+
+  6.2.3.2. Para longas distâncias, deve-se atender, no mínimo, aos critérios de irregularidade
+  longitudinal estabelecidos no parágrafo 153.205(f) do RBAC nº 153.
+
+  6.2.4. [FC 154.201(h)(3)] - A superfície da pista de pouso e decolagem deve atender aos
+  parâmetros de referência descritos no parágrafo 153.205(g)(5) do RBAC nº 153.
+
+  6.3. Acostamentos de pista de pouso e decolagem
+
+  6.3.1. [Recomendação 154.203] - Em pistas de pouso e decolagem pavimentadas, o acostamento
+  deve ser pavimentado.
+
+  6.3.2. [FC 154.203(c)(1)] - A declividade transversal (descendente) do acostamento da pista
+  de pouso e decolagem não deve exceder 2,5 por cento, vide Figura 3.
+
+
+  Figura 3- Declividades transversais da pista de pouso e decolagem, dos acostamentos e da
+  faixa preparada.
+
+
+  6.3.3. [FC 154.203(d)(1)] - Os acostamentos da pista de pouso e decolagem devem ser projetados
+  para suportar, pelo menos, 1 (uma) passagem anual da aeronave mais exigente do mix de aeronaves
+  do aeródromo.
+
+  6.3.3.1. Para o projeto estrutural do acostamento, sugere-se consultar a Advisory Circular
+  (AC) nº 150/5320-6 da Federal Aviation Administration (FAA).
+
+  6.3.4. [FC 154.203(e)(1)] - Em acostamentos não pavimentados, deve ser implantada uma cobertura
+  vegetal composta de grama densa e bem enraizada, para reduzir a possibilidade de erosão
+  do solo e ingestão de pedras soltas e outros objetos estranhos pelos motores das aeronaves.
+
+  6.3.4.1. Em solos não adequados para o plantio de grama, pode ser implantada uma superfície
+  estabilizada ou pavimentada. Nesse caso, recomenda-se o uso de solo cimentado, cal ou solo
+  betuminoso estabilizado.
+
+  6.4. Área de giro de pista de pouso e decolagem
+
+  6.4.1. [FC 154.205(a)(3)] - Para facilitar a entrada da aeronave na área de giro, o ângulo
+  de interseção da área de giro com a pista de pouso e decolagem não deve exceder 30°, conforme
+  demonstrado na Figura 4.
+
+  6.4.1.1. Além disso, a largura total da área de giro e da pista de pouso e decolagem deve
+  ser tal que o ângulo de guiagem da roda do nariz da aeronave crítica para a qual a área
+  de giro é projetada não exceda 45º, vide Figura 4.
+
+
+  Figura 4 - Interseção da área de giro com a pista de pouso e decolagem e ângulo de guiagem
+  da aeronave crítica na área de giro.
+
+
+  6.4.2. [FC 154.205(b)] - As declividades da área de giro devem ser as mesmas da superfície
+  do pavimento da pista de pouso e decolagem adjacente.
+
+  6.4.3. [FC 154.205(c)] - A resistência da área de giro de pista de pouso e decolagem deve
+  ser aferida, observado o disposto no item 6.2.2 desta IS.
+
+  6.4.3.1. A resistência da área de giro deve ser, no mínimo, igual àquela da pista de pouso
+  e decolagem adjacente.
+
+  6.4.4. [Recomendação 154.205(c)] - Quando se disponibiliza uma área de giro de pista com
+  pavimento flexível, a superfície deve ter capacidade de suportar as forças de deformação
+  horizontal exercida pelos pneus do trem de pouso principal durante as manobras de curvas.
+
+  6.4.5. [Recomendação 154.205(d)(1)] - A superfície de uma área de giro deve ser construída
+  ou reconstruída de modo a prover tolerâncias para as irregularidades da superfície pelo
+  menos iguais às da pista de pouso e decolagem adjacente, descritas no item 6.2.3.1 desta
+  IS.
+
+  6.4.6. [Recomendação 154.205(e)] - Em áreas de giro pavimentadas, o acostamento para área
+  de giro deve ser pavimentado.
+
+  6.4.7. [FC 154.205(e)(1)] - Em acostamentos para áreas de giro não pavimentados, deve ser
+  implantada uma cobertura vegetal composta de grama densa e bem enraizada, para reduzir a
+  possibilidade de erosão do solo e ingestão de pedras soltas e outros objetos estranhos pelos
+  motores das aeronaves.
+
+  6.4.7.1. Em solos não adequados para o plantio de grama, deve ser observado o disposto no
+  item 6.3.4.1 desta IS.
+
+  6.4.8. [FC 154.205(e)(3)] - Os acostamentos para área de giro na pista de pouso e decolagem
+  devem ser projetados para suportar, pelo menos, 1 (uma) passagem anual da aeronave mais
+  exigente do mix de aeronaves do aeródromo.
+
+  6.4.8.1. Para o projeto estrutural do acostamento, sugere-se consultar a Advisory Circular
+  (AC) nº 150/5320-6 da Federal Aviation Administration (FAA).
+
+  6.5. Faixas de pista de pouso e decolagem
+
+  6.5.1. [FC 154.207(d)(1)] - Objetos situados na faixa de pista que não sejam necessários
+  à navegação aérea ou à segurança operacional e que possam colocar em risco as aeronaves
+  devem ser considerados obstáculos e, portanto, removidos.
+
+  6.5.1.1. Os objetos necessários à navegação aérea ou a segurança operacional situados na
+  faixa de pista devem ser frangíveis e possuir a mínima altura e a mínima massa possíveis.
+  As orientações da ANAC sobre os requisitos de frangibilidade estão dispostas no Manual de
+  Frangibilidade, disponível no sítio da ANAC na rede mundial de computadores.
+
+  6.5.1.2. [Recomendação] - Recomenda-se que os objetos que não precisem estar situados no
+  nível da superfície da faixa de pista sejam enterrados a uma profundidade não inferior a
+  30 cm.
+
+  6.5.1.3. [Recomendação] - Para os objetos que precisem estar situados na superfície da faixa
+  de pista, como por exemplo caixas de passagem ou instalações das luzes de pista, recomenda-se
+  que as arestas sejam chanfradas desde a parte superior até não menos que 30 cm abaixo no
+  nível da superfície da faixa de pista. O objetivo é evitar que uma aeronave que saia acidentalmente
+  da pista, ao afundar no terreno, atinja uma face vertical rígida, o que pode causar danos
+  às rodas do trem de pouso.
+
+  6.5.2. A Figura 5 ilustra a zona da faixa de pista de pouso e decolagem em que pode haver
+  objetos fixos, descrita no parágrafo 154.207(d)(4) do RBAC nº 154.
+
+  Figura 5 - Zona da faixa de pista de pouso e decolagem em que pode haver objetos fixos,
+  localizada após a faixa preparada.
+
+
+  6.5.3. [Recomendação 154.207(e)(3)] - Para evitar danos às rodas de uma aeronave que sair
+  acidentalmente da pista, faces verticais entre a pista de pouso e decolagem, acostamento
+  ou zona de parada e a faixa de pista podem ser eliminadas por meio de chanfros desde a parte
+  superior de suas superfícies até não menos que 30 cm abaixo do nível de superfície da faixa
+  de pista, conforme demonstrado na Figura 6.
+
+
+  Figura 6 - Chanfro entre a superfície da faixa de pista, acostamento ou zona de parada e
+  a superfície da faixa de pista.
+
+
+  6.5.4. [FC 154.207(e)(4)] - A porção definida no parágrafo 154.207(e)(4) deve abranger toda
+  a largura de uma pista de pouso e decolagem, incluindo seus acostamentos.
+
+  6.5.4.1. [Recomendação] - Recomenda-se que essa porção se estenda por, no mínimo, 60 metros
+  para a operação de aeronaves código C, D, E e F, conforme Figura 7.
+
+  6.5.4.2. [Recomnedação] - Recomenda-se que essa porção seja pavimentada quando a pista de
+  pouso e decolagem for pavimentada.
+
+  6.5.4.3. Essa porção, quando pavimentada, pode ser chamada de plataforma contra jato de
+  motor (blast pad) e deve ser projetada para suportar, pelo menos, 1 (uma) passagem anual
+  da aeronave mais exigente do mix de aeronaves do aeródromo.
+
+  6.5.4.4. Nessa porção, quando não pavimentada, deve ser implantada uma cobertura vegetal
+  composta de grama densa e bem enraizada, para reduzir a possibilidade de erosão do solo
+  e ingestão de pedras soltas e outros objetos estranhos pelos motores das aeronaves.
+
+  6.5.4.5. Em solos não adequados para o plantio de grama, deve ser observado o disposto no
+  item 6.3.4.1 desta IS.
+
+
+  Figura 7 - Plataforma contra jato de motor (blast pad).
+
+  6.5.5. [FC 154.207(f)] - As declividades ao longo da faixa de pista de pouso e decolagem
+  devem observar os seguintes parâmetros:
+
+  Declividades longitudinais
+
+  6.5.5.1. A declividade longitudinal ao longo da faixa preparada não deve exceder:
+
+  6.5.5.1.1. 1,5 por cento onde o número de código for 4;
+
+  6.5.5.1.2. 1,75 por cento onde o número de código for 3; e
+
+  6.5.5.1.3. 2 por cento onde o número de código for 1 ou 2.
+
+  Declividades transversais
+
+  6.5.5.2. As declividades transversais na porção de uma faixa preparada, representadas na
+  Figura 3, não devem exceder:
+
+  6.5.5.2.1. 2,5 por cento onde o número de código for 3 ou 4; e
+
+  6.5.5.2.2. 3 por cento onde o número de código for 1 ou 2.
+
+  6.5.5.3. Para facilitar a drenagem, os 3 primeiros metros a partir da borda da pista, do
+  acostamento ou da zona de parada (stopway) podem ter declividade descendente de até 5%,
+  vide Figura 3.
+
+  6.5.5.4. As declividades transversais de qualquer porção de uma faixa de pista além da faixa
+  preparada não devem exceder uma declividade ascendente de 5 por cento.
+
+  6.5.6. [FC 154.207(g)] - A faixa preparada deve ser projetada para suportar, pelo menos,
+  1 (uma) passagem da aeronave mais exigente do mix de aeronaves do aeródromo.
+
+  6.5.6.1. Nos primeiros 15 cm a partir da superfície, o solo deve ter uma resistência menor
+  para favorecer a desaceleração da aeronave.
+
+  6.5.7. [Recomendação 154.207(g)] - A superfície da faixa preparada deve ter cobertura de
+  grama.
+
+  6.6. Áreas de Segurança de Fim de Pista (RESA)
+
+  6.6.1. [FC 154.209(c)(1)] - Os objetos localizados em uma RESA devem possuir as mínimas
+  altura e massa possíveis e devem ser frangíveis, observado o disposto no item 6.5.1.1 desta
+  IS.
+
+  6.6.2. [Recomendação 154.209(d)(1)] - A superfície da RESA deve ter cobertura de grama.
+
+  6.6.3. [FC 154.209(e)(2)] - As declividades longitudinais em uma RESA não devem exceder
+  uma declividade descendente de 5 por cento. Já as declividades transversais não devem exceder
+  uma declividade ascendente ou descendente de 5 por cento.
+
+  6.6.4. [FC 154.209(f)(1)] - A RESA deve ser projetada para suportar, pelo menos, 1 (uma)
+  passagem da aeronave mais exigente do mix de aeronaves do aeródromo.
+
+  6.6.4.1. Nos primeiros 15 cm a partir da superfície, o solo deve ter uma resistência menor
+  para favorecer a desaceleração da aeronave.
+
+  6.7. Zonas desimpedidas (clearways)
+
+  6.7.1. [FC 154.211(d)(1)(i)] - A superfície do terreno em uma zona desimpedida (clearway)
+  não deve se projetar acima de um plano com declividade ascendente de 1,25 por cento.
+
+  6.7.2. [FC 154.211(d)(1)(ii)] - Na porção da zona desimpedida dentro de uma distância de
+  22,5 m ou metade da largura da pista de pouso e decolagem, a que for maior, para cada lado
+  do prolongamento do eixo de pista, as declividades, as mudanças de declividade e a transição
+  da pista para a zona desimpedida devem estar de acordo com aquelas da pista de pouso e decolagem
+  à qual a zona desimpedida está associada.
+
+  6.7.3. [FC 154.211(e)(1)] - Os objetos localizados em zonas desimpedidas (clearways) devem
+  possuir as mínimas altura e massa possíveis e devem ser frangíveis, observado o disposto
+  no item 6.5.1.1 desta IS.
+
+  6.8. Zonas de parada (stopways)
+
+  6.8.1. [Recomendação 154.213] - A zona de parada (stopway) associada a uma pista de pouso
+  e decolagem pavimentada deve ser pavimentada.
+
+  6.8.2. [FC 154.213(b)(1)] - As declividades e as mudanças de declividade em uma zona de
+  parada (stopway) devem estar de acordo com as declividades da pista de pouso e decolagem
+  a que estiver associada, conforme item 6.2.1 desta IS, salvo que:
+
+  6.8.2.1. A limitação da declividade longitudinal de 0,8 por cento para a primeira e a última
+  quarta parte da pista de pouso e decolagem, descrita nos itens 6.2.1.3.1 e 6.2.1.3.2 desta
+  IS, não precisa ser aplicada às zonas de parada (stopways); e
+
+  6.8.2.2. Na junção da zona de parada (stopway) com a pista e ao longo da zona de parada,
+  a taxa máxima de mudança de declividade pode ser de 0,3 por cento por 30 m (raio de curvatura
+  de 10.000 m) para uma pista onde o número de código for 3 ou 4.
+
+  6.8.3. [FC 154.213(c)] - Zonas de parada (stopways) devem ser projetadas para suportar,
+  pelo menos, 1 (uma) passagem anual da aeronave mais exigente do mix de aeronaves do aeródromo.
+
+  6.8.3.1. Para o projeto estrutural de zonas de parada (stopways), sugere-se consultar a
+  Advisory Circular (AC) nº 150/5320-6 da Federal Aviation Administration (FAA).
+
+  6.9. Pistas de táxi
+
+  6.9.1. [FC 154.217(f)(1)] - As declividades de uma pista de táxi devem obedecer aos seguintes
+  parâmetros:
+
+  Declividades longitudinais
+
+  6.9.1.1. As declividades longitudinais não devem exceder:
+
+  6.9.1.1.1. 1,5 por cento onde a letra de código for C, D, E e F; e
+
+  6.9.1.1.2. 3 por cento onde a letra de código for A ou B.
+
+  Mudanças de declividade longitudinal
+
+  6.9.1.2. Onde não se puderem evitar mudanças de declividade longitudinal em pistas de táxi,
+  a transição de uma declividade para outra deve ser acompanhada de uma superfície curva com
+  uma taxa de mudança que não exceda:
+
+  6.9.1.2.1. 1 por cento por 30 m (raio mínimo de curvatura de 3.000 m) onde a letra de código
+  for C, D, E ou F; e
+
+  6.9.1.2.2. 1 por cento por 25 m (raio mínimo de curvatura de 2.500 m) onde a letra de código
+  for A ou B.
+
+  Distância visual
+
+  6.9.1.3. Onde não se puderem evitar mudanças de declividade longitudinal em pistas de táxi,
+  a mudança de declividade deve ser tal que, de qualquer ponto:
+
+  6.9.1.3.1. 3 m acima da pista de táxi, seja possível ver toda a superfície da pista de táxi
+  em uma distância de, no mínimo, 300 m desse ponto, onde a letra de código for C, D, E ou
+  F;
+
+  6.9.1.3.2. 2 m acima da pista de táxi, seja possível ver toda a superfície da pista de táxi
+  em uma distância de, no mínimo, 200 m desse ponto, onde a letra de código for B; e
+
+  6.9.1.3.3. 1,5 m acima da pista de táxi, seja possível ver toda a superfície da pista de
+  táxi em uma distância de, no mínimo, 150 m desse ponto, onde a letra de código for A.
+
+  Declividades transversais
+
+  6.9.1.4. As declividades transversais não devem exceder:
+
+  6.9.1.4.1. 1,5 por cento onde a letra de código for C, D, E ou F; e
+
+  6.9.1.4.2. 2 por cento onde a letra de código for A ou B.
+
+  6.9.2. [FC 154.217(g)] - A resistência do pavimento da pista de táxi deve ser aferida e
+  divulgada, observado o disposto no item 6.2.2 desta IS, devendo-se considerar o fato de
+  que uma pista de táxi pode estar sujeita a uma densidade de tráfego maior e, como resultado
+  da movimentação lenta e de paradas de aeronaves, a maiores esforços do que a pista de pouso
+  e decolagem.
+
+  6.9.2.1. [Recomendação] - Recomenda-se que a estrutura do pavimento da pista de táxi seja
+  projetada para uma vida útil de, pelo menos, 20 (vinte) anos.
+
+  6.9.3. [Recomendação 154.217(h)(2)] - O pavimento das pistas de táxi deve atender aos parâmetros
+  de referência destinados às pistas de pouso e decolagem descritos no parágrafo 153.205(g)(5)
+  do RBAC nº 153.
+
+  6.9.4. [FC 154.217(i)(3)] - Quando o ângulo de interseção de uma pista de táxi de saída
+  rápida com a pista de pouso e decolagem for de 30º, vide Figura 8, a distância retilínea
+  da pista de táxi de saída rápida após a curva de saída não deve ser inferior a:
+
+  6.9.4.1. 35 metros onde o número de código for 1 ou 2; e
+
+  6.9.4.2. 75 metros onde o número de código 3 ou 4.
+
+
+  Figura 8 - Pista de táxi de saída rápida.
+
+
+  6.9.5. [FC 154.217(j)(3)] - Os trechos de pistas de táxi que antecedem ou sucedem pistas
+  de táxi em pontes, conforme Figura 9, devem ser retilíneos e ter comprimento, pelo menos,
+  igual ao dobro da base de rodas (wheel base) da aeronave crítica e não inferior a:
+
+  6.9.5.1. 15 metros onde a letra de código for A;
+
+  6.9.5.2. 20 metros onde a letra de código for B;
+
+  6.9.5.3. 50 metros onde a letra de código for C, D ou E; e
+
+  6.9.5.4. 70 metros onde a letra de código for F.
+
+
+  Figura 9 - Pista de táxi em ponte.
+
+
+  6.10. Acostamentos de pista de táxi
+
+  6.10.1. [Recomendação 154.219] - Em pistas de táxi pavimentadas, o acostamento de pista
+  de táxi deve ser pavimentado. Acostamentos de pista de táxi devem ser projetados para suportar,
+  pelo menos, 1 (uma) passagem anual da aeronave mais exigente do mix de aeronaves que utilize
+  a pista de táxi.
+
+  6.10.1.1. Para o projeto estrutural de acostamentos de pista de táxi, sugere-se consultar
+  a Advisory Circular (AC) nº 150/5320-6 da Federal Aviation Administration (FAA).
+
+  6.10.2. [FC 154.219(c)] - Em acostamentos de pista de táxi não pavimentados, deve ser implantada
+  uma cobertura vegetal composta de grama densa e bem enraizada, para reduzir a possibilidade
+  de erosão do solo e ingestão de pedras soltas e outros objetos estranhos pelos motores das
+  aeronaves.
+
+  6.10.2.1. Em solos não adequados para o plantio de grama, deve ser observado o disposto
+  no item 6.3.4.1 desta IS.
+
+  6.11. Faixas de pista de táxi
+
+  6.11.1. [FC 154.221(c)] - Auxílios visuais e outros objetos que, devido às suas funções,
+  devem permanecer na faixa de pista de táxi, devem ser frangíveis, observado o disposto no
+  item 6.5.1.1 desta IS.
+
+  6.11.1.1. Estes auxílios ou objetos devem estar situados de forma que não possam ser atingidos
+  por hélices, motores e asas das aeronaves que trafeguem na pista de táxi.
+
+  6.11.2. [FC 154.221(e)(1)] - As declividades transversais em faixas de pista de táxi devem
+  obedecer aos seguintes parâmetros
+
+  6.11.2.1. A declividade ascendente não deve ser superior a 2,5 por cento onde a letra de
+  código for C, D, e ou F; e a 3 por cento onde a letra de código for A ou B; e
+
+  6.11.2.2. A declividade descendente não deve ser superior a 5 por cento.
+
+  6.11.3. [FC 154.221(e)(4)] - As declividades transversais ascendentes ou descendentes além
+  das áreas a serem niveladas em uma faixa de pista de táxi não devem exceder 5 por cento.
+
+  6.12. Pátios de aeronaves
+
+  6.12.1. [FC 154.225(c)] - A resistência do pavimento nos pátios de aeronaves deve ser aferida
+  e divulgada, observado o disposto no item 6.2.2 desta IS.
+
+  6.12.1.1. [Recomendação] - Recomenda-se que a estrutura do pavimento de pátios de aeronaves
+  seja projetada para uma vida útil de, pelo menos, 20 (vinte) anos.
+
+  6.12.2. [FC 154.225(d)] - Em uma posição de estacionamento, as declividades longitudinais
+  e transversais não devem exceder 1 por cento. Nas demais áreas do pátio, exceto em pistas
+  de táxi de pátio, para as quais deve ser observado o disposto no item 6.9.1 desta IS, as
+  declividades não devem exceder 1,5 por cento.
+
+  6.12.3. [Recomendação 154.225(d)] - As declividades devem direcionar a água, e eventualmente
+  combustível, para longe das edificações e das áreas destinadas à movimentação de pessoas
+  e equipamentos.
+
+  6.12.4. [Recomendação] - Recomenda-se que o projeto dos pátios de aeronaves considere critérios
+  para a execução adequada dos serviços de solo, incluindo:'
+keywords:
+- seguranca-aeroportuaria
+- pista
+- pouso
+- decolagem
+- codigo
+- cento
+- taxi
+- declividade
+- declividades
+- superficie
+- recomendacao
+- faixa
+- figura
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-002.md

@@ -1,0 +1,38 @@
+id: is-is-119-002-l4-1-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: L4.1
+section_title: o gestor responsável pelo detentor de certificado deve assinar e encaminhar
+  à ANAC
+subsection_id: body
+cite: L4.1
+title: o gestor responsável pelo detentor de certificado deve assinar e encaminhar à ANAC
+text: 'L4.1 o gestor responsável pelo detentor de certificado deve assinar e encaminhar à
+  ANAC
+
+  um documento em que declare que esse acúmulo não compromete a segurança
+
+  operacional da empresa, assumindo o compromisso de manter um nível aceitável de
+
+  desempenho da segurança.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- assinar
+- certificado
+- detentor
+- encaminhar
+- gestor
+- responsavel
+- seguranca
+- aceitavel
+- acumulo
+- assumindo
+- compromete
+- compromisso
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

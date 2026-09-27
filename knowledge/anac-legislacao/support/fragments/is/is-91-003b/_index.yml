@@ -1,0 +1,56 @@
+document: is-91-003b
+kind: is
+title: IS 91-003B
+ementa: Aprovação operacional para aproximações ILS CAT I com autorização requerida e decolagens
+  com baixa visibilidade mediante o emprego do Head Up Guidance System (HGS)
+family: '91'
+categories:
+- operacoes-gerais
+- regras-de-voo
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-003b
+language: pt
+foreign_annex: false
+sections:
+- abreviaturas
+- anexo-a-exemplo-de-carta-de-saida-padrao-por-instrumento
+- anexo-b-exemplo-de-carta-de-aproximacao-ils-cat-i-ar
+- apendice-a-controle-de-alteracoes
+- aplicabilidade
+- aprovacao
+- definicoes
+- disposicoes-finais
+- introducao
+- objetivo
+- preambulo
+fragment_count: 27
+fragment_ids:
+- is-is-91-003b-preambulo-body
+- is-is-91-003b-aprovacao-body
+- is-is-91-003b-objetivo-body
+- is-is-91-003b-objetivo-a
+- is-is-91-003b-objetivo-b
+- is-is-91-003b-aplicabilidade-body
+- is-is-91-003b-aplicabilidade-a
+- is-is-91-003b-aplicabilidade-b
+- is-is-91-003b-definicoes-body
+- is-is-91-003b-abreviaturas-body
+- is-is-91-003b-introducao-body
+- is-is-91-003b-introducao-a
+- is-is-91-003b-introducao-b
+- is-is-91-003b-introducao-c
+- is-is-91-003b-introducao-f
+- is-is-91-003b-introducao-g
+- is-is-91-003b-introducao-h
+- is-is-91-003b-introducao-i
+- is-is-91-003b-introducao-j
+- is-is-91-003b-introducao-k
+- is-is-91-003b-introducao-d
+- is-is-91-003b-introducao-e
+- is-is-91-003b-introducao-l
+- is-is-91-003b-disposicoes-finais-body
+- is-is-91-003b-anexo-a-exemplo-de-carta-de-saida-padrao-por-instrumento-body
+- is-is-91-003b-anexo-b-exemplo-de-carta-de-aproximacao-ils-cat-i-ar-body
+- is-is-91-003b-apendice-a-controle-de-alteracoes-body
+parser_version: 7

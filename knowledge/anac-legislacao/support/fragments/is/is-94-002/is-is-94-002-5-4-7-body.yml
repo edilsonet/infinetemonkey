@@ -1,0 +1,72 @@
+id: is-is-94-002-5-4-7-body
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.7
+section_title: Sistema de navegação para operações BVLOS - RBAC-E 94.407(b)
+subsection_id: body
+cite: 5.4.7
+title: Sistema de navegação para operações BVLOS - RBAC-E 94.407(b)
+text: '5.4.7 Sistema de navegação para operações BVLOS - RBAC-E 94.407(b)
+
+  O requerente deve estabelecer no AFM os limites de desempenho demonstrados do sistema
+
+  de navegação nos planos horizontal e vertical, os quais devem ser refletidos nos
+
+  procedimentos de planejamento de voos BVLOS em termos de distâncias em relação a áreas
+
+  de perigo e altitudes seguras de operação.
+
+  O requerente deve demonstrar que os erros totais do sistema nos eixos longitudinal e
+
+  transversal em relação à trajetória de voo (cross-track e along track) são menores que o
+  valor
+
+  especificado no plano horizontal durante 95% do tempo de voo.Data de emissão: 3 de maio
+  de 2017. IS Nº E94-002
+
+  Revisão A
+
+  O requerente deve demonstrar que o erro total do sistema no eixo vertical é menor que o
+
+  valor especificado no plano vertical durante 99,7% do tempo de voo.
+
+  O requerente deve estabelecer procedimentos de emergência para os casos que resultem em
+
+  degradação da capacidade de navegação (por exemplo, perda de uma fonte de navegação)
+
+  apropriados de acordo com as capacidades funcionais de cada equipamento utilizado.
+
+  Os projetos dos sistemas de navegação e dos demais sistemas que suportem o seu
+
+  funcionamento (tal como os sistemas de alimentação elétrica) devem atender os níveis de
+
+  criticidade identificados no Relatório de Análise de Risco, levando em conta os cenários
+  em
+
+  que a RPA irá operar BVLOS.
+
+  O RPAS deve possuir ao menos dois sistemas de navegação com um alerta de discrepância
+
+  entre os dados das fontes distintas.
+
+  Sistemas cuja perda da capacidade de navegação seja classificada como catastrófica não
+
+  poderão ter sua capacidade de navegação baseada unicamente em GNSS.'
+keywords:
+- navegacao
+- sistema
+- bvlos
+- sistemas
+- requerente
+- capacidade
+- operacoes
+- vertical
+- demonstrar
+- durante
+- especificado
+- estabelecer
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

@@ -1,0 +1,39 @@
+id: is-is-91-001-l6-2-d
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.2
+section_title: Dados e cálculos de performance de decolagem e subida
+subsection_id: d
+cite: L6.2(d)
+title: L6.2(d)
+text: d) O operador deve confirmar que a performance disponível da aeronave é suficiente para
+  atender às exigências do procedimento RNP AR DP a ser utilizado, incluindo contingências.
+  Os cálculos de performance de decolagem e subida (incluindo os realizados utilizando ferramentas)
+  devem endereçar gradientes de subida não padrão que podem ser requeridos pelos procedimentos
+  RNP AR DP. A análise de performance deve demonstrar cumprimento com o gradiente de subida
+  requerido e com eventuais restrições de altitude para cada segmento de um procedimento RNP
+  AR DP, para condições AEO e OEI, considerando cenários críticos mais extremos em termos
+  de temperatura e vento. Cálculos simplificados de performance, como a distância requerida
+  para subir da elevação da pista até o mais alto ponto barométrico do procedimento RNP AR
+  DP não são aceitáveis.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- performance
+- subida
+- calculos
+- procedimento
+- decolagem
+- incluindo
+- aceitaveis
+- aeronave
+- altitude
+- alto
+- analise
+- atender
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

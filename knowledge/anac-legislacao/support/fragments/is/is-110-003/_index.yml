@@ -1,0 +1,51 @@
+document: is-110-003
+kind: is
+title: IS 110-003A
+ementa: Exames teóricos para certificação de instrutor AVSEC Em vigor em 1º de março de 2025
+family: '110'
+categories:
+- carga
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-110-003
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-110-003
+language: pt
+foreign_annex: false
+sections:
+- '110.49'
+- anexo-1-leitura-da-tabela
+- anexo-17
+- anexo-i-leitura-da-tabela
+- apendice-a-lista-de-reducoes
+- apendice-b-controle-de-alteracoes
+- apendice-c-exames
+- apendice-d-objetivos-de-aprendizagem
+- aprovacao
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 18
+fragment_ids:
+- is-is-110-003-preambulo-body
+- is-is-110-003-aprovacao-body
+- is-is-110-003-objetivo-body
+- is-is-110-003-objetivo-b
+- is-is-110-003-revogacao-body
+- is-is-110-003-fundamentos-body
+- is-is-110-003-fundamentos-b
+- is-is-110-003-definicoes-body
+- is-is-110-003-desenvolvimento-do-assunto-body
+- is-is-110-003-apendice-a-lista-de-reducoes-body
+- is-is-110-003-apendice-b-controle-de-alteracoes-body
+- is-is-110-003-apendice-c-exames-body
+- is-is-110-003-apendice-d-objetivos-de-aprendizagem-body
+- is-is-110-003-disposicoes-finais-body
+- is-is-110-003-anexo-1-leitura-da-tabela-body
+- is-is-110-003-anexo-i-leitura-da-tabela-body
+- is-is-110-003-anexo-17-body
+- is-is-110-003-110-49-body
+parser_version: 7

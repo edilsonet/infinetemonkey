@@ -1,0 +1,37 @@
+id: is-is-91-001-d5-6-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: D5.6
+section_title: 'Quando sistemas GNSS não-integrados (stand-alone) forem utilizados, os procedimentos
+  operacionais devem identificar as ações que a tripulação deve executar na ocorrência de
+  perda da função RAIM ou caso se exceda o limite do alarme de integridade (que pode resultar
+  em erro excessivo de posicionamento). Tais procedimentos podem incluir:'
+subsection_id: b
+cite: D5.6(b)
+title: D5.6(b)
+text: 'b) nos casos de falha ou em que o limite do alarme de integridade é excedido a tripulação
+  deverá reverter para um método alternativo de navegação e informar ao controle de tráfego
+  aéreo.
+
+  D6. CRITÉRIOS DE AERONAVEGABILIDADE'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- alarme
+- integridade
+- limite
+- procedimentos
+- tripulacao
+- acoes
+- aereo
+- aeronavegabilidade
+- alone
+- alternativo
+- caso
+- casos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

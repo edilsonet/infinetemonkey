@@ -1,0 +1,32 @@
+id: is-is-91-010-7-2-2-a
+kind: is
+document: is-91-010
+family: '91'
+section_id: 7.2.2
+section_title: 'As seguintes informações devem constar expressamente da declaração de conformidade:'
+subsection_id: a
+cite: 7.2.2(a)
+title: 7.2.2(a)
+text: a) as especificações RCP e RSP do sistema de Data Link da aeronave. Caso o operador
+  não apresente tais dados ou a aeronave não atenda às especificações RCP e RSP, o uso de
+  CPDLC e ADS-C poderá ser autorizado, mas não será atribuída especificação PBCS;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- especificacoes
+- apresente
+- atenda
+- atribuida
+- autorizado
+- caso
+- conformidade
+- constar
+- cpdlc
+- dados
+- data
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

@@ -97,11 +97,18 @@ sections:
 - apendice-a-do-rbac-107
 - apendice-a-requisitos-aplicaveis-em-cada-classe-de-aerodromo
 - apendice-b-do-rbac-107
-- apendice-b-sancoes-aplicaveis-as-infracoes-ao-disposto-na-secao-107-143
+- apendice-b-sancoes-aplicaveis-as-infracoes-ao-dispost-ead0e0
+- aplicabilidade
+- aprovacao
+- disposicoes-finais
+- disposicoes-transitorias
 - preambulo
-fragment_count: 299
+- sumario
+fragment_count: 304
 fragment_ids:
 - rbac-rbac-107-preambulo-body
+- rbac-rbac-107-aprovacao-body
+- rbac-rbac-107-sumario-body
 - rbac-rbac-107-107-1-body
 - rbac-rbac-107-107-3-body
 - rbac-rbac-107-107-5-body
@@ -184,7 +191,7 @@ fragment_ids:
 - rbac-rbac-107-107-233-body
 - rbac-rbac-107-107-235-body
 - rbac-rbac-107-apendice-a-requisitos-aplicaveis-em-cada-classe-de-aerodromo-body
-- rbac-rbac-107-apendice-b-sancoes-aplicaveis-as-infracoes-ao-disposto-na-secao-107-143-body
+- rbac-rbac-107-apendice-b-sancoes-aplicaveis-as-infracoes-ao-dispost-ead0e0-body
 - rbac-rbac-107-107-1-a
 - rbac-rbac-107-107-1-b
 - rbac-rbac-107-107-1-c
@@ -399,5 +406,8 @@ fragment_ids:
 - rbac-rbac-107-107-233-h
 - rbac-rbac-107-107-233-i
 - rbac-rbac-107-apendice-a-do-rbac-107-body
+- rbac-rbac-107-aplicabilidade-body
+- rbac-rbac-107-disposicoes-finais-body
+- rbac-rbac-107-disposicoes-transitorias-body
 - rbac-rbac-107-apendice-b-do-rbac-107-body
-parser_version: 6
+parser_version: 7

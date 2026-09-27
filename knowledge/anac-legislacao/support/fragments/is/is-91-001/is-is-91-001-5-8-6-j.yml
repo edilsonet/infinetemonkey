@@ -1,0 +1,44 @@
+id: is-is-91-001-5-8-6-j
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.8.6
+section_title: 'De acordo com o exposto, de modo geral é esperado que os programas de treinamento
+  englobem, pelo menos, os seguintes tópicos:'
+subsection_id: j
+cite: 5.8.6(j)
+title: 5.8.6(j)
+text: 'j) informações específicas sobre os sistemas RNAV ou RNP, incluindo:
+
+  I - níveis de automação, modos de anúncio, alertas, interações, reversões e degradação;
+
+  II - integração funcional com demais sistemas da aeronave;
+
+  III - procedimentos de monitoramento para cada fase do voo;
+
+  IV - tipos de sensores de navegação utilizados pelo sistema RNAV ou RNP e sistemas/funcionalidades
+  associados;
+
+  V - efeitos de velocidade e altitude com relação à antecipação de curva;
+
+  VI - interpretação de displays e símbolos eletrônicos; e'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistemas
+- rnav
+- acordo
+- aeronave
+- alertas
+- altitude
+- antecipacao
+- anuncio
+- associados
+- automacao
+- cada
+- curva
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

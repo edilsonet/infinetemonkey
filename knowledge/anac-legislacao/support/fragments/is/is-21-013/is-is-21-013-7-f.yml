@@ -1,0 +1,40 @@
+id: is-is-21-013-7-f
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: f
+cite: 7(f)
+title: 7(f)
+text: 'f) Em aeronaves equipadas com um sistema SATCOM, deve ser verificada a
+
+  compatibilidade desse sistema com o equipamento GNSS e as antenas interligadas ao
+
+  equipamento GNSS. Alguns equipamentos GNSS/antenas podem ter sido qualificados
+
+  para níveis de interferência menos rigorosos que os destinados à instalação em
+
+  aeronaves com sistemas SATCOM;'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- gnss
+- aeronaves
+- antenas
+- equipamento
+- instalacao
+- satcom
+- sistema
+- alguns
+- compatibilidade
+- criterios
+- desse
+- destinados
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

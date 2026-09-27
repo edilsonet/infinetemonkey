@@ -1,0 +1,128 @@
+id: is-is-141-003-5-1-3-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 5.1.3
+section_title: 'Novas tecnologias: Comunicação Controlador-Piloto por'
+subsection_id: body
+cite: 5.1.3
+title: 'Novas tecnologias: Comunicação Controlador-Piloto por'
+text: '5.1.3 Novas tecnologias: Comunicação Controlador-Piloto por
+
+  Enlace de Dados (controller-pilot data link communication -
+
+  CPDLC); Vigilância Dependente Automática (automatic dependente
+
+  surveillance - ADS); ADS-B In e ADS-B Out -- Descrição.
+
+  UtilizaçãoData de emissão: 22 de dezembro de 2017. IS nº 141-003
+
+  Revisão A
+
+  INS); Sistema Global de navegação por Satélite (Global
+
+  Navigation Satellite System - GNSS).
+
+  • Explicar de que forma o conceito PBN está sendo
+
+  implantado no Brasil.
+
+  • Identificar os componentes de infraestrutura utilizada
+
+  para a navegação PBN e suas respectivas limitações.
+
+  • 5.2
+
+  • Definir a separação vertical no conceito de Separação
+
+  Vertical Mínima Reduzida (RVSM).
+
+  • Definir a separação lateral no conceito RNAV/RNP.
+
+  5.3
+
+  • Definir Waypoint (WPT)
+
+  • Citar os tipos de segmento - Path and Terminator
+
+  • Identificar como são representados os tipos de
+
+  segmentos.
+
+  • Conceituar Aircraft-Based Augmentation System
+
+  (ABAS), Satellite-Based Augmentation System (SBAS)
+
+  e Ground-Based Augmentation System (GBAS).
+
+  • Citar a finalidade do Aircraft-Based Augmentation
+
+  System (ABAS), do Satellite-Based Augmentation
+
+  System (SBAS) e do Ground-Based Augmentation
+
+  System (GBAS).
+
+  • Citar a finalidade dos seguintes equipamentos a bordo
+
+  das Aeronaves: -- Sistema de Gerenciamento de Voo
+
+  (Flight Management System - FMS) , do CDU (control
+
+  display unit) e do Sistema Eletrônico de Informação de
+
+  Voo (Eletronic Flight Information System - EFIS).
+
+  • Definir as especificações de navegação RNP / RNAV
+
+  10.
+
+  • Definir as especificações de navegação RNAV 05.
+
+  • Definir as especificações de navegação RNAV01e 02.
+
+  • Definir as especificações de navegação RNP 4.
+
+  • Definir as especificações de navegação RNP 1 BÁSICA.
+
+  • Definir as especificações de navegação RNP APP e RNP
+
+  APP AR.
+
+  • Definir as especificações de navegação APV/BARO
+
+  VNAV.
+
+  5.4
+
+  • Identificar a finalidade e a área de atuação da Agência de
+
+  Monitoração das Regiões do Caribe e América do Sul -
+
+  CARSAMMA.
+
+  • Listar os deveres e responsabilidades da CARSAMMA.
+
+  • Justificar a finalidade da aprovação das aeronaves
+
+  RVSM.'
+keywords:
+- escolas
+- treinamento
+- definir
+- navegacao
+- system
+- especificacoes
+- augmentation
+- based
+- finalidade
+- citar
+- comunicacao
+- conceito
+- controlador
+- identificar
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

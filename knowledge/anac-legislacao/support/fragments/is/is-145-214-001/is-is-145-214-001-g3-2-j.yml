@@ -1,0 +1,94 @@
+id: is-is-145-214-001-g3-2-j
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: G3.2
+section_title: Identificação do perigo
+subsection_id: j
+cite: G3.2(j)
+title: G3.2(j)
+text: 'j) troca de informações com operadores que contratam serviços de manutenção da organi-
+
+  zação (OM).
+
+  G3.2.2. Ao serem identificados, os perigos devem ser descritos de forma específica, a fim
+  de possibi-
+
+  litar seu tratamento adequado. Essa descrição é feita a partir de um perigo genérico (Top
+  Level
+
+  Hazards - TLH), que por sua vez é desmembrado em perigos específicos (Specific Hazards).
+
+  Por fim, a cada perigo específico são atribuídas possíveis consequências, conforme o exemplo
+
+  a seguir.
+
+  Situação: Determinado operador aéreo possui também a certificação de OM aeronáutica
+
+  segundo o RBAC 145. Dentre os serviços autorizados em suas especificações encontram-se
+
+  a pintura geral e balanceamento do modelo de aeronave por ele operado. Em atendimento
+
+  às determinações do RSO da organização, o GASO deve analisar os perigos associados às
+
+  deficiências na manutenção e inspeção das aeronaves para retorno ao serviço e que podem
+
+  levar às condições operacionais adversas.
+
+  Perigo genérico: aeronave não aeronavegável indevidamente retornada ao serviço após
+
+  manutenção e inspeção inadequadas.
+
+  Perigo específico: deficiências no procedimento de pintura geral da aeronave.
+
+  Consequência: dificuldades em serviço, incidentes ou acidentes atribuídos a:
+
+  - não detecção da alteração de peso e balanceamento fora dos limites espe-
+
+  cificados pelo fabricante da aeronave;
+
+  - não detecção da obstrução de tomadas de pressão estática dos sensores
+
+  de velocidade da aeronave; ou
+
+  - não detecção da ausência de marcas ou placares obrigatórios apagados
+
+  ou removidos para a pintura da aeronave.
+
+  Do mesmo modo, é possível analisar os diversos perigos específicos associados a cada cate-
+
+  goria e classe de serviço para os quais a OM está certificada.
+
+  No passo seguinte, os riscos associados a cada uma dessas consequências devem ser avalia-
+
+  dos levando-se em conta seus impactos sobre a segurança operacional da aeronave.
+
+  Nota - A responsabilidade da OM é limita aos serviços por ela executados e, por isso não
+  responde
+
+  pela operação das aeronaves por ela mantidas. Entretanto, a OM deve ser capaz de mensurar
+  ade-
+
+  quadamente os impactos adversos sobre a segurança operacional das aeronaves em decorrências
+  de
+
+  serviços de manutenção inadequadamente realizados.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- aeronave
+- perigo
+- perigos
+- servico
+- servicos
+- aeronaves
+- associados
+- cada
+- deteccao
+- pintura
+- analisar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

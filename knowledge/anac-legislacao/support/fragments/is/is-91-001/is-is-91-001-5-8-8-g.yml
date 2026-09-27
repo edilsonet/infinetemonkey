@@ -1,0 +1,61 @@
+id: is-is-91-001-5-8-8-g
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.8.8
+section_title: Operações PBN utilizando o GNSS
+subsection_id: g
+cite: 5.8.8(g)
+title: 5.8.8(g)
+text: 'g) no caso de modificações na aeronave que envolva sistemas de navegação necessários
+  às operações PBN, recai sobre o operador a responsabilidade pela validação das rotas e procedimentos,
+  quando aplicável, com a base de dados de navegação e o sistema modificado. Tal condição
+  pode ser satisfeita sem qualquer avaliação adicional caso o fabricante informe que as modificações
+  em questão não impactam na base de dados de navegação ou no cálculo da trajetória da aeronave.
+  Na ausência desta informação por parte do fabricante, o operador deve realizar uma validação
+  inicial dos dados de navegação com o sistema modificado.
+
+  5.10 Encerramento Compulsório do processo
+
+  5.10.1 Caso a solicitação seja rejeitada pela 3ª vez por não-conformidade ou incapacidade
+  de demonstração por parte do requerente, o processo será indeferido e arquivado compulsoriamente,
+  independentemente do prazo.
+
+  5.10.2 Os detentores de certificado de operador aéreo (COA) emitido segundo o RBAC nº 119
+  devem atender à IS nº 119-001 ou 119-004, como aplicável, com relação à condução do processo
+  e aos prazos para responder comunicações de não-conformidade.
+
+  5.10.3 A não observância do prazo definido, sem qualquer manifestação por parte do requerente
+  para a apresentação das ações requeridas, poderá caracterizar desistência e poderá ensejar
+  o encerramento do processo.
+
+  5.11 Processo de supervisão dos operadores
+
+  5.11.1 Os operadores devem estabelecer um processo para análise e envio de reportes de erros
+  de navegação de modo que se possa estabelecer a necessidade de tomar alguma ação corretiva.
+  Repetidas ocorrências de erros de navegação atribuídas a um determinado equipamento de navegação
+  necessitam de acompanhamento próximo e ações no sentido de se mitigar a causa do erro detectado.
+
+  5.11.2 A natureza da fonte do erro irá determinar as ações corretivas associadas que podem
+  incluir a necessidade de treinamento corretivo, adequação do programa de treinamento, restrições
+  de aplicação do sistema, ou mudanças de requisitos de software dos sistemas de navegação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- processo
+- acoes
+- caso
+- dados
+- operador
+- parte
+- sistema
+- aeronave
+- aplicavel
+- base
+- conformidade
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

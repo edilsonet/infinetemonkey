@@ -1,0 +1,124 @@
+id: is-is-21-013-8-body
+kind: is
+document: is-21-013
+family: '21'
+section_id: '8'
+section_title: VERIFICAÇÃO DA INSTALAÇÃO E DE SEU FUNCIONAMENTO NO SOLO
+subsection_id: body
+cite: '8'
+title: VERIFICAÇÃO DA INSTALAÇÃO E DE SEU FUNCIONAMENTO NO SOLO
+text: '8. VERIFICAÇÃO DA INSTALAÇÃO E DE SEU FUNCIONAMENTO NO SOLO
+
+  Como parte dos procedimentos para aprovação de instalações GNSS, as seguintes verificações
+
+  no solo devem ser efetuadas:
+
+  8.1. Verificar a posição da antena, com o afastamento mínimo de 3 pés (aproximadamente 1,0
+  m)
+
+  em relação a outras antenas ou conforme recomendado pelo fabricante, selagem, reforço e
+
+  vedação em aeronaves pressurizadas. O mínimo recomendado para afastamento entre cabos
+
+  de antena e outros cabos é de 7,6 cm ou 3,0 pol. A antena não deve ser pintada;16-12-2016
+  IS nº 21-013
+
+  Revisão B
+
+  8.2. Verificar a posição e inscrição dos placares aplicáveis;
+
+  8.3. Verificar a posição dos anunciadores de fonte de navegação e demais anunciadores e
+
+  repetidores. Verificar a adequação das luzes e cores, conforme aplicável;
+
+  8.4. Verificar a localização e a fixação das caixas de transferência, relés, módulos de
+  acoplamento,
+
+  entre outros e a independência da proteção e alimentação elétricas das mesmas, conforme
+
+  aplicável;
+
+  8.5. Verificar se os fios de alimentação e interface estão na bitola adequada e se são de
+  qualidade
+
+  aeronáutica;
+
+  8.6. Verificar identificação, valores, conformidade com o projeto e acesso aos disjuntores;
+
+  8.7. Verificar se o local de instalação do equipamento não está sujeito a condições ambientais
+
+  excessivas (temperatura, pressão, umidade etc.) e se os limites de operação do equipamento
+
+  são compatíveis com os limites ambientais onde será instalado na aeronave;
+
+  8.8. Verificar se o equipamento instalado não apresenta reflexos indesejáveis, se as suas
+
+  informações são legíveis durante o dia e à noite (caso aplicável) e se os seus comandos
+  são
+
+  acessíveis e visíveis (inclusive disjuntores);
+
+  8.9. Verificar a variação de intensidade luminosa (DIM/BRT) do display e anunciadores/avisos,
+
+  bem como verificar se os anunciadores e demais anúncios luminosos possuem dispositivo de
+
+  teste de lâmpadas (test lamps), conforme aplicável;
+
+  8.10. Verificar se o Manual de Operação do equipamento GNSS e demais funcionalidades
+
+  instaladas (exemplo: adendo para TAWS, entre outros) estão a bordo da aeronave, anotando
+
+  o PN e da revisão em vigor (incluindo a data da revisão);
+
+  8.11. Verificar se há interrupção do funcionamento do equipamento GNSS quando se abre o
+
+  disjuntor ou quando a aeronave está em emergência elétrica;
+
+  8.12. Verificar os procedimentos de inicialização, autoteste, versão do software, validade
+  do
+
+  database, número de satélites capturados e qualidade dos sinais recebidos;
+
+  8.13. Verificar se o equipamento GNSS, quando operando, não causa interferência nos demais
+
+  sistemas da aeronave (VHF, HF, VOR, DME, ADF, rádio altímetro etc.). O chaveamento de
+
+  fontes elétricas (geradores, alternadores) não deverá influir significativamente nas
+
+  informações apresentadas pelo GNSS;
+
+  8.14. Para instalações GNSS devem ser verificadas as interferências harmônicas das frequências
+  de
+
+  VHF, conforme descrito nessa IS. É importante ressaltar que, nas instalações de sistemas
+
+  GNSS para PBN, não é aceitável que o GNSS sofra interferência significativa de qualquer
+
+  equipamento de bordo.
+
+  Nota: Um modelo de cartão de ensaios no solo é apresentado no Apêndice C desta IS.16-12-2016
+  IS nº 21-013
+
+  Revisão B'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- verificar
+- gnss
+- equipamento
+- solo
+- aeronave
+- anunciadores
+- aplicavel
+- demais
+- funcionamento
+- instalacao
+- revisao
+- antena
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

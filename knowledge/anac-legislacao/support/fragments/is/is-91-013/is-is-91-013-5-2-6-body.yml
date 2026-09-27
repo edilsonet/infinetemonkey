@@ -1,0 +1,242 @@
+id: is-is-91-013-5-2-6-body
+kind: is
+document: is-91-013
+family: '91'
+section_id: 5.2.6
+section_title: Gerenciamento da frota de aeronaves
+subsection_id: body
+cite: 5.2.6
+title: Gerenciamento da frota de aeronaves
+text: '5.2.6 Gerenciamento da frota de aeronaves
+
+  5.2.6.1 As EA dos administradores de programa segundo a Subparte K do RBAC nº 91 apresentam
+  as informações de cada modelo de aeronave autorizada a realizar operações dentro de um programa
+  de propriedade compartilhada. Não são listadas as marcas de nacionalidade e matrícula das
+  aeronaves.
+
+  5.2.6.2 Dessa maneira, o parágrafo 91.1027(a)(2) do RBAC nº 91 requer o gerenciamento da
+  frota de aeronaves de um programa por meio de listagem atualizada, sendo de responsabilidade
+  do detentor das EA possuir e formalizar no seu manual de operação, processos e procedimentos
+  para gerenciamento de sua frota.
+
+  5.2.6.3 De acordo com a seção 91.1025 do RBAC n˚ 91 é responsabilidade do detentor das EA
+  estabelecer procedimentos para garantir que cada aeronave esteja aeronavegável e com os
+  equipamentos necessários para cada tipo de operação, aprovados e em condições operáveis
+  antes de ser designada para operação dentro do programa.
+
+  5.2.6.4 Durante o processo de emissão inicial das EA de uma organização requerente ou de
+  inclusão de novo modelo nas EA de um administrador de programa, deverá ser demonstrado que
+  a organização requerente ou o detentor das EA possui processo de gerenciamento de frota
+  documentado e efetivo que garanta o atendimento dos requisitos operacionais, de equipamentos,
+  de manutenção e de registro da legislação aplicável, nas operações segundo a Subparte K
+  o RBAC nº 91.
+
+  5.2.6.5 Para cumprimento do parágrafo 91.1027(a)(2) do RBAC nº 91, o detentor das EA deverá
+  manter atualizada a listagem de cada aeronave (fabricante, modelo e matrícula) operada detalhando
+  as suas capacidades e autorizações (no mesmo formato e detalhamento que as EA apresentam
+  para o modelo, conforme exemplo na Tabela 1 (tabela não exaustiva)), de forma a garantir
+  que somente aeronaves capacitadas são designadas para as operações autorizadas para o modelo
+  nas EA.
+
+
+  Tabela 1 - Tabela de detalhamento da listagem de aeronaves da frota
+
+  Item
+
+  Fabricante
+
+  Modelo
+
+  Marcas e matrícula
+
+  Transp de PAX
+
+  IFR
+
+  MEL
+
+  IFR Single Pilot com PAX
+
+  EFB
+
+  RVSM
+
+  PBN
+
+  Grde. Ext. de Água
+
+  NAT-HLA
+
+  ILS CAT II
+
+  ILS CAT III
+
+  HGS
+
+  PED
+
+  1
+
+  FABRICANTE
+
+  MODELO
+
+  XX-XXX
+
+  S
+
+  S
+
+  S
+
+  N
+
+  S
+
+  S
+
+  S
+
+  S
+
+  S
+
+  S
+
+  N
+
+  S
+
+  S
+
+  2
+
+  FABRICANTE
+
+  MODELO
+
+  YY-YYY
+
+  S
+
+  S
+
+  S
+
+  N
+
+  S
+
+  S
+
+  S
+
+  S
+
+  N
+
+  S
+
+  N
+
+  N
+
+  S
+
+  3
+
+  FABRICANTE
+
+  MODELO
+
+  ZZ-ZZZ
+
+  S
+
+  S
+
+  N
+
+  N
+
+  S
+
+  N
+
+  S
+
+  N
+
+  N
+
+  N
+
+  N
+
+  N
+
+  S
+
+  4
+
+  FABRICANTE
+
+  MODELO
+
+  ...-......
+
+  S
+
+  N
+
+  N
+
+  N
+
+  S
+
+  N
+
+  S
+
+  N
+
+  N
+
+  N
+
+  N
+
+  N
+
+  N
+
+  5
+
+  FABRICANTE
+
+  MODELO
+
+  5.2.6.6 Essa listagem deverá ser apresentada como parte do PSF e mantida nas bases (principais
+  e secundárias) administrativas, operacionais e de manutenção, conforme aplicável, e disponibilizadas
+  à Anac sempre que solicitadas ao detentor das EA.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- modelo
+- aeronaves
+- fabricante
+- frota
+- gerenciamento
+- detentor
+- programa
+- cada
+- listagem
+- tabela
+- aeronave
+- devera
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-013.md

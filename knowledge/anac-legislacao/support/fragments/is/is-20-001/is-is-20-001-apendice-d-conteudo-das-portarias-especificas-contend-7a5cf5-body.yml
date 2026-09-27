@@ -1,0 +1,82 @@
+id: is-is-20-001-apendice-d-conteudo-das-portarias-especificas-contend-7a5cf5-body
+kind: is
+document: is-20-001
+family: '20'
+section_id: apendice-d-conteudo-das-portarias-especificas-contend-7a5cf5
+section_title: APÊNDICE D - Conteúdo das portarias específicas contendo procedimentos para
+  alterações
+subsection_id: body
+cite: apendice-d-conteudo-das-portarias-especificas-contend-7a5cf5
+title: APÊNDICE D - Conteúdo das portarias específicas contendo procedimentos para alterações
+text: 'APÊNDICE D - Conteúdo das portarias específicas contendo procedimentos para alterações
+
+  D.1 As portarias específicas com procedimentos para alterações possuem o seguinte conteúdo:
+
+  D.1.1 Objetivo: Neste campo, encontra-se o artigo aeronáutico de interesse para instalação
+  ou substituição na aeronave (ex: cronômetro, VHF-COMM, INTERCOM, Stormscope etc).
+
+  D.1.2 Aplicabilidade/Eligibilidade: O campo descreve quais aeronaves são elegíveis para
+  a instalação (ex: aeronaves não pressurizadas com PMD de até 5700kg).
+
+  D.1.3 Classificação da Alteração: A ANAC indica a classificação da alteração como pequena
+  ou como grande.
+
+  D.1.4 Métodos Aceitos/Aprovados: Este campo apresenta todos métodos, ações, tarefas, inspeções,
+  análises, etc. que devem ser realizados relacionados à alteração. A execução de todos os
+  métodos previstos na portaria é mandatória para que o processo simplificado de aprovação
+  de grande alteração descrito nesta IS possa ser utilizado. Para portaria destinada a pequena
+  alteração, ela somente será considerada um dado técnico aceito se for integralmente cumprida.
+
+  D.1.5 Limitações: O campo define todas limitações de aeronavegabilidade e operacionais relacionadas
+  à alteração.
+
+  D.1.6 Manuais/Placares: O campo apresenta todos os manuais a serem atualizados (ex: manual
+  de voo, ICA, etc), além de definir todos os placares com informações ou limitações a serem
+  apresentadas para tripulação (ex: O uso do equipamento X está limitado a operações VFR.).
+
+  D.1.7 Profissionais Envolvidos: O campo lista quais devem ser os profissionais envolvidos
+  na implementação da alteração.
+
+  D.1.8 Envolvimento de PCP ou Organização de Projeto Certificada: Para aprovação simplificada
+  de grandes alterações, é possível envolver um PCP ou de uma Organização de Projeto (tal
+  envolvimento não é obrigatório, vide item 5.7.7.1 desta IS). O campo descreve quais quadros
+  e funções necessários para a atuação de um PCP. Além disso, o campo descreve se a aprovação
+  será realizada diretamente pela ANAC ou se a ANAC reconhecerá como aprovados os dados técnicos
+  desenvolvidos de acordo a portaria específica, sob responsabilidade do PCP. O escopo das
+  Organizações de Projeto será delimitado em sua certificação.
+
+  D.1.9 Elaboração, Envio e Registro do pacote de dados: No caso de grande alteração, o campo
+  lista o pacote de dados a serem elaborados e se deve ser enviado à ANAC para aprovação do
+  Formulário F-400-04 (SEGVOO 001) ou ser mantido por parte do detentor dos dados.
+
+  NOTAS:
+
+  1) Caso um PCP seja envolvido na aprovação do pacote de dados técnicos, o Formulário F-101-06
+  preenchido pelo PCP deverá fazer parte do pacote de dados. No caso de uma Organização de
+  Projeto, devem ser enviados os documentos estabelecidos na sua certificação.
+
+  2) Caso uma TFAC (Taxa de Fiscalização de Aviação Civil) seja aplicável, este campo informará
+  a necessidade de pagamento para avaliação da documentação por parte da ANAC.
+
+  D.1.10 Retorno ao Serviço: O campo lista todas as tarefas previstas para o retorno ao serviço
+  após a instalação da alteração.
+
+  NOTA: A execução das tarefas deste campo não isenta o cumprimento dos requisitos presentes
+  nos RBAC 43 e RBAC 91, que devem ser verificados e cumpridos, conforme aplicável.'
+keywords:
+- campo
+- alteracao
+- dados
+- alteracoes
+- aprovacao
+- caso
+- conteudo
+- especificas
+- pacote
+- portarias
+- procedimentos
+- projeto
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-20-001.md

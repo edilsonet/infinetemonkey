@@ -1,0 +1,69 @@
+id: is-is-91-001-f5-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: F5.4
+section_title: Durante as operações RNP 4, os pilotos devem utilizar um indicador de desvio
+  lateral, diretor de voo ou piloto automático em modo de navegação lateral. É esperado que
+  os pilotos mantenham os centros das trajetórias, conforme orientado pelos indicadores de
+  desvio lateral e/ou diretor de voo, a menos que seja diferentemente autorizado pelo ATC
+  ou esteja em condições de emergência. Em condições normais de operação, o erro técnico de
+  voo (ou cross-track error, que é a diferença entre a trajetória computada pelo sistema de
+  navegação RNAV e a posição da aeronave relativa a essa trajetória) deve ser limitado a ±1/2
+  da precisão de navegação associada à rota (para o RNP 4 esse valor equivale a ±2 NM). Pequenos
+  desvios deste padrão (por exemplo, overshoots e undershoots) são aceitáveis durante e imediatamente
+  após curvas em rota até o valor máximo de uma vez o valor da precisão de navegação (para
+  o RNP 4 esse valor equivale a ±4 NM).
+subsection_id: body
+cite: F5.4
+title: Durante as operações RNP 4, os pilotos devem utilizar um indicador de desvio lateral,
+  diretor de voo ou piloto automático em modo de navegação lateral. É esperado que os pilotos
+  mantenham os centros das trajetórias, conforme orientado pelos indicadores de desvio lateral
+  e/ou diretor de voo, a menos que seja diferentemente autorizado pelo ATC ou esteja em condições
+  de emergência. Em condições normais de operação, o erro técnico de voo (ou cross-track error,
+  que é a diferença entre a trajetória computada pelo sistema de navegação RNAV e a posição
+  da aeronave relativa a essa trajetória) deve ser limitado a ±1/2 da precisão de navegação
+  associada à rota (para o RNP 4 esse valor equivale a ±2 NM). Pequenos desvios deste padrão
+  (por exemplo, overshoots e undershoots) são aceitáveis durante e imediatamente após curvas
+  em rota até o valor máximo de uma vez o valor da precisão de navegação (para o RNP 4 esse
+  valor equivale a ±4 NM).
+text: 'F5.4 Durante as operações RNP 4, os pilotos devem utilizar um indicador de desvio lateral,
+  diretor de voo ou piloto automático em modo de navegação lateral. É esperado que os pilotos
+  mantenham os centros das trajetórias, conforme orientado pelos indicadores de desvio lateral
+  e/ou diretor de voo, a menos que seja diferentemente autorizado pelo ATC ou esteja em condições
+  de emergência. Em condições normais de operação, o erro técnico de voo (ou cross-track error,
+  que é a diferença entre a trajetória computada pelo sistema de navegação RNAV e a posição
+  da aeronave relativa a essa trajetória) deve ser limitado a ±1/2 da precisão de navegação
+  associada à rota (para o RNP 4 esse valor equivale a ±2 NM). Pequenos desvios deste padrão
+  (por exemplo, overshoots e undershoots) são aceitáveis durante e imediatamente após curvas
+  em rota até o valor máximo de uma vez o valor da precisão de navegação (para o RNP 4 esse
+  valor equivale a ±4 NM).
+
+  Nota: algumas aeronaves não possuem a capacidade de exibição aos pilotos ou de realizar
+  o cômputo da trajetória durante a execução de curvas. Os pilotos de tais aeronaves podem
+  não ser capazes de aderir ao critério de precisão de ±1/2 durante curvas em rota, contudo,
+  ainda é esperado que satisfaçam ao critério nas interceptações após as curvas e em segmentos
+  retos.
+
+
+  F6. PROCEDIMENTOS DE CONTINGÊNCIA'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- valor
+- lateral
+- durante
+- pilotos
+- precisao
+- rota
+- trajetoria
+- condicoes
+- curvas
+- desvio
+- diretor
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,51 @@
+id: is-is-121-005-desenvolvimento-do-assunto-body
+kind: is
+document: is-121-005
+family: '121'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Introdução
+
+  5.1.1 O Manual Geral de Operações (MGO) deve conter todas as informações, políticas e procedimentos
+  do operador não relacionadas a um tipo específico de aeronave, ou seja, que se aplicam de
+  forma genérica às operações. O manual também deve conter as regras administrativas relacionadas
+  ao controle e às revisões do documento, sua distribuição, acessibilidade etc.
+
+  5.1.2 A elaboração do manual deve ser realizada considerando as disposições dos RBAC, bem
+  como de Instruções Suplementares e outros normativos específicos que tratam de operações
+  e autorizações especiais, tais como PBN, RVSM, ETOPS, etc.
+
+  5.1.3 Nas seções do manual que tratam das operações que requerem autorização nas EO, o operador
+  deverá descrever procedimentos que sejam coerentes com as restrições e limitações aprovadas.
+  Nos casos em que tais operações especiais não estejam autorizadas, o MGO deverá indicar
+  claramente tal condição.
+
+  Exemplo: caso o operador não esteja autorizado nas EO a realizar operações ETOPS, a respectiva
+  seção do MGO que trata da operação especial deverá conter o seguinte texto ou equivalente:
+  “ABC Linhas Aéreas não está autorizada a realizar operações ETOPS”.
+
+  5.2 Conteúdo e estrutura do MGO'
+keywords:
+- transporte-aereo
+- operacoes
+- manual
+- assunto
+- conter
+- desenvolvimento
+- devera
+- etops
+- operador
+- especiais
+- procedimentos
+- realizar
+- relacionadas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

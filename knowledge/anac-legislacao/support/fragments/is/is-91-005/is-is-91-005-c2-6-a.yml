@@ -1,0 +1,36 @@
+id: is-is-91-005-c2-6-a
+kind: is
+document: is-91-005
+family: '91'
+section_id: C2.6
+section_title: C2.6
+subsection_id: a
+cite: C2.6(a)
+title: C2.6(a)
+text: a) O sistema altimétrico deve proporcionar um sinal (saída) que possa ser utilizado
+  por um sistema de controle automático de altitude para manter a aeronave em uma altitude
+  selecionada. O sinal pode ser utilizado de maneira direta ou de forma combinada com sinais
+  de outros sensores. Se é necessária a SSEC para satisfazer os requisitos do Apêndice D desta
+  IS, então uma SSEC equivalente pode ser aplicada ao sinal de controle de altitude. O sinal
+  pode ser um sinal de desvio de altitude, relacionada à altitude selecionada ou um sinal
+  de altitude absoluta adequada.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- altitude
+- sinal
+- pode
+- controle
+- selecionada
+- sistema
+- ssec
+- utilizado
+- absoluta
+- adequada
+- aeronave
+- altimetrico
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

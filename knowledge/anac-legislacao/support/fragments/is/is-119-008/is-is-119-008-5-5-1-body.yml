@@ -1,0 +1,62 @@
+id: is-is-119-008-5-5-1-body
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.5.1
+section_title: Organização e Controle da Informação do PAADV
+subsection_id: body
+cite: 5.5.1
+title: Organização e Controle da Informação do PAADV
+text: '5.5.1 Organização e Controle da Informação do PAADV
+
+  5.5.1.1 Atendendo a requisitos previstos na legislação vigente, essa seção trata de alguns
+  assuntos que caminham em paralelo com as premissas da correta manipulação de dados extraídos
+  dos gravadores de voo das aeronaves, assim como a destinação de informações consideradas
+  sensíveis no processo de coleta, tratamento e armazenamento de informações. Utilizando-se
+  das recomendações e padrões da OACI no que diz respeito ao PAADV, esta IS passa a adotar
+  também requisitos relacionados com a legislação brasileira, considerando também a adoção
+  de boas práticas previstas em processos de manipulação de informações e governança de dados.
+
+  5.5.1.2 O operador aéreo deverá definir, em sua política de proteção de dados, quais dados
+  ou informações de voo utilizados ou produzidos pelo PAADV estão classificados como sendo
+  de acesso restrito, bem como qual nível de acesso requerido para acessá-los dentre os níveis
+  definidos nessa política.
+
+  5.5.1.3 A política de proteção de dados deverá definir critérios e procedimentos a serem
+  adotados para a concessão, alteração e remoção de prerrogativas de acesso e nível de acesso
+  aos dados para usuários do PAADV.
+
+  5.5.1.4 Os dados e informações de voo classificados como sendo de acesso restrito não poderão
+  ser acessados por usuários que não tenham recebido a prerrogativa de acesso em um dos níveis
+  de acesso definidos pela política de proteção dados do operador.
+
+  5.5.1.5 O operador deve assegurar que cada usuário dos dados e das informações do PAADV
+  não possua acesso aos dados em nível superior ao estritamente necessário ao desempenho de
+  suas funções.
+
+  5.5.1.6 A política de proteção de dados deve impedir, na medida do possível, a identificação
+  de tripulantes envolvidos em eventos apontados pelo PAADV por pessoas que não possuam prerrogativa
+  e nível de acesso a dados que permitam tal identificação.
+
+  5.5.1.7 Assim como qualquer outro sistema de informação, é fundamental que os fluxos de
+  dados sejam rigorosamente controlados por procedimentos bem definidos e formalizados.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- dados
+- acesso
+- paadv
+- informacoes
+- politica
+- informacao
+- nivel
+- protecao
+- controle
+- definidos
+- operador
+- organizacao
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

@@ -1,0 +1,37 @@
+id: is-is-91-005-d3-3-c
+kind: is
+document: is-91-005
+family: '91'
+section_id: D3.3
+section_title: 'Os critérios que devem ser cumpridos em um envelope de voo básico são:'
+subsection_id: c
+cite: D3.3(c)
+title: D3.3(c)
+text: c) se for necessário, para os propósitos de obter uma autorização operacional para RVSM
+  para um grupo de aeronaves, uma limitação de operação pode ser estabelecida, a fim de restringir
+  a operação RVSM nas partes do envelope completo onde o valor absoluto da ASE exceda 37 m
+  (120 ft) e/ou o valor da ASE média mais três desvios-padrão da ASE exceda 75 m (245 ft).
+  Quando esta limitação for estabelecida, deve estar identificada nos dados remetidos pelo
+  operador por ocasião da solicitação e deve estar documentada nos manuais de operação das
+  aeronaves envolvidas. No entanto, não será requerida a instalação/implementação de um aviso
+  visual ou sonoro nas aeronaves.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronaves
+- operacao
+- envelope
+- estabelecida
+- estar
+- exceda
+- limitacao
+- rvsm
+- valor
+- absoluto
+- autorizacao
+- aviso
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

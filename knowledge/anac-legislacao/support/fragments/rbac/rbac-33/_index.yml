@@ -1,0 +1,27 @@
+document: rbac-33
+kind: rbac
+title: RBAC 33 EMD 35
+ementa: 'Requisitos de Aeronavegabilidade: Motores Aeronáuticos'
+family: '33'
+categories:
+- motores
+- aeronavegabilidade
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-33
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-33
+language: pt
+foreign_annex: false
+sections:
+- apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa
+- preambulo
+- sumario
+fragment_count: 7
+fragment_ids:
+- rbac-rbac-33-preambulo-body
+- rbac-rbac-33-sumario-body
+- rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-body
+- rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-a
+- rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-b
+- rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-c
+- rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-d
+parser_version: 7

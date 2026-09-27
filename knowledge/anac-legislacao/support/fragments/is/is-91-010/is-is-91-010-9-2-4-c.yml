@@ -1,0 +1,42 @@
+id: is-is-91-010-9-2-4-c
+kind: is
+document: is-91-010
+family: '91'
+section_id: 9.2.4
+section_title: 'O treinamento inicial dos pilotos para comunicações por data link deve incluir,
+  no mínimo, os seguintes procedimentos:'
+subsection_id: c
+cite: 9.2.4(c)
+title: 9.2.4(c)
+text: 'c) Tempo nominal de transação e tempo operacional de transação: ACP e ASP são avaliados
+  utilizando critérios de continuidade operacional (99,9%) e nominal (95%). O ACP e o ASP
+  de cada aeronave monitorada devem manter-se iguais ou superiores ao padrão nominal. Caso
+  o ACP ou ASP não atinjam o padrão nominal, o operador deve suspender suas operações com
+  Data Link até que o problema seja resolvido. Caso o ACP ou ASP atinjam o padrão nominal,
+  mas não atinjam o padrão operacional, o operador pode continuar suas operações com Data
+  Link, mas deve providenciar ações corretivas para reestabelecer o nível operacional.
+
+  11.4 O Programa de Monitoramento de Desempenho deve incluir procedimentos para que periodicamente
+  o operador reporte os problemas encontrados aos órgãos ATS e às Agências de Monitoração
+  Regional - RMA competentes pelo espaço aéreo em que o problema foi detectado. Exemplos de
+  problemas comumente encontrados que devem ser objeto de reporte são:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- nominal
+- operacional
+- padrao
+- atinjam
+- data
+- link
+- operador
+- caso
+- encontrados
+- incluir
+- operacoes
+- problema
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

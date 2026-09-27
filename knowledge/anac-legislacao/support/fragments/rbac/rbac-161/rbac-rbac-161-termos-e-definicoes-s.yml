@@ -1,0 +1,30 @@
+id: rbac-rbac-161-termos-e-definicoes-s
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: s
+cite: termos-e-definicoes(s)
+title: termos-e-definicoes(s)
+text: '(s)
+
+  Ruído de fundo: média dos níveis de ruído em determinado local e hora, considerados na ausência
+  de ruído aeronáutico.'
+keywords:
+- ruido
+- definicoes
+- termos
+- aeronautico
+- ausencia
+- considerados
+- determinado
+- fundo
+- hora
+- local
+- media
+- niveis
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

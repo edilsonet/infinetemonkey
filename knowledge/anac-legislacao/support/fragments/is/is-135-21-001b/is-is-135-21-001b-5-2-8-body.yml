@@ -1,0 +1,44 @@
+id: is-is-135-21-001b-5-2-8-body
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.8
+section_title: Sistema de identificação e rastreabilidade de partes
+subsection_id: body
+cite: 5.2.8
+title: Sistema de identificação e rastreabilidade de partes
+text: '5.2.8 Sistema de identificação e rastreabilidade de partes
+
+  5.2.8.1 O MGM deve descrever um sistema de identificação e rastreabilidade de partes de
+  forma que cada parte esteja, a todo momento, desde a chegada à empresa até a instalação
+  na aeronave ou conjunto maior, ou, desde a remoção da aeronave ou conjunto maior até o almoxarifado,
+  identificada com uma etiqueta da empresa atestando a sua condição de uso.
+
+  5.2.8.2 O MGM deve descrever como o CTM toma conhecimento e atualiza seu controle cada vez
+  que um componente vindo do almoxarifado é instalado na aeronave, e cada vez que um componente
+  é retirado de uma aeronave para ser instalado em outra aeronave.
+
+  5.2.8.3 O sistema adotado deve prover meios para distinguir visualmente as partes que estão
+  boas para uso, aquelas que não estão boas para uso e aquelas condenadas. Etiquetas coloridas
+  (branca, verde, amarela e vermelha) podem ser utilizadas como parte do sistema de identificação
+  e rastreabilidade de partes.'
+keywords:
+- taxi-aereo
+- operacoes
+- partes
+- sistema
+- aeronave
+- identificacao
+- rastreabilidade
+- cada
+- almoxarifado
+- aquelas
+- boas
+- componente
+- conjunto
+- descrever
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

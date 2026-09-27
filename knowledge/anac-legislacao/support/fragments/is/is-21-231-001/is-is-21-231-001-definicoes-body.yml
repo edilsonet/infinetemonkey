@@ -1,0 +1,82 @@
+id: is-is-21-231-001-definicoes-body
+kind: is
+document: is-21-231-001
+family: '21'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Aprovação: quando relativa à organização, indica toda e qualquer ação interna à Organização
+  de Projeto necessária a estabelecer que o documento, manual ou outra informação relativa
+  ao CT, CST ou dado técnico para grande reparo ou dados técnicos para grande alteração está
+  devidamente concluída e aprovada internamente. Pode substituir a aprovação da Autoridade
+  de Aviação Civil - AAC, conforme Termos da Certificação.
+
+  Certificação de Organização de Projeto - COPj: representa o processo de certificação de
+  uma organização que desenvolve projeto de produto aeronáutico estabelecido por meio da subparte
+  J do RBAC nº 21.
+
+  Declaração de Conformidade: quando relativa a um ensaio, refere-se à declaração de conformidade
+  ao projeto de tipo de uma aeronave, motor ou hélice, ou peça da aeronave, conforme estabelecido
+  na seção 21.53 do RBAC nº 21.
+
+  Declaração de Cumprimento com os Requisitos do Projeto: é a declaração emitida ao final
+  de todas as tarefas de verificação de cumprimento com a base de certificação e demais requisitos
+  aplicáveis para um determinado projeto.
+
+  NOTA: A base de certificação está definida na IS nº 21-001.
+
+  Documento de Conformidade: qualquer documento gerado para estabelecer a conformidade de
+  um ensaio específico, e que serve como base à Declaração de Conformidade. Pode incluir Fichas
+  de Inspeção de Conformidade, Fichas de Desvios, Análise dos desvios etc.
+
+  NOTA: Tais documentos podem ser incorporados à Declaração de Conformidade.
+
+  Documento de Cumprimento com os Requisitos do Projeto (documento de cumprimento): documento
+  que contém os dados de demonstração de cumprimento com o requisito de certificação.
+
+  NOTA: Todos os documentos de cumprimento serão verificados pelo Compliance Verification
+  Expert - CVE como parte do Sistema de Garantia do Projeto.
+
+  Documento de Verificação de Cumprimento com os Requisitos do Projeto: qualquer registro
+  gerado para indicar a realização da verificação do cumprimento de determinado requisito
+  aplicável ao projeto, conforme procedimentos.
+
+  NOTA: Um documento dedicado com as informações de verificação ou a assinatura do CVE em
+  um documento de cumprimento com os requisitos são consideradas formas aceitáveis para o
+  registro pretendido.
+
+  Matriz de Cumprimento da Organização de Projeto - MCOPj: Declaração emitida em conjunto
+  com o Manual da Organização de Projeto (MOPj) indicando o atendimento a todos os requisitos
+  da subparte J do RBAC nº 21, conforme seção 21.243-I do RBAC nº 21.
+
+  Matriz de Cumprimento com os Requisitos de Certificação do Projeto - MCRP: documento que
+  aborda cada requisito de certificação do projeto, os meios de cumprimento e os documentos
+  de cumprimento e de verificação de cumprimento associados. A MCRP pode ser incorporada ao
+  plano de certificação definido na IS nº 21-001.
+
+  Organização de Projeto: significa, no âmbito desta IS, qualquer organização de projeto certificada
+  conforme a Subparte J do RBAC nº 21, de acordo com o estabelecido no RBAC nº 01.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- cumprimento
+- documento
+- organizacao
+- conformidade
+- declaracao
+- requisitos
+- verificacao
+- nota
+- base
+- definicoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-231-001.md

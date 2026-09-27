@@ -1,0 +1,45 @@
+id: is-is-91-001-d5-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: D5.1
+section_title: Uma aeronave não pode adentrar ou continuar as operações em espaço aéreo designado
+  como RNAV 5 no caso de perda ou degradação da capacidade de navegação de acordo com os critérios
+  de desempenho compatíveis com a operação. Caso seja observada alguma falha que comprometa
+  o desempenho dos sistemas de navegação RNAV e consecutivamente, a plena execução das operações
+  RNAV 5, a tripulação deve reverter para métodos alternativos de navegação, notificar o ATC,
+  tão logo quanto possível, e solicitar uma autorização alternativa.
+subsection_id: body
+cite: D5.1
+title: Uma aeronave não pode adentrar ou continuar as operações em espaço aéreo designado
+  como RNAV 5 no caso de perda ou degradação da capacidade de navegação de acordo com os critérios
+  de desempenho compatíveis com a operação. Caso seja observada alguma falha que comprometa
+  o desempenho dos sistemas de navegação RNAV e consecutivamente, a plena execução das operações
+  RNAV 5, a tripulação deve reverter para métodos alternativos de navegação, notificar o ATC,
+  tão logo quanto possível, e solicitar uma autorização alternativa.
+text: D5.1 Uma aeronave não pode adentrar ou continuar as operações em espaço aéreo designado
+  como RNAV 5 no caso de perda ou degradação da capacidade de navegação de acordo com os critérios
+  de desempenho compatíveis com a operação. Caso seja observada alguma falha que comprometa
+  o desempenho dos sistemas de navegação RNAV e consecutivamente, a plena execução das operações
+  RNAV 5, a tripulação deve reverter para métodos alternativos de navegação, notificar o ATC,
+  tão logo quanto possível, e solicitar uma autorização alternativa.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- rnav
+- caso
+- desempenho
+- operacoes
+- acordo
+- adentrar
+- aereo
+- aeronave
+- alguma
+- alternativa
+- alternativos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

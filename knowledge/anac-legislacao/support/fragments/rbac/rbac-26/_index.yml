@@ -29,10 +29,14 @@ sections:
 - '26.47'
 - '26.49'
 - '26.5'
+- aprovacao
 - preambulo
-fragment_count: 79
+- sumario
+fragment_count: 81
 fragment_ids:
 - rbac-rbac-26-preambulo-body
+- rbac-rbac-26-aprovacao-body
+- rbac-rbac-26-sumario-body
 - rbac-rbac-26-26-1-body
 - rbac-rbac-26-26-5-body
 - rbac-rbac-26-26-11-body
@@ -111,4 +115,4 @@ fragment_ids:
 - rbac-rbac-26-26-49-a
 - rbac-rbac-26-26-49-b
 - rbac-rbac-26-26-49-c
-parser_version: 6
+parser_version: 7

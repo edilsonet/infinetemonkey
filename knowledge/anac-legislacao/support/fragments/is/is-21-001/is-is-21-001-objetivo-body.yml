@@ -1,0 +1,47 @@
+id: is-is-21-001-objetivo-body
+kind: is
+document: is-21-001
+family: '21'
+section_id: objetivo
+section_title: OBJETIVO
+subsection_id: body
+cite: objetivo
+title: OBJETIVO
+text: 'OBJETIVO
+
+  1.1. Esta Instrução Suplementar - IS fornece uma visão geral dos requisitos do RBAC 21 que
+  regem a certificação de tipo para aeronave, motor ou hélice, abrangendo desde seu processo
+  de obtenção até as responsabilidades após a emissão do Certificado de Tipo - CT. Informações
+  complementares podem ser encontradas na própria página de internet da ANAC, bem como na
+  Carta de Serviços ao Cidadão ou em cartilhas específicas.
+
+  1.2. Embora esta IS tenha sido elaborada considerando os casos mais tradicionais (RBAC 21.21),
+  as orientações aqui contidas podem ser utilizadas, respeitadas as devidas particularidades,
+  para outros casos especiais de certificação de tipo como, por exemplo, a categoria primária
+  (RBAC 21.24), a categoria restrita (RBAC 21.25), a provisória (Subparte C do RBAC 21) ou
+  a certificação suplementar de tipo (Subparte E do RBAC 21). Neste último caso, a ANAC publicou
+  especificamente a IS 21-004.
+
+  1.3 Esta IS é aplicável a Organizações de Projeto certificadas conforme a subparte J do
+  RBAC 21. Nestes casos, algumas particularidades descritas na IS 21.231-001 aplicam-se solidariamente.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- tipo
+- casos
+- objetivo
+- subparte
+- categoria
+- particularidades
+- podem
+- suplementar
+- abrangendo
+- aeronave
+- algumas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

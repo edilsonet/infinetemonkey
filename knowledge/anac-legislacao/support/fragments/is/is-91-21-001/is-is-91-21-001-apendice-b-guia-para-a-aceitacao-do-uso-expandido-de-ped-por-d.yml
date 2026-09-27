@@ -1,0 +1,75 @@
+id: is-is-91-21-001-apendice-b-guia-para-a-aceitacao-do-uso-expandido-de-ped-por-d
+kind: is
+document: is-91-21-001
+family: '91'
+section_id: apendice-b-guia-para-a-aceitacao-do-uso-expandido-de-ped-por
+section_title: APÊNDICE B - GUIA PARA A ACEITAÇÃO DO USO EXPANDIDO DE PED POR
+subsection_id: d
+cite: apendice-b-guia-para-a-aceitacao-do-uso-expandido-de-ped-por(d)
+title: apendice-b-guia-para-a-aceitacao-do-uso-expandido-de-ped-por(d)
+text: 'd) O operador deve identificar os sistemas requeridos para operação e não cobertos
+
+  pela certificação de HIRF, avaliar e demonstrar que não serão afetados pelo uso de
+
+  T-PEDs. Esta avaliação deve incluir a listagem dos sistemas e equipamentos da
+
+  aeronave nesta condição e a demonstração correspondente de que estes não sofrerão
+
+  interferência. Para cada equipamento, esta demonstração pode ser feita utilizando
+
+  uma das seguintes formas:
+
+  I. por meio da qualificação adequada do equipamento para suscetibilidade a RF,
+
+  conforme especificação da RTCA DO-307 Seção 3. Caso o equipamento já
+
+  tenha sido qualificado pela RTCA DO-160 Revisão D ou posterior, Seção 2030/10/2014 IS nº
+  91.21-001
+
+  Revisão A
+
+  “RF Susceptibility” e o operador obtenha a informação de categoria junto ao
+
+  fabricante do equipamento ou aeronave, pode ser verificado se esta qualificação
+
+  atende à categoria requerida pela RTCA DO-307 Seção 3;
+
+  II. por meio de testes dedicados destes sistemas/equipamentos na aeronave,
+
+  conforme RTCA DO-294C; ou
+
+  III. por meio de experiência em serviço, na qual o sistema tenha sido exposto ao
+
+  ambiente eletromagnético associado à operação de T-PEDs, sem a ocorrência de
+
+  interferências. Normalmente, a exposição a T-PEDs ocorre apenas durante o
+
+  embarque, antes do fechamento das portas, quando mesmo em uma aeronave
+
+  operando com restrição padrão de uso de PEDs emissores intencionais é
+
+  permitido.
+
+  B4.5.3.3. Uso expandido de T-PEDs utilizando testes específicos, conforme RTCA DO-307
+
+  Seção 3 ou RTCA DO-294C. (NÍVEL 3)'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rtca
+- peds
+- aeronave
+- equipamento
+- secao
+- expandido
+- meio
+- sistemas
+- 294c
+- aceitacao
+- apendice
+- categoria
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-21-001.md

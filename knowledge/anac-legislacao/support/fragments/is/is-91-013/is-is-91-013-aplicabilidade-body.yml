@@ -1,0 +1,95 @@
+id: is-is-91-013-aplicabilidade-body
+kind: is
+document: is-91-013
+family: '91'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: body
+cite: aplicabilidade
+title: Aplicabilidade
+text: 'Aplicabilidade
+
+  Tipo de análise
+
+  MO
+
+  Manual de Operações
+
+  Requerido para todos os administradores de programa de propriedade compartilhada sujeitos
+  à Subparte K do RBAC nº 91. Deve ser elaborado incluindo procedimentos para satisfação dos
+  requisitos contidos nas seções 91.1023, 91.1025, 1027, 91.1029, 91.1031, 91.1033, 91.1035,
+  91.1037, 91.1039, 91.1049, 91.1053, 91.1055 e 91.1113, conforme aplicável, inclusive a seção
+  117.19 do RBAC nº 117.
+
+  Aceitação
+
+  PTO
+
+  Programa de Treinamento Operacional
+
+  Requerido para todos os administradores de programa de propriedade compartilhada sujeitos
+  à Subparte K do RBAC nº 91. Deve ser elaborado, para cada modelo ou família de aeronaves,
+  incluindo os assuntos listados nas seções 91.1065 a 91.1107, inclusive requisitos do RBAC
+  nº 110.
+
+  Para operadores cujos colaboradores desempenhem ARSO, conforme os requisitos expostos nos
+  parágrafos 91.1047(a) e (b) do RBAC nº 91, informações devem estar inseridas nos currículos
+  do PTO do administrador.
+
+  Aprovação Inicial e Aprovação Final
+
+  MGSO
+
+  Manual de Gerenciamento da Segurança Operacional
+
+  Requerido para todos os administradores de programa de propriedade compartilhada sujeitos
+  à Subparte K do RBAC nº 91. Deve ser elaborado de acordo com a seção 91.1021 do RBAC nº
+  91 e deve estar inserido como parte do MO do administrador.
+
+  Aceitação
+
+  PRE
+
+  Plano de Resposta a Emergências
+
+  Requerido para todos os administradores de programa de propriedade compartilhada sujeitos
+  à Subparte K do RBAC nº 91. Deve ser elaborado de acordo com a seção 91.1021 do RBAC nº
+  91 e deve estar inserido no MGSO, e por sua vez, como parte do MO do administrador.
+
+  Aceitação
+
+  SOP
+
+  Procedimentos Operacionais Padronizados
+
+  Requerido para cada modelo da frota, conforme parágrafo 91.1025(ff), e deve estar inserido
+  como parte do MO do administrador.
+
+  Aceitação
+
+  PTAP
+
+  Programa de Treinamento de Artigos Perigosos
+
+  Requerido conforme seção 91.1085 do RBAC nº 91. Deve ser elaborado de acordo com a IS n°
+  175-007 e deve estar inserido como parte do PTO do administrador.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- programa
+- requerido
+- administrador
+- elaborado
+- estar
+- aceitacao
+- administradores
+- compartilhada
+- inserido
+- parte
+- propriedade
+- secao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-013.md

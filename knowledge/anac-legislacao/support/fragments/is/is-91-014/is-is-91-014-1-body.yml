@@ -1,0 +1,45 @@
+id: is-is-91-014-1-body
+kind: is
+document: is-91-014
+family: '91'
+section_id: '1'
+section_title: Descrição do modelo de aeronave
+subsection_id: body
+cite: '1'
+title: Descrição do modelo de aeronave
+text: '1. Descrição do modelo de aeronave
+
+  A aeronave modelo YYYY, com denominação comercial XXXXXX, é fabricada pela XXXXXX sob o
+  TCDS XXX emitido pela autoridade de certificação XXXX (FAA, EASA, ANAC etc), conforme (encaminhar
+  referência da informação). Permite o transporte de XX passageiros, prevendo tripulação mínima
+  para as operações de XX tripulantes.
+
+
+  Como base técnica foram empregadas informações prescritas no AFM Rev.XX de XX/XX/XXXX (última
+  revisão em vigor) e informações presentes no relatório de avaliação operacional emitido
+  pela XXXX (Rev. XX, de XX/XX/XXXX). O Peso Máximo de Decolagem para sua versão é XXXXX kg,
+  e o Peso Máximo de Pouso é XXXXX kg. Caso disponível, inserir figura da aeronave.
+
+
+  No processo de certificação da aeronave, o cálculo de desempenho de pouso [utilizou/não
+  utilizou] metodologia de “pouso paramétrico”.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- modelo
+- xxxx
+- descricao
+- pouso
+- certificacao
+- emitido
+- informacoes
+- maximo
+- peso
+- utilizou
+- xxxxx
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-014.md

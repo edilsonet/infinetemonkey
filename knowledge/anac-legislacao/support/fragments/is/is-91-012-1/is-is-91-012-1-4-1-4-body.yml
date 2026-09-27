@@ -1,0 +1,53 @@
+id: is-is-91-012-1-4-1-4-body
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 4.1.4
+section_title: 'Condições de formação de gelo: ambiente atmosférico que pode provocar a formação
+  de gelo na estrutura da aeronave ou nos motores.'
+subsection_id: body
+cite: 4.1.4
+title: 'Condições de formação de gelo: ambiente atmosférico que pode provocar a formação de
+  gelo na estrutura da aeronave ou nos motores.'
+text: '4.1.4 Condições de formação de gelo: ambiente atmosférico que pode provocar a formação
+  de gelo na estrutura da aeronave ou nos motores.
+
+  4.1.5 Decolagem: para os propósitos desta IS, a decolagem é entendida como o ato de se aplicar
+  potência para iniciar um voo, a partir da pista de decolagem ou da superfície de decolagem.
+
+  Nota: esta definição tem como consequência que um item identificado inoperante entre o início
+  da movimentação da aeronave (ou, se aplicável, a emissão do despacho/liberação de voo) e
+  a aplicação de potência para iniciar efetivamente o voo deve ser tratado no âmbito da MEL,
+  conforme detalhado no parágrafo 5.3.8 desta IS.
+
+  4.1.6 Dia de descoberta: dia calendárico em que um item foi detectado como inoperante. Pode
+  basear-se em horário UTC ou local, como estabelecido pelo operador em sua MEL.
+
+  4.1.7 Dia de voo: é o período de 24 horas, iniciando-se à meia-noite (em horário UTC ou
+  local, como estabelecido pelo operador em sua MEL) durante o qual pelo menos um voo é realizado
+  com a aeronave.
+
+  4.1.8 Inoperante: um sistema e/ou componente em mau funcionamento, que não pode cumprir
+  com o objetivo para o qual foi projetado ou não está funcionando normalmente de forma consistente
+  dentro de seus limites aprovados de operação (incluindo limite aprovado de tolerância, se
+  existente).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- formacao
+- gelo
+- aeronave
+- pode
+- decolagem
+- ambiente
+- atmosferico
+- condicoes
+- estrutura
+- inoperante
+- motores
+- provocar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

@@ -1,0 +1,70 @@
+id: is-is-120-016-7-8-1-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.8.1
+section_title: Itens de Inspeção Obrigatória (IIO)
+subsection_id: body
+cite: 7.8.1
+title: Itens de Inspeção Obrigatória (IIO)
+text: '7.8.1 Itens de Inspeção Obrigatória (IIO)
+
+  7.8.1.1 Tarefas definidas como IIOs. Os parágrafos 121.369(b) do RBAC nº 121 e 135.427(b)
+  do RBAC nº 135 requerem que a empresa defina certas tarefas como Itens de Inspeção Obrigatória
+  - IIOs. A lista de IIO deve incluir pelo menos aquelas tarefas que possam resultar em falha,
+  mau funcionamento ou defeito que coloque em risco a operação segura da aeronave caso a tarefa
+  não seja concluída corretamente ou caso a empresa aplique peças ou materiais impróprios.
+  Se outras pessoas executarem tarefas de manutenção para a empresa, a empresa pode autorizá-las
+  a cumprir as inspeções obrigatórias em seu lugar, desde que seu manual tenha procedimentos
+  para tal, conforme descrito no parágrafo 7.8.2. Consistente com os regulamentos, a empresa
+  continua sendo a principal responsável pela execução de inspeção obrigatória mesmo que realizada
+  por outra pessoa. Quando outra pessoa executa uma inspeção de IIO, esta inspeção enquadra-se
+  como Manutenção Essencial.
+
+  Nota: consulte a Seção 7.10 desta IS para mais informações sobre Manutenção Essencial.
+
+  7.8.1.2 Elaboração de Listas de IIO. As listas de IIO da empresa devem identificar itens
+  específicos de manutenção para cada tipo de aeronave que a empresa opera. É inadequado designar
+  sistemas inteiros como IIOs. A empresa deve aderir a um processo de decisão, semelhante
+  ao seguinte, ao criar uma lista de IIOs. Vide a Figura 2 a seguir:
+
+
+  FIGURA 2: IDENTIFICAÇÃO DE UM ITEM IIO.
+
+
+  Nota: embora a liberação de um item da MEL ou CDL, por si só, não constitua um Item de Inspeção
+  Obrigatório (IIO), a manutenção corretiva para sanar essa pendência pode incluir tarefas
+  que são consideradas IIO. Por exemplo, a atividade de manutenção realizada para o encerramento
+  do respectivo item MEL ou CDL pode envolver remoções e/ou instalações de itens que se enquadram
+  como IIO. Adicionalmente, a experiência operacional da empresa aérea, fundamentada em histórico
+  de falhas de componentes ou fator humano, entre outros, pode prevalecer sobre o fluxograma
+  acima nos casos em que essa for mais restritiva. Dessa forma, a figura apresentada é um
+  guia que estabelece as análises mínimas esperadas de um operador na elaboração de sua lista
+  de IIO.
+
+
+  7.8.1.3 IIOs e Segurança Operacional. Os IIOs se relacionam diretamente com a segurança
+  de voo. Todos os IIOs devem ser considerados com a mesma importância e ênfase na segurança
+  de voo, mesmo que o cumprimento de um IIO individualmente afete negativamente a programação
+  de voo, esteja relacionado a uma tarefa programada ou não programada, ou que surja em um
+  momento inoportuno ou em um local inconveniente.'
+keywords:
+- antidrogas
+- saude
+- empresa
+- inspecao
+- iios
+- manutencao
+- obrigatoria
+- tarefas
+- pode
+- figura
+- lista
+- seguranca
+- aeronave
+- caso
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

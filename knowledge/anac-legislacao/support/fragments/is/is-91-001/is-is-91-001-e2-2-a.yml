@@ -1,0 +1,40 @@
+id: is-is-91-001-e2-2-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: E2.2
+section_title: 'Procedimentos operacionais gerais para operações RNAV 1 e 2:'
+subsection_id: a
+cite: E2.2(a)
+title: E2.2(a)
+text: 'a) durante a inicialização do sistema, os pilotos devem assegurar-se que a base de
+  dados de navegação é válida e a posição da aeronave foi inserida corretamente. Devem verificar
+  o plano de voo inicialmente autorizado pelo ATC por meio de comparações das informações
+  disponíveis nas cartas ou outras fontes de informações aplicáveis com os dados disponibilizados
+  pelos displays de navegação textuais e os displays de mapas da aeronave, se aplicável. Se
+  necessário, a exclusão de waypoints específicos deve ser confirmada;
+
+  Nota: os pilotos podem perceber pequenas diferenças entre a informação de navegação que
+  é apresentada pelas cartas e o display de navegação primário. Diferenças de 3 graus ou menos
+  podem ocorrer por conta da aplicação de variação magnética adotada pelo fabricante do equipamento
+  e são operacionalmente aceitas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- aeronave
+- cartas
+- dados
+- diferencas
+- displays
+- informacoes
+- pilotos
+- podem
+- aceitas
+- adotada
+- aplicacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

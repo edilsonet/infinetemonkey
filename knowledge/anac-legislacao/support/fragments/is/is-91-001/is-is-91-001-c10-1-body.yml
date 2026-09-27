@@ -1,0 +1,45 @@
+id: is-is-91-001-c10-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: C10.1
+section_title: A atualização manual da posição é definida como uma técnica que os pilotos
+  utilizam, com o intuito de a ajustar a informação de posicionamento fornecida pelo sistema
+  de navegação inercial (INS) compensando o erro detectado. Neste caso, o erro detectado é
+  a diferença entre a informação de posição fornecida por um rádio auxílio e a informação
+  de posição disponibilizada pelo sistema inercial (levando-se em consideração que a informação
+  provida pelo rádio auxílio é a posição correta).
+subsection_id: body
+cite: C10.1
+title: A atualização manual da posição é definida como uma técnica que os pilotos utilizam,
+  com o intuito de a ajustar a informação de posicionamento fornecida pelo sistema de navegação
+  inercial (INS) compensando o erro detectado. Neste caso, o erro detectado é a diferença
+  entre a informação de posição fornecida por um rádio auxílio e a informação de posição disponibilizada
+  pelo sistema inercial (levando-se em consideração que a informação provida pelo rádio auxílio
+  é a posição correta).
+text: C10.1 A atualização manual da posição é definida como uma técnica que os pilotos utilizam,
+  com o intuito de a ajustar a informação de posicionamento fornecida pelo sistema de navegação
+  inercial (INS) compensando o erro detectado. Neste caso, o erro detectado é a diferença
+  entre a informação de posição fornecida por um rádio auxílio e a informação de posição disponibilizada
+  pelo sistema inercial (levando-se em consideração que a informação provida pelo rádio auxílio
+  é a posição correta).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- informacao
+- posicao
+- auxilio
+- detectado
+- erro
+- fornecida
+- inercial
+- radio
+- sistema
+- ajustar
+- atualizacao
+- caso
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

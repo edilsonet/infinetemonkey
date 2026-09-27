@@ -3,19 +3,35 @@ kind: rbac
 document: rbac-36
 family: '36'
 section_id: A36.9
-section_title: A36.9
+section_title: of this ape
 subsection_id: c
 cite: A36.9(c)
 title: A36.9(c)
-text: '(c) Relative humidity and ambient tem
+text: '(c) The distance GI is the distance over which the airplane position is measured and
+  synchronized
 
-  perature over the whole noise path betwen a point 3 ft (10
+  with the noise measurements, as required by section A36.2.3.2 of this part.
 
-  m) above the ground and the airplane such that the sound atenuation in the one
 
-  - third octave band
+  The airplane reference point for aproach measurements is the instrument landing system (ILS)
 
-  centered on 8 kHz wil not be more than 12 dB/10 m unles:
+  antena. If no ILS antena is instaled an alternative reference point must be aproved by the
+  FA.
+
+
+  A36.9.3
+
+  Simplified method of adjustment.
+
+
+  A36.9.3.1
+
+  General.
+
+  As described below, the simplified adjustment method consists of aplying
+
+  adjustments (to the EPNL, which is calculated from the measured data) for the diferences
+  betwen
 
 
   Data da e
@@ -41,47 +57,34 @@ text: '(c) Relative humidity and ambient tem
   : SAR
 
 
-  24
+  53
 
   / 121
 
 
-  (1) The dew point and dry bulb temper
+  measured and reference condit
 
-  atures are measured with a device which is acurate to ±0.9
-
-  °F (±0.5 °C) and used to obtain relative humidity; in adition layered sections of the atmosphere
-  are
-
-  used as described in section A36.2.2.3 to compute equivalent weighted sound atenuations
-  in ea
-
-  ch
-
-  one
-
-  - third octave band; or
+  ions at the moment of PNLTM.
 
 
-  (2) The peak noy values at the time of PNLT, after adjustment to reference conditions, ocur
-  at
+  A36.9.3.2
 
-  frequencies les than or equal to 40 Hz.;'
+  Adjustments to PNL and PNLT.'
 keywords:
 - ruido
 - meio-ambiente
-- band
-- humidity
-- octave
+- measured
+- reference
+- adjustment
+- adjustments
+- airplane
+- antena
+- data
+- distance
+- measurements
+- method
 - point
-- relative
-- sound
-- than
-- third
-- used
-- above
-- abril
-- acurate
+- simplified
 categories:
 - ruido
 - meio-ambiente

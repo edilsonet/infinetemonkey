@@ -1,0 +1,79 @@
+id: is-is-133-001-5-3-3-6-g
+kind: is
+document: is-133-001
+family: '133'
+section_id: 5.3.3.6
+section_title: Manual de Voo da Combinação Aeronave-Carga (MVCAC)
+subsection_id: g
+cite: 5.3.3.6(g)
+title: 5.3.3.6(g)
+text: 'g) Conteúdo da Seção 2 - Informações Operacionais de combinação aeronave-carga.
+
+  i. Informações específicas para a combinação aeronave-carga - Informações sobre peculiaridades
+  da combinação aeronave-carga, incluindo fatores como oscilações, cargas giratórias, efeito
+  solo, ventos, controle e cálculo do CG lateral.
+
+  ii. Inspeções necessárias - procedimentos para inspeção e preparação antes do voo incluem
+  verificar as condições da cinta ou cesta, garantir que a carga esteja bem amarrada, testar
+  a liberação elétrica e manual para cargas das Classes B e C e armar o circuito empurrando
+  o disjuntor de liberação de carga para dentro.
+
+  iii. Descargas de eletricidade estática - Informações sobre procedimentos antes de prender
+  o gancho na carga, incluindo a necessidade de aterrar o helicóptero para dissipar eletricidade
+  estática acumulada durante o voo.
+
+  iv. Outras informações essenciais para a segurança operacional - Informações sobre requisitos
+  adicionais para operações seguras com cargas externas conforme a seção 133.47 do RBAC nº
+  133, incluindo diretrizes para operações humanas Classe B, treinamento de pilotos e tripulantes,
+  qualificações do pessoal, briefings, segurança operacional, comunicações, prevenção de riscos
+  como fios de alta tensão e raios, procedimentos de radiocomunicação, travessia de rodovias,
+  colocação de carga e considerações para operações noturnas com limitações e mitigação de
+  riscos.
+
+  v. Sinais de mão solo-ar - Informações sobre a necessidade de todo o pessoal envolvido na
+  operação de carga externa conhecer e utilizar sinais manuais, conforme exemplos do ICA 100-12
+  do DECEA.
+
+  vi. Procedimentos de proteção de carga externa - Informações sobre procedimentos da empresa
+  para realizar pousos de precaução caso os dispositivos de segurança se desconectem ou se
+  soltem durante a operação.
+
+  vii. Informações sobre consumo de combustível e variação centro de gravidade (CG).
+
+  viii. Placares obrigatórios - Informações sobre a obrigatoriedade de placares visíveis e
+  permanentes indicando classes aprovadas, limitações de peso e centro de gravidade na cabine,
+  e carga máxima junto ao ponto de fixação.
+
+  ix. Procedimentos Operacionais - Informações sobre procedimentos para posicionamento do
+  helicóptero e conexão da carga, incluindo a necessidade de sinalizador à vista ou comunicação
+  por rádio, rapidez nas conexões, briefing entre piloto e enganchador, aproximação segura,
+  uso de cintos de segurança e posição adequada do sinalizador ao dar sinais manuais.
+
+  x. Precauções de segurança - Informações sobre requisitos para operações Classe D, incluindo
+  uso de dispositivos aprovados pela Anac, cálculo da capacidade de pairar com um motor inoperante,
+  presença mínima de dois tripulantes com comunicação e possibilidade de apoio em solo para
+  supervisão e segurança.
+
+  xi. Meios de Fixação - Informações sobre a necessidade de listar parâmetros de projeto e
+  manutenção dos meios de fixação de cargas externas, como cabos e redes, incluindo forma
+  de cumprimento dos requisitos e anexação de documentos comprobatórios ao manual.'
+keywords:
+- carga-externa
+- helicoptero
+- informacoes
+- carga
+- procedimentos
+- incluindo
+- seguranca
+- aeronave
+- cargas
+- combinacao
+- necessidade
+- operacoes
+- fixacao
+- manual
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

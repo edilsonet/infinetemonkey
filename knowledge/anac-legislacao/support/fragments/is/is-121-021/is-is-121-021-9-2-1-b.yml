@@ -1,0 +1,39 @@
+id: is-is-121-021-9-2-1-b
+kind: is
+document: is-121-021
+family: '121'
+section_id: 9.2.1
+section_title: Introdução
+subsection_id: b
+cite: 9.2.1(b)
+title: 9.2.1(b)
+text: b) A maioria dos FSTD pode ser usada satisfatoriamente para o treinamento relacionado
+  ao AOA e para uma porção significativa do treinamento de perdas de controle que não se configuram
+  como estol completo. Na medida em que o avião simulado permanece dentro de seu ETV (a partir
+  dos dados do envelope de voo da aeronave fornecidos pelo OEM e usados ​​para qualificação
+  do FSTD) para ângulo de ataque e guinada, a perda de controle subsequente com atitudes mais
+  altas (ângulo de ataque ou guinada) pode ser representado de forma confiável. No entanto,
+  a maioria dos modelos de FSTD atuais não representam adequadamente a aeronave em um regime
+  pós-estol. O desenvolvimento e uso de um “modelo aerodinâmico pós-estol representativo do
+  tipo” para apoiar a demonstração de um estol além do ângulo crítico de ataque (estol completo
+  ou regime pós-estol), é necessário para que tal treinamento seja realizado.
+keywords:
+- transporte-aereo
+- operacoes
+- estol
+- angulo
+- ataque
+- fstd
+- treinamento
+- aeronave
+- completo
+- controle
+- guinada
+- maioria
+- pode
+- regime
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

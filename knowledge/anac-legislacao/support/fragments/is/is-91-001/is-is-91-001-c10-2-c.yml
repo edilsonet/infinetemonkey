@@ -1,0 +1,37 @@
+id: is-is-91-001-c10-2-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: C10.2
+section_title: 'Caso as atualizações manuais não sejam explicitamente aprovadas, as mesmas
+  não são permitidas em operações RNAV 10 (RNP 10). A atualização manual é aceitável para
+  operações em espaços aéreos onde o RNP 10 é aplicado, desde que:'
+subsection_id: c
+cite: C10.2(c)
+title: C10.2(c)
+text: 'c) o operador forneça informações que estabeleçam a exatidão com que o sistema de navegação
+  da aeronave pode ser atualizado mediante procedimentos manuais e os auxílios à navegação
+  representativos. Tais informações devem incluir dados que indiquem a precisão obtida durante
+  operações em serviço.
+
+  C11. CONHECIMENTOS NECESSÁRIOS E PROGRAMA DE TREINAMENTO PARA OPERAÇÕES RNAV 10'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- informacoes
+- manuais
+- navegacao
+- rnav
+- aceitavel
+- aereos
+- aeronave
+- aplicado
+- aprovadas
+- atualizacao
+- atualizacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

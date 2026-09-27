@@ -1,0 +1,44 @@
+id: rbac-rbac-60-requisitos-f
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: requisitos
+section_title: requisitos
+subsection_id: f
+cite: requisitos(f)
+title: requisitos(f)
+text: '(f) Quando o operador de um FSTD
+
+  souber, ou for avisado pelo fabricante da
+
+  aeronave, ou por outro provedor de dados,
+
+  que existe uma adição, emenda, ou uma
+
+  revisão dos dados de validação, que possam
+
+  impactar as características de desempenho ou
+
+  qualidade de voo do FSTD, o operador deverá
+
+  notificar a ANAC.'
+keywords:
+- simuladores
+- treinamento
+- dados
+- fstd
+- operador
+- requisitos
+- adicao
+- aeronave
+- avisado
+- caracteristicas
+- desempenho
+- devera
+- existe
+- fabricante
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-153-requisitos-c
+kind: rbac
+document: rbac-153
+family: '153'
+section_id: requisitos
+section_title: Requisitos
+subsection_id: c
+cite: requisitos(c)
+title: requisitos(c)
+text: '(c) Os veículos do SESCINC devem ser capazes de prover o transporte, com segurança,
+  dos
+
+  equipamentos de proteção da equipagem e equipamentos de apoio.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- equipamentos
+- requisitos
+- apoio
+- capazes
+- equipagem
+- protecao
+- prover
+- seguranca
+- sescinc
+- transporte
+- veiculos
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-153.md

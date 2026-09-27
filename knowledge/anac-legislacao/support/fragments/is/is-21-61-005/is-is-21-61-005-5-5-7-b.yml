@@ -1,0 +1,34 @@
+id: is-is-21-61-005-5-5-7-b
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.5.7
+section_title: 'All that considered, a change to the type design requires a change to the
+  MMEL if any of the following conditions are met:'
+subsection_id: b
+cite: 5.5.7(b)
+title: 5.5.7(b)
+text: b) the change invalidates the assumptions used to justify an existing MMEL item, and
+  requires a more restrictive MMEL item; or
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- change
+- mmel
+- requires
+- assumptions
+- conditions
+- considered
+- design
+- existing
+- following
+- invalidates
+- justify
+- more
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

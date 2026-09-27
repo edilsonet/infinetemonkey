@@ -1,0 +1,56 @@
+id: is-is-21-013-7-d
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: d
+cite: 7(d)
+title: 7(d)
+text: 'd) Foram considerados aspectos de EMI entre os sistemas, causados pelo encaminhamento
+
+  de cabos?
+
+  7.1.4. Considerações Ambientais: A maioria dos equipamentos é testada pelos respectivos
+
+  fabricantes para as categorias ambientais descritas no RTCA/DO-160 (segundo a revisão
+
+  aplicável), com resultados descritos em um formulário de qualificação ambiental. O
+
+  requerente deve assegurar que as categorias (ou critérios) ambientais para o qual o
+
+  equipamento foi testado são compatíveis com as condições nas quais o equipamento é
+
+  instalado na aeronave;
+
+  Nota: Para a instalação em helicópteros, recomenda-se verificar a categoria de vibração
+
+  correspondente da RTCA/DO-160 na qual o equipamento GNSS a ser instalado foi
+
+  qualificado, pois pode não ser compatível com as qualificações necessárias para o
+
+  helicóptero objeto da modificação.
+
+  7.1.5. Considerações sobre a instalação de antenas:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ambientais
+- equipamento
+- instalacao
+- categorias
+- consideracoes
+- criterios
+- gnss
+- instalado
+- qual
+- rtca
+- aeronave
+- ambiental
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

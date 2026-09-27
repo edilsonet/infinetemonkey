@@ -1,0 +1,63 @@
+id: is-is-175-003f-introducao-d
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: d
+cite: introducao(d)
+title: introducao(d)
+text: 'd) a cubagem pode ser preenchida quando não for possível indicar as dimensões do volume
+  e deve sempre estar em metros cúbicos.
+
+  Quando o transporte ocorrer por meio de contêineres ou dispositivos de carga unitizada (unit
+  load device - ULD), deve-se indicar a sua referência nos campos “informações das unidades
+  de carga (containeres/ULD/outros)” que se encontram no grupo “detalhamento das entregas
+  / prestações do CT-e simplificado”. Quando não for possível definir se a carga será transportada
+  por meio de contêineres ou ULD no momento de emissão do CT-e, esse campo não deverá ser
+  preenchido.
+
+  Deve-se preencher o grupo “informações do modal” no grupo “informações da carga do CT-e”
+  de forma completa e atualizada para o modo aéreo.
+
+  A Anac, por suas atribuições dispostas na Lei nº 11.182, de 27 de setembro de 2005, deve
+  ter acesso a qualquer CT-e Simplificado emitido para o modo aéreo. Portanto, no campo “CNPJ
+  do autorizado”, do grupo “Autorizados para download do XML do DF-e” deverá ser inserido
+  o CNPJ da Anac: 07.947.821/0001-89, preenchido conforme orientado no MOC (ou documento equivalente)
+  do CT-e Simplificado.
+
+  O não preenchimento do campo mencionado em 5.4.15 configura obstrução à fiscalização, passível
+  de sanção nos termos do regulamento específico.
+
+  Assim como para todos os outros modos de transporte, há um grupo de informações específico
+  de preenchimento do CT-e Simplificado para o modo aéreo. Nos itens abaixo, encontram-se
+  as instruções para o seu preenchimento adequado e de forma completa.
+
+  O “número da minuta” deve ser preenchido com o documento que precede o CT-e (espécie de
+  pedido de serviço). Esse campo não é de preenchimento obrigatório.
+
+  O “número operacional do conhecimento aéreo” representa o número de controle comumente utilizado
+  pelo conhecimento aéreo composto por uma sequência numérica de onze dígitos. Os três primeiros
+  dígitos representam um código que os operadores aéreos associados à IATA possuem. Em seguida
+  um número de série de sete dígitos determinados pelo operador aéreo. Para finalizar, um
+  dígito verificador, que é um sistema de módulo sete imponderado o qual divide o número de
+  série do conhecimento aéreo por sete e usa o resto como dígito de verificação.'
+keywords:
+- artigos-perigosos
+- carga
+- aereo
+- grupo
+- numero
+- campo
+- informacoes
+- preenchimento
+- simplificado
+- conhecimento
+- digitos
+- modo
+- preenchido
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

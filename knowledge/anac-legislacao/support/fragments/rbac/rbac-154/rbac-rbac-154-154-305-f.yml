@@ -7,15 +7,33 @@ section_title: Luzes
 subsection_id: f
 cite: 154.305(f)
 title: 154.305(f)
-text: '(f) Sistemas de luzes de aproximação
+text: 'f)
 
-  (1) Aplicação'
+  Um espaçamento de 6 m (+/- 1 m) entre as unidades
+
+  PAPI deve ser utilizado quando os números de código de pista
+
+  forem 1 e 2. Nesse caso, a unidade PAPI deve ser situada a não
+
+  menos que 10 m (+/- 1 m) da borda da pista.
+
+  Nota: - reduzir o espaçamento entre as unidades de luz
+
+  irá resultar na redução da variação utilizável do sistema.'
 keywords:
 - seguranca-aeroportuaria
+- espacamento
+- papi
+- pista
+- unidades
+- borda
+- caso
+- codigo
+- forem
 - luzes
-- aplicacao
-- aproximacao
-- sistemas
+- menos
+- nesse
+- nota
 categories:
 - seguranca-aeroportuaria
 language: pt

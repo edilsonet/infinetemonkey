@@ -1,0 +1,30 @@
+id: rbac-rbac-045-aprovacao-body
+kind: rbac
+document: rbac-045
+family: '45'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 145, de 17.03.2010. [Emenda nº 00]
+
+  Resolução nº 220, de 20.03.2012. [Emenda nº 01]
+
+  Resolução nº 364, de 20.10.2015. [Emenda nº 02]
+
+  Resolução nº 493, de 04.10.2018. [Emenda nº 03]
+
+  Resolução nº 567, de 23.06.2020. [Emenda nº 04]'
+keywords:
+- identificacao
+- aeronavegabilidade
+- resolucao
+- aprovacao
+categories:
+- identificacao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-045.md

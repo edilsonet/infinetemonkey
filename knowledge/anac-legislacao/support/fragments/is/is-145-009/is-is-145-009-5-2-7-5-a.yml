@@ -1,0 +1,59 @@
+id: is-is-145-009-5-2-7-5-a
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.2.7.5
+section_title: 'Controle de seção: os procedimentos para controlar as seções do manual devem
+  cobrir, conforme aplicável:'
+subsection_id: a
+cite: 5.2.7.5(a)
+title: 5.2.7.5(a)
+text: 'a) Procedimento Modelo 1 - Formato Narrativo:
+
+
+  João Overhaul & Repair Shop
+
+  Endereço: Avenida 123
+
+  SN, CT 12200
+
+  Seção: 5
+
+  Página: 3
+
+  Revisão: 1
+
+  Data: 14/11/2001
+
+  Inspeção preliminar (COMO): o Inspetor (QUEM) da OM é o responsável pela execução das inspeções
+  apropriadas, incluindo testes funcionais e não destrutivos. Caso a execução das inspeções
+  preliminares não seja efetuada por inspetor, se aceita que essas outras pessoas a executem
+  desde que devidamente treinadas e supervisionadas por inspetor, que mantém a responsabilidade
+  final desta inspeção. Essas inspeções serão efetuadas no hangar ou na área de inspeção (ONDE)
+  dos componentes. Isso assegura que todas as unidades (O QUE) foram inspecionados para determinar
+  o estado de preservação e quaisquer defeitos. Essa inspeção será registrada no Formulário
+  de Inspeção Preliminar nº 567 (REGISTRO) de quaisquer discrepâncias constatadas. O formulário
+  deve ser anexado à ordem de serviço e será mantido junto aos registros de inspeção até que
+  a unidade seja liberada para serviço. Os formulários 123 e 789 serão ousados para registrar
+  os resultados dos testes funcionais (por ex.: END - Ensaios Não Destrutivos). Esses formulários
+  devem apresentar o nº da ordem de serviço e serão encaminhados anexados ao pacote de serviço.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- servico
+- inspecoes
+- inspetor
+- destrutivos
+- essas
+- execucao
+- formulario
+- formularios
+- funcionais
+- ordem
+- preliminar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

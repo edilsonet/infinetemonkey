@@ -1,0 +1,136 @@
+id: rbac-rbac-154-apendice-d-do-rbac-154-requisitos-relativos-ao-projeto-de-sinalizacoes-verticais-de-orientacao-para-b
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: apendice-d-do-rbac-154-requisitos-relativos-ao-projeto-de-sinalizacoes-verticais-de-orientacao-para
+section_title: APÊNDICE D DO RBAC 154 - REQUISITOS RELATIVOS AO PROJETO DE SINALIZAÇÕES VERTICAIS
+  DE ORIENTAÇÃO PARA
+subsection_id: b
+cite: apendice-d-do-rbac-154-requisitos-relativos-ao-projeto-de-sinalizacoes-verticais-de-orientacao-para(b)
+title: apendice-d-do-rbac-154-requisitos-relativos-ao-projeto-de-sinalizacoes-verticais-de-orientacao-para(b)
+text: '(b) Nos casos em que as operações forem conduzidas em conformidade com os parágrafos
+
+  154.307(a)(2)(v)(B) e (C) e o parágrafo 154.307(a)(2)(vi), a luminância média da sinalização
+  vertical
+
+  deve ser de, no mínimo:
+
+
+  Vermelha
+
+  10 cd/m2
+
+
+  Amarela
+
+  50 cd/m2
+
+
+  Branca
+
+  100 cd/m2
+
+  NOTA - Em condições de alcance visual da pista inferior a um valor de 400 m, haverá alguma
+
+  degradação no desempenho das sinalizações verticais.
+
+
+  D.5 O quociente de luminância entre os elementos vermelho e branco de uma sinalização vertical
+
+  obrigatória deve estar entre 1:5 e 1:10.
+
+
+  D.6 A luminância média da sinalização vertical é calculada através do estabelecimento de
+  pontos de
+
+  coordenadas, conforme demonstrado na Figura AD-1, e utilizando os valores de luminância
+  medidos
+
+  em todos os pontos de coordenadas localizados dentro do retângulo que representa a sinalização
+
+  vertical.
+
+
+  D.7 O valor médio é a média aritmética dos valores de luminância medidos em todos os pontos
+  de
+
+  coordenadas considerados.
+
+
+  D.8 O quociente entre os valores de luminância de pontos de coordenadas adjacentes não deve
+  ser
+
+  superior a 1,5:1. Para áreas frontais de uma sinalização vertical em que o espaçamento de
+  coordenadas
+
+  for de 7,5 cm, o quociente entre os valores de luminância de pontos de coordenadas adjacentes
+  não
+
+  deve ser superior a 1,25:1. O quociente entre o valor de luminância máximo e mínimo em toda
+  a face
+
+  de uma sinalização vertical não deve ser superior a 5:1.
+
+
+  D.9 As formas dos caracteres, ou seja, das letras, dos números, flechas e símbolos, devem
+  obedecer
+
+  às mostradas na Figura AD-2. A largura dos caracteres e o espaço entre cada caractere devem
+  ser
+
+  determinados conforme indicado na Tabela AD-1.
+
+
+  D.10 A altura frontal das sinalizações verticais deve ser a seguinte:
+
+
+  Altura da legenda
+
+  Altura frontal (min)
+
+
+  200 mm
+
+  300 mm
+
+
+  300 mm
+
+  450 mm
+
+
+  400 mm
+
+  600 mm
+
+  (Redação dada pela Resolução nº 628, de 11.06.2021)
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  D.11 A largura frontal das sinalizações verticais deve ser determinada utilizando-se a Figura
+  AD-3,
+
+  ressalvando-se que, caso uma sinalização vertical de instrução obrigatória apareça apenas
+  em um lado
+
+  de uma pista de táxi, a largura frontal não deve ser inferior a:'
+keywords:
+- seguranca-aeroportuaria
+- luminancia
+- sinalizacao
+- vertical
+- coordenadas
+- pontos
+- sinalizacoes
+- verticais
+- frontal
+- quociente
+- valores
+- altura
+- figura
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

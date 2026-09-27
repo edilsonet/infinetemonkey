@@ -1,0 +1,33 @@
+id: is-is-91-001-g2-3-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: G2.3
+section_title: 'Antes de iniciar um procedimento, a tripulação técnica deve:'
+subsection_id: a
+cite: G2.3(a)
+title: G2.3(a)
+text: a) confirmar que o procedimento correto foi devidamente selecionado. Esta etapa inclui
+  a verificação da sequência de waypoints, a coerência das distâncias, ângulos de trajetória
+  e demais parâmetros que podem ser modificados manualmente, tais como restrições de velocidades
+  e altitudes; e
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimento
+- altitudes
+- angulos
+- coerencia
+- confirmar
+- correto
+- demais
+- devidamente
+- distancias
+- etapa
+- inclui
+- iniciar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

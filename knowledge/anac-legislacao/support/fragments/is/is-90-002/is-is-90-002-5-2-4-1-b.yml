@@ -1,0 +1,40 @@
+id: is-is-90-002-5-2-4-1-b
+kind: is
+document: is-90-002
+family: '90'
+section_id: 5.2.4.1
+section_title: Este módulo deve conter o termo de aprovação do Programa de Treinamento Operacional
+  a ser datado e assinado pelo gestor da UAP.
+subsection_id: b
+cite: 5.2.4.1(b)
+title: 5.2.4.1(b)
+text: 'b) qual o procedimento para repetição de manobra, quantas vezes será aplicado e o que
+  ocorre caso o aluno não esteja conseguindo executar a tarefa.
+
+  Exemplo de procedimento: para os treinamentos iniciais, transição e elevação de nível a
+  manobra será primeiramente executada pelo instrutor, logo após o aluno deverá repetir a
+  manobra realizada em até 3 iterações. Caso não tenha êxito, essa etapa de treinamento é
+  cancelada e deverá ser repetida em outra ocasião. Nos treinamentos periódicos e requalificação,
+  a execução da manobra ficará por conta do aluno, sendo executada em até 3 iterações. Caso
+  o aluno seja reprovado 3 vezes durante os treinamentos de voo, serão aplicados os procedimentos
+  para casos de insucesso;'
+keywords:
+- regras-de-voo
+- operacoes
+- aluno
+- manobra
+- caso
+- treinamentos
+- devera
+- executada
+- iteracoes
+- procedimento
+- treinamento
+- vezes
+- aplicado
+- aplicados
+categories:
+- regras-de-voo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-90-002.md

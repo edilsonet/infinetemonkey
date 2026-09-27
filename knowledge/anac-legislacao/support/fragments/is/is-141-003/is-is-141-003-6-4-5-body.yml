@@ -1,0 +1,33 @@
+id: is-is-141-003-6-4-5-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 6.4.5
+section_title: Procedimentos de entrada em espera
+subsection_id: body
+cite: 6.4.5
+title: Procedimentos de entrada em espera
+text: '6.4.5 Procedimentos de entrada em espera
+
+  -- Entrada pelo setor I (entrada paralela)
+
+  -- Entrada pelo setor II (entrada deslocada, lácrima ou drop)
+
+  -- Entrada pelo setor III (entrada direta)'
+keywords:
+- escolas
+- treinamento
+- entrada
+- espera
+- procedimentos
+- setor
+- deslocada
+- direta
+- drop
+- lacrima
+- paralela
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

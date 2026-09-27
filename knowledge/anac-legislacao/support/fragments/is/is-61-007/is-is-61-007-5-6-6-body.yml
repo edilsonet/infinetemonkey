@@ -1,0 +1,42 @@
+id: is-is-61-007-5-6-6-body
+kind: is
+document: is-61-007
+family: '61'
+section_id: 5.6.6
+section_title: A NRT deve ser inserida no SISHAB com as informações de data, horário, local,
+  instrutor
+subsection_id: body
+cite: 5.6.6
+title: A NRT deve ser inserida no SISHAB com as informações de data, horário, local, instrutor
+text: '5.6.6 A NRT deve ser inserida no SISHAB com as informações de data, horário, local,
+  instrutor
+
+  e o módulo do treinamento a ser aplicado, conforme estrutura de treinamento exposta no
+
+  item 5.4 desta IS, além do período de realização do treinamento como um todo. Por
+
+  exemplo, para os treinamentos de voo em simulador, é necessário inserir as datas e os
+
+  horários das sessões de simulador, que compõem o referido treinamento.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- treinamento
+- data
+- horario
+- informacoes
+- inserida
+- instrutor
+- local
+- sishab
+- simulador
+- alem
+- aplicado
+- compoem
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-007.md

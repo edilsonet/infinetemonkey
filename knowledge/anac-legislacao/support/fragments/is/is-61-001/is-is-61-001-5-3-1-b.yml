@@ -1,0 +1,36 @@
+id: is-is-61-001-5-3-1-b
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.3.1
+section_title: 'Cada linha da tabela “Lançamento de Horas”, localizada na parte inferior da
+  tela da Figura 2 pode possuir os seguintes status:'
+subsection_id: b
+cite: 5.3.1(b)
+title: 5.3.1(b)
+text: 'b) CADASTRADO: registro de voo preenchido, validado e enviado pelo piloto e considerado
+  oficialmente para a contagem de experiência de voo nos termos do parágrafo 61.29(a)(2) do
+  RBAC nº 61. Uma vez com status CADASTRADO, o registro de voo pode ser a qualquer tempo auditado
+  pela ANAC;'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- cadastrado
+- pode
+- registro
+- status
+- auditado
+- cada
+- considerado
+- contagem
+- enviado
+- experiencia
+- figura
+- horas
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

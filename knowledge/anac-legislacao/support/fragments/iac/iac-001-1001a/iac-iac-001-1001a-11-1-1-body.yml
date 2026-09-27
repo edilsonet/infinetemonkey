@@ -1,0 +1,29 @@
+id: iac-iac-001-1001a-11-1-1-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 11.1.1
+section_title: ATO DE APROVAÇÃO
+subsection_id: body
+cite: 11.1.1
+title: ATO DE APROVAÇÃO
+text: '11.1.1 ATO DE APROVAÇÃO
+
+  É a transcrição da Portaria de aprovação, sem assinatura e, ao pé da página a
+
+  indicação da publicação no Diário Oficial da União.'
+keywords:
+- aprovacao
+- assinatura
+- diario
+- indicacao
+- oficial
+- pagina
+- portaria
+- publicacao
+- transcricao
+- uniao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

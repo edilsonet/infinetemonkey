@@ -1,0 +1,67 @@
+id: is-is-91-015-desenvolvimento-do-assunto-body
+kind: is
+document: is-91-015
+family: '91'
+section_id: desenvolvimento-do-assunto
+section_title: Desenvolvimento do Assunto
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: Desenvolvimento do Assunto
+text: 'Desenvolvimento do Assunto
+
+  5.1 Aplicabilidade
+
+  5.1.1 Esta IS é aplicável a todos os processos de aeronaves que tiveram seus Diários de
+  Bordo e/ou cadernetas corrompidas, perdidas, roubadas ou extraviadas e cujos ciclos e horas
+  totais são inexistentes ou desconhecidos.
+
+  5.1.2 Esta IS também se aplica a todos os operadores e demais profissionais da aviação civil
+  envolvidos na tarefa de reconstituição de Diários de Bordo e/ou cadernetas em virtude de
+  extravio, roubo, perda ou corrupção desses documentos.
+
+  5.1.3 As seções 91.417 do RBAC nº 91, 135.439 do RBAC nº 135 e 121.380 do RBAC nº 121 estabelecem
+  os tipos de registros de manutenção que devem ser conservados com o operador e transferidos
+  com a aeronave no ato da venda. Essas seções dos RBACs também preveem os tipos de registros
+  de manutenção que devem ser conservados até que o trabalho seja repetido ou por prazos definidos
+  nos regulamentos.
+
+  5.1.4 De acordo com os RBAC nº 91, RBAC nº 135 e RBAC nº 121, cada proprietário ou operador
+  deve disponibilizar todos os registros requeridos pela ANAC sempre que solicitado.
+
+  5.2 Reconstituição de Diários de Bordo e Cadernetas
+
+  5.2.1 O operador ou profissional deverá identificar nos subparágrafos desta seção qual a
+  situação específica para a sua aeronave, tomando as ações ali descritas para reconstituir
+  os documentos necessários e regularizar a situação de aeronavegabilidade da aeronave.
+
+  5.2.2 A aeronave não possui Diários de Bordo ou Cadernetas de Célula, Motor e Hélice e não
+  há registros de TSN e CSN da aeronave na base de dados da ANAC (SEI, SACI, etc).
+
+  5.2.2.1 Primeira ação: o operador ou profissional de aviação civil deverá consultar o detentor
+  do projeto da aeronave a fim de obter informações que possam subsidiar a definição das ações
+  necessárias para restabelecer a condição aeronavegável da aeronave. As orientações dadas
+  pelo detentor do projeto da aeronave deverão ser seguidas, e sua execução demonstrada à
+  ANAC no processo de reconstituição dos Diários de Bordo e/ou Cadernetas de Célula, Motor
+  e Hélice. Deverá ser aberto no SEI um processo específico do tipo “Parecer Técnico” e nele
+  incluídos os registros das ações realizadas e carta solicitando à ANAC orientações para
+  continuidade do processo de reconstituição de Diários de Bordo e Cadernetas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- bordo
+- cadernetas
+- diarios
+- registros
+- operador
+- reconstituicao
+- acoes
+- assunto
+- desenvolvimento
+- devera
+- processo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-015.md

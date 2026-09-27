@@ -1,0 +1,49 @@
+id: is-is-145-009-5-5-13-13-c
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.13.13
+section_title: Registros de calibração periódica
+subsection_id: c
+cite: 5.5.13.13(c)
+title: 5.5.13.13(c)
+text: 'c) De posse dos dados de calibração, a OM deve estabelecer como processa a aceitação
+  de uma ferramenta/equipamento/instrumento de medida que apresenta desvio. Ferramentas/equipamentos/instrumentos
+  de medida que apresentem desvio que invalidem sua utilização pretendida (determinar a aeronavegabilidade
+  de um artigo), devem ser substituídos por instrumentos apropriados.
+
+  5.5.13.14 Técnicas de calibração periódica: se a OM periodicamente calibra instrumentos,
+  uma série de técnicas de calibração deve ser desenvolvida. Essas técnicas devem descrever
+  exatamente como a calibração é feita, incluindo a referência ao padrão rastreável ao INMETRO
+  (para OM localizada no Brasil) ou o definido pelo fabricante ou do seu país de origem, ou
+  o aceito pela ANAC, os pontos de teste utilizados, a precisão requerida, e os registros
+  necessários. As técnicas podem ser aquelas recomendadas pelo fabricante ou padrão da indústria
+  aceitável pela ANAC. A técnica pode incluir provisões para a salvaguarda do equipamento
+  de ajustes (à prova de adulteração).
+
+  5.5.13.15 Orientação para iniciar os procedimentos de calibração. As seguintes questões
+  e aspectos são sugeridos como uma orientação, com a finalidade de auxiliar uma OM a iniciar
+  a elaboração dos procedimentos de calibração no MCQ. Elas não devem ser consideradas como
+  tendo abrangido todos os aspectos necessários e aplicável a todas as organizações. Cada
+  OM é única, e por isso, pode requerer procedimentos adicionais para validar os requisitos
+  regulatórios e as necessidades da OM:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- calibracao
+- tecnicas
+- instrumentos
+- procedimentos
+- aspectos
+- desvio
+- equipamento
+- fabricante
+- iniciar
+- medida
+- necessarios
+- orientacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

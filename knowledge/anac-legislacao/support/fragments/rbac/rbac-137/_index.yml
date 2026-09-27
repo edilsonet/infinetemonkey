@@ -44,11 +44,16 @@ sections:
 - B137.1
 - apendice-a-do-rbac-no-137
 - apendice-b-do-rbac-no-137
-- apendice-b-do-rbac-no-137-dosimetria-das-sancoes-aplicaveis-as-infracoes-ao-regulamento
+- apendice-b-do-rbac-no-137-dosimetria-das-sancoes-apli-eb4948
+- aprovacao
 - preambulo
-fragment_count: 96
+- referencia
+- sumario
+fragment_count: 99
 fragment_ids:
 - rbac-rbac-137-preambulo-body
+- rbac-rbac-137-aprovacao-body
+- rbac-rbac-137-sumario-body
 - rbac-rbac-137-137-1-body
 - rbac-rbac-137-137-3-body
 - rbac-rbac-137-137-5-body
@@ -78,7 +83,7 @@ fragment_ids:
 - rbac-rbac-137-137-517-body
 - rbac-rbac-137-137-521-body
 - rbac-rbac-137-apendice-a-do-rbac-no-137-body
-- rbac-rbac-137-apendice-b-do-rbac-no-137-dosimetria-das-sancoes-aplicaveis-as-infracoes-ao-regulamento-body
+- rbac-rbac-137-apendice-b-do-rbac-no-137-dosimetria-das-sancoes-apli-eb4948-body
 - rbac-rbac-137-137-1-a
 - rbac-rbac-137-137-1-i
 - rbac-rbac-137-137-1-c
@@ -144,4 +149,5 @@ fragment_ids:
 - rbac-rbac-137-apendice-b-do-rbac-no-137-body
 - rbac-rbac-137-b137-1-body
 - rbac-rbac-137-b137-1-a
-parser_version: 6
+- rbac-rbac-137-referencia-body
+parser_version: 7

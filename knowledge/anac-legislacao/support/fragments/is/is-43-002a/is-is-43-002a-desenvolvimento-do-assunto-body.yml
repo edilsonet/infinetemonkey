@@ -1,0 +1,50 @@
+id: is-is-43-002a-desenvolvimento-do-assunto-body
+kind: is
+document: is-43-002a
+family: '43'
+section_id: desenvolvimento-do-assunto
+section_title: Desenvolvimento do Assunto
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: Desenvolvimento do Assunto
+text: 'Desenvolvimento do Assunto
+
+  Um MMA pode aprovar o retorno ao serviço de uma aeronave após a execução de manutenção preventiva
+  (conforme o parágrafo A43.1(c) do Apêndice A do RBAC nº 43), em aeronaves que não operam
+  segundo os RBAC nº 121 ou 135. Esse é o caso geral descrito no parágrafo 43.7(b)-II do RBAC
+  nº 43. Para esse caso, não é requerido o cadastramento do MMA junto à Anac, nem que exista
+  vínculo entre o MMA e o operador.
+
+  Para manutenções de nível acima da manutenção preventiva (conforme o parágrafo A43.1(c)
+  do Apêndice A do RBAC nº 43) e limitadas a inspeções de até 50 horas previstas no programa
+  de manutenção do fabricante ou num programa aprovado de inspeções progressivas e ações corretivas
+  com o mesmo nível de complexidade, um MMA, habilitado pela Anac em célula e grupo motopropulsor,
+  pode aprovar o retorno ao serviço da aeronave, desde que essa aeronave não esteja vinculada
+  a uma empresa que opere segundo o RBAC nº 121 ou 135. Esse caso é descrito no parágrafo
+  43.7(b)-I(2) do RBAC nº 43. Para esse caso, também não é requerido o cadastramento do MMA
+  junto à Anac e nem que exista vínculo entre o MMA e o operador.
+
+  O parágrafo 43.7(b)-I(1) do RBAC nº 43 abre a possibilidade de que, após cadastro específico
+  na Anac, mecânicos habilitados pela Anac em célula e grupo motopropulsor possam aprovar
+  para retorno ao serviço aeronaves submetidas a inspeções de até 100 horas previstas no programa
+  de manutenção do fabricante ou em conformidade com o Apêndice D do RBAC nº 43 e ações corretivas
+  com o mesmo nível de complexidade, desde que essas aeronaves sejam empregadas por:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- paragrafo
+- caso
+- aeronave
+- aeronaves
+- apendice
+- aprovar
+- assunto
+- desenvolvimento
+- inspecoes
+- nivel
+- programa
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-002a.md

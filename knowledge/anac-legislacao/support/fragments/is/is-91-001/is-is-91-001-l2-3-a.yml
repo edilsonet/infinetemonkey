@@ -1,0 +1,35 @@
+id: is-is-91-001-l2-3-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: L2.3
+section_title: Trajetória do procedimento RNP AR DP
+subsection_id: a
+cite: L2.3(a)
+title: L2.3(a)
+text: a) Quando a primeira curva do procedimento se inicia muito próxima ao ou no DER, a base
+  de dados de navegação pode definir o fixo inicial do procedimento no início da cabeceira
+  de aproximação da pista de decolagem (approach end of the takeoff runway). Nesse caso, todo
+  o primeiro segmento do procedimento irá coincidir com o comprimento do eixo da pista de
+  decolagem, desde a cabeceira até o DER. Isso permite que alguns sistemas RNP forneçam a
+  navegação lateral tangente ao fixo inicial da primeira curva (RF leg).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimento
+- cabeceira
+- curva
+- decolagem
+- fixo
+- inicial
+- navegacao
+- pista
+- primeira
+- alguns
+- approach
+- aproximacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

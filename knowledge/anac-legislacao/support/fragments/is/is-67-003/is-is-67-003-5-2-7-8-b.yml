@@ -1,0 +1,143 @@
+id: is-is-67-003-5-2-7-8-b
+kind: is
+document: is-67-003
+family: '67'
+section_id: 5.2.7.8
+section_title: 'no campo “Observação”:'
+subsection_id: b
+cite: 5.2.7.8(b)
+title: 5.2.7.8(b)
+text: 'b) Inserir o respectivo código de uma ou mais das seguintes restrições operacionais
+  ao
+
+  tripulante, se houver, na forma requerida pelos parágrafos 67.71(e), 67.111(e) e
+
+  67.191(e) do RBAC 67:
+
+  Item Restrição operacional Código Limitação
+
+  1 Operação somente com
+
+  tripulação múltipla
+
+  OML Somente para 1ª
+
+  Classe.
+
+  Somente a ANAC
+
+  pode emitir.
+
+  2 Operação somente com piloto
+
+  sem restrição
+
+  OSL Somente opera com
+
+  outro piloto sem22/04/2016 IS nº 67-003
+
+  Revisão C
+
+  restrição médica
+
+  (tolera-se a restrição
+
+  de “apto com lentes
+
+  corretoras”)
+
+  3 Operação sem transporte de
+
+  passageiro
+
+  OPL Somente em consulta
+
+  com a ANAC.
+
+  4 Restrição de validade do CMA TML A critério médico
+
+  5 Apto com lentes corretoras VML Critério do RBAC 67
+
+  6 Operação somente em voo
+
+  diurno
+
+  VCL Em consulta com
+
+  ANAC
+
+  7 Apto com aparelho auditivo HAL Somente a ANAC
+
+  pode emitir.
+
+  8 Apto com prótese aprovada APL Somente a ANAC
+
+  pode emitir.
+
+  9 Apto somente como co-piloto OCL Somente em consulta
+
+  com a ANAC.
+
+  10 Restrições específicas SSL Somente a ANAC
+
+  pode emitir.
+
+  11 Operação restrita a determinada
+
+  aeronave
+
+  OAL Somente a ANAC
+
+  pode emitir.
+
+  12 Apto com controle manual
+
+  aprovado
+
+  AHL Somente a ANAC
+
+  pode emitir.
+
+  13 Exame médico específico
+
+  regular - contatar ANAC
+
+  SIC Somente a ANAC
+
+  pode emitir.
+
+  14 Proibido Voo Solo PVS A critério médico
+
+  15 Proibido Voo como Instrutor PVI A critério médico
+
+  Observação: Todos os examinadores credenciados e conveniados, quando cabível,
+
+  deverão fornecer apenas o código indicado acima quando tratar-se de restrição
+
+  operacional. Esta medida é necessária uma vez que a condição médica particular de um
+
+  dado usuário é privativa dele e do examinador que realizou seu exame de saúde pericial.
+
+  Nenhuma outra informação relativa a essa condição deverá ser inserida nesse campo.'
+keywords:
+- saude
+- certificado-medico
+- pessoal
+- somente
+- emitir
+- pode
+- apto
+- restricao
+- operacao
+- criterio
+- medico
+- codigo
+- consulta
+- piloto
+- campo
+categories:
+- saude
+- certificado-medico
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-67-003.md

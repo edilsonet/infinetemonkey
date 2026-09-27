@@ -1,0 +1,113 @@
+id: is-is-119-011-introducao-k
+kind: is
+document: is-119-011
+family: '119'
+section_id: introducao
+section_title: Introdução
+subsection_id: k
+cite: introducao(k)
+title: introducao(k)
+text: 'k) abastecimento da aeronave, limpeza e
+
+  catering
+
+  .
+
+  Nota 1
+
+  : esta lista é exemplificativa e não exaustiva. As atividades, no caso concreto, poderão
+  variar conforme o previsto no acordo que se pretenda realizar.
+
+  Nota 2
+
+  : se o operador técnico já terceiriza alguma dessas atividades, como o
+
+  ground handling
+
+  , e, portanto, já possui os procedimentos estabelecidos em seu sistema de documentos de
+  segurança operacional para essa terceirização, e o acordo com outro operador aéreo envolve
+  somente essa atividade, não há necessidade de considerar esse acordo como um acordo com
+  impacto no cumprimento dos requisitos operacionais (ou seja, um acordo sob o escopo desta
+  IS). O racional por trás dessa posição é que, essencialmente, não há diferença se o terceirizado
+  é um operador aéreo ou um provedor de
+
+  ground handling
+
+  .
+
+  Nota 3
+
+  : algumas IS, como a IS nº 121-013, sobre estações de linha para operações segundo o RBAC
+  nº 121, e a nº 120-016, sobre manutenção realizada por empresas de transporte aéreo, trazem
+  critérios para a terceirização de alguns serviços.
+
+  Se o operador comercial não opera o mesmo modelo e variante de aeronave, o operador técnico
+  deve identificar possíveis impactos para a execução dessas atividades pelo operador comercial
+  ou subcontratados. Neste caso, pode ocorrer que o operador comercial ou seus subcontratados
+  não tenha
+
+  know how
+
+  ou experiência com o modelo e variante da aeronave - o que dificulte ou inviabilize a realização
+  das atividades referentes àquela aeronave, obrigando que o operador técnico preveja outra
+  forma de executá-las (diretamente ou com outro terceirizado, por exemplo).
+
+  As atividades que caracterizam mais diretamente o exercício do controle operacional pelo
+  operador, como as atividades de despacho operacional de voo e as atividades da tripulação
+  de voo, devem ser realizadas diretamente pelo operador técnico. No entanto, isso não impede
+  que parte das informações que serão utilizadas pelo despacho da aeronave (por exemplo, o
+  peso da carga/bagagens despachadas) seja provido pelo operador comercial ou um subcontratado.
+
+  As atividades da tripulação de cabine também possuem relação direta com o exercício do controle
+  operacional pelo operador técnico. Eventual solicitação de terceirização da tripulação de
+  cabine deve garantir que são cumpridos os requisitos operacionais aplicáveis à tripulação
+  de cabine do operador técnico, incluindo os procedimentos estabelecidos no seu sistema de
+  documentos de segurança e mediante os treinamentos requeridos no seu programa de treinamento,
+  com especial atenção ao treinamento de CRM. Os impactos desta opção na interação entre a
+  tripulação (entre os próprios comissários e entre comissários e tripulantes de voo) deve
+  ser avaliado pelo operador técnico. A Anac considerará essa avaliação e decidirá, em cada
+  caso concreto, pela viabilidade da operação proposta.
+
+  Nota
+
+  : a Lei nº 13.475, de 28 de agosto de 2017, ao mesmo tempo que em que traz matéria relacionada
+  a segurança operacional - afeta às atribuições desta Agência -, também dispõe sobre matéria
+  que não se dirige a esse fim - notadamente, a relacionada aos aspectos trabalhistas da relação
+  que existe entre os aeronautas e seus empregadores. O cumprimento dos critérios estabelecidos
+  nesta IS não afasta a necessidade do cumprimento dos demais dispositivos legais.
+
+  O acordo deve prever as atividades identificadas no parágrafo 5.2.3 desta IS que serão realizadas
+  pelo operador comercial ou seus subcontratados, bem como a interação entre essas partes
+  e o operador técnico. Não é necessário que o contrato propriamente dito contenha todo esse
+  detalhamento, mas deve haver algum documento acordado entre o operador técnico e o operador
+  comercial que deixe clara essa informação.
+
+  O operador técnico deve desenvolver, em seu sistema de documentos de segurança operacional,
+  políticas e procedimentos para o operador comercial que realizar alguma das atividades identificadas
+  no parágrafo 5.2.3 desta IS.
+
+  O operador técnico deve revisar o seu sistema de documentos de segurança operacional na
+  medida necessária para documentar as particularidades referentes às operações conduzidas
+  sob o acordo.
+
+  Por exemplo:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operador
+- tecnico
+- atividades
+- acordo
+- comercial
+- operacional
+- aeronave
+- desta
+- seguranca
+- tripulacao
+- documentos
+- nota
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-011.md

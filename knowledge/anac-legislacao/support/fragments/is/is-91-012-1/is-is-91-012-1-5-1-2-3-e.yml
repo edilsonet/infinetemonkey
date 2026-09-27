@@ -1,0 +1,96 @@
+id: is-is-91-012-1-5-1-2-3-e
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.2.3
+section_title: 'A MEL não pode ser menos restritiva do que a MMEL. Ainda, deve estar de acordo
+  com:'
+subsection_id: e
+cite: 5.1.2.3(e)
+title: 5.1.2.3(e)
+text: 'e) políticas (policies) de MEL emitidas pela Anac, conforme descrito no parágrafo 5.1.2.3.2
+  dessa IS.
+
+  5.1.2.3.1 Interpretação da relação entre MMEL e RBAC. Ao considerar que a MEL deve atender
+  os requisitos estabelecidos em RBAC ou outra regulamentação da Anac, deve-se ter especial
+  atenção aos seguintes requisitos: 91.205(a), 91.213(b) e 91.1115(b) do RBAC nº 91; 121.303(d)
+  e 121.628(c) do RBAC nº 121; e 135.143(b) e 135.179(c) do RBAC nº 135.
+
+  5.1.2.3.1.1 Conforme 91.205(a), 121.303(d) e 135.143(b), os itens requeridos pelos RBAC
+  devem estar operacionais, a menos que especificamente previsto o contrário, como é feito
+  nas seções que tratam de MEL (91.213, 91.1115, 121.628 e 135.179) - ou seja, é permitido
+  que um item requerido por RBAC esteja inoperante desde que a MEL permita. Por sua vez, as
+  limitações ao que pode ser incluído na MEL são determinadas pela MMEL, pelo regulamento
+  e por esta IS.
+
+  5.1.2.3.1.2 Conforme 91.213(b)(1), 91.1115(b)(1), 121.628(c)(1) e 135.179(c)(1), os itens,
+  direta ou indiretamente, requeridos pelos requisitos de aeronavegabilidade segundo os quais
+  a aeronave foi certificada e que sejam essenciais para voo seguro sob todas as condições
+  de operação, não podem ser incluídos na MEL. A avaliação quanto a esses itens provém da
+  MMEL e dos manuais do fabricante, como o manual de voo aprovado da aeronave e seus suplementos
+  aplicáveis. Devem ser respeitadas as limitações de desempenho da aeronave.
+
+  5.1.2.3.1.3 Conforme 91.213(b)(2), 91.1115(b)(2), 121.628(c)(2) e 135.179(c)(2), não se
+  pode incluir na MEL um item requerido por uma Diretriz de Aeronavegabilidade (DA).
+
+  Nota: o parágrafo 5.3.6.3 desta IS trata da situação em que se observe um conflito entre
+  uma MEL aprovada e uma diretriz de aeronavegabilidade.
+
+  5.1.2.3.1.4 Conforme 91.213(b)(3), 91.1115(b)(3), 121.628(c)(3) e 135.179(c)(3), os itens
+  requeridos para uma operação específica não podem estar inoperantes quando a aeronave estiver
+  realizando tal operação específica. São operações específicas as operações que requerem
+  autorização específica da Anac, como as que requerem LOA ou autorização em EO ou EA (ETOPS,
+  RVSM, PBN etc), assim como as operações que requerem itens específicos, como, por exemplo,
+  operação noturna, IFR, em aeródromos específicos ou sobre água ou grandes extensões d’água.
+  Os itens requeridos para qualquer operação (e não apenas para operações específicas), como
+  os itens listados para voos VFR diurnos ou os gravadores de voz na cabine e gravadores de
+  dados de voo, não são requeridos especificamente para determinado tipo de operação e, portanto,
+  podem, por esse critério, estar inoperantes, desde que a MMEL permita.
+
+  Nota 1: nos casos em que a MMEL remete à regulamentação operacional aplicável, todos os
+  itens requeridos pela regulamentação devem estar operacionais, conforme esclarecido em 5.1.2.5.6.2
+  desta IS.
+
+  Nota 2: os itens requeridos pelo parágrafo 91.205(b) do RBAC nº 91 para voos VFR diurnos
+  somente podem estar inoperantes para voos VFR diurnos pois tais itens são requeridos especificamente
+  para voos VFR noturnos por 91.205(c)(1) e para voos IFR por 91.205(d)(1) do RBAC nº 91.
+
+  5.1.2.3.2 Interpretação da relação entre MMEL e políticas de MEL emitidas pela Anac. A Anac
+  pode decidir pela emissão de uma política de MEL para regular como equipamentos específicos
+  devem ser tratados na MEL. Os operadores devem considerar essas políticas de MEL na elaboração
+  de sua MEL.
+
+  5.1.2.3.2.1 A MEL deve atender à condição mais restritiva entre a MMEL e a política de MEL.
+  Ou seja, se a política de MEL estabelecer uma condição mais restritiva que a MMEL, a MEL
+  deve atender à política de MEL. Por outro lado, se a MMEL estabelecer uma condição mais
+  restritiva que a política de MEL, não se pode tomar crédito da condição menos restritiva
+  da política de MEL para a elaboração da MEL.
+
+  5.1.2.3.2.2 As políticas de MEL devem ser consideradas na MEL quando houver necessidade
+  de revisão da MEL, conforme o parágrafo 5.2.2 desta IS, ou no prazo de até 2 anos após a
+  emissão da política de MEL (ou prazo definido pela própria política, se aplicável), o que
+  ocorrer primeiro.
+
+  5.1.2.4 Enquanto a MMEL é elaborada para um tipo de aeronave, a MEL deve ser específica
+  para uma determinada aeronave, ou conjunto de determinadas aeronaves (desde que abrangidas
+  pela mesma MMEL), de um único operador, considerando suas próprias operações. Assim:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- mmel
+- politica
+- requeridos
+- aeronave
+- estar
+- operacao
+- operacoes
+- pode
+- restritiva
+- voos
+- condicao
+- especifica
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

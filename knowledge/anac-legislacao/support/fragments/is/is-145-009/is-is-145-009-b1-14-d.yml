@@ -1,0 +1,59 @@
+id: is-is-145-009-b1-14-d
+kind: is
+document: is-145-009
+family: '145'
+section_id: B1.14
+section_title: Sistema de Inspeção
+subsection_id: d
+cite: B1.14(d)
+title: B1.14(d)
+text: 'd) Inspeção preliminar
+
+  I- Quem (por título) irá executar esta inspeção, e como ela será executada?
+
+  II- Quando esta inspeção é executada?
+
+  III- Como a inspeção será registrada?
+
+  IV- Se a inspeção revelar discrepâncias, como elas são registradas?
+
+  V- Como é tomada ação corretiva para corrigir qualquer discrepância?
+
+  VI- Os registros mostram a relação entre a discrepância encontrada e a ação corretiva tomada?
+
+  VII- O registro dessa inspeção faz parte do arquivo da ordem de serviço (pacote de trabalho)?
+
+  VIII- Como é assegurada a rastreabilidade de limites de vida e/ou tempo desde revisão?
+
+  IX- Como são identificadas as partes, se aceitável ou se não aceitável?
+
+  X- O MCQ inclui procedimentos para assegurar que registros (pacote de serviços) são mantidos
+  com as partes?
+
+  XI- O MCQ inclui um procedimento para assegurar que dados técnicos atualizados estão disponíveis
+  antes da inspeção?
+
+  XII- O MCQ inclui procedimentos para detectar e reportar partes não aprovadas?
+
+  XIII- O MCQ inclui procedimento para reportar falhas, maus funcionamentos, ou defeitos de
+  um artigo?'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- inclui
+- partes
+- acao
+- aceitavel
+- assegurar
+- corretiva
+- discrepancia
+- executada
+- pacote
+- procedimento
+- procedimentos
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

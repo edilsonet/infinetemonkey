@@ -1,0 +1,47 @@
+id: is-is-91-001-3-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: '3'
+section_title: Considerações durante o voo
+subsection_id: c
+cite: 3(c)
+title: 3(c)
+text: 'c) na utilização de indicadores de desvios de trajetória com baixa resolução ou indicadores
+  numéricos.
+
+  Nota: para aeronaves que utilizam CDI no monitoramento da trajetória lateral, o AFM deve
+  indicar qual a escala e a precisão suportada pelo CDI. A tripulação deve estar treinada
+  para ajustar a escala sempre que necessário.
+
+  3.10 Cheque cruzado. Em procedimentos RNP AR APCH com valor de RNP inferior a 0.3, a tripulação
+  deve assegurar a consistência das informações de desvios laterais e verticais comparando-as
+  com informações de sistemas independentes. O cheque cruzado pode não ser necessário se o
+  sistema de indicação de trajetória foi desenvolvido levando-se em consideração falhas críticas
+  (severe ou major failures) devido a informação inexata e se o desempenho do sistema de navegação
+  atende às características do espaço aéreo.
+
+  3.11 Procedimento com segmento RF. Visto que nem todas as variantes de modelos da mesma
+  família de aeronaves possuem a capacidade de executar segmentos RF, os tripulantes devem
+  cerificar-se que a aeronave sendo voada possui tal capacidade. Durante a execução de um
+  segmento RF é essencial o cumprimento da trajetória estabelecida. E ainda:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- trajetoria
+- aeronaves
+- capacidade
+- cheque
+- cruzado
+- desvios
+- durante
+- escala
+- indicadores
+- informacoes
+- necessario
+- segmento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

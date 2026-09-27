@@ -1,0 +1,34 @@
+id: rbac-rbac-161-termos-e-definicoes-g
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: g
+cite: termos-e-definicoes(g)
+title: termos-e-definicoes(g)
+text: '(g)
+
+  Nível de ruído médio dia-noite: nível de ruído médio de um período de 24 horas, calculado
+  segundo a metodologia
+
+  Day-Night Average Sound Level
+
+  - DNL.'
+keywords:
+- definicoes
+- medio
+- nivel
+- ruido
+- termos
+- average
+- calculado
+- horas
+- level
+- metodologia
+- night
+- noite
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

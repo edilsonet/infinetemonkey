@@ -1,0 +1,92 @@
+id: is-is-e94-004a-definicoes-body
+kind: is
+document: is-e94-004a
+family: '94'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Área Adjacente (Adjacente Area). Significa toda a área que está para além da Distância de
+  Segurança no Solo (Ground Risk Buffer).
+
+  Área Controlada (Controlled Ground Area). Significa uma área em que o operador do RPAS pode
+  garantir que não haverá pessoas não anuentes em solo expostas ao risco.
+
+  Área Escassamente Povoada (Lightly Populated). Região com densidade populacional menor que
+  50 pessoas por km2.
+
+  Área Rural ou Remota (Rural or Remote Area). Região com densidade populacional menor que
+  5 pessoas por km2.
+
+  Classe de Risco Aéreo (ARC - Air Risk Class). Significa uma classificação qualitativa da
+  probabilidade de uma RPA encontrar uma aeronave tripulada no espaço aéreo genérico típico.
+
+  Nota: Para efeitos desta IS, somente é aplicável a classe de risco aéreo ARC-a, também denominada
+  de atípica e que ocorre mediante a segregação do espaço aéreo pelo DECEA via NOTAM.
+
+  Classe de Risco ao Solo (GRC - Ground Risk Class). Significa o risco de uma pessoa ser atingida
+  pela RPA (no caso de uma perda de controle da RPA com um pressuposto razoável de segurança
+  operacional), ou então do atingimento de uma infraestrutura crítica.
+
+  Detentor do Projeto. Pessoa física ou jurídica que detém, conforme a legislação brasileira,
+  os direitos autorais patrimoniais sobre a totalidade do projeto da aeronave.
+
+  Distância de Segurança no Solo (GRB - Ground Risk Buffer). Significa a distância no solo
+  para além do volume operacional, a partir da qual devem ser acionados os procedimentos de
+  emergência.
+
+  Fabricante. Pessoa física ou jurídica responsável pela verificação da conformidade de todas
+  as partes, peças e materiais adquiridos de terceiros, conforme seus respectivos projetos.
+  Também é responsável pela conformidade de todos os processos de transformação e integração
+  dessas partes, peças e materiais, além da verificação final da conformidade da aeronave,
+  frente seu projeto aprovado na ANAC.
+
+  Geografia de Voo (Flight Geografic). Significa o volume de espaço aéreo onde se planeja
+  realizar a operação da RPA.
+
+  Objetivos de segurança operacional (Operational Safety Object - OSO). Significa a expressão
+  do SAIL em termos de requisitos específicos e com a robustez requerida para cada nível de
+  SAIL.
+
+  Requerente. Pessoa física ou jurídica que solicita à ANAC e aos outros órgãos governamentais
+  as autorizações e solicitações necessárias para o projeto do RPAS, sendo o próprio fabricante
+  ou representante por ele designado, em qualquer caso, detentor dos dados técnicos completos
+  do projeto.
+
+  Responsável Técnico - RT. Engenheiro com atribuição adequada e registro no Conselho Regional
+  de Engenharia e Agronomia - Crea, responsável pelo projeto de RPAS.
+
+  Risco no contexto SORA. Significa a análise de potenciais situações que podem resultar em
+  danos a terceiros durante a operação do RPAS.
+
+  Nível específico de integridade e confiança (Specific Assurance Integrity Level - SAIL).
+  Significa a consolidação das análises de risco aéreo e no solo, que direciona as atividades
+  necessárias e representa o nível de confiança de que a operação do RPAS permanecerá sob
+  controle.
+
+  Volume de Contingência (Contingency Volume). Significa um volume de espaço aéreo, para além
+  da geografia de voo, que a UA poderá acessar em caso de evento anormal e, a partir do qual,
+  devem ser acionados os procedimentos de contingência.
+
+
+  Figura 1 - Apresentação dos volumes e áreas para análise.'
+keywords:
+- significa
+- area
+- aereo
+- risco
+- projeto
+- solo
+- rpas
+- volume
+- alem
+- espaco
+- ground
+- pessoa
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-004a.md

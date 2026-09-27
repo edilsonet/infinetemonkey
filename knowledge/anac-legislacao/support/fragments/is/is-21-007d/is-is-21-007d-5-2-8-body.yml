@@ -1,0 +1,46 @@
+id: is-is-21-007d-5-2-8-body
+kind: is
+document: is-21-007d
+family: '21'
+section_id: 5.2.8
+section_title: All aircraft documentation must be provided to ANAC in Portuguese or English.
+subsection_id: body
+cite: 5.2.8
+title: All aircraft documentation must be provided to ANAC in Portuguese or English.
+text: '5.2.8 All aircraft documentation must be provided to ANAC in Portuguese or English.
+
+  5.3 Critérios de Aeroelasticidade
+
+  5.3 Aeroelasticity criteria
+
+  5.3.1 Para aviões com velocidade máxima em voo nivelado com potência máxima contínua (VH)
+  maior que 120 knots CAS, sob condições atmosféricas padrão ao nível do mar, a ANAC aceitará
+  o cumprimento com a F3619-22 Standard Specification for Aeroelasticity Requirements for
+  a Light Sport Airplane.
+
+  5.3.1 For airplanes with maximum airspeed in level flight with maximum continuous power
+  (VH) greater than 120 knots CAS under standard atmospheric conditions at sea level, the
+  ANAC accepts compliance with F3619-22 Standard Specification for Aeroelasticity Requirements
+  for a Light Sport Airplane.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aeroelasticity
+- aircraft
+- documentation
+- english
+- must
+- portuguese
+- provided
+- standard
+- with
+- airplane
+- f3619
+- knots
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-007d.md

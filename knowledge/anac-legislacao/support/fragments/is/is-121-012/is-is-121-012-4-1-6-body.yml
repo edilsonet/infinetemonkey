@@ -1,0 +1,45 @@
+id: is-is-121-012-4-1-6-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 4.1.6
+section_title: Despacho de voo, apenas para os fins desta IS, inclui também a liberação de
+  voo (aplicável a operações não regulares).
+subsection_id: body
+cite: 4.1.6
+title: Despacho de voo, apenas para os fins desta IS, inclui também a liberação de voo (aplicável
+  a operações não regulares).
+text: '4.1.6 Despacho de voo, apenas para os fins desta IS, inclui também a liberação de voo
+  (aplicável a operações não regulares).
+
+  4.1.7 Documento de configuração, manutenção e procedimentos (CMP) significa um documento
+  aprovado pela ANAC que contém configuração mínima, requisitos de operação e de manutenção,
+  limites de tempo de hardware e restrições da MMEL necessárias para uma combinação avião-motor
+  atender os requisitos de aprovação de projeto de tipo ETOPS.
+
+  4.1.8 Manutenções concomitantes significa ações de manutenção realizadas no mesmo elemento
+  de sistemas significativos ETOPS iguais ou similares, embora separados, durante manutenção
+  programada ou não programada.
+
+  4.1.9 Operação prolongada (ETOPS - Extended operations) significa uma operação de voo com
+  um avião, exceto um avião com mais de dois motores em operações cargueiras, em que uma parte
+  do voo é operada em área de operações ETOPS.'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- manutencao
+- aplicavel
+- aviao
+- despacho
+- desta
+- fins
+- inclui
+- liberacao
+- operacao
+- regulares
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

@@ -1,0 +1,31 @@
+id: rbac-rbac-108-emd-07-108-197-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.197'
+section_title: Acesso à cabine de comando
+subsection_id: a
+cite: 108.197(a)
+title: 108.197(a)
+text: (a) O operador aéreo que operar aeronave com cabine segregada deve garantir que apenas
+  pessoas autorizadas conforme regulamento de operação específico acessem a cabine dos pilotos
+  das suas aeronaves em voo.
+keywords:
+- seguranca
+- operador
+- cabine
+- acessem
+- acesso
+- aereo
+- aeronave
+- aeronaves
+- autorizadas
+- comando
+- especifico
+- garantir
+- operacao
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

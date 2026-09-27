@@ -1,0 +1,55 @@
+id: is-is-61-006-definicoes-body
+kind: is
+document: is-61-006
+family: '61'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições previstas nos RBAC nº 01 e 61 e
+  as seguintes definições:
+
+
+  Caderneta Individual de Voo Digital (CIV Digital): documento legal em meio eletrônico, disponibilizado
+  pela ANAC por meio do SACI e disciplinado pela IS 61-001, para verificação da experiência,
+  comprovação e certificação de horas de voo e endossos do piloto aerodesportivo, piloto privado,
+  piloto comercial, piloto de linha aérea, piloto de planador ou piloto de balão livre operando
+  aeronaves.
+
+  Piloto endossante ou endossador: piloto que ministra a instrução requerida, preenche o endosso
+  na CIV digital do piloto endossado e registra o endosso em sua própria CIV Digital.
+
+  Piloto endossado: piloto que recebe a instrução requerida, tem preenchido o endosso em sua
+  CIV digital pelo piloto endossante e tem registrado o endosso por meio da CIV Digital do
+  piloto endossante.
+
+  Sistema Integrado de Informações da Aviação Civil (SACI): plataforma online pertencente
+  à ANAC, acessível por qualquer dispositivo conectado à Internet por meio do endereço https://sistemas.anac.gov.br/saci/,
+  que contém os registros pessoais (nome, documentos pessoais, foto, assinatura, CIV Digital,
+  licenças, habilitações e endossos) do detentor de um código ANAC (CANAC) e cujo acesso é
+  disciplinado pela IS 00-008.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- piloto
+- digital
+- definicoes
+- endosso
+- meio
+- endossante
+- saci
+- disciplinado
+- endossado
+- endossos
+- instrucao
+- pessoais
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-006.md

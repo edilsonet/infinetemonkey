@@ -1,0 +1,52 @@
+id: is-is-135-21-001b-5-2-6-2-a
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.6.2
+section_title: Execução e aprovação dos serviços
+subsection_id: a
+cite: 5.2.6.2(a)
+title: 5.2.6.2(a)
+text: 'a) deverão ser estabelecidos procedimentos e políticas adequados para a programação
+  e o controle da manutenção das aeronaves da frota do operador, de forma a cumprir o atendimento
+  ao exposto abaixo:
+
+  I- Descrever procedimentos e responsabilidades relativos à emissão, preenchimento e tramitação
+  de ordem de serviço (OS) para a execução de manutenção programada (aquela manutenção requerida
+  para atender as tarefas previstas no programa de manutenção das aeronaves, aquelas oriundas
+  de diretrizes de aeronavegabilidade, ou contidas nas limitações de aeronavegabilidade etc.),
+  deixando claro que tal documento é condição prévia para a autorização da realização de tais
+  serviços.
+
+  II- Os procedimentos devem detalhar o fluxo da OS desde o momento da emissão até o seu encerramento.
+
+  III- A OS deve ser suplementada, como necessário, por instruções detalhadas de serviços,
+  contidas em formulários apropriados. Por exemplo, na execução de uma inspeção de 300 horas,
+  a ordem de serviço deve: estabelecer o tipo do serviço a ser realizado (inspeção de 300
+  horas) com referência ao programa de manutenção aplicável ou documento fonte do fabricante,
+  e outros dados técnicos aceitáveis, incluindo a revisão corrente; conter uma lista das tarefas
+  a serem executadas e possuir anexas as fichas de inspeção atualizadas que detalham cada
+  tarefa.
+
+  IV- A OS deve ser previamente numerada e esse número deverá servir de referência básica
+  para se rastrear quaisquer outros serviços que dela forem originados.'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- servicos
+- execucao
+- inspecao
+- procedimentos
+- servico
+- aeronavegabilidade
+- aeronaves
+- contidas
+- documento
+- emissao
+- horas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

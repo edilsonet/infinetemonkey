@@ -1,0 +1,23 @@
+id: rbac-rbac-23-aprovacao-body
+kind: rbac
+document: rbac-23
+family: '23'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 524, de 2 de agosto de 2019. [Emenda nº 64]'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- aprovacao
+- agosto
+- resolucao
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-23.md

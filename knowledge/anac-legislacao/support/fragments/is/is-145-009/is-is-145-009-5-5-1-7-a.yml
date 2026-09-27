@@ -1,0 +1,84 @@
+id: is-is-145-009-5-5-1-7-a
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.1.7
+section_title: 'Exemplos de possíveis formatos de lista:'
+subsection_id: a
+cite: 5.5.1.7(a)
+title: 5.5.1.7(a)
+text: 'a) Exemplo 1
+
+  Nome e Título
+
+  Tipo e
+
+  Número da Licença
+
+  Assinatura e Rubrica
+
+  Carimbo
+
+  Autorização
+
+  Inspetor de
+
+  Recebimento
+
+  Cód. ANAC nº 67890
+
+  Jane, Sra.
+
+
+  B
+
+  Inspetor
+
+  Final
+
+  Cód. ANAC nº 67890
+
+  Roberto, Sr.
+
+
+  C
+
+  APRS
+
+  Cód. ANAC Nº12345
+
+  João, Sr.
+
+
+  A, B, C
+
+  ETC
+
+
+  Código da Autorização:
+
+  A - Autorizado para aprovar artigos para retorno ao serviço
+
+  B - Autorizado a assinar inspeção de recebimento
+
+  C - Autorizado a assinar serviços em andamento e a inspeção final'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- autorizado
+- assinar
+- autorizacao
+- final
+- inspecao
+- inspetor
+- recebimento
+- andamento
+- aprovar
+- aprs
+- artigos
+- assinatura
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

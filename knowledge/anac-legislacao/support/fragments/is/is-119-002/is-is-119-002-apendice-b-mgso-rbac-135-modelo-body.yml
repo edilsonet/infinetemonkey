@@ -1,0 +1,95 @@
+id: is-is-119-002-apendice-b-mgso-rbac-135-modelo-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: apendice-b-mgso-rbac-135-modelo
+section_title: APÊNDICE B - MGSO RBAC 135 - MODELO
+subsection_id: body
+cite: apendice-b-mgso-rbac-135-modelo
+title: APÊNDICE B - MGSO RBAC 135 - MODELO
+text: 'APÊNDICE B - MGSO RBAC 135 - MODELO
+
+  NOTAS EXPLICATIVAS
+
+  Este trabalho é uma orientação para que os Detentores e/ou Requerentes de um Certificado
+
+  regulados pelos RBACs 119 consigam desenvolver e implantar seus SGSO.
+
+  Como explicação ao leitor, destaca-se que os textos foram retirados basicamente do Doc 9859,
+  2ª
+
+  edição, documento emitido pela OACI, do material didático utilizado nos cursos ministrados
+  pela
+
+  ANAC e dos requisitos constantes dos Apêndices Q e R do RBAC 121 e H e I do RBAC 135.
+
+  Foram acrescentados, ainda, requisitos do RBAC 119 e do próprio PSOE-ANAC, considerando
+  que
+
+  possuíam outros requisitos importantes para o funcionamento do SGSO de um Detentor de
+
+  Certificado.
+
+  A única exceção é o Capítulo 5 - POLÍTICAS E OBJETIVOS DE SEGURANÇA
+
+  OPERACIONAL, que foi construído como um modelo sugerido, que se adotado pelo Gestor
+
+  Responsável, basta à complementação das informações onde sugerido e estará atendendo todos
+  os
+
+  requisitos proposto para esse componente e seus elementos. Esta opção é o resultado da análise
+  da
+
+  grande quantidade de detalhes existentes nos RBACs 121 e 135 que precisam ser atendidos.
+
+  Para facilitar a identificação do que é requisito para o que é orientação adotou-se escrever
+  em itálico
+
+  o que fosse orientação e em texto normal o que saiu diretamente dos requisitos.
+
+  Outro ponto importante é a proposta de trazer para o início do MGSO a descrição do ambiente
+
+  operacional, antes conhecido como “descrição do sistema”, a análise do faltante e o plano
+  de
+
+  implantação do próprio SGSO, em função de considerar que nesta ordem facilitaria o entendimento
+
+  dos compromissos assumidos pelo Gestor Responsável.
+
+  Não existe a pretensão de considerar este texto como a versão definitiva, pois contribuições
+  são
+
+  bem-vindas, mas a intenção era preparar algo que pudesse ser disponibilizado no site externo
+  da
+
+  ANAC para auxiliar aos Detentores de Certificado no desenvolvimento dos trabalhos requeridos
+
+  pelos novos regulamentos.Data da emissão: 9 de novembro de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  MANUAL DE GERENCIAMENTO DA SEGURANÇA
+
+  OPERACIONAL - MGSO
+
+  Empresas 121 ou 135 - Exemplo'
+keywords:
+- certificacao-de-operador
+- operacoes
+- mgso
+- requisitos
+- modelo
+- apendice
+- certificado
+- operacional
+- orientacao
+- sgso
+- analise
+- considerar
+- descricao
+- detentores
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

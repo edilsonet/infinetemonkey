@@ -1,0 +1,49 @@
+id: is-is-121-003-5-6-4-1-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.6.4.1
+section_title: A parte do desafio de um item da lista de verificação é melhor formulada quando
+  reproduz o
+subsection_id: body
+cite: 5.6.4.1
+title: A parte do desafio de um item da lista de verificação é melhor formulada quando reproduz
+  o
+text: '5.6.4.1 A parte do desafio de um item da lista de verificação é melhor formulada quando
+  reproduz o
+
+  rótulo usado na cabine de comando para o interruptor, alavanca, indicador ou sistema
+
+  correspondente. A parte da resposta é melhor formulada em termos do status real do sistema,
+
+  posição do interruptor ou da alavanca, ou o valor do parâmetro específico. Por exemplo,
+  o sistema
+
+  de freio automático pode ser configurado para RTO, OFF, ARM, DISARM, 1, 2, 3, etc. O desafio
+
+  para este sistema pode ser "Autobrake" e a resposta pode ser "RTO". O PF e o PM só devem
+  usar
+
+  as frases listadas no SOP ou na lista de verificação para ajudar a reduzir qualquer ambiguidade
+
+  ou confusão.'
+keywords:
+- transporte-aereo
+- operacoes
+- desafio
+- formulada
+- lista
+- melhor
+- parte
+- sistema
+- verificacao
+- pode
+- reproduz
+- alavanca
+- interruptor
+- resposta
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

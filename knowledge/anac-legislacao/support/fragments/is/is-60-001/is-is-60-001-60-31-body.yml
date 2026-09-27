@@ -1,0 +1,154 @@
+id: is-is-60-001-60-31-body
+kind: is
+document: is-60-001
+family: '60'
+section_id: '60.31'
+section_title: '60.31'
+subsection_id: body
+cite: '60.31'
+title: '60.31'
+text: '60.31
+
+  36.1
+
+  O MQTG em suas revisões e emendas;
+
+  60.31(a )(1)
+
+  36.2
+
+  Os registros de todas as modificações de FSTD afetadas pela seção 60.23 do RBAC 60 desde
+  a emissão do primeiro Certificado de Qualificação;
+
+  60.31(a )(2)
+
+  36.3
+
+  Cópias dos resultados das avaliações de qualificação (inicial e cada elevação de nível)
+  desde a emissão do primeiro Certificado de Qualificação;
+
+  60.31(a)(3)(i)
+
+  36.4
+
+  Cópias dos resultados dos testes objetivos executados em cumprimento a seção 60.19(a) do
+  RBAC 60 por um período de 2 anos;
+
+  60.31(a)(3)(ii)
+
+  36.5
+
+  Cópias dos resultados das três últimas avaliações de qualificação recorrente, ou as avaliações
+  recorrentes que ocorreram nos 2 últimos anos, a qual cobrir um período de tempo maior;
+
+  60.31(a)(3)(iii)
+
+  36.6
+
+  Cópias dos relatos obtidos de acordo com a seção 60.9 (b) do RBAC 60 por um período de pelo
+  menos 90 dias;
+
+  60.31(a)(3)(iv)
+
+  37
+
+  A política, processo ou procedimento especificando como o operador vai manter todas as discrepâncias
+  inseridas no registro de discrepâncias nos últimos dois anos, incluindo o seguinte:
+
+  60.31(a)(4)
+
+  37.1
+
+  A lista dos componentes ou equipamentos que estiveram ou estão MMI;
+
+  60.31(a)(4)(i)
+
+  37.2
+
+  A ação corretiva tomada para corrigir a discrepância;
+
+  60.31(a)(4)(ii)
+
+  37.3
+
+  A data em que a ação corretiva foi tomada;
+
+  60.31(a)(4)(iii)
+
+  37.4
+
+  A identificação da pessoa que determinou que a discrepância foi sanada.
+
+  60.31(a)(4)(iv)
+
+
+  Itens adicionais, que embora não remetam a requisitos diretos do RBAC 60, são essenciais
+  para um sistema de Gestão da Qualidade de FSTD.
+
+
+  38
+
+  A Política de Qualidade.
+
+
+  39
+
+  Organograma da Organização, apresentando os níveis de autoridade da estrutura administrativa,
+  do departamento de qualidade e do departamento de manutenção, que dão suporte ao programa
+  QMS e a manutenção da qualificação de cada FSTD do operador.
+
+
+  40
+
+  Lista de pessoal e responsáveis no Sistema de Gerenciamento da Qualidade de FSTD - matriz
+  de responsabilidade.
+
+
+  41
+
+  Sistema de auditoria, como discutido no capítulo 9 dessa IS.
+
+
+  42
+
+  A política, processo ou procedimento que descreva como o operador medirá o desempenho de
+  seus FSTDs, conforme discutido no capítulo 10 dessa IS.
+
+
+  43
+
+  A política processo ou procedimento que descreva como os equipamentos e ferramentas especiais
+  são controlados em relação às calibrações necessárias para seu uso.
+
+
+  44
+
+  A política, processo ou procedimento para o controle de configuração do FSTD, com o objetivo
+  de garantir a integridade do software e hardware, como qualificado pela ANAC.
+
+
+  45
+
+  Política, processo ou procedimento que descreva como o operador adicionará aeroportos, além
+  daqueles listados no seu Certificado de Qualificação do FSTD, para serem utilizados em treinamentos,
+  exames e obtenção de experiência recente.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- politica
+- qualificacao
+- procedimento
+- processo
+- copias
+- operador
+- qualidade
+- anos
+- avaliacoes
+- certificado
+- descreva
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

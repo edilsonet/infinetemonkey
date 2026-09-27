@@ -1,0 +1,53 @@
+id: is-is-21-231-001-desenvolvimento-do-assunto-b
+kind: is
+document: is-21-231-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: b
+cite: desenvolvimento-do-assunto(b)
+title: desenvolvimento-do-assunto(b)
+text: 'b) Classificação de modificações aos dados relevantes à operação em grandes ou pequenas,
+  conforme o parágrafo 21.263-I(c)(1) do RBAC nº 21, referente à FCD, ou dados relevantes
+  à operação para pilotos, conforme descrito nos parágrafos 21.61-I(a) e 21.107-I(c) do RBAC
+  nº 21.
+
+  I - O procedimento para classificar as modificações aos dados relevantes à operação em grandes
+  ou pequenas deve abordar, ao menos, os pontos elencados na seção 5.6.4.3 da IS 21.61-001,
+  revisão A, ou seção similar contida em versões mais atuais da IS referenciada.
+
+  i. Conforme descrito na seção referenciada acima, o procedimento deve estabelecer os registros
+  que devem ser gerados de cada uma das modificações classificadas. Todas as informações descritas
+  na seção acima devem fazer parte dos registros gerados para cada uma das modificações classificadas
+  pela Organização de Projeto certificada.
+
+  ii. O procedimento deve conter, também, as informações descritas nos itens 5.5.4.7(a)(I),
+  deixando clara a necessidade de verificação independente, pelo CVE, da classificação realizada,
+  quando descrevendo o item 5.5.4.7(a)(I)(iv).
+
+  II - Adicionalmente ao item 5.5.4.7(b)(I), a organização deve descrever, como parte do procedimento,
+  os critérios que usará para definir a classificação da modificação, mesmo que os critérios
+  sejam baseados na seção 5.6.3 da IS 21.61-001, revisão A, ou seção similar contida em versões
+  mais atuais da IS referenciada.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- secao
+- modificacoes
+- procedimento
+- classificacao
+- dados
+- operacao
+- referenciada
+- relevantes
+- acima
+- assunto
+- atuais
+- cada
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-231-001.md

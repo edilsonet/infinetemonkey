@@ -1,0 +1,36 @@
+id: is-is-91-001-e1-9-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E1.9
+section_title: A especificação RNAV 1 e 2 foi elaborada fundamentalmente para suportar operações
+  realizadas em localidades que contam com cobertura radar. Para a execução de operações similares
+  sem a cobertura radar foi elaborada a especificação RNP 1 (ver Apêndice G desta IS).
+subsection_id: body
+cite: E1.9
+title: A especificação RNAV 1 e 2 foi elaborada fundamentalmente para suportar operações realizadas
+  em localidades que contam com cobertura radar. Para a execução de operações similares sem
+  a cobertura radar foi elaborada a especificação RNP 1 (ver Apêndice G desta IS).
+text: E1.9 A especificação RNAV 1 e 2 foi elaborada fundamentalmente para suportar operações
+  realizadas em localidades que contam com cobertura radar. Para a execução de operações similares
+  sem a cobertura radar foi elaborada a especificação RNP 1 (ver Apêndice G desta IS).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- cobertura
+- elaborada
+- especificacao
+- operacoes
+- radar
+- apendice
+- contam
+- desta
+- execucao
+- fundamentalmente
+- localidades
+- realizadas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

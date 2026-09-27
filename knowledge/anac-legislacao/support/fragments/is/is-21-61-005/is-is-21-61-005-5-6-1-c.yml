@@ -1,0 +1,41 @@
+id: is-is-21-61-005-5-6-1-c
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.6.1
+section_title: 'According to paragraph 21.107-I(c) of RBAC 21:'
+subsection_id: c
+cite: 5.6.1(c)
+title: 5.6.1(c)
+text: '(c) A minor change to operation suitability data is one that has no appreciable effect
+  on those data. All other changes are major changes.
+
+  5.6.2 Uma modificação à MMEL é considerada como não tendo um ‘efeito apreciável nos dados
+  relevantes a operação’ e, portanto, deve ser classificada como pequena modificação, em particular,
+  mas não apenas, quando estiver relacionada ao seguinte:
+
+  5.6.2 A change to the MMEL is judged not to have an ‘appreciable effect on the operational
+  suitability of the aircraft’ and, therefore, should be classified as a minor change, in
+  particular, but not only when it is related to the following:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- change
+- appreciable
+- changes
+- data
+- effect
+- minor
+- mmel
+- modificacao
+- particular
+- suitability
+- according
+- aircraft
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

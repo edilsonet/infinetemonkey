@@ -1,0 +1,111 @@
+id: is-is-21-021-2-body
+kind: is
+document: is-21-021
+family: '21'
+section_id: '2'
+section_title: CARACTERISTÍCAS DA PORTA DE CARGA
+subsection_id: body
+cite: '2'
+title: CARACTERISTÍCAS DA PORTA DE CARGA
+text: '2. CARACTERISTÍCAS DA PORTA DE CARGA
+
+  2.1 Porta de Carga
+
+  A porta a ser instalada é uma porta para resistir à pressão e consistentemente estruturada
+  e gabaritada para garantir a conformação da curva da fuselagem no lado esquerdo dianteiro
+  da estrutura da aeronave. Mede 1,80 m de altura ao longo da curvatura da fuselagem por 3,00
+  m de abertura. A porta é suportada por uma dobradiça superior contínua e 6 trancas ao longo
+  do piso da entrada. A sua estrutura é resistente à torção e pode suportar as pressões internas
+  da aeronave.
+
+  2.2 Mecanismo de Tranca
+
+  O mecanismo de travamento da porta é composto por:
+
+
+  Seis conjuntos de trancas instaladas na parte inferior da estrutura da porta;
+
+  Placa suporte das trancas, localizada no batente inferior da abertura;
+
+  Tubo de torque que fornece rotação para a operação de travamento da porta;
+
+  Conjunto de mecanismo que interliga o tubo de torque com as trancas;
+
+  Dispositivo de liberação de emergência.
+
+  2.3 Sistema Coletivo de Trava
+
+  O sistema de travamento é composto por seis pinos de trava, um sistema de liberação do pino
+  mestre e um tubo de torque para interligação. Os seis pinos de trava são conectados por
+  uma haste deslizante. A operação de travamento e destravamento da porta é realizada por
+  um cilindro hidráulico.
+
+  2.4 Conjunto de Ventilação
+
+  Uma escotilha para ventilação é instalada na porta para prevenir pressurização insegura
+  da aeronave na eventualidade de fechamento e travamento inadvertido da porta de carga. Essa
+  escotilha será localizada na metade inferior da porta de carga, sendo que a área desse local
+  será reforçada. Essa escotilha é interligada com o mecanismo de tranca via tubo de torque
+  e com o sistema de trava via atuador.
+
+
+  ABX Aeronaves Ltda.
+
+  Pág. N° 5
+
+  Total págs. 5
+
+  INSTALAÇÃO DE PORTA DE CARGA E REFORÇO DE PISO
+
+  Aeronaves modelo 505-A
+
+  DESCRIÇÃO TÉCNICA DA MODIFICAÇÃO
+
+  Relatório n° ABX-XY-002
+
+  Revisão: EI - 10/08/2013
+
+  2.5 Mecanismo de Abertura
+
+  A porta de carga é aberta para cima. O sistema de abertura é composto por dois conjuntos
+  de atuadores hidráulicos, projetados para assegurar uma sequência de abertura uniforme da
+  porta. Extensões dos atuadores aplicam a força necessária aos dispositivos de abertura da
+  porta. Com a porta fechada, trancada e travada, uma válvula seletiva do sistema hidráulico,
+  configura o sistema para primeiro destravar e depois destrancar a porta.
+
+  2.6 Sistema Hidráulico
+
+  O sistema hidráulico de abertura da porta é composto por uma bomba hidráulica, eletricamente
+  operada com válvulas, restrições e outros acessórios que garantam uma operação confiável
+  e segura.
+
+  2.7 Sistema de Alarme
+
+  O sistema de alarme é composto de um painel de controle localizado próximo à cabine da tripulação,
+  com diversos micro-switches, localizados na porta de carga e fazem interface elétrica com
+  o sistema hidráulico. No painel de controle, há uma luz vermelha de aviso, quatro luzes
+  de status, uma chave mestra e uma chave de controle da porta. As luzes de status são verdes
+  e indicam que a porta está fechada, trancada e travada. O painel de controle será alimentado
+  pela barra elétrica nº 2 de 28 VDC da aeronave.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- porta
+- sistema
+- carga
+- abertura
+- composto
+- hidraulico
+- mecanismo
+- travamento
+- aeronave
+- controle
+- torque
+- trancas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-021.md

@@ -1,0 +1,92 @@
+id: is-is-141-001-introducao-body
+kind: is
+document: is-141-001
+family: '141'
+section_id: introducao
+section_title: Introdução
+subsection_id: body
+cite: introducao
+title: Introdução
+text: 'Introdução
+
+  Orientações Gerais
+
+  Esta IS dispõe sobre os procedimentos de comunicação à Anac das seguintes informações:
+
+  relação dos alunos matriculados; datas de início, interrupção e conclusão de cursos; documentos
+  correlatos à conclusão de cursos, inclusive aqueles que servirão para subsidiar o aproveitamento
+  de estudos ou experiência quando o aluno for transferido para outro curso ou Ciac;
+
+  relação dos instrutores, documentos de qualificação e experiência, e data de início e término
+  do vínculo para ministrar as disciplinas e instruções de voo previstas em Programas de Instrução.
+
+  Os procedimentos serão realizados pelo Ciac por meio do Sistema S141.
+
+  O Sistema S141 está disponível no link: https://sistemas.anac.gov.br/rbac141.
+
+  A Anac poderá realizar alterações de dados cadastrados incorretamente no Sistema S141, por
+  solicitação do Ciac, ou se detectados por meio de ações de vigilância continuada em processos
+  administrativos.
+
+
+  Acesso ao Sistema S141
+
+  O acesso ao Sistema S141 será concedido aos Ciacs por meio da indicação dos responsáveis
+  através do protocolo eletrônico no Sistema SEI (Tipo de Processo: Certificação RBAC 141:
+  Sistema S141 - Requerimento de acesso para o CIAC). Esse procedimento será realizado em
+  momento subsequente à emissão do Certificado de Centro de Instrução de Aviação Civil e das
+  Especificações de Instrução.
+
+  O Ciac pode indicar um titular e um substituto para a Sede, e um titular adicional para
+  cada Satélite listado em suas Especificações de Instrução, utilizando o formulário “Sistema
+  S141 - Requerimento de acesso ao sistema”. O mesmo formulário será utilizado para excluir
+  ou substituir os indicados.
+
+  O Termo de Responsabilidade (S141) deve ser preenchido e assinado por cada um dos indicados
+  para o acesso, utilizando-se o modelo disponível no endereço: https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios,
+  e anexado ao processo de solicitação de acesso.
+
+  A comunicação do deferimento do acesso será realizada por meio de Ofício no processo de
+  solicitação, e, a partir deste, o acesso do responsável estará liberado para lançamento
+  de informações no Sistema S141. A validação do usuário indicado para acessar ao sistema
+  ocorrerá por meio da plataforma gov.br.
+
+  O acesso às funcionalidades do Sistema S141 estarão liberadas para um Ciac Sede e seus Satélites,
+  não sendo possível um mesmo usuário (responsável indicado) acessar simultaneamente os registros
+  de dois Ciacs distintos.
+
+  Os responsáveis terão os respectivos acessos restringidos no Sistema S141 em decorrência
+  da suspensão, revogação ou cassação do certificado do Ciac, ou para Programas de Instrução
+  que foram revisados ou revogados.
+
+
+  Procedimentos que Devem Utilizar o Sistema SEI
+
+  Para os casos de restrição de acesso descritos no parágrafo 5.1.2.6, ou restrição por funcionalidades
+  do Sistema S141, o Ciac poderá requerer a ALTERAÇÃO, INCLUSÃO ou EXCLUSÃO de algum registro
+  por meio de protocolo eletrônico no Sistema SEI, apresentando a justificativa correspondente,
+  conforme as situações descritas a seguir:
+
+  Situação
+
+  Tipo de Processo'
+keywords:
+- escolas
+- treinamento
+- sistema
+- s141
+- acesso
+- ciac
+- instrucao
+- meio
+- processo
+- introducao
+- procedimentos
+- solicitacao
+- acessar
+- cada
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-001.md

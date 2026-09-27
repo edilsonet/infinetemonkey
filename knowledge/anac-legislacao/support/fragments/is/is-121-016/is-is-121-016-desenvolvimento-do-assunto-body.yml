@@ -1,0 +1,64 @@
+id: is-is-121-016-desenvolvimento-do-assunto-body
+kind: is
+document: is-121-016
+family: '121'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Introdução
+
+  5.1.1 Com vistas à proteção dos voos, o RBAC nº 121 estabelece requisitos de planejamento,
+  que incluem a necessidade da seleção de aeródromos de alternativa e requisitos de condições
+  meteorológicas, tanto sobre os aeródromos envolvidos (de origem, de destino e de alternativa)
+  quanto sobre a rota.
+
+  5.1.2 Os principais requisitos de condições meteorológicas, para fins de planejamento, constam
+  na seção 121.611, para voos VFR; e na seção 121.613 para voos IFR.
+
+  5.1.2.1 Com relação aos voos VFR, o parágrafo 121.611(a)(2) menciona “as informações meteorológicas
+  atualizadas [referentes às] (...) condições meteorológicas ao longo da rota até os aeródromos
+  especificados no despacho ou liberação de voo, ou da parte da rota a ser voada sob VFR”.
+  No caso de voos VFR ou parte VFR, pode ser que os aeródromos de origem, de destino ou de
+  alternativa não possuam informações meteorológicas; dessa forma, a regra menciona de forma
+  genérica as “condições meteorológicas ao longo da rota”. No entanto, quando se tratar de
+  operações de decolagem ou pouso realizadas em VFR, essas condições incluem as condições
+  dos aeródromos de decolagem ou pouso, conforme aplicável.
+
+  Nota: observa-se que essa regra não impõe a necessidade de que existam informações meteorológicas
+  para os aeródromos em que se realizam operações VFR. No entanto, quando houver informações
+  meteorológicas, elas devem ser compatíveis com a realização das operações de decolagem ou
+  de pouso (conforme aplicável) em VFR.
+
+  5.1.2.2 Para voos IFR, o parágrafo 121.613(a) basicamente requer que as condições meteorológicas
+  de todos os aeródromos envolvidos (seja de decolagem, de destino, de alternativa em rota
+  ou de alternativa de destino) estejam, no horário estimado de utilização, iguais ou acima
+  dos mínimos aplicáveis - sendo a única exceção o aeródromo de destino, que pode estar abaixo
+  dos mínimos ou não dispor de informações meteorológicas, conforme permitido pelo parágrafo
+  121.619(b).
+
+  Nota: o mesmo requisito de estar igual ou acima dos mínimos se aplica ao aeródromo de alternativa
+  de decolagem, conforme o parágrafo 121.617(b) do RBAC nº 121.'
+keywords:
+- transporte-aereo
+- operacoes
+- meteorologicas
+- aerodromos
+- condicoes
+- alternativa
+- voos
+- decolagem
+- destino
+- informacoes
+- rota
+- paragrafo
+- assunto
+- desenvolvimento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-016.md

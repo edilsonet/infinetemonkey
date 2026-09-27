@@ -1,0 +1,50 @@
+document: is-21-007d
+kind: is
+title: IS 21-007D
+ementa: 'Certificado de aeronavegabilidade para aeronaves categoria leve esportiva
+
+
+  Airworthiness certificate for light-sport category aircraft'
+family: '21'
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-007d
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-007d
+language: en
+foreign_annex: false
+sections:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- 5.2.2
+- 5.2.3
+- 5.2.8
+- '7'
+- apendice-a-lista-de-reducoes
+- apendice-b-alteracoes-realizadas-na-revisao-d
+- preambulo
+fragment_count: 17
+fragment_ids:
+- is-is-21-007d-preambulo-body
+- is-is-21-007d-1-body
+- is-is-21-007d-2-body
+- is-is-21-007d-3-body
+- is-is-21-007d-4-body
+- is-is-21-007d-5-body
+- is-is-21-007d-5-2-2-body
+- is-is-21-007d-5-2-3-body
+- is-is-21-007d-5-2-3-a
+- is-is-21-007d-5-2-3-b
+- is-is-21-007d-5-2-3-c
+- is-is-21-007d-5-2-3-d
+- is-is-21-007d-5-2-3-e
+- is-is-21-007d-5-2-8-body
+- is-is-21-007d-apendice-a-lista-de-reducoes-body
+- is-is-21-007d-apendice-b-alteracoes-realizadas-na-revisao-d-body
+- is-is-21-007d-7-body
+parser_version: 7

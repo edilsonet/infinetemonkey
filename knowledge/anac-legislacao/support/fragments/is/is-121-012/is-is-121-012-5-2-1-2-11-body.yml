@@ -1,0 +1,91 @@
+id: is-is-121-012-5-2-1-2-11-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.11
+section_title: Sistemas de comunicação.
+subsection_id: body
+cite: 5.2.1.2.11
+title: Sistemas de comunicação.
+text: '5.2.1.2.11 Sistemas de comunicação.
+
+  Nota: essas informações podem constar no guia de rota, em atendimento à IS nº 121-001.
+
+  5.2.1.2.11.1 Conforme 121.99 e 121.122 do RBAC nº 121, há requisitos específicos para sistemas
+  de comunicação em operações ETOPS. O sistema é composto tanto pelos equipamentos da aeronave
+  quanto pela disponibilidade de sistemas externos à aeronave, seja de uso geral (como satélites)
+  ou de uso específico do detentor de certificado (como transceptores localizados no centro
+  de despacho). O detentor de certificado deve indicar em seu manual o(s) sistema(s) utilizado(s),
+  bem como os procedimentos de uso, incluindo as situações em que devem ser utilizados e os
+  responsáveis pela sua utilização.
+
+  5.2.1.2.11.2 Há, basicamente, dois níveis de sistemas de comunicação requerido: comunicação
+  por voz, para todas as operações ETOPS (exceto operações regulares nacionais), conforme
+  121.99(c) e 121.122(b); e comunicação por voz via satélite, para operações ETOPS além de
+  180 minutos, conforme 121.99(d) e 121.122(c). Em ambos os casos, é avaliada a disponibilidade
+  e a qualidade dos sistemas disponíveis, permitindo-se sistemas alternativos.
+
+  Nota: para determinar se os sistemas estão disponíveis, o detentor de certificado deve considerar
+  as rotas e altitudes potenciais para desvio para os aeródromos de alternativa ETOPS. Onde
+  os sistemas não estiverem disponíveis ou forem de qualidade tão baixa que a comunicação
+  por voz não seja possível, outro sistema de comunicação deve ser disponibilizado.
+
+  5.2.1.2.11.3 Conforme 121.99(c) e 121.122(b), o detentor de certificado (exceto para operações
+  regulares nacionais) deve prover sistemas de comunicação por voz, para comunicação entre
+  o avião e o centro de despacho. Para atendimento ao 121.99(c) e 121.122(b), pode ser utilizado
+  o mesmo sistema requerido por 121.99(a) e (b) ou 121.122(a), caso tal sistema atenda a todos
+  os requisitos aplicáveis, incluindo a capacidade de comunicação bilateral (que deve permitir
+  que a comunicação se origine do avião ou do centro de despacho).
+
+  Nota: a aplicabilidade de 121.122(b) deve ser entendida como os aviões aos quais é requerida
+  aprovação ETOPS, ou seja, quaisquer aviões em operações de transporte de passageiros ou
+  quaisquer aviões com dois motores. Em outras palavras, apenas aviões com mais de dois motores
+  operando exclusivamente em transporte de carga são excluídos do requisito, uma vez que não
+  lhes é aplicável o conceito de operação ETOPS.
+
+  5.2.1.2.11.4 Para atendimento aos parágrafos 121.99(d) e 121.122(c), aplicáveis a operações
+  ETOPS além de 180 minutos, é requerido um sistema adicional, que proveja comunicação por
+  voz via satélite com a mesma fidelidade de um sistema telefônico terrestre. Esse sistema
+  deve prover comunicação entre o avião e os serviços de controle de tráfego aéreo, e também
+  entre o avião e um centro de despacho de voo do detentor de certificado. Caso o detentor
+  de certificado já tenha utilizado um sistema de comunicação por voz via satélite para atendimento
+  a 121.99(c) e 121.122(b), não é necessário adicionar outro sistema de comunicação por voz
+  via satélite. Nesse caso, o sistema de comunicação por voz via satélite passaria a atender
+  121.99(d) e 121.122(c), devendo o detentor de certificado prover outro sistema de comunicação
+  por voz, para atendimento ao 121.199(c) e 121.122(b).
+
+  5.2.1.2.11.5 Se o sistema de comunicação por voz via satélite não estiver disponível ou
+  for de baixa qualidade, o regulamento permite o uso de outro sistema de comunicações. Considera-se
+  o sistema de comunicação por voz via satélite usualmente disponível nas áreas ao sul da
+  latitude de 82ºN. Para áreas ao norte dessa latitude, o detentor de certificado deve garantir
+  o uso dos meios mais confiáveis disponíveis, considerando potenciais dificuldades causadas
+  por erupções solares. Nessas áreas, meios alternativos, como HF e mesmo datalink, podem
+  ser utilizados. Para áreas próximas ao polo sul, embora não se determine uma latitude específica,
+  valem as mesmas considerações aplicáveis às áreas próximas ao polo norte.
+
+  5.2.1.2.11.6 Conforme as seções 121.607 (aplicável a operações regulares) e 121.609 (aplicável
+  a operações não regulares), os sistemas de comunicação requeridos por 121.99 e 121.122 devem
+  ser verificados e estar operacionais no momento do despacho do voo.
+
+  Nota: embora a seção 121.609 referencie apenas a seção 121.121, uma vez que se explicita
+  que se trata dos requisitos de sistemas de comunicação e que tais sistemas são tratados
+  na seção 121.122 (e não em 121.121), deve-se entender que se trata dos requisitos de 121.122.'
+keywords:
+- transporte-aereo
+- operacoes
+- comunicacao
+- sistema
+- sistemas
+- certificado
+- detentor
+- etops
+- satelite
+- areas
+- atendimento
+- despacho
+- aviao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

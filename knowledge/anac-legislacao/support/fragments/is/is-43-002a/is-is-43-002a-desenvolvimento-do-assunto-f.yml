@@ -1,0 +1,79 @@
+id: is-is-43-002a-desenvolvimento-do-assunto-f
+kind: is
+document: is-43-002a
+family: '43'
+section_id: desenvolvimento-do-assunto
+section_title: Desenvolvimento do Assunto
+subsection_id: f
+cite: desenvolvimento-do-assunto(f)
+title: desenvolvimento-do-assunto(f)
+text: 'f) necessidade de instalações especiais ou condições ambientais específicas para a
+  execução da tarefa.
+
+  Nota 3: caso algum dos critérios acima seja atendido de forma positiva, ou seja, indique
+  aumento do risco, grau de acesso, exigência de treinamento especial ou necessidade de instalações
+  especiais, a tarefa não poderá ser considerada de nível de complexidade equivalente.
+
+  Ações de manutenção não definidas dentre as inspeções, ou dentre as ações corretivas com
+  o mesmo nível de complexidade, não são permitidas e violariam as prerrogativas dispostas
+  nos parágrafos citados nos itens 5.1 ao 5.5, assim como a equivalência descrita no item
+  5.8 desta IS. Em caso de dúvida quanto a essa equivalência, a GCAC/SPO deve ser consultada
+  antes da execução do serviço.
+
+  O Apêndice C desta IS resume os aspectos de cada um dos casos dos parágrafos do RBAC nº
+  43 citados neste item 5 desta IS.
+
+  As orientações relacionadas às possibilidades de atuação de mecânicos quanto ao CVA e AEV
+  estão descritas, respectivamente, na IS nº 91.403-001 (CVA) e IS nº 21.197-001 (AEV).
+
+  Mecânicos atuando em CIAC ou em EAP, conforme o parágrafo 43.7(b)-I(1) do RBAC nº 43
+
+  Para atuar em CIAC ou em EAP, aprovando retorno ao serviço de aeronaves submetidas a inspeções
+  de até 100 horas previstas no programa de manutenção do fabricante ou em conformidade com
+  o Apêndice D do RBAC nº 43 e ações corretivas com o mesmo nível de complexidade, o MMA deve
+  estar devidamente cadastrado junto à Anac.
+
+  Para realizar tal cadastramento, um MMA deve utilizar o sistema de peticionamento eletrônico
+  adotado pela Anac, o Sistema Eletrônico de Informações - SEI, selecionar o tipo de processo
+  "Aeronavegabilidade: Cadastramento de Mecânico de Manutenção Aeronáutica", incluir o formulário
+  F-900-78 disponível em (link para Formulários) com as informações solicitadas. O formulário
+  contém a lista dos documentos e declarações que devem ser anexados ao requerimento. Deve
+  ainda ser assinado tanto pelo representante legal da entidade quanto pelo mecânico que está
+  sendo cadastrado. Na sequência, o processo deverá ser enviado à Anac.
+
+  De forma a assegurar que os serviços sejam executados mantendo um padrão mínimo de segurança
+  e em conformidade o previsto na seção 43.13 do RBAC nº 43, nesse cadastramento são exigidas
+  provas documentais de treinamento e experiência, e declarações de que a entidade provê acesso
+  a dados técnicos e publicações técnicas atualizadas, bem como acesso a instalações e ferramentas
+  necessárias. Conforme as prerrogativas e limitações dispostas na seção 65.81 do RBAC nº
+  65, em adição às limitações dispostas na seção 43.7 do RBAC nº 43, o titular da licença
+  de MMA somente pode aprovar o retorno ao serviço, sob essa autorização, desde que tenha
+  satisfatoriamente realizado o mesmo serviço em uma ocasião anterior. O item 5.12.5 desta
+  IS esclarece as formas de demonstração de experiência aplicada a este caso.
+
+  O mecânico deve atender ao previsto no item 5.6 desta IS. Vide também o item 3.7 e apêndice
+  C desta IS para maior entendimento dos requisitos associados.
+
+  Os requisitos de experiência solicitados devem ser demonstrados mediante a apresentação
+  de documentos comprovantes de que já tenha realizado satisfatoriamente o mesmo serviço em
+  uma ocasião anterior como:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- desta
+- servico
+- mesmo
+- acesso
+- acoes
+- apendice
+- cadastramento
+- caso
+- complexidade
+- dispostas
+- experiencia
+- instalacoes
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-002a.md

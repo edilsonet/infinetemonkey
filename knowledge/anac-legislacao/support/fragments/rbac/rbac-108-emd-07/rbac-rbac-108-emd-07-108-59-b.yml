@@ -1,0 +1,34 @@
+id: rbac-rbac-108-emd-07-108-59-b
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.59'
+section_title: Inspeção da bagagem despachada
+subsection_id: b
+cite: 108.59(b)
+title: 108.59(b)
+text: '(b) O operador aéreo deve realizar inspeção da bagagem despachada que parte de uma
+  área restrita de segurança para seguir em voos domésticos, conforme exigido pela ANAC por
+  meio de DAVSEC.
+
+  (1) Na base do operador aéreo em que a inspeção de segurança da bagagem despachada para
+  seguir em voos domésticos passar a ser obrigatória, o operador aéreo deve iniciar a realização
+  das inspeções em prazo máximo definido em DAVSEC.'
+keywords:
+- seguranca
+- operador
+- aereo
+- bagagem
+- despachada
+- inspecao
+- davsec
+- domesticos
+- seguir
+- voos
+- area
+- base
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

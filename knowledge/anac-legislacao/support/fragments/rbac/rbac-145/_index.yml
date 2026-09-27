@@ -51,10 +51,18 @@ sections:
 - B145.3
 - B145.5
 - B145.7
+- apendice-a-i-do-rbac-145
+- apendice-a-i-do-rbac-145-cadastramento-de-responsavel-e0fff6
+- apendice-b-i-do-rbac-145
+- apendice-b-i-do-rbac-145-designacao-e-responsabilidad-9095fd
+- aprovacao
 - preambulo
-fragment_count: 207
+- sumario
+fragment_count: 213
 fragment_ids:
 - rbac-rbac-145-preambulo-body
+- rbac-rbac-145-aprovacao-body
+- rbac-rbac-145-sumario-body
 - rbac-rbac-145-145-1-body
 - rbac-rbac-145-145-5-body
 - rbac-rbac-145-145-51-body
@@ -87,7 +95,9 @@ fragment_ids:
 - rbac-rbac-145-145-221-body
 - rbac-rbac-145-145-221-i-body
 - rbac-rbac-145-145-223-body
+- rbac-rbac-145-apendice-a-i-do-rbac-145-cadastramento-de-responsavel-e0fff6-body
 - rbac-rbac-145-a145-1-body
+- rbac-rbac-145-apendice-b-i-do-rbac-145-designacao-e-responsabilidad-9095fd-body
 - rbac-rbac-145-b145-1-body
 - rbac-rbac-145-b145-3-body
 - rbac-rbac-145-b145-5-body
@@ -249,6 +259,7 @@ fragment_ids:
 - rbac-rbac-145-145-223-a
 - rbac-rbac-145-145-223-b
 - rbac-rbac-145-145-223-c
+- rbac-rbac-145-apendice-a-i-do-rbac-145-body
 - rbac-rbac-145-a145-1-a
 - rbac-rbac-145-a145-1-b
 - rbac-rbac-145-a145-1-c
@@ -256,9 +267,10 @@ fragment_ids:
 - rbac-rbac-145-a145-1-e
 - rbac-rbac-145-a145-1-f
 - rbac-rbac-145-a145-1-g
+- rbac-rbac-145-apendice-b-i-do-rbac-145-body
 - rbac-rbac-145-b145-1-a
 - rbac-rbac-145-b145-1-c
 - rbac-rbac-145-b145-3-a
 - rbac-rbac-145-b145-5-a
 - rbac-rbac-145-b145-7-a
-parser_version: 6
+parser_version: 7

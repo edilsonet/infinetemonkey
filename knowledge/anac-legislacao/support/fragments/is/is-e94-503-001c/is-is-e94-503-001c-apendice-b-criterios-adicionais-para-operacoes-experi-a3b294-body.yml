@@ -1,0 +1,131 @@
+id: is-is-e94-503-001c-apendice-b-criterios-adicionais-para-operacoes-experi-a3b294-body
+kind: is
+document: is-e94-503-001c
+family: '94'
+section_id: apendice-b-criterios-adicionais-para-operacoes-experi-a3b294
+section_title: APÊNDICE B - CRITÉRIOS ADICIONAIS PARA OPERAÇÕES EXPERIMENTAIS ACIMA DE 400
+  PÉS AGL OU ALÉM DA LINHA DE VISADA VISUAL
+subsection_id: body
+cite: apendice-b-criterios-adicionais-para-operacoes-experi-a3b294
+title: APÊNDICE B - CRITÉRIOS ADICIONAIS PARA OPERAÇÕES EXPERIMENTAIS ACIMA DE 400 PÉS AGL
+  OU ALÉM DA LINHA DE VISADA VISUAL
+text: 'APÊNDICE B - CRITÉRIOS ADICIONAIS PARA OPERAÇÕES EXPERIMENTAIS ACIMA DE 400 PÉS AGL
+  OU ALÉM DA LINHA DE VISADA VISUAL
+
+
+  B.1 Objetivo
+
+  B.1.1 Conforme estabelecido nas alíneas e) e f) do subparágrafo 5.3.4.2 desta Instrução
+  Suplementar, um requerente de CAVE para RPAS que pretenda realizar operações experimentais
+  com este sistema acima de 400 pés AGL ou além da linha de visada visual deve apresentar
+  dados que substanciem que esta operação pode ser conduzida de forma segura.
+
+  B.1.2 Este apêndice detalha os critérios adicionais que devem ser atendidos para evidenciar
+  que uma Aeronave Remotamente Pilotada é capaz de conduzir com segurança operações experimentais
+  acima de 400 pés AGL ou BVLOS.
+
+  B.2 Conceitos gerais
+
+  B.2.1 As operações com aeronaves remotamente pilotadas conduzidas acima de 400 pés AGL ou
+  além da linha de visada visual têm perigos com maior severidade associados ao mau funcionamento
+  dos sistemas presentes no RPAS.
+
+  B.2.2 De forma a mitigar os riscos, ainda que se aceite um risco maior em operações experimentais
+  se comparadas às não experimentais, elas também devem ser conduzidas de forma segura para
+  não gerar riscos inaceitáveis para terceiros.
+
+  B.2.3 Os critérios detalhados neste apêndice têm como objetivo permitir a realização de
+  voos experimentais acima de 400 pés AGL ou BVLOS de forma segura e coerente com os preceitos
+  estabelecidos no RBAC-E 94, permitindo assim um desenvolvimento sustentável e seguro.
+
+  B.3 Desenvolvimento do Assunto
+
+  B.3.1 Maturidade do Projeto
+
+  B.3.1.1 O requerente deve atestar que a RPA tenha pelo menos 15 horas de operação VLOS ou
+  em linha de visada visual estendida (Extended Visual Line of Sight - EVLOS) abaixo de 400
+  pés AGL para demonstrar as principais características e funções do sistema.
+
+  B.3.1.2 O requerente deve reportar à ANAC qualquer mau funcionamento do RPAS encontrado
+  durante qualquer tipo de operação que afete a segurança operacional.
+
+  B.3.1.3 O requerente deve garantir que todo mau funcionamento encontrado durante qualquer
+  tipo de operação tenha sido corrigido ou mitigado de maneira aceitável antes de solicitar
+  o CAVE para operação acima de 400 pés AGL ou BVLOS.
+
+  B.3.2 Avaliação de Risco
+
+  B.3.2.1 O requerente deve demonstrar que nenhuma falha simples do RPAS tenha como consequência
+  levar a RPA para fora da área de voo designada.
+
+  B.3.2.2 O requerente deve apresentar uma análise do resultado da perda da informação (ou
+  informação errônea) de atitude (rolamento e arfagem), velocidade indicada e altitude barométrica
+  na operação da RPA.
+
+  B.3.2.3 O requerente deverá apresentar uma análise das consequências das falhas das fontes
+  de navegação (e.g. GPS). A avaliação deve ser estendida aos sistemas que utilizam estas
+  fontes de navegação, tais como estação remota de pilotagem e controle automático de voo.
+
+  B.3.2.4 O requerente deve apresentar uma análise da condição de inserção errônea de waypoints
+  pelo sistema de guiagem.
+
+  B.3.2.5 O requerente deverá apresentar a forma e/ou meios pelos quais falhas de controle
+  automático de voo são detectadas e/ou mitigadas.
+
+  B.3.2.6 O requerente deve apresentar uma análise da consequência de perda do enlace em todas
+  as fases de voo.
+
+  B.3.2.7 O requerente deve descrever como a perda de enlace é identificada pelo piloto remoto.
+
+  B.3.3 Enlace de Comando e Controle - C2
+
+  B.3.3.1 O requerente deve apresentar uma análise com base nas especificações dos equipamentos
+  (rádios, antenas) utilizados na RPA e na estação de pilotagem remota (Remote Pilot Station
+  - RPS) que demonstre que a maior distância entre RPA-RPS especificada nas limitações operacionais
+  do protótipo é adequada para o funcionamento do sistema.
+
+  B.3.3.2 A análise realizada deve levar em consideração as potenciais fontes de degradação
+  na operação do enlace C2, tais como obstrução das antenas durante curvas e mudanças de atitude
+  na RPA e formação de condições meteorológicas adversas.
+
+  B.3.3.3 O requerente deve determinar os valores mínimos da intensidade do sinal a serem
+  observados para operação segura do(s) enlace(s) C2 e, com base nos mesmos, estabelecer procedimentos
+  para o piloto remoto no Manual de Voo do protótipo.
+
+  B.3.4 Navegação
+
+  B.3.4.1 Todo RPAS que se destina à operação experimental BVLOS deve possuir um sistema de
+  navegação com desempenho e confiabilidade suficientes para garantir a segurança da operação,
+  para tanto o seguinte é requerido:
+
+  B.3.4.2 Dois sistemas de navegação com um alerta de discrepância entre os dados das fontes
+  distintas;
+
+  B.3.4.3 O requerente deve estabelecer margens em relação ao volume autorizado, levando em
+  conta a precisão de seus sistemas de navegação e a capacidade de manobra da aeronave de
+  forma a garantir um nível aceitável de confiança de que tais limites não sejam excedidos
+  em voo. Na ausência ou insuficiência destes dados, a margem horizontal adotada dever ter
+  o mesmo valor da altura AGL requerida, e a margem vertical deverá ser de pelo menos 100
+  pés.
+
+  B.3.5 Informações e Alertas para o Piloto Remoto
+
+  As seguintes informações e alertas devem ser apresentadas de forma clara e coerente na RPS
+  para o piloto remoto durante todo o voo:'
+keywords:
+- requerente
+- operacao
+- acima
+- experimentais
+- apresentar
+- forma
+- operacoes
+- visual
+- analise
+- linha
+- navegacao
+- visada
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-503-001c.md

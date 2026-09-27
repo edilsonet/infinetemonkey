@@ -1,0 +1,45 @@
+id: is-is-91-012-1-4-1-1-body
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 4.1.1
+section_title: 'Ação Corretiva Retardada - ACR: condição de um item inoperante que teve o
+  retardamento da ação de manutenção corretiva, conforme permitido pela MEL.'
+subsection_id: body
+cite: 4.1.1
+title: 'Ação Corretiva Retardada - ACR: condição de um item inoperante que teve o retardamento
+  da ação de manutenção corretiva, conforme permitido pela MEL.'
+text: '4.1.1 Ação Corretiva Retardada - ACR: condição de um item inoperante que teve o retardamento
+  da ação de manutenção corretiva, conforme permitido pela MEL.
+
+  4.1.2 ATA: referência a um sistema numérico padronizado internacionalmente, desenvolvido
+  para identificar sistemas e componentes de diferentes aeronaves, em formato único. Nesta
+  IS, também se utiliza para referência ao modelo de página da MEL, conforme disposto no Apêndice
+  B.
+
+  Nota: embora tenham sido desenvolvidos outros sistemas mais recentes, mantém-se tradicionalmente
+  a referência por ATA.
+
+  4.1.3 Categoria de Reparo: classificação do intervalo de reparo permitido pela MEL para
+  operação da aeronave com determinado item inoperante. É designada pelas letras A, B, C e
+  D (ver o parágrafo 5.1.2.5.3 desta IS).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- acao
+- corretiva
+- inoperante
+- permitido
+- condicao
+- manutencao
+- referencia
+- retardada
+- retardamento
+- teve
+- reparo
+- sistemas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

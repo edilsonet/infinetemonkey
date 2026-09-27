@@ -1,0 +1,49 @@
+id: is-is-135-007-5-2-3-2-b
+kind: is
+document: is-135-007
+family: '135'
+section_id: 5.2.3.2
+section_title: 'O planejamento de voo deve considerar, para a decolagem do aeródromo de partida
+  e para o pouso no aeródromo de destino, um dos seguintes métodos:'
+subsection_id: b
+cite: 5.2.3.2(b)
+title: 5.2.3.2(b)
+text: 'b) caso o aeródromo disponha de informes meteorológicos regulares há ao menos 3 anos,
+  pode ser utilizada uma temperatura que esteja acima de 99% das medições. As medições devem
+  ser representativas da época do ano (30 dias antes e 30 dias depois) e do horário da operação
+  pretendida (6h antes e 6h depois).
+
+  Nota: o Inmet fornece previsões por métodos numéricos em https://mapas.inmet.gov.br/. A
+  ANAC pode avaliar o uso de outros fornecedores de dados equivalentes, desde que o operador
+  demonstre que os dados proveem nível de segurança equivalente ao previsto nesta IS com uso
+  de dados do Inmet.
+
+  5.2.3.3 Para a execução do pouso, o aeródromo disponha de informes meteorológicos e caso
+  haja dados de desempenho em voo estabelecidos de acordo com a AC 25-32 do FAA (usualmente
+  denominados in-flight landing distance, Landing Performance Data for Time-of-Arrival Landing
+  Performance Assessments ou similar), quando forem reportados valores de temperatura maiores
+  do que os considerados no planejamento de voo, a tripulação de voo deve realizar um cálculo
+  de desempenho de pouso em voo, com base nos valores reportados e nos dados de desempenho
+  em voo. caso o aeródromo disponha de informes meteorológicos. Neste cálculo, a distância
+  disponível para pouso deve ser de, no mínimo, 115% da distância de pouso para o horário
+  estimado de pouso na pista pretendida.'
+keywords:
+- taxi-aereo
+- operacoes
+- pouso
+- aerodromo
+- dados
+- caso
+- desempenho
+- disponha
+- informes
+- inmet
+- landing
+- meteorologicos
+- calculo
+- depois
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-007.md

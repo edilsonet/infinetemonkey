@@ -1,0 +1,111 @@
+id: is-is-133-001-11-body
+kind: is
+document: is-133-001
+family: '133'
+section_id: '11'
+section_title: Meios de fixação.
+subsection_id: body
+cite: '11'
+title: Meios de fixação.
+text: '11. Meios de fixação.
+
+  Considerando a necessidade de demonstração da aprovação dos meios para fixação de cargas
+  externas, devem ser listados os parâmetros de projeto e de manutenção dos meios de fixação,
+  como, por exemplo, cabos, redes, anilhas e destorcedores. Adicionalmente, devem ser complementadas
+  com a forma com a qual os requisitos são cumpridos e como são disponibilizados os documentos
+  comprobatórios. Recomenda-se que os documentos comprobatórios sejam anexados a esse Manual.
+
+  [Exemplo de Listagem dos meios de fixação]
+
+  Em cumprimento aos requisitos da seção 133.43 do RBAC nº 133, o transporte de cargas externas
+  só pode ser efetuado utilizando-se meios de fixação com as seguintes características:
+
+  a. Cabos de carga
+
+  Atender ao especificado na tabela 7-1 da AC 43.13-2B.
+
+  Os seguintes cabos estão aprovados (documentação correspondente no anexo XX.X):
+
+  Carga Externa Máxima
+
+  Fabricante
+
+  Diâmetro (mm)
+
+  Massa (kg/m)
+
+  Carga de Ruptura (N/mm2)
+
+  xxx kg
+
+  ABCabos
+
+  12,3
+
+  1,234
+
+  2,345
+
+  yyy kg
+
+
+  b. Redes
+
+  Ter sido aprovada em ensaio estático demonstrando cumprimento com o RBAC 27.865.
+
+  As seguintes redes estão aprovadas (relatório correspondente em arquivo disponível para
+  consulta):
+
+  Carga Externa Máxima
+
+  Fabricante
+
+  Diâmetro do Cabo (mm)
+
+  Massa (kg)
+
+  Carga xxxx
+
+  (kg)
+
+  xxx kg
+
+  ABRedes
+
+  12,3
+
+  1,234
+
+  2,345
+
+  yyy kg
+
+
+  As limitações operacionais estabelecidas na Seção 1 e as informações de combinação de carga
+  contidas na Seção 2 são as condições sob as quais devem ser conduzidas estas operações de
+  combinação de carga externa da aeronave.
+
+  Seção 3. Informações gerais
+
+  Todo o pessoal associado a uma operação de carga externa deve estar familiarizado com as
+  seguintes informações:'
+keywords:
+- carga-externa
+- helicoptero
+- carga
+- fixacao
+- meios
+- externa
+- secao
+- seguintes
+- cabos
+- informacoes
+- redes
+- cargas
+- combinacao
+- comprobatorios
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

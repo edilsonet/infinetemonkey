@@ -1,0 +1,47 @@
+id: is-is-91-001-m2-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M2.1
+section_title: Pilotos somente podem executar uma rota RNP, SID, STAR ou aproximação se o
+  procedimento puder ser carregado nominalmente diretamente do banco de dados de navegação
+  da aeronave e for compatível com o procedimento publicado na respectiva carta. Uma rota
+  RNP, SID, STAR ou aproximação não deve ser realizada se houver dúvida quanto à validade
+  do procedimento no banco de dados de navegação.
+subsection_id: body
+cite: M2.1
+title: Pilotos somente podem executar uma rota RNP, SID, STAR ou aproximação se o procedimento
+  puder ser carregado nominalmente diretamente do banco de dados de navegação da aeronave
+  e for compatível com o procedimento publicado na respectiva carta. Uma rota RNP, SID, STAR
+  ou aproximação não deve ser realizada se houver dúvida quanto à validade do procedimento
+  no banco de dados de navegação.
+text: 'M2.1 Pilotos somente podem executar uma rota RNP, SID, STAR ou aproximação se o procedimento
+  puder ser carregado nominalmente diretamente do banco de dados de navegação da aeronave
+  e for compatível com o procedimento publicado na respectiva carta. Uma rota RNP, SID, STAR
+  ou aproximação não deve ser realizada se houver dúvida quanto à validade do procedimento
+  no banco de dados de navegação.
+
+  Nota: os pilotos podem perceber pequenas diferenças entre a informação de navegação que
+  é apresentada pelas cartas e o display de navegação primário. Diferenças de 3 graus ou menos
+  podem ocorrer por conta da aplicação de variação magnética adotada pelo fabricante do equipamento
+  e são operacionalmente aceitas.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimento
+- navegacao
+- aproximacao
+- banco
+- dados
+- rota
+- star
+- podem
+- pilotos
+- aeronave
+- carregado
+- carta
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

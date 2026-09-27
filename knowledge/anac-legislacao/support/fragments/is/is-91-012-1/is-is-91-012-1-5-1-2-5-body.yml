@@ -1,0 +1,102 @@
+id: is-is-91-012-1-5-1-2-5-body
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.2.5
+section_title: Conteúdo das páginas do sistema ATA
+subsection_id: body
+cite: 5.1.2.5
+title: Conteúdo das páginas do sistema ATA
+text: '5.1.2.5 Conteúdo das páginas do sistema ATA
+
+  5.1.2.5.1 As páginas do sistema ATA constituem a principal seção da MEL, pois contêm as
+  informações sobre quais itens podem estar inoperantes, quantos são requeridos para despacho,
+  sob quais condições ou limitações, entre outras informações. Em geral, as páginas do sistema
+  ATA da MEL seguem o modelo constante no Apêndice B desta IS. No entanto, podem ser usados
+  outros formatos - o que normalmente ocorre se a MMEL de referência adota outro formato.
+  Independentemente do formato, deve-se garantir que a MEL proveja os mesmos tipos de informação
+  previstos na MMEL.
+
+  5.1.2.5.2 Os itens listados na MEL podem representar instrumentos, equipamentos, sistemas,
+  componentes ou funções. Dividem-se em três categorias: itens da MMEL, itens de controle
+  administrativo e equipamentos e acessórios não essenciais.
+
+  5.1.2.5.2.1 Os itens da MMEL para os quais o operador busca um relaxamento (desde que tal
+  relaxamento seja aplicável às suas operações) devem estar listados na MEL do operador, no
+  mesmo capítulo ATA em que constam na MMEL.
+
+  5.1.2.5.2.2 O operador pode escolher não listar algum item da MMEL, observando-se que, nesse
+  caso, não poderá liberar a aeronave com esse item inoperante.
+
+  5.1.2.5.2.3 Dentro do capítulo ATA, é recomendável que cada item mantenha a numeração da
+  MMEL, o que facilita a inclusão ou exclusão de itens na MEL sem a necessidade de renumeração
+  de todos os itens da ATA, assim como facilita a referência a esses itens, em outros trechos
+  da MEL e nos procedimentos (O) e (M). Porém, a critério do operador, os itens podem ser
+  renumerados sequencialmente.
+
+  5.1.2.5.2.4 O nome do item na MEL do operador deve seguir o estabelecido na MMEL. No entanto,
+  quando a MMEL usa um termo genérico para se referir a um equipamento, de acordo com sua
+  função, o operador pode usar um nome específico para o equipamento instalado, desde que
+  esse nome seja reconhecível e facilmente identificado com o item correspondente da MMEL.
+
+  Nota: o nome do item na MEL pode ser a tradução do nome estabelecido na MMEL, conforme parágrafo
+  5.1.1.3 desta IS.
+
+  5.1.2.5.2.5 Itens da MMEL que não estejam instalados na aeronave do operador podem, a critério
+  do operador, ser omitidos da MEL ou ser listados na MEL com a observação de “não instalado”
+  ou “não aplicável”, com número 0 nos campos de quantidade instalada e de quantidade requerida
+  para despacho e sem categoria de reparo associada.
+
+  5.1.2.5.2.5.1 Algumas MMEL utilizam o símbolo (***) ou um símbolo equivalente para indicar
+  que um item não está instalado em todos os modelos abrangidos pela MMEL. Esse símbolo não
+  pode ser levado para a MEL do operador (com exceção do previsto no item 5.1.2.5.4.3.1 desta
+  IS), uma vez que essa MEL deve ser específica para as aeronaves da frota do operador.
+
+  5.1.2.5.2.5.2 Observações constantes em algumas MMEL, indicando que um item não é aplicável
+  a determinado modelo de aeronave abrangido pela MMEL, a determinados números de série ou
+  a aeronave com determinado certificado suplementar de tipo, apenas devem ser reproduzidas
+  na MEL do operador se forem também aplicáveis à sua frota. Assim, a observação apenas deve
+  constar na MEL se houver na frota do operador tanto aeronaves para as quais o item se aplica
+  quanto aeronaves para as quais o item não se aplica. Caso haja na frota apenas aeronaves
+  para as quais o item não se aplica, o item não pode constar na MEL.
+
+  5.1.2.5.2.6 Os itens de controle administrativo, não constantes na MMEL, podem ser adicionados
+  na MEL do operador, caso o operador pretenda utilizar a MEL para fins de controlar a operação
+  da aeronave com tais itens inoperantes ou faltantes. O relaxamento desses itens somente
+  pode ser aprovado se as condições e limitações cumprirem com os requisitos dos regulamentos
+  de operação ou constarem em um documento aprovado (como o manual de reparos estruturais
+  ou uma diretriz de aeronavegabilidade). Os itens de controle administrativo devem ser incluídos
+  no capítulo ATA apropriado e não requerem a especificação de um intervalo para reparo. Não
+  podem ser incluídos como itens de controle administrativo os itens ou subitens de sistemas
+  listados na MMEL.
+
+  5.1.2.5.2.7 Os equipamentos e acessórios não essenciais (NEF) devem ser tratados no âmbito
+  do programa de equipamentos e acessórios não essenciais (programa NEF) aprovado pela Anac,
+  conforme a IS nº 118-001. Caso o operador elabore seu programa NEF, pode referenciá-lo na
+  ATA 25 da MEL. Assim, os itens NEF não podem ser incluídos diretamente na MEL do operador.
+
+  5.1.2.5.3 Categoria de reparo: as categorias de reparo são associadas a cada item da MEL
+  que possa ser relaxado (exceto itens de controle administrativo) para indicar o intervalo
+  de tempo em que a aeronave pode ser operada com determinado item inoperante. As categorias
+  de reparo na MEL devem ser iguais ou mais restritivas do que as da MMEL. As categorias de
+  reparo são:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- mmel
+- operador
+- pode
+- podem
+- aeronave
+- quais
+- reparo
+- administrativo
+- controle
+- nome
+- paginas
+- sistema
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

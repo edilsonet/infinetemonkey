@@ -1,0 +1,31 @@
+id: rbac-rbac-161-termos-e-definicoes-j
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: j
+cite: termos-e-definicoes(j)
+title: termos-e-definicoes(j)
+text: '(j)
+
+  Plano Básico de Zoneamento de Ruído - PBZR: Plano de Zoneamento de Ruído de Aeródromo composto
+  pelas curvas de ruído de 75 e 65 e elaborado nos termos deste RBAC, a partir de perfis operacionais
+  padronizados, conforme disposto na Subparte C.'
+keywords:
+- ruido
+- termos
+- definicoes
+- plano
+- zoneamento
+- aerodromo
+- basico
+- composto
+- curvas
+- deste
+- disposto
+- elaborado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

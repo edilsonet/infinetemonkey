@@ -1,0 +1,458 @@
+id: is-is-21-61-001-02-01-2025-body
+kind: is
+document: is-21-61-001
+family: '21'
+section_id: 02.01.2025
+section_title: 02.01.2025
+subsection_id: body
+cite: 02.01.2025
+title: 02.01.2025
+text: '02.01.2025
+
+  02/JAN/2025
+
+
+  1. OBJETIVO
+
+  1. OBJECTIVE
+
+  1.1 Esta IS fornece um meio aceitável, embora não exclusivo, para avaliar aeronaves novas
+  ou modificadas por meio de sistemas, processos e testes padronizados para determinar Dados
+  Relevantes à Operação para Pilotos (Flight Crew Data - FCD).
+
+  1.1 This IS provides an acceptable, although not exclusive, means for evaluating new or
+  modified aircraft through standard systems, processes, and tests to determine Flight Crew
+  Data - FCD.
+
+  2. REVOGAÇÃO
+
+  2. REVOCATION
+
+  Esta IS substitui e revoga a IS nº 00-007 Revisão A.
+
+  This IS replaces and revokes IS No. 00-007 Revision A.
+
+  3. FUNDAMENTOS
+
+  3. LEGAL BASIS
+
+  3.1 O Art. 66 da Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica
+  - CBAer), estabelece que uma da competências da autoridade aeronáutica promover a segurança
+  de voo, devendo estabelecer padrões mínimos de segurança relativos a projetos, materiais,
+  construção, estrutura e desempenho de aeronaves, motores, hélices e demais componentes aeronáuticos.
+
+  3.1 Art. 66 of Law No. 7,565, dated December 19th, 1986 (Brazilian Aeronautical Code - CBAer)
+  states that one of the aeronautical authority''s responsibilities is to promote flight safety,
+  and it must establish minimum safety standards relating to designs, materials, construction,
+  structure and performance of aircraft, engines, propellers, and other aeronautical components.
+
+  3.2 O Regulamento Brasileiro de Aviação Civil - RBAC 01 define os OSD, que incluem os FCD.
+
+  3.2 Brazilian Civil Aviation Regulation - RBAC No. 01 defines Operational Suitability Data
+  - OSD, which includes FCD.
+
+  3.3 O parágrafo 21.29(a)(4)-I do RBAC 21 estabelece que aeronaves a serem importadas para
+  o Brasil devem ter previamente seu OSD emitido ou aprovado pelo Estado do Projeto, a menos
+  que estabelecido de outra forma pela ANAC.
+
+  3.3 Paragraph §21.29(a)(4)-I of RBAC 21 establishes that OSD of aircraft to be imported
+  to Brazil shall have been previously issued or approved by the State of Design, unless otherwise
+  established by ANAC.
+
+  3.4 A Seção 21.41 do RBAC 21 define o Certificado de Tipo - CT, que inclui os OSD e, como
+  consequência, os FCD.
+
+  3.4 Section 21.41 of RBAC No. 21 defines the Type Certificate - TC, which includes OSD and,
+  as consequence, FCD.
+
+  3.5 O parágrafo 21.61-I(a) do RBAC 21 contém requisitos para incluir os FCD no CT.
+
+  3.5 Paragraph 21.61-I(a) of RBAC 21 contains requirements for including FCD into the TC.
+
+  3.6 A Seção 21.107-I do RBAC 21 contém requisitos aplicáveis ​​para modificações aos OSD,
+  incluindo os FCD.
+
+  3.6 Section 21.107-I of RBAC 21 contains requirements applicable for changes to OSD, including
+  FCD.
+
+  3.7 A Resolução n.º 30/2008 institui em seu art. 14 que a IS é uma norma geral que visa
+  esclarecer, detalhar e orientar a aplicação dos requisitos previstos no RBAC.
+
+  3.7 ANAC Resolution No. 30/2008 establishes in its art. 14 that the Supplementary Instruction
+  - IS is a general-purpose standard aiming to clarify, detail and guide the application of
+  requirements set out in RBAC.
+
+  3.8 Qualquer pessoa que pretenda demonstrar o cumprimento dos requisitos estabelecidos no
+  RBAC poderá:
+
+  3.8 Any person intending to demonstrate compliance with requirements set out in RBAC may:
+
+  a) adotar os meios e procedimentos previamente especificados na IS; ou
+
+  a) adopt means and procedures previously specified in IS; or
+
+  b) apresentar meio ou procedimento alternativo devidamente justificados, exigindo-se, neste
+  caso, a análise e concordância expressa do órgão competente da ANAC.
+
+  b) present properly justified alternative means or procedure, being required, in this case,
+  the analysis and express consent of the competent ANAC branch.
+
+  3.9 Os meios ou procedimentos alternativos mencionados no item 3.8(b) devem garantir um
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou atingir
+  o objetivo do procedimento padronizado em IS.
+
+  3.9 The alternative means or procedure mentioned in item 3.8(b) shall ensure a level of
+  safety equal to or greater than that established by the applicable requirement or achieve
+  the objective of the procedure standardized in IS.
+
+  4. DEFINIÇÕES
+
+  4. DEFINITIONS
+
+  4.1 Aeronave base significa uma aeronave usada como referência para comparar diferenças
+  com outra aeronave.
+
+  4.1 Base aircraft means an aircraft used as a reference to compare differences with another
+  aircraft.
+
+  4.2 Aeronave candidata significa uma aeronave submetida ao processo de avaliação.
+
+  4.2 Candidate aircraft means an aircraft subject to the evaluation process.
+
+  4.3 Aeronaves relacionadas significam quaisquer duas ou mais aeronaves do mesmo fabricante
+  com certificados de tipo iguais ou diferentes que tenham sido determinadas pela ANAC como
+  tendo comunalidade na medida em que crédito entre essas aeronaves pode ser aplicado para
+  treinamento de membros da tripulação de voo, exame, experiência recente (currency e/ou aquela
+  requerida​​​ pela seção 61.21 do RBAC 61 ou regulamentação local equivalente), experiência
+  operacional, ciclos operacionais e tempo de voo operacional em rota para consolidação de
+  conhecimento e habilidades.
+
+  4.3 Related aircraft mean any two or more aircraft of the same manufacturer with either
+  the same or different type certificates that have been determined by ANAC to have commonality
+  to the extent that credit between those aircraft may be applied for flight crew member training,
+  checking, currency, recent experience as required by section 61.21 of RBAC 61 or equivalent
+  local regulations, operating experience, operating cycles, and line operating flight time
+  for consolidation of knowledge and skills.
+
+  4.4 Áreas de Treinamento de Ênfase Especial (Training Areas of Special Emphasis - TASE)
+  significam o conhecimento e habilidades específicos necessários para a operação segura de
+  um tipo de aeronave ou variante, o uso de equipamentos, a aplicação de procedimentos ou
+  o desempenho de operações.
+
+  4.4 Training Areas of Special Emphasis - TASE mean the specific knowledge and skills required
+  for the safe operation of an aircraft type or variant, the use of equipment, the application
+  of procedures, or the performance of operations.
+
+  4.5 Avaliação Operacional significa o processo utilizado para desenvolver e emitir os FCD.
+
+  4.5 Operational Evaluation - OE means the process employed to develop and issue the FCD.
+
+  4.6 Características de voo significam qualidades de pilotagem ou características de desempenho
+  perceptíveis por um piloto. Características de voo se relacionam com a resposta aerodinâmica
+  de uma aeronave, particularmente conforme afetada por mudanças na configuração ou parâmetros
+  de trajetória de voo.
+
+  4.6 Flight characteristics mean handling qualities or performance characteristics perceivable
+  by a pilot. Flight characteristics relate to the aerodynamic response of an aircraft, particularly
+  as affected by changes in configuration or flight path parameters.
+
+  4.7 Configuração significa características da aeronave (por exemplo, equipamentos, sistemas
+  ou funções), que são distinguíveis pelos pilotos, com relação às diferenças em sistemas,
+  geometria da cabine, ângulos de corte visual, controles, mostradores, geometria da aeronave
+  e/ou número de pilotos necessários.
+
+  4.7 Configuration means aircraft features (e.g., equipment, systems or functions), which
+  are distinguishable by pilots, with respect to differences in systems, cockpit geometry,
+  visual cutoff angles, controls, displays, aircraft geometry, and/or number of required pilots.
+
+  4.8 Corpo de prova significa um piloto que possui os pré-requisitos para a realização de
+  um treinamento e/ou para a realização do teste específico, que é utilizado em testes T com
+  a finalidade de determinar a conformidade dos elementos de FCD propostos para treinamento
+  inicial ou de diferenças, bem como de qualquer crédito.
+
+  4.8 Test Subject means a pilot possessing the prerequisites for taking a training course
+  and/or for conducting the specific test, who is used in T tests for the purpose of determining
+  the compliance of the proposed FCD initial or difference training elements, as well as of
+  any credit.
+
+  4.9 Crédito de Decolagem e Pouso Comuns (Common Take-off and Landing Credit - CTLC) significa
+  um programa ou processo que permite crédito por experiência recente, conforme requerido
+  pela seção 61.21 do RBAC 61 ou regulamentação local equivalente, entre tipos de aeronaves
+  que podem ser demonstrados como tendo qualidades de pilotagem, características de voo, técnicas
+  operacionais e procedimentos operacionais muito semelhantes durante a decolagem e subida
+  inicial, aproximação e pouso (incluindo o estabelecimento da configuração final de pouso).
+
+  4.9 Common Take-off and Landing Credit - CTLC means a program or process that allows credit
+  for recent experience, as required by section 61.21 of RBAC 61 or equivalent local regulations,
+  between aircraft types that can be demonstrated to have very similar handling qualities,
+  flight characteristics, operating techniques, and operating procedures during take-off and
+  initial climb, approach and landing (including the establishment of the final landing configuration).
+
+  4.10 Dados Relevantes à Operação (Operational Suitability Data - OSD) significam as informações
+  produzidas durante a certificação de tipo que são relevantes para a operação segura da aeronave,
+  cujos elementos incluem os FCD, conforme definido no RBAC 01.
+
+  4.10 Operational Suitability Data - OSD means data produced during type certification which
+  are relevant to the aircraft safe operation, whose elements include the FCD, as defined
+  in RBAC 01.
+
+  4.11 Dados Relevantes à Operação para Pilotos (Flight Crew Data - FCD) significam aqueles
+  OSD relacionados à determinação da habilitação de tipo para piloto e especificações recomendadas
+  para treinamento mínimo, exame e experiência recente.
+
+  4.11 Flight Crew Data - FCD - means those OSD related to the determination of the pilot
+  type rating and recommended specifications for minimum training, checking and currency.
+
+  4.12 Endosso de habilitação de tipo de piloto significa a designação de um tipo de aeronave
+  endossado em uma licença de piloto.
+
+  4.12 Pilot type rating endorsement means the designation of an aircraft type endorsed on
+  a pilot license.
+
+  4.13 Exame significa uma avaliação da proficiência de um piloto em termos de conhecimento
+  e habilidades em tarefas de acordo com o padrão determinado pela ANAC.
+
+  4.13 Checking means an assessment of a pilot proficiency in terms of knowledge and skills
+  in tasks to the standard determined by ANAC.
+
+  4.14 Experiência recente (currency) significa, para os fins desta IS a experiência necessária,
+  dentro de um período especificado, para a operação segura de aeronaves, equipamentos e sistemas,
+  e está relacionada aos conceitos de Requisitos Mestres de Diferenças (Master Difference
+  Requirements - MDR) e Requisitos de Diferenças (Difference Requirements - DR).
+
+  4.14 Currency means the experience necessary, within a specified period of time, for the
+  safe operation of aircraft, equipment, and systems, and is related to the Master Difference
+  Requirements - MDR and Difference Requirements - DR concepts.
+
+  NOTA: O termo “experiência recente” desta definição não se refere à experiência recente
+  exigida pela seção 61.21 do RBAC 61. O texto desta IS trará clara a referência quando se
+  tratar da experiência recente requerida pelo RBAC 61.
+
+  NOTE: The term “currency” of this definition does not refer to the recent experience required
+  by section 61.21 of RBAC 61. The text of this IS makes clear reference when referring to
+  the recent experience required by RBAC 61.
+
+  4.15 Níveis de diferença significam níveis formalmente determinados de métodos de treinamento,
+  exame e experiência recente que satisfazem os requisitos de diferenças entre aeronaves relacionadas.
+  Uma gama de cinco níveis de diferenças em ordem crescente de requisitos, identificados como
+  A até E, são especificados para fins de treinamento, exame e experiência recente.
+
+  4.15 Difference levels mean formally determined levels of training, checking and currency
+  methods that satisfy differences requirements between related aircraft. A range of five
+  difference levels in order of increasing requirements, identified as A through E, are specified
+  for training, checking and currency purposes.
+
+  4.16 Programa mínimo (minimum syllabus) significa os elementos de treinamento recomendados
+  e o quadro geral de treinamento associado apresentados pelo requerente e aprovados pela
+  ANAC para um tipo específico de aeronave.
+
+  4.16 Minimum syllabus means the recommended training elements and the associated footprint
+  provided by the applicant and approved by ANAC for a specific aircraft type.
+
+  4.17 Quadro geral de treinamento (training footprint) significa uma descrição resumida de
+  um programa de treinamento, geralmente em formato tabular curto, mostrando os assuntos de
+  treinamento, módulos, procedimentos, manobras ou outros elementos do programa que são planejados
+  para serem concluídos durante cada dia ou fase do treinamento.
+
+  4.17 Training footprint means a summary description of a training program, usually in short
+  tabular form, showing the training subjects, modules, procedures, maneuvers, or other program
+  elements that are planned for completion during each day or phase of training.
+
+  4.18 Qualidades de pilotagem significa uma avaliação subjetiva da maneira como o avião é
+  percebido pelo piloto em relação à frequência e magnitude de comandos nos controles de voo
+  iniciados pelo piloto com base na resposta aerodinâmica de uma aeronave, também afetada
+  por mudanças na configuração ou nos parâmetros da trajetória de voo.
+
+  4.18 Handling qualities mean a subjective assessment of the way the plane feels to the pilot
+  with respect to the rate and magnitude of pilot-initiated control inputs to the flight controls
+  based on the aerodynamic response of an aircraft, also as affected by changes in configuration
+  or flight path parameters.
+
+  4.19 Requisitos de Diferenças (Difference Requirements - DR) significam uma descrição das
+  diferenças e níveis mínimos de diferença em relação ao treinamento, exame e experiência
+  recente entre uma aeronave base e uma candidata e seu impacto nas características de voo
+  e mudanças de procedimentos, a serem utilizados por organizações de treinamento para o desenvolvimento
+  de cursos de treinamento e por operadores para o desenvolvimento de tabelas de Requisitos
+  de Diferenças do Operador (Operator Difference Requirements - ODR) e programas de treinamento.
+
+  4.19 Difference Requirements - DR mean a description of the differences and minimum difference
+  levels regarding training, checking and currency between a base and a candidate aircraft
+  and their impact on flight characteristics and changes of procedures, to be used by training
+  organizations for the development of training courses and by operators for the development
+  of Operator Difference Requirements - ODR tables and training programs.
+
+  4.20 Requisitos de Diferenças do Operador (Operator Difference Requirements - ODR) significam
+  tabelas que fornecem um meio uniforme para os operadores gerenciarem de forma abrangente
+  as diferenças ou os programas de treinamento de diferenças de aeronaves relacionadas, quando
+  existirem diferenças na frota de um operador que afetem o conhecimento, as habilidades ou
+  as capacidades do piloto pertinentes aos sistemas ou procedimentos, e fornecem uma base
+  para a aprovação da ANAC para o Voo de Frota Mista (Mixed Fleet Flying - MFF).
+
+  4.20 Operator Difference Requirements - ODR mean tables that provide a uniform means for
+  operators to comprehensively manage differences or related aircraft difference training
+  programs, when differences exist within an operator’s fleet that affect pilot knowledge,
+  skills, or abilities pertinent to systems or procedures, and provide a basis for ANAC approval
+  of Mixed Fleet Flying - MFF.
+
+  4.21 Requisitos Mestres de Diferenças (Master Difference Requirements - MDR) significam
+  os requisitos que dizem respeito às diferenças entre aeronaves. Os MDRs são especificados
+  em termos dos níveis mínimos de diferença para treinamento, exame e experiência recente,
+  e incluem o nível de diferença mais alto identificado nas tabelas de DR aplicáveis.
+
+  4.21 Master Difference Requirements - MDR mean the requirements that pertain to differences
+  between aircraft. MDR are specified in terms of the minimum difference levels for training,
+  checking, and currency, and include the highest difference level identified in the applicable
+  DR tables.
+
+  4.22 Variante significa uma aeronave que compartilha o mesmo projeto básico dentro da mesma
+  habilitação de tipo de piloto, mas possui diferenças suficientes em relação à aeronave base
+  que requer um treinamento de diferenças ou um treinamento de familiarização para ser operada,
+  conforme prescrito pelo parágrafo 61.217(b) do RBAC 61.
+
+  4.22 Variant means an aircraft that shares the same basic design within the same pilot type
+  rating but has sufficient differences to the base aircraft that requires a differences training
+  or a familiarization training to be operated, as prescribed by paragraph 61.217(b) of RBAC
+  61.
+
+  4.23 Voo de Frota Mista (Mixed Fleet Flying - MFF) significa a operação de aeronaves relacionadas
+  para as quais crédito para eventos de treinamento, exame e experiência recente pode ser
+  tomado. O processo de avaliação operacional define níveis mínimos de treinamento, exame
+  e experiência recente entre aeronaves relacionadas.
+
+  4.23 Mixed fleet flying - MFF means the operation of related aircraft for which credit may
+  be taken for training, checking, and/or currency events. The operational evaluation process
+  defines minimum training, checking, and currency difference levels between related aircraft.
+
+  4.24 Voo Orientado para Operações em Rota (Line-Oriented Flying - LOF) significa uma fase
+  dos testes T3 e T5 usada a critério da ANAC para validar o treinamento e o exame propostos.
+  O LOF avalia integralmente áreas de diferença específicas, examina implicações de voo de
+  frota mista, avalia circunstâncias especiais como os efeitos de equipamentos inoperantes,
+  e avalia os efeitos de erros de piloto potencialmente associados às diferenças.
+
+  4.24 Line-Oriented Flying - LOF means a phase of the T3 and T5 tests used at ANAC’s discretion
+  to validate the proposed training and checking. This LOF fully assesses particular difference
+  areas, examines implications of mixed fleet flying, assesses special circumstances, such
+  as the effects of inoperative equipment, and evaluates the effects of pilot errors potentially
+  associated with the differences.
+
+  5. DISCUSSÃO
+
+  5. DISCUSSION
+
+  5.1 Introdução
+
+  5.1 Introduction
+
+  Quando solicitado por um requerente, a ANAC realiza avaliações de aeronaves novas e relacionadas
+  e seus sistemas associados com a finalidade de determinar os requisitos recomendados de
+  treinamento e qualificação do piloto, bem como a habilitação de tipo de piloto, resultando
+  no estabelecimento de FCD.
+
+  When requested by an applicant, ANAC undertakes analyses of new and related aircraft and
+  their associated systems for the purpose of determining recommended pilot training and qualification
+  requirements, as well as pilot type rating, resulting in the establishment of FCD.
+
+  5.2 Aplicabilidade
+
+  5.2 Applicability
+
+  Esta IS se aplica a detentores e requerentes de certificados de tipo ou certificados suplementares
+  de tipo de aeronaves que exigem uma habilitação de tipo de piloto de acordo com o RBAC 61.
+
+  This IS applies to holders and applicants of type certificates or supplementary type certificates
+  of aircraft which require a pilot type rating in accordance with RBAC 61.
+
+  5.3 Requisitos obrigatórios e voluntários
+
+  5.3 Mandatory and voluntary requirements
+
+  5.3.1 O FCD é voluntário. No entanto, para se beneficiar dos resultados de uma atividade
+  de avaliação operacional, um requerente deve desenvolver o FCD e ele fará parte do certificado
+  de tipo de aeronave, conforme disposto na seção 21.41 do RBAC 21.
+
+  5.3.1 FCD is voluntary. However, to benefit from the results of an operational evaluation
+  activity, an applicant must develop the FCD and it will be part of the aircraft type certificate,
+  as provided in section 21.41 of RBAC 21.
+
+  5.3.2 No caso de aeronaves que possuam FCD e modificações sejam propostas, o requerente
+  é obrigado a manter o FCD atualizado, caso contrário a ANAC poderá limitar seu uso (consulte
+  o item 5.6.1.3).
+
+  5.3.2 In the case of aircraft with existing FCD and changes are implemented, the applicant
+  is required to keep FCD updated, otherwise ANAC may limit its use (refer to item 5.6.1.3).
+
+  5.4 Regras de transição
+
+  5.4 Transition rules
+
+  5.4.1 Os relatórios de avaliação operacional emitidos pela ANAC até 2024 são considerados
+  FCD de acordo com os requisitos OSD contidos no RBAC 21. Não é necessário solicitar aprovação
+  de modificação ao certificado de tipo apenas para incluir os resultados da avaliação operacional
+  como FCD no certificado de tipo da aeronave.
+
+  5.4.1 Operational evaluation reports issued by ANAC until 2024 are considered FCD according
+  to OSD requirements contained in RBAC 21. It is not necessary to apply for type certificate
+  change approval just to include the operational evaluation results as FCD into the aircraft
+  type certificate.
+
+  5.4.2 No entanto, tais relatórios são aplicáveis aos modelos e configurações de aeronaves
+  conforme foram originalmente avaliados. Modificações posteriores no projeto de tipo que
+  afetam FCD podem não ser cobertas pelos relatórios de avaliação operacional existentes.
+  Os detentores de certificado de tipo podem, a seu critério, solicitar a aprovação de modificações
+  isoladas (stand-alone) aos FCD de acordo com as novas regras e procedimentos do OSD, para
+  atualizar aqueles FCD que não cobrem todas as modificações de projeto submetidas até 1°
+  de janeiro de 2025.
+
+  5.4.2 However, such reports are applicable to the aircraft models and configurations as
+  they were originally assessed. Later design changes affecting FCD may not be covered by
+  the existing operational evaluation reports. Type certificate holders may, upon their discretion,
+  apply for the approval of stand-alone FCD changes according to new OSD rules and procedures,
+  for updating those FCD which do not cover all design changes submitted until January 1st,
+  2025.
+
+  5.4.3 Os requerimentos de modificação ao certificado de tipo submetidos após 1º de janeiro
+  de 2025 para aeronaves que possuam FCD (incluindo relatórios de avaliação operacional emitidos
+  pela ANAC até 2024) devem atender aos requisitos para modificações aos OSD (seção 21.107-I
+  do RBAC 21), conforme explicado na seção 5.6.
+
+  5.4.3 Applications for type certificate change submitted after January 1st, 2025 for aircraft
+  having FCD (including operational evaluation reports issued by ANAC until 2024) must comply
+  with requirements for changes to OSD (section 21.107-I of RBAC 21), as explained in section
+  5.6.
+
+  5.5 Emissão inicial dos FCD
+
+  5.5 FCD Initial issuance
+
+  5.5.1 Conforme parágrafo 21.61-I(a) do RBAC 21, o detentor ou requerente de um certificado
+  de tipo para uma aeronave para a qual seja requerida uma habilitação de tipo de pilotos,
+  conforme o RBAC 61, deve realizar uma campanha de avaliação operacional de forma aceitável
+  e com resultado satisfatório caso tenha intenção de que sejam incluídos FCD no respectivo
+  certificado.
+
+  5.5.1 As per paragraph 21.61-I(a) of RBAC 21, the holder of or applicant to a type certificate
+  for an aircraft for which a pilot type rating is required, according to RBAC 61, shall perform
+  an operational evaluation campaign in an acceptable manner and with satisfactory result
+  if intending to include FCD in the respective certificate.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aircraft
+- training
+- treinamento
+- requirements
+- difference
+- means
+- tipo
+- type
+- aeronave
+- diferencas
+- aeronaves
+- requisitos
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-001.md

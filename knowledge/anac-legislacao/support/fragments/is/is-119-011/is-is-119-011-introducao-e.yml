@@ -1,0 +1,87 @@
+id: is-is-119-011-introducao-e
+kind: is
+document: is-119-011
+family: '119'
+section_id: introducao
+section_title: Introdução
+subsection_id: e
+cite: introducao(e)
+title: introducao(e)
+text: 'e) entre outras.
+
+  Esta IS foca somente nos aspectos técnicos do acordo. Não é escopo desta IS abordar as regras
+  de acesso ao mercado.
+
+  Operações que se enquadram na definição de
+
+  wet leasing
+
+  (arrendamento com tripulação), conforme o RBAC nº 01, caracterizadas por haver a transferência
+  da posse da aeronave do operador primário (arrendador) para o secundário (arrendatário),
+  não fazem parte do escopo desta IS, uma vez que, nesta IS, se assume que o operador técnico
+  retém a posse da aeronave durante todo o período de vigência do contrato. Assim, não são
+  aplicáveis às operações sob esta IS os requisitos específicos de
+
+  wet leasing
+
+  , como os previstos nos parágrafos 119.53(a) a (d) do RBAC nº 119 ou no Título IV, Capítulo
+  IV, Seção II da Lei nº 7.565, o Código Brasileiro de Aeronáutica (CBA).
+
+  Ressalva-se que, por vezes, o mercado utiliza a expressão
+
+  wet leasing
+
+  para denominar contratos em que não há, efetivamente, transferência da posse da aeronave
+  e que, por conseguinte, não se caracterizam como arrendamento (nem com nem sem tripulação).
+  Esta IS não pretende impedir esse uso pelo mercado; porém, na interação com a SPO e nos
+  documentos submetidos à SPO (incluindo o sistema de documentos de segurança operacional
+  do operador), deve se buscar utilizar a expressão somente no sentido estabelecido no RBAC
+  nº 01, de forma a evitar interpretações incorretas.
+
+  Há ainda o uso da expressão
+
+  damp leasing
+
+  para se referir a contratos que envolvem, além da aeronave, somente parte da tripulação
+  (normalmente, a tripulação de voo, mas não a tripulação de cabine). Para a Anac, esta situação
+  é tratada como
+
+  wet
+
+  leasing, uma vez que a definição de
+
+  wet leasing
+
+  não especifica a obrigação de abranger toda a tripulação. Assim, se houver transferência
+  de posse da aeronave, aplica-se o parágrafo 5.1.6 desta IS. Por outro lado, se não houver
+  transferência da posse da aeronave, ou seja, esta for mantida com o operador técnico, deve-se
+  atentar às limitações estabelecidas nos parágrafos 5.2.5 e 5.2.6 desta IS.
+
+  Itens a serem avaliados
+
+  O operador técnico mantém a responsabilidade final sobre os aspectos técnicos da operação,
+  ainda que parte das atividades associadas a estes aspectos técnicos possa ser realizada
+  por terceiros, como o operador comercial. Para tanto, o operador técnico deve possuir a
+  certificação requerida para a condução das operações de serviço de transporte aéreo, conforme
+  as características de certificação do operador de serviço de transporte aéreo (vide RBAC
+  nº 01) necessárias para a condução das operações sob o acordo. Assim, o operador técnico
+  deve:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operador
+- aeronave
+- leasing
+- tripulacao
+- posse
+- tecnico
+- desta
+- transferencia
+- aspectos
+- assim
+- expressao
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-011.md

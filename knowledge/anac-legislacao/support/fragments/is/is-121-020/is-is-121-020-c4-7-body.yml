@@ -1,0 +1,40 @@
+id: is-is-121-020-c4-7-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: C4.7
+section_title: Modelagem do aeródromo no simulador de voo
+subsection_id: body
+cite: C4.7
+title: Modelagem do aeródromo no simulador de voo
+text: 'C4.7 Modelagem do aeródromo no simulador de voo
+
+  C4.7.1 Para que um simulador de voo seja elegível a ser aprovado para treinamento para o
+  aeródromo SBRJ, a modelagem desse aeródromo deve cumprir os requisitos de aeródromos classe
+  I estabelecidos no Title 14 CFR Part 60, Apêndice A, Tabela A3B - Functions and Subjective
+  Tests - Class I Airport Models, aprovado em 30 de março de 2016, incluindo as correções
+  publicadas em 20 de maio de 2016 (revisão informalmente conhecida como “Part 60, Change
+  2”). A tabela encontra-se disponível em https://www.govinfo.gov/content/pkg/FR-2016-05-20/pdf/C1-2016-05860.pdf.
+
+  C4.7.2 A demonstração da adequação da modelagem desses aeródromos no simulador poderá se
+  dar de duas formas:'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- modelagem
+- simulador
+- aerodromos
+- aprovado
+- part
+- tabela
+- adequacao
+- airport
+- apendice
+- change
+- class
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

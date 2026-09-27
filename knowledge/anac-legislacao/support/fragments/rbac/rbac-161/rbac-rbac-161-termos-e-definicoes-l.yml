@@ -1,0 +1,31 @@
+id: rbac-rbac-161-termos-e-definicoes-l
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: l
+cite: termos-e-definicoes(l)
+title: termos-e-definicoes(l)
+text: '(l)
+
+  Plano Específico de Zoneamento de Ruído - PEZR: Plano de Zoneamento de Ruído de Aeródromo
+  composto pelas curvas de ruído de 85, 80, 75, 70 e 65 e elaborado nos termos deste RBAC,
+  a partir de perfis operacionais específicos, conforme disposto na Subparte D.'
+keywords:
+- ruido
+- termos
+- definicoes
+- plano
+- zoneamento
+- aerodromo
+- composto
+- curvas
+- deste
+- disposto
+- elaborado
+- especifico
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

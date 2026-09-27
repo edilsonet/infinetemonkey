@@ -1,0 +1,80 @@
+id: is-is-121-021-d1-1-e
+kind: is
+document: is-121-021
+family: '121'
+section_id: D1.1
+section_title: Informação adicional
+subsection_id: e
+cite: D1.1(e)
+title: D1.1(e)
+text: 'e) Roll: ajuste (se necessário) para não exceder 60º
+
+
+  Explicação: se as entradas anteriores de comando de empuxo e nose down foram malsucedidas,
+  será necessário inclinar a aeronave para permitir que o nariz desça até o horizonte. O ângulo
+  de inclinação aplicado deve ser o menor possível para iniciar o mergulho nose down e nunca
+  exceder os 60º aproximadamente. Se este ângulo já for maior que 60º, deve ser reduzido para
+  60º. A pilotagem mais fácil é com as asas niveladas ou próximo a isso.
+
+
+  D2. Recomendação com nariz para baixo
+
+  Reconhecer e confirmar a evolução da situação.
+
+  ANUNCIE: "NOSE DOWN"
+
+  Pilot Flying (PF)
+
+  Pilot Monitoring (PM)
+
+  A/P .......................... DESCONECTAR (se requerido) 1 e 2
+
+
+  Monitore a velocidade e a atitude durante a recuperação e anuncie qualquer desvio contínuo
+
+  A/T ................................................... OFF (se requerido) 1
+
+  Recuperação do estol ............................... (se requerido)
+
+  Rolamento ............................. AJUSTAR (se requerido) 3
+
+  Nivelar as asas na direção mais curta
+
+  Empuxo .................................... AJUSTAR (se requerido)
+
+  RECUPERAR o nível de voo 4 e 5
+
+  Nota 1: Se o A/P ou A/T responder corretamente, pode não ser apropriado diminuir o nível
+  de automação.
+
+  Nota 2: Pode-se encontrar uma condição de trinagem inadequada quando o A/P é desconectado.
+
+  Nota 3: É importante se reduzir a carga g enquanto se nivela as asas, já que aumenta a efetividade
+  da arfagem.
+
+  Nota 4: A recuperação do voo nivelado pode exigir o uso de pitch trim.
+
+  Nota 5: Evite o estol devido à recuperação prematura ou carga g excessiva em altas velocidades.
+
+  Aviso: O uso excessivo de compensação de arfagem ou do leme de direção pode agravar a situação
+  de perda de controle ou pode resultar em altas cargas estruturais.'
+keywords:
+- transporte-aereo
+- operacoes
+- nota
+- pode
+- requerido
+- recuperacao
+- asas
+- down
+- nose
+- ajustar
+- altas
+- angulo
+- anuncie
+- arfagem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

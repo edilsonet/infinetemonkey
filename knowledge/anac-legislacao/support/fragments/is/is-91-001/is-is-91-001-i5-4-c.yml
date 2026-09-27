@@ -1,0 +1,31 @@
+id: is-is-91-001-i5-4-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: I5.4
+section_title: 'Um procedimento de aproximação RNP APCH deve ser descontinuado, caso:'
+subsection_id: c
+cite: I5.4(c)
+title: I5.4(c)
+text: c) se houver indicação de indisponibilidade da função de alerta de integridade antes
+  de alcançar o FAF; ou
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- alcancar
+- alerta
+- apch
+- aproximacao
+- caso
+- descontinuado
+- funcao
+- houver
+- indicacao
+- indisponibilidade
+- integridade
+- procedimento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

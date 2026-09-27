@@ -1,0 +1,50 @@
+id: is-is-154-003-termos-e-definicoes-body
+kind: is
+document: is-154-003
+family: '154'
+section_id: termos-e-definicoes
+section_title: TERMOS E Definições
+subsection_id: body
+cite: termos-e-definicoes
+title: TERMOS E Definições
+text: 'TERMOS E Definições
+
+  4.1. Para os efeitos desta IS, são válidos os termos e definições apresentados na seção
+  154.15 do RBAC nº 154.
+
+  ESTRUTURA DO DOCUMENTO
+
+  5.1. Esta IS está estruturada da seguinte forma:
+
+  5.1.1 Os itens que detalham o cumprimento de requisito trazem, no início do parágrafo, a
+  notação “FC” (Forma de Cumprimento), seguida do parágrafo do RBAC a que correspondem. Sua
+  observância é obrigatória, mas pode o administrado submeter à aprovação da Superintendência
+  de Infraestrutura Aeroportuária (SIA) - previamente à sua adoção - meio ou procedimento
+  alternativo, na forma prevista na Resolução ANAC n° 30, artigo 14, § 1º e 2º;
+
+  5.1.2 Sempre que um item for classificado como “FC” (Forma de Cumprimento), todos os seus
+  subitens, exceto aqueles que tratarem expressamente de uma recomendação, fazem parte do
+  conjunto de informações que compõem a forma de cumprimento;
+
+  5.1.3 Os itens que se iniciam com a notação “Recomendação”, apesar de não trazerem comando
+  obrigatório, representam as práticas que a ANAC entende como desejáveis para o aumento da
+  segurança e da eficiência das operações, merecendo os melhores esforços dos administrados
+  para sua consecução;'
+keywords:
+- seguranca-aeroportuaria
+- forma
+- cumprimento
+- definicoes
+- termos
+- notacao
+- paragrafo
+- recomendacao
+- administrado
+- administrados
+- adocao
+- aeroportuaria
+- alternativo
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-003.md

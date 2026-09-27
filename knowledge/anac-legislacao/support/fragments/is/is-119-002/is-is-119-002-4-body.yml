@@ -1,0 +1,128 @@
+id: is-is-119-002-4-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: '4'
+section_title: PLANO DE IMPLANTAÇÃO DO SGSO DO <NOME DO>
+subsection_id: body
+cite: '4'
+title: PLANO DE IMPLANTAÇÃO DO SGSO DO <NOME DO>
+text: '4. PLANO DE IMPLANTAÇÃO DO SGSO DO <NOME DO>
+
+  DETENTOR DO CERTIFICADO
+
+  4.1 INTRODUÇÃO
+
+  O plano de implantação do SGSO tem por objetivo apresentar o enfoque definido pelo Gestor
+
+  Responsável para o gerenciamento da segurança operacional em suas atividades. Como tal,
+  deve
+
+  ser uma proposta realista, de forma que satisfaça os objetivos de segurança operacional
+
+  estabelecidos pelo Gestor Responsável de um Detentor do Certificado, apoiando ao mesmo tempo
+
+  a prestação efetiva e eficiente dos serviços para os quais foi certificado.
+
+  O Gestor Responsável deve desenvolver e manter um Plano de Implantação do SGSO, que
+
+  apresente como o Detentor de Certificado pretende alcançar os objetivos de segurança
+
+  operacional estabelecidos como parte do negócio, bem como o compromisso de incorporar
+
+  qualquer requisito de segurança operacional novo ou revisto pela ANAC.
+
+  Os aspectos significativos do Plano devem ser incluídos no planejamento estratégico do Detentor
+
+  de Certificado. Ainda, o Plano de Implantação do SGSO pode se constituir em mais de um
+
+  documento, desde que referenciado nesta parte do MGSO, detalhando as mudanças necessárias
+
+  na estrutura organizacional, as ações a serem adotadas, quando e por quem, de acordo com
+  uma
+
+  implantação por fases, quando autorizado.
+
+  4.2 ELABORAÇÃO DO PLANO DE IMPLANTAÇÃO DO SGSO
+
+  O Gestor Responsável é responsável pelo desenvolvimento e manutenção de um plano de
+
+  implantação do SGSO, no qual deve definir a abordagem para gerenciar a segurança operacional
+
+  de modo a satisfazer as necessidades da organização.
+
+  O Gestor Responsável deve designar um grupo de planejamento composto por diretores, gerentes
+
+  e supervisores chave da organização, para o desenho, desenvolvimento e implantação do SGSO,
+
+  que contará obrigatoriamente com o Diretor ou Gerente de Segurança Operacional.
+
+  O grupo de planejamento deve ser responsável por elaborar uma estratégia e o plano de
+
+  implantação do SGSO, que deve satisfazer as necessidades da organização em matéria de
+
+  segurança operacional.
+
+  Para que este grupo possa desenhar, desenvolver e implantar um SGSO compatível com os
+
+  regulamentos e as necessidades do Detentor de Certificado é necessário que seus membros
+
+  possuam conhecimento sobre os conceitos de funcionamento de um SGSO e que tenham
+
+  experiência adequada sobre o tipo de atividade por ele desenvolvida.
+
+  Para alcançar os resultados esperados, é necessário que a alta direção do Detentor de Certificado
+
+  aloque tempo compatível com a tarefa a ser desenvolvida, de forma a permitir que o grupo
+  se
+
+  reúna entre si e com os responsáveis pelas áreas operacionais, bem como com a alta direção,
+  para
+
+  alinhamento dos rumos a serem adotados. Estas atividades demandam recursos financeiros e
+
+  humanos que precisam ser alocados pelo Gestor Responsável pelo Detentor de Certificado.
+
+  4.3 PLANEJAMENTO DA SEGURANÇA OPERACIONAL
+
+  O <Diretor ou Gerente> de Segurança Operacional, como coordenador do grupo criado, deve,
+  a
+
+  partir da descrição do ambiente operacional e da análise do faltante realizada, desenvolver
+  oData da emissão: 9 de novembro de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  planejamento para a adequação das estruturas organizacionais, as políticas e os procedimentos
+
+  aos requisitos estabelecidos e acordados com a ANAC. Os principais pontos a serem avaliados
+
+  estão associados aos componentes e elementos do SGSO apresentados no item 3.2, que está
+  de
+
+  acordo com os RBACs 121 e 135.
+
+  O <Diretor ou Gerente> de Segurança Operacional deve identificar qual o planejamento a ser
+
+  proposto para a adequação do Detentor do Certificado aos requisitos e prazos estabelecidos
+  no'
+keywords:
+- certificacao-de-operador
+- operacoes
+- sgso
+- implantacao
+- operacional
+- plano
+- seguranca
+- certificado
+- detentor
+- responsavel
+- gestor
+- planejamento
+- grupo
+- estabelecidos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

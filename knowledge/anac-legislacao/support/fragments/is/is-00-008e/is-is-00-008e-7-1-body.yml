@@ -1,0 +1,39 @@
+id: is-is-00-008e-7-1-body
+kind: is
+document: is-00-008e
+family: '0'
+section_id: '7.1'
+section_title: Com a criação da ANAC, os Códigos DAC, pertencentes aos detentores de licença
+  emitida pelo antigo Departamento de Aviação Civil (DAC), foram automaticamente convertidos
+  para Código ANAC (CANAC). Portanto, não deverá ser criado um CANAC pelos detentores de licenças
+  emitidas pelo DAC. A criação de um novo código gerará duplicidade e inconsistência na base
+  de dados.
+subsection_id: body
+cite: '7.1'
+title: Com a criação da ANAC, os Códigos DAC, pertencentes aos detentores de licença emitida
+  pelo antigo Departamento de Aviação Civil (DAC), foram automaticamente convertidos para
+  Código ANAC (CANAC). Portanto, não deverá ser criado um CANAC pelos detentores de licenças
+  emitidas pelo DAC. A criação de um novo código gerará duplicidade e inconsistência na base
+  de dados.
+text: 7.1 Com a criação da ANAC, os Códigos DAC, pertencentes aos detentores de licença emitida
+  pelo antigo Departamento de Aviação Civil (DAC), foram automaticamente convertidos para
+  Código ANAC (CANAC). Portanto, não deverá ser criado um CANAC pelos detentores de licenças
+  emitidas pelo DAC. A criação de um novo código gerará duplicidade e inconsistência na base
+  de dados.
+keywords:
+- canac
+- codigo
+- criacao
+- detentores
+- antigo
+- automaticamente
+- aviacao
+- base
+- civil
+- codigos
+- convertidos
+- criado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-008e.md

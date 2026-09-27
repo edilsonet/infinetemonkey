@@ -1,0 +1,34 @@
+id: is-is-175-009-5-3-13-b
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.13
+section_title: O campo “Número operacional do CT-e” deve ser preenchido com o número de controle
+subsection_id: b
+cite: 5.3.13(b)
+title: 5.3.13(b)
+text: 'b) Não são permitidos truncamentos do número operacional do conhecimento aéreo,
+
+  ou seja, o número inserido no sistema deve conter apenas os 11 dígitos, de maneira
+
+  que todos esses dígitos sejam incluídos no CT-e.'
+keywords:
+- artigos-perigosos
+- carga
+- numero
+- digitos
+- operacional
+- aereo
+- campo
+- conhecimento
+- conter
+- controle
+- esses
+- incluidos
+- inserido
+- maneira
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

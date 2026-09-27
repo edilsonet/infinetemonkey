@@ -1,0 +1,52 @@
+id: is-is-91-010-5-4-1-body
+kind: is
+document: is-91-010
+family: '91'
+section_id: 5.4.1
+section_title: CPDLC e ADS-C são duas das principais aplicações de Data Link em uso na aviação.
+subsection_id: body
+cite: 5.4.1
+title: CPDLC e ADS-C são duas das principais aplicações de Data Link em uso na aviação.
+text: '5.4.1 CPDLC e ADS-C são duas das principais aplicações de Data Link em uso na aviação.
+
+  5.4.2 O CPDLC é um sistema de comunicação entre controladores e pilotos, por meio de mensagens
+  de texto enviadas via Data Link. As mensagens trocadas entre controladores e pilotos obedecem,
+  geralmente, a um formato de texto padronizado; mensagens em texto livre são utilizadas apenas
+  em situações excepcionais. Por isso, é essencial que os pilotos conheçam o significado das
+  mensagens padronizadas, bem como as regras para sua utilização. No Brasil, estas regras
+  são estabelecidas pelo DECEA.
+
+  5.4.3 O ADS-C é um sistema automatizado de vigilância, que transmite informações relevantes
+  da aeronave (ex: identificação, posição, altitude, velocidade indicada, número Mach, razão
+  de subida/descida, proa magnética, etc.) para os órgãos ATS. Após a realização de um logon
+  pela tripulação, um link é estabelecido entre o órgão ATS e a aeronave; a partir de então,
+  sem qualquer intervenção do piloto, o órgão ATS pode estabelecer um “contrato” com a aeronave,
+  para que esta lhe envie periodicamente reportes das informações relevantes.
+
+  5.5 Sub-redes de Data Link.
+
+  5.5.1 Os sistemas de Data Link podem utilizar “caminhos” diferentes para realizar a troca
+  de dados entre a aeronave e a estação destinatária em solo. Essa troca pode ocorrer, por
+  exemplo, através estações em solo VHF, estações de solo HF ou até mesmo por redes de satélites.
+  Esses “caminhos” são chamados de sub-redes e para cada tipo de sub-rede é atribuído um designativo
+  padronizado internacionalmente.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- link
+- data
+- aeronave
+- cpdlc
+- mensagens
+- aplicacoes
+- aviacao
+- duas
+- pilotos
+- principais
+- redes
+- solo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

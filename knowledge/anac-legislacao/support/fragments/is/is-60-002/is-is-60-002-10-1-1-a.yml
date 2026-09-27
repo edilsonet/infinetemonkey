@@ -1,0 +1,43 @@
+id: is-is-60-002-10-1-1-a
+kind: is
+document: is-60-002
+family: '60'
+section_id: 10.1.1
+section_title: 'As etapas de uma qualificação especial são descritas a seguir:'
+subsection_id: a
+cite: 10.1.1(a)
+title: 10.1.1(a)
+text: 'a) Fase 1: Envio de documentos à ANAC.
+
+  Enviar à ANAC, por meio de documento físico ou, preferencialmente, eletrônico:
+
+
+  Carta com a solicitação para qualificação das modificações;
+
+  Comprovante de pagamento de TFAC, se aplicável;
+
+  Descrição detalhada de quais são as modificações pretendidas, como elas afetam o funcionamento
+  do FSTD e quais seus impactos no MQTG;
+
+  O QTG junto com análise de cada um dos testes alterados pelas modificações, verificando
+  se mantém o cumprimento do requisito aplicável.'
+keywords:
+- simuladores
+- treinamento
+- modificacoes
+- aplicavel
+- quais
+- qualificacao
+- afetam
+- alterados
+- analise
+- cada
+- carta
+- comprovante
+- cumprimento
+- descricao
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

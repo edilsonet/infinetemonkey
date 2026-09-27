@@ -1,0 +1,38 @@
+id: is-is-91-001-e2-2-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: E2.2
+section_title: 'Procedimentos operacionais gerais para operações RNAV 1 e 2:'
+subsection_id: c
+cite: E2.2(c)
+title: E2.2(c)
+text: c) pilotos somente podem executar uma SID ou STAR baseadas em RNAV 1 se o dito procedimento
+  puder ser carregado nominalmente diretamente do banco de dados de navegação da aeronave
+  e for compatível com o procedimento publicado na respectiva carta. Contudo, de acordo com
+  as autorizações fornecidas pelo controle de tráfego aéreo, o procedimento pode vir a ser
+  adequado posteriormente por meio da inserção ou retirada de waypoints específicos. A inserção
+  manual ou a criação de novos waypoints, por meio da inserção manual de informações de latitude
+  e longitude ou ângulos (rho/theta) não são permitidas. Adicionalmente, os pilotos não podem
+  alterar os tipos de waypoints, de fly-by para fly-over ou vice-versa, de seu formato original
+  conforme consta no banco de dados da aeronave;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- insercao
+- procedimento
+- waypoints
+- aeronave
+- banco
+- dados
+- manual
+- meio
+- pilotos
+- podem
+- rnav
+- acordo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

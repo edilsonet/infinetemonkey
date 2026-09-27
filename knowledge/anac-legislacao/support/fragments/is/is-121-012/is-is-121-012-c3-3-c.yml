@@ -1,0 +1,49 @@
+id: is-is-121-012-c3-3-c
+kind: is
+document: is-121-012
+family: '121'
+section_id: C3.3
+section_title: Processo de validação
+subsection_id: c
+cite: C3.3(c)
+title: C3.3(c)
+text: 'c) descrição das rotas a serem utilizadas. As rotas devem possuir duração suficiente
+  para que os procedimentos ETOPS sejam validados.
+
+  C3.3.4 No plano de validação, o detentor de certificado deve demonstrar que considerou o
+  impacto do processo de validação na segurança operacional de suas operações. Durante o processo
+  de validação, o detentor de certificado deve incluir nos procedimentos a orientação de que
+  os exercícios de validação não podem impactar negativamente a segurança operacional, especialmente
+  durante períodos de emergência ou de operações anormais, ou de alta carga de trabalho na
+  cabine de pilotos. A orientação deve explicitar que, nessas ocorrências, os exercícios de
+  validação devem ser interrompidos.
+
+  C3.3.5 Os cenários de validação devem ter frequência suficiente e exposição a situações
+  operacionais que permitam validar os sistemas de suporte operacional e de manutenção não
+  validados por outros meios.
+
+  C3.3.6 Para a validação, o detentor de certificado deve monitorar e registrar seu desempenho
+  com relação ao cumprimento dos procedimentos ETOPS. O detentor de certificado deve considerar
+  alterações os seus procedimentos com base nesse monitoramento.
+
+  C3.3.7 O detentor de certificado deve elaborar relatório compilando os resultados do processo
+  de validação. Esse relatório deve:'
+keywords:
+- transporte-aereo
+- operacoes
+- validacao
+- certificado
+- detentor
+- procedimentos
+- processo
+- operacional
+- durante
+- etops
+- exercicios
+- orientacao
+- relatorio
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

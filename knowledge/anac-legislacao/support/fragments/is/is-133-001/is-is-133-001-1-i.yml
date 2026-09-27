@@ -1,0 +1,51 @@
+id: is-is-133-001-1-i
+kind: is
+document: is-133-001
+family: '133'
+section_id: '1'
+section_title: Informações específicas para a combinação aeronave-carga.
+subsection_id: i
+cite: 1(i)
+title: 1(i)
+text: 'i) procedimento de cálculo do CG lateral.
+
+  Este é um exemplo de informação que pode ser aplicável a alguns tipos de dispositivos de
+  fixação de carga:
+
+  “Levante a carga até pairar e, em seguida, verifique a potência restante para determinar
+  se há o suficiente para transportar a carga com segurança. Ao pairar, verifique se o controle
+  direcional é adequado. Ao mover para o voo horizontal, use movimentos de controle lentos
+  e suaves para minimizar o assentamento e evitar que a carga balance. Ao subir em voo para
+  a frente, verifique se há oscilações perigosas da carga externa. Ao se aproximar de uma
+  área de pouso com uma carga, identifique o ponto de liberação da carga e aproxime-se lentamente,
+  na direção do vento, no ângulo mais raso possível, garantindo que a carga passe por todas
+  as obstruções com segurança. Comece a controlar a potência para diminuir sua velocidade
+  de descida e avanço, terminando em um voo pairado próximo ao ponto de liberação e à vista
+  de qualquer pessoa da equipe de solo. Siga as instruções do sinal do pessoal de solo para
+  pairar sobre o ponto de liberação. Coloque a carga no solo sem qualquer movimento da carga.
+  Quando o helicóptero estiver estabilizado sobre a carga e apresentar folga na linha, abra
+  o gancho de carga pelos meios normais. Em caso de falha elétrica, use a liberação manual
+  para liberar a carga. Se surgir alguma dificuldade durante o voo que justifique um pouso
+  de emergência, libere a carga imediatamente. Se por algum motivo a carga não for liberada,
+  não arraste a carga no solo antes do toque. Isso pode fazer com que a aeronave vire com
+  o controle cíclico inadequado para compensar. ”'
+keywords:
+- carga-externa
+- helicoptero
+- carga
+- liberacao
+- solo
+- controle
+- pairar
+- ponto
+- verifique
+- aeronave
+- pode
+- potencia
+- pouso
+- seguranca
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

@@ -1,0 +1,54 @@
+id: is-is-121-020-d4-3-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: D4.3
+section_title: Análise de desempenho de decolagem, pouso e arremetida
+subsection_id: body
+cite: D4.3
+title: Análise de desempenho de decolagem, pouso e arremetida
+text: 'D4.3 Análise de desempenho de decolagem, pouso e arremetida
+
+  D4.3.1 O operador deve desenvolver análises de decolagem, pouso e arremetida de forma a
+  demonstrar o cumprimento dos requisitos aplicáveis a aeronaves com motores a reação estabelecidos
+  na subparte I do RBAC nº 121.
+
+  D4.3.2 As análises devem considerar todas as variáveis requeridas para determinação do desempenho
+  da aeronave, como temperatura ambiente, vento, pressão atmosférica, características da pista/clearway/stopways
+  (comprimento, largura, inclinação), obstáculos, restrições de procedimentos constantes em
+  cartas de navegação, subida em curva e configuração da aeronave (tração dos motores, flaps/slats,
+  anti-ice, ar condicionado etc).
+
+  D4.3.3 O operador também deve avaliar as restrições (gradiente de subida/obstáculos, altitude,
+  velocidade etc) aplicáveis em situações de arremetida/aproximação perdida e a capacidade
+  da aeronave de cumpri-las. Para essa avaliação, devem ser considerados cenários críticos
+  de peso (ex: peso máximo de pouso admissível por desempenho ou por limitação estrutural
+  da aeronave), posição da aeronave na arremetida (ex: no ponto de toque na pista), condição
+  da aeronave no início da arremetida (ex: AEO, OEI) etc. Caso seja necessária a aplicação
+  de limitações operacionais para viabilizar o cumprimento das restrições, essas limitações
+  devem ser documentadas nos manuais do operador e abordadas em instrução para os pilotos.
+
+  D4.3.4 As análises devem ser específicas para cada modelo de aeronave e, caso variações
+  nessas características não sejam refletidas nas denominações do modelo de aeronave, para
+  cada respectiva variação de tração de motor e características aerodinâmicas (ex: VMCG, VMCA
+  etc).'
+keywords:
+- transporte-aereo
+- operacoes
+- aeronave
+- arremetida
+- desempenho
+- pouso
+- decolagem
+- analise
+- analises
+- caracteristicas
+- operador
+- restricoes
+- aplicaveis
+- cada
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

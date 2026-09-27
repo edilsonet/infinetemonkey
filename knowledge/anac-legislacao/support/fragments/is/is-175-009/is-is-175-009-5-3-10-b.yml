@@ -1,0 +1,28 @@
+id: is-is-175-009-5-3-10-b
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.10
+section_title: 'O campo “Aeródromo de origem” deve ser preenchido:'
+subsection_id: b
+cite: 5.3.10(b)
+title: 5.3.10(b)
+text: b) quando não existir a sigla IATA, com a sigla de quatro dígitos da OACI;
+keywords:
+- artigos-perigosos
+- carga
+- sigla
+- aerodromo
+- campo
+- digitos
+- existir
+- iata
+- oaci
+- origem
+- preenchido
+- quatro
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

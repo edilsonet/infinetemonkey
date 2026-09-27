@@ -1,0 +1,123 @@
+id: is-is-121-018-b3-2-e
+kind: is
+document: is-121-018
+family: '121'
+section_id: B3.2
+section_title: 'A MDH para operação de aproximação 2D executada sem a técnica CDFA deve ser
+  de, pelo menos, o maior dos seguintes valores:'
+subsection_id: e
+cite: B3.2(e)
+title: B3.2(e)
+text: 'e) a menor MDH especificada no manual da aeronave (AFM/AOM), se aplicável.
+
+
+  Tabela B2 - Mínimo do sistema
+
+  Instalação
+
+  Menor DH/MDH (pés)
+
+  ILS/MLS/GLS
+
+  200
+
+  GNSS/SBAS (LPV)
+
+  200 (ver nota)
+
+  PAR
+
+  200
+
+  GNSS/SBAS (LP)
+
+  250
+
+  GNSS (LNAV)
+
+  250
+
+  GNSS/Baro-VNAV (LNAV/VNAV)
+
+  250
+
+  LOC com ou sem DMA
+
+  250
+
+  SRA (terminando a ½ NM)
+
+  250
+
+  SRA (terminando a 1 NM)
+
+  300
+
+  SRA (terminando a 2 NM ou mais)
+
+  350
+
+  VOR
+
+  300
+
+  VOR/DME
+
+  250
+
+  NDB
+
+  350
+
+  NDB/DME
+
+  300
+
+  VDF
+
+  350
+
+  Nota: para LPV, uma DH de 200 pés somente pode ser utilizada se o limite de alerta vertical
+  (VAL) associado ao segmento de aproximação final for de até 35 m. Caso contrário, a DH deve
+  ser de pel­o menos 250 pés.
+
+
+  Tabela B3 - Mínimos de DH/MDH para cada tipo de pista
+
+  Tipo de pista
+
+  DH/MDH mínimo (pés)
+
+  Pista para operação por instrumentos
+
+  Pista de aproximação por precisão, Categoria I
+
+  200
+
+  Pista de aproximação de não-precisão
+
+  250
+
+  Pista para operação visual
+
+  Mínimos para circular, conforme Tabela B12'
+keywords:
+- transporte-aereo
+- operacoes
+- pista
+- aproximacao
+- gnss
+- operacao
+- tabela
+- terminando
+- lnav
+- menor
+- menos
+- minimo
+- minimos
+- nota
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

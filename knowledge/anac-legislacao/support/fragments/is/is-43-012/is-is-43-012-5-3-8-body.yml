@@ -1,0 +1,87 @@
+id: is-is-43-012-5-3-8-body
+kind: is
+document: is-43-012
+family: '43'
+section_id: 5.3.8
+section_title: Tarefa de manutenção crítica
+subsection_id: body
+cite: 5.3.8
+title: Tarefa de manutenção crítica
+text: '5.3.8 Tarefa de manutenção crítica
+
+  Um dos critérios relacionados à complexidade das tarefas de manutenção preventiva neste
+
+  grupo está relacionado à limitação de que não sejam tarefas de manutenção críticas. A
+
+  definição de “tarefa de manutenção crítica” encontra-se no parágrafo 43.1-I(d)-I do RBAC
+
+  nº 43: “Tarefa de manutenção crítica significa uma tarefa que envolva a montagem ou afete
+
+  sistema ou parte de aeronave, motor ou hélice tais que um erro durante a execução da tarefa
+
+  possa afetar diretamente a segurança operacional.”Data de emissão: 5 de abril de 2019 IS
+  Nº 43-012
+
+  Revisão B
+
+  Nessa definição, “afetar diretamente a segurança operacional” significa que aquele possível
+
+  erro contribuiria diretamente em um acidente aeronáutico. Como exemplos, se enquadram
+
+  como tarefa de manutenção crítica as tarefas relacionadas à montagem de superfícies de
+
+  comando, hélices, rotores, etc.
+
+  Antes da execução da tarefa de manutenção preventiva, o piloto deve avaliar os dados
+
+  técnicos e antecipar erros óbvios na execução das tarefas e possíveis efeitos - caso
+
+  identifique um possível erro que resultaria em acidente, ele não pode executar a tarefa.
+
+  Outra evidência de que a tarefa de manutenção é crítica existe quando o manual de
+
+  manutenção ou outro dado técnico coloca alertas quanto à criticidade da tarefa. Sempre que
+
+  isso ocorrer, o piloto não pode realizar a tarefa de manutenção preventiva.
+
+  Por outro lado, não são consideradas tarefas de manutenção críticas aquelas que poderiam
+
+  ser postergadas por meio de utilização de uma Lista de Equipamentos Mínimos (MEL) ou
+
+  Lista de Desvios de Configuração (CDL). A tarefa de manutenção também não será crítica
+
+  se for exigido, antes da aprovação para retorno ao serviço, um teste operacional capaz de
+
+  identificar falhas, maus funcionamentos ou defeitos relacionados àquela tarefa.
+
+  Caso o piloto esteja em dúvida se uma tarefa de manutenção é crítica, ele deve tratá-la
+  como
+
+  crítica e abster-se de realizá-la.
+
+  É importante esclarecer que o conceito de “tarefa de manutenção crítica” não é diretamente
+
+  relacionado à dificuldade de realização da tarefa. Uma simples substituição de um parafuso
+
+  por outro inadequado, ou o esquecimento de sua instalação, podem resultar em um acidente,
+
+  ainda que o processo de substituição seja de fácil execução.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- tarefa
+- critica
+- tarefas
+- diretamente
+- execucao
+- acidente
+- erro
+- operacional
+- outro
+- piloto
+- preventiva
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-012.md

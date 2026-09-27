@@ -1,0 +1,49 @@
+document: is-103-001
+kind: is
+title: IS 103-001E
+ementa: Operação de veículos ultraleves e balões livres tripulados sob o RBAC nº 103
+family: '103'
+categories:
+- ultraleves
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-103-001
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-103-001
+language: pt
+foreign_annex: false
+sections:
+- 5.3.5.3
+- 5.5.3.1
+- 5.5.5
+- 5.7.1.3
+- apendice-a-controle-de-alteracoes
+- aprovacao
+- definicoes
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- procedimentos
+- revogacao
+fragment_count: 19
+fragment_ids:
+- is-is-103-001-preambulo-body
+- is-is-103-001-aprovacao-body
+- is-is-103-001-objetivo-body
+- is-is-103-001-revogacao-body
+- is-is-103-001-fundamentos-body
+- is-is-103-001-fundamentos-a
+- is-is-103-001-fundamentos-b
+- is-is-103-001-definicoes-body
+- is-is-103-001-procedimentos-body
+- is-is-103-001-procedimentos-a
+- is-is-103-001-procedimentos-b
+- is-is-103-001-procedimentos-c
+- is-is-103-001-procedimentos-d
+- is-is-103-001-5-7-1-3-body
+- is-is-103-001-apendice-a-controle-de-alteracoes-body
+- is-is-103-001-disposicoes-finais-body
+- is-is-103-001-5-3-5-3-body
+- is-is-103-001-5-5-3-1-body
+- is-is-103-001-5-5-5-body
+parser_version: 7

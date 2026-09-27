@@ -1,0 +1,36 @@
+id: is-is-175-009-5-3-15-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.15
+section_title: O campo “Número do AWB (Master)” deve ser preenchido com o número do Airway
+  Bill
+subsection_id: body
+cite: 5.3.15
+title: O campo “Número do AWB (Master)” deve ser preenchido com o número do Airway Bill
+text: '5.3.15 O campo “Número do AWB (Master)” deve ser preenchido com o número do Airway
+  Bill
+
+  ou Master Airway Bill. Quando o transporte for doméstico, o campo deve ser preenchido
+
+  com “N/A”. Não pode haver espaços ou hífens.'
+keywords:
+- artigos-perigosos
+- carga
+- numero
+- airway
+- bill
+- campo
+- master
+- preenchido
+- domestico
+- espacos
+- haver
+- hifens
+- pode
+- transporte
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

@@ -1,0 +1,56 @@
+id: is-is-175-005-5-2-6-d
+kind: is
+document: is-175-005
+family: '175'
+section_id: 5.2.6
+section_title: Ocorrências fora do escopo de sistemas de notificação
+subsection_id: d
+cite: 5.2.6(d)
+title: 5.2.6(d)
+text: 'd) casos em que a documentação do artigo perigoso foi devidamente apresentada pelo
+  expedidor no momento da aceitação por parte do operador aéreo na origem, mas se separou
+  da carga no aeroporto de destino, desde que as embalagens estejam corretamente marcadas
+  e etiquetadas de acordo com a regulamentação vigente. A documentação mencionada pode ser
+  composta pelo conhecimento aéreo (AWB/CT-e), Declaração do Expedidor para Artigos Perigosos
+  (DGD), dentre outros.
+
+  5.2.6.4 Mesmo consideradas fora de escopo, as ocorrências descritas nos itens 5.2.6.1 a
+  5.2.6.3 desta IS devem ser notificadas à ANAC nos casos em que haja comprovada recorrência
+  ou má-fé por parte de qualquer entidade interessada no sistema de aviação civil.
+
+  5.3 Sistema voluntário de notificação de segurança operacional
+
+  5.3.1 O sistema voluntário de notificação de segurança operacional visa obter dados e informações
+  de segurança operacional que não são coletados pelo sistema mandatório de notificação de
+  segurança operacional.
+
+  5.3.2 Enquanto o sistema mandatório de notificação de segurança operacional normalmente
+  captura dados de ocorrências que já aconteceram, o sistema voluntário de notificação de
+  segurança operacional visa detectar condições latentes que podem gerar um incidente ou acidente
+  com artigos perigosos, tais como regulamentação inapropriada, procedimentos de segurança
+  operacional ineficientes ou potenciais falhas humanas (por exemplo, a falta de competência
+  técnica de determinado expedidor).
+
+  5.3.3 Os funcionários mais próximos à operação estão mais susceptíveis aos perigos de segurança
+  operacional, portanto o sistema voluntário de notificação de segurança operacional permite
+  que eles possam proativamente identificar esses perigos e sugerir soluções factíveis.'
+keywords:
+- artigos-perigosos
+- carga
+- operacional
+- seguranca
+- notificacao
+- sistema
+- voluntario
+- expedidor
+- ocorrencias
+- aereo
+- artigos
+- casos
+- dados
+- documentacao
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-005.md

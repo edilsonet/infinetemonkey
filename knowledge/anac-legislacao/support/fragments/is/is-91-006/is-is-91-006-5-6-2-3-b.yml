@@ -1,0 +1,49 @@
+id: is-is-91-006-5-6-2-3-b
+kind: is
+document: is-91-006
+family: '91'
+section_id: 5.6.2.3
+section_title: Procedimentos gerais
+subsection_id: b
+cite: 5.6.2.3(b)
+title: 5.6.2.3(b)
+text: 'b) Definição de um Master Document (Documento Mestre) para fins de navegação pelos
+  tripulantes no cockpit, bem como descrição do procedimento de utilização deste documento.
+  Pode ser elaborado um documento específico para este fim ou utilizado um documento de navegação
+  regularmente já utilizado pelo operador que cumpra os critérios abaixo (ex: plano de voo
+  operacional). O Master Document deve atender, no mínimo, aos seguintes critérios:
+
+  I - o Master Document deve listar sequencialmente todos os waypoints da rota, a distância
+  entre esses waypoints e outras informações de rota consideradas relevantes;
+
+  II - deve existir apenas um documento designado como Master Document em cada voo;
+
+  III - para aeronaves equipadas somente com sistema de navegação inercial (INS), os waypoints
+  no Master Document devem estar identificados por um número sequencial, idêntico ao número
+  sequencial que será utilizado para inserção dos waypoints nos computadores de navegação;
+  e
+
+  IV - para aeronaves equipadas com banco de dados FMS, os tripulantes de voo devem sempre
+  utilizar o Master Document para verificar se os waypoints da rota inserida no FMS correspondem
+  aos previstos para aquela navegação. Esta verificação deve ser feita cuidadosamente, por
+  ambos os pilotos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- document
+- master
+- documento
+- navegacao
+- waypoints
+- rota
+- utilizado
+- aeronaves
+- criterios
+- equipadas
+- numero
+- sequencial
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-006.md

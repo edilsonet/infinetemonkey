@@ -1,0 +1,71 @@
+id: is-is-21-013-7-k
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: k
+cite: 7(k)
+title: 7(k)
+text: 'k) Prevenção de falha de modo comum para instalação de antenas: para evitar falhas
+
+  de modo comum, em casos de instalação de mais de um equipamento GNSS, verificar
+
+  que a instalação de uma antena única alimentada apenas por um dos equipamentos
+
+  GNSS poderá acarretar a perda dos demais equipamentos GNSS, em caso de perda da
+
+  alimentação dessa alimentação única. Para isto, o manual do fabricante deverá ser
+
+  consultado para a melhor interligação entre a antena e os equipamentos, incluindo o uso
+
+  de conversores ou outro meio aceitável para evitar esse tipo de falha. Caso este item não
+
+  seja atendido, o modo de aprovação operacional PBN poderá ser limitado ou mesmo
+
+  não poderá ser aprovada a modificação pretendida, conforme o modo operacional
+
+  desejado para essa modificação.
+
+  7.1.6. Considerações de Software e Hardware: A Certificação do software e hardware do
+
+  equipamento GNSS é normalmente abordada durante a aprovação do projeto desse
+
+  equipamento, mas deve ser confirmada qual a qualificação/compatibilidade do
+
+  software/hardware empregado no momento da instalação do equipamento GNSS, para
+
+  garantir o nível de certificação apropriado para a correta instalação da função pretendida.
+
+  Portanto, a qualificação/compatibilidade do software/hardware empregado deve ser
+
+  apresentada através da descrição dos respectivos documentos de qualificação/
+
+  compatibilidade, tais como as RTCA/DO ou outros documentos equivalentes;16-12-2016 IS nº
+  21-013
+
+  Revisão B
+
+  7.1.7. Análise de falhas e classificação de falhas:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- gnss
+- instalacao
+- equipamento
+- hardware
+- modo
+- software
+- compatibilidade
+- equipamentos
+- falhas
+- qualificacao
+- alimentacao
+- antena
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

@@ -1,0 +1,256 @@
+id: is-is-121-018-5-3-3-b
+kind: is
+document: is-121-018
+family: '121'
+section_id: 5.3.3
+section_title: Mínimos operacionais de aeródromo para pousos IFR. Consideração sobre o piloto
+  em comando
+subsection_id: b
+cite: 5.3.3(b)
+title: 5.3.3(b)
+text: 'b) 900 m na visibilidade (ou um equivalente, em termos de RVR).
+
+  Nota 1: os valores não se aplicam para pouso no aeródromo de alternativa. No entanto, ressalta-se
+  que, para aeródromos de alternativa em rota e de alternativa de destino, conforme requerido
+  pelo parágrafo 121.613(b), deve ser estabelecido o mínimo de planejamento para aeródromo
+  de alternativa.
+
+  Nota 2: para efeitos desse requisito, considera-se “tipo de avião” a habilitação de tipo
+  necessária para operação do avião, conforme estabelecido pela ANAC.
+
+  Nota 3: para efeitos desse requisito, consideram-se “horas de experiência como piloto em
+  comando” as horas realizadas por um piloto em processo de atendimento aos requisitos de
+  piloto em comando a título de experiência de operação e consolidação de conhecimentos e
+  habilidades, para cumprimento da seção 121.434 do RBAC nº 121. Esse piloto, embora esteja
+  trabalhando como segundo em comando, para fins de composição da tripulação (conforme expresso
+  em 121.434(a)(2)), já deve executar as tarefas de piloto em comando, conforme requerido
+  em 121.434(b)(1)(i), de forma que essas horas contam para a experiência requerida pela seção
+  121.652.
+
+  Nota 4: conforme o parágrafo 5.1.11 desta IS, esse requisito se aplica para planejamento
+  de voo, acompanhamento do voo e execução do procedimento.
+
+  5.3.3.2 Os valores equivalentes de RVR que devem ser aplicados se o piloto em comando possui
+  menos de 100 horas de experiência como piloto em comando segundo o RBAC nº 121 no tipo de
+  avião sendo operado são indicados na Tabela 2.
+
+  Tabela 2 - RVR mínimo equivalentes pilotos em comando com menos de 100 horas de experiência
+  como piloto em comando segundo o RBAC nº 121 no tipo de avião sendo operado
+
+  RVR mínimo para pouso estabelecido pelo detentor de certificado
+
+  RVR mínimo equivalente requerido para pilotos em comando com menos de 100 horas de experiência
+  como piloto em comando segundo o RBAC nº 121 no tipo de avião sendo operado
+
+  RVR 550
+
+  RVR 1400
+
+  RVR 600
+
+  RVR 1400
+
+  RVR 750
+
+  RVR 1500
+
+  RVR 900
+
+  RVR 1500
+
+  RVR 1200
+
+  RVR 1800
+
+  RVR 1500
+
+  RVR 1800
+
+
+  5.3.3.3 Conforme o parágrafo 121.652(b) do RBAC nº 121, as 100 horas de experiência como
+  piloto em comando podem ser reduzidas se o piloto em comando possuir 100 horas de experiência
+  como piloto em comando em outros tipos de avião de porte semelhante em operações segundo
+  o RBAC nº 121. A redução pode ser feita em até 50% das 100 horas requeridas, pela substituição
+  de 1 hora de operação por 1 pouso no mesmo tipo de avião, na função de piloto em comando
+  e em operações segundo o RBAC nº 121.
+
+  Nota 1: para efeito dessa redução, considera-se de porte semelhante avião com mesma motorização
+  (entre convencional, turboélice ou a reação) e com a mesma característica de cabine de passageiros,
+  entre estreita ou larga (narrow ou wide body). A critério da ANAC, pode ser requerido, ainda,
+  número similar de passageiros transportados.
+
+  Nota 2: a título de exemplo, se um piloto já possui 100 horas de experiência como piloto
+  em comando no avião tipo ICAO B738 em operações segundo o RBAC nº 121 e passa a operar um
+  avião tipo ICAO A320, esse piloto iniciará suas operações nesse novo avião com os mínimos
+  acrescidos, conforme o parágrafo 5.8.1 desta IS. Após esse piloto alcançar o mínimo de 50
+  horas de experiência como piloto em comando no tipo ICAO A320 em operações segundo o RBAC
+  nº 121, ele poderá passar a deixar de utilizar os mínimos acrescidos desde que tenha realizado
+  X pousos e possua (100-X) horas de experiência como piloto em comando no tipo ICAO A320
+  em operações segundo o RBAC nº 121, conforme a Tabela 3.
+
+  Tabela 3 - Relação entre pousos realizados e experiência requerida para um piloto deixar
+  de utilizar os mínimos acrescidos, considerando que o piloto já possui 100 horas de experiência
+  como piloto em comando, em avião de porte semelhante, em operações segundo o RBAC nº 121
+
+  Pousos no novo tipo ICAO, como piloto em comando, em operações segundo o RBAC nº 121
+
+  Experiência requerida no novo tipo ICAO, como piloto em comando, em operações segundo o
+  RBAC nº 121 (horas)
+
+  10
+
+  90
+
+  20
+
+  80
+
+  30
+
+  70
+
+  40
+
+  60
+
+  50
+
+  50
+
+  >50
+
+  50
+
+  5.3.3.4 Conforme o parágrafo 121.652(c) do RBAC nº 121, os mínimos para pousos especialmente
+  regulamentados, como para operações ILS CAT II ou CAT III, somente se aplicam caso o piloto
+  em comando possua pelo menos 100 horas de experiência como piloto em comando segundo o RBAC
+  nº 121 no tipo de avião sendo operado. Para esse requisito, não se aplicam as reduções do
+  parágrafo 5.3.3.3 desta IS.
+
+  5.4 Efeitos de falhas ou rebaixamentos temporários de equipamentos de solo nos mínimos operacionais
+  de aeródromo
+
+  5.4.1 Esta seção da IS apresenta como considerar os efeitos de falhas ou rebaixamentos temporários
+  de equipamentos de solo nos mínimos operacionais de aeródromo. Essa orientação deve ser
+  utilizada tanto para o planejamento de voo quanto na execução da operação - com a ressalva
+  do parágrafo 5.4.3 desta IS para a execução de pouso.
+
+  Nota: conforme o parágrafo 5.1.15 desta IS, esta IS não se aplica a operações em baixa visibilidade,
+  que requerem aprovação da ANAC, como operações CAT II ou CAT III. Tais operações podem ter
+  critérios adicionais sobre o funcionamento dos equipamentos de solo.
+
+  5.4.2 Para operações de decolagem noturnas, as luzes de superfície da pista prescritas devem
+  estar operacionais. Caso contrário, deve ser utilizado o mínimo que seria aplicável na ausência
+  dessas luzes.
+
+  5.4.3 Os efeitos de falhas ou rebaixamentos temporários de equipamentos nos mínimos operacionais
+  de pouso são apresentados na Tabela 4. No entanto, os pilotos não devem consultar essa orientação
+  após passarem de 1000 pés sobre o aeródromo, em uma aproximação. Se falhas nos equipamentos
+  de solo forem anunciadas após essa marca, a aproximação pode ser continuada, a critério
+  do piloto em comando. Se falhas forem anunciadas antes dessa marca, seu efeito deve ser
+  considerado conforme a Tabela 4, e o procedimento pode precisar ser abandonado.
+
+  Tabela 4 - Efeitos nos mínimos operacionais de pouso de falhas ou rebaixamentos temporários
+  de equipamentos
+
+  Equipamento com falha ou rebaixamento
+
+  Efeito nos mínimos operacionais de pouso
+
+  Tipo B
+
+  Tipo A
+
+  Transmissor do auxílio de navegação de standby
+
+  Sem efeito
+
+  Marcador externo (somente ILS)
+
+  Proibida a operação, exceto se a verificação entre altura requerida e a trajetória de planeio
+  puderem ser realizada usando outros meios, como, por exemplo, o fixo DME.
+
+  APV: não aplicável
+
+  NPA com FAF: sem efeito, exceto se o marcador externo for usado como FAF.
+
+  Se o FAF não puder ser identificado, a operação não pode ser executada.
+
+  Marcador intermediário (somente ILS)
+
+  Sem efeito
+
+  Sem efeito, exceto se o marcador intermediário for usado como MAPt
+
+  Sistemas de avaliação de RVR
+
+  Sem efeito
+
+  Luzes de aproximação
+
+  Mínimo para NALS
+
+  Luzes de aproximação, com exceção dos últimos 210m
+
+  Mínimo para BALS
+
+  Luzes de aproximação, com exceção dos últimos 420m
+
+  Mínimo para IALS
+
+  Alimentação elétrica de standby para as luzes de aproximação
+
+  Sem efeito
+
+  Luzes de borda da pista, luzes de cabeceira ou luzes de fim de pista
+
+  Operação diurna: sem efeito
+
+  Operação noturna: proibida
+
+  Luzes de eixo de pista
+
+  Se F/D, HUDLS ou pouso automático: sem efeito
+
+  Caso contrário: RVR 750 m
+
+  Sem efeito
+
+  Luzes de eixo da pista com espaçamento aumentado para até 30 m
+
+  Sem efeito
+
+  Luzes de zona de toque de pista
+
+  Se F/D, HUDLS ou pouso automático: sem efeito
+
+  Caso contrário: RVR 750 m
+
+  Sem efeito
+
+  Sistema de iluminação das pistas de táxi
+
+  Sem efeito
+
+  5.4.4. Para operações de aproximação e pouso noturnas ou para operações em que se requer
+  crédito para auxílios visuais, as luzes devem estar ligadas e operacionais, exceto como
+  previsto na Tabela 4.'
+keywords:
+- transporte-aereo
+- operacoes
+- piloto
+- comando
+- efeito
+- experiencia
+- horas
+- tipo
+- aviao
+- luzes
+- segundo
+- minimos
+- pouso
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

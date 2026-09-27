@@ -1,0 +1,33 @@
+id: rbac-rbac-25-25-1155-i-a
+kind: rbac
+document: rbac-25
+family: '25'
+section_id: 25.1155-I
+section_title: Reverse thrust and propeller pitch settings below the flight regime
+subsection_id: a
+cite: 25.1155-I(a)
+title: 25.1155-I(a)
+text: (a) A positive lock or stop which requires a separate and distinct operation by the
+  flight crew to displace the control from the flight regime (forward thrust regime for turbo-jet
+  powered airplanes), and it must only be possible to make this separate and distinct operation
+  once the control has reached the flight idle position.
+keywords:
+- aeronavegabilidade
+- transporte
+- flight
+- regime
+- control
+- distinct
+- operation
+- separate
+- thrust
+- airplanes
+- below
+- crew
+- displace
+- forward
+categories:
+- aeronavegabilidade
+- transporte
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-25.md

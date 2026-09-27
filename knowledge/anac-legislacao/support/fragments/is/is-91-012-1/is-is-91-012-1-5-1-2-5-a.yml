@@ -1,0 +1,34 @@
+id: is-is-91-012-1-5-1-2-5-a
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.2.5
+section_title: Conteúdo das páginas do sistema ATA
+subsection_id: a
+cite: 5.1.2.5(a)
+title: 5.1.2.5(a)
+text: 'a) Categoria A: itens nessa categoria devem ser reparados dentro do intervalo de tempo
+  especificado nas observações da MEL do operador. Quando esse intervalo de tempo é especificado
+  em termos de pousos ou ciclos, o intervalo é iniciado a partir do voo seguinte. Quando é
+  especificado em dias calendáricos ou em dias de voo, é excluído o dia em que foi detectado
+  o mau funcionamento, conforme registrado nos registros da aeronave;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- especificado
+- intervalo
+- categoria
+- dias
+- tempo
+- aeronave
+- calendaricos
+- ciclos
+- conteudo
+- dentro
+- detectado
+- excluido
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

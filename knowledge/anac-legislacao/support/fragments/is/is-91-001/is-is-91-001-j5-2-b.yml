@@ -1,0 +1,33 @@
+id: is-is-91-001-j5-2-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: J5.2
+section_title: 'As operações baro-VNAV devem ser executadas apenas nas situações em que:'
+subsection_id: b
+cite: J5.2(b)
+title: J5.2(b)
+text: 'b) que os ajustes de QNH/QFE sejam realizados de maneira apropriada nos altímetros
+  da aeronave.
+
+  J6. CONHECIMENTOS NECESSÁRIOS E PROGRAMA DE TREINAMENTO PARA OPERAÇÕES APV/BARO-VNAV'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- baro
+- operacoes
+- vnav
+- aeronave
+- ajustes
+- altimetros
+- apropriada
+- conhecimentos
+- executadas
+- maneira
+- necessarios
+- programa
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

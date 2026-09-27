@@ -59,11 +59,15 @@ sections:
 - '110.97'
 - apendice-a-atividades-avsec-e-certificacoes-exigidas
 - apendice-b-cursos-avsec
-- apendice-c-desenho-esquematico-do-processo-de-formacao-e-atualizacao-em-inspecao-de-seguranca-da-aviacao-civil
+- apendice-c-desenho-esquematico-do-processo-de-formaca-4235ad
+- aprovacao
 - preambulo
-fragment_count: 202
+- sumario
+fragment_count: 204
 fragment_ids:
 - rbac-rbac-110-emd-02-preambulo-body
+- rbac-rbac-110-emd-02-aprovacao-body
+- rbac-rbac-110-emd-02-sumario-body
 - rbac-rbac-110-emd-02-110-5-body
 - rbac-rbac-110-emd-02-110-7-body
 - rbac-rbac-110-emd-02-110-11-body
@@ -107,7 +111,7 @@ fragment_ids:
 - rbac-rbac-110-emd-02-110-103-body
 - rbac-rbac-110-emd-02-apendice-a-atividades-avsec-e-certificacoes-exigidas-body
 - rbac-rbac-110-emd-02-apendice-b-cursos-avsec-body
-- rbac-rbac-110-emd-02-apendice-c-desenho-esquematico-do-processo-de-formacao-e-atualizacao-em-inspecao-de-seguranca-da-aviacao-civil-body
+- rbac-rbac-110-emd-02-apendice-c-desenho-esquematico-do-processo-de-formaca-4235ad-body
 - rbac-rbac-110-emd-02-110-1-body
 - rbac-rbac-110-emd-02-110-1-a
 - rbac-rbac-110-emd-02-110-1-b
@@ -265,4 +269,4 @@ fragment_ids:
 - rbac-rbac-110-emd-02-110-101-h
 - rbac-rbac-110-emd-02-110-101-i
 - rbac-rbac-110-emd-02-110-101-j
-parser_version: 6
+parser_version: 7

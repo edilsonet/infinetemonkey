@@ -1,0 +1,41 @@
+id: is-is-91-001-l3-3-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: L3.3
+section_title: Altura mínima para navegação lateral
+subsection_id: a
+cite: L3.3(a)
+title: L3.3(a)
+text: 'a) O sistema RNP deve ser capaz de fornecer navegação lateral contínua (ex: acoplar
+  o LNAV) até se alcançar a altura de 50 ft acima da elevação da pista de decolagem. Isso
+  garante:
+
+  i. consistência com os requisitos de direção de trajetória lateral constantes no parágrafo
+  3.3.3.1 do documento RTCA DO-236C, e no parágrafo 2.2.1.3.2 do documento RTCA DO-283B;
+
+  ii. suporte para executar operação RNP AR DP onde o fixo inicial do procedimento está posicionado
+  no ou próximo ao DER; e
+
+  iii. suporte para operação RNP AR DP com curvas (RF leg) muito próximas ou se iniciando
+  no DER.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- lateral
+- altura
+- documento
+- navegacao
+- operacao
+- paragrafo
+- rtca
+- suporte
+- 236c
+- 283b
+- acima
+- acoplar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

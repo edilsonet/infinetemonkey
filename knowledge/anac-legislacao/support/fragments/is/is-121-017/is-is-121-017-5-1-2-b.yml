@@ -1,0 +1,89 @@
+id: is-is-121-017-5-1-2-b
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.1.2
+section_title: 'Os parâmetros necessários para o cálculo de desempenho que se relacionam com
+  as informações meteorológicas de aeródromo incluem:'
+subsection_id: b
+cite: 5.1.2(b)
+title: 5.1.2(b)
+text: 'b) se o aeródromo de destino não possuir informações meteorológicas que atendam às
+  seções 121.101 ou 121.119:
+
+  I. para fins de planejamento, deve ser atendido o parágrafo 121.619(b) do RBAC nº 121; e
+
+  II. o pouso deve ser realizado em VFR.
+
+  Nota: a operação segundo o parágrafo 121.619(b) requer ainda a seleção de dois aeródromos
+  de alternativa de destino e o cumprimento de requisitos específicos de suprimento de combustível.
+  Esses requisitos não são tratados nesta IS.
+
+  5.1.9 Nesta IS, se considera de forma geral que os parâmetros listados em 5.1.2 não estão
+  disponíveis de forma alguma por fontes de informações meteorológicas que atendam às seções
+  121.101 ou 121.119. No entanto, pode ocorrer de o aeródromo não possuir alguma das informações,
+  mas possuir outras. Quando isso ocorrer, as informações que atendam às seções 121.101 ou
+  121.119 podem ser utilizadas normalmente, ficando os procedimentos desta IS restrito às
+  situações em que essas informações não estejam disponíveis.
+
+  Nota: como exemplo dessa situação, para um aeródromo que possua METAR, mas não possui TAF,
+  o planejamento da decolagem do aeródromo poderia seguir os procedimentos normais, considerando
+  as informações do METAR. No entanto, o planejamento de um voo com pouso nesse aeródromo
+  poderia requerer os procedimentos previstos nesta IS (em razão da ausência de TAF), ainda
+  que a disponibilidade de METAR possa servir de mitigação e viabilizar alteração dos procedimentos
+  de execução de pouso previstos nesta IS.
+
+  5.1.10 Observa-se que os requisitos de desempenho da Subparte I do RBAC nº 121 devem ser
+  cumpridos integralmente, uma vez que não se trata de isenção ou desvio do cumprimento dos
+  requisitos. O parágrafo 121.173(h) do RBAC nº 121 e esta IS se referem somente à possibilidade
+  de utilizar meios alternativos aos normalmente utilizados para considerar os parâmetros
+  necessários. O detentor de certificado deve, com base nesses meios alternativos, verificar
+  o cumprimento dos requisitos de desempenho da Subparte I.
+
+  5.1.11 Deve-se ter claro que os requisitos de desempenho da Subparte I do RBAC nº 121 discutidos
+  nesta IS se aplicam à decolagem - e, por consequência, ao planejamento de voo. Não são requisitos
+  para a execução da operação. Por exemplo, não se caracteriza uma infração à seção 121.195
+  se, na execução do pouso, um avião a reação utiliza mais do que 60% do comprimento efetivo
+  de pista; por outro lado uma infração existiria se o voo fosse despachado/liberado e, no
+  planejamento do voo, considerando os parâmetros estimados para o horário do pouso, se previsse
+  que o avião precisaria de mais de 60% do comprimento efetivo de pista para pousar.
+
+  5.1.12 De qualquer maneira, ressalta-se que há uma conexão entre os requisitos de planejamento
+  e a operação do avião propriamente dita. Assim, é importante que, ao se realizar tal consideração
+  no planejamento de voo, seja viável que o piloto tome suas decisões de acordo com as mesmas
+  considerações. Por exemplo, se assumimos no planejamento de voo que o avião realizará pouso
+  com vento de proa (ou com ar calmo), deve ser possível, na execução do pouso, que o piloto
+  consiga avaliar a direção do vento e de fato pousar com vento de proa (ou com ar calmo)
+  - ou ao menos identificar que tal previsão não se concretizou e reanalisar a situação, para
+  confirmar se o pouso ainda pode ser feito em condição distinta da considerada no planejamento.
+  Por esse motivo, esta IS inclui algumas informações relativas à execução da operação.
+
+  5.1.13 Em razão de, na data de publicação desta IS, a maior parte dos aviões em operação
+  sob o RBAC nº 121 ser um avião a turbina (turboélice ou a reação) para os quais se aplicam
+  as seções de 121.189 a 121.197, esta IS se baseia nesses requisitos. Caso seja utilizado
+  outro avião (por exemplo, um grande avião não incluído na categoria transporte, de tipo
+  certificado antes de 01/01/1965, que deve atender às seções 121.199 a 121.205; ou um avião
+  com motores convencionais, que deve atender às seções 121.175 a 121.187), devem-se fazer
+  as devidas adequações.
+
+  5.2 Parâmetros que podem ser considerados de acordo com 121.173(h)'
+keywords:
+- transporte-aereo
+- operacoes
+- planejamento
+- requisitos
+- aviao
+- informacoes
+- pouso
+- aerodromo
+- secoes
+- execucao
+- operacao
+- parametros
+- desempenho
+- exemplo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

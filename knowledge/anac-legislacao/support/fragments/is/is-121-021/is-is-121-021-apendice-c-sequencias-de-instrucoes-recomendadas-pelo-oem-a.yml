@@ -1,0 +1,52 @@
+id: is-is-121-021-apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem-a
+kind: is
+document: is-121-021
+family: '121'
+section_id: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem
+section_title: APÊNDICE C - SEQUÊNCIAS DE INSTRUÇÕES RECOMENDADAS PELO OEM
+subsection_id: a
+cite: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem(a)
+title: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem(a)
+text: 'a) Estol iminente em configuração limpa (alta altitude).
+
+  I. Condições: este cenário será realizado próximo à altitude máxima de operação para o peso
+  e temperatura específicos da aeronave, com o estol se aproximando inesperadamente. Cenários
+  de eventos reais também podem ser usados, como subida no modo de velocidade vertical, que
+  resultará no nivelamento da aeronave em uma velocidade atrás da curva de potência (segundo
+  regime).
+
+  II. Instrução: em voo horizontal com o piloto automático acionado, introduzir um evento
+  ou reduzir o empuxo para menos do que o adequado para a manobra de voo. Distrações da tripulação
+  (por exemplo, instruções do controle de tráfego aéreo - ATC) e recursos do simulador podem
+  ser usados ​​para induzir a aproximação ao estol, o que pode incluir mudanças ambientais
+  e mau funcionamento do sistema (por exemplo, bloqueio total ou parcial de pitot-estático,
+  redução artificial do empuxo, desconexão sub-reptícia de sistemas automáticos).
+
+  III. Fundamento: o aluno deve reconhecer o aviso de estol e executar imediatamente o procedimento
+  de recuperação de estol, com entradas de controle suaves, deliberadas e positivas para evitar
+  fatores de carga excessivos e estóis secundários (estóis secundários intermitentes podem
+  ser aceitáveis ​​devido a desafios de recuperação associados à altitude devido a falta de
+  amortecimento aerodinâmico); o aluno deve demonstrar uma disposição rápida para trocar altitude
+  por velocidade para obter uma rápida recuperação de um estol. O estabelecimento do AOA adequado
+  tem precedência sobre o controle de rolagem (tentando manter as asas niveladas) para uma
+  recuperação positiva do evento de estol.'
+keywords:
+- transporte-aereo
+- operacoes
+- estol
+- altitude
+- recuperacao
+- controle
+- instrucoes
+- podem
+- velocidade
+- adequado
+- aeronave
+- aluno
+- apendice
+- devido
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

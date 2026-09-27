@@ -1,0 +1,84 @@
+id: is-is-43-13-004-apendice-c-modelo-de-laudo-de-avarias-body
+kind: is
+document: is-43-13-004
+family: '43'
+section_id: apendice-c-modelo-de-laudo-de-avarias
+section_title: APÊNDICE C - Modelo de Laudo de Avarias
+subsection_id: body
+cite: apendice-c-modelo-de-laudo-de-avarias
+title: APÊNDICE C - Modelo de Laudo de Avarias
+text: 'APÊNDICE C - Modelo de Laudo de Avarias
+
+  Modelo de Laudo de Avarias padronizado a ser preenchido pela empresa.
+
+  IDENTIFICAÇÃO
+
+  DA EMPRESA
+
+  (Logotipo)
+
+  (Nome da organização de manutenção)
+
+  (Número do certificado)
+
+  (Endereço, etc.)
+
+  AERONAVE
+
+  Fabricante: Modelo/Tipo:
+
+  Nº de Série:
+
+  Matrícula:
+
+  Proprietário/Operador: Endereço:
+
+  Horas Totais: Ciclos Totais:
+
+  ACIDENTE Local: Data :
+
+  LAUDO DE AVARIAS
+
+  I - IDENTIFICAÇÃO DE COMPONENTES - AERONAVE
+
+  1 - MOTORES
+
+  A - Fabricante / Modelo
+
+  B - Número de série / horas totais / horas após revisão geral
+
+  2 - HÉLICES
+
+  A - Fabricante / Modelo
+
+  B - Número de série dos cubos / horas totais / horas após revisão
+
+  C - Número de série das pás / horas totais / horas após revisão
+
+  II - IDENTIFICAÇÃO DE COMPONENTES - AERONAVES DE ASAS ROTATIVAS
+
+  1 - MOTORES:
+
+  A - Fabricante / Tipo
+
+  B - Números de série / horas totais / horas após revisão'
+keywords:
+- manutencao
+- aeronavegabilidade
+- horas
+- modelo
+- totais
+- avarias
+- laudo
+- serie
+- fabricante
+- numero
+- revisao
+- apendice
+- identificacao
+- aeronave
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-13-004.md

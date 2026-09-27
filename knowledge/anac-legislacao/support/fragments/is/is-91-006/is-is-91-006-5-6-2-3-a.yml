@@ -1,0 +1,46 @@
+id: is-is-91-006-5-6-2-3-a
+kind: is
+document: is-91-006
+family: '91'
+section_id: 5.6.2.3
+section_title: Procedimentos gerais
+subsection_id: a
+cite: 5.6.2.3(a)
+title: 5.6.2.3(a)
+text: 'a) Descrição de um procedimento para que, antes de cada voo no espaço aéreo NAT-HLA,
+  o relógio mestre (Master Clock) da aeronave seja verificado e ressincronizado para corresponder
+  à hora UTC de uma das seguintes fontes primárias:
+
+  I - GPS;
+
+  II - WWV - National Institute of Stantards (NIST - Fort Collins, Colorado);
+
+  III - CHU - National Research Council (NRC - Ottawa, Canada); ou
+
+  IV - BBC - British Broadcasting Corporation (Reino Unido).
+
+  Nota: A separação longitudinal no espaço aéreo NAT-HLA é realizada pelos órgãos ATC responsáveis
+  a partir das informações prestadas pelas aeronaves quanto ao tempo estimado e tempo atual
+  (ETA/ATA) nos fixos em sua rota. Considerando que se trata de uma região com elevado volume
+  de tráfego, informações de tempo imprecisas reportadas pelas aeronaves podem levar à degradação
+  da separação longitudinal mínima prevista.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- tempo
+- aereo
+- aeronaves
+- espaco
+- informacoes
+- longitudinal
+- national
+- pelas
+- separacao
+- aeronave
+- atual
+- british
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-006.md

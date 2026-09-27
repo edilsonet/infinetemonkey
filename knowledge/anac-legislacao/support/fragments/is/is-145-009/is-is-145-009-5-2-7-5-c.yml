@@ -1,0 +1,62 @@
+id: is-is-145-009-5-2-7-5-c
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.2.7.5
+section_title: 'Controle de seção: os procedimentos para controlar as seções do manual devem
+  cobrir, conforme aplicável:'
+subsection_id: c
+cite: 5.2.7.5(c)
+title: 5.2.7.5(c)
+text: 'c) Procedimento Modelo 2 - Formato de Lista/Resumo:
+
+  JOÃO Overhaul & Repair Shop
+
+  PROCEDIMENTO OPERACIONAL 123
+
+  Título: Inspeção de Recebimento
+
+  Revisão:
+
+  Data de Emissão: 12 NOV 2001
+
+  Fundamento: Para garantir consistência na qualidade da matéria prima recebida.
+
+  Escopo: Aplica-se a todo embarque recebido de matéria prima. Este procedimento não se aplica
+  a partes recebidas para reparo.
+
+
+  Responsabilidade: O inspetor de recebimento é responsável pela inspeção de toda matéria
+  prima recebida.
+
+  Procedimento:
+
+
+  1. O inspetor de recebimento inspeciona visualmente o contêiner (se utilizado) e/ou o material
+  quanto a qualquer avaria de transporte ou manuseio.
+
+  2. O inspetor de recebimento reporta imediatamente qualquer avaria de transporte ou de manuseio
+  ao departamento de compras.
+
+  3. Compara a ordem de compra (cópia localizada no arquivo do recebimento) com o documento
+  de embarque para assegurar que o material é o correto.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- recebimento
+- procedimento
+- inspetor
+- materia
+- prima
+- aplica
+- avaria
+- embarque
+- inspecao
+- manuseio
+- material
+- recebida
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

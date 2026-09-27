@@ -1,0 +1,45 @@
+id: is-is-121-003-5-6-3-1-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.6.3.1
+section_title: A ordem dos itens na lista de verificação pode refletir a sequência do fluxo
+  ou da operação se o
+subsection_id: body
+cite: 5.6.3.1
+title: A ordem dos itens na lista de verificação pode refletir a sequência do fluxo ou da
+  operação se o
+text: '5.6.3.1 A ordem dos itens na lista de verificação pode refletir a sequência do fluxo
+  ou da operação se o
+
+  fluxo anterior à lista de verificação for cuidadosamente projetado para:
+
+  1) aproveitar a disposição física e a localização de interruptores, monitores e indicadores
+
+  na cabine de comando (por exemplo, indo da esquerda para a direita ou de cima para baixo);
+
+  2) levar em consideração as dependências inerentes entre os sistemas envolvidos;
+
+  3) dar suporte à memória humana; e
+
+  4) ser curto.'
+keywords:
+- transporte-aereo
+- operacoes
+- fluxo
+- lista
+- verificacao
+- operacao
+- ordem
+- pode
+- refletir
+- sequencia
+- anterior
+- aproveitar
+- baixo
+- cabine
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

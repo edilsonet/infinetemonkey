@@ -1,0 +1,41 @@
+id: is-is-135-008a-5-9-1-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.9.1
+section_title: Esta seção apresenta o conteúdo mínimo necessário para um SOP efetivo e aceitável
+  pela ANAC, conforme a operação requerida pelo detentor de certificado.
+subsection_id: body
+cite: 5.9.1
+title: Esta seção apresenta o conteúdo mínimo necessário para um SOP efetivo e aceitável pela
+  ANAC, conforme a operação requerida pelo detentor de certificado.
+text: '5.9.1 Esta seção apresenta o conteúdo mínimo necessário para um SOP efetivo e aceitável
+  pela ANAC, conforme a operação requerida pelo detentor de certificado.
+
+  5.9.2 Caso o operador opte por ter um AOM (Manual de Operações da Aeronave), o SOP deverá
+  ser elaborado levando-se em consideração as orientações da IS nº 135-009.
+
+  5.9.3 O SOP deve conter no mínimo procedimentos e responsabilidades em situações normais
+  atribuídos à tripulação, incluindo as listas de verificação correspondentes, o procedimento
+  de como e quando usá-los e os procedimentos de coordenação necessários entre as tripulações
+  de voo e cabine.'
+keywords:
+- taxi-aereo
+- operacoes
+- minimo
+- aceitavel
+- apresenta
+- certificado
+- conteudo
+- detentor
+- efetivo
+- necessario
+- operacao
+- requerida
+- secao
+- procedimentos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

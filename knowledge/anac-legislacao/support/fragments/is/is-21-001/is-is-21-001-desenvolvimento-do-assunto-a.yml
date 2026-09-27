@@ -1,0 +1,65 @@
+id: is-is-21-001-desenvolvimento-do-assunto-a
+kind: is
+document: is-21-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: a
+cite: desenvolvimento-do-assunto(a)
+title: desenvolvimento-do-assunto(a)
+text: 'a) Coordenação entre projeto e produção (RBAC 21.10(a)), que se dá através do fornecimento
+  de informações técnicas de projeto atuais, corretas e aprovadas. Para que esse fornecimento
+  seja considerado satisfatório os seguintes dados são esperados junto aos demais dados que
+  compõem as informações técnicas:
+
+  I - Nome: o nome do detentor do Certificado de Tipo ou, se for o caso, do licenciado de
+  um Certificado de Tipo, que é responsável pelo fornecimento das informações técnicas do
+  projeto aprovado. Essa informação é relevante quando o detentor do Certificado de Tipo e
+  a organização de produção não fizerem parte de uma mesma entidade;
+
+  II - Data: A data de liberação das informações técnicas do projeto aprovado;
+
+  III - Elegibilidade: Indicação para quais produtos ou artigos as informações técnicas do
+  projeto aprovado são aplicáveis;
+
+  IV - Identificação: Código de identificação da(s) peça(s) ou equipamento(s) que registra
+  as informações do projeto aprovado, considerando os requisitos de marcação estabelecidos
+  no RBAC 45;
+
+  V - Descrição: O nome ou descrição da(s) peças(s) ou documentos que registram as informações
+  do projeto aprovado;
+
+  VI - Limitações/Observações: Exposição de qualquer informação, diretamente ou por referência,
+  que precise ser identificada pela organização de produção na emissão do Certificado de Liberação
+  Autorizada;
+
+  VII - Aprovação: Prover informação sobre o status da aprovação do projeto relacionado às
+  informações técnicas fornecidas.
+
+  NOTA 1: É importante descrever como as informações de projeto são disponibilizadas à organização
+  de produção. Os dados técnicos do projeto aprovado podem ser transmitidos por meio eletrônico
+  desde que todas as informações requeridas estejam disponíveis.
+
+  NOTA 2: Os dados listados acima não são necessariamente apresentados ao mesmo tempo ou em
+  conjunto.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- informacoes
+- aprovado
+- tecnicas
+- certificado
+- dados
+- producao
+- fornecimento
+- informacao
+- nome
+- organizacao
+- tipo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

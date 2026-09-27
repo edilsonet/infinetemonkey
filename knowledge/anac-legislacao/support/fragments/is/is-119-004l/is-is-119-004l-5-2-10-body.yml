@@ -1,0 +1,181 @@
+id: is-is-119-004l-5-2-10-body
+kind: is
+document: is-119-004l
+family: '119'
+section_id: 5.2.10
+section_title: Autorizações operacionais
+subsection_id: body
+cite: 5.2.10
+title: Autorizações operacionais
+text: '5.2.10 Autorizações operacionais
+
+  5.2.10.1 As seguintes autorizações devem constar nas Especificações Operativas (EO) para
+  serem realizadas, havendo a necessidade de submissão de pedido para a avaliação da Anac:
+
+  Tabela 2 - Autorizações operacionais constantes em EO
+
+  Autorização operacional
+
+  Observação
+
+  Operação em espaço aéreo com separação vertical mínima reduzida - RVSM
+
+  (Reduced Vertical Separation Minimum)
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-005.
+
+  Operação de aproximação de precisão ILS categorias II e III (CAT II / III)
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-004.
+
+  Operação no Espaço Aéreo NAT-HLA
+
+  (North Atlantic High Level Airspace)
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-006.
+
+  Operações Prolongadas - ETOPS
+
+  (Extended operations)
+
+
+  Navegação baseada em desempenho - PBN
+
+  (Performance-Based Navigation)
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-001.
+
+  Operação com passageiro, segundo as regras de voo por instrumento, com apenas um piloto
+  (IFR Single Pilot com PAX)
+
+
+  Operação sobre grandes extensões de água
+
+
+  Operação sobre terreno desabitado
+
+
+  Operação aeromédica
+
+  Procedimentos adicionais encontram-se disponíveis na a IS nº 135-005.
+
+  Programa de degelo e antigelo no solo
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 119-005.
+
+  Utilização de informação aeronáutica em formato digital - EFB (Electronic Flight Bag)
+
+
+  Uso expandido de Dispositivos Eletrônicos Portáteis - PED (Portable Electronic Device)
+
+
+  Operação de aproximações ILS CAT I com autorização requerida e decolagens com baixa visibilidade
+  mediante o emprego do HGS (Head Up Guidance System)
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-003
+
+  Operação off-shore
+
+
+  Transporte de artigos perigosos
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 175-000.
+
+  Uso de comunicação por enlace de dados controlador-piloto (CPDLC) e de vigilância dependente
+  automática-contrato (ADS-C)
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-010
+
+  Aproximação por instrumento utilizando créditos operacionais mediante o uso de um EFVS (Enhanced
+  Flight Vision System)
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-011.
+
+  Utilização de Sistema de Documentos e Registros de Manutenção Eletrônicos - SDRMe
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 43.9-004, Resolução nº 458/17
+  e IS nº 145-009; e
+
+  Deve ser utilizada a Declaração de Conformidade Específica D-144-01
+
+  Utilização de diário de bordo eletrônico (eDB)
+
+  Procedimentos adicionais encontram-se disponíveis na Resolução nº 458/17 e na Portaria Anac
+  nº 3.220/SPO/SAR, de 15 de outubro de 2019.
+
+  Elevação do fator empregado para cálculo do comprimento efetivo de pista requerido em pousos
+  de aviões
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 91-014.
+
+  Operação Regular
+
+  Devem ser apresentados os documentos comprobatórios dos requisitos do RBAC nº 135 para operação
+  regular; e
+
+  Deve haver pelo menos duas bases secundárias de operação. Orientações para inclusão de base
+  secundária de operação encontram-se previstas na seção 5.4.3 desta IS.
+
+  Operação internacional
+
+  Deve ser apresentada comprovação de que o detentor de certificado possui tripulação devidamente
+  proficiente na língua inglesa (ICAO 4, no mínimo);
+
+  O PTO deve possuir treinamento de TAI - Tráfego Aéreo Internacional;
+
+  Deve ser apresentado comprovante de aquisição de conjunto de publicações aeronáuticas, ou
+  assinatura de aplicativo com tais publicações, aplicáveis à região pretendida conforme tipo
+  de operação;
+
+  Deve ser apresentada cópia dos registros de manutenção de instalação das modificações requeridas
+  para operação internacional; e
+
+  Para autorização de operação internacional, o detentor de certificado deverá avaliar se
+  são necessárias autorizações adicionais, como RVSM, PBN, grandes extensões de água, etc.
+
+  Gerenciamento de fadiga
+
+  Procedimentos adicionais encontram-se disponíveis na IS nº 117-002, 117-003, 117-004 e 117-006.
+
+  Transporte de passageiros
+
+
+  Transporte de carga
+
+  Caso seja utilizada aeronave com configuração cargueira, deve ser apresentado FOP 215 para
+  cada tipo de aeronave a ser operada.
+
+  Configuração Quick Change (conversão rápida)
+
+
+  Configuração Combi
+
+
+  Operação conforme parágrafo 135.243(d) do RBAC nº 135
+
+
+  Intercâmbio de aeronaves
+
+  Instruções suplementares encontram-se disponíveis na IS nº 119-006.
+
+  Outras, a critério da Anac.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operacao
+- encontram
+- adicionais
+- disponiveis
+- procedimentos
+- autorizacoes
+- operacionais
+- internacional
+- aereo
+- autorizacao
+- configuracao
+- transporte
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

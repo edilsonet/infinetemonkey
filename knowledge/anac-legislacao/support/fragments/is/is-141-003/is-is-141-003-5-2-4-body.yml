@@ -1,0 +1,101 @@
+id: is-is-141-003-5-2-4-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 5.2.4
+section_title: Erro de densidade -- Calibração do indicador de velocidade
+subsection_id: body
+cite: 5.2.4
+title: Erro de densidade -- Calibração do indicador de velocidade
+text: '5.2.4 Erro de densidade -- Calibração do indicador de velocidade
+
+  assume uma densidade do ar equivalente à do nível do mar na
+
+  atmosfera padrão (ISA). Correções requeridas para qualquer
+
+  combinação de temperatura do ar ambiente e pressão que resulte emData de emissão: 22 de
+  dezembro de 2017. IS nº 141-003
+
+  Revisão A
+
+  • Calcular velocidade verdadeira a partir de números Mach.
+
+  5.4
+
+  • Definir os termos curso, velocidade de solo e deriva.
+
+  • Explicar cada um dos métodos utilizados em voo para
+
+  medir curso e velocidade do solo.
+
+  5.5
+
+  • Citar os efeitos do vento sobre o avião em voo.
+
+  • Definir deriva e ângulo de correção de deriva.
+
+  • Em razão da influência do vento na variação da proa,
+
+  planejar a correção necessária para a execução do rumo
+
+  traçado, utilizando o ângulo de correção de deriva.
+
+  • Citar as características do triângulo do vento.
+
+  • Aplicar o triângulo do vento para elaborar o planejamento
+
+  do voo.
+
+  • Aplicar o triângulo do vento para encontrar a consequência
+
+  do vento sobre o avião em voo.
+
+  • Aplicar o triângulo do vento para encontrar a direção e a
+
+  velocidade do vento que provocou o desvio.
+
+  5.6
+
+  • Descrever os métodos mais comuns utilizados para seguir
+
+  os rumos desejados.
+
+  5.7
+
+  • Utilizar fórmulas, computadores e calculadoras científicas
+
+  para resolver situações-problemas envolvendo triângulo
+
+  de velocidades, para determinar componentes do vento,
+
+  deriva e velocidade no solo, e para resolver alguns
+
+  problemas aritméticos usando computadores de navegação
+
+  aérea comum.
+
+  densidade fora do padrão. Correção: régua de cálculo circular,
+
+  sistema CADC
+
+  5.3 Medida da velocidade verdadeira (TAS)'
+keywords:
+- escolas
+- treinamento
+- velocidade
+- vento
+- densidade
+- deriva
+- triangulo
+- correcao
+- aplicar
+- calibracao
+- erro
+- indicador
+- solo
+- angulo
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

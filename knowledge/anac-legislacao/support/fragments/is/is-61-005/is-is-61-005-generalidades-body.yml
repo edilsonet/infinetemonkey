@@ -1,0 +1,241 @@
+id: is-is-61-005-generalidades-body
+kind: is
+document: is-61-005
+family: '61'
+section_id: generalidades
+section_title: Generalidades
+subsection_id: body
+cite: generalidades
+title: Generalidades
+text: 'Generalidades
+
+  Operações
+
+  Limitações
+
+  Procedimentos normais, anormais e de emergência
+
+  Iluminação
+
+
+  Generalidades (iluminação interna e externa)
+
+  NVIS, se aplicável;
+
+  Operações
+
+  Procedimentos normais, anormais e de emergências
+
+  Instrumentos de voo, navegação, aviônicos, radar, etc.
+
+
+  Generalidades (rádios, instrumentos de voo, equipamentos de navegação, sistema de voo automático,
+  etc.)
+
+  Instrumentos sobressalentes - standby (descrição, controles, operacoes, limitações, emergências,
+  etc.)
+
+  Transponders, radio altímetros, EFIS, ou displays de posição e navegação aérea
+
+  Receptores de navegação - VOR, NDB, LORAN-C, GPS, DME, marker beacon
+
+  Diretor de voo - Flight Director
+
+  Sistema detector de mau tempo - radar, stormscope
+
+  TCAS
+
+  HUMS
+
+  NVIS
+
+  Flight Management systems (FMS)
+
+  Sistema detector de windshear
+
+  “Glass cockpit” - EFIS
+
+  VEMD,
+
+  Sistema de Gerenciamento de Voo - FMS
+
+  TAWS ou HTAWS
+
+  Piloto Automático, sistema de estabilização e gravadores de voo
+
+
+  Descrição do sistema
+
+  Generalidades ((controles, monitores e indicadores, incluindo indicadores de alertas do
+  sistema, inter-relações e dependências, etc)
+
+  Operações
+
+  Limitações
+
+  Procedimentos normais, anormais e de emergência
+
+  SAS - Stability Augmentations Systems
+
+  AFCS - Automatic Flight Control Systemns
+
+  FDR e CVR
+
+
+  LIMITAÇÕES
+
+  Limitações operacionais e de aeronavegabilidade
+
+
+  Incluindo as limitações gerais, limitações operacionais, limitações do motor, sistemas,
+  além do uso lista de equipamentos mínimos -MEL, de desempenho, etc.
+
+
+  PROCEDIMENTOS NORMAIS
+
+  Condições normais e boas práticas operacionais
+
+
+  SOP, RFM e Checklist;
+
+  Boas práticas definidas pela indústria.
+
+
+  PROCEDIMENTOS ANORMAIS E DE EMERGENCIAS
+
+  Equipamentos de Emergência
+
+
+  Saídas e equipamentos de emergências
+
+  Extintor de incêndios
+
+  Flutuadores
+
+  Coletes salva vidas e outros dispositivos de flutuação
+
+  Outro equipamento de emergência
+
+
+  Procedimentos anormais e de emergências
+
+
+  Descrição de todas os procedimentos anormais e de emergências previstos no RFM, incluindo
+  as sob regras de voo por instrumentos e CAT A
+
+  Reconhecimento da situação de emergência, bem como o itens, sequência e ações/itens de memória
+  (memory itens)
+
+  Checklist da aeronave
+
+  Operação da aeronave com sistemas degradados (basic flying)
+
+
+  MISCELÂNIA
+
+  Outros
+
+
+  Outros componentes curriculares conforme definido nos manuais da aeronave, boas práticas
+  da indústria ou a critério do responsável pela instrução, tais como: Loss of Tail Rotor
+  Effectiveness - LTE, entrada inadvertida em condições IMC, Settling with power - Vortex
+  ring state, Mast Bumping, ressonância solo, SFAR 73, Safety Notices, rolamento dinâmico
+  e/ou estático, etc.
+
+
+  REVISÃO
+
+  Revisão
+
+
+  Revisão dos componentes curriculares onde foram evidenciadas dificuldades pelo corpo discente
+  e/ou docente.
+
+
+  EXAME TEÓRICO
+
+  Avaliar os conhecimentos teóricos
+
+
+  A critério do responsável pela instrução nos termos do RBAC 61.
+
+
+  INTEGRAÇÃO DE SISTEMAS
+
+  * Este módulo de integração de sistemas tem como objetivo oferecer ao piloto as interfaces
+  com os sistemas da aeronave, procedimentos normais, anormais e de emergência. Ou seja, fazendo
+  com que o piloto se familiarize com o layout do cockpit, checklists, manobras, procedimentos,
+  rotina operacional, etc. A integração de sistemas normalmente é realizada na própria aeronave
+  (nacele), dispositivos de simulação, mockup, etc. E tudo isso, utilizando-se de boas práticas
+  de CRM e SOP.
+
+  DISCIPLINA
+
+  EMENTA
+
+  INTEGRAÇÃO DE SISTEMAS - NORMAIS
+
+  Procedimentos normais
+
+
+  Checklist
+
+  Procedimentos Normais
+
+  Planejamento de voo
+
+  Sistemas de navegação
+
+  Piloto Automático e FD
+
+  FMS
+
+  SAS
+
+  AFCS
+
+  CRM
+
+  SOP
+
+
+  INTEGRAÇÃO DE SISTEMAS - EMERGÊNCIAS
+
+  Procedimentos anormais e de emergências
+
+
+  Procedimentos anormais
+
+  Procedimentos de emergências
+
+  SAS
+
+  AFCS
+
+  FMS
+
+  CRM
+
+  SOP'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- procedimentos
+- anormais
+- emergencias
+- normais
+- sistemas
+- limitacoes
+- sistema
+- emergencia
+- generalidades
+- aeronave
+- integracao
+- navegacao
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-005.md

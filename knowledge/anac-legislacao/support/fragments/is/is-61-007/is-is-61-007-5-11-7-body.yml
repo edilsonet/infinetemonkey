@@ -1,0 +1,42 @@
+id: is-is-61-007-5-11-7-body
+kind: is
+document: is-61-007
+family: '61'
+section_id: 5.11.7
+section_title: Após a conclusão da análise pela ANAC, a situação da NEC passará para “Concluída”.
+subsection_id: body
+cite: 5.11.7
+title: Após a conclusão da análise pela ANAC, a situação da NEC passará para “Concluída”.
+text: '5.11.7 Após a conclusão da análise pela ANAC, a situação da NEC passará para “Concluída”.
+
+  Tanto se a solicitação de emissão de habilitação da empresa tiver sido deferida quanto se
+
+  ela tiver sido indeferida por algum motivo, a situação da NEC será “Concluída”. Se a
+
+  habilitação tiver sido concedida será inserida a mensagem “NEC concluída com
+
+  sucesso!”. Caso contrário, será inserido o motivo do indeferimento da solicitação da
+
+  empresa.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- concluida
+- situacao
+- analise
+- conclusao
+- passara
+- tiver
+- empresa
+- habilitacao
+- motivo
+- solicitacao
+- algum
+- caso
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-007.md

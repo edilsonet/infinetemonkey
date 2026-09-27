@@ -1,0 +1,58 @@
+id: is-is-91-012-1-5-1-2-3-c
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.2.3
+section_title: 'A MEL não pode ser menos restritiva do que a MMEL. Ainda, deve estar de acordo
+  com:'
+subsection_id: c
+cite: 5.1.2.3(c)
+title: 5.1.2.3(c)
+text: 'c) devem constar na MEL eventuais diferenças de itens instalados ou de configuração
+  entre as aeronaves às quais a MEL se aplica.
+
+  5.1.2.4.1 A MEL é aprovada especificamente para um operador e apenas pode especificar aeronaves
+  da frota do operador, deixando de ter validade para determinada aeronave caso haja alteração
+  de seu operador. Em caso de detentores de certificado emitido segundo o RBAC nº 119 e de
+  administradores de programa de propriedade compartilhada segundo a Subparte K do RBAC nº
+  91, as aeronaves especificadas na MEL devem constar (por matrícula ou modelo) nas EO ou
+  EA do operador. Não obstante, é possível aprovar uma MEL de um operador que especifique
+  aeronaves que estejam em processo de inclusão nas suas EO ou EA ou, no caso de novos operadores,
+  que constem no processo de certificação do operador.
+
+  5.1.2.4.2 Intercâmbio de aeronaves. Conforme o Anexo 6, Parte I (item 6.1.3, na emenda 43)
+  e III (Seção II, item 4.1.3, na emenda 22), à Convenção de Chicago, a MEL é aprovada pelo
+  Estado do operador da aeronave. No entanto, quando o Estado do operador não for o Estado
+  de registro da aeronave, o Estado do operador deve garantir que a MEL não afete o cumprimento
+  dos requisitos de aeronavegabilidade aplicáveis do Estado de registro.
+
+  Nota: esta IS estabelece procedimentos que buscam garantir o cumprimento das responsabilidades
+  de cada Estado envolvido. Caso haja um acordo internacional, aplicável a determinado intercâmbio,
+  que regule a MEL de forma específica e diversa desta IS, este acordo deve prevalecer sobre
+  esta IS para o intercâmbio em questão.
+
+  5.1.2.4.2.1 No caso em que o RBAC nº 121 permite a operação de aeronave com matrícula estrangeira
+  (em contratos de intercâmbio, conforme 121.153(d)(6) e 121.569 do RBAC nº 121), quando o
+  operador primário da aeronave for de outro Estado, admite-se que o detentor de certificado
+  brasileiro (operador secundário) utilize a mesma MEL utilizada pelo operador primário e
+  aprovada pelo Estado do operador primário, desde que sejam satisfeitas as seguintes condições:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operador
+- estado
+- aeronave
+- aeronaves
+- caso
+- intercambio
+- acordo
+- aprovada
+- primario
+- certificado
+- constar
+- cumprimento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

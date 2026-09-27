@@ -47,10 +47,14 @@ sections:
 - '119.72'
 - '119.73'
 - '119.9'
+- aprovacao
 - preambulo
-fragment_count: 159
+- sumario
+fragment_count: 161
 fragment_ids:
 - rbac-rbac-119-preambulo-body
+- rbac-rbac-119-aprovacao-body
+- rbac-rbac-119-sumario-body
 - rbac-rbac-119-119-1-body
 - rbac-rbac-119-119-5-body
 - rbac-rbac-119-119-7-body
@@ -209,4 +213,4 @@ fragment_ids:
 - rbac-rbac-119-119-73-d
 - rbac-rbac-119-119-73-e
 - rbac-rbac-119-119-73-f
-parser_version: 6
+parser_version: 7

@@ -1,0 +1,44 @@
+id: is-is-121-021-apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem-c
+kind: is
+document: is-121-021
+family: '121'
+section_id: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem
+section_title: APÊNDICE C - SEQUÊNCIAS DE INSTRUÇÕES RECOMENDADAS PELO OEM
+subsection_id: c
+cite: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem(c)
+title: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem(c)
+text: 'c) Estol iminente na configuração de pouso.
+
+  I. Condições: aproximação inesperada de estol durante a aproximação em configuração de pouso.
+
+  II. Instrução: a 1.000 pés acima do nível médio do mar, o empuxo deve ser reduzido para
+  que seja inadequado para manter uma velocidade segura ou o ângulo de descida e se obtenha
+  um aumento de AOA para manter a trajetória de planeio. Para se obter a aproximação de estol
+  inesperada, distrações podem ser aplicadas à tripulação de voo, conforme mencionado acima.
+
+  III. Fundamento: o aluno deve ser capaz de reconhecer o aviso de estol e executar imediatamente
+  o procedimento de recuperação de estol, demonstrar uma redução deliberada e contínua no
+  AOA e então iniciar uma aproximação perdida. A recuperação positiva do estol ou do estol
+  iminente tem precedência sobre a minimização das perdas de altitude. Observa-se que cabe
+  ao piloto tentar recuperar o estol e manter uma separação adequada do terreno, dependendo
+  do caso.'
+keywords:
+- transporte-aereo
+- operacoes
+- estol
+- aproximacao
+- manter
+- acima
+- apendice
+- configuracao
+- iminente
+- inesperada
+- instrucoes
+- pouso
+- recomendadas
+- recuperacao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

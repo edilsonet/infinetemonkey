@@ -1,0 +1,463 @@
+id: rbac-rbac-01-emd-18-01-1-i
+kind: rbac
+document: rbac-01-emd-18
+family: '1'
+section_id: '01.1'
+section_title: Definições
+subsection_id: i
+cite: 01.1(i)
+title: 01.1(i)
+text: '(i) motor turboélice é um motor projetado para acionar uma hélice responsável pela
+  propulsão do avião; a participação dos gases de escapamento nessa propulsão, quando existe,
+  é meramente residual;
+
+  (ii) motor turboeixo é um motor projetado para acionar o rotor de uma aeronave de asas rotativas;
+  os gases de escapamento não têm nenhuma participação no processo; e
+
+  (iii) motor à reação ou motor turbojato é um motor projetado para aviões que utiliza a expansão
+  dos gases para propulsionar o avião. Inclui os motores denominados turbofan.
+
+  Motor crítico significa um motor cuja falha afeta mais adversamente o desempenho ou as características
+  de manobrabilidade de uma aeronave.
+
+  Motor de altitude significa um motor convencional possuindo uma potência nominal de decolagem
+  que pode ser mantida desde o nível do mar até uma determinada altitude.
+
+  Motor de nível do mar significa um motor convencional com uma potência nominal de decolagem
+  que só pode ser produzida ao nível do mar.
+
+  Navegação de área - RNAV significa um método de navegação que permite a operação de aeronaves
+  em qualquer trajetória de voo desejada dentro da cobertura de auxílios à navegação, baseados
+  no solo ou no espaço, ou dentro dos limites das possibilidades dos equipamentos autônomos
+  de navegação, ou uma combinação de ambos. (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Nota: a navegação de área inclui o PBN, bem como outras operações não incluídas na definição
+  de PBN. (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Navegação visual significa navegação feita por referências visuais do terreno sobrevoado.
+
+  Nível de voo significa um nível de pressão atmosférica constante relativo ao nível de pressão
+  atmosférica de 1.013,2 hPa (29,92 pol Hg). É indicado pelas letras FL (Flight Level) seguidas
+  de 3 dígitos referentes às centenas de pés. Por exemplo: FL 060 representa a indicação barométrica
+  do altímetro de 6.000 ft, e FL 255 representa 25.500 ft.
+
+  Nível de segurança pretendido (Target Level of Safety - TLS) significa, como termo genérico,
+  a representação do nível de risco que é considerado aceitável sob particulares circunstâncias.
+
+  Nível Equivalente de Segurança significa a condição em que não há o cumprimento literal
+  de requisito estabelecido pela ANAC, mas são adotados fatores compensatórios que atingem
+  a finalidade do requisito, garantindo nível equivalente de segurança, cujo reconhecimento,
+  após análise conforme a seção 11.41 do RBAC nº 11, não envolve isenção, alteração ou criação
+  de requisito, mas apenas torna aceito projeto, procedimento ou equipamento específicos que
+  formalmente não se enquadram na literalidade da regra. (Incluído pela Resolução nº 548,
+  de 20.03.2020)
+
+  Noite significa o período entre o fim do crepúsculo civil vespertino e o início do crepúsculo
+  civil matutino. O primeiro tem seu fim e o segundo tem seu início quando o centro do disco
+  solar atinge 6 graus abaixo do horizonte.
+
+  Norma Consensual significa, para os propósitos de certificação de aeronave leve esportiva,
+  uma norma acordada desenvolvida pelo setor que se aplica ao projeto, produção e aeronavegabilidade
+  da aeronave. Inclui, mas não está limitada a, normas para projeto e desempenho da aeronave,
+  equipamentos requeridos, sistemas de garantia da qualidade do fabricante, procedimentos
+  de testes de aceitação de produção, instruções de operação, procedimentos de inspeção e
+  manutenção, identificação e registro de grandes reparos e grandes alterações, e aeronavegabilidade
+  continuada.
+
+  North Atlantic High Level Airspace - NAT-HLA significa o volume de espaço aéreo situado
+  entre os FL285 e FL420, inclusive, estendendo-se entre a latitude 27º N e o Polo Norte,
+  limitado a leste pelos limites orientais das áreas de controle de Santa Maria Oceanic, Shanwick
+  Oceanic e Reykjavik Oceanic, e limitado a oeste pelos limites ocidentais das áreas de controle
+  de Reykjavik Oceanic, Gander Oceanic e New York Oceanic, excluindo as áreas a oeste de 60º
+  W e a sul de 38º30’ N. (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  Número MACH significa a relação entre a velocidade verdadeira e a velocidade do som.
+
+  Operação cargueira significa qualquer operação de serviço de transporte aéreo que não inclua
+  o transporte de pessoas ou, se pessoas forem transportadas, sejam apenas aquelas especificadas
+  no parágrafo 121.583(a) do RBAC nº 121 ou na seção 135.85 do RBAC nº 135. Operações cargueiras,
+  para os fins de certificação operacional, são consideradas operações não regulares. (Redação
+  dada pela Resolução nº 720, de 02.08.2023)
+
+  Operação de aviação geral significa uma operação de aeronave não envolvendo operação de
+  serviço de transporte aéreo (comercial) ou de serviço aéreo especializado. (Redação dada
+  pela Resolução nº 720, de 02.08.2023)
+
+  Operação de serviço de transporte aéreo é aquela que visa atender um serviço aéreo no transporte
+  nacional ou internacional, regular ou não regular, de passageiro, carga ou mala postal.
+  (Redação dada pela Resolução nº 720, de 02.08.2023)
+
+  Operação de serviço de transporte aéreo transportando passageiros significa qualquer operação
+  de serviço de transporte aéreo transportando pessoas que não estejam especificadas no parágrafo
+  121.583(a) do RBAC nº 121 ou na seção 135.85 do RBAC nº 135. Uma aeronave usada em operação
+  de transporte de passageiros pode, também, transportar carga, encomendas ou malotes postais
+  além dos passageiros, desde que obedecidos os requisitos aplicáveis de fixação/posicionamento
+  de tais cargas/encomendas/malotes postais. (Redação dada pela Resolução nº 720, de 02.08.2023)
+
+  Operação não regular (ou não agendada) significa uma operação de serviço transporte aéreo
+  que não se enquadra na definição de operação regular. (Redação dada pela Resolução nº 720,
+  de 02.08.2023)
+
+  Operação Prolongada (Extended Operations - ETOPS) significa uma operação de voo com avião
+  na qual uma parte do voo é operada além de um limite de tempo identificado no RBAC 121 ou
+  135 de um aeródromo adequado, com base em uma velocidade de cruzeiro com um motor inoperante
+  aprovada, sob condições atmosféricas padrão e ar calmo. (Redação dada pela Resolução nº
+  546, de 18.03.2020)
+
+  Operação regular (ou agendada) significa uma operação de serviço de transporte aéreo na
+  qual o horário de partida, o local de partida e o local de destino são definidos e ofertados
+  previamente pelo detentor de certificado, seu representante ou operador comercial. (Redação
+  dada pela Resolução nº 720, de 02.08.2023)
+
+  Operação Steep Approach significa qualquer operação em que o ângulo de trajetória de aproximação
+  para pouso é maior que 3,77 graus. (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Operação substituta significa uma operação que deveria ser conduzida por um detentor de
+  certificado e é conduzida por outro detentor de certificado através de contrato assinado
+  entre as partes. (Incluído pela Resolução nº 526, de 06.08.2019)
+
+  Operações de aproximação por instrumentos significa uma aproximação e pouso utilizando instrumentos
+  para orientação de navegação baseada em um procedimento de aproximação por instrumentos.
+  Há dois métodos para executar operações de aproximação por instrumentos: (Incluído pela
+  Resolução nº 685, de 13.07.2022)
+
+  (1) operação de aproximação por instrumentos bidimensional (2D), que utiliza somente guia
+  lateral; e (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  (2) operação de aproximação por instrumentos tridimensional (3D), que utiliza guia lateral
+  e vertical. (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  Nota: as operações de aproximação por instrumentos são classificadas com base nos menores
+  mínimos operacionais para os quais foram elaboradas, abaixo dos quais uma operação de aproximação
+  somente pode ser continuada com a referência visual requerida. São classificadas em tipo
+  A e tipo B. (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  Operações de aproximação por instrumentos de tipo A significa operações de aproximação por
+  instrumentos com uma altura mínima de descida ou altura de decisão igual ou superior a 75
+  m (250 pés). (Redação dada pela Resolução nº 720, de 02.08.2023)
+
+  Operações de aproximação por instrumentos de tipo B significa operações de aproximação por
+  instrumentos com uma altura de decisão interior a 75 m (250 pés). São classificadas em CAT
+  I, CAT II e CAT III. (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  Operações em baixa visibilidade (LVO) significa: (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  (1) operações de aproximação com RVR inferior a 550 m ou com uma altura de decisão inferior
+  a 60 m (200 pés); ou (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  (2) operações de decolagem com RVR inferior a 400 m. (Incluído pela Resolução nº 685, de
+  13.07.2022)
+
+  Operar significa, referindo-se a uma aeronave, usar, motivar o uso ou autorizar a sua utilização
+  com o propósito (exceto como previsto na seção 91.13 do RBAC 91) de executar um voo, incluindo
+  a pilotagem de aeronave, com ou sem o direito legal de controle da mesma como proprietário,
+  arrendatário ou locatário.
+
+  Operador de aeródromo significa, no caso de aeródromo público, a pessoa jurídica que tenha
+  recebido, por órgão competente, a delegação da exploração da infraestrutura aeroportuária,
+  respondendo integralmente pelas ações necessárias para o cumprimento dos requisitos normativos
+  exigidos pela ANAC e pela segurança no aeródromo, ou, no caso de aeródromo privado, seu
+  proprietário. (Redação dada pela Resolução nº 712, de 14.04.2023)
+
+  Operador de serviço de transporte aéreo significa uma pessoa jurídica engajada no serviço
+  de transporte aéreo e certificada segundo as normas da ANAC. (Redação dada pela Resolução
+  nº 720, de 02.08.2023)
+
+  Organização de projeto certificada significa qualquer pessoa jurídica devidamente estabelecida,
+  certificada conforme a Subparte J do RBAC nº 21, que desenvolva projeto de produto aeronáutico,
+  suas modificações e dados técnicos de reparos e alterações a esses produtos. (Incluído pela
+  Resolução nº 733, de 25.01.2024)
+
+  Paramotor significa uma aeronave composta por um paraquedas tipo pára-pente e um conjunto
+  motor/hélice/tanque de combustível que fica atrelado às costas do piloto.
+
+  Parapente significa um paraquedas cujo velame, quando inflado, assume o formato de um aerofólio,
+  permitindo algum controle de sua trajetória durante a descida.
+
+  Paraquedas significa um dispositivo usado ou que se pretenda usar para retardar a queda
+  de um corpo ou objeto através do ar.
+
+  Paraquedas motorizado significa uma aeronave motorizada composta por uma asa flexível ou
+  semirrígida conectada a uma fuselagem de modo que a asa não está em posição para voo até
+  que a aeronave esteja em movimento. A fuselagem de um paraquedas motorizado contém o motor
+  da aeronave e um assento para cada ocupante e tem, ligado a ela, o trem de pouso da aeronave.
+
+  Parada do motor em voo (In-Flight Shutdown - IFSD) significa, apenas em operações ETOPS,
+  a parada de um motor, em voo, seguida de seu corte autoinduzido, ou por iniciativa da tripulação,
+  ou causado por influência externa. A ANAC considera IFSD a parada por qualquer motivo: apagamento
+  (flameout), falha interna, parada iniciada pela tripulação, ingestão de objetos estranhos,
+  gelo, incapacidade de obter ou controlar a potência ou empuxo desejado e a reciclagem do
+  controle de partida, ainda que por pouco tempo, mesmo se o motor operar normalmente pelo
+  restante do voo. Esta definição exclui uma parada de motor em voo quando seguida, imediatamente,
+  por um reacendimento automático do motor ou quando um motor não obtém a potência ou empuxo
+  desejado, mas não é cortado.
+
+  Pequena aeronave significa uma aeronave com peso máximo de decolagem aprovado igual ou inferior
+  a 5.670 kg (12.500 lb).
+
+  Pequena alteração significa uma alteração que não se enquadra na definição de grande alteração.
+  (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Pequeno reparo significa um reparo que não se enquadra na definição de grande reparo.
+
+  Peso máximo zero combustível significa o peso máximo permissível de uma aeronave sem o combustível
+  e óleo consumível. O valor do peso máximo zero combustível pode ser encontrado na especificação
+  técnica da aeronave, no manual de voo aprovado (AFM), ou em ambos. (Incluído pela Resolução
+  nº 526, de 06.08.2019)
+
+  Peso vazio significa o peso da célula, motores, hélices, rotores e equipamentos fixos. O
+  peso vazio exclui o peso dos tripulantes e da carga paga, mas inclui o peso de todos os
+  lastros fixos, do combustível não utilizável, do óleo não drenável e da quantidade total
+  do fluido de refrigeração do motor e do fluido hidráulico. (Incluído pela Resolução nº 526,
+  de 06.08.2019)
+
+  Pessoa significa um indivíduo, firma, sociedade, corporação, companhia, associação, sociedade
+  anônima ou entidade governamental. Inclui um administrador, procurador ou representante
+  similar de qualquer um deles.
+
+  Pilotar significa manipular os controles de voo de uma aeronave durante o tempo de voo.
+
+  Piloto aerodesportivo significa a designação genérica de uma pessoa que detém qualquer habilitação
+  emitida conforme o RBAC nº 61 necessária para operação de aeronave aerodesportiva. (Incluído
+  pela Resolução nº 474, de 07.06.2018)
+
+  Piloto em comando significa uma pessoa que tem a autoridade final e a responsabilidade pela
+  operação e pela segurança do voo. (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Planador significa uma aeronave mais pesada que o ar, suportada em voo pela reação dinâmica
+  do ar contra suas superfícies fixas de sustentação e para a qual o voo livre não depende
+  principalmente de um motor.
+
+  Plano de voo significa informações específicas, relacionadas com um voo planejado ou com
+  parte de um voo de uma aeronave, fornecidas aos órgãos que prestam os serviços de tráfego
+  aéreo. (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Ponto definido antes do pouso, referindo-se a helicópteros de classe de desempenho 2, significa
+  um ponto, dentro da fase de aproximação e pouso, após o qual a capacidade do helicóptero
+  para prosseguir para um pouso seguro com um motor inoperante não é assegurada e um pouso
+  forçado pode ser requerido. (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Ponto definido após decolagem, referindo-se a helicópteros de classe de desempenho 2, significa
+  um ponto, dentro da fase de decolagem e subida inicial, antes do qual a capacidade do helicóptero
+  para prosseguir um voo seguro com um motor inoperante não é assegurada e um pouso forçado
+  pode ser requerido. (Redação dada pela Resolução nº 546, de 18.03.2020)
+
+  Ponto de controle RNAV significa uma posição geográfica pré-determinada fixada em relação
+  a um auxílio à navegação, usada para definir uma rota ou uma aproximação por instrumentos
+  ou para definir um fixo de posição.
+
+  Ponto de decisão de decolagem (Takeoff Decision Point - TDP) significa o ponto usado na
+  determinação do desempenho de decolagem de helicópteros Categoria A no qual, se ocorrer
+  uma falha de motor, a decolagem pode ser abortada ou a decolagem pode ser continuada, ambas
+  com segurança.
+
+  Ponto de decisão de pouso (Landing Decision Point - LDP) significa o ponto usado na determinação
+  do desempenho de pouso de helicópteros Categoria A no qual, se ocorrer uma falha de motor,
+  um pouso pode ser continuado com segurança ou uma arremetida pode ser iniciada.
+
+  Ponto de tempo equivalente (equi-time point) significa um ponto da rota de voo no qual,
+  considerando o vento, o tempo de voo para dois aeródromos selecionados é igual.
+
+  Potência de decolagem significa:
+
+  (1) referindo-se a motores convencionais, a potência disponível no eixo desenvolvida em
+  atmosfera padrão ao nível do mar, na rotação e pressão de admissão aprovadas para decolagem
+  normal, e limitada em uso contínuo ao período de tempo constante na especificação técnica
+  aprovada para o motor; e
+
+  (2) referindo-se a motores à turbina, significa a potência disponível no eixo desenvolvida
+  estaticamente em altitudes e temperaturas específicas, na máxima velocidade de rotação do
+  eixo e na máxima temperatura de gases aprovadas para decolagem normal, e limitada em uso
+  contínuo ao período de tempo constante na especificação técnica aprovada para o motor.
+
+  Potência no eixo significa a potência disponível no eixo da hélice de um motor aeronáutico.
+
+  Potência nominal de decolagem significa, referindo-se à certificação de tipo de motores
+  convencionais, turboélice ou turboeixo, a potência aprovada disponível no eixo desenvolvida
+  estaticamente em atmosfera padrão ao nível do mar, dentro dos limites de operação do motor
+  estabelecidos conforme o RBAC 33 e aprovada para uso em operações de decolagem por períodos
+  não superiores a 5 (cinco) minutos.
+
+  Potência nominal máxima contínua significa, referindo-se a um motor convencional, turboélice
+  ou turboeixo, a potência aprovada disponível no eixo desenvolvida estaticamente ou em voo
+  na atmosfera padrão e a uma específica altitude, dentro dos limites de operação do motor
+  estabelecidos conforme o RBAC 33 e aprovada para uso em períodos ilimitados de tempo.
+
+  Potência nominal contínua OEI (One Engine Inoperative) (com um motor inoperante), referindo-se
+  a aeronaves de asas rotativas com motores à turbina, significa a potência no eixo aprovada,
+  desenvolvida sob condições estáticas em altitudes e temperaturas especificadas dentro das
+  limitações de operação estabelecidas para o motor segundo o RBAC 33, e limitada em uso ao
+  tempo requerido para completar o voo após a falha ou corte de um motor em uma aeronave multimotor.
+
+  Potência nominal 2-minutos OEI (One Engine Inoperative) (com um motor inoperante), referindo-se
+  a aeronaves de asas rotativas com motores à turbina, significa a potência no eixo aprovada,
+  desenvolvida sob condições estáticas em altitudes e temperaturas especificadas dentro das
+  limitações de operação estabelecidas para o motor segundo o RBAC 33 para operação de continuação
+  de um voo após a falha ou corte de um motor em uma aeronave multimotor, limitada a três
+  períodos de uso não superiores a 2 (dois) minutos em cada voo, e seguida de uma inspeção
+  mandatória e das ações de manutenção estabelecidas.
+
+  Potência nominal 2 1/2-minutos OEI (One Engine Inoperative) (com um motor inoperante), referindo-se
+  a aeronaves de asas rotativas com motores à turbina, significa a potência no eixo aprovada,
+  desenvolvida sob condições estáticas em altitudes e temperaturas especificadas dentro das
+  limitações de operação estabelecidas para o motor segundo o RBAC 33 e limitada em uso a
+  um período não superior a 2 ½ (dois e meio) minutos cada um após a falha ou corte de um
+  motor em uma aeronave multimotor.
+
+  Potência nominal 30-minutos OEI (One Engine Inoperative) (com um motor inoperante), referindo-se
+  a aeronaves de asas rotativas com motores à turbina, significa a potência no eixo aprovada,
+  desenvolvida sob condições estáticas em altitudes e temperaturas especificadas dentro das
+  limitações de operação estabelecidas para o motor segundo o RBAC 33, limitada ao uso por
+  um período não superior a 30 (trinta) minutos de voo após a falha ou corte de um motor em
+  uma aeronave multimotor.
+
+  Potência nominal 30-segundos OEI (One Engine Inoperative) (com um motor inoperante), referindo-se
+  a aeronaves de asas rotativas com motores à turbina, significa a potência no eixo aprovada,
+  desenvolvida sob condições estáticas em altitudes e temperaturas especificadas dentro das
+  limitações de operação estabelecidas para o motor segundo o RBAC 33 para operação de continuação
+  de um voo após a falha ou corte de um motor em uma aeronave multimotor, limitada a três
+  períodos de uso não superiores a 30 (trinta) segundos cada em qualquer voo, e seguida de
+  uma inspeção mandatória e das ações de manutenção estabelecidas.
+
+  Pouso forçado seguro significa um pouso forçado em terra ou em água com uma razoável expectativa
+  de não ocorrerem ferimentos em pessoas a bordo da aeronave ou na superfície.
+
+  Pressão de admissão significa a pressão absoluta medida em um ponto apropriado do sistema
+  de indução de um motor convencional, normalmente expressa em polegadas de mercúrio.
+
+  Procedimento de aproximação de precisão significa um procedimento padronizado de aproximação
+  por instrumentos que dispõe de um glide-slope eletrônico, como ILS (Instrument Landing System)
+  ou PAR (Precision Approach Radar).
+
+  Procedimento de aproximação por instrumentos significa uma série de manobras predeterminadas
+  realizadas com o auxílio de instrumentos de bordo, com proteção específica contra os obstáculos,
+  desde o fixo de aproximação inicial ou, quando aplicável, desde o princípio de uma rota
+  de chegada até um ponto a partir do qual seja possível efetuar o pouso e, caso este não
+  se realize, até uma posição na qual se apliquem os critérios de circuito de espera ou de
+  margem livre de obstáculos em rota. Os procedimentos de aproximação por instrumentos são
+  classificados em: (Redação dada pela Resolução nº 685, de 13.07.2022)
+
+  (1) procedimento de aproximação de não precisão (NPA): procedimento de aproximação por instrumentos
+  elaborado para operações de aproximação por instrumentos 2D de tipo A; (Incluído pela Resolução
+  nº 685, de 13.07.2022)
+
+  (2) procedimento de aproximação com guia vertical (APV): procedimento de aproximação por
+  instrumentos PBN elaborado para operações de aproximação por instrumentos 3D de tipo A;
+  e (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  (3) procedimento de aproximação de precisão (PA): procedimento de aproximação por instrumentos
+  baseado em sistemas de navegação (ILS, MLS, GLS e SBAS CAT I) elaborado para aproximação
+  por instrumentos 3D de tipo A ou B. (Incluído pela Resolução nº 685, de 13.07.2022)
+
+  Procedimento de aproximação de não precisão significa um procedimento padronizado de aproximação
+  por instrumentos não dispondo de um glide-slope eletrônico.
+
+  Produto aeronáutico significa qualquer aeronave civil, motor ou hélice de aeronave ou aparelho
+  neles instalado.
+
+  Programa de manutenção significa um documento que descreve as tarefas específicas de manutenção
+  programada e suas frequências de realização e procedimentos relacionados, assim como um
+  programa de confiabilidade necessário para a operação segura das aeronaves às quais se aplica.
+
+  Razão de diluição (bypass ratio) significa a razão entre a massa de ar que flui através
+  dos dutos de desvio (bypass) de um motor à turbina de gás e a massa de ar que passa através
+  das câmaras de combustão, calculada no empuxo máximo, com o motor estacionário, em atmosfera
+  padrão, ao nível do mar.
+
+  Reparo significa a restituição de uma aeronave e/ou de seus componentes à situação aeronavegável,
+  após a eliminação de defeitos ou danos, inclusive os causados por acidentes/incidentes.
+
+  Requisito de aeronavegabilidade significa uma exigência governamental relativa ao projeto,
+  materiais, processos de construção e fabricação, desempenho, qualidades de voo, sistemas
+  e equipamentos de uma aeronave e seus componentes, visando garantir a segurança da operação.
+
+  Resistente à chama significa não susceptível à combustão, não propagando chamas além de
+  um limite seguro após a retirada da fonte de ignição.
+
+  Resistente à combustão violenta significa não susceptível à queima violenta quando submetido
+  à ignição.
+
+  Resistente a fogo significa:
+
+  (1) referindo-se a chapas ou membros estruturais, a capacidade de tais chapas e membros
+  suportarem o calor associado a fogo pelo menos tão bem quanto suportariam se fossem de liga
+  de alumínio; e
+
+  (2) referindo-se a tubulações transportando fluidos, partes de sistemas de fluidos, fiação,
+  dutos de ar, conexões e controles do grupo motopropulsor, a capacidade de tais itens realizarem
+  suas funções previstas quando sujeitas a calor e a outras condições possíveis de serem encontradas
+  se ocorrer um incêndio no local onde eles se encontram.
+
+  Rota RNAV significa uma rota ATS baseada em RNAV que pode ser utilizada por aeronaves adequadamente
+  equipadas.
+
+  Rotor, referindo-se a aeronaves de asas rotativas, significa um conjunto de aerofólios rotativos.
+
+  Rotor auxiliar significa um rotor que serve para contrariar o efeito de torque do rotor
+  principal de uma aeronave de asa rotativa ou para manobrar tal aeronave em torno de um ou
+  mais dos seus três eixos.
+
+  Rotor principal significa o rotor que supre a principal parcela da sustentação de uma aeronave
+  de asa rotativa.
+
+  Sede administrativa significa o local escolhido por um detentor de certificado onde fica
+  centralizada a maior parte das suas atividades de direção e gerenciamento técnico-operacional.
+  (Redação dada pela Resolução nº 720, de 02.08.2023)
+
+  Segmento de rota significa um trecho de uma rota limitado em cada extremidade por:
+
+  (1) um fixo geográfico continental ou insular; ou
+
+  (2) um ponto no qual um fixo rádio definido pode ser estabelecido.
+
+  Segundo em comando significa um piloto designado para exercer a função de segundo em comando
+  de uma aeronave durante o tempo de voo.
+
+  Serviço aéreo é aquele realizado, mediante remuneração, em benefício ao usuário do serviço,
+  que não o próprio operador. (Incluído pela Resolução nº 720, de 02.08.2023)
+
+  Serviço Aéreo Especializado (Aerial Work) significa uma operação aérea na qual uma aeronave
+  é usada para serviços especializados tais como agricultura, construção, fotografia, levantamentos,
+  propaganda, patrulha, busca e salvamento etc. Não inclui o transporte aéreo de pessoas,
+  cargas ou malas postais.
+
+  Serviço de transporte aéreo significa o transporte aéreo comercial (com fins lucrativos)
+  de pessoas, de bens, e/ou de malas postais, regular ou não regular, doméstico ou internacional.
+  (Incluído pela Resolução nº 720, de 02.08.2023)
+
+  Serviço de controle de tráfego aéreo significa o serviço prestado com a finalidade de prevenir
+  colisões entre aeronaves e entre aeronaves e obstáculos na área de manobras e acelerar e
+  manter ordenado o fluxo de tráfego aéreo. (Incluído pela Resolução nº 546, de 18.03.2020)
+
+  Servidor designado é uma pessoa credenciada pela autoridade de aviação civil que está, como
+  seu representante, autorizada a realizar as atividades de fiscalização da aviação civil.
+  Anteriormente denominado Inspetor de Aviação Civil - INSPAC. (Incluído pela Resolução nº
+  526, de 06.08.2019)
+
+  Sistema de gerenciamento da segurança significa um processo sistemático para gerenciar a
+  segurança, incluindo as necessárias estruturas organizacionais, responsabilidades, políticas
+  e procedimentos.
+
+  Sistema significativo ETOPS significa um sistema de avião, incluindo o sistema de propulsão,
+  cuja falha ou mau funcionamento pode afetar adversamente a segurança de um voo ETOPS ou
+  o prosseguimento de um voo e pouso seguros durante um desvio para alternativa ETOPS. Os
+  sistemas significativos ETOPS são divididos em 2 grupos:
+
+  (1) um sistema significativo ETOPS do grupo 1:'
+keywords:
+- significa
+- motor
+- resolucao
+- operacao
+- aeronave
+- aproximacao
+- incluido
+- instrumentos
+- potencia
+- aereo
+- dada
+- redacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-01-emd-18.md

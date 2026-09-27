@@ -1,0 +1,45 @@
+id: is-is-00-008e-8-5-body
+kind: is
+document: is-00-008e
+family: '0'
+section_id: '8.5'
+section_title: Caso o endereço de e-mail não tenha sido registrado no momento de criação do
+  CANAC, não será possível finalizar o procedimento e gerar login e senha para acesso ao SACI.
+  Nesse caso, será necessário que a inclusão do endereço de e-mail seja feita por intervenção
+  manual de servidor da ANAC. Para solicitar a inclusão, por questões de segurança, será preciso
+  enviar o requerimento padrão (Apêndice A) à GCEP, devidamente preenchido e assinado, com
+  cópia da carteira de identidade em anexo, por meio do Protocolo Eletrônico, conforme orientações
+  disponibilizadas no item 5.12 desta IS.
+subsection_id: body
+cite: '8.5'
+title: Caso o endereço de e-mail não tenha sido registrado no momento de criação do CANAC,
+  não será possível finalizar o procedimento e gerar login e senha para acesso ao SACI. Nesse
+  caso, será necessário que a inclusão do endereço de e-mail seja feita por intervenção manual
+  de servidor da ANAC. Para solicitar a inclusão, por questões de segurança, será preciso
+  enviar o requerimento padrão (Apêndice A) à GCEP, devidamente preenchido e assinado, com
+  cópia da carteira de identidade em anexo, por meio do Protocolo Eletrônico, conforme orientações
+  disponibilizadas no item 5.12 desta IS.
+text: 8.5 Caso o endereço de e-mail não tenha sido registrado no momento de criação do CANAC,
+  não será possível finalizar o procedimento e gerar login e senha para acesso ao SACI. Nesse
+  caso, será necessário que a inclusão do endereço de e-mail seja feita por intervenção manual
+  de servidor da ANAC. Para solicitar a inclusão, por questões de segurança, será preciso
+  enviar o requerimento padrão (Apêndice A) à GCEP, devidamente preenchido e assinado, com
+  cópia da carteira de identidade em anexo, por meio do Protocolo Eletrônico, conforme orientações
+  disponibilizadas no item 5.12 desta IS.
+keywords:
+- caso
+- endereco
+- inclusao
+- mail
+- acesso
+- anexo
+- apendice
+- assinado
+- canac
+- carteira
+- copia
+- criacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-008e.md

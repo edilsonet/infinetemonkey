@@ -1,0 +1,35 @@
+id: is-is-91-001-c12-1-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: C12.1
+section_title: 'A especificação de navegação RNP 10 requer que as aeronaves que operam em
+  áreas oceânicas ou remotas estejam equipadas com ao menos dois sistemas de navegação de
+  longo alcance (LRNS) independentes e em serviço, compostos por um sistema de navegação inercial
+  (INS), um sistema de referência inercial/sistema de gestão de voo (IRS/FMS) ou um sistema
+  mundial de navegação por satélite (GNSS). São elegíveis:'
+subsection_id: b
+cite: C12.1(b)
+title: C12.1(b)
+text: b) as aeronaves com sistemas multissensores que integram o GNSS e que cumpram com a
+  AC 20-130A, AC 20-138 (Revisão B ou superior) ou documentos equivalentes;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- sistema
+- aeronaves
+- gnss
+- inercial
+- sistemas
+- 130a
+- alcance
+- areas
+- compostos
+- cumpram
+- documentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,99 @@
+id: is-is-110-002b-5-2-4-8-b
+kind: is
+document: is-110-002b
+family: '110'
+section_id: 5.2.4.8
+section_title: 'A Ficha é composta de duas partes:'
+subsection_id: b
+cite: 5.2.4.8(b)
+title: 5.2.4.8(b)
+text: 'b) Parte 2, denominada Guia de Encaminhamento, destinada ao registro do resultado final
+  da avaliação do profissional em treinamento.
+
+  Nota 1. A primeira parte da Guia de Verificação (Apêndice B): “Orientação, observação e
+  esclarecimento de dúvidas” oferece campos para os registros de atividades correlatas em
+  que o APAC participar (ações orientativas diversas, momentos reservados para a observação
+  de outros profissionais executando as tarefas, realização da leitura do Manual do Posto,
+  participação em eventos sobre os detalhes do aeroporto/programa de segurança etc.).
+
+  Nota 2. No campo Conclusão da Guia de Verificação (Apêndice B) o Supervisor de Treinamento
+  deve registrar a média obtida pelo profissional nas 12 horas de CBT (formação) ou 12 a 24
+  horas de CBT (atualização, de acordo com o tempo em que o profissional trabalhou na empresa
+  durante seu período de certificação). Hit Rate são as imagens contendo item proibido que
+  o profissional detectou (caso o CBT trabalhe com o sistema de ponto e meio ponto, essa pontuação
+  deve ser considerada no cálculo final como tendo acertado uma bagagem ou meia bagagem).
+  False Alarm são imagens sem item proibido que foram paradas pelo APAC (também se aplica
+  o sistema de meio ponto, se houver). O CBT já deveria demonstrar o Hit Rate e False Alarm
+  do APAC automaticamente, sendo atualizado a cada novo teste realizado pelo profissional.
+
+  Exemplo
+
+  Nas 12 horas o APAC examinou 2000 bagagens (1000 continham item proibido e as outras 1000,
+  não). Com relação às 1000 malas contendo item proibido, o APAC:
+
+  - identificou 500 (ganhou 1 ponto por mala), 400 identificou de forma parcial (meio ponto
+  por mala) e 100 não identificou (nenhum ponto); ou
+
+  - identificou 700 e não identificou 300 (caso o CBT não trabalhe com meio ponto).
+
+  Obteve então o Hit Rate mínimo aceitável (70%) e foi considerado apto.
+
+  Com relação às 1000 malas que não continham item proibido, o APAC:
+
+  - liberou 400 (ganhou 1 ponto por mala), 400 liberou de forma parcial/após inspeção (meio
+  ponto por mala) e 200 não liberou (nenhum ponto); ou
+
+  - liberou 600 e não liberou 400 (caso o CBT não trabalhe com meio ponto).
+
+  Obteve então o False Alarm máximo aceitável (40%) e foi considerado apto.
+
+  5.2.4.9 No final do treinamento em serviço, o Supervisor de Treinamento deverá formalizar
+  por meio da Ficha de Avaliação, se o novo profissional está “apto” ou “não-apto” para desempenho
+  de suas funções, com base nos critérios de avaliação citados na Fase 3.
+
+  5.2.4.10 A decisão de “apto” ou “não-apto” deverá ser compartilhada com um Responsável AVSEC
+  local da organização com responsabilidade AVSEC. A Ficha de avaliação referente a prática
+  avaliada (Apêndice B) deverá ser assinada pelo Responsável AVSEC local designado juntamente
+  com o Supervisor de Treinamento.
+
+  5.2.4.10.1 O Operador deve designar um ou mais responsáveis locais de acordo com a complexidade
+  de suas operações, podendo priorizar os profissionais que tenham maiores condições de acompanhar
+  periodicamente a realização do Treinamento em Serviço.
+
+  Exemplo: 1) O aeroporto possui um terminal doméstico e outro internacional. O operador possui
+  um Coordenador/Supervisor AVSEC que coordena e monitora todas as atividades AVSEC em cada
+  terminal. Sendo assim, o operador designa como responsável local o respectivo coordenador
+  para o terminal em que labora.
+
+  2) O operador possui um integrante do PCQ que realiza de forma constante ações de monitoramento
+  sobre todas as atividades AVSEC na localidade, possuindo conhecimento sobre o nível de proficiência
+  necessário aos APAC. Sendo assim, o operador pode optar por designá-lo como responsável
+  local.
+
+  5.2.4.11 No caso de o profissional não alcançar o resultado “apto” no treinamento em serviço,
+  poderá ser concedido um tempo adicional de treinamento a fim de que o profissional aprimore
+  as competências necessárias e que nova avaliação (Fase 3) seja realizada.
+
+  5.2.4.12 No caso de novo resultado “não-apto”, o perfil do profissional para atuar no canal
+  de inspeção deverá ser reconsiderado pela organização com responsabilidade AVSEC antes de
+  uma decisão sobre uma nova oportunidade de treinamento.'
+keywords:
+- carga
+- operacoes
+- ponto
+- profissional
+- treinamento
+- apto
+- apac
+- avsec
+- meio
+- avaliacao
+- caso
+- identificou
+- liberou
+- operador
+categories:
+- carga
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-110-002b.md

@@ -1,0 +1,59 @@
+id: is-is-91-012-1-5-1-1-1-l
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.1.1
+section_title: 'O formato da MEL segue, em linhas gerais, o formato da MMEL, devendo conter
+  pelo menos:'
+subsection_id: l
+cite: 5.1.1.1(l)
+title: 5.1.1.1(l)
+text: 'l) procedimentos (O) e (M): os procedimentos operacionais (O) e de manutenção (M),
+  conforme sejam requeridos pela MMEL, podem constituir um capítulo específico da MEL ou ser
+  listados junto ao item a que se referem, a critério do operador, observando-se a facilidade
+  de utilização da MEL.
+
+  Nota: conforme o RBAC nº 01, a CDL é um documento elaborado pelo detentor de certificado
+  de tipo e aprovado pela Anac no âmbito da certificação de tipo da aeronave. Portanto, a
+  CDL não pode fazer parte da estrutura da MEL elaborada pelo operador aéreo e submetida pelo
+  operador à aprovação da Anac. Em vez disso, caso o operador pretenda utilizar a CDL, deve
+  utilizar a CDL atualizada constante no manual de voo aprovado da aeronave (AFM). Ainda nesse
+  caso, os detentores de certificado emitido segundo o RBAC nº 119 devem estabelecer em seus
+  manuais os procedimentos para uso da CDL.
+
+  5.1.1.2 Todas as páginas da MEL devem ser unicamente identificadas (por números, letras
+  ou combinações desses) e conter o nome do operador, o número e/ou a data da revisão referente
+  à última alteração da própria página.
+
+  5.1.1.3 A MEL pode ser elaborada em português ou em inglês. Caso seja elaborada em inglês,
+  o operador deve se assegurar de que os usuários da MEL (tripulantes, mecânicos de manutenção
+  aeronáutica e despachantes operacionais de voo) sejam proficientes na leitura e compreensão
+  do idioma. Ainda, a MEL pode ser elaborada em português com uso dos termos técnicos em inglês,
+  se os usuários da MEL compreendem os termos técnicos em inglês que forem utilizados.
+
+  5.1.1.4 Para fins de padronização e clareza, o operador deve buscar utilizar os mesmos termos
+  utilizados na MMEL de referência ou nos regulamentos aplicáveis. Em alguns casos, porém,
+  pode ser mais apropriado utilizar nomenclatura já padronizada internamente pelo operador.
+
+  Nota: para a nomenclatura dos itens da MEL, deve ser observado o parágrafo 5.1.2.5.2.4 desta
+  IS.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operador
+- elaborada
+- ingles
+- pode
+- utilizar
+- caso
+- mmel
+- procedimentos
+- termos
+- aeronave
+- aprovado
+- certificado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

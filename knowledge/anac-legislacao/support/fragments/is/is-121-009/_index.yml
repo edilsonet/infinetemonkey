@@ -1,0 +1,58 @@
+document: is-121-009
+kind: is
+title: IS 121-009A
+ementa: Conteúdo aceitável dos conjuntos de sobrevivência para operações sob o RBAC nº 121
+  sobre grandes extensões de água e sobre terreno desabitado.
+family: '121'
+categories:
+- transporte-aereo
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-009
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-009/@@display-file/arquivo_norma/IS121-009A.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-009/@@display-file/arquivo_norma/IS121-009A.pdf
+language: pt
+foreign_annex: false
+sections:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- 5.1.1
+- 5.1.2
+- 5.2.1
+- 5.2.2
+- 5.2.3
+- 5.3.1
+- 5.3.2
+- '6'
+- '7'
+- preambulo
+fragment_count: 25
+fragment_ids:
+- is-is-121-009-preambulo-body
+- is-is-121-009-1-body
+- is-is-121-009-2-body
+- is-is-121-009-3-body
+- is-is-121-009-3-a
+- is-is-121-009-3-b
+- is-is-121-009-4-body
+- is-is-121-009-5-body
+- is-is-121-009-5-1-1-body
+- is-is-121-009-5-1-2-body
+- is-is-121-009-5-1-2-a
+- is-is-121-009-5-1-2-b
+- is-is-121-009-5-1-2-c
+- is-is-121-009-5-1-2-d
+- is-is-121-009-5-2-1-body
+- is-is-121-009-5-2-2-body
+- is-is-121-009-5-2-2-a
+- is-is-121-009-5-2-2-b
+- is-is-121-009-5-2-2-c
+- is-is-121-009-5-2-2-d
+- is-is-121-009-5-2-3-body
+- is-is-121-009-5-3-1-body
+- is-is-121-009-5-3-2-body
+- is-is-121-009-6-body
+- is-is-121-009-7-body
+parser_version: 7

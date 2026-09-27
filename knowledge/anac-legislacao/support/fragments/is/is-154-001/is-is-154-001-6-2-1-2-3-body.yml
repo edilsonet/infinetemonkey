@@ -1,0 +1,60 @@
+id: is-is-154-001-6-2-1-2-3-body
+kind: is
+document: is-154-001
+family: '154'
+section_id: 6.2.1.2.3
+section_title: A altura dos caracteres deve ser de 4 metros, podendo ser reduzida para 3 metros
+  se não houver espaço suficiente.
+subsection_id: body
+cite: 6.2.1.2.3
+title: A altura dos caracteres deve ser de 4 metros, podendo ser reduzida para 3 metros se
+  não houver espaço suficiente.
+text: '6.2.1.2.3 A altura dos caracteres deve ser de 4 metros, podendo ser reduzida para 3
+  metros se não houver espaço suficiente.
+
+  6.2.1.2.4 Essa sinalização pode conter uma seta para auxiliar a indicação da direção da
+  posição de estacionamento. A Figura 6 apresenta as três possibilidades de sinalização horizontal
+  de identificação de posição de estacionamento de aeronaves, e a Tabela 2 fornece os valores
+  das suas dimensões, de acordo com a altura dos caracteres.
+
+
+  Figura 6 - Opções de sinalização horizontal de identificação de posição de estacionamento
+  de aeronaves
+
+
+  Tabela 2 - Valores das dimensões das sinalizações horizontais de posição de estacionamento
+  de aeronaves Dimensões A B C D E F Valores (m) 4 5 0,5 Variável 0,1 2 3 4 0,5 Variável 0,1
+  1,5
+
+
+  6.2.1.5 A opção (a) da Figura 6 deve ser empregada quando a linha de entrada estiver em
+  um ângulo de 61° a 90° em relação à linha de eixo de pista de táxi, como na Figura 7.
+
+
+  Figura 7 - Localização da identificação de posição de estacionamento (a) em relação à linha
+  de entrada
+
+  6.2.1.6 Já a opção (b) da Figura 6 deve ser utilizada quando a linha de entrada estiver
+  em um ângulo de 0° a 60° em relação à linha de eixo de pista de táxi, como na Figura 8.
+
+
+  Figura 8 - Localização da identificação de posição de estacionamento (b) em relação à linha
+  de entrada'
+keywords:
+- seguranca-aeroportuaria
+- figura
+- estacionamento
+- linha
+- metros
+- posicao
+- altura
+- caracteres
+- entrada
+- identificacao
+- relacao
+- aeronaves
+- dimensoes
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-001.md

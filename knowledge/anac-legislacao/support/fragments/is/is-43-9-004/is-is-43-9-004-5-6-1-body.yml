@@ -1,0 +1,45 @@
+id: is-is-43-9-004-5-6-1-body
+kind: is
+document: is-43-9-004
+family: '43'
+section_id: 5.6.1
+section_title: Para os operadores regidos pelos RBAC 121, 135 e 137 a autorização deve ser
+  solicitada
+subsection_id: body
+cite: 5.6.1
+title: Para os operadores regidos pelos RBAC 121, 135 e 137 a autorização deve ser solicitada
+text: '5.6.1 Para os operadores regidos pelos RBAC 121, 135 e 137 a autorização deve ser solicitada
+
+  através do processo de certificação da empresa ou através de processo de alteração de EO,
+
+  conforme IS 119-001, IS 119-004 e IS 137-003, respectivamente. Para as Organizações de
+
+  Manutenção Aeronáuticas certificadas segundo o RBAC 145, a autorização deve ser
+
+  solicitada através do processo de certificação de empresa ou através de processo de alteração
+
+  de EO, conforme IS 145-001 ou 145-002, conforme aplicável. Para operadores segundo o
+
+  RBHA 91, a autorização deve ser solicitada através de processo de autorização de LOA -
+
+  “Letter of Authorization”.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- autorizacao
+- atraves
+- processo
+- solicitada
+- operadores
+- pelos
+- regidos
+- alteracao
+- certificacao
+- empresa
+- segundo
+- aeronauticas
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-9-004.md

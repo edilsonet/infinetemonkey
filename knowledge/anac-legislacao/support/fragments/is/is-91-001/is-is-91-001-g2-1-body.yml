@@ -1,0 +1,54 @@
+id: is-is-91-001-g2-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: G2.1
+section_title: Pilotos somente podem executar uma SID ou STAR baseadas em RNP 1 se o procedimento
+  puder ser carregado nominalmente diretamente do banco de dados de navegação da aeronave
+  e for compatível com o procedimento publicado na respectiva carta. Contudo, de acordo com
+  as autorizações fornecidas pelo controle de tráfego aéreo, o procedimento pode vir a ser
+  adequado posteriormente por meio da inserção ou retirada de waypoints específicos. A inserção
+  manual ou a criação de novos waypoints, por meio da inserção manual de informações de latitude
+  e longitude ou ângulos (rho/theta) não são permitidas. Adicionalmente, os pilotos não podem
+  alterar os tipos de waypoints, de fly-by para fly-over ou vice-versa, de seu formato original
+  conforme consta no banco de dados da aeronave.
+subsection_id: body
+cite: G2.1
+title: Pilotos somente podem executar uma SID ou STAR baseadas em RNP 1 se o procedimento
+  puder ser carregado nominalmente diretamente do banco de dados de navegação da aeronave
+  e for compatível com o procedimento publicado na respectiva carta. Contudo, de acordo com
+  as autorizações fornecidas pelo controle de tráfego aéreo, o procedimento pode vir a ser
+  adequado posteriormente por meio da inserção ou retirada de waypoints específicos. A inserção
+  manual ou a criação de novos waypoints, por meio da inserção manual de informações de latitude
+  e longitude ou ângulos (rho/theta) não são permitidas. Adicionalmente, os pilotos não podem
+  alterar os tipos de waypoints, de fly-by para fly-over ou vice-versa, de seu formato original
+  conforme consta no banco de dados da aeronave.
+text: G2.1 Pilotos somente podem executar uma SID ou STAR baseadas em RNP 1 se o procedimento
+  puder ser carregado nominalmente diretamente do banco de dados de navegação da aeronave
+  e for compatível com o procedimento publicado na respectiva carta. Contudo, de acordo com
+  as autorizações fornecidas pelo controle de tráfego aéreo, o procedimento pode vir a ser
+  adequado posteriormente por meio da inserção ou retirada de waypoints específicos. A inserção
+  manual ou a criação de novos waypoints, por meio da inserção manual de informações de latitude
+  e longitude ou ângulos (rho/theta) não são permitidas. Adicionalmente, os pilotos não podem
+  alterar os tipos de waypoints, de fly-by para fly-over ou vice-versa, de seu formato original
+  conforme consta no banco de dados da aeronave.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- insercao
+- procedimento
+- waypoints
+- aeronave
+- banco
+- dados
+- manual
+- meio
+- pilotos
+- podem
+- acordo
+- adequado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

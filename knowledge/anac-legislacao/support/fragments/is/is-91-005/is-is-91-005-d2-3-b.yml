@@ -1,0 +1,49 @@
+id: is-is-91-005-d2-3-b
+kind: is
+document: is-91-005
+family: '91'
+section_id: D2.3
+section_title: 'O envelope de voo operacional RVSM é definido como o número de Mach, W/δ e
+  faixas de altitude sobre as quais pode ser operada uma aeronave em voo de cruzeiro dentro
+  do espaço aéreo RVSM. Como anteriormente mencionado, o envelope de voo operacional RVSM
+  para qualquer aeronave pode ser dividido em duas partes, conforme a seguir:'
+subsection_id: b
+cite: D2.3(b)
+title: D2.3(b)
+text: 'b)
+
+  Envelope de voo básico RVSM
+
+  : Os limites para o envelope de voo básico RVSM são os mesmos do envelope de voo completo
+  RVSM, com exceção do limite superior de Mach.
+
+  I. Para o envelope de voo básico RVSM, o limite de Mach superior pode estar limitado a uma
+  faixa de velocidades sobre as quais pode se esperar de maneira razoável que o grupo de aeronaves
+  opere com maior frequência. O limite deve ser declarado para cada grupo de aeronaves pelo
+  fabricante ou organização de projeto. O limite pode ser definido como igual ao limite de
+  velocidade/Mach superior definido para o envelope de voo completo RVSM ou um valor inferior.
+  Este valor menor não pode ser inferior ao número de Mach de cruzeiro de longo alcance mais
+  0.04 Mach, a não ser que a limitação tenha origem no empuxo de cruzeiro disponível, velocidade
+  de batimento e outras limitações de voo da aeronave.
+
+  D3. ERRO DO SISTEMA ALTIMÉTRICO'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rvsm
+- envelope
+- mach
+- pode
+- limite
+- aeronave
+- basico
+- cruzeiro
+- definido
+- superior
+- aeronaves
+- completo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

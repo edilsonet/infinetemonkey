@@ -1,0 +1,160 @@
+id: is-is-120-017-6-1-4-body
+kind: is
+document: is-120-017
+family: '120'
+section_id: 6.1.4
+section_title: Treinamento/competência técnica do pessoal de confiabilidade
+subsection_id: body
+cite: 6.1.4
+title: Treinamento/competência técnica do pessoal de confiabilidade
+text: '6.1.4 Treinamento/competência técnica do pessoal de confiabilidade
+
+  O operador deve determinar seus padrões técnicos especializados e requisitos de
+
+  documentação de treinamento para pessoas com funções de coleta, análise e
+
+  armazenamento de dados ou relatórios de confiabilidade. As competências e padrões de
+
+  conhecimento desejados devem estar definidos e se basear no nível de complexidade dos
+
+  dados operacionais e de manutenção programada coletados. A Tabela 6-1 apresenta
+
+  treinamentos típicos, para referência.
+
+  O operador pode ajustar o conteúdo, frequência e métodos de treinamentos
+
+  disponibilizados a indivíduos dependendo de uma avaliação de suas funções e
+
+  responsabilidades, treinamento prévio, experiência prática na manutenção, e/ou
+
+  demonstração de aptidão e resultados alcançados.
+
+  A Anac espera que os participantes do programa de confiabilidade com autoridade de
+
+  aprovação compreendam inteiramente suas funções e responsabilidade relativas ao
+
+  programa de confiabilidade.
+
+  Tema do treinamento Padrões de conhecimento do pessoal de
+
+  confiabilidade
+
+  Especificações Operativas Familiarização e ciência
+
+  Treinamento em sistemas de análise Treinamento geral em padrões de qualidade e
+
+  métodos de análise estatística
+
+  Treinamento em dados de confiabilidade Experiência ou treinamento na realização de
+
+  análise de relatórios de dados operacionais e de
+
+  outras não conformidades identificadas na
+
+  manutenção programada
+
+  Maintenance Steering Group (MSG-3) Entendimento da metodologia MSG-3
+
+  Treinamento de avaliação de risco A habilidade de avaliar risco associado a uma
+
+  situação, falha ou perigo
+
+  Treinamento em análise de causa-raiz,
+
+  incluindo fatores humanos
+
+  Método de solução de problemas que identifica a
+
+  causa-raiz de defeitos, falhas, deficiências ou
+
+  perigos
+
+  Treinamento em Failure Mode and Effects
+
+  Analysis (FMEA)
+
+  Método de análise que identifica os modos de
+
+  falha e efeitos decorrentes de falhas relacionadas
+
+  a panes específicas
+
+  Treinamento técnico Específico por aeronave (fabricante, modelo e
+
+  número de série)
+
+  Tabela 6-1. Treinamento de competênciasData de emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X
+
+  6.2 Outros requisitos regulamentares. A Anac estabelece a previsão de que operadores
+
+  condição para sistemas, aeronaves, componentes e grupo motopropulsor, conforme
+
+  definido nas seções 121.369 e 121.374 e Apêndice P do RBAC nº 121, e na seção 135.427
+
+  do RBAC nº 135 e Apêndice G do RBAC nº 135. Esses requisitos requerem, ainda, que
+
+  operadores RBAC nº 121 e RBAC nº 135 tenham um programa de confiabilidade ETOPS
+
+  para operações ETOPS. O cumprimento destes requisitos não é considerado suficiente para
+
+  se assegurar um método para a determinação de ajustes de intervalos na programação de
+
+  manutenção. Isto é válido especialmente para o caso de escalonamento de intervalos. O
+
+  operador deve desenvolver seu programa de confiabilidade incorporando os métodos
+
+  aceitáveis descritos nesta IS, de forma a garantir um padrão eficaz para a determinação
+  de
+
+  ajustes de intervalos.
+
+  6.3 Apresentação do programa de confiabilidade. O programa de confiabilidade inicial deve
+
+  ser apresentado à Anac para análise e aprovação e inclusão da respectiva autorização nas
+
+  Especificações Operativas. As revisões subsequentes do programa de confiabilidade serão
+
+  aceitas pela Anac.
+
+  6.4 Avaliação contínua. Como parte de um Sistema de Análise e Supervisão Continuada
+
+  (SASC) eficaz, o operador deve monitorar continuamente o desempenho e eficácia de seu
+
+  programa de confiabilidade com base em seus indicadores. O operador deve conduzir
+
+  avaliações periódicas documentadas de forma a determinar se seus padrões de desempenho
+
+  são realistas e eficazes quanto à identificação de deficiências, realizando revisões conforme
+
+  necessário.
+
+  7 SISTEMA DE COLETA DE DADOS
+
+  7.1 Identificação de fontes de dados. Um operador deve identificar fontes de dados para
+  as
+
+  categorias elencadas abaixo, conforme aplicável:'
+keywords:
+- antidrogas
+- saude
+- treinamento
+- confiabilidade
+- analise
+- programa
+- dados
+- operador
+- padroes
+- manutencao
+- pessoal
+- requisitos
+- avaliacao
+- competencia
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

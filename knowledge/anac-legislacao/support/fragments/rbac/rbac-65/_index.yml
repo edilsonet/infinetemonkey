@@ -52,10 +52,14 @@ sections:
 - '65.88'
 - '65.89'
 - '65.90'
+- aprovacao
 - preambulo
-fragment_count: 128
+- sumario
+fragment_count: 130
 fragment_ids:
 - rbac-rbac-65-preambulo-body
+- rbac-rbac-65-aprovacao-body
+- rbac-rbac-65-sumario-body
 - rbac-rbac-65-65-2-body
 - rbac-rbac-65-65-3-body
 - rbac-rbac-65-65-4-body
@@ -183,4 +187,4 @@ fragment_ids:
 - rbac-rbac-65-65-89-a
 - rbac-rbac-65-65-90-a
 - rbac-rbac-65-65-90-b
-parser_version: 6
+parser_version: 7

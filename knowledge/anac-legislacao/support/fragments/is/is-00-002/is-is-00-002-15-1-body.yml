@@ -1,0 +1,110 @@
+id: is-is-00-002-15-1-body
+kind: is
+document: is-00-002
+family: '0'
+section_id: '15.1'
+section_title: Generalidades
+subsection_id: body
+cite: '15.1'
+title: Generalidades
+text: '15.1 Generalidades
+
+  As FAP podem ser preenchidas à caneta ou em computador/aplicativos digitais. Em
+
+  quaisquer casos, no entanto, é obrigatório que a FAP seja impressa e assinada a caneta
+
+  pelo examinador e pelo candidato.
+
+  Todos os campos das FAP aplicáveis ao exame realizado devem ser preenchidos.
+
+  Todos os campos "Nome" devem ser preenchidos com o nome completo, sem
+
+  abreviaturas, de acordo com o que se encontra-se descrito na CHT do piloto.
+
+  Qualquer campo que exija o preenchimento de uma data (ex: data do exame, validade
+
+  do CMA) deve ser preenchido com o formato DD/MM/AA ou DD/mmm/AA. Exemplo:
+
+  01/11/16, 01/nov/16.
+
+  Os itens de teste da FAP devem ser marcados apenas com um "S", “I” ou “N”,
+
+  correspondendo respectivamente aos conceitos “Satisfatório”, “Insatisfatório” ou “Não
+
+  Realizado”. Quaisquer outras marcas, como barras, riscos ou aspas serão consideradas
+
+  rasura.
+
+  O campo "Sobrevoo ou TGL:" deve ser preenchido com o código ICAO ou com o
+
+  designativo de registro do aeródromo sobrevoado ou pousado (ex: SBGL, 9PIF, etc.),
+
+  conforme aplicável. Quando o “sobrevoo ou TGL” for realizado em local não
+
+  homologado ou registrado (ZZZZ) as coordenadas e referências que possam identificar
+
+  o local exato devem ser especificadas na FAP e no Diário de Bordo.
+
+  O tempo total de voo deve ser preenchido com o formato H:MM ou HhMMmin.
+
+  Exemplos: 1:15; 1h15min, 0:55, 0h55min.
+
+  O campo "Matrícula / ID# FSTD" deve ser preenchido com a matrícula da aeronave
+
+  e/ou o número de identificação do dispositivo de simulação utilizados no exame. No
+
+  caso de aeronave, as marcas de nacionalidade e de matrícula permitidas são as de
+
+  aeronaves brasileiras, no formato autorizado pelo Registro Aeronáutico Brasileiro
+
+  (RAB), por exemplo: PT-AAA, PR-XXX, PP-ZZZ. No caso de dispositivo de
+
+  simulação, o examinador deve informar o formato de ID# FSTD fornecido pelaData de emissão:
+  31 de dezembro de 2024
+
+  IS nº 00-002
+
+  Revisão H
+
+  Coordenação de Simuladores da Gerência de Certificação de Organizações de Instrução
+
+  (GCOI) da Superintendência de Padrões Operacionais (SPO). Este ID está grafado no
+
+  Statement Of Qualification (SOQ) emitido por esta coordenação. Exemplo: FFS-A139-
+
+  001, FFS-DA50-001, FFS-H125-001. Formatos FAA (exemplo: FAA#1344) ou de
+
+  qualquer outro país não serão aceitos.
+
+  O campo "Modelo:" deve ser preenchido com o nome comercial da aeronave ou com
+
+  seu código ICAO. Exemplo: Seneca V, Baron 58, EC25, B739.
+
+  O campo "Proprietário ou Operador:", deve ser preenchido com o nome do operador
+
+  encontrado no Certificado de Matrícula vigente (no caso de aeronave) ou o nome
+
+  completo do operador do FSTD encontrado no SOQ (Statement Of Qualification)
+
+  publicado pela ANAC. Adicionalmente, deve ser identificado também neste campo o
+
+  nome da empresa aérea certificada pela ANAC, conforme o COA, quando se tratar de
+
+  exame realizado em simulador de voo a uma pessoa por ela empregada.'
+keywords:
+- campo
+- nome
+- preenchido
+- exemplo
+- aeronave
+- exame
+- formato
+- matricula
+- realizado
+- caso
+- fstd
+- generalidades
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-002.md

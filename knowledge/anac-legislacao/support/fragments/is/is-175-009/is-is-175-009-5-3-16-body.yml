@@ -1,0 +1,34 @@
+id: is-is-175-009-5-3-16-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.16
+section_title: O campo “Número do AWB (House)” deve ser preenchido com o número do House
+subsection_id: body
+cite: 5.3.16
+title: O campo “Número do AWB (House)” deve ser preenchido com o número do House
+text: '5.3.16 O campo “Número do AWB (House)” deve ser preenchido com o número do House
+
+  Airway Bill. Quando o transporte for doméstico ou quando não houver House Airway
+
+  Bill, o campo deve ser preenchido com “N/A”. Não pode haver espaços ou hífens.'
+keywords:
+- artigos-perigosos
+- carga
+- house
+- numero
+- campo
+- preenchido
+- airway
+- bill
+- domestico
+- espacos
+- haver
+- hifens
+- houver
+- pode
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

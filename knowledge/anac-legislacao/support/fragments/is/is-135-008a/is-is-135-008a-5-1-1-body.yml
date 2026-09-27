@@ -1,0 +1,44 @@
+id: is-is-135-008a-5-1-1-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.1.1
+section_title: Esta IS se aplica aos detentores ou requerentes de um Certificado de Operador
+  Aéreo emitido segundo o RBAC nº 119 para operação segundo o RBAC nº 135.
+subsection_id: body
+cite: 5.1.1
+title: Esta IS se aplica aos detentores ou requerentes de um Certificado de Operador Aéreo
+  emitido segundo o RBAC nº 119 para operação segundo o RBAC nº 135.
+text: '5.1.1 Esta IS se aplica aos detentores ou requerentes de um Certificado de Operador
+  Aéreo emitido segundo o RBAC nº 119 para operação segundo o RBAC nº 135.
+
+  5.2 Introdução
+
+  5.2.1 Mesmo os SOP sendo universalmente reconhecidos como fundamentais para operações seguras
+  na aviação, acidentes e incidentes continuam a ocorrer como um resultado direto ou relacionado
+  às falhas das tripulações em seguir os SOP, principalmente durante as fases críticas do
+  voo.
+
+  5.2.2 Esta IS fornece orientação para o projeto, desenvolvimento, implementação, avaliação
+  e atualização de SOP. Enfatiza, também, que os SOP devem ser claros, abrangentes e estar
+  prontamente disponíveis na cabine de pilotos do avião em cada voo.'
+keywords:
+- taxi-aereo
+- operacoes
+- segundo
+- aereo
+- aplica
+- certificado
+- detentores
+- emitido
+- operacao
+- operador
+- requerentes
+- abrangentes
+- acidentes
+- atualizacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

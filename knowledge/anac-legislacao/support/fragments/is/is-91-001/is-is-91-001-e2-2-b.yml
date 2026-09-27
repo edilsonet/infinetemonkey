@@ -1,0 +1,32 @@
+id: is-is-91-001-e2-2-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: E2.2
+section_title: 'Procedimentos operacionais gerais para operações RNAV 1 e 2:'
+subsection_id: b
+cite: E2.2(b)
+title: E2.2(b)
+text: b) a base de dados de navegação deve ser apropriada para a região onde serão realizadas
+  as operações, incluindo auxílios à navegação, sequência de waypoints, e os códigos pertinentes
+  de rotas ATS para saídas, chegadas e aeródromos de alternativa;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- operacoes
+- aerodromos
+- alternativa
+- apropriada
+- auxilios
+- base
+- chegadas
+- codigos
+- dados
+- gerais
+- incluindo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

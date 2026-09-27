@@ -1,0 +1,40 @@
+id: rbac-rbac-108-emd-07-108-225-b
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.225'
+section_title: Plano de contingência
+subsection_id: b
+cite: 108.225(b)
+title: 108.225(b)
+text: '(b) O plano de contingência deve conter:
+
+  (1) atribuições do operador aéreo;
+
+  (2) uma descrição do sistema de comunicação disponível para as ações de contingência;
+
+  (3) procedimentos padronizados de recebimento, disseminação e tratamento das informações;
+  e
+
+  (4) medidas a serem adotadas para mitigar e/ou eliminar as consequências de ameaças e de
+  atos de interferência ilícita.'
+keywords:
+- seguranca
+- operador
+- contingencia
+- plano
+- acoes
+- adotadas
+- aereo
+- ameacas
+- atos
+- atribuicoes
+- comunicacao
+- consequencias
+- conter
+- descricao
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

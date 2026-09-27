@@ -1,0 +1,43 @@
+id: is-is-121-017-5-2-3-2-b
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.2.3.2
+section_title: 'O planejamento de voo deve considerar, para a decolagem do aeródromo de partida
+  e para o pouso no aeródromo de destino, um dos seguintes métodos:'
+subsection_id: b
+cite: 5.2.3.2(b)
+title: 5.2.3.2(b)
+text: 'b) caso o aeródromo disponha de informes meteorológicos regulares há ao menos 3 anos,
+  pode ser utilizada uma temperatura que esteja acima de 99% das medições. As medições devem
+  ser representativas da época do ano (30 dias antes e 30 dias depois) e do horário da operação
+  pretendida (6h antes e 6h depois).
+
+  5.2.3.3 Para a execução do pouso, caso o aeródromo disponha de informes meteorológicos,
+  se forem reportados valores de temperatura maiores do que os considerados no planejamento
+  de voo, a tripulação de voo deve realizar um cálculo de desempenho de pouso em voo, com
+  base nos valores reportados e nos dados de desempenho em voo estabelecidos de acordo com
+  a AC 25-32 do FAA (usualmente denominados in-flight landing distance, Landing Performance
+  Data for Time-of-Arrival Landing Performance Assessments ou similar). Neste cálculo, a distância
+  disponível para pouso deve ser de, no mínimo, 115% da distância de pouso para o horário
+  estimado de pouso na pista pretendida.'
+keywords:
+- transporte-aereo
+- operacoes
+- pouso
+- aerodromo
+- landing
+- calculo
+- caso
+- depois
+- desempenho
+- dias
+- disponha
+- distancia
+- horario
+- informes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

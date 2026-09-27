@@ -1,0 +1,40 @@
+id: rbac-rbac-035-aplicabilidade-d
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: d
+cite: aplicabilidade(d)
+title: aplicabilidade(d)
+text: '(d) Para os propósitos deste RBAC, a hélice
+
+  consiste dos componentes listados no projeto de
+
+  tipo da hélice e o sistema de hélice consiste da
+
+  hélice e de todos os componentes necessários ao
+
+  seu funcionamento, mas não necessariamente
+
+  incluídos no projeto de tipo da hélice.'
+keywords:
+- helices
+- aeronavegabilidade
+- helice
+- aplicabilidade
+- componentes
+- consiste
+- projeto
+- tipo
+- deste
+- funcionamento
+- incluidos
+- listados
+- necessariamente
+- necessarios
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

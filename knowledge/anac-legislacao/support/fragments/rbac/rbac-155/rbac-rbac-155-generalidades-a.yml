@@ -1,0 +1,31 @@
+id: rbac-rbac-155-generalidades-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: generalidades
+section_title: Generalidades
+subsection_id: a
+cite: generalidades(a)
+title: generalidades(a)
+text: '(a)
+
+  Todo heliponto deve possuir, no mínimo, uma área de aproximação final e decolagem (FATO)
+  que contenha uma área de toque e elevação inicial (TLOF).'
+keywords:
+- seguranca-aeroportuaria
+- area
+- generalidades
+- aproximacao
+- contenha
+- decolagem
+- elevacao
+- fato
+- final
+- heliponto
+- inicial
+- minimo
+- possuir
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

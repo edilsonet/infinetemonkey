@@ -1,0 +1,62 @@
+id: is-is-135-006-5-3-2-4-body
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.2.4
+section_title: Mínimos de planejamento para aeródromos de alternativa (135.219(b))
+subsection_id: body
+cite: 5.3.2.4
+title: Mínimos de planejamento para aeródromos de alternativa (135.219(b))
+text: '5.3.2.4 Mínimos de planejamento para aeródromos de alternativa (135.219(b))
+
+  5.3.2.4.1 O parágrafo 135.219(b) do RBAC nº 135 requer que o detentor de certificado estabeleça
+  mínimos de planejamento para cada aeródromo a ser utilizado como alternativa em rota ou
+  alternativa de destino, com objetivo de prover uma margem adequada de segurança de que uma
+  aproximação e um pouso poderão ser conduzidos com segurança nesses aeródromos.
+
+  5.3.2.4.2 Conforme o parágrafo 135.213(a)(2) do RBAC nº 135, para que um aeródromo possa
+  ser selecionado como alternativa em rota ou como alternativa de destino, é necessário que,
+  no momento do planejamento do voo, informações meteorológicas atualizadas indiquem que as
+  condições meteorológicas no aeródromo estarão, no horário estimado de utilização, iguais
+  ou acima desses mínimos de planejamento estabelecidos.
+
+  5.3.2.4.3 Os mínimos são normalmente expressos em termos de altitude/altura mínima de descida
+  (MDA/H) ou de decisão (DA/H), visibilidade e/ou alcance visual de pista (RVR) e, se necessário,
+  condições de nuvens (teto). Os valores desses parâmetros para os mínimos de planejamento
+  devem ser superiores aos dos mínimos operacionais.
+
+  5.3.2.4.4 Essa regra tem o objetivo de garantir, com um grau razoável de certeza, que, no
+  horário estimado de utilização, as condições meteorológicas estarão iguais ou acima do mínimo
+  operacional do aeródromo. Considerando a variabilidade natural das condições meteorológicas
+  com o tempo, bem como a necessidade de se selecionar um aeródromo de alternativa antes da
+  decolagem, os mínimos usados para planejamento de voo devem ser sempre superiores aos mínimos
+  operacionais. Dessa forma, o uso de mínimos de planejamento permite que haja um grau de
+  deterioração das condições meteorológicas após a etapa de planejamento e aumenta a probabilidade
+  de que o voo poderá pousar com segurança após um desvio para o aeródromo de alternativa.
+  Isso é especialmente importante quando o período no qual o aeródromo precisa estar aberto
+  é grande ou quando o horário estimado de utilização é consideravelmente depois do planejamento
+  de voo (o que pode ocorrer com voos mais longos).
+
+  5.3.2.4.5 O operador deve estabelecer, em seus manuais, incrementos a serem aplicados aos
+  mínimos operacionais, para obtenção dos mínimos de planejamento. Valores considerados aceitáveis
+  pela ANAC constam:'
+keywords:
+- taxi-aereo
+- operacoes
+- minimos
+- planejamento
+- alternativa
+- aerodromo
+- condicoes
+- meteorologicas
+- aerodromos
+- estimado
+- horario
+- operacionais
+- seguranca
+- utilizacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

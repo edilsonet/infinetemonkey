@@ -1,0 +1,69 @@
+id: is-is-21-61-005-5-4-3-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.4.3
+section_title: Aircraft for which ANAC is the validating authority
+subsection_id: body
+cite: 5.4.3
+title: Aircraft for which ANAC is the validating authority
+text: '5.4.3 Aircraft for which ANAC is the validating authority
+
+  5.4.3.1 Primeiramente, é importante esclarecer que a referência a “cujo requerimento tenha
+  sido realizado após 1º de janeiro de 2025” no parágrafo 21.61-I(e)(3) do RBAC 21 se refere
+  à data de requerimento para a emissão do CT brasileiro. Não se refere à data de requerimento
+  para o certificado de tipo no estado de projeto ou qualquer outra.
+
+  5.4.3.1 At first, it is important to clarify that the reference to “whose application has
+  been submitted after January 1st, 2025” on paragraph 21.61-I(e)(3) of RBAC 21 refers to
+  the date of application for the issuance of the Brazilian TC. It does not refer to the date
+  of application for the type certificate in the state of design or any other.
+
+  5.4.3.2 Considerando o disposto acima, para projetos de tipo estrangeiros cuja solicitação
+  ao CT brasileiro foi submetida anteriormente a 2 de janeiro de 2025, mantém-se válidas as
+  provisões da IS 21-003A (antiga IS para MMEL, agora revogada), segundo a qual caso a ANAC
+  não tenha aprovado especificamente uma MMEL ou Suplemento, aqueles aprovados pela autoridade
+  de aviação civil competente (ou de acordo com as regras dessa autoridade) do detentor do
+  CT ou STC, são considerados automaticamente aprovados no Brasil. Caso não existam tais documentos,
+  a ANAC pode adotar aqueles aprovados por outra autoridade de aviação civil com a qual o
+  Brasil tenha um acordo bilateral de aeronavegabilidade.
+
+  5.4.3.2 Considering the above, for foreign type designs whose application for a Brazilian
+  TC was submitted before January 2nd, 2025, the provisions of the IS 21-003A (former IS for
+  MMEL, now revoked) remain valid, which states that, if ANAC has not specifically approved
+  a MMEL or Supplement, those approved by the competent civil aviation authority (or in accordance
+  with the rules of that authority) of the holder of the TC or STC are automatically considered
+  approved in Brazil. If such documents do not exist, ANAC may adopt those approved by another
+  civil aviation authority with which Brazil has a bilateral airworthiness agreement.
+
+  5.4.3.3 Para requerimentos a um CT brasileiro submetidos após 1º de janeiro de 2025, não
+  mais haverá a aceitação automática da MMEL estrangeira. A validação de CT estrangeiro segue
+  o processo descrito na IS 21-010, para a MMEL inclusive, e há quatro cenários possíveis
+  ao final deste processo:
+
+  5.4.3.3 For applications for a Brazilian TC submitted after January 1st, 2025, such automatic
+  acceptance of the foreign MMEL will no longer exist. Validation of foreign TC follows the
+  process described in IS 21-010, including the MMEL, and there are four possible scenarios
+  at the end of the process:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- authority
+- which
+- application
+- approved
+- civil
+- aircraft
+- aprovados
+- autoridade
+- brasileiro
+- brazilian
+- foreign
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

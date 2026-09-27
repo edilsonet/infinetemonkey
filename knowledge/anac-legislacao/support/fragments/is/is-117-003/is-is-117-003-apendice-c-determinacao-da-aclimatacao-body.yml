@@ -1,0 +1,738 @@
+id: is-is-117-003-apendice-c-determinacao-da-aclimatacao-body
+kind: is
+document: is-117-003
+family: '117'
+section_id: apendice-c-determinacao-da-aclimatacao
+section_title: APÊNDICE C. DETERMINAÇÃO DA ACLIMATAÇÃO
+subsection_id: body
+cite: apendice-c-determinacao-da-aclimatacao
+title: APÊNDICE C. DETERMINAÇÃO DA ACLIMATAÇÃO
+text: 'APÊNDICE C. DETERMINAÇÃO DA ACLIMATAÇÃO
+
+  C.1. Exemplos de determinação da aclimatação, jornadas de trabalho e duração do
+
+  repouso dentro de viagens de um tripulante.
+
+  C.1.1. Os tripulantes e operadores devem se referir à seção 117.5 do RBAC nº 117, que
+
+  orienta a determinação da aclimatação de um tripulante. Os cenários a seguir são
+
+  exemplos de como essas determinações se aplicam.
+
+  C.1.2. Esses cenários são hipotéticos. Os repousos são exemplos, não necessariamente o
+
+  repouso mínimo requerido, que é determinado pelo Apêndice B do RBAC nº 117.
+
+  Os cenários não consideram os limites de jornada e tempos de voo cumulativos ou
+
+  paradas intermediárias em cada jornada. A duração do repouso será sempre maior
+
+  que o da Tabela 8 ou da Tabela 9 desta IS.
+
+  C.2. Exemplo 1: voos domésticos, dentro da América do Sul, Caribe e Costa Leste dos
+
+  EUA.
+
+  C.2.1. Pressupostos:
+
+  a. base contratual do tripulante é o aeroporto de Guarulhos (GRU);
+
+  b. tripulante está aclimatado à Guarulhos no início da primeira jornada da viagem;
+
+  c. voo comercial doméstico de passageiros;
+
+  d. tripulação simples; e
+
+  e. empresa conduz suas operações de acordo com os Apêndices B do RBAC nº 117.
+
+  Resumo da chave de voo:
+
+  Origem Destino
+
+  Início Jornada:
+
+  Hora Local na
+
+  Origem (hh:mm)
+
+  Duração
+
+  Jornada (h)
+
+  Final Jornada:
+
+  Hora Local no
+
+  Destino (hh:mm)
+
+  Duração do
+
+  Repouso (h)
+
+  Guarulhos Cuiabá 10:30 3,5 13:00 15,5
+
+  Cuiabá Rio Branco 4:30(OM) 4,0 7:30 19,0
+
+  Rio Branco Manaus 2:30(OM) 3,0 6:30 (mínimo de 12)
+
+  OM: operação na madrugada
+
+  C.2.2. Análise das jornadas do Exemplo 1.
+
+  a. Determinação da aclimatação.
+
+  i. O tripulante inicia uma jornada de 3,5 horas aclimatado à Guarulhos (local
+
+  original), terminando-a em Cuiabá (novo local), onde um repouso de 15,5
+
+  horas começa. No início do repouso o tripulante fica aclimatado à Cuiabá,
+
+  pois a diferença de 1 fuso entre Guarulhos e Cuiabá é menor que 3 fusos [vide
+
+  Parágrafo 117.5(b)].
+
+  ii. No início da próxima jornada, Cuiabá passa a ser o local original. A duração
+
+  da jornada é de 4 horas e termina em Rio Branco (novo local, um fuso a oeste
+
+  de Cuiabá), onde um repouso de 19 horas começa. No início do repouso oData de emissão: 31
+  de janeiro de 2020 IS nº 117-003
+
+  Revisão B
+
+  tripulante fica aclimatado à Rio Branco, pois a diferença entre Cuiabá (local
+
+  original) e Rio Branco (novo local) é menor que 3 fusos [vide Parágrafo
+
+  117.5(b)].
+
+  iii. No início da próxima jornada, Rio Branco passa a ser o local original. A
+
+  duração da jornada é de 3 horas e termina em Manaus (um fuso a leste de Rio
+
+  Branco). No início do repouso o tripulante fica aclimatado à Manaus, pois a
+
+  diferença entre Guarulhos (local original) e Manaus (novo local) é menor que
+
+  3 fusos [vide Parágrafo 117.5(b)].
+
+  C.2.3. Notas sobre o Exemplo 1.
+
+  a. Como pode ser notado neste exemplo, para jornadas domésticas, o tripulante nunca
+
+  entrará em estado desconhecido de aclimatação. O mesmo ocorre para jornadas
+
+  inteiramente realizadas entre os fusos GMT-3 e GMT-5 (isto é, dentro da América
+
+  do Sul, Caribe e Costa Leste dos EUA).
+
+  b. Nesta chave de voo o tripulante já realizou duas operações seguidas na madrugada.
+
+  Desta forma, a próxima jornada somente poderia ser iniciada a partir das 08:01,
+
+  conforme o item 6.4.12.3 desta IS.
+
+  C.3. Exemplo 2: ida e volta para a costa Oeste dos EUA.
+
+  C.3.1. Pressupostos:
+
+  a. base contratual do tripulante é o aeroporto de GRU;
+
+  b. tripulante está aclimatado à Guarulhos no início da primeira jornada da viagem;
+
+  c. voo comercial doméstico de passageiros:
+
+  d. tipo de tripulação: composta;
+
+  e. classes de acomodação dos tripulantes de voo e de cabine: 2 e 3, respectivamente;
+
+  e
+
+  f. empresa conduz suas operações de acordo com o Apêndice B do RBAC nº 117.
+
+  Resumo da chave de voo:
+
+  Origem Destino
+
+  Início Jornada:
+
+  Hora Local na
+
+  Origem (hh:mm)
+
+  Duração
+
+  Jornada (h)
+
+  Final Jornada:
+
+  Hora Local no
+
+  Destino (hh:mm)
+
+  Duração do
+
+  Repouso
+
+  (horas)
+
+  Guarulhos Cidade do
+
+  México 23:00(OM) 11 7:00 18
+
+  Cidade do México Los Angeles 1:00(OM) 5 4:00 12
+
+  Los Angeles Cidade do
+
+  México 16:00 5 23:00 18
+
+  Cidade do México Guarulhos 17:00 11 7:00 (Mínimo de 20)
+
+  OM: operação na madrugada
+
+  C.3.2. Análise das Jornadas do Exemplo 2.
+
+  a. Determinação da aclimatação.Data de emissão: 31 de janeiro de 2020 IS nº 117-003
+
+  Revisão B
+
+  i. O tripulante inicia uma jornada de 11 horas aclimatado à Guarulhos (local
+
+  original), terminando-a na Cidade do México (três fusos a oeste de
+
+  Guarulhos), onde um repouso de 18 horas começa. No início do repouso o
+
+  tripulante permanece aclimatado à Guarulhos, pois, embora a diferença entre
+
+  Guarulhos (local original) e Cidade do México (novo local) seja de 3 fusos, o
+
+  tripulante está a menos de 36 horas do início da jornada em Guarulhos [vide
+
+  Parágrafo 117.5(c)].
+
+  ii. No início da próxima jornada na Cidade do México, se passaram 29 horas (11
+
+  + 18) desde o início da jornada em Guarulhos. Deste modo, o tripulante
+
+  continua aclimatado à Guarulhos [vide Parágrafo 117.5(c)]. A duração da
+
+  jornada é de 5 horas e termina em Los Angeles (cinco fusos a oeste de
+
+  Guarulhos), onde um repouso de 12 horas se inicia. Na chegada em Los
+
+  Angeles se passaram 34 horas (29 + 5) desde o início da jornada em
+
+  Guarulhos e, portanto, o tripulante continua aclimatado à Guarulhos no início
+
+  do repouso [vide Parágrafo 117.5(d)].
+
+  iii. No início da próxima jornada em Los Angeles, passaram-se 46 horas (34 +
+
+  12), ou seja, mais de 36 horas desde o início da viagem em Guarulhos e foram
+
+  cruzados mais de 3 fusos. Deste modo, o tripulante entra em um estado
+
+  desconhecido de aclimatação [vide Parágrafo 117.5(d)]. A duração da jornada
+
+  é de 5 horas e termina na Cidade do México (três fusos a oeste de Guarulhos),
+
+  onde um repouso de 18 horas se inicia. Na chegada, como o tripulante não
+
+  usufruiu de um período de adaptação em Los Angeles, ele continua em um
+
+  estado desconhecido de aclimatação no início do repouso [vide Parágrafo
+
+  117.5(d)].
+
+  iv. No início da próxima jornada na Cidade do México, o tripulante permanece
+
+  em um estado desconhecido de aclimatação [vide Parágrafo 117.5(d)]. A
+
+  duração da jornada é de 11 horas e termina em Guarulhos, onde o operador é
+
+  obrigado a aclimatar o tripulante, uma vez que este já realizou duas etapas em
+
+  estado desconhecido de aclimatação [vide Parágrafo 117.B(e)(3)].
+
+  Origem Destino
+
+  Tempo
+
+  transcorrido
+
+  do início da
+
+  viagem até
+
+  o início da
+
+  jornada
+
+  (horas)
+
+  Tripulante
+
+  passou por
+
+  um período
+
+  de adaptação
+
+  no final da
+
+  etapa
+
+  anterior?
+
+  Situação de
+
+  aclimatação
+
+  no início da
+
+  etapa.
+
+  Tempo
+
+  transcorrido
+
+  do início da
+
+  viagem até o
+
+  início do
+
+  repouso
+
+  (horas)
+
+  Situação de
+
+  aclimatação
+
+  no início do
+
+  repouso.
+
+  Guarulhos Cidade do
+
+  México 0 - Aclimatado 11 Aclimatado
+
+  Cidade do
+
+  México Los Angeles 29 Não Aclimatado 34 Aclimatado
+
+  Los Angeles Cidade do
+
+  México 46 Não Desconhecido 51 Desconhecido
+
+  Cidade do
+
+  México Guarulhos 69 Não Desconhecido 80 Desconhecido
+
+  b. Determinação da duração máxima de cada jornada.Data de emissão: 31 de janeiro de 2020
+  IS nº 117-003
+
+  Revisão B
+
+  i. A duração máxima de cada jornada será dada pelas tabelas B.2 (tripulante de
+
+  voo) e B.3 (tripulante de cabine), onde a “hora aclimatada referente ao início
+
+  da jornada” é dada pela “hora do local onde o tripulante esteve por último
+
+  aclimatado” [vide Parágrafo 117.B(e)(2)]. Neste exemplo, Guarulhos é o
+
+  local onde por último o tripulante foi aclimatado.
+
+  ii. A duração máxima das jornadas previstas nas tabelas B.2 e B.3 deve ser
+
+  diminuída em 1 hora quando o tripulante esteve em um estado desconhecido
+
+  de aclimatação [vide Parágrafo 117.B(e)(1)].
+
+  Origem Destino
+
+  Diferença de
+
+  fusos entre a
+
+  origem e o
+
+  local onde o
+
+  tripulante foi
+
+  por último
+
+  aclimatado
+
+  Início
+
+  Jornada:
+
+  Hora Local
+
+  na Origem
+
+  (hh:mm)
+
+  Início
+
+  jornada: hora
+
+  no local onde
+
+  o tripulante
+
+  foi por último
+
+  aclimatado
+
+  (hh:mm)
+
+  Jornada
+
+  Máxima
+
+  Tabela B.2
+
+  (horas)
+
+  Jornada
+
+  Máxima
+
+  Tabela B.3
+
+  (horas)
+
+  Guarulhos Cidade do
+
+  México 0 (GRU-GRU) 23:00 23:00 13 13
+
+  Cidade do México Los Angeles 3 (MEX-GRU) 1:00 4:00 13 13
+
+  Los Angeles Cidade do
+
+  México 5 (LAX-GRU) 16:00 21:00 14 - 1 = 13 14 - 1 = 13
+
+  Cidade do México Guarulhos 3 (MEX-GRU) 17:00 20:00 14 - 1 = 13 14 - 1 = 13
+
+  c. Determinação do repouso mínimo de cada jornada e do período de aclimatação em
+
+  Guarulhos.
+
+  i. A duração mínima do repouso será dada considerando a duração da jornada
+
+  anterior, o estado de aclimatação e o número de fusos cruzados, como
+
+  calculado nas Tabelas 8 e 9 desta IS.
+
+  Origem Destino
+
+  Duração da
+
+  Jornada Anterior
+
+  (horas)
+
+  Estado de
+
+  Aclimatação
+
+  do Tripulante
+
+  Número de
+
+  Fusos Cruzados
+
+  em cada
+
+  Jornada
+
+  Repouso
+
+  Mínimo
+
+  (horas)
+
+  Guarulhos Cidade do
+
+  México 11 Aclimatado 3 14 (Tabela 8)
+
+  Cidade do México Los Angeles 5 Aclimatado 2 12 (Tabela 8)
+
+  Los Angeles Cidade do
+
+  México 5 Desconhecido 2 18 (Tabela 9)
+
+  Cidade do México Guarulhos 11 Desconhecido 3 20 (Tabela 9)
+
+  ii. A duração mínima do período de adaptação em Guarulhos será dada de
+
+  acordo com o previsto no parágrafo 117.5(f), como se segue:
+
+  A. maior diferença de fusos na viagem: 5 (entre Guarulhos e Los Angeles);
+
+  B. sentido da jornada: oeste (de Guarulhos para Los Angeles);
+
+  C. período de adaptação segundo a Tabela 1 do RBAC nº 117: 48 horas.
+
+  iii. Desta forma, o tripulante deve usufruir de um período mínimo de 48 horas
+
+  livre de qualquer serviço em Guarulhos, ao final do qual ficará aclimatado a
+
+  esta cidade.Data de emissão: 31 de janeiro de 2020 IS nº 117-003
+
+  Revisão B
+
+  C.3.3. Notas sobre o Exemplo 2.
+
+  a. As duas primeiras jornadas são operações na madrugada com o tripulante
+
+  aclimatado.
+
+  b. Na última jornada o tripulante está em um estado desconhecido de aclimatação.
+
+  Deste modo, essa jornada não é considerada como sendo uma operação na
+
+  madrugada [vide 117.B(o)(5)].
+
+  c. A adaptação é feita após a última jornada considerando a maior diferença de fusos
+
+  na viagem [vide 117.5(f)(2)] e o sentido em que ocorre [vide 117.5(f)(4)].
+
+  d. Todas as consultas às tabelas B.2 e B.3 são feitas utilizando-se a hora local de
+
+  Guarulhos (coluna 1 das duas tabelas), uma vez que:
+
+  i. nas duas primeiras jornadas o tripulante ainda está aclimatado à Guarulhos; e
+
+  ii. nas duas últimas jornadas Guarulhos é o último local onde o tripulante foi
+
+  aclimatado.
+
+  C.4. Exemplo 3: “bate e volta” para a Europa.
+
+  C.4.1. Pressupostos:
+
+  a. base contratual do tripulante é o aeroporto de GRU;
+
+  b. voo comercial internacional de passageiros:
+
+  c. tripulação composta;
+
+  d. classes de acomodação dos tripulantes de voo e de cabine: 2 e 3, respectivamente;
+
+  e
+
+  e. empresa conduz suas operações de acordo com o Apêndice B do RBAC nº 117.
+
+  Resumo da chave de voo:
+
+  Origem Destino
+
+  Início Jornada:
+
+  Hora Local na
+
+  Origem (hh:mm)
+
+  Duração
+
+  Jornada (h)
+
+  Final Jornada:
+
+  Hora Local no
+
+  Destino (hh:mm)
+
+  Duração do
+
+  Repouso (h)
+
+  Guarulhos Lisboa 16:00 12 7:00 26
+
+  Lisboa Guarulhos 9:00 12 18:00 -
+
+  C.4.2. Análise das Jornadas do Exemplo 3.
+
+  a. Determinação da aclimatação.
+
+  i. O tripulante inicia uma jornada de 12 horas aclimatado à Guarulhos (local
+
+  original), terminando-a em Lisboa (três fusos a leste de Guarulhos), onde um
+
+  repouso de 26 horas começa. No início do repouso o tripulante permanece
+
+  aclimatado à Guarulhos, pois, embora a diferença entre Guarulhos (local
+
+  original) e Lisboa (novo local) seja de 3 fusos, o tripulante está a menos deData de emissão:
+  31 de janeiro de 2020 IS nº 117-003
+
+  Revisão B
+
+  36 horas do início da jornada em Guarulhos [vide Parágrafo 117.5(c)].
+
+  ii. No início da próxima jornada em Lisboa, já se passaram 38 horas (12 + 26),
+
+  ou seja, mais de 36 horas desde o início da jornada em Guarulhos. Deste
+
+  modo, o tripulante entra em um estado desconhecido de aclimatação [vide
+
+  Parágrafo 117.5(d)]. A duração da jornada é de 12 horas e termina em
+
+  Guarulhos.
+
+  Origem Destino
+
+  Tempo
+
+  transcorrido
+
+  do início da
+
+  viagem até o
+
+  início da
+
+  jornada
+
+  (horas)
+
+  Tripulante
+
+  passou por
+
+  um período
+
+  de adaptação
+
+  no final da
+
+  etapa
+
+  anterior?
+
+  Situação de
+
+  aclimatação
+
+  no início da
+
+  etapa.
+
+  Tempo
+
+  transcorrido
+
+  do início da
+
+  viagem até o
+
+  início do
+
+  repouso
+
+  (horas)
+
+  Situação de
+
+  aclimatação
+
+  no início do
+
+  repouso.
+
+  Guarulhos Lisboa 0 - Aclimatado 12 Aclimatado
+
+  Lisboa Guarulhos 38 Não Desconhecido 50 Desconhecido
+
+  b. Determinação da duração máxima de cada jornada.
+
+  i. A duração máxima de cada jornada será dada pelas tabelas B.2 (tripulante de
+
+  voo) e B.3 (tripulante de cabine), onde a “hora aclimatada referente ao início
+
+  da jornada” é dada pela “hora do local onde o tripulante esteve por último
+
+  aclimatado” [vide Parágrafo 117.B(e)(2)]. Neste exemplo, Guarulhos é o
+
+  local onde por último o tripulante foi aclimatado.
+
+  ii. A duração máxima das jornadas previstas nas tabelas B.2 e B.3 deve ser
+
+  diminuída em 1 hora na etapa Lisboa - Guarulhos, uma vez que ela foi
+
+  realizada com o tripulante em um estado desconhecido de aclimatação [vide
+
+  Parágrafo 117.B(e)(1)].
+
+  Origem Destino
+
+  Diferença de
+
+  fusos entre a
+
+  origem e o
+
+  local onde o
+
+  tripulante foi
+
+  por último
+
+  aclimatado
+
+  Início
+
+  Jornada:
+
+  Hora Local
+
+  na Origem
+
+  (hh:mm)
+
+  Início jornada:
+
+  hora no local
+
+  onde o
+
+  tripulante foi
+
+  por último
+
+  aclimatado
+
+  (hh:mm)
+
+  Jornada
+
+  Máxima
+
+  Tabela B.2'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- guarulhos
+- tripulante
+- inicio
+- horas
+- local
+- aclimatado
+- repouso
+- aclimatacao
+- duracao
+- cidade
+- mexico
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-117-003.md

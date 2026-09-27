@@ -1,0 +1,56 @@
+id: is-is-121-016-5-4-4-b
+kind: is
+document: is-121-016
+family: '121'
+section_id: 5.4.4
+section_title: É aceitável uma margem de uma hora antes e uma hora depois do horário previsto
+  de utilização.
+subsection_id: b
+cite: 5.4.4(b)
+title: 5.4.4(b)
+text: 'b) não for possível retornar para o aeródromo de decolagem por qualquer razão.
+
+  5.5.2 O objetivo do requisito é permitir o atendimento a uma emergência durante ou imediatamente
+  após a decolagem que requeira um pouso tão breve quanto possível, como, por exemplo, uma
+  falha de motor ou fogo a bordo. Deve se considerar que a capacidade de aproximação e pouso
+  do avião pode ser prejudicada em razão da emergência. Assim, os mínimos operacionais de
+  pouso indicados em 121.617(a) devem considerar pouso com um motor inoperante.
+
+  5.5.3 Para garantir o cumprimento desse objetivo, deve-se garantir que o avião, em configuração
+  não normal, seja capaz de subir para, e manter, altitude que permita separação adequada
+  com os obstáculos e navegação adequada na rota para o aeródromo de alternativa de decolagem.
+
+  5.5.4 O parágrafo 121.617(b) do RBAC nº 121 requer que, para ser selecionado como aeródromo
+  de alternativa de decolagem, as informações meteorológicas atualizadas devem indicar que
+  as condições meteorológicas no aeródromo estarão, no horário estimado de utilização, iguais
+  ou acima dos mínimos operacionais para pouso estabelecidos pelo operador. Esses mínimos
+  também devem considerar pouso com um motor inoperante.
+
+  5.5.5 Os subparágrafos de 121.617(a) estabelecem as distâncias máximas do aeródromo de alternativa
+  de decolagem, em termos de tempo de voo a partir do aeródromo de decolagem. Para se utilizar
+  o parágrafo 121.617(a)(1)(ii), a operação deve cumprir todos os requisitos de operações
+  ETOPS.
+
+  5.5.6 Para a conversão entre distância e tempo de voo e para a obtenção do horário estimado
+  de utilização do aeródromo de alternativa de decolagem, deve ser considerada a velocidade
+  indicada no requisito:'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- decolagem
+- pouso
+- alternativa
+- considerar
+- horario
+- minimos
+- motor
+- utilizacao
+- adequada
+- aviao
+- emergencia
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-016.md

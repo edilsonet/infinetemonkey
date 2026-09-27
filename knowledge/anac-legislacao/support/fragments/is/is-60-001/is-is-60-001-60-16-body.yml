@@ -1,0 +1,101 @@
+id: is-is-60-001-60-16-body
+kind: is
+document: is-60-001
+family: '60'
+section_id: '60.16'
+section_title: '60.16'
+subsection_id: body
+cite: '60.16'
+title: '60.16'
+text: '60.16
+
+  22
+
+  A política, processo ou procedimento especificando como o operador executa todos os testes
+  objetivos apropriados, progressivamente em pelo menos quatro blocos durante cada ano, conforme
+  especificado no QPS ou na base de qualificação do FSTD, ou conforme requerido por uma diretriz
+  de FSTD.
+
+  60.19(a)(1)
+
+  23
+
+  A política, processo ou procedimento especificando como o operador executa e registra uma
+  comprovação de pré voo funcional, nas 24 horas precedentes, incluindo uma descrição do pré
+  voo funcional.
+
+  60.19(a)(2)
+
+  24
+
+  A política, processo ou procedimento, especificando a forma como é disponibilizado FSTD
+  e sua respectiva documentação para a avaliação para qualificação recorrente junto a ANAC
+  conforme RBAC 60.19(b)(1), (2), (3),(4) e (5).
+
+  60.19(b)
+
+  25
+
+  A política, processo ou procedimento, especificando a responsabilidade do operador em relação
+  a manutenção corretiva e preventiva do FSTD a fim de garantir o cumprimento dos requisitos
+  do fabricante do FSTD e do RBAC.60.
+
+  60.19(c)
+
+  26
+
+  A política, processo ou procedimento que garanta como as discrepâncias são mantidas e registradas,
+  incluindo:
+
+  60.19(c )(1) e (2)
+
+  26.1
+
+  Uma descrição de como as discrepâncias são registradas e mantidas no sistema de controle
+  do operador, até a sua correção conforme a seção 60.25(b) do RBAC 60;
+
+  60.19(c)(2)(i)
+
+  26.2
+
+  A descrição da ação corretiva tomada para cada discrepância, incluindo referências técnicas
+  (manual do fabricante, por exemplo), a identificação da pessoa que executou a ação, e a
+  data em que ela ocorreu;
+
+  60.19(c)(2)(ii)
+
+  26.3
+
+  A política, processo ou procedimento especificando como o registro de discrepância é mantido
+  e disponibilizado, se dentro ou em local adjacente ao FSTD (por meio físico ou eletrônico).
+
+  60.19(c)(2)(iii)
+
+  27
+
+  A política, processo ou procedimento que inclua ou faça com que seja incluída que cada instrutor,
+  examinador credenciado, ou servidor da ANAC conduzindo ou acompanhando treinamento, avaliação,
+  ou experiência de voo, e cada pessoa que conduzindo a inspeção de pré voo que verifique
+  uma discrepância, qualquer componente faltante, com mau funcionamento ou inoperante no FSTD,
+  deverá escrever ou fazer com que seja escrito uma descrição dessa discrepância no registro
+  de discrepância usado pelo operador.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- politica
+- procedimento
+- processo
+- discrepancia
+- especificando
+- operador
+- cada
+- descricao
+- incluindo
+- acao
+- avaliacao
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

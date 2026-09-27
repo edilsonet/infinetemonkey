@@ -1,0 +1,39 @@
+id: is-is-135-006-5-3-4-5-d
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.4.5
+section_title: Combustível para o aeródromo de alternativa (135.223(a)(3))
+subsection_id: d
+cite: 5.3.4.5(d)
+title: 5.3.4.5(d)
+text: 'd) voos sem designação de aeródromo de alternativa de destino: aeródromos isolados
+  (135.218(a)(2) e parágrafo 5.3.3.3.4 desta IS): o “combustível para o aeródromo de alternativa”,
+  nesse caso, inclui o combustível de reserva final e deve ser:
+
+  I - para aeronaves com motor convencional, a quantidade de combustível requerida para voar
+  em nível de cruzeiro por duas horas ou por 45 minutos mais 15% do tempo de voo planejado,
+  o que for menor; ou
+
+  II - para aeronaves com motor a turbina, a quantidade de combustível requerida para voar
+  por duas horas, com consumo normal de cruzeiro, sobre o aeródromo de destino.'
+keywords:
+- taxi-aereo
+- operacoes
+- combustivel
+- aerodromo
+- alternativa
+- aeronaves
+- cruzeiro
+- destino
+- duas
+- horas
+- motor
+- quantidade
+- requerida
+- voar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

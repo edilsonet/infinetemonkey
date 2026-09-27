@@ -1,0 +1,37 @@
+id: is-is-91-001-e2-2-g
+kind: is
+document: is-91-001
+family: '91'
+section_id: E2.2
+section_title: 'Procedimentos operacionais gerais para operações RNAV 1 e 2:'
+subsection_id: g
+cite: E2.2(g)
+title: E2.2(g)
+text: g) a seleção manual de funções de limitação de ângulo de rolagem (bank angle) pode reduzir
+  a habilidade da aeronave e tripulação em manter a trajetória desejada, especialmente quando
+  for necessária a execução de curvas com elevados ângulos de inclinação. Diante de tal condição,
+  a seleção manual de funções de limitação de ângulo de rolagem não é recomendada. Tal fato
+  não pode ser interpretado como um mecanismo que possibilite o desvio dos procedimentos previstos
+  no manual de voo da aeronave, contudo os pilotos devem ter ciência de tal situação e devem
+  ser encorajados a somente utilizar manualmente estas funções dentro de procedimentos operacionais
+  adequados.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- funcoes
+- manual
+- procedimentos
+- aeronave
+- angulo
+- limitacao
+- operacionais
+- pode
+- rolagem
+- selecao
+- adequados
+- angle
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

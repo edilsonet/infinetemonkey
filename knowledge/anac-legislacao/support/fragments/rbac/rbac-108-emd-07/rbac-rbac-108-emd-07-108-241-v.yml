@@ -1,0 +1,35 @@
+id: rbac-rbac-108-emd-07-108-241-v
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.241'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: v
+cite: 108.241(v)
+title: 108.241(v)
+text: '(v) teste nas instalações dos expedidores reconhecidos registrados pelo operador aéreo.
+
+  (A) no caso de o expedidor reconhecido ser registrado por mais de um operador aéreo, os
+  operadores poderão se organizar para realizar uma única bateria de testes.
+
+  (7) os testes AVSEC devem ser coordenados e acompanhados por profissional(is) capacitado(s),
+  nos termos do PNIAVSEC.'
+keywords:
+- seguranca
+- operador
+- aereo
+- avsec
+- testes
+- acompanhados
+- atividades
+- bateria
+- capacitado
+- caso
+- controle
+- coordenados
+- expedidor
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

@@ -1,0 +1,33 @@
+id: is-is-91-001-k8-5-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: K8.5
+section_title: 'Para solicitações de autorização inicial genérica, ou para solicitação de
+  autorização específica, o operador deve submeter a ANAC no mínimo a seguinte documentação:'
+subsection_id: c
+cite: K8.5(c)
+title: K8.5(c)
+text: c) tipo e descrição dos equipamentos a serem utilizados. O operador deve prover lista
+  das configurações contendo detalhes relevantes dos componentes e equipamentos utilizados.
+  A lista deve especificar o fabricante, o modelo e a versão do software instalado no FMS;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- autorizacao
+- equipamentos
+- lista
+- operador
+- utilizados
+- componentes
+- configuracoes
+- contendo
+- descricao
+- detalhes
+- documentacao
+- especifica
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

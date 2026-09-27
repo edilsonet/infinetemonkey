@@ -1,0 +1,177 @@
+id: is-is-145-009-5-5-13-1-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.13.1
+section_title: 'Referências: RBACs nº 43 e 145, parágrafos 43.13(a), 145.211(c), 145.109(b)-I
+  e 145.109(b)-II.'
+subsection_id: body
+cite: 5.5.13.1
+title: 'Referências: RBACs nº 43 e 145, parágrafos 43.13(a), 145.211(c), 145.109(b)-I e 145.109(b)-II.'
+text: '5.5.13.1 Referências: RBACs nº 43 e 145, parágrafos 43.13(a), 145.211(c), 145.109(b)-I
+  e 145.109(b)-II.
+
+  5.5.13.2 Procedimentos de calibração periódica: o parágrafo145.211(c) do RBAC nº 145 requer
+  que o MCQ da OM contenha os procedimentos usados em relação à calibração de ferramentais/instrumentos/equipamentos
+  de medida e teste (referidos nessa seção simplesmente como “instrumentos”), incluindo os
+  intervalos entre calibrações. O parágrafo 145.109(b)-I do RBAC nº 145 estabelece que a OM
+  deve assegurar que todos os instrumentos utilizados para determinar a aeronavegabilidade
+  de artigos sejam calibrados de acordo com as instruções do fabricante através de um padrão
+  rastreável ao estabelecido pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia
+  - INMETRO, um padrão estabelecido pelo fabricante do instrumento ou do seu país de origem
+  ou outro aceito pela ANAC.
+
+  NOTA 1: O termo “aferição” não é mais utilizado pelo INMETRO. Caso a calibração mencionada
+  nos documentos de serviço ou dados técnicos sejam referentes a um procedimento diferente
+  da calibração periódica (que na maioria das vezes o intervalo é anual), pode-se utilizar
+  o termo “verificação”, procedimento muito comum efetuado antes de se utilizar um “instrumento”
+  calibrado.
+
+  NOTA 2: Verificação funcional - Algumas bancadas de teste (que contém um ou mais instrumentos
+  calibráveis) requerem uma calibração específica após uma mudança de local ou, antes que
+  seja utilizada. Esta calibração não é equivalente à calibração regulamentar e periódica.
+  O MOM deve descrever como a OM assegura que essas verificações são executadas, antes da
+  bancada ser utilizada para executar manutenção ou alterações em artigos da aviação civil
+  e garantir a aeronavegabilidade.
+
+  5.5.13.3 Certificado de Calibração - O RBAC nº 145 estabelece que todos os instrumentos
+  utilizados para determinar a aeronavegabilidade de um artigo (exemplos: paquímetros, micrômetros,
+  relógios comparadores, manômetros, multímetros, torquímetros, medidores de intensidade de
+  luz branca e/ou negra, Air Data Test, etc., inclusive os digitais) devem ser calibrados
+  em períodos recomendados pelo fabricante. Esses instrumentos normalmente são fornecidos
+  pelo fabricante com um Certificado de Calibração (calibração inicial). As instruções dos
+  fabricantes devem conter as recomendações de quando repetir a calibração (calibração periódica)
+  para os casos de utilização normal. Em geral, a calibração periódica repete-se em intervalos
+  entre 6 e 12 meses. A calibração pode ser feita na própria OM (caso esta seja equipada com
+  Laboratório de Calibração apropriadamente equipado para esse fim) ou contratada de terceiros
+  (prestadores de serviço). Os fabricantes em geral recomendam uma calibração em prazos menores
+  caso seja constatada dúvida, em casos de acidentes com um instrumento, ou quando a utilização
+  é mais agressiva do que a esperada.
+
+  5.5.13.4 Rastreabilidade dos padrões utilizados na calibração - A calibração periódica deve
+  ser executada por pessoas apropriadamente treinadas e qualificadas, em laboratórios de calibração,
+  sempre com padrões rastreáveis a um padrão reconhecido pela ANAC, e estes devem ser listados
+  no certificado de calibração que é fornecido pelo prestador de serviço de calibração. No
+  Brasil, os padrões de calibração reconhecidos pela ANAC são os padrões do Instituto Nacional
+  de Metrologia, Qualidade e Tecnologia - INMETRO. Caso o instrumento necessite ser enviado
+  ao exterior por não haver, no Brasil, empresa que possa calibrá-lo, o requisito de calibração
+  deve ser mantido. O padrão utilizado pelo prestador de serviço no exterior deve ser rastreável
+  a, por exemplo, um padrão de um instituto de metrologia reconhecido por esse país (por exemplo:
+  NIST- National Institute of Standards and Technology) e equivalente ao INMETRO. Existem
+  casos específicos em que apenas o fabricante original é capacitado a prestar o serviço de
+  calibração do equipamento e, nesses casos, a ANAC também reconhece os padrões desse fabricante
+  como aceitáveis. Entretanto, a OM deve se certificar que o Certificado de Calibração contenha
+  as informações de rastreabilidade aos padrões citados.
+
+  NOTA 1: Rede Brasileira de Calibração - RBC: No Brasil, muitas empresas que fornecem serviços
+  de calibração pertencem à Rede Brasileira de Calibração - RBC, e são acreditadas pelo INMETRO
+  (não se utiliza o termo credenciada) para as grandezas em que demonstra seguir os requisitos
+  desse Instituto. Uma OM pode utilizar uma empresa acreditada pelo INMETRO na grandeza específica
+  relacionada à ferramenta que deseja calibrar e assim receber um certificado de calibração
+  com o selo RBC, que indica que existe acreditação naquela grandeza calibrada (Observação:
+  uma empresa acreditada pode oferecer serviços de calibração com ou sem referenciar a acreditação).
+  Quando a empresa referencia a acreditação pelo INMETRO, o Certificado de Calibração emitido
+  contém um selo RBC.
+
+  5.5.13.5 Controle de calibração. Esta seção do manual deve explicar o sistema adotado pela
+  OM para controlar e executar calibração de instrumentos calibráveis. A OM é responsável
+  pelo programa de calibração, independentemente da calibração ser própria ou contratada com
+  terceiros. Os intervalos máximos entre calibrações dos instrumentos, equipamentos ou ferramentas
+  devem ser aqueles estabelecidos pelo fabricante ou em dados técnicos aceitáveis pela ANAC.
+  Na ausência de instruções do fabricante ou de dados técnicos aceitáveis pela ANAC, a OM
+  poderá propor um intervalo com base nas características técnicas e de operação de cada equipamento,
+  estando tal proposta sujeita à aceitação da ANAC. A OM deve manter os registros de calibração
+  por um prazo de pelo menos 5 (cinco) anos, ou pelo menos as últimas 2 calibrações, o que
+  for maior.
+
+  NOTA 1: Se a OM tiver a intenção de propor alterações nos prazos de calibração (prazos além
+  do especificado pelo fabricante OEM - Original Equipment Manufacturer), essas 2 calibrações
+  podem ser insuficientes para demonstrar a estabilidade dos instrumentos para justificar
+  o novo prazo pleiteado.
+
+  NOTA 2: Quando uma OM utiliza serviços de um laboratório de calibração (localizado no Brasil)
+  não acreditado pelo INMETRO, a OM deve garantir que o laboratório siga um sistema de controle
+  de qualidade equivalente ao sistema de qualidade da OM.
+
+  5.5.13.6 OM que calibra os seus instrumentos. É esperado que a OM que calibra seus próprios
+  instrumentos siga os requisitos estabelecidos na norma ISO 17025 (“Requisitos gerais para
+  a competência de laboratórios de ensaio e calibração”), ou norma equivalente, ou estabeleça
+  procedimentos semelhantes aos da ISO. A OM deve possuir padrões de calibração rastreáveis
+  ao INMETRO, ou um padrão estabelecido pelo fabricante do equipamento ou do seu país de origem
+  ou outro aceito pela ANAC e deve emitir certificados de calibração que contenham referências
+  aos padrões utilizados.
+
+  5.5.13.7 Lista de ferramentas/equipamentos/instrumentos calibráveis: a OM deve manter uma
+  lista de instrumentos calibráveis pelo número de patrimônio (ou nome, modelo, número de
+  parte, número de série, data da última calibração) e a data de vencimento da calibração.
+  Se a OM permite o uso de instrumentos de propriedade de uma pessoa da OM, essas devem ser
+  incluídas no sistema de calibração periódica da OM. Muitas OM optam por manter os registros
+  no sistema (computador ou rede). Uma lista computadorizada permite a facilidade de gerenciar
+  a calibração periódica. As pessoas que executam a calibração precisam ter experiência e/ou
+  treinamento no sistema do computador, bem como das técnicas de calibração.
+
+  5.5.13.8 Treinamento: o pessoal que executa a calibração periódica precisa ter conhecimento,
+  treinamento ou experiência necessária para assegurar uma calibração adequada. Registros
+  de treinamento ou experiência precisam constar no arquivo de treinamento de cada empregado,
+  ou no seu sumário de emprego.
+
+  5.5.13.9 Identificação de ferramenta/equipamento/instrumento calibrado de medição: a OM
+  deve estabelecer um sistema de identificação para instrumentos que não comprometa sua função
+  ou operacionalidade. Por exemplo: não se deve marcar instrumentos sensíveis tais como relógios
+  comparadores, micrômetros, etc. com estampos ou vibrogravação, pois se pode causar deformações
+  indesejáveis em locais sensíveis. A vibrogravação também pode ser prejudicial pois remove
+  as camadas externas de tratamento antioxidante das mesmas. É mais aconselhável a utilização
+  de etiquetas metálicas adesivas. Em alguns casos é admitida a gravação por etching.
+
+  5.5.13.10 Status de calibração e controle de calibração periódica: o status de calibração
+  de um instrumento deve ser identificável de alguma maneira para evitar o uso inadvertido
+  de um instrumento com calibração não válida no processo de manutenção. A identificação do
+  status pode ser por meio de etiqueta colorida, onde inclui o número de série ou outra identificação,
+  data da última calibração, data da próxima calibração, o nome ou rubrica da pessoa que executou
+  a calibração e outras restrições aplicáveis. É importante que o número de série possa ser
+  identificado, caso a etiqueta seja removida ou perdida. Todos os instrumentos devem ser
+  protegidos contra avaria e deterioração durante manuseio, manutenção e armazenagem. Os procedimentos
+  precisam indicar como e quando um instrumento é retirado do serviço para ser calibrado,
+  e o título da pessoa responsável por garantir que o instrumento é entregue ao técnico em
+  calibração ou é enviado para calibração externa. Os procedimentos também devem descrever
+  como a OM determina o status de calibração de novos instrumentos, antes de serem disponibilizados
+  para serviço. A OM deve incluir a forma e disposição das etiquetas de status de calibração
+  no MOM e as pessoas que utilizam esses instrumentos devem ser treinados a verificar as etiquetas
+  de status antes da utilização de um instrumento. A OM pode incluir um sistema de consulta
+  online nas oficinas da OM para a verificação do status de um instrumento antes de sua utilização.
+
+  5.5.13.11 Instrumentos com calibração limitada, fora da calibração ou desvios: os instrumentos
+  utilizados para a determinação de aeronavegabilidade devem estar calibrados em toda a faixa
+  de leitura. A OM pode utilizar uma ferramenta/equipamento/instrumento de medição que apresenta
+  uma estreita faixa de calibração fora da aceitável somente se esse instrumento não é usado
+  para fazer a determinação de aeronavegabilidade naquela faixa. Os procedimentos devem descrever
+  como esse instrumento de medição é identificado e controlado. Instrumentos de medição podem
+  apresentar uma calibração limitada (aceitável em uma faixa restrita), e as limitações devem
+  ser claramente marcadas no instrumento ou etiqueta.
+
+  5.5.13.12 Análise dos certificados de calibração: um certificado de calibração não autoriza
+  a plena utilização automática do instrumento. A OM deve estabelecer procedimentos para verificar
+  se a faixa calibrada, os desvios e as incertezas desqualificam ou mantém a qualificação
+  de um instrumento a ser utilizado em cada serviço pretendido. A OM deve prever a destinação
+  de um instrumento que não possa mais ser utilizado para a determinação de aeronavegabilidade
+  de um produto.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- calibracao
+- instrumentos
+- instrumento
+- fabricante
+- periodica
+- inmetro
+- pode
+- padroes
+- servico
+- sistema
+- certificado
+- procedimentos
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

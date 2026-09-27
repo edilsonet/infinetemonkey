@@ -1,0 +1,46 @@
+id: is-is-94-002-5-4-6-g
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.6
+section_title: Informações e alertas relevantes para operações BVLOS ou acima de 400 pés AGL
+  -
+subsection_id: g
+cite: 5.4.6(g)
+title: 5.4.6(g)
+text: 'g) Outros alertas que tenham sido definidos como relevantes a partir da Análise de
+
+  Risco de Projeto de RPAS.
+
+  Deverá ser demonstrado que os alertas são sempre apresentados com tempo suficiente para
+
+  que o piloto possa tomar as providências necessárias em relação ao evento ocorrido. Atrasos
+
+  na apresentação dos alertas deverão ser levados em conta nesta demonstração.
+
+  Para RPAS Classe 2 ou 3 que se destine a operação na linha de visada visual (Visual Line
+  of
+
+  Sight - VLOS) e cuja altura máxima de operação exceda 400 pés acima do nível do solo
+
+  (Above Ground Level - AGL), são aplicáveis os itens (b), (c) e (h) do parágrafo 5.4.6.1,
+  todo
+
+  o parágrafo 5.4.6.2, itens (c), (d), (f) e (g) do parágrafo 5.4.6.3 e todo o parágrafo 5.4.6.4.'
+keywords:
+- alertas
+- paragrafo
+- acima
+- operacao
+- relevantes
+- rpas
+- todo
+- visual
+- above
+- altura
+- analise
+- aplicaveis
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

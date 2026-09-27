@@ -1,0 +1,82 @@
+id: is-is-121-012-5-4-11-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.4.11
+section_title: Aprovação
+subsection_id: body
+cite: 5.4.11
+title: Aprovação
+text: '5.4.11 Aprovação
+
+  5.4.11.1 Uma vez aprovada, a operação ETOPS será incluída nas EO do detentor de certificado,
+  identificando-se o tempo de desvio máximo para cada combinação avião-motor.
+
+  5.4.11.2 A autorização para realização de voo ETOPS, para aviões bimotores, se sobrepõe
+  aos requisitos da seção 121.193 do RBAC nº 121, ou seja, não é requerido que um avião bimotor
+  autorizado a operar ETOPS permaneça, a qualquer ponto da rota, a até 90 minutos de voo (com
+  todos os motores operando em potência de cruzeiro) de um aeródromo que atenda aos requisitos
+  da seção 121.197 do RBAC nº 121.
+
+  5.5 Operação em serviço
+
+  5.5.1 Alterações na regulamentação sobre operações ETOPS podem exigir alterações nos procedimentos
+  do detentor de certificado. Além disso, alterações em procedimentos (motivadas ou não por
+  alterações na regulamentação) podem exigir alterações nos treinamentos. A dimensão de tais
+  alterações deve ser avaliada caso a caso. Por exemplo, pode ser suficiente a divulgação
+  do novo procedimento por boletins, destacando as alterações de procedimentos inseridas nos
+  manuais, caso as alterações não sejam tão significativas; ou pode ser requerida a realização
+  de novos treinamentos formais, caso as alterações sejam maiores.
+
+  Nota: também podem ser requeridas alterações nos procedimentos ou nos treinamentos em razão
+  da obtenção de novas autorizações ETOPS (aumento do tempo de desvio máximo, por exemplo).
+  Porém, nesse caso, o detentor de certificado deve se submeter a um novo processo de aprovação,
+  conforme detalhado no parágrafo 5.4 desta IS.
+
+  5.5.2 Período de inatividade. Caso um detentor de certificado autorizado a realizar operações
+  ETOPS deixe de realizar tais operações por um período superior a 12 meses, para manter-se
+  autorizado, deve realizar simulações dos procedimentos ETOPS. A simulação deve envolver
+  pelo menos uma operação ETOPS por tripulante/DOV que se pretende manter apto, podendo ser
+  realizada em conjunto com o treinamento periódico.
+
+  5.5.2.1 Com relação ao treinamento, caso o detentor de certificado tenha optado por ministrar
+  o treinamento de ETOPS a todos os tripulantes e DOVs, como parte dos treinamentos requeridos
+  (vide 5.2.7.2 desta IS), deve manter todos com os treinamentos atualizados; já caso tenha
+  optado por ministrar o treinamento a um grupo específicos de tripulantes e DOVs, pode optar
+  por não manter os treinamentos atualizados para os tripulantes e DOVs enquanto esses não
+  estiverem realizando operações ETOPS. No entanto, para a retomada de operações reais ETOPS,
+  todos os tripulantes e DOVs envolvidos devem estar com treinamento atualizado.
+
+  5.6 Orientações para voos não ETOPS
+
+  5.6.1 Os detentores de certificado que operam aviões com dois motores e os que operam com
+  transporte de passageiros com aviões com mais de dois motores, independentemente de requererem
+  aprovação ETOPS, devem monitorar suas rotas de forma a garantir que não haja entrada inadvertida
+  em área de operações ETOPS. Ressalta-se que a área de operação ETOPS pode ocorrer em qualquer
+  terreno - e não necessariamente sobre o oceano -, dependendo essencialmente da disponibilidade
+  de aeródromos adequados, o que, por sua vez, depende das características de desempenho de
+  pouso do avião utilizado: um avião que pode pousar em pistas mais curtas terá mais aeródromos
+  adequados à disposição do que um avião que exige pistas mais longas.
+
+  5.6.2 Assim, para todos os seus voos não ETOPS, para cada modelo de avião de sua frota,
+  o detentor de certificado deve atestar que há aeródromos adequados que sustentam a rota,
+  de forma que:'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- alteracoes
+- caso
+- certificado
+- aviao
+- detentor
+- treinamentos
+- aprovacao
+- pode
+- procedimentos
+- todos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

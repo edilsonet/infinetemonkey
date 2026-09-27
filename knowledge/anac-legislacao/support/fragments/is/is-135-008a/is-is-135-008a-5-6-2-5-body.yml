@@ -1,0 +1,75 @@
+id: is-is-135-008a-5-6-2-5-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.6.2.5
+section_title: Itens críticos. Os itens críticos devem ser verificados tanto pelo PF quanto
+  pelo PM.
+subsection_id: body
+cite: 5.6.2.5
+title: Itens críticos. Os itens críticos devem ser verificados tanto pelo PF quanto pelo PM.
+text: '5.6.2.5 Itens críticos. Os itens críticos devem ser verificados tanto pelo PF quanto
+  pelo PM.
+
+  5.6.2.5.1 Na fase antes do início da partida dos motores, os itens de navegação e orientação
+  de voo são considerados itens críticos. Uma atenção conjunta deve ser exigida de ambos os
+  pilotos quando a mesma configuração for necessária para mais de um dispositivo (como computadores,
+  instrumentos de voo e altímetros). O alinhamento da plataforma inercial e a programação
+  de computadores devem ser realizados por um membro da tripulação e confirmados independentemente
+  por outro. O maior número de itens dessa lista de verificação deve ser realizado e verificado
+  antes da movimentação da aeronave.
+
+  5.6.2.5.2 Nas fases de táxi e pré-decolagem, a configuração da aeronave (como flapes, compensador
+  e freios aerodinâmicos) e itens de orientação de voo (como proa, diretor de voo, configurações
+  do painel de seleção de altitude e velocidade) também são itens críticos. Considerações
+  devem ser feitas para operações fora da rotina, como degelo da aeronave, que podem resultar
+  em mudanças de configuração com relação ao que foi previamente definido.
+
+  5.6.2.5.3 Na aproximação, os itens de orientação de voo da lista de verificação são críticos.
+  O PF e o PM devem ser obrigados a confirmar e responder a esses itens da lista de verificação.
+  Atenção conjunta deve ser necessária quando a mesma configuração é necessária em dois dispositivos
+  separados (como computadores, instrumentos de voo ou altímetros).
+
+  5.6.2.5.4 Os itens da lista de verificação que são críticos na fase de pré-pouso variam
+  com o tipo de aeronave envolvida. O trem de pouso e os flapes são itens críticos e deve-se
+  exigir uma confirmação e resposta de ambos os pilotos quando da execução da lista de verificação.
+
+  5.6.2.5.5 Não se deve depender de uma lista de verificação para iniciar uma alteração na
+  configuração da aeronave. Os operadores devem orientar as mudanças de configuração da aeronave
+  em eventos operacionais específicos (por exemplo, baixar o trem de pouso na interceptação
+  do glide). Para qualquer alteração na configuração, um comando do PF e um reconhecimento
+  do piloto que toma a ação devem ser necessários.
+
+  5.6.2.6 Interrupções. Os pilotos muitas vezes não conseguem completar uma lista de verificação
+  por causa de uma interrupção ou de um item na lista de verificação que ainda não foi realizado.
+  Procedimentos operacionais devem ser estabelecidos para garantir que a sequência correta
+  da lista de verificação seja completada após uma interrupção. Se a sequência não puder ser
+  restabelecida ou a tripulação não estiver esclarecida sobre onde retomar a lista de verificação,
+  a seção apropriada da lista de verificação deve ser realizada desde o início.
+
+  5.6.2.7 Itens representativos. Os itens representativos são itens selecionados que representam
+  um subconjunto inteiro de um fluxo de ações, de tal modo que se o item selecionado foi executado,
+  o subconjunto inteiro também deve ter sido executado. Por exemplo, se todas as indicações
+  do motor estiverem “no verde”, toda a sequência de partida do motor deve ter sido feita
+  corretamente; portanto, verificar as indicações do motor pode servir como um item representativo
+  para a sequência de partida do motor.'
+keywords:
+- taxi-aereo
+- operacoes
+- criticos
+- lista
+- verificacao
+- configuracao
+- aeronave
+- motor
+- sequencia
+- computadores
+- necessaria
+- orientacao
+- partida
+- pilotos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

@@ -1,0 +1,85 @@
+id: is-is-135-003-5-2-5-5-3-a
+kind: is
+document: is-135-003
+family: '135'
+section_id: 5.2.5.5.3
+section_title: Em sendo o caminho da proposição do programa de treinamento o escolhido por
+  um
+subsection_id: a
+cite: 5.2.5.5.3(a)
+title: 5.2.5.5.3(a)
+text: 'a) As cargas horárias a seguir definidas devem ser aplicadas a cada família de
+
+  aeronaves acima definidas e ao tipo de operação realizado pelo operador.
+
+  Carga Horária - Solo - aeronaves monomotoras
+
+  Inicial Periódico Transição Elevação de nível
+
+  Sob demanda VFR 4 4 4 4
+
+  Sob demanda IFR 8 4 8 4
+
+  LAS e op. complementar
+
+  (somente asa fixa) 24 8 24 16Data de emissão: 12 de junho de 2020.
+
+  IS nº 135-003
+
+  Revisão D
+
+  Carga Horária - Voo - aeronaves monomotoras
+
+  Inicial Periódico Transição Elevação de nível
+
+  Sob demanda VFR 2 2 1 1
+
+  Sob demanda IFR 4 3 4 4
+
+  LAS e op. complementar
+
+  (somente asa fixa) 10 4 8 6
+
+  Carga Horária - Solo - aeronaves mutimotoras
+
+  Inicial Periódico Transição Elevação de nível
+
+  Sob demanda VFR 8 4 8 4
+
+  Sob demanda IFR 16 4 16 8
+
+  LAS e op. complementar
+
+  (somente asa fixa) 48 8 48 16
+
+  Carga Horária - Voo - aeronaves multimotoras
+
+  Inicial Periódico Transição Elevação de nível
+
+  Sob demanda VFR 2 2 1 1
+
+  Sob demanda IFR 4 3 4 4
+
+  LAS e op. complementar
+
+  (somente asa fixa) 10 4 8 6'
+keywords:
+- taxi-aereo
+- operacoes
+- demanda
+- aeronaves
+- carga
+- complementar
+- elevacao
+- fixa
+- horaria
+- inicial
+- nivel
+- periodico
+- somente
+- transicao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-003.md

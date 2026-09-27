@@ -1,0 +1,52 @@
+id: is-is-121-012-5-2-1-2-6-c
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.6
+section_title: Rota.
+subsection_id: c
+cite: 5.2.1.2.6(c)
+title: 5.2.1.2.6(c)
+text: 'c) tomada de decisão em voo, caso um desvio para aeródromo de alternativa seja necessário
+  (por exemplo, conforme o parágrafo 5.2.1.2.4.4.1 desta IS).
+
+  5.2.1.2.6.6.2 No cálculo dos pontos equidistantes em tempo, o detentor de certificado deve
+  considerar o possível motivo que levaria ao desvio para alternativa, pois isso afeta o nível
+  de voo a ser utilizado após o desvio e, consequentemente, o tempo que se leva até o aeródromo
+  de alternativa ETOPS. Devem ser avaliados os cenários requeridos para limitação de sistemas
+  de tempo limite para operações ETOPS além de 180 minutos (5.2.1.2.7b)) e para combustível
+  (vide parágrafo 5.2.1.2.9.3a) desta IS).
+
+  5.2.1.2.6.6.3 Caso o desvio ocorra por despressurização, normalmente se utiliza desvio a
+  um nível de voo de 10 mil pés, desde que o terreno permita, podendo ser utilizado valor
+  maior caso o suprimento de oxigênio do avião permita. Caso o desvio ocorra por falha de
+  motor (sem despressurização), deve ser utilizado o nível de voo previsto para tal condição.
+
+  5.2.1.2.6.6.4 Para os fins de monitoramento do voo e tomada de decisão a respeito de qual
+  aeródromo de alternativa utilizar, o cálculo dos pontos equidistantes em tempo normalmente
+  é feito considerando-se o cenário de despressurização. Porém, o detentor de certificado
+  pode optar por utilizar adicionalmente outros cenários, como o desvio em razão de falha
+  de motor.
+
+  5.2.1.2.6.6.5 O detentor deve informar aos pilotos a localização dos pontos equidistantes
+  em tempo, incluindo-os no despacho de voo.'
+keywords:
+- transporte-aereo
+- operacoes
+- desvio
+- tempo
+- alternativa
+- caso
+- aerodromo
+- despressurizacao
+- detentor
+- equidistantes
+- nivel
+- pontos
+- utilizado
+- calculo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

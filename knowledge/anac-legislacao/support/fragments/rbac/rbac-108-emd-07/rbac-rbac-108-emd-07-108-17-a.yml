@@ -1,0 +1,34 @@
+id: rbac-rbac-108-emd-07-108-17-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.17'
+section_title: Segurança Cibernética
+subsection_id: a
+cite: 108.17(a)
+title: 108.17(a)
+text: '(a) O operador aéreo deve identificar as informações, dados e sistemas de tecnologia
+  da comunicação julgados como críticos para sua operação e implementar medidas para protegê-los,
+  por meio de uma avaliação de risco conforme 108.15(a).
+
+  (Incluído pela Resolução nº 604, de 29.01.2021)'
+keywords:
+- seguranca
+- operador
+- aereo
+- avaliacao
+- cibernetica
+- comunicacao
+- criticos
+- dados
+- identificar
+- implementar
+- incluido
+- informacoes
+- julgados
+- medidas
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

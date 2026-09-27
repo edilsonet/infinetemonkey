@@ -1,0 +1,36 @@
+id: is-is-91-001-k4-1-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: K4.1
+section_title: 'Navegação lateral (LNAV). Para os propósitos deste Apêndice, procedimentos
+  RNP AR APCH são baseados em equipamentos que automaticamente determinam a posição da aeronave
+  no plano horizontal utilizando informações provenientes da base de dados do sistema FMS
+  e informações provenientes dos seguintes tipos de sensores:'
+subsection_id: c
+cite: K4.1(c)
+title: K4.1(c)
+text: 'c) DME, que provê informação baseada em duas ou mais estações de solo (DME/DME).
+
+  Nota: os itens (a), (b) e (c) não estabelecem ordem de prioridade, porém o GNSS deve ser
+  o meio primário de determinação da trajetória.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- informacoes
+- provenientes
+- aeronave
+- apch
+- apendice
+- automaticamente
+- base
+- baseada
+- baseados
+- dados
+- deste
+- determinacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

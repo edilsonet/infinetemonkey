@@ -1,0 +1,113 @@
+id: is-is-145-214-001-apendice-c-criterios-e-recomendacoes-para-a-descricao-2b20a6-body
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-c-criterios-e-recomendacoes-para-a-descricao-2b20a6
+section_title: APÊNDICE C - CRITÉRIOS E RECOMENDAÇÕES PARA A DESCRIÇÃO DO AMBIENTE OPERACIONAL
+  E DIAGNÓSTICO
+subsection_id: body
+cite: apendice-c-criterios-e-recomendacoes-para-a-descricao-2b20a6
+title: APÊNDICE C - CRITÉRIOS E RECOMENDAÇÕES PARA A DESCRIÇÃO DO AMBIENTE OPERACIONAL E DIAGNÓSTICO
+text: 'APÊNDICE C - CRITÉRIOS E RECOMENDAÇÕES PARA A DESCRIÇÃO DO AMBIENTE OPERACIONAL E DIAGNÓSTICO
+
+  DO SGSO
+
+  C1. DESCRIÇÃO DO AMBIENTE OPERACIONAL
+
+  C1.1. Modelo adotado para a descrição do ambiente operacional dos PSAC
+
+  C1.1.1. No contexto do SGSO, a descrição do ambiente operacional está associada ao reconhecimento
+  e registro (mapeamento) dos fatores inter-
+
+  nos e externos que influenciam significativamente a capacidade da organização de gerenciar
+  e a garantir a segurança operacional de suas
+
+  atividades/operações.
+
+  C1.1.2. O mapeamento desses fatores permite que a organização identifique as vulnerabilidades
+  e ameaças existentes nesse ambiente e que podem
+
+  ser classificadas como perigos para suas atividades/operações. Além disso, a descrição do
+  ambiente operacional também auxilia a orga-
+
+  nização na realização do diagnóstico do SGSO, conforme estabelecido na seção 2 deste Apêndice.
+
+  C1.1.3. Com o propósito de compreender a dinâmica desses fatores sobre a organização adotou-se
+  nesta IS o seguinte modelo:
+
+  A organização (denominada “sistema”) é composta dos seguintes elementos:
+
+  - infraestrutura ou sistema produtivo (recursos tecnológicos e humanos que viabilizam a
+  execução da atividade fim da organização);
+
+  - processos organizacionais (definem e disciplinam o sistema produtivo);
+
+  - hierarquia das responsabilidades (define os níveis de responsabilidades individuais pelos
+  resultados e impactos que decorrem das
+
+  atividades/operações da organização); e
+
+  - monitoramento organizacional (permite o acompanhamento e medição do desempenho do sistema
+  produtivo, visando equilibrar o
+
+  alcance dos objetivos estratégicos e de segurança operacional).
+
+  As interações entre esses quatro elementos são consideradas os fatores internos que afetam
+  os resultados e impactos das atividades/ope-
+
+  rações da organização. Esses resultados e impactos também são afetados por fatores externos,
+  que são as interações do “sistema” com
+
+  os seguintes elementos externos (denominados “vizinhança”):
+
+  - leis e regulamentos (arcabouço legal que autoriza e limita as atividades/operações da
+  organização);
+
+  - ANAC (diretrizes e atuação do órgão regulador sobre a organização);Data de emissão: 8
+  de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  - clientes (interesses e demandas de serviços prestados pela organização); e
+
+  - sociedade (interesse público nos resultados e impactos das atividades/operações da organização).
+
+  A Figura 1 a seguir apresenta um diagrama que permite a visualização da dinâmica desses
+  fatores internos e externos que atuam sobre a
+
+  organização.
+
+  Figura 1 - Modelo adotado para visualização das interações (representadas pelas setas) que
+  influenciam significativamente a capacidade da orga-
+
+  nização de gerenciar e garantir a segurança operacional em suas atividades/operações.Data
+  de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  C1.2. Aspectos a serem considerados na descrição do ambiente operacional
+
+  C1.2.1. Com base no modelo apresentado na subseção 1.1 deste Apêndice, ao cada organização
+  deve considerar, no mínimo, os seguintes fatores
+
+  na descrição do ambiente operacional no qual desenvolve suas atividades/operações:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- organizacao
+- operacional
+- ambiente
+- descricao
+- atividades
+- fatores
+- operacoes
+- apendice
+- sistema
+- diagnostico
+- externos
+- impactos
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

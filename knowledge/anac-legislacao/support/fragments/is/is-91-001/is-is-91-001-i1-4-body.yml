@@ -1,0 +1,58 @@
+id: is-is-91-001-i1-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: I1.4
+section_title: Sistemas baro-VNAV conferem capacidades opcionais e não constituem critério
+  mínimo para operações RNP APCH. O baro-VNAV é aplicável em situações em que uma guia vertical
+  calculada é provida à tripulação técnica durante a realização de procedimentos de aproximação
+  por instrumentos, em tal situação o perfil vertical é definido por um ângulo de trajetória
+  vertical (VPA), normalmente de 3°. Em linhas gerais, a execução de operações RNP APCH com
+  baro-VNAV pressupõe que a elaboração dos procedimentos leva em consideração o desempenho
+  e as capacidades funcionais características de sistemas RNP que recebem como entrada informações
+  de altitude fornecidas por um altímetro barométrico. Neste contexto, se for desejável a
+  aprovação para condução de operações RNP APCH com guia vertical baroaltimétrica (baro-VNAV),
+  de forma adicional ao exposto neste apêndice, o conteúdo do Apêndice J desta IS também deve
+  ser seguido.
+subsection_id: body
+cite: I1.4
+title: Sistemas baro-VNAV conferem capacidades opcionais e não constituem critério mínimo
+  para operações RNP APCH. O baro-VNAV é aplicável em situações em que uma guia vertical calculada
+  é provida à tripulação técnica durante a realização de procedimentos de aproximação por
+  instrumentos, em tal situação o perfil vertical é definido por um ângulo de trajetória vertical
+  (VPA), normalmente de 3°. Em linhas gerais, a execução de operações RNP APCH com baro-VNAV
+  pressupõe que a elaboração dos procedimentos leva em consideração o desempenho e as capacidades
+  funcionais características de sistemas RNP que recebem como entrada informações de altitude
+  fornecidas por um altímetro barométrico. Neste contexto, se for desejável a aprovação para
+  condução de operações RNP APCH com guia vertical baroaltimétrica (baro-VNAV), de forma adicional
+  ao exposto neste apêndice, o conteúdo do Apêndice J desta IS também deve ser seguido.
+text: I1.4 Sistemas baro-VNAV conferem capacidades opcionais e não constituem critério mínimo
+  para operações RNP APCH. O baro-VNAV é aplicável em situações em que uma guia vertical calculada
+  é provida à tripulação técnica durante a realização de procedimentos de aproximação por
+  instrumentos, em tal situação o perfil vertical é definido por um ângulo de trajetória vertical
+  (VPA), normalmente de 3°. Em linhas gerais, a execução de operações RNP APCH com baro-VNAV
+  pressupõe que a elaboração dos procedimentos leva em consideração o desempenho e as capacidades
+  funcionais características de sistemas RNP que recebem como entrada informações de altitude
+  fornecidas por um altímetro barométrico. Neste contexto, se for desejável a aprovação para
+  condução de operações RNP APCH com guia vertical baroaltimétrica (baro-VNAV), de forma adicional
+  ao exposto neste apêndice, o conteúdo do Apêndice J desta IS também deve ser seguido.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- baro
+- vertical
+- vnav
+- apch
+- operacoes
+- apendice
+- capacidades
+- guia
+- procedimentos
+- sistemas
+- adicional
+- altimetro
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

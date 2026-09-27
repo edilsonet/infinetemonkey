@@ -1,0 +1,51 @@
+id: is-is-121-007c-5-6-18-d
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.6.18
+section_title: Tabelas de manobras e procedimentos
+subsection_id: d
+cite: 5.6.18(d)
+title: 5.6.18(d)
+text: 'd) certos eventos de treinamento opcionais indicados por um sinal de “#” nas tabelas
+  de manobras e procedimentos não são requeridos especificamente pelos regulamentos ou por
+  operações especiais. Muitos destes eventos de treinamento opcionais são frequentemente incluídos
+  em segmentos de currículo de voo dos operadores e devem ser conduzidos em um FSTD qualificado
+  adequadamente.
+
+  Nota: o parágrafo 5.6.8.1 desta IS descreve o significado das manobras marcadas com o símbolo
+  “M”.
+
+  5.6.18.2 O treinamento de tesouras de vento é um evento de treinamento em cada tabela. Estas
+  tabelas indicam que o treinamento de tesouras de vento pode ser executado apenas em simuladores
+  de voo ou dispositivos de treinamento de voo.
+
+  5.6.18.3 O treinamento sobre prevenção de colisão com o solo em voo controlado (controlled
+  flight into terrain, CFIT) e uso do TAWS deve abordar procedimentos executados durante a
+  preparação do voo, durante o voo, de resposta a precauções (caution) do TAWS, e de resposta
+  a advertências (warning) do TAWS.
+
+  5.6.18.4 O treinamento sobre prevenção de colisões com outras aeronaves e uso do ACAS/TCAS
+  deve abordar procedimentos executados durante a preparação do voo, durante o voo, de resposta
+  a avisos de tráfego (traffic advisory, TA) e de resposta a avisos de resolução (resolution
+  advisory, RA).'
+keywords:
+- transporte-aereo
+- operacoes
+- treinamento
+- durante
+- procedimentos
+- resposta
+- manobras
+- tabelas
+- taws
+- abordar
+- advisory
+- avisos
+- eventos
+- executados
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

@@ -1,0 +1,39 @@
+id: is-is-121-001-5-1-2-3-8-f
+kind: is
+document: is-121-001
+family: '121'
+section_id: 5.1.2.3.8
+section_title: 'Mínimos meteorológicos. Deve atender os requisitos das seções 121.649, 121.651
+  e 121.652 do RBAC nº 121, incluindo:'
+subsection_id: f
+cite: 5.1.2.3.8(f)
+title: 5.1.2.3.8(f)
+text: 'f) seleções de aeródromos de alternativa mais distantes (de acordo com situação meteorológica
+  usual no entorno do aeródromo).
+
+  5.1.2.3.11.2 Quando requerida para a operação específica (por exemplo, para algumas operações
+  RNP AR APCH), o operador deve incluir o FOSA no guia de rota.
+
+  5.1.2.3.12 Qualificações especiais requeridas para operação no aeródromo, de acordo com
+  a seção 121.445 do RBAC nº 121 (por exemplo, a exigência de concluir treinamentos específicos
+  para operação nos aeroportos de Congonhas (IAC 121-1013) e Santos Dumont (IAC 3130)).'
+keywords:
+- transporte-aereo
+- operacoes
+- operacao
+- acordo
+- aerodromo
+- exemplo
+- aerodromos
+- aeroportos
+- algumas
+- alternativa
+- apch
+- atender
+- concluir
+- congonhas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

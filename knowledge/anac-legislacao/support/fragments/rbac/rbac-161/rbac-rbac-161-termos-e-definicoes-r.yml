@@ -1,0 +1,32 @@
+id: rbac-rbac-161-termos-e-definicoes-r
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: r
+cite: termos-e-definicoes(r)
+title: termos-e-definicoes(r)
+text: '(r)
+
+  Ruído aeronáutico: ruído oriundo das operações de circulação, aproximação, pouso, decolagem,
+  subida, rolamento e teste de motores de aeronaves, não considerando o ruído produzido por
+  equipamentos utilizados nas operações de serviços auxiliares ao transporte aéreo, para fins
+  do Plano de Zoneamento de Ruído.'
+keywords:
+- ruido
+- definicoes
+- operacoes
+- termos
+- aereo
+- aeronautico
+- aeronaves
+- aproximacao
+- auxiliares
+- circulacao
+- considerando
+- decolagem
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

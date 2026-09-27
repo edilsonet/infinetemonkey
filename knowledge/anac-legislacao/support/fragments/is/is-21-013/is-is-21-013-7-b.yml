@@ -1,0 +1,103 @@
+id: is-is-21-013-7-b
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: b
+cite: 7(b)
+title: 7(b)
+text: 'b) Segmento final de um procedimento de aproximação.
+
+  Tabela 5: Valor máximo de FTE durante 95% do tempo total de voo para cumprimento de requisito
+  de precisão
+
+  de uma operação PBN do tipo RNP
+
+  O uso de um indicador de desvio lateral com deflexão total para cada lado no valor
+
+  especificado na Tabela 4 é um meio aceitável para comprovar que o FTE pode ser mantido
+
+  dentro dos limites máximos previstos para cada tipo de operação PBN.
+
+  7.9.4.3. Integridade
+
+  Um mau funcionamento (malfunction) do sistema de navegação é considerado uma condição
+
+  de falha major (a probabilidade deve ser inferior a 10-5 por hora).
+
+  Nota: Se o GNSS não atender ao critério de 10-5 por hora, outros meios de navegação
+
+  aprovados devem estar disponíveis na aeronave. A tripulação, neste caso, deve sempre
+
+  considerar a possibilidade de perda do GNSS, de forma que deve prever, a partir de qualquer
+
+  fase do voo, a possibilidade de reverter para outro meio de navegação e prosseguir para
+  o
+
+  destino ou a alternativa, utilizando-se deste meio. Esta observação deve ser acrescentada
+  no
+
+  SMV, conforme aplicável.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  7.9.4.4. Continuidade
+
+  A perda da função de navegação é considerada uma condição de falha "minor" (a
+
+  probabilidade deve ser inferior a 10-3 por hora), desde que haja outro meio de navegação
+
+  disponível, com o qual a tripulação possa seguir para uma alternativa e realizar um pouso
+
+  seguro. Caso contrário, é considerada "major" (a probabilidade deve ser inferior a 10-5
+  por
+
+  hora).
+
+  7.9.4.5. Signal-In-Space
+
+  Ao usar um equipamento GNSS durante uma operação PBN, o equipamento de navegação
+
+  da aeronave deve prover um alerta se a probabilidade do erro do sinal no espaço (signal-in-
+
+  space error) causar um erro de posição lateral (TSE) maior que os valores apresentados na
+
+  Tabela 6 exceder 10-7 por hora.
+
+  Erro de posição lateral total (TSE) causado por signal-in-space error para geração de alerta
+  - (NM)
+
+  RNAV 10
+
+  RNP 10 RNAV 5 RNAV 2 RNAV 1 RNP 4 RNP 1
+
+  Básico
+
+  RNP 1
+
+  Avançado
+
+  RNP APCH'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- navegacao
+- hora
+- gnss
+- meio
+- probabilidade
+- rnav
+- erro
+- inferior
+- lateral
+- operacao
+- signal
+- space
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

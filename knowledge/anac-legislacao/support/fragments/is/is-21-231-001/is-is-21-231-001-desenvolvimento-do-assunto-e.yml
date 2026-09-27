@@ -1,0 +1,152 @@
+id: is-is-21-231-001-desenvolvimento-do-assunto-e
+kind: is
+document: is-21-231-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: e
+cite: desenvolvimento-do-assunto(e)
+title: desenvolvimento-do-assunto(e)
+text: 'e) Instruções de Manutenção e Operação de produto:
+
+  I - Garantir a preparação e atualização de todas as instruções de manutenção e operação
+  para cumprimento da seção 21.50 do RBAC nº 21 necessárias para manter a aeronavegabilidade
+  continuada dos produtos de acordo com os respectivos requisitos, por meio de:
+
+  i. Estabelecimento da lista de todos os documentos produzidos;
+
+  ii. Garantia de que estes documentos são disponibilizados para todos os operadores e todas
+  as AAC aplicáveis.
+
+  Efetividade Continuada de um Sistema de Garantia do Projeto (Monitoramento do Sistema)
+
+  A organização deve estabelecer meios pelos quais uma avaliação continuada do Sistema de
+  Garantia do Projeto será executada com o intuito de garantir que tal sistema se mantenha
+  efetivo. Tal ação é denominada Monitoramento do Sistema. Os meios devem prever procedimentos
+  escritos no MOPj.
+
+  De acordo com o parágrafo 21.239-I(a)(3) do RBAC nº 21, o Monitoramento do Sistema deve
+  ser independente e tem a função de confirmar se os procedimentos estabelecidos e documentados
+  atendem aos objetivos do regulamento e são seguidos na organização.
+
+  Sempre que uma ação não conforme aos procedimentos estabelecidos e documentados for verificada,
+  uma avaliação da criticidade da não conformidade deve ser realizada e ações corretivas devem
+  ser estabelecidas, com o objetivo de reestabelecer a conformidade aos procedimentos. A ANAC
+  deve ser comunicada, conforme os procedimentos estabelecidos pela organização no MOPj, sempre
+  que for identificado um item equivalente à classificação de nível 1 como estabelecido no
+  item 5.7.1.6.
+
+  O Monitoramento do Sistema deve ser composto por pessoas devidamente qualificadas para as
+  funções de auditoria e apoio à auditoria. A independência exigida para o monitoramento consiste
+  na obrigação que as pessoas exercendo as funções de auditoria e apoio à auditoria não auditem
+  registros produzidos por elas mesmas. Os processos e qualificações para a indicação destas
+  pessoas devem estar descritos no MOPj. Ademais, o monitoramento do sistema não deve estar
+  hierarquicamente (dentro da distribuição de reponsabilidades da Organização de Projeto)
+  subordinado a nenhum responsável pela demonstração ou verificação do cumprimento com os
+  requisitos.
+
+  Verificação de Cumprimento com os Requisitos do Projeto
+
+  De acordo com o parágrafo 21.239-I(b) do RBAC nº 21, o Sistema de Garantia do Projeto deve
+  incluir uma função de verificação independente das demonstrações de cumprimento com os requisitos
+  de projeto, que servirá de base à organização para apresentar à ANAC a Declaração de Cumprimento
+  com os Requisitos de Projeto e documentação associada.
+
+  A verificação deve ser executada por pessoas que não participaram da demonstração de cumprimento
+  com os requisitos. O MOPj deve estabelecer procedimentos que garantam a independência requerida.
+
+  NOTA 1: A pessoa pode ter trabalhado em conjunto com indivíduos que criaram tais dados.
+
+  NOTA 2: Para a implementação do critério da independência, a organização define, por exemplo,
+  que a pessoa que está realizando a verificação independente não seja o autor ou coautor
+  dos registros de demonstração. Entretanto, essa é uma condição necessária, mas não suficiente
+  para garantir a independência devida. Neste caso, adicionalmente ao critério de autoria
+  e coautoria, os procedimentos que devem garantir a independência podem ser baseados no julgamento
+  do CVE.
+
+  NOTA 3: Adicionalmente, os procedimentos da organização devem endereçar a independência
+  do CVE que permita a realização da sua verificação de forma que nenhuma pressão indevida
+  ou influência seja estabelecida sobre o profissional, permitindo a realização da sua função
+  de forma plena e completa.
+
+  A verificação do cumprimento com os requisitos de projeto deve ser registrada conforme procedimentos
+  relevantes definidos no MOPj. Tais procedimentos devem garantir que todos os requisitos
+  associados ao documento de demonstração foram verificados em sua totalidade, incluindo todas
+  as tecnologias e aspectos técnicos associados (conforme descrito no item 5.2.4.4(d)(IV)).
+
+  Conforme estabelecido no item 5.4.10.9 da IS 21-001, o Sistema de Garantia do Projeto deve
+  incluir procedimentos para a realização de inspeção de engenharia e testemunho de ensaio
+  pelo CVE, incluindo o meio de registrá-lo. Os registros da análise do CVE devem ser parte
+  da documentação associada às declarações de cumprimento com o requisito e devem conter,
+  no mínimo, descrição do ensaio ou inspeção, resultados obtidos e quaisquer ocorrências significativas,
+  decisões ou recomendações de determinado ensaio ou inspeção.
+
+  Conforme estabelecido no item 5.4.10.10 da IS 21-001, o Sistema de Garantia do Projeto deve,
+  adicionalmente ao item imediatamente anterior, incluir, quando aplicável, procedimentos
+  para a realização de inspeção e testemunho de ensaios específicos ou de longa duração, por
+  exemplo ensaios estruturais de fadiga. Ademais, conforme estabelecido no item 5.4.11.7 da
+  IS 21-001, referente aos relatos periódicos sobre o progresso da “investigação do tipo”,
+  o requerente deve informar à ANAC a data de realização das inspeções e manter tal cronograma
+  atualizado. Por fim, ressalta-se que para a demonstração de cumprimento com o requisito,
+  quando realizada de forma incremental e em fases, como no caso em referência, os procedimentos
+  devem estabelecer critérios para a participação do CVE.
+
+  Cabe à Organização de Projeto estabelecer procedimentos escritos para a definição do escopo,
+  qualificação, nomeação, alocação e demoção do CVE, que é a função responsável pela verificação
+  independente. Estes procedimentos devem também endereçar a manutenção da capacidade do exercício
+  da função de CVE nos projetos da organização.
+
+  NOTA: Os CVE são nomeados para escopos específicos de responsabilidade. A estrutura desses
+  escopos é identificada pela Organização de Projeto e seguirá uma estrutura lógica, compatível
+  com o tipo de produto, tais como, por disciplina (e.g. estrutura, voo, sistemas elétricos),
+  por um conjunto de requisitos (e.g. subparte B do RBAC nº 25, Subparte C do RBAC nº 29),
+  por um conjunto de capítulos da ATA (e.g. ATA 27 Flight Controls, ATA 32 Landing Gear, ATA
+  51 Structures). Um CVE pode ser nomeado para mais de um escopo.
+
+  Para o caso de requisitos multidisciplinares que requerem a utilização de mais de um CVE,
+  procedimentos devem ser implementados para garantir que todas as áreas de conhecimento estão
+  devidamente atendidas. Deve-se deixar claro que tal ação não representa substituição.
+
+  Todas as ações estabelecidas para um Sistema de Garantia do Projeto devem considerar fornecedores.
+  Caso o fornecedor seja também uma Organização de Projeto, a contratante pode utilizar a
+  metodologia da contratada, porém o Sistema de Garantia do Projeto deve considerar as interfaces
+  e regras da contratante. Como Organização de Projeto pode-se considerar sistemas similares
+  ao da ANAC, estabelecidos por outras AAC, desde que devidamente aceito pela ANAC. Tais processos
+  devem estar documentados no MOPj.
+
+  Manual da Organização de Projeto - MOPj
+
+  A seção 21.243-I do RBAC nº 21 estabelece a necessidade de fornecimento do manual à ANAC,
+  que será denominado Manual da Organização de Projeto - MOPj. O MOPj será analisado durante
+  a certificação da organização. Previamente ao fornecimento do MOPj à ANAC a organização
+  deverá validar seus processos, verificando o atendimento à seção 21.265-I e demais seções
+  do RBAC nº 21 aplicáveis. No fornecimento do MOPj à ANAC, a organização deverá apresentar
+  uma declaração do Responsável pela Organização de Projeto atestando o atendimento à seção
+  21.265-I e demais seções do RBAC nº 21 aplicáveis.
+
+  Conforme requerido na seção 21.243-I do RBAC nº 21, o MOPj deverá conter as informações
+  listadas abaixo, para cada produto coberto pela certificação da organização.
+
+  Descrição das tarefas que podem ser executadas sob a certificação, de acordo com a seguinte
+  classificação:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- organizacao
+- procedimentos
+- sistema
+- mopj
+- requisitos
+- cumprimento
+- garantia
+- verificacao
+- garantir
+- independencia
+- monitoramento
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-231-001.md

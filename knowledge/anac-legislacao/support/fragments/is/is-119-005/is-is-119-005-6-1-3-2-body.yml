@@ -1,0 +1,69 @@
+id: is-is-119-005-6-1-3-2-body
+kind: is
+document: is-119-005
+family: '119'
+section_id: 6.1.3.2
+section_title: 'tabelas de HOT da FAA: exceto como informado no parágrafo 121.629(d) do RBAC
+  nº'
+subsection_id: body
+cite: 6.1.3.2
+title: 'tabelas de HOT da FAA: exceto como informado no parágrafo 121.629(d) do RBAC nº'
+text: '6.1.3.2 tabelas de HOT da FAA: exceto como informado no parágrafo 121.629(d) do RBAC
+  nº
+
+  121, cada detentor de certificado é requerido pelo parágrafo 121.629(c)(3) a implementar
+
+  tabelas de HOT para uso pelo seu pessoal. O FAA desenvolve tabelas de HOT para fluido
+
+  de degelo/antigelo Tipo I e fluidos antigelo Tipo II e Tipo IV genéricos de acordo com a
+
+  SAE ARP 4737, Aircraft Deicing/Anti-Icing Methods with Fluids, e a ISO 11076, Aerospace
+
+  Aircraft Deicing/Anti-Icing Methods with Fluids. Os HOTs que excederem aqueles
+
+  especificados nas edições atuais dos fluidos aprovados pelo FAA e por um fabricante de um
+
+  HOT específico não são aceitáveis. Entretanto, um detentor de certificado pode requerer
+  o
+
+  uso de tempos mais conservativos do que aqueles especificados nas tabelas do FAA. As
+
+  Tabelas 1, 2 e 4 do Apêndice C desta IS são exemplos de tabelas HOT. A ANAC adotou na
+
+  íntegra as tabelas da AC 120-60B do FAA, apenas realizando a tradução do dado técnico
+
+  nesta IS. Quanto ao dado técnico a ser utilizado, devem ser seguidas as orientações do “FAA
+
+  Holdover Time Guidelines” que é publicado anualmente. O operador deve ter um sistema de
+
+  consulta e atualização da sua base de dados sobre esse dado técnico. Adicionalmente, quando
+
+  da primeira apresentação do programa para aprovação, o “FAA Holdover Time Guidelines”
+
+  vigente deve ser apresentado, porém separado do Programa. Anualmente, o Operador deve
+
+  substituí-lo na sua base de dados, sem necessidade de encaminhá-lo para a ANAC. Para uso
+
+  do “FAA Holdover Time Guidelines” também é indicada consulta à revisão vigente da
+
+  “Order N 8900 Series Revised FAA - Approved Deicing Program Updates”; e'
+keywords:
+- certificacao-de-operador
+- operacoes
+- tabelas
+- paragrafo
+- dado
+- deicing
+- exceto
+- guidelines
+- holdover
+- informado
+- tecnico
+- time
+- tipo
+- aircraft
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-005.md

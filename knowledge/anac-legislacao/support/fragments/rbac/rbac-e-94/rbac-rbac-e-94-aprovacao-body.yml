@@ -1,0 +1,49 @@
+id: rbac-rbac-e-94-aprovacao-body
+kind: rbac
+document: rbac-e-94
+family: '94'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 419, de 02.05.2017
+
+  -
+
+  Resolução nº 622, de 01.06.2021
+
+  -
+
+  Resolução nº 649, de 30.11.2021
+
+  -
+
+  Resolução nº 710, de 31.03.2023
+
+  -
+
+  Superintendência de Aeronavegabilidade - SAR
+
+  Superintendência de Padrões Operacionais - SPO
+
+  Data de emissão:
+
+  03.04.2023
+
+  02.05.2023'
+keywords:
+- resolucao
+- aprovacao
+- superintendencia
+- aeronavegabilidade
+- data
+- emissao
+- operacionais
+- padroes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-e-94.md

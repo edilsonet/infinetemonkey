@@ -1,0 +1,36 @@
+document: rbac-38
+kind: rbac
+title: RBAC 38 EMD 01
+ementa: Requisitos para emissões de CO2 de aviões Em vigor em 1º de março 2022
+family: '38'
+categories:
+- ice-protection
+- aeronavegabilidade
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-38
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-38
+language: pt
+foreign_annex: false
+sections:
+- '38.1'
+- '38.3'
+- '38.5'
+- '38.7'
+- '38.9'
+- aprovacao
+- preambulo
+fragment_count: 12
+fragment_ids:
+- rbac-rbac-38-preambulo-body
+- rbac-rbac-38-aprovacao-body
+- rbac-rbac-38-38-5-body
+- rbac-rbac-38-38-9-body
+- rbac-rbac-38-38-1-a
+- rbac-rbac-38-38-1-b
+- rbac-rbac-38-38-3-body
+- rbac-rbac-38-38-3-a
+- rbac-rbac-38-38-3-b
+- rbac-rbac-38-38-5-a
+- rbac-rbac-38-38-5-b
+- rbac-rbac-38-38-7-body
+parser_version: 7

@@ -1,0 +1,150 @@
+id: is-is-121-007c-5-5-9-body
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.5.9
+section_title: Sistemas da aeronave
+subsection_id: body
+cite: 5.5.9
+title: Sistemas da aeronave
+text: '5.5.9 Sistemas da aeronave
+
+  5.5.9.1 A segunda área de um segmento de currículo de solo é a de “sistemas da aeronave”.
+  Esta área é particularmente adaptável ao uso dos módulos de treinamento, devido à natureza
+  modular de cada sistema e de seus respectivos componentes. A instrução sobre cada sistema
+  da aeronave deve ser ministrada com detalhes suficientes para garantir que o tripulante
+  compreenda claramente os componentes do sistema, limitações, controles relevantes, atuadores,
+  anunciadores e procedimentos para várias configurações do sistema. Não é possível listar
+  aqui cada sistema imaginável da aeronave que deve estar incluído no segmento de currículo
+  de solo. No entanto, as seguintes descrições dos módulos de treinamento (com elementos típicos)
+  ilustram a profundidade e o alcance que devem constar na proposta do operador para que seja
+  considerada aceitável:
+
+  5.5.9.1.1 Aeronave em geral. Os elementos típicos incluem uma revisão geral básica da aeronave,
+  tais como dimensões, raios de curva, esquemas dos painéis, configurações da cabine de comando
+  e de passageiros e outros sistemas, componentes ou acessórios maiores.
+
+  5.5.9.1.2 Grupo motopropulsor. Os elementos típicos incluem uma descrição básica do motor,
+  níveis de empuxo do motor, componentes do motor tais como: unidades acessórias, ignição,
+  óleo, controle de combustível, hidráulica e características da sangria de ar.
+
+  5.5.9.1.3 Elétrico. Os elementos típicos incluem a identificação das fontes de energia da
+  aeronave, tais como geradores acionados pelo motor, gerador APU e energia externa. Outros
+  elementos incluem barramentos elétricos e componentes relacionados, tais como disjuntores,
+  fusíveis, bateria da aeronave e outros sistemas alternativos de energia, se aplicável.
+
+  5.5.9.1.4 Hidráulico. Elementos típicos são os reservatórios de fluido hidráulico, bombas,
+  acumuladores, meios de condução do fluido hidráulico através de filtros, válvulas, interconectores,
+  atuadores associados e componentes operados hidraulicamente.
+
+  5.5.9.1.5 Combustível. Elementos incluem o sistema de tanque de combustível (localização
+  e quantidades), bombas acionadas pelo motor, bombas de reforço, válvulas do sistema, alimentação
+  cruzada, indicadores de quantidade e procedimentos (se aplicável) para alijamento de combustível.
+
+  5.5.9.1.6 Pneumático. Elementos típicos incluem fontes de sangria de ar (tais como motores,
+  APU, ou ar externo), meios de condução, ventilação e controle da sangria de ar por meio
+  das respectivas válvulas, dutos, câmaras e mecanismos limitantes de temperatura e pressão.
+
+  5.5.9.1.7 Ar condicionado e pressurização. Elementos típicos incluem aquecedores, conjuntos
+  de ar condicionado, ventiladores e outros mecanismos de controle do ambiente. Os componentes
+  do sistema de pressurização incluem elementos tais como válvulas de liberação da pressão
+  negativa e de fluxo (outflow), associadas com os controles de pressurização manual, de reserva,
+  automáticos e anunciadores.
+
+  5.5.9.1.8 Controles de voo. Elementos correspondentes incluem controles primários (lemes,
+  ailerons e profundores) e controles secundários (slates, flapes, compensadores e mecanismos
+  de amortecimento). Os elementos que indicam os mecanismos de atuação (direto/indireto ou
+  fly-by-wire) devem ser incluídos assim como os mecanismos redundantes aplicáveis.
+
+  5.5.9.1.9 Trem de pouso. Elementos típicos incluem o mecanismo de extensão e retração do
+  trem de pouso, incluindo a sequência operacional dos amortecedores, comportas, mecanismos
+  de travamento e os sistemas de freio e antiderrapante, se aplicável. Outros elementos são
+  o de direção (steering), distribuição do trem de pouso, sensores de ar/solo e indicadores
+  visuais do trem de pouso na posição estendida.
+
+  5.5.9.1.10 Proteção contra gelo e chuva. Elementos incluem sistemas de eliminação de chuva
+  e cada sistema antigelo ou de degelo que previnem ou eliminam a formação de gelo nas superfícies
+  aerodinâmicas, controles de voo, motores, tomadas pitot e estáticas, saídas de líquidos,
+  janelas da cabine de comando e estruturas da aeronave. Outros incluem componentes do sistema
+  tais como válvulas pneumáticas/elétricas, sensores, dutos, elementos elétricos ou dispositivos
+  pneumáticos.
+
+  5.5.9.1.11 Equipamentos e acessórios. Elementos típicos são as saídas da aeronave, galleys,
+  sistemas de água e dejetos, lavatórios, compartimentos de carga, assentos de passageiros
+  e tripulantes, bulkheads, configurações de assentos e/ou carga e equipamentos e acessórios
+  de não-emergência.
+
+  5.5.9.1.12 Equipamentos de navegação. Elementos típicos são componentes do sistema de navegação
+  de voo incluindo diretores de voo, indicadores de situação horizontal, indicadores rádio
+  magnéticos, receptores de navegação (ADF, VOR, RNAV, DME) utilizados na aeronave. Outros
+  elementos incluem sistemas inerciais aplicáveis (INS, IRS), telas funcionais, indicadores
+  de falha e sistemas de comparação, transponders, rádio altímetros, radar meteorológico e
+  telas de posição e informação de navegação geradas por computador.
+
+  5.5.9.1.13 Sistema de voo automático. Elementos típicos incluem itens e equipamentos tais
+  como o piloto automático, autothrottles e sua integração com os sistemas de navegação e
+  diretor de voo da aeronave, incluindo o monitoramento de uma aproximação automática, pouso
+  automático e sistemas automáticos de gerenciamento de combustível e desempenho.
+
+  5.5.9.1.14 Instrumentos de voo. Elementos típicos incluem uma revisão geral da distribuição
+  do painel, das fontes do sistema pitot e estático e das fontes alternativas para os instrumentos
+  de voo. Outros elementos incluem indicadores de atitude, de direção (de giro direcional
+  ou magnéticos), de velocidade, de velocidade vertical, altímetros, instrumentos de voo alternativos
+  e outros instrumentos relevantes.
+
+  5.5.9.1.15 Equipamentos de comunicação. Elementos incluem rádio VHF/HF, painéis de áudio,
+  sistema de interfone, sistema de comunicação com os passageiros, gravadores de voz e sistemas
+  de comunicação passiva ar/terra (ACARS).
+
+  5.5.9.1.16 Sistemas de alerta. Elementos típicos são sistemas de alerta visuais, aurais
+  e táteis, incluindo as características e o grau de urgência relativo a cada sinal, ou sistemas
+  anunciadores de alerta e prevenção. Devem incluir necessariamente sistemas de prevenção
+  de colisão contra o solo (GPWS) e com outras aeronaves (ACAS/TCAS).
+
+  5.5.9.1.17 Proteção contra fogo. Elementos típicos incluem todos os sensores, módulos ou
+  outros mecanismos que proporcionem indicações visuais e/ou auditivas de detecção de fogo
+  ou superaquecimento. Outros elementos incluem procedimentos para o uso de sistemas extintores
+  de incêndio automáticos e manuais, agentes e fontes de energia necessários para fornecer
+  proteção contra condições de fogo e superaquecimento nos motores, APU, compartimentos de
+  carga, cabine de comando, galleys e lavatórios.
+
+  5.5.9.1.18 Oxigênio. Elementos típicos são o sistema de oxigênio da aeronave, incluindo
+  os sistemas instalados para passageiros, tripulação e portáteis. Outros elementos incluem
+  fontes de oxigênio (gasoso ou sólido), fluxo e redes de distribuição, sistemas de acionamento
+  automático, reguladores, níveis de pressão, válvulas e requisitos de manutenção.
+
+  5.5.9.1.19 Iluminação. Elementos típicos são os sistemas de iluminação da cabine de comando,
+  da cabine de passageiros e exteriores, incluindo fontes de energia, posições dos interruptores
+  e localização de lâmpadas de reposição.
+
+  5.5.9.1.20 Equipamentos de emergência. Elementos típicos são o tipo, localização e propósito
+  de cada equipamento de emergência, tais como cilindros de oxigênio, extintores de incêndio,
+  conjunto de primeiros socorros, botes salva-vidas, coletes salva-vidas, machadinhas, saídas
+  e luzes de emergência. Outros elementos incluem cada item do equipamento de evacuação, tais
+  como escorregadeiras, escorregadeiras-bote, cordas ou alças para escape, frestas, escadas
+  ou escadas portáteis.
+
+  5.5.9.1.21 Unidade auxiliar de energia (APU). Elementos incluem a instalação da APU, capacidade
+  e operação do APU, incluindo suas capacidades elétricas e de sangria de ar, e de como ela
+  interage com os sistemas elétricos e pneumáticos da aeronave. Outros elementos incluem os
+  componentes da APU tais como dutos, portas de acesso e fornecimento de combustível.'
+keywords:
+- transporte-aereo
+- operacoes
+- elementos
+- incluem
+- sistemas
+- tipicos
+- aeronave
+- sistema
+- outros
+- tais
+- componentes
+- cada
+- fontes
+- incluindo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

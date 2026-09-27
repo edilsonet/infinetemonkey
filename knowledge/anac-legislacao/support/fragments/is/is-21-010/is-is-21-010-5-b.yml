@@ -1,0 +1,88 @@
+id: is-is-21-010-5-b
+kind: is
+document: is-21-010
+family: '21'
+section_id: '5'
+section_title: SUBJECT DEVELOPMENT
+subsection_id: b
+cite: 5(b)
+title: 5(b)
+text: 'b) Have an export airworthiness approval issued by the exporting country.
+
+  5.2.3 Certos modelos de aeronaves, motores ou hélices de aeronaves, exportados para o Brasil
+  quando um certificado de tipo brasileiro ainda não era exigido, podem ser elegíveis a uma
+  isenção de emissão de tal certificado, de acordo com a seção 21.29 do RBAC 21. Para beneficiar-se
+  de tal isenção, o requerente deve obter uma declaração da ANAC, reconhecendo o CT do Estado
+  de Projeto como equivalente ao certificado brasileiro. Estas disposições podem ser estendidas
+  a outro modelo de aeronave, motor ou hélice, desde que tal modelo seja considerado pela
+  ANAC como substancialmente similar, em termos de projeto e certificação, a um modelo de
+  aeronave, motor ou hélice considerado isento. Para gozar deste tratamento, o requerente
+  deverá apresentar todos os dados técnicos que venham a ser exigidos pela ANAC.
+
+  5.2.3 Certain aircraft models, aircraft engines or propellers exported to Brazil, when a
+  Brazilian type certification was not required yet, may be eligible to an exemption from
+  such certificate, in accordance with section 21.29 of RBAC 21. In order to benefit from
+  such exemption, the applicant should have an ANAC statement, recognizing the State of Design
+  type certificate as equivalent to the Brazilian certificate. These provisions may be extended
+  to another aircraft, engine or propeller model, as long as such model is considered by the
+  ANAC as substantially similar, with respect to design and certification, to an aircraft,
+  engine or propeller model considered as exempt. In order to make use of this treatment,
+  the applicant must present all technical data that may be required by the ANAC.
+
+  5.2.4 Uma lista de produtos que receberam o CT brasileiro, e uma lista de produtos para
+  os quais o CT estrangeiro foi reconhecido no Brasil, está disponível em www.anac.gov.br/certificacao.
+
+  5.2.4 A list of products that received the Brazilian type certificate and a list of products
+  for which a foreign type certificate was recognized in Brazil are available at https://sistemas.anac.gov.br/certificacao/IndexE.asp.
+
+  5.2.5 Exceto nas situações descritas no parágrafo 5.2.6, para ser elegível para instalação
+  em uma aeronave com CA Padrão brasileiro, qualquer modificação aprovada de acordo com um
+  Certificado Suplementar de Tipo - CST estrangeiro deve ser validado no Brasil através de
+  um CST emitido de acordo com o RBAC 21, com base na aprovação do Estado de Projeto da modificação
+  (vide mais orientações na subseção 5.5 desta IS).
+
+  5.2.5 Except in the situations described in paragraph 5.2.6, to be eligible for installation
+  in an aircraft with a Brazilian Standard Airworthiness Certificate, any change approved
+  according to a foreign Supplemental Type Certificate must be validated in Brazil through
+  the issuance of a Brazilian Supplemental Type Certificate (CST) as established in RBAC 21,
+  based on the State of Design change approval (see guidelines in subsection 5.5 of this IS).
+
+  5.2.6 Grandes modificações aprovadas de acordo com um CST estrangeiro, e já instaladas na
+  aeronave, no momento da importação, podem ser aceitas pela ANAC (vide mais orientações na
+  subseção 5.6 desta IS).
+
+  5.2.6 Major changes approved in accordance with foreign Supplemental Type Certificate, and
+  already installed in the aircraft at the moment of the import, may be acceptable to ANAC
+  (see further guidelines in subsection 5.6 of this IS).
+
+  5.2.7 Para ser elegível para uso em uma aeronave com CA Padrão brasileiro, ou em motor e
+  hélice operando no Brasil, a instalação de qualquer artigo TSO/ETSO (ou equivalente) ou
+  componente, deve estar aprovada pela ANAC através de (vide mais informações nas subseções
+  5.7 e 5.8 desta IS):
+
+  5.2.7 In order to be eligible for use in an aircraft with Brazilian standard certificate
+  of airworthiness, or in an engine and a propeller operating in Brazil, the installation
+  of any TSO / ETSO (or equivalent) article or component must be approved by ANAC through
+  (see more information in subsections 5.7 and 5.8 of this IS):'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificate
+- aircraft
+- type
+- brazilian
+- aeronave
+- brasileiro
+- with
+- acordo
+- brasil
+- brazil
+- certificado
+- this
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

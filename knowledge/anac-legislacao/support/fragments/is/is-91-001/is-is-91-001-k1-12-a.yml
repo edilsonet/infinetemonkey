@@ -1,0 +1,44 @@
+id: is-is-91-001-k1-12-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: K1.12
+section_title: 'As autorizações para operações RNP AR APCH emitidas pela ANAC se dividem em
+  genéricas e específicas:'
+subsection_id: a
+cite: K1.12(a)
+title: K1.12(a)
+text: 'a) autorização genérica: autoriza, por modelo e matrícula de aeronave do operador,
+  a operação nos procedimentos RNP AR APCH não classificados como Procedimentos Especiais
+  pelo DECEA, sendo expressa em termos de capacidade de operar em procedimentos que possuam
+  as características mencionadas em K1.4 , ou seja:
+
+  i. capacidade para operar em procedimentos que possuam algum segmento com trajetória lateral
+  em curva traçada a partir de um raio fixo, denominada Radio to Fix Leg (RF Leg);
+
+  ii. capacidade para operar em procedimentos que possuam segmento de aproximação perdida
+  com precisão requerida inferior a 1.0 NM (RNP<1.0); e
+
+  iii. capacidade para operar em procedimentos que possuam alguma parte do segmento de aproximação
+  com precisão requerida inferior a 0.3 NM (RNP<0.3). Nesse caso, a autorização informará
+  o menor valor de RNP autorizado; e'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- capacidade
+- operar
+- possuam
+- segmento
+- apch
+- aproximacao
+- autorizacao
+- inferior
+- precisao
+- requerida
+- aeronave
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

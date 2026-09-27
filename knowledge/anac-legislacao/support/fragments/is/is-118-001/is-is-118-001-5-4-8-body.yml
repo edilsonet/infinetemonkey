@@ -1,0 +1,58 @@
+id: is-is-118-001-5-4-8-body
+kind: is
+document: is-118-001
+family: '118'
+section_id: 5.4.8
+section_title: O programa deve ter ainda procedimento que permita que, assim que identificados,
+  os itens NEF sejam adicionados à lista NEF.
+subsection_id: body
+cite: 5.4.8
+title: O programa deve ter ainda procedimento que permita que, assim que identificados, os
+  itens NEF sejam adicionados à lista NEF.
+text: '5.4.8 O programa deve ter ainda procedimento que permita que, assim que identificados,
+  os itens NEF sejam adicionados à lista NEF.
+
+  5.4.9 Para efeitos de liberação de itens pré-existentes na Lista NEF, devem ser considerados
+  e adotados os mesmos procedimentos de liberação autorizados para os itens da MEL.
+
+  5.4.10 O programa deve estabelecer prazos para encerramento dos itens NEF, bem como procedimento
+  que controle o prazo dessas correções. Os operadores podem utilizar os mesmos intervalos
+  para reparos da MEL em uso, sendo que o prazo máximo para reparo dos itens NEF não pode
+  ser superior a 180 (cento e oitenta) dias.
+
+  5.4.11 Os meios e procedimentos para utilização da lista NEF pela tripulação e pessoal da
+  manutenção devem estar descritas no próprio programa NEF ou nos manuais do operador.
+
+  Nota: os manuais dos detentores de certificado emitido segundo o RBAC nº 119 e dos administradores
+  de programa segundo a Subparte K do RBAC nº 91 devem ser aceitos ou aprovados pela ANAC,
+  conforme estabelecido em regulamentação própria.
+
+  5.4.12 O operador pode, a seu critério, desenvolver um Programa NEF por modelo de aeronave
+  ou um Programa NEF que seja aplicável a mais de um modelo de aeronave, desde que neste segundo
+  caso seja observada a possibilidade de aplicação ampla sem prejuízo da segurança de voo
+  e que os procedimentos do Programa NEF possam ser aplicáveis para todas as Listas NEF. Em
+  todos os casos, deve ser possível identificar no programa NEF ou nos demais manuais do operador
+  (por exemplo, na MEL) a quais modelos de aeronave o programa NEF se aplica.
+
+  5.5 Aceitação ou aprovação do Programa NEF
+
+  5.5.1 O Programa NEF deve ser enviado para a ANAC, juntamente com a primeira versão da lista
+  NEF. O operador deve possuir uma MEL aprovada ou enviar o programa NEF em conjunto com a
+  primeira revisão de sua MEL. A lista NEF pode ter um controle de revisões diferente da MEL.'
+keywords:
+- programa
+- lista
+- operador
+- procedimento
+- adicionados
+- aeronave
+- assim
+- identificados
+- manuais
+- permita
+- pode
+- procedimentos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-118-001.md

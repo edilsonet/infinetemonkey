@@ -1,0 +1,197 @@
+id: is-is-145-214-001-apendice-c-criterios-e-recomendacoes-para-a-descricao-do-ambiente-operacional-e-diagnostico-w
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-c-criterios-e-recomendacoes-para-a-descricao-do-ambiente-operacional-e-diagnostico
+section_title: APÊNDICE C - CRITÉRIOS E RECOMENDAÇÕES PARA A DESCRIÇÃO DO AMBIENTE OPERACIONAL
+  E DIAGNÓSTICO
+subsection_id: w
+cite: apendice-c-criterios-e-recomendacoes-para-a-descricao-do-ambiente-operacional-e-diagnostico(w)
+title: apendice-c-criterios-e-recomendacoes-para-a-descricao-do-ambiente-operacional-e-diagnostico(w)
+text: 'w) interação da organização com outras organizações que não
+
+  possuam SGSO;
+
+  C2. DIAGNÓSTICO DO SGSO (GAP-ANALYSIS OU ANÁLISE DO FALTANTE)
+
+  C2.1. Realização do diagnóstico do SGSO
+
+  C2.1.1. O diagnóstico é uma peça fundamental na implantação de qualquer sistema de gestão
+  ou gerenciamento, em particular no caso do SGSO.
+
+  Em linhas gerais, esse diagnóstico permite que organização identifique de modo claro e objetivo
+  as lacunas (gaps) existentes para a
+
+  implantação do SGSO, bem como avaliar se as estruturas e processos já existentes atendem,
+  ainda que parcialmente, aos requisitos ine-
+
+  rentes ao SGSO.
+
+  C2.1.2. A tabela 1 a seguir apresenta um modelo proposto para elaboração do diagnóstico
+  do SGSO, adaptado para esta IS com base no modelo
+
+  disponível no DOC 9859 da OACI - 3ª Edição (2012). Embora tal formatação não seja obrigatória,
+  sua utilização é fortemente recomen-
+
+  dada. As organizações podem desenvolver seus próprios modelos, conforme apropriado. Entretanto,
+  qualquer diagnóstico deve conter, no
+
+  mínimo, todas as questões enumeradas no modelo proposto neste Apêndice.
+
+  C2.1.3. Ao incluir neste diagnóstico qualquer alguma outra questão que considere apropriada
+  e relevante, a organização deve especificar tal
+
+  acréscimo para a ANAC, incluindo o modelo do diagnóstico em seu MGSO.
+
+  C2.1.4. As organizações que adotarem o modelo de diagnóstico proposto neste Apêndice ficam
+  dispensadas de incluí-lo em seu MGSO. Portanto,
+
+  basta estabelecer em seu MGSO que adota o modelo proposto pela ANAC, conforme a revisão
+  em vigor, comprometendo-se a atualizar
+
+  seu diagnóstico conforme requerido.Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  C2.1.5. O diagnóstico do SGSO (gap analysis ou análise do faltante) deve ser realizado,
+  pelo menos, em dois momentos: no início da fase de
+
+  implantação e no início da fase de operacionalização do SGSO. Dessa forma, a organização
+  tem condições de reavaliar o plano de imple-
+
+  mentação (ver parágrafo 5.3 desta IS) ou o plano de ação (ver Tabela 1 do Apêndice C desta
+  IS) e fazer as modificações necessárias, e
+
+  ainda, monitorar a implementação do SGSO tal como requerido.
+
+  C2.1.6. Caso o plano de implementação ou o plano de ação sofram modificações após seu envio
+  à ANAC, não há necessidade de reenviá-los,
+
+  desde que não haja impactos significativos para a implementação do SGSO, segundo avaliação
+  do RSO ou do GR.
+
+  C2.1.7. Para fins de comodidade, o diagnóstico e o plano de ação foram consolidados na Tabela
+  1 do Apêndice C desta IS. Isso permite à organi-
+
+  zação utilizar um único documento para registrar de informações necessárias ao monitoramento
+  da implementação do SGSO.
+
+  C2.1.8. O plano de ação é uma ferramenta básica que auxilia a organização a estabelecer
+  as ações específicas que serão necessárias ao preenchi-
+
+  mento efetivo de todas as lacunas (gaps) identificadas por meio do diagnóstico do SGSO.
+  Isso permite à organização dimensionar ade-
+
+  quadamente os recursos a serem alocados e os esforços necessários à implementação do SGSO.
+  Por essas razões o plano de ação também
+
+  pode ser utilizado para realizar o acompanhamento detalhado da execução e dos resultado
+  das ações que levam à implementação do
+
+  SGSO.
+
+  C2.2. Orientações para o uso da tabela de diagnóstico
+
+  C2.2.1. Orientações sobre as colunas:
+
+  C1 - Apresenta de forma resumida quais são os requisitos para cada componente/elemento do
+  SGSO;
+
+  C2 - Apresenta a situação da organização frente à conformidade com o requisito em questão.
+  Deve ser assinaladas as siglas seguintes
+
+  siglas, conforme aplicável: (CF) para conforme, quando for evidenciado que a organização
+  atinge ou supera a conformidade com
+
+  o critério sob análise; (NC) para não conforme, quando for evidenciado que a organização
+  não atinge a conformidade e não de-
+
+  monstra condições ou indícios de alcançar a conformidade com o critério sob análise; (PC)
+  para parcialmente conforme, quando
+
+  for evidenciado que a organização não atinge a conformidade, porém demonstra condições ou
+  indícios de alcançar a conformidade
+
+  com o critério sob análise; (NA) para itens não aplicáveis à organização em questão.
+
+  C3 - Apresenta a descrição da lacuna ou deficiência encontrada (gap), seguida das ações
+  a serem adotadas para conduzir aquele tópico
+
+  à condição de conformidade;
+
+  C4 - Identifica a pessoa responsável por implementar as ações corretivas dos item constantes
+  da coluna “C3”. Atenção: preencher com
+
+  o nome da pessoa, e não o nome do setor; eData de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  C5 - Estabelece o prazo acordado entre o responsável identificado na coluna “C4” e o GR
+  ou RSO, conforme aplicável, para a conclusão
+
+  de cada ação corretiva.
+
+  C2.2.2. A ANAC não requer que o diagnóstico realizado seja incorporado ao MGSO. Entretanto,
+  tal diagnóstico deve estar disponível para ser
+
+  analisado ao final da implantação do SGSO ou a qualquer momento, mediante solicitação da
+  ANAC.
+
+  C2.2.3. Após a conclusão do processo de implementação do SGSO, o diagnóstico deve ser reavaliado
+  pela organização, a fim de constatar se
+
+  todas as lacunas foram efetivamente preenchidas. Ao final, tal diagnóstico deve ser mantido
+  como registro por um período não inferior a
+
+  5 (cinco) anos.
+
+  C2.2.4. O modelo de diagnóstico proposto neste Apêndice é apresentado de forma bastante
+  compacta, visando incluir todas as informações em
+
+  um único relatório em caso de impressão. Podem eventualmente ser incluídas colunas adicionais
+  que incorporem mais detalhes. Ele pode
+
+  também ser elaborado em formato de planilha eletrônica, a fim de conferir vantagens adicionais,
+  tais como o uso de “filtros” de pesquisa.Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  DIAGNÓSTICO DO SGSO PLANO DE AÇÃO
+
+  C1 - Requisito considerado C2
+
+  Situação
+
+  C3 -Lacuna observada (gap) e
+
+  Ação a ser tomada
+
+  C4Respon-
+
+  sável
+
+  C5 - Prazo
+
+  COMPONENTE 1 - POLÍTICA E OBJETIVOS DA SEGURANÇA OPERACIONAL
+
+  Elemento 1.1 - Responsabilidade e comprometimento da Alta Direção'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- diagnostico
+- sgso
+- organizacao
+- acao
+- plano
+- apendice
+- conformidade
+- implementacao
+- modelo
+- analise
+- proposto
+- acoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

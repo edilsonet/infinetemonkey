@@ -1,0 +1,45 @@
+id: is-is-121-001-5-1-2-2-5-body
+kind: is
+document: is-121-001
+family: '121'
+section_id: 5.1.2.2.5
+section_title: a apresentação sobre como as informações dos aeródromos e rotas estão dispostas
+  no guia de rota.
+subsection_id: body
+cite: 5.1.2.2.5
+title: a apresentação sobre como as informações dos aeródromos e rotas estão dispostas no
+  guia de rota.
+text: '5.1.2.2.5 a apresentação sobre como as informações dos aeródromos e rotas estão dispostas
+  no guia de rota.
+
+  5.1.2.3 Aeródromos. O guia de rota deve conter as seguintes informações sobre todos os aeródromos
+  (regulares ou não) utilizados nas operações do operador, incluindo os aeródromos de alternativa
+  (de destino, ETOPS e utilizados nas rotas com planejamento de redespacho) e os aeródromos
+  adequados (conforme definido na IS nº 121-012).
+
+  Nota: essas informações atendem parcialmente ao requerido pelas seções 121.97 (para operações
+  regulares) e 121.117 (para operações não regulares) do RBAC nº 121, devendo ser complementadas
+  por informações de caráter temporário, como as divulgadas por NOTAM.
+
+  5.1.2.3.1 Lista com os aeródromos regulares e de alternativa (destino, ETOPS e redespacho)
+  utilizados em operações regulares, em conformidade com as orientações constantes no Apêndice
+  B sobre a construção, manutenção e distribuição da lista.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromos
+- informacoes
+- regulares
+- guia
+- rota
+- rotas
+- apresentacao
+- dispostas
+- estao
+- utilizados
+- alternativa
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

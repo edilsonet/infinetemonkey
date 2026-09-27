@@ -1,0 +1,75 @@
+id: is-is-119-002-7-b
+kind: is
+document: is-119-002
+family: '119'
+section_id: '7'
+section_title: GARANTIA DA SEGURANÇA OPERACIONAL PELO (NOME DO
+subsection_id: b
+cite: 7(b)
+title: 7(b)
+text: 'b) Planejamento para obter conformidade com os requisitos aplicáveis do RBAC 121.
+
+  Na elaboração desse Plano de Transição, o Gestor Responsável deve considerar as mudanças
+
+  previstas e os prazos estabelecidos pelos RBAC 119, 121 e 135 para a segurança de sua operação.
+
+  É nesta parte do trabalho de elaboração do MGSO que se identifica a qualidade e profundidade
+
+  dos trabalhos desenvolvidos para a descrição do ambiente operacional (Capítulo 3). À medida
+  que
+
+  o sistema onde se insere o Detentor de Certificado evolui, podem ir se acumulando mudanças
+
+  pequenas e graduais no sistema anteriormente descrito ou em seu contexto, necessitando de
+  uma
+
+  revisão nessa descrição de sistema.
+
+  Neste contexto, ao estabelecer como pretende desenvolver seu gerenciamento da mudança, o
+
+  <Diretor ou Gerente> de Segurança Operacional deve incluir uma revisão periódica da descrição
+  do
+
+  ambiente onde se insere e da análise dos riscos à segurança operacional realizadas, visando
+
+  identificar se continuam consistentes com a nova realidade operacional.Data da emissão:
+  9 de novembro de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  7.4 MELHORIA CONTÍNUA DO SGSO.
+
+  O <Diretor ou Gerente> de Segurança Operacional deve estabelecer um processo de identificar
+
+  quais as causas que levaram a um desempenho do SGSO, implantado ou em implantação, menor
+
+  do que o aprovado pelo Gestor Responsável e aceito pela ANAC. O processo deve incluir as
+
+  responsabilidades para adoção de medidas imediatas para a volta aos níveis estabelecidos.
+
+  Neste contexto, o <Diretor ou Gerente> de Segurança Operacional deve aproveitar algumas
+  das
+
+  ações adotadas para o monitoramento e controle da segurança operacional e desenvolver
+
+  avaliações internas e externas em relação à:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operacional
+- seguranca
+- contexto
+- descricao
+- diretor
+- gerente
+- revisao
+- sistema
+- ambiente
+- desenvolver
+- elaboracao
+- estabelecer
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

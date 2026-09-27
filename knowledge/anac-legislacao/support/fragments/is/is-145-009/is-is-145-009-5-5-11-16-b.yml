@@ -1,0 +1,49 @@
+id: is-is-145-009-5-5-11-16-b
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.11.16
+section_title: Aprovação para retorno ao serviço e Certificado de Liberação Autorizada (Formulário
+  ANAC F-100-01)
+subsection_id: b
+cite: 5.5.11.16(b)
+title: 5.5.11.16(b)
+text: 'b) Independente do formato utilizado, os conteúdos devem incluir:
+
+  I- Uma descrição e referência aos dados técnicos do serviço executado. A descrição deve
+  ser provida com informação suficiente, de modo que uma pessoa não familiarizada com o trabalho
+  seja capaz de determinar a extensão da manutenção e/ou as alterações executadas. A aprovação
+  para retorno ao serviço deve incluir o status de revisão dos dados técnicos usados para
+  executar o serviço, e também deve incluir a identificação das partes instaladas, quando
+  ocorrer, independentemente do motivo da substituição;
+
+  II- A data em que o artigo foi aprovado para retorno ao serviço;
+
+  III- O nome da pessoa que executou o trabalho (neste caso, a OM);
+
+  IV- O nome da pessoa autorizada pela OM para aprovar o artigo para retorno ao serviço. Conforme
+  requerido pela seção 145.157 do RBAC nº 145, nas OM localizadas no Brasil, as pessoas autorizadas
+  a aprovar um artigo para retorno ao serviço devem possuir licença conforme o RBAC nº 65;
+
+  V- Localidade na qual o serviço foi executado, quando a OM possuir em seu manual procedimentos
+  para execução de serviço em outra localidade.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- servico
+- retorno
+- artigo
+- incluir
+- pessoa
+- aprovacao
+- aprovar
+- autorizada
+- dados
+- descricao
+- executado
+- localidade
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

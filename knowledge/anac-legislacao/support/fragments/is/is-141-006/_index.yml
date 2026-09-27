@@ -1,0 +1,49 @@
+document: is-141-006
+kind: is
+title: IS 141-006A
+ementa: Guia para implementação e manutenção do sistema de garantia da qualidade em CIAC.
+family: '141'
+categories:
+- escolas
+- treinamento
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-006
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-006/@@display-file/arquivo_norma/%20IS141-006A.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-006/@@display-file/arquivo_norma/%20IS141-006A.pdf
+language: pt
+foreign_annex: false
+sections:
+- '1'
+- '141.21'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- apendice-a-modelo-de-manual-de-garantia-da-qualidade
+- preambulo
+fragment_count: 22
+fragment_ids:
+- is-is-141-006-preambulo-body
+- is-is-141-006-1-body
+- is-is-141-006-1-a
+- is-is-141-006-141-21-body
+- is-is-141-006-141-21-b
+- is-is-141-006-2-body
+- is-is-141-006-3-body
+- is-is-141-006-3-a
+- is-is-141-006-3-b
+- is-is-141-006-4-body
+- is-is-141-006-5-body
+- is-is-141-006-5-a
+- is-is-141-006-5-b
+- is-is-141-006-5-c
+- is-is-141-006-5-d
+- is-is-141-006-5-e
+- is-is-141-006-5-f
+- is-is-141-006-5-g
+- is-is-141-006-5-h
+- is-is-141-006-6-body
+- is-is-141-006-7-body
+- is-is-141-006-apendice-a-modelo-de-manual-de-garantia-da-qualidade-body
+parser_version: 7

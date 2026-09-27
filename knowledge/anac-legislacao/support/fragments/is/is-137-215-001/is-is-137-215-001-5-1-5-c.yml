@@ -1,0 +1,67 @@
+id: is-is-137-215-001-5-1-5-c
+kind: is
+document: is-137-215-001
+family: '137'
+section_id: 5.1.5
+section_title: 'O gerenciamento de risco deve ser realizado e documentado, pelo menos, nos
+  seguintes cenários:'
+subsection_id: c
+cite: 5.1.5(c)
+title: 5.1.5(c)
+text: 'c) operação em novas áreas agrícolas.
+
+  Nota: outros cenários operacionais podem requerer a realização e documentação do processo
+  de gerenciamento de risco, a critério do operador.
+
+  5.2 Identificação de um responsável pelo gerenciamento do risco
+
+  5.2.1 O RBAC nº 137 não obriga que o operador nomeie uma pessoa única, dedicada, responsável
+  pelo gerenciamento do risco das operações, que não realize qualquer outra atividade para
+  o operador exceto o gerenciamento do risco, mas essa é uma prática recomendada e que deveria
+  ser observada ao menos pelos operadores mais complexos.
+
+  5.2.2 Para o operador que, por sua mais baixa complexidade, não convenha deixar uma pessoa
+  inteiramente dedicada à atividade de gerenciamento de riscos, pelo menos ele deveria indicar
+  um único responsável por ela e procurar conciliar as outras atividades dessa pessoa com
+  as atividades do gerenciamento de risco, por exemplo, estabelecendo a essa pessoa um ou
+  mais dias da semana no(s) qual(is) ela se dedicará exclusivamente ao gerenciamento do risco
+  e não será onerado com outras demandas ou preocupações.
+
+  5.2.3 Outra opção seria o operador contratar uma empresa terceirizada especializada em gerenciamento
+  de risco. Há vantagens e riscos nessa opção. A vantagem é que o operador não precisaria
+  ter uma pessoa contratada dedicada, mas o risco é que a empresa terceirizada pode ser demasiado
+  distante da realidade operacional do operador, pelo que deve haver uma garantia de continuidade
+  das ações de gerenciamento de risco, em especial quando houver troca de contrato, assim
+  como garantias de que o histórico de perigos identificados e as ações mitigadoras tomadas
+  não se perderão ao longo do tempo e com a troca de pessoas. Desse modo, ainda que haja terceirização
+  da atividade, é importante que o operador garanta que toda a documentação gerada permaneça
+  sob sua guarda, ainda que cópias possam ser disponibilizadas a terceiros. Destaca-se que,
+  ainda que a execução do gerenciamento de risco seja terceirizada, o operador permanece como
+  responsável pela atividade perante a ANAC.
+
+  5.2.4 A pessoa responsável pelo gerenciamento do risco deveria poder reportar-se diretamente
+  ao gestor responsável da empresa, ainda que responda também a hierarquias intermediárias
+  dentro da organização, de modo que as respectivas funções (gestor responsável e responsável
+  pelo gerenciamento de risco) não deveriam ser exercidas pela mesma pessoa.
+
+  5.3 Identificação de perigos'
+keywords:
+- aeroagricola
+- operacoes
+- gerenciamento
+- risco
+- operador
+- responsavel
+- pessoa
+- atividade
+- dedicada
+- deveria
+- empresa
+- menos
+- terceirizada
+- acoes
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-215-001.md

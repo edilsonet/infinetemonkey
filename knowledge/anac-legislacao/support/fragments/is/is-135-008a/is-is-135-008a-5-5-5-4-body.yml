@@ -1,0 +1,49 @@
+id: is-is-135-008a-5-5-5-4-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.5.5.4
+section_title: Fonte. Devem-se evitar fontes incomuns ou ornamentadas.
+subsection_id: body
+cite: 5.5.5.4
+title: Fonte. Devem-se evitar fontes incomuns ou ornamentadas.
+text: '5.5.5.4 Fonte. Devem-se evitar fontes incomuns ou ornamentadas.
+
+  5.5.5.5 Caixa alta. Use regras de maiusculização padrão. O texto em letras maiúsculas é
+  mais difícil de ler do que o texto em minúsculas. Use as letras maiúsculas com moderação
+  e apenas visando a ênfases significativas ou para representar siglas e abreviações comumente
+  encontradas em maiúsculas (por exemplo: GPS, VNAV etc.).
+
+  5.5.5.6 Agrupamento. Use técnicas visuais (por exemplo, espaço em branco criado por linhas
+  extras) para delimitar o agrupamento de etapas, listas e componentes de mesma lógica.
+
+  5.5.5.7 Alinhamento. Os parágrafos do texto devem ser alinhados à esquerda. Não utilize
+  texto justificado para produzir bordas alinhadas à esquerda e à direita, o que pode adicionar
+  espaços irregulares e dificultar a leitura.
+
+  5.5.5.8 Comprimento da linha. Tradicionalmente as listas de verificação foram formatadas
+  para se assemelhar a um índice ou tabela de conteúdo com componentes correspondentes na
+  mesma linha (por exemplo: Challenge Response) justificados e ligados por pontos ou linhas.
+  Esse formato é aceitável, no entanto, devem ser evitadas grandes lacunas entre os itens.
+  Quanto maior o espaço, maior será a possibilidade de o piloto inadvertidamente corresponder
+  itens erroneamente.'
+keywords:
+- taxi-aereo
+- operacoes
+- texto
+- evitar
+- exemplo
+- fonte
+- fontes
+- incomuns
+- maiusculas
+- ornamentadas
+- agrupamento
+- componentes
+- espaco
+- esquerda
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

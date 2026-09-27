@@ -1,0 +1,52 @@
+id: is-is-43-012-5-3-10-body
+kind: is
+document: is-43-012
+family: '43'
+section_id: 5.3.10
+section_title: Escopo em que a tarefa de manutenção está inserida
+subsection_id: body
+cite: 5.3.10
+title: Escopo em que a tarefa de manutenção está inserida
+text: '5.3.10 Escopo em que a tarefa de manutenção está inserida
+
+  Outro condicionante no grupo “Pilotos proprietários e assemelhados” é o escopo do serviço
+
+  em que a tarefa está inserida. Não é permitido que o piloto realize manutenção preventiva
+  se
+
+  o escopo do serviço for uma inspeção de 100 horas, inspeção anual ou inspeção especial não
+
+  programada. Tais serviços devem ser integralmente realizados por organizações de
+
+  manutenção ou, se permitido segundo o RBAC nº 43, por mecânico de manutenção
+
+  aeronáutica.Data de emissão: 5 de abril de 2019 IS Nº 43-012
+
+  Revisão B
+
+  Inspeção especial não programada é uma inspeção prevista no manual de manutenção ou
+
+  outro dado técnico que não possui um intervalo pré-determinado para realização, e é
+
+  realizada apenas se determinados eventos ocorrerem, por exemplo, pouso duro, impacto de
+
+  raio, impacto de pássaros, dentre outros.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- escopo
+- inspecao
+- inserida
+- tarefa
+- especial
+- impacto
+- outro
+- permitido
+- programada
+- servico
+- abril
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-012.md

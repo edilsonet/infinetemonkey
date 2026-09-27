@@ -1,0 +1,39 @@
+id: is-is-121-018-b3-3a-c
+kind: is
+document: is-121-018
+family: '121'
+section_id: B3.3A
+section_title: 'visibilidade ou RVR para operações de aproximação por instrumento direta,
+  quando executadas com a técnica CDFA, deve ser de pelo menos o maior dos seguintes valores:'
+subsection_id: c
+cite: B3.3A(c)
+title: B3.3A(c)
+text: 'c) o RVR mínimo de acordo com os auxílios visuais e não visuais e o equipamento a bordo
+  utilizado, conforme a Tabela B10.
+
+  Nota 1: se o valor determinado em a) ou b) for uma visibilidade, então o resultado é uma
+  visibilidade mínima. Caso contrário, obtém-se um RVR mínimo.
+
+  Nota 2: para leitura das tabelas B5, B6, B7 e B8, os sistemas de luzes de aproximação são
+  classificados conforme a Tabela B11. São apresentadas classificações conforme DECEA e FAA;
+  e OACI e EASA.'
+keywords:
+- transporte-aereo
+- operacoes
+- visibilidade
+- aproximacao
+- minimo
+- nota
+- tabela
+- visuais
+- acordo
+- apresentadas
+- auxilios
+- bordo
+- caso
+- cdfa
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

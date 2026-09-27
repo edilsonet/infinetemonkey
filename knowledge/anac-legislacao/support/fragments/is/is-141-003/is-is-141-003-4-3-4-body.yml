@@ -1,0 +1,99 @@
+id: is-is-141-003-4-3-4-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 4.3.4
+section_title: 'Os desvios de configuração padrão -- Itens MELData de emissão: 22 de dezembro
+  de 2017. IS nº 141-003'
+subsection_id: body
+cite: 4.3.4
+title: 'Os desvios de configuração padrão -- Itens MELData de emissão: 22 de dezembro de 2017.
+  IS nº 141-003'
+text: '4.3.4 Os desvios de configuração padrão -- Itens MELData de emissão: 22 de dezembro
+  de 2017. IS nº 141-003
+
+  Revisão A
+
+  • Converter litros em galões, e vice-versa
+
+  • Calcular o mínimo de combustível a ser carregado, com base
+
+  em dados de voos reais ou simulados
+
+  4.6
+
+  • Definir os termos: peso operacional máximo permitido para
+
+  decolagem e peso restrito de decolagem; combustível
+
+  mínimo e combustível de taxi.
+
+  • Calcular a carga paga máxima permitida para um voo com
+
+  base nos valores de operacional máximo permitido para
+
+  decolagem e do combustível mínimo para uma dada
+
+  aeronave.
+
+  • Realizar cálculos manualmente ou por sistema
+
+  informatizado.
+
+  4.7
+
+  • Registrar corretamente os dados de uma aeronave nos
+
+  respectivos campos da loadsheet.
+
+  • Calcular o peso operacional de uma aeronave, incluindo
+
+  modificações de última hora.
+
+  • Calcular o CG na decolagem e no pouso.
+
+  • Identificar os elementos essenciais que devem compor a
+
+  loadsheet.
+
+  • Identificar os campos a serem preenchidos pelo DOV na
+
+  loadsheet.
+
+  • Preencher corretamente uma loadsheet a partir de dados
+
+  constantes em um manual de aeronave.
+
+  • Concluir que um voo somente poderá ser liberado se a
+
+  aeronave estiver carregada de acordo com o planejamento,
+
+  que não haja limites que sejam ou venham a ser
+
+  ultrapassados em qualquer momento durante o voo e que o
+
+  CG do avião esteja e permaneça dentro dos limites em todos
+
+  os momentos durante o voo.
+
+  4.4 Cálculo de peso dos passageiros'
+keywords:
+- escolas
+- treinamento
+- aeronave
+- calcular
+- combustivel
+- decolagem
+- loadsheet
+- peso
+- configuracao
+- dados
+- desvios
+- dezembro
+- emissao
+- meldata
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

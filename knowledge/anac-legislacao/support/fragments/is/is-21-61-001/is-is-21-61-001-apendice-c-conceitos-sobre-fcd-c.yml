@@ -1,0 +1,294 @@
+id: is-is-21-61-001-apendice-c-conceitos-sobre-fcd-c
+kind: is
+document: is-21-61-001
+family: '21'
+section_id: apendice-c-conceitos-sobre-fcd
+section_title: APÊNDICE C - CONCEITOS SOBRE FCD
+subsection_id: c
+cite: apendice-c-conceitos-sobre-fcd(c)
+title: apendice-c-conceitos-sobre-fcd(c)
+text: 'c) DR 3: Maneuvers - Operational differences encompass normal, abnormal and emergency
+  situations and include any change in aircraft handling and flight management. It is necessary
+  to establish a list of operational items for consideration on which an analysis of differences
+  can be made. The operational analysis should take the following into account:
+
+  I- dimensões da cabine de comando (tamanho, ângulo de corte e altura do olho do piloto);
+
+  I- flight deck dimensions (size, cut-off angle and pilot eye height);
+
+  II- diferenças nos controles (projeto, forma, localização e função);
+
+  II- differences in controls (design, shape, location and function);
+
+  III- função adicional ou alterada (controles de voo) em condições normais ou anormais;
+
+  III- additional or altered function (flight controls) in normal or abnormal conditions;
+
+  IV- qualidades de pilotagem (incluindo inércia) em configurações normais e anormais;
+
+  IV- handling qualities (including inertia) in normal and in abnormal configurations;
+
+  V- desempenho da aeronave em manobras específicas;
+
+  V- aircraft performance in specific maneuvers;
+
+  VI- estado da aeronave após uma falha;
+
+  VI aircraft status following a failure;
+
+  VII- gerenciamento (como Monitoramento Centralizado Eletrônico da Aeronave (Electronic Centralized
+  Aircraft Monitoring - ECAM), Sistema de Indicação de Motores e Alerta de Tripulação (Engine
+  Indication and Crew Alerting System - EICAS), seleção de auxílios à navegação e listas de
+  verificação automáticas).
+
+  VII- management (such as Electronic Centralized Aircraft Monitoring - ECAM, Engine Indication
+  and Crew Alerting System - EICAS, navaid selection and automatic checklists).
+
+  C.2 Tabela de Requisitos Mestres de Diferenças (Master Difference Requirement - MDR)
+
+  C.2 Master Difference Requirement - MDR table
+
+  C.2.1 Com base nas tabelas de DR estabelecidas de acordo com a seção C.1, as tabelas de
+  MDR devem ser incluídas nos FCD.
+
+  C.2.1 Based on the DR tables that are established in accordance with section C.1, MDR tables
+  must be included in the FCD.
+
+  C.2.2 As tabelas de MDR são especificadas em termos dos níveis mínimos de diferença para
+  treinamento, exame e experiência recente, e incluem o maior nível de diferenças identificado
+  nas tabelas de DR aplicáveis.
+
+  C.2.2 MDR tables are specified in terms of the minimum difference levels for training, checking
+  and currency, and include the highest difference level identified in the applicable DR tables.
+
+  C.2.3 Exemplo de tabela de MDR:
+
+  C.2.3 MDR table example:
+
+
+  Tipo de Aeronave
+
+  Aircraft Type
+
+  Da Aeronave (base)
+
+  From Aircraft (base)
+
+  Aeronave (Aircraft)1
+
+  Aeronave (Aircraft) 2
+
+  Aeronave (Aircraft) 3
+
+  Para aeronave (candidata)
+
+  To Aircraft (candidate)
+
+  Aeronave (Aircraft) 1
+
+  N/A
+
+  A/A/A
+
+  C/B/B
+
+  Aeronave (Aircraft) 2
+
+  A/A/A
+
+  N/A
+
+  D/B/B
+
+  Aeronave (Aircraft) 3
+
+  C/B/B
+
+  D/B/B
+
+  N/A
+
+
+  C.3 Níveis de Diferenças
+
+  C.3 Difference Levels
+
+  C.3.1 Níveis de diferença são usados para identificar a extensão das diferenças entre uma
+  aeronave base e uma candidata com referência aos elementos descritos nas tabelas de DR.
+  Esses níveis são proporcionais às diferenças entre uma aeronave base e uma candidata. Uma
+  gama de cinco níveis de diferenças em ordem crescente de requisitos, identificados como
+  A até E, são especificados para treinamento, exame e experiência recente.
+
+  C.3.1 Difference levels are used to identify the extent of difference between a base and
+  a candidate aircraft with reference to the elements described in the DR tables. These levels
+  are proportionate to the differences between a base and a candidate aircraft. A range of
+  five difference levels in order of increasing requirements, identified as A through E, are
+  specified for training, checking, and currency.
+
+  C.3.2 Os níveis de diferenças se aplicam quando há uma diferença com potencial para afetar
+  a segurança de voo entre uma aeronave base e uma candidata. As diferenças também podem afetar
+  o conhecimento, as habilidades ou as capacidades exigidas de um piloto. Se não houver diferenças,
+  ou se as diferenças existirem, mas não afetarem a segurança de voo, ou se as diferenças
+  existirem, mas não afetarem o conhecimento, as habilidades ou as capacidades, então os níveis
+  de diferença não são atribuídos nem aplicáveis à qualificação do piloto. Quando os níveis
+  de diferença se aplicam, cada nível é baseado em uma escala de diferenças relacionadas a
+  características de projeto, sistemas ou manobras. Ao avaliar os efeitos das diferenças,
+  tanto as características de voo quanto os procedimentos são considerados, pois as características
+  de voo abordam qualidades de pilotagem e desempenho, enquanto os procedimentos incluem itens
+  normais, anormais e de emergência.
+
+  C.3.2 Difference levels apply when a difference with the potential to affect flight safety
+  exists between a base and a candidate aircraft. Differences may also affect the knowledge,
+  skills, or abilities required from a pilot. If no differences exist, or if differences exist
+  but do not affect flight safety, or if differences exist but do not affect knowledge, skills,
+  or abilities, then difference levels are neither assigned nor applicable to pilot qualification.
+  When difference levels apply, each level is based on a scale of differences related to design
+  features, systems, or maneuvers. In assessing the effects of differences, both flight characteristics
+  and procedures are considered since flight characteristics address handling qualities and
+  performance, while procedures include normal, abnormal and emergency items.
+
+  C.3.3 Os níveis de treinamento, exame e experiência recente são atribuídos independentemente,
+  mas são vinculados dependendo das diferenças entre uma aeronave base e uma candidata. O
+  treinamento no nível E normalmente identifica que a aeronave candidata é um tipo diferente
+  em relação à aeronave base.
+
+  C.3.3 Levels for training, checking, and currency are assigned independently, but are linked
+  depending on the differences between a base and a candidate aircraft. Training at level
+  E normally identifies that the candidate aircraft is a different type to the base aircraft.
+
+  C.3.4 Os níveis de diferença são resumidos na tabela abaixo em relação ao treinamento, exame
+  e experiência recente:
+
+  C.3.4 Difference levels are summarized in the table below regarding training, checking,
+  and currency:
+
+
+  Nível de Diferença
+
+  Difference Level
+
+  Treinamento
+
+  Training
+
+  Exame
+
+  Checking
+
+  Experiência Recente
+
+  Currency
+
+  A
+
+  Autoinstrução
+
+  Não aplicável ou integrado com a próxima verificação de proficiência
+
+  Não aplicável
+
+  Self-instruction
+
+  Not applicable or integrated with next proficiency check
+
+  Not applicable
+
+  B
+
+  Instrução assistida
+
+  Verificação de tarefa ou sistema
+
+  Autorrevisão
+
+  Aided instruction
+
+  Task or system check
+
+  Self-review
+
+  C
+
+  Dispositivo de sistema
+
+  Verificação parcial de proficiência usando dispositivo qualificado
+
+  Sistema designado
+
+  System device
+
+  Partial proficiency check using qualified device
+
+  Designated system
+
+  D
+
+  Dispositivo de manobra
+
+  Verificação parcial de proficiência usando dispositivo qualificado
+
+  Manobra designada
+
+  Maneuver device
+
+  Partial proficiency check using qualified device
+
+  Designated maneuver
+
+  E
+
+  Simulador de Voo Completo - FFS nível C ou D, ou aeronave
+
+  Verificação de proficiência usando FFS nível C ou D, ou aeronave
+
+  Conforme regulamentação, utilizando FFS nível C ou D, ou aeronave
+
+  Full Flight Simulator - FFS level C or D, or aircraft
+
+  Proficiency check using FFS level C or D, or aircraft
+
+  As per regulation, using FFS level C or D, or aircraft
+
+
+  C.3.5 Níveis de diferenças de treinamento
+
+  C.3.5 Training Difference Levels
+
+  C.3.5.1 Treinamento de Nível A. O treinamento de Nível A é aquele treinamento entre aeronaves
+  relacionadas que pode ser adequadamente abordado por meio de autoinstrução. O treinamento
+  de Nível A representa um requisito de conhecimento que, uma vez que as informações apropriadas
+  são fornecidas, a compreensão e a conformidade podem ser presumidas. A conformidade com
+  o Nível A é alcançada por métodos como emissão de revisões de páginas do manual operacional,
+  disseminação de boletins operacionais ou folhetos de diferenças para descrever pequenas
+  diferenças entre aeronaves. O treinamento de Nível A é normalmente limitado às seguintes
+  situações:
+
+  C.3.5.1 Level A Training. Level A training is that training between related aircraft that
+  can adequately be addressed through self-instruction. Level A training represents a knowledge
+  requirement that, once appropriate information is provided, understanding and compliance
+  can be assumed. Level A compliance is achieved by such methods as issuance of operating
+  manual page revisions, dissemination of operating bulletins, or differences handouts to
+  describe minor differences in aircraft. Level A training is normally limited to the following
+  situations:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aircraft
+- aeronave
+- diferencas
+- difference
+- base
+- differences
+- level
+- nivel
+- training
+- treinamento
+- levels
+- niveis
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-001.md

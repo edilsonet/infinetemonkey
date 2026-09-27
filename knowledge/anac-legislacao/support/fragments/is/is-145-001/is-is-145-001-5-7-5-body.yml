@@ -1,0 +1,43 @@
+id: is-is-145-001-5-7-5-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: 5.7.5
+section_title: Categoria Rádio
+subsection_id: body
+cite: 5.7.5
+title: Categoria Rádio
+text: '5.7.5 Categoria Rádio
+
+  5.7.5.1 Cada OM certificada na Categoria Rádio possui a prerrogativa de executar as tarefas
+  de manutenção/revisão geral estabelecidas pelo fabricante de equipamentos de comunicação,
+  de navegação e de radar, com base no Manual de Revisão Geral (Component Maintenance & Overhaul
+  Manual) do respectivo fabricante. Tais tarefas são referentes aos programas de manutenção
+  dos equipamentos listados em sua LC, e dentro das limitações previstas nesta.
+
+  5.7.5.2 Pode, inclusive, instalar e remover artigos da Categoria Rádio em aeronave e realizar
+  os testes de funcionamento necessários, desde que atendidas as condições previstas no item
+  5.7.5.3.
+
+  NOTA: a instalação de artigos da Categoria Rádio pode incluir a instalação de itens como
+  antenas, suportes e outros elementos que fazem parte do sistema completo a ser inserido
+  na aeronave.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- categoria
+- radio
+- aeronave
+- artigos
+- equipamentos
+- fabricante
+- geral
+- instalacao
+- manual
+- pode
+- revisao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

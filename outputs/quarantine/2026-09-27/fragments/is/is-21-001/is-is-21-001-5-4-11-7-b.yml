@@ -1,0 +1,45 @@
+id: is-is-21-001-5-4-11-7-b
+kind: is
+document: is-21-001
+family: '21'
+section_id: 5.4.11.7
+section_title: 5.4.11.7
+subsection_id: b
+cite: 5.4.11.7(b)
+title: 5.4.11.7(b)
+text: '(b) Complexidade: Este fator pode variar dependendo do projeto, da tecnologia, do processo
+  de fabricação associado, da demonstração de cumprimento (incluindo instalações ou análise
+  de ensaios), da subjetividade dos critérios ou da interpretação de resultados de demonstração
+  de cumprimento, ou das interfaces do conjunto ADC com outras disciplinas técnicas ou ADC.
+
+  A demonstração de cumprimento pode ser considerada complexa para um sistema complexo (ou
+  altamente integrado), a qual normalmente requer mais esforço do requerente.
+
+  Para grandes modificações, a complexidade da modificação deve ser levada em conta e não
+  a complexidade do projeto/sistema original.
+
+  O fato de um ADC ser ou não complexo acaba determinado de maneira conservadora se isso não
+  puder ser estabelecido em um estágio inicial do projeto de certificação. Quando uma maior
+  clareza for alcançada, a complexidade pode ser reavaliada e o nível de envolvimento revisto
+  de acordo.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- complexidade
+- cumprimento
+- demonstracao
+- pode
+- complexo
+- sistema
+- acaba
+- acordo
+- alcancada
+- altamente
+- analise
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

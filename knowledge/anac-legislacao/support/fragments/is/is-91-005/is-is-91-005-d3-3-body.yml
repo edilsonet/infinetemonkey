@@ -7,37 +7,14 @@ section_title: 'Os critérios que devem ser cumpridos em um envelope de voo bás
 subsection_id: body
 cite: D3.3
 title: 'Os critérios que devem ser cumpridos em um envelope de voo básico são:'
-text: 'D3.3 Os critérios que devem ser cumpridos em um envelope de voo básico são:
-
-  a) no ponto do envelope básico onde a ASE média alcança o valor máximo absoluto, esse valor
-  não pode exceder 37 m (120 ft);
-
-  b) no ponto do envelope completo onde a ASE média mais três desvios-padrão da ASE alcança
-  seu máximo absoluto, esse valor não pode exceder 75 m (245 ft); e
-
-  c) se for necessário, para os propósitos de obter uma autorização operacional para RVSM
-  para um grupo de aeronaves, uma limitação de operação pode ser estabelecida, a fim de restringir
-  a operação RVSM nas partes do envelope completo onde o valor absoluto da ASE exceda 37 m
-  (120 ft) e/ou o valor da ASE média mais três desvios-padrão da ASE exceda 75 m (245 ft).
-  Quando esta limitação for estabelecida, deve estar identificada nos dados remetidos pelo
-  operador por ocasião da solicitação e deve estar documentada nos manuais de operação das
-  aeronaves envolvidas. No entanto, não será requerida a instalação/implementação de um aviso
-  visual ou sonoro nas aeronaves.'
+text: 'D3.3 Os critérios que devem ser cumpridos em um envelope de voo básico são:'
 keywords:
 - operacoes-gerais
 - regras-de-voo
-- envelope
-- valor
 - basico
-- absoluto
-- aeronaves
 - criterios
 - cumpridos
-- media
-- operacao
-- pode
-- alcanca
-- completo
+- envelope
 categories:
 - operacoes-gerais
 - regras-de-voo

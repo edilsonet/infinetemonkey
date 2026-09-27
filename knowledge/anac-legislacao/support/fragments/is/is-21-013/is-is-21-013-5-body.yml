@@ -1,0 +1,160 @@
+id: is-is-21-013-5-body
+kind: is
+document: is-21-013
+family: '21'
+section_id: '5'
+section_title: INTRODUÇÃO
+subsection_id: body
+cite: '5'
+title: INTRODUÇÃO
+text: '5. INTRODUÇÃO
+
+  Esta IS provê um guia para aprovação da instalação de sistema GNSS utilizado para
+
+  operações VFR, IFR Convencional ou IFR PBN:
+
+  5.1. A utilização de um sistema GNSS para operações VFR requer que a aeronave opere sob
+  o
+
+  conjunto regras e procedimentos do voo visual, onde o piloto deve ser capaz controlar
+
+  visualmente a atitude, navegação e separação de obstáculos, terreno etc. Já na utilização
+  do
+
+  GNSS para navegação IFR a aeronave deve ser capaz de ser operada sem o uso de referências
+
+  visuais externas;
+
+  5.2. IFR Convencional consiste em operações onde a navegação é feita em rotas que foram
+
+  estabelecidas através de bloqueios de auxílios de solo (VOR, DME, ADF, ILS etc). O IFR
+
+  Convencional é classificado em IFR EM ROTA, ÁREA TERMINAL, APROXIMAÇÃO
+
+  DE NÃO-PRECISÃO e APROXIMAÇÃO DE PRECISÃO. Cabe ressaltar que é possível,
+
+  utilizando o equipamento GNSS, efetuar a navegação nestas rotas desde que as estações de
+
+  solo constem em seu banco de dados.
+
+  OBS: para aproximação de precisão, é necessário que o GNSS possua capacidade de
+
+  guiagem vertical aprovada, porém esta aprovação não é abordada nesta IS;
+
+  5.3. O conceito de IFR PBN, difundido a partir da terceira edição do DOC 9613 (Performance
+
+  Based Navigation Manual), resulta do esforço da ICAO em harmonizar os métodos de
+
+  navegação de área, criando dois tipos de espaços aéreos: os espaços RNAV e RNP. Estes se
+
+  diferenciam basicamente pela necessidade, nos espaços RNP, de monitoramento e alerta à
+
+  tripulação da situação de posicionamento da aeronave em relação à rota a ser voada, e seus
+
+  limites. O monitoramento e alerta não são requeridos nos espaços RNAV;16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  5.4. O conceito de PBN introduziu rotas ou procedimentos cuja execução requer que o conjunto
+
+  de sistemas da aeronave, qualificação da tripulação e sistemas de gerenciamento de tráfego
+
+  aéreo atenda a especificações expressas em termos de precisão, integridade, disponibilidade,
+
+  continuidade e funcionalidade, substituindo os critérios anteriores, que eram específicos
+  para
+
+  cada sistema (ex: rota baseada na passagem sobre estações de solo). Possibilitaram-se, assim,
+
+  a harmonização e a coexistência de sistemas distintos, introduzindo a possibilidade de maior
+
+  número de rotas otimizadas, a redução do tempo de voo, diminuição de atrasos, maior
+
+  flexibilidade de operações e menor consumo de combustível.
+
+  5.5. Os documentos de referência da Tabela 1 estabelecem critérios de aeronavegabilidade,
+
+  operacionais, designação e controle do espaço aéreo, em conjunto. Esta IS trata apenas dos
+
+  critérios de aeronavegabilidade para sistemas a serem instalados em aeronaves através de
+
+  CST ou SEGVOO 001;
+
+  5.6. Os documentos de referência primários utilizados na organização do espaço aéreo brasileiro
+
+  são o DOC 9613 e as SRVSOP AC 90-001 a 90-010. A certificação de sistemas RNAV não
+
+  é, contudo, apenas para o espaço aéreo brasileiro. Desta forma, os documentos referenciados
+
+  na Tabela 1 podem ser adotados nos processos de certificação ou avaliação de
+
+  aeronavegabilidade. Nestes casos, o cumprimento com os critérios destes documentos, ou
+
+  outros, conforme aplicáveis, devem ser verificados.
+
+  Nota: A operação RNP 1 referenciada nesta IS é restrita à operação RNP 1 básico, não
+
+  abrangendo a operação RNP 1 avançado.
+
+  Doc 9613- Performance-based Navigation Manual
+
+  Operação Documento
+
+  ICAO - Lima
+
+  Documento
+
+  EASA
+
+  Documento
+
+  FAA
+
+  RNAV 10 AC 91-001 AMC 20-12 Order 8400.12A
+
+  RNAV 5 AC 91-002 AMC 20-4 AC 90-96A
+
+  RNAV 1 e 2 AC 91-003 JAA TGL 10 AC 90-100A
+
+  RNP 4 AC 91-004
+
+  PP045
+
+  Information paper
+
+  (ops.013)
+
+  Order 8400.33
+
+  RNP 1 AC 91-006 JAA TGL 10 AC 20-138C
+
+  RNP APCH AC 91-008 AMC 20-27 AC 20-138C
+
+  RNP AR APCH AC 91-009 AMC 20-26 AC 20-138C
+
+  APV/BARO-VNAV AC 91-010 AMC 20-27 AC 20-138C
+
+  Tabela 1: Documentos equivalentes de outras autoridades de aviação civil considerados na
+  elaboração desta IS.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- rnav
+- documentos
+- gnss
+- navegacao
+- sistemas
+- 138c
+- aereo
+- aeronave
+- criterios
+- espacos
+- operacao
+- operacoes
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

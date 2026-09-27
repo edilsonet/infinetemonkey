@@ -1,0 +1,51 @@
+document: is-142-003
+kind: is
+title: IS 142-003B
+ementa: Aprovação de instrutores e credenciamento de examinadores vinculados à centros de
+  treinamento de aviação civil.
+family: '142'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-142-003
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-142-003/@@display-file/arquivo_norma/IS142-003B.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-142-003/@@display-file/arquivo_norma/IS142-003B.pdf
+language: pt
+foreign_annex: false
+sections:
+- '1'
+- '142.45'
+- '2'
+- '3'
+- '4'
+- 4.1.2
+- '5'
+- '6'
+- '7'
+- apendice-a-sintese-da-aplicabilidade-da-secao-142-45
+- apendice-a-tabela-a-2-linha-4-ajuste-de-referencias
+- apendice-b-controle-de-alteracoes
+- preambulo
+fragment_count: 21
+fragment_ids:
+- is-is-142-003-preambulo-body
+- is-is-142-003-1-body
+- is-is-142-003-2-body
+- is-is-142-003-3-body
+- is-is-142-003-3-a
+- is-is-142-003-3-b
+- is-is-142-003-4-body
+- is-is-142-003-5-body
+- is-is-142-003-5-d
+- is-is-142-003-5-a
+- is-is-142-003-5-b
+- is-is-142-003-5-c
+- is-is-142-003-142-45-body
+- is-is-142-003-142-45-a
+- is-is-142-003-142-45-b
+- is-is-142-003-6-body
+- is-is-142-003-7-body
+- is-is-142-003-apendice-a-sintese-da-aplicabilidade-da-secao-142-45-body
+- is-is-142-003-apendice-b-controle-de-alteracoes-body
+- is-is-142-003-4-1-2-body
+- is-is-142-003-apendice-a-tabela-a-2-linha-4-ajuste-de-referencias-body
+parser_version: 7

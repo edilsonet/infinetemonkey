@@ -1,0 +1,73 @@
+id: is-is-60-002-10-1-1-e
+kind: is
+document: is-60-002
+family: '60'
+section_id: 10.1.1
+section_title: 'As etapas de uma qualificação especial são descritas a seguir:'
+subsection_id: e
+cite: 10.1.1(e)
+title: 10.1.1(e)
+text: 'e) Fase 5: Certificação.
+
+  A ANAC emite o Certificado de Qualificação, após constatar que o FSTD cumpre os requisitos
+  aplicáveis, se houver alteração nele. Caso não haja necessidade de alteração, a ANAC notifica
+  o operador da aprovação das modificações. Com isso, o processo é finalizado.
+
+  Elevação de Nível DO FSTD
+
+  11.1 A elevação de nível é quando o operador deseja alterar o nível do FSTD qualificado
+  para um nível superior. Esse processo é similar ao de qualificação inicial, como descrito
+  na seção 7 dessa IS. Nesta atividade, a ANAC verifica se o FSTD cumpre os requisitos para
+  o nível mais elevado.
+
+  qualificação de fstd baseada em avaliação realizada por um país signatário da icao (RBAC
+  60.37)
+
+  12.1 A ANAC pode validar a avaliação e qualificação de um FSTD conduzida por um país signatário
+  da Convenção de Aviação Civil Internacional, se os padrões de desempenho para qualificação
+  e vigilância de FSTD daquele país forem consistentes com os do RBAC 60.
+
+  12.2 A ANAC ao considerar essa consistência entre os seus regulamentos e procedimentos e
+  aqueles do país signatário, considera os seguintes critérios, não exaustivos:
+
+
+  Equivalência dos Requisitos de Desempenho para Qualificação (QPS), como estabelecidos nos
+  Apêndices do RBAC 60;
+
+  Equivalência dos requisitos para o Sistema de Gerenciamento da Qualidade (QMS) do operador
+  de FSTD;
+
+  Tipos de Qualificação de FSTD conduzidas pelo país signatário;
+
+  Procedimentos de avaliação do FSTD;
+
+  Capacitação dos inspetores do país signatário para conduzir as avaliações;
+
+  Plano de vigilância da autoridade do país signatário.
+
+  12.3 A ANAC mantém a lista dos países dos quais admite o processo de validação de FSTD na
+  página https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/simuladores-de-voo-fstd/validacao-estrangeira.
+
+  12.4 Procedimentos para solicitar a validação de um FSTD.
+
+  12.5 Existem dois processos para validação de FSTD, a depender de quem é o operador do FSTD:'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- qualificacao
+- pais
+- signatario
+- nivel
+- operador
+- requisitos
+- validacao
+- avaliacao
+- procedimentos
+- processo
+- alteracao
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

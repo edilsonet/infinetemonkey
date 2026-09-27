@@ -1,0 +1,377 @@
+id: is-is-21-013-apendice-c-modelo-de-cartao-de-teste-para-inspecao-e-ensaios-no-body
+kind: is
+document: is-21-013
+family: '21'
+section_id: apendice-c-modelo-de-cartao-de-teste-para-inspecao-e-ensaios-no
+section_title: APÊNDICE C - MODELO DE CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO
+subsection_id: body
+cite: apendice-c-modelo-de-cartao-de-teste-para-inspecao-e-ensaios-no
+title: APÊNDICE C - MODELO DE CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO
+text: 'APÊNDICE C - MODELO DE CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO
+
+  SOLO
+
+  O objetivo deste apêndice é fornecer um modelo para a elaboração de “cartões de testes”
+  para a
+
+  Inspeção e Ensaios no Solo e de EMI-EMC.
+
+  A elaboração de cartões de teste não exclui a necessidade da elaboração de uma Proposta
+  de Ensaios
+
+  no Solo e de EMI/EMC. A apresentação de cartões de testes preenchidos não exclui a necessidade
+  da
+
+  apresentação da Declaração de Conformidade bem como de um Relatório com os Resultados da
+
+  Inspeção e de Ensaios no Solo e de EMI/EMC.
+
+  Para ensaios de integração, é necessário descrever como o teste de integração foi realizado
+  e qual foi
+
+  o comportamento observado nesta falha. Exemplo: <Com o GNSS selecionado como fonte de
+
+  navegação, ao desconectar o disjuntor ‘GPS 1’ do GNSS, aparece um ‘X’ vermelho no EHSI.>
+
+  Adicionar outras linhas/campos/folhas, se necessário. Verificar quais são os itens aplicáveis.
+
+  Numerar as páginas do cartão. Exemplo: Folha 01 de 04
+
+  Este é apenas um exemplo, que deve ser adaptado levando em consideração a instalação efetuada
+  e
+
+  os manuais de instalação aplicáveis:
+
+  CARTÃO DE TESTES PARA A INSPEÇÃO E ENSAIOS NO SOLO E DE EMI-EMC
+
+  PROCESSO Processo: H.___-_______-___ Requerente:_____________________________________________
+
+  (Empresa que conduz o processo)
+
+  Documento de Referência:__________________________________ Rev. ___ Data:__/__/_______
+
+  (Lista Mestra de Documentos/Relatório de Engenharia)
+
+  AERONAVE
+
+  Fabricante: _________________________ Especificação:_______________  TCDS ou 
+
+  EA/ER
+
+  Base de certificação: _________ (RBAC/RBHA/FAR/JAR)
+
+  Modelo: Base da Aeronave (Segundo o Certificado de Matrícula):
+
+  Cidade:______________________________U.F.___Pressurizada? sim  não
+
+  Protótipo?  sim  não 1P  ou 2P  (Segundo o Certificado de Aeronavegabilidade)
+
+  Matrícula: Proprietário/Operador: __________________________
+
+  Número de Série:
+
+  SISTEMA Descrição do
+
+  Sistema:__________________________________________________________________
+
+  ___________________________________________________________________________________
+
+  ___________________________________________________________________________________
+
+  __
+
+  PARTICIPANTES Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  LOCAL Local da Inspeção / Ensaios:
+
+  ______________________________________________________________
+
+  ___________________________________________________________________________________
+
+  Data da Inspeção / Ensaios:__/__/_______
+
+  Folha 01 de 0416-12-2016 IS nº 21-013
+
+  Revisão B
+
+  Revisão B
+
+  Exemplo de roteiro para inspeção:
+
+  INSPEÇÃO
+
+  Inspeção Sat. Não
+
+  Sat.
+
+  Posição da antena do GNSS (afastamento de outras: 3 pés)
+
+  Selagem, reforço e vedação da antena
+
+  Cabos da antena do GNSS afastados dos outros (mínimo 7,6 cm ou 3 pol.)
+
+  Fios de alimentação com bitola adequada e de qualidade aeronáutica
+
+  Posição e independência da alimentação das caixas de transferência
+
+  Posição e inscrição dos placares (listar os placares instalados)
+
+  _______________________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Posição dos anunciadores de fonte de navegação (listar os anunciadores instalados)
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Posição dos demais anunciadores (listar os anunciadores instalados)
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Posição do display do GNSS Instalado no campo de visão primário  sim  não
+
+  Disjuntores (Completar a tabela)
+
+  Identificação Valor (A) Conformidade com o projeto e acesso
+
+  Comandos acessíveis
+
+  Fixação de todos os componentes do sistema
+
+  Verificar se o local de instalação do equipamento não está sujeito a condições
+
+  ambientais excessivas (temperatura, pressão, umidade, entre outros) e se os limites de
+
+  operação do equipamento são compatíveis com os limites ambientais onde será
+
+  instalado na aeronave.
+
+  Coerência com Relatório Técnico de Instalação, Desenhos e Suplemento ao Manual de
+
+  Voo
+
+  Manual de Operação do equipamento a bordo (Completar a tabela)
+
+  Nome Part Number Revisão Data
+
+  __/__/_______
+
+  __/__/_______
+
+  __/__/_______
+
+  Folha 02 de 04
+
+  Alguns itens podem não ser aplicáveis16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  Exemplo de roteiro para ensaios:
+
+  ENSAIOS
+
+  Ensaios Sat. Não
+
+  Sat.
+
+  Procedimentos de inicialização/autoteste
+
+  Versões dos softwares (anotar versão/data, conforme aplicável)
+
+  Validade dos bancos de dados (anotar versão/data, conforme aplicável)
+
+  Variação de intensidade luminosa (“DIM/BRT”) do Display e anunciadores/avisos
+
+  (Descrever como é efetuado o teste)
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Teste da iluminação dos anunciadores (Descrever como é efetuado o teste)__________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  Reflexos indesejáveis no display e nos anunciadores
+
+  Adequação das luzes e cores dos anunciadores
+
+  Integração com altímetro com codificador (Descrever teste de integração) ___________
+
+  ________________________________________________________________________
+
+  Integração com Sistema de Áudio (Descrever teste de integração) __________________
+
+  ________________________________________________________________________
+
+  Integração com MFD (Descrever teste de integração) ___________________________
+
+  _______________________________________________________________________
+
+  Integração com HSI (Descrever teste de integração) _____________________________
+
+  ________________________________________________________________________
+
+  Integração com ______________ (Descrever teste de integração)
+
+  _______________________________________________________________________
+
+  Número de satélites capturados (anotar)
+
+  Qualidade de sinais recebidos (anotar)
+
+  Verificação de existência de interferência mútua entre GNSS e outros equipamentos de
+
+  bordo (Dentre os testes com outros equipamentos verificar as frequências 121.150 / 121.175
+
+  / 121.185 / 121.190 / 121.200 / 130.285 / 131.250 / 131.275 / 131.290 / 131.300 MHz para
+
+  todos os VHF-COMM existentes, durante uma transmissão contínua de 35s).
+
+  Piloto Automático sai do modo NAV na troca de fonte de navegação (GNSS/VOR-ILS e
+
+  VOR-ILS/GNSS) (GNSS/ILS)  sim  não
+
+  Interrupção do funcionamento do GNSS na abertura do disjuntor e na condição de aeronave
+
+  em emergência
+
+  Conformidade das integrações e do funcionamento com Relatórios Técnicos e com
+
+  Suplemento ao Manual de Voo
+
+  Folha 03 de 0416-12-2016 IS nº 21-013
+
+  Revisão B
+
+  COMENTÁRIOS E CONCLUSÕES
+
+  Comentários e conclusões
+
+  1.
+
+  2.
+
+  3.
+
+  4.
+
+  5.
+
+  6.
+
+  7.
+
+  8.
+
+  9.
+
+  10.
+
+  11.
+
+  12.
+
+  13.
+
+  14.
+
+  15.
+
+  16.
+
+  PENDÊNCIAS
+
+  Pendências
+
+  17.
+
+  18.
+
+  19.
+
+  20.
+
+  21.
+
+  22.
+
+  23.
+
+  24.
+
+  25.
+
+  26.
+
+  27.
+
+  28.
+
+  29.
+
+  30.
+
+  31.
+
+  32.
+
+  33.
+
+  34.
+
+  35.
+
+  36.
+
+  37.
+
+  38.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- ensaios
+- teste
+- integracao
+- inspecao
+- gnss
+- anunciadores
+- descrever
+- nome
+- posicao
+- cartao
+- data
+- exemplo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

@@ -1,0 +1,68 @@
+id: is-is-121-016-5-6-5-b
+kind: is
+document: is-121-016
+family: '121'
+section_id: 5.6.5
+section_title: Voos com dois aeródromos de alternativa de destino (121.619(b))
+subsection_id: b
+cite: 5.6.5(b)
+title: 5.6.5(b)
+text: 'b) não houver informação meteorológica disponível que atenda às seções 121.101 ou 121.119
+  do RBAC nº 121.
+
+  Nota: as condições descritas se referem a todo o horário estimado de utilização, incluindo
+  as margens de tempo apropriadas (conforme parágrafo 5.1.2.2 desta IS), do aeródromo de destino.
+  Assim, se houver informações meteorológicas, mas elas não cobrirem todo o horário estimado
+  de utilização, ou se, em parte desse horário, elas indicarem condições meteorológicas abaixo
+  dos mínimos, o parágrafo 121.619(b) requer a seleção de dois aeródromos de alternativa de
+  destino.
+
+  5.6.5.2 Conforme o parágrafo 121.613(b), esta é a única situação em que não é necessário
+  garantir que, no momento do planejamento do voo, existam informações meteorológicas atualizadas
+  indicando que as condições meteorológicas no aeródromo de destino estarão, no horário estimado
+  de utilização, iguais ou acima dos mínimos operacionais para pouso no aeródromo.
+
+  5.6.5.3 Considerando-se a obrigatoriedade de avaliar os requisitos de desempenho de pouso
+  no aeródromo de destino, conforme a Subparte I do RBAC nº 121, observa-se que, se esse aeródromo
+  não dispuser de informação meteorológica disponível que atenda às seções 121.101 ou 121.119
+  do RBAC nº 121, o operador deve obter aprovação da ANAC para uso de meios alternativos para
+  considerar os parâmetros necessários ao cálculo de desempenho.
+
+  5.7 Acompanhamento de voo (121.631)
+
+  5.7.1 Durante o voo, o parágrafo 121.631(b) requer que, continuamente, as últimas informações
+  meteorológicas disponíveis indiquem que as condições meteorológicas no aeródromo de destino
+  ou em um aeródromo de alternativa requerido estarão, no horário estimado de utilização,
+  iguais ou acima dos mínimos operacionais estabelecidos pelo operador em conformidade com
+  a seção 121.648a. Observa-se que esse requisito é menos exigente do que para o planejamento
+  de voo, pois se admite somente um aeródromo (ou destino ou uma alternativa) e se utilizam
+  como parâmetro os mínimos operacionais (e não o mínimo de planejamento).
+
+  5.7.2 O detentor de certificado deve monitorar continuamente as informações meteorológicas
+  dos aeródromos indicados no plano operacional de voo de forma a garantir o cumprimento desse
+  requisito.
+
+  5.7.3 Em caso de alteração do plano operacional de voo, seja por necessidade de voltar ao
+  cumprimento do requisito (caso as últimas informações meteorológicas disponíveis deixem
+  de atender ao 121.631(b)), seja por interesse do detentor de certificado, o parágrafo 121.631(f)
+  estabelece que:'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- meteorologicas
+- destino
+- horario
+- informacoes
+- paragrafo
+- alternativa
+- condicoes
+- estimado
+- minimos
+- utilizacao
+- aerodromos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-016.md

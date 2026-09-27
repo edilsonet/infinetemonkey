@@ -1,0 +1,45 @@
+id: is-is-91-001-j1-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J1.3
+section_title: O termo ‘baro-VNAV’ é derivado da expressão em inglês barometric vertical navigation.
+  O sistema de navegação baro-VNAV apresenta ao piloto uma guia vertical calculada que tem
+  como referência um ângulo de trajetória vertical (VPA) especificado, que normalmente apresenta
+  o valor de 3º (três graus). A guia vertical calculada é baseada nas informações de altitude
+  barométrica provenientes do sistema de navegação, sendo especificada como um VPA a partir
+  da altura do ponto de referência (RDH).
+subsection_id: body
+cite: J1.3
+title: O termo ‘baro-VNAV’ é derivado da expressão em inglês barometric vertical navigation.
+  O sistema de navegação baro-VNAV apresenta ao piloto uma guia vertical calculada que tem
+  como referência um ângulo de trajetória vertical (VPA) especificado, que normalmente apresenta
+  o valor de 3º (três graus). A guia vertical calculada é baseada nas informações de altitude
+  barométrica provenientes do sistema de navegação, sendo especificada como um VPA a partir
+  da altura do ponto de referência (RDH).
+text: J1.3 O termo ‘baro-VNAV’ é derivado da expressão em inglês barometric vertical navigation.
+  O sistema de navegação baro-VNAV apresenta ao piloto uma guia vertical calculada que tem
+  como referência um ângulo de trajetória vertical (VPA) especificado, que normalmente apresenta
+  o valor de 3º (três graus). A guia vertical calculada é baseada nas informações de altitude
+  barométrica provenientes do sistema de navegação, sendo especificada como um VPA a partir
+  da altura do ponto de referência (RDH).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- vertical
+- apresenta
+- baro
+- calculada
+- guia
+- navegacao
+- referencia
+- sistema
+- vnav
+- altitude
+- altura
+- angulo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

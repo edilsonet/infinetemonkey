@@ -1,0 +1,63 @@
+id: is-is-121-005-5-3-3-b
+kind: is
+document: is-121-005
+family: '121'
+section_id: 5.3.3
+section_title: 'Para identificar esses dois níveis, a revisão do MGO deve ser identificada
+  por dois números, no formato “N1.N2”, sendo que:'
+subsection_id: b
+cite: 5.3.3(b)
+title: 5.3.3(b)
+text: 'b) N2 é o número da revisão das partes aceitas, iniciando-se por 0 (zero) na revisão
+  original e sendo incrementado por 1 (um) a cada alteração do conteúdo do manual, exceto
+  se houver revisão das partes aprovadas, quando voltará a zero.
+
+  Exemplo: caso a revisão atual do MGO seja a “01.12” e haja alteração apenas de partes aceitas,
+  a próxima revisão será a “01.13”. Caso haja alteração de alguma parte aprovada, a próxima
+  revisão será a “02.00” (sempre que houver revisão das partes aprovadas, o número N2 voltará
+  a zero).
+
+  Nota: no caso de revisão de partes aprovadas do MGO, todas as páginas do documento deverão
+  receber o número da revisão que está sendo solicitada. Usando como referência o exemplo
+  acima, todas as páginas deverão receber a revisão “02.00”.
+
+  5.3.4 O MGO deve ser enviado à Anac em formato digital, acompanhado do formulário FOP 107
+  (previsto na IS nº 119-001). O FOP 107 deverá indicar claramente quais seções do manual
+  foram alteradas, de modo que seja possível identificar rapidamente se a nova revisão irá
+  requerer aprovação ou apenas aceitação. A documentação também deverá estar acompanhada dos
+  dados do pagamento da TFAC (ou de cópia do respectivo comprovante de pagamento), conforme
+  previsto na Resolução nº 653, de 20 de dezembro de 2021 ou norma que vier a substituí-la.
+
+  Nota: nos casos em que o operador optar pela estrutura mista ou alternativa do MGO (conforme
+  parágrafo 5.2.2 desta IS), o protocolo deve conter todos os manuais, volumes e documentos
+  que compõem o MGO.
+
+  5.3.5 Para aprovação de revisões do MGO, a Anac irá emitir o formulário FOP 111 (também
+  previsto na IS nº 119-001). O FOP 111 de aprovação irá mencionar, no campo de “revisão”,
+  apenas o campo referente à revisão das partes aprovadas (“N1” no item 5.3.3 desta IS), explicitando
+  que aquela aprovação permanece válida qualquer que seja a revisão das partes aceitas do
+  manual.
+
+  5.3.6 Para revisões que requerem apenas aceitação, não haverá emissão de FOP 111. O operador
+  poderá considerar que o MGO está aceito se não houver notificação da Anac rejeitando parte
+  ou todo o material submetido.'
+keywords:
+- transporte-aereo
+- operacoes
+- revisao
+- partes
+- aprovacao
+- aprovadas
+- aceitas
+- alteracao
+- caso
+- houver
+- manual
+- numero
+- seja
+- zero
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

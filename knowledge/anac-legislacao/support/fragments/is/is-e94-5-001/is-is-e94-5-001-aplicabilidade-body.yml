@@ -1,0 +1,56 @@
+id: is-is-e94-5-001-aplicabilidade-body
+kind: is
+document: is-e94-5-001
+family: '94'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: body
+cite: aplicabilidade
+title: Aplicabilidade
+text: 'Aplicabilidade
+
+  Esta IS é aplicável para autorização de projeto de RPAS destinado à aplicação de agrotóxicos
+  e afins, adjuvantes, fertilizantes, inoculantes, corretivos e sementes.
+
+  Condições operacionais gerais
+
+  A altura máxima de operação deve ser igual à estabelecida na Folha de Especificações do
+  Projeto Autorizado (DADS) do modelo de RPAS e deve ser menor ou igual a 400 pés AGL.
+
+  As operações devem ser realizadas na linha de visada visual (VLOS), sendo admitido o uso
+  de observador(es) para operações em linha de visada visual estendida (EVLOS).
+
+  As operações devem ser realizadas a uma distância máxima de 1.000 (um mil) metros do piloto
+  remoto ou observador.
+
+  Durante a operação normal da RPA deve ser possível a intervenção do piloto remoto em qualquer
+  fase do voo.
+
+  Um piloto remoto somente pode operar uma única RPA por vez, exceto se de outra forma autorizado
+  pela ANAC.
+
+  A RPA deve ter energia cinética máxima de impacto no solo menor que 34 (trinta e quatro)
+  kJ (quilojoules).
+
+  Autorização de projeto
+
+  A autorização para um projeto de RPAS será concedida pela ANAC mediante apresentação de
+  formulário próprio com as principais características do modelo e declaração por um requerente
+  de que:'
+keywords:
+- projeto
+- aplicabilidade
+- autorizacao
+- maxima
+- operacoes
+- piloto
+- remoto
+- rpas
+- autorizado
+- igual
+- linha
+- menor
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-5-001.md

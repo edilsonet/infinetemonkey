@@ -1,0 +1,39 @@
+id: is-is-91-001-d5-6-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: D5.6
+section_title: 'Quando sistemas GNSS não-integrados (stand-alone) forem utilizados, os procedimentos
+  operacionais devem identificar as ações que a tripulação deve executar na ocorrência de
+  perda da função RAIM ou caso se exceda o limite do alarme de integridade (que pode resultar
+  em erro excessivo de posicionamento). Tais procedimentos podem incluir:'
+subsection_id: a
+cite: D5.6(a)
+title: D5.6(a)
+text: a) em situações em que houver a perda da capacidade de detecção da função RAIM, a informação
+  de posicionamento fornecida pelo sistema GNSS pode continuar sendo utilizada para a navegação.
+  Em tais circunstâncias, a tripulação deve tentar realizar a conferência da informação de
+  posição fornecida pelo GNSS com a de outras fontes de informação de posição (como por exemplo,
+  informações de VOR, DME e/ou NDB) para verificar a adequabilidade da informação de navegação.
+  Caso contrário, a tripulação deverá reverter para um método alternativo de navegação e comunicar
+  ao ATC; e
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- informacao
+- gnss
+- navegacao
+- tripulacao
+- caso
+- fornecida
+- funcao
+- perda
+- pode
+- posicao
+- posicionamento
+- procedimentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

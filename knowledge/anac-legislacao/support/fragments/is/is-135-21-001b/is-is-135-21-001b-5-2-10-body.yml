@@ -1,0 +1,65 @@
+id: is-is-135-21-001b-5-2-10-body
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.10
+section_title: Gerenciamento de frota.
+subsection_id: body
+cite: 5.2.10
+title: Gerenciamento de frota.
+text: '5.2.10 Gerenciamento de frota.
+
+  5.2.10.1 Conteúdo das Especificações Operativas (EO). As Especificações Operativas (EO)
+  dos detentores de certificado operando segundo o RBAC nº 135 trazem as informações de cada
+  modelo de aeronave autorizada a realizar serviço de transporte aéreo, mas não listam as
+  marcas de nacionalidade e matrícula de cada aeronave da frota, pois o parágrafo 119.49 (a)(4)(i)
+  do RBAC nº 119 permite que o controle fique a cargo do detentor do certificado, que é o
+  responsável por garantir que cada aeronave esteja equipada e apta às operações autorizadas,
+  conforme a seção 135.143 do RBAC nº 135.
+
+  5.2.10.2 Controle das marcas de nacionalidade e matrícula. O gerenciamento de frota compreende
+  o processo de controle das marcas de nacionalidade e matrícula das aeronaves. O detentor
+  do certificado deve demonstrar, na certificação inicial ou na inclusão de um novo modelo
+  nas EO, a existência de um processo documentado e eficaz que atenda aos requisitos operacionais,
+  de equipamentos, manutenção e registros requeridos pelo RBAC nº 135.
+
+  Esse processo deve prever a designação de aeronaves capacitadas, com responsabilidades formalmente
+  divididas entre os setores envolvidos. No contexto da manutenção, cabe garantir a conformidade
+  técnica das aeronaves, além de desenvolver os procedimentos específicos para esse gerenciamento
+  no Manual Geral de Manutenção (MGM).
+
+
+  O gerenciamento da frota deve ser feito por meio de uma listagem padronizada, no mesmo formato
+  e detalhamento que as EO apresentam para o modelo, contendo as informações essenciais de
+  cada aeronave, alinhadas às autorizações previstas nas EO.
+
+  5.2.10.3 Inclusão de aeronave ou autorização. Devem ser estabelecidos procedimentos de manutenção
+  no MGM para inclusão de aeronave ou autorização para uma aeronave específica na listagem
+  de aeronaves.
+
+  Esse processo deve ser precedido por uma análise técnica rigorosa, com base em documentação
+  válida e atualizada, como o Manual de Voo da Aeronave (AFM), registros de modificações,
+  certificados de tipo e outros documentos que atestem sua aeronavegabilidade e capacidades
+  operacionais.
+
+  A análise técnica deve ser conduzida e formalmente validada pela manutenção, abrangendo:'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- frota
+- gerenciamento
+- manutencao
+- aeronaves
+- cada
+- processo
+- certificado
+- controle
+- inclusao
+- marcas
+- matricula
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

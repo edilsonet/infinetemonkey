@@ -1,0 +1,48 @@
+id: is-is-91-001-e8-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E8.2
+section_title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento SID e STAR ou rota RNAV 1 ou 2, antes de voar em condições
+  IMC para assegurar a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem
+  aos procedimentos SIDs e STARs ou rotas publicados. Para tanto, o operador deve, pelo menos,
+  realizar a comparação entre os dados de navegação dos procedimentos SIDs e STARs e rotas
+  RNAV 1 ou 2 que serão inseridos no FMS com cartas e mapas vigentes que contenham os procedimentos
+  SID e STARs ou rotas publicados.
+subsection_id: body
+cite: E8.2
+title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador deve
+  validar cada procedimento SID e STAR ou rota RNAV 1 ou 2, antes de voar em condições IMC
+  para assegurar a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem
+  aos procedimentos SIDs e STARs ou rotas publicados. Para tanto, o operador deve, pelo menos,
+  realizar a comparação entre os dados de navegação dos procedimentos SIDs e STARs e rotas
+  RNAV 1 ou 2 que serão inseridos no FMS com cartas e mapas vigentes que contenham os procedimentos
+  SID e STARs ou rotas publicados.
+text: E8.2 Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento SID e STAR ou rota RNAV 1 ou 2, antes de voar em condições
+  IMC para assegurar a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem
+  aos procedimentos SIDs e STARs ou rotas publicados. Para tanto, o operador deve, pelo menos,
+  realizar a comparação entre os dados de navegação dos procedimentos SIDs e STARs e rotas
+  RNAV 1 ou 2 que serão inseridos no FMS com cartas e mapas vigentes que contenham os procedimentos
+  SID e STARs ou rotas publicados.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- rotas
+- stars
+- dados
+- navegacao
+- operador
+- publicados
+- rnav
+- sids
+- aeronave
+- assegurar
+- banco
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

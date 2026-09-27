@@ -1,0 +1,37 @@
+id: is-is-e94-5-001-preambulo-body
+kind: is
+document: is-e94-5-001
+family: '94'
+section_id: preambulo
+section_title: PREÂMBULO
+subsection_id: body
+cite: preambulo
+title: PREÂMBULO
+text: 'PREÂMBULO
+
+  O requisito E94.5(b) do RBAC-E 94 estabelece critérios para operações com Sistema de Aeronave
+  Remotamente Pilotada (RPAS) para aplicar agrotóxicos e afins, adjuvantes, fertilizantes,
+  inoculantes, corretivos e sementes, sendo permitido, nesses casos, que o RPAS não possua
+  um projeto autorizado pela ANAC.
+
+  No entanto, caso o fabricante tenha o interesse de autorizar seu projeto de RPAS para essas
+  operações, deverá atender os critérios estabelecidos nesta Instrução Suplementar, desenvolvidos
+  de acordo com a Metodologia SORA. Para os casos não previstos nesta IS, aplicam-se os critérios
+  estabelecidos na Subparte E do RBAC-E 94.'
+keywords:
+- criterios
+- preambulo
+- rpas
+- casos
+- estabelecidos
+- operacoes
+- projeto
+- acordo
+- adjuvantes
+- aeronave
+- afins
+- agrotoxicos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-5-001.md

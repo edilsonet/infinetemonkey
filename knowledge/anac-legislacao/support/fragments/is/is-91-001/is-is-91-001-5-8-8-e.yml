@@ -1,0 +1,35 @@
+id: is-is-91-001-5-8-8-e
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.8.8
+section_title: Operações PBN utilizando o GNSS
+subsection_id: e
+cite: 5.8.8(e)
+title: 5.8.8(e)
+text: e) é esperado que os bancos de dados de navegação estejam válidos durante o decorrer
+  dos voos. Para situações em que o ciclo AIRAC estiver programado para mudar durante um determinado
+  voo, procedimentos devem ser estabelecidos para assegurar a acurácia dos dados de navegação,
+  incluindo a adequabilidade dos auxílios à navegação utilizados para definição das rotas
+  do voo. Tradicionalmente, tal situação tem sido comprovada por meio da comparação dos dados
+  eletrônicos com o conteúdo correspondente das respectivas versões impressas;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- dados
+- navegacao
+- durante
+- acuracia
+- adequabilidade
+- airac
+- assegurar
+- auxilios
+- bancos
+- ciclo
+- comparacao
+- comprovada
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

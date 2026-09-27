@@ -1,0 +1,88 @@
+id: is-is-119-002-3-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: '3'
+section_title: ANÁLISE DO FALTANTE
+subsection_id: body
+cite: '3'
+title: ANÁLISE DO FALTANTE
+text: '3. ANÁLISE DO FALTANTE
+
+  3.1 INTRODUÇÃO
+
+  Uma vez vencido o primeiro passo para identificar as fontes de vulnerabilidade para a segurança
+
+  operacional do Detentor do Certificado, que se transformam em perigo e tratados no Capítulo
+  2,
+
+  passa-se à etapa de avaliar as vulnerabilidades ou perigos por meio de uma identificação
+  e análise
+
+  dos recursos presentes no estrutura do Detento do Certificado.
+
+  Essa análise tem dois objetivos principais, identificar os possíveis conflitos e carências
+  existentes
+
+  nas interfaces entre os diversos componentes da estrutura organizacional e, o segundo, identificar
+
+  quais os recursos adicionais (defesas) que seriam necessários para diminuir essas diferenças,
+
+  auxiliando o pessoal operativo no cumprimento de suas tarefas de forma segura e eficiente.
+
+  Esta é a finalidade da elaboração da análise do faltante, dentro dos conceitos do SGSO,
+  ou seja,
+
+  comparar os componentes propostos para o Sistema de Gerenciamento da Segurança Operacional,
+
+  contidos no Apêndice Q do RBAC 121 ou H do RBAC 135, bem como nos demais regulamentos
+
+  relacionados com a segurança operacional dos Detentores de Certificado, olhando para a estrutura
+
+  organizacional, os processos e procedimentos existentes ou parcialmente implantados,
+
+  identificando o que falta implantar para a efetiva operação do SGSO do Detentor do Certificado
+
+  definido pela ANAC.
+
+  Esta análise é uma parte importante para o desenvolvimento do SGSO do Detentor de Certificado
+
+  porque as estruturas organizacionais básicas necessárias para iniciar a sua operação, podem
+  já
+
+  existir, sendo rara a ocasião que se iniciará do zero. Assim, é importante considerar a
+  incorporação
+
+  das estruturas e procedimentos existentes ao planejamento do SGSO, evitando uma ruptura
+  dos
+
+  processos em andamento.
+
+  3.2 ESTRUTURA PREVISTA NO RBAC 121 ou RBAC 135 PARA O SGSO DO DETENTOR DO
+
+  CERTIFICADO
+
+  O Gestor Responsável deve apresentar no MGSO a estrutura proposta para o SGSO do Detentor
+
+  do Certificado operando sob as regras do RBAC 121 ou RBAC 135, disponível no Apêndice Q
+  ou'
+keywords:
+- certificacao-de-operador
+- operacoes
+- analise
+- certificado
+- sgso
+- detentor
+- estrutura
+- faltante
+- existentes
+- identificar
+- operacional
+- seguranca
+- apendice
+- componentes
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

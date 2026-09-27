@@ -1,0 +1,85 @@
+id: is-is-91-005-d2-3-a
+kind: is
+document: is-91-005
+family: '91'
+section_id: D2.3
+section_title: 'O envelope de voo operacional RVSM é definido como o número de Mach, W/δ e
+  faixas de altitude sobre as quais pode ser operada uma aeronave em voo de cruzeiro dentro
+  do espaço aéreo RVSM. Como anteriormente mencionado, o envelope de voo operacional RVSM
+  para qualquer aeronave pode ser dividido em duas partes, conforme a seguir:'
+subsection_id: a
+cite: D2.3(a)
+title: D2.3(a)
+text: 'a)
+
+  Envelope de voo completo RVSM
+
+  : o envelope de voo completo RVSM compreenderá toda faixa de número de Mach operacional,
+  W/δ e valores de altitude sobre os quais se pode operar uma aeronave dentro do espaço aéreo
+  RVSM. A tabela D-1 estabelece os parâmetros que devem ser considerados neste envelope:
+
+  Limite inferior
+
+  Limite superior
+
+  Altitude
+
+  FL 290
+
+  O menor dos seguintes valores:
+
+  - FL 410
+
+  - Altitude máxima certificada para a aeronave
+
+  - Altitude limitada por: empuxo de cruzeiro, velocidade de batimento e outras limitações
+  de voo da aeronave
+
+  Mach ou velocidade
+
+  O menor dos seguintes valores:
+
+  - Velocidade de máxima autonomia
+
+  - Velocidade de manobra
+
+  O menor dos seguintes valores:
+
+  - M
+
+  mo
+
+  /V
+
+  mo
+
+  - Velocidade limitada por: empuxo de cruzeiro, velocidade de batimento e outras limitações
+  de voo da aeronave
+
+  Peso bruto
+
+  - O menor peso bruto compatível com operações em espaço aéreo RVSM
+
+  - O maior peso bruto compatível com operações em espaço aéreo RVSM
+
+  Tabela D-1 - Limites do envelope de voo completo RVSM'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rvsm
+- aeronave
+- envelope
+- velocidade
+- altitude
+- aereo
+- espaco
+- menor
+- valores
+- bruto
+- completo
+- cruzeiro
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

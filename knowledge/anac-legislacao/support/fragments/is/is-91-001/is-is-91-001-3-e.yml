@@ -1,0 +1,153 @@
+id: is-is-91-001-3-e
+kind: is
+document: is-91-001
+family: '91'
+section_id: '3'
+section_title: Considerações durante o voo
+subsection_id: e
+cite: 3(e)
+title: 3(e)
+text: 'e) as aeronaves não podem ultrapassar os limites de velocidades estipulados na tabela
+  abaixo durante a execução de segmentos RF. Ressalvados os dados da tabela abaixo, devem
+  ser observados quaisquer limites de velocidade discriminados na carta do procedimento (restrições
+  de velocidade podem ser empregadas com a finalidade de reduzir o raio de curvatura).
+
+  Limites de velocidade em segmentos RF
+
+  Velocidade indicada (knots)
+
+  Segmento
+
+  IAS por categoria da aeronave
+
+  CAT A
+
+  CAT B
+
+  CAT C
+
+  CAT D
+
+  CAT E
+
+  Inicial e intermediário (IAF ao FAF)
+
+  150
+
+  180
+
+  240
+
+  250
+
+  250
+
+  Final (FAF ao DA)
+
+  100
+
+  130
+
+  160
+
+  185
+
+  De acordo com a IAL
+
+  Aproximação perdida (DA ao MAHP)
+
+  110
+
+  150
+
+  240
+
+  265
+
+  De acordo com a IAL
+
+
+  3.12 Compensação de temperatura. Aeronaves equipadas com sistemas de compensação de temperatura
+  podem desconsiderar os limites de temperatura para os procedimentos RNP AR APCH caso a tripulação
+  esteja treinada para a utilização desta capacidade. A compensação da temperatura por meio
+  dos sistemas aviônicos não é aplicável para compensar os efeitos de temperaturas baixas,
+  tanto nas restrições de altitudes como na altitude de decisão. A tripulação deve estar familiarizada
+  com os efeitos da compensação da temperatura quando interceptando uma “rampa compensada”.
+
+  3.13 Ajuste do altímetro. Devido às margens de segurança reduzidas inerentes aos procedimentos
+  RNP AR APCH, a tripulação deve assegurar que o ajuste do altímetro local está inserido corretamente
+  antes de sobrevoar o FAF mas não antes do IAF. A execução de procedimentos RNP AR APCH está
+  condicionada ao ajuste do altímetro no local onde será efetuado o pouso. Não são permitidos
+  procedimentos onde as informações barométricas são obtidas remotamente.
+
+  3.14 Cheque cruzado dos altímetros. Antes da passagem pelo FAF e após o IAF, a tripulação
+  deve efetuar cheque cruzado entre os altímetros, a diferença tolerável não pode ser superior
+  a ± 100 pés. Se o cheque cruzado não for satisfatório a tripulação deve descontinuar a aproximação.
+  Procedimentos operacionais devem especificar as ações a serem tomadas em casos de avisos
+  automáticos realizados por meio dos sistemas aviônicos.
+
+  3.15 Transição entre trajetórias verticais. Os sistemas de navegação verticais, barométricos,
+  fornecem orientação para uma transição suave durante a interceptação da trajetória vertical
+  quando antes do FAF. Pequenas oscilações verticais podem ocorrer durante a interceptação
+  de um segmento vertical. Esta oscilação abaixo do mínimo publicado é aceitável e limitada
+  a 100 (cem) pés.
+
+  3.16 Gradientes de subida não padrão. Quando um operador pretender usar uma DA associada
+  a um segmento de aproximação perdida com gradiente de subida não padrão ele deve assegurar
+  que a aeronave é capaz de cumprir tal gradiente para a condição de peso da aeronave a para
+  as condições atmosféricas previstas. Quando o operador utilizar os serviços de despachantes
+  de voo, o mesmo deve fornecer um briefing detalhado das condições operacionais associadas
+  ao gradiente de subida.
+
+  3.17 Procedimento com falha no motor. A aeronave deve demonstrar um FTE aceitável em situações
+  de falha em um dos motores quando executando um procedimento RNP AR APCH. Caso a aeronave
+  não demonstre essa capacidade, é esperado que a tripulação tome as ações corretas necessárias
+  em caso de falha no motor, desta forma não é necessária qualificação específica da aeronave
+  nesse caso. A qualificação da aeronave deve identificar qualquer limitação de desempenho
+  em caso de falha de motor para suportar a tomada de decisão da tripulação. Operadores devem
+  ter atenção especial em procedimentos com falha do motor em que são empregados gradientes
+  de subida não padrão.
+
+  3.18 Aproximação perdida. Sempre que possível o segmento de aproximação perdida terá valor
+  de RNP 1.0. O procedimento de arremetida nesses casos não difere dos demais procedimentos
+  RNP APCH. Porém, em situações específicas, o segmento de arremetida pode requerer valor
+  de RNP menor que 1.0. Para a execução desses procedimentos os equipamentos embarcados e
+  os procedimentos operacionais devem atender aos requisitos do item 3.21 deste anexo.
+
+  Nota 1: em algumas aeronaves ocorre a troca no modo de navegação lateral quando o modo TOGA
+  é ativado, da mesma forma em algumas aeronaves o AP e o FD também são desconectados do modo
+  de navegação lateral, nesses casos os comandos laterais para o AP e FD devem ser reestabelecidos
+  o mais breve possível.
+
+  Nota 2: procedimentos operacionais e treinamento específico devem abordar o impacto na navegação
+  lateral em caso de se iniciar uma arremetida durante a execução de uma curva. Em caso de
+  uma arremetida ser iniciada antes do MAPT a tripulação deve seguir os segmentos de aproximação
+  e o segmento de aproximação perdida publicados, salvo se autorizado de outra forma pelo
+  órgão ATC.
+
+  Nota 3: a tripulação deve atentar que os segmentos RF são desenvolvidos levando-se em consideração
+  a máxima velocidade na altitude planejada. Uma arremetida antecipada pode reduzir a margem
+  de manobrabilidade e potencialmente pode inviabilizar a execução da curva dentro dos limites
+  desejados.
+
+  3.19 Procedimentos de contingência.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- tripulacao
+- aeronave
+- aproximacao
+- caso
+- segmento
+- apch
+- arremetida
+- durante
+- execucao
+- falha
+- limites
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

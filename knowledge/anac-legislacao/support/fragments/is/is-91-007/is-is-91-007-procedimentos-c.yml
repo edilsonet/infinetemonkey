@@ -1,0 +1,49 @@
+id: is-is-91-007-procedimentos-c
+kind: is
+document: is-91-007
+family: '91'
+section_id: procedimentos
+section_title: procedimentos
+subsection_id: c
+cite: procedimentos(c)
+title: procedimentos(c)
+text: 'c) que possui um plano de implementação do sistema de gerenciamento de segurança operacional
+  (SGSO), incluído em manual de gerenciamento de segurança operacional (MGSO), elaborado segundo
+  os requisitos do RBAC nº 136 (caso aplicável) ou da Resolução nº 106, de 30 de junho de
+  2009 (aplicável aos demais operadores). O MGSO deve contemplar capítulos dedicados às especificidades
+  de cada modalidade de SAE a ser explorada. Esse material deve ser analisado e aceito pela
+  ANAC.
+
+  Nota: como exemplo de especificidades, é recomendado, nos casos que envolvam terceiros a
+  bordo (repórteres, fotógrafos etc.) que não possuam familiaridade com as operações aéreas,
+  que seja instituído procedimento de briefing operacional e de emergência como forma de mitigação
+  de possíveis riscos.
+
+  5.5 As empresas que pretendam operar SAE na modalidade de voo panorâmico, além das comprovações
+  indicadas no item 5.4 desta IS, devem dar prosseguimento ao processo de certificação previsto
+  no RBAC nº 136.
+
+  5.6 Finalizada a análise dos documentos e manuais, será iniciada a fase de inspeções e demonstrações
+  por parte do requerente.
+
+  5.7 A fase de inspeções e demonstrações poderá ser composta por 3 etapas distintas:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacional
+- aplicavel
+- demonstracoes
+- especificidades
+- fase
+- gerenciamento
+- inspecoes
+- mgso
+- modalidade
+- procedimentos
+- seguranca
+- aceito
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-007.md

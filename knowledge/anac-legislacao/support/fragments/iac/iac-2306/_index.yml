@@ -1,0 +1,22 @@
+document: iac-2306
+kind: iac
+title: IAC 2306
+ementa: 16/07/1990
+family: '230'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2306
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2306/@@display-file/arquivo_norma/IAC2306.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-2306/@@display-file/arquivo_norma/IAC2306.pdf
+language: pt
+foreign_annex: false
+sections:
+- 18.06.90
+- anexo
+- preambulo
+fragment_count: 3
+fragment_ids:
+- iac-iac-2306-preambulo-body
+- iac-iac-2306-18-06-90-body
+- iac-iac-2306-anexo-body
+parser_version: 7

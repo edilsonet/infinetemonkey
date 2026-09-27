@@ -1,0 +1,65 @@
+id: is-is-142-001-142-49-b
+kind: is
+document: is-142-001
+family: '142'
+section_id: '142.49'
+section_title: do RBAC 142, se verificado o atendimento aos requisitos aplicáveis do
+subsection_id: b
+cite: 142.49(b)
+title: 142.49(b)
+text: 'b) acompanhar as ações de mitigação de risco implantadas e comprovar a sua eficácia;
+  e
+
+  8.4.9.2. estabelecer indicadores e metas de segurança operacional para avaliar o desempenho
+  da
+
+  segurança operacional do detentor do certificado.
+
+  8.4.10. O elemento “gestão da mudança” do CTAC deve:
+
+  8.4.10.1. desenvolver e manter processos para identificar as mudanças que possam afetar
+  a segurança
+
+  operacional do detentor de certificado; e
+
+  8.4.10.2. gerenciar os riscos decorrentes dessas mudanças.
+
+  8.4.11. O elemento “melhoria contínua do SGSO” do CTAC deve:
+
+  8.4.11.1. estabelecer e manter processos para monitorar a eficácia do seu SGSO; e11 de julho
+  de 2014 IS Nº 142-001
+
+  Revisão A
+
+  8.4.11.2. buscar, de forma contínua, a melhora do desempenho da segurança operacional.
+
+  8.4.12. O elemento “treinamento e qualificação” do CTAC deve:
+
+  8.4.12.1. desenvolver um programa de treinamento específico que assegure que o pessoal do
+  detentor
+
+  do certificado esteja adequadamente qualificado e treinado para exercer as funções e
+
+  atribuições estabelecidas pelo SGSO;
+
+  8.4.12.2. adequar o conteúdo e a carga horária do treinamento para cada função prevista
+  pelo SGSO.
+
+  8.4.12.3. abranger, no treinamento de SGSO do pessoal do CTAC, pelo menos:'
+keywords:
+- sgso
+- ctac
+- operacional
+- seguranca
+- treinamento
+- certificado
+- detentor
+- elemento
+- continua
+- desempenho
+- desenvolver
+- eficacia
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-142-001.md

@@ -1,0 +1,69 @@
+id: is-is-21-006-apendice-d-producao-sob-certificado-de-tipo-b
+kind: is
+document: is-21-006
+family: '21'
+section_id: apendice-d-producao-sob-certificado-de-tipo
+section_title: APÊNDICE D - PRODUÇÃO SOB CERTIFICADO DE TIPO
+subsection_id: b
+cite: apendice-d-producao-sob-certificado-de-tipo(b)
+title: apendice-d-producao-sob-certificado-de-tipo(b)
+text: 'b) cada aeronave seja pesada para determinar que o peso vazio e o centro de gravidade
+  está em conformidade com o projeto de tipo.
+
+  D.4.2 O procedimento de ensaio em voo e a ficha de verificação associada, requeridos nos
+  termos da seção 21.127, devem ser submetidos à ANAC para aprovação.
+
+  D.5 Seção 21.128, Ensaios: motores de aeronaves
+
+  D.5.1 O equipamento de teste usado para execuções de testes (ensaios) deve ter capacidade
+  de determinar os resultados de saída de modo preciso para garantir que os resultados do
+  teste do motor cumpram com resultados oficiais e limitações operacionais.
+
+  D.5.2 Após os testes prescritos pela seção 21.128, cada motor é sujeito à inspeção da ANAC
+  para determinar que o motor está em condições de operação segura. Essa inspeção pode também
+  incluir a inspeção interna e verificação para garantir que não exista nenhuma condição insegura.
+  O grau de inspeção interna será normalmente determinado pelos resultados cumulativos das
+  inspeções realizadas nos primeiros motores de produção, e pela experiência de serviço. A
+  ANAC pode considerar um plano estatístico para as inspeções internas do motor se o detentor
+  do CT apresentar uma proposta com base na uniformidade do produto, histórico satisfatório
+  das inspeções internas anteriores, e a experiência em serviço.
+
+  D.6 Seção 21.129, Ensaios: hélices
+
+  D.6.1 Um teste funcional aceitável para hélices de passo variável inclui 25 (vinte e cinco)
+  ciclos completos do controle de todo o passo da hélice e faixas de velocidade de rotação.
+  Além disso, para difusão ou reversão de hélices, deve haver 5 (cinco) ciclos de operação
+  de difusão e 5 (cinco) ciclos de operação reversa desde o passo normal mais baixo ao passo
+  máximo reverso.
+
+  D.6.2 Seguindo o teste funcional, cada hélice está sujeita à inspeção da ANAC de um modo
+  semelhante ao descrito para motores no parágrafo D.5.2 deste apêndice.
+
+  D.7 Seção 21.130, Declaração de conformidade
+
+  D.7.1 Após receber a declaração de conformidade, a ANAC vai inspecionar o produto completo
+  a fim de determinar sua conformidade com o projeto de tipo e que está em condição de operação
+  segura. Se assim for, um certificado de aeronavegabilidade será emitido para a aeronave
+  ou para um motor, hélice, e seus artigos.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- inspecao
+- motor
+- secao
+- conformidade
+- determinar
+- operacao
+- passo
+- resultados
+- teste
+- tipo
+- apendice
+- cada
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-006.md

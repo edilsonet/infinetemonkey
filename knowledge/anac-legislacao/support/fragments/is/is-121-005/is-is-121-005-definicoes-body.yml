@@ -1,0 +1,138 @@
+id: is-is-121-005-definicoes-body
+kind: is
+document: is-121-005
+family: '121'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes
+  definições:
+
+  4.1.1 Lista de matrículas autorizadas: documento previsto nos parágrafos 119.49(a)(4)(i)
+  e 119.49(b)(4)(i) do RBAC nº 119, contendo o tipo da aeronave, marcas de matrícula e número
+  de série de cada aeronave de utilização autorizada e incorporado por referência no parágrafo
+  aplicável das especificações operativas.
+
+  4.1.2 Serviços de solo: serviços necessários para partida ou chegada de uma aeronave em
+  um aeródromo que não sejam serviços de tráfego aéreo. São também denominados "serviços auxiliares
+  ao transporte aéreo" ou, na terminologia em inglês, ground handling.
+
+  4.2 Lista de abreviaturas (em ordem alfabética):
+
+  ACAS - Airborne collision avoidance system
+
+  ACMI - Aircraft, Crew, Maintenance, and Insurance.
+
+  AIC - Aeronautical Information Circular
+
+  AIP - Aeronautical Information Publication
+
+  AIRAC - Aeronautical Information Regulation And Control
+
+  AIREP - Air Report
+
+  Anac - Agência Nacional de Aviação Civil
+
+  APU - Auxiliary power unit (Unidade presenta de energia)
+
+  CARSAMMA - Agência Regional de Monitoração das Regiões do Caribe e da América do Sul
+
+  CDL - Configuration Deviation List (Lista de Desvios de Configuração)
+
+  COA - Certificado de Operador Aéreo
+
+  CFIT - Controlled flight into terrain (Colisão com o solo em voo controlado)
+
+  DA/H - Decision altitude/height
+
+  EFB - Electronic flight bag (Informação aeronáutica em formato digital)
+
+  EGPWS - Enhanced ground proximity warning system
+
+  EO - Especificações Operativas
+
+  EOSID - Engine Out Standard Instrument Departure
+
+  ETOPS - Extended Operations (Operação Prolongada)
+
+  EVS - Enchanced Vision System
+
+  FAA - Federal Aviation Administration
+
+  GPWS - Ground proximity warning system
+
+  GRF - Gerenciamento de Risco da Fadiga
+
+  HUD - Head-up display
+
+  IFR - Instrument flight rules
+
+  IMC - Instrument meteorological condition
+
+  IS - Instrução Suplementar
+
+  LMC - Last minute changes
+
+  LVTO - Low Visibility Takeoff
+
+  MEL - Minimum Equipment List (Lista de Equipamentos Mínimos)
+
+  MDA/H - Minimum present altitude/height
+
+  MGO - Manual Geral de Operações
+
+  MNPS - Minimum Navigation Performance Standards
+
+  NAT-HLA - North Atlantic High Level Airspace
+
+  NOTAM - Notice to Airmen
+
+  PBN - Performance Based Navigation
+
+  PED - Portable Electronic Devices
+
+  PLEM -Plano de Emergência Aeroportuário
+
+  PRAI - Plano de Remoção de Aeronaves Inoperantes e Desinterdição de Pista
+
+  PRE - Plano de Resposta a Emergências
+
+  QFE - Pressão atmosférica ao nível de elevação do aeródromo ou na cabeceira da pista
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  RVR - Runway visual range (alcance visual da pista)
+
+  RVSM - Reduced Vertical Separation Minimum (Separação Vertical Mínima Reduzida)
+
+  SGRF - Sistema de Gerenciamento de Risco da Fadiga
+
+  TCAS - Traffic collision avoidance system
+
+  TFAC - Taxa de Fiscalização da Aviação Civil
+
+  VFR - Visual flight rules'
+keywords:
+- transporte-aereo
+- operacoes
+- definicoes
+- system
+- flight
+- lista
+- minimum
+- servicos
+- aereo
+- aeronautical
+- aeronave
+- aviacao
+- civil
+- ground
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

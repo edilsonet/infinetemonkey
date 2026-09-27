@@ -1,0 +1,52 @@
+id: is-is-121-012-5-2-1-2-9-c
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.9
+section_title: Cálculo de combustível (121.646(b)).
+subsection_id: c
+cite: 5.2.1.2.9(c)
+title: 5.2.1.2.9(c)
+text: 'c) combustível para uso do APU, caso o APU seja requerido para o fornecimento de energia,
+  considerando o consumo do APU durante as fases de voo apropriadas.
+
+  Nota 1: o cálculo da quantidade de combustível deve considerar os procedimentos a serem
+  utilizados pelo operador. Assim, ao se assumir uma despressurização, o detentor de certificado
+  deve calcular o combustível considerando os procedimentos estabelecidos na seção 121.329
+  do RBAC nº 121.
+
+  Nota 2: para aviões com dois motores, normalmente um cenário com despressurização (com ou
+  sem falha de motor) é mais limitante do que o cenário apenas com falha de motor. Se o detentor
+  de certificado demonstrar que o cenário apenas com falha de motor nunca será uma condição
+  limitante, pode deixar de estabelecer procedimentos para fazer tal verificação a cada despacho
+  de voo.
+
+  5.2.1.2.9.4 Para o cálculo das quantidades de combustível requeridas, o operador deve estabelecer
+  procedimentos para determinar o ponto mais crítico da rota. Como mínimo, os pontos equidistantes
+  em tempo (determinados conforme o parágrafo 5.2.1.2.6.6 desta IS) devem ser avaliados. Normalmente,
+  o ponto mais crítico é o último ponto equidistante em tempo, mas isso depende das condições
+  meteorológicas, como vento. Para cada ponto equidistante em tempo da rota, o detentor de
+  certificado deve, para fins de planejamento de voo, comparar se o combustível remanescente
+  a bordo previsto (considerando o combustível no início do voo e o consumo de combustível
+  previsto até esse ponto) é igual ou superior ao combustível requerido para o cenário crítico
+  de ETOPS.'
+keywords:
+- transporte-aereo
+- operacoes
+- combustivel
+- ponto
+- cenario
+- procedimentos
+- calculo
+- certificado
+- considerando
+- critico
+- detentor
+- falha
+- motor
+- tempo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

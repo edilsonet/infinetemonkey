@@ -1,0 +1,57 @@
+id: is-is-91-001-j4-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J4.1
+section_title: A temperatura é um fator que influencia diretamente o cálculo e a execução
+  da trajetória vertical em procedimentos de aproximação, principalmente para aeronaves equipadas
+  com sistemas de navegação baro-VNAV sem compensação de temperatura. Baixas temperaturas
+  reduzem o ângulo ideal da trajetória vertical a ser descrita pela aeronave, ao passo que
+  temperaturas altas aumentam esse ângulo. Esta característica é considerada no momento da
+  elaboração dos procedimentos, sendo refletida nas respectivas cartas por meio da publicação
+  de limites para baixas e altas temperaturas.
+subsection_id: body
+cite: J4.1
+title: A temperatura é um fator que influencia diretamente o cálculo e a execução da trajetória
+  vertical em procedimentos de aproximação, principalmente para aeronaves equipadas com sistemas
+  de navegação baro-VNAV sem compensação de temperatura. Baixas temperaturas reduzem o ângulo
+  ideal da trajetória vertical a ser descrita pela aeronave, ao passo que temperaturas altas
+  aumentam esse ângulo. Esta característica é considerada no momento da elaboração dos procedimentos,
+  sendo refletida nas respectivas cartas por meio da publicação de limites para baixas e altas
+  temperaturas.
+text: 'J4.1 A temperatura é um fator que influencia diretamente o cálculo e a execução da
+  trajetória vertical em procedimentos de aproximação, principalmente para aeronaves equipadas
+  com sistemas de navegação baro-VNAV sem compensação de temperatura. Baixas temperaturas
+  reduzem o ângulo ideal da trajetória vertical a ser descrita pela aeronave, ao passo que
+  temperaturas altas aumentam esse ângulo. Esta característica é considerada no momento da
+  elaboração dos procedimentos, sendo refletida nas respectivas cartas por meio da publicação
+  de limites para baixas e altas temperaturas.
+
+  Nota: efeitos da temperatura na altitude indicada - as condições ISA são utilizadas como
+  padrão para a calibração dos altímetros e para a confecção dos procedimentos; e os termos
+  ‘baixas temperaturas’ e ‘altas temperaturas’ são utilizados para referenciar situações em
+  que a temperatura difere do valor estabelecido como padrão nas condições ISA. Desconsiderando
+  possíveis variações nas demais características atmosféricas, quando a temperatura estiver
+  acima do padrão, a aeronave estará efetivamente voando acima da altitude indicada pelo altímetro
+  e, quando a temperatura estiver abaixo do padrão, a aeronave estará voando efetivamente
+  abaixo da altitude indicada.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- temperaturas
+- temperatura
+- altas
+- baixas
+- procedimentos
+- angulo
+- trajetoria
+- vertical
+- aeronave
+- padrao
+- aeronaves
+- altitude
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

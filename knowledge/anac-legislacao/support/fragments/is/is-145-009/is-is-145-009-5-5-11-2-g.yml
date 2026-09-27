@@ -1,0 +1,46 @@
+id: is-is-145-009-5-5-11-2-g
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.11.2
+section_title: 'Sistema e procedimentos: esta seção do MCQ deve incluir a descrição do sistema
+  e procedimentos usados para:'
+subsection_id: g
+cite: 5.5.11.2(g)
+title: 5.5.11.2(g)
+text: 'g) O registro desta inspeção faz parte do arquivo das ordens de serviço?
+
+  5.5.11.13 Inspeção do serviço em andamento: essas inspeções podem acontecer durante vários
+  estágios de desmontagem, reparo e remontagem de um artigo. Essas inspeções são usualmente
+  descritas nos manuais de manutenção, em Instruções para Aeronavegabilidade Continuada -
+  ICA, ou outras instruções usadas para executar manutenção ou alterações e referidas ações,
+  nas ordens de serviço, fichas de acompanhamento ou encaminhamento, etc. Usualmente, elas
+  exigem os serviços de um inspetor qualificado para executar um teste visual, dimensional
+  ou END. A inspeção pode requerer testes funcionais e/ou equipamentos de teste de precisão.
+  As pessoas que executarem essas inspeções devem ser qualificadas e relacionadas na lista
+  de pessoal autorizado. Se o artigo foi enviado para outra pessoa (manutenção subcontratada),
+  ao retornar, pode ser necessário ser inspecionado e testado de alguma forma. O inspetor
+  pode analisar a documentação recebida do subcontratado, tais como certificações (se existentes)
+  ou outros registros de manutenção requeridos pela seção 43.9 do RBAC nº 43. Se uma pessoa
+  não certificada executou a manutenção, uma inspeção e/ou teste é requerido para determinar
+  se a manutenção foi executada satisfatoriamente. O procedimento de inspeção deve cobrir,
+  no mínimo, o seguinte:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- essas
+- inspecoes
+- pode
+- servico
+- teste
+- artigo
+- executar
+- inspetor
+- instrucoes
+- ordens
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

@@ -1,0 +1,388 @@
+id: is-is-60-001-02-05-2023-body
+kind: is
+document: is-60-001
+family: '60'
+section_id: 02.05.2023
+section_title: 02.05.2023
+subsection_id: body
+cite: 02.05.2023
+title: 02.05.2023
+text: '02.05.2023
+
+
+  OBJETIVO
+
+  1.1 Estabelecer os meios e procedimentos para um operador de FSTD implantar um sistema de
+  gerenciamento da qualidade (QMS) para a operação e monitoramento dos seus Dispositivos de
+  Treinamento para Simulação de Voo (FSTD), como requerido pela seção 60.5 do RBAC 60.
+
+  REVOGAÇÃO
+
+  2.1 Não aplicável.
+
+  FUNDAMENTOS
+
+  3.1 A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar
+  - IS, norma suplementar de caráter geral editada pelo Superintendente da área competente,
+  objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC ou
+  RBHA.
+
+  3.2 O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito
+  previsto em RBAC ou RBHA, poderá:
+
+  a) adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse
+  caso, a análise e concordância expressa do órgão competente da ANAC.
+
+  3.3 O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  3.4 A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC
+  ou outro ato normativo.
+
+  ​DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas no RBAC 001, no RBAC 60,
+  no RBAC 121, no RBAC 135, no RBAC 141 e no RBAC 142.
+
+  disposições gerais
+
+  5.1 Esta Instrução Suplementar (IS), emitida conforme o previsto na Resolução nº 30, de
+  21 de maio de 2008, se aplica aos operadores de FSTD, definidos no RBAC 60.7.
+
+  5.2 Esta IS contém instruções para um operador de FSTD implantar e manter um sistema de
+  gerenciamento da qualidade, com o objetivo de monitorar e analisar continuamente a capacidade
+  do operador em disponibilizar um FSTD satisfatório para uso frequente.
+
+  cONCEITOS DO QMS
+
+  6.1 O objetivo de um operador de FSTD implantar um sistema de gerenciamento da qualidade
+  de FSTD é garantir que esse operador desenvolva ferramentas próprias para que ele mesmo
+  possa garantir o cumprimento contínuo dos requisitos de qualificação de seus FSTDs. Dessa
+  forma, espera-se que, após a conclusão da qualificação inicial de um FSTD, o operador será
+  capaz de manter seu desempenho original durante todo o período em que ele continuar qualificado
+  pela ANAC.
+
+  6.2 O sistema de gerenciamento da qualidade (QMS) para FSTD é, portanto, um conjunto de
+  atividades coordenadas para orientar e controlar as ações de um operador a fim de fornecer
+  um FSTD satisfatório para uso regular. O maior benefício do QMS é definir os processos,
+  que resultarão na entrega de um simulador que atende aos requisitos de qualificação para
+  fornecer treinamento, verificações de proficiência e experiência de voo da tripulação.
+
+  6.3 Os elementos básicos de um QMS são:
+
+  a) Política de qualidade. É um compromisso formal por escrito do operador estabelecendo
+  o que pretende alcançar com o sistema de qualidade.
+
+  b) Um representante do operador. Com plena autoridade para monitorar as qualificações em
+  andamento dos FSTDs a ele designados para garantir que todos os aspectos referentes às qualificações
+  sejam conduzidas conforme estabelecido no RBAC 60. O representante do operador deve garantir
+  que o QMS, seja devidamente estabelecido, executado e mantido.
+
+  c) Processos estabelecidos. Que permitam ao operador monitorar o cumprimento de todas as
+  regulamentações aplicáveis ​​e garantir a manutenção e o correto desempenho do FSTD de acordo
+  com o RBAC 60.
+
+  d) Revisão periódica do QMS. Executada contínuamente pelo representante do operador, através
+  de auditorias internas, de forma a assegurar que o sistema de gerenciamento da qualidade
+  continua a ser eficaz e promove a melhoria contínua dos processos do operador.
+
+  e) Manual de Qualidade ou Manual QMS. É o documento que formaliza o QMS do operador e deve
+  conter os elementos citados nos parágrafos (a) à (d). Mesmo que um dos elementos, em parte
+  ou na totalidade, estejam descritos em outro manual do operador, esses devem ser referenciados
+  no manual QMS. O manual servirá de base para as auditorias (inicial e periódicas) conduzidas
+  pelo operador e pela ANAC. Adicionalmente, o manual também será a base para a condução da
+  vigilância continuada e do acompanhamento da ANAC acerca do desempenho e efetividade do
+  operador em disponibilizar um FSTD satisfatório para uso frequente.
+
+  eSTABELECIMENTO DAS POLÍTICAS, PROCESSOS ou PROCEDIMENTOS
+
+  7.1 As políticas, processos ou procedimentos do programa QMS para FSTDs devem ser especificamente
+  determinados em um manual de qualidade: o manual QMS de FSTD. A tabela E1 do Apêndice 1
+  estabelece os processos, políticas ou procedimentos mínimos que o QMS deve conter. Caso
+  um processo já esteja especificado em outro manual do operador de FSTD, como exemplo, no
+  Manual de Instruções e Procedimentos (MIP) de um CTAC certificado sob o RBAC 142, esse processo
+  pode ser só referenciado no manual QMS de FSTD, remetendo ao outro manual.
+
+  7.2 O operador é responsável por desenvolver e implementar os procedimentos para garantir
+  o funcionamento esperado de seus FSTDs.
+
+  7.3 O Apêndice E do RBAC 60 não estabelece um formato específico para QMS de FSTD, entretanto,
+  o programa do operador deve conter a política, processo ou procedimento utilizado para atender
+  cada requisito. Em geral, cada política, processo ou procedimento deve ser elaborado com
+  os elementos elencados a seguir, embora não necessite seguir rigidamente essa estrutura:
+
+  a) o título do processo, política ou procedimento;
+
+  b) a finalidade, que é a declaração dos objetivos, metas ou requisitos regulatórios;
+
+  c) o escopo com a delimitação da aplicabilidade do procedimento;
+
+  d) a descrição das atividades, esta é a seção principal do procedimento e deve descrever
+  o que deve ser feito:
+
+  i) a definição das entradas necessárias;
+
+  ii) a definição de quem é o responsável pelo controle do procedimento (o “dono” do processo”);
+
+  iii) quais recursos são necessários (pessoas, equipamentos, recursos, etc.);
+
+  iv) o que precisa ser feito;
+
+  v) quando deve ser feito;
+
+  vi) onde deve ser feito;
+
+  vii) como deve ser feito;
+
+  viii) definição do método de validação e ações a serem tomadas caso a saída atenda aos objetivos;
+
+  ix) definição de qualquer relação do procedimento atual com outros procedimentos.
+
+  e) descrição de quais registros serão criados e mantidos para verificar o alcance do objetivo.
+
+  f) controle documental utilizado para identificar alterações, data de revisão, aprovação
+  e versão;
+
+  g) anexos ou apêndices (incluir se necessário).
+
+  7.4 O Apêndice 3 contém um exemplo de uma política, processo ou procedimento.
+
+  manual qms
+
+  8.1 As políticas, processos ou procedimentos criados pelo operador de acordo com a seção
+  7 dessa IS devem ser organizados em um manual QMS. Este deve ser um documento dinâmico,
+  com formato permissível de revisão, com controle adequado de documentos e histórico de revisões.
+  Deve ser fácil para os colaboradores entender e seguir, além de definir adequadamente a
+  metodologia do operador na execução diária das atividades de manutenção e gerenciamento
+  da qualificação do simulador entregue para instrução.
+
+  8.2 A complexidade do Manual QMS poderá variar em função da complexidade do operador. Não
+  obstante, ele deve abranger no mínimo os elementos listados na tabela E1 do Apêndice 1,
+  podendo, ainda, incluir itens adicionais a critério do operador. Mesmo que um dos elementos,
+  em parte ou na totalidade, estejam descritos em outro manual do operador, esses devem ser
+  referenciados no manual QMS.
+
+  8.3 O Manual QMS será utilizado como base para o operador realizar as auditorias iniciais
+  e recorrentes do seu programa QMS, para a ANAC realizar as suas auditorias iniciais e recorrentes
+  e, principalmente, a ANAC monitorar e analisar o desempenho e a eficácia do operador em
+  entregar um FSTD em conformidade para treinamento.
+
+  8.4 Ao desenvolver um Manual QMS não é satisfatório afirmar apenas que o operador atenderá
+  ou implementará um requisito. As etapas do processo devem descrever as ações envolvidas
+  para medir e monitorar o desempenho, bem como as etapas envolvidas na melhoria do processo
+  para alcançar o resultado desejado.
+
+  8.5 O Apêndice 2 disponibiliza um exemplo de estrutura de um Manual QMS.
+
+  auditorias Internas
+
+  9.1 Um programa de auditoria da qualidade independente (isento do processo auditado) deve
+  ser elaborado e descrito no sistema de gerenciamento da qualidade pelo operador, contendo
+  os procedimentos de planejamento, de execução, de registro e de acompanhamento das auditorias
+  executadas. O programa deve ser estabelecido pelo operador para confirmar que os procedimentos
+  do Manual QMS estão sendo seguidos e são eficazes.
+
+  9.2 A descrição e os procedimentos de auditorias internas podem estar contidos em um outro
+  manual, documento ou anexo, dependendo da complexidade e conveniência do operador. Para
+  estes casos, o Manual QMS deve fazer referência ao supracitado manual, documento ou anexo.
+
+  9.3 O procedimento de auditoria deve descrever, no minimo, os seguintes aspectos:
+
+  a) a designação do líder e a equipe para a execução das auditorias para assegurar objetividade
+  e imparcialidade do processo;
+
+  b) definição de escopo e os critérios específicos das auditorias do QMS;
+
+  c) análise crítica prévia dos documentos de qualidade, dos processos ou procedimentos do
+  QMS, e de registros pertinentes para determinação de adequação e viabilidade da auditoria
+  interna;
+
+  d) planejamento e preparação do plano da auditoria, com os documentos de trabalho (listas
+  de verificação e outros documentos de suporte) e a designação de trabalho para a equipe
+  auditora;
+
+  e) o estabelecimento de comunicação inicial com os responsáveis pelas partes a serem auditadas
+  e confirmação do agendamento;
+
+  f) início da auditoria com a condução da reunião de abertura para explicação sobre o escopo
+  e comunicações durante a auditoria, assim como para confirmações acerca do seu planejamento
+  e preparação;
+
+  g) análise quantitativa e qualitativa de documentos e registros gerados pelo QMS, durante
+  a auditoria, além da verificação da preservação de documentos e observação das atividades
+  relacionadas com os processos ou procedimentos;
+
+  h) coleta de evidências, relato de descobertas e acessibilidade das informações são importantes
+  que sejam obtidas por meio de amostragem adequada ao tipo e complexidade do processo auditado;
+
+  i) entrevistas e conversações com os colaboradores que fazem parte e executam os processos
+  ou procedimentos do QMS;
+
+  j) identificação de conformidades (cumprimento dos requisitos do QMS) e não conformidades
+  (não cumprimento dos requisitos do QMS);
+
+  k) encerramento da auditoria, relatando os resultados às partes interessadas, elaborando
+  recomendações e ações de acompanhamento de auditoria com o objetivo de melhoria e eficácia
+  dos procedimentos do QMS;
+
+  l) registro da auditoria. Um relatório deve ser elaborado contendo informações a respeito
+  da auditoria de uma forma clara, concisa e completa, a confecção do conteúdo do relatório
+  da auditoria deve ser de responsabilidade do líder da equipe, que tomará como base os seus
+  próprios registros e os registros dos demais auditores da equipe.
+
+  9.4 O relatório deve conter no mínimo, os seguintes elementos:
+
+  a) os objetivos da auditoria;
+
+  b) o escopo;
+
+  c) o período coberto da auditoria;
+
+  d) a identificação da parte auditada;
+
+  e) as datas e os locais de execução das auditorias;
+
+  f) os critérios específicos da auditoria;
+
+  g) as constatações, as evidências e as conclusões.
+
+  9.5 O relatório deve ser distribuído aos interessados da organização (Alta direção) para
+  que seja efetuado a análise crítica e acompanhamento das deficiências constatadas e principalmente,
+  adotar as ações corretivas e disponibilizar recursos, caso o programa QMS não cumpra com
+  o estabelecido em seus procedimentos.
+
+  9.6 Os responsáveis pelo programa QMS devem aprovar o relatório da auditoria, assim como
+  concluir o processo executado, assegurando a integridade do programa ao planejar e implementar
+  as mudanças.
+
+  9.7 Adicionalmente, o operador deve conservar os documentos e os registros da auditoria
+  interna, para verificações durante as inspeções (inicial e periódicas) conduzidas pela ANAC.
+
+  9.8 Os resultados das auditorias internas ajudam na identificação de tendências, no estabelecimento
+  de novos parâmetros de desempenho e na otimização de procedimentos estabelecidos no manual
+  QMS.
+
+  9.9 Periodicidade das auditorias.
+
+  9.10 O operador deve conduzir as auditorias do seu programa de QMS em segmentos. Os segmentos
+  serão definidos pela ANAC na avaliação inicial, e cada segmento deverá ser avaliado pelo
+  operador a cada 6 meses. Esse intervalo poderá ser estendido além de 6 meses, à medida que
+  o programa de QMS amadurecer, mas não poderá exceder 12 meses. O programa de QMS deverá
+  ser inteiramente auditado a cada 24 meses.
+
+  9.11 Para melhor entendimento, exemplifiquemos que o programa de auditorias internas do
+  operador possua 8 segmentos, após o primeiro período de 6 meses os segmentos 1 e 2 deverão
+  ter sido executados, no segundo período os segmentos 3 e 4, no terceiro período os segmentos
+  5 e 6, no quarto período os segmentos 7 e 8.
+
+  9.12 Dentro de 6 meses da aceitação do programa QMS pela ANAC, o operador deve conduzir
+  auditorias internas (de todos os segmentos), ajustar o programa conforme os resultados obtidos
+  e agendar a inspeção inicial com a ANAC para a aprovação do programa. Uma revisão completa
+  do programa de QMS será objeto de inspeção da ANAC ao menos uma vez a cada intervalo de
+  24 meses após a aprovação do manual QMS.
+
+  9.13 Com base neste formato, o operador deve criar um cronograma de eventos para controlar
+  a execução das auditorias internas do programa QMS. O início deste cronograma deve ser após
+  a aprovação final do programa QMS pela ANAC. Adicionalmente, o manual QMS deve referenciar
+  esse cronograma como documento formal de controle não só das auditorias, como também das
+  qualificações em andamento.
+
+  métrica do DESEMPENHO DOS FSTD
+
+  10.1 O sistema de gerenciamento da qualidade (QMS) deve descrever o processo especificando
+  como irá mensurar e monitorar o desempenho de cada FSTD, o que em última instância é o resultado
+  da eficácia do QMS.
+
+  10.2 A descrição e os métodos de obtenção das métricas podem estar contidos em um outro
+  manual, documento ou anexo, dependendo da complexidade e conveniência do operador. Para
+  estes casos, o Manual QMS deve fazer referência ao supracitado manual, documento ou anexo.
+
+  10.3 Além das auditorias internas realizadas pelo operador, a métrica deve fornecer parâmetros
+  para retroalimentar continuamente o programa QMS, contribuindo para a melhoria contínua
+  do desempenho, evolução organizacional e precisão do processo de monitoramento de cada FSTD
+  da organização.
+
+  10.4 Os principais parâmetros para composição da métrica de desempenho de FSTD são:
+
+  a) disponibilidade do FSTD para treinamento;
+
+  b) número de defeitos reportados;
+
+  c) número de defeitos em aberto;
+
+  d) taxas de fechamento de defeitos;
+
+  e) taxas de interrupção das sessões de treinamento;
+
+  f) classificação das sessões de treinamento, baseadas no desempenho do simulador.
+
+  10.5 Uma adequada orientação de como parametrizar e quantificar a métrica de conformidade,
+  é o uso do ARINC 433. Este documento fornece as orientações necessárias para a elaboração
+  de como medir a conformidade do FSTD.
+
+  10.6 A métrica deve monitorar cada FSTD que compõe a frota do operador, pois os dados serão
+  avaliados pela ANAC em cada avaliação recorrente e nas inspeções do programa QMS. Também
+  é recomendável que os dados sejam compartilhados e disponibilizados para os fabricantes,
+  objetivando o monitoramento de problemas sistêmicos e de projeto para que sejam solucionados
+  adequadamente.
+
+  processo de aprovação do qms
+
+  11.1 Esta seção tem o objetivo de orientar o operador de FSTD, ou uma organização interessada
+  em ser um novo operador de FSTD, acerca dos procedimentos que devem ser seguidos para aprovação
+  do QMS de FSTD.
+
+  11.2 Um operador de FSTD ou um novo operador de FSTD deve entrar em contato com o setor
+  responsável pela qualificação de FSTD da ANAC, expressando sua intenção em aprovar o Manual
+  QMS, por meio de e-mail ou protocolo digital, conforme orientações no site da ANAC (https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/simuladores-de-voo-fstd).
+
+  11.3 Um novo operador de FSTD deve solicitar a avaliação de seu QMS em conjunto à solicitação
+  de qualificação inicial de seu primeiro FSTD.
+
+  11.4 O processo de aprovação do QMS de FSTD contém cinco fases:
+
+  a) Solicitação Prévia;
+
+  b) Solicitação Formal;
+
+  c) Avaliação dos documentos e aceitação;
+
+  d) Inspecção e demonstração;
+
+  e) Aprovação final.
+
+  11.5 Solicitação Prévia
+
+  11.5.1 Para uma organização interessada em ser um operador de FSTD, é necessário que esta
+  seja elegível, conforme o requisito 60.7 do RBAC 60. Caso seja necessário, a organização
+  deve solicitar uma reunião inicial com o setor responsável da ANAC, para esclarecimentos,
+  pois durante os contatos iniciais, a organização solicitante pode ter dúvidas específicas
+  sobre os requisitos de aprovação, não só do programa QMS como também da condição de operador
+  de FSTD.
+
+  11.5.2 Nesta reunião inicial a ANAC fornecerá as orientações para aprovação de operador
+  de FSTD e explicará a necessidade de garantir que o interessado tenha conhecimento pleno
+  do processo de aprovação do programa QMS.'
+keywords:
+- simuladores
+- treinamento
+- operador
+- fstd
+- manual
+- programa
+- procedimentos
+- auditorias
+- processo
+- auditoria
+- qualidade
+- procedimento
+- aprovacao
+- desempenho
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

@@ -1,0 +1,35 @@
+id: is-is-91-001-i8-1-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: I8.1
+section_title: 'Uma aeronave pode ser considerada elegível para operações RNP APCH, se o AFM
+  ou suplemento do AFM ou especificação da aeronave (TCDS para as aeronaves isentas da certificação
+  brasileira) ou POH contiver a declaração do fabricante ou do detentor do CST que a aeronave
+  está conforme um dos regulamentos listados abaixo:'
+subsection_id: b
+cite: I8.1(b)
+title: I8.1(b)
+text: b) para operações RNP APCH baseadas no sensor GNSS utilizado em um sistema multissensor
+  (por exemplo, FMS), a aeronave estar cumprindo com a AC 20-130A ou com a AC 20-138 (Revisão
+  B ou superior); ou
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- apch
+- operacoes
+- 130a
+- abaixo
+- aeronaves
+- baseadas
+- brasileira
+- certificacao
+- considerada
+- contiver
+- cumprindo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

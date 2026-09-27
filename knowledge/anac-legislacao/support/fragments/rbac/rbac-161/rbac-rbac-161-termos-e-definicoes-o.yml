@@ -1,0 +1,29 @@
+id: rbac-rbac-161-termos-e-definicoes-o
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: o
+cite: termos-e-definicoes(o)
+title: termos-e-definicoes(o)
+text: '(o)
+
+  Restrição operacional: qualquer medida determinada pela ANAC que condicione ou reduza a
+  operação de um determinado aeródromo.'
+keywords:
+- definicoes
+- termos
+- aerodromo
+- condicione
+- determinada
+- determinado
+- medida
+- operacao
+- operacional
+- reduza
+- restricao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

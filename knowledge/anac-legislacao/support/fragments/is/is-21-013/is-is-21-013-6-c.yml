@@ -1,0 +1,122 @@
+id: is-is-21-013-6-c
+kind: is
+document: is-21-013
+family: '21'
+section_id: '6'
+section_title: DOCUMENTAÇÃO
+subsection_id: c
+cite: 6(c)
+title: 6(c)
+text: 'c) Descrição da operação IFR PBN: Se o requerente desejar apresentar um processo para
+
+  a instalação de equipamento GNSS para operação IFR PBN, deve incluir na
+
+  documentação do processo de certificação do sistema PBN a lista das operações para as
+
+  quais pretende certificar seu sistema (por exemplo, RNP APCH, RNP 1, RNAV 5 etc.).
+
+  Estas informações deverão constar nos dados técnicos do projeto e no Suplemento ao
+
+  Manual de Voo. Os critérios estabelecidos para esta instalação são abordados nos itens
+
+  7.6 e 7.9 desta IS.
+
+  6.2. Proposta de Suplemento ao Manual de Voo:
+
+  Para a instalação de equipamentos GNSS IFR ou GNSS VFR interligado, deverá ser
+
+  apresentada uma Proposta de SMV. Esta proposta deve:
+
+  6.2.1. Descrever o tipo de operação pretendido: VFR, IFR Convencional ou IFR PBN. Para os
+
+  tipos de operação IFR deve-se, ainda, especificar os modos pretendidos;
+
+  6.2.2. Apresentar os modos de operação IFR aprovados. Para operações IFR PBN, deverão ser
+
+  identificados os módulos/sensores do equipamento no SMV que foram aprovados para cada
+
+  tipo de modo pretendido;
+
+  6.2.3. Conter as versões de software que poderão ser utilizadas para o equipamento GNSS;
+
+  6.2.4. Conter uma limitação que estabeleça que o database do equipamento esteja atualizado;
+
+  6.2.5. Conter uma limitação que determine que funcionalidade SBAS/WAAS incorporada e não
+
+  aprovada deverá estar desabilitada;
+
+  Nota: Ocorrendo a implantação de Sistemas SBAS/WAAS no Brasil, a aeronave necessitará
+
+  de uma aprovação específica para esta finalidade.
+
+  6.2.6. Estabelecer a tripulação mínima necessária para cada modo aprovado;16-12-2016 IS
+  nº 21-013
+
+  Revisão B
+
+  6.2.7. Conter todas as limitações de voo determinadas em projeto;
+
+  6.2.8. Estabelecer que para operações IFR um outro meio de navegação deve estar disponível;
+
+  6.2.9. Conter todas as limitações relativas ao acoplamento do GNSS com o PA/DV, além de
+
+  descrever os modos de operação/seleção dele e os procedimentos que devem ser tomados
+
+  em caso de falha da fonte de navegação;
+
+  6.2.10. Conter uma limitação que determine que procedimentos de subida, descida e aproximações
+
+  (SID, STAR, IAC etc.) não podem ser introduzidos manualmente e devem utilizar os
+
+  procedimentos presentes no banco de dados do equipamento;
+
+  6.2.11. Descrever os procedimentos de sincronização e limitações quando for utilizado mais
+  de um
+
+  equipamento GNSS;
+
+  6.2.12. Descrever todos os procedimentos anormais e emergências e as respectivas ações em
+  caso
+
+  de falha do equipamento GNSS;
+
+  6.2.13. Apresentar os principais procedimentos normais de operação do sistema. É aceitável
+  que se
+
+  referencie o Manual de Operação do fabricante do equipamento para os demais
+
+  procedimentos. Entre os procedimentos normais descritos no SMV estão os testes de
+
+  verificação do funcionamento adequado do sistema;
+
+  6.2.14. Descrever a necessidade da verificação de RAIM para o local e hora previstos de
+  destino;
+
+  6.2.15. Conter uma descrição geral do sistema, suas interligações, seus comandos e anúncios.
+  Nessa
+
+  descrição geral também deve estar presente a proteção elétrica, sua identificação e
+
+  localização, caso seja possível uma reinicialização pelo piloto.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- equipamento
+- operacao
+- procedimentos
+- conter
+- gnss
+- descrever
+- sistema
+- apresentar
+- caso
+- descricao
+- estar
+- instalacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

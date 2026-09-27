@@ -1,0 +1,88 @@
+id: is-is-120-016-7-7-5-4-c
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.7.5.4
+section_title: Parte C - Diferenças
+subsection_id: c
+cite: 7.7.5.4(c)
+title: 7.7.5.4(c)
+text: 'c) A Parte C contém 3 (três) seções que devem ser descritas conforme segue:
+
+  I- Seção C1 - tarefas que não constam nos documentos que serviram de base para o desenvolvimento
+  da programação:
+
+  Identificação do Item
+
+  Descrição
+
+  Limite de tempo (h/Cy/T)
+
+
+  II- Seção C2 - tarefas, verificadas pela empresa como aplicáveis à sua frota, que constam
+  nos documentos que serviram como base para desenvolver o programa, mas aplicadas de modo
+  distinto. Sempre que os intervalos utilizados forem maiores que os recomendados, a empresa
+  deverá apresentar justificativa técnica junto à Anac, conforme seu programa de confiabilidade,
+  para sua avaliação tendo em vista sua aprovação ou não:
+
+  Identificação do Item
+
+  Descrição
+
+  Limite de tempo utilizado (h/Cy/T)
+
+  Referência do documento base
+
+  Limite de tempo recomendado (h/Cy/T)
+
+
+  III- Seção C3 - procedimentos para a passagem de uma Programa&cccedil;ão de Manutenção para
+  outra, conforme abordado a seguir:
+
+  1) Alguns fabricantes/detentores de projeto de tipo de produto aeronáutico (por exemplo:
+  aeronaves de pequeno porte) não raramente estabelecem as opções de Programa de Manutenção
+  que a empresa pode escolher para manter esse produto. Normalmente, nestes casos, o fabricante/detentor
+  do projeto de tipo estabelece um procedimento para que tal produto passe de um Programa
+  de Manutenção para o outro. Quando o fabricante/detentor do projeto de tipo estabelece opções
+  de Programa de Manutenção, a empresa deve especificar qual opção ela está usando como base,
+  na parte A deste manual. Entretanto, caso a empresa decida alterar sua opção de programação
+  de manutenção, deverá utilizar a forma estabelecida pelo fabricante, ou outra forma aprovada
+  pela ANAC.
+
+  2) Ainda, a empresa pode incorporar em sua frota um produto que estava sendo mantido através
+  de um Programa de Manutenção que é diferente do seu programa aprovado. Para permitir administrar
+  estas situações, a empresa deve elaborar procedimentos que permitam a incorporação desse
+  produto no seu Programa de Manutenção aprovado de forma que não haja tarefas vencidas considerando
+  o programa anterior e o novo, e que as tarefas com prazos por vencer estejam programadas
+  de forma adequada.
+
+  3) Os procedimentos para a migração de uma programação de manutenção qualquer para outra
+  deve abordar como a empresa tratará as possibilidades de migração, como por exemplo, passagem
+  de Hard Time para On Condition ou Condition Monitoring, ou qualquer combinação entre essas
+  formas de programação, procedimentos de pro rata, passagem de um programa de baixa utilização
+  para um programa de alta utilização e vice-versa, passagem de um programa MSG-2 para um
+  programa MSG-3 e vice-versa, e outras possibilidades que possam existir, não constituindo
+  os exemplos anteriores uma lista exaustiva. Os procedimentos propostos devem ser substanciados
+  por dados aceitáveis pela ANAC para esses casos.
+
+  7.8 Itens de Inspeção Obrigatória'
+keywords:
+- antidrogas
+- saude
+- programa
+- empresa
+- manutencao
+- procedimentos
+- produto
+- base
+- forma
+- passagem
+- programacao
+- tarefas
+- fabricante
+- limite
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

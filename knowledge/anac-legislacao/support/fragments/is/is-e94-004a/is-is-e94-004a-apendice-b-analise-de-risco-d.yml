@@ -1,0 +1,502 @@
+id: is-is-e94-004a-apendice-b-analise-de-risco-d
+kind: is
+document: is-e94-004a
+family: '94'
+section_id: apendice-b-analise-de-risco
+section_title: APÊNDICE B - ANÁLISE DE RISCO
+subsection_id: d
+cite: apendice-b-analise-de-risco(d)
+title: apendice-b-analise-de-risco(d)
+text: 'd) Máxima velocidade da RPA definida pelo fabricante.
+
+  B.2.3 A definição da classe de risco ao solo (GRC) deverá ser feita com base na Tabela 1.
+
+  Tabela 1 - Determinação da classe de risco ao solo (GRC)
+
+  Classe de risco ao solo (GRC)
+
+  Máxima dimensão do RPA
+
+  1m
+
+  (≈ 3 pés)
+
+  3 m
+
+  (≈ 10 pés)
+
+  8 m
+
+  (≈ 25 pés)
+
+  20 m
+
+  (≈ 65 pés)
+
+  40 m
+
+  (≈ 130 pés)
+
+  Máxima velocidade
+
+  25 m/s
+
+  (90 km/h)
+
+  35 m/s
+
+  (126 km/h)
+
+  75 m/s
+
+  (270 km/h)
+
+  120 m/s
+
+  (432 km/h)
+
+  200 m/s
+
+  (720 km/h)
+
+  Máxima densidade populacional (pessoas/km2)
+
+  Área controlada
+
+  1
+
+  1
+
+  2
+
+  3
+
+  3
+
+  Área rural ou remota (menor que 5 pessoas/km2)
+
+  2
+
+  3
+
+
+  Área escassamente povoada
+
+  (menor que 50 pessoas por/km2)
+
+  3
+
+
+  B.2.4 A classe de risco ao solo (GRC) pode variar de 1 até 3, devendo o requerente adotar
+  a abordagem mais conservadora possível ao determinar a classificação do RPAS na Tabela 1.
+
+
+  B.3 DETERMINAÇÃO DA DISTÂNCIA DE SEGURANÇA AO SOLO (GROUND RISK BUFFER)
+
+  B.3.1 A Distância de Segurança ao Solo (GRB - Ground Risk Buffer) visa o estabelecimento
+  de uma área segura envolvendo todo o volume de contingência que, em caso de necessidade
+  de acionamento de um procedimento de emergência, a operação seja cessada dentro dessa área.
+
+  B.3.2 Para RPAS com teto operacional de até 120 m (400 pés) AGL, recomenda-se a utilização
+  da regra 1:1, ou seja, para 120 m de altura AGL usar uma Distância de Segurança ao Solo
+  de, pelo menos, 120 m.
+
+  B.3.3 Para RPAS com teto operacional superior aos 120 m (400 pés) AGL, ou dependendo do
+  tipo do RPAS (se de asa-fixa ou multirotor), ou mesmo se possui sistema de paraquedas, a
+  utilização da regra 1:1 pode não ser a mais conveniente e, nestes casos, recomenda-se que
+  o requerente calcule a Distância de Segurança ao Solo utilizando a abordagem de planeio
+  ou balística para a RPA, conforme o Anexo A do SORA 2.5.
+
+  B.3.4 Caso a regra 1:1 não venha a ser utilizada, o requerente deverá apresentar a memória
+  de cálculo utilizada para estimar a Distância de Segurança ao Solo, como anexo ao Manual
+  do Operador. Em quaisquer dos casos, o valor estabelecido ou forma de cálculo deverá constar
+  no Manual do Operador.
+
+
+  B.4 DETERMINAÇÃO DA ÁREA ADJACENTE (ADJACENT AREA)
+
+  B.4.1 O cálculo da Área Adjacente visa manter o nível de segurança da operação do RPAS uma
+  vez que se tenha perdido o controle em voo (LOC) do RPA.
+
+  B.4.2 Com base na máxima velocidade da RPA, o requerente deverá calcular o distanciamento
+  de 3 min de voo sob essa condição. Se a distância exceder 35 km, usar esse valor; se ficar
+  entre 5 e 35km, usar o valor calculado; e, por fim, se for inferior a 5km, usar esse valor.
+
+  B.4.3 Com base nessa distância calculada, o requerente deverá instruir o operador a como
+  avaliar a média da densidade populacional exposta que não deverá ser superior ao estabelecido
+  para áreas remota, rural ou escassamente povoadas, conforme estabelecido por esta IS.
+
+  B.4.4 Nenhuma provável falha simples do RPAS ou de um serviço externo que suporta a operação
+  poderá resultar na saída da RPA do Volume de Operação. O requerente deve avaliar o projeto
+  do RPAS e declarar que atende essa condição.
+
+  Nota: Para efeitos desta IS, uma falha é dita provável quando é esperado que aconteça uma
+  ou mais vezes durante a vida operacional do produto.
+
+
+  B.5 CÁLCULO DO SAIL
+
+  A.5.1 Para efeitos desta IS, o cálculo do SAIL considera apenas a classe de risco aéreo
+  ARC-a, ou seja, toda operação BVLOS deverá ocorrer com segregação do espaço aéreo via NOTAM
+  emitido pelo Decea.
+
+  A.5.2 A definição SAIL deverá ser feita com base na Tabela 2.
+
+  Tabela 2 - Determinação do SAIL
+
+  Determinação do SAIL
+
+  Classe de risco ao solo (GRC)
+
+  Classe de risco aéreo (ARC-a)
+
+  1
+
+  SAIL I
+
+  2
+
+  SAIL I
+
+  3
+
+  SAIL II
+
+
+  B.5.3 O requerente, ao classificar o risco ao solo (GRC) do seu RPAS como 1 ou 2, definirá
+  a operação como de SAIL I e não poderá fazer uso da aeronave em cenários operacionais equivalentes
+  ao SAIL II ou superiores. Em contrapartida, um RPAS classificado como de SAIL II poderá
+  também ser utilizado em cenários de menor risco como o de SAIL I.
+
+
+  B.6 DETERMINAÇÃO DOS OSOS E SUAS EVIDÊNCIAS
+
+  B.6.1 Com base no SAIL definido acima, o requerente deverá cumprir com os OSO obrigatórios
+  de acordo com o nível de robustez definido na Tabela 3 (Baixo, Médio ou Alto).
+
+  Tabela 3 - OSOs para SAIL I e II
+
+  Número OSO
+
+  (vide Apêndice F)
+
+
+  SAIL
+
+  I
+
+  II
+
+  OSO#01
+
+  Garantia de que o operador de RPAS seja competente e/ou aprovado
+
+  NR
+
+  B
+
+  OSO#03
+
+  RPAS mantido por entidade competente e/ou aprovada
+
+  B
+
+  B
+
+  OSO#06
+
+  O desempenho do enlace C2,C3 é apropriado para a operação
+
+  NR
+
+  B
+
+  OSO#07
+
+  Inspeção do RPAS (inspeção de produto) para garantir a consistência com o ConOps
+
+  B
+
+  B
+
+  OSO#08
+
+  Os procedimentos operacionais são definidos, validados e seguidos
+
+  B
+
+  M
+
+  OSO#09
+
+  Tripulação remota treinada e atualizada e capaz de controlar uma situação anormal
+
+  B
+
+  B
+
+  OSO#13
+
+  Os serviços externos de apoio às operações de RPAS são adequados para a operação
+
+  B
+
+  B
+
+  OSO#16
+
+  Coordenação entre tripulações múltiplas
+
+  B
+
+  B
+
+  OSO#17
+
+  A tripulação remota está apta a operar
+
+  B
+
+  B
+
+  OSO#20
+
+  Uma avaliação de fatores humanos foi realizada e a interface homem-máquina (IHM) foi considerada
+  apropriada para a missão.
+
+  NR
+
+  B
+
+  OSO#23
+
+  As condições ambientais para operações seguras são definidas, mensuráveis e seguidas
+
+  B
+
+  B
+
+  Nota: NR significa “Não Requerido” para o SAIL buscado e, para fins de simplificação, não
+  é abordado nesta IS. B significa robustez “Baixa” e M significa robustez “Média”.
+
+  B.6.2 Os documentos que serão disponibilizados ao operador do RPAS deverão ser elaborados
+  pelo requerente na língua portuguesa.
+
+  B.6.3 Em adição aos documentos que satisfaçam os critérios de cada OSO, deve ser fornecido
+  o formulário F-105-70 indicando em qual documento, sessão e página encontram-se as informações
+  requeridas. A Tabela 4 mostra um exemplo de como as evidências devem ser apresentadas.
+
+  Tabela 4 - Exemplo de declaração de cumprimento com os OSOs aplicáveis.
+
+  OSO
+
+  Critério
+
+  Documentos
+
+  #1
+
+  Listas de verificação
+
+  Checklist pré-voo: Manual de Operação nº XYZ, versão A, seção Z, página XY.
+
+  Checklist pós-voo: Manual de Operação nº XYZ, versão A, seção Z, página XY.
+
+  #1
+
+  Manutenção
+
+  Manual de Manutenção nº YZX, versão A.
+
+  #1
+
+  Treinamento
+
+  Manual de Treinamento nº ZXY, versão A.
+
+  #1
+
+  Responsabilidades e deveres associados
+
+  Manual de Operação nº XYZ, versão A, sessão X, página XY.
+
+
+  B.6.4 OSO #01 - O requerente deve prover os meios necessários para garantir que o operador
+  do RPAS seja competente (Obrigatório somente para SAIL II - robustez baixa):
+
+  Critério: O operador deve conhecer o RPAS que está sendo utilizado e, no mínimo, possui
+  os seguintes procedimentos operacionais: listas de verificação, manutenção, treinamento,
+  responsabilidades e deveres associados.
+
+  Evidência: O requerente deve fornecer ao operador documentação que contenham, pelo menos,
+  o manual de operação do RPAS, lista de verificação pré e pós-voo, procedimentos de manutenção,
+  treinamento mínimo necessário e definição de responsabilidades e deveres do operador. Para
+  elaboração dos documentos exigidos, a utilização das normas ASTM F2908-23, F3330-23, F3366-19
+  e F3364-19 é considerado como meio aceitável.
+
+  B.6.3 OSO #03 - O requerente deve prover os meios necessários que possibilitem que o RPAS
+  seja mantido por entidade competente (Aplicável para SAIL I e II - robustez baixa):
+
+  Critério: As instruções de manutenção foram definidas pelo fabricante do RPAS; a equipe
+  de manutenção é competente, recebeu autorização para realizar a manutenção e utiliza as
+  instruções definidas pelo fabricante.
+
+  Evidência: O requerente deve fornecer procedimentos de manutenção adequados para o responsável
+  pela manutenção. Para a elaboração desses documentos recomenda-se a utilização das normas
+  ASTM F2483-18, F3366-19 e F3600-22. O requerente deverá elaborar os documentos e submeter
+  à Anac como evidência.
+
+  B.6.4 OSO#06 - O requerente deve assegurar que o desempenho do enlace C2, C3 é apropriado
+  para a operação (Obrigatório somente para SAIL II - robustez baixa):
+
+  Critério: O requerente deve verificar que a performance e uso de espectro radioelétrico
+  são adequadas para a condução segura da operação. O RPAS deve prover meios para que o piloto
+  remoto consiga monitorar continuamente a performance do link garantindo, assim, que este
+  atende aos requisitos operacionais.
+
+  Demonstração: O requerente deve declarar que atende ao critério acima, assim como declarar
+  aderência quanto aos aspectos regulados pela Anatel. Para análise do atendimento a este
+  requisito recomenda-se a utilização da norma ASTM F3002-14.
+
+  B.6.5 OSO#07 - O requerente deve prover os meios necessários que possibilitem que o RPAS
+  seja inspecionado (inspeção de produto) para garantir a consistência com o ConOps (Aplicável
+  para SAIL I e II - robustez baixa):
+
+  Critério: O requerente deve definir a periodicidade dos procedimentos de verificação do
+  RPAS de maneira a garantir a segurança da operação.
+
+  Demonstração: O requerente deverá indicar em qual documento a periodicidade dos procedimentos
+  de verificação foi estabelecida. Para a elaboração desse documento recomenda-se a utilização
+  da norma ASTM F2909-19. O requerente deverá elaborar os documentos e submeter à Anac como
+  evidência.
+
+  B.6.6 OSO#08 - O requerente deve prover os meios necessários que possibilitem que os procedimentos
+  operacionais sejam definidos, validados e seguidos (SAIL I - robustez baixa; SAIL II - robustez
+  média):
+
+  Critério #1 (Aplicável para SAIL I e II): O requerente deverá fornecer um manual de instruções
+  de operação do RPAS que contenha, no mínimo, os seguintes elementos: (1) planejamento de
+  voo; (2) inspeções pré e pós-voo; (3) procedimentos para avaliar as condições meteorológicas
+  antes e durante a missão; (4) procedimentos para lidar com condições meteorológica adversas
+  inesperadas (por exemplo, quando há chuva durante a operação e a RPAS não está aprovada
+  para tal condição); (5) procedimentos normais; (6) procedimentos de contingência (para lidar
+  com situações anormais); (7) procedimentos de emergência; e (8) procedimentos de comunicação
+  de ocorrências.
+
+  Critério #2 (SAIL I): O requerente deverá fornecer um manual de instruções de operação do
+  RPAS que contenha, no mínimo, os seguintes elementos: (1) distribuição e atribuição de tarefas;
+  (2) lista de verificação para garantir que a equipe está realizando adequadamente as tarefas
+  atribuídas.
+
+  Critério #2 (SAIL II): Em adição ao critério #2 (SAIL I), o requerente deverá ter procedimentos
+  para lidar com erro humano na operação do RPAS.
+
+  Critério #3 (Aplicável para SAIL I e II): O requerente deverá fornecer ao operador uma proposta
+  de Plano de Resposta a Emergências (ERP) que contenha, no mínimo, os seguintes elementos:
+  (1) seja conveniente para potenciais situações secundárias resultantes do impacto da RPA
+  com o solo como, por exemplo, fogo, explosão ou vazamento de substâncias que ofereçam perigo;
+  (2) mitigue efetivamente todos os efeitos secundários considerados perigosos resultantes
+  de uma colisão da UA com o solo; (3) delineia claramente todas as responsabilidades e obrigações
+  da tripulação remota; (4) seja de fácil utilização e treinamento de sorte que a tripulação
+  remota possa efetivamente executar o procedimento mesmo sob pressão; (5) contenha uma lista
+  de situações previstas de emergência com seus efeitos secundários; (6) procedimento para
+  cada situação de emergência previamente identificada; (7) lista de contatos relevantes como,
+  por exemplo, Decea, polícia, bombeiros, socorristas, etc.
+
+
+  Demonstração: O requerente deverá fornecer ao operador uma proposta de um Plano de Resposta
+  a Emergências que contenha as informações dos critérios supracitados. Para elaboração desse
+  documento recomenda-se a utilização das normas ASTM F2908-18 e F2909-19. O requerente deverá
+  submeter o documento à ANAC com evidências.
+
+
+  B.6.7 OSO#09 - O requerente deve prover os meios necessários que possibilitem que a Tripulação
+  remota seja treinada, atualizada e capaz de controlar uma situação anormal (Aplicável para
+  SAIL I e II - robustez baixa):
+
+  Critério: O requerente deverá definir um treinamento mínimo, teórico e prático, para operação
+  do RPAS. O treinamento deverá cobrir aspectos como: regulamentação; princípios de uso do
+  espaço aéreo; disciplina de voo e segurança da aviação; fatores humanos; meteorologia; navegação;
+  descrição do RPAS; procedimentos operacionais e de ERP; e uso de serviços externos, quando
+  aplicável.
+
+  Demonstração: O requerente deverá fornecer documento contendo o treinamento mínimo especificado
+  para a operação do RPAS. Para a elaboração desse documento recomenda-se a utilização da
+  norma ASTM F3266-18. O requerente deverá elaborar o documento e submeter à Anac como evidência.
+
+  B.6.8 OSO#13 - O requerente deve prover os meios necessários que possibilitem que os serviços
+  externos de apoio às operações de RPAS sejam adequados para a operação (Aplicável para SAIL
+  I e II - robustez baixa):
+
+  Critério: O requerente deve estabelecer o nível mínimo de desempenho de qualquer serviço
+  externo e necessário para a segurança do voo, adequado para a operação pretendida. São exemplos
+  de serviços externos: GNSS (GPS ou outra constelação de satélites), uso de rede de telefonia
+  móvel, informações de meteorologia, banco de dados, etc.
+
+  Demonstração: Listar os serviços externos com a especificação do nível mínimo de desempenho
+  necessário para o tipo de serviço. Para análise de atendimento, com relação ao uso de GNSS,
+  recomenda-se a utilização da norma EUROCAE ED-301.
+
+  B.6.9 OSO#16 - O requerente deve prover os meios necessários que possibilitem coordenação
+  entre tripulações múltiplas (Aplicável para SAIL I e II - robustez baixa):
+
+  Critério #1: Quando a aeronave exigir mais de uma pessoa para sua operação, o requerente
+  deve instruir o operador a como estabelecer procedimentos de coordenação e comunicação entre
+  os membros da equipe. Tais procedimentos devem avaliar a forma de comunicação, sua robustez
+  e eficiência para a operação desejada.
+
+  Critério #2: O requerente deverá definir o treinamento mínimo, teórico e prático, para operações
+  em que se requeira a coordenação entre membros da equipe.
+
+  Demonstração: O requerente deverá fornecer documento contendo o treinamento mínimo especificado
+  para a coordenação de membros da equipe. Para a elaboração desse documento recomenda-se
+  a utilização da norma ASTM F3266-18. O requerente deverá elaborar o documento e submeter
+  à Anac como evidência.
+
+  B.6.10 OSO#17 - O requerente deve prover os meios necessários que possibilitem que a tripulação
+  remota esteja apta a operar (Aplicável para SAIL I e II - robustez baixa):
+
+  Critério: A política para definir como a tripulação remota declara estar apta a operar (antes
+  de uma operação) está documentada. A declaração de aptidão para operar da tripulação remota
+  (antes de uma operação) é baseada na política definida pelo requerente.
+
+  Demonstração: O requerente deve fornecer ao operador documentação que o auxilie na elaboração
+  de procedimentos para identificar que a tripulação remota está apta a operar. O documento
+  elaborado deverá ser apresentado à Anac como evidência.
+
+  B.6.11 OSO#20 - Uma avaliação de fatores humanos foi realizada e a interface homem-máquina
+  (IHM) foi considerada apropriada para a operação (Obrigatório somente para SAIL II - robustez
+  baixa):
+
+  Critério: Fatores humanos e a interface homem-máquina (IHM) foram avaliados pelo requerente.
+  Deve-se assegurar que as informações apresentadas são claras, sucintas e não causam fadiga
+  extrema ou confusão ao piloto remoto.
+
+  Demonstração: O requerente deve declarar que o RPAS atende ao critério.
+
+  B.6.12 OSO#23 - O requerente deve prover os meios necessários que possibilitem que as condições
+  ambientais para operações seguras sejam definidas, mensuráveis e seguidas (Aplicável para
+  SAIL I e II -robustez baixa):
+
+  Critério #1: As condições ambientais para operações seguras são definidas e refletidas no
+  manual de voo ou documento equivalente.
+
+  Demonstração: O requerente deverá declarar que o RPAS atende as condições ambientais especificadas
+  para as operações pretendidas.'
+keywords:
+- requerente
+- sail
+- rpas
+- operacao
+- devera
+- criterio
+- procedimentos
+- robustez
+- documento
+- operador
+- solo
+- baixa
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-004a.md

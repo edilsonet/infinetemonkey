@@ -1,0 +1,65 @@
+document: is-00-003
+kind: is
+title: IS 00-003H
+ementa: Exames teóricos para concessão de licenças, habilitações e certificados Em vigor em
+  1º de março de 2025
+family: '0'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-003
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-003
+language: pt
+foreign_annex: false
+sections:
+- anexo-1-da-oaci
+- anexo-11-da-icao-servicos-de-trafego-aereo-ats
+- anexo-14-da-icao-capitulo-3-caracteristicas-fisicas
+- anexo-2-da-icao-regras-do-ar-anexo-b-interferencia-ilegal
+- anexo-6-da-icao-capitulo-13-seguranca
+- anexo-8-da-icao-e-especificacoes-de-certificacao-rela-f8583a
+- anexo-a-do-anexo-14-da-icao-volume-1-material-de-orie-877eeb
+- apendice-a-lista-de-reducoes
+- apendice-b-controle-de-alteracoes
+- apendice-c-exames-e-provas
+- apendice-d-objetivos-de-aprendizagem
+- aplicabilidade
+- aprovacao
+- definicao
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- introducao
+- objetivo
+- preambulo
+- revogacao
+- sumario
+fragment_count: 25
+fragment_ids:
+- is-is-00-003-preambulo-body
+- is-is-00-003-aprovacao-body
+- is-is-00-003-objetivo-body
+- is-is-00-003-objetivo-b
+- is-is-00-003-revogacao-body
+- is-is-00-003-fundamentos-body
+- is-is-00-003-fundamentos-b
+- is-is-00-003-definicoes-body
+- is-is-00-003-desenvolvimento-do-assunto-body
+- is-is-00-003-apendice-a-lista-de-reducoes-body
+- is-is-00-003-apendice-b-controle-de-alteracoes-body
+- is-is-00-003-apendice-c-exames-e-provas-body
+- is-is-00-003-apendice-d-objetivos-de-aprendizagem-body
+- is-is-00-003-disposicoes-finais-body
+- is-is-00-003-sumario-body
+- is-is-00-003-definicao-body
+- is-is-00-003-introducao-body
+- is-is-00-003-anexo-8-da-icao-e-especificacoes-de-certificacao-rela-f8583a-body
+- is-is-00-003-anexo-1-da-oaci-body
+- is-is-00-003-anexo-11-da-icao-servicos-de-trafego-aereo-ats-body
+- is-is-00-003-anexo-a-do-anexo-14-da-icao-volume-1-material-de-orie-877eeb-body
+- is-is-00-003-anexo-2-da-icao-regras-do-ar-anexo-b-interferencia-ilegal-body
+- is-is-00-003-anexo-6-da-icao-capitulo-13-seguranca-body
+- is-is-00-003-anexo-14-da-icao-capitulo-3-caracteristicas-fisicas-body
+- is-is-00-003-aplicabilidade-body
+parser_version: 7

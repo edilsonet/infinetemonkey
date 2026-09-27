@@ -40,11 +40,17 @@ sections:
 - '120.7'
 - '120.9'
 - apendice-a-do-rbac-no-120
-- apendice-a-do-rbac-no-120-dosimetria-das-sancoes-aplicaveis-as-infracoes-ao-regulamento
+- apendice-a-do-rbac-no-120-dosimetria-das-sancoes-apli-db0097
+- aplicabilidade
+- aprovacao
+- disposicoes
 - preambulo
-fragment_count: 132
+- sumario
+fragment_count: 136
 fragment_ids:
 - rbac-rbac-120-preambulo-body
+- rbac-rbac-120-aprovacao-body
+- rbac-rbac-120-sumario-body
 - rbac-rbac-120-120-1-body
 - rbac-rbac-120-120-3-body
 - rbac-rbac-120-120-9-body
@@ -66,7 +72,7 @@ fragment_ids:
 - rbac-rbac-120-120-353-body
 - rbac-rbac-120-120-355-body
 - rbac-rbac-120-120-361-body
-- rbac-rbac-120-apendice-a-do-rbac-no-120-dosimetria-das-sancoes-aplicaveis-as-infracoes-ao-regulamento-body
+- rbac-rbac-120-apendice-a-do-rbac-no-120-dosimetria-das-sancoes-apli-db0097-body
 - rbac-rbac-120-120-1-a
 - rbac-rbac-120-120-1-i
 - rbac-rbac-120-120-1-b
@@ -174,6 +180,8 @@ fragment_ids:
 - rbac-rbac-120-120-353-f
 - rbac-rbac-120-120-353-g
 - rbac-rbac-120-apendice-a-do-rbac-no-120-body
+- rbac-rbac-120-aplicabilidade-body
 - rbac-rbac-120-120-321-body
 - rbac-rbac-120-120-331-body
-parser_version: 6
+- rbac-rbac-120-disposicoes-body
+parser_version: 7

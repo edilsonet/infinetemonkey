@@ -1,0 +1,1704 @@
+id: is-is-21-231-001-20-02-2025-body
+kind: is
+document: is-21-231-001
+family: '21'
+section_id: 20.02.2025
+section_title: 20.02.2025
+subsection_id: body
+cite: 20.02.2025
+title: 20.02.2025
+text: '20.02.2025
+
+  OBJETIVO
+
+  Esta Instrução Suplementar - IS visa orientar o processo de Certificação de Organização
+  de Projeto - COPj para fins de concessão de prerrogativas de aceitação das declarações de
+  cumprimento com requisitos aplicáveis para detentores de, ou requerentes a, Certificado
+  de Tipo - CT, Certificado Suplementar de Tipo - CST, emenda a estes Certificados, ou aprovação
+  de dados técnicos para grande reparo ou dados técnicos para grande alteração, de acordo
+  com a subparte J do Regulamento Brasileiro de Aviação Civil - RBAC nº 21. Além disso, fornece
+  instruções para a concessão de prerrogativas de classificação e aprovação de pequenas modificações
+  ao projeto de tipo ou aos Dados Relevantes à Operação - OSD, publicação de informações ou
+  instruções técnicas, aprovação de determinadas revisões ao manual de voo, aprovação diretamente
+  de determinados dados técnicos para grande reparo ou dados técnicos para grande alteração
+  e, por fim, emissão do Documento de Liberação Autorizada - DLA, também por meio da subparte
+  J do RBAC nº 21. Ademais, descreve os elementos necessários à implantação e manutenção da
+  certificação, requeridos pelo mesmo regulamento.
+
+  REVOGAÇÃO
+
+  Esta IS substitui a IS nº 21.231-001 Revisão C.
+
+  FUNDAMENTOS
+
+  Certificação de Organização de Projeto
+
+  Conforme estabelecido no inciso XXXIII do art. 8º da Lei nº 11.182, de 27 de setembro de
+  2005, a ANAC pode expedir, homologar ou reconhecer a certificação de produtos e processos
+  aeronáuticos de uso civil, observados os padrões e normas por ela estabelecidos.
+
+  A seção 21.233-I do RBAC nº 21 estabelece que qualquer pessoa jurídica (organização) que
+  pretenda desenvolver projetos de produtos aeronáuticos, ou modificações aos projetos, ou
+  dados técnicos para grande reparo ou dados técnicos para grande alteração, pode requerer
+  uma certificação, de acordo com a subparte J do RBAC nº 21.
+
+  A seção 21.263-I do RBAC nº 21 estabelece as prerrogativas que uma Organização de Projeto
+  pode receber.
+
+  O conceito da COPj é de que a organização desenvolve seus próprios processos e tem a responsabilidade
+  sobre eles, diferentemente de outros sistemas em que a ANAC requer a utilização de processos
+  e procedimentos estabelecidos pela própria Agência.
+
+  Meio Aceitável de Cumprimento
+
+  O art. 14 da Resolução nº 30, de 21 de maio de 2008, que instituiu o RBAC e IS e estabelece
+  critérios para a sua elaboração, dispõe em seu § 1º, alterado pela Resolução nº 162, de
+  20 de julho de 2010, que o administrado que pretenda demonstrar o cumprimento de requisito
+  previsto em RBAC ou Regulamento Brasileiro de Homologação Aeronáutica - RBHA poderá adotar
+  os meios e procedimentos especificados em IS ou apresentar meio ou procedimento alternativo
+  devidamente justificado, exigindo-se a análise e concordância expressa do órgão competente
+  da ANAC.
+
+  O § 2º do art. 14 da Resolução nº 30, de 21 de maio de 2008, supracitado, dispõe que o meio
+  ou procedimento alternativo mencionado no § 1º deste artigo deve garantir nível de segurança
+  igual ou superior ao estabelecido pelo requisito aplicável ou concretizar o objetivo do
+  procedimento normalizado em IS.
+
+  O § 3º do art. 14 da Resolução nº 30, de 21 de maio de 2008, supracitado, dispõe que a IS
+  não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro
+  ato normativo.
+
+  DEFINIÇÕES
+
+  Aprovação: quando relativa à organização, indica toda e qualquer ação interna à Organização
+  de Projeto necessária a estabelecer que o documento, manual ou outra informação relativa
+  ao CT, CST ou dado técnico para grande reparo ou dados técnicos para grande alteração está
+  devidamente concluída e aprovada internamente. Pode substituir a aprovação da Autoridade
+  de Aviação Civil - AAC, conforme Termos da Certificação.
+
+  Certificação de Organização de Projeto - COPj: representa o processo de certificação de
+  uma organização que desenvolve projeto de produto aeronáutico estabelecido por meio da subparte
+  J do RBAC nº 21.
+
+  Declaração de Conformidade: quando relativa a um ensaio, refere-se à declaração de conformidade
+  ao projeto de tipo de uma aeronave, motor ou hélice, ou peça da aeronave, conforme estabelecido
+  na seção 21.53 do RBAC nº 21.
+
+  Declaração de Cumprimento com os Requisitos do Projeto: é a declaração emitida ao final
+  de todas as tarefas de verificação de cumprimento com a base de certificação e demais requisitos
+  aplicáveis para um determinado projeto.
+
+  NOTA: A base de certificação está definida na IS nº 21-001.
+
+  Documento de Conformidade: qualquer documento gerado para estabelecer a conformidade de
+  um ensaio específico, e que serve como base à Declaração de Conformidade. Pode incluir Fichas
+  de Inspeção de Conformidade, Fichas de Desvios, Análise dos desvios etc.
+
+  NOTA: Tais documentos podem ser incorporados à Declaração de Conformidade.
+
+  Documento de Cumprimento com os Requisitos do Projeto (documento de cumprimento): documento
+  que contém os dados de demonstração de cumprimento com o requisito de certificação.
+
+  NOTA: Todos os documentos de cumprimento serão verificados pelo Compliance Verification
+  Expert - CVE como parte do Sistema de Garantia do Projeto.
+
+  Documento de Verificação de Cumprimento com os Requisitos do Projeto: qualquer registro
+  gerado para indicar a realização da verificação do cumprimento de determinado requisito
+  aplicável ao projeto, conforme procedimentos.
+
+  NOTA: Um documento dedicado com as informações de verificação ou a assinatura do CVE em
+  um documento de cumprimento com os requisitos são consideradas formas aceitáveis para o
+  registro pretendido.
+
+  Matriz de Cumprimento da Organização de Projeto - MCOPj: Declaração emitida em conjunto
+  com o Manual da Organização de Projeto (MOPj) indicando o atendimento a todos os requisitos
+  da subparte J do RBAC nº 21, conforme seção 21.243-I do RBAC nº 21.
+
+  Matriz de Cumprimento com os Requisitos de Certificação do Projeto - MCRP: documento que
+  aborda cada requisito de certificação do projeto, os meios de cumprimento e os documentos
+  de cumprimento e de verificação de cumprimento associados. A MCRP pode ser incorporada ao
+  plano de certificação definido na IS nº 21-001.
+
+  Organização de Projeto: significa, no âmbito desta IS, qualquer organização de projeto certificada
+  conforme a Subparte J do RBAC nº 21, de acordo com o estabelecido no RBAC nº 01.
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  Introdução ao Sistema de COPj
+
+  A subparte J do RBAC nº 21 estabelece as condições necessárias para a obtenção e manutenção
+  de uma COPj, suas obrigações e prerrogativas. Esta IS descreve de forma detalhada tais condições,
+  apresentando um meio aceitável de cumprimento aos requisitos da subparte em referência.
+
+  A certificação como Organização de Projeto não é necessária para a obtenção de um CT, CST,
+  emendas ao Certificado ou para aprovação de dado técnico para grande reparo ou para grande
+  alteração.
+
+  O credenciamento de pessoa física ou jurídica por meio do RBAC nº 183 é uma forma alternativa
+  de viabilização da aprovação de um projeto. Todavia, não se espera de uma organização certificada
+  que se utilize de pessoas físicas ou jurídicas credenciadas, e vice-versa. Tal fato pode
+  ser explicado pela análise do objetivo da COPj, que é o estabelecimento pela organização
+  de processos próprios de desenvolvimento de produto, demonstração e verificação do cumprimento
+  com os requisitos aplicáveis e a posterior análise e aceitação da ANAC de que tais processos
+  cumprem com os requisitos da subparte J do RBAC nº 21.
+
+  A COPj deve abranger todos os processos de projeto de produto certificável na organização.
+  Para detentores de CT, com a prerrogativa correlata (parágrafo 21.263-I(b)(2) do RBAC nº
+  21), a certificação da organização deve envolver todas as áreas relativas aos requisitos
+  aplicáveis ao projeto da aeronave, motor ou hélice. Para as outras prerrogativas, apesar
+  de não recomendável, é possível que coexistam os modelos de certificação e credenciamento
+  na mesma organização, aplicáveis a diferentes processos/áreas.
+
+  A certificação conforme a subparte J do RBAC nº 21 não tem impacto sobre o nível de envolvimento
+  da ANAC e a duração do processo de certificação, quando comparado com processos de certificação
+  que utilizam o credenciamento de pessoas físicas ou jurídicas.
+
+  NOTA: O conceito de nível de envolvimento é explicado na IS 21-001.
+
+  Entretanto, o nível de envolvimento e o prazo para a aprovação de projetos tende a ser reduzido
+  expressivamente quando se compara uma organização certificada com outra não certificada
+  e sem profissionais credenciados por meio do RBAC nº 183.
+
+  Sistema de Garantia do Projeto
+
+  Um Sistema de Garantia do Projeto é composto por estrutura, responsabilidades, procedimentos
+  e recursos organizacionais para assegurar o funcionamento devido de uma Organização de Projeto.
+
+  O Sistema de Garantia do Projeto abrange todas as ações planejadas e sistemáticas necessárias
+  a prover um nível de confiança adequado de que a organização detém a capacidade de:
+
+  a) Projetar produtos ou artigos de acordo com os requisitos aplicáveis dos RBAC de aeronavegabilidade,
+  de ruído, de drenagem de combustível, de emissões de motores de aeronaves, de emissões de
+  CO2 de aviões e de OSD.
+
+  b) Demonstrar e verificar o cumprimento com os requisitos acima.
+
+  c) Demonstrar à ANAC este cumprimento.
+
+  A Investigação de Tipo compreende as ações da organização em suporte ao CT, CST ou outros
+  processos de aprovação necessários para demonstrar, verificar e manter o cumprimento com
+  os requisitos aplicáveis dos RBAC de aeronavegabilidade, de ruído, de drenagem de combustível,
+  de emissões de motores de aeronaves, de emissões de CO2 de aviões e de OSD.
+
+  Garantia do Projeto
+
+  O processo de garantia do projeto inicia-se com os requisitos aplicáveis dos RBAC de aeronavegabilidade,
+  de ruído, de drenagem de combustível, de emissões de motores de aeronaves, de emissões de
+  CO2 de aviões e de OSD e com as especificações do produto, depois tem-se as fases de projeto,
+  análise, testes e ensaios, demonstração de cumprimento com os requisitos, verificação pela
+  Organização de Projeto do cumprimento e demonstração à ANAC, incluindo requisitos associados
+  a condições especiais ou que estabelecem níveis equivalentes de segurança. Cabe à Agência
+  a aceitação da demonstração e a emissão do Certificado, quando aplicável. A Figura 1 mostra
+  o funcionamento do Sistema de Garantia do Projeto no contexto do processo de certificação
+  de tipo.
+
+  Uma garantia do projeto efetiva demanda uma avaliação contínua dos fatores que afetam a
+  adequação do projeto para aplicações pretendidas, em particular, que o produto ou artigo
+  cumpre com os requisitos e continuará a cumprir após qualquer modificação.
+
+  Desta forma, 2 (dois) aspectos principais devem ser considerados:
+
+  a) Como as ações planejadas e sistemáticas são definidas e implementadas, a partir do início
+  do projeto até as atividades de aeronavegabilidade continuada.
+
+  b) Como estas ações são regularmente avaliadas e ações corretivas implementadas, quando
+  necessário.
+
+
+  Figura 1: Sistema de Garantia do Projeto no contexto do processo de certificação de tipo
+
+  Para Organizações de Projeto que executem Investigação de Tipo de produtos, ações planejadas
+  e sistemáticas devem cobrir as seguintes tarefas (procedimentos devem ser estabelecidos
+  apropriadamente):
+
+  a) Itens Gerais:
+
+  I - Emitir ou modificar o MOPj estabelecido conforme a seção 21.243-I do RBAC nº 21 e item
+  5.2.7 desta IS, em particular para indicar o início de atividades de projeto em um produto.
+
+  II - Assegurar que todas as instruções do manual são cumpridas.
+
+  III - Conduzir a Investigação de Tipo.
+
+  IV - Indicar pessoas para atuar como CVE, responsáveis por aprovar os dados de demonstração
+  de cumprimento com os requisitos do projeto, conforme o item 5.2.4.4(c).
+
+  V - Indicar pessoas pertencentes ao Escritório de Aeronavegabilidade, área com as responsabilidades
+  definidas no item 5.2.4.4(d).
+
+  VI - Assegurar total e completa coordenação entre a Organização de Projeto de tipo e organizações
+  relacionadas, responsáveis pela produção dos produtos certificados.
+
+  VII - Garantir que os protótipos e espécimes de teste estão em conformidade com o projeto
+  de tipo (conforme seção 21.33 do RBAC nº 21).
+
+  b) Diretor Executivo (Chief Executive) e Responsável pela Organização de Projeto (Head of
+  Design Organization):
+
+  I - O Diretor Executivo deve prover os recursos necessários para o devido funcionamento
+  da Organização de Projeto.
+
+  II - O Responsável pela Organização de Projeto, ou um representante autorizado, deve assinar
+  a Declaração de Cumprimento com os Requisitos do Projeto, conforme definido no item 4.4,
+  após a verificação da conclusão satisfatória da Investigação de Tipo.
+
+  NOTA 1: A assinatura do Responsável pela Organização de Projeto na Declaração de Cumprimento
+  com os Requisitos do Projeto atesta que os procedimentos conforme especificados no MOPj
+  foram seguidos em todas as ações durante a certificação do produto.
+
+  NOTA 2: As funções do Diretor Executivo e do Responsável pela Organização de Projeto podem
+  ser desempenhadas pela mesma pessoa.
+
+  c) Verificação de Cumprimento com os Requisitos do Projeto:
+
+  I - Aprovar os dados de demonstração de cumprimento com os requisitos do projeto, indicando
+  que são suficientes para estabelecer a verificação de cumprimento dos requisitos do projeto.
+
+  NOTA 1: Pessoas atuando na função de CVE devem ter acesso a todas as informações ou processos
+  da Organização de Projeto necessários para verificação de cumprimento com os requisitos,
+  ou parte destes sob sua responsabilidade. Quando a demonstração de cumprimento requerer
+  a realização de ensaios, o sistema deve garantir que o envolvimento do CVE ocorra na forma
+  e tempo adequados. Procedimentos devem estabelecer critérios gerais para atividades quando
+  o envolvimento do CVE for necessário antes ou durante o ensaio.
+
+  NOTA 2: Devem fazer parte dos procedimentos relevantes da organização certificada a descrição
+  de como delinear e registrar a aprovação realizada pelos CVE, garantindo que a obrigação
+  do parágrafo 21.239-I(b) do RBAC nº 21 seja cumprida.
+
+  II - Atestar que o conteúdo técnico é suficiente (em termos de completude, precisão técnica
+  etc.) para os manuais e informações técnicas (Aircraft Flight Manual - AFM, Airworthiness
+  Limitations Section - ALS, Certification Maintenance Requirements - CMR, Boletim de Serviço/Service
+  Bulletin - BS/SB, Master Minimum Equipment List - MMEL, etc.) emitidas pela organização.
+
+  d) Escritório de Aeronavegabilidade: as tarefas abaixo descritas podem ser delegadas a outros
+  membros da Organização de Projeto, desde que devidamente estabelecido no manual.
+
+  I - Coordenação entre a Organização de Projeto e a ANAC com respeito a todos os aspectos
+  dos programas de certificação.
+
+  II - Garantia de que o MOPj estabelecido conforme a seção 21.243-I do RBAC nº 21 e o item
+  5.2.7 desta IS está atualizado e sendo cumprido conforme estabelecido.
+
+  III - Cooperação com a ANAC no desenvolvimento de procedimentos para serem usados no processo
+  de certificação de tipo.
+
+  IV - Emissão de orientações e procedimentos para documentar a conformidade de ensaios, a
+  demonstração e a verificação de cumprimento com os requisitos do projeto.
+
+  V - Cooperação na emissão de guias ou procedimentos para a preparação de manuais requeridos
+  pelos requisitos aplicáveis, boletins de serviço, desenhos, especificações e normas.
+
+  VI - Garantia de que os regulamentos e normas aplicáveis estão disponíveis na organização.
+
+  VII - Cooperação com a ANAC na proposição de base de certificação, incluindo casos em que
+  sejam necessários Equivalent Level of Safety - ELOS, Special Condition - SC ou isenção dos
+  requisitos de certificação.
+
+  VIII - Questionamento à ANAC em caso de dúvidas sobre novos requisitos, novas interpretações
+  de requisitos exaradas pelas AAC ou qualquer dúvida sobre o processo de certificação.
+
+  IX - Aconselhamento a todos os departamentos da organização no tocante aos processos de
+  certificação.
+
+  X - Preparação dos planos de certificação e coordenação de todas as tarefas relativas ao
+  processo de certificação junto à ANAC.
+
+  XI - Relato regular à ANAC sobre o progresso da Investigação de Tipo e aviso sobre os ensaios
+  programados em tempo adequado.
+
+  XII - Cooperação na preparação de programas de inspeções e ensaios necessários à demonstração
+  de cumprimento com os requisitos do projeto.
+
+  XIII - Estabelecimento e atualização da Matriz de Cumprimento com os Requisitos de Certificação
+  do Projeto (MCRP) para novos projetos ou modificações.
+
+  XIV - Checagem de que todos os documentos de cumprimento, conformidade e verificação de
+  cumprimento com os requisitos do projeto foram preparados como necessário para demonstrar
+  o cumprimento com os requisitos aplicáveis e que a emissão dos documentos foi realizada
+  seguindo os procedimentos estabelecidos, com as aprovações necessárias.
+
+  XV - Verificação de que todos os documentos de definição do projeto de tipo, descritos na
+  seção 21.31 do RBAC nº 21, foram devidamente emitidos e garantia de que serão disponibilizados
+  à ANAC, quando requeridos.
+
+  XVI - Preparação, quando necessário, de uma proposta de Especificação de Tipo, ou de modificação
+  de uma Especificação de Tipo.
+
+  XVII - Prover a informação ao Responsável pela Organização de Projeto de que todas as atividades
+  da Investigação de Tipo foram devidamente concluídas.
+
+  XVIII - Classificar as modificações ao projeto de tipo e aos OSD, e aprovar as pequenas
+  modificações, conforme estabelecido nas seções 21.93, 21.95 e 21.107-I do RBAC nº 21, quando
+  estabelecida tal prerrogativa nos Termos da Certificação da organização.
+
+  XIX - Cooperação na preparação de Informações ou Instruções Técnicas, conforme estabelecido
+  no parágrafo 21.263-I(c)(3) do RBAC nº 21, e suas respectivas revisões, com especial atenção
+  à forma como tais informações afetam o cumprimento aos requisitos aplicáveis.
+
+  XX - Garantir que as devidas ações sejam tomadas pela Organização de Projeto em resposta
+  a uma avaliação de falha, defeito ou mau funcionamento (a partir de acidente, incidente
+  ou qualquer outro tipo de ocorrência) e reclamações de operadores, provendo informação devida
+  à ANAC.
+
+  XXI - Cooperação com a ANAC em relação à emissão de Diretriz de Aeronavegabilidade (DA)
+  e aconselhamento quanto a emissão de tal documento no momento da emissão de BS.
+
+  XXII - Garantia de que os documentos e manuais que devem ser aprovados pela ANAC, incluindo
+  suas revisões, foram verificados quanto ao cumprimento com os requisitos aplicáveis e que
+  foram devidamente disponibilizados para a ANAC para aprovação.
+
+  e) Instruções de Manutenção e Operação de produto:
+
+  I - Garantir a preparação e atualização de todas as instruções de manutenção e operação
+  para cumprimento da seção 21.50 do RBAC nº 21 necessárias para manter a aeronavegabilidade
+  continuada dos produtos de acordo com os respectivos requisitos, por meio de:
+
+  i. Estabelecimento da lista de todos os documentos produzidos;
+
+  ii. Garantia de que estes documentos são disponibilizados para todos os operadores e todas
+  as AAC aplicáveis.
+
+  Efetividade Continuada de um Sistema de Garantia do Projeto (Monitoramento do Sistema)
+
+  A organização deve estabelecer meios pelos quais uma avaliação continuada do Sistema de
+  Garantia do Projeto será executada com o intuito de garantir que tal sistema se mantenha
+  efetivo. Tal ação é denominada Monitoramento do Sistema. Os meios devem prever procedimentos
+  escritos no MOPj.
+
+  De acordo com o parágrafo 21.239-I(a)(3) do RBAC nº 21, o Monitoramento do Sistema deve
+  ser independente e tem a função de confirmar se os procedimentos estabelecidos e documentados
+  atendem aos objetivos do regulamento e são seguidos na organização.
+
+  Sempre que uma ação não conforme aos procedimentos estabelecidos e documentados for verificada,
+  uma avaliação da criticidade da não conformidade deve ser realizada e ações corretivas devem
+  ser estabelecidas, com o objetivo de reestabelecer a conformidade aos procedimentos. A ANAC
+  deve ser comunicada, conforme os procedimentos estabelecidos pela organização no MOPj, sempre
+  que for identificado um item equivalente à classificação de nível 1 como estabelecido no
+  item 5.7.1.6.
+
+  O Monitoramento do Sistema deve ser composto por pessoas devidamente qualificadas para as
+  funções de auditoria e apoio à auditoria. A independência exigida para o monitoramento consiste
+  na obrigação que as pessoas exercendo as funções de auditoria e apoio à auditoria não auditem
+  registros produzidos por elas mesmas. Os processos e qualificações para a indicação destas
+  pessoas devem estar descritos no MOPj. Ademais, o monitoramento do sistema não deve estar
+  hierarquicamente (dentro da distribuição de reponsabilidades da Organização de Projeto)
+  subordinado a nenhum responsável pela demonstração ou verificação do cumprimento com os
+  requisitos.
+
+  Verificação de Cumprimento com os Requisitos do Projeto
+
+  De acordo com o parágrafo 21.239-I(b) do RBAC nº 21, o Sistema de Garantia do Projeto deve
+  incluir uma função de verificação independente das demonstrações de cumprimento com os requisitos
+  de projeto, que servirá de base à organização para apresentar à ANAC a Declaração de Cumprimento
+  com os Requisitos de Projeto e documentação associada.
+
+  A verificação deve ser executada por pessoas que não participaram da demonstração de cumprimento
+  com os requisitos. O MOPj deve estabelecer procedimentos que garantam a independência requerida.
+
+  NOTA 1: A pessoa pode ter trabalhado em conjunto com indivíduos que criaram tais dados.
+
+  NOTA 2: Para a implementação do critério da independência, a organização define, por exemplo,
+  que a pessoa que está realizando a verificação independente não seja o autor ou coautor
+  dos registros de demonstração. Entretanto, essa é uma condição necessária, mas não suficiente
+  para garantir a independência devida. Neste caso, adicionalmente ao critério de autoria
+  e coautoria, os procedimentos que devem garantir a independência podem ser baseados no julgamento
+  do CVE.
+
+  NOTA 3: Adicionalmente, os procedimentos da organização devem endereçar a independência
+  do CVE que permita a realização da sua verificação de forma que nenhuma pressão indevida
+  ou influência seja estabelecida sobre o profissional, permitindo a realização da sua função
+  de forma plena e completa.
+
+  A verificação do cumprimento com os requisitos de projeto deve ser registrada conforme procedimentos
+  relevantes definidos no MOPj. Tais procedimentos devem garantir que todos os requisitos
+  associados ao documento de demonstração foram verificados em sua totalidade, incluindo todas
+  as tecnologias e aspectos técnicos associados (conforme descrito no item 5.2.4.4(d)(IV)).
+
+  Conforme estabelecido no item 5.4.10.9 da IS 21-001, o Sistema de Garantia do Projeto deve
+  incluir procedimentos para a realização de inspeção de engenharia e testemunho de ensaio
+  pelo CVE, incluindo o meio de registrá-lo. Os registros da análise do CVE devem ser parte
+  da documentação associada às declarações de cumprimento com o requisito e devem conter,
+  no mínimo, descrição do ensaio ou inspeção, resultados obtidos e quaisquer ocorrências significativas,
+  decisões ou recomendações de determinado ensaio ou inspeção.
+
+  Conforme estabelecido no item 5.4.10.10 da IS 21-001, o Sistema de Garantia do Projeto deve,
+  adicionalmente ao item imediatamente anterior, incluir, quando aplicável, procedimentos
+  para a realização de inspeção e testemunho de ensaios específicos ou de longa duração, por
+  exemplo ensaios estruturais de fadiga. Ademais, conforme estabelecido no item 5.4.11.7 da
+  IS 21-001, referente aos relatos periódicos sobre o progresso da “investigação do tipo”,
+  o requerente deve informar à ANAC a data de realização das inspeções e manter tal cronograma
+  atualizado. Por fim, ressalta-se que para a demonstração de cumprimento com o requisito,
+  quando realizada de forma incremental e em fases, como no caso em referência, os procedimentos
+  devem estabelecer critérios para a participação do CVE.
+
+  Cabe à Organização de Projeto estabelecer procedimentos escritos para a definição do escopo,
+  qualificação, nomeação, alocação e demoção do CVE, que é a função responsável pela verificação
+  independente. Estes procedimentos devem também endereçar a manutenção da capacidade do exercício
+  da função de CVE nos projetos da organização.
+
+  NOTA: Os CVE são nomeados para escopos específicos de responsabilidade. A estrutura desses
+  escopos é identificada pela Organização de Projeto e seguirá uma estrutura lógica, compatível
+  com o tipo de produto, tais como, por disciplina (e.g. estrutura, voo, sistemas elétricos),
+  por um conjunto de requisitos (e.g. subparte B do RBAC nº 25, Subparte C do RBAC nº 29),
+  por um conjunto de capítulos da ATA (e.g. ATA 27 Flight Controls, ATA 32 Landing Gear, ATA
+  51 Structures). Um CVE pode ser nomeado para mais de um escopo.
+
+  Para o caso de requisitos multidisciplinares que requerem a utilização de mais de um CVE,
+  procedimentos devem ser implementados para garantir que todas as áreas de conhecimento estão
+  devidamente atendidas. Deve-se deixar claro que tal ação não representa substituição.
+
+  Todas as ações estabelecidas para um Sistema de Garantia do Projeto devem considerar fornecedores.
+  Caso o fornecedor seja também uma Organização de Projeto, a contratante pode utilizar a
+  metodologia da contratada, porém o Sistema de Garantia do Projeto deve considerar as interfaces
+  e regras da contratante. Como Organização de Projeto pode-se considerar sistemas similares
+  ao da ANAC, estabelecidos por outras AAC, desde que devidamente aceito pela ANAC. Tais processos
+  devem estar documentados no MOPj.
+
+  Manual da Organização de Projeto - MOPj
+
+  A seção 21.243-I do RBAC nº 21 estabelece a necessidade de fornecimento do manual à ANAC,
+  que será denominado Manual da Organização de Projeto - MOPj. O MOPj será analisado durante
+  a certificação da organização. Previamente ao fornecimento do MOPj à ANAC a organização
+  deverá validar seus processos, verificando o atendimento à seção 21.265-I e demais seções
+  do RBAC nº 21 aplicáveis. No fornecimento do MOPj à ANAC, a organização deverá apresentar
+  uma declaração do Responsável pela Organização de Projeto atestando o atendimento à seção
+  21.265-I e demais seções do RBAC nº 21 aplicáveis.
+
+  Conforme requerido na seção 21.243-I do RBAC nº 21, o MOPj deverá conter as informações
+  listadas abaixo, para cada produto coberto pela certificação da organização.
+
+  Descrição das tarefas que podem ser executadas sob a certificação, de acordo com a seguinte
+  classificação:
+
+  a) Áreas gerais, como aviões subsônicos turbojato, turbo-hélice; aeronave de asas rotativas,
+  helicóptero etc.
+
+  b) Áreas de desenvolvimento de produto, também denominadas tecnologias, operadas pela organização
+  (estruturas, interiores, hidráulica, desempenho, elétrica, aviônica, ruído, propulsão, ambientais
+  etc.).
+
+  c) Uma lista de tipos e modelos para os quais a organização foi certificada (ou solicita
+  certificação), suportada por uma breve descrição de cada produto.
+
+  d) Para a aprovação de dados técnicos para grande reparo ou grande alteração, especificar
+  o escopo da atividade em termos de tecnologia, por exemplo, estruturas, sistemas mecânicos,
+  propulsão etc.
+
+  Uma descrição geral da organização, suas divisões e departamentos principais, suas funções
+  e o nome das pessoas responsáveis pelas divisões e departamentos. Além disso, uma descrição
+  da linha de gestão e das relações funcionais entre cada departamento.
+
+  Uma descrição das responsabilidades atribuídas e autoridade delegada de todas as partes
+  da organização, as quais, quando consideradas de forma conjunta, constituem o Sistema de
+  Garantia do Projeto da organização. Além disso, um quadro indicando as relações funcionais
+  e hierárquicas do Sistema de Garantia do Projeto com o corpo diretivo e outras partes da
+  organização. Também, deve conter o encadeamento de responsabilidades dentro do Sistema de
+  Garantia do Projeto, e o controle do desenvolvimento estabelecido em fornecedores.
+
+  Uma descrição geral da forma como a organização desenvolve todas as funções de projeto em
+  relação ao exercício das prerrogativas conforme os Termos da Certificação, incluindo:
+
+  a) Os procedimentos seguidos e os formulários utilizados na Investigação de Tipo para garantir
+  a identificação e documentação do projeto do produto (ou a modificação do projeto). Além
+  disso, garantir que cumpre com os requisitos aplicáveis, incluindo requisitos específicos
+  das autoridades validadoras.
+
+  b) Os procedimentos para classificação de modificações de projeto de tipo e aos OSD em grandes
+  ou pequenas e a aprovação de pequenas modificações, quando aplicável.
+
+  c) Os procedimentos para aprovação de dados técnicos de grande reparo ou grande alteração.
+
+  Uma descrição geral da forma como a organização desenvolve todas as funções de projeto em
+  relação à aeronavegabilidade continuada dos seus produtos, incluindo cooperação com a organização
+  de produção certificada, conforme a subparte G do RBAC nº 21, no tocante a qualquer ação
+  de aeronavegabilidade continuada relacionada com a produção.
+
+  Uma descrição dos recursos humanos, instalações e equipamentos necessários ao projeto e,
+  quando apropriado, para a campanha de testes em solo e em voo.
+
+  Uma visão geral do sistema de controle e informação ao pessoal da organização de versões
+  vigentes dos desenhos técnicos, especificações e procedimentos de garantia do projeto.
+
+  Uma descrição do sistema de registros para:
+
+  a) O projeto de tipo, incluindo as informações de projeto relevantes, desenhos técnicos
+  e relatórios de teste, incluindo os registros de inspeção de conformidade de elementos de
+  teste.
+
+  b) Os meios de cumprimento.
+
+  c) A informação de conformidade, de demonstração e de verificação de cumprimento com os
+  requisitos (checklist, relatórios etc.).
+
+  NOTA: Os documentos de verificação podem ser unificados com os documentos de demonstração
+  de cumprimento com os requisitos. Ver definição no item 4.7.
+
+  Uma descrição do sistema de controle de registros para atender à seção 21.49 do RBAC nº
+  21.
+
+  Uma descrição da forma como a organização monitora e responde a problemas que afetem a aeronavegabilidade
+  dos seus produtos durante o projeto, produção e em serviço, em particular para atender à
+  seção 21.3 do RBAC nº 21 (complementar ao item 5.2.4.4(d)(XX)).
+
+  Os nomes das pessoas responsáveis pela Organização de Projeto.
+
+  Uma clara definição das funções, competências e áreas de responsabilidade do Escritório
+  de Aeronavegabilidade.
+
+  Uma descrição dos procedimentos para o estabelecimento e o controle das instruções de manutenção
+  e operação.
+
+  Uma descrição dos meios pelos quais o monitoramento do Sistema de Garantia do Projeto será
+  executado para assegurar que ele permaneça efetivo.
+
+  Caso haja atividades de desenvolvimento de produto em fornecedores, o MOPj deve estabelecer
+  procedimentos que demonstrem a garantia do projeto para tais atividades.
+
+  Uma Matriz de Cumprimento da Organização de Projeto (MCOPj) para todos os requisitos estabelecidos
+  na subparte J do RBAC nº 21 e, quando aplicável, para os itens descritos nesta IS, deve
+  acompanhar o MOPj em sua primeira apresentação à ANAC. A Matriz de Cumprimento deve permanecer
+  atualizada em cada alteração do MOPj.
+
+  Adicionalmente, alguns itens administrativos relativos ao manual devem ser estabelecidos,
+  conforme abaixo:
+
+  a) A razão social e o nome da organização, endereço principal e endereços secundários onde
+  ocorram atividades de desenvolvimento de produto e formas de contato com a organização.
+
+  b) Título e número de referência do documento.
+
+  c) Letra de revisão (versão) do manual.
+
+  d) Histórico de revisões do manual e principais alterações em cada versão.
+
+  e) Lista de páginas efetivas.
+
+  f) Índice de assuntos/títulos.
+
+  g) Uma lista de distribuição de cópias.
+
+  h) Uma introdução definindo o objetivo do manual.
+
+  i) Breve informação do histórico e desenvolvimento da organização. Além da apresentação
+  das empresas que compõem a Organização de Projeto, incluindo suas subsidiárias, coligadas
+  e outras que façam parte do mesmo grupo empresarial.
+
+  j) Identificação do setor responsável pela administração do manual.
+
+  k) Uma lista com todos os procedimentos complementares referenciados no manual, que serão
+  considerados parte do MOPj.
+
+  NOTA: Os registros e controles do Manual podem ser realizados através de um sistema eletrônico.
+
+  Declaração de Qualificação e Experiência
+
+  Em conformidade com o parágrafo 21.243-I(d) do RBAC nº 21, a Organização de Projeto deve
+  fornecer uma declaração de qualificação e experiência do quadro gerencial, ou seja, das
+  pessoas que ocupam cargos de gestão da Organização de Projeto, bem como do pessoal responsável
+  na organização pela tomada de decisões em matéria de aeronavegabilidade, de ruído, de drenagem
+  de combustível, de emissões de motores de aeronaves, de emissões de CO2 de aviões e de OSD,
+  ou seja, das pessoas responsáveis por decisões que afetam o cumprimento com os requisitos
+  aplicáveis.
+
+  Três tipos de funções da Organização de Projeto são identificadas nesta IS:
+
+  a) O Diretor Executivo;
+
+  b) O restante do pessoal de gestão:
+
+  I - O Responsável pela Organização de Projeto;
+
+  II - O Responsável pelo Escritório de Aeronavegabilidade, e;
+
+  III - O Responsável pelo Monitoramento do Sistema.
+
+  c) O pessoal responsável na organização pela tomada de decisões em matéria de aeronavegabilidade,
+  de ruído, de drenagem de combustível, de emissões de motores de aeronaves, de emissões de
+  CO2 de aviões e de OSD:
+
+  I - Os CVE, e;
+
+  II - As pessoas do Escritório de Aeronavegabilidade que tomam decisões que afetam a aeronavegabilidade
+  e o cumprimento com os requisitos aplicáveis, em especial ao exercício das prerrogativas
+  estabelecidas pela seção 21.263-I do RBAC nº 21.
+
+  Uma declaração de qualificação e experiência para o Diretor Executivo não é requerida.
+
+  O restante do pessoal de gestão da Organização de Projeto (item 5.2.8.2(b)) deve, perante
+  o Diretor Executivo e por meio do Responsável pela Organização de Projeto, representar a
+  estrutura de gestão da organização e como tal ser responsável pela execução de todas as
+  funções, conforme especificado na Subparte J do RBAC nº 21. Havendo as qualificações e experiências
+  relevantes em níveis apropriados, uma função de responsável pode ser acumulada por uma pessoa
+  ou dividida entre mais de uma, dependendo do tamanho e complexidade da organização. Especial
+  atenção deve ser dada quando uma destas funções for a de Responsável pelo Monitoramento
+  do Sistema, caso em que a pessoa deve se abster de exercer as atividades de Responsável
+  pelo Monitoramento sobre resultados do seu trabalho como responsável da função acumulada.
+  Tais atividades devem ser exercidas por outra pessoa em nome da posição de Responsável pelo
+  Monitoramento. As pessoas que exercem as funções de responsáveis devem ser identificadas
+  e suas qualificações e experiência relevantes para a função na organização descritas.
+
+  A declaração de qualificações apresentada para o restante do pessoal de gestão da Organização
+  de Projeto (item 5.2.8.2(b)) deve apresentar as qualificações e experiências relevantes
+  listando a formação acadêmica e carreira profissional pertinentes da pessoa e podem ser
+  disponibilizadas por meio de um Curriculum Vitae. Estas informações podem ser disponibilizadas
+  à ANAC de forma confidencial e independente do MOPj, juntamente com a solicitação de certificação.
+  Tais informações devem ser suficientes para que tais pessoas possam ser consideradas apropriadas
+  em termos de conhecimento relevante e experiência satisfatória relacionada à natureza das
+  atividades de projeto executadas pela organização.
+
+  Ao ser apresentada a declaração de qualificações e experiências, a Organização de Projeto
+  afirma, em cumprimento ao parágrafo 21.245-I(a) do RBAC nº 21, que o Responsável pela Organização
+  de Projeto tem a responsabilidade direta sobre todos os departamentos da organização que
+  executam a função de desenvolvimento de produto. Caso esta responsabilidade esteja funcionalmente
+  dividida, por exemplo por meio de uma estrutura matricial, o Responsável pela Organização
+  de Projeto mantém a responsabilidade final para o atendimento às obrigações previstas na
+  Subparte J do RBAC nº 21.
+
+  Ao ser apresentada a declaração de qualificações e experiências, a Organização de Projeto
+  também afirma, em cumprimento ao parágrafo 21.245-I(a) do RBAC nº 21, que o Responsável
+  pelo Escritório de Aeronavegabilidade, ou que o Responsável pela Organização de Projeto
+  que acumula tal função, dispõe de autoridade sobre um Escritório de Aeronavegabilidade,
+  estabelecido e provido em uma base permanente, para atuar como o ponto focal para a coordenação
+  de questões de aeronavegabilidade, de ruído, de drenagem de combustível, de emissões de
+  motores de aeronaves, de emissões de CO2 de aviões e de OSD.
+
+  Para os Compliance Verification Experts (CVE) e as pessoas do escritório de aeronavegabilidade
+  tomando decisões que afetam a aeronavegabilidade e o cumprimento com os requisitos aplicáveis,
+  uma declaração individual pode ser substituída pela descrição de um sistema de seleção,
+  treinamento, manutenção e identificação destas pessoas, em cumprimento ao parágrafo 21.243-I(d)
+  do RBAC nº 21. A descrição de tal sistema deve satisfazer às seguintes orientações:
+
+  a) Tais pessoas devem ser identificadas no MOPj ou em um registro relacionado no MOPj. A
+  correta identificação destas pessoas, juntamente com os procedimentos correspondentes, deve
+  permitir que tais pessoas cumpram com suas tarefas e que possam distribuir adequadamente
+  as responsabilidades associadas com tais tarefas.
+
+  b) A necessidade, em termos de quantidade de pessoas para cumprir com as tarefas do Sistema
+  de Garantia do Projeto, deve ser identificada pela organização.
+
+  c) As pessoas devem ser selecionadas em função de seu conhecimento, histórico e experiência
+  profissional.
+
+  d) Quando necessário, um treinamento complementar deve ser estabelecido, de forma a assegurar
+  um adequado e suficiente histórico e conhecimento no escopo da autorização de cada pessoa.
+  Os padrões mínimos para um novo indicado para esta atividade devem ser estabelecidos. O
+  programa de treinamento deve levar a um nível satisfatório de conhecimento dos procedimentos
+  relevantes para cada função particular.
+
+  e) O programa de treinamento estabelece uma parcela importante do Sistema de Garantia do
+  Projeto e sua adequabilidade é verificada por meio de investigação pela ANAC no processo
+  de certificação e posterior vigilância da organização.
+
+  f) O programa de treinamento pode ser adaptável à experiência acumulada da organização.
+
+  g) A organização deve manter registros destas pessoas incluindo detalhes do escopo de suas
+  autorizações. Comprovações de que cada pessoa entende os limites de sua autorização devem
+  ser mantidas.
+
+  h) Minimamente, as informações seguintes devem ser registradas e arquivadas: nome, data
+  de nascimento, experiência e treinamento, posição na organização, escopo da autorização,
+  data da primeira emissão da autorização, data do vencimento da autorização (quando aplicável)
+  e identificação da autorização. Um sistema de controle dos registros deve ser implementado.
+
+  i) Deve-se assegurar que os registros do sistema não sejam alterados de forma não autorizada
+  ou que tais informações, por sua característica confidencial, não se tornem acessíveis a
+  pessoas não autorizadas.
+
+  j) Cada pessoa deve ter acesso ao seu próprio registro.
+
+  k) A ANAC deve ter acesso ao sistema conforme previsto no parágrafo 21.257-I(a) do RBAC
+  nº 21.
+
+  l) Conforme estabelecido na seção 21.49 do RBAC nº 21, combinada com as seções 21.239-I
+  e 21.245-I do mesmo RBAC, no caso de uma Organização de Projeto, a organização deve manter
+  os registros pelo tempo em que for detentora do CT. Adicionalmente, caso a operação do produto
+  tenha sido encerrada ou nunca venha a ocorrer, é necessário, ainda, manter os registros
+  por, ao menos, 2 (dois) anos após uma pessoa deixar a organização, requerer o cancelamento
+  de sua autorização ou ter sua autorização revogada.
+
+  Alterações Significativas
+
+  Conforme estabelecido na seção 21.247-I do RBAC nº 21, após a certificação como Organização
+  de Projeto, cada alteração no Sistema de Garantia do Projeto, que seja significativa para
+  a demonstração de cumprimento com os requisitos aplicáveis, deverá ser aprovada pela ANAC.
+  Uma solicitação deve ser submetida à Agência demonstrando, com base na apresentação de propostas
+  de alteração do sistema, e antes da implementação da alteração, que a organização continuará
+  cumprindo com os itens aplicáveis da subparte J do RBAC nº 21 após a implementação da alteração
+  significativa.
+
+  Em adição à mudança de propriedade da organização que não implica em transferência conforme
+  seção 21.249‐I do RBAC nº 21, as seguintes mudanças no Sistema de Garantia do Projeto são
+  consideradas significativas:
+
+  a) Alteração do endereço das instalações do detentor do certificado no qual parte ou todo
+  o Sistema de Garantia do Projeto executa suas funções.
+
+  b) Mudanças na organização industrial (parcerias, fornecimento, divisão de trabalho de desenvolvimento)
+  a menos que possa ser demonstrado que a verificação de cumprimento com os requisitos não
+  foi afetada por tais mudanças.
+
+  c) Mudanças em partes da organização que afetam diretamente o cumprimento com os requisitos
+  aplicáveis.
+
+  d) Mudanças nas políticas ou princípios do monitoramento do sistema.
+
+  e) Mudanças nos cargos de gestão da organização (Responsável pela Organização de Projeto,
+  Responsável pelo Escritório de Aeronavegabilidade e Responsável pelo Monitoramento do Sistema).
+
+  f) Nova distribuição de responsabilidades afetando a demonstração do cumprimento com os
+  requisitos aplicáveis.
+
+  g) Alteração nos princípios ou políticas dos procedimentos relacionados com:
+
+  I - A certificação de tipo ou suplementar de tipo e suas emendas, conforme prerrogativas
+  estabelecidas nos parágrafos 21.263‐I(b)(2) e (b)(3) do RBAC nº 21 e detalhada nos item
+  5.5.4 e 5.5.5 desta IS;
+
+  II - A aprovação de dados técnicos para grande reparo ou grande alteração, conforme prerrogativas
+  estabelecidas nos parágrafos 21.263‐I(b)(5), (b)(6), (c)(5) e (c)(9) do RBAC nº 21 e detalhada
+  nos item 5.5.4, 5.5.6 e 5.5.7 desta IS;
+
+  III - A classificação de modificações ao projeto de tipo e aos OSD em grandes ou pequenas,
+  conforme prerrogativa estabelecida no parágrafo 21.263‐I(c)(1) do RBAC nº 21 e detalhada
+  nos itens 5.5.4.7(a), (b) e (c) desta IS;
+
+  IV - A aprovação de pequenas modificações ao projeto de tipo ou aos OSD, conforme prerrogativa
+  estabelecida no parágrafo 21.263-I(c)(2) do RBAC nº 21 e detalhada nos itens 5.5.4.7(d),
+  (e) e (f) desta IS;
+
+  V - A publicação de informações ou instruções técnicas cujo conteúdo foi gerado conforme
+  os procedimentos do Sistema de Garantia do Projeto do detentor do certificado de Organização
+  de Projeto, conforme prerrogativa estabelecida no parágrafo 21.263‐I(c)(3) do RBAC nº 21
+  e detalhada no item 5.5.4.7(g) desta IS;
+
+  VI - A aprovação de determinadas revisões ao manual de voo da aeronave e ao seu suplemento
+  e indicação desta aprovação sob a autoridade de detentor do certificado de Organização de
+  Projeto, conforme prerrogativa estabelecida no parágrafo 21.263‐I(c)(4) do RBAC nº 21 e
+  detalhada no item 5.5.4.7(h) desta IS;
+
+  VII - A emissão de documento de liberação autorizada para atestar a conformidade de protótipos
+  de motores de aeronaves, hélices e artigos, após determinar que estão conformes com os dados
+  aplicáveis, conforme prerrogativa estabelecida no parágrafo 21.263‐I(c)(8) do RBAC nº 21;
+
+  VIII - O controle de configuração no que tange o cumprimento com os requisitos aplicáveis;
+  e
+
+  IX - A especificação do modo como se assegura a aceitação de tarefas de projeto realizadas
+  por fornecedores em conformidade com os métodos estabelecidos, em cumprimento ao parágrafo
+  21.239‐I(c) do RBAC nº 21.
+
+  NOTA: Alterações nos princípios ou políticas dos procedimentos relacionados com aeronavegabilidade
+  continuada, relativas às prerrogativas da organização, devem também ser consideradas como
+  alterações significativas do sistema.
+
+  h) Redução substancial no número e/ou experiência da equipe relevante para o cumprimento
+  do parágrafo 21.245-I(a) do RBAC nº 21.
+
+  Termos da Certificação
+
+  Os Termos da Certificação fazem parte do certificado da Organização de Projeto. Nos Termos
+  da Certificação são apresentados o Escopo da Certificação e as Prerrogativas do detentor
+  do Certificado.
+
+  O Escopo da Certificação compreende o Escopo de Trabalho, a Lista de Produtos e as Limitações:
+
+  a) No Escopo de Trabalho são definidas as atividades de projeto (i.e. Certificação de Tipo,
+  Certificação Suplementar de Tipo, Grandes Modificações, Pequenas Modificações, Aprovação
+  de Dados Técnicos para Grande Reparo ou Grande Alteração e Documento de Liberação Autorizada)
+  aplicáveis a cada uma das categorias de produto (aviões categoria normal, aviões categoria
+  transporte regional, aeronave de asa rotativa categoria normal, aeronave de asa rotativa
+  categoria transporte, balões livres tripulados etc.) desenvolvidos pela Organização de Projeto.
+  Tecnologias podem ser mencionadas no escopo de trabalho associadas às atividades de projeto
+  aplicáveis aos produtos para os quais a organização não é detentora ou requerente do Certificado
+  de Tipo.
+
+  b) Na Lista de Produtos são listados os produtos para os quais a Organização de Projeto
+  é detentora ou requerente do Certificado de Tipo.
+
+  c) As Limitações apresentam quaisquer outras restrições que se fizerem necessárias para
+  melhor definir o Escopo de Certificação.
+
+  Na seção Prerrogativas são listados, em sua totalidade ou como um subconjunto, os itens
+  da seção 21.263-I do RBAC nº 21 decorrentes do Escopo da Certificação.
+
+  Conforme estabelecido na seção 21.253‐I do RBAC nº 21, após a certificação como Organização
+  de Projeto, as emendas aos Termos da Certificação devem ser aprovadas pela ANAC. Os pedidos
+  de emenda devem ser efetuados, por meio de uma solicitação à ANAC, demonstrando que a organização
+  está apta a obter a emenda ao certificado. Esta demonstração pode exigir envolvimento semelhante
+  ao da certificação inicial da Organização de Projeto e inclui uma alteração significativa
+  no Sistema de Garantia do Projeto.
+
+  Emendas aos Termos da Certificação podem ser emitidas pela ANAC para restringir o escopo
+  de trabalho da organização, como resultado de averiguações executadas, que identifiquem
+  deficiências ao atendimento da subparte J, conforme 21.257-I do RBAC nº 21.
+
+  Atendimento a Averiguações da ANAC
+
+  Conforme estabelecido na seção 21.257-I do RBAC nº 21, a ANAC poderá realizar averiguações,
+  seja na forma de auditorias previstas no parágrafo 21.257‐I(a), seja na forma de investigações
+  de projeto previstas no parágrafo 21.257‐I(b) nas instalações, produtos, componentes, peças,
+  equipamentos, procedimentos, operações, e registros associados à certificação emitida ou
+  requerida.
+
+  A organização deve estabelecer procedimentos que determinem como a organização irá atender
+  às averiguações da ANAC, incluindo as responsabilidades e as pessoas que irão acompanhar
+  tais averiguações e as ações consequentes das averiguações, que porventura surjam. No que
+  tange ao requisito previsto na seção 21.257-I do RBAC nº 21, a Organização de Projeto deve
+  estabelecer procedimentos que viabilizem as averiguações da ANAC na Organização de Projeto
+  de forma completa, incluindo seus fornecedores. Em relação ao parágrafo 21.257-I(b) do RBAC
+  nº 21, os procedimentos da Organização de Projeto deverão prever meios para que a ANAC verifique
+  a validade das declarações de cumprimento apresentadas. Essas averiguações poderão ocorrer
+  concomitantemente às atividades do Sistema de Garantia do Projeto ou posteriormente a estas.
+
+  NOTA: No caso de averiguações não programadas, é suficiente que a organização estabeleça
+  em procedimentos as responsabilidades e as pessoas que irão acompanhar tais averiguações.
+
+  Prerrogativas do detentor da COPj
+
+  A certificação como Organização de Projeto pode estabelecer as prerrogativas conforme seção
+  21.263-I do RBAC nº 21 com vistas à obtenção de:
+
+  a) Certificado de Tipo - CT ou emenda ao CT
+
+  b) Certificado Suplementar de Tipo - CST ou emenda ao CST
+
+  c) Aprovação de Dados Técnicos para Grande Reparo ou Grande Alteração
+
+  A Organização de Projeto, no exercício das suas prerrogativas, previamente estabelecidas,
+  deve envolver a Agência em um estágio bastante inicial. As averiguações estabelecidas no
+  parágrafo 21.257-I(b) do RBAC nº 21 podem ocorrer em diferentes estágios do desenvolvimento
+  do projeto e de formas variadas. Estas averiguações não precisam aguardar a apresentação
+  dos documentos de cumprimento com requisitos. A Organização de Projeto, no exercício das
+  suas prerrogativas, deve praticar procedimentos estabelecidos que viabilizem à ANAC analisar
+  quaisquer relatórios e realizar quaisquer inspeções, assim como, realizar ou testemunhar
+  quaisquer ensaios em voo e no solo considerados necessários, a fim de verificar a validade
+  das declarações de cumprimento com os requisitos apresentadas à ANAC processadas em seu
+  Sistema de Garantia do Projeto, requerido conforme o parágrafo 21.239-I(b) do RBAC nº 21.
+  Quando a averiguação ocorrer antes da apresentação dos documentos de cumprimento com requisitos,
+  os procedimentos que viabilizam as averiguações estabelecidas no parágrafo 21.257-I(b) do
+  RBAC nº 21 podem prever oportunidades de aquisição de informações, através do acompanhamento
+  de atividades como ensaios, inspeções; bem como a leitura de registros associados a tais
+  atividades; sempre com o intuito de apoiar a averiguação da ANAC.
+
+  A Organização de Projeto deve definir os procedimentos que viabilizam as averiguações estabelecidas
+  no parágrafo 21.257-I(b) do RBAC nº 21. Tais averiguações são baseadas nas instruções e
+  orientações sobre o Nível de Envolvimento da ANAC.
+
+  Certificado de Tipo - CT
+
+  O detentor de um certificado de Organização de Projeto pode submeter documentos de cumprimento
+  com os requisitos, os quais a ANAC aceitará sem verificações adicionais, sujeitos ao disposto
+  na seção 21.257-I do RBAC nº 21, com vistas à obtenção de um Certificado de Tipo, conforme
+  o parágrafo 21.263-I(b)(2) do mesmo regulamento. Para isso, deve demonstrar que estabeleceu
+  e cumpre com um Sistema de Garantia do Projeto, requerido pela seção 21.239-I do RBAC nº
+  21, e demais seções aplicáveis da Subparte J do mesmo regulamento, descritas nos item 5.2
+  e 5.4 desta IS, ou apresentar um meio ou procedimento alternativo às instruções dos itens
+  5.2 e 5.4, conforme item 3.2 desta IS.
+
+  Na fase final de um novo projeto (ou modificações ao projeto, quando aplicável), a organização
+  deve apresentar uma Declaração de Cumprimento com os Requisitos do Projeto contendo todos
+  os requisitos aplicáveis dos RBAC, conforme apresentado no item 5.2.4.4(b)(II). Este documento
+  subsidiará a emissão do CT (ou aprovação da modificação, quando aplicável).
+
+  O detentor de um certificado de Organização de Projeto, que seja detentor de CT, deve ter
+  um procedimento para requerer a aprovação de grandes modificações ao projeto de tipo sob
+  a prerrogativa estabelecida no parágrafo 21.263‐I(b)(2) do RBAC nº 21.
+
+  O procedimento para submissão de documentos de cumprimento com requisitos para aprovação
+  de grandes modificações ao projeto de tipo, conforme a seção 21.97 do RBAC nº 21 deve abordar,
+  ao menos, os seguintes pontos:
+
+  a) A produção da redemonstração de cumprimento associada à modificação, quando aplicável;
+
+  b) A descrição da modificação, incluindo a configuração baseline;
+
+  c) A Matriz de Cumprimento com os Requisitos de Certificação do Projeto (MCRP);
+
+  d) A Declaração de Cumprimento com os Requisitos do Projeto; e
+
+  e) A supervisão de modificações iniciadas por fornecedores quanto à sua adequação aos pontos
+  acima
+
+  Os procedimentos devem considerar, dentre os requisitos da base de certificação e de OSD,
+  os aplicáveis à modificação que requeiram nova demonstração ou não. Sendo que as novas demonstrações
+  devem ser submetidas a uma verificação independente. Caso uma modificação não apresente
+  requisitos aplicáveis, ou os requisitos aplicáveis não requeiram nova demonstração, a verificação
+  independente não é necessária; porém procedimentos específicos devem ser estabelecidos.
+
+  Modificações realizadas por fornecedores devem seguir os procedimentos e serem aprovadas
+  pela detentora da COPj.
+
+  Nesta categoria, incluem-se, também, as prerrogativas de:
+
+  a) Classificação de modificações ao CT em grandes ou pequenas, conforme a seção 21.93 e
+  o parágrafo 21.263-I(c)(1) do RBAC nº 21.
+
+  I - O procedimento para classificar as modificações ao projeto de tipo em grandes ou pequenas
+  deve abordar, ao menos, os seguintes pontos:
+
+  i. A identificação da modificação ao projeto de tipo a ser classificada;
+
+  ii. A classificação em conformidade com os critérios estabelecidos na seção 21.93 do RBAC
+  nº 21;
+
+  iii. A justificativa para a classificação;
+
+  iv. Os papéis dos responsáveis pela classificação; e
+
+  v. A supervisão de modificações iniciadas por fornecedores quanto à sua adequação aos pontos
+  acima.
+
+  II - O detentor de um certificado de Organização de Projeto, que seja detentor de CT, deve
+  ter um procedimento para classificar as modificações ao projeto de tipo em grandes ou pequenas
+  sob a prerrogativa estabelecida no parágrafo 21.263‐I(c)(1) do RBAC nº 21.
+
+  III - O procedimento de classificação da modificação deve mostrar como os efeitos para a
+  aeronavegabilidade são analisados.
+
+  IV - O procedimento deve registrar a decisão tomada pelo responsável por obter a classe
+  da modificação, dentre grande e pequena, incluindo referência a registros.
+
+  b) Classificação de modificações aos dados relevantes à operação em grandes ou pequenas,
+  conforme o parágrafo 21.263-I(c)(1) do RBAC nº 21, referente à FCD, ou dados relevantes
+  à operação para pilotos, conforme descrito nos parágrafos 21.61-I(a) e 21.107-I(c) do RBAC
+  nº 21.
+
+  I - O procedimento para classificar as modificações aos dados relevantes à operação em grandes
+  ou pequenas deve abordar, ao menos, os pontos elencados na seção 5.6.4.3 da IS 21.61-001,
+  revisão A, ou seção similar contida em versões mais atuais da IS referenciada.
+
+  i. Conforme descrito na seção referenciada acima, o procedimento deve estabelecer os registros
+  que devem ser gerados de cada uma das modificações classificadas. Todas as informações descritas
+  na seção acima devem fazer parte dos registros gerados para cada uma das modificações classificadas
+  pela Organização de Projeto certificada.
+
+  ii. O procedimento deve conter, também, as informações descritas nos itens 5.5.4.7(a)(I),
+  deixando clara a necessidade de verificação independente, pelo CVE, da classificação realizada,
+  quando descrevendo o item 5.5.4.7(a)(I)(iv).
+
+  II - Adicionalmente ao item 5.5.4.7(b)(I), a organização deve descrever, como parte do procedimento,
+  os critérios que usará para definir a classificação da modificação, mesmo que os critérios
+  sejam baseados na seção 5.6.3 da IS 21.61-001, revisão A, ou seção similar contida em versões
+  mais atuais da IS referenciada.
+
+  c) Classificação de modificações aos dados relevantes à operação em grandes ou pequenas,
+  conforme o parágrafo 21.263-I(c)(1) do RBAC nº 21, referente à MMEL, conforme descrito no
+  parágrafo nos parágrafos 21.61-I(e) e 21.107-I(c) do RBAC nº 21.
+
+  I - O procedimento para classificar as modificações aos dados relevantes à operação em grandes
+  ou pequenas deve abordar, ao menos, os seguintes pontos:
+
+  i. Os critérios para classificar a modificação, mesmo que os critérios sejam baseados na
+  seção 5.6 da IS 21.61-005, revisão A, ou seção similar contida em versões mais atuais da
+  IS referenciada.
+
+  ii. Os pontos listados na seção 5.5 da 21.61-005, revisão A, ou seção similar contida em
+  versões mais atuais da IS referenciada.
+
+  iii. As informações descritas nos itens 5.5.4.7(a)(I), deixando clara a necessidade de verificação
+  independente, pelo CVE, da classificação realizada, quando descrevendo o item 5.5.4.7(a)(I)(iv).
+
+  iv. Registros que devem ser gerados de cada uma das modificações classificadas. Todas as
+  informações descritas acima devem fazer parte dos registros gerados para cada uma das modificações
+  classificadas pela Organização de Projeto certificada.
+
+  d) Aprovação de modificações pequenas ao CT, conforme os parágrafos 21.95(b) e 21.263-I(c)(2)
+  do RBAC nº 21.
+
+  I - O procedimento para aprovar as pequenas modificações ao projeto de tipo deve abordar,
+  ao menos, os seguintes pontos:
+
+  i. A produção da redemonstração de cumprimento associada à modificação, quando aplicável;
+
+  ii. A aprovação da pequena modificação ao projeto de tipo;
+
+  iii. Os papéis responsáveis pela aprovação; e
+
+  iv. A supervisão de modificações iniciadas por fornecedores quanto à sua adequação aos pontos
+  acima.
+
+  II - O detentor de um certificado de Organização de Projeto, que seja detentor de CT, deve
+  ter um procedimento para aprovar as pequenas modificações ao projeto de tipo sob a prerrogativa
+  estabelecida no parágrafo 21.263‐I(c)(2) do RBAC nº 21.
+
+  III - Os procedimentos devem considerar, dentre os requisitos da base de certificação, os
+  aplicáveis à modificação que requeiram nova demonstração ou não. As novas demonstrações
+  devem ser submetidas a uma verificação independente. Caso uma modificação não apresente
+  requisitos aplicáveis, ou os requisitos aplicáveis não requeiram uma nova demonstração,
+  a verificação independente não é necessária; porém procedimentos específicos devem ser estabelecidos.
+
+  IV - O procedimento deve definir a aprovação da pequena modificação, bem como definir os
+  registros desta aprovação. Quando se tratar de modificação para qual existem requisitos
+  aplicáveis, este registro da aprovação deve incluir pelo menos:
+
+  i. Descrição da modificação, incluindo a configuração baseline;
+
+  ii. A Matriz de Cumprimento com os Requisitos de Certificação do Projeto (MCRP);
+
+  iii. Evidência de aprovação da pequena modificação ao projeto de tipo sob a prerrogativa
+  estabelecida no parágrafo 21.263‐I(c)(2) do RBAC nº 21 por meio de registro;
+
+  iv. Data da aprovação.
+
+  V - Modificação realizadas por fornecedores devem seguir os procedimentos e serem aprovadas
+  pela detentora da COPj.
+
+  e) Aprovação de modificações pequenas aos dados relevantes à operação, conforme o parágrafo
+  21.263-I(c)(2) do RBAC nº 21, referente à FCD, ou dados relevantes à operação para pilotos,
+  conforme descrito nos parágrafos 21.61-I(a) e 21.107-I(d) do RBAC nº 21.
+
+  I - O procedimento para aprovar as modificações pequenas aos dados relevantes à operação
+  deve abordar, ao menos, os pontos elencados na seção 5.6.4.3 da IS 21.61-001, revisão A,
+  ou seção similar contida em versões mais atuais da IS referenciada.
+
+  i. Conforme descrito na seção referenciada acima, o procedimento deve estabelecer os registros
+  que devem ser gerados de cada uma das modificações aprovadas. Todas as informações descritas
+  na seção acima devem fazer parte dos registros gerados para cada uma das modificações aprovadas
+  pela Organização de Projeto certificada.
+
+  ii. O procedimento deve conter, também, as informações descritas nos itens 5.5.4.7(d)(I),
+  deixando clara a necessidade de verificação independente, pelo CVE, como parte da aprovação
+  realizada, quando descrevendo o item 5.5.4.7(d)(I)(iii).
+
+  II - O procedimento deve incluir a forma como a organização cumpre com o parágrafo 21.61-I(f)
+  do RBAC nº 21.
+
+  f) Aprovação de modificações pequenas aos dados relevantes à operação, conforme o parágrafo
+  21.263-I(c)(2) do RBAC nº 21, referente à MMEL, conforme descrito nos parágrafos 21.61-I(e)
+  e 21.107-I(d) do RBAC nº 21.
+
+  I - O procedimento para aprovar as modificações pequenas aos dados relevantes à operação
+  deve abordar, ao menos, os seguintes pontos:
+
+  i. A justificativa técnica para cada item, conforme requerido pelo parágrafo 21.61-I(e)(2)
+  do RBAC nº 21, c/c o item 5.3.4 da IS 21.61-005, revisão A, ou seção similar contida em
+  versões mais atuais da IS referenciada.
+
+  ii. As informações descritas nos itens 5.5.4.7(d)(I), deixando clara a necessidade de verificação
+  independente, pelo CVE, como parte da aprovação realizada, quando descrevendo o item 5.5.4.7(d)(I)(iii).
+
+  II - O procedimento deve incluir a forma como a organização cumpre com o parágrafo 21.61-I(f)
+  do RBAC nº 21.
+
+  g) Publicação de informações ou instruções técnicas cujo conteúdo foi gerado conforme os
+  procedimentos do Sistema de Garantia do Projeto do detentor do certificado de Organização
+  de Projeto, conforme a prerrogativa estabelecida no parágrafo 21.263-I(c)(3) do RBAC nº
+  21.
+
+  I - Essas informações ou instruções são emitidas para disponibilizar aos proprietários e
+  operadores dados necessários para implementar uma modificação ao produto, um reparo ou uma
+  inspeção. Algumas informações são também emitidas para prover às organizações de manutenção
+  e outros interessados os dados para execução de manutenção.
+
+  NOTA: Algumas publicações podem conter a expressão "informações ou instruções técnicas cujo
+  conteúdo foi aprovado pela Organização de Projeto". Conforme o item 4.1, a aprovação, neste
+  caso, refere-se às ações internas da organização para garantir que os dados são corretos
+  e aplicáveis. Tais informações ou instruções técnicas podem, portanto, ser consideradas
+  aprovadas, quando aplicável. Ademais, entende-se que a expressão está relacionada a dados
+  pertinentes ao projeto do produto, não se referindo, portanto, a revisões tipográficas,
+  textuais ou outros tipos de informações (Ex. preço, planejamento, informações logísticas).
+
+  II - O procedimento para publicar informações ou instruções técnicas cujo conteúdo foi gerado
+  conforme os procedimentos do Sistema de Garantia do Projeto do detentor do certificado de
+  Organização de Projeto deve endereçar os seguintes pontos:
+
+  i. A preparação da publicação;
+
+  ii. A verificação da consistência técnica com o projeto aprovado (projeto de tipo, modificação
+  de projeto de tipo ou aos OSD ou dado técnico para grande reparo ou grande alteração), incluindo
+  efetividade de produtos, descrição e os efeitos na aeronavegabilidade (especialmente quando
+  limitações são mudadas);
+
+  iii. A verificação da viabilidade das instruções em levar o produto à conformidade com o
+  projeto aprovado;
+
+  iv. Os papéis responsáveis pela publicação, e;
+
+  v. A supervisão de modificações iniciadas por fornecedores quanto a sua adequação aos pontos
+  acima.
+
+  III - A Seção de Limitações de Aeronavegabilidade (Airworthiness Limitations Section - ALS),
+  os Certification Maintenance Requirements - CMR, as Instruções de Aeronavegabilidade Continuada
+  (Instructions for Continued Airworthiness - ICA) relativas à Electrical Wiring Interconnecion
+  System - EWIS e o Maintenance Review Board - MRB Report não estão contidos no escopo desta
+  prerrogativa e, portanto, continuarão sendo aprovados exclusivamente pela ANAC.
+
+  IV - Todavia, a prerrogativa em referência se aplica à publicação de procedimentos associados
+  a limitações de aeronavegabilidade. Alguns requisitos de aeronavegabilidade, por exemplo,
+  aqueles contidos nas seções 25.571 e 25.981 do RBAC 25, determinam que procedimentos relacionados
+  a certas limitações de aeronavegabilidade sejam incluídos na seção de limitações de aeronavegabilidade
+  aprovada pela ANAC. Entretanto, é tradicionalmente aceito que estes procedimentos sejam
+  publicados em outras seções, sem a necessidade da seção de limitações trazer o detalhamento
+  de tais procedimentos, estando assim condicionados a uma aprovação por referência pela ANAC.
+  Para esses casos, a prerrogativa permite que a Organização de Projeto publique tais procedimentos
+  após a aprovação pela ANAC da seção de limitações que os referencia, pois é considerado
+  que o conteúdo do procedimento detalhado relacionado a uma determinada limitação de aeronavegabilidade
+  foi aprovado sob a autoridade de detentor do Certificado de Organização de Projeto.
+
+  V - A prerrogativa em referência se aplica, também, à publicação de revisões isoladas ("stand-alone")
+  de ICA, em que seu conteúdo será avaliado e aceito pela organização certificada, conforme
+  os requisitos da subparte J.
+
+  VI - As ICA contidas no manual de reparo estrutural (Structural Repair Manual - SRM), ou
+  outra denominação semelhante, poderão ser emitidas pela Organização de Projeto, conforme
+  esta prerrogativa, desde que a prerrogativa de aprovação de dados técnicos para grande reparo
+  (parágrafo 21.263-I(c)(5) do RBAC nº 21) esteja contida nos Termos da Certificação da organização.
+
+  VII - A Organização de Projeto não poderá publicar informações ou instruções técnicas sob
+  esta prerrogativa se estas forem relacionadas a uma grande modificação ou referenciadas
+  por uma Diretriz de Aeronavegabilidade - DA.
+
+  VIII - As ICA que devem ser consideradas aceitáveis e não requerem uma aprovação da ANAC
+  não estão no escopo desta prerrogativa. Entretanto, este parágrafo está associado apenas
+  a alterações em ICA que estão dentro do escopo de uma aprovação de modificação ao projeto
+  de tipo. Alterações de ICA "stand-alone" serão publicadas conforme os processos associados
+  à prerrogativa em tela.
+
+  h) Aprovação de determinadas revisões ao manual de voo da aeronave e aos seus suplementos
+  e emissão dos documentos com as referidas revisões sob a autoridade da Certificação de Organização
+  de Projeto, de acordo com os procedimentos descritos ou referenciados no MOPj, conforme
+  o parágrafo 21.263-I(c)(4) do RBAC nº 21.
+
+  I - O procedimento para aprovar as revisões ao manual de voo da aeronave e ao seu suplemento
+  deve abordar, ao menos, os seguintes pontos:
+
+  i. A preparação das revisões ao manual de voo;
+
+  ii. A classificação, em conformidade com os critérios estabelecidos no item 5.5.4.7(h)(IV),
+  abaixo, e sua justificativa; e
+
+  iii. Os papéis responsáveis pela aprovação.
+
+  II - Os pontos listados acima devem conter registros verificáveis. Estes registros devem
+  estar acessíveis à ANAC para as averiguações previstas no parágrafo 21.257-I(a) do RBAC
+  nº 21.
+
+  III - Os procedimentos devem incluir as revisões ao AFM motivadas ou executadas por fornecedores
+  e sua aprovação.
+
+  IV - As seguintes modificações no manual de voo são permitidas por meio da prerrogativa
+  21.263-I(c)(4) do RBAC nº 21:
+
+  i. Revisões ao manual de voo associadas com modificações ao projeto de tipo que são classificadas
+  como pequenas modificações de acordo com a seção 21.93 do RBAC nº 21;
+
+  ii. Revisões ao manual de voo que não estejam associadas com modificações ao projeto de
+  tipo e que se enquadrem em algumas das seguintes categorias:
+
+  1. Modificações às limitações ou aos procedimentos que permaneçam dentro dos limites já
+  certificados (ex. pesos, dados estruturais, ruído, etc.);
+
+  2. Consolidação em um manual de voo de dois (ou mais) manuais previamente aprovados e compatíveis
+  entre si, ou a compilação de partes diferentes obtidas de manuais de voo previamente aprovados
+  e compatíveis entre si que são diretamente aplicáveis à aeronave em questão (customização);
+  e
+
+  3. A introdução de emendas, revisões, apêndices ou suplementos previamente aprovados e compatíveis
+  entre si em um determinado manual de voo; e
+
+  iii. Revisões administrativas ao manual de voo.
+
+  V - Não são permitidos, dentre outros, os seguintes exemplos de revisão ao manual de voo
+  da aeronave e ao seu suplemento: transformação do manual de papel para eletrônico, alteração
+  da estrutura das seções do manual, alteração de grande monta na forma de apresentar para
+  o piloto uma tabela ou gráfico de performance, ou outras alterações equivalentes.
+
+  VI - O detentor da COPj pode acordar critérios mais detalhados com a ANAC, conforme o escopo
+  da certificação da organização, para classificação das revisões ao manual de voo da aeronave
+  e ao seu suplemento e permissão de aprovação de tais revisões.
+
+  VII - O procedimento de classificação da revisão ao manual de voo, dentre as possibilidades
+  expressas acima, deve indicar como ela deve ser feita e a(s) função(ões) responsável(is)
+  por fazê-la. O registro da classificação inclui referência a registros técnicos usados para
+  suportar decisões que não sejam de entendimento direto. Estes registros devem estar acessíveis
+  à ANAC para as averiguações previstas no parágrafo 21.257-I(a) do RBAC nº 21.
+
+  VIII - As revisões ao manual de voo e ao seu suplemento aprovadas sob a prerrogativa estabelecida
+  no parágrafo 21.263-I(c)(4) do RBAC nº 21 devem ser emitidas com a declaração que indica
+  que o conteúdo da revisão foi aprovado pela Organização de Projeto.
+
+  i) Aprovação de dado técnico para grande reparo em produtos para os quais seja o detentor
+  do CT ou do CST, conforme o parágrafo 21.263-I(c)(5) do RBAC nº 21.
+
+  I - Como descrito na própria prerrogativa, organizações que não detém o CT ou CST não podem
+  requerer a certificação como Organização de Projeto e devem submeter os dados técnicos para
+  grande reparo conforme outras formas aceitas pela ANAC.
+
+  II - O procedimento para aprovar dados técnicos para grande reparo deve endereçar, ao menos,
+  os seguintes pontos:
+
+  i. A identificação e uma breve descrição do projeto de grande reparo e a identificação do
+  número de série elegível (ou elegíveis quando aplicável ao SRM);
+
+  ii. O registro dos requisitos associados, meios de cumprimento e documentos de cumprimento
+  submetidos à verificação independente;
+
+  iii. Os papéis responsáveis pela aprovação, e;
+
+  iv. A inclusão em comunicação técnica de uma declaração com afirmação de que os dados técnicos
+  para grande reparo ou danos admissíveis foi aprovado sob a autoridade de detentor do certificado
+  de Organização de Projeto.
+
+  III - Projeto de grande reparo temporário é considerado equivalente ao projeto de grande
+  reparo e como tal está contemplado na prerrogativa estabelecida no parágrafo 21.263-I(c)(5)
+  do RBAC nº 21.
+
+  IV - É esperado que a Organização de Projeto que detenha a prerrogativa do parágrafo 21.263-I(c)(5)
+  do RBAC nº 21 aprove os dados técnicos para grande reparo previamente à possível execução
+  de quaisquer averiguações pela ANAC descritas no parágrafo 21.257-I(b) do mesmo RBAC.
+
+  j) Emissão de Documento de Liberação Autorizada - DLA, conforme o parágrafo 21.263-I(c)(8)
+  do RBAC nº 21.
+
+  I - O detentor de um certificado de Organização de Projeto deve ter um procedimento para
+  emitir DLA para atestar a conformidade de protótipo de motores de aeronaves, hélices e artigos,
+  após determinar que estão conformes com dados aplicáveis. Esta emissão de DLA ocorre sob
+  a prerrogativa estabelecida no parágrafo 21.263-I(c)(8) do RBAC nº 21 e é semelhante à prerrogativa
+  de emissão de documento de liberação autorizada por meio do parágrafo 21.137(o) do mesmo
+  RBAC, quando referente a produção de produtos segundo projeto de tipo aprovado. Entretanto,
+  sabendo-se que a Organização de Projeto não desenvolve a maior parte de suas ações em projetos
+  de tipo aprovados, criou-se uma lacuna na emissão de tais documentos para projetos em certificação.
+  A prerrogativa estabelecida no parágrafo 21.263-I(c)(8) do RBAC nº 21, em tela, visa prover
+  segurança equivalente a existente na produção à circulação de peças protótipo.
+
+  II - O DLA pode substituir, em algumas aplicações, o Certificado de Liberação Autorizada
+  - CLA (SEGVOO 003) e é emitido para atestar a conformidade de protótipo em ensaios de certificação.
+
+  III - A organização que pretende utilizar tal prerrogativa deve estabelecer procedimentos
+  dentro do Sistema de Garantia do Projeto para permitir a emissão do DLA para artigos protótipo.
+
+  IV - É esperado que, caso a organização tenha uma certificação de produção emitida conforme
+  a subparte G do RBAC nº 21, os procedimentos e recursos (incluindo pessoal) para a emissão
+  do DLA para artigos protótipo serão derivados dos disponíveis para emissão do DLA para projeto
+  aprovado. Entretanto, a responsabilidade de emissão deste documento para artigos protótipo
+  pertence à organização certificada conforme a subparte J do RBAC nº 21.
+
+  V - Adicionalmente, é esperado que o detentor de uma certificação de Organização de Projeto
+  que contenha a prerrogativa em referência não mais utilize o profissional credenciado conforme
+  o RBAC nº 183 para a emissão do CLA para artigos protótipo, a menos que a prerrogativa tenha
+  alguma limitação e/ou restrição para determinada organização.
+
+  NOTA: Todos as tarefas descritas acima, partes da prerrogativa de CT, devem prever procedimentos
+  para organizações fornecedoras, caso tais organizações realizem qualquer atividade como
+  parte do Sistema de Garantia do Projeto.
+
+  Certificado Suplementar de Tipo - CST
+
+  O detentor de um certificado de Organização de Projeto pode submeter documentos de cumprimento
+  com os requisitos, os quais a ANAC aceitará sem verificações adicionais, sujeitos ao disposto
+  na seção 21.257-I do RBAC nº 21, com vistas à obtenção de um Certificado Suplementar de
+  Tipo, conforme o parágrafo 21.263-I(b)(3) do mesmo regulamento. Para isso, deve demonstrar
+  que estabeleceu e cumpre com um Sistema de Garantia do Projeto, requerido pela seção 21.239-I
+  do RBAC nº 21, e demais seções aplicáveis da Subparte J do mesmo regulamento, descritas
+  nos item 5.2 e 5.4 desta IS, ou apresentar um meio ou procedimento alternativo às instruções
+  dos itens 5.2 e 5.4, conforme item 3.2 desta IS.
+
+  Na fase final de um novo projeto (ou emenda ao projeto, quando aplicável), a organização
+  deve apresentar uma Declaração de Cumprimento com os Requisitos do Projeto contendo todos
+  os requisitos associados dos RBAC aplicáveis, nos moldes estabelecidos no item 5.2.4.4(b)(II).
+  Este documento subsidiará a emissão do CST (ou aprovação da modificação, quando aplicável).
+
+  O detentor de um certificado de Organização de Projeto, que seja detentor de CST, deve ter
+  um procedimento para requerer a aprovação de grandes modificações ao projeto de tipo ou
+  aos OSD sob a prerrogativa estabelecida no parágrafo 21.263‐I(b)(3) do RBAC nº 21.
+
+  As instruções contidas entre os itens 5.5.4.4 e 5.5.4.7, acima, aplicam-se à prerrogativa
+  relacionada com CST, quando devido.
+
+  Aprovação de Dados Técnicos para Grande Reparo
+
+  Aprovação pela ANAC de dados técnicos para grande reparo. Esta prerrogativa é utilizada
+  para permitir que a aprovação de dados técnicos de grande reparo seja realizada pela ANAC
+  levando em consideração a verificação de cumprimento com os requisitos aplicáveis já realizada
+  por meio do Sistema de Garantia do Projeto de uma Organização de Projeto, conforme estabelecido
+  no parágrafo 21.263-I(b)(5) do RBAC nº 21.
+
+  Para que a prerrogativa seja concedida, a organização deve demonstrar que estabeleceu e
+  cumpre com um Sistema de Garantia do Projeto, requerido pela seção 21.239-I do RBAC nº 21,
+  e demais seções aplicáveis da Subparte J do mesmo regulamento, descritas nos item 5.2 e
+  5.4 desta IS, ou apresentar um meio ou procedimento alternativo às instruções dos itens
+  5.2 e 5.4, conforme item 3.2 desta IS.
+
+  Aprovação de dados técnicos para grande reparo diretamente pela organização. Adicionalmente,
+  a Organização de Projeto pode aprovar diretamente os dados técnicos para determinados grandes
+  reparos, caso os Termos da Certificação contenham previsão expressa, conforme o parágrafo
+  21.263-I(c)(5) do RBAC nº 21. Igualmente ao previsto anteriormente, para que a prerrogativa
+  seja concedida, a organização deve demonstrar que desenvolveu e cumpre com um Sistema de
+  Garantia do Projeto.
+
+  A prerrogativa de aprovação de dados técnicos para grandes reparos conforme o parágrafo
+  21.263-I(c)(5) do RBAC nº 21 é exclusiva para detentores de Certificado de Tipo e Suplementar
+  de Tipo. Entretanto, a prerrogativa de submissão de documentos de cumprimento com os requisitos
+  para a aprovação de dados técnicos para grande reparo por meio do parágrafo 21.263-I(b)(5)
+  do mesmo regulamento não é exclusiva. Portanto, pode ser requerida por qualquer organização
+  interessada.
+
+  As instruções contidas no item 5.5.4.7(i) desta IS aplicam-se à prerrogativa aqui descrita,
+  quando devido.
+
+  A Organização de Projeto deve prover à ANAC uma listagem, com uma periodicidade adequada,
+  das aprovações de dados técnicos para grandes reparos realizadas.
+
+  Aprovação de Dados Técnicos para Grande Alteração
+
+  Aprovação pela ANAC de dados técnicos para grande alteração. Esta prerrogativa é utilizada
+  para permitir que a aprovação de dados técnicos de determinadas grandes alterações, conforme
+  listado na IS 21-004, seja realizada pela ANAC, levando em consideração a verificação de
+  cumprimento com os requisitos aplicáveis já realizada por meio do Sistema de Garantia do
+  Projeto de uma Organização de Projeto, conforme estabelecido no parágrafo 21.263-I(b)(6)
+  do RBAC nº 21.
+
+  Para que a prerrogativa seja concedida, a organização deve demonstrar que estabeleceu e
+  cumpre com um Sistema de Garantia do Projeto, requerido pela seção 21.239-I do RBAC nº 21,
+  e demais seções aplicáveis da Subparte J do mesmo regulamento, descritas nos item 5.2 e
+  5.4 desta IS, ou apresentar um meio ou procedimento alternativo às instruções dos itens
+  5.2 e 5.4, conforme item 3.2 desta IS.
+
+  Para que uma Organização de Projeto obtenha a prerrogativa 21.263-I(b)(6) do RBAC nº 21
+  deve demonstrar um histórico satisfatório na aprovação de grandes alterações ou grandes
+  modificações por meio de CST.
+
+  Aprovação de dados técnicos para grande alteração diretamente pela organização. Adicionalmente,
+  a Organização de Projeto pode aprovar diretamente os dados técnicos para determinadas grandes
+  alterações, conforme listado na IS 20-001, caso os Termos da Certificação contenham previsão
+  expressa, conforme o parágrafo 21.263-I(c)(9) do RBAC nº 21. Igualmente ao previsto anteriormente,
+  para que a prerrogativa seja concedida, a organização deve demonstrar que desenvolveu e
+  cumpre com um Sistema de Garantia do Projeto.
+
+  Para que a prerrogativa descrita no parágrafo 21.263-I(c)(9) do RBAC nº 21 seja concedida
+  a uma Organização de Projeto, é necessário que ela tenha recebido anteriormente a prerrogativa
+  do parágrafo 21.263-I(b)(6) ou 21.263-I(b)(3) do mesmo regulamento e que demonstre um histórico
+  satisfatório de aprovações de grandes alterações ou grandes modificações pela ANAC por meio
+  das prerrogativas previamente apresentadas.
+
+  A prerrogativa em referência pode exceder os limites estabelecidos na IS 20-001, caso a
+  Organização de Projeto demonstre um histórico satisfatório de aprovações prévias entre alterações
+  e modificações por meio de CST e os Termos da Certificação contemplem tal prerrogativa.
+
+  Tanto a prerrogativa de submissão de documentos de cumprimento com os requisitos para a
+  aprovação de dados técnicos para grande alteração por meio do parágrafo 21.263-I(b)(6) do
+  RBAC nº 21 quanto a prerrogativa de aprovação de dados técnicos para determinadas grandes
+  alterações conforme o parágrafo 21.263-I(c)(9) do mesmo regulamento não são exclusivas para
+  detentores de Certificado de Tipo e Suplementar de Tipo. Portanto, podem ser requeridas
+  por qualquer organização interessada apenas na aprovação de dados técnicos de grande alteração.
+
+  A Organização de Projeto deve prover à ANAC uma listagem, com uma periodicidade adequada,
+  das aprovações de dados técnicos para grandes alterações realizadas.
+
+  Processo de Certificação de uma Organização de Projeto
+
+  O processo de certificação de uma Organização de Projeto segue, de forma resumida, os passos
+  abaixo descritos:
+
+  a) Fase 1 - Solicitação Prévia.
+
+  b) Fase 2 - Solicitação Formal.
+
+  c) Fase 3 - Avaliação Documental.
+
+  d) Fase 4 - Auditorias. e
+
+  e) Fase 5 - Certificação.
+
+  O processo de certificação não permite a iniciação de uma fase sem que a anterior tenha
+  sido efetivamente concluída. Desta forma, a duração total do processo pode variar significativamente
+  de organização para organização, a depender da qualidade das comprovações apresentadas.
+  Caso seja interesse da ANAC, uma fase pode ser iniciada sem que a anterior tenha sido concluída,
+  desde que uma análise sobre todas as pendências tenha sido executada.
+
+  Solicitação Prévia (Fase 1)
+
+  Nessa fase a organização interessada entra em contato com a ANAC, informando a Agência do
+  interesse em obter uma certificação de Organização de Projeto, apresenta quais prerrogativas
+  pretende obter, escopo de trabalho, uma proposta de cronograma de certificação e as pessoas
+  que representam as funções estabelecidas nesta IS, com suas qualificações. Diversas questões
+  relativas ao funcionamento do Sistema de Garantia do Projeto são discutidas com o intuito
+  de que a ANAC possa assegurar-se que o sistema foi devidamente entendido pela organização.
+
+  Nesta fase um cronograma prévio para a obtenção da certificação deve ser discutido e acordado.
+  Alterações a este cronograma poderão surgir durante o processo de certificação.
+
+  Solicitação Formal (Fase 2)
+
+  Nesta fase todos os documentos requeridos pela seção 21.234-I do RBAC nº 21, e detalhados
+  por essa IS, devem ser disponibilizados à ANAC.
+
+  Avaliação Documental (Fase 3)
+
+  Neste momento todos os documentos apresentados são avaliados quanto a sua completude e atendimento
+  à seção 21.243-I do RBAC nº 21. Caso alguma informação esteja faltando, um relatório de
+  não conformidades é emitido, descrevendo prazos máximos que podem ser usufruídos pela instituição
+  para a resposta e solução da pendência.
+
+  Caso todos os requisitos estejam implementados nos procedimentos formais, a ANAC perceba
+  que a organização detém experiência suficiente para a certificação (por meio da análise
+  documental, apenas), entenda que a organização pode realizar a demonstração e a verificação
+  do cumprimento dos requisitos aplicáveis a cada projeto de tipo e a organização tenha tido
+  êxito em demonstrar tal capacidade à Agência, a fase de avaliação documental é concluída
+  com um comunicado à organização.
+
+  Nesse comunicado, as auditorias na organização são descritas e agendadas, frente ao escopo
+  de certificação estabelecido anteriormente.
+
+  Auditorias (Fase 4)
+
+  Nessa fase a ANAC avaliará a efetividade das políticas, métodos, procedimentos e instruções
+  aplicáveis conforme descrito no manual e demais documentos apresentados para a certificação.
+  Avaliará, também, a experiência das pessoas que representam o Sistema de Garantia do Projeto
+  (estabelecidas nesta IS) e o número e experiência do pessoal técnico da organização. Além
+  disso, avaliará a adesão dos procedimentos descritos aos praticados pela organização, ou
+  previstos para serem praticados.
+
+  NOTA: Durante a fase 4, a avaliação da adesão dos procedimentos praticados aos descritos
+  se valerá da análise amostral dos registros já produzidos pelos procedimentos em operação,
+  e/ou de entrevistas com as pessoas responsáveis pelas decisões em matéria de aeronavegabilidade,
+  de ruído, de drenagem de combustível e emissões de motores de aeronaves e emissões de CO2
+  de aviões, atuando nos procedimentos previstos para serem praticados.
+
+  Caso a organização já tenha desenvolvido alguns processos de aprovação de produto anteriormente
+  e/ou já tenha iniciado a implementação do Sistema de Garantia do Projeto proposto, tais
+  procedimentos e instruções descritos no manual são verificados frente aos procedimentos
+  reais executados pela instituição.
+
+  Todo o Sistema de Garantia do Projeto da organização deve ser verificado, limitado ao escopo
+  de certificação.
+
+  O processo de escolha dos CVE deve ser avaliado, incluindo uma amostragem significativa
+  de pessoas selecionadas para a função de CVE, com o intuito de auferir se o processo é capaz
+  de identificar pessoas com conhecimento nas tecnologias correspondentes e nos regulamentos
+  gerais de aeronavegabilidade.
+
+  Caso não conformidades sejam identificadas durante a auditoria, um relatório listando cada
+  um dos itens deve ser disponibilizado à organização.
+
+  Certificação (Fase 5)
+
+  Caso todas as pendências estabelecidas na auditoria sejam concluídas e aceitas pela ANAC,
+  um certificado é emitido indicando as prerrogativas e o escopo de certificação.
+
+  Programa de auditorias regulares e vigilância continuada para Organizações de Projeto
+
+  Auditorias
+
+  O objetivo da auditoria é verificar (i) a aderência dos processos da instituição aos descritos
+  no Manual da Organização de Projeto e à regulamentação, (ii) a efetividade do Sistema de
+  Garantia do Projeto da organização certificada e (iii) as decisões técnicas aplicáveis,
+  decorrentes da execução do processo. A auditoria é inerentemente amostral, ou seja, não
+  se espera que todos os artefatos produzidos, por todo processo, sejam verificados. Cabe
+  à organização garantir que todos os processos estabelecidos para a certificação como Organização
+  de Projeto sejam seguidos.
+
+  NOTA: Durante a execução das auditorias quando forem identificados problemas processuais
+  que possam afetar uma decisão técnica, é esperado que a equipe de auditoria realize verificações
+  adicionais para avaliar se o problema processual comprometeu o conteúdo técnico associado.
+  Não é objetivo das auditorias recertificar um projeto já aprovado.
+
+  Em geral, as auditorias recorrentes serão realizadas sobre os macroprocessos necessários
+  ao estabelecimento da COPj na organização, os processos desenvolvidos em cada uma das áreas
+  de conhecimento das organizações (tecnologias, conforme estabelecido no item 5.2.7.3(b)
+  desta IS) e, consequentemente, as análises amostrais destes processos. Espera-se que as
+  análises amostrais destes processos verifiquem o cumprimento dos procedimentos da organização.
+  Quando forem identificados problemas processuais que possam afetar a decisão técnica, aplica-se
+  o entendimento da nota do item 5.7.1.1. Como macroprocessos, entende-se qualquer processo
+  que possa afetar as tarefas de diferentes áreas (ou tecnologias) da organização.
+
+  Auditorias específicas que não contemplem todas as vertentes acima descritas ou que priorizem
+  determinadas áreas (ou tecnologias) da organização podem ocorrer, a critério da ANAC.
+
+  Após as auditorias previstas no parágrafo 21.257-I(a) do RBAC nº 21, caso sejam verificadas
+  constatações, serão descritas no Relatório de Não Conformidades - RNC. A organização deverá
+  apresentar um Plano de Ações Mitigatórias e Corretivas - PAMC; neste plano também serão
+  apresentadas as causas de cada uma das não conformidades levantadas, com ações mitigatórias
+  (imediatas) e corretivas (definitivas) nos prazos em conformidade com o item 5.7.1.7 desta
+  IS. A aprovação do PAMC pela ANAC significa apenas que a Agência reconhece o plano, está
+  ciente das datas apresentadas, e poderá cobrar a execução das ações estabelecidas nos prazos
+  apresentados. Todavia, a aprovação do PAMC não significa que a ANAC tenha qualquer responsabilidade
+  sobre as ações tomadas pela organização.
+
+  As ações estabelecidas pela organização devem ser suficientes para resolver as constatações
+  e prevenir a recorrência de eventos similares. Caso a ANAC entenda que as ações estabelecidas
+  no PAMC não são suficientes para tal, requererá alterações no plano, indicando as falhas
+  nas ações estabelecidas. As ações estabelecidas pela organização devem ser aplicadas tanto
+  a processos quanto a produtos, ou ambos, a depender do tipo da constatação.
+
+  Quando forem identificadas evidências objetivas que demonstrem o não cumprimento com os
+  requisitos aplicáveis do RBAC nº 21 por um detentor de uma COPj, as não conformidades serão
+  classificadas conforme segue:
+
+  a) Uma constatação nível 1 é a não‐conformidade com o RBAC nº 21, que pode levar ao não
+  cumprimento dos requisitos aplicáveis, de forma descontrolada, e que podem afetar a segurança
+  operacional da aeronave;
+
+  b) Uma constatação nível 2 é um não cumprimento com o RBAC nº 21, que não é classificada
+  como de nível 1.
+
+  c) Uma constatação nível 3 é qualquer item em que tenha sido identificado, por evidência
+  objetiva, potenciais problemas que possam levar a um não cumprimento com os requisitos aplicáveis
+  do RBAC nº 21.
+
+  Após o recebimento da notificação das constatações:
+
+  a) No caso de uma constatação de nível 1, o detentor da COPj deve demonstrar uma ação corretiva
+  que a Agência considere satisfatória no prazo adequado, tipicamente, de até 21 (vinte e
+  um) dias úteis após confirmação por escrito da constatação;
+
+  b) No caso de constatações nível 2, o período de ação corretiva concedido pela Agência deve
+  ser adequado à natureza da constatação, que tipicamente não deve ser superior a 3 (três)
+  meses;
+
+  c) As constatações nível 3 não requerem ação imediata do detentor da COPj.
+
+  NOTA 1: A suspensão ou revogação estabelecidas no parágrafo 21.258-I(b) do RBAC nº 21 aplica-se
+  às NC de nível 1 e 2.
+
+  NOTA 2: O prazo do encerramento das constatações não deve ser superior aos prazos definidos
+  acima, contudo, em determinadas circunstâncias, a Agência pode prorrogar o prazo a partir
+  de um plano de ação corretiva satisfatório.
+
+  NOTA 3: As constatações de nível 1 e 2 requerem providência nos prazos estabelecidos pela
+  ANAC. As de nível 3 podem requerer providências conforme prazos estabelecidos ou configurar
+  uma observação sem prazo definido, que não serão consideradas infrações ao regulamento.
+  ​​​​​​
+
+  NOTA 4: No exercício de suas funções a ANAC poderá aplicar providências administrativas​​​​,
+  incluindo as acautelatórias e sancionatórias, ​​​​​​conforme estabelecido na regulamentação
+  vigente.
+
+  Vigilância Continuada
+
+  Além das atividades de auditoria descritas no item 5.7.1 desta IS, fazem parte da vigilância
+  continuada todas as ações executadas para supervisão de uma Organização de Projeto, considerando
+  o Sistema de Garantia do Projeto. Tais ações podem ser realizadas pela ANAC a qualquer momento,
+  durante o desenvolvimento de um novo projeto ou não. Estas ações incluem, dentre outras,
+  a solicitação de dados do projeto de produtos, da demonstração e verificação pela organização
+  do cumprimento com os requisitos aplicáveis e da demonstração à ANAC deste cumprimento.
+
+  APÊNDICES
+
+  APÊNDICE A - Lista de reduções.
+
+  APÊNDICE B - Controle de Alterações
+
+  DISPOSIÇÕES FINAIS
+
+  Os casos eventualmente omissos serão dirimidos pela SAR/ANAC.
+
+  Esta IS entra em vigor na data de sua publicação.
+
+
+  APÊNDICE A - LISTA DE REDUÇÕES
+
+  A.1. SIGLAS
+
+  AAC - Autoridade de Aviação Civil
+
+  ACI - Aviso de Condição Irregular
+
+  AFM - Aircraft Flight Manual
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  ALS - Airworthiness Limitations Section
+
+  ATA - Air Transport Association
+
+  BS/SB - Boletim de Serviço/Service Bulletin
+
+  CLA - Certificado de Liberação Autorizada
+
+  CMR - Certification Maintenance Requirements
+
+  COPj - Certificação de Organização de Projeto
+
+  CST - Certificado Suplementar de Tipo
+
+  CT - Certificado de Tipo
+
+  CVE - Compliance Verification Expert
+
+  DA - Diretriz de Aeronavegabilidade
+
+  DLA - Documento de Liberação Autorizada
+
+  ELOS - Equivalent Level of Safety
+
+  EWIS - Electrical Wiring Interconnecion System
+
+  FCD - Dados Relevantes à Operação para Pilotos
+
+  ICA - Instructions for Continued Airworthiness
+
+  IS - Instrução Suplementar
+
+  MCOPj - Matriz de Cumprimento da Organização de Projeto
+
+  MCRP - Matriz de Cumprimento com os Requisitos de Certificação do Projeto
+
+  MMEL - Lista Mestra de Equipamentos Mínimos (Master Minimum Equipment List)
+
+  MOPj - Manual de Organização de Projeto
+
+  MRB - Maintenance Review Board
+
+  OSD - Dados Relevantes à Operação (Operational Suitability Data)
+
+  PAMC - Plano de Ações Mitigatórias e Corretivas
+
+  RBAC - Regulamento Brasileiro de Aviação Civil
+
+  RBHA - Regulamento Brasileiro de Homologação Aeronáutica
+
+  RNC - Relatório de Não Conformidades
+
+  SAR - Superintendência de Aeronavegabilidade
+
+  SC - Special Condition
+
+  SRCI - Solicitação de Reparação de Condição Irregular
+
+  SRM - Structural Repair Manual
+
+
+  APÊNDICE B - CONTROLE DE ALTERAÇÕES
+
+
+  ALTERAÇÕES REALIZADAS NA REVISÃO D
+
+  ITEM
+
+  ALTERAÇÃO REALIZADA
+
+  Diversos
+
+  Ajustes editoriais diversos, sem impacto no conteúdo.
+
+  1.1
+
+  Inclusão de referência aos OSD no escopo das prerrogativas da COPj.
+
+  Inclusão do texto completo de referente à sigla "RBAC", em razão da primeira utilização
+  no documento.
+
+  2.1
+
+  Atualização da letra da revisão da IS revogada.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- organizacao
+- cumprimento
+- requisitos
+- procedimentos
+- sistema
+- aprovacao
+- paragrafo
+- tipo
+- dados
+- secao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-231-001.md

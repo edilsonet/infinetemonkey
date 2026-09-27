@@ -1,0 +1,50 @@
+id: is-is-91-001-j3-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J3.4
+section_title: Para aeronaves que operam com dois pilotos, a tripulação técnica deverá realizar
+  uma verificação cruzada de modo a assegurar que os valores apresentados pelos altímetros
+  de ambos os pilotos não estejam em desacordo superior a ±100 pés, antes de alcançar o fixo
+  final de aproximação (FAF). Caso esta verificação falhe, o procedimento não poderá ser executado
+  ou, caso já esteja em curso, o mesmo deverá ser descontinuado.
+subsection_id: body
+cite: J3.4
+title: Para aeronaves que operam com dois pilotos, a tripulação técnica deverá realizar uma
+  verificação cruzada de modo a assegurar que os valores apresentados pelos altímetros de
+  ambos os pilotos não estejam em desacordo superior a ±100 pés, antes de alcançar o fixo
+  final de aproximação (FAF). Caso esta verificação falhe, o procedimento não poderá ser executado
+  ou, caso já esteja em curso, o mesmo deverá ser descontinuado.
+text: 'J3.4 Para aeronaves que operam com dois pilotos, a tripulação técnica deverá realizar
+  uma verificação cruzada de modo a assegurar que os valores apresentados pelos altímetros
+  de ambos os pilotos não estejam em desacordo superior a ±100 pés, antes de alcançar o fixo
+  final de aproximação (FAF). Caso esta verificação falhe, o procedimento não poderá ser executado
+  ou, caso já esteja em curso, o mesmo deverá ser descontinuado.
+
+  Nota: caso a aeronave seja equipada com um sistema que realize a verificação automática
+  dos altímetros e gere um alerta à tripulação em caso de divergências entre os valores apresentados,
+  procedimentos operacionais devem ser elaborados de modo a levar em conta o automatismo da
+  aeronave e assegurar que serão adotadas ações análogas àquelas estabelecidas para o caso
+  em que é realizada a verificação convencional.
+
+  J4. Limitações de temperatura e procedimentos de correção'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- caso
+- verificacao
+- devera
+- pilotos
+- altimetros
+- apresentados
+- assegurar
+- modo
+- tripulacao
+- valores
+- aeronaves
+- alcancar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

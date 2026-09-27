@@ -1,0 +1,45 @@
+id: is-is-135-21-001b-5-2-6-a
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.6
+section_title: Manutenção das aeronaves
+subsection_id: a
+cite: 5.2.6(a)
+title: 5.2.6(a)
+text: 'a) Manutenção contratada
+
+  I- O parágrafo 135.437(a) do RBAC nº 135 estabelece que o detentor do certificado pode contratar
+  terceiros para realizar manutenção, manutenção preventiva e modificações nas aeronaves de
+  sua frota, desde que tais atividades estejam em conformidade com seu MGM. Para isso, o MGM
+  deve conter políticas, procedimentos, métodos e instruções para a execução das manutenções
+  realizadas pelo provedor de manutenção contratado. Essas diretrizes devem assegurar que
+  os serviços sejam executados conforme o MGM do titular do certificado.
+
+  II- O MGM deve estabelecer procedimentos adequados de acompanhamento ou supervisão da manutenção
+  contratada para as aeronaves, incluindo, no mínimo, a inspeção de recebimento do produto
+  quanto ao bom estado do produto, e a apropriada documentação técnica.
+
+  III- Caso aplicável, o MGM deve assegurar que o piloto em comando somente poderá contratar
+  empresas não listadas no MGM para a execução de manutenção em caráter emergencial, e se
+  tais empresas forem certificadas pela Anac.'
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- aeronaves
+- assegurar
+- certificado
+- contratada
+- contratar
+- empresas
+- execucao
+- procedimentos
+- produto
+- tais
+- acompanhamento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

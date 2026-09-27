@@ -1,0 +1,38 @@
+id: is-is-175-009-5-3-17-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.17
+section_title: O campo “Número UN ou ID” deve ser preenchido com o número das Organizações
+  das
+subsection_id: body
+cite: 5.3.17
+title: O campo “Número UN ou ID” deve ser preenchido com o número das Organizações das
+text: '5.3.17 O campo “Número UN ou ID” deve ser preenchido com o número das Organizações
+  das
+
+  Nações Unidas - UN - ou o número de identificação provisório - ID - de quatro dígitos.
+
+  Não é permitido usar os textos “UN” ou “ID” além dos quatro dígitos que designam o
+
+  artigo perigoso.'
+keywords:
+- artigos-perigosos
+- carga
+- numero
+- campo
+- organizacoes
+- preenchido
+- digitos
+- quatro
+- alem
+- artigo
+- designam
+- identificacao
+- nacoes
+- perigoso
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

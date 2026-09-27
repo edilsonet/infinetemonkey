@@ -1,0 +1,38 @@
+id: is-is-121-012-5-4-5-a
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.4.5
+section_title: 'O detentor de certificado deve informar, em sua solicitação formal:'
+subsection_id: a
+cite: 5.4.5(a)
+title: 5.4.5(a)
+text: 'a) o tempo de desvio máximo solicitado;
+
+
+  Nota: embora o Apêndice P do RBAC nº 121 mencione aprovação “ETOPS 75 minutos”, na realidade
+  não é requerida qualquer aprovação ETOPS para voar até 75 minutos de um aeródromo adequado,
+  considerando velocidade de cruzeiro com um motor inoperante sob atmosfera padrão e ar calmo,
+  pois, conforme RBAC 121.161, a aprovação ETOPS apenas é requerida a partir de 75 minutos.
+  Portanto, não se incluem nesta IS as orientações para obtenção de aprovação de operações
+  ETOPS 75 minutos.'
+keywords:
+- transporte-aereo
+- operacoes
+- aprovacao
+- etops
+- minutos
+- requerida
+- adequado
+- aerodromo
+- apendice
+- atmosfera
+- calmo
+- certificado
+- considerando
+- cruzeiro
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

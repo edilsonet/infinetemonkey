@@ -1,0 +1,673 @@
+id: is-is-91-409-002-10-09-2025-body
+kind: is
+document: is-91-409-002
+family: '91'
+section_id: 10.09.2025
+section_title: 10.09.2025
+subsection_id: body
+cite: 10.09.2025
+title: 10.09.2025
+text: '10.09.2025
+
+  Objetivo
+
+  1.1 Esta Instrução Suplementar provê aos operadores de aeronaves e pessoal de manutenção
+  orientações acerca da prevenção de ocorrências aeronáuticas por falha de motor em voo e
+  falha relacionada a combustível, e estabelece os procedimentos para a implementação de um
+  programa de monitoramento de tendências de motores convencionais (motores a pistão), ampliando
+  assim a confiabilidade e vida útil desses motores.
+
+  NOTA: Os procedimentos de manutenção podem variar de acordo com o manual da aeronave, motor
+  e componentes. Portanto, os manuais e publicações técnicas emitidas pelos fabricantes e
+  Diretrizes de Aeronavegabilidade emitidas pelas autoridades de aviação civil, aplicáveis
+  aos produtos aeronáuticos, devem sempre ser as fontes primárias para a execução dos procedimentos
+  de manutenção. O disposto nesta Instrução Suplementar são recomendações e orientações gerais
+  de boas práticas.
+
+
+  Revogação
+
+  2.1 Não aplicável.
+
+
+  Fundamentos
+
+  3.1 O art. 87 da Lei nº 7.565/86 (Código Brasileiro de Aeronáutica - CBAer) estabelece que
+  a prevenção de acidentes aeronáuticos é de responsabilidade de todas as pessoas, naturais
+  ou jurídicas, envolvidas com a fabricação, manutenção e operação de aeronaves.
+
+  3.2 Já o art. 70, parágrafo 2º dessa mesma Lei estabelece que todo explorador ou operador
+  de aeronave deve executar ou fazer executar a manutenção de aeronaves, motores, hélices
+  e demais componentes, a fim de preservar as condições de segurança do projeto aprovado.
+
+  3.3 Conforme art. 14 da Resolução nº 30/2008, o administrado que pretenda, para qualquer
+  finalidade, demonstrar o cumprimento de requisito previsto em RBAC, poderá:
+
+  a) adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse
+  caso, a análise e concordância expressa do órgão competente da ANAC.
+
+  3.4 O meio ou procedimento alternativo mencionado no item anterior deve garantir nível de
+  segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar o objetivo
+  do procedimento normalizado em IS.
+
+  3.5 A IS não pode criar requisitos ou contrariar requisitos estabelecidos em RBAC ou outro
+  ato normativo.
+
+
+  Fundamentos
+
+  4.1 Para os propósitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes
+  definições:
+
+  4.2 Aeronavegável: para aeronave que possui projeto de tipo aprovado, é a condição na qual
+  ela se encontra de acordo com o projeto de tipo aplicável e em condições de operação segura.
+  Para aeronave que não possui projeto de tipo aprovado, considera-se que está em condição
+  aeronavegável quando se encontrar em condição segura para operação aérea.
+
+  4.3 Inspeção: inspeções geralmente são exames visuais e/ou verificações manuais para determinar
+  a condição de uma aeronave, produto ou artigo. As inspeções podem variar de inspeções visuais
+  gerais a inspeções detalhadas envolvendo auxílios de inspeção, como espelhos ou lentes de
+  aumento, até inspeções detalhadas especiais que podem exigir a desmontagem completa e/ou
+  o uso de técnicas e/ou equipamentos especializados, como raios X, ultrassom, eddy current
+  ou particulas magnéticas.
+
+  4.4 Limitações de aeronavegabilidade: são tarefas de manutenção que afetam o nível mínimo
+  de segurança do produto aeronáutico. Incluem tarefas que visam detectar falhas latentes
+  que, em conjunto com uma ou mais falhas específicas adicionais, podem resultar em uma situação
+  perigosa ou catastrófica. São definidas pelo fabricante durante a certificação de tipo ou
+  suplementar de tipo, aprovadas pela autoridade de aviação civil e identificadas como tal
+  no Manual de Manutenção ou nas Instruções para Aeronavegabilidade Continuada, tornando-se
+  de cumprimento obrigatório pelo RBAC 91.403(c). As limitações de aeronavegabilidade envolvem
+  prazos ou intervalos máximos de utilização em termos de horas e/ou ciclos, ou outro valor
+  mensurável.
+
+  4.5 Manutenção: significa qualquer atividade de inspeção, revisão, reparo, limpeza, conservação
+  ou substituição de partes de uma aeronave e seus componentes, mas exclui a manutenção preventiva.
+
+  4.6 Manutenção preventiva: significa uma operação de preservação simples ou de pequena monta,
+  assim como a substituição de pequenas partes padronizadas que não envolva operações complexas
+  de montagem e desmontagem.
+
+  4.7 Monitoramento de tendências de motor: é um sistema de coleta de dados no qual periodicamente
+  um número selecionado de indicações e parâmetros do motor são registrados e analisados,
+  permitindo assim a tomada de decisões em relação à aeronavegabilidade e continuidade das
+  operações do motor.
+
+  4.8 Programa de inspeção: é uma parte do Plano de Manutenção Recomendado pelo Fabricante
+  (PMRF) e refere-se a uma lista de inspeções programadas e com intervalos associados, cujo
+  objetivo principal é determinar a condição da aeronave e seus componentes (fuselagem, motores,
+  hélices, rotores, acessórios e equipamentos diversos). Incluem-se, nesse contexto, itens
+  da ficha de inspeção, inspeções especiais, exames visuais, dimensionais e não destrutivos
+  e atividades de manutenção associadas compreendendo, mas não se limitando a: desmontagem,
+  montagem, limpeza, lubrificação, conservação, abastecimento, regulagens e substituição de
+  partes.
+
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Motores convencionais de quatro, seis e oito cilindros são normalmente instalados em
+  pequenas aeronaves mono e multimotoras, certificadas segundo o FAR/RBAC nº 23, em virtude
+  de sua alta confiabilidade. O tempo recomendado entre revisão geral (TBO) para esses motores
+  varia entre 1400 e 2000 horas e/ou 12 anos. A IS nº 91.409-001 estabelece as situações em
+  que o TBO recomendado pelo fabricante é considerado obrigatório para aeronaves operando
+  segundos as regras do RBAC nº 91.
+
+  5.2 Apesar das melhorias ao longo dos anos no projeto e desempenho dos motores convencionais,
+  os relatórios finais de ocorrências, emitidos pelo órgão investigador brasileiro, revelam
+  que as causas gerais de falhas de motores a pistão, que culminam na perda de potência em
+  voo, permanecem as mesmas desde a certificação desses produtos.
+
+  5.3 De acordo com o Relatório Anual de Segurança Operacional - RASO 2022 (disponível no
+  link), do total de ocorrências aeronáuticas registradas entre os anos de 2018 e 2022, os
+  eventos de Falha do Motor em Voo (SCF-PP) aparecem relacionados a 24% das ocorrências, sendo
+  o principal tipo de ocorrência no período.
+
+  5.4 Esta IS aborda os principais fatores contribuintes que podem levar à falha do motor
+  em voo e traz orientações importantes aos pilotos, operadores e pessoal de manutenção, contribuindo,
+  de forma efetiva, para a redução do número de acidentes e incidentes aeronáuticos no país.
+  A IS está dividida em duas seções principais: a primeira seção trata das principais causas
+  que levam à falha do motor em voo e ações a serem adotadas para prevenir ou reduzir esse
+  tipo de ocorrência; e a segunda seção apresenta as orientações e procedimentos para implementação
+  de um programa de monitoramento de tendências para motor convencional.
+
+  5.5 Esta IS é um dos muitos esforços da ANAC no sentido de eliminar ou reduzir as ocorrências
+  aeronáuticas relacionadas à falha de motor em voo. Com esse instrumento, somado aos esforços
+  individuais e coletivos da comunidade aeronáutica, espera-se eliminar ou diminuir drasticamente
+  os fatores contribuintes relacionados a esse tipo de ocorrência, os quais podem levar a
+  uma situação perigosa ou catastrófica, com perdas materiais e vidas.
+
+
+  PRINCIPAIS CAUSAS DE FALHA DO MOTOR EM VOO
+
+  6.1 Falta de treinamento
+
+  6.1.1 O uso inadequado dos sistemas de controle e de alimentação do motor continua sendo
+  uma das principais causas de falhas do motor em voo que resultam em acidentes ou incidentes
+  graves.
+
+  6.1.2 A maior parte dessas falhas é resultante de um planejamento de voo e/ou inspeção pré-voo
+  deficiente ou procedimentos inadequados de gerenciamento de combustível, como: fuel starvation
+  (combustível nos tanques, mas que não é fornecido ao(s) motor(es)); e fuel exhaustion (ausência
+  de combustível nos tanques).
+
+  6.1.3 Pilotos e operadores devem sempre rever os procedimentos relacionados ao sistema de
+  combustível e operação do motor ou motores da aeronave para garantir que:
+
+  a) a tripulação esteja completamente familiarizada com os procedimentos dos manuais de operação
+  da aeronave e do motor, especialmente os capítulos sobre gerenciamento de combustível, ajustes
+  do motor, uso do sistema de aquecimento do carburador, bem como os sistemas da aeronave,
+  seus controles e localização;
+
+  b) que a tripulação siga todas as instruções de operação do fabricante, placares e outras
+  limitações operacionais de modo a evitar sobreaquecimento, sobrealimentação e sobrevelocidade;
+
+  c) seja enfatizado o uso do checklist da aeronave durante as operações normais e de emergência;
+  e
+
+  d) o treinamento recorrente seja um processo contínuo. Pilotos e mecânicos devem estar sempre
+  atualizados quanto às informações técnicas relacionadas ao uso de combustível, óleo, peças
+  de reposição, programa de manutenção, diretrizes de aeronavegabilidade e demais procedimentos
+  e instruções do fabricante.
+
+  6.2 Inspeção pré-voo deficiente
+
+  6.2.1 Diversos acidentes e incidentes graves com perda de potência do motor em voo poderiam
+  ter sido evitados se a operação tivesse sido precedida por um rigoroso planejamento de voo
+  e uma boa inspeção pré-voo. Os registros de ocorrências em todo o mundo mostram um número
+  considerável de acidentes/incidentes causados por falta de combustível. Para um bom planejamento
+  de voo, piloto e operador devem sempre considerar o seguinte:
+
+  a) a tripulação deve ter conhecimento acerca do total de combustível utilizável previsto
+  no projeto da aeronave. O combustível não utilizável (combustível no tanque, mas que devido
+  ao projeto, não pode ser utilizado pelo motor) não pode ser considerado como combustível
+  utilizável quando do planejamento do voo;
+
+  b) cada dreno de tanque deve ser verificado quanto a correta operação. Sempre verifique
+  a amostra de combustível drenada quanto a presença de água, detritos, coloração e contaminantes;
+
+  c) os suspiros dos tanques devem ser checados quanto a abertura e segurança. Não é incomum
+  o entupimento dessas linhas de ventilação por insetos. Em tanques não pressurizados, a tampa
+  de combustível tem uma pequena abertura embutida, certifique-se de que esta abertura não
+  esteja obstruída por sujeira ou cera de polimento; e
+
+  d) assegure-se quanto ao correto funcionamento da válvula seletora de combustível. Vários
+  acidentes e incidentes graves com perda de motor em voo foram causados por incapacidade
+  de o piloto mover a alavanca seletora do tanque vazio para o tanque cheio ou falha de travamento
+  da seletora na posição correta. Esses problemas mecânicos geralmente são causados por válvula
+  seletora desgastada ou inoperante.
+
+  6.2.2 Caso não exista procedimento específico para detectar falhas na seletora de combustível,
+  aprovado no manual do fabricante, durante o táxi acione a válvula seletora trocando os tanques,
+  e garanta que haja fluxo de combustível de cada tanque selecionado para o(s) motor(es).
+  Lembre-se de dar tempo suficiente (3 a 4 minutos) para cada verificação, pois as linhas
+  do carburador ou injetor de combustível retêm o combustível do tanque selecionado anteriormente,
+  e não esqueça de monitorar a pressão da bomba de combustível durante o teste.
+
+  6.2.3 Durante as inspeções de 100h ou conforme estipulado pelo fabricante, verifique a função
+  de corte de combustível da válvula seletora ou shut off, de modo a assegurar o completo
+  corte de combustível para o motor. Lembre-se de que levará alguns minutos em baixa rotação
+  para o motor drenar o combustível das linhas e carburador ou injetor e fazer com que o motor
+  apague.
+
+  6.2.4 Essa verificação é muito importante porque, em caso de incêndio no motor, a válvula
+  de corte de combustível interromperá o fluxo de combustível no lado da cabine antes da parede
+  de fogo, evitando efetivamente que um incêndio no motor seja alimentado pelos tanques de
+  combustível da aeronave. Se houver suspeita de uma seletora de combustível desgastada ou
+  inoperante, procure imediatamente a manutenção para os devidos reparos ou substituição,
+  conforme necessário, e não voe a aeronave até que problema seja completamente solucionado.
+
+  6.3 Contaminação do combustível
+
+  6.3.1 Existem dois tipos básicos de contaminação do combustível: sólido e água. Contaminantes
+  sólidos como areia, ferrugem e outros detritos podem ser identificados por meio de inspeções
+  do fundo dos tanques vazios com uma lanterna e por meio de inspeções dos filtros de combustível
+  de linha e dos injetores quanto à presença de partículas sólidas. Se a contaminação por
+  partículas sólidas continua ocorrendo com certa frequência, o fornecedor de combustível
+  deve ser contatado pois pode ser a origem do problema.
+
+  6.3.2 A contaminação por água ainda representa boa parte dos acidentes e incidentes relacionados
+  com o combustível. A água entra no sistema de combustível da aeronave basicamente de três
+  maneiras:
+
+  a) a primeira é a condensação (processo no qual a umidade presente no ar quente se transforma
+  em água líquida). Quando ocorre uma diferença de temperatura entre as paredes do tanque
+  de combustível e o ar no tanque, gotículas de água se formarão na parte superior interna
+  das paredes do tanque de combustível e serão drenadas para o combustível. Os efeitos da
+  condensação podem ser reduzidos mantendo os tanques de combustível cheios enquanto a aeronave
+  estiver estacionada;
+
+  b) a segunda maneira pela qual a água chega aos tanques de combustível é através do próprio
+  bocal de abastecimento. A entrada de água da chuva no sistema de combustível pode ocorrer
+  caso as vedações das tampas de abastecimento dos tanques estejam danificadas. As tampas
+  dos tanques de combustível devem ser verificadas quanto à correta vedação durante as inspeções
+  de rotina da aeronave e inspeção pré-voo; e
+
+  c) a terceira maneira pela qual a água chega ao sistema de combustível é quando do reabastecimento.
+  A falta de alguns cuidados básicos na hora do reabastecimento, como abastecimento sob chuva,
+  manutenção inadequada do caminhão tanque, filtros e separadores de água são algumas das
+  principais causas de contaminação do combustível com água.
+
+  6.3.3 Para prevenir a contaminação do combustível durante o abastecimento, o operador deve
+  assegurar-se que o pessoal responsável pelo abastecimento tenha recebido o treinamento adequado
+  e que todos os equipamentos do sistema de abastecimento como tanques, bombas, filtros etc.
+  estejam limpos e sejam verificados periodicamente. Testes de contaminação do combustível
+  devem sempre ser solicitados pelo piloto antes do abastecimento quando houver dúvidas acerca
+  da qualidade do combustível.
+
+  6.4 Abastecimento incorreto
+
+  6.4.1 Isso ocorre, por exemplo, quando combustível de motor à turbina (Querosene Jet-A1
+  ou QAV) é colocado no lugar da gasolina de aviação (AVGAS). Quando o querosene contamina
+  o sistema de combustível de uma aeronave com motor a pistão, o impacto geral não é imediatamente
+  aparente.
+
+  6.4.2 Dependendo da quantidade de querosene inserido no tanque de combustível da aeronave,
+  mesmo uma inspeção minuciosa de uma amostra de combustível nem sempre pode indicar que ocorreu
+  um abastecimento incorreto.
+
+  6.4.3 Durante a partida e táxi o funcionamento do motor pode parecer normal porque a AVGAS,
+  que ainda está na linha do sistema de combustível e filtros, do último voo, não está contaminada
+  e geralmente leva alguns minutos para que esse combustível impróprio, no tanque selecionado,
+  chegue ao motor em regime de baixa potência. É por isso que acidentes causados por abastecimento
+  incorreto normalmente ocorrem em regime de alta potência, geralmente durante ou logo após
+  a decolagem.
+
+  6.4.4 Motores convencionais operando com combustível impróprio (como o querosene) em regime
+  de alta potência sofrem detonações, perda rápida de potência e altas temperaturas da cabeça
+  de cilindro, seguidas rapidamente de falha completa do motor.
+
+  6.4.5 Mudar para outro tanque de combustível não contaminado o mais rapidamente possível,
+  logo após o início da detonação do motor, pode aliviar alguns dos principais sintomas e
+  o motor pode desenvolver potência suficiente para que o piloto consiga realizar o pouso
+  com segurança.
+
+  6.4.6 Danos internos ao motor que ocorrem nos primeiros 10 a 15 segundos, durante a detonação,
+  geralmente são graves o suficiente para exigir a desmontagem, inspeção e até mesmo a revisão
+  geral do motor. Em todos os casos, siga as instruções e orientações do fabricante do motor
+  se este tiver sido operado com combustível não previsto.
+
+  6.4.7 Um possível abastecimento incorreto pode ser evitado se o piloto supervisionar pessoalmente
+  a operação de reabastecimento de sua aeronave. O piloto deve verificar cuidadosamente o
+  recibo de abastecimento para confirmar a quantidade e tipo de combustível adicionado. Deve
+  verificar também o combustível antes e depois do reabastecimento quanto à claridade, cor
+  e presença de água. O piloto e operador devem assegurar que haja próximo aos bocais de abastecimento
+  de combustível placares previstos informando o tipo e octanagem do combustível a ser utilizado,
+  bem como a capacidade de cada tanque.
+
+  6.4.8 Sugere-se também que os operadores de aeronaves com motores a pistão turboalimentados
+  removam os decalques da fuselagem e capô que fazem referência às palavras “Turbo ou Turbo-Charged”.
+  Esse tipo de decalque pode passar uma impressão equivocada ao pessoal de abastecimento menos
+  experiente, levando a acreditar se tratar de um motor à turbina.
+
+  6.5 Tanque de combustível - célula de borracha
+
+  6.5.1 As células de combustível ou bladder tanks são feitas de um material pesado e emborrachado,
+  instaladas no interior da asa em cavidades projetadas para suportar esse tipo de tanque
+  e presas à parte superior da asa por clipes ou botões de pressão.
+
+  6.5.2 Com o tempo, esses encaixes ou clipes podem falhar e o tanque de combustível colapsar
+  sobre si mesmo. Quando isso ocorre e o tanque fica parcialmente recolhido, limita a quantidade
+  de combustível no tanque, interfere na ventilação/suprimento, altera a indicação da quantidade
+  de combustível e, consequentemente, pode culminar em falha na alimentação do motor.
+
+  6.5.3 Os mecânicos devem inspecionar todas as células de combustível quanto ao estado geral
+  e instalação adequada, conforme o programa de inspeção do fabricante, ou sempre que houver
+  suspeita de falha nos clipes/encaixes da célula de combustível.
+
+  6.6 TBO excedido sem monitoramento
+
+  6.6.1 Outra fonte potencial de falha do motor em voo é a operação deste além do tempo entre
+  revisão geral (TBO) recomendado pelo fabricante, sem que as adequadas inspeções e monitoramento
+  das condições do motor sejam realizados. O Time Between Overhaul (TBO) é calculado pelo
+  fabricante do motor e é uma estimativa segura do número de horas em que o motor pode funcionar
+  de forma confiável dentro dos parâmetros estabelecidos sem que exceda os limites de desgastes
+  de serviço para revisão geral dos principais componentes como: eixo de manivelas, comando
+  de válvulas, cilindros, bielas, válvulas e pistões.
+
+  6.6.2 O funcionamento de um motor a pistão além do TBO recomendado pelo fabricante pode
+  acelerar o desgaste geral desse motor em virtude de maiores folgas nos mancais, perda de
+  materiais de proteção como cementação das engrenagens ou nitretação das paredes do cilindro,
+  moentes e munhões do eixo de manivelas e vibração causada por peças móveis e rotativas do
+  motor que se desgastaram de forma desigual ficando desbalanceadas.
+
+  6.6.3 Os tempos (intervalos) recomendados entre as revisões gerais (TBO) são geralmente
+  identificados em Boletim de Serviço ou Carta de Serviço do fabricante do motor.
+
+  6.6.4 Para operações segundo o RBAC nº 91, o cumprimento com o TBO não é um requisito de
+  manutenção obrigatório, caso essa tarefa não esteja prevista nas limitações de aeronavegabilidade,
+  diretriz de aeronavegabilidade ou outro documento aprovado. Porém, cabe ao operador avaliar
+  e decidir quando a revisão geral (overhaul) do motor será realizada. Para isso, a ANAC recomenda
+  a adoção de um programa de monitoramento de tendências que dê suporte à decisão de quando
+  realizar a revisão geral.
+
+  6.6.5 É importante destacar que o funcionamento de um motor convencional provoca desgastes
+  e em algum momento a revisão geral terá de ser feita. Ela poderá ocorrer dentro do TBO recomendado
+  pelo fabricante ou não, mas deverá ser realizada sempre que as condições do motor estiverem
+  deterioradas a ponto de requerer uma revisão geral, conforme determina a seção 91.405 do
+  RBAC nº 91. Ademais, é preciso que o operador tenha em mente que uma revisão geral do motor
+  realizada muito além do tempo recomendado pelo fabricante poderá resultar em maior tempo
+  de indisponibilidade da aeronave e maior custo, uma vez que um número maior de peças e componentes
+  pode não ser reaproveitado.
+
+  6.6.6 Atenção especial também deverá ser dada nas primeiras horas de operação do motor,
+  logo após sua revisão geral ou reconstrução. De modo geral, um motor convencional tem maior
+  probabilidade de falha nas primeiras 200 horas após a revisão geral do que nas 200 horas
+  após o TBO recomendado.
+
+  6.6.7 Cabe ainda ressaltar que, para motores instalados em aeronaves operando segundo as
+  regras do RBAC nº 135, o cumprimento com o TBO é obrigatório por força da seção 135.411
+  desse RBAC.
+
+  6.7 Preservação do motor
+
+  6.7.1 Para um motor que esteja funcionado de forma regular, pode se dizer que ele está livre
+  da umidade e suas consequências, uma vez que o calor da combustão aquece todo o motor, deixando-o
+  livre da umidade. Além disso, o óleo circulando por toda a parte interna do motor forma
+  uma camada protetora que inibe o contato da umidade com as partes metálicas.
+
+  6.7.2 Isso já não ocorre com um motor inativo: dependendo de quanto tempo a operação do
+  motor for suspensa, ações de manutenção e preservação deverão ser feitas para evitar a ferrugem
+  e corrosão de partes do motor como: paredes dos cilindros, engrenagens, ressaltos do eixo
+  de comando, bielas etc. A preservação de um motor convencional inativo deve ser feita seguindo
+  estritamente as recomendações e orientações do fabricante do motor e da aeronave.
+
+  6.7.3 Importante destacar que o funcionamento de um motor convencional no solo, por breves
+  períodos, não substitui os procedimentos de preservação estabelecidos pelo fabricante. Na
+  verdade, essa prática de giro do motor no solo tende mais a agravar do que minimizar a possibilidade
+  de corrosão, já que uma grande quantidade de ar é aspirada pelos cilindros sem que o motor,
+  em muitas das vezes, esteja na temperatura ideal de operação.
+
+  6.7.4 Deve-se evitar girar manualmente as hélices acopladas ao motor, uma vez que esse movimento
+  irá fazer com que os pistões percorram seus ciclos dentro dos cilindros sem pressão de óleo,
+  prática que irá remover o filme protetor de óleo e aumentará a susceptibilidade à corrosão,
+  além de favorecer o atrito entre as partes móveis na próxima partida do motor, em virtude
+  da ausência de lubrificação adequada.
+
+  6.8 Técnica operacional deficiente
+
+  6.8.1 A confiabilidade de um motor convencional depende que sua operação seja feita dentro
+  de uma estreita faixa de desempenho. Essa faixa de operação possui limites específicos ligados
+  a RPM, ajustes de mistura e fluxo de combustível, pressão de admissão, temperatura da cabeça
+  do cilindro e pressão e temperatura do óleo, que não podem ser excedidas.
+
+  6.8.2 Todos os motores convencionais são bastante sensíveis à temperatura. Cilindros e válvulas
+  podem ser danificados por choque térmico se o motor não for aquecido adequadamente antes
+  da aplicação de potência máxima e a cabeça do cilindro pode trincar ou rachar se a temperatura
+  do motor esfriar muito rapidamente em longas descidas com potência reduzida.
+
+  6.9 Manutenção
+
+  6.9.1 A manutenção realizada em motores convencionais deve ser da mais alta qualidade e
+  executada por pessoal devidamente qualificado, com o ferramental adequado e de acordo com
+  as instruções e procedimentos atualizados do fabricante.
+
+  6.9.2 Áreas do motor que têm o maior impacto na confiabilidade e precisam de manutenção
+  constante são: trocas de óleo e filtro, substituição de filtros de ar e de combustível,
+  inspeção de defletores e vedações do motor quanto à condição e operação, sincronização do
+  magneto do motor e condição das velas de ignição e cabos.
+
+  6.9.3 A observação do conteúdo dos filtros de óleo do motor pode revelar muito sobre as
+  suas condições. De forma geral, o mecânico deve efetuar minuciosamente a inspeção do elemento
+  filtrante ou da tela do filtro quando for proceder a troca de óleo periódica ou quando alguma
+  anormalidade for relatada durante a operação da aeronave. Essa inspeção permite coletar
+  evidências, por meio da análise dos resíduos (limalhas) depositados nos filtros (cor, tamanho,
+  forma, magnetismo), de que alguma parte do motor pode estar com problemas de funcionamento.
+
+  6.9.4 A manutenção do motor pode ser realizada por pessoas inexperientes (como aprendizes)
+  desde que sejam supervisionadas por um mecânico certificado. Áreas adicionais do motor que
+  requerem constante manutenção são identificadas nas seções seguintes.
+
+  6.9.5 Lubrificação prévia. Antes de operar um motor novo, recém-saído de revisão geral ou
+  que esteja há muito tempo em inatividade, observe os procedimentos de pré-lubrificação,
+  descritos no respectivo manual de operação, a serem realizados antes da primeira partida
+  do motor. Esse procedimento visa assegurar que as partes móveis têm lubrificação suficiente
+  para impedir falhas típicas resultantes do atrito indesejado.
+
+  6.9.6 Primer do motor. O primer é um sistema simples no qual o combustível presente na linha
+  de alimentação do motor é injetado em dois ou mais cilindros por meio de uma pequena bomba
+  operada manualmente. Se a alavanca da bomba de escorva não estiver travada na posição fechada,
+  o combustível continuará sendo sugado para os cilindros pela sucção criada durante o ciclo
+  de admissão. Nesse caso, o motor funcionará irregularmente em baixas RPM, apresentando sintomas
+  idênticos aos problemas de magneto, mas suavizará acima de 1700 RPM.
+
+  6.9.6.1 Em baixa rotação, na boca do escapamento haverá fumaça preta e fuligem e a mistura
+  ar/combustível será extremamente rica nos cilindros afetados. Empobrecer a mistura do motor
+  manualmente pode suavizar a operação, por outro lado, um excessivo empobrecimento da mistura,
+  aumentará a temperatura da cabeça dos cilindros os quais não estão conectados ao sistema
+  de primer.
+
+  6.9.6.2 Uma condição de operação semelhante pode existir se os anéis de vedação da bomba
+  de escorva estiverem cortados ou rachados, o que permite que o combustível passe pelos anéis
+  e entre no cilindro, mesmo que a alavanca da bomba esteja na posição travada. Se houver
+  suspeita dessa condição, a aeronave não deverá ser operada até que uma equipe de manutenção
+  devidamente certificada avalie e solucione o problema.
+
+  6.9.7 Controles do motor. As manetes de potência, mistura, passo de hélice e aquecimento
+  do carburador são mecanismos simples em projetos e construção, são basicamente um fio de
+  metal flexível dentro de uma carcaça de aço inoxidável.
+
+  6.9.7.1 Devido à flexibilidade inerente do projeto, se as manetes não forem devidamente
+  fixadas pelo menos a cada 12 polegadas, o cabo poderá dobrar ao meio, limitando severamente
+  a quantidade de movimento de controle disponível no carburador, injetora ou governador de
+  hélice.
+
+  6.9.7.2 Todas as manetes devem ser lubrificadas periodicamente para garantir uma operação
+  suave dos controles, e o comprimento do movimento do cabo deve permitir o curso completo
+  de modo a atingir os batentes. Os terminais das manetes tipo rótula (rod ends) devem possuir
+  arruelas largas em ambas as extremidades do parafuso de fixação para servir como segurança
+  adicional em caso de falha da esfera do terminal rotular.
+
+  6.9.8 Choques de hélice. Quaisquer tipos de golpes na hélice são uma situação muito séria
+  e que requer atenção imediata. Motores que sofreram choque de hélice devem ser inspecionados
+  de acordo com as instruções do fabricante. As batidas de hélices, com parada súbita do motor
+  ou não, podem resultar em trincas e rachaduras no eixo de manivelas, danos em engrenagens,
+  empeno no flange da hélice e fadiga nos parafusos de biela. Aeronave nessa situação é considerada
+  não aeronavegável até que todas as inspeções e serviços necessários sejam realizados por
+  entes devidamente certificados.
+
+  6.9.9 Manutenção da hélice. Dos produtos com certificado de tipo, a hélice talvez seja o
+  que menos recebe atenção por parte dos operadores e mantenedores; no entanto, esse componente
+  do grupo motopropulsor lida com altas cargas de empuxo, torção, flexão e força centrífuga
+  durante todo o voo.
+
+  6.9.9.1 Durante a manutenção, o mecânico deve avaliar cuidadosamente as pás quanto a danos,
+  mossas, cortes, arranhões etc., conforme necessário, para evitar pontos de fadiga que podem
+  causar a falha da hélice e, consequentemente, perda de potência em voo. As mossas nos bordos
+  de ataque das pás devem ser eliminadas seguindo estritamente os procedimentos recomendados
+  pelo fabricante da hélice.
+
+  6.9.9.2 Cuidado especial deve ser dado ao limar ou lixar as pás da hélice. Caso o serviço
+  seja realizado fora dos padrões recomendados pelo fabricante, poderá resultar na alteração
+  do formato de aerofólio das pás, levando à perda de eficiência da hélice, sendo necessário
+  seu descarte. No caso de uma aeronave bimotor, essa perda de empuxo pode impedir a aeronave
+  de manter o voo com um motor inoperante.
+
+  6.9.9.3 Deve-se evitar empurrar ou puxar a aeronave pela hélice durante sua movimentação
+  no solo, pois a força aplicada na hélice para mover a aeronave não se espalha ao longo do
+  comprimento da hélice, mas concentra-se em uma única área, que pode induzir a um aumento
+  de tensão, podendo culminar em trinca ou rachadura em uma das pás.
+
+  6.9.10 Mufla do escapamento. Motores convencionais podem sofrer reduções substanciais de
+  potência e até mesmo falha completa quando o defletor interno da mufla se solta e cobre
+  parcialmente a saída do escapamento. Indicações desse tipo de problema são: uma grande redução
+  de RPM, indicação de mistura rica, funcionamento irregular, vibração e pós-queima. Recomenda-se
+  que a inspeção do interior do escapamento seja executada periodicamente, conforme estabelece
+  o programa de inspeção do fabricante, ou sempre que houver suspeita de pane nessa área do
+  motor.
+
+  6.9.11 Travamento de válvulas. Motores convencionais que apresentam dificuldade na partida
+  ou que funcionam irregularmente por 3 a 5 minutos após a partida e depois suavizam, podem
+  ter uma ou mais válvulas emperradas. Válvulas emperradas são causadas por depósitos de chumbo
+  e carbono na guia da válvula, condição essa que, com o tempo, vai reduzindo a folga entre
+  haste da válvula e sua guia.
+
+  6.9.11.1 Essa redução na folga faz com que a válvula trave dentro da guia. Quando ela trava
+  na posição fechada, provoca o empeno da haste de comando (push rod), que é expulsa do seu
+  alojamento, resultando em vazamento de óleo e perda de potência no cilindro afetado.
+
+  6.9.11.2 Para reparar uma válvula emperrada, o cilindro deve ser removido e a guia de válvula
+  mandrilada para remover os depósitos de chumbo e carbono. Dependendo da condição, válvula,
+  guia e outros componentes do cilindro deverão ser substituídos.
+
+  6.9.12 Velas de ignição. Velas de ignição que sujam consistentemente podem ser uma indicação
+  de anéis de segmento e/ou cilindros desgastados, mistura excessivamente rica, velas com
+  faixa de calor inadequado, cabos de ignição muito curtos, plugues de ignição (cigarettes)
+  danificados, combustível impróprio, cilindro das velas de ignição sujo ou úmido, magnetos
+  fora do ponto, baixa velocidade de operação em marcha lenta, procedimento inadequado de
+  empobrecimento da mistura e resfriamento rápido do motor em longas descidas.
+
+  6.9.12.1 Todas as velas de ignição periodicamente devem passar por inspeções, limpeza, ajustes
+  do gap (folga entre os eletrodos) e rodízio. Consulte sempre o manual de voo para obter
+  os procedimentos aprovados de operação do motor e manual de manutenção para serviços nas
+  velas.
+
+  6.9.13 Compressão dos cilindros. O teste de compressão é um procedimento no qual 80 PSI
+  de pressão de ar são introduzidos em um cilindro com seu pistão no ponto morto superior,
+  de modo a determinar o quanto de mistura ar/combustível será mantida no cilindro quando
+  ela for comprimida. O teste é realizado com um testador de pressão diferencial que possui
+  dois manômetros, um manômetro mostra a pressão sendo aplicada e o outro mostra a pressão
+  mantida no cilindro.
+
+  6.9.13.1 A leitura de compressão ideal no medidor diferencial deve ser de 80/80 PSI com
+  o cilindro no ponto morto superior. Perda de pressão poderá ocorrer; no entanto, a perda
+  máxima de ar comprimido não deve ser superior a 25%, ou uma leitura de 60/80 PSI. Se a leitura
+  da pressão no cilindro for inferior a 75%, ou seja, menor que 60/80 PSI, a menos que haja
+  instrução diferente e específica do fabricante do motor, execute os seguintes procedimentos.
+
+  NOTA: teste de compressão, utilizando equipamento que incorpora a ferramenta “orifício mestre”
+  como o modelo “E2M” da Eastern Technology, é executado de forma um pouco diferente e com
+  valores que não os citados acima. Siga sempre as orientações do fabricante do motor e do
+  equipamento sendo utilizado quando realizando teste de compressão de cilindros.
+
+  a) Quando o ar comprimido de 80 PSI ainda estiver sendo introduzido no cilindro e uma pessoa
+  experiente segurando a hélice para que ela não gire, ouça a saída do tubo de escapamento
+  a fim de verificar vazamento de ar. Se houver vazamento de ar, a válvula de escapamento,
+  sede, guia ou todas estão desgastadas. Nesse caso, uma inspeção detalhada deverá ser feita
+  com o cilindro removido de modo a determinar e eliminar a fonte do problema.
+
+  b) Realize o mesmo teste a fim de verificar vazamento no filtro de ar. Se houver vazamento
+  de ar, a válvula de admissão, sede, guia ou todas estão desgastadas. Nesse caso, uma inspeção
+  detalhada deverá ser feita com o cilindro removido de modo a determinar e eliminar a fonte
+  do problema.
+
+  6.9.13.2 Para verificar se os anéis de segmento, pistão ou cilindro estão desgastados, remova
+  a tampa do bocal de abastecimento de óleo e verifique se ar está saindo por esse local.
+  Se ouvir um vazamento de ar, os anéis de segmento, as paredes do cilindro, o pistão ou todos
+  estão desgastados. Nesse caso, uma inspeção detalhada deverá ser feita com o cilindro removido
+  de modo a determinar e eliminar a fonte do problema.
+
+  6.9.13.3 Uma boa inspeção visual no interior do cilindro pode ser realizada por meio de
+  um boroscópio para verificar a presença de arranhões, degrau (rebaixo) corrosão nas paredes
+  do cilindro e condição das válvulas e sedes.
+
+  6.9.14 Entrada de ar do motor. O ar não filtrado, seja ele proveniente de um filtro de ar
+  sujo ou danificado, controle de aquecimento do carburador ou porta de ar alternada deixada
+  aberta durante o táxi, permite que sujeira, areia e outros detritos sejam ingeridos pelo
+  motor. Essa sujeira poderá danificar as paredes do cilindro e anéis do pistão, causando
+  baixa compressão dos cilindros, aumentando o consumo de óleo e ocasionando o blow-by (passagem
+  de gases da câmara de combustão para o bloco do motor).
+
+  6.9.14.1 O filtro de ar do motor deve ser inspecionado e substituído conforme previsto no
+  manual de manutenção do fabricante e sempre que for identificado algum problema, e os controles
+  de aquecimento do carburador e ar alternado devem ser usados com moderação no solo, principalmente
+  em pistas não pavimentadas.
+
+
+  PROGRAMA DE MONITORAMENTO DE TENDÊNCIAS
+
+  7.1 O monitoramento de tendências do motor é um sistema de coleta de dados no qual periodicamente
+  (durante as operações e em todas as inspeções da aeronave) um número selecionado de leituras
+  e indicações do motor são registrados, analisados e a partir dessa análise de dados são
+  tomadas as decisões em relação à aeronavegabilidade do motor.
+
+  7.2 O objetivo de um programa de monitoramento de tendências é prever modos de falha antes
+  que ocorram. Um programa de monitoramento de tendências para motores convencionais deve
+  abordar pelo menos três áreas do motor, as quais são detalhadas nas seções seguintes:
+
+  7.2.1 Área 1. Os componentes internos do motor, como eixo de manivelas, comando de válvulas,
+  tuchos hidráulicos, mancais, bielas e engrenagens, são alojados dentro do bloco do motor
+  que se divide em duas partes. Devido a sua localização, a inspeção visual da condição e
+  a medição do desgaste desses componentes não podem ser realizadas adequadamente sem antes
+  desmontar o motor. No entanto, de modo geral, as condições internas de um motor em operação
+  podem ser determinadas por meio de um programa de análise de óleo, inspeções frequentes
+  do filtro de óleo (pressão e sucção), inspeção boroscópica e acompanhamento contínuo dos
+  parâmetros do motor como (pressão x temperatura do óleo). Um aumento de temperatura do óleo
+  sempre estará acompanhado de queda da pressão do óleo, e vice-versa.
+
+  7.2.2 Área 2. O conjunto de cilindro inclui: o cilindro, pistão, anéis, pinos, válvulas,
+  sedes, guias, molas, balancins e retentores. Esses componentes podem ser facilmente removidos
+  para uma inspeção detalhada, mas normalmente uma inspeção das velas de ignição, inspeção
+  boroscópica, teste de compressão e acompanhamento contínuo da RPM, pressão de admissão,
+  temperatura da cabeça do cilindro e consumo de óleo e combustível fornecerão uma boa visão
+  geral da condição do cilindro. As velas de ignição são verificadas quanto a desgaste e incrustação.
+  Velas de ignição sujas podem indicar, por exemplo, mistura muito rica ou desgaste dos anéis
+  de segmento, cilindro, pistão e retentores de válvulas.
+
+  7.2.3 Área 3. Os acessórios, incluindo os magnetos, cabos de ignição, velas de ignição,
+  escapamento, gerador/alternador e correia, bomba mecânica de combustível, carburador, unidade
+  de injeção de combustível, bicos injetores, governador de hélice e bomba de vácuo/pressão
+  são facilmente removíveis para inspeção e teste, e geralmente fornecem ao piloto uma indicação
+  de sua condição de operação por meio da instrumentação e medidores na cabine de comando.
+
+  7.3 Um modelo de Programa de Monitoramento de Tendências para motor convencional é ilustrado
+  nos Apêndices C, D e E desta IS. O Apêndice C traz um modelo de formulário de coleta de
+  dados de parâmetros do motor, o qual deverá ser preenchido pelo mecânico durante a manutenção
+  e cheque operacional. O Apêndice D traz uma planilha de coleta de dados de análise do óleo,
+  e o Apêndice E traz uma planilha de rastreamento de amostras de dados na qual todos os itens
+  rastreados e coletados nos formulários anteriores são listados juntos e em sequência para
+  facilitar a comparação e a análise.
+
+  7.4 A análise dos parâmetros do motor deve ser realizada comparando as leituras obtidas
+  e observando a tendência medida em relação às recomendações do fabricante. Por exemplo,
+  se o fabricante do motor recomenda uma pressão de óleo de cruzeiro de 55 a 60 PSI e a leitura
+  indicada em cruzeiro foi de 48 PSI, o mecânico deve verificar a quantidade e viscosidade
+  do óleo, ajuste da válvula de alívio da pressão do óleo, filtros de óleo, desgastes internos
+  do motor (por exemplo, eixos e mancais), indicações de blow-by e a precisão/calibração do
+  medidor de pressão do óleo.
+
+  7.5 A relação específica entre a RPM e a pressão de admissão deve ser verificada durante
+  cada teste operacional do motor (run up) de modo a medir a performance do motor contra uma
+  condição padrão conhecida. Sob as mesmas condições atmosféricas, uma pressão de admissão
+  mais alta que a normal para uma mesma RPM, pode indicar algum problema nos cilindros ou
+  ignição fora do ponto.
+
+  7.6 O mecânico também deverá comparar os resultados da análise de óleo, temperaturas da
+  cabeça do cilindro (CHT), temperatura do gás de escape (EGT), fluxo de combustível, pressão
+  de admissão, temperaturas do óleo, condições das velas de ignição e compressão dos cilindros
+  em relação às recomendações do fabricante.
+
+  7.7 Um programa de monitoramento de tendências depende, em grande parte, de informações
+  precisas para coleta e análise. Assim, antes de incorporar um programa de monitoramento
+  de tendências do motor, o operador deve garantir que os seguintes instrumentos e medidores
+  da aeronave tenham sido testados e calibrados, conforme necessário: indicador de RPM, pressão
+  do óleo, temperatura do óleo, CHT, EGT, pressão de admissão, pressão de combustível e fluxo
+  de combustível, conforme aplicável.
+
+  7.8 As orientações e procedimentos constantes desta Instrução Suplementar, se aplicam a
+  todas as aeronaves detentoras de projeto de tipo (certificadas) com motor convencional,
+  operando segundo as regras do RBAC nº 91 e RBAC nº 135. Incluem-se, neste contexto, aeronaves
+  operando sob o RBAC nº 137.
+
+  7.9 Intervalo de monitoramento:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- motor
+- combustivel
+- aeronave
+- cilindro
+- manutencao
+- fabricante
+- inspecao
+- oleo
+- operacao
+- pode
+- pressao
+- podem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-002.md

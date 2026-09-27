@@ -1,0 +1,78 @@
+id: is-is-94-002-5-4-3-e
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.3
+section_title: Relatório de análise de segurança - RBAC-E 94.405(a)(3)
+subsection_id: e
+cite: 5.4.3(e)
+title: 5.4.3(e)
+text: 'e) Identificação dos procedimentos a serem adotados, automaticamente ou iniciados
+
+  pelo piloto remoto, nos seguintes casos de falha:
+
+  I - Mau-funcionamento de um atuador de comando de voo;
+
+  II - Perda do piloto automático;
+
+  III - Perda de um motor;
+
+  IV - Perda completa do sistema elétrico da aeronave remotamente pilotada
+
+  (Remotely Piloted Aircraft - RPA);
+
+  V - Perda completa do sistema elétrico da RPS;
+
+  VI - Fogo na RPA;
+
+  VII - Fogo na RPS;
+
+  VIII - Perda de capacidade de navegação;
+
+  IX - Perda do enlace de comando e controle;
+
+  X - Interferência intencional (ilícita) no enlace de comando e controle;
+
+  XI - Interferência não-intencional no enlace de comando e controle;
+
+  XII - Perda da comunicação com o controle de tráfego aéreo;Data de emissão: 3 de maio de
+  2017. IS Nº E94-002
+
+  Revisão A
+
+  XIII - Perda de comunicação entre o piloto remoto e outras pessoas envolvidas
+
+  na operação da RPA;
+
+  XIV - Perda de pressão ou ruptura de envelope de gás, caso aplicável;
+
+  XV - Alguma outra falha para a qual seja necessário ou conveniente o
+
+  estabelecimento de procedimentos de contingência, conforme identificado
+
+  na lista de eventos potencialmente perigosos e seus efeitos.
+
+  Todos os casos listados acima devem ser mitigados através da incorporação de soluções de
+
+  projeto ou procedimentos operacionais, evitando que os mesmos resultem em eventos que
+
+  tenham o potencial de causar ferimentos graves ou fatais a pessoas diretamente envolvidas
+
+  ou não com a operação.'
+keywords:
+- perda
+- comando
+- controle
+- enlace
+- piloto
+- procedimentos
+- casos
+- completa
+- comunicacao
+- eletrico
+- envolvidas
+- eventos
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

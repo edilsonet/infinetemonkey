@@ -1,0 +1,73 @@
+id: is-is-145-010c-5-1-1-body
+kind: is
+document: is-145-010c
+family: '145'
+section_id: 5.1.1
+section_title: Geral
+subsection_id: body
+cite: 5.1.1
+title: Geral
+text: '5.1.1 Geral
+
+  5.1.1.1 A pessoa que pretende ser certificada como OM pelo RBAC nº 145 deve submeter um
+  programa de treinamento de seu pessoal para aprovação da Anac. Esse programa de treinamento
+  deve assegurar que as pessoas que executam Função de Manutenção sob o certificado da OM
+  sejam capazes de executar as tarefas que lhes forem designadas.
+
+  Nota: esta IS não inclui instruções relativas a treinamentos associados ao Sistema de Gerenciamento
+  de Segurança Operacional - SGSO, tratadas na IS nº 145.214-001.
+
+  5.1.1.2 As pessoas detentoras de licença da Anac como Mecânicos de Manutenção Aeronáutica
+  - MMA podem adquirir o conhecimento teórico por meio de cursos de familiarização com produtos
+  aeronáuticos ou de manutenção e reparo destes. A habilidade inicial básica é geralmente
+  adquirida por meio de treinamento formal, tal como em uma Escola de Aviação Civil, ou de
+  experiência prática específica trabalhando sob supervisão de um mecânico mais experiente
+  habilitado pela Anac (treinamento em serviço registrado conforme subseção 5.3.8 desta IS).
+  A experiência inicial pode variar substancialmente de pessoa para pessoa, bem como a experiência
+  acumulada, em decorrência do tipo ou do nível de complexidade de treinamentos subsequentes
+  (recorrentes). Uma OM precisa ministrar treinamentos iniciais e recorrentes adequados para
+  assegurar que seu pessoal seja capaz de executar as tarefas designadas.
+
+  5.1.1.3 Existem várias categorias de funcionários de uma OM, com uma variedade de especialidades.
+  Os critérios de admissão variam muito entre as OMs, assim como varia a Competência das pessoas.
+  Existem pessoas que trabalham para a OM em caráter temporário, o que permite à OM atender
+  aos picos de carga de trabalho. Como consequência, todas as pessoas que forem autorizadas
+  a executar Função de Manutenção devem ser incluídas no programa de treinamento, para assegurar
+  que sejam capazes de executar as tarefas autorizadas por uma determinada OM.
+
+  5.1.1.4 A seção 145.163 do RBAC nº 145 requer que cada OM estabeleça um programa de treinamento
+  para as pessoas que executam Função de Manutenção sob autorização da OM. Esse programa de
+  treinamento aumenta a segurança da aviação civil por assegurar a cada pessoa a plena Competência
+  para executar a tarefa a ela designada. A Anac entende que as OMs são diferentes entre si,
+  em termos de serviços por categoria certificada, dimensões, etc.; em consequência, espera-se
+  que cada uma tenha um programa de treinamento adequado às suas dimensões e ao tipo ou abrangência
+  do trabalho que executa.
+
+  5.1.1.5 A Anac reconhece que algumas OMs por ela certificadas também possuem certificações
+  de autoridades de aviação civil de outros países, tais como a Federal Aviation Administration
+  - FAA, European Aviation Safety Agency - EASA, Transport Canada Civil Aviation - TCCA, etc.
+  Os regulamentos desses países contêm requisitos aplicáveis quando se executa manutenção
+  em artigos daqueles países (inclusive requisitos de treinamento e relativos a obtenção de
+  licenças). Esses requisitos de outras autoridades de aviação civil podem afetar as OMs que
+  também possuam essas certificações. Para simplificar a elaboração dos manuais da OM, o programa
+  de treinamento submetido à Anac pode incluir todos os requisitos de outras autoridades de
+  aviação civil, identificando-os, desde que os requisitos do RBAC nº 145 sejam atendidos.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- treinamento
+- programa
+- civil
+- pessoas
+- aviacao
+- executar
+- requisitos
+- assegurar
+- pessoa
+- autoridades
+- aviation
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-010c.md

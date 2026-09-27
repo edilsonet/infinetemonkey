@@ -1,0 +1,37 @@
+id: is-is-153-133-001-7-4-4-1-c
+kind: is
+document: is-153-133-001
+family: '153'
+section_id: 7.4.4.1
+section_title: A inspeção deve ter início na cabeceira de menor designativo e seguir até a
+  cabeceira oposta, retornando para a cabeceira de partida.
+subsection_id: c
+cite: 7.4.4.1(c)
+title: 7.4.4.1(c)
+text: 'c) sensores fixos instalados na pista: transmitem as condições meteorológicas atuais
+  em tempo real, não sendo necessária a inspeção in loco da condição da pista.
+
+  7.4.4.3 De posse das medições, o operador de aeródromo deve utilizar a Matriz de Avaliação
+  da Condição da Pista (Runway Condition Assessment Matrix - RCAM), disponível no Apêndice
+  B desta Instrução Suplementar, para o estabelecimento do RWYCC, o qual deve ser comunicado
+  imediatamente à Torre de Controle (TWR).'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- cabeceira
+- pista
+- condicao
+- inspecao
+- aerodromo
+- apendice
+- assessment
+- atuais
+- avaliacao
+- comunicado
+- condicoes
+- condition
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-133-001.md

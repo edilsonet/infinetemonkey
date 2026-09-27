@@ -1,0 +1,63 @@
+id: is-is-21-021-sumario-j
+kind: is
+document: is-21-021
+family: '21'
+section_id: sumario
+section_title: SUMÁRIO
+subsection_id: j
+cite: sumario(j)
+title: sumario(j)
+text: 'j) Modificação no equipamento de emergência.
+
+  2.3 A empresa ABX, detentora do Certificado de Organização de Manutenção nº <XXXX-XX/ANAC>,
+  projetou e irá fabricar e fornecer o equipamento e componentes necessários à instalação
+  da modificação nas aeronaves elegíveis.
+
+
+  BASE DE CERTIFICAÇÃO
+
+  A Base de Certificação é definida pela especificação <EA-XXXXXXX>, emitida pela ANAC.
+
+  Este modelo de aeronave foi certificado no Brasil em <dd/mmm/aaaa> com a emissão pela ANAC
+  da especificação <EA-XXXXXX>.
+
+  Como a modificação foi considerada SIGNIFICANTE (conforme AC 21.101-1<inserir a última revisão
+  aplicável>), a base de certificação será atualizada conforme a emenda da data do pedido
+  da certificação da modificação: <dd/mmm/aaaa>.
+
+  ABX Aeronaves Ltda.
+
+  Pág. N° 5
+
+  Total págs. 7
+
+  INSTALAÇÃO DE PORTA DE CARGA E REFORÇO DE PISO
+
+  Aeronaves modelo 505-A
+
+  PLANO DE CERTIFICAÇÃO
+
+  Relatório n° ABX-XY-001
+
+  Revisão: A - 10/09/2013'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- aeronaves
+- base
+- aaaa
+- certificado
+- equipamento
+- especificacao
+- instalacao
+- modelo
+- revisao
+- sumario
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-021.md

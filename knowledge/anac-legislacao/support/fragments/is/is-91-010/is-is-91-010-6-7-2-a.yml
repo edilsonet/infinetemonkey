@@ -1,0 +1,39 @@
+id: is-is-91-010-6-7-2-a
+kind: is
+document: is-91-010
+family: '91'
+section_id: 6.7.2
+section_title: 'Uma especificação RSP é composta pelos seguintes parâmetros:'
+subsection_id: a
+cite: 6.7.2(a)
+title: 6.7.2(a)
+text: 'a) Tempo de Entrega: tempo máximo (em segundos) para que a aeronave emita e o controlador
+  receba um dado de vigilância (contado a partir do momento em que a aeronave atinge uma posição,
+  tempo ou evento de reporte). Subdivide-se nos seguintes parâmetros:
+
+  I. Tempo nominal de entrega (DT): tempo máximo (em segundos) dentro do qual 95% das entregas
+  de dados vigilância devem ser completadas; e
+
+  II. Tempo operacional de entrega (OT): tempo máximo (em segundos) dentro do qual 99,9% das
+  entregas de dados vigilância devem ser completadas. Após expirado este tempo, o controlador
+  deve reverter para um procedimento de vigilância alternativo;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- tempo
+- vigilancia
+- entrega
+- maximo
+- segundos
+- aeronave
+- completadas
+- controlador
+- dados
+- dentro
+- entregas
+- parametros
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

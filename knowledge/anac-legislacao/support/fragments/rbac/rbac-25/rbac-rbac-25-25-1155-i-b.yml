@@ -1,0 +1,33 @@
+id: rbac-rbac-25-25-1155-i-b
+kind: rbac
+document: rbac-25
+family: '25'
+section_id: 25.1155-I
+section_title: Reverse thrust and propeller pitch settings below the flight regime
+subsection_id: b
+cite: 25.1155-I(b)
+title: 25.1155-I(b)
+text: (b) A means to prevent both inadvertent and intentional selection or activation of propeller
+  pitch settings below the flight regime (reverse thrust for turbo-jet powered airplanes)
+  when out of the approved in-flight operating envelope for that function, and override of
+  that means is prohibited.
+keywords:
+- aeronavegabilidade
+- transporte
+- flight
+- below
+- means
+- pitch
+- propeller
+- regime
+- reverse
+- settings
+- that
+- thrust
+- activation
+- airplanes
+categories:
+- aeronavegabilidade
+- transporte
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-25.md

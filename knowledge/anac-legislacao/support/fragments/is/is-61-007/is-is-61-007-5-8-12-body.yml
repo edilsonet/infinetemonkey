@@ -1,0 +1,36 @@
+id: is-is-61-007-5-8-12-body
+kind: is
+document: is-61-007
+family: '61'
+section_id: 5.8.12
+section_title: A empresa regida pelo RBAC n° 121 deve selecionar os exames “Rota (aeronave)”
+subsection_id: body
+cite: 5.8.12
+title: A empresa regida pelo RBAC n° 121 deve selecionar os exames “Rota (aeronave)”
+text: '5.8.12 A empresa regida pelo RBAC n° 121 deve selecionar os exames “Rota (aeronave)”
+
+  quando o exame realizado tiver o objetivo de demonstrar o cumprimento da seção
+
+  121.440 do RBAC nº 121.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- aeronave
+- empresa
+- exames
+- regida
+- rota
+- selecionar
+- cumprimento
+- demonstrar
+- exame
+- objetivo
+- realizado
+- secao
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-007.md

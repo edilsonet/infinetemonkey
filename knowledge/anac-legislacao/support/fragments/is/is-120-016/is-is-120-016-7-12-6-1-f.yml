@@ -1,0 +1,62 @@
+id: is-is-120-016-7-12-6-1-f
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.12.6.1
+section_title: Atributos de Segurança Operacional do Sistema.
+subsection_id: f
+cite: 7.12.6.1(f)
+title: 7.12.6.1(f)
+text: 'f) Interfaces bem definidas.
+
+  7.12.6.2 Concepção do SASC. Esses seis atributos de segurança de um sistema devem ser o
+  ponto de partida para a concepção do SASC da empresa. Deve ficar claro quem na organização
+  é responsável e quem tem autoridade sobre o SASC. A empresa não deve dividir a responsabilidade/autoridade
+  em duas ou mais partes devido à possibilidade provável de que atividades como auditoria
+  e análise de dados operacionais venham a ser mal coordenadas. Normalmente, além de um indivíduo
+  com responsabilidade geral pelo SASC, a empresa deve ter um conselho ou comitê de administração
+  para assegurar uma boa comunicação e coordenação de todas as funções do SASC, e para manter
+  o envolvimento regular das gerências de nível superior. Esse grupo de supervisão também
+  pode fornecer uma forma de controle sobre aspectos críticos da gestão do SASC e medir o
+  seu desempenho e a eficácia.
+
+  7.12.6.3 Interfaces do SASC. Há muitas interfaces entre o SASC e funções ou elementos organizacionais
+  de uma empresa aérea típica que estão fora da manutenção. Alguns dos exemplos mais óbvios
+  são: engenharia, operações de voo, compras, segurança operacional e a ANAC. Também é importante
+  que a empresa defina e coordene claramente as interfaces do SASC com seus outros programas
+  (se existirem), tais como Programa de Garantia de Qualidade de Operações de Voo (FOQA),
+  Programa de Garantia de Qualidade de Operações de Manutenção (MOQA), Programa de Qualificação
+  Avançada (AQP) e relatos voluntários (RELPREV e RCSV). Todos eles devem estar integrados
+  ao SGSO da empresa. Faz-se necessária também uma interface específica entre o SASC e o SGSO
+  da empresa aérea.
+
+  Nota: o SASC sobrepõe algumas das funções de Garantia da Segurança Operacional do SGSO.
+  O SASC pode ser um sistema em separado ou um subsistema dentro do SGSO. O SASC pode ser
+  mantido de forma separada, entretanto, será de grande benefício integrá-lo ao SGSO. Em qualquer
+  dos casos, é imperativo compreender que o SASC irá suprir o SGSO de informações. E o SGSO
+  poderá dar suporte ao SASC através dos processos de Gerenciamento de Risco e Garantia da
+  Segurança Operacional aplicados às necessidades do SASC. Um SGSO poderá avaliar o SASC de
+  forma a garantir que todos os elementos críticos do SASC estão sendo realizados e controlados,
+  e que os resultados são aceitáveis, em conformidade com a revisão mais recente da AC 120-79
+  da FAA, intitulada "Developing and Implementing an Air Carrier Continuing Analysis and Surveillance
+  System".'
+keywords:
+- antidrogas
+- saude
+- sasc
+- sgso
+- empresa
+- seguranca
+- garantia
+- interfaces
+- operacional
+- forma
+- funcoes
+- operacoes
+- pode
+- programa
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

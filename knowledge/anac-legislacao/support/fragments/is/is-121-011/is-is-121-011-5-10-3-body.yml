@@ -1,0 +1,53 @@
+id: is-is-121-011-5-10-3-body
+kind: is
+document: is-121-011
+family: '121'
+section_id: 5.10.3
+section_title: Relatórios de avaliação operacional/Dados relevantes operacionais
+subsection_id: body
+cite: 5.10.3
+title: Relatórios de avaliação operacional/Dados relevantes operacionais
+text: '5.10.3 Relatórios de avaliação operacional/Dados relevantes operacionais
+
+  5.10.3.1 O treinamento de diferenças para comissários deve se basear em uma análise precisa
+  das diferenças de projetos e manobras das aeronaves envolvidas. Para isso, algumas autoridades
+  de aviação civil publicam relatórios de avaliação operacional/dados relevantes operacionais
+  com tais análises.
+
+  5.10.3.2 As autoridades formulam Requisitos de Diferenças Master (MDR) para abordar as diferenças
+  entre as aeronaves relacionadas e os apresenta em formato tabular no relatório apropriado.
+
+  5.10.3.3 Os dados relevantes operacionais para comissários disponibilizados pela ANAC estão
+  publicados nas IAC 121-1006, IAC 121-1007 e IAC 121-1012, que podem ser encontrados por
+  meio da plataforma Pergamum da ANAC, no endereço eletrônico https://pergamum.anac.gov.br.
+
+  Nota: as referidas IAC foram revogadas e substituídas por relatórios de avaliação operacional.
+  Posteriormente, o conceito de relatório de avaliação operacional foi substituído pelo de
+  dados relevantes à operação para pilotos (FCD), com foco somente em pilotos. Com isso, os
+  relatórios publicados previamente vêm sendo eventualmente revisados para tratar somente
+  de pilotos. Por isso, e considerando que o conteúdo previamente estabelecido para comissários
+  permanece relevante, mencionam-se as IAC como referência.
+
+  5.10.3.4 Caso não haja dados relevantes operacionais para comissários disponibilizados pela
+  ANAC, recomenda-se aos operadores que utilizem os dados relevantes operacionais para comissários
+  da EASA (CS-CCD) para a elaboração de seus programas de treinamento para comissários.'
+keywords:
+- transporte-aereo
+- operacoes
+- dados
+- relevantes
+- operacionais
+- avaliacao
+- comissarios
+- operacional
+- relatorios
+- diferencas
+- isso
+- pilotos
+- aeronaves
+- autoridades
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-011.md

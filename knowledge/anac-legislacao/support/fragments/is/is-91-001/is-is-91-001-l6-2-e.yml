@@ -1,0 +1,34 @@
+id: is-is-91-001-l6-2-e
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.2
+section_title: Dados e cálculos de performance de decolagem e subida
+subsection_id: e
+cite: L6.2(e)
+title: L6.2(e)
+text: e) Operações RNP AR DP dependem de sinergia entre a performance de decolagem e a subsequente
+  performance de subida da aeronave. Para garantir o cumprimento das demandas de um procedimento
+  RNP AR DP, os cálculos de performance do operador devem analisar cada fase (decolagem e
+  subida) independentemente. Isso garante que a aeronave e o seu sistema RNP possam efetivamente
+  cumprir com as exigências de performance lateral e vertical dos procedimentos RNP AR DP.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- performance
+- decolagem
+- subida
+- aeronave
+- calculos
+- analisar
+- cada
+- cumprimento
+- cumprir
+- dados
+- demandas
+- dependem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

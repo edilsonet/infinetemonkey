@@ -36,10 +36,14 @@ sections:
 - apendice-a-reservado
 - apendice-b
 - apendice-b-reservado
+- aprovacao
 - preambulo
-fragment_count: 63
+- sumario
+fragment_count: 65
 fragment_ids:
 - rbac-rbac-129-preambulo-body
+- rbac-rbac-129-aprovacao-body
+- rbac-rbac-129-sumario-body
 - rbac-rbac-129-129-1-body
 - rbac-rbac-129-129-11-body
 - rbac-rbac-129-129-12-body
@@ -102,4 +106,4 @@ fragment_ids:
 - rbac-rbac-129-129-33-c
 - rbac-rbac-129-apendice-a-body
 - rbac-rbac-129-apendice-b-body
-parser_version: 6
+parser_version: 7

@@ -1,0 +1,90 @@
+id: is-is-21-013-7-j
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: j
+cite: 7(j)
+title: 7(j)
+text: 'j) A integração do PA/DV com o equipamento GNSS não deve alterar a filosofia de cabine
+
+  original.
+
+  7.4. Interferência - Compatibilidade Eletromagnética (EMC)
+
+  7.4.1. O equipamento GNSS não deve ser a fonte de condução indesejável ou interferência
+
+  irradiada, ou ser adversamente afetado por condução ou interferência irradiada a partir
+  de
+
+  outros equipamentos ou sistemas instalados na aeronave;
+
+  7.4.2. O aterramento apropriado do equipamento/antena é uma das medidas essenciais para
+  se
+
+  garantir as condições de EMC;
+
+  7.4.3. O GNSS não deve interferir nos demais sistemas da aeronave (VHF, HF, VOR, DME, ADF,
+
+  rádio altímetro etc.), nem sofrer interferência destes. O chaveamento de fontes elétricas
+
+  (geradores, alternadores) não deverá influenciar significativamente nas informações
+
+  apresentadas pelo GNSS;
+
+  7.4.4. É recomendável que os equipamentos GNSS sejam instalados afastados de rádio VHF.
+  Para
+
+  orientações específicas relativas a afastamento de antenas, ver a AC 43.13-1 em sua última
+
+  revisão;
+
+  7.4.5. Equipamentos GNSS podem ser suscetíveis a sinais espúrios e intermodulações se a
+
+  aeronave possuir equipamento SATCOM com múltiplos canais instalados. Equipamentos
+
+  GNSS não devem ser instalados em aeronaves com equipamento SATCOM com múltiplos
+
+  canais, a menos que a utilização simultânea de frequências interferentes possa ser evitada
+  ou
+
+  se for demonstrado que não há interferência com o funcionamento do equipamento GNSS.
+
+  Alguns equipamentos GNSS não são compatíveis com as instalações de equipamentos
+
+  SATCOM em hipótese nenhuma, o que deve ser observado nas instruções/ manual de
+
+  instalação do fabricante dos equipamentos GNSS e SATCOM, conforme aplicável;
+
+  7.4.6. Interferência em VHF: Algumas harmônicas de frequências VHF têm maior possibilidade
+
+  de afetar adversamente a recepção do sinal de GNSS. Na instalação de sistemas GNSS, deve
+
+  ser demonstrado que não ocorre interferência significativa devida aos rádios VHF-COMM
+
+  (equipamento transceptor VHF de comunicação bilateral), através do seguinte teste a ser
+
+  realizado:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- gnss
+- equipamento
+- equipamentos
+- interferencia
+- instalados
+- satcom
+- aeronave
+- instalacao
+- sistemas
+- adversamente
+- canais
+- conducao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

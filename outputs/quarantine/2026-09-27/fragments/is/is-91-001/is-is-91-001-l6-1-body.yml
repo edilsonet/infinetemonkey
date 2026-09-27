@@ -1,0 +1,44 @@
+id: is-is-91-001-l6-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.1
+section_title: Geral
+subsection_id: body
+cite: L6.1
+title: Geral
+text: 'L6.1 Geral
+
+  a) Antes de solicitar autorização para operações RNP AR DP, o operador deve garantir que
+  a operação proposta é consistente com as recomendações e orientações do fabricante para
+  operações RNP AR DP.
+
+  b) O operador deve verificar a CDL e a MEL da aeronave para identificar equipamentos e partes
+  requeridas para operações RNP AR DP, em razão das funcionalidades adicionais requeridas
+  em relação a operações RNP AR APCH. O operador deve buscar orientação com o detentor de
+  TC ou STC de forma a determinar se alguma alteração em CDL ou MEL é requerida para conduzir
+  operações RNP AR DP.
+
+  c) O operador deve incluir no AOM procedimentos para operações normais e não-normais (contingências)
+  relacionadas à operação RNP AR DP. Esses procedimentos devem cumprir com recomendações do
+  fabricante das aeronaves e dos aviônicos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operacoes
+- operador
+- geral
+- fabricante
+- normais
+- operacao
+- procedimentos
+- recomendacoes
+- requeridas
+- adicionais
+- aeronave
+- aeronaves
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

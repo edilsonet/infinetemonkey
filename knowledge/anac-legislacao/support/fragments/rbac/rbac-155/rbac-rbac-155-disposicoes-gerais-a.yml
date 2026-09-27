@@ -1,0 +1,31 @@
+id: rbac-rbac-155-disposicoes-gerais-a
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: disposicoes-gerais
+section_title: Disposições gerais
+subsection_id: a
+cite: disposicoes-gerais(a)
+title: disposicoes-gerais(a)
+text: '(a)
+
+  O operador de heliponto deve implementar e manter operacional sistema de resposta à emergência
+  adequado às operações processadas no heliponto e em conformidade com o disposto neste Regulamento.'
+keywords:
+- seguranca-aeroportuaria
+- disposicoes
+- gerais
+- heliponto
+- adequado
+- conformidade
+- disposto
+- emergencia
+- implementar
+- manter
+- operacional
+- operacoes
+- operador
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

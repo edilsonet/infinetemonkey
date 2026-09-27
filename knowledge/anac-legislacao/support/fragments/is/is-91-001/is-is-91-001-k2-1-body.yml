@@ -1,0 +1,40 @@
+id: is-is-91-001-k2-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K2.1
+section_title: 'Valor de RNP. A todo procedimento RNP AR APCH é atribuído um valor de RNP
+  específico, ex. RNP 0.3 ou RNP 0.15. O menor valor de RNP autorizado deve fazer parte da
+  documentação do operador podendo variar de acordo com modelos, configurações das aeronaves
+  ou procedimentos operacionais (ex.: utilização de FD com ou sem AP, equipamentos inoperantes,
+  etc.).'
+subsection_id: body
+cite: K2.1
+title: 'Valor de RNP. A todo procedimento RNP AR APCH é atribuído um valor de RNP específico,
+  ex. RNP 0.3 ou RNP 0.15. O menor valor de RNP autorizado deve fazer parte da documentação
+  do operador podendo variar de acordo com modelos, configurações das aeronaves ou procedimentos
+  operacionais (ex.: utilização de FD com ou sem AP, equipamentos inoperantes, etc.).'
+text: 'K2.1 Valor de RNP. A todo procedimento RNP AR APCH é atribuído um valor de RNP específico,
+  ex. RNP 0.3 ou RNP 0.15. O menor valor de RNP autorizado deve fazer parte da documentação
+  do operador podendo variar de acordo com modelos, configurações das aeronaves ou procedimentos
+  operacionais (ex.: utilização de FD com ou sem AP, equipamentos inoperantes, etc.).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- valor
+- acordo
+- aeronaves
+- apch
+- atribuido
+- autorizado
+- configuracoes
+- documentacao
+- equipamentos
+- especifico
+- fazer
+- inoperantes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

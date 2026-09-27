@@ -1,0 +1,35 @@
+id: iac-iac-001-1001a-9-1-6-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 9.1.6
+section_title: A letra será um indicativo de cada nova edição da publicação.
+subsection_id: body
+cite: 9.1.6
+title: A letra será um indicativo de cada nova edição da publicação.
+text: '9.1.6 A letra será um indicativo de cada nova edição da publicação.
+
+  Exemplos:
+
+  A publicação que vier a substituir outra de mesmo título continuará com o número da
+
+  anterior, porém com data atualizada, mencionando a que foi substituída e que deverá ser
+
+  considerada sem efeito.'
+keywords:
+- publicacao
+- cada
+- edicao
+- indicativo
+- letra
+- nova
+- anterior
+- atualizada
+- considerada
+- continuara
+- data
+- devera
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

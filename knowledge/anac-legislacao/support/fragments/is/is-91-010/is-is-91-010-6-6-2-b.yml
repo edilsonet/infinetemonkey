@@ -1,0 +1,32 @@
+id: is-is-91-010-6-6-2-b
+kind: is
+document: is-91-010
+family: '91'
+section_id: 6.6.2
+section_title: 'Uma especificação RCP é composta pelos seguintes parâmetros:'
+subsection_id: b
+cite: 6.6.2(b)
+title: 6.6.2(b)
+text: 'b) Continuidade RCP: proporção mínima de transações que devem ser completadas dentro
+  do Tempo Nominal de Transação (95%) ou do Tempo Operacional de Transação (99,9%), considerando-se
+  que o serviço esteja disponível no momento em que a transação se inicia;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- transacao
+- tempo
+- completadas
+- composta
+- considerando
+- continuidade
+- dentro
+- disponivel
+- especificacao
+- esteja
+- inicia
+- minima
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

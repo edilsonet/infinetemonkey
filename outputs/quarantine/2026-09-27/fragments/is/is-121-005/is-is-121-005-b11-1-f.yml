@@ -1,0 +1,74 @@
+id: is-is-121-005-b11-1-f
+kind: is
+document: is-121-005
+family: '121'
+section_id: B11.1
+section_title: B11.1
+subsection_id: f
+cite: B11.1(f)
+title: B11.1(f)
+text: '(f) procedimentos para geração e arquivamento de relatório de auditoria interna, prévia
+  ao início das operações, em que seja verificada a aplicação dos procedimentos requeridos
+  nos itens b) a e) acima.
+
+  I. O relatório deve conter evidências da aplicação dos procedimentos. Por exemplo, com relação
+  a treinamentos requeridos, podem ser utilizados como evidência certificados ou planilhas
+  de controle.
+
+  II. No relatório de auditoria interna, devem ser especificadas as situações que demandam
+  sua aplicação, de acordo com a tabela abaixo:
+
+  Situação
+
+  Itens aplicáveis
+
+  Operação em novo aeródromo regular
+
+  Todos, com exceção de B3.6(b)(I)(c).
+
+  Operação com novo modelo de aeronave em aeródromo regular já operado
+
+  B3.6(a), (b)(I)(a), (b)(II) [exceto (b)(II)(b)], (b)(III), (b)(V), (b)(VI), (c)(I), (c)(II),
+  (d), (e) e (f).
+
+  Operação de nova rota entre aeródromos regulares já operados
+
+  B3.6(b)(II)(d), (b)(III), (b)(IV), (b)(V), (b)(VI), (d), (e) e (f).
+
+  Operação em novo aeródromo de alternativa, ou operação com novo modelo de aeronave em aeródromo
+  de alternativa já operado.
+
+  B3.6(a), (b) [exceto (I)(a)], (c)(IV), (d), (e) e (f).
+
+
+  Nota: uma única alteração pode ensejar mais de uma das situações da tabela. Por exemplo,
+  a inclusão de um novo aeródromo regular pode ensejar a inclusão de um novo aeródromo de
+  alternativa; ou a operação de um novo modelo de aeronave em aeródromo regular já operado
+  pode representar também a operação de uma nota rota entre aeródromos já operados. Nesses
+  casos, o operador deve realizar todas as avaliações requeridas por cada linha aplicável,
+  considerando cada aeródromo, rota e aeronave aplicável.
+
+  B4. COMPOSIÇÃO DAS TRIPULAÇÕES
+
+  B4.1. Composição da tripulação. Explicação do método usado para determinar a composição
+  das tripulações, considerando o seguinte:'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- novo
+- operacao
+- aeronave
+- regular
+- alternativa
+- aplicacao
+- composicao
+- modelo
+- operado
+- pode
+- procedimentos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-005.md

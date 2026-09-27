@@ -1,0 +1,94 @@
+id: is-is-145-010c-5-1-4-body
+kind: is
+document: is-145-010c
+family: '145'
+section_id: 5.1.4
+section_title: Escopo e complexidade do PTM
+subsection_id: body
+cite: 5.1.4
+title: Escopo e complexidade do PTM
+text: '5.1.4 Escopo e complexidade do PTM
+
+  5.1.4.1 A finalidade do programa de treinamento, tanto o inicial quanto o recorrente, é
+  de assegurar que as pessoas da OM que executam Função de Manutenção sejam capazes de executar
+  as tarefas designadas, em atendimento à seção 145.163 do RBAC nº 145. Entende-se tarefa
+  designada como aquela atribuída à pessoa pela OM detentora de autorização para sua execução.
+
+  5.1.4.2 O programa de treinamento de uma OM deve ser baseado nas necessidades e características
+  de sua operação. Na elaboração de seu programa de treinamento, cada OM deve considerar o
+  tamanho de suas instalações, a complexidade de suas operações e de suas categorias (ver
+  seção 145.59 do RBAC nº 145), as tarefas associadas com cada Função de Manutenção, e os
+  níveis de habilidade e experiência de seu pessoal. Cada OM é única e, portanto, deve requerer
+  procedimentos específicos para validar os requisitos regulatórios e atender suas necessidades.
+
+  5.1.4.3 Cada pessoa da OM deve ter seu treinamento baseado nas tarefas associadas com a
+  Função de Manutenção que será exercida por ela (inicial) ou que é por ela exercida (recorrente).
+  A OM deve desenvolver procedimentos para determinar o treinamento requerido para cada pessoa.
+  Considerando que nem todas as pessoas requerem o mesmo nível de treinamento, para facilitar
+  a elaboração dos Requisitos de Treinamento e os cursos a serem ministrados, a OM pode fazer
+  o planejamento desses cursos baseado na separação do pessoal em categorias.
+
+  5.1.4.4 As pessoas que executam Função de Manutenção devem ser treinadas conforme o programa
+  de treinamento aprovado pela Anac. Outros colaboradores da OM também podem ser treinados
+  segundo esse programa, mas seu treinamento não é considerado obrigatório pelos regulamentos.
+  A Tabela 1 mostra dois exemplos de portes diferentes de OM e categoria de pessoal que elas
+  poderiam adotar para customizar um programa de treinamento
+
+  Tabela 1 - Porte da OM e exemplo de categoria de pessoal
+
+
+  Porte da OM
+
+  Exemplo de categorias do pessoal
+
+  pequeno
+
+  a
+
+  médio
+
+  porte
+
+  1) Técnicos e inspetores que executam Função de Manutenção.
+
+
+  2) Supervisores que executam Função de Manutenção.
+
+
+  3) Gerentes e assistentes que executam Função de Manutenção.
+
+  grande
+
+  porte
+
+  1) Funcionário Técnico com autoridade para aprovar retorno ao serviço.
+
+
+  2) Funcionário Técnico sem autoridade para aprovar retorno ao serviço.
+
+
+  3) Pessoal de Inspeção.
+
+
+  4) Pessoal de Supervisão que executa Função de Manutenção.
+
+  Nota: a IS nº 145-009 apresenta outros exemplos de portes diferentes de OM.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- treinamento
+- funcao
+- pessoal
+- programa
+- cada
+- executam
+- complexidade
+- porte
+- baseado
+- categorias
+- escopo
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-010c.md

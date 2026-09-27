@@ -1,0 +1,36 @@
+id: is-is-121-012-5-2-1-2-7-a
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.7
+section_title: Limitação por sistema de tempo limite (121.633).
+subsection_id: a
+cite: 5.2.1.2.7(a)
+title: 5.2.1.2.7(a)
+text: a) Para operações ETOPS até 180 minutos (121.633(a)) e para a operação ETOPS 207 minutos
+  (que é considerada uma extensão à aprovação ETOPS 180 minutos), o aeródromo de alternativa
+  ETOPS deve estar a, no máximo, um tempo de desvio igual ao tempo limite do sistema significativo
+  ETOPS mais limitante (incluindo o sistema de supressão de fogo do avião para os compartimentos
+  de carga e bagagem que sejam requeridos possuir tal sistema) menos 15 minutos. Deve-se considerar
+  a velocidade de cruzeiro com um motor inoperante, sob atmosfera padrão e ar calmo, ou seja,
+  não é necessário considerar o vento;
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- minutos
+- sistema
+- tempo
+- considerar
+- limite
+- aerodromo
+- alternativa
+- aprovacao
+- atmosfera
+- aviao
+- bagagem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

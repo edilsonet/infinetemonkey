@@ -1,0 +1,57 @@
+id: is-is-60-002-7-3-4-b
+kind: is
+document: is-60-002
+family: '60'
+section_id: 7.3.4
+section_title: 'Para Dispositivo de Treinamento (FTD) de Helicóptero:'
+subsection_id: b
+cite: 7.3.4(b)
+title: 7.3.4(b)
+text: 'b) Fase 2: Envio de documentos à ANAC.
+
+  Enviar à ANAC, por meio de documento físico ou, preferencialmente, eletrônico, com antecedência
+  mínima de 90 dias:
+
+  - Carta com a solicitação para qualificação inicial;
+
+  - FORM 60-02, descrevendo as informações pertinentes, tanto os dados técnicos do FSTD, a
+  aeronave sendo simulada, dados do operador, dados de localização do FSTD, base de qualificação
+  pretendida;
+
+  - Comprovante de pagamento da TFAC aplicável;
+
+  - QTG junto com análise de cada um dos testes, verificando se cumpre o requisito aplicável.
+
+  Nota: O envio do QTG poderá ser feito em momento posterior, seguindo uma das duas alternativas:
+
+  - Enviar com 45 dias corridos ou mais de antecedência à inspeção o QTG rodado nas instalações
+  do fabricante do FSTD, ou onde esteja instalado. Após o FSTD ser instalado na sua localidade
+  final, enviar com 5 dias úteis ou mais de antecedência o QTG rodado nessa localidade final.
+  Ou;
+
+  - Enviar com 20 dias corridos de antecedência à inspeção o QTG rodado na localidade final.
+
+  No sistema SEI, o usuário deve utilizar o tipo de processo: Qualificação de FSTD: Inicial
+  ou elevação de nível.
+
+  Para mais informação sobre a confecção do QTG, consultar a seção 8 dessa IS.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- antecedencia
+- dias
+- enviar
+- dados
+- final
+- localidade
+- qualificacao
+- rodado
+- aplicavel
+- corridos
+- envio
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

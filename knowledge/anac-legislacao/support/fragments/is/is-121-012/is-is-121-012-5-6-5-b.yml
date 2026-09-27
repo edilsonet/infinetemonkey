@@ -1,0 +1,93 @@
+id: is-is-121-012-5-6-5-b
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.6.5
+section_title: 'Essa comprovação pode ser feita pela combinação de trabalhos em dois níveis:'
+subsection_id: b
+cite: 5.6.5(b)
+title: 5.6.5(b)
+text: 'b) nível de despacho de voo:
+
+  i. o detentor de certificado deve monitorar as condições dos aeródromos adequados identificados
+  previamente, de forma a garantir que os aeródromos adequados necessários para sustentar
+  uma rota como não ETOPS estejam abertos ao tráfego e que as condições de vento (velocidade
+  e direção) permitam o pouso atendendo à seção 121.197 do RBAC nº 121, considerando o peso
+  do avião para o voo específico. As seguintes considerações devem ser observadas:
+
+  1) um aeródromo que não esteja aberto ao tráfego por qualquer motivo, ainda que esteja listado
+  na EO como aeródromo regular ou como aeródromo adequado, não pode ser considerado um aeródromo
+  adequado para o voo específico, pois temporariamente não atende à seção 121.197. Caso apenas
+  uma pista de pouso e decolagem específica do aeródromo não esteja aberta ao tráfego, o aeródromo
+  ainda pode ser considerado um aeródromo adequado se houver outra pista de pouso e decolagem
+  que permita o pouso atendendo à seção 121.197;
+
+  2) se houver ventos cruzados com velocidade que exceda os limites operacionais do avião,
+  o aeródromo não pode ser considerado um aeródromo adequado, pois o avião não pode pousar
+  cumprindo os requisitos de 121.197;
+
+  3) não é requerido, para esse fim, que se avaliem as condições de pista (pista molhada ou
+  contaminada) do aeródromo adequado, pois tal parâmetro não é considerado necessário ao atendimento
+  de 121.197; e
+
+  4) também não é requerido que o aeródromo adequado, utilizado para sustentar uma rota como
+  não ETOPS, atenda aos requisitos de mínimos meteorológicos das seções 121.624 ou 121.625.
+  Tais requisitos apenas se aplicam aos aeródromos de alternativa ETOPS, que devem ser designados
+  quando se trata, de fato, de um voo ETOPS; e
+
+  ii. o voo somente pode ser despachado como um voo não ETOPS se houver aeródromos adequados
+  a menos de 75 minutos (ou 180, conforme aplicável) da rota. No caso de operações regulares,
+  tais aeródromos devem estar listados na Lista de Aeródromos Regulares e de Alternativa,
+  seja como aeródromos regulares, seja como aeródromos adequados.
+
+  5.6.6 O detentor de certificado pode optar por aprofundar a comprovação no nível de engenharia
+  de operações (que é feita uma única vez para a rota) de modo a simplificar as comprovações
+  que precisam ser feitas no nível de despacho de voo (que são feitas a cada despacho de voo).
+  Por exemplo, se no nível de engenharia de operações, o detentor de certificado determina
+  as situações mais críticas de peso do avião e condições de vento que atendem ao 121.197,
+  pode, durante o despacho de voo, apenas verificar se a situação específica no momento do
+  voo se encontra abrangida pelas situações aceitáveis, conforme determinado no nível de engenharia
+  de operações - além de verificar se o aeródromo, ou pista de pouso e decolagem considerada,
+  estará aberto ao tráfego. Assim, não se demanda a realização de cálculos mais detalhados
+  no nível de despacho de voo.
+
+  5.6.7 O detentor de certificado também pode optar por aprofundar o estudo no nível de engenharia
+  de operações para garantir maior despachabilidade do avião. Por exemplo, se, em um estudo
+  mais simplificado, o detentor de certificado identifica somente um aeródromo adequado que
+  cobre determinado ponto da rota, será necessário que esse aeródromo adequado atenda aos
+  critérios no nível de despacho de voo; caso não atenda, o voo não poderá ser despachado
+  (supondo aqui que o detentor de certificado não possua autorização para operar ETOPS). Por
+  outro lado, se o detentor de certificado faz um estudo mais aprofundado no nível de engenharia
+  de operações, identificando diversos aeródromos adequados e garantindo que cada ponto da
+  rota seja coberto por mais de um aeródromo adequado, será possível que o fato de um ou mais
+  desses aeródromos não atenderem aos critérios no nível de despacho de voo não inviabilize
+  o voo específico, pois basta haver, para cada ponto da rota, um único aeródromo adequado
+  que sustente a rota como não ETOPS.
+
+  5.6.8 É possível que seja necessário alterar a rota para mantê-la dentro da distância requerida
+  dos aeródromos adequados, seja no nível de engenharia de operações ou no nível de despacho
+  de voo. É importante, nesse caso, que os pilotos sejam alertados de que há restrição à aceitação
+  de rotas diretas e que sua aceitação pode fazer com o que o voo entre inadvertidamente em
+  uma área de operações ETOPS. Os DOVs que acompanham o progresso desses voos (em atendimento
+  à responsabilidade estabelecida em 121.533(c)(1) do RBAC nº 121) devem estar atentos a essa
+  situação, atuando como uma barreira visando a garantir que um voo não ETOPS não se distancie
+  de aeródromos adequados por mais de 75 minutos de voo (ou 180, conforme aplicável).'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- aerodromos
+- nivel
+- adequado
+- pode
+- etops
+- rota
+- despacho
+- adequados
+- certificado
+- detentor
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

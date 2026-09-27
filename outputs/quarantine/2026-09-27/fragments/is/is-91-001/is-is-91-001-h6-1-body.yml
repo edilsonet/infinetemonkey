@@ -1,0 +1,43 @@
+id: is-is-91-001-h6-1-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H6.1
+section_title: Generalidades
+subsection_id: body
+cite: H6.1
+title: Generalidades
+text: 'H6.1 Generalidades
+
+  a) A especificação para a navegação RNP 2 exige que o GNSS seja o principal sensor de navegação,
+  seja como sistema de navegação autónomo, ou como parte de um sistema multissensor.
+
+  b) As operações RNP 2 no espaço aéreo oceânico e remoto exigem dois sistemas de navegação
+  independentes de longo alcance (GNSS).
+
+  c) As operações RNP 2 no espaço aéreo continental em rota podem utilizar apenas um GNSS,
+  sempre e quando se disponha de um meio alternativo de navegação e se assim o requere a categoria
+  de operação.
+
+  d) As aeronaves que cumprem com o requisito de continuidade oceânica/remota também cumprem
+  com o requisito de continuidade continental.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- generalidades
+- gnss
+- aereo
+- continental
+- continuidade
+- cumprem
+- espaco
+- operacoes
+- requisito
+- seja
+- sistema
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

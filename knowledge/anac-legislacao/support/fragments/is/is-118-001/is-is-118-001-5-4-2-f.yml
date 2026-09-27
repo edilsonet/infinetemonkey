@@ -1,0 +1,49 @@
+id: is-is-118-001-5-4-2-f
+kind: is
+document: is-118-001
+family: '118'
+section_id: 5.4.2
+section_title: 'Os elementos fundamentais para um programa NEF são:'
+subsection_id: f
+cite: 5.4.2(f)
+title: 5.4.2(f)
+text: 'f) lista NEF.
+
+  5.4.3 As partes de um programa NEF que tenham referência à execução de manutenção devem
+  estar de acordo com as práticas padrão definidas nos regulamentos e manuais de manutenção.
+
+  5.4.4 Para inclusão de novos itens na lista NEF, o programa deve ter procedimento definindo
+  as interações e os critérios para avaliação do novo item, incluindo o(s) setor(es) responsável(veis)
+  por essa avaliação.
+
+  5.4.5 No caso de detentores de certificado emitido segundo o RBAC nº 119 ou de administradores
+  de programa segundo a Subparte K do RBAC nº 91, essa avaliação deve estar sob responsabilidade
+  do Diretor de Manutenção, que pode indicar no programa NEF setores que conduzirão a atividade,
+  como, por exemplo, Engenharia, TS (Troubleshooting), MCC (Maintenance Control Center) etc.
+  A avaliação deve ainda envolver contato com a pessoa autorizada a liberar a aeronave de
+  acordo com a MEL, a qual está atendendo a aeronave na pista.
+
+  5.4.6 No caso dos demais operadores, essa avaliação deve estar sob responsabilidade do operador
+  aéreo e deve envolver em contato com a pessoa autorizada a liberar a aeronave de acordo
+  com a MEL, a qual está atendendo a aeronave na pista.
+
+  5.4.7 O operador deve arquivar o registro da análise que levou à inclusão do item na lista
+  NEF (contendo, pelo menos o evento que gerou a inclusão do item, o responsável pela análise,
+  os dados técnicos utilizados para avaliação e data de inclusão do item).'
+keywords:
+- avaliacao
+- programa
+- aeronave
+- inclusao
+- acordo
+- estar
+- lista
+- manutencao
+- analise
+- atendendo
+- autorizada
+- caso
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-118-001.md

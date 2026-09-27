@@ -1,0 +1,36 @@
+id: is-is-133-001-7-body
+kind: is
+document: is-133-001
+family: '133'
+section_id: '7'
+section_title: Centro de gravidade (CG).
+subsection_id: body
+cite: '7'
+title: Centro de gravidade (CG).
+text: '7. Centro de gravidade (CG).
+
+  A localização do CG para esta aeronave deve, para todas as condições de carregamento, ficar
+  dentro dos limites estabelecidos para a aeronave durante sua certificação de tipo. Para
+  combinações aeronave-carga Classe C, os valores da magnitude e da direção da força de carga
+  devem ser aqueles valores para os quais a localização efetiva do centro de gravidade permanece
+  dentro da faixa estabelecida.'
+keywords:
+- carga-externa
+- helicoptero
+- centro
+- gravidade
+- aeronave
+- carga
+- dentro
+- localizacao
+- valores
+- aqueles
+- carregamento
+- certificacao
+- classe
+- combinacoes
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

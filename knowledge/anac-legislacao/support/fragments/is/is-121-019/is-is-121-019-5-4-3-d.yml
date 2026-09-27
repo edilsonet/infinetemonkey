@@ -1,0 +1,41 @@
+id: is-is-121-019-5-4-3-d
+kind: is
+document: is-121-019
+family: '121'
+section_id: 5.4.3
+section_title: 'O SOP deve incluir:'
+subsection_id: d
+cite: 5.4.3(d)
+title: 5.4.3(d)
+text: 'd) alinhamento para decolagem:
+
+  a. confirmação positiva da pista em uso: FMS, sinal do localizador etc;
+
+  b. contagem das luzes de eixo de pista para confirmação da visibilidade; e
+
+  c. avaliar a necessidade de se utilizarem ou não as luzes de decolagem, considerando que
+  as luzes refletidas podem diminuir a visibilidade.
+
+  5.4.4 Quando as operações LVTO estiverem associadas a um procedimento RNP, as disposições
+  associadas ao RNP começam a ser aplicadas após a decolagem quando a aeronave cruzar 35 pés
+  de altura.'
+keywords:
+- transporte-aereo
+- operacoes
+- decolagem
+- luzes
+- associadas
+- confirmacao
+- pista
+- visibilidade
+- aeronave
+- alinhamento
+- altura
+- aplicadas
+- avaliar
+- comecam
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-019.md

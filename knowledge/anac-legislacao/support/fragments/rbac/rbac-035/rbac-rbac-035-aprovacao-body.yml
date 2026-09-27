@@ -1,0 +1,28 @@
+id: rbac-rbac-035-aprovacao-body
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 223, de 28 de março de 2012. [Emenda nº 08]
+
+  Resolução nº 486, de 9 de agosto de 2018. [Emenda nº 09]
+
+  Resolução nº 524, de 2 de agosto de 2019. [Emenda nº 10]'
+keywords:
+- helices
+- aeronavegabilidade
+- aprovacao
+- resolucao
+- agosto
+- marco
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

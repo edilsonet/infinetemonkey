@@ -1,0 +1,61 @@
+document: is-e94-004a
+kind: is
+title: IS E94-004A
+ementa: Autorização declaratória de projeto de RPAS, destinada às operações de baixo risco
+  (SAIL I ou II), segundo a metodologia SORA
+family: '94'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-e94-004a
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-e94-004a
+language: pt
+foreign_annex: false
+sections:
+- apendice-a-lista-de-reducoes
+- apendice-a-siglas-e-abreviaturas
+- apendice-b-analise-de-risco
+- apendice-c-documentos-necessarios-para-a-abertura-do-534af1
+- apendice-c-documentos-necessarios-para-abertura-do-processo
+- aplicabilidade
+- aprovacao
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 30
+fragment_ids:
+- is-is-e94-004a-preambulo-body
+- is-is-e94-004a-aprovacao-body
+- is-is-e94-004a-objetivo-body
+- is-is-e94-004a-revogacao-body
+- is-is-e94-004a-fundamentos-body
+- is-is-e94-004a-definicoes-body
+- is-is-e94-004a-desenvolvimento-do-assunto-body
+- is-is-e94-004a-aplicabilidade-body
+- is-is-e94-004a-apendice-a-siglas-e-abreviaturas-body
+- is-is-e94-004a-apendice-b-analise-de-risco-body
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-a-abertura-do-534af1-body
+- is-is-e94-004a-disposicoes-finais-body
+- is-is-e94-004a-apendice-a-lista-de-reducoes-body
+- is-is-e94-004a-apendice-b-analise-de-risco-a
+- is-is-e94-004a-apendice-b-analise-de-risco-b
+- is-is-e94-004a-apendice-b-analise-de-risco-c
+- is-is-e94-004a-apendice-b-analise-de-risco-d
+- is-is-e94-004a-apendice-b-analise-de-risco-e
+- is-is-e94-004a-apendice-b-analise-de-risco-f
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-body
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-a
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-b
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-c
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-d
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-e
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-f
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-g
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-h
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-i
+- is-is-e94-004a-apendice-c-documentos-necessarios-para-abertura-do-processo-j
+parser_version: 7

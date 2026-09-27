@@ -1,0 +1,337 @@
+id: is-is-121-007c-5-6-5-b
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.6.5
+section_title: Carga horária
+subsection_id: b
+cite: 5.6.5(b)
+title: 5.6.5(b)
+text: 'b) Um tripulante. Excepcionalmente, quando um único tripulante participa de uma sessão
+  de qualificação LOFT, este tripulante deverá receber um crédito completo de 4 horas, desde
+  que as seguintes condições sejam cumpridas:
+
+  1) A sessão LOFT possua um mínimo de 4 horas; e
+
+  2) Ao menos 2,5 horas sejam utilizadas no cenário LOFT.
+
+  Nota: uma seção de qualificação LOFT de 2 horas para um piloto não atende aos requisitos
+  de treinamento do Apêndice H do RBAC nº 121. Um programa de qualificação LOFT consiste de
+  pelo menos um período de treinamento de quatro horas para cada tripulante.
+
+  5.6.5.6 As tabelas a seguir especificam as cargas horárias de referência para os segmentos
+  de currículo de voo. Essas cargas horárias se baseiam na premissa de que existem auxílios
+  de treinamento razoáveis, tais como instrutores eficientes e guias de instrução de voo bem
+  organizados. As informações da Figura 14 se aplicam quando a maioria ou todo o treinamento
+  de voo é realizado em FSTD e quando dois pilotos são treinados nos postos de pilotagem na
+  mesma sessão. As informações da Figura 15 se aplicam quando o treinamento de voo é realizado
+  por somente um tripulante em FSTD ou aeronave. Treinamento de voo de dois pilotos simultaneamente
+  em aeronave não é permitido.
+
+  5.6.5.7 Ao determinar a adequação da carga horária do treinamento de voo, o operador deve
+  utilizar as informações das tabelas a seguir como um ponto de partida, a partir do qual
+  outros fatores também devem ser considerados. Podem existir muitas razões para que as horas
+  de treinamento sejam maiores do que as especificadas nestas tabelas. Pode ser necessário
+  especificar uma carga horária maior devido à complexidade da aeronave e dos tipos de operação.
+  A ANAC pode também requerer mais horas em caso de auxílios de treinamento inadequados. Por
+  outro lado, uma carga horária menor pode ser aceitável com o uso de métodos de treinamento
+  altamente sofisticados, treinamento efetivo sobre integração de sistemas no segmento de
+  currículo de solo, aeronaves menos complexas ou um tipo menos complexo de operação. A tabela
+  a seguir ilustra alguns fatores que devem ser considerados ao determinar a adequação das
+  horas de treinamento de voo.
+
+  Operações especiais
+
+  Operações não especiais
+
+  Novo operador
+
+  Instrumentos servo-mecânicos básicos
+
+  Operação complexa dos sistemas, motores e hélices da aeronave
+
+  Experiência prévia dos pilotos com aeronaves similares
+
+  Aeronave com desempenho crítico
+
+  Simuladores e dispositivos de treinamento de voo modernos
+
+  EFIS, FMS, Voo automático
+
+  Guias do instrutor de voo bem organizados
+
+  Discrepância nos níveis de experiência dos tripulantes
+
+  Sistemas de navegação básicos
+
+  Operações de baixa visibilidade
+
+  Características de pilotagem simples
+
+  Sistemas de navegação complexos
+
+  Treinamento efetivo em integração de sistemas
+
+  Acima das horas de referência
+
+
+  Horas de referência
+
+  Abaixo das horas de referência
+
+
+  Figura 13 - Fatores para a carga horária do treinamento de voo
+
+
+  Categorias de Treinamento
+
+  Categoria transporte
+
+  Família de Aeronave
+
+  Inicial nova contratação
+
+  Inicial
+
+  Equipamento
+
+  Transição
+
+  Elevação de Nível
+
+  Periódico
+
+  Grupo I
+
+  (Motores convencionais)
+
+  PIC - 24
+
+  SIC - 24
+
+  MCV - 20
+
+  PIC - 20
+
+  SIC - 20
+
+  MCV - 20
+
+  PIC - 20
+
+  SIC - 20
+
+  MCV - 20
+
+  SIC a PIC-8
+
+  MCV a SIC-20
+
+  PIC - 8
+
+  SIC - 8
+
+  MCV - 8
+
+  Grupo I
+
+  (Turboélices)
+
+  PIC - 32
+
+  SIC - 32
+
+  MCV - 28
+
+  PIC - 32
+
+  SIC - 32
+
+  MCV - 28
+
+  PIC - 24
+
+  SIC - 24
+
+  MCV - 20
+
+  SIC a PIC-20
+
+  MCV a SIC-28
+
+  PIC - 8
+
+  SIC - 8
+
+  MCV - 8
+
+  Grupo II
+
+  (Jatos)
+
+  PIC - 32
+
+  SIC - 32
+
+  MCV - 28
+
+  PIC - 32
+
+  SIC - 32
+
+  MCV - 28
+
+  PIC - 24
+
+  SIC - 24
+
+  MCV - 20
+
+  SIC a PIC-20
+
+  MCV a SIC-28
+
+  PIC - 8
+
+  SIC - 8
+
+  MCV - 8
+
+  Figura 14 - Horas de treinamento de voo: dois pilotos em FSTD
+
+
+  Categorias de Treinamento
+
+  Categoria transporte
+
+  Família de Aeronave
+
+  Inicial nova contratação
+
+  Inicial
+
+  Equipamento
+
+  Transição
+
+  Elevação de Nível
+
+  Periódico
+
+  Grupo I
+
+  (Motores convencionais)
+
+  PIC - 10
+
+  SIC - 6
+
+  MCV - 6
+
+  PIC - 10
+
+  SIC - 6
+
+  MCV - 6
+
+  PIC - 12
+
+  SIC - 12
+
+  MCV - 12
+
+  SIC a PIC-6
+
+  MCV a SIC-14
+
+  PIC - 4
+
+  SIC - 4
+
+  MCV - 4
+
+  Grupo I
+
+  (Turboélices)
+
+  PIC - 15
+
+  SIC - 7
+
+  MCV - 7
+
+  PIC - 15
+
+  SIC - 7
+
+  MCV - 7
+
+  PIC - 12
+
+  SIC - 12
+
+  MCV - 12
+
+  SIC a PIC-6
+
+  MCV a SIC-15
+
+  PIC - 4
+
+  SIC - 4
+
+  MCV - 4
+
+  Grupo II
+
+  (Jatos)
+
+  PIC - 20
+
+  SIC - 10
+
+  MCV - 10
+
+  PIC - 20
+
+  SIC - 10
+
+  MCV - 10
+
+  PIC - 12
+
+  SIC - 12
+
+  MCV - 12
+
+  SIC a PIC-6
+
+  MCV a SIC-16
+
+  PIC - 4
+
+  SIC - 4
+
+  MCV - 4
+
+  Figura 15 - Horas de treinamento de voo: um piloto em FSTD ou aeronave'
+keywords:
+- transporte-aereo
+- operacoes
+- treinamento
+- horas
+- aeronave
+- grupo
+- carga
+- figura
+- horaria
+- loft
+- sistemas
+- tripulante
+- fstd
+- inicial
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

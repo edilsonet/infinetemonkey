@@ -1,0 +1,32 @@
+id: rbac-rbac-117-requisitos-body
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: requisitos
+section_title: REQUISITOS
+subsection_id: body
+cite: requisitos
+title: REQUISITOS
+text: 'REQUISITOS
+
+  PARA
+
+  GERENCIAMENTO
+
+  DE
+
+  RISCO DE FADIGA HUMANA'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- requisitos
+- gerenciamento
+- humana
+- risco
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

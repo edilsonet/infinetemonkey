@@ -1,0 +1,83 @@
+id: is-is-60-001-11-7-5-c
+kind: is
+document: is-60-001
+family: '60'
+section_id: 11.7.5
+section_title: 'No prazo máximo de 6 meses a contar do recebimento da aceitação inicial do
+  QMS, o operador deve:'
+subsection_id: c
+cite: 11.7.5(c)
+title: 11.7.5(c)
+text: 'c) agendar a auditoria in loco da ANAC junto ao setor responsável de FSTD.
+
+  11.8 Inspeção e demonstração
+
+  11.9 A avaliação in loco das operações do operador de FSTD é realizada para determinar a
+  implementação e eficácia do manual do QMS. Normalmente, não é necessário agendar um horário
+  no simulador para isso, mas o acesso aos registros do simulador é essencial.
+
+  11.10 A ANAC confirmará a data da auditoria in loco e designará a equipe de inspeção que
+  será responsável por sua execução. Normalmente, são necessários 3 dias de inspeção, podendo
+  variar de acordo com a complexidade da organização. A ANAC providenciará à organização um
+  plano de inspeção que conterá o cronograma das atividades a serem realizadas na organização,
+  bem como a descrição dos documentos e registros que a organização deverá disponibilizar.
+  É recomendável a presença do Representante do Operador.
+
+  11.11 Ao término da inspeção, será entregue à organização o relatório preliminar de inspeção
+  do sistema de gestão da qualidade - QMS, listando quaisquer não conformidaes ou recomendações
+  de melhoria identificadas. O relatório preliminar é revisado em detalhes com o operador
+  na reunião de encerramento da inspeção e assinado por todos os participantes.
+
+  11.12 De posse das informações coletadas no relatório preliminar, a ANAC revisará no escritório
+  as discrepâncias encontradas durante a inspeção e notificará a organização das não conformidades,
+  que deverão ser sanadas dentro do prazo estabelecido pela ANAC.
+
+  11.13 Aprovação
+
+  11.14 A ANAC emitirá à organização a aprovação do QMS após determinar que o programa está
+  implementado de forma satisfatória e que todas as não conformidades detectadas na auditoria
+  inicial foram fechadas.
+
+  Modificação do QMS pelo operador
+
+  12.1 O operador pode modificar seu QMS sempre que julgar necessário. A modificação pode
+  envolver qualquer aspecto do QMS, podendo ser:
+
+
+  alteração nas políticas, processos ou procedimentos;
+
+  alteração no sistema de auditorias;
+
+  alteração do representante do operador, organograma da empresa, dentre outros aspectos administrativos;
+  ou
+
+  qualquer alteração ao manual QMS.
+
+  12.2 Após realizar as modificações ao QMS, o operador já pode adotar imediatamente as modificações,
+  sem a necessidade de aprovação da ANAC. Contudo, o operador deve enviar à ANAC a nova versão
+  do manual QMS em até 30 dias após a sua modificação.
+
+  12.3 Uma modificação no QMS também pode ser motivada pela ANAC, sempre que a Agência detectar
+  deficiências no programa QMS aprovado. Nesse caso, a ANAC notificará o operador das deficiências
+  e estabelecerá um prazo para sua correção. O operador deve enviar à ANAC a proposta de modificação
+  e só poderá incorporá-la após o recebimento da aprovação da ANAC.'
+keywords:
+- simuladores
+- treinamento
+- operador
+- inspecao
+- organizacao
+- modificacao
+- alteracao
+- aprovacao
+- pode
+- auditoria
+- loco
+- manual
+- prazo
+- preliminar
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

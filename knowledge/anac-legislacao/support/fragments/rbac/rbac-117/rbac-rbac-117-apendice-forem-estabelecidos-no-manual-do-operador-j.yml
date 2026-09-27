@@ -1,0 +1,51 @@
+id: rbac-rbac-117-apendice-forem-estabelecidos-no-manual-do-operador-j
+kind: rbac
+document: rbac-117
+family: '117'
+section_id: apendice-forem-estabelecidos-no-manual-do-operador
+section_title: Apêndice forem estabelecidos no manual do operador.
+subsection_id: j
+cite: apendice-forem-estabelecidos-no-manual-do-operador(j)
+title: apendice-forem-estabelecidos-no-manual-do-operador(j)
+text: '(j) Limites de sobreaviso ou reserva.
+
+  (1) Um sobreaviso finalizado sem um chamado deve ser seguido por um período de tempo de
+
+  repouso de, pelo menos, 10 horas consecutivas.
+
+  (2) Uma reserva finalizada sem um chamado deve ser seguida por um período de tempo de
+
+  repouso de, pelo menos, 12 horas consecutivas.
+
+  (3) Os limites máximos de sobreaviso ou reserva a que uma tripulação esteja sujeita serão
+  os
+
+  limites estabelecidos nos respectivos art. 43 e 44 da Lei nº 13.475, de 28 de agosto de
+  2017.
+
+  (4) Se um tripulante que compuser tripulação simples for acionado durante um sobreaviso,
+  a
+
+  soma do limite máximo de jornada ao tempo de sobreaviso não pode ultrapassar 16 horas.'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- sobreaviso
+- estabelecidos
+- horas
+- limites
+- reserva
+- tempo
+- apendice
+- chamado
+- consecutivas
+- forem
+- manual
+- menos
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-117.md

@@ -1,0 +1,56 @@
+id: rbac-rbac-60-procedimentos-b
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: procedimentos
+section_title: procedimentos
+subsection_id: b
+cite: procedimentos(b)
+title: procedimentos(b)
+text: '(b) Em caso de suspensão da qualificação
+
+  do FSTD conforme o parágrafo (a) desta
+
+  seção, a suspensão poderá ser revogada desde
+
+  que uma das seguintes condições seja
+
+  atendida:
+
+  (1) the FSTD must successfully pass an
+
+  evaluation as determined by ANAC; or
+
+
+  (1) o FSTD deve ser aprovado em uma
+
+  avaliação como determinado pela ANAC; ou
+
+  (2) the ANAC advises the sponsor that an
+
+  evaluation is not necessary.
+
+
+  (2) a ANAC comunicar ao operador que
+
+  uma avaliação não é necessária.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- avaliacao
+- evaluation
+- procedimentos
+- suspensao
+- advises
+- aprovado
+- atendida
+- caso
+- comunicar
+- condicoes
+- desde
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

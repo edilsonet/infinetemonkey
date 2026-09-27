@@ -1,0 +1,33 @@
+document: is-109-001
+kind: is
+title: IS 109-001A
+ementa: Programa de Certificação AVSEC de Operadores da Cadeia de Carga Aérea Internacional
+  (Programa OEA-ANAC)
+family: '109'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-109-001
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-109-001
+language: pt
+foreign_annex: false
+sections:
+- apendice-a-criterios-subcriterios-e-requisitos-do-pro-25ec25
+- apendice-b-beneficios-do-programa-oea-anac
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+fragment_count: 8
+fragment_ids:
+- is-is-109-001-preambulo-body
+- is-is-109-001-objetivo-body
+- is-is-109-001-fundamentos-body
+- is-is-109-001-definicoes-body
+- is-is-109-001-desenvolvimento-do-assunto-body
+- is-is-109-001-apendice-a-criterios-subcriterios-e-requisitos-do-pro-25ec25-body
+- is-is-109-001-apendice-b-beneficios-do-programa-oea-anac-body
+- is-is-109-001-disposicoes-finais-body
+parser_version: 7

@@ -1,0 +1,78 @@
+id: is-is-120-017-8-3-1-d
+kind: is
+document: is-120-017
+family: '120'
+section_id: 8.3.1
+section_title: Documentos fonte do detentor do projeto. Revisões nos documentos de referência,
+subsection_id: d
+cite: 8.3.1(d)
+title: 8.3.1(d)
+text: 'd) nos objetivos e filosofia do programa.
+
+  Considerando que o detentor do projeto terá substanciado a tarefa e intervalo para a frota
+
+  global, o operador pode realizar uma análise abreviada, apropriada ao nível de risco
+
+  apresentado. Por exemplo, a análise de uma tarefa FEC 7 revisada pode consistir
+
+  meramente na revisão das métricas de confiabilidade e padrões de desempenho atuais.
+
+  Dependendo do risco, revisões em tarefas operacionais e relacionadas à segurança podem
+
+  requerer uma análise mais abrangente do que uma simples revisão de suas métricas de
+
+  desempenho. A análise de dados operacionais diretamente relacionados com a tarefa
+
+  revisada deve ser empregada para determinar se níveis aceitáveis de confiabilidade estão
+
+  sendo observados. Este processo deve estar bem definido no manual do operador e deve
+
+  incluir requisitos de documentação para a análise de dados realizada e conclusões
+
+  substanciadas. O processo deve considerar o risco e outros fatores relevantes à realidade
+
+  operacional do operador aéreo podendo ser um processo separado de seu processo de
+
+  otimização. A análise e os critérios para a adoção ou rejeição da revisão devem ser
+
+  consistentes, independentemente do tipo de alteração sendo avaliada (tarefa adicionada,
+
+  tarefa excluída, escalonamento, desescalonamento).
+
+  O operador pode utilizar documentos de fonte do detentor do projeto como dados
+
+  suplementares ao substanciar revisões em suas limitações de tempo. No entanto, assim
+
+  como não se pode selecionar quais pontos individuais ou pedaços de seus conjuntos de
+
+  dados utilizar e quais descartar, não se pode selecionar apenas os dados de documentos de
+
+  referência que suportem escalonamento e exclusões de tarefas, enquanto ignorando
+
+  desescalonamentos e adições de tarefas. O processo definido do operador deve incluir uma
+
+  avaliação de todas as tarefas e intervalos que foram revisados, assim como critérios
+
+  definidos, os quais resultem em ação consistente, independentemente do tipo de alteração
+
+  sendo analisada. Portanto, as seguintes diretrizes de análise devem ser seguidas:'
+keywords:
+- antidrogas
+- saude
+- analise
+- dados
+- operador
+- pode
+- processo
+- tarefa
+- documentos
+- tarefas
+- detentor
+- projeto
+- quais
+- revisao
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

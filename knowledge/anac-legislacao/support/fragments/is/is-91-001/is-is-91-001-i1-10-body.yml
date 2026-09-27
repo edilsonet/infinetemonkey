@@ -1,0 +1,39 @@
+id: is-is-91-001-i1-10-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: I1.10
+section_title: A elaboração dos procedimentos RNP APCH sem baro-VNAV são baseadas em perfis
+  de descida normais e as cartas dos procedimentos devem identificar os valores de altitudes
+  mínimas para cada segmento, incluindo a altitude/altura de liberação de obstáculos de navegação
+  lateral (LNAV OCA(H)).
+subsection_id: body
+cite: I1.10
+title: A elaboração dos procedimentos RNP APCH sem baro-VNAV são baseadas em perfis de descida
+  normais e as cartas dos procedimentos devem identificar os valores de altitudes mínimas
+  para cada segmento, incluindo a altitude/altura de liberação de obstáculos de navegação
+  lateral (LNAV OCA(H)).
+text: I1.10 A elaboração dos procedimentos RNP APCH sem baro-VNAV são baseadas em perfis de
+  descida normais e as cartas dos procedimentos devem identificar os valores de altitudes
+  mínimas para cada segmento, incluindo a altitude/altura de liberação de obstáculos de navegação
+  lateral (LNAV OCA(H)).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- altitude
+- altitudes
+- altura
+- apch
+- baro
+- baseadas
+- cada
+- cartas
+- descida
+- elaboracao
+- identificar
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,47 @@
+id: rbac-rbac-108-emd-07-108-241-e
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.241'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: e
+cite: 108.241(e)
+title: 108.241(e)
+text: '(e) Na execução dos testes AVSEC o operador aéreo deve observar as seguintes disposições:
+
+  (1) os testes AVSEC operacionalizados pelo operador aéreo somente poderão ser realizados
+  com autorização formal do profissional responsável pela AVSEC em âmbito nacional;
+
+  (2) a realização dos testes AVSEC deve ser coordenada com o órgão de segurança pública responsável
+  pelas atividades de polícia no aeródromo onde será a atividade, com antecedência mínima
+  de 10 (dez) dias;
+
+  (3) o operador aéreo deve elaborar e seguir manual de procedimento interno, instrução de
+  trabalho ou documento similar, descrevendo a forma de realização dos testes AVSEC, com objetivo
+  de padronizar a atividade e extrair resultados fidedignos e comparáveis entre si, além de
+  garantir a segurança dos seus executores;
+
+  (4) a equipe responsável pela programação, coordenação e execução dos testes AVSEC deve
+  assegurar que a data de realização não seja de conhecimento das equipes que atuam nos procedimentos
+  que serão testados;
+
+  (5) os simulacros de itens proibidos utilizados nos testes não poderão trazer risco a segurança
+  das pessoas envolvidas na realização da atividade e ao público em geral;'
+keywords:
+- seguranca
+- operador
+- avsec
+- testes
+- realizacao
+- aereo
+- atividade
+- responsavel
+- atividades
+- execucao
+- aerodromo
+- alem
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

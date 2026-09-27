@@ -1,0 +1,31 @@
+id: is-is-e94-503-001c-5-4-2-h
+kind: is
+document: is-e94-503-001c
+family: '94'
+section_id: 5.4.2
+section_title: Programa de Inspeção e Manutenção
+subsection_id: h
+cite: 5.4.2(h)
+title: 5.4.2(h)
+text: 'h) Coleção de Dados: Cada elemento autônomo do RPAS (aeronave, estação de pilotagem
+  remota, sistema de recuperação etc.) deve ter um número único de identificação. Componentes
+  críticos dentro de cada elemento também devem ter números únicos de identificação. Detalhes
+  sobre as horas voadas, horas em operação, ciclos submetidos e manutenções/inspeções executadas
+  em cada componente/elemento devem ser registrados.'
+keywords:
+- cada
+- elemento
+- horas
+- identificacao
+- aeronave
+- autonomo
+- ciclos
+- colecao
+- componente
+- componentes
+- criticos
+- dados
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-503-001c.md

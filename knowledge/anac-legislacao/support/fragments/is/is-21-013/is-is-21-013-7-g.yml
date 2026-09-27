@@ -1,0 +1,99 @@
+id: is-is-21-013-7-g
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: g
+cite: 7(g)
+title: 7(g)
+text: 'g) Os GNSSs devem usar o mesmo banco de dados.
+
+  7.3.3. Interface do GNSS como fonte de dados de navegação para outros equipamentos:
+
+  7.3.3.1. Equipamentos GNSS podem prover saídas para várias aplicações, incluindo TAWS, ADS-B,
+
+  entre outras. Saídas de posição de navegação, velocidade e tempo devem ser consistentes
+
+  com a função pretendida para a qual o sistema é utilizado, sob qualquer condição de operação
+
+  previsível;
+
+  7.3.3.2. As orientações desta IS quanto a sensores GNSS são aplicáveis a todas as interfaces
+  citadas
+
+  na nota a seguir e devem ser utilizadas em conjunto com as orientações para respectivas
+
+  interfaces pretendidas.
+
+  Nota: Para obter informações específicas relativas a equipamentos TAWS, ver a TSO-
+
+  C151b e as revisões mais recentes das AC 23-18 e AC 25-23. Para obter informações
+
+  específicas relativas a equipamentos HTAWS, ver a TSO-C194 e as revisões mais recentes
+
+  das MG 18 das AC 27-1 e AC 29-2. Displays com mapas eletrônicos, ver TSO-C165 e as
+
+  revisões mais recentes das AC 20-159, AC 23.1311-1 e AC 25-11. Equipamentos de ADS-
+
+  B, veja TSO-C166b, RTCA/DO-260B para 1090 Extended Squitter, TSO-C154c e
+
+  RTCA/DO-282B para Universal Access Transceiver. A AC 20-165 fornece informação de
+
+  orientação sobre o ADS-B.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  7.3.4. Interface com displays de navegação:
+
+  Para alguns equipamentos GNSS stand alone, o display pode estar afastado do computador
+
+  de navegação. Esses displays devem ser compatíveis com as saídas providas pelo
+
+  computador de navegação para que forneçam indicações de desvio adequadas para o piloto.
+
+  Para isso, o requerente de um processo de modificação para a instalação de um equipamento
+
+  GNSS stand alone deve verificar nas instruções/manual de instalação do equipamento a lista
+
+  de compatibilidade entre os equipamentos/sistemas e componentes objetos da modificação
+
+  e/ou padrões de compatibilidade;
+
+  7.3.5. Interface com chave de proa magnética/verdadeira:
+
+  Se um seletor (switch) de proa magnética/verdadeira está instalado na aeronave, o
+
+  equipamento GNSS deve ser comandado pelo mesmo seletor para manter a consistência nos
+
+  displays e na operação para mudanças (manuais e automáticas) da referência de posição;
+
+  Nota: A proa magnética é a referência primária de proa. No entanto, existem países que
+
+  podem usar a posição verdadeira como a principal referência de posição em áreas de latitude
+
+  extrema.
+
+  7.3.6. Interface com sistemas de Air Data e sistemas de referência inerciais'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- equipamentos
+- gnss
+- navegacao
+- displays
+- interface
+- posicao
+- proa
+- referencia
+- equipamento
+- instalacao
+- magnetica
+- nota
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

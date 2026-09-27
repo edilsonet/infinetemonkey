@@ -1,0 +1,103 @@
+id: is-is-21-61-005-5-4-3-d
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.4.3
+section_title: Aircraft for which ANAC is the validating authority
+subsection_id: d
+cite: 5.4.3(d)
+title: 5.4.3(d)
+text: 'd) A unique MMEL for Brazilian TC is issued.
+
+  5.5 Modificações e a MMEL
+
+  5.5 Changes and MMEL
+
+  5.5.1 Um item pode não ter sido incluído na MMEL porque o seu relaxamento não foi considerado
+  apropriada naquela aeronave ou simplesmente porque tal item não foi considerado durante
+  o desenvolvimento da MMEL.
+
+  5.5.1 An item may not be included in the MMEL because its relief was not considered appropriate
+  on that aircraft or simply because it was not considered in the development of the MMEL.
+
+  5.5.2 Como a MMEL é desenvolvida para auxiliar os operadores, permitindo-lhes flexibilidade
+  quanto à exigência do perfeito funcionamento de todos os itens, é do interesse dos operadores
+  demandar do detentor do CT a revisão dos relaxamentos existentes ou a inclusão de novos
+  itens que não foram considerados anteriormente. Desde que um requerente possa comprovar
+  adequadamente essas solicitações, ele pode propor, a qualquer momento, uma revisão da MMEL
+  aprovada. Esse tipo de revisão, restrita ao documento, é conhecida como uma modificação
+  isolada (stand-alone) da MMEL. E uma vez que ela é parte do CT da aeronave, isto também
+  será uma modificação ao CT.
+
+  5.5.2 Since the MMEL is designed to assist operators, allowing them flexibility regarding
+  the requirement for perfect functioning of all items, it is on operators’ interest to demand
+  from the TC holder the revision of existing reliefs or the inclusion of new items that were
+  not previously considered. As long as an applicant can adequately substantiate these requests,
+  it may propose, at any time, a revision to the approved MMEL. This kind of revision, restricted
+  to the document, is known as a stand-alone MMEL change. Considering it constitutes the aircraft
+  TC, it will also be a TC change.
+
+  5.5.3 Por outro lado, com o passar do tempo, o projeto de tipo da aeronave também pode evoluir,
+  receber novos equipamentos, novas funções or novas capacidades. Deve-se assumir, conservadoramente,
+  que modificações que afetam o projeto do tipo também podem afetar a MMEL.
+
+  5.5.3 On the other hand, aircraft type design may also evolve over time, by incorporating
+  new equipment, new functions or new capabilities. It should be assumed, conservatively,
+  that changes affecting the type design can also have an effect on the MMEL.
+
+  5.5.4 Apesar disso, deve-se reconhecer que, devido à sua natureza concessiva, a não introdução
+  de relaxamento na MMEL para novos equipamentos, sistemas ou funções não prejudica a segurança
+  da operação. A introdução do relaxamento para novos equipamentos pode, portanto, ser tratada
+  como uma modificação isolada da MMEL, separada da modificação ao projeto, e que pode ser
+  processada após a entrada em serviço da aeronave com a modificação de projeto incorporada.
+  Tal tipo de modificação é considerada como sendo uma modificação não obrigatória à MMEL.
+
+  5.5.4 Despite that, it must be recognized that, due to its alleviating nature, not introducing
+  MMEL relief for new equipment, system or function has no effect on the safety of the operation.
+  The introduction of MMEL relief for new equipment can, therefore, be treated as a stand-alone
+  MMEL change, separately from the design change, and can be processed at a later date than
+  the date of entry into service of the aircraft including the design change. This kind of
+  change is then considered as a non-required change to the MMEL.
+
+  5.5.5 Por outro lado, não alterar um item da MMEL cuja validade é alterada por uma modificação
+  ao projeto de tipo pode afetar a segurança da operação. Então, o requerente de uma modificação
+  ao projeto de tipo precisa identificar se a modificação ao projeto de tipo precisa ser acompanhada
+  de uma modificação à MMEL, antes da entrada em serviço. Tal tipo de modificação à MMEL é
+  considerada uma modificação obrigatória à MMEL.
+
+  5.5.5 On the other hand, not modifying an MMEL item whose validity is altered by a type
+  design change may affect the safety of the operation. Therefore, the applicant for a change
+  to the type design must identify whether this change to the type design needs to be followed
+  by a change to the MMEL, before entry into service. This kind of change to the MMEL is then
+  considered as a required change to the MMEL.
+
+  5.5.6 Ações determinadas por uma Diretriz de Aeronavegabilidade - DA, novos requisitos operacionais
+  que exijam equipamentos, divergência com MMEL aprovada no exterior ou qualquer outra necessidade
+  imediata identificada pela ANAC podem gerar a necessidade de uma revisão extraordinária
+  da MMEL aprovada ou a emissão de um Suplemento à MMEL.
+
+  5.5.6 Actions determined by an Airworthiness Directive - AD, new operational requirements
+  demanding equipment, divergence with foreign approved MMEL or any other immediate need identified
+  by ANAC may raise the need for an extraordinary review of the approved MMEL or the issuance
+  of a Supplement to the MMEL.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- change
+- modificacao
+- tipo
+- design
+- pode
+- aircraft
+- considered
+- novos
+- that
+- type
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

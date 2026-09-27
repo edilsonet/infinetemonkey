@@ -1,0 +1,51 @@
+id: is-is-119-004l-6-3-2-t
+kind: is
+document: is-119-004l
+family: '119'
+section_id: 6.3.2
+section_title: 'O sistema de documentos de segurança operacional deve abordar os seguintes
+  aspectos:'
+subsection_id: t
+cite: 6.3.2(t)
+title: 6.3.2(t)
+text: 't) procedimentos de gerenciamento de frota, conforme seção 5.2.9 desta IS.
+
+  Nota: embora o operador simples seja limitado a uma frota de, no máximo, 1 aeronave, os
+  procedimentos de gerenciamento de frota são requeridos para aplicação no caso de troca da
+  aeronave utilizada, por outra do mesmo modelo. Não é esperado que haja trocas frequentes
+  da aeronave utilizada. Caso seja observado excesso de trocas, a Anac poderá determinar que
+  o operador se certifique como "Operador Padrão", sem prejuízo de outros processos administrativos.
+
+  6.4 Desvios com relação ao pessoal de administração requerido
+
+  6.4.1 Organizações requerentes ou detentores de certificado classificados como Operadores
+  Simples estão dispensadas de apresentar a estrutura completa de pessoal de administração
+  requerido prevista na seção 119.69 do RBAC nº 119.
+
+  6.4.2 Tais organizações devem apresentar currículos e documentos para cadastro do gestor
+  responsável e da pessoa responsável pelo controle operacional dos voos do operador e pela
+  aeronavegabilidade das aeronaves. O gestor responsável pode acumular essas funções.
+
+  6.4.3 Não há restrição em apresentar a estrutura administrativa completa prevista seção
+  119.69 do RBAC nº 119, ou uma estrutura não prevista, adaptada ao seu porte e complexidade
+  operacional.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operador
+- aeronave
+- apresentar
+- estrutura
+- frota
+- operacional
+- responsavel
+- secao
+- administracao
+- caso
+- completa
+- documentos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

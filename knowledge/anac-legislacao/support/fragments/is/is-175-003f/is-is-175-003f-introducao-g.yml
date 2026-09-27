@@ -1,0 +1,43 @@
+id: is-is-175-003f-introducao-g
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: g
+cite: introducao(g)
+title: introducao(g)
+text: 'g) Se suspeitar de conter artigo perigoso em algum volume, com o objetivo de prevenir
+  a falsa declaração de conteúdo, o funcionário responsável pela aceitação da carga deve solicitar
+  ao embarcador a confirmação deste conteúdo, esclarecendo ser ele, o embarcador, o responsável
+  pela exatidão das informações e declarações constantes no CT-e.
+
+  O campo “outras características da carga”, presente no “grupo de informações do CT-e normal
+  e substituto”, caso haja transporte de artigos perigosos na remessa, deve ser preenchido
+  apenas com os dizeres “Artigo Perigoso”. Caso não haja artigos perigosos na remessa, podem-se
+  informar nomes genéricos, como por exemplo: COMAT; carga consolidada; partes e peças; perecível;
+  material de escritório; medicamentos; produto farmacêutico; AOG; carga refrigerada; material
+  para exame; produto industrializado; material de consumo; peças de automóveis etc.
+
+  Ainda no “grupo de informações do CT-e normal e substituto”, os campos referentes ao grupo
+  “informações de quantidades da carga do CT-e” devem ser preenchidos conforme o disposto
+  abaixo:'
+keywords:
+- artigos-perigosos
+- carga
+- informacoes
+- grupo
+- material
+- artigo
+- artigos
+- caso
+- conteudo
+- embarcador
+- haja
+- introducao
+- normal
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

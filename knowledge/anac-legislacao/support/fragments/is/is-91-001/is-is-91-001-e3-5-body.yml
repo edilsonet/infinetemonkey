@@ -1,0 +1,54 @@
+id: is-is-91-001-e3-5-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E3.5
+section_title: Aeronaves DME/DME/IRU. Pilotos de aeronaves, sem GNSS, utilizando sistemas
+  RNAV DME/DME com entrada de sensor inercial (DME/DME/IRU), devem assegurar a confirmação
+  da informação de posição do sistema de navegação da aeronave, dentro de 1000 ft (304 m /
+  0.17 NM) a partir de uma posição conhecida, no ponto de partida da corrida de decolagem.
+  Tal condição é usualmente satisfeita por meio do uso de uma função de atualização de pista
+  manual ou automática. Um mapa de navegação também pode ser utilizado para confirmar a posição
+  da aeronave desde que os procedimentos dos pilotos e a resolução da tela permitam o atendimento
+  ao critério de tolerância de 1000 ft (304 m / 0.17 NM).
+subsection_id: body
+cite: E3.5
+title: Aeronaves DME/DME/IRU. Pilotos de aeronaves, sem GNSS, utilizando sistemas RNAV DME/DME
+  com entrada de sensor inercial (DME/DME/IRU), devem assegurar a confirmação da informação
+  de posição do sistema de navegação da aeronave, dentro de 1000 ft (304 m / 0.17 NM) a partir
+  de uma posição conhecida, no ponto de partida da corrida de decolagem. Tal condição é usualmente
+  satisfeita por meio do uso de uma função de atualização de pista manual ou automática. Um
+  mapa de navegação também pode ser utilizado para confirmar a posição da aeronave desde que
+  os procedimentos dos pilotos e a resolução da tela permitam o atendimento ao critério de
+  tolerância de 1000 ft (304 m / 0.17 NM).
+text: 'E3.5 Aeronaves DME/DME/IRU. Pilotos de aeronaves, sem GNSS, utilizando sistemas RNAV
+  DME/DME com entrada de sensor inercial (DME/DME/IRU), devem assegurar a confirmação da informação
+  de posição do sistema de navegação da aeronave, dentro de 1000 ft (304 m / 0.17 NM) a partir
+  de uma posição conhecida, no ponto de partida da corrida de decolagem. Tal condição é usualmente
+  satisfeita por meio do uso de uma função de atualização de pista manual ou automática. Um
+  mapa de navegação também pode ser utilizado para confirmar a posição da aeronave desde que
+  os procedimentos dos pilotos e a resolução da tela permitam o atendimento ao critério de
+  tolerância de 1000 ft (304 m / 0.17 NM).
+
+  Nota: com base em avaliações do desempenho dos sistemas inerciais, é esperado que, após
+  a reversão para o IRU, o crescimento do erro de posição seja inferior a 2 NM a cada 15 minutos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- posicao
+- aeronave
+- aeronaves
+- navegacao
+- pilotos
+- sistemas
+- assegurar
+- atendimento
+- atualizacao
+- automatica
+- condicao
+- confirmacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

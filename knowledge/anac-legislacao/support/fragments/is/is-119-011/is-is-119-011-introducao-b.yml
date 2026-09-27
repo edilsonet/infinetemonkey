@@ -1,0 +1,91 @@
+id: is-is-119-011-introducao-b
+kind: is
+document: is-119-011
+family: '119'
+section_id: introducao
+section_title: Introdução
+subsection_id: b
+cite: introducao(b)
+title: introducao(b)
+text: 'b) caso, para a realização de voos sob o acordo dependa de atividades a serem realizadas
+  pelo operador comercial (ou empresas subcontratadas), o operador técnico pode precisar revisar
+  seu sistema de documentos de segurança operacional para detalhar a execução dessas atividades.
+  Se o sistema de documentos de segurança operacional já previa a possibilidade de terceirização
+  desta atividade, com procedimentos estabelecidos, e o operador somente irá aplicar tais
+  procedimentos a um novo cenário, não seria necessária a revisão. Ressalta-se que não basta
+  se prever a possibilidade de terceirização, uma vez que os procedimentos a serem executados
+  devem estar estabelecidos pelo operador técnico.
+
+  O operador técnico deve avaliar a necessidade de treinamento aos seus tripulantes e/ou pessoal
+  de solo a respeito dos procedimentos referentes às operações conduzidas sob um acordo.
+
+  O operador técnico, em conjunto com o operador comercial, deve avaliar a necessidade de
+  treinamento ao pessoal de solo do operador comercial e/ou de seus subcontratados a respeito
+  dos procedimentos referentes às operações conduzidas sob um acordo. Havendo a necessidade
+  de tais treinamentos, deve haver previsão no sistema de documentos de segurança operacional
+  do operador técnico.
+
+  O operador técnico deve incluir as atividades identificadas no parágrafo 5.2.3 desta IS
+  e que forem desempenhadas pelo operador comercial (ou empresas subcontratadas) no escopo
+  do seu SGSO e, conforme aplicável, programas de
+
+  compliance
+
+  .
+
+  O operador comercial deve, como parte de seu SGSO, realizar uma verificação inicial e um
+  monitoramento contínuo sobre as operações conduzidas pelo operador técnico, com vistas a
+  garantir o cumprimento dos requisitos aplicáveis e a segurança das operações contratadas.
+
+  No caso de operadores técnicos nacionais, a verificação pode se dar pela confirmação de
+  que o operador técnico possui COA e as autorizações necessárias para realizar as operações
+  pretendidas.
+
+  No caso de operadores técnicos estrangeiros, deve ser realizada auditoria inicial, prévia
+  ao início das operações sob o acordo.
+
+  5.2.13.2.1 A verificação deve incluir um registro das diferenças entre os requisitos cumpridos
+  pelo operador estrangeiro e os requisitos que seriam aplicáveis às operações caso fossem
+  conduzidas por operadores técnicos brasileiros. A Anac pode, por razões de segurança operacional,
+  requerer o cumprimento de algum requisito específico que seria aplicável a um operador técnico
+  brasileiro.
+
+  5.2.13.2.2 Podem ser usadas auditorias providas por terceiros (por exemplo, uma auditoria
+  IOSA) desde que o operador comercial tenha acesso à íntegra do resultado da auditoria e
+  conclua, em documento próprio, pela aceitação dos resultados.
+
+  O operador comercial deve manter um registro dos voos realizados por outros operadores como
+  operadores técnicos, contendo informação de aeródromos de decolagem e pouso, horário de
+  decolagem e o operador técnico que realizou o voo. O registro deve ser mantido por pelo
+  menos 5 anos.
+
+  Processo de aprovação
+
+  As operações sob acordos abrangidos por esta IS devem ser autorizadas nas EO emitidas pela
+  Anac dos operadores técnico e comercial. No caso de envolvimento de operadores estrangeiros,
+  no entanto, não é prevista a emissão de EO pela Anac ou a necessidade de revisão da EO emitida
+  pela autoridade do Estado do operador.
+
+  O processo de alteração de EO é conduzido de acordo com a IS nº 119-001 ou 119-004, conforme
+  aplicável.
+
+  O operador técnico deve enviar:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operador
+- tecnico
+- comercial
+- operadores
+- acordo
+- caso
+- procedimentos
+- seguranca
+- conduzidas
+- necessidade
+- operacional
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-011.md

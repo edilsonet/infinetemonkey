@@ -1,0 +1,256 @@
+id: is-is-21-013-7-c
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: c
+cite: 7(c)
+title: 7(c)
+text: 'c) Substituição do equipamento VHF, conforme aplicável.
+
+  7.4.7.2. Um ELT pode interferir no equipamento GNSS, reirradiando sinais do DME ou VHF.
+  Filtros
+
+  Notch no cabo da antena do ELT ou substituição do ELT podem eliminar esse problema,
+
+  conforme aplicável;
+
+  7.4.7.3. Um equipamento DME pode interferir no equipamento GNSS. Caso ocorra esta
+
+  interferência, a substituição do transceptor DME pode eliminar o problema;
+
+  7.4.7.4. Um equipamento ADF pode interferir no equipamento GNSS. Mover a antena do ADF para
+
+  a parte inferior da aeronave pode eliminar este problema.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  7.5. Efeitos da interrupção no sinal GNSS
+
+  7.5.1. Interrupções de sinal GNSS podem ocorrer em qualquer região do planeta, devido à
+
+  interferência intencional (por exemplo, através de testes militares). A consequência para
+  a
+
+  aeronave ao se perder o posicionamento, a velocidade e tempo (PVT) do GNSS é um
+
+  problema complexo que depende do projeto do equipamento GNSS, o grau de integração
+
+  com outros sistemas e o local onde o sistema foi instalado. Como descrito nesta IS, saídas
+
+  do equipamento GNSS podem ser integradas em uma variedade de funcionalidades, além
+
+  dos dados de navegação tradicionais;
+
+  7.5.2. Por exemplo, o PVT do GNSS pode ser utilizado para TAWS, sistemas de visão sintética,
+
+  ADS-B, acelerômetros/sensores MEMS (ADAHRS), entradas para displays eletrônicos
+
+  primários de voo, entre outros. Há uma ampla variedade de integrações, desde as aeronaves
+
+  convencionais com unidades de navegação GNSS autossuficientes com uma interface
+
+  simples com PA, até a nova geração de aeronaves com cockpits digitais que utilizam sistemas
+
+  aviônicos integrados modulares para proporcionar as funções avançadas mencionadas acima
+
+  e outras mais, incluindo potenciais aplicações de tempo com GNSS;
+
+  7.5.3. O requerente de um processo de modificação deve documentar, na seção “Procedimentos
+
+  Anormais e de Emergência” do SMV, os efeitos na aeronave da indisponibilidade do PVT
+
+  do GNSS ou se as saídas forem interrompidas. O SMV deve descrever quais são os efeitos
+
+  sobre qualquer sistema afetado com a perda das saídas do GNSS, as indicações que devem
+
+  ser esperadas se as saídas GNSS forem interrompidas e os procedimentos aplicáveis para a
+
+  tripulação de voo;
+
+  7.5.4. O GNSS não deve ser utilizado simultaneamente para sistemas primários e sistemas
+  de back-
+
+  up críticos, o que resultaria em um modo de falha comum devido a uma falha de GNSS.
+
+  Além disso, o requerente deve atentar para as combinações de diferentes upgrades de
+
+  equipamentos, pois também podem resultar em um modo de falha comum (por exemplo, o
+
+  uso de cartões/placas diferentes para upgrades de funcionalidades, que não são compatíveis
+
+  nas versões em que serão instalados).
+
+  7.6. CRITÉRIOS GERAIS PARA GNSS
+
+  7.6.1. Sistemas com possibilidade de apresentar informações de múltiplas fontes de navegação
+  em
+
+  um único indicador (CDI, HSI/EHSI etc.) deverão possuir um meio de seleção da fonte de
+
+  navegação desejada pelo piloto. Da mesma forma, esses sistemas deverão exibir, clara e
+
+  continuamente, a identificação das fontes de navegação selecionadas, bem como das
+
+  informações exibidas;
+
+  7.6.2. Quando aplicável, a indicação de fonte de navegação deve estar no instrumento afetado
+  ou
+
+  próximo desse (máximo 35 cm) e ser visível e sem ambiguidades (cor conforme a seção
+
+  1322 dos RBACs 23, 25, 27 e 29). A posição de uma chave (sem feedback) não é considerada
+
+  aceitável para indicação de fonte de navegação;
+
+  7.6.3. Todos os displays, assim como avisos e alarmes luminosos, deverão ter controle de
+
+  intensidade luminosa. Adicionalmente, avisos e alarmes luminosos deverão possuir meio de
+
+  teste de sua fonte luminosa;16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  7.6.4. A ocorrência de falha ou interrupção da informação de navegação proveniente do GNSS
+
+  deverá ser anunciada ao piloto no indicador primário de navegação (EHSI/HSI, CDI, RMI
+
+  ou display do tipo mapa de navegação), quando o GNSS estiver sendo usado como fonte de
+
+  navegação;
+
+  7.6.5. A apresentação da informação de desvio lateral de curso no EHSI/HSI ou no CDI, com
+  fonte
+
+  de navegação GNSS, independe do curso selecionado. Portanto, se o curso selecionado
+
+  estiver 180° defasado em relação ao curso real, a informação de desvio lateral de curso
+  no
+
+  EHSI/HSI ou no CDI será oposta à situação real. Como este fato torna o piloto susceptível
+
+  a erro, é obrigatória a apresentação de uma nota no SMV, informando esta condição;
+
+  7.6.6. É responsabilidade do requerente do processo de modificação assegurar a compatibilidade
+  e
+
+  a interface correta entre os equipamentos a bordo e os equipamentos GNSS, bem como
+
+  apresentar essas informações para a oficina instaladora, através do manual de
+
+  instalação/instruções de instalação do projeto de modificação. Para isto, recomenda-se
+
+  observar o que os fabricantes de equipamentos GNSS definem como sistemas compatíveis
+
+  nos manuais do equipamento GNSS, incluindo a versão do software e/ou os corretos PNs,
+
+  conforme aplicável;
+
+  7.6.7. Para operações IFR, equipamentos GNSS que utilizam RAIM para integridade, a
+
+  disponibilidade da função RAIM deverá ser confirmada para o horário e local previsto
+
+  (RAIM preditivo). Caso haja previsão de indisponibilidade da função RAIM, a navegação
+
+  deverá ser planejada com a utilização de outros auxílios de navegação aérea. Este
+
+  procedimento deverá constar no SMV;
+
+  7.6.8. Para todas as operações o GNSS deverá ter o seu banco de dados (database) atualizado.
+  Esta
+
+  limitação deverá ser contida no SMV;
+
+  7.6.9. Antes da execução de uma operação IFR utilizando o GNSS, as informações do database
+
+  deverão ser comparadas com as informações constantes da carta aplicável, incluindo
+
+  transições, posição e altitude dos waypoints. Este procedimento deverá constar no SMV;
+
+  7.6.10. Deve haver uma limitação no SMV indicando que não é aceitável, para um aeroporto
+
+  alternativo, um plano de voo para aproximação baseado em GNSS. O voo para esse
+
+  aeroporto alternativo deve ser planejado usando um auxílio disponível no solo para a
+
+  aproximação (exemplo: ADF, DME etc.). No entanto, quando no aeroporto alternativo, o
+
+  piloto pode realizar uma aproximação GNSS se o equipamento indicar que a integridade
+
+  (RAIM) está disponível para realizar essa aproximação.
+
+  7.7. CRITÉRIOS ESPECÍFICOS PARA GNSS VFR
+
+  7.7.1. A menos que haja uma mensagem automática quando o equipamento GNSS é ligado e seja
+
+  necessária uma ação do piloto para cancelar a mensagem, deve haver o seguinte placar em
+
+  local visível à tripulação mínima requerida e próximo ao equipamento GNSS:
+
+  “O USO DA FONTE DE NAVEGAÇÃO GNSS É PROIBIDO PARA VOO IFR.”
+
+  Nota 1: O placar acima é dispensável quando a aeronave for certificada, conforme o
+
+  Certificado de Tipo, apenas para voo VFR e houver um placar no painel frontal da aeronave
+
+  explicitando essa limitação ou se houver um SMV, aprovado que especifique essa limitação;16-12-2016
+  IS nº 21-013
+
+  Revisão B
+
+  Nota 2: Para aeronaves Part 23 que possuem manual de operação (Pilot’s Operating
+
+  Handbook) conforme a norma GAMA Specification No. 1, as limitações citadas nos placares
+
+  também devem ser incluídas no SMV, conforme aplicáveis.
+
+  7.7.2. Instalações GNSS stand alone VFR interligados requerem um SMV aprovado. O
+
+  funcionamento do equipamento GNSS e os princípios de navegação empregados podem
+
+  fazer referência ao Manual de Operação desse equipamento, o qual deverá estar disponível
+
+  para o piloto, a bordo da aeronave.
+
+  7.8. CRITÉRIOS ESPECÍFICOS PARA GNSS EM OPERAÇÕES IFR
+
+  CONVENCIONAL
+
+  7.8.1. Para GNSS não interligado, instalado para voo IFR Convencional, são válidos todos
+  os
+
+  critérios anteriores para VFR e este ficará limitado à navegação IFR EM ROTA. Deverá ser
+
+  incluída a seguinte limitação no SMV:
+
+  “GNSS PROIBIDO PARA OPERAÇÕES IFR EM ÁREA TERMINAL E
+
+  APROXIMAÇÃO DE NÃO-PRECISÃO.”
+
+  7.8.2. Para GNSS interligado, instalado para voo IFR Convencional, são válidos todos os
+  critérios
+
+  anteriormente para VFR e devem ser considerados ainda os critérios a seguir:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- gnss
+- navegacao
+- equipamento
+- devera
+- sistemas
+- criterios
+- fonte
+- pode
+- aeronave
+- piloto
+- aplicavel
+- aproximacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

@@ -1,0 +1,126 @@
+id: is-is-121-016-5-2-3-c
+kind: is
+document: is-121-016
+family: '121'
+section_id: 5.2.3
+section_title: 'Para efeito de planejamento de voo, os indicadores de mudanças significativas
+  previstas no TAF devem ser aplicados da seguinte forma:'
+subsection_id: c
+cite: 5.2.3(c)
+title: 5.2.3(c)
+text: 'c) os dados de vento devem ser considerados da seguinte forma:
+
+  I. a direção média e a velocidade média do vento devem ser consideradas, devendo estar abaixo
+  dos limites do avião; e
+
+  II. valores de rajadas podem ser desconsiderados.
+
+  5.3 Mínimos de planejamento para aeródromos de alternativa (121.613(b)).
+
+  5.3.1 O parágrafo 121.613(b) do RBAC nº 121 requer que o detentor de certificado estabeleça
+  mínimos de planejamento para cada aeródromo a ser utilizado como alternativa em rota ou
+  alternativa de destino, com objetivo de prover uma margem adequada de segurança de que uma
+  aproximação e um pouso poderão ser conduzidos com segurança nesses aeródromos.
+
+  5.3.2 Conforme o parágrafo 121.613(a)(3) do RBAC nº 121, para que um aeródromo possa ser
+  selecionado como alternativa em rota ou como alternativa de destino, é necessário que, no
+  momento do planejamento do voo, informações meteorológicas atualizadas indiquem que as condições
+  meteorológicas no aeródromo estarão, no horário estimado de utilização, iguais ou acima
+  desses mínimos de planejamento estabelecidos.
+
+  5.3.3 Os mínimos são normalmente expressos em termos de altitude/altura mínima de descida
+  (MDA/H) ou de decisão (DA/H), visibilidade e/ou alcance visual de pista (RVR) e, se necessário,
+  condições de nuvens (teto). Os valores desses parâmetros para os mínimos de planejamento
+  devem ser superiores aos dos mínimos operacionais.
+
+  5.3.4 Essa regra tem o objetivo de garantir, com um grau razoável de certeza, que, no horário
+  estimado de utilização, as condições meteorológicas estarão iguais ou acima do mínimo operacional
+  do aeródromo. Considerando a variabilidade natural das condições meteorológicas com o tempo,
+  bem como a necessidade de se selecionar um aeródromo de alternativa antes da decolagem,
+  os mínimos usados para planejamento de voo devem ser sempre superiores aos mínimos operacionais.
+  Dessa forma, o uso de mínimos de planejamento permite que haja um grau de deterioração das
+  condições meteorológicas após a etapa de planejamento e aumenta a probabilidade de que o
+  voo poderá pousar com segurança após um desvio para o aeródromo de alternativa. Isso é especialmente
+  importante quando o período no qual o aeródromo precisa estar aberto é grande ou quando
+  o horário estimado de utilização é consideravelmente depois do planejamento de voo (o que
+  pode ocorrer com voos mais longos).
+
+  5.3.5 O operador deve estabelecer em seus manuais incrementos a serem aplicados aos mínimos
+  operacionais, para obtenção dos mínimos de planejamento. Valores considerados aceitáveis
+  pela ANAC constam na Tabela 1.
+
+
+  Tabela 1 - Mínimos de planejamento para aeródromos de alternativa
+
+  Tipo de aproximação
+
+  MDA/H ou DA/H
+
+  Visibilidade mínima
+
+  Operação de aproximação por instrumentos de tipo B
+
+  Adicione 200 pés
+
+  Adicione 800 m
+
+  Operação de aproximação por instrumentos de tipo A
+
+  ou
+
+  Aproximação para circular
+
+  Adicione 400 pés
+
+  Adicione 1500 m
+
+  Aeródromo não possui procedimento de aproximação por instrumentos
+
+  Adicione 500 pés à altitude de segurança mais baixa para o último segmento da rota antes
+  do aeródromo
+
+  8 km de visibilidade
+
+
+  5.3.6 Para avaliação de se um aeródromo pode ser utilizado como aeródromo de alternativa,
+  o valor de teto previsto deve ser igual ou superior ao valor de MDA/H ou DA/H constante
+  no mínimo de planejamento.
+
+  5.3.7 Algumas cartas podem trazer requisitos específicos de mínimos de planejamento para
+  aeródromo de alternativa. Nesse caso, o operador deve cumprir adicionalmente a restrição
+  prevista na carta.
+
+  5.3.8 Algumas cartas podem trazer a restrição de que aquele procedimento não pode ser considerado
+  para a seleção do aeródromo como alternativa (indicado na carta como “Alternate minimums
+  not authorized”, conforme símbolo ). Nesse caso, o operador deve selecionar outro procedimento
+  como base para a determinação dos mínimos de planejamento para aeródromo de alternativa.
+  Se todos os procedimentos publicados para o aeródromo trouxerem essa restrição, o operador
+  deve escolher outro aeródromo como alternativa.
+
+  5.4 Margem de tempo apropriada para o horário estimado de utilização (121.613(c)).
+
+  5.4.1 O parágrafo 121.613(c) do RBAC nº 121 requer que o detentor de certificado estabeleça
+  uma margem de tempo apropriada para o horário estimado de utilização de um aeródromo.
+
+  5.4.2 Para atender a esse requisito, inicialmente é necessário estabelecer o horário previsto
+  de utilização, o que depende do tipo de aeródromo sendo considerado:'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromo
+- planejamento
+- minimos
+- alternativa
+- aproximacao
+- horario
+- utilizacao
+- adicione
+- condicoes
+- estimado
+- meteorologicas
+- operador
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-016.md

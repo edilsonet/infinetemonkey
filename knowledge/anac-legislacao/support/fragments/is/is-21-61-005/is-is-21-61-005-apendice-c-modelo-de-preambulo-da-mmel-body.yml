@@ -1,0 +1,68 @@
+id: is-is-21-61-005-apendice-c-modelo-de-preambulo-da-mmel-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: apendice-c-modelo-de-preambulo-da-mmel
+section_title: APÊNDICE C - MODELO DE PREÂMBULO DA MMEL
+subsection_id: body
+cite: apendice-c-modelo-de-preambulo-da-mmel
+title: APÊNDICE C - MODELO DE PREÂMBULO DA MMEL
+text: 'APÊNDICE C - MODELO DE PREÂMBULO DA MMEL
+
+  APPENDIX C - MMEL PREAMBLE SPECIMEN
+
+  C.1 A MMEL deve ter um preâmbulo contendo uma série de informações, conforme especificado
+  no item 5.3.2.2, para orientar os operadores sobre como usá-la. Para ajudar nessa tarefa,
+  um modelo de preâmbulo aceitável é disponibilizado abaixo. A redação não precisa ser exatamente
+  como apresentada, devendo, contudo, abranger esse conteúdo mínimo com a significação pretendida.
+
+  C.1 The MMEL should have a preamble containing a series of information, as specified in
+  item 5.3.2.2, in order to guide operators on how to use it. To help in this task, a specimen
+  of an acceptable preamble is available below. The wording doesn’t need to be exactly as
+  presented, provided it covers this minimum content with the intended meaning.
+
+  C.2 Como parte do preâmbulo, também deve haver definições e notas explicativas suficientes
+  para fornecer ao usuário (principalmente o operador ao compilar sua MEL) uma compreensão
+  completa e adequada da intenção e do propósito dos itens contidos na MMEL.
+
+  C.2 As part of the preamble, there also should be sufficient definitions and explanatory
+  notes to provide the user (this is primarily the operator when compiling its MEL) with a
+  full and proper understanding of the intent and purpose of the items contained in the MMEL.
+
+  C3. Embora muitas das definições usadas sejam comuns a todas as MMEL, outras serão específicas
+  para tipos de aeronaves particulares ou individuais. Os requerentes devem garantir, ao preparar
+  a MMEL, que todas as definições relevantes sejam incluídas. Também devem ser fornecidas
+  notas explicativas em detalhes suficientes sempre que a intenção e o propósito de um termo,
+  frase ou abreviação etc. forem necessários ou aconselháveis.
+
+  C3. While many of the definitions used will be common to all MMEL, others will be specific
+  to particular or individual aircraft types. Applicants should ensure, when preparing the
+  MMEL, that all relevant definitions are included. Also, explanatory notes should be provided
+  in sufficient detail wherever the intent and purpose of a term, phrase or abbreviation etc.
+  is necessary or advisable.
+
+  LISTA MESTRA DE EQUIPAMENTOS MÍNIMOS
+
+  MASTER MINIMUM EQUIPMENT LIST'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- preambulo
+- modelo
+- preamble
+- should
+- apendice
+- definicoes
+- definitions
+- this
+- also
+- explanatory
+- explicativas
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

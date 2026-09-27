@@ -1,0 +1,32 @@
+id: iac-iac-001-1001a-1-2-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: '1.2'
+section_title: FUNDAMENTO
+subsection_id: body
+cite: '1.2'
+title: FUNDAMENTO
+text: '1.2 FUNDAMENTO
+
+  Decreto nº 65.144, de 12/09/69, que institui o Sistema de Aviação Civil do
+
+  Ministério da Aeronáutica e a Portaria nº 453/GM5 de 02/08/91, que reformula o Sistema de
+
+  Segurança de vôo.'
+keywords:
+- fundamento
+- sistema
+- aeronautica
+- aviacao
+- civil
+- decreto
+- institui
+- ministerio
+- portaria
+- reformula
+- seguranca
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

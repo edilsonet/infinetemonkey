@@ -1,0 +1,35 @@
+document: is-154-003
+kind: is
+title: IS 154-003A
+ementa: Auxílios visuais para pistas de pouso e decolagem e pistas de táxi Em vigor em 1º
+  de junho de 2023
+family: '154'
+categories:
+- seguranca-aeroportuaria
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-003
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-154-003
+language: pt
+foreign_annex: false
+sections:
+- 5.1.4
+- 5.1.5
+- aprovacao
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+- termos-e-definicoes
+fragment_count: 9
+fragment_ids:
+- is-is-154-003-preambulo-body
+- is-is-154-003-aprovacao-body
+- is-is-154-003-objetivo-body
+- is-is-154-003-revogacao-body
+- is-is-154-003-fundamentos-body
+- is-is-154-003-termos-e-definicoes-body
+- is-is-154-003-5-1-4-body
+- is-is-154-003-5-1-5-body
+- is-is-154-003-disposicoes-finais-body
+parser_version: 7

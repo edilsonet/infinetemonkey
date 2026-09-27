@@ -1,0 +1,51 @@
+id: is-is-91-001-g2-6-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: G2.6
+section_title: Para situações em que houver a previsão de ausência contínua dos níveis apropriados
+  de detecção de falha dos sinais de satélite superior a cinco (5) minutos em qualquer parte
+  da operação RNP 1 o plano voo deve ser revisado e algumas ações podem ser consideradas de
+  forma a tentar garantir o monitoramento adequado da informação de posicionamento proveniente
+  dos sensores GNSS. Dentre estas ações, é possível citar a utilização de rotas ou procedimentos
+  alternativos, a alteração do horário previsto de partida ou chegada, ou até mesmo o cancelamento
+  da operação.
+subsection_id: body
+cite: G2.6
+title: Para situações em que houver a previsão de ausência contínua dos níveis apropriados
+  de detecção de falha dos sinais de satélite superior a cinco (5) minutos em qualquer parte
+  da operação RNP 1 o plano voo deve ser revisado e algumas ações podem ser consideradas de
+  forma a tentar garantir o monitoramento adequado da informação de posicionamento proveniente
+  dos sensores GNSS. Dentre estas ações, é possível citar a utilização de rotas ou procedimentos
+  alternativos, a alteração do horário previsto de partida ou chegada, ou até mesmo o cancelamento
+  da operação.
+text: 'G2.6 Para situações em que houver a previsão de ausência contínua dos níveis apropriados
+  de detecção de falha dos sinais de satélite superior a cinco (5) minutos em qualquer parte
+  da operação RNP 1 o plano voo deve ser revisado e algumas ações podem ser consideradas de
+  forma a tentar garantir o monitoramento adequado da informação de posicionamento proveniente
+  dos sensores GNSS. Dentre estas ações, é possível citar a utilização de rotas ou procedimentos
+  alternativos, a alteração do horário previsto de partida ou chegada, ou até mesmo o cancelamento
+  da operação.
+
+  G3. CRITÉRIOS ESPECÍFICOS PARA PROCEDIMENTOS DE SAÍDA PADRÃO POR INSTRUMENTOS (SID) RNP
+  1'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- acoes
+- operacao
+- procedimentos
+- adequado
+- algumas
+- alteracao
+- alternativos
+- apropriados
+- ausencia
+- cancelamento
+- chegada
+- cinco
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

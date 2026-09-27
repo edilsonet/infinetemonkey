@@ -1,0 +1,271 @@
+id: is-is-121-011-5-8-3-c
+kind: is
+document: is-121-011
+family: '121'
+section_id: 5.8.3
+section_title: Experiência de operação
+subsection_id: c
+cite: 5.8.3(c)
+title: 5.8.3(c)
+text: 'c) aos mockups de cabine e dispositivos de treinamento de operação das portas são atribuídos
+  níveis de acordo com sua aproximação ao realismo. O nível 1 é o mais básico, e o operador
+  recebe menos crédito em um mockup nível 1 do que em um mockup nível 5. Para receber crédito
+  de um mockup nível 5, todas as características listadas na Tabela 1 devem estar presentes.
+  No entanto, se o dispositivo não possuir todas as características indicadas na Tabela 1,
+  a ANAC pode considerar outras características listadas na Tabela 2 e Tabela 3 para decidir
+  qual nível de crédito é apropriado para o tipo de experiência que pode ser adquirida no
+  mockup de cabine ou dispositivo de treinamento de operação das portas do operador.
+
+  Tabela 1 - Orientação para avaliação de um mockup de cabine em tamanho real (exceto no comprimento)
+  para fins de crédito da carga horária de experiência de operação.
+
+  Nível
+
+  Níveis
+
+  Critérios
+
+  1
+
+  2
+
+  3
+
+  4
+
+  5
+
+  Mockup de cabine
+
+
+  X
+
+  X
+
+  Nível 5 requer controle de movimento com 4 graus de liberdade
+
+  Movimento
+
+  X
+
+  X
+
+  X
+
+  X
+
+  X
+
+  Na seção transversal.
+
+  Saídas operantes
+
+  X
+
+  X
+
+  X
+
+  X
+
+  X
+
+  Deve cumprir os requisitos para dispositivo de treinamento de portas.
+
+  Saídas de emergência inoperantes/ bloqueadas
+
+
+  X
+
+  X
+
+
+  Posicionamento dos equipamentos de emergência
+
+
+  X
+
+  X
+
+  X
+
+  Posição dos suportes e equipamentos de emergência próxima do real
+
+  Simulação de fumaça e fogo
+
+
+  X
+
+  X
+
+  Nível 5 requer alarme de detecção de fumaça.
+
+  Sistema de comunicação (Interfone e PA)
+
+  X
+
+  X
+
+  X
+
+  X
+
+  X
+
+  Interativo entre as estações. Níveis 4 e 5 possuem luzes de chamada.
+
+  Simulação de som da aeronave
+
+
+  X
+
+  X
+
+
+  Assentos de comissários
+
+  X
+
+  X
+
+  X
+
+  X
+
+  X
+
+  Cintos de segurança e cintos de ombro operantes
+
+  Simulador de despressurização
+
+
+  X
+
+  X
+
+  X
+
+  Máscaras de oxigênio caem das unidades de serviço dos passageiros (PSU). Nível 5 requer
+  oxigênio para a tripulação.
+
+  Luzes de emergência
+
+
+  X
+
+  Nível 5 exige iluminação da rota de fuga e interruptor de luz de emergência.
+
+  Equipamentos de galley
+
+
+  X
+
+  X
+
+  X
+
+  Níveis 3 a 5 requerem componentes reais.
+
+  Alarme e sinais de evacuação
+
+
+  X
+
+
+  Tabela 2 - Avaliação de dispositivo de treinamento de portas
+
+  Dispositivo de porta
+
+  Critérios
+
+  Escala da porta/ saída
+
+  Tamanho e peso projetados de acordo com as alavancas reais das portas
+
+  Movimento da saída
+
+  Reproduz a amplitude total da aeronave para incluir abertura, fechamento e operação de emergência.
+
+  Saída inoperante
+
+  Método de demonstração de que está inoperante.
+
+  Assento de comissário
+
+  Localização real na aeronave.
+
+  Painel de comissário
+
+  Posição aproximada em relação à saída e ao assento de comissário.
+
+  Escorregadeira ou escorregadeira-bote simulada
+
+  Forças similares às necessárias para abrir numa situação de emergência
+
+  Meios de enchimento manual
+
+  Podem ser posicionadas para simular diferentes localizações causadas por um acidente.
+
+  Saída da janela
+
+  Peso e tamanho reais
+
+
+  Tabela 3 - Avaliação de outros dispositivos de treinamento
+
+  Outros dispositivos/simuladores
+
+  Critérios
+
+  Simulação de combate ao fogo.
+
+  O equipamento deve ter meios para demonstrar que o fogo foi extinto.
+
+  Sistema de comunicação (interfone/PA)
+
+  Similaridade com os equipamentos da aeronave real.
+
+  Computador de simulação de evacuação
+
+  Precisão e complexidade dos modelos computacionais
+
+  Suportes e equipamentos de emergência portáteis funcionais
+
+  Forças necessárias para remover e recolocar o equipamento são representadas acuradamente.
+
+  Assentos de comissários equipados com retração
+
+  Sistema de retração real, espaço real para usar o sistema (por exemplo, duas pessoas em
+  um assento duplo ou quando o assento está localizado em área confinada).
+
+  Equipamento para simular despressurização
+
+  Capacidade para acionar as máscaras manualmente e automaticamente e/ou simular sinais de
+  despressurização (ruído e vapor).
+
+  Programa de treinamento adicional baseado em computador
+
+  Adequação do programa.
+
+
+  5.9 Segmento de currículo especial'
+keywords:
+- transporte-aereo
+- operacoes
+- nivel
+- emergencia
+- tabela
+- mockup
+- real
+- treinamento
+- dispositivo
+- equipamentos
+- operacao
+- portas
+- saida
+- aeronave
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-011.md

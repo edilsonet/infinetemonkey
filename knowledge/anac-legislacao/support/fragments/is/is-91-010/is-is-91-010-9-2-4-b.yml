@@ -1,0 +1,50 @@
+id: is-is-91-010-9-2-4-b
+kind: is
+document: is-91-010
+family: '91'
+section_id: 9.2.4
+section_title: 'O treinamento inicial dos pilotos para comunicações por data link deve incluir,
+  no mínimo, os seguintes procedimentos:'
+subsection_id: b
+cite: 9.2.4(b)
+title: 9.2.4(b)
+text: 'b) autorização operacional (autorização do operador).
+
+  12.1.3. Não se deve confundir a aprovação de aeronavegabilidade deste processo de autorização
+  do uso de CPDLC e ADS-C com aprovações de aeronavegabilidade de processos de certificação
+  de tipo (CT) ou certificação suplementar de tipo (CST). Embora muitos dos aspectos de aeronavegabilidade
+  sejam os mesmos, nos dois últimos verifica-se a instalação equipamentos de navegação de
+  área em aeronaves novas ou modificadas, para emissão de CT, de CST, ou documento equivalente.
+  Para o processo de autorização do uso de CPDLC e ADS-C, o equipamento de navegação de área
+  já deve estar instalado e certificado.
+
+  12.1.4. A coordenação dos processos de autorização do uso de CPDLC e ADS-C é de responsabilidade
+  da SPO por meio de suas gerências: a GCTA, para operadores regidos pelo RBAC nº 121, a GOAG
+  para operadores segundo o RBAC nº 135 e o RBAC nº 91, quando aplicável. Portanto, os processos
+  de autorização do uso de CPDLC e ADS-C serão conduzidos por estas gerências.
+
+  12.1.5. Os processos de autorização do uso de CPDLC e ADS-C seguirão o conceito de processo
+  de cinco fases, conforme preconizado pela OACI no DOC 8335, sendo que apenas na última fase
+  (Fase 5), após o operador ter demonstrado atendimento a todos os requisitos aplicáveis,
+  será emitida a aprovação da ANAC para que sejam realizadas as operações pretendidas. As
+  fases do processo são descritas a seguir:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- autorizacao
+- cpdlc
+- processo
+- processos
+- aeronavegabilidade
+- aprovacao
+- area
+- certificacao
+- fase
+- fases
+- gerencias
+- navegacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

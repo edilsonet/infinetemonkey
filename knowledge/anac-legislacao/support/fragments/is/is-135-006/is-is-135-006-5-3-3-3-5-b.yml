@@ -1,0 +1,49 @@
+id: is-is-135-006-5-3-3-3-5-b
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.3.3.5
+section_title: Voos com dois aeródromos de alternativa de destino (135.218(b))
+subsection_id: b
+cite: 5.3.3.3.5(b)
+title: 5.3.3.3.5(b)
+text: 'b) não houver informação meteorológica disponível que atenda à seção 135.213 do RBAC
+  nº 124.
+
+  Nota: as condições descritas se referem a todo o horário estimado de utilização, incluindo
+  as margens de tempo apropriadas (conforme parágrafo 5.3.2.5 desta IS), do aeródromo de destino.
+  Assim, se houver informações meteorológicas, mas elas não cobrirem todo o horário estimado
+  de utilização, ou se, em parte desse horário, elas indicarem condições meteorológicas abaixo
+  dos mínimos, o parágrafo 135.218(b) requer a seleção de dois aeródromos de alternativa de
+  destino.
+
+  5.3.3.5 Conforme o parágrafo 135.218(b), esta é a única situação em que não é necessário
+  garantir que, no momento do planejamento do voo, existam informações meteorológicas atualizadas
+  indicando que as condições meteorológicas no aeródromo de destino estarão, no horário estimado
+  de utilização, iguais ou acima dos mínimos operacionais para pouso no aeródromo.
+
+  5.3.3.6 Considerando-se a obrigatoriedade de avaliar os requisitos de desempenho de pouso
+  no aeródromo de destino, aplicável a alguns aviões, conforme a Subparte I do RBAC nº 135,
+  observa-se que, se esse aeródromo não dispuser de informação meteorológica disponível que
+  atenda à seção 135.213 do RBAC nº 135, o operador deve obter aprovação da ANAC para uso
+  de meios alternativos para considerar os parâmetros necessários ao cálculo de desempenho.'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- destino
+- horario
+- meteorologicas
+- condicoes
+- estimado
+- paragrafo
+- utilizacao
+- aerodromos
+- alternativa
+- atenda
+- desempenho
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

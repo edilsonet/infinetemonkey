@@ -1,0 +1,50 @@
+id: is-is-91-001-g1-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: G1.3
+section_title: O GNSS é o meio primário de navegação que suporta o RNP 1. Embora sistemas
+  DME/DME sejam capazes de atingir a precisão necessária para a execução de operações RNP
+  1, esta especificação de navegação é destinada principalmente para ambientes onde a infraestrutura
+  DME não é capaz de suportar o desempenho de navegação requerido para a navegação DME/DME.
+  O aumento da complexidade de análises e requisitos da infraestrutura DME necessários para
+  garantir a segurança em operações RNP 1 indicam que não é praticável ou atrativa a adoção
+  desta especificação de navegação utilizando este tipo de combinação de sensores.
+subsection_id: body
+cite: G1.3
+title: O GNSS é o meio primário de navegação que suporta o RNP 1. Embora sistemas DME/DME
+  sejam capazes de atingir a precisão necessária para a execução de operações RNP 1, esta
+  especificação de navegação é destinada principalmente para ambientes onde a infraestrutura
+  DME não é capaz de suportar o desempenho de navegação requerido para a navegação DME/DME.
+  O aumento da complexidade de análises e requisitos da infraestrutura DME necessários para
+  garantir a segurança em operações RNP 1 indicam que não é praticável ou atrativa a adoção
+  desta especificação de navegação utilizando este tipo de combinação de sensores.
+text: 'G1.3 O GNSS é o meio primário de navegação que suporta o RNP 1. Embora sistemas DME/DME
+  sejam capazes de atingir a precisão necessária para a execução de operações RNP 1, esta
+  especificação de navegação é destinada principalmente para ambientes onde a infraestrutura
+  DME não é capaz de suportar o desempenho de navegação requerido para a navegação DME/DME.
+  O aumento da complexidade de análises e requisitos da infraestrutura DME necessários para
+  garantir a segurança em operações RNP 1 indicam que não é praticável ou atrativa a adoção
+  desta especificação de navegação utilizando este tipo de combinação de sensores.
+
+  G2. PROCEDIMENTOS OPERACIONAIS GERAIS PARA OPERAÇÕES RNP 1'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- operacoes
+- especificacao
+- infraestrutura
+- adocao
+- ambientes
+- analises
+- atingir
+- atrativa
+- aumento
+- capaz
+- capazes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,252 @@
+id: is-is-153-205-001-7-1-3-a
+kind: is
+document: is-153-205-001
+family: '153'
+section_id: 7.1.3
+section_title: As frequências mínimas de medição de atrito são definidas na Tabela 153.205-2
+  do RBAC nº 153.
+subsection_id: a
+cite: 7.1.3(a)
+title: 7.1.3(a)
+text: 'a) Admite-se tolerância de 2,5% (dois vírgula cinco por cento) sobre os valores do
+  coeficiente de atrito.
+
+  Tabela 2 - Parâmetros de coeficiente de atrito por tipo de equipamento de medição
+
+  Equipamento
+
+  [1]
+
+  Pneu
+
+  Velocidade do ensaio (km/h)
+
+  [4]
+
+  Profundidade da lâmina d’água simulada (mm)
+
+  [5]
+
+  Coeficiente de atrito
+
+  Tipo
+
+  [2]
+
+  Pressão (kPa)
+
+  [3]
+
+  Nível de manutenção
+
+  [6]
+
+  Nível mínimo
+
+  [7]
+
+  Mu-meter
+
+  A
+
+  70
+
+  65
+
+  1,0
+
+  0,52
+
+  0,42
+
+  A
+
+  70
+
+  95
+
+  1,0
+
+  0,38
+
+  0,26
+
+  Skiddometer
+
+  B
+
+  210
+
+  65
+
+  1,0
+
+  0,60
+
+  0,50
+
+  B
+
+  210
+
+  95
+
+  1,0
+
+  0,47
+
+  0,34
+
+  Surface friction
+
+  tester vehicle
+
+  B
+
+  210
+
+  65
+
+  1,0
+
+  0,60
+
+  0,50
+
+  B
+
+  210
+
+  95
+
+  1,0
+
+  0,47
+
+  0,34
+
+  Runway friction
+
+  tester vehicle
+
+  B
+
+  210
+
+  65
+
+  1,0
+
+  0,60
+
+  0,50
+
+  B
+
+  210
+
+  95
+
+  1,0
+
+  0,54
+
+  0,41
+
+  Tatra
+
+  B
+
+  210
+
+  65
+
+  1,0
+
+  0,57
+
+  0,48
+
+  B
+
+  210
+
+  95
+
+  1,0
+
+  0,52
+
+  0,42
+
+  Traction Watcher One (TWO)
+
+  B
+
+  210
+
+  65
+
+  1,0
+
+  0,60
+
+  0,50
+
+  B
+
+  210
+
+  95
+
+  1,0
+
+  0,47
+
+  0,34
+
+  Grip tester
+
+  C
+
+  140
+
+  65
+
+  1,0
+
+  0,53
+
+  0,43
+
+  C
+
+  140
+
+  95
+
+  1,0
+
+  0,36
+
+  0,24'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- atrito
+- coeficiente
+- tester
+- equipamento
+- friction
+- medicao
+- nivel
+- tabela
+- tipo
+- vehicle
+- admite
+- agua
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-205-001.md

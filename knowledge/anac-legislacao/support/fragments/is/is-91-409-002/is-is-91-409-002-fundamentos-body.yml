@@ -1,0 +1,76 @@
+id: is-is-91-409-002-fundamentos-body
+kind: is
+document: is-91-409-002
+family: '91'
+section_id: fundamentos
+section_title: Fundamentos
+subsection_id: body
+cite: fundamentos
+title: Fundamentos
+text: 'Fundamentos
+
+  4.1 Para os propósitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes
+  definições:
+
+  4.2 Aeronavegável: para aeronave que possui projeto de tipo aprovado, é a condição na qual
+  ela se encontra de acordo com o projeto de tipo aplicável e em condições de operação segura.
+  Para aeronave que não possui projeto de tipo aprovado, considera-se que está em condição
+  aeronavegável quando se encontrar em condição segura para operação aérea.
+
+  4.3 Inspeção: inspeções geralmente são exames visuais e/ou verificações manuais para determinar
+  a condição de uma aeronave, produto ou artigo. As inspeções podem variar de inspeções visuais
+  gerais a inspeções detalhadas envolvendo auxílios de inspeção, como espelhos ou lentes de
+  aumento, até inspeções detalhadas especiais que podem exigir a desmontagem completa e/ou
+  o uso de técnicas e/ou equipamentos especializados, como raios X, ultrassom, eddy current
+  ou particulas magnéticas.
+
+  4.4 Limitações de aeronavegabilidade: são tarefas de manutenção que afetam o nível mínimo
+  de segurança do produto aeronáutico. Incluem tarefas que visam detectar falhas latentes
+  que, em conjunto com uma ou mais falhas específicas adicionais, podem resultar em uma situação
+  perigosa ou catastrófica. São definidas pelo fabricante durante a certificação de tipo ou
+  suplementar de tipo, aprovadas pela autoridade de aviação civil e identificadas como tal
+  no Manual de Manutenção ou nas Instruções para Aeronavegabilidade Continuada, tornando-se
+  de cumprimento obrigatório pelo RBAC 91.403(c). As limitações de aeronavegabilidade envolvem
+  prazos ou intervalos máximos de utilização em termos de horas e/ou ciclos, ou outro valor
+  mensurável.
+
+  4.5 Manutenção: significa qualquer atividade de inspeção, revisão, reparo, limpeza, conservação
+  ou substituição de partes de uma aeronave e seus componentes, mas exclui a manutenção preventiva.
+
+  4.6 Manutenção preventiva: significa uma operação de preservação simples ou de pequena monta,
+  assim como a substituição de pequenas partes padronizadas que não envolva operações complexas
+  de montagem e desmontagem.
+
+  4.7 Monitoramento de tendências de motor: é um sistema de coleta de dados no qual periodicamente
+  um número selecionado de indicações e parâmetros do motor são registrados e analisados,
+  permitindo assim a tomada de decisões em relação à aeronavegabilidade e continuidade das
+  operações do motor.
+
+  4.8 Programa de inspeção: é uma parte do Plano de Manutenção Recomendado pelo Fabricante
+  (PMRF) e refere-se a uma lista de inspeções programadas e com intervalos associados, cujo
+  objetivo principal é determinar a condição da aeronave e seus componentes (fuselagem, motores,
+  hélices, rotores, acessórios e equipamentos diversos). Incluem-se, nesse contexto, itens
+  da ficha de inspeção, inspeções especiais, exames visuais, dimensionais e não destrutivos
+  e atividades de manutenção associadas compreendendo, mas não se limitando a: desmontagem,
+  montagem, limpeza, lubrificação, conservação, abastecimento, regulagens e substituição de
+  partes.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- inspecoes
+- manutencao
+- aeronave
+- condicao
+- inspecao
+- tipo
+- aeronavegabilidade
+- desmontagem
+- fundamentos
+- motor
+- operacao
+- partes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-002.md

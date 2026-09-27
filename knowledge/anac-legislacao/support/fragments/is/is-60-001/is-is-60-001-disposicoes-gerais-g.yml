@@ -1,0 +1,88 @@
+id: is-is-60-001-disposicoes-gerais-g
+kind: is
+document: is-60-001
+family: '60'
+section_id: disposicoes-gerais
+section_title: disposições gerais
+subsection_id: g
+cite: disposicoes-gerais(g)
+title: disposicoes-gerais(g)
+text: 'g) as constatações, as evidências e as conclusões.
+
+  9.5 O relatório deve ser distribuído aos interessados da organização (Alta direção) para
+  que seja efetuado a análise crítica e acompanhamento das deficiências constatadas e principalmente,
+  adotar as ações corretivas e disponibilizar recursos, caso o programa QMS não cumpra com
+  o estabelecido em seus procedimentos.
+
+  9.6 Os responsáveis pelo programa QMS devem aprovar o relatório da auditoria, assim como
+  concluir o processo executado, assegurando a integridade do programa ao planejar e implementar
+  as mudanças.
+
+  9.7 Adicionalmente, o operador deve conservar os documentos e os registros da auditoria
+  interna, para verificações durante as inspeções (inicial e periódicas) conduzidas pela ANAC.
+
+  9.8 Os resultados das auditorias internas ajudam na identificação de tendências, no estabelecimento
+  de novos parâmetros de desempenho e na otimização de procedimentos estabelecidos no manual
+  QMS.
+
+  9.9 Periodicidade das auditorias.
+
+  9.10 O operador deve conduzir as auditorias do seu programa de QMS em segmentos. Os segmentos
+  serão definidos pela ANAC na avaliação inicial, e cada segmento deverá ser avaliado pelo
+  operador a cada 6 meses. Esse intervalo poderá ser estendido além de 6 meses, à medida que
+  o programa de QMS amadurecer, mas não poderá exceder 12 meses. O programa de QMS deverá
+  ser inteiramente auditado a cada 24 meses.
+
+  9.11 Para melhor entendimento, exemplifiquemos que o programa de auditorias internas do
+  operador possua 8 segmentos, após o primeiro período de 6 meses os segmentos 1 e 2 deverão
+  ter sido executados, no segundo período os segmentos 3 e 4, no terceiro período os segmentos
+  5 e 6, no quarto período os segmentos 7 e 8.
+
+  9.12 Dentro de 6 meses da aceitação do programa QMS pela ANAC, o operador deve conduzir
+  auditorias internas (de todos os segmentos), ajustar o programa conforme os resultados obtidos
+  e agendar a inspeção inicial com a ANAC para a aprovação do programa. Uma revisão completa
+  do programa de QMS será objeto de inspeção da ANAC ao menos uma vez a cada intervalo de
+  24 meses após a aprovação do manual QMS.
+
+  9.13 Com base neste formato, o operador deve criar um cronograma de eventos para controlar
+  a execução das auditorias internas do programa QMS. O início deste cronograma deve ser após
+  a aprovação final do programa QMS pela ANAC. Adicionalmente, o manual QMS deve referenciar
+  esse cronograma como documento formal de controle não só das auditorias, como também das
+  qualificações em andamento.
+
+  métrica do DESEMPENHO DOS FSTD
+
+  10.1 O sistema de gerenciamento da qualidade (QMS) deve descrever o processo especificando
+  como irá mensurar e monitorar o desempenho de cada FSTD, o que em última instância é o resultado
+  da eficácia do QMS.
+
+  10.2 A descrição e os métodos de obtenção das métricas podem estar contidos em um outro
+  manual, documento ou anexo, dependendo da complexidade e conveniência do operador. Para
+  estes casos, o Manual QMS deve fazer referência ao supracitado manual, documento ou anexo.
+
+  10.3 Além das auditorias internas realizadas pelo operador, a métrica deve fornecer parâmetros
+  para retroalimentar continuamente o programa QMS, contribuindo para a melhoria contínua
+  do desempenho, evolução organizacional e precisão do processo de monitoramento de cada FSTD
+  da organização.
+
+  10.4 Os principais parâmetros para composição da métrica de desempenho de FSTD são:'
+keywords:
+- simuladores
+- treinamento
+- programa
+- auditorias
+- operador
+- segmentos
+- meses
+- cada
+- manual
+- desempenho
+- internas
+- fstd
+- periodo
+- aprovacao
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

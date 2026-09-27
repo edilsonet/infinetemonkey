@@ -1,0 +1,53 @@
+id: is-is-60-001-disposicoes-gerais-e
+kind: is
+document: is-60-001
+family: '60'
+section_id: disposicoes-gerais
+section_title: disposições gerais
+subsection_id: e
+cite: disposicoes-gerais(e)
+title: disposicoes-gerais(e)
+text: 'e) Manual de Qualidade ou Manual QMS. É o documento que formaliza o QMS do operador
+  e deve conter os elementos citados nos parágrafos (a) à (d). Mesmo que um dos elementos,
+  em parte ou na totalidade, estejam descritos em outro manual do operador, esses devem ser
+  referenciados no manual QMS. O manual servirá de base para as auditorias (inicial e periódicas)
+  conduzidas pelo operador e pela ANAC. Adicionalmente, o manual também será a base para a
+  condução da vigilância continuada e do acompanhamento da ANAC acerca do desempenho e efetividade
+  do operador em disponibilizar um FSTD satisfatório para uso frequente.
+
+  eSTABELECIMENTO DAS POLÍTICAS, PROCESSOS ou PROCEDIMENTOS
+
+  7.1 As políticas, processos ou procedimentos do programa QMS para FSTDs devem ser especificamente
+  determinados em um manual de qualidade: o manual QMS de FSTD. A tabela E1 do Apêndice 1
+  estabelece os processos, políticas ou procedimentos mínimos que o QMS deve conter. Caso
+  um processo já esteja especificado em outro manual do operador de FSTD, como exemplo, no
+  Manual de Instruções e Procedimentos (MIP) de um CTAC certificado sob o RBAC 142, esse processo
+  pode ser só referenciado no manual QMS de FSTD, remetendo ao outro manual.
+
+  7.2 O operador é responsável por desenvolver e implementar os procedimentos para garantir
+  o funcionamento esperado de seus FSTDs.
+
+  7.3 O Apêndice E do RBAC 60 não estabelece um formato específico para QMS de FSTD, entretanto,
+  o programa do operador deve conter a política, processo ou procedimento utilizado para atender
+  cada requisito. Em geral, cada política, processo ou procedimento deve ser elaborado com
+  os elementos elencados a seguir, embora não necessite seguir rigidamente essa estrutura:'
+keywords:
+- simuladores
+- treinamento
+- manual
+- operador
+- fstd
+- procedimentos
+- processo
+- conter
+- elementos
+- outro
+- politicas
+- processos
+- apendice
+- base
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

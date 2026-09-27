@@ -1,0 +1,113 @@
+id: is-is-91-011-6-b
+kind: is
+document: is-91-011
+family: '91'
+section_id: '6'
+section_title: OPERATIONAL PROCEDURES AND FLIGHT TECHNIQUES.
+subsection_id: b
+cite: 6(b)
+title: 6(b)
+text: '(b) To calculate the descent point beyond the FAF, first determine the desired altitude
+
+  to lose: (FAF (2,000 ft) - (Airport Elevation (81 ft) + TCH (46 ft))) = 1,873 ft. Take the
+  desired
+
+  altitude to lose (1,873 ft) and divide by the descent gradient (316 ft/NM) that equates
+  to the
+
+  2.98º VDA. This produces a distance of 5.9 NM from the runway threshold or 2.0 DME from
+  the
+
+  SZW VORTAC. The descent rate remains at 632 fpm at 120 kts from the table (see Appendix
+  1,
+
+  Figure 3).
+
+  (3) Conclusion. If a pilot descends at 120 kts from 2,000 ft, beginning 5.9 NM from the
+
+  runway threshold at a 632 fpm descent rate, the aircraft should cross the stepdown fix at
+  768 ft
+
+  and the threshold at 46 ft.
+
+  NOTE: During any approach, pilots should perform a continuous descent flight
+
+  path that meets all altitude constraints.
+
+  e. Timing-Dependent Approaches. Control of airspeed and rate of descent is particularly
+
+  important on approaches solely dependent on timing to identify the MAP. Pilots should cross
+  the
+
+  FAF already configured for landing and on the correct speed for the final approach segment.
+
+  f. Derived Decision Altitude (DDA). Pilots must not descend below the MDA when
+
+  executing a missed approach from a CDFA. Operators should instruct their pilots to initiate
+  the
+
+  go-around at an altitude above the MDA (sometimes referred to as a DDA) to ensure the aircraft
+
+  does not descend below the published MDA. Operators conducting approaches authorized by
+
+  operations specification (OpSpec) C073, Vertical Navigation (VNAV) Instrument Approach
+
+  Procedures (IAP) Using Minimum Descent Altitude (MDA) as a Decision Altitude
+
+  (DA)/Decision Height (DH), may use MDA as a DA.
+
+  g. Decision Approaching MDA. Flying the published VDA or GS will have the aircraft
+
+  intersect the plane established by the MDA at a point before the MAP. Approaching the MDA,
+
+  the pilot has two choices: continue the descent to land with required visual references,
+  or execute
+
+  a missed approach, not allowing the aircraft to descend below the MDA. (See Appendix 1,
+
+  Figure 1B, Approach Example Using Continuous Descent Final Approach.)
+
+  h. Executing a Missed Approach Prior to MAP. When executing a missed approach prior
+
+  to the MAP and not cleared by an air traffic control (ATC) climb-out instruction, fly the
+
+  Par 6 Page 5AC 120-108 1/20/11
+
+  published missed approach procedure. Proceed on track to the MAP before accomplishing a
+  turn,
+
+  comply with published altitude restrictions between the FAF and the MAP, and continue on
+  or
+
+  climb to the altitude specified in the missed approach procedure.
+
+  i. Approaches With a VDP. Flying the published VDA or GS on an approach constructed
+
+  with a VDP should have the aircraft cross the MDA at or beyond the VDP.
+
+  j. Visibility Minima Penalty. The appropriate OpSpec, management specification
+
+  (MSpec), or letter of authorization (LOA) will specify what visibility penalty will apply
+  to the
+
+  published approach minima if operators do not use CDFA on NPAs.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- approach
+- altitude
+- descent
+- from
+- missed
+- published
+- aircraft
+- should
+- approaches
+- decision
+- pilots
+- with
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-011.md

@@ -1,0 +1,42 @@
+id: is-is-43-9-001-5-2-3-6-body
+kind: is
+document: is-43-9-001
+family: '43'
+section_id: 5.2.3.6
+section_title: a) “A” - Nome e Endereço do Agente
+subsection_id: body
+cite: 5.2.3.6
+title: a) “A” - Nome e Endereço do Agente
+text: '5.2.3.6 a) “A” - Nome e Endereço do Agente
+
+  Executor
+
+  II 3 f 2 - “B” - Tipo do Agente Executor 5.2.3.6 b) “B” - Tipo do Agente Executor
+
+  II 3 f 3 - “C” - Número do Certificado 5.2.3.6 c) “C” - Número do Certificado
+
+  II 3 f 4 - “D” - Declaração de Conformidade 5.2.3.6 d) “D” - Declaração de Conformidade
+
+  II 3 g - Campo 7 - Aprovação para retorno ao
+
+  Serviço'
+keywords:
+- manutencao
+- aeronavegabilidade
+- agente
+- endereco
+- executor
+- nome
+- certificado
+- conformidade
+- declaracao
+- numero
+- tipo
+- aprovacao
+- campo
+- retorno
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-9-001.md

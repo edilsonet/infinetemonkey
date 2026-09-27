@@ -1,0 +1,55 @@
+id: is-is-145-009-5-5-8-1-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.8.1
+section_title: 'Referências: RBAC nº 145, parágrafos 145.209(h); 145.211(c); e seção 145.217.'
+subsection_id: body
+cite: 5.5.8.1
+title: 'Referências: RBAC nº 145, parágrafos 145.209(h); 145.211(c); e seção 145.217.'
+text: '5.5.8.1 Referências: RBAC nº 145, parágrafos 145.209(h); 145.211(c); e seção 145.217.
+
+  5.5.8.2 Manutenção subcontratada: os regulamentos permitem uma OM subcontratar qualquer
+  “função de manutenção” relacionada à manutenção, manutenção preventiva ou alterações para
+  os artigos para as quais ela detém a certificação. O serviço de manutenção subcontratado
+  deve estar dentro do escopo da certificação da OM subcontratante. A função de manutenção
+  pode ser executada por pessoas certificadas ou não certificadas pela ANAC. Função de manutenção
+  é um ou mais processos (dentre os vários) que fazem parte da manutenção de um artigo específico,
+  mas nunca a manutenção deste artigo por completo. Por exemplo, uma OM certificada em célula
+  pode subcontratar a inspeção radiográfica desta célula desde que esteja realizando uma inspeção
+  ou manutenção maior que requeira essa inspeção radiográfica; uma OM certificada em motores
+  pode subcontratar um serviço de metalização em plasma de uma peça, desde que esteja realizando
+  uma manutenção maior que requeira esse serviço de metalização em plasma. Função de manutenção
+  subcontratada não é equivalente a um serviço de manutenção completo de um artigo fornecido
+  por outra OM (por exemplo, uma OM de célula que terceiriza a revisão geral de um motor desta
+  aeronave a uma OM certificada no motor, ou uma OM de motor que terceiriza o serviço de revisão
+  de um componente a uma OM certificada no componente). Uma OM não pode fornecer a aprovação
+  para retorno ao serviço de um artigo completo, com certificado de tipo (aeronave, motor
+  e hélice), se a maior parte da manutenção, manutenção preventiva ou alteração foi feita
+  por uma subcontratada. Ou seja, ao realizar uma subcontratação, a OM subcontratante é responsável
+  pela aprovação para retorno ao serviço de um artigo completo e não pode subcontratar a maior
+  parte do serviço. A subcontratação de funções de manutenção, no contexto desta IS, ocorre
+  somente se a OM estender os privilégios de sua certificação ao subcontratado e providenciar
+  o retorno ao serviço de acordo com a seção 43.9 do RBAC nº 43. Nestas circunstâncias, a
+  OM subcontratante opta por exercer os privilégios do seu certificado e assume a responsabilidade
+  total pelo escopo do trabalho executado. A fim de exercer a prerrogativa de subcontratação,
+  a OM deve:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- servico
+- artigo
+- pode
+- certificada
+- completo
+- funcao
+- maior
+- motor
+- secao
+- subcontratar
+- celula
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

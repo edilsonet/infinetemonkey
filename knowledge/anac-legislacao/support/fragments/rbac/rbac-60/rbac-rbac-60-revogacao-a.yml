@@ -1,0 +1,115 @@
+id: rbac-rbac-60-revogacao-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: revogacao
+section_title: revogação
+subsection_id: a
+cite: revogacao(a)
+title: revogacao(a)
+text: '(a) A ANAC pode suspender parcialmente
+
+  ou totalmente a qualificação de um FSTD
+
+  quando for constatado que:
+
+  (1) the FSTD’s qualification standards
+
+  are no longer met;
+
+
+  (1) o FSTD deixou de atender aos
+
+  padrões de qualificação;
+
+
+  Data da emissão: 20 de março de 2020.
+
+
+  (2)
+
+  the
+
+  operator
+
+  simulated
+
+  the
+
+  compliance of any of the requirements and
+
+  minimum qualification standards or provided
+
+  incomplete, inaccurate or false information
+
+  with the purpose of obtaining a FSTD
+
+  Statement of Qualification; or
+
+
+  (2) o operador simulou o cumprimento
+
+  de qualquer dos requisitos e padrões mínimos
+
+  de qualificação ou forneceu informações
+
+  incompletas, inexatas ou falsas com a
+
+  finalidade de obter um Certificado de
+
+  Qualificação de FSTD; ou
+
+  (3) the operator is not able to
+
+  demonstrate that the QMS is implemented and
+
+  operating,
+
+  or
+
+  being
+
+  implemented,
+
+  in
+
+  accordance with the section 60.5 of this
+
+  regulation.
+
+
+  (3)
+
+  o
+
+  operador
+
+  não
+
+  consegue
+
+  demonstrar que o QMS esteja implantado e
+
+  operando, ou em processo de implantação de
+
+  acordo com a seção 60.5 deste regulamento.'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- qualificacao
+- qualification
+- implemented
+- operador
+- operator
+- padroes
+- revogacao
+- standards
+- with
+- able
+- accordance
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

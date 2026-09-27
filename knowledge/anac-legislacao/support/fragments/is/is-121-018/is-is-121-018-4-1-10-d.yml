@@ -1,0 +1,192 @@
+id: is-is-121-018-4-1-10-d
+kind: is
+document: is-121-018
+family: '121'
+section_id: 4.1.10
+section_title: 'Operações de baixa visibilidade (LVO) significa:'
+subsection_id: d
+cite: 4.1.10(d)
+title: 4.1.10(d)
+text: 'd) pista de aproximação de precisão, Categoria III: pista provida de auxílios visuais
+  e não-visuais destinada a operações de pouso após uma operação de aproximação por instrumento
+  tipo B com altura de decisão (DH) inferior a 30 m (100 ft), ou operações sem altura de decisão
+  (DH) e com alcance visual da pista inferior a 300m ou sem limitações de alcance visual de
+  pista.
+
+  4.1.12 Pista para operação visual significa a pista de pouso e decolagem para a operação
+  de aeronaves utilizando procedimento de aproximação visual ou procedimento de aproximação
+  por instrumento até um ponto além do qual a aproximação possa continuar em condições meteorológicas
+  visuais (VMC).
+
+  Nota: as condições meteorológicas visuais (VMC) são definidas, no âmbito do Brasil, na ICA
+  100-12, publicada pelo DECEA; e, no âmbito da OACI, no Anexo 2. Não devem ser confundidas
+  aqui com a mera obtenção das referências visuais requeridas, visto que essa obtenção pode
+  ocorrer mesmo em condições inferiores à VMC.
+
+  4.1.13 Ponto de aproximação perdida (MAPt) significa o ponto em um procedimento de aproximação
+  por instrumento em ou antes do qual o procedimento de aproximação perdida prescrito deve
+  ser iniciado de forma a garantir o livramento mínimo de obstáculo.
+
+  4.1.14 Referência visual requerida significa a seção dos auxílios visuais ou da área de
+  aproximação que deve se manter à vista por tempo suficiente para que o piloto faça uma avaliação
+  da posição da aeronave e da razão de alteração dessa posição, em relação à trajetória de
+  voo desejada. No caso de aproximação para circular, a referência visual requerida é o entorno
+  da pista.
+
+  Nota: no escopo desta IS, que não inclui operações que requerem autorização específica,
+  as referências visuais requeridas para aproximações IFR são estabelecidas no parágrafo 121.651(c)(3)
+  do RBAC nº 121.
+
+  4.1.15 Velocidade indicada na cabeceira (Vat) é igual à velocidade de estol Vso multiplicada
+  por 1,3 ou à velocidade de estol Vs1g multiplicada por 1,23 na configuração de pouso e com
+  o peso máximo de pouco certificado. Se tanto Vso quanto Vs1g forem disponibilizadas, o maior
+  valor resultante de Vat deve ser usado.
+
+  4.2 Lista de abreviaturas:
+
+  ALSF - Approach lighting system with sequenced flashing lights (sistema de luzes de aproximação
+  com luzes com flashes sequenciais)
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  APV - Approach with vertical guidance (aproximação com guia vertical)
+
+  BALS - Basic approach lighting system (sistema de luzes de aproximação básico)
+
+  CDFA - Continuous descent final approach (aproximação final com descida contínua)
+
+  CFIT - Controlled flight into terrain (colisão com o solo em voo controlado)
+
+  DA - Decision altitude (altitude de decisão)
+
+  DECEA - Departamento de Controle do Espaço Aéreo
+
+  DH - Decision height (altura de decisão)
+
+  DME - Distance measuring equipment (equipamento medidor de distância)
+
+  EASA - European Union Aviation Safety Agency
+
+  EO - Especificações operativas
+
+  FAA - Federal Aviation Administration
+
+  FAF - Final approach fix (fixo de aproximação final)
+
+  FALS - Full approach lighting system (sistema de luzes de aproximação completo)
+
+  F/D - Flight diretor (diretor de voo)
+
+  FMS - Flight management system (sistema de gerenciamento de voo)
+
+  GNSS - Global navigation satellite system (Sistema global de navegação por satélite)
+
+  HIALS - High intensity approach lighting system (sistema de luzes de aproximação de alta
+  intensidade)
+
+  HUDLS - Head-up guidance landing system (sistema de pouso com
+
+  IALS - Intermediate approach lighting system (sistema de luzes de aproximação intermediário)
+
+  IAS - Indicated airspeed (velocidade indicada)
+
+  ICA - Instrução do Comando da Aeronáutica
+
+  ILS - Instrument landing system (sistema de pouso por instrumentos)
+
+  IS - Instrução Suplementar
+
+  ISA - International standard atmosphere (atmosfera padrão internacional)
+
+  LNAV - Lateral navigation (navegação lateral)
+
+  LOC - Localizer (localizador)
+
+  LPV - Localizer performance with vertical guidance (desempenho de localizador com guia vertical)
+
+  LVTO - Low visibility take-off (decolagem em baixa visibilidade)
+
+  MALS - Medium-intensity approach lighting system (sistema de luzes de aproximação de média
+  intensidade)
+
+  MALSF - Medium-intensity approach lighting system with sequenced flashing lights (sistema
+  de luzes de aproximação de média intensidade, com luzes com flashes sequenciais)
+
+  MALSR - Medium-intensity approach lighting system with runway alignment indicator lights
+  (sistema de luzes de aproximação de média intensidade, com luzes indicadoras de alinhamento
+  com a pista)
+
+  MDA - Minimum descent altitude (altitude mínima de descida)
+
+  MDH - Minimum descent height (altura mínima de descida)
+
+  MGO - Manual Geral de Operações
+
+  NALS - No approach lighting system (sem sistema de luzes de aproximação)
+
+  NPA - Non-precision approach (aproximação de não precisão)
+
+  OACI - Organização da Aviação Civil Internacional
+
+  OCA - Obstacle clearance altitude (altitude de livramento de obstáculos)
+
+  OCH - Obstacle clearance height (altura de livramento de obstáculos)
+
+  ODALS - Omnidirectional approach lighting system (sistema de luzes de aproximação onidirecional)
+
+  PM - Pilot monitoring (piloto monitorando)
+
+  RDH - Reference datum height (altura de referência)
+
+  RVR - Runway visual range (alcance visual de pista)
+
+  SALS - Simple approach lighting system (sistema de luzes de aproximação simples)
+
+  SALSF - Short approach lighting system with sequenced flashing lights (Sistema de luzes
+  de aproximação curto, com luzes com flashes sequenciais)
+
+  SBAS - Satellite-based augmentation system (sistema de aumentação baseado em satélite)
+
+  SPO - Superintendência de Padrões Operacionais
+
+  SRA - Surveillance radar approach (radar de vigilância para aproximação)
+
+  SSALF - Simplified short approach lighting system with sequenced flashing lights (sistema
+  de luzes de aproximação curto simplificado, com luzes com flashes sequenciais)
+
+  SSALR - Simplified short approach lighting system with runway alignment indicator lights
+  (sistema de luzes de aproximação curto simplificado, com luzes indicadores de alinhamento
+  com a pista)
+
+  SSALS - Simplified short approach lighting system (sistema de luzes de aproximação curto
+  simplificado)
+
+  VAL - Vertical alert limit (limite de alerta vertical)
+
+  VDF - VHF direction finder (estação radiogonométrica de frequência muito alta)
+
+  VIS - Visibilidade meteorológica
+
+  VNAV - Vertical navigation (navegação vertical)
+
+  VOR - VHF omnidirectional radio range (rádio farol onidirecional de frequência muito alta)'
+keywords:
+- transporte-aereo
+- operacoes
+- aproximacao
+- luzes
+- approach
+- sistema
+- system
+- lighting
+- pista
+- vertical
+- visual
+- with
+- visuais
+- altitude
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

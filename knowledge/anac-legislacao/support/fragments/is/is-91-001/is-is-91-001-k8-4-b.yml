@@ -1,0 +1,50 @@
+id: is-is-91-001-k8-4-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: K8.4
+section_title: 'Os tipos de solicitação de autorização para operações RNP AR APCH são os seguintes:'
+subsection_id: b
+cite: K8.4(b)
+title: K8.4(b)
+text: 'b) autorizações específicas:
+
+  i. solicitação de autorização inicial: aplicável quando o operador não possui, para um determinado
+  modelo de aeronave, autorização específica para operações RNP AR APCH em um determinado
+  procedimento;
+
+  ii. solicitação de adição de autorização de nova capacidade: aplicável quando o operador
+  possui, para um determinado modelo de aeronave, autorização específica para operações RNP
+  AR APCH em um determinado procedimento para uma determinada capacidade, e pretende adicionar
+  nova capacidade para operação nesse procedimento. Normalmente a capacidade relacionada com
+  esse tipo de solicitação é o valor de RNP, pois os procedimentos RNP AR APCH podem ser publicados
+  com mais de um valor de RNP, cada um com seus respectivos valores de DA/OCH/TETO/VIS. Assim,
+  no caso de um procedimento publicado com mais de um valor de RNP (ex: RNP 0.2 e 0.3), um
+  operador que possui autorização específica para esse procedimento utilizando RNP 0.3 pode,
+  por meio da solicitação apresentada neste item, solicitar autorização específica para operar
+  utilizando RNP 0.2; ou
+
+  iii. solicitação de adição de autorização para nova matrícula de aeronave: aplicável quando
+  um operador possui autorização específica para um determinado modelo de aeronave, que contempla
+  um conjunto de aeronave (matrículas), e deseja incluir na autorização específica uma nova
+  aeronave (matrícula).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- autorizacao
+- aeronave
+- especifica
+- solicitacao
+- determinado
+- procedimento
+- apch
+- capacidade
+- nova
+- operador
+- possui
+- aplicavel
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

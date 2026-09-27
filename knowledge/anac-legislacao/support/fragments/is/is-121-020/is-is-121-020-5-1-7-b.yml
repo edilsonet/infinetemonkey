@@ -1,0 +1,72 @@
+id: is-is-121-020-5-1-7-b
+kind: is
+document: is-121-020
+family: '121'
+section_id: 5.1.7
+section_title: Os critérios desta IS são adicionais aos estabelecidos para gerenciamento de
+  aeródromos utilizados em operações regulares constantes na IS nº 121-005.
+subsection_id: b
+cite: 5.1.7(b)
+title: 5.1.7(b)
+text: 'b) Grupo B - aeródromos que, na avaliação do operador, demandem considerações adicionais,
+  em razão de especificidades como, por exemplo:
+
+  I - ausência de órgão ATS do tipo Torre de Controle de Aeródromo (TWR) ou serviço de informação
+  de voo de aeródromo (AFIS), sejam operando no aeródromo ou remotamente. No caso de o órgão
+  funcionar somente em alguns horários, deve ser considerado o horário de operação do operador
+  aéreo no aeródromo;
+
+  II - ausência completa (em todas as cabeceiras da(s) pista(s) de pouso e decolagem do aeródromo)
+  de sistema visual indicador de rampa de aproximação, quando da existência de uma ou mais
+  condições especificadas na seção 154.305(j)(1)(i) do RBAC nº 154;
+
+  III - possibilidade de ocorrência de ilusões visuais, como, por exemplo, efeito black hole;
+
+  IV - desaceleração da aeronave menor que a esperada para a pressão aplicada nos freios quando
+  o pouso ocorre em pista molhada;
+
+  V - existência de mitigações operacionais aplicáveis ao operador aéreo requeridas em razão
+  de não conformidades na faixa de pista ou em área de segurança de fim de pista (RESA) e/ou
+  limitações da infraestrutura de navegação aérea, conforme constante em publicações oficiais,
+  como especificações operativas de aeródromo, ROTAER etc;
+
+  VI - existência de efeito adverso de Objeto Projetado no Espaço Aéreo (OPEA) ou obstáculo
+  fixo existente nas superfícies limitadoras de obstáculos que demande medidas operacionais
+  por parte do operador aéreo;
+
+  VII - auxílio à aproximação ou trajetória de aproximação não padrão ou incomum, como trajetórias
+  que impeçam a aeronave de cumprir critérios usuais de aproximação estabilizada, localizador
+  deslocado (LLZ offset) etc;
+
+  VIII - ocorrência frequente de condições climáticas que possam dificultar o uso de referências
+  visuais ou o controle da aeronave, como chuva, neve, neblina, fumaça, ventos de través,
+  turbulência e windshear/microburst;
+
+  IX - requisitos de gradiente de subida alto (acima de 3,3%);
+
+  X- aeródromos cuja pista esteja localizada num plano mais alto que o seu entorno (tabletop
+  runway); ou
+
+  XI- aeródromos cuja pista seja considerada como pista estreita (narrow runway) conforme
+  especificado no Aeroplane Flight Manual (AFM) ou possua largura inferior ao mínimo exigido
+  no parágrafo 154.201(d) do RBAC nº 154; e'
+keywords:
+- transporte-aereo
+- operacoes
+- pista
+- aerodromo
+- aereo
+- aerodromos
+- aproximacao
+- operador
+- aeronave
+- existencia
+- adicionais
+- alto
+- ausencia
+- condicoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

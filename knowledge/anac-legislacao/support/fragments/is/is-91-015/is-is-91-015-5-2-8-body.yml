@@ -1,0 +1,56 @@
+id: is-is-91-015-5-2-8-body
+kind: is
+document: is-91-015
+family: '91'
+section_id: 5.2.8
+section_title: Lançamentos Errôneos em Registros de Manutenção, Cadernetas e Diários de Bordo
+subsection_id: body
+cite: 5.2.8
+title: Lançamentos Errôneos em Registros de Manutenção, Cadernetas e Diários de Bordo
+text: '5.2.8 Lançamentos Errôneos em Registros de Manutenção, Cadernetas e Diários de Bordo
+
+  5.2.8.1 Erros eventualmente ocorridos em registros de manutenção, Cadernetas e Diários de
+  Bordo não podem ser apagados ou rasurados, pois são passíveis de serem considerados como
+  alterações fraudulentas, conforme prevê a seção 43.12 do RBAC nº 43.
+
+  5.2.8.2 Caso não seja possível emitir um registro substituto (como em páginas de Cadernetas
+  de Célula, Motor e Hélice), o campo ou página onde está o registro incorreto deve ser anulado
+  com dois traços diagonais e, ao lado, declarado inválido pela pessoa que o registrou ou
+  outra qualificada conforme a seção 43.7 do RBAC nº 43, preservando-se a possibilidade de
+  leitura das informações originais. O registro correto deve ser lançado em outro campo ou
+  página conforme aplicável. Para o Diário de Bordo devem-se seguir as orientações estabelecidas
+  na Portaria nº 2050/SPO/SAR.
+
+  5.2.8.3 Caso seja possível emitir um outro registro como o Formulário F-100-01 (SEGVOO 003),
+  cuja emissão seja controlada por número sequencial, o registro errôneo deve ser mantido
+  junto ao novo registro. O registro substituto deve apresentar as informações corretas e
+  fazer referência ao sequencial do documento errôneo, a fim de preservar o histórico desses
+  registros. No caso de documentos não controlados por número sequencial como a FCDA, deve-se
+  realizar novo registro.
+
+  5.2.8.4 De acordo com a seção 43.12 do RBAC nº 43, ninguém pode fazer ou induzir que seja
+  feita qualquer anotação, alteração ou reprodução fraudulenta ou intencionalmente falsa em
+  qualquer registro cuja produção, conservação ou uso seja requerido para demonstrar conformidade
+  com esse RBAC. Uma pessoa que cometa esse tipo de infração, que tem sua capitulação prevista
+  no Art. 299, inciso V, da Lei nº 7.565, de 19 de dezembro de 1986, poderá ter sua licença
+  ou certificado suspenso ou cassado pela ANAC.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- registro
+- bordo
+- cadernetas
+- registros
+- seja
+- diarios
+- manutencao
+- caso
+- erroneos
+- lancamentos
+- secao
+- sequencial
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-015.md

@@ -1,0 +1,94 @@
+id: is-is-145-214-001-apendice-f-criterios-e-recomendacoes-para-definicao-e-implemen-d
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-f-criterios-e-recomendacoes-para-definicao-e-implemen
+section_title: APÊNDICE F - CRITÉRIOS E RECOMENDAÇÕES PARA DEFINIÇÃO E IMPLEMEN-
+subsection_id: d
+cite: apendice-f-criterios-e-recomendacoes-para-definicao-e-implemen(d)
+title: apendice-f-criterios-e-recomendacoes-para-definicao-e-implemen(d)
+text: 'd) perigos identificados pelas funções de Garantia da segurança operacional (Componente
+  3),
+
+  ou seja: auditorias, sistema de relatos voluntários, análise de dados operacionais, etc.
+
+  F3.2. Os itens citados nas alíneas “a”,”b” e “c” acima tratam de situações temporárias ou
+  ocasionais.
+
+  Já o item citado na alínea “d” engloba processos que podem ser considerados permanentes
+  ou
+
+  frequentes. Esses atributos de continuidade (frequência) e capilaridade (alcance) na detecção
+  de
+
+  perigos, e consequente adoção de defesas, tornam o sistema potencialmente proativo, capaz
+  de
+
+  se antecipar e prevenir eventos adversos à segurança operacional.
+
+  F3.3. Dentro do Componente 3 é estabelecido o requisito que define a necessidade de um processo
+
+  documentado e eficaz de melhoria contínua. Esse é um mecanismo adicional de melhoria do
+
+  sistema, contribuindo com o aprimoramento da segurança operacional.
+
+  F4. METODOLOGIAS PARA COLETAS DE INFORMAÇÕES
+
+  F4.1. Não deve jamais caber a setores ou pessoas não treinadas o julgamento de tolerabilidade,
+  mesmo
+
+  porque isso só deve ocorrer na fase posterior, dentro do gerenciamento de riscos. Uma vez
+  iden-
+
+  tificado um perigo, os dados disponíveis sobre a condição insegura devem ser repassados
+  ao
+
+  setor / pessoa responsável pelo gerenciamento de risco, para que sejam feitas as análises
+  perti-
+
+  nentes, os devidos registros e tomadas as providências cabíveis.Data de emissão: 8 de junho
+  de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  F4.2. Não existe, na verdade, nenhuma consequência negativa decorrente do fato que alguns
+  dos peri-
+
+  gos relatados, mediante análises adequadas, sejam considerados não pertinentes. Por esse
+  mo-
+
+  tivo, todo e qualquer relato de perigo deve inicialmente sempre ser considerado como pertinente
+
+  e relevante, independente da fonte ou de sua natureza.
+
+  F4.3. Entradas e saídas do processo de análise de dados para identificação de perigos típicos
+  do ambi-
+
+  ente de manutenção aeronáutica:
+
+  F4.3.1. Muitas podem ser as fontes de dados que apontam para a existência de perigos. Sejam
+  quais
+
+  forem as origens dos dados e informações, de natureza mandatória ou voluntária, identificada
+
+  ou anônima, devem ser sempre endereçados a uma única base de dados para que sejam:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- dados
+- perigos
+- sejam
+- operacional
+- seguranca
+- sistema
+- analise
+- analises
+- apendice
+- componente
+- considerados
+- criterios
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

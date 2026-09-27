@@ -1,0 +1,143 @@
+id: is-is-00-009-definicoes-body
+kind: is
+document: is-00-009
+family: '0'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  4.1. Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01, RBAC nº
+  61, RBAC nº 103, RBAC nº 135, RBAC nº 136, RBAC nº 137 e nas IS nº 00-002, IS nº 91.319-001,
+  IS nº 103-001 e IS nº 119-004.
+
+  4.2. Lista de abreviaturas:
+
+  ACR - Ação Corretiva Retardada
+
+  AFM - Manual de Voo do Avião (Aircraft Flight Manual) - aprovado pela AAC
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  AOM - Manual de Operações da Aeronave (Aircraft Operating Manual)
+
+  ATS - Serviço de Tráfego Aéreo
+
+  AWB - Conhecimento Aéreo (Air Waybill)
+
+  CA - Certificado de Aeronavegabilidade
+
+  CAVE - Certificado de Autorização de Voo Experimental
+
+  CBA - Código Brasileiro de Aeronáutica (Lei nº 7.565/86)
+
+  CHT - Certificado de Habilitação Técnica
+
+  CM - Certificado de Matrícula
+
+  CMA - Certificado Médico Aeronáutico
+
+  CME - Certificado de Marca Experimental
+
+  CMPU - Certificado Médico de Piloto de Ultraleve
+
+  COA - Certificado de Operador Aéreo
+
+  CVA - Certificado de Verificação de Aeronavegabilidade
+
+  DECEA - Departamento de Controle do Espaço Aéreo
+
+  EA - Especificações Administrativas
+
+  EF - Elemento de fiscalização
+
+  EFB - Electronic Flight Bag
+
+  EGPWS - Sistema de Alerta de proximidade do solo melhorado (Enhanced Ground Proximity Warning
+  System), também conhecido como TAWS (Terrain Awareness System)
+
+  ELT - Transmissor Localizador de Emergência (Emergency Locator Transmitter)
+
+  EO - Especificações Operativas.
+
+  FMS - Sistema de Gerenciamento de Voo (Flight Management System)
+
+  GOAG - Gerência de Operações da Aviação Geral
+
+  GPS - Sistema de Posicionamento no Solo via satélite (Ground Positioning System)
+
+  IFR - Regras de Voo por Instrumentos (Instrument Flight Rules)
+
+  IS - Instrução Suplementar
+
+  LOA - Carta de Autorização ou Aprovação (Letter of Authorization or Approval)
+
+  MEL - Lista de Equipamentos Mínimos (Minimum Equipment List).
+
+  MGO - Manual Geral de Operações (Para Operadores segundo RBAC nº 135)
+
+  MSL - Nível Médio do Mar (Mean Sea Level)
+
+  NAT - Núcleo de Atendimento Técnico Operacional
+
+  NCIA - Notificação de Condição Irregular de Aeronave
+
+  NM - Milha Náutica (Nautical Mile)
+
+  NOTAM - Aviso aos Aeronavegantes (Notice to Airman)
+
+  NOTOC - Notificação ao Comandante
+
+  NURAC - Núcleo Regional de Aviação Civil
+
+  OACI - Organização de Aviação Civil Internacional
+
+  PA - Piloto Automático
+
+  PBN - Navegação Baseada em Desempenho (Performance-Based Navigation)
+
+  P&B - Peso e Balanceamento
+
+  PIC - Piloto em Comando (Pilot in Command)
+
+  PLB - Personal Locator Beacon
+
+  PRE - Plano de Resposta a Emergências
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  RFM - Manual de Voo do Helicóptero ou Aeronave de Asas Rotativas (Rotorcraft Flight Manual)
+  - Aprovado pela AAC
+
+  RNAV - Area Navigation
+
+  RNP - Required Navigation Performance
+
+  SOP - Procedimentos Operacionais Padronizados (Standard Operating Procedures)
+
+  SPO - Superintendência de Padrões Operacionais
+
+  VFR - Regras de Voo Visual (Visual Flight Rules)
+
+  VTE - Vistoria Técnica Especial
+
+  VTI - Vistoria Técnica Inicial'
+keywords:
+- certificado
+- manual
+- flight
+- aviacao
+- aereo
+- civil
+- definicoes
+- system
+- aeronave
+- navigation
+- operacoes
+- piloto
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-009.md

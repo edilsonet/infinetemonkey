@@ -1,0 +1,57 @@
+id: is-is-91-001-i5-7-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: I5.7
+section_title: Em condições normais de operação, os erros/desvios perpendiculares à trajetória
+  desejada (a diferença entre a trajetória desejada calculada pelo sistema RNAV e a posição
+  da aeronave com relação a esta trajetória) devem ser limitados a ±1/2 do valor da precisão
+  associada aos distintos segmentos de um procedimento RNP APCH (por exemplo, 0.5 NM para
+  os segmentos inicial e intermediário, 0.15 NM para o segmento final e 0.5 NM para o segmento
+  de aproximação perdida). Entretanto, durante ou imediatamente após a execução de curvas
+  este padrão não é mandatório e desvios superiores (overshoots ou undershoots) são toleráveis,
+  contudo, nestas condições, tais desvios ainda são limitados até o máximo de uma vez o valor
+  da precisão associado aos distintos segmentos do procedimento (por exemplo, 1.0 NM para
+  os segmentos inicial e intermediário).
+subsection_id: body
+cite: I5.7
+title: Em condições normais de operação, os erros/desvios perpendiculares à trajetória desejada
+  (a diferença entre a trajetória desejada calculada pelo sistema RNAV e a posição da aeronave
+  com relação a esta trajetória) devem ser limitados a ±1/2 do valor da precisão associada
+  aos distintos segmentos de um procedimento RNP APCH (por exemplo, 0.5 NM para os segmentos
+  inicial e intermediário, 0.15 NM para o segmento final e 0.5 NM para o segmento de aproximação
+  perdida). Entretanto, durante ou imediatamente após a execução de curvas este padrão não
+  é mandatório e desvios superiores (overshoots ou undershoots) são toleráveis, contudo, nestas
+  condições, tais desvios ainda são limitados até o máximo de uma vez o valor da precisão
+  associado aos distintos segmentos do procedimento (por exemplo, 1.0 NM para os segmentos
+  inicial e intermediário).
+text: I5.7 Em condições normais de operação, os erros/desvios perpendiculares à trajetória
+  desejada (a diferença entre a trajetória desejada calculada pelo sistema RNAV e a posição
+  da aeronave com relação a esta trajetória) devem ser limitados a ±1/2 do valor da precisão
+  associada aos distintos segmentos de um procedimento RNP APCH (por exemplo, 0.5 NM para
+  os segmentos inicial e intermediário, 0.15 NM para o segmento final e 0.5 NM para o segmento
+  de aproximação perdida). Entretanto, durante ou imediatamente após a execução de curvas
+  este padrão não é mandatório e desvios superiores (overshoots ou undershoots) são toleráveis,
+  contudo, nestas condições, tais desvios ainda são limitados até o máximo de uma vez o valor
+  da precisão associado aos distintos segmentos do procedimento (por exemplo, 1.0 NM para
+  os segmentos inicial e intermediário).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- segmentos
+- desvios
+- trajetoria
+- condicoes
+- desejada
+- distintos
+- exemplo
+- inicial
+- intermediario
+- limitados
+- precisao
+- procedimento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,39 @@
+id: is-is-00-008e-8-4-body
+kind: is
+document: is-00-008e
+family: '0'
+section_id: '8.4'
+section_title: Após fornecer os dados exigidos, o usuário deverá, na tela seguinte, criar
+  seu login de acesso (o login não pode conter espaços e caracteres especiais, não sendo recomendável
+  que tenha mais de 15 caracteres), senha (para senha, observar a sugestão apresentada no
+  item 5.4 desta IS) e confirmar a senha escolhida. Ao clicar em Ok, o sistema vinculará seu
+  CANAC ao login criado e enviará uma mensagem automática para o endereço de e-mail cadastrado.
+subsection_id: body
+cite: '8.4'
+title: Após fornecer os dados exigidos, o usuário deverá, na tela seguinte, criar seu login
+  de acesso (o login não pode conter espaços e caracteres especiais, não sendo recomendável
+  que tenha mais de 15 caracteres), senha (para senha, observar a sugestão apresentada no
+  item 5.4 desta IS) e confirmar a senha escolhida. Ao clicar em Ok, o sistema vinculará seu
+  CANAC ao login criado e enviará uma mensagem automática para o endereço de e-mail cadastrado.
+text: 8.4 Após fornecer os dados exigidos, o usuário deverá, na tela seguinte, criar seu login
+  de acesso (o login não pode conter espaços e caracteres especiais, não sendo recomendável
+  que tenha mais de 15 caracteres), senha (para senha, observar a sugestão apresentada no
+  item 5.4 desta IS) e confirmar a senha escolhida. Ao clicar em Ok, o sistema vinculará seu
+  CANAC ao login criado e enviará uma mensagem automática para o endereço de e-mail cadastrado.
+keywords:
+- login
+- senha
+- caracteres
+- acesso
+- apresentada
+- automatica
+- cadastrado
+- canac
+- clicar
+- confirmar
+- conter
+- criado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-008e.md

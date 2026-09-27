@@ -1,0 +1,108 @@
+id: is-is-145-214-001-apendice-gi-ferramentas-de-avaliacao-e-controle-de-riscos-body
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-gi-ferramentas-de-avaliacao-e-controle-de-riscos
+section_title: APÊNDICE GI - FERRAMENTAS DE AVALIAÇÃO E CONTROLE DE RISCOS
+subsection_id: body
+cite: apendice-gi-ferramentas-de-avaliacao-e-controle-de-riscos
+title: APÊNDICE GI - FERRAMENTAS DE AVALIAÇÃO E CONTROLE DE RISCOS
+text: 'APÊNDICE GI - FERRAMENTAS DE AVALIAÇÃO E CONTROLE DE RISCOS
+
+  GI1. CONSIDERAÇÕES INICIAIS
+
+  GI1.1. Neste Apêndice são apresentadas as ferramentas de análise de riscos usualmente adotadas
+  por
+
+  organizações que atuam em atividades onde a avaliação e controle dos riscos envolvidos são
+
+  imperativos. Cada ferramenta é apresentada de modo sucinto e sua utilização é exemplificada
+
+  com estudos de caso ilustrativos do ambiente da aeronavegabilidade.
+
+  GI1.2. As ferramentas apresentadas neste Apêndice não são de adoção obrigatória e nem limitam
+  as
+
+  opções a serem adotadas pelas organizações para compor seu processo de gerenciamento de
+
+  riscos. A decisão quanto ao uso de quaisquer ferramentas compete unicamente à organização,
+
+  que deve ser capaz de avaliar e comprovar que as mesmas são adequadas, suficientes e eficazes
+
+  ao seu contexto operacional.
+
+  GI1.3. Antes da apresentação das ferramentas em questão, é recomendável recordar o passo-a-
+
+  passo do processo de identificação de perigos:
+
+  1º passo - identificar o perigo genérico;
+
+  2º passo - desdobrar o perigo genérico em seus perigos específicos; e
+
+  3º passo - relacionar cada perigo específico com suas causas e possíveis consequências.
+
+  GI2. PRINCIPAIS FERRAMENTAS DE ANÁLISE E AVALIAÇÃO DE RISCOS
+
+  GI2.1. Diagrama de Ishikawa (Cause-Consequence Diagram)
+
+  Gi2.1.1. Ferramenta que permite identificar os fatores que contribuem para a ocorrência
+  de algum
+
+  evento indesejado. Esses fatores são agrupados de forma que seja possível associá-los a
+  uma
+
+  natureza específica. Devido à sua simplicidade, normalmente é utilizada para análise de
+  situ-
+
+  ações de baixa complexidade ou para análise preliminar de situações mais complexas.
+
+  Gi2.1.2. Todos os fatores são dispostos transversalmente a uma “espinha dorsal”, na qual
+  é identifi-
+
+  cado o efeito indesejado sob análise. Esse arranjo é responsável pela denominação “espinha-
+
+  de- peixe”, comumente atribuída a essa ferramenta, como demonstra o exemplo a seguir. Nele
+
+  a ferramenta em questão é utilizada para identificar as causas da reprovação de motores
+  aero-
+
+  náuticos revisados e submetidos aos testes em banco de provas.
+
+  Exemplo 1
+
+  Identificação do problema: Determinada OM de revisão de motores registrou em 2010 uma
+
+  quantidade significativa de motores que foram reprovados no banco de provas, que foi con-
+
+  siderada inaceitável para a organização. Um estudo dos casos identificou seis causas que
+
+  contribuíram para essas ocorrências, conforme a tabela a seguir:Data de emissão: 8 de junho
+  de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Total de motores revisados no ano 2010 120
+
+  Total de motores reprovados no primeiro teste 30 (25%)
+
+  Causas da reprovação: No de casos'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- ferramentas
+- riscos
+- analise
+- apendice
+- avaliacao
+- motores
+- passo
+- causas
+- controle
+- ferramenta
+- fatores
+- identificar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

@@ -1,0 +1,38 @@
+id: is-is-91-010-objetivo-body
+kind: is
+document: is-91-010
+family: '91'
+section_id: objetivo
+section_title: OBJETIVO
+subsection_id: body
+cite: objetivo
+title: OBJETIVO
+text: 'OBJETIVO
+
+  1.1 Apresentar procedimentos para autorização do uso de comunicação por enlace de dados
+  controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C) por operadores
+  aéreos brasileiros.
+
+  1.2 Esta IS se aplica a qualquer operador aéreo brasileiro regido pelo RBAC nº 121, RBAC
+  nº 135 ou RBAC nº 91, que tenha ou solicite autorização para o uso de comunicação por enlace
+  de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- objetivo
+- automatica
+- autorizacao
+- comunicacao
+- contrato
+- controlador
+- cpdlc
+- dados
+- dependente
+- enlace
+- piloto
+- vigilancia
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

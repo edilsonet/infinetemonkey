@@ -1,0 +1,36 @@
+id: is-is-175-003f-introducao-e
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: e
+cite: introducao(e)
+title: introducao(e)
+text: e) Quando se tratar de transporte de material do próprio operador aéreo, seja COMAT
+  ou AOG, também conhecido como carga própria, deve-se descrever o produto transportado no
+  campo “produto predominante”. Não são aceitos os termos COMAT, manutenção, AOG, material
+  aeronáutico ou qualquer outro termo que não seja a descrição do conteúdo. Quando se tratar
+  de material de manutenção de aeronave, além do termo correto no campo “produto predominante”,
+  deve-se indicar o Part Number - PN -, no campo “observações gerais”, seguido do nome completo
+  do produto.
+keywords:
+- artigos-perigosos
+- carga
+- produto
+- campo
+- material
+- comat
+- introducao
+- manutencao
+- predominante
+- seja
+- termo
+- tratar
+- aceitos
+- aereo
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

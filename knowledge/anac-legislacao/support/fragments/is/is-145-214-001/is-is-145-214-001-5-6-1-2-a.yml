@@ -1,0 +1,52 @@
+id: is-is-145-214-001-5-6-1-2-a
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: 5.6.1.2
+section_title: Elemento 1.2 - Responsabilidade primária acerca da segurança operacional
+subsection_id: a
+cite: 5.6.1.2(a)
+title: 5.6.1.2(a)
+text: 'a) A organização deve:
+
+  I- identificar claramente o Gestor Responsável (independente de outras funções)
+
+  como responsável primário em nome da organização pela implementação,
+
+  manutenção e desempenho do SGSO;
+
+  II- identificar claramente os níveis de responsabilidade e de autoridade através de toda
+
+  a organização, desde os colaboradores e gerentes até a Alta Direção, com relação à
+
+  segurança operacional e ao desempenho do SGSO;
+
+  III- documentar e comunicar formalmente os níveis de responsabilidade e de autoridade
+
+  citados no inciso “II” acima; e
+
+  IV- explicitar os níveis gerenciais com autoridade compatível para a tomada de decisões
+
+  relativas à tolerabilidade dos riscos à segurança operacional gerenciados pela
+
+  organização.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- organizacao
+- autoridade
+- niveis
+- operacional
+- responsabilidade
+- seguranca
+- claramente
+- desempenho
+- identificar
+- responsavel
+- sgso
+- acerca
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

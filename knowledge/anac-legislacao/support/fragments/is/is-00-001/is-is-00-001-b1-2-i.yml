@@ -1,0 +1,37 @@
+id: is-is-00-001-b1-2-i
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.2
+section_title: SISTEMAS
+subsection_id: i
+cite: B1.2(i)
+title: B1.2(i)
+text: '(i) HIDRÁULICA
+
+  I- Perda de um sistema hidráulico em operações ETOPS;
+
+  II- Falha do sistema de isolamento;
+
+  III- Perda de mais de um sistema hidráulico;
+
+  IV- Falha do sistema hidráulico de emergência;
+
+  V- Extensão inadvertida da turbina de ar de impacto (Ram Air Turbine - RAT).'
+keywords:
+- sistema
+- hidraulico
+- falha
+- perda
+- emergencia
+- etops
+- extensao
+- hidraulica
+- impacto
+- inadvertida
+- isolamento
+- operacoes
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

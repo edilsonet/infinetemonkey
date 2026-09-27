@@ -1,0 +1,50 @@
+id: is-is-145-001-4-1-8-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: 4.1.8
+section_title: 'Programa de Treinamento em Manutenção - PTM: programa que descreve os procedimentos
+  de treinamento da OM. (Ver IS n° 145-010)'
+subsection_id: body
+cite: 4.1.8
+title: 'Programa de Treinamento em Manutenção - PTM: programa que descreve os procedimentos
+  de treinamento da OM. (Ver IS n° 145-010)'
+text: '4.1.8 Programa de Treinamento em Manutenção - PTM: programa que descreve os procedimentos
+  de treinamento da OM. (Ver IS n° 145-010)
+
+  4.1.9 Registro primário de manutenção: de acordo com a seção 43.9 do RBAC nº 43, os registros
+  de manutenção de um produto aeronáutico devem conter a descrição dos serviços executados
+  (ou referência a dados aceitáveis pela autoridade competente). Desta forma, constituem registros
+  primários de manutenção aqueles que apresentam a descrição do serviço realizado, como por
+  exemplo, Cadernetas de célula, motores e hélices, Ordens de Serviços, Fichas de Cumprimento
+  de Diretriz de Aeronavegabilidade - FCDA, Formulários ANAC F-400-04 e F-100-01.
+
+  4.1.10 Registro secundário de manutenção: de acordo com as seções 91.417 do RBAC nº 91,
+  135.439 do RBAC n°135 e 121.380 do RBAC nº 121, os registros de manutenção de um produto
+  aeronáutico devem conter a situação corrente das partes com tempo de vida limitado, tempo
+  desde a última revisão geral de cada item instalado em aeronave sujeito a revisão, identificação
+  da presente situação de inspeções da aeronave e a situação corrente das Diretrizes de Aeronavegabilidade
+  - DA aplicáveis e, se a Diretriz de Aeronavegabilidade envolver ações periódicas, o tempo
+  e a data da próxima ação requerida. Desta forma, constituem registros secundários de manutenção
+  aqueles que apresentem tais informações, como por exemplo, uma ficha de situação de componentes
+  controlados instalados em uma aeronave ou uma ficha de situação de cumprimento de Diretrizes
+  de Aeronavegabilidade.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- programa
+- treinamento
+- situacao
+- aeronavegabilidade
+- registros
+- aeronave
+- descreve
+- procedimentos
+- tempo
+- acordo
+- aeronautico
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

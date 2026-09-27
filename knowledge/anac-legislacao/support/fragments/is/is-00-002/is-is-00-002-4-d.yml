@@ -1,0 +1,49 @@
+id: is-is-00-002-4-d
+kind: is
+document: is-00-002
+family: '0'
+section_id: '4'
+section_title: Conhecimento prévio requerido
+subsection_id: d
+cite: 4(d)
+title: 4(d)
+text: 'd) para navegação por satélite (GNSS):
+
+  i. princípios de operação, desempenho e erros de um sistema GNSS;
+
+  ii. métodos para determinar a posição da aeronave utilizando o GNSS;
+
+  iii. procedimentos para uso do GNSS e salvaguardas contra erros de navegação e perda
+
+  de consciência situacional;
+
+  iv. procedimentos tipicamente realizados em uma navegação GNSS;
+
+  v. indicadores da passagem de waypoints;
+
+  vi. verificações operacionais e de manutenção necessárias em equipamentos GNSS;
+
+  vii. fatores humanos relacionados com o uso do GNSS;Data de emissão: 31 de dezembro de 2024
+
+  IS nº 00-002
+
+  Revisão H
+
+  viii. requisitos regulamentares para a realização de uma operação GNSS;'
+keywords:
+- gnss
+- navegacao
+- erros
+- operacao
+- procedimentos
+- aeronave
+- conhecimento
+- consciencia
+- contra
+- data
+- desempenho
+- determinar
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-002.md

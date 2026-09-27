@@ -34,34 +34,22 @@ text: '(d)
   (4)
 
   From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per
-  meter (V/
-
-  m) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater.
-
-  (5)
-
-  From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150
-  V/m
-
-  peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency.
-  This
-
-  signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent.'
+  meter (V/'
 keywords:
 - aeronavegabilidade
 - rotorcraft
-- with
 - minimum
 - susceptibility
-- from
 - conducted
+- from
 - must
-- percent
 - tests
-- frequency
-- modulation
-- wave
 - current
+- decade
+- frequency
+- part
+- sections
+- wave
 categories:
 - aeronavegabilidade
 - rotorcraft

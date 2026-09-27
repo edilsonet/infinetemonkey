@@ -1,0 +1,43 @@
+id: rbac-rbac-108-emd-07-108-241-i
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.241'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: i
+cite: 108.241(i)
+title: 108.241(i)
+text: '(i) teste nos procedimentos de controle de acesso de pessoas às aeronaves;
+
+  (ii) teste nos procedimentos de verificação e inspeção de segurança das aeronaves, em cada
+  base que opere voo internacional;
+
+  (iii) teste nos procedimentos de segurança relativos às provisões de bordo e de serviço
+  de bordo, quando utilizado o conceito de cadeia segura de segurança; (Redação dada pela
+  Resolução nº 604, de 29.01.2021)
+
+  (iv) teste nos sistemas de inspeção de bagagens despachadas, carga e mala postal, em cada
+  base onde a inspeção é obrigatória nos termos das Seções 108.59 e 108.127; e
+
+  (A) no caso de compartilhamento dos mesmos recursos humanos e materiais para inspeção de
+  bagagem despachada, carga e mala postal em determinada base, os operadores aéreos envolvidos
+  poderão se organizar para realizar uma única bateria de testes.'
+keywords:
+- seguranca
+- operador
+- inspecao
+- teste
+- base
+- procedimentos
+- aeronaves
+- bordo
+- cada
+- carga
+- controle
+- mala
+- postal
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

@@ -1,0 +1,136 @@
+id: is-is-121-016-15-08-2022-body
+kind: is
+document: is-121-016
+family: '121'
+section_id: 15.08.2022
+section_title: 15.08.2022
+subsection_id: body
+cite: 15.08.2022
+title: 15.08.2022
+text: '15.08.2022
+
+
+  OBJETIVO
+
+  1.1 Apresentar meio aceitável para a seleção de aeródromos de alternativa e atendimento
+  aos requisitos de condições meteorológicas para fins de planejamento e acompanhamento de
+  voo sob o RBAC nº 121.
+
+  REVOGAÇÃO
+
+  N/A
+
+  FUNDAMENTOS
+
+  3.1 A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar
+  - IS, norma suplementar de caráter geral editada pelo Superintendente da área competente,
+  objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC ou
+  RBHA.
+
+  3.2 O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito
+  previsto em RBAC ou RBHA, poderá:
+
+  a) adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse
+  caso, a análise e concordância expressa do órgão competente da ANAC.
+
+  3.3 O meio ou procedimento alternativo mencionado no parágrafo 3.2b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  3.4 A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC
+  ou outro ato normativo.
+
+  3.5 Esta IS é fundamentada e objetiva oferecer método de cumprimento às seções 121.611,
+  121.613, 121.617, 121.619, 121.624 e 121.631 do RBAC nº 121.
+
+  ​DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas na seção 01.1 do RBAC nº
+  01 e as seguintes definições:
+
+  4.1.1 Plano operacional de voo significa o plano do operador para a condução segura do voo,
+  considerando o desempenho do avião, outras limitações operacionais e as condições relevantes
+  esperadas na rota e nos aeródromos envolvidos. No contexto do RBAC nº 121, é denominado
+  de despacho de voo ou liberação de voo.
+
+  4.2 Lista de abreviaturas:
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  DA/H - Decision altitude/height (altitude/altura de decisão)
+
+  ETOPS - Extended operations (operações prolongadas)
+
+  IFR - Instrument flight rules (regras do voo por instrumentos)
+
+  IS - Instrução Suplementar
+
+  MDA/H - Minimum descent altitude/height (altitude/altura mínima de descida)
+
+  PNR - Ponto de não retorno
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  SPO - Superintendência de Padrões Operacionais
+
+  TAF - Terminal aerodrome forecast (previsão de aeródromo)
+
+  VMC - Visual meteorological conditions (condições meteorológicas de voo visual)
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Introdução
+
+  5.1.1 Com vistas à proteção dos voos, o RBAC nº 121 estabelece requisitos de planejamento,
+  que incluem a necessidade da seleção de aeródromos de alternativa e requisitos de condições
+  meteorológicas, tanto sobre os aeródromos envolvidos (de origem, de destino e de alternativa)
+  quanto sobre a rota.
+
+  5.1.2 Os principais requisitos de condições meteorológicas, para fins de planejamento, constam
+  na seção 121.611, para voos VFR; e na seção 121.613 para voos IFR.
+
+  5.1.2.1 Com relação aos voos VFR, o parágrafo 121.611(a)(2) menciona “as informações meteorológicas
+  atualizadas [referentes às] (...) condições meteorológicas ao longo da rota até os aeródromos
+  especificados no despacho ou liberação de voo, ou da parte da rota a ser voada sob VFR”.
+  No caso de voos VFR ou parte VFR, pode ser que os aeródromos de origem, de destino ou de
+  alternativa não possuam informações meteorológicas; dessa forma, a regra menciona de forma
+  genérica as “condições meteorológicas ao longo da rota”. No entanto, quando se tratar de
+  operações de decolagem ou pouso realizadas em VFR, essas condições incluem as condições
+  dos aeródromos de decolagem ou pouso, conforme aplicável.
+
+  Nota: observa-se que essa regra não impõe a necessidade de que existam informações meteorológicas
+  para os aeródromos em que se realizam operações VFR. No entanto, quando houver informações
+  meteorológicas, elas devem ser compatíveis com a realização das operações de decolagem ou
+  de pouso (conforme aplicável) em VFR.
+
+  5.1.2.2 Para voos IFR, o parágrafo 121.613(a) basicamente requer que as condições meteorológicas
+  de todos os aeródromos envolvidos (seja de decolagem, de destino, de alternativa em rota
+  ou de alternativa de destino) estejam, no horário estimado de utilização, iguais ou acima
+  dos mínimos aplicáveis - sendo a única exceção o aeródromo de destino, que pode estar abaixo
+  dos mínimos ou não dispor de informações meteorológicas, conforme permitido pelo parágrafo
+  121.619(b).
+
+  Nota: o mesmo requisito de estar igual ou acima dos mínimos se aplica ao aeródromo de alternativa
+  de decolagem, conforme o parágrafo 121.617(b) do RBAC nº 121.'
+keywords:
+- transporte-aereo
+- operacoes
+- meteorologicas
+- condicoes
+- aerodromos
+- alternativa
+- requisitos
+- rota
+- voos
+- decolagem
+- destino
+- informacoes
+- paragrafo
+- altitude
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-016.md

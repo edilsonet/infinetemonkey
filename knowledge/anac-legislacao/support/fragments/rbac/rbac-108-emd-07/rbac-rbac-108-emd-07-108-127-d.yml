@@ -1,0 +1,34 @@
+id: rbac-rbac-108-emd-07-108-127-d
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.127'
+section_title: Inspeção da carga e mala postal
+subsection_id: d
+cite: 108.127(d)
+title: 108.127(d)
+text: '(d) No caso de dúvida com relação ao conteúdo da carga ou mala postal após a inspeção
+  de segurança, a remessa deve ser submetida a uma inspeção de segurança secundária, que pode
+  utilizar tecnologias diferentes de inspeção de segurança.
+
+  (1) Se após a inspeção de segurança secundária a dúvida com relação ao conteúdo se mantiver,
+  a remessa deve ser considerada suspeita, e tratada conforme seção 108.133.'
+keywords:
+- seguranca
+- operador
+- inspecao
+- carga
+- conteudo
+- duvida
+- mala
+- postal
+- relacao
+- remessa
+- secundaria
+- caso
+- considerada
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

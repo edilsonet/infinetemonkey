@@ -1,0 +1,80 @@
+id: is-is-133-001-7-2-2-body
+kind: is
+document: is-133-001
+family: '133'
+section_id: 7.2.2
+section_title: A aeronave deve ter capacidade de executar voo pairado com um motor inoperante
+  com o peso e na altitude da operação.
+subsection_id: body
+cite: 7.2.2
+title: A aeronave deve ter capacidade de executar voo pairado com um motor inoperante com
+  o peso e na altitude da operação.
+text: '7.2.2 A aeronave deve ter capacidade de executar voo pairado com um motor inoperante
+  com o peso e na altitude da operação.
+
+  7.2.3 Se as limitações de operação, marcações ou placares do Manual de Voo (RFM) ou do Suplemento
+  ao Manual de Voo (RFMS) contiverem linguagem que proíba o uso para transporte de pessoa
+  em uma operação com carga externa, os operadores devem cumprir essas limitações de acordo
+  com o parágrafo 91.9(a) do RBAC nº 91 (por exemplo, uma limitação do RFMS tal como, “o gancho
+  de carga é aprovado para carga não humana, apenas combinações aeronave-carga Classe B”).
+  O RFM ou RFMS também pode incluir limitações adicionais indicando certificação para transporte
+  de pessoas como carga externa (por exemplo, "o sistema de carga externa atende aos requisitos
+  de certificação do RBAC nº 29 para carga humana").
+
+  7.3 Equipamentos
+
+  7.3.1 O helicóptero deve ter os meios de fixação da carga externa aprovados, sendo que qualquer
+  equipamento para içamento de pessoas deve ter sido aprovado para tal pela ANAC ou autoridade
+  de aviação civil do país de fabricação. Este equipamento deve conter um mecanismo de alijamento
+  que requeira duas ações distintas para acionamento, prevenindo deste modo o acionamento
+  acidental.
+
+  7.3.2 O helicóptero deve ser equipado de modo a permitir intercomunicação rádio entre os
+  membros da tripulação requeridos, conforme o parágrafo 133.45(e)(2) do RBAC nº 133, sendo
+  recomendável o uso de rádio para a equipe de solo manter contato com a tripulação.
+
+  7.3.3 Outros equipamentos que não requeiram uma certificação pela Anac devem ter uma aprovação
+  de engenharia que garanta sua integridade durante a operação proposta. Adicionalmente, não
+  podem interferir com quaisquer sistemas da aeronave. Caberá à Anac a verificação destes
+  equipamentos.
+
+  7.4 Operações
+
+  7.4.1 As operações classe D não podem ser conduzidas sob regras de voo por instrumentos.
+  Durante a operação em si, deve haver um contato rádio permanente entre os membros da equipe
+  e os tripulantes, para garantir a coordenação de toda a operação.
+
+  7.4.2 O transporte de pessoas como carga externa é autorizado quando operando com classe
+  D, porém eles não podem ser passageiros. Somente pessoas diretamente ligadas à operação,
+  e necessárias para tal, podem tomar parte em operações classe D.
+
+  7.5 Treinamento
+
+  7.5.1 O RBAC n° 133, em seu parágrafo 133.37(b), exige que o requerente apresente um Programa
+  de Treinamento específico para a operação classe D. No caso de empresas certificadas como
+  empresas de transporte aéreo, pode ser feita uma revisão no Programa de Treinamento já aprovado,
+  de modo a inserir o treinamento em questão.
+
+  7.5.2 Este Programa de Treinamento deve ser submetido à análise da Anac para aprovação e
+  ser elaborado na forma e com o conteúdo definidos pela Agência, em conformidade com o item
+  5.3.3.10 desta IS.'
+keywords:
+- carga-externa
+- helicoptero
+- operacao
+- carga
+- aeronave
+- classe
+- externa
+- treinamento
+- pessoas
+- podem
+- transporte
+- altitude
+- aprovado
+- capacidade
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

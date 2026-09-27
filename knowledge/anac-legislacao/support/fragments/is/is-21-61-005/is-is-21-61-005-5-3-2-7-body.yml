@@ -1,0 +1,55 @@
+id: is-is-21-61-005-5-3-2-7-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.2.7
+section_title: The MMEL preamble must indicate if extension of the repair intervals of category
+  B, C, and D items is applicable.
+subsection_id: body
+cite: 5.3.2.7
+title: The MMEL preamble must indicate if extension of the repair intervals of category B,
+  C, and D items is applicable.
+text: '5.3.2.7 The MMEL preamble must indicate if extension of the repair intervals of category
+  B, C, and D items is applicable.
+
+  5.3.2.8 Quando a MMEL estiver no “formato orientado a mensagens”, as mensagens exibidas
+  podem ser listadas no lugar do título do item na seção relevante, pois isso será considerado
+  uma representação dos itens afetados. O número instalado e o número requerido não são aplicáveis
+  neste caso.
+
+  5.3.2.8 When MMEL is in the “message-oriented format”, the messages displayed may be listed
+  in place of the item title in the relevant section, as this will be considered as a representation
+  of the items affected. Number installed and number required are not applicable in this case.
+
+  5.3.2.9 Quando o despacho de um item restringe a operação a Regras de Voo Visual (Visual
+  Flight Rules - VFR), a aeronave será impedida de operar sob Regras de Voo por Instrumentos
+  (Instrument Flight Rules - IFR). Quando o termo “Condições Meteorológicas Visuais” (Visual
+  Meteorological Conditions - VMC) for usado em uma determinação, a aeronave pode ser operada
+  sob um plano de voo IFR, mas deve permanecer em condições visuais.
+
+  5.3.2.9 When the proviso of an item restricts the operation to Visual Flight Rules - VFR,
+  the aircraft will be prevented from operating under Instrument Flight Rules - IFR. When
+  the term “Visual Meteorological Conditions - VMC” is used within a determination, the aircraft
+  may be operated under an IFR flight plan but must remain in visual conditions.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- visual
+- flight
+- mmel
+- applicable
+- items
+- must
+- rules
+- category
+- conditions
+- extension
+- indicate
+- intervals
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

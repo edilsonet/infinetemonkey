@@ -1,0 +1,37 @@
+id: is-is-43-1-001-5-3-3-d
+kind: is
+document: is-43-1-001
+family: '43'
+section_id: 5.3.3
+section_title: Conforme a seção 43.1(e)-I do RBAC 43, a solicitação deve identificar individualmente
+  os
+subsection_id: d
+cite: 5.3.3(d)
+title: 5.3.3(d)
+text: 'd) caso não haja OM certificada para o serviço pretendido, declaração de que o
+
+  solicitante realizou as buscas necessárias no site da ANAC, não identificando
+
+  qualquer OM que estivesse certificada conforme RBAC 145 para a execução dos
+
+  serviços.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- certificada
+- buscas
+- caso
+- declaracao
+- estivesse
+- execucao
+- haja
+- identificando
+- identificar
+- individualmente
+- necessarias
+- pretendido
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-1-001.md

@@ -1,0 +1,847 @@
+id: is-is-154-5-001-aplicabilidade-body
+kind: is
+document: is-154-5-001
+family: '154'
+section_id: aplicabilidade
+section_title: APLICABILIDADE
+subsection_id: body
+cite: aplicabilidade
+title: APLICABILIDADE
+text: 'APLICABILIDADE
+
+  Este apêndice apresenta uma metodologia para a avaliação de faixa de pista de pouso e decolagem
+  que pode ser utilizada como guia para análise de risco quando do não atendimento das especificações
+  da seção 154.207 do RBAC 154.
+
+  Este guia aplica-se à avaliação de não conformidades associadas aos seguintes requisitos
+  da seção 154.207 do RBAC 154: (c) Largura de faixas de pista de pouso e decolagem; (d) Objetos
+  em faixas de pista de pouso e decolagem; e (e) Faixa preparada.
+
+  CONTEXTUALIZAÇÃO
+
+  O propósito da faixa de pista pode ser divido em dois aspectos:
+
+  • reduzir o risco de dano a uma aeronave em caso de saída de pista, por meio do provimento
+  de uma área nivelada e preparada com capacidade de suporte e declividades longitudinais
+  e transversais adequadas para suportar e suavizar o deslocamento da aeronave;
+
+  • proteger uma aeronave no sobrevoo durante o pouso, decolagem ou pouso interrompido, por
+  meio do provimento de uma área livre de obstáculos com exceção dos auxílios à navegação
+  permitidos pelo regulamento.
+
+  Portanto, a análise de risco de uma situação de não conformidade da faixa de pista deve
+  contemplar uma avaliação desses dois aspectos.
+
+  CRITÉRIOS PARA A AVALIAÇÃO DE UMA ANÁLISE DE RISCO
+
+  Apresenta-se, a seguir, critérios para a análise e aceitação de uma análise de risco. Porém,
+  a elaboração de uma análise de risco não se resume aos critérios aqui apresentados. Ou seja,
+  o operador de aeródromo deve realmente entender a análise de risco como uma ferramenta de
+  compreensão da sua operação e uma forma de avaliar melhorias, sejam operacionais ou de infraestrutura.
+
+  Os seguintes critérios foram estabelecidos pela Agência para a avaliação de uma análise
+  de risco proposta por um operador de aeródromo:
+
+  TESTE DE REJEIÇÃO
+
+  É um critério que dá indícios que a “exposição ao risco” é inaceitável. Ou seja, caso a
+  infraestrutura seja rejeitada no critério, a proposta operacional não seria aceitável a
+  não ser que uma avaliação mais robusta ateste que um nível aceitável de segurança operacional
+  foi alcançado. No entanto, caso a infraestrutura passe nos testes de rejeição, não é possível
+  afirmar apenas por essa avaliação que a operação é aceitável. Visualmente, o Teste de Rejeição
+  pode ser entendido de acordo com a Figura 1.
+
+
+  Figura 1 - Teste de Rejeição
+
+  TESTE DE ACEITAÇÃO
+
+  É um teste mais detalhado que considera características específicas da infraestrutura, meteorologia
+  e operações do aeroporto. Caso o cenário operacional proposto passe no teste, a operação
+  seria atestada como aceitável de acordo com parâmetros de segurança aceitos pela ANAC. Porém,
+  caso o cenário não passe no teste, não se pode necessariamente afirmar que a operação é
+  inaceitável (ou seja, pode ser aceito um ALARP - As Low As Reasonably Practicable). Visualmente,
+  o Teste de Aceitação pode ser entendido de acordo com a Figura 2.
+
+
+  Figura 2 - Teste de Aceitação
+
+  TESTES DE REJEIÇÃO
+
+  FAIXA DE PISTA - 154.207(C) E (D)
+
+  Teste de Rejeição nº 1 - Requisito FAA
+
+  O requisito faixa de pista da FAA é menos restritivo que o preconizado pela OACI para os
+  códigos 3 e 4 e operações IFR. A norma da FAA (AC 150/5300-13A - “Airport Design”) apresenta
+  duas áreas, a RSA (Runway Safety Area) e a ROFA (Runway Obstacle Free Area). Pelas definições
+  e especificações da norma, pode-se considerar que estas áreas são compatíveis, respectivamente,
+  à faixa preparada e à faixa de pista do RBAC 154.
+
+  Considerando que esse requisito é mais flexível na norma norte-americana que no RBAC 154
+  (para a combinação de códigos e operação apresentados na Tabela 1), deve-se diferenciar
+  os casos em que a infraestrutura atenda o requisito norte americano e os casos em que nem
+  este é atendido. A comparação entre requisitos é apresentada na Tabela 1.
+
+
+  Tabela 1 - Requisitos de Largura de faixa de pista (medida a partir do eixo) Largura da
+  Faixa de Pista OACI FAA OACI (Cód. 3 e 4, IFR) FAA C III 140 M 122 M D IV 140 M 122 M E
+  V 140 M 122 M F VI 140 M 122 M
+
+  Caso o aeródromo em avaliação não possua uma largura de faixa de pista que atenda ao requisito
+  da FAA, diz-se que que a separação está na região de rejeição, ou seja, o cenário operacional
+  foi rejeitado no Teste de Rejeição nº 1.
+
+  Importante destacar que este teste de rejeição só é aplicável para operações de aeronaves
+  código 3 ou 4, código C ou superior e operações IFR. Para demais situações, não apresentadas
+  na Tabela 1, deve-se verificar na norma da FAA se é possível a aplicação do teste, isto
+  é, se a norma da FAA é mais flexível que a norma da ANAC (não foi apresentado aqui toda
+  a combinação de códigos, uma vez que não é possível fazer a correlação direta entre os códigos
+  da OACI e da FAA).
+
+
+  Teste de Rejeição nº 2 - Requisito TCCA - Canadá
+
+  O requisito da largura de faixa de pista adotado pelo TCCA (em sua norma TP312 - “Aerodrome
+  Standards and Recommended Practices - Land Aerodromes - 5th Edition”) é menos restritivo
+  que o preconizado pela OACI. Considerando que esse requisito é mais flexível que o do RBAC
+  154, deve-se diferenciar os casos em que a infraestrutura atenda o requisito canadense e
+  os casos em que nem este é atendido.
+
+  Como a correlação entre os códigos do TP312 e do RBAC 154 não é simples, isto é, não é válida
+  para todas as aeronaves de cada código, a Tabela 2 apresenta apenas o requisito canadense
+  (sem fazer a correlação com o requisito do RBAC 154), apresentando também aeronaves típicas
+  de cada código.
+
+  Tabela 2 - Requisito de Largura de Faixa de Pista do TCCA (medido a partir do eixo)
+
+  Código
+
+  I
+
+  II
+
+  IIIA
+
+  IIIB
+
+  IV
+
+  V
+
+  VI
+
+  Aeronaves Típicas (*)
+
+
+  EMB-110
+
+  ATR-42-200/300
+
+  A-318
+
+  A-300
+
+  A-330-200/300
+
+  A-380-800
+
+
+  EMB-120
+
+  ATR-72-200/210
+
+  A-319
+
+  A-300-600
+
+  A-340-200/300/500/600
+
+  747-8
+
+
+  A-320
+
+  A-310
+
+  A-350-900
+
+
+  A-321
+
+  707-320B
+
+  747-100/200/300/400
+
+
+  B717-200
+
+  757-200/300
+
+  777-200/300
+
+
+  B727-100/200
+
+  767-200/300/400
+
+  787-8
+
+
+  B737 (todos)
+
+
+  EMB-170
+
+
+  EMB-175
+
+
+  EMB-190
+
+
+  EMB-195
+
+
+  ERJ135
+
+
+  ERJ140
+
+
+  ERJ145
+
+
+  ERJ145XR
+
+
+  F-28
+
+
+  VFR
+
+  30
+
+  40
+
+  40
+
+  75
+
+  75
+
+  75
+
+  75
+
+  IFR NPA
+
+  75
+
+  75
+
+  75
+
+  122
+
+  122
+
+  122
+
+  122
+
+  IFR PA
+
+  122
+
+  122
+
+  122
+
+  122
+
+  122
+
+  122
+
+  122
+
+  (*) os dados relativos à velocidade de aproximação das aeronaves foram obtidos da AC 150/5300-13A
+  da FAA.
+
+  Caso o cenário operacional em avaliação não possua uma largura de faixa de pista que atenda
+  ao requisito do TCCA, diz-se que que a largura está na região de rejeição, ou seja, o cenário
+  operacional foi rejeitado no Teste de Rejeição nº 2.
+
+  Teste de Rejeição nº 3 - Requisito CASA - Austrália
+
+  A Autoridade de Aviação Civil Australiana define em seu regulamento que, no caso de pistas
+  com operação IFR, a faixa de pista é composta por duas áreas, conforme a Figura 3 abaixo,
+  isto é, uma porção que deve ser nivelada/preparada, denominada de “graded area", e uma área
+  denominada de “flyover area".
+
+
+  Figura 3 - Composição da faixa de pista - definição australiana
+
+  O requisito da largura de faixa de pista adotado pela CASA (em sua norma “Manual of Standards
+  Part 139 - Aerodromes”) é menos restritivo que o preconizado pela OACI (exceto para o código
+  1, operações VFR noturnas, situação em que a Austrália é mais rigorosa e para os códigos
+  3A, 3B e 3C operação IFR precisão e códigos 3D e 4 operação IFR, cujos parâmetros foram
+  atualizados recentemente na 7ª edição do Anexo 14, o qual serviu de base para a Emenda 03
+  do RBAC 154). Considerando que o requisito australiano é mais flexível que o do RBAC 154,
+  deve-se diferenciar os casos em que a infraestrutura atenda o requisito australiano e os
+  casos em que nem este é atendido. A comparação entre requisitos é apresentada na Tabela
+  3.
+
+  Tabela 3 - Requisitos de largura de faixa de pista (comparação entre a regra australiana
+  e brasileira)
+
+  Código de Referência
+
+  VFR
+
+  VFR noturno
+
+  IFR Não Precisão
+
+  IFR precisão
+
+  Largura Total da Faixa de Pista Regulamentação Australiana (m)
+
+
+  1
+
+  60
+
+  80
+
+  90
+
+  150
+
+  2
+
+  80
+
+  80
+
+  90
+
+  150
+
+  3A, 3B, 3C[1]
+
+  90
+
+  90
+
+  150
+
+  300
+
+  3D, 4
+
+  150
+
+  150
+
+  300
+
+  300
+
+  Largura Total da Faixa de Pista Regulamentação Brasileira (m)
+
+
+  1
+
+  60
+
+  60
+
+  140
+
+  140
+
+  2
+
+  80
+
+  80
+
+  140
+
+  140
+
+  3A, 3B, 3C
+
+  150
+
+  150
+
+  280
+
+  280
+
+  3D, 4
+
+  150
+
+  150
+
+  280
+
+  280
+
+
+  Caso o cenário operacional em avaliação não possua uma largura de faixa de pista que atenda
+  ao requisito da CASA, diz-se que que a largura está na região de rejeição, ou seja, o cenário
+  operacional foi rejeitado no Teste de Rejeição nº 3.
+
+  Importante destacar que este teste de rejeição só é aplicável para a combinação de códigos
+  e operação realçados em verde na Tabela 3.
+
+  Teste de Rejeição nº 4 - Separação pontas de asa - objetos fixos
+
+  Este teste consiste em avaliar a separação entre a ponta de asa de aeronaves localizadas
+  no eixo da RWY e de um obstáculo localizado após o término da faixa de pista, e compará-la
+  com a distância mínima prevista para atendimento ao requisito do RBAC 154. Para aeroportos
+  que operam aeronaves dos códigos de referência 4C, 4D e 4E, compara-se a distância existente
+  entre a ponta de asa e o término da faixa de pista, com a distância mínima prevista para
+  o código 4E, conforme mostrado na Figura 4.
+
+
+  Figura 4 - Distância entre ponta de asa e o limite da Faixa de Pista
+
+  Como a distância regulamentar entre o eixo da RWY e o término da faixa de pista para o código
+  4E é de 140 metros (considerando pistas para operações IFR), tem-se que a separação mínima
+  entre ponta de asa e o limite da faixa de pista é de 107,5m. Por meio desse parâmetro, calculam-se
+  as larguras mínimas necessárias para a faixa de pista para códigos 4C e 4D. Considerando
+  o limite dos códigos das aeronaves, a análise pode ser feita pela Tabela 4.
+
+  Caso a distância existente entre a ponta de asa e objetos fixos seja inferior a 107,5 metros,
+  diz-se que que a separação está na região de rejeição, ou seja, o cenário operacional foi
+  rejeitado no Teste de Rejeição nº 4.
+
+  Tabela 4 - Largura de faixa de pista (medida a partir do eixo) - separação entre ponta de
+  asa e objeto
+
+  Aeronave na RWY
+
+  Envergadura
+
+  Largura Mínima
+
+  4C
+
+  36 m
+
+  125,5 m
+
+  4D
+
+  52 m
+
+  133,5 m
+
+  4E
+
+  65 m
+
+  140 m
+
+  Na análise de risco específica, pode-se avaliar pela envergadura de uma aeronave específica
+  e não necessariamente pelo limite do código.
+
+
+  FAIXA PREPARADA - 154.207(E)
+
+  Teste de Rejeição nº 1 - Requisito FAA
+
+  O requisito faixa de pista da FAA é menos restritivo que o preconizado pela OACI para os
+  códigos 3 e 4 e operações IFR. A norma da FAA (AC 150/5300-13A - “Airport Design”) apresenta
+  duas áreas, a RSA (Runway Safety Area) e a ROFA (Runway Obstacle Free Area). Pelas definições
+  e especificações da norma, pode-se considerar que estas áreas são compatíveis, respectivamente,
+  à faixa preparada e à faixa de pista do RBAC 154.
+
+  Considerando que esse requisito é mais flexível na norma norte-americana que no RBAC 154
+  (para a combinação de códigos e operação apresentados na Tabela 5), deve-se diferenciar
+  os casos em que a infraestrutura atenda o requisito norte americano e os casos em que nem
+  este é atendido. A comparação entre requisitos é apresentada na Tabela 5.
+
+
+  Tabela 5 - Requisitos de Largura de faixa preparada (medida a partir do eixo)
+
+
+  Largura da Faixa Preparada
+
+
+  OACI
+
+  FAA
+
+  OACI (Cód. 3 e 4, IFR NPA) OACI (Cód. 3 e 4, IFR PA)
+
+  FAA
+
+  C
+
+  III
+
+  75 m 105 m
+
+  76,2 m
+
+  D
+
+  IV
+
+  75 m 105 m
+
+  76,2 m
+
+  E
+
+  V
+
+  75 m 105 m
+
+  76,2 m
+
+  F
+
+  VI
+
+  75 m 105 m
+
+  76,2 m
+
+  Caso o aeródromo em avaliação não possua uma largura de faixa preparada que atenda ao requisito
+  da FAA, diz-se que que a largura está na região de rejeição, ou seja, o cenário operacional
+  foi rejeitado no Teste de Rejeição nº 1.
+
+  Importante destacar que este teste de rejeição só é aplicável para operações de aeronaves
+  código 3 ou 4, código C ou superior e operações IFR precisão. Para demais situações, não
+  apresentadas na Tabela 5, deve-se verificar na norma da FAA se é possível a aplicação do
+  teste, isto é, se a norma da FAA é mais flexível que a norma da ANAC (não foi apresentado
+  aqui toda a combinação de códigos, uma vez que não é possível fazer a correlação direta
+  entre os códigos da OACI e da FAA).
+
+  Teste de Rejeição nº 2 - Requisito TCCA - Canadá
+
+  O requisito da largura de faixa preparada adotado pelo TCCA (em sua norma TP312 - “Aerodrome
+  Standards and Recommended Practices - Land Aerodromes - 5th Edition”) é menos restritivo
+  que o preconizado pela ANAC para algumas combinações de código e tipo de operação. Considerando
+  que esse requisito é mais flexível que o do RBAC 154, deve-se diferenciar os casos em que
+  a infraestrutura atenda o requisito canadense e os casos em que nem este é atendido.
+
+  Como a correlação entre os códigos do TP312 e do RBAC 154 não é simples, isto é, não é válida
+  para todas as aeronaves de cada código, a Tabela 6 apresenta apenas o requisito canadense
+  (sem fazer a correlação com o requisito do RBAC 154), apresentando também aeronaves típicas
+  de cada código.
+
+
+  Tabela 6 - Requisito de Largura de Faixa de Pista do TCCA (medido a partir do eixo)
+
+  Código
+
+  I
+
+  II
+
+  IIIA
+
+  IIIB
+
+  IV
+
+  V
+
+  VI
+
+  Aeronaves Típicas (*)
+
+
+  EMB-110
+
+  ATR-42-200/300
+
+  A-318
+
+  A-300
+
+  A-330-200/300
+
+  A-380-800
+
+
+  EMB-120
+
+  ATR-72-200/210
+
+  A-319
+
+  A-300-600
+
+  A-340-200/300/500/600
+
+  747-8
+
+
+  A-320
+
+  A-310
+
+  A-350-900
+
+
+  A-321
+
+  707-320B
+
+  747-100/200/300/400
+
+
+  B717-200
+
+  757-200/300
+
+  777-200/300
+
+
+  B727-100/200
+
+  767-200/300/400
+
+  787-8
+
+
+  B737 (todos)
+
+
+  EMB-170
+
+
+  EMB-175
+
+
+  EMB-190
+
+
+  EMB-195
+
+
+  ERJ135
+
+
+  ERJ140
+
+
+  ERJ145
+
+
+  ERJ145XR
+
+
+  F-28
+
+
+  VFR 30 40 40 75 75 75 75
+
+  IFR NPA 40 40 40 75 75 75 75
+
+  IFR PA 40 45 45 75 75 75 75
+
+  (*) os dados relativos à velocidade de aproximação das aeronaves foram obtidos da AC 150/5300-13A
+  da FAA.
+
+
+  Caso o cenário operacional em avaliação não possua uma largura de faixa preparada que atenda
+  ao requisito do TCCA, diz-se que que a largura está na região de rejeição, ou seja, o cenário
+  operacional foi rejeitado no Teste de Rejeição nº 2.
+
+  Teste de Rejeição nº 3 - Separação trem-de-pouso principal a objetos fixos
+
+  Este teste consiste em avaliar a separação entre a borda externa do trem de pouso principal
+  de aeronaves localizadas no eixo da RWY a um obstáculo localizado após o término da faixa
+  preparada, e compará-la com a distância mínima prevista para atendimento ao requisito do
+  RBAC 154. Para aeroportos que operam aeronaves dos códigos de referência 4C, 4D e 4E, compara-se
+  a distância existente entre a borda externa do trem de pouso principal e o término da faixa
+  preparada, com a distância mínima prevista para o código 4E, conforme mostrado na Figura
+  5.
+
+
+  Figura 5 - Distância entre borda externa do trem de pouso principal e o limite da Faixa
+  Preparada
+
+  Como a distância regulamentar entre o eixo da pista de pouso e decolagem e o término da
+  faixa preparada para o código 4E é de 75 metros (considerando pistas para operações IFR
+  não precisão) e de 105 metros (considerando pistas para operações IFR precisão), tem-se
+  que a separação mínima entre a borda externa do trem de pouso principal e o limite da faixa
+  preparada é de 67,5m (IFR não precisão) ou 97,5m (IFR precisão), considerando a largura
+  máxima do trem de pouso de 15m, conforme a tabela C-2 do RBAC 154. Por meio desse parâmetro,
+  calculam-se as larguras mínimas necessárias para a faixa preparada para códigos 4C e 4D.
+  Considerando o limite dos códigos das aeronaves, a análise pode ser feita pela Tabela 7.
+
+  Caso a distância existente entre a borda externa do trem de pouso e objetos fixos seja inferior
+  a 67,5 metros (IFR não-precisão) ou 97,5 metros (IFR precisão), diz-se que que a separação
+  está na região de rejeição, ou seja, o cenário operacional foi rejeitado no Teste de Rejeição
+  nº 3.
+
+
+  Tabela 7 - Largura de faixa preparada (medida a partir do eixo) pelo critério de separação
+  entre borda externa do trem de pouso e objeto
+
+  Aeronave na RWY
+
+  Largura do Trem de Pouso Principal (entre bordas externas)
+
+  Largura Mínima (IFR NPA)
+
+  Largura Mínima (IFR PA)
+
+  4C
+
+  9 m
+
+  72 m
+
+  102 m
+
+  4D
+
+  15 m
+
+  75 m
+
+  105 m
+
+  4E
+
+  15 m
+
+  75 m
+
+  105 m
+
+  Observa-se que, a partir da Emenda 03, o RBAC 154 não associa mais o código de referência
+  à largura do trem de pouso principal. Assim, os valores da Tabela 7 são valores tipicamente
+  considerados máximos para cada código de referência. Na análise de risco específica, pode-se
+  avaliar pela largura de trem de pouso de uma aeronave específica e não necessariamente pelo
+  limite do código.
+
+
+  TESTE DE ACEITAÇÃO
+
+  O operador de aeródromo deve realizar análise de risco considerando o ambiente operacional
+  específico de seu aeródromo, isto é, as particularidades da infraestrutura, operações e
+  meteorologia.
+
+  Caso o operador de aeródromo avalie com ferramental estatístico robusto a sua operação,
+  considerando todos os aspectos supracitados, e comprove que o risco às operações está dentro
+  dos parâmetros preconizados nesta IS, o nível de segurança operacional pode ser demonstrado
+  como aceitável.
+
+  Uma ferramenta open source para realizar essa análise estatística é o LRSARA - Lateral Runway
+  Safety Area Risk Analysis, desenvolvido pelo ACRP - Airport Cooperative Research Program.
+  Apesar de não se ter conhecimento se há certificação deste método por algum órgão internacional,
+  sabe-se que o modelo é reconhecido por diversas autoridades de aviação civil, especialmente
+  pela FAA, patrocinadora do estudo.
+
+  Desta forma, caso o resultado do LRSARA indicar que as probabilidades de ocorrência de LDVO
+  (landing veer-off) e TOVO (takeoff veer-off) são inferiores a 1 × 10-7, e que o risco total
+  é inferior a 2 × 10-7, diz-se que o cenário operacional considerando as dimensões da faixa
+  de pista, presença de objetos e faixa preparada, estão na região de aceitação, ou seja,
+  comprovou-se que o cenário operacional foi aceito no Teste de Aceitação.
+
+  Cabe ressaltar que, a rigor, os resultados do LRSARA se aplicam somente à análise de violações
+  da faixa preparada, pois esse software foi desenvolvido para ajudar operadores de aeródromo
+  norte-americanos a avaliarem o risco associado a violações laterais da RSA.
+
+  Assim, para uma análise mais aprofundada da faixa de pista, faz-se necessário uma análise
+  de risco considerando também a função de sobrevoo desta área (pela definição do RBAC 154,
+  “Faixa de pista de pouso e decolagem significa a área definida que inclui a pista de pouso
+  e decolagem e as zonas de parada, se disponíveis, destinada a reduzir o risco de danos à
+  aeronave, caso esta saia dos limites da pista, e proteger aeronaves sobrevoando a pista
+  durante pousos e decolagens”).
+
+  Assim, o operador de aeródromo deve avaliar se o risco relativo ao sobrevoo na faixa de
+  pista é de fato menor do que o risco relativo à saída de aeronave em solo na faixa de pista.
+  Para isto, pode observar o seguinte: o ACRP 51 apresenta ábacos para a estimativa do risco
+  de colisão durante o sobrevoo (aproximação perdida) em função da separação das pistas de
+  pouso e decolagem e das pistas de táxi paralelas para todos os códigos (na forma como a
+  FAA categoriza as aeronaves para fins de projeto de aeródromos).
+
+  Um exemplo destes ábacos é apresentado na Figura 6. Esta referência (ACRP 51) pode ser utilizada
+  para avaliar as situações em que o risco relativo ao sobrevoo seja menor que o risco relativo
+  à uma saída em solo, de forma que possa ser desconsiderado. Apenas como exemplo, caso se
+  conclua que o risco associado ao sobrevoo seja da ordem de 10-9, quando comparado a um risco
+  da ordem de 10-7 para as demais situações de perigo, entende-se que o risco relativo ao
+  sobrevoo pode ser desconsiderado. Importante destacar que os ábacos apresentados no ACRP
+  51 são baseados no CRM (Collision Risk Model) e, desta forma, apresentam apenas resultados
+  para operações de precisão CAT I e CAT II. No entanto, há que se considerar que o racional
+  da OACI prevê faixas de pista menores para operações menos exigentes e, desta forma, pode-se
+  considerar que os resultados apresentados para operações CAT I pelo CRM e ACRP 51 poderiam
+  ser usados para operações não-precisão ou não-instrumento. Destaca-se também que a Figura
+  6 é apresentada apenas para fins de exemplo, de forma que o operador do aeródromo deve avaliar,
+  para a sua realidade operacional, se é possível utilizar algum dos ábacos presentes no ACRP
+  51.
+
+
+  Figura 6 - Exemplo de ábaco apresentado no ACRP 51: Risco de colisão, para uma aproximação
+  perdida, operação CAT I e ADG-III e AAC-C (segundo os critérios de classificação da FAA)[2]
+
+
+  REGIÃO DE RISCO TOLERÁVEL E TEMPO ESPERADO PARA UM ACIDENTE
+
+  Caso o risco de LDVO ou TOVO seja superior ao critério de 1 × 10-7 ou o risco total seja
+  superior a 2 × 10-7, não se pode necessariamente afirmar que a operação é insegura. Outro
+  parâmetro que deve ser avaliado é o tempo esperado para um acidente. Ou seja, caso o risco
+  às operações seja superior ao critério supracitado, deve-se diferenciar aeródromos com volumes
+  de movimentação muito diferentes, o que levaria, portanto, a tempos esperados para um acidente
+  também muito diferentes.
+
+  Nesse sentido, pode-se aceitar um risco superior ao critério de 1 × 10-7 (LDVO e TOVO) e
+  2 × 10-7 (risco total) desde que o tempo esperado para um acidente seja superior a 100 (cem)
+  anos, que é um tempo de recorrência suficientemente alto. No LRSARA, quando o tempo esperado
+  é maior que 100 anos, o resultado é apresentado apenas como “>100 anos”, não indicando o
+  tempo exato em anos.
+
+  Todavia, no caso da isenção pleiteada ser temporária e de curto prazo, é possível aceitar
+  riscos superiores ao critério de 1 × 10-7 (LDVO e TOVO) e 2 × 10-7 (risco total) mesmo com
+  o tempo esperado para um acidente inferior a 100 (cem) anos, desde que o prazo de vigência
+  de isenção seja muito inferior ao tempo esperado para o acidente.
+
+  ANÁLISE DE SENSIBILIDADE
+
+  Ainda para o caso de se obter valor de risco superior ao critério estabelecido, outra avaliação
+  que pode ser feita é comparar o risco da operação na infraestrutura existente com o risco
+  da operação no caso do atendimento do requisito de dimensões de faixa de pista. Ou ainda
+  comparar o risco da operação na infraestrutura existente com o risco da operação no caso
+  da adoção de possíveis cenários operacionais após a adoção de medidas mitigadoras (ex.:
+  restrição de operação sob determinadas condições meteorológicas). Nesse sentido, far-se-ia
+  uma análise de sensibilidade do risco, dado um cenário operacional.
+
+  AVALIAÇÃO DA ANÁLISE DE RISCO
+
+  CONTEÚDO
+
+  Além dos tópicos definidos no item 5.4 desta IS, deve-se responder às seguintes questões
+  específicas para a análise do requisito de faixa de pista:'
+keywords:
+- seguranca-aeroportuaria
+- faixa
+- pista
+- risco
+- requisito
+- teste
+- largura
+- rejeicao
+- caso
+- seja
+- analise
+- codigo
+- tabela
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-5-001.md

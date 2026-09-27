@@ -1,0 +1,115 @@
+id: is-is-145-009-aprovacao-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: aprovacao
+section_title: Aprovação
+subsection_id: body
+cite: aprovacao
+title: Aprovação
+text: 'Aprovação
+
+  Revisão/Data
+
+  Razão para Revisão
+
+  João, Sr.
+
+  Junior, Sr.
+
+  Original 01/04/2000
+
+  Emissão Original
+
+  João, Sr.
+
+  Junior, Sr.
+
+  Rev. A 15/06/2000
+
+  Adicionado o formulário de solicitação de instrumento
+
+  1.0 Objetivo:
+
+  Assegurar que todos os equipamentos/ferramentas ou dispositivos de precisão estão apropriadamente
+  calibrados, identificados e mantidos.
+
+
+  2.0 Escopo:
+
+  Este procedimento se aplica a todos os empregados que utilizam equipamentos/ferramentas
+  ou dispositivos para medida e teste, e aqueles que calibram/verificam tais equipamentos/ferramentas
+  ou dispositivos.
+
+
+  3.0 Responsabilidade:
+
+  O Diretor de Qualidade é responsável por assegurar que todo equipamento/ferramenta de inspeção,
+  medida e teste seja calibrado e rastreável. Somente pessoal treinado e qualificado tem permissão
+  para ajustar, calibrar e verificar esses equipamentos/ferramentas ou dispositivos.
+
+
+  4.0 Documentos de Referência:
+
+  4.1 QAP 15.0, Status de Inspeção e Teste; e
+
+  4.2 MIL-STD-120, Inspeção de Instrumentos.
+
+
+  5.0 Definições:
+
+  5.1 Precisão de medida: é a medida do erro, ou seja, a diferença entre o valor verdadeiro
+  (nominal) e o valor medido (indicado) no instrumento;
+
+  5.2 Incerteza da Medição. O resultado da avaliação apontada, caracterizando a variação dentro
+  do valor verdadeiro de uma medida. Estima-se que fique geralmente dentro de um dado intervalo.
+  (Exemplo 45 mm, + ou - 0,5 mm); e
+
+  5.3 Etc.
+
+
+  6.0 Procedimento:
+
+  6.1 O técnico de calibração de instrumentos mantém uma lista computadorizada de todas as
+  ferramentas e equipamentos, usando o Programa de Controle de Instrumentos;
+
+  6.2 Durante a primeira semana do mês, o técnico de instrumentos deve baixar o relatório
+  de “Instrumentos Necessitando Calibração”, que lista todas as ferramentas e equipamentos
+  que devem ser calibrados antes do final do mês;
+
+  6.3 O técnico de calibração de instrumentos emite a nota “John Smith Recall Slip (Formulário
+  789)” ao departamento ou pessoa da ferramentaria. Esse formulário informa quais ferramentas
+  devem ser calibradas e a data em que devem retornar à ferramentaria; e
+
+  6.4 Etc.
+
+
+  7.0 Registros:
+
+  7.1 Formulário 789, Nota de Chamada;
+
+  7.2 Formulário 456, Registro de Calibração;
+
+  7.3 Formulário 123, Adesivo de Identificação;
+
+  7.4 Etc.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- ferramentas
+- equipamentos
+- formulario
+- instrumentos
+- medida
+- calibracao
+- dispositivos
+- aprovacao
+- inspecao
+- tecnico
+- teste
+- valor
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

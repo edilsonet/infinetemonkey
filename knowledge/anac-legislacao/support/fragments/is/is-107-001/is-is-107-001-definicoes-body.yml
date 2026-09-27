@@ -1,0 +1,186 @@
+id: is-is-107-001-definicoes-body
+kind: is
+document: is-107-001
+family: '107'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Ameaça: intenções declaradas de causar consequências indesejáveis (danos ou prejuízos) ou
+  outra ação hostil contra instalações ou operações da aviação civil. As possíveis ameaças
+  não se restringem apenas a um evento isolado, podendo ser compreendida como uma circunstância
+  ou tendência potencial de ocorrência de evento adverso provocado intencionalmente pelo perpetrador.
+  Essa categoria inclui, dentre outras situações, a ameaça de bomba.
+
+  Área operacional: área do aeródromo delimitada pelo perímetro operacional (lado ar), abrangendo
+  o conjunto formado pela área de movimento do aeródromo (pátio de aeronaves e áreas utilizadas
+  para o pouso, decolagem e taxiamento), além de terrenos e edificações adjacentes, ou parte
+  delas, cujo acesso é controlado.
+
+  Auditoria AVSEC: avaliação detalhada de todos os aspectos previstos no PNAVSEC e na regulamentação
+  da ANAC dentro das organizações envolvidas na segurança da aviação civil, para determinar
+  o grau de conformidade frente à regulamentação vigente.
+
+  Avaliação de risco: significa o processo aplicado na gestão da Segurança da Aviação Civil
+  contra Atos de Interferência Ilícita de uma organização, abrangendo ao menos as etapas de
+  identificação de ameaças, de vulnerabilidades e do nível de exposição das operações ao risco
+  de atos de interferência ilícita.
+
+  Cartão de embarque válido: cartão pertencente ou expedido por um operador aéreo para embarque
+  no aeródromo, contendo dados, tais como data e horário, compatíveis com o momento e local
+  de sua apresentação.
+
+  Comportamento suspeito: comportamento que suscita sentimentos de alerta ou desconfiança,
+  porque é fora do comum para determinado tempo, lugar ou circunstância. A determinação de
+  comportamento suspeito deve basear-se no comportamento e atitude da pessoa e não adotar
+  critérios de raça, idade, sexo, religião, etnia ou origem nacional.
+
+  Equipamento de raios-x baseado em algoritmos: também conhecido como equipamento de raios-x
+  com EDS (explosive detection system), é utilizado para inspeção não invasiva de objetos.
+  É capaz de determinar o coeficiente de absorção de massa de um material através da interação
+  da energia dos raios-x com o material, identificando substâncias com alta possibilidade
+  de serem explosivas.
+
+  Equipamento de raios-x convencional: equipamento utilizado para inspeção não invasiva de
+  objetos, através da emissão de raios-x. Pode ser do tipo single view, capaz de gerar uma
+  imagem de cada objeto contido num volume de bagagem, carga ou correio, ou multi-view, capaz
+  de gerar duas ou mais imagens de cada objeto.
+
+  Equipamento detector de traços explosivos: equipamento utilizado para a inspeção de pessoas
+  ou objetos com tecnologia capaz de detectar a presença de pequenas quantidades de materiais
+  explosivos.
+
+  Equipamento detector manual de metais: também conhecido como “raquete”, é um equipamento
+  portátil utilizado para inspeção não invasiva de pessoas, capaz de detectar a presença de
+  objetos metálicos escondidos junto ao corpo dos inspecionados.
+
+  Equipamento do tipo CT (computed tomography): equipamento utilizado para inspeção não invasiva
+  de objetos que possui tecnologia CT (Computed Tomography) capaz de gerar imagens 3D dos
+  volumes inspecionados e identificar com precisão os locais onde estão os possíveis materiais
+  explosivos.
+
+  Equipamento pórtico detector de metais: equipamento utilizado para inspeção não invasiva
+  de pessoas, capaz de detectar a presença de objetos metálicos escondidos junto ao corpo
+  dos inspecionados.
+
+  Escâner corporal: também conhecido como Body Scanner, é um equipamento utilizado para inspeção
+  não invasiva de pessoas, capaz de detectar a presença de objetos metálicos e não metálicos
+  escondidos junto ao corpo dos inspecionados.
+
+  Exercício AVSEC: representa formas de treinamento para verificar a eficácia de procedimentos
+  de segurança, principalmente no que tange aos Planos de Contingência.
+
+  Funcionário: quando não especificado, entende-se como qualquer pessoa contratada pelo operador
+  de aeródromo, de forma direta ou indireta, ou preposto que esteja, sob autorização formal
+  do operador de aeródromo, prestando serviço para este.
+
+  Inspeção AVSEC: corresponde à avaliação de um ou mais aspectos das medidas e procedimentos
+  de segurança das organizações envolvidas nas atividades AVSEC, com o objetivo de avaliar
+  o grau de conformidade frente à regulamentação vigente.
+
+  Inspeção de segurança aleatória: inspeção de segurança conduzida aleatoriamente em pessoa
+  (busca pessoal ou através de escâner corporal) ou pertence de mão (inspeção manual). Objetiva
+  trazer um caráter de imprevisibilidade à inspeção de segurança da aviação civil.
+
+  Inspeção de segurança primária: primeira atividade realizada para a inspeção de segurança
+  de pessoas e objetos.
+
+  Inspeção de segurança secundária: inspeção de segurança complementar realizada com o objetivo
+  de esclarecer alarme e suspeita gerados na inspeção de segurança primária.
+
+  Item ilícito: item cujo porte ou posse seja proibido por lei.
+
+  Módulo de inspeção de contingência: módulo de inspeção de segurança de pessoas que pode
+  ser utilizado temporariamente em caso de pane, avaria ou suspeita de mau funcionamento dos
+  equipamentos de inspeção. Pode ser dotado de menos recursos humanos e materiais que o exigido
+  em situação normal.
+
+  Módulo de inspeção de segurança de pessoas: conjunto mínimo de recursos humanos e materiais
+  habilitado a realizar os procedimentos de inspeção de pessoas e pertences de mão em um ponto
+  de controle de acesso de pessoas à área restrita de segurança.
+
+  Objeto(s) suspeito(s): qualquer substância, objeto ou volume, incluindo bagagem de mão,
+  bagagem despachada, carga ou mala postal, suspeito de conter artefatos explosivos, artefatos
+  químicos, biológicos, radiológicos e nucleares (QBRN); ou outro artigo perigoso com potencial
+  de causar dano iminente.
+
+  Reciclagem: significa uma atividade prática conduzida por organização com responsabilidade
+  AVSEC para o profissional que desempenha atividade em seu benefício que busca enfatizar
+  conhecimentos e técnicas identificados como frágeis em atividade de fiscalização ou de controle
+  de qualidade realizada pela ANAC ou pela organização com responsabilidade AVSEC.
+
+  Responsável pela AVSEC: é o profissional, devidamente capacitado, designado pelo operador
+  de aeródromo, responsável pela gestão e coordenação do setor de segurança aeroportuária
+  e dos recursos necessários à aplicação dos controles preventivos de segurança e de contingência
+  previstos no RBAC nº 107.
+
+  Responsável pelo PCQ/AVSEC: é o profissional designado pelo operador de aeródromo, responsável
+  pela gestão dos processos relacionados ao controle de qualidade AVSEC previstos no RBAC
+  nº 107.
+
+  Sistema Confidencial de Relatos: canal de comunicação mantido pelo operador de aeródromo
+  para recebimento de relatos e informações AVSEC fornecidas por fontes diversas, tais como
+  tripulantes, equipe de apoio de solo e agentes de proteção com o objetivo de identificar
+  ameaças e vulnerabilidades.
+
+  Sistema de Controle de Qualidade AVSEC: conjunto formado pela estrutura, responsabilidades,
+  processos e procedimentos do operador do aeródromo que promovem uma cultura de aperfeiçoamento
+  contínuo, com o objetivo de elevar os padrões e a efetividade das medidas de segurança da
+  aviação civil do aeródromo.
+
+  Sistemas de detecção de intrusos: dispositivos eletrônicos capazes de detectar a entrada
+  ou tentativa de entrada de um intruso através do perímetro externo ou da área protegida,
+  identificar a localização e emitir um alarme. Em geral, é utilizado juntamente com um sistema
+  de circuito fechado de televisão (CFTV) para verificação dos alarmes.
+
+  Sistema de inserção de imagens de falsas ameaças: também conhecido pela sigla TIP (threat
+  image projection) é um sistema inserido nos equipamentos de raios-x, utilizado para treinamento
+  e avaliação de desempenho dos APAC. A ferramenta possibilita a inserção de imagens de falsas
+  ameaças nas imagens projetadas para análise pelos APAC, possibilitando a mensuração da qualidade
+  da atividade exercida por determinado profissional ou equipe.
+
+  Tecnologia automatizada de controle de acesso: tecnologia que permite que os pontos de controle
+  de acesso do aeródromo utilizem métodos automáticos de leitura e reconhecimento de credenciais
+  ou autorizações, como forma de identificar se uma pessoa ou veículo possui permissão de
+  acesso a uma área restrita de segurança (ARS) ou a uma área controlada (AC). Esse tipo de
+  sistema é, de forma geral, gerenciado pelo setor de segurança do aeródromo, interligado
+  com as informações do setor de credenciamento que, por meio do seu banco de dados, conectado
+  aos pontos de controle acesso, permite a identificação precisa das pessoas e veículos e
+  suas respectivas permissões de acesso, por meio de identificação biométrica, leitura de
+  credencial ou ambos.
+
+  Teste AVSEC: simulação de ato de interferência ilícita que objetiva verificar o desempenho
+  das medidas de segurança existentes e procedimentos aplicados em determinado local.
+
+  Treinamento em serviço: significa uma etapa da certificação em Inspeção de Segurança da
+  Aviação Civil, com propósito de orientar e avaliar o profissional em relação às suas habilidades
+  e conhecimentos no desempenho de atividade AVSEC em ambiente operacional.
+
+  Vulnerabilidade: situações que caracterizam falhas ou pontos potencialmente inseguros no
+  âmbito do sistema aeroportuário, e que podem ser explorados por uma fonte de ameaça (um
+  perpetrador ou terrorista). O não cumprimento de medidas preventivas de segurança obrigatórias
+  configura-se em vulnerabilidade no sistema. Outras vulnerabilidades não relacionadas a medidas
+  obrigatórias podem ser identificadas. Em geral, estão relacionadas às deficiências ou não
+  conformidades acerca de requisitos de AVSEC.'
+keywords:
+- seguranca
+- aeroporto
+- inspecao
+- avsec
+- equipamento
+- aerodromo
+- pessoas
+- utilizado
+- capaz
+- objetos
+- sistema
+- acesso
+- area
+categories:
+- seguranca
+- aeroporto
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-107-001.md

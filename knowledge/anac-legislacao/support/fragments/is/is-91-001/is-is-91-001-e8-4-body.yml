@@ -1,0 +1,33 @@
+id: is-is-91-001-e8-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E8.4
+section_title: O sistema deve possuir a capacidade de carregar um procedimento RNAV 1 ou 2
+  por meio de seu nome diretamente a partir da desde a base de dados de navegação.
+subsection_id: body
+cite: E8.4
+title: O sistema deve possuir a capacidade de carregar um procedimento RNAV 1 ou 2 por meio
+  de seu nome diretamente a partir da desde a base de dados de navegação.
+text: E8.4 O sistema deve possuir a capacidade de carregar um procedimento RNAV 1 ou 2 por
+  meio de seu nome diretamente a partir da desde a base de dados de navegação.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- base
+- capacidade
+- carregar
+- dados
+- desde
+- diretamente
+- meio
+- navegacao
+- nome
+- partir
+- possuir
+- procedimento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

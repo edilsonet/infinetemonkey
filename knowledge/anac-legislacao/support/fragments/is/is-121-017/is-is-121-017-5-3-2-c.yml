@@ -1,0 +1,43 @@
+id: is-is-121-017-5-3-2-c
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.3.2
+section_title: 'Para o uso de métodos numéricos, o detentor de certificado deve avaliar a
+  confiabilidade do método. Para tanto:'
+subsection_id: c
+cite: 5.3.2(c)
+title: 5.3.2(c)
+text: 'c) o nível de segurança de referência deve considerar o percentual de situações em
+  que os valores de temperatura (e pressão atmosférica) registrados estariam acima (no caso
+  de pressão, abaixo) do previsto, bem como a magnitude dessa diferença, para os seguintes
+  dados:
+
+  I. as temperaturas e pressões atmosféricas registradas nos informes meteorológicos que atendam
+  às seções 121.101 ou 121.119;
+
+  II. para a temperatura prevista, o valor da temperatura máxima prevista para o período,
+  de acordo com a última previsão meteorológica emitida que atenda às seções 121.101 ou 121.119;
+  e
+
+  III. para a pressão prevista, o método estabelecido em 5.2.2.2a); e'
+keywords:
+- transporte-aereo
+- operacoes
+- pressao
+- temperatura
+- metodo
+- secoes
+- abaixo
+- acima
+- acordo
+- atenda
+- atendam
+- atmosferica
+- atmosfericas
+- avaliar
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

@@ -1,0 +1,66 @@
+id: is-is-91-005-introducao-b
+kind: is
+document: is-91-005
+family: '91'
+section_id: introducao
+section_title: Introdução
+subsection_id: b
+cite: introducao(b)
+title: introducao(b)
+text: 'b) avaliar o risco, que consiste em determinar o nível máximo de risco que pode ser
+  tolerado em um sistema considerado seguro.
+
+  Para o nível de risco que se considera aceitável foi dado o nome de Nível Desejado de Segurança
+  (TLS -
+
+  Target Level of Safety
+
+  ).
+
+  A base do processo de estimativa do risco foi a determinação da precisão relativa à capacidade
+  de manutenção de altitude das aeronaves operando no nível de voo 290 e acima. Isso foi feito
+  por meio do uso de radares de alta precisão para medir a altitude das aeronaves em voo reto
+  e nivelado. Essas medições foram então comparadas com as altitudes designadas para cada
+  aeronave, determinando o Erro Vertical Total (TVE -
+
+  Total Vertical Error
+
+  ). Por meio desse processo, foram obtidos os dados de TVE de uma amostra representativa
+  das aeronaves. De posse desses dados, juntamente com o conhecimento de outros parâmetros-chave
+  (como densidade de tráfego e características do espaço aéreo), foi possível estimar o risco
+  de colisão em voo em decorrência de erros de navegação vertical das aeronaves, em voo reto
+  e nivelado, e para as quais haviam sido empregado os procedimentos corretos de separação
+  vertical. Foi então estimado um TLS de 2,5 x 10
+
+  -9
+
+  acidentes fatais por hora de voo (2,5 acidentes a cada bilhão de horas de voo) para determinar
+  a viabilidade técnica e para se elaborarem os requisitos relativos à capacidade de manutenção
+  de altitude das aeronaves para operações RVSM.
+
+  Utilizando o TLS estimado, o RGCSP chegou à conclusão que uma VSM de 300 metros (1.000 pés)
+  acima do FL 290 era tecnicamente possível. Essa viabilidade técnica refere-se à capacidade
+  intrínseca dos sistemas de manutenção de altitude das aeronaves, que podem ser fabricados,
+  mantidos e operados de tal maneira que a performance esperada, ou típica, permita a implementação
+  e utilização de uma VSM reduzida. Ao chegar a essa conclusão, o painel considerou necessário
+  estabelecer:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronaves
+- risco
+- altitude
+- nivel
+- vertical
+- capacidade
+- manutencao
+- acidentes
+- acima
+- cada
+- conclusao
+- dados
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-005.md

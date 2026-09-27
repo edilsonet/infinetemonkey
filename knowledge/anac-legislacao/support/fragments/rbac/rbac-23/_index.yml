@@ -86,14 +86,22 @@ sections:
 - A23.4
 - apendice-a-ao-rbac-23
 - apendice-a-ao-rbac-23-instrucoes
+- apendice-a-i-do-rbac-23-republicacao-do-14-cfr-part-2-8fd25b
+- aprovacao
 - preambulo
-fragment_count: 285
+- requisitos
+- sumario
+fragment_count: 289
 fragment_ids:
 - rbac-rbac-23-preambulo-body
-- rbac-rbac-23-preambulo-a
-- rbac-rbac-23-preambulo-b
-- rbac-rbac-23-preambulo-c
-- rbac-rbac-23-preambulo-d
+- rbac-rbac-23-requisitos-body
+- rbac-rbac-23-aprovacao-body
+- rbac-rbac-23-sumario-body
+- rbac-rbac-23-apendice-a-i-do-rbac-23-republicacao-do-14-cfr-part-2-8fd25b-body
+- rbac-rbac-23-apendice-a-i-do-rbac-23-republicacao-do-14-cfr-part-2-8fd25b-a
+- rbac-rbac-23-apendice-a-i-do-rbac-23-republicacao-do-14-cfr-part-2-8fd25b-b
+- rbac-rbac-23-apendice-a-i-do-rbac-23-republicacao-do-14-cfr-part-2-8fd25b-c
+- rbac-rbac-23-apendice-a-i-do-rbac-23-republicacao-do-14-cfr-part-2-8fd25b-d
 - rbac-rbac-23-23-1457-body
 - rbac-rbac-23-23-1459-body
 - rbac-rbac-23-23-1529-body
@@ -374,4 +382,4 @@ fragment_ids:
 - rbac-rbac-23-a23-3-g
 - rbac-rbac-23-a23-3-h
 - rbac-rbac-23-a23-4-body
-parser_version: 6
+parser_version: 7

@@ -94,10 +94,15 @@ sections:
 - '67.95'
 - '67.97'
 - '67.99'
+- aprovacao
+- disposicoes-transitorias
 - preambulo
-fragment_count: 458
+- sumario
+fragment_count: 461
 fragment_ids:
 - rbac-rbac-67-preambulo-body
+- rbac-rbac-67-aprovacao-body
+- rbac-rbac-67-sumario-body
 - rbac-rbac-67-67-3-body
 - rbac-rbac-67-67-11-body
 - rbac-rbac-67-67-13-body
@@ -555,4 +560,5 @@ fragment_ids:
 - rbac-rbac-67-67-261-c
 - rbac-rbac-67-67-261-d
 - rbac-rbac-67-67-261-e
-parser_version: 6
+- rbac-rbac-67-disposicoes-transitorias-body
+parser_version: 7

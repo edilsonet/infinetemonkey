@@ -1,0 +1,59 @@
+id: is-is-121-001-5-2-2-b
+kind: is
+document: is-121-001
+family: '121'
+section_id: 5.2.2
+section_title: 'Para identificar esses dois níveis, a revisão do guia de rota deve ser identificada
+  por dois números, no formato “N1.N2”, sendo que:'
+subsection_id: b
+cite: 5.2.2(b)
+title: 5.2.2(b)
+text: 'b) N2 é o número da revisão de conteúdos que não requerem aprovação do guia de rota,
+  iniciando-se por 0 (zero) na revisão original e sendo incrementado por 1 (um) a cada alteração
+  do conteúdo do manual, exceto se houver uma nova revisão aprovada, quando voltará a zero.
+
+  Nota: caso a revisão atual do guia de rota seja a “01.12” e haja alteração apenas de conteúdos
+  que não requerem aprovação, a próxima revisão será a “01.13”. Caso haja alteração que requeira
+  aprovação, a próxima revisão será a “02.00”, pois, nesse caso, o número N2 deve voltar a
+  zero.
+
+  5.2.3 A atualização do guia de rota, seja em revisão aprovada ou não, deve ser realizada
+  pelo operador de forma controlada, registrando-se cada atualização por meio do sistema de
+  revisões do guia de rota estabelecido pelo operador (conforme requerido pelo item 5.1.2.2.3
+  desta IS).
+
+  5.2.3.1 A cada nova revisão, o operador deve revisar a capa, a página de aprovação, o controle
+  de revisões e a lista de páginas efetivas, além das alterações necessárias no texto do guia
+  de rota. A página de aprovação atualizada deve ser assinada pelo diretor/gerente de operações.
+
+  5.2.3.2 A cada nova revisão, todas as alterações com relação à última revisão devem ser
+  indicadas com uma barra vertical adjacente ao texto. Nas revisões seguintes, caso não haja
+  nova alteração, a barra vertical deve ser removida.
+
+  5.2.3.2.1 A barra vertical pode ser acompanhada de letras ou símbolos indicando o tipo de
+  alteração efetuada, classificada como inserção de texto (i), remoção de texto (r) ou apenas
+  uma mudança no texto da revisão anterior (m).
+
+  5.2.3.2.2 Quando parte do texto for reposicionada, em virtude de formatação, mantendo-se
+  todo o conteúdo e sua posição relativa ao restante do conteúdo, não é necessário uso da
+  barra lateral.'
+keywords:
+- transporte-aereo
+- operacoes
+- revisao
+- guia
+- rota
+- texto
+- alteracao
+- aprovacao
+- barra
+- cada
+- caso
+- nova
+- conteudo
+- haja
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

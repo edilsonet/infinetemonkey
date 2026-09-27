@@ -1,0 +1,50 @@
+id: is-is-60-001-11-6-1-d
+kind: is
+document: is-60-001
+family: '60'
+section_id: 11.6.1
+section_title: 'A solicitação formal de análise do programa QMS deve ser feita conforme determinado
+  pela ANAC com os seguintes documentos:'
+subsection_id: d
+cite: 11.6.1(d)
+title: 11.6.1(d)
+text: 'd) Para novos operadores de FSTD, as evidências de que cumpre o disposto no RBAC 60.7:
+
+  - a organização está em vias de solicitar a qualificação de seu primeiro FSTD;
+
+  - a organização é detentora de certificado RBAC 119, 141 ou 142, ou está em vias de certificação;
+
+  - a organização possui um curso de aeronave aprovado ou está em vias de solicitar a aprovação
+  desse curso à ANAC.
+
+  11.7 Avaliação dos documentos e aceitação
+
+  11.7.1 Os documentos entregues na solicitação formal serão avaliados pela ANAC. Caso a ANAC
+  identifique não conformidades durante sua análise, essas serão descritas em formulário específico
+  e encaminhadas ao operador para as correções pertinentes do manual QMS.
+
+  11.7.2 O operador deverá corrigir as não conformidades dentro do prazo de trinta dias, submetendo
+  à ANAC evidência das ações tomadas para cada não conformidade.
+
+  11.7.3 Caso a ANAC decida que o manual QMS está aceitável, a ANAC notificará o operador
+  da aceitação inicial do manual QMS e da aprovação da organização como operador de FSTD.'
+keywords:
+- simuladores
+- treinamento
+- operador
+- organizacao
+- documentos
+- fstd
+- manual
+- vias
+- aceitacao
+- analise
+- aprovacao
+- caso
+- conformidades
+- curso
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

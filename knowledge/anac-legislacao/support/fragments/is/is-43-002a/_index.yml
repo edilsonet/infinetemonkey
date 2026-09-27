@@ -1,0 +1,53 @@
+document: is-43-002a
+kind: is
+title: IS 43-002A
+ementa: Atuação e limitações referentes à aprovação de retorno ao serviço por mecânicos de
+  manutenção aeronáutica (MMA) e regras gerais de execução de manutenção associadas Em vigor
+  em 2 de janeiro de 2026
+family: '43'
+categories:
+- manutencao
+- aeronavegabilidade
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-43-002a
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-43-002a
+language: pt
+foreign_annex: false
+sections:
+- apendice-a-controle-de-revisoes
+- apendice-b-lista-de-reducoes
+- apendice-c-quadro-comparativo-entre-os-casos-do-rbac-2bbc86
+- aprovacao
+- definicoes
+- desenvolvimento-do-assunto
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 24
+fragment_ids:
+- is-is-43-002a-preambulo-body
+- is-is-43-002a-aprovacao-body
+- is-is-43-002a-objetivo-body
+- is-is-43-002a-objetivo-a
+- is-is-43-002a-objetivo-b
+- is-is-43-002a-objetivo-c
+- is-is-43-002a-objetivo-d
+- is-is-43-002a-objetivo-e
+- is-is-43-002a-revogacao-body
+- is-is-43-002a-fundamentos-body
+- is-is-43-002a-fundamentos-a
+- is-is-43-002a-fundamentos-b
+- is-is-43-002a-definicoes-body
+- is-is-43-002a-desenvolvimento-do-assunto-body
+- is-is-43-002a-desenvolvimento-do-assunto-a
+- is-is-43-002a-desenvolvimento-do-assunto-b
+- is-is-43-002a-desenvolvimento-do-assunto-c
+- is-is-43-002a-desenvolvimento-do-assunto-d
+- is-is-43-002a-desenvolvimento-do-assunto-e
+- is-is-43-002a-desenvolvimento-do-assunto-f
+- is-is-43-002a-apendice-a-controle-de-revisoes-body
+- is-is-43-002a-apendice-b-lista-de-reducoes-body
+- is-is-43-002a-apendice-c-quadro-comparativo-entre-os-casos-do-rbac-2bbc86-body
+- is-is-43-002a-apendice-c-quadro-comparativo-entre-os-casos-do-rbac-2bbc86-a
+parser_version: 7

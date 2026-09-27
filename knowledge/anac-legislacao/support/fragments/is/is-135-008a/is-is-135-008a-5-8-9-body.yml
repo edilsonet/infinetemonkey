@@ -1,0 +1,38 @@
+id: is-is-135-008a-5-8-9-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.8.9
+section_title: Considerações sobre o piloto automático.
+subsection_id: body
+cite: 5.8.9
+title: Considerações sobre o piloto automático.
+text: '5.8.9 Considerações sobre o piloto automático.
+
+  5.8.9.1 Confusão de modo de piloto automático. Dados de segurança operacional (incluindo
+  acidentes, incidentes, LOSA, FOQA e dados do SGSO) têm mostrado que a confusão de modo de
+  piloto automático é uma vulnerabilidade potencial em operações de voo e merece atenção especial
+  durante as tarefas de monitoramento. Os pilotos devem ser capazes de demonstrar o conhecimento
+  e a habilidade necessários para corretamente selecionar, interpretar e antecipar os modos
+  normais de piloto automático, bem como devem ser capazes de demonstrar ações corretivas
+  apropriadas para modos inadequados ou inesperados. Isso deve incluir a capacidade de:'
+keywords:
+- taxi-aereo
+- operacoes
+- automatico
+- piloto
+- consideracoes
+- capazes
+- confusao
+- dados
+- demonstrar
+- modo
+- modos
+- acidentes
+- acoes
+- antecipar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

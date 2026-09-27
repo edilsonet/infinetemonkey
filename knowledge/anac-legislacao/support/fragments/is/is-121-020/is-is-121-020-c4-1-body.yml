@@ -1,0 +1,43 @@
+id: is-is-121-020-c4-1-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: C4.1
+section_title: Gerenciamento de risco
+subsection_id: body
+cite: C4.1
+title: Gerenciamento de risco
+text: 'C4.1 Gerenciamento de risco
+
+  C4.1.1 O operador deve realizar, como parte do SGSO, o gerenciamento do risco da operação
+  no aeródromo SBRJ com o acúmulo de perigos e ameaças, aplicar as eventuais mitigações e
+  limitações consideradas necessárias, e monitorar a sua eficácia. São exemplos de perigos
+  e ameaças a inoperância ou pane de equipamentos, sistemas ou partes da aeronave que aumentem
+  a complexidade da operação, condições meteorológicas adversas, fadiga dos tripulantes, baixa
+  experiência dos pilotos e quaisquer outros julgados pertinentes pelo operador.
+
+  C4.1.2 O operador deve estabelecer orientações para o gerenciamento do risco pelos pilotos
+  durante as operações. As orientações devem permitir que os pilotos, antes de cada operação
+  de pouso ou decolagem no aeródromo SBRJ, avaliem de forma prática a presença de perigos
+  e ameaças à operação e, em especial, o acúmulo de perigos e ameaças presentes. As orientações
+  devem incluir exemplos que auxiliem o PIC na tomada de decisão.'
+keywords:
+- transporte-aereo
+- operacoes
+- gerenciamento
+- risco
+- ameacas
+- operacao
+- perigos
+- operador
+- orientacoes
+- pilotos
+- acumulo
+- aerodromo
+- exemplos
+- sbrj
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

@@ -1,0 +1,37 @@
+id: is-is-94-002-5-4-4-a
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.4
+section_title: Operação do enlace de comando e controle - RBAC-E 94.405(b)
+subsection_id: a
+cite: 5.4.4(a)
+title: 5.4.4(a)
+text: 'a) A análise realizada de acordo com o subparágrafo 5.4.4.1 deve levar em
+
+  consideração as potenciais fontes de degradação na operação do enlace de comando
+
+  e controle - C2, tais como sombreamento das antenas durante curvas e mudanças
+
+  de atitude na RPA, formação de condições meteorológicas adversas, obstáculos
+
+  naturais ou artificiais, efeitos da curvatura da Terra, entre outros aplicáveis. Os
+
+  ensaios deverão, na medida do possível, reproduzir tais condições;'
+keywords:
+- comando
+- condicoes
+- controle
+- enlace
+- operacao
+- tais
+- acordo
+- adversas
+- analise
+- antenas
+- aplicaveis
+- artificiais
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

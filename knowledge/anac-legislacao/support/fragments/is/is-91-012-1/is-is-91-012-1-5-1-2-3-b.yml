@@ -1,0 +1,62 @@
+id: is-is-91-012-1-5-1-2-3-b
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.1.2.3
+section_title: 'A MEL não pode ser menos restritiva do que a MMEL. Ainda, deve estar de acordo
+  com:'
+subsection_id: b
+cite: 5.1.2.3(b)
+title: 5.1.2.3(b)
+text: 'b) o operador pode incluir as marcas de nacionalidade e matrícula (ou os números de
+  série ou faixas de números de série) de cada aeronave para a qual determinado trecho da
+  MEL é aplicável na própria página da MEL, sem que tal informação faça parte do conteúdo
+  da MEL aprovado pela Anac. Assim, a alocação das aeronaves específicas entre as configurações
+  constantes na MEL aprovada pode ser feita pelo operador sem a necessidade de submeter a
+  nova revisão da MEL à aprovação da Anac. Nesse caso, aplicam-se as seguintes condições:
+
+  I - o operador deve estabelecer um sistema de revisão da MEL que identifique revisões de
+  conteúdo aprovado pela Anac e revisões que afetam apenas a aplicabilidade da MEL para aeronaves
+  específicas (por exemplo, podem ser usadas letras após o número da revisão aprovada, como
+  revisão 15a, 15b, 15c etc, em que cada uma dessas revisões representa uma MEL com o conteúdo
+  aprovado para a revisão 15, apenas com alterações de aplicabilidade). Para atendimento ao
+  parágrafo 5.1.1.2 desta IS, o operador deve manter em cada página da MEL o número da revisão
+  de forma que se permita saber tanto a informação da revisão de conteúdo aprovado (número)
+  quanto a informação de revisões que afetam apenas a aplicabilidade da MEL (letra). O registro
+  de revisões, a lista de páginas efetivas e a sinopse das modificações devem ser atualizados
+  de acordo; e
+
+  II - alterações na lista de aeronaves não podem afetar a disposição do conteúdo aprovado,
+  ou seja, não podem resultar no deslocamento do conteúdo entre diferentes páginas da MEL.
+  Recomenda-se que o operador deixe espaço suficiente para a listagem de matrículas em sua
+  MEL para atender a essa condição.
+
+  5.1.2.4.3.3 Em ambos os métodos listados no parágrafo anterior, o operador deve manter histórico
+  de todas as alterações do controle de aplicabilidade da MEL às aeronaves da frota, de forma
+  a permitir saber, para uma data específica, quais condições da MEL se aplicavam a cada aeronave.
+  O operador deve enviar para a Anac um controle de aplicabilidade atualizado a cada processo
+  de aprovação de nova revisão da MEL (quando houver alteração do conteúdo aprovado). O operador
+  deve também, sempre que solicitado, enviar para a Anac o controle de aplicabilidade referente
+  a uma data específica. Nos casos de exclusão de aeronaves da frota ou de alteração de configuração
+  de aeronaves, o operador deve atualizar o controle de aplicabilidade internamente, mas não
+  é necessário o envio prévio desse controle à Anac.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operador
+- revisao
+- aplicabilidade
+- conteudo
+- aeronaves
+- aprovado
+- cada
+- controle
+- revisoes
+- alteracoes
+- informacao
+- numero
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

@@ -1,0 +1,94 @@
+id: is-is-175-010-5-body
+kind: is
+document: is-175-010
+family: '175'
+section_id: '5'
+section_title: INTRODUÇÃO
+subsection_id: body
+cite: '5'
+title: INTRODUÇÃO
+text: '5. INTRODUÇÃO
+
+  5.1. O Anexo 18 à Convenção sobre Aviação Civil Internacional: Transporte Seguro de Artigos
+  Perigosos por Via Aérea estabelece que “o operador aéreo deve prover informação apropriada
+  em seu Manual de Operações que permita à tripulação de voo desempenhar suas funções a respeito
+  do transporte de artigos perigosos e deve prover instruções acerca das medidas a serem adotadas
+  em uma possível situação de emergência envolvendo artigos perigosos”. Esse requisito também
+  consta nas Instruções Técnicas. O Apêndice 2 do Anexo 6 Parte I, assim como o Apêndice 8
+  do Anexo 6 Parte III, aplicáveis a operações de transporte aéreo comercial, também requerem
+  que "informações e instruções sobre o transporte de artigos perigosos, incluindo ações a
+  serem tomadas num evento de emergência" sejam incluídas no manual de operações.
+
+  5.2. Esta IS baseia-se no Doc 9481 AN/928 da OACI, desenvolvido com o auxílio do Painel
+  de Artigos Perigosos (ICAO Dangerous Goods Panel) para prover orientação aos países e aos
+  operadores aéreos para o desenvolvimento de procedimentos e políticas para lidar com incidentes
+  com artigo perigoso a bordo de aeronaves. Esta IS não contempla incidentes que ocorram enquanto
+  a aeronave estiver em solo, uma vez que serviços de emergência deveriam estar disponíveis
+  para tais ocorrências.
+
+  5.3. Esta IS contém informações gerais sobre os fatores que podem ser levados em consideração
+  quando se lida com qualquer incidente com artigo perigoso. Orientação, sob a forma de procedimentos,
+  é dada tanto para a tripulação de voo quanto para a tripulação de cabine, com a intenção
+  de ser usada em associação com os procedimentos de emergência existentes, estabelecidos
+  no manual da aeronave. Adicionalmente, uma lista de artigos perigosos é apresentada pelo
+  Doc 9481 AN/928 da OACI, tanto em ordem alfabética, quanto em ordem de número UN. Essa lista
+  identifica um código de resposta a emergências (drill code) apropriado para cada item e
+  uma tabela fornece detalhes sobre os códigos de resposta a emergências e identifica outras
+  informações relevantes para a segurança operacional. Os operadores aéreos podem desenvolver
+  seu próprio material com base nesta IS ou podem incluí-la, por completo ou parte dela, tal
+  como a lista de artigos perigosos e a tabela de códigos de resposta a emergências, em seus
+  manuais de operações. A IS também pode ser usada no programa de treinamento de artigos perigosos
+  requerido para membros da tripulação.
+
+  5.4. Quando preparados e embalados apropriadamente, artigos perigosos representam um risco
+  mínimo no transporte aéreo. Na ocorrência de um incidente, entretanto, esta IS permitirá
+  que membros da tripulação de voo possam seguir as etapas apropriadas para resposta à emergência
+  e para assegurar o resultado mais seguro possível para o voo.
+
+  5.5. Esta IS tem a intenção de complementar os procedimentos de emergência estabelecidos
+  no manual da aeronave, os quais devem sempre ser seguidos. As orientações aparecem na forma
+  de procedimentos a serem usados tanto por membros da tripulação de voo quanto por membros
+  da tripulação de cabine em um evento de derramamento, fogo ou outro incidente envolvendo
+  artigos perigosos. Informações gerais sobre compartimentos de carga, equipamentos de emergência
+  e requisitos de acesso aos artigos perigosos são apresentados para referência. Esta IS serve
+  como uma ferramenta para a tripulação de voo decodificar a informação apresentada na Notificação
+  ao Piloto em Comando (NOTOC) para embarques de artigos perigosos. Esta IS descreve os passos
+  corretos a serem tomados para cada tipo de remessa de artigo perigoso transportado a bordo
+  de uma aeronave. Pelo uso desta IS, a tripulação de voo poderá usar a informação provida
+  pelo expedidor sobre os artigos perigosos e tomar as ações corretas durante uma emergência.
+
+  5.6. Esta IS também tem a intenção de apresentar procedimentos apropriados para a tripulação
+  de cabine responder a um derramamento ou incidente com artigo perigoso não declarado na
+  cabine de passageiros da aeronave. Procedimentos amplificadosforam incluídos para detalhar
+  as ações a serem tomadas num incidente na cabine de passageiros, assegurando que as medidas
+  apropriadas sejam tomadas independentemente do tipo de artigo perigoso. Caso o artigo perigoso
+  não declarado possa ser identificado, a lista de artigos perigosos pode ser usada para se
+  obter o código de resposta a emergência adequado e, consequentemente, os corretos procedimentos
+  a serem usados contra vazamento e fogo. Além disso, apresentam-se orientações específicas
+  sobre combate ao fogo a bordo envolvendo dispositivos eletrônicos portáteis (PED - portable
+  electronic devices), os quais podem conter baterias de lítio.
+
+  5.7. Quando preparados e manuseados corretamente, os artigos perigosos podem ser transportados
+  com segurança a bordo de aeronaves. Os procedimentos descritos nesta IS são a última linha
+  de defesa para a tripulação de voo e de cabine na cadeia de transporte do artigo perigoso
+  por via aérea.'
+keywords:
+- artigos-perigosos
+- carga
+- artigos
+- perigosos
+- tripulacao
+- emergencia
+- procedimentos
+- artigo
+- perigoso
+- cabine
+- serem
+- transporte
+- aeronave
+- incidente
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-010.md

@@ -11,29 +11,18 @@ text: 'C2.2
 
   Saídas do equipamento altimétrico
 
-  : as seguintes saídas do sistema altimétrico são significativas para as operações RVSM:
-
-  a) altitude de pressão (corrigida por barômetro) para apresentação ou exibição;
-
-  b) altitude de pressão para reporte de dados; e
-
-  c) altitude de pressão ou desvio da altitude de pressão para um dispositivo automático de
-  controle de altitude.'
+  : as seguintes saídas do sistema altimétrico são significativas para as operações RVSM:'
 keywords:
 - operacoes-gerais
 - regras-de-voo
-- altitude
-- pressao
 - altimetrico
 - saidas
-- apresentacao
-- automatico
-- barometro
-- controle
-- corrigida
-- dados
-- desvio
-- dispositivo
+- equipamento
+- operacoes
+- rvsm
+- seguintes
+- significativas
+- sistema
 categories:
 - operacoes-gerais
 - regras-de-voo

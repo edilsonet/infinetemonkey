@@ -1,0 +1,133 @@
+id: is-is-121-008-apendice-c-ficha-de-voo-de-familiarizacao-operacional-dov-body
+kind: is
+document: is-121-008
+family: '121'
+section_id: apendice-c-ficha-de-voo-de-familiarizacao-operacional-dov
+section_title: APÊNDICE C - FICHA DE VOO DE FAMILIARIZAÇÃO OPERACIONAL - DOV
+subsection_id: body
+cite: apendice-c-ficha-de-voo-de-familiarizacao-operacional-dov
+title: APÊNDICE C - FICHA DE VOO DE FAMILIARIZAÇÃO OPERACIONAL - DOV
+text: 'APÊNDICE C - FICHA DE VOO DE FAMILIARIZAÇÃO OPERACIONAL - DOV
+
+  Este apêndice exemplifica o uso ilustrativo da Ficha de Voo de Familiarização Operacional
+  - DOV.
+
+  [Logotipo da empresa]
+
+  PTO DOV
+
+  Capítulo 3 § 3.2.1 [Insira seção do PTO]
+
+  Data: XX/XX/20XX
+
+  VOO DE FAMILIARIZAÇÃO OPERACIONAL PARA DESPACHANTES OPERACIONAIS DE VOO
+
+  Nº Voo: BR 8999 Rota: GRU-SSA Grupo: ( ) I ( X ) II Acft: B-727 Matr: PR-XXX
+
+  Nome DOV: Despachante Operacional de voo CANAC: 123456
+
+  Nome Cmte: Piloto em comando CANAC: 987654
+
+  Dados do Voo Planejado Observado
+
+  ETD - ETA 1820 / 2020 1840 / 2100
+
+  ITEM MEL NILL 32-42-01 Antiskid System
+
+  NOTAM - NANU - AIP RWY 09R/27L CLSD DEVIDO SER MAINT -
+
+  MET. ORIGEM (METAR SIGWX-SAT) SBGR 281800Z 14004KT CAVOK 27/09 Q1019 0KT - CAVOK - 20º
+
+  MET. ROTA (SIGMET-AIREP-PIREP) NILL TURB SBCF FL 310
+
+  MET. DESTINO (TAF-SIGWX-SAT) SBSV 281600Z 2818/2918 14010KT 8000 SCT017
+
+  TX27/2818Z TN24/2908Z TEMPO 2911/2913 6000
+
+  SHRA BKN015 FEW020TCU RMK PEU
+
+  290/02 - SCT017 - 20º
+
+  PAYLOAD 130140 131100
+
+  TO WEIGHT 159341 160841
+
+  TO FUEL 38800 39500
+
+  TO FLAP 15 15
+
+  TO CG 25% 25%
+
+  TO SPEEDS 144/144/158 148/148/157
+
+  SID SJC 1B SJC 1B
+
+  HORA TOC 0630 0703
+
+  OAT/TAT TOC M33 M30
+
+  VENTO TOC 320/44 320/45
+
+  AWY UZ14 - UZ36 UZ14 - UZ36
+
+  NÍVEL FL 310 270/CNF/310
+
+  HORA TOD 0755 0830
+
+  OAT/TAT TOD M33 M33
+
+  VENTO TOD 120/20 116/25
+
+  STAR BOMED 1 BOMED 1
+
+  IAP IURAG 1A IURAG 1A
+
+  TRIP FUEL 19184 19583
+
+  TRIP TIME 0157 0159
+
+  LD WEIGHT 140157 141657
+
+  Comentários: Saída tardia da aeronave devido a atendimento de passageiros no checkin. Houve
+  LMC de 03 pax + 50kg bags.
+
+  Sequenciamento para decolagem demorou 10 min.
+
+  ( X ) O Dov declara que o voo realizado não foi na mesma rota do ano anterior.
+
+  Assinatura DOV: Despachante Operacional de voo
+
+  Assinatura Cmte: Piloto em comando
+
+  Esta ficha atende os propósitos de treinamento requeridos pelo RBAC 121.463(a)(3).
+
+  IS nº 121-008 Apêndice C.
+
+  Modelo disponível no site ANAC (Página Inicial > Assuntos > Setor Regulado > Empresas) em
+  Modelos e Formulários.Data de emissão: 23 de fevereiro de 2018
+
+  IS nº 121-008
+
+  Revisão A
+
+  - NTDOV - GCTA - SP.'
+keywords:
+- transporte-aereo
+- operacoes
+- operacional
+- apendice
+- familiarizacao
+- ficha
+- rota
+- assinatura
+- bomed
+- canac
+- cavok
+- cmte
+- comando
+- data
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-008.md

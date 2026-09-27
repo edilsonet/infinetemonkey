@@ -1,0 +1,46 @@
+id: is-is-135-008a-5-5-2-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.5.2
+section_title: Organização
+subsection_id: body
+cite: 5.5.2
+title: Organização
+text: '5.5.2 Organização
+
+  5.5.2.1 Organização Geral. Os procedimentos devem ser organizados da forma mais simples
+  possível e na ordem de execução das tarefas. Geralmente os procedimentos normais são organizados
+  na sequência das fases de voo. Procedimentos anormais e de emergência devem ser organizados
+  pela condição de desencadeamento (por exemplo, fumaça na cabine) - e não pelo sistema potencialmente
+  relacionado (por exemplo, sistema elétrico).
+
+  5.5.2.2 Numeração. Os itens devem seguir um sistema de numeração simples para ajudar pilotos
+  na localização do procedimento. Deve ser evitada a hierarquização excessivamente detalhada.
+  Use cabeçalhos quando necessário para distinguir as principais seções dos procedimentos.
+  Os cabeçalhos devem fornecer informações úteis referentes à seção do procedimento que eles
+  abordam.
+
+  5.5.2.3 Listas. Uma tarefa em um procedimento pode exigir que o piloto execute várias ações
+  ou cheque várias indicações diferentes. Esses componentes devem ser apresentados em linhas
+  separadas em uma lista numerada (ou com marcação recuada) - e não no corpo do texto.'
+keywords:
+- taxi-aereo
+- operacoes
+- organizacao
+- procedimentos
+- organizados
+- procedimento
+- sistema
+- cabecalhos
+- exemplo
+- numeracao
+- simples
+- varias
+- abordam
+- acoes
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

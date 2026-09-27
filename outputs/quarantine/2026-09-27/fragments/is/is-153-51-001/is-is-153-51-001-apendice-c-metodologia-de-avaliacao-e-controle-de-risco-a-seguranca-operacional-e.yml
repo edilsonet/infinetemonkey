@@ -1,0 +1,183 @@
+id: is-is-153-51-001-apendice-c-metodologia-de-avaliacao-e-controle-de-risco-a-seguranca-operacional-e
+kind: is
+document: is-153-51-001
+family: '153'
+section_id: apendice-c-metodologia-de-avaliacao-e-controle-de-risco-a-seguranca-operacional
+section_title: APÊNDICE C - METODOLOGIA DE AVALIAÇÃO E CONTROLE DE RISCO À SEGURANÇA OPERACIONAL
+subsection_id: e
+cite: apendice-c-metodologia-de-avaliacao-e-controle-de-risco-a-seguranca-operacional(e)
+title: apendice-c-metodologia-de-avaliacao-e-controle-de-risco-a-seguranca-operacional(e)
+text: 'e) requisitos para divulgação das ações para controle dos riscos.
+
+  C.2 Critérios para estimar a probabilidade
+
+  C.2.1 A Tabela C.1, a seguir, apresenta os critérios a serem adotados para estimar a probabilidade
+  de ocorrência de determinada consequência associada aos perigos identificados.
+
+  Tabela C.1 - Critérios para estimar a probabilidade de ocorrência de determinado evento
+
+
+  Probabilidade do evento
+
+  Definição qualitativa
+
+  Significado
+
+  Valor
+
+  Frequente
+
+  Provável que ocorra muitas vezes
+
+  (tem ocorrido frequentemente).
+
+  5
+
+  Ocasional
+
+  Provável que ocorra algumas vezes
+
+  (tem ocorrido com pouca frequência).
+
+  4
+
+  Remoto
+
+  Improvável que ocorra, mas possível
+
+  (ocorre raramente).
+
+  3
+
+  Improvável
+
+  Bastante improvável que ocorra
+
+  (não se tem notícia de que tenha ocorrido).
+
+  2
+
+  Muito Improvável
+
+  Quase improvável que o evento ocorra.
+
+  1
+
+  C.3 Critérios para estimar a severidade
+
+  C.3.1 Na Tabela C.2, a seguir, são apresentados critérios a serem adotados para estimar
+  a severidade das consequências de determinado evento.
+
+  Tabela C.2 - Critérios para estimar a severidade das consequências de determinado evento
+
+  Severidade dos eventos
+
+  Definição na aviação
+
+  Significado
+
+  Valor
+
+  Catastrófico
+
+  ✔ Destruição de equipamento
+
+  ✔ Múltiplas mortes
+
+  A
+
+  Crítico
+
+  ✔ Uma redução importante das margens de segurança operacional, dano físico ou uma carga
+  de trabalho tal que os operadores não podem desempenhar suas tarefas de forma precisa e
+  completa.
+
+  ✔ Lesões sérias
+
+  ✔ Grave dano ao equipamento
+
+  B
+
+  Significativo
+
+  ✔ Uma redução significativa das margens de segurança operacional, uma redução na habilidade
+  do operador em responder a condições operacionais adversas como resultado do aumento da
+  carga de trabalho ou como resultado de condições que impedem sua eficiência.
+
+  ✔ Incidente sério
+
+  ✔ Lesões às pessoas
+
+  C
+
+  Pequeno
+
+  ✔ Interferência
+
+  ✔ Limitações operacionais
+
+  ✔ Utilização de procedimentos de emergência
+
+  ✔ Incidentes menores
+
+  D
+
+  Insignificante
+
+  ✔ Consequências leves
+
+  E
+
+  C.4 Critérios para determinar a tolerabilidade do risco
+
+  C.4.1 Uma vez obtida a probabilidade e a severidade, o índice de avaliação do risco é obtido
+  pela combinação destas duas medidas.
+
+  Tabela C.3 - Definição do índice de classificação do risco - matriz probabilidade x severidade
+
+
+  C.4.2 Uma vez obtido o índice de avaliação do risco pela Tabela C.3, é possível inferir
+  sua tolerabilidade, conforme critérios sugeridos na Tabela C.4.
+
+  Tabela C.4 - Critérios para definir a tolerabilidade dos riscos de determinado evento analisado
+
+
+  C.5 Critérios para consultar partes externas
+
+  C.5.1 Serão convidadas a participar do processo de avaliação e mitigação de risco partes
+  externas ao aeródromo, tais como companhias aéreas e empresas prestadoras de serviço quando
+  estas forem responsáveis diretas por ações necessárias ao controle do risco.
+
+  C.6 Requisitos para divulgação das ações para controle dos riscos
+
+  C.6.1 As ações de controle dos riscos identificados devem ser cientificadas aos responsáveis
+  por essas ações.
+
+  C.6.2 O processo de controle dos riscos é consolidado em formulário padronizado de Análise
+  de Impacto sobre a Segurança Operacional (AISO) e as ações decorrentes deste processo são
+  formalizadas em um documento denominado Procedimentos Específicos de Segurança Operacional
+  (PESO).
+
+  C.6.3 As ações referentes ao controle dos riscos definidas no PESO devem ser monitoradas
+  com vistas a avaliar sua eficácia e, caso necessário, buscar novas soluções para preservar
+  a segurança operacional no aeródromo.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- criterios
+- controle
+- risco
+- tabela
+- acoes
+- operacional
+- seguranca
+- estimar
+- evento
+- probabilidade
+- riscos
+- severidade
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-51-001.md

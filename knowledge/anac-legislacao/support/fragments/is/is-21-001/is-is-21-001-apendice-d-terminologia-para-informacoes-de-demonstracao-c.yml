@@ -1,0 +1,87 @@
+id: is-is-21-001-apendice-d-terminologia-para-informacoes-de-demonstracao-c
+kind: is
+document: is-21-001
+family: '21'
+section_id: apendice-d-terminologia-para-informacoes-de-demonstracao
+section_title: APÊNDICE D - TERMINOLOGIA PARA INFORMAÇÕES DE DEMONSTRAÇÃO
+subsection_id: c
+cite: apendice-d-terminologia-para-informacoes-de-demonstracao(c)
+title: apendice-d-terminologia-para-informacoes-de-demonstracao(c)
+text: '(c) Rastreabilidade: que é a capacidade de se verificar a origem e o histórico (grau
+  de crédito e validação) da informação.
+
+  Com o auxílio dessa definição, as seguintes situações podem ocorrer:
+
+  Nº
+
+  Situação
+
+  Potenciais consequências
+
+  1
+
+  Informação de demonstração válida satisfatória: Informação que, isoladamente ou em conjunto
+  com outras informações, demonstra o cumprimento.
+
+  Nenhuma.
+
+  2
+
+  Informação de demonstração válida insatisfatória: Informação que indica um potencial não
+  cumprimento.
+
+  Maiores esclarecimentos serão necessários, possivelmente acerca de algum dos dados que compõe
+  a informação de demonstração.
+
+  Pode haver necessidade de executar algum ensaio não planejado inicialmente.
+
+  3
+
+  Informação de demonstração válida inconclusiva: Informação que não permite concluir tanto
+  pelo cumprimento como o não cumprimento. O exemplo clássico deste caso ocorre quando um
+  corpo-de-prova é submetido a um ensaio com um critério passa-falha em uma condição muito
+  mais severa do que o previsto no requisito e o resultado é uma falha.
+
+  Provável repetição do ensaio, porém dentro de condições que possam produzir dados que tornem
+  a informação conclusiva.
+
+  4
+
+  Informação de demonstração não válida: Informação que não contempla ao menos algum dos três
+  quesitos (representatividade quanto ao projeto de tipo, representatividade quanto às preocupações
+  do requisito ou rastreabilidade). Caracteriza-se por ser inconclusiva, pois não é possível
+  nem concluir tanto pelo cumprimento como pelo não cumprimento.
+
+  Requer maior atenção tanto da ANAC como do requerente para as ações subsequentes e é importante
+  que as causas sejam adequadamente identificadas.
+
+  Acréscimo de novos dados é provavelmente necessário.
+
+  Se a causa é uma decisão subjetiva, deve-se ficar alerta quanto à capacidade de convergência
+  técnica nos debates entre ANAC e requerente.
+
+  Realização de ensaio não planejado pode ocorrer.
+
+  O diagrama a seguir ilustra um resumo dessa terminologia'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- informacao
+- demonstracao
+- cumprimento
+- ensaio
+- valida
+- algum
+- dados
+- informacoes
+- quanto
+- tanto
+- terminologia
+- apendice
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

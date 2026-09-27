@@ -1,0 +1,57 @@
+id: is-is-135-006-5-3-3-2-1-b
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.3.2.1
+section_title: 'O parágrafo 135.217(a) do RBAC nº 135 requer que o detentor de certificado
+  selecione um aeródromo de alternativa de decolagem se:'
+subsection_id: b
+cite: 5.3.3.2.1(b)
+title: 5.3.3.2.1(b)
+text: 'b) não for possível retornar para o aeródromo de decolagem por qualquer razão.
+
+  5.3.3.2.2 O objetivo do requisito é permitir o atendimento a uma emergência durante ou imediatamente
+  após a decolagem que requeira um pouso tão breve quanto possível, como, por exemplo, uma
+  falha de motor ou fogo a bordo. Deve se considerar que a capacidade de aproximação e pouso
+  do avião pode ser prejudicada em razão da emergência. Assim, os mínimos operacionais de
+  pouso indicados em 135.217(a) devem considerar pouso com um motor inoperante.
+
+  5.3.3.2.3 Para garantir o cumprimento desse objetivo, deve-se garantir que a aeronave, em
+  configuração não normal, seja capaz de subir para, e manter, altitude que permita separação
+  adequada com os obstáculos e navegação adequada na rota para o aeródromo de alternativa
+  de decolagem.
+
+  5.3.3.2.4 O parágrafo 135.217(b) do RBAC nº 135 requer que, para ser selecionado como aeródromo
+  de alternativa de decolagem, as informações meteorológicas atualizadas devem indicar que
+  as condições meteorológicas no aeródromo estarão, no horário estimado de utilização, iguais
+  ou acima dos mínimos operacionais para pouso estabelecidos pelo operador. Esses mínimos
+  também devem considerar pouso com um motor inoperante.
+
+  5.3.3.2.5 Os subparágrafos de 135.217(a) estabelecem as distâncias máximas do aeródromo
+  de alternativa de decolagem, em termos de tempo de voo a partir do aeródromo de decolagem.
+  Para se utilizar o parágrafo 135.217(a)(2)(ii), a operação deve cumprir todos os requisitos
+  de operações ETOPS.
+
+  5.3.3.2.6 Para a conversão entre distância e tempo de voo e para a obtenção do horário estimado
+  de utilização do aeródromo de alternativa de decolagem, deve ser considerada a velocidade
+  indicada no requisito:'
+keywords:
+- taxi-aereo
+- operacoes
+- aerodromo
+- decolagem
+- pouso
+- alternativa
+- considerar
+- minimos
+- motor
+- paragrafo
+- adequada
+- emergencia
+- estimado
+- garantir
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

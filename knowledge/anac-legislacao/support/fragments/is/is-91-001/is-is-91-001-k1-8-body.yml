@@ -1,0 +1,89 @@
+id: is-is-91-001-k1-8-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K1.8
+section_title: 'Os valores máximos, padrões e mínimos para cada fase do procedimento RNP-AR
+  estão discriminados na tabela abaixo, conforme preconizado pelo Doc. 9905 da OACI:'
+subsection_id: body
+cite: K1.8
+title: 'Os valores máximos, padrões e mínimos para cada fase do procedimento RNP-AR estão
+  discriminados na tabela abaixo, conforme preconizado pelo Doc. 9905 da OACI:'
+text: 'K1.8 Os valores máximos, padrões e mínimos para cada fase do procedimento RNP-AR estão
+  discriminados na tabela abaixo, conforme preconizado pelo Doc. 9905 da OACI:
+
+  Segmento
+
+  Valor de RNP
+
+  Máximo
+
+  Padrão
+
+  Mínimo
+
+  Chegada - STAR
+
+  2
+
+  2
+
+  1
+
+  Inicial
+
+  1
+
+  1
+
+  0.1
+
+  Intermediário
+
+  1
+
+  1
+
+  0.1
+
+  Final
+
+  0.5
+
+  0.3
+
+  0.1
+
+  Aproximação Perdida
+
+  1
+
+  1
+
+  0.1 *
+
+  * Utilização restrita a operações em que o segmento de aproximação final não é um segmento
+  RF.za
+
+  Os procedimentos RNP AR APCH publicados pelo DECEA tem a designação “RNP xxxx (AR)” e possuem
+  expressa a informação: “AUTORIZAÇÃO ESPECIAL PARA AERONAVE E TRIPULAÇÃO REQUERIDA”.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- abaixo
+- cada
+- discriminados
+- estao
+- fase
+- maximos
+- minimos
+- oaci
+- padroes
+- preconizado
+- procedimento
+- segmento
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

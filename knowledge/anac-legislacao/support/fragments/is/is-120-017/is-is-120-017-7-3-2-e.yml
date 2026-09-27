@@ -1,0 +1,585 @@
+id: is-is-120-017-7-3-2-e
+kind: is
+document: is-120-017
+family: '120'
+section_id: 7.3.2
+section_title: Garantia da validade e precisão dos dados. O operador deve desenvolver um processo
+subsection_id: e
+cite: 7.3.2(e)
+title: 7.3.2(e)
+text: 'e) um sistema de código usado para se correlacionar irregularidades mecânicas em
+
+  sistemas de aeronaves com defeitos identificados durante tarefas de manutenção de rotina,
+
+  relatórios de desgaste da organização de manutenção e outros dados relevantes.
+
+  Nota: embora um meio eletrônico de coleta, armazenamento, obtenção e análise de dados
+
+  não seja requerido formalmente, limitações nessas áreas podem restringir ou impedir o
+
+  operador de exercer as responsabilidades indispensáveis necessárias para se implementar
+  e
+
+  manter um programa de confiabilidade eficaz.
+
+  8 SISTEMA DE PADRÕES DE DESEMPENHO
+
+  8.1 Identificação de padrões de desempenho. Um padrão de desempenho é expresso
+
+  numericamente, como um número, uma taxa, razão ou porcentagem. Pode ser calculado
+
+  pelo número de eventos ocorrendo num período específico de operação expresso em ciclos
+
+  de voo, horas de voo, horas de operação ou tempo calendárico. Padrões de desempenho são
+
+  utilizados para se identificar uma medida aceitável de confiabilidade em termos de falhas
+
+  de sistemas ou componentes, irregularidades mecânicas reportadas por pilotos, atrasos
+
+  operacionais e cancelamentos, não conformidades identificadas em manutenção
+
+  programada, ou qualquer outro evento que sirva de base para o padrão. Limites de controle
+
+  ou valores de alerta devem se basear em métodos estatísticos amplamente aceitos como
+
+  desvio padrão, distribuição de Poisson, ou método de média ou de valor de referência,
+
+  conforme adequado. Adicionalmente, o programa deve incluir procedimentos para revisão
+
+  periódica e ajuste de padrões. No caso de inclusão de novos modelos na frota, o programa
+
+  deve conter procedimentos detalhados para o monitoramento até que experiência suficiente
+
+  de operação esteja disponível para se computar um padrão de desempenho. Padrões deData de
+  emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X
+
+  desempenho aceitáveis devem ser ajustáveis com base na experiência operacional do
+
+  operador, assim como nos efeitos da idade da frota e considerações operacionais, sazonais
+
+  e ambientais. Os padrões de desempenho devem ser associados com os sistemas
+
+  específicos da aeronave, conforme os tipos de dados sendo medidos.
+
+  8.2 Técnicas para determinar desvios dos padrões. Um operador pode escolher utilizar uma
+
+  ou uma combinação de técnicas listadas na Tabela 8-1, Técnicas para a determinação de
+
+  desvios dos padrões de desempenho, ou qualquer outro método aceitável que identifique
+
+  quando o nível aceitável de desempenho definido pelo operador não for atingido.
+
+  Independentemente do método escolhido pela empresa aérea, ele deve ser proativo e capaz
+
+  de identificar problemas operacionais emergentes e vigentes que o operador possa precisar
+
+  corrigir. O método escolhido não pode ser tão tolerante a ponto de que desvios anormais
+  de
+
+  um padrão aceitável não sejam identificados como problemas ou como deficiências
+
+  ocultas. Nem pode ser tão restritivo a ponto de resultar em “ruído” excessivo de dados,
+  do
+
+  qual desvios demais do padrão sejam identificados. Um método eficaz resultará em dados
+
+  relevantes e significativos, a partir dos quais deficiências potenciais, emergentes e em
+
+  tempo real possam ser identificadas, analisadas e tratadas.Data de emissão: 20 de março
+  de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X
+
+  Técnica Método Dados
+
+  requeridos para
+
+  análise
+
+  Ação a ser
+
+  tomada
+
+  Requisito do
+
+  programa de
+
+  confiabilidade
+
+  Baseado em
+
+  alertas
+
+  Identifica desvios
+
+  em relação a um
+
+  padrão definido
+
+  baseado em
+
+  desempenho
+
+  pregresso. O
+
+  nível de alerta é
+
+  ajustado de forma
+
+  que um alerta é
+
+  disparado pelo
+
+  aumento na taxa
+
+  de falha ou não-
+
+  conformidades
+
+  em ações
+
+  programadas para
+
+  um nível além da
+
+  variação normal.
+
+  Caracterização
+
+  estatística das
+
+  taxas históricas de
+
+  falha ou de não-
+
+  conformidades
+
+  identificadas em
+
+  manutenção
+
+  programada é
+
+  requerida para se
+
+  determinar o
+
+  limiar de alerta
+
+  apropriado para o
+
+  sistema sendo
+
+  considerado.
+
+  Investigação
+
+  requerida
+
+  quando o
+
+  desempenho
+
+  se afasta de
+
+  sua variação
+
+  normal.
+
+  Identificação de
+
+  tipo ou tipos de
+
+  dados;
+
+  Definição do
+
+  método utilizado
+
+  para se calcular o
+
+  nível de alerta.
+
+  Monitoramento
+
+  de tendências
+
+  Gráfico ou tabela
+
+  que acompanha o
+
+  desempenho
+
+  vigente para se
+
+  identificar
+
+  condições fora do
+
+  limite ou
+
+  tendências de
+
+  deterioração.
+
+  A compreensão
+
+  das unidades de
+
+  medida que têm
+
+  relação com
+
+  falhas de sistemas
+
+  (por exemplo,
+
+  horas x ciclos).
+
+  Dados de
+
+  sistemas de
+
+  aeronave
+
+  normalmente são
+
+  suplementados
+
+  por dados das
+
+  remoções de
+
+  componentes e
+
+  confirmação de
+
+  falhas.
+
+  Investigação
+
+  requerida
+
+  quando a
+
+  métrica se
+
+  desloca
+
+  abaixo dos
+
+  limites de
+
+  desempenho
+
+  ou quando se
+
+  espera, com
+
+  base na
+
+  tendência
+
+  atual, que o
+
+  mesmo
+
+  aconteça em
+
+  curto prazo.
+
+  Identificação de
+
+  tipos de dados;
+
+  prazos selecionados
+
+  para monitoramento
+
+  do desempenho
+
+  (por exemplo,
+
+  mensal, trimestral
+
+  ou média anual).
+
+  Definição de
+
+  unidades de medida
+
+  e demonstração de
+
+  que são apropriados
+
+  ao tipo e frequência
+
+  de eventos sendo
+
+  registrados.
+
+  Baseado em
+
+  eventos
+
+  Um programa
+
+  baseado em
+
+  eventos monitora
+
+  e desenvolve
+
+  recomendações
+
+  em resposta a
+
+  O número e
+
+  abrangência de
+
+  dados deve ser
+
+  suficiente para
+
+  permitir análise
+
+  que resulte em
+
+  Investigação
+
+  de: itens com
+
+  desempenho
+
+  mais baixo;
+
+  E
+
+  Identificação de
+
+  tipos de dados;
+
+  definição de nível
+
+  de desempenho e
+
+  taxa de mudança
+
+  que irá dispararData de emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X
+
+  eventos
+
+  operacionais
+
+  específicos.
+
+  conclusões
+
+  significativas.
+
+  Muitas das
+
+  informações que
+
+  são geradas para
+
+  ajudar na
+
+  operação do dia a
+
+  dia do PMAC do
+
+  operador podem
+
+  ser utilizadas de
+
+  forma eficaz
+
+  como base para
+
+  este tipo de
+
+  análise contínua
+
+  de desempenho
+
+  mecânico.
+
+  qualquer item
+
+  com uma
+
+  mudança
+
+  significativa
+
+  em sua
+
+  classificação
+
+  de
+
+  desempenho;
+
+  E
+
+  eventos com
+
+  consequência
+
+  s
+
+  significativas
+
+  de ordem
+
+  operacional
+
+  ou de
+
+  segurança.
+
+  investigação.
+
+  Baseado em
+
+  indicadores
+
+  Tipos múltiplos
+
+  de dados
+
+  combinados para
+
+  produzir uma
+
+  classificação de
+
+  indicadores de
+
+  desempenho (por
+
+  exemplo, reportes
+
+  de pilotos,
+
+  atrasos/cancelam
+
+  entos, não
+
+  conformidades
+
+  identificadas em
+
+  tarefas de rotina).
+
+  Conhecimento
+
+  dos parâmetros e
+
+  suas interações
+
+  que podem ser
+
+  usadas para
+
+  indicar fatores
+
+  mais relevantes
+
+  de confiabilidade
+
+  operacional.
+
+  Investigação
+
+  dos itens com
+
+  desempenho
+
+  mais baixo;
+
+  E
+
+  de qualquer
+
+  item com
+
+  uma mudança
+
+  significativa
+
+  na tendência
+
+  de um
+
+  indicador de
+
+  desempenho.
+
+  Identificação dos
+
+  tipos de dados;
+
+  definição do método
+
+  de cálculo do
+
+  indicador; definição
+
+  do nível de
+
+  desempenho e taxa
+
+  de mudança que irão
+
+  disparar
+
+  investigação; tipos
+
+  individuais de dados
+
+  podem ter pesos
+
+  para refletir os
+
+  objetivos e a
+
+  filosofia de
+
+  desempenho do
+
+  operador.
+
+  Tabela 8-1. Técnicas para determinação de desvios dos padrões de desempenho'
+keywords:
+- antidrogas
+- saude
+- desempenho
+- dados
+- padroes
+- metodo
+- operador
+- padrao
+- tipos
+- desvios
+- eventos
+- investigacao
+- nivel
+- alerta
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

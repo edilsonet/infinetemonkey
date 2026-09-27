@@ -1,0 +1,39 @@
+id: is-is-91-001-h3-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H3.3
+section_title: A predição da disponibilidade RAIM deve levar em conta os NOTAMs mais recentes
+  da constelação GPS e o modelo de aviônica (se estão disponíveis). O serviço de predição
+  RAIM pode ser provido por meio de serviços softwares externos ou por meio da capacidade
+  de predição do receptor embarcado da aeronave.
+subsection_id: body
+cite: H3.3
+title: A predição da disponibilidade RAIM deve levar em conta os NOTAMs mais recentes da constelação
+  GPS e o modelo de aviônica (se estão disponíveis). O serviço de predição RAIM pode ser provido
+  por meio de serviços softwares externos ou por meio da capacidade de predição do receptor
+  embarcado da aeronave.
+text: H3.3 A predição da disponibilidade RAIM deve levar em conta os NOTAMs mais recentes
+  da constelação GPS e o modelo de aviônica (se estão disponíveis). O serviço de predição
+  RAIM pode ser provido por meio de serviços softwares externos ou por meio da capacidade
+  de predição do receptor embarcado da aeronave.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- predicao
+- meio
+- raim
+- aeronave
+- avionica
+- capacidade
+- constelacao
+- conta
+- disponibilidade
+- disponiveis
+- embarcado
+- estao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

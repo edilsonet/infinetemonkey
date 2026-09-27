@@ -1,0 +1,36 @@
+id: is-is-135-21-001b-5-2-2-4-b
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.2.4
+section_title: 'Organização da empresa:'
+subsection_id: b
+cite: 5.2.2.4(b)
+title: 5.2.2.4(b)
+text: b) Apresentar um organograma mostrando as linhas e os níveis de autoridade da estrutura
+  de manutenção e de suporte. O diretor ou gerente de manutenção deve ter o mesmo nível de
+  autoridade que o diretor ou gerente de operações. Se for proposta uma estrutura de manutenção
+  com um setor de inspeção separado do setor de manutenção (condição não requerida pelo RBAC
+  nº 135 para os operadores enquadrados na aplicabilidade desta IS), a separação deve ser
+  feita imediatamente abaixo do nível administrativo com responsabilidade geral pelas atividades
+  de inspeção e manutenção, normalmente o diretor ou gerente de manutenção.
+keywords:
+- taxi-aereo
+- operacoes
+- manutencao
+- diretor
+- gerente
+- autoridade
+- estrutura
+- inspecao
+- nivel
+- setor
+- abaixo
+- administrativo
+- aplicabilidade
+- apresentar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

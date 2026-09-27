@@ -1,0 +1,56 @@
+id: is-is-91-011-preambulo-a
+kind: is
+document: is-91-011
+family: '91'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: a
+cite: preambulo(a)
+title: preambulo(a)
+text: '(a) Find the descent angle/descent gradient from the FAF to stepdown fix. Take the
+
+  FAF altitude (2,000 ft) and subtract the stepdown fix altitude (760 ft). Take the difference,
+
+  1,240 ft, and divide by the distance between the FAF and stepdown fix (6.7 (NM)). The descent
+
+  gradient calculated is 185 ft/NM. This descent gradient translates to a descent angle of
+  less than
+
+  2 degrees from the descent/climb table (see Appendix 1, Figure 3). Although the chart does
+  not
+
+  have values for less than a 2º angle, the descent rate can still be found for 120 kts, or
+  2 miles per
+
+  minute. Take 185 ft/NM and multiply by 2 miles per minute and the rate of descent is 370
+  fpm.
+
+  This shallower rate can be flown, making necessary adjustments to observe the stepdown fix
+
+  altitude restriction. At the stepdown fix, the pilot should then transition to the published
+
+  2.98º VDA. The published VDA is 2.98 degrees from the stepdown fix of 760 ft. The
+
+  climb/descent table (see Appendix 1, Figure 3) shows that 2.98 degrees equates to a descent
+
+  gradient of 316 ft/NM and a descent rate of 632 fpm at 120 kts.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- descent
+- stepdown
+- gradient
+- rate
+- altitude
+- angle
+- degrees
+- from
+- take
+- appendix
+- climb
+- figure
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-011.md

@@ -1,0 +1,44 @@
+id: is-is-21-010-4-b
+kind: is
+document: is-21-010
+family: '21'
+section_id: '4'
+section_title: DEFINITIONS
+subsection_id: b
+cite: 4(b)
+title: 4(b)
+text: 'b) a product other than an aircraft is new while it does not have any time in service
+  in an aircraft.
+
+  4.14 Produto usado: significa qualquer produto que não seja novo.
+
+  4.14 Used product: means any product which is not new.
+
+  4.15 Validação: significa o processo executado pela ANAC, no qual emite seu próprio certificado
+  em equivalência ao certificado original, com o objetivo de verificar o cumprimento com os
+  requisitos brasileiros de aeronavegabilidade e de proteção ambiental.
+
+  4.15 Validation: the process performed by ANAC to issue its own certificate, equivalent
+  to the original type certificate (or supplemental type certificate), in order to find compliance
+  with Brazilian airworthiness and environmental protection requirements.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificate
+- product
+- aircraft
+- certificado
+- original
+- produto
+- significa
+- type
+- airworthiness
+- ambiental
+- brasileiros
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

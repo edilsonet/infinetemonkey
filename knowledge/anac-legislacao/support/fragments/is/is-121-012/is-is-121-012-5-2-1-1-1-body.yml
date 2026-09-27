@@ -1,0 +1,290 @@
+id: is-is-121-012-5-2-1-1-1-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.1.1
+section_title: Determinação da velocidade com um motor inoperante.
+subsection_id: body
+cite: 5.2.1.1.1
+title: Determinação da velocidade com um motor inoperante.
+text: '5.2.1.1.1 Determinação da velocidade com um motor inoperante.
+
+  5.2.1.1.1.1 O detentor de certificado deve escolher, a seu critério, dentro dos limites
+  operacionais certificados para o avião, qual velocidade com um motor inoperante pretende
+  utilizar, no caso de um desvio para o aeródromo de alternativa. O detentor de certificado
+  pode optar por:
+
+  uma velocidade pré-determinada, aplicável a todos os voos ETOPS com determinado avião; ou
+
+  uma velocidade específica para cada área de operação em razão de considerações sobre o terreno
+  e sobre a escolha da altitude de voo nivelado após uma falha de motor. Nesse caso, o detentor
+  de certificado deve especificar em seu manual as velocidades a serem utilizadas para cada
+  circunstância de forma a garantir que a velocidade usada normalmente pelo piloto durante
+  as operações reflita as considerações feitas na etapa de engenharia de operações e de planejamento
+  de voo.
+
+  Nota 1: o detentor de certificado que optar por utilizar diferentes velocidades, para diferentes
+  áreas, deve se atentar para aplicar a velocidade correta na determinação da quantidade do
+  combustível e da área de operações ETOPS para cada operação.
+
+  Nota 2: embora o regulamento e esta IS se refiram a uma velocidade, o detentor de certificado
+  pode optar por uma estratégia de velocidades (como, por exemplo, no caso típico descrito
+  no parágrafo 5.2.1.1.1.5 desta IS).
+
+  5.2.1.1.1.2 Em ambos os casos, a(s) velocidade(s) com um motor inoperante deve(m) ser aprovada(s)
+  pela ANAC.
+
+  5.2.1.1.1.3 Deve-se observar que, conforme a definição em 4.1.14 desta IS, para um determinado
+  voo, um mesmo valor de velocidade deve ser utilizado para calcular a quantidade de reserva
+  de combustível no caso de um motor inoperante (121.646(b)) e para determinar se um aeródromo
+  de alternativa ETOPS se encontra dentro do tempo de desvio máximo autorizado para um voo
+  ETOPS.
+
+  Nota: quanto maior a velocidade escolhida, maior será a área de operações ETOPS, passando
+  a abranger, portanto, mais possibilidades de aeródromos de alternativa ETOPS. Porém, uma
+  maior velocidade implica também em um maior consumo de combustível e, portanto, maior necessidade
+  de reserva de combustível. Por outro lado, quanto menor a velocidade escolhida, menor a
+  necessidade de reserva de combustível. Porém, uma velocidade menor implica em uma menor
+  área de operações ETOPS e, consequentemente, em uma menor disponibilidade de aeródromos
+  de alternativa ETOPS.
+
+  5.2.1.1.1.4 O detentor de certificado deve considerar o nível de voo utilizado no desvio
+  de forma a cumprir os requisitos de separação com o terreno (por exemplo, as seções 121.191
+  e 121.193 do RBAC nº 121). Para demonstrar cumprimento com os requisitos de separação com
+  o terreno, pode ser utilizada uma velocidade diferente da velocidade com um motor inoperante
+  desde que o consumo de combustível não exceda o cenário crítico associado ao ponto equidistante
+  em tempo aplicável (121.646) e desde que os requisitos de sistema de tempo limite da seção
+  121.633 não sejam excedidos. Nesse caso, essa diferença deve ser apresentada em conjunto
+  com as orientações à tripulação sobre o melhor curso de ação em caso de desvio para alternativa
+  (ver parágrafo 5.2.1.4.8 desta IS).
+
+  5.2.1.1.1.5 Tipicamente, a velocidade com um motor inoperante é calculada baseando-se num
+  perfil de driftdown limitado pelo empuxo, começando da altitude normal de cruzeiro a um
+  peso de referência assumido, com configuração de empuxo máximo contínuo (MCT) no(s) motor(es)
+  que se mantém(êm) operando, após a falha de motor.
+
+  5.2.1.1.1.6 A velocidade com um motor inoperante é normalmente representada por uma combinação
+  de Mach/IAS, com um Mach constante durante o início do driftdown e, após o avião passar
+  por uma altitude de transição a partir da qual a velocidade é indicada como IAS, com uma
+  IAS constante.
+
+  5.2.1.1.1.7 O detentor de certificado deve escolher a velocidade com um motor inoperante,
+  com base em dados do fabricante, derivados de documentos operacionais ou softwares. Um exemplo
+  típico de formato de apresentação dos dados pelo fabricante consta na tabela abaixo:
+
+  Tabela 1 - Exemplo de formato de apresentação dos dados de distância de desvio máxima
+
+  Distância de desvio máxima (milhas náuticas)
+
+  Velocidade utilizada
+
+  Peso do avião no ponto crítico (ton.)
+
+  Nível de voo para desvio
+
+  Tempo de desvio (min)
+
+  60
+
+  120
+
+  180
+
+  300
+
+  370
+
+  MCT/330 kt
+
+  170
+
+  190
+
+  439
+
+  866
+
+  1294
+
+
+  190
+
+  180
+
+  436
+
+  860
+
+  1285
+
+  2136
+
+  2500
+
+  210
+
+  170
+
+  434
+
+  853
+
+  1272
+
+  2110
+
+  2500
+
+  230
+
+  160
+
+  431
+
+  844
+
+  1257
+
+  2083
+
+  2500
+
+  250
+
+  150
+
+  427
+
+  834
+
+  1241
+
+  2056
+
+  2500
+
+  270
+
+  140
+
+  422
+
+  823
+
+  1225
+
+  2027
+
+  2496
+
+  MCT/300 kt
+
+  170
+
+  220
+
+  424
+
+  837
+
+  1249
+
+
+  190
+
+  220
+
+  424
+
+  836
+
+  1249
+
+  2073
+
+  2500
+
+  210
+
+  220
+
+  419
+
+  827
+
+  1238
+
+  2062
+
+  2500
+
+  230
+
+  210
+
+  415
+
+  818
+
+  1224
+
+  2036
+
+  2500
+
+  250
+
+  190
+
+  412
+
+  806
+
+  1200
+
+  1988
+
+  2448
+
+  270
+
+  180
+
+  407
+
+  795
+
+  1184
+
+  1960
+
+  2413
+
+  5.2.1.1.1.8 Da tabela, vê-se que a distância de desvio máxima depende do peso do avião no
+  ponto em que se inicia o desvio (ponto crítico). Para uma estimativa conservadora, pode-se
+  considerar o peso esperado do avião assumindo que o avião decolou com o peso máximo de decolagem
+  certificado, descontando-se o consumo de combustível esperado desde a decolagem até o ponto
+  crítico. Para uma dada velocidade escolhida, quanto maior o peso, menor a distância de desvio
+  máxima, ou seja, menor a área de operações ETOPS. O detentor de certificado deve atentar
+  para essa relação no seu planejamento de voo de forma a garantir que, para o peso com que
+  o avião for despachado (que determina o peso com que o avião deverá chegar no ponto crítico),
+  os aeródromos de alternativa ETOPS estarão, de fato, na área de operações ETOPS correspondente.'
+keywords:
+- transporte-aereo
+- operacoes
+- velocidade
+- motor
+- desvio
+- etops
+- inoperante
+- aviao
+- certificado
+- detentor
+- peso
+- combustivel
+- menor
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

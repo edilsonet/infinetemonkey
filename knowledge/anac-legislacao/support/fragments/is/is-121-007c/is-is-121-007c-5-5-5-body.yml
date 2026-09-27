@@ -1,0 +1,127 @@
+id: is-is-121-007c-5-5-5-body
+kind: is
+document: is-121-007c
+family: '121'
+section_id: 5.5.5
+section_title: Carga horária
+subsection_id: body
+cite: 5.5.5
+title: Carga horária
+text: '5.5.5 Carga horária
+
+  5.5.5.1 A carga horária de treinamento deve estar especificada em todos os segmentos de
+  currículo de solo propostos. Além de considerar o relatório de avaliação operacional, em
+  atendimento à IS nº 121-006, o operador deve se basear em critérios razoáveis (por exemplo,
+  experiência prévia, interação com o fabricante da aeronave ou outros operadores) para determinar
+  se o treinamento pode ser adequadamente realizado dentro das horas de treinamento especificadas.
+  Certos métodos de treinamento, tais como treinamento baseado em computador, permitem aos
+  tripulantes progredirem a uma taxa que depende da capacidade particular de cada um em assimilar
+  os conhecimentos ou habilidades necessárias. Para estes métodos, a carga horária especificada
+  deve ser um indicativo do tempo que um aluno médio irá progredir durante o treinamento.
+
+  5.5.5.2 A Figura 9 oferece uma referência para determinar as horas de treinamento para os
+  segmentos de currículo de solo. Esta tabela apresenta as cargas horárias padrão previstas
+  no RBAC 121.419 e 121.427 para as categorias de treinamento inicial de nova contratação,
+  inicial de equipamento e periódico. Apesar de não estarem especificadas no RBAC nº 121,
+  a tabela também apresenta cargas horárias de referência para as categorias de treinamento
+  de transição e de elevação de nível.
+
+
+  CATEGORIAS DE TREINAMENTO
+
+  Família de Aeronaves
+
+  Inicial nova contratação
+
+  Inicial de equipamento
+
+  Transição
+
+  Elevação de nível
+
+  Periódico
+
+  Grupo I
+
+  (motores convencionais)
+
+  64
+
+  64
+
+  56
+
+  16
+
+  16
+
+  Grupo I
+
+  (turboélices)
+
+  80
+
+  80
+
+  64
+
+  16
+
+  20
+
+  Grupo II
+
+  (jatos)
+
+  120
+
+  120
+
+  80
+
+  25
+
+  25
+
+  Figura 9 - Horas de treinamento de solo para tripulantes de voo
+
+  5.5.5.3 De acordo com o RBAC 121.405(d), a ANAC pode aprovar reduções aos requisitos de
+  horas programadas das categorias de treinamento inicial de nova contratação, inicial de
+  equipamento e periódico. Para aprovar essas reduções, a ANAC irá avaliar previamente se
+  os auxílios de instrução, dispositivos, métodos e procedimentos listados pelo operador irão
+  melhorar a qualidade e a eficácia treinamento. Nesses casos, o documento que transmite a
+  aprovação inicial ou final para estes segmentos de currículo conterá uma declaração com
+  os fundamentos para reduzir as horas programadas do RBAC nº 121.
+
+  5.5.5.4 As exigências de treinamento de solo para a categoria de elevação de nível variam
+  amplamente dependendo da experiência e da função anterior dos tripulantes e da condição
+  de qualificação deles na aeronave para a qual o treinamento está sendo conduzido. Nos casos
+  de tripulantes que não tenham operado a aeronave por um longo período, o treinamento de
+  solo para elevação de nível pode precisar ser tão extenso quanto um treinamento inicial
+  de equipamento. Em outros casos, quando os tripulantes estão atualmente qualificados na
+  aeronave, seja como mecânico de voo ou segundo em comando, o treinamento de solo para elevação
+  de nível pode ser apenas aquela instrução necessária para qualificá-los na nova função.
+  Para o estabelecimento da carga horária do treinamento de elevação de nível, o operador
+  deverá ter definida a política de promoção de tripulantes, determinando claramente quais
+  são os requisitos de qualificação e experiência recente que um tripulante deve cumprir para
+  ser elegível a cada um dos múltiplos currículos da categoria de elevação de nível.'
+keywords:
+- transporte-aereo
+- operacoes
+- treinamento
+- inicial
+- elevacao
+- nivel
+- carga
+- horaria
+- solo
+- tripulantes
+- horas
+- aeronave
+- categorias
+- equipamento
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-007c.md

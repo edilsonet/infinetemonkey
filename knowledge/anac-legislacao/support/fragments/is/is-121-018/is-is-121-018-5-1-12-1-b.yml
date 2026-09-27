@@ -1,0 +1,72 @@
+id: is-is-121-018-5-1-12-1-b
+kind: is
+document: is-121-018
+family: '121'
+section_id: 5.1.12.1
+section_title: 'Para operações VFR, conforme a seção 121.649 do RBAC nº 121, o piloto somente
+  pode decolar ou pousar em um aeródromo se:'
+subsection_id: b
+cite: 5.1.12.1(b)
+title: 5.1.12.1(b)
+text: 'b) se esses mínimos não forem fixados para o aeródromo em questão:
+
+  I. a visibilidade no solo for igual ou superior a 5 km (2,7 NM);
+
+  II. o teto for igual ou superior a 450m (1500 pés); e
+
+  III. houver autorização do controle de tráfego aéreo (se houver órgão ATC no aeródromo).
+
+  5.1.12.2 Para aproximações IFR, o parágrafo 121.651(b) do RBAC nº 121 estabelece que, exceto
+  como previsto em 121.651(d), o piloto em comando não pode continuar uma aproximação após
+  passar o fixo de aproximação final ou, quando tal fixo não existe, começar o segmento de
+  aproximação final de um procedimento de aproximação por instrumentos, se a visibilidade
+  reportada for menor do que a visibilidade mínima estabelecida para o procedimento de descida
+  IFR para o procedimento. A visibilidade mínima considerada deve ser a estabelecida pelo
+  operador em seu mínimo operacional de aeródromo.
+
+  Nota 1: o parágrafo 121.651(b) estabelece restrições adicionais às previstas nas normas
+  do DECEA, em particular o item 6.14.17.1 da ICA 100-37. Em operações de aviação geral (que
+  não precisam cumprir o RBAC nº 121), quando a visibilidade reportada for inferior ao mínimo
+  estabelecido, um piloto em comando pode executar um procedimento para pouso direto descendo
+  até a MDA ou DA e, caso estabeleça contato com as referências visuais requeridas, pode prosseguir
+  para pouso. No entanto, para operações sob o RBAC nº 121, a visibilidade reportada estabelece
+  uma restrição. Esse conceito se denomina internacionalmente por “approach ban policy”.
+
+  Nota 2: não há proibição ao início da execução de uma aproximação com base na visibilidade
+  reportada. A proibição se aplica ao fixo de aproximação final ou, quando tal fixo não existe,
+  ao início do segmento de aproximação final de um procedimento de aproximação por instrumentos.
+
+  5.1.12.3 O parágrafo 121.651(d) do RBAC nº 121 estabelece as condições em que o segmento
+  de aproximação final de um procedimento de aproximação por instrumentos pode ser iniciado,
+  quando a visibilidade reportada está abaixo da visibilidade mínima estabelecida (ou seja,
+  as condições em que o conceito de “approach ban” não se aplica).
+
+  5.1.12.4 Na execução das operações, a aplicação das informações meteorológicas deve atender
+  ao previsto na seção 121.655 do RBAC nº 121. Especificamente com relação ao RVR, deve prevalecer
+  o RVR da zona de toque (TDZ RVR), com os demais valores de RVR (meio da pista ou fim da
+  pista) sendo considerados auxiliares, podendo ser úteis para avaliação da referência visual
+  para controle da aeronave durante a movimentação na superfície. No caso de o RVR da zona
+  de toque estar inoperante, o RVR do meio da pista pode ser utilizado em substituição ao
+  RVR da zona de toque.
+
+  5.1.12.5 Para procedimentos de aproximações por instrumentos para circular, é vedada a execução
+  do procedimento caso seja reportada visibilidade inferior ao mínimo estabelecido.'
+keywords:
+- transporte-aereo
+- operacoes
+- aproximacao
+- visibilidade
+- procedimento
+- pode
+- reportada
+- final
+- aerodromo
+- estabelece
+- fixo
+- instrumentos
+- caso
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

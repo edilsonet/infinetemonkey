@@ -1,0 +1,58 @@
+id: rbac-rbac-108-emd-07-108-259-b
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.259'
+section_title: Programa de Controle de Qualidade AVSEC do Operador Aéreo
+subsection_id: b
+cite: 108.259(b)
+title: 108.259(b)
+text: '(b) O PCQ/AVSEC deve contemplar o seguinte conteúdo mínimo:
+
+  (1) as atribuições dos responsáveis pelo PCQ/AVSEC, bem como dos profissionais designados
+  para atuar no desenvolvimento das atividades de controle de qualidade AVSEC, incluindo critérios
+  de capacitação, seleção e conduta;
+
+  (2) a definição das fontes (regulamentos, manuais, instruções, entre outros) utilizadas
+  pelo operador aéreo para o estabelecimento dos padrões de recursos materiais, medidas e
+  procedimentos de segurança, os quais serão objeto das atividades de controle de qualidade
+  AVSEC;
+
+  (3) a descrição das atividades de controle de qualidade realizadas pelo operador aéreo;
+
+  (4) a descrição dos processos das atividades de controle de qualidade, incluindo seu planejamento,
+  execução, confecção de relatórios, implementação de ações corretivas e monitoramento;
+
+  (5) a descrição de como é produzido o relatório anual das atividades de controle de qualidade,
+  caso aplicável;
+
+  (6) a descrição do sistema confidencial de relatos disponibilizado pelo operador aéreo;
+
+  (7) a descrição das atividades de controle de qualidade realizadas no processo de contratação
+  e manutenção de registro de expedidores reconhecidos e empresas fornecedoras de provisões
+  de bordo e de serviço de bordo, que utilizam o conceito de cadeia segura; e (Redação dada
+  pela Resolução nº 604, de 29.01.2021)
+
+  (8) os procedimentos para arquivo da documentação relacionada às atividades de controle
+  de qualidade AVSEC.
+
+  (Incluído pela Resolução nº 500, de 12.12.2018)'
+keywords:
+- seguranca
+- operador
+- controle
+- qualidade
+- atividades
+- avsec
+- descricao
+- aereo
+- bordo
+- incluindo
+- procedimentos
+- realizadas
+- resolucao
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

@@ -1,0 +1,38 @@
+id: is-is-137-002-5-3-2-q
+kind: is
+document: is-137-002
+family: '137'
+section_id: 5.3.2
+section_title: 'A instalação de equipamento DPGS poderá ser realizada conforme esta IS, desde
+  que:'
+subsection_id: q
+cite: 5.3.2(q)
+title: 5.3.2(q)
+text: 'q) a instalação do componente “controlador de vazão” não prejudique o funcionamento
+  de
+
+  outros equipamentos previamente instalados. Só devem ser utilizados controladores de
+
+  vazão compatíveis com o sistema DGPS, preferencialmente os recomendados no
+
+  manual do fabricante;'
+keywords:
+- aeroagricola
+- operacoes
+- instalacao
+- vazao
+- compativeis
+- componente
+- controlador
+- controladores
+- desde
+- dgps
+- dpgs
+- equipamento
+- equipamentos
+- fabricante
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-002.md

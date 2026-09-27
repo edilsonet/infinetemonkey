@@ -1,0 +1,34 @@
+id: is-is-91-001-f8-1-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: F8.1
+section_title: 'A especificação de navegação RNP 4 requer que as aeronaves que operam em áreas
+  oceânicas ou remotas estejam equipadas com ao menos dois sistemas de navegação de longo
+  alcance (LRNS) independentes e em serviço, especificamente sistemas GNSS para operações
+  RNP 4. São elegíveis:'
+subsection_id: a
+cite: F8.1(a)
+title: F8.1(a)
+text: a) as aeronaves equipadas com duplo GNSS aprovado como meio primário de navegação que
+  cumpram com AC 20-138 (Revisão A ou superior);
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- aeronaves
+- equipadas
+- gnss
+- sistemas
+- alcance
+- aprovado
+- areas
+- cumpram
+- dois
+- duplo
+- elegiveis
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,87 @@
+id: is-is-141-003-2-4-6-body
+kind: is
+document: is-141-003
+family: '141'
+section_id: 2.4.6
+section_title: Variações do centro de gravidade (CG)
+subsection_id: body
+cite: 2.4.6
+title: Variações do centro de gravidade (CG)
+text: '2.4.6 Variações do centro de gravidade (CG)
+
+  -- Localização do CG na aeronave vazia
+
+  -- Variações do CG dependendo de onde o peso é acrescentadoData de emissão: 22 de dezembro
+  de 2017. IS nº 141-003
+
+  Revisão A
+
+  • Calcular o CG pelo método de índice.
+
+  • Definir os termos utilizados no método de índice.
+
+  • Estabelecer a vantagem (s) do método de índice.
+
+  • Indicar as diferentes formas de apresentação de CG como
+
+  distância do datum ou outras referências.
+
+  • Identificar onde pode ser encontrada a posição do CG em
+
+  uma aeronave em peso vazio básico.
+
+  • Identificar onde podem ser encontrados os limites do CG em
+
+  uma aeronave em peso vazio básico.
+
+  • Calcular limites do CG a partir de dados do manual da
+
+  aeronave.
+
+  • Calcular as variações do CG à medida que é acrescentado
+
+  peso nos compartimentos de uma aeronave.
+
+  • Explicar o princípio de usar % MAC para a descrição da
+
+  posição do CG.
+
+  • Calcular a posição do CG em% MAC.
+
+  • Extrair dados apropriados sobre limites longitudinais do CG
+
+  a partir de documentos da aeronave.
+
+  • Extrair dados apropriados sobre limites laterais do CG a
+
+  partir de documentos da aeronave.
+
+  • Identificar os métodos de cálculo de peso e balanceamento.
+
+  • Calcular momento, CG e MAC% utilizando as fórmulas
+
+  apropriadas.
+
+  • Resolver problemas numéricos, utilizando o princípio do
+
+  equilíbrio de forças e momentos.'
+keywords:
+- escolas
+- treinamento
+- aeronave
+- calcular
+- peso
+- variacoes
+- limites
+- centro
+- dados
+- gravidade
+- identificar
+- indice
+- metodo
+- partir
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-003.md

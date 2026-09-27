@@ -1,0 +1,81 @@
+id: is-is-60-001-60-13-body
+kind: is
+document: is-60-001
+family: '60'
+section_id: '60.13'
+section_title: '60.13'
+subsection_id: body
+cite: '60.13'
+title: '60.13'
+text: '60.13
+
+  13.1
+
+  Garante que os dados disponibilizados a ANAC (o pacote de dados de validação) incluindo
+  dados do ensaio em voo do fabricante da aeronave e todos os dados relevantes desenvolvidos
+  após a emissão do certificado de tipo da aeronave ( como exemplo, dados desenvolvidos em
+  resposta a uma Diretriz de Aeronavegabilidade) se estes afetarem o desempenho e características
+  da aeronave;
+
+  60.13(a)
+
+  13.2
+
+  Disponibiliza o pacote de dados de validação para basear uma qualificação de FSTD no caso
+  de conter dados de ensaio em voo de uma fonte adicional ou independente dos dados do fabricante
+  da aeronave, mas apenas se estes dados forem obtidos e desenvolvidos por esta fonte de acordo
+  com os métodos de ensaio em voo, incluindo um plano de ensaio em voo;
+
+  60.13(b)
+
+  13.3
+
+  Disponibiliza o pacote de dados de validação no caso de também conter dados estimados, dados
+  de simulação de engenharia, dados dos manuais do proprietário ou de operação da aeronave,
+  ou dados de outras fontes públicas, desde que estes dados sejam aceitos pela ANAC. Se considerados
+  aceitáveis, os dados poderão ser utilizados em casos específicos para a qualificação do
+  FSTD;
+
+  60.13(c)
+
+  13.4
+
+  Disponibiliza os dados de validação ou qualquer outro material a ser submetido em um formato
+  aceitável pela ANAC;
+
+  60.13(d)
+
+  13.5
+
+  Irá proceder quando souber, ou for avisado pelo fabricante da aeronave, ou por outro provedor
+  de dados, que existe uma adição, emenda, ou uma revisão dos dados de validação, que possam
+  ter impacto nas características de desempenho ou qualidade de voo do FSTD, e como irá notificar
+  a ANAC.
+
+  60.13(f)
+
+  14
+
+  A política, processo ou procedimento especificando como o operador vai disponibilizar todos
+  os equipamentos especiais e pessoal qualificado necessários para realizar ou auxiliar na
+  realização dos testes durante a qualificação inicial, recorrente, ou avaliações especiais.'
+keywords:
+- simuladores
+- treinamento
+- dados
+- aeronave
+- validacao
+- ensaio
+- desenvolvidos
+- disponibiliza
+- estes
+- fabricante
+- fstd
+- pacote
+- qualificacao
+- caracteristicas
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

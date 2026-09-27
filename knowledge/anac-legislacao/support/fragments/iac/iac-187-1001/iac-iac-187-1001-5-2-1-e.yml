@@ -1,0 +1,30 @@
+id: iac-iac-187-1001-5-2-1-e
+kind: iac
+document: iac-187-1001
+family: '187'
+section_id: 5.2.1
+section_title: DEPÓSITO VIA DOC (Documento de Operação de Crédito) - (poderá ser efetuado
+  de qualquer
+subsection_id: e
+cite: 5.2.1(e)
+title: 5.2.1(e)
+text: 'e) CNPJ/CPF do remetente: informar o CNPJ da empresa (pessoa jurídica) ou nome do usuário
+
+  (pessoa física) a que se refere o pagamento;'
+keywords:
+- cnpj
+- pessoa
+- credito
+- deposito
+- documento
+- efetuado
+- empresa
+- fisica
+- informar
+- juridica
+- nome
+- operacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-187-1001.md

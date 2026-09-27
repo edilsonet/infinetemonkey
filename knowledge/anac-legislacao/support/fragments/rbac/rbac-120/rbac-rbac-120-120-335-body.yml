@@ -69,19 +69,7 @@ text: '120.335
 
   Descrição
 
-  Requisito
-
-  Aplicabilidade
-
-  Valor
-
-  Incidência da sanção
-
-  Mínimo
-
-  Intermediário
-
-  Máximo'
+  Requisito'
 keywords:
 - antidrogas
 - saude
@@ -90,13 +78,10 @@ keywords:
 - transporte
 - arso
 - empregados
-- aplicabilidade
 - constatacao
 - descricao
-- incidencia
-- intermediario
-- maximo
-- minimo
+- requisito
+- secao
 categories:
 - antidrogas
 - saude

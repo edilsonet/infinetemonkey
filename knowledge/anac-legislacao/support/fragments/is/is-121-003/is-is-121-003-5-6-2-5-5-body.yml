@@ -1,0 +1,42 @@
+id: is-is-121-003-5-6-2-5-5-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.6.2.5.5
+section_title: Não se deve depender de uma lista de verificação para iniciar uma alteração
+  na configuração da
+subsection_id: body
+cite: 5.6.2.5.5
+title: Não se deve depender de uma lista de verificação para iniciar uma alteração na configuração
+  da
+text: '5.6.2.5.5 Não se deve depender de uma lista de verificação para iniciar uma alteração
+  na configuração da
+
+  aeronave. Os operadores devem orientar as mudanças de configuração da aeronave em eventos
+
+  operacionais específicos (por exemplo, baixar o trem de pouso na interceptação do glide).
+  Para
+
+  qualquer alteração na configuração, um comando do PF e um reconhecimento do tripulante que
+
+  toma a ação devem ser necessários.'
+keywords:
+- transporte-aereo
+- operacoes
+- configuracao
+- alteracao
+- depender
+- iniciar
+- lista
+- verificacao
+- aeronave
+- acao
+- baixar
+- comando
+- especificos
+- eventos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

@@ -126,7 +126,7 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 
 - `107.1(a)` 107.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-a.yml`
 - `107.1(b)` 107.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-b.yml`
-- `107.1` 107.1: `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-body.yml`
+- `107.1` Aplicabilidade: `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-body.yml`
 - `107.1(c)` 107.1(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-c.yml`
 - `107.1(i)` 107.1(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-i.yml`
 - `107.101(a)` 107.101(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-101-a.yml`
@@ -190,11 +190,11 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `175.1(v)` 175.1(v): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-1-v.yml`
 - `175.101(a)` 175.101(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-101-a.yml`
 - `175.101(b)` 175.101(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-101-b.yml`
-- `175.101` 175.101: `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-101-body.yml`
+- `175.101` Responsabilidades: `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-101-body.yml`
 - `175.101(c)` 175.101(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-101-c.yml`
 - `175.103(a)` 175.103(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-103-a.yml`
 - `175.103(b)` 175.103(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-103-b.yml`
-- `175.103` 175.103: `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-103-body.yml`
+- `175.103` Classes, divisões, grupos de embalagem - definições: `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-103-body.yml`
 - `175.103(i)` 175.103(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-103-i.yml`
 - `175.103(v)` 175.103(v): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-103-v.yml`
 - `175.105(a)` 175.105(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-175/rbac-rbac-175-175-105-a.yml`
@@ -454,22 +454,26 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `39.5-I` 39.5-I: `knowledge/anac-legislacao/support/fragments/rbac/rbac-039/rbac-rbac-039-39-5-i-body.yml`
 - `39.7` 39.7: `knowledge/anac-legislacao/support/fragments/rbac/rbac-039/rbac-rbac-039-39-7-body.yml`
 - `39.9` 39.9: `knowledge/anac-legislacao/support/fragments/rbac/rbac-039/rbac-rbac-039-39-9-body.yml`
+- `aprovacao` Aprovação:: `knowledge/anac-legislacao/support/fragments/rbac/rbac-039/rbac-rbac-039-aprovacao-body.yml`
 - `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-039/rbac-rbac-039-preambulo-body.yml`
+- `1` OBJETIVO: `knowledge/anac-legislacao/support/fragments/is/is-39-001/is-is-39-001-1-body.yml`
 
 ### emissoes
 
 - `34.1(a)` 34.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-1-a.yml`
 - `34.1(b)` 34.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-1-b.yml`
-- `34.3(a)` 34.3(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-3-a.yml`
-- `34.3(b)` 34.3(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-3-b.yml`
-- `34.3` 34.3: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-3-body.yml`
 - `34.5` 34.5: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-5-body.yml`
 - `34.7(a)` 34.7(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-a.yml`
 - `34.7(b)` 34.7(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-b.yml`
 - `34.7` 34.7: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-body.yml`
 - `34.7(c)` 34.7(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-c.yml`
 - `34.9` 34.9: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-9-body.yml`
+- `aprovacao` Aprovação:: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-aprovacao-body.yml`
+- `definicoes(a)` definicoes(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-definicoes-a.yml`
+- `definicoes(b)` definicoes(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-definicoes-b.yml`
+- `definicoes` Definições: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-definicoes-body.yml`
 - `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-preambulo-body.yml`
+- `requisitos` REQUISITOS: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-requisitos-body.yml`
 
 ### envelhecimento
 
@@ -611,12 +615,23 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `133.23(a)` 133.23(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-133/rbac-rbac-133-133-23-a.yml`
 - `133.23(b)` 133.23(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-133/rbac-rbac-133-133-23-b.yml`
 
+### ice-protection
+
+- `38.1(a)` 38.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-1-a.yml`
+- `38.1(b)` 38.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-1-b.yml`
+- `38.3(a)` 38.3(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-3-a.yml`
+- `38.3(b)` 38.3(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-3-b.yml`
+- `38.3` Definições: `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-3-body.yml`
+- `38.5(a)` 38.5(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-5-a.yml`
+- `38.5(b)` 38.5(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-5-b.yml`
+- `38.5` Requisitos de emissões de CO2 de aviões: `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-5-body.yml`
+- `38.7` [Reservado] (Redação dada pela Resolução nº 760, de 27.11.2024): `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-7-body.yml`
+- `38.9` Métodos para avaliação de emissões de CO2: `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-38-9-body.yml`
+- `aprovacao` Aprovação:: `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-aprovacao-body.yml`
+- `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-38/rbac-rbac-38-preambulo-body.yml`
+
 ### identificacao
 
-- `45.1(a)` 45.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-1-a.yml`
-- `45.1(b)` 45.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-1-b.yml`
-- `45.1` 45.1: `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-1-body.yml`
-- `45.1(c)` 45.1(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-1-c.yml`
 - `45.11(a)` 45.11(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-11-a.yml`
 - `45.11(b)` 45.11(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-11-b.yml`
 - `45.11` deste RBAC. Essa placa deve ser construída em material à prova de fogo, marcada por meio: `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-11-body.yml`
@@ -638,6 +653,10 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `45.13` 45.13: `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-13-body.yml`
 - `45.13(c)` 45.13(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-13-c.yml`
 - `45.13(d)` 45.13(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-13-d.yml`
+- `45.13(e)` 45.13(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-13-e.yml`
+- `45.15(a)` 45.15(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-15-a.yml`
+- `45.15(b)` 45.15(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-15-b.yml`
+- `45.15` 45.15: `knowledge/anac-legislacao/support/fragments/rbac/rbac-045/rbac-rbac-045-45-15-body.yml`
 
 ### infraestrutura
 
@@ -706,22 +725,22 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `01.3` Regras de construção dos RBAC: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01/rbac-rbac-01-01-3-body.yml`
 - `01.3-I` Unidades de Medida: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01/rbac-rbac-01-01-3-i-body.yml`
 - `01.3-II` Disposições Finais: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01/rbac-rbac-01-01-3-ii-body.yml`
+- `aprovacao` Aprovação:: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01/rbac-rbac-01-aprovacao-body.yml`
 - `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01/rbac-rbac-01-preambulo-body.yml`
+- `01.1` Definições: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-1-body.yml`
+- `01.1(i)` 01.1(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-1-i.yml`
+- `01.1(v)` 01.1(v): `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-1-v.yml`
+- `01.2` Abreviaturas e símbolos: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-2-body.yml`
+- `01.3(a)` 01.3(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-3-a.yml`
+- `01.3(b)` 01.3(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-3-b.yml`
+- `01.3` Regras de construção dos RBAC: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-3-body.yml`
+- `01.3-I` Unidades de Medida: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-3-i-body.yml`
+- `01.3-II` Disposições Finais: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-01-3-ii-body.yml`
+- `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-01-emd-18/rbac-rbac-01-emd-18-preambulo-body.yml`
 - `142.1(a)` 142.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-1-a.yml`
 - `142.1(b)` 142.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-1-b.yml`
 - `142.1` Aplicabilidade: `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-1-body.yml`
 - `142.1(c)` 142.1(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-1-c.yml`
-- `142.1(d)` 142.1(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-1-d.yml`
-- `142.111(a)` 142.111(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-a.yml`
-- `142.111(b)` 142.111(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-b.yml`
-- `142.111` Requisitos gerais: `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-body.yml`
-- `142.111(c)` 142.111(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-c.yml`
-- `142.111(d)` 142.111(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-d.yml`
-- `142.111(e)` 142.111(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-e.yml`
-- `142.111(f)` 142.111(f): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-f.yml`
-- `142.111(g)` 142.111(g): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-g.yml`
-- `142.111(i)` 142.111(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-i.yml`
-- `142.111(v)` 142.111(v): `knowledge/anac-legislacao/support/fragments/rbac/rbac-142/rbac-rbac-142-142-111-v.yml`
 
 ### licencas
 
@@ -811,16 +830,18 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 
 - `34.1(a)` 34.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-1-a.yml`
 - `34.1(b)` 34.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-1-b.yml`
-- `34.3(a)` 34.3(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-3-a.yml`
-- `34.3(b)` 34.3(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-3-b.yml`
-- `34.3` 34.3: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-3-body.yml`
 - `34.5` 34.5: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-5-body.yml`
 - `34.7(a)` 34.7(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-a.yml`
 - `34.7(b)` 34.7(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-b.yml`
 - `34.7` 34.7: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-body.yml`
 - `34.7(c)` 34.7(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-7-c.yml`
 - `34.9` 34.9: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-34-9-body.yml`
+- `aprovacao` Aprovação:: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-aprovacao-body.yml`
+- `definicoes(a)` definicoes(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-definicoes-a.yml`
+- `definicoes(b)` definicoes(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-definicoes-b.yml`
+- `definicoes` Definições: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-definicoes-body.yml`
 - `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-preambulo-body.yml`
+- `requisitos` REQUISITOS: `knowledge/anac-legislacao/support/fragments/rbac/rbac-034/rbac-rbac-034-requisitos-body.yml`
 - `A36.2` A36.2: `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-2-body.yml`
 - `A36.3` A36.3: `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-3-body.yml`
 - `A36.4` A36.4: `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-4-body.yml`
@@ -832,15 +853,19 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `A36.9` of this ape: `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-body.yml`
 - `A36.9(c)` A36.9(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-c.yml`
 - `A36.9(d)` A36.9(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-d.yml`
-- `A36.9(e)` A36.9(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-e.yml`
-- `A36.9(f)` A36.9(f): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-f.yml`
+
+### motores
+
+- `apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(a)` apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-33/rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-a.yml`
+- `apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(b)` apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-33/rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-b.yml`
+- `apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa` APÊNDICE A-I - DIFERENÇAS DO RBAC 33 EM RELAÇÃO AO 14CFR PART 33, EMENDA 33-36: `knowledge/anac-legislacao/support/fragments/rbac/rbac-33/rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-body.yml`
+- `apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(c)` apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-33/rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-c.yml`
+- `apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(d)` apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-33/rbac-rbac-33-apendice-a-i-diferencas-do-rbac-33-em-relacao-ao-14cf-f01cfa-d.yml`
+- `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-33/rbac-rbac-33-preambulo-body.yml`
+- `sumario` SUMÁRIO: `knowledge/anac-legislacao/support/fragments/rbac/rbac-33/rbac-rbac-33-sumario-body.yml`
 
 ### operacao-aeroportuaria
 
-- `153.1(a)` 153.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-1-a.yml`
-- `153.1` 153.1: `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-1-body.yml`
-- `153.1(i)` 153.1(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-1-i.yml`
-- `153.1(v)` 153.1(v): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-1-v.yml`
 - `153.101(a)` 153.101(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-101-a.yml`
 - `153.101(b)` 153.101(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-101-b.yml`
 - `153.101` 153.101: `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-101-body.yml`
@@ -862,6 +887,10 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `153.107(e)` 153.107(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-107-e.yml`
 - `153.109(a)` 153.109(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-109-a.yml`
 - `153.109(b)` 153.109(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-109-b.yml`
+- `153.109` 153.109: `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-109-body.yml`
+- `153.109(c)` 153.109(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-109-c.yml`
+- `153.109(d)` 153.109(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-109-d.yml`
+- `153.109(e)` 153.109(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-153/rbac-rbac-153-153-109-e.yml`
 
 ### operacoes
 
@@ -918,6 +947,34 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `91.1009(a)` 91.1009(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-91/rbac-rbac-91-91-1009-a.yml`
 - `91.1009(b)` 91.1009(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-91/rbac-rbac-91-91-1009-b.yml`
 - `91.1009` Esclarecimento sobre controle operacional: `knowledge/anac-legislacao/support/fragments/rbac/rbac-91/rbac-rbac-91-91-1009-body.yml`
+
+### operador
+
+- `108.1(a)` 108.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-1-a.yml`
+- `108.1` Termos e definições: `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-1-body.yml`
+- `108.1(i)` 108.1(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-1-i.yml`
+- `108.101` a 108.121 [Reservado]: `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-101-body.yml`
+- `108.11(a)` 108.11(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-11-a.yml`
+- `108.11(b)` 108.11(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-11-b.yml`
+- `108.11` 108.11: `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-11-body.yml`
+- `108.11(c)` 108.11(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-11-c.yml`
+- `108.11(d)` 108.11(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-11-d.yml`
+- `108.11(e)` 108.11(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-11-e.yml`
+- `108.11(i)` 108.11(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-11-i.yml`
+- `108.123(a)` 108.123(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-123-a.yml`
+- `108.123` 108.123: `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-123-body.yml`
+- `108.125(a)` 108.125(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-125-a.yml`
+- `108.125(b)` 108.125(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-125-b.yml`
+- `108.125` 108.125: `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-125-body.yml`
+- `108.125(c)` 108.125(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-125-c.yml`
+- `108.125(i)` 108.125(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-125-i.yml`
+- `108.127(a)` 108.127(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-127-a.yml`
+- `108.127(b)` 108.127(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-127-b.yml`
+- `108.127` 108.127: `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-127-body.yml`
+- `108.127(c)` 108.127(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-127-c.yml`
+- `108.127(d)` 108.127(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-127-d.yml`
+- `108.127(i)` 108.127(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-127-i.yml`
+- `108.129(a)` 108.129(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-108-emd-07/rbac-rbac-108-emd-07-108-129-a.yml`
 
 ### operador-estrangeiro
 
@@ -1061,9 +1118,6 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 
 ### processo-normativo
 
-- `11.1(a)` 11.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-1-a.yml`
-- `11.1(b)` 11.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-1-b.yml`
-- `11.1` 11.1: `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-1-body.yml`
 - `11.21(a)` 11.21(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-21-a.yml`
 - `11.21(b)` 11.21(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-21-b.yml`
 - `11.21` 11.21: `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-21-body.yml`
@@ -1083,7 +1137,12 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `11.41` 11.41: `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-41-body.yml`
 - `11.41(c)` 11.41(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-41-c.yml`
 - `11.41(d)` 11.41(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-11-41-d.yml`
+- `aplicabilidade(a)` aplicabilidade(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-aplicabilidade-a.yml`
+- `aplicabilidade(b)` aplicabilidade(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-aplicabilidade-b.yml`
+- `aplicabilidade` Aplicabilidade: `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-aplicabilidade-body.yml`
+- `aprovacao` Aprovação:: `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-aprovacao-body.yml`
 - `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-preambulo-body.yml`
+- `sumario` SUMÁRIO: `knowledge/anac-legislacao/support/fragments/rbac/rbac-011/rbac-rbac-011-sumario-body.yml`
 
 ### projeto
 
@@ -1188,14 +1247,14 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `A36.9(h)` A36.9(h): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-h.yml`
 - `A36.9(i)` A36.9(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-i.yml`
 - `A36.9(j)` A36.9(j): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-j.yml`
+- `A36.9(k)` A36.9(k): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-k.yml`
+- `A36.9(m)` A36.9(m): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-a36-9-m.yml`
 - `apendice-a(a)` apendice-a(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-a.yml`
 - `apendice-a(b)` apendice-a(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-b.yml`
 - `apendice-a` APÊNDICE A: `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-body.yml`
 - `apendice-a(c)` apendice-a(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-c.yml`
 - `apendice-a(d)` apendice-a(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-d.yml`
 - `apendice-a(e)` apendice-a(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-e.yml`
-- `apendice-a(f)` apendice-a(f): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-f.yml`
-- `apendice-a(g)` apendice-a(g): `knowledge/anac-legislacao/support/fragments/rbac/rbac-36/rbac-rbac-36-apendice-a-g.yml`
 
 ### saude
 
@@ -1229,7 +1288,7 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 
 - `107.1(a)` 107.1(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-a.yml`
 - `107.1(b)` 107.1(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-b.yml`
-- `107.1` 107.1: `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-body.yml`
+- `107.1` Aplicabilidade: `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-body.yml`
 - `107.1(c)` 107.1(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-c.yml`
 - `107.1(i)` 107.1(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-1-i.yml`
 - `107.101(a)` 107.101(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-107/rbac-rbac-107-107-101-a.yml`
@@ -1260,7 +1319,6 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `154.1` Aplicabilidade: `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-1-body.yml`
 - `154.1(c)` 154.1(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-1-c.yml`
 - `154.1(d)` 154.1(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-1-d.yml`
-- `154.1(e)` 154.1(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-1-e.yml`
 - `154.101(a)` 154.101(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-101-a.yml`
 - `154.101` Dados aeronáuticos: `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-101-body.yml`
 - `154.103(a)` 154.103(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-103-a.yml`
@@ -1280,6 +1338,35 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `154.109(c)` 154.109(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-109-c.yml`
 - `154.109(d)` 154.109(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-109-d.yml`
 - `154.111(a)` 154.111(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-111-a.yml`
+- `154.111(b)` 154.111(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-154/rbac-rbac-154-154-111-b.yml`
+
+### servicos-aereos
+
+- `1` OBJETIVO: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-1-body.yml`
+- `3` FUNDAMENTOS: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-3-body.yml`
+- `4` DEFINIÇÕES: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-4-body.yml`
+- `5.2.1` A Análise do Risco de Colisão com Fauna - ARF é um instrumento de responsabilidade do: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-1-body.yml`
+- `5.2.2` A ARF deve ser aplicada quando da elaboração de uma Identificação do Perigo da Fauna -: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-2-body.yml`
+- `5.2.3` Os dados para a elaboração da ARF devem ser recolhidos no âmbito do monitoramento de: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-3-body.yml`
+- `5.2.4` A metodologia aplicada nesta IS toma como referência os procedimentos definidos por: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-4-body.yml`
+- `5.2.5(a)` 5.2.5(a): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-a.yml`
+- `5.2.5` Para a análise do risco da fauna em um aeródromo, devem ser considerados dez fatores: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-body.yml`
+- `5.2.5(c)` 5.2.5(c): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-c.yml`
+- `5.2.5(d)` 5.2.5(d): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-d.yml`
+- `5.2.5(e)` 5.2.5(e): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-e.yml`
+- `5.2.5(f)` 5.2.5(f): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-f.yml`
+- `5.2.5(g)` 5.2.5(g): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-g.yml`
+- `5.2.5(h)` 5.2.5(h): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-h.yml`
+- `5.2.5(i)` 5.2.5(i): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-i.yml`
+- `5.2.5(j)` 5.2.5(j): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-5-j.yml`
+- `5.2.6` A análise de risco com base nos fatores mencionados no parágrafo 5.2.5 deve produzir um: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-6-body.yml`
+- `5.2.7` O operador de aeródromo pode realizar uma ARF que não englobe, em sua totalidade, os: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-7-body.yml`
+- `5.2.8` Para obter a classificação para cada espécie em termos de baixo, médio, alto e muito alto: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-2-8-body.yml`
+- `5.3.1.1` Contagem populacional das espécies-problema presentes no sítio aeroportuário. A: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-3-1-1-body.yml`
+- `5.3.1.2` As vistorias devem ser feitas em diferentes horários, de modo a identificar variações da: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-3-1-2-body.yml`
+- `5.3.1.3` O valor final a ser considerado para cada espécie deve resultar da soma total de todas as: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-3-1-3-body.yml`
+- `5.3.1` População global (em número total de indivíduos): `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-3-1-body.yml`
+- `5.3.10` Susceptibilidade às ações de controle de fauna: `knowledge/anac-legislacao/support/fragments/is/is-164-001/is-is-164-001-5-3-10-body.yml`
 
 ### simuladores
 
@@ -1293,8 +1380,6 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `60.13(c)` 60.13(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-13-c.yml`
 - `60.13(d)` 60.13(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-13-d.yml`
 - `60.13(e)` 60.13(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-13-e.yml`
-- `60.13(f)` 60.13(f): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-13-f.yml`
-- `60.14(a)` 60.14(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-14-a.yml`
 - `60.14` 60.14: `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-14-body.yml`
 - `60.15(a)` 60.15(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-15-a.yml`
 - `60.15(b)` 60.15(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-15-b.yml`
@@ -1308,6 +1393,8 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `60.16(c)` 60.16(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-16-c.yml`
 - `60.16(d)` 60.16(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-16-d.yml`
 - `60.16(i)` 60.16(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-16-i.yml`
+- `60.17(a)` 60.17(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-17-a.yml`
+- `60.17(b)` 60.17(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-60/rbac-rbac-60-60-17-b.yml`
 
 ### taxi-aereo
 
@@ -1336,6 +1423,33 @@ Use este indice antes de abrir textos integrais. Cada chave aponta para fragment
 - `135.113` Ocupação de assento para piloto: `knowledge/anac-legislacao/support/fragments/rbac/rbac-135/rbac-rbac-135-135-113-body.yml`
 - `135.115(a)` 135.115(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-135/rbac-rbac-135-135-115-a.yml`
 - `135.115(b)` 135.115(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-135/rbac-rbac-135-135-115-b.yml`
+
+### transporte
+
+- `25.1155-I(a)` 25.1155-I(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1155-i-a.yml`
+- `25.1155-I(b)` 25.1155-I(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1155-i-b.yml`
+- `25.1155-I` Reverse thrust and propeller pitch settings below the flight regime: `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1155-i-body.yml`
+- `25.1155-I(c)` 25.1155-I(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1155-i-c.yml`
+- `25.1155-I(d)` 25.1155-I(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1155-i-d.yml`
+- `25.1155-I(e)` 25.1155-I(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1155-i-e.yml`
+- `25.1193(a)` 25.1193(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1193-a.yml`
+- `25.1193(b)` 25.1193(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1193-b.yml`
+- `25.1193` Cowling and nacelle skin: `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1193-body.yml`
+- `25.1193(c)` 25.1193(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1193-c.yml`
+- `25.1193(d)` 25.1193(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1193-d.yml`
+- `25.1193(e-I)` 25.1193(e-I): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1193-e-i.yml`
+- `25.1193(i)` 25.1193(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-25-1193-i.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(a)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(a): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-a.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(b)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(b): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-b.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3` APÊNDICE A-I - DIFERENÇAS DO RBAC 25 EM RELAÇÃO AO 14CFR PART 25, EMENDA 25-150: `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-body.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(c)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(c): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-c.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(d)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(d): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-d.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(e)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(e): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-e.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(f)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(f): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-f.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(g)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(g): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-g.yml`
+- `apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(i)` apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3(i): `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-apendice-a-i-diferencas-do-rbac-25-em-relacao-ao-14cf-eaabf3-i.yml`
+- `preambulo` Preambulo e sumario: `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-preambulo-body.yml`
+- `sumario` SUMÁRIO: `knowledge/anac-legislacao/support/fragments/rbac/rbac-25/rbac-rbac-25-sumario-body.yml`
 
 ### transporte-aereo
 

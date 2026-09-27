@@ -1,0 +1,77 @@
+id: is-is-121-012-5-2-1-2-9-a
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.9
+section_title: Cálculo de combustível (121.646(b)).
+subsection_id: a
+cite: 5.2.1.2.9(a)
+title: 5.2.1.2.9(a)
+text: 'a) combustível para voar ao aeródromo de alternativa ETOPS: o avião deve ter a maior
+  das seguintes quantidades:
+
+  i. combustível suficiente para voar até um aeródromo de alternativa ETOPS assumindo uma
+  despressurização rápida, no ponto mais crítico da rota, seguida de uma descida até uma altitude
+  segura que atenda aos requisitos de suprimento de oxigênio de 121.333 do RBAC nº 121;
+
+  ii. combustível suficiente para voar até um aeródromo de alternativa ETOPS (na velocidade
+  de cruzeiro com um motor inoperante) assumindo uma despressurização rápida e, simultaneamente,
+  uma falha de motor, no ponto mais crítico da rota, e em seguida uma descida até uma altitude
+  de cruzeiro com um motor inoperante que atenda aos requisitos de suprimento de oxigênio
+  de 121.333 do RBAC nº 121; e
+
+  iii. combustível suficiente para voar até um aeródromo de alternativa ETOPS (na velocidade
+  de cruzeiro com um motor inoperante) assumindo uma falha de motor no ponto mais crítico
+  da rota seguido de uma descida até uma altitude de cruzeiro com um motor inoperante.
+
+  Nota 1: em todos os cenários, o detentor de certificado deve garantir cumprimento com os
+  requisitos de desempenho da Subparte I do RBAC nº 121.
+
+  Nota 2: no cálculo de 5.2.1.2.9.3a), o detentor de certificado deve considerar, de forma
+  cumulativa:
+
+  1) possíveis erros na previsão dos ventos em rota, majorando os valores previstos de velocidade
+  do vento em 5% (resultando em um acréscimo na velocidade de vento contrário e um decréscimo
+  na velocidade de vento de cauda);
+
+  2) possível desvio em razão de uma previsão de formação de gelo, incluindo a maior das seguintes
+  quantidades de combustível:
+
+  a. combustível consumido como resultado de acúmulo de gelo na avião, durante 10% do tempo
+  em que a formação de gelo é prevista, incluindo o combustível utilizado pelos sistemas antigelo
+  nesse período; e
+
+  b. combustível usado pelos sistemas antigelo durante todo o tempo em que a formação de gelo
+  é prevista (sem considerar, nessa hipótese, os outros efeitos do acúmulo de gelo no avião);
+  e
+
+  Nota: exceto se houver uma fonte confiável de previsão de formação de gelo, deve-se prever
+  formação de gelo sempre que a temperatura total do ar (TAT), na velocidade aprovada de cruzeiro
+  com um motor inoperante, seja menor do que 10ºC, ou sempre que a temperatura do ar externo
+  (OAT) esteja entre 0 e -20ºC com uma umidade relativa do ar de 55% ou superior.
+
+  3) deterioração em cruzeiro do desempenho do motor na queima do combustível, adicionando
+  5% do combustível calculado (considerando até 5.2.1.2.9.3a), Nota 2, 2)) - exceto se o detentor
+  de certificado tiver um programa de monitoramento da deterioração do motor, conforme previsto
+  em 121.645(b)(1)(i) do RBAC nº 121, caso em que deve seguir o método estabelecido nesse
+  programa.'
+keywords:
+- transporte-aereo
+- operacoes
+- combustivel
+- motor
+- gelo
+- cruzeiro
+- velocidade
+- formacao
+- inoperante
+- aerodromo
+- alternativa
+- etops
+- nota
+- rota
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

@@ -1,0 +1,33 @@
+id: is-is-121-012-4-1-10-b
+kind: is
+document: is-121-012
+family: '121'
+section_id: 4.1.10
+section_title: Ponto de entrada ETOPS significa o primeiro ponto da rota em um voo ETOPS que
+  seja parte de uma área de operações ETOPS.
+subsection_id: b
+cite: 4.1.10(b)
+title: 4.1.10(b)
+text: 'b) grupo 2: sistema significativo que não é do grupo 1. Falhas de sistemas do grupo
+  2 não resultam em perda de desempenho do avião nem em problemas no ambiente da cabine, mas
+  podem resultar em desvios para alternativa ou retornos do voo.'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- grupo
+- ponto
+- alternativa
+- ambiente
+- area
+- aviao
+- cabine
+- desempenho
+- desvios
+- entrada
+- falhas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

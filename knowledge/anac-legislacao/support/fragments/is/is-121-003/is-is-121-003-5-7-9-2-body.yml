@@ -1,0 +1,103 @@
+id: is-is-121-003-5-7-9-2-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.7.9.2
+section_title: O equipamento e a cultura do operador podem influenciar na forma como protocolos
+  de
+subsection_id: body
+cite: 5.7.9.2
+title: O equipamento e a cultura do operador podem influenciar na forma como protocolos de
+text: '5.7.9.2 O equipamento e a cultura do operador podem influenciar na forma como protocolos
+  de
+
+  conscientização de modo são concebidos e implementados. Portanto, um operador deve criar
+
+  procedimentos de conscientização de modo que reflitam o equipamento e como o operador
+
+  emprega o equipamento e treina/avalia os procedimentos. Ao formular SOP de conscientização
+
+  de modo, considere o seguinte:
+
+  1) quando exigir call-outs verbais de status do modo e alterações, tendo em mente a carga
+
+  de trabalho durante as fases específicas de voo, as tarefas dos pilotos, e mudanças de modo
+
+  imprevistas;
+
+  2) os operadores devem descrever a metodologia de confirmação do modo para os papéis
+
+  de PF/PM. É importante que os procedimentos de um operador para confirmação do modo
+
+  leve em conta as diferenças nas fases de voo, as tarefas dos pilotos e situações de alta
+  carga
+
+  de trabalho;
+
+  3) um exemplo consiste em fazer um briefing do estado do modo de piloto automático atual
+
+  para qualquer piloto que está retornando a um assento de pilotagem após uma pausa
+
+  fisiológica ou distração (falando com o despacho, comissários, etc.). Após uma distração,
+
+  os pilotos devem discutir o status da cabine de comando. Para um piloto que está retornando
+
+  a um assento de pilotagem depois de uma pausa, desenvolva um briefing formal apropriado
+
+  para o equipamento, com os itens necessários para assegurar que o piloto seja atualizado
+
+  sobre o estado dos sistemas.
+
+  4) crie procedimentos/caixas de diálogos das fases de voo (por exemplo: decolagem,
+
+  subida, cruzeiro, descida, aproximação) que incluam mudanças de modo e indicações para
+
+  cada nível de automação permitido; e
+
+  5) inclua indicação de mudança de modo em procedimentos de manobras/caixas de
+
+  diálogo. Quando possível, associe os call-outs e o tempo para coincidir com as mudanças
+
+  de modo. Por exemplo, alguns operadores têm implementado procedimentos padronizados
+
+  de operação tais como “Confirmar, Ativar, Monitorar, Intervir (CAMI),” ou “Verbalizar,
+
+  Verificar e Monitorar (VVM)” ou sistemas similares, ou mesmo suas variações. Tais
+
+  procedimentos proporcionam à tripulação de voo um método estruturado para realizar
+
+  operações dentro da cabine de comando que ajude a interceptar erros. Independentemente
+
+  da forma da estratégia, o objetivo é garantir que todos na cabine de comando compreendam
+
+  o modo ativo, os efeitos do novo modo acoplado e habilmente reajam para garantir que a
+
+  trajetória e a energia da aeronave permaneçam como desejado. Alguns efeitos de inserção
+
+  e seleção são retardados (por exemplo, armado para ativo) e erros latentes podem não ser
+
+  aparentes até que algum tempo já tenha se passado. Verificação de trajetória ou funções
+
+  desejadas e consciência dos modos é importante em todas as fases do voo, incluindo as
+
+  operações terrestres.'
+keywords:
+- transporte-aereo
+- operacoes
+- modo
+- procedimentos
+- equipamento
+- operador
+- exemplo
+- fases
+- forma
+- piloto
+- podem
+- cabine
+- comando
+- conscientizacao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

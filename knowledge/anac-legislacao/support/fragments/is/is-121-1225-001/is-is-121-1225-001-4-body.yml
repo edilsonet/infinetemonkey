@@ -1,0 +1,58 @@
+id: is-is-121-1225-001-4-body
+kind: is
+document: is-121-1225-001
+family: '121'
+section_id: '4'
+section_title: PROCEDIMENTOS
+subsection_id: body
+cite: '4'
+title: PROCEDIMENTOS
+text: '4. PROCEDIMENTOS
+
+  4.1. Introdução
+
+  4.1.1. Esta IS foi estruturada considerando os requisitos do Sistema de Gerenciamento da
+
+  Segurança Operacional (SGSO) estabelecidos no RBAC 121. Além disso, esta IS
+
+  apresenta para o Diretor/Gerente de Segurança Operacional (DSO/GSO) do PSAC a
+
+  metodologia concernente ao Programa de Reporte Voluntário, a partir da implantação e
+
+  operação dos componentes e elementos previstos na estrutura do SGSO da ANAC.
+
+  4.1.2. O parágrafo 121.1225(a)(4)(ii) do RBAC 121 requer o estabelecimento, pelo gestor
+
+  responsável, de meios formais de aquisição de dados de segurança operacional,
+
+  incluindo os reportes voluntários.
+
+  4.2. Procedimento para aquisição de dados de segurança operacional provenientes de
+
+  reportes voluntários
+
+  4.2.1. Como meio formal de aquisição de dados de segurança operacional provenientes de
+
+  reportes voluntários, o PSAC poderá implementar um programa de RELPREV,
+
+  conforme estabelecido na NSCA 3-3 do Comando da Aeronáutica.'
+keywords:
+- transporte-aereo
+- operacoes
+- operacional
+- seguranca
+- aquisicao
+- dados
+- procedimentos
+- reportes
+- voluntarios
+- programa
+- provenientes
+- psac
+- sgso
+- aeronautica
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-1225-001.md

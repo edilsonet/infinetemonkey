@@ -1,0 +1,61 @@
+id: is-is-120-017-8-2-1-body
+kind: is
+document: is-120-017
+family: '120'
+section_id: 8.2.1
+section_title: Programas baseados em alertas. O objetivo de um nível de alerta consiste na
+subsection_id: body
+cite: 8.2.1
+title: Programas baseados em alertas. O objetivo de um nível de alerta consiste na
+text: '8.2.1 Programas baseados em alertas. O objetivo de um nível de alerta consiste na
+
+  identificação de desvios significativos de um padrão de desempenho previamente
+
+  aceitável. O nível não deve ser ajustado tão alto de forma que um grande aumento na taxa
+
+  de falha não produza um alerta, nem tão baixo de maneira que a distribuição normal de
+
+  falhas resulte em alertas excessivos. O nível de alerta efetivo, portanto, normalmente irá
+
+  depender da distribuição ou dispersão observada nas taxas de falha de um sistema sob
+
+  revisão. O operador deve reconhecer que níveis de alerta não consistem em níveis mínimosData
+  de emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X
+
+  aceitáveis de aeronavegabilidade, mas sim meios para se identificar prontamente aumentos
+
+  nas taxas de falha que apareçam fora dos parâmetros que delimitam o que se considera
+
+  uma variação normal de desempenho. Em todo caso mais investigação é requerida, mas
+
+  pode ou não resultar na identificação de um problema ou deficiência. Existem vários
+
+  métodos reconhecidos para se calcular níveis de alerta. Qualquer um destes pode ser
+
+  utilizado, desde que o método escolhido esteja inteiramente definido no documento do
+
+  programa de confiabilidade do operador.'
+keywords:
+- antidrogas
+- saude
+- alerta
+- nivel
+- alertas
+- baseados
+- consiste
+- falha
+- niveis
+- objetivo
+- programas
+- desempenho
+- distribuicao
+- identificacao
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

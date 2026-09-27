@@ -1,0 +1,34 @@
+id: rbac-rbac-035-aplicabilidade-a
+kind: rbac
+document: rbac-035
+family: '35'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: a
+cite: aplicabilidade(a)
+title: aplicabilidade(a)
+text: '(a) Este RBAC prescreve os requisitos de ae-
+
+  ronavegabilidade para a emissão de certificados
+
+  de tipo para hélices e modificações nos certifi-
+
+  cados.'
+keywords:
+- helices
+- aeronavegabilidade
+- aplicabilidade
+- cados
+- certifi
+- certificados
+- emissao
+- modificacoes
+- prescreve
+- requisitos
+- ronavegabilidade
+- tipo
+categories:
+- helices
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-035.md

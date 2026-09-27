@@ -1,0 +1,107 @@
+id: is-is-91-003b-introducao-c
+kind: is
+document: is-91-003b
+family: '91'
+section_id: introducao
+section_title: INTRODUÇÃO
+subsection_id: c
+cite: introducao(c)
+title: introducao(c)
+text: 'c) as informações podem estar fora de escala ou alinhamento.
+
+  14.2 A utilização do EVS pode melhorar a consciência situacional dos tripulantes em determinadas
+  fases do voo, porém, esta IS não normatiza a utilização de tais sistemas.
+
+  14.3 Durante algumas condições de visibilidade reduzida, um EFVS pode disponibilizar imagens
+  que melhoram significativamente a capacidade do piloto de avistar referências visuais da
+  pista, suas luzes de aproximação, movimentação de aeronaves, veículos ou animais nas áreas
+  de movimento. Porém os pilotos que utilizam o EFVS não devem concluir que a trajetória da
+  aeronave está livre de obstáculos meramente pela não visualização dos mesmos no display
+  do EFVS. Em algumas situações específicas o desempenho dos sensores de imagem do sistema
+  pode ser variável, dificultando ou impossibilitando a identificação de objetos ou veículos.
+
+  14.4 Só existe a previsão de operar abaixo da DA ou DH durante uma aproximação de precisão
+  quando houver referências visuais naturais, não oriundas do EFVS. A utilização do EFVS não
+  altera os mínimos meteorológicos de teto ou visibilidade descritos nas publicações aeronáuticas.
+
+  14.5 As cores das luzes disponibilizadas através do EFVS podem não ser fielmente representadas
+  no display, prejudicando a identificação de porções específicas da pista e suas marcações.
+  Razão pela qual tais referências devem ser utilizadas apenas quando utilizada a visão natural.
+
+  14.6 Pela razão exposta no item anterior as luzes indicadoras de trajetória vertical, PAPI,
+  não devem ser usadas como referência enquanto disponíveis apenas através do EFVS.
+
+  14.7 Esta IS não determina que o EFVS seja desligado ou seu display seja recolhido para
+  a continuação da descida após a passagem da DH até a zona de toque. O piloto pode continuar
+  usando as imagens desde que as referências visuais possam ser vistas através do display
+  utilizando a visão natural. É vedado ao operador prosseguir abaixo da DH utilizando apenas
+  as imagens obtidas através do EFVS.
+
+  14.8 Lâmpadas com tecnologia LED podem não ser visíveis aos equipamentos que utilizam equipamentos
+  baseados em raios infravermelhos, devido ao fato que as lâmpadas não são incandescentes
+  não produzindo calor significativo. Operadores que utilizam tais sistemas devem se certificar
+  do tipo de iluminação e sinais luminosos disponibilizados nos aeródromos onde irão operar.
+
+
+  APROXIMAÇÕES ILS CAT I AR
+
+  15.1 Este capítulo trata de operações de aproximações ILS com alcance visual da pista, RVR,
+  mínimo de 450 m e DH mínima de 150 pés, com base em RA, utilizando o HGS até a DH, em pistas
+  providas de instalação Tipo I, para a qual não há requisitos de luzes de zona de toque (TDZ)
+  e de luzes de eixo de pista de pouso e decolagem (RCL)
+
+  NOTA: para fins desta IS, uma instalação Tipo I é definida como todas as instalações que
+  possuam localizador (LOC) e glide slope (GS) que não atendam a definição do Tipo II e III
+  e que tenham um curso direto publicado coincidente com o eixo da pista ou com um LOC desalinhado,
+  cujo desalinhamento não exceda 3 graus do alinhamento da pista.
+
+  15.2 Durante a execução de aproximações ILS CAT I AR os órgão ATC e/ou o administrador aeroportuário
+  devem prover a separação de tráfego essencial de veículos no solo a fim de garantir proteção
+  apropriada das áreas críticas do localizador e glide slope.
+
+  15.3 O conceito de aproximação estabilizada é amplamente utilizado pela indústria com o
+  propósito de reduzir os riscos de acidente ou incidentes nas aproximações, bem como reduzir
+  a probabilidade de procedimentos de aproximação perdida quando a aeronave se encontra a
+  baixa altura. O objetivo é ter a aeronave apropriadamente configurada, na velocidade e trajetória
+  adequada para o pouso antes de um ponto predeterminado. Quando em condições de voo por instrumento,
+  IMC, esta IS considera 1000 (mil) pés AGL a altura mínima para a estabilização da aproximação.
+
+  15.4 Conforme previsão da AIC N° 53-18, publicada pelo DECEA, para serem elegíveis para
+  aproximações ILS CAT I AR as pistas têm que ser qualificadas para operações ILS CAT I, com
+  DH mínima de 200 pés e visibilidade mínima não maior que 800 metros.
+
+  15.5 Nos procedimentos ILS CAT I AR, a inclinação da rampa de descida normalmente será de
+  3 graus, podendo o DECEA autorizar trajetórias verticais com inclinações superiores. O operador
+  deve determinar a necessidade de procedimentos operacionais específicos para aeródromos
+  onde a inclinação da rampa for superior ao valor acima citado.
+
+  15.6 Somente aeronaves operadas por dois pilotos são autorizadas a utilizar os mínimos meteorológicos
+  de aproximações ILS CAT I AR.
+
+  15.7 A pista em uso deve ter distância de pouso declarada superior a 1500 metros.
+
+  15.8 Apenas os operadores certificados para as aproximações ILS CAT II utilizando aeronaves
+  aprovadas para CAT II e equipadas com HGS operacional são elegíveis as aproximações ILS
+  CAT I AR.
+
+  15.9 A pista deve disponibilizar os seguintes auxílios luminosos e equipamentos auxiliares:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- efvs
+- aproximacoes
+- pista
+- aproximacao
+- luzes
+- atraves
+- display
+- minima
+- pode
+- referencias
+- tipo
+- utilizando
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-003b.md

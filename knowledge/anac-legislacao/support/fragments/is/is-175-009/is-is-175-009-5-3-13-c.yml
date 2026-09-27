@@ -1,0 +1,25 @@
+id: is-is-175-009-5-3-13-c
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.13
+section_title: O campo “Número operacional do CT-e” deve ser preenchido com o número de controle
+subsection_id: c
+cite: 5.3.13(c)
+title: 5.3.13(c)
+text: c) Quando o transporte for internacional, o campo deve ser preenchido com “N/A”.
+keywords:
+- artigos-perigosos
+- carga
+- campo
+- numero
+- preenchido
+- controle
+- internacional
+- operacional
+- transporte
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

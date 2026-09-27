@@ -1,0 +1,52 @@
+id: is-is-121-012-5-2-1-2-9-b
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.2.9
+section_title: Cálculo de combustível (121.646(b)).
+subsection_id: b
+cite: 5.2.1.2.9(b)
+title: 5.2.1.2.9(b)
+text: 'b) o suficiente para satisfazer os parágrafos 121.645(c)(6)(ii) e 121.646(b) do RBAC
+  nº 121, aplicáveis a operações ETOPS
+
+  Nota: embora as condições meteorológicas não precisem ser consideradas para determinar que
+  uma rota é ETOPS, já que, nessa etapa, se utiliza a velocidade de cruzeiro com um motor
+  inoperante sob atmosfera padrão e ar calmo, uma vez que seja determinado que a rota é ETOPS
+  e se esteja realizando o planejamento de voo de um voo ETOPS específico, as condições meteorológicas,
+  incluindo o vento, devem ser consideradas.
+
+  5.1.1.2.9.2 As figuras 1 e 2 ilustram as duas situações possíveis:.
+
+
+  Figura 1 - Situação em que o combustível requerido por 121.645(c)(2), (3), (4) e (5), para
+  um voo não ETOPS, é superior ao requerido por 121.646(b), para o cenário crítico ETOPS,
+  e, dessa forma, não é necessário incluir combustível adicional (121.645(c)(6)).
+
+
+  Figura 2 - Situação em que o combustível requerido por 121.646(b), para o cenário crítico
+  ETOPS, é superior ao requerido por 121.645(c)(2), (3), (4) e (5), para um voo não ETOPS,
+  e, dessa forma, é necessário incluir combustível adicional (121.645(c)(6).
+
+  5.2.1.2.9.3 Os requisitos de combustível do parágrafo 121.646(b) do RBAC nº 121 (conhecidos
+  como requisitos ETOPS de cenário crítico de combustível) são:'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- combustivel
+- requerido
+- cenario
+- critico
+- adicional
+- condicoes
+- consideradas
+- dessa
+- figura
+- forma
+- incluir
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

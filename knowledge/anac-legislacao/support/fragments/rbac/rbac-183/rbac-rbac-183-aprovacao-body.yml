@@ -1,0 +1,26 @@
+id: rbac-rbac-183-aprovacao-body
+kind: rbac
+document: rbac-183
+family: '183'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 203, de 1º de novembro de 2011. [Emenda 00]
+
+  Resolução nº 477, de 7 de junho de 2018. [Emenda 01]'
+keywords:
+- delegacao
+- credenciamento
+- aprovacao
+- resolucao
+- junho
+- novembro
+categories:
+- delegacao
+- credenciamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-183.md

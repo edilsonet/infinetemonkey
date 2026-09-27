@@ -1,0 +1,30 @@
+id: rbac-rbac-161-termos-e-definicoes-f
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: f
+cite: termos-e-definicoes(f)
+title: termos-e-definicoes(f)
+text: '(f)
+
+  Movimento de aeronave: termo genérico utilizado para caracterizar um pouso, uma decolagem,
+  ou um toque e arremetida de aeronaves civis no aeródromo.'
+keywords:
+- definicoes
+- termos
+- aerodromo
+- aeronave
+- aeronaves
+- arremetida
+- caracterizar
+- civis
+- decolagem
+- generico
+- movimento
+- pouso
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

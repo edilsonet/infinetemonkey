@@ -1,0 +1,43 @@
+id: is-is-119-007-5-9-1-b
+kind: is
+document: is-119-007
+family: '119'
+section_id: 5.9.1
+section_title: Não há requisitos para que o operador aéreo forneça fonte de energia elétrica
+  da aeronave
+subsection_id: b
+cite: 5.9.1(b)
+title: 5.9.1(b)
+text: 'b) instalação e cabeamento. Operadores devem garantir que a instalação e o
+
+  cabeamento do POC, até o ponto em que o usuário conecta seu POC, atendem aos
+
+  requisitos de certificação do RBAC nº 23 e do RBAC nº 25 (em particular, 25.1301,
+
+  25.1309, 25.1353, 25.1357 e 25.1431). Essas seções garantem que a fiação e as proteções
+
+  de circuito são suficientes para o uso pretendido. Essas seções também garantem que o
+
+  uso do POC, enquanto estiver sendo carregado, não afetará negativamente o sistema
+
+  elétrico da aeronave e a operação de outros sistemas;'
+keywords:
+- certificacao-de-operador
+- operacoes
+- aeronave
+- cabeamento
+- essas
+- garantem
+- instalacao
+- requisitos
+- secoes
+- aereo
+- afetara
+- atendem
+- carregado
+- certificacao
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-007.md

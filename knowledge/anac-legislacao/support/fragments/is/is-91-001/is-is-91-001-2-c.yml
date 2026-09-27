@@ -1,0 +1,65 @@
+id: is-is-91-001-2-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: '2'
+section_title: Considerações durante a fase de pré-voo
+subsection_id: c
+cite: 2(c)
+title: 2(c)
+text: 'c) sistema EGPWS/TAWS é requerido em todas operações RNP AR APCH, sendo recomendado
+  que tais sistemas utilizem compensação barométrica e de temperatura nas informações de altitude.
+  Da mesma forma é recomendado que os equipamentos disponham de informações de obstáculos
+  significativos.
+
+  2.2 Piloto automático e flight director. Para procedimentos que possuem RNP menor que 0.3
+  ou com RF legs é compulsório a utilização do AP e FD comandados pelo sistema RNP. Portanto
+  AP e FD devem estar operando com a precisão de navegação lateral e vertical específica requerida
+  pelo procedimento a ser executado.
+
+  2.3 Predição de RNP. O operador deve possuir método de predição de desempenho da capacidade
+  RNP a fim de assegurar a capacidade de execução do procedimento na localidade e na hora
+  prevista para sua execução. A predição de RNP pode ser fornecida por meio de informações
+  obtidas no solo, não é mandatório que a função seja disponibilizada em equipamentos embarcados.
+  O operador deve desenvolver procedimentos para a utilização desta capacidade como uma ferramenta
+  de despacho e/ou acompanhamento de voos.
+
+  2.4 A capacidade de predição deve levar em consideração as interrupções conhecidas, as suspensões
+  temporárias ou outro efeito negativo dos sinais de navegação. O programa de predição não
+  pode utilizar informações provenientes de satélites em que o ângulo da recepção for inferior
+  a 5 graus, uma vez que nestas condições os sinais de satélites não são confiáveis. A predição
+  deve utilizar a constelação de satélites com algoritmo idêntico ao utilizado pelo equipamento
+  embarcado. Para procedimentos RNP AR APCH em áreas elevadas, o operador deve adequar os
+  limites angulares de recepção a elevação do terreno.
+
+  2.5 Exclusão de auxílios à navegação. O operador deve estabelecer procedimentos para excluir
+  auxílios de navegação indisponíveis de acordo com as publicações aeronáuticas. A lógica
+  interna dos aviônicos pode não ser apropriada se utilizados sinais espúrios ou interrompidos.
+
+  2.6 Validade do banco de dados de navegação. Ao inicializar o sistema de navegação, os pilotos
+  devem verificar a validade do banco de dados. Os dados devem estar atualizados até a finalização
+  do voo. Caso o ciclo AIRAC mude durante o voo o operador deve estabelecer procedimentos
+  para verificar a precisão dos dados de navegação na rota a ser voada. Tradicionalmente essa
+  verificação é realizada comparando-se as informações impressas com o conteúdo do banco de
+  dados. Caso haja discrepâncias nos procedimentos a serem executados o banco de dados de
+  navegação não deve ser utilizado.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- dados
+- predicao
+- procedimentos
+- informacoes
+- operador
+- banco
+- capacidade
+- pode
+- satelites
+- sinais
+- sistema
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

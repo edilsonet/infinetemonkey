@@ -1,0 +1,288 @@
+id: is-is-21-013-7-a
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: a
+cite: 7(a)
+title: 7(a)
+text: 'a) Informações de navegação e Anúncios
+
+  I. Os seguintes anúncios e informações devem estar disponíveis para o(s) piloto(s)
+
+  conforme localizações apresentadas a seguir para as operações IFR PBN.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  i. Piloto:
+
+  Informação ou Anunciação
+
+  Lo
+
+  cal
+
+  iza
+
+  ção
+
+  Campo de Visão Primário
+
+  Ótimo Máximo
+
+  Curso e desvio lateral da rota (CDI, HSI ou
+
+  EHSI convencionais, ou um display do tipo
+
+  mapa de navegação)
+
+  X
+
+  Fonte de navegação X1
+
+  Anúncio de Falha (bandeira) X2
+
+  TO/FROM X2
+
+  Anúncio de Integridade (INTEG) 5 X3 X4
+
+  Modo de Aproximação (TERM/APR, APR
+
+  ARM/ACT ou equivalente) 5 X
+
+  Anúncios de Status (MSG e WPT ou
+
+  equivalentes) 5 X
+
+  Anúncios de Modos OBS/AUTO ou
+
+  MAN/LEG, SUSP e XTRK ou equivalentes6
+
+  Tabela 8 - Anúncios e informações requeridas para o piloto para operações IFR PBN
+
+  1A indicação de Fonte de Navegação deve estar no mesmo lado do indicador do tipo CDI em
+  relação à centerline e é
+
+  necessária somente se houver a possibilidade de apresentar mais de uma fonte de navegação
+  no mesmo indicador.
+
+  2Esses anúncios devem ser apresentados em conjunto com o desvio de curso, no mesmo instrumento.
+
+  3O anúncio de integridade (INTEG) deve estar no Campo de Visão Primário Ótimo para operações
+  do tipo RNP.
+
+  4O anúncio de integridade (INTEG) deve estar no Campo de Visão Primário Máximo para operações
+  do tipo RNAV.
+
+  5É aceitável que estes anúncios estejam disponíveis na própria unidade GNSS, desde que instalada
+  no Campo de Visão
+
+  apropriado do piloto.
+
+  6Os anúncios de modos OBS/AUTO ou MAN/LEG, SUSP e XTRK ou equivalentes devem estar disponíveis
+  para o piloto.
+
+  É aceitável que estejam disponíveis na própria unidade GNSS.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  ii. Segundo Piloto:
+
+  Quando forem requeridos dois pilotos, deve ser considerada a Tabela 8 ou a
+
+  Tabela 9 a seguir:
+
+  Informação ou Anunciação
+
+  Localização
+
+  Campo de Visão Primário
+
+  Ótimo Máximo
+
+  Curso e desvio lateral da rota X1
+
+  Fonte de navegação X2
+
+  Anúncio de Falha (bandeira) X3
+
+  TO/FROM X1
+
+  Anúncio de Integridade (INTEG) X1
+
+  Modo de Aproximação (TERM/APR, APR
+
+  ARM/ACT ou equivalente)
+
+  X1
+
+  Anúncios de Status (MSG e WPT ou
+
+  equivalentes)
+
+  X1
+
+  Anúncios de Modos OBS/AUTO ou
+
+  MAN/LEG, SUSP e XTRK ou equivalentes4
+
+  Tabela 9 - Anúncios e informações requeridas para o segundo piloto para operações IFR PBN
+
+  1A instalação do próprio equipamento GNSS no Campo de Visão Primário Máximo do segundo piloto,
+  desde que todas estas
+
+  informações estejam disponíveis nele, é aceita para atender este requisito.
+
+  2O anúncio da fonte de navegação selecionada para o segundo piloto somente será aplicável
+  em instalações com display do
+
+  tipo CDI externo e integrado a mais de uma fonte de navegação.
+
+  3Para instalações em que o próprio CDU do equipamento GNSS for utilizado para apresentar
+  informações de curso e desvio
+
+  lateral da rota, o apagamento do display é aceito como equivalente ao anúncio de falha (bandeira).
+
+  4Os anúncios de modos OBS/AUTO ou MAN/LEG, SUSP e XTRK ou equivalentes devem estar disponíveis
+  para o segundo
+
+  piloto. É aceitável que estejam disponíveis na própria unidade GNSS.
+
+  II. Quando houver a possibilidade de um determinado modelo de aeronave ser
+
+  requerido a operar com um ou dois pilotos, a depender da operação, pode-se ter os
+
+  seguintes cenários:
+
+  i. Quando os anúncios/informações requeridos e suas posições estiverem
+
+  disponíveis para o piloto, conforme Tabela 8 e não disponíveis para o segundo
+
+  piloto:
+
+  Neste caso, deverá ser inserida uma limitação no SMV informando que a
+
+  operação PBN está limitada a operações em que seja requerido apenas um
+
+  piloto;
+
+  ii. Quando os anúncios/informações requeridos e suas posições estiverem
+
+  disponíveis para o piloto, conforme Tabela 8 e disponíveis para o segundo
+
+  piloto conforme Tabela 9:16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  Neste caso, deverá ser inserida uma limitação no SMV informando que durante
+
+  a operação PBN o piloto em comando sentado no assento da esquerda (para
+
+  avião, ou direita para helicóptero) deverá estar no controle da aeronave;
+
+  iii. Quando os anúncios/informações requeridos e suas posições estiverem
+
+  disponíveis para o piloto e para o segundo piloto, conforme Tabela 8:
+
+  Neste caso, nenhuma limitação adicional é necessária;
+
+  iv. Quando os anúncios/informações requeridas e suas posições estiverem
+
+  disponíveis para o segundo piloto, conforme Tabela 8, e não disponíveis para
+
+  o piloto (ref. GNSS 2):
+
+  Neste caso, deverá haver instalado pelo menos um segundo equipamento
+
+  GNSS (ref. GNSS 1) cujos anúncios/informações e suas posições estejam
+
+  disponíveis para o piloto, conforme Tabela 8;
+
+  Deverá ser observado o cumprimento dos itens 7.3.1 e 7.3.2 desta IS; e
+
+  Deverá ser inserida uma limitação no SMV informando que a operação PBN
+
+  com o GNSS 2 estará limitada a quando a aeronave for operada com dois
+
+  pilotos;
+
+  Nota: Este cenário trata da instalação de dois equipamentos GNSS com
+
+  informações segregadas entre piloto e segundo piloto. Para instalações duplas
+
+  com os anúncios/informações e suas posições disponíveis para os dois pilotos,
+
+  referir-se ao cenário (iii.) acima.
+
+  III. Em adição ao apresentado acima, os seguintes requisitos para apresentação dos
+
+  dados de navegação são necessários para uma operação PBN:
+
+  i. Os indicadores de desvio lateral devem possuir limites de indicação e escala
+
+  compatíveis com qualquer fase do voo (deve ser possível, em qualquer situação
+
+  de desvio lateral, fazer uma leitura deste de forma a identificar com facilidade,
+
+  clareza e resolução suficientes, a posição lateral da aeronave em relação à rota
+
+  a ser voada e em relação aos limites que devem ser mantidos);
+
+  ii. A escala do indicador de desvio lateral deve corresponder a qualquer alerta e
+
+  anúncio de limites, se instalados;
+
+  iii. As escalas e os limites de indicação de desvio lateral podem ser ajustados
+
+  manual ou automaticamente, de acordo com a fase de voo. Os limites de
+
+  indicação devem ser conhecidos, ou serem disponibilizados num display, para
+
+  a tripulação mensurar os valores de acordo com a fase de voo;
+
+  iv. A indicação de desvio lateral do curso deve ser automaticamente escravizada
+
+  ao GNSS. Caso haja um seletor de curso no indicador de desvio lateral (por
+
+  exemplo, no caso de o indicador ser um HSI/EHSI), é recomendado que a
+
+  seleção de curso seja automática.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  v. Caso o requerente opte por utilizar um display do tipo mapa de navegação, ele
+
+  deve estar localizado no campo de visão primário e oferecer funcionalidades
+
+  equivalentes às de um instrumento do tipo CDI, ou seja, deve ser possível, com
+
+  a utilização de uma escala apropriada, em qualquer fase do voo e em qualquer
+
+  situação de desvio lateral, identificar com facilidade, clareza e precisão
+
+  suficientes a posição lateral da aeronave em relação à rota a ser voada e em
+
+  relação aos limites que devem ser mantidos.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- piloto
+- anuncios
+- disponiveis
+- informacoes
+- gnss
+- lateral
+- desvio
+- segundo
+- navegacao
+- tabela
+- anuncio
+- estar
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

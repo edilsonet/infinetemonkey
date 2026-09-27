@@ -1,0 +1,140 @@
+id: is-is-43-012-5-2-24-b
+kind: is
+document: is-43-012
+family: '43'
+section_id: 5.2.24
+section_title: Registros de manutenção
+subsection_id: b
+cite: 5.2.24(b)
+title: 5.2.24(b)
+text: 'b) A seção 43.9 se aplica aos demais casos.
+
+  Caso o piloto não se considere capaz de compreender se a atividade que pretende
+
+  desempenhar se enquadra, em termos de registros, na seção 43.9 ou 43.11 do RBAC nº 43;
+
+  se a aeronave é mantida, ou não, sob um sistema de inspeções progressivas; ou se a inspeção
+
+  pretendida se enquadra integralmente nos critérios de manutenção preventiva por pilotos,
+  ele
+
+  deve procurar ajuda especializada antes de iniciar qualquer serviço de manutenção
+
+  preventiva, ou abster-se de realizá-lo.
+
+  Considerando que o piloto não pode aprovar uma aeronave para retorno ao serviço após
+
+  manutenção preventiva executada por outra pessoa, não se aplica a possibilidade do
+
+  parágrafo 43.9(a)(3) do RBAC nº 43, previsto para casos em que a pessoa que executa a
+
+  manutenção não é a mesma que a aprova para retorno ao serviço. Vide maiores detalhes no
+
+  item 5.2.26.Data de emissão: 5 de abril de 2019 IS Nº 43-012
+
+  Revisão B
+
+  Tipicamente para os casos em que a manutenção preventiva pode ser realizada por pilotos,
+
+  são utilizadas como registro de manutenção de aeronaves, motores e hélices as cadernetas
+
+  de manutenção, cujo formato e utilização são explicados na IS nº 43.9-003A, ou revisão
+
+  posterior.
+
+  No caso de diretrizes de aeronavegabilidade, aplica-se também a Ficha de Cumprimento de
+
+  Diretriz de Aeronavegabilidade (FCDA), explicada na IS 39-001B, ou revisão posterior, e
+
+  disponível no portal da ANAC no endereço
+
+  https://sistemas.anac.gov.br/certificacao/Form/Form.asp (formulário F-145-11).
+
+  O piloto deve se familiarizar com as cadernetas de manutenção e, se aplicável, com a FCDA,
+
+  antes de realizar manutenção preventiva.
+
+  Considerando que em diversas situações a atuação do piloto para realizar manutenção
+
+  preventiva ocorre em áreas remotas ou distantes do local onde as cadernetas de manutenção
+
+  permanecem armazenadas, é meio aceitável de cumprimento que a manutenção preventiva
+
+  seja registrada no diário de bordo da aeronave, em sua Parte 2 (Situação Técnica da
+
+  Aeronave) especificamente destinada ao registro de discrepâncias e suas correções, última
+
+  inspeção realizada e vencimento da próxima inspeção. Vide Resolução ANAC n° 457/2017
+
+  e formato de diário de bordo físico estabelecido pela Portaria n° 2050/SPO/SAR de
+
+  29/06/2018 para maiores detalhes.
+
+  Contudo, ressalta-se que o meio aceitável de cumprimento para os requisitos de registro
+  de
+
+  manutenção acima não se aplica para Diretrizes de Aeronavegabilidade, uma vez que, nesse
+
+  caso, o meio aceitável de cumprimento previamente estabelecido pela ANAC na IS 39-001B,
+
+  ou revisão posterior, é a FCDA.
+
+  Uma vez que o parágrafo 91.407(a)(2) do RBHA nº 91, ou dispositivo que venha a substituí-
+
+  lo, proíbe a operação da aeronave após manutenção preventiva sem sua aprovação para
+
+  retorno ao serviço, a emissão e assinatura do registro de manutenção devem ser realizadas
+
+  antes do voo subsequente. A disposição presente no Art. 4°, §1°, da Resolução n° 457/2017
+
+  (“As informações registradas no diário de bordo devem ser assinadas pelo piloto em
+
+  comando pelo menos até o fim da jornada.”) não se aplica no caso de manutenção preventiva
+
+  realizada por piloto e registrada no diário de bordo da aeronave. As informações registradas,
+
+  referentes a manutenção preventiva deverão ser assinadas pelo piloto em comando antes do
+
+  voo subsequente, conforme parágrafo 91.407(a)(2) do RBHA nº 91 ou dispositivo
+
+  equivalente em RBAC que venha a substituí-lo.
+
+  No caso de diretriz de aeronavegabilidade, a própria FCDA é o registro primário de
+
+  manutenção, e pode ser mantida a bordo da aeronave até que a FCDA emitida possa ser
+
+  arquivada juntamente com as demais FCDA daquela aeronave, motor ou hélice. Nesse
+
+  momento, deve ser também realizado registro secundário na parte 3 da caderneta de
+
+  manutenção correspondente. Esse registro pode ser realizado pelo próprio piloto que emitiu
+
+  a FCDA, ou, alternativamente, por outra pessoa certificando a existência da FCDA e
+
+  referenciando-a. Ressalta-se a importância do arquivamento correto das FCDA e do risco de
+
+  mantê-las indefinidamente a bordo da aeronave, já que, se perdidos tais registros, não será
+
+  possível demonstrar o cumprimento das ações exigidas pelas diretrizes de
+
+  aeronavegabilidade aplicáveis e sujeitará o operador às penalidades descritas no item 5.2.13
+
+  desta IS.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- preventiva
+- aeronave
+- fcda
+- piloto
+- registro
+- bordo
+- aplica
+- caso
+- cumprimento
+- diario
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-012.md

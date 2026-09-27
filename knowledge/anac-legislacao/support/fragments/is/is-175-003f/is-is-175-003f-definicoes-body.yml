@@ -1,0 +1,82 @@
+id: is-is-175-003f-definicoes-body
+kind: is
+document: is-175-003f
+family: '175'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01 e 175, na IS
+  nº 175-001 e as seguintes definições:
+
+  Conhecimento de Transporte eletrônico - CT-e: documento emitido e armazenado eletronicamente,
+  de existência apenas digital, com o intuito de documentar operações e prestações do serviço
+  de transporte aéreo doméstico, cuja validade jurídica é garantida por uma assinatura eletrônica
+  qualificada do operador aéreo e pela autorização de uso por parte da administração tributária
+  da unidade federada do contribuinte, antes da ocorrência do fato gerador.
+
+  Conhecimento de Transporte eletrônico Simplificado - CT-e Simplificado: CT-e emitido de
+  maneira simplificada que pode ser utilizado apenas para as prestações de serviços de transporte
+  intermunicipal ou interestadual de mercadorias, que podem envolver diversos remetentes ou
+  destinatários, mas um único tomador de serviço, quando o operador aéreo poderá emitir, antes
+  do início da prestação de serviço de transporte, um único CT-e referente a todas as prestações
+  a serem realizadas para este tomador.
+
+  Contrato de transporte aéreo de carga: segundo o CBA, é o ato que obriga o empresário a
+  transportar carga, encomenda ou mala postal, por meio de aeronave, mediante pagamento.
+
+  Destinatário: qualquer pessoa, organização ou governo que seja intitulado a receber uma
+  remessa, conforme informado na nota fiscal ou no CT-e.
+
+  Documento Eletrônico de Transporte - DT-e: plataforma tecnológica digital que permitirá
+  unificar os documentos e as informações de obrigações administrativas exigidas em operações
+  de transporte de carga.
+
+  Embarcador: pessoa física ou pessoa jurídica que, por conta própria ou de outrem, mediante
+  a celebração do contrato de transporte aéreo, entrega ao operador aéreo a carga para seu
+  transporte. No caso desta IS, o embarcador é o remetente e/ou o tomador. Quando houver redespacho,
+  subcontratação ou transporte multimodal de cargas, entretanto, o embarcador é o expedidor
+  somente se não houver indicação do remetente ou do tomador descrito no CT-e. O embarcador
+  é responsável pela exatidão das informações e declarações constantes no CT-e.
+
+  Emitente: o prestador de serviço de transporte que emite o documento fiscal relativo à prestação
+  do serviço de transporte.
+
+  Manifesto de carga: o documento operacional, emitido pelo operador aéreo, que resume de
+  forma detalhada todos os conhecimentos aéreos para um voo específico em uma determinada
+  aeronave. O manifesto de carga internacional é disposto pelo Anexo 9 da Convenção de Aviação
+  Civil Internacional.
+
+  Manifesto de Documentos Fiscais eletrônico - MDF-e: o documento emitido e armazenado eletronicamente,
+  de existência apenas digital, para vincular os documentos fiscais utilizados na operação
+  e/ou prestação, à unidade de carga utilizada no transporte.
+
+  Recebedor: aquele que deve receber a carga do operador aéreo.
+
+  Remetente: a pessoa física ou a pessoa jurídica que promove a saída inicial da carga conforme
+  informado na nota fiscal ou no CT-e.
+
+  Tomador: a pessoa que contratualmente é a responsável pelo pagamento do serviço de transporte,
+  podendo ser o remetente, o destinatário ou um terceiro interveniente.'
+keywords:
+- artigos-perigosos
+- carga
+- transporte
+- aereo
+- pessoa
+- servico
+- definicoes
+- documento
+- operador
+- tomador
+- eletronico
+- embarcador
+- emitido
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

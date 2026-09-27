@@ -1,0 +1,33 @@
+id: is-is-91-001-l2-2-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: L2.2
+section_title: Navegação lateral (LNAV)
+subsection_id: a
+cite: L2.2(a)
+title: L2.2(a)
+text: a) Operações RNP AR DP requerem Sistema de Navegação Global por Satélites (GNSS) e Sistema
+  de Navegação Inercial (INS). A capacidade de navegação inercial garante que a aeronave seja
+  capaz de continuar a navegação em um procedimento RNP AR DP em caso de indisponibilidade
+  do sistema GNSS.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- sistema
+- gnss
+- inercial
+- aeronave
+- capacidade
+- capaz
+- caso
+- continuar
+- garante
+- global
+- indisponibilidade
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

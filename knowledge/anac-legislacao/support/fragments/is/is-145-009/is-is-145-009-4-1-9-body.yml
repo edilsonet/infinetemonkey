@@ -1,0 +1,47 @@
+id: is-is-145-009-4-1-9-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: 4.1.9
+section_title: 'Especificações Operativas - EO: documento emitido pela ANAC que descreve as
+  autorizações, categorias de certificação e limitações da OM.'
+subsection_id: body
+cite: 4.1.9
+title: 'Especificações Operativas - EO: documento emitido pela ANAC que descreve as autorizações,
+  categorias de certificação e limitações da OM.'
+text: '4.1.9 Especificações Operativas - EO: documento emitido pela ANAC que descreve as autorizações,
+  categorias de certificação e limitações da OM.
+
+  4.1.10 Função de Manutenção: uma etapa, ou uma série de etapas, no processo de execução
+  de manutenção, manutenção preventiva, ou alterações, que pode resultar na aprovação de um
+  artigo para retorno ao serviço.
+
+  4.1.11 Item de Inspeção Obrigatória - IIO: item de manutenção, tal qual definido pela empresa
+  de transporte regida pelos RBAC nº 121 e 135, que, se não executado adequadamente, ou executado
+  com materiais ou partes inadequadas, pode resultar em uma falha, mau funcionamento ou defeito,
+  ameaçando a operação segura da aeronave. Um IIO deve ser inspecionado por um inspetor treinado,
+  qualificado e certificado pela empresa de transporte. Essa certificação é a autorização
+  que a empresa de transporte emite para que uma pessoa possa executar uma inspeção em um
+  IIO. Quando a empresa autoriza uma pessoa de uma OM a executar inspeção em IIO para suas
+  aeronaves, essa pessoa deve estar listada em uma relação de pessoal técnico vinculado à
+  OM. O inspetor de IIO não pode ser a mesma pessoa que executou o serviço de manutenção.
+  (Ver seções 121.371 do RBAC nº 121 e 135.429 do RBAC nº 135 quanto aos detalhes deste requisito.)'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- certificacao
+- empresa
+- pessoa
+- autorizacoes
+- categorias
+- descreve
+- documento
+- emitido
+- especificacoes
+- inspecao
+- limitacoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

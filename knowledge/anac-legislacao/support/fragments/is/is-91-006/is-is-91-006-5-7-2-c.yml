@@ -1,0 +1,33 @@
+id: is-is-91-006-5-7-2-c
+kind: is
+document: is-91-006
+family: '91'
+section_id: 5.7.2
+section_title: Estas autorizações podem ser solicitadas concomitantemente, ficando a autorização
+  NAT-HLA condicionada à aprovação de ambas as outras.
+subsection_id: c
+cite: 5.7.2(c)
+title: 5.7.2(c)
+text: c) um outro sistema de navegação que utilize inputs de um ou mais Inertial Reference
+  System (IRS) ou outros sensores de navegação que cumpram os requisitos de desempenho para
+  a operação NAT-HLA.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- ambas
+- aprovacao
+- autorizacao
+- autorizacoes
+- concomitantemente
+- condicionada
+- cumpram
+- desempenho
+- estas
+- ficando
+- inertial
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-006.md

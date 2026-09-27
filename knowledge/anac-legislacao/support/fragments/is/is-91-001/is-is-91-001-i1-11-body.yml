@@ -1,0 +1,41 @@
+id: is-is-91-001-i1-11-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: I1.11
+section_title: Para os procedimentos RNP APCH com baro-VNAV, as cartas, seguindo os padrões
+  de procedimentos nos quais a trajetória vertical é especificada por um ângulo de planeio,
+  devem ser publicadas contendo informações de altitude/altura de liberação de obstáculos
+  de navegação lateral e vertical (LNAV/VNAV OCA(H)).
+subsection_id: body
+cite: I1.11
+title: Para os procedimentos RNP APCH com baro-VNAV, as cartas, seguindo os padrões de procedimentos
+  nos quais a trajetória vertical é especificada por um ângulo de planeio, devem ser publicadas
+  contendo informações de altitude/altura de liberação de obstáculos de navegação lateral
+  e vertical (LNAV/VNAV OCA(H)).
+text: 'I1.11 Para os procedimentos RNP APCH com baro-VNAV, as cartas, seguindo os padrões
+  de procedimentos nos quais a trajetória vertical é especificada por um ângulo de planeio,
+  devem ser publicadas contendo informações de altitude/altura de liberação de obstáculos
+  de navegação lateral e vertical (LNAV/VNAV OCA(H)).
+
+  I2. RNP APCH - PROCEDIMENTOS OPERACIONAIS'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- vertical
+- vnav
+- apch
+- altitude
+- altura
+- angulo
+- baro
+- cartas
+- contendo
+- especificada
+- informacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

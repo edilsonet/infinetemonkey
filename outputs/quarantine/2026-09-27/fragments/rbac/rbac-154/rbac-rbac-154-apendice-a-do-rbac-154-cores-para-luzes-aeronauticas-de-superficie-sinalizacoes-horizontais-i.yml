@@ -1,0 +1,80 @@
+id: rbac-rbac-154-apendice-a-do-rbac-154-cores-para-luzes-aeronauticas-de-superficie-sinalizacoes-horizontais-i
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: apendice-a-do-rbac-154-cores-para-luzes-aeronauticas-de-superficie-sinalizacoes-horizontais
+section_title: APÊNDICE A DO RBAC 154 - CORES PARA LUZES AERONÁUTICAS DE SUPERFÍCIE, SINALIZAÇÕES
+  HORIZONTAIS,
+subsection_id: i
+cite: apendice-a-do-rbac-154-cores-para-luzes-aeronauticas-de-superficie-sinalizacoes-horizontais(i)
+title: apendice-a-do-rbac-154-cores-para-luzes-aeronauticas-de-superficie-sinalizacoes-horizontais(i)
+text: '(i) No caso de curvas de isocandela elípticas ou circulares, as medições de cor devem
+  ser
+
+  feitas no centro e nos limites horizontais e verticais.
+
+  (ii) No caso de curvas de isocandela retangulares, as medições de cor devem ser feitas no
+
+  centro e nos limites das diagonais (cantos). A cor da luz também deve ser verificada na
+  curva de
+
+  isocandela mais externa para garantir que não exista nenhuma mudança de cor capaz de causar
+
+  confusão de sinal ao piloto.
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  NOTA 1 - Para a curva de isocandela mais externa, uma medição das coordenadas de cor deve
+  ser
+
+  feita e registrada para análise e julgamento de aceitabilidade pela autoridade competente.
+
+  NOTA 2 - Determinadas unidades de luz podem possuir uma aplicação de modo que estas possam
+
+  ser vistas e usadas por pilotos a partir de outras direções além daquela da curva de isocandela
+  mais
+
+  externa (por exemplo: luzes de barra de parada em posições de espera em pista significativamente
+
+  largas). Nesses casos, o operador do aeródromo deverá avaliar a aplicação real e, se necessário,
+
+  verificar a mudança de cor a alcances angulares além da curva mais externa.
+
+  (2) Caso o sistema visual de indicador de rampa de aproximação e outras unidades de luz
+
+  possuam um setor de transição de cor, esta deve ser medida em pontos de acordo com o parágrafo
+
+  A.2(c)(1), ressalvando-se que as áreas de cor devem ser tratadas separadamente e nenhum
+  ponto deve
+
+  estar dentro de 0,5° do setor de transição.
+
+
+  A.3 Cores para sinalizações horizontais, sinalizações verticais e painéis
+
+
+  NOTA 1 - As especificações de cores de superfície encontradas abaixo se aplicam apenas a
+
+  superfícies recentemente pintadas. As cores usadas para sinalizações horizontais, sinalizações
+
+  verticais e painéis que mudarem com o tempo precisam ser renovadas.'
+keywords:
+- seguranca-aeroportuaria
+- sinalizacoes
+- cores
+- horizontais
+- isocandela
+- curva
+- externa
+- caso
+- luzes
+- nota
+- superficie
+- verticais
+- aeronauticas
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

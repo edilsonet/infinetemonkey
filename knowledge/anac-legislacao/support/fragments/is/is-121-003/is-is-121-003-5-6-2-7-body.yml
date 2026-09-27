@@ -1,0 +1,48 @@
+id: is-is-121-003-5-6-2-7-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.6.2.7
+section_title: Itens representativos. Os itens representativos são itens selecionados que
+  representam um
+subsection_id: body
+cite: 5.6.2.7
+title: Itens representativos. Os itens representativos são itens selecionados que representam
+  um
+text: '5.6.2.7 Itens representativos. Os itens representativos são itens selecionados que
+  representam um
+
+  subconjunto inteiro de um fluxo de ações, de tal modo que se o item selecionado foi executado,
+  o
+
+  subconjunto inteiro também deve ter sido executado. Por exemplo, se todas as indicações
+  do
+
+  motor estiverem “no verde”, toda a sequência de partida do motor deve ter sido feita corretamente;
+
+  portanto, verificar as indicações do motor pode servir como um item representativo para
+  a
+
+  sequência de partida do motor.Data de emissão: 19 de janeiro de 2018 IS nº 121-003
+
+  Revisão A'
+keywords:
+- transporte-aereo
+- operacoes
+- representativos
+- motor
+- representam
+- selecionados
+- executado
+- indicacoes
+- inteiro
+- partida
+- sequencia
+- subconjunto
+- acoes
+- corretamente
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

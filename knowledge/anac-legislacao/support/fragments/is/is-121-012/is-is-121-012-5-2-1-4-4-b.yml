@@ -1,0 +1,66 @@
+id: is-is-121-012-5-2-1-4-4-b
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.4.4
+section_title: 'O detentor de certificado deve estabelecer procedimentos para garantir que,
+  antes de passar pelo ponto de entrada ETOPS:'
+subsection_id: b
+cite: 5.2.1.4.4(b)
+title: 5.2.1.4.4(b)
+text: 'b) conforme 121.631(e), o DOV, por meio de comunicação com o piloto em comando, (ou,
+  no caso de operações não regulares que não utilizem DOV, o piloto em comando) deve reavaliar
+  se os sistemas significativos ETOPS do avião estão funcionando normalmente e o potencial
+  impacto nas operações ETOPS.
+
+  Nota: o detentor de certificado deve estabelecer o quanto antes do ponto de entrada ETOPS
+  essa avaliação é realizada, de forma que se permita que as condições sejam efetivamente
+  cumpridas no momento da entrada na área de operações ETOPS.
+
+  5.2.1.4.5 Caso um aeródromo de alternativa ETOPS fique abaixo dos mínimos meteorológicos
+  de operação ou algum sistema significativo ETOPS tenha se tornado inoperante em voo, o detentor
+  de certificado deve recalcular seu plano de voo (incluindo a rota, o cálculo de combustível
+  e possível seleção de novos aeródromos de alternativa), emitindo novo despacho de voo, de
+  forma a permitir que o voo possa prosseguir a partir do ponto de entrada ETOPS cumprindo
+  as limitações aplicáveis. Nesse caso, devem ser utilizados os equipamentos de comunicação
+  disponibilizados pelo detentor de certificado, como voz ou datalink, para atualizar o plano
+  de voo. Se houver alteração dos aeródromos de alternativa em rota, o DOV deve transmitir
+  informes e previsões meteorológicas atualizadas desses aeródromos aos pilotos.
+
+  5.2.1.4.6 Caso, na situação descrita no parágrafo anterior, não seja possível obter aeródromos
+  de alternativa ETOPS que sustentem a rota ETOPS e estejam nos, ou acima dos, mínimos meteorológicos,
+  o voo não poderá prosseguir além do ponto de entrada ETOPS.
+
+  5.2.1.4.7 Após o ponto de entrada ETOPS, pode ocorrer uma degradação das condições meteorológicas,
+  ou mesmo outro fator que impeça o pouso, em algum aeródromo de alternativa ETOPS que sustentava
+  a rota. Nesse caso, o piloto em comando e o DOV devem buscar, sempre que possível, estabelecer
+  um outro aeródromo de alternativa ETOPS, dentro do tempo de desvio máximo autorizado de
+  forma a permitir o prosseguimento do voo ETOPS; ou ainda considerar o retorno do voo para
+  abandonar a área de operação ETOPS e, eventualmente, pouso em outro aeródromo de alternativa.
+  Tal decisão fica a cargo do piloto em comando e do DOV, sendo recomendado que o detentor
+  de certificado estabeleça diretrizes sobre qual a ação esperada, ou quais são os critérios
+  a serem considerados, nessa situação (por exemplo, minimizar o tempo de voo sob essa exposição).
+  Caso não seja possível prosseguir o voo estabelecendo novos aeródromos de alternativa ETOPS
+  ou não seja viável o retorno para abandonar a área ETOPS (por exemplo, se o tempo de voo
+  para efetuar esse retorno for maior do que o tempo para concluir o voo para o aeródromo
+  de destino), o voo pode prosseguir.'
+keywords:
+- transporte-aereo
+- operacoes
+- etops
+- alternativa
+- caso
+- entrada
+- aerodromo
+- aerodromos
+- certificado
+- detentor
+- ponto
+- comando
+- piloto
+- possivel
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

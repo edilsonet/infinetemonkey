@@ -1,0 +1,38 @@
+id: is-is-121-003-5-5-8-1-body
+kind: is
+document: is-121-003
+family: '121'
+section_id: 5.5.8.1
+section_title: Em determinados procedimentos alguns passos devem ser executados somente quando
+  condições
+subsection_id: body
+cite: 5.5.8.1
+title: Em determinados procedimentos alguns passos devem ser executados somente quando condições
+text: '5.5.8.1 Em determinados procedimentos alguns passos devem ser executados somente quando
+  condições
+
+  específicas ocorrerem. Tarefas condicionais são uma fonte frequente de confusão, principalmente
+
+  em procedimentos pouco utilizados. Esse problema pode ser mitigado ao manter sentenças bem
+
+  estruturadas, claramente formuladas e tão concisas quanto possível.'
+keywords:
+- transporte-aereo
+- operacoes
+- procedimentos
+- alguns
+- condicoes
+- determinados
+- executados
+- passos
+- somente
+- claramente
+- concisas
+- condicionais
+- confusao
+- especificas
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-003.md

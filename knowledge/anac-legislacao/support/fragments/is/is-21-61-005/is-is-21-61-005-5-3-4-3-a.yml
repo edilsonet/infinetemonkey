@@ -1,0 +1,36 @@
+id: is-is-21-61-005-5-3-4-3-a
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.4.3
+section_title: When non-safety related items are proposed, the associated justifications may
+  be limited to demonstrate the non-safety related nature of the item.
+subsection_id: a
+cite: 5.3.4.3(a)
+title: 5.3.4.3(a)
+text: (a) O relaxamento é proposto para itens, funções e/ou sistemas envolvidos em condições
+  de falhas críticas (hazardous) ou catastróficas, e a gravidade da condição de falha sob
+  a configuração MMEL não é mitigada por condições operacionais especiais, limitações ou procedimentos;
+  e
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- condicoes
+- related
+- safety
+- associated
+- catastroficas
+- condicao
+- configuracao
+- criticas
+- demonstrate
+- envolvidos
+- especiais
+- falha
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

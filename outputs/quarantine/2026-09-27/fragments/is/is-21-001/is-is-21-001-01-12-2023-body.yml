@@ -1,0 +1,2233 @@
+id: is-is-21-001-01-12-2023-body
+kind: is
+document: is-21-001
+family: '21'
+section_id: 01.12.2023
+section_title: 01.12.2023
+subsection_id: body
+cite: 01.12.2023
+title: 01.12.2023
+text: '01.12.2023
+
+
+  OBJETIVO
+
+  1.1. Esta Instrução Suplementar - IS fornece uma visão geral dos requisitos do RBAC 21 que
+  regem a certificação de tipo para aeronave, motor ou hélice, abrangendo desde seu processo
+  de obtenção até as responsabilidades após a emissão do Certificado de Tipo - CT. Informações
+  complementares podem ser encontradas na própria página de internet da ANAC, bem como na
+  Carta de Serviços ao Cidadão ou em cartilhas específicas.
+
+  1.2. Embora esta IS tenha sido elaborada considerando os casos mais tradicionais (RBAC 21.21),
+  as orientações aqui contidas podem ser utilizadas, respeitadas as devidas particularidades,
+  para outros casos especiais de certificação de tipo como, por exemplo, a categoria primária
+  (RBAC 21.24), a categoria restrita (RBAC 21.25), a provisória (Subparte C do RBAC 21) ou
+  a certificação suplementar de tipo (Subparte E do RBAC 21). Neste último caso, a ANAC publicou
+  especificamente a IS 21-004.
+
+  1.3 Esta IS é aplicável a Organizações de Projeto certificadas conforme a subparte J do
+  RBAC 21. Nestes casos, algumas particularidades descritas na IS 21.231-001 aplicam-se solidariamente.
+
+  REVOGAÇÃO
+
+  2.1.Esta IS substitui a IS nº 21-001 Revisão A.
+
+  FUNDAMENTOS
+
+  3.1. A Resolução ANAC nº 30/2008, em seu artigo 14, estabelece que a Instrução Suplementar
+  é norma de caráter geral, que objetiva esclarecer, detalhar e orientar a aplicação de requisito
+  previsto em RBAC. O parágrafo 1º do mesmo artigo determina que, para demonstrar o cumprimento
+  de requisito previsto em RBAC, o administrado poderá adotar os meios e procedimentos previamente
+  especificados em IS ou apresentar meio ou procedimento alternativo devidamente justificado,
+  exigindo-se, nesse caso, a análise e concordância expressa da ANAC. O meio ou procedimento
+  alternativo deve garantir nível de segurança igual ou superior ao estabelecido pelo requisito
+  aplicável ou concretizar o objetivo do procedimento normatizado em IS.
+
+  3.2. O art. 68 da Lei nº 7.565, de 19 de dezembro de 1986, define a emissão de Certificado
+  de Tipo e o vincula à emissão de certificado de aeronavegabilidade.
+
+  3.3. A Subparte B do RBAC 21 estabelece os requisitos procedimentais para a emissão de Certificados
+  de Tipo, sendo alguns deles também aplicáveis ao Certificado Suplementar de Tipo - CST e
+  emendas aos CT. Diferenças especificas dos CST são estabelecidas na Subparte E do RBAC 21.
+
+  3.4. A Subparte D do RBAC 21 determina condições para aprovar modificações ao projeto de
+  tipo, aplicáveis tanto para emendas de CT como aos CST.
+
+  3.5. A Subparte J do RBAC 21 estabelece requisitos para Certificação de Organização de Projeto.
+
+  DEFINIÇÕES
+
+  4.1. Aeronavegabilidade continuada: é conjunto sistemático de ações que abrange os processos
+  que requerem que todas as aeronaves fabricadas conforme as informações que constituem o
+  certificado de tipo emitido ou suas modificações aprovadas estejam conforme o projeto aprovado
+  e que cumpra com os demais requisitos de manutenção e de operação aplicáveis a estas aeronaves,
+  visando a manutenibilidade da operação segura e continuada durante a vida operacional destas
+  aeronaves.
+
+  4.2. Base de Certificação: é o conjunto de requisitos de aeronavegabilidade e de proteção
+  ambiental, estabelecido conforme a seção RBAC 21.17, a partir dos RBAC aplicáveis a determinado
+  projeto de tipo com os quais se demonstra o cumprimento. O nível mínimo de segurança e proteção
+  ambiental é determinado pela emenda do RBAC aplicável, o que significa que cada projeto
+  de tipo tem um nível distinto, correspondente à sua base de certificação.
+
+  4.3. Certificado de Tipo: trata-se de uma aprovação de projeto emitida pela ANAC quando
+  o requerente demonstra cumprimento com os requisitos aplicáveis e a ANAC considera que o
+  projeto de tipo e o produto satisfazem os requisitos aplicáveis. Conforme definido pela
+  seção 21.41 do RBAC 21, o Certificado de Tipo, além do certificado em si, é composto pelo
+  projeto de tipo, pelas limitações operacionais, pela base de certificação, pela especificação
+  de tipo e por quaisquer outras condições ou limitações estabelecidas para o produto de acordo
+  com aquele regulamento.
+
+  4.4. Especificação de tipo: também conhecido pelo seu acrônimo na língua inglesa “TCDS -
+  Type Certificate Data Sheet”, é um documento que compõe o CT e é publicado e disponibilizado
+  pela ANAC. A especificação de tipo sumariza as características relevantes do produto sob
+  o ponto de vista de aeronavegabilidade e proteção ambiental e traz, ainda, condições e limitações
+  necessárias para o cumprimento com os requisitos presentes na base de certificação do produto.
+
+  4.5. Limitações operacionais: são as limitações relativas à operação do produto definidas
+  durante o processo de certificação de tipo em cumprimento aos requisitos aplicáveis da base
+  de certificação. Estas limitações são aquelas definidas como tal nos regulamentos aplicáveis
+  (vide RBAC 23, 25, 27, 29, 31, 33 e 35) e, portanto, sua abrangência e necessidade de disponibilização
+  à tripulação está determinada pelos mesmos. De acordo com a seção 21.41 do RBAC 21, essas
+  limitações consistem em um dos elementos do certificado de tipo.
+
+  4.6. Produto: aeronave, motor ou hélice de aeronave.
+
+  4.7. Projeto de tipo: trata-se das definições, no âmbito da engenharia, que caracterizam
+  um produto particular. O projeto de tipo, tal como o Certificado de Tipo, é composto pelas
+  seguintes informações, definidas na seção RBAC 21.31::
+
+  a) Desenhos e especificações do produto. São as informações necessárias para caracterizar
+  o produto (incluindo sua configuração). Tais características são aquelas sujeitas ao cumprimento
+  com a base de certificação. Essas informações são aquelas relativas a formatos, dimensões,
+  funcionalidades, materiais, interfaces e meios de fabricação. Adicionalmente, incluem agrupamentos
+  lógicos (listagens) de registros (por exemplo, desenhos, especificações, modelos etc.) que
+  contenham tais informações técnicas. É interessante destacar que o projeto de tipo consiste
+  nessas informações e não o documento que as contém, sendo que a forma é de livre escolha
+  pelo requerente (no caso de desenhos, por exemplo, podem estar em formato 2D, 3D ou como
+  modelos interativos). Porém, a ANAC espera que essas informações sejam claras e compatíveis
+  entre si, e que estejam adequadamente organizadas e estruturadas, pois isso facilita seu
+  exame
+
+  b) Informações sobre dimensões, materiais e processos necessárias à definição da resistência
+  estrutural do produto;
+
+  c) Seção de limitações de aeronavegabilidade das instruções para aeronavegabilidade continuada,
+  como requerido pelos RBAC aplicáveis, ou como de outra forma requerido pela ANAC, ou ainda,
+  como especificado nos critérios de aeronavegabilidade aplicáveis para classes especiais
+  de aeronaves de acordo com o parágrafo RBAC 21.17(b); e
+
+  d) Quaisquer outros dados necessários para permitir, por comparação, a determinação da aeronavegabilidade
+  e das características de proteção ambiental (quando aplicável) de produtos posteriores do
+  mesmo tipo. Geralmente consistem em dados para determinar a conformidade com projeto aprovado
+  visando a emissão de certificados de aeronavegabilidade previstos na Subparte H do RBAC
+  21.
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  5.1. Visão geral
+
+  5.1.1. Emitido de acordo com a seção RBAC 21.21, o Certificado de Tipo é o instrumento pelo
+  qual a ANAC reconhece que o projeto de tipo da aeronave, motor ou hélice satisfaz os requisitos
+  da base de certificação e que, no caso de aeronave, nenhum aspecto ou característica torna
+  a aeronave insegura para a categoria na qual a certificação foi requerida.
+
+  5.1.2. O Certificado de Tipo é uma aprovação de projeto e é uma das condições para que uma
+  aeronave obtenha um Certificado de Aeronavegabilidade padrão OACI - Organização de Aviação
+  Civil Internacional, ou seja, um certificado que seja reconhecido internacionalmente de
+  acordo com a Convenção Internacional de Aviação Civil (ou Convenção de Chicago) (referência:
+  RBAC 21.183).
+
+  NOTA - A seção RBAC 21.183 requer que a aeronave tenha um projeto aprovado. No caso de uma
+  aeronave de projeto nacional, essa aprovação ocorre através de um Certificado de Tipo emitido
+  pela autoridade aeronáutica brasileira. No caso de aeronave de projeto estrangeiro, normalmente
+  há um Certificado de Tipo brasileiro correspondente, mas há exceções em que a ANAC aceita
+  o certificado emitido pela autoridade do país que tem jurisdição sobre o detentor do Certificado
+  de Tipo (para saber mais sobre tais exceções, consulte a Instrução Suplementar 21-010).
+
+  5.1.3. Os procedimentos e requisitos adotados pela ANAC em um processo de certificação de
+  tipo são compatíveis com aqueles exigidos por autoridades de aviação civil em diversos mercados
+  internacionais de produtos aeronáuticos, o que contribui para a maior aceitabilidade dos
+  produtos aeronáuticos nacionais certificados pela ANAC visando sua exportação.
+
+  5.1.4. A obtenção de um Certificado de Tipo é resultado de um processo interativo e iterativo
+  entre requerente e ANAC com diversas atividades de engenharia, que abrangem um número de
+  análises, testes, ensaios e inspeções que variam de acordo com a complexidade do projeto
+  da aeronave, motor ou hélice, podendo atingir uma ordem de grandeza de dezenas e até mesmo
+  de milhares de atividades.
+
+  5.1.5. No Brasil, qualquer pessoa, física ou jurídica, pode requerer um Certificado de Tipo.
+  Para obtenção deste certificado, além de submeter o requerimento formal conforme a seção
+  RBAC 21.15, o requerente deverá, conforme exigido pela seção RBAC 21.20, demonstrar o cumprimento
+  com todos os requisitos aplicáveis (RBAC 21.17), inclusive com a realização de ensaios e
+  inspeções, conforme previsto nas seções RBAC 21.33 e 21.35, fornecendo à ANAC os meios pelos
+  quais o cumprimento tenha sido demonstrado, bem como uma declaração de que o projeto de
+  tipo e o produto cumprem tais requisitos.
+
+  5.1.6. Além dessas informações e da declaração, o requerente deverá submeter também os documentos
+  previstos no parágrafo RBAC 21.21(b), e nas seções 21.39 e 21.53 do RBAC 21.
+
+  5.1.7. Por fim, a seção RBAC 21.21 estabelece que o Certificado de Tipo será emitido se
+  a ANAC, após examinar o projeto de tipo e realizar todos os ensaios e inspeções necessários,
+  considerar que o projeto de tipo e o produto satisfazem os requisitos aplicáveis, que quaisquer
+  disposições de aeronavegabilidade não cumpridas foram compensadas por fatores que fornecem
+  um nível de segurança equivalente e que, no caso de uma aeronave, nenhum aspecto ou característica
+  torna a aeronave insegura para a categoria na qual a certificação foi requerida.
+
+  5.1.8. O processo de obtenção de um Certificado de Tipo é um exercício essencialmente técnico
+  com escopo voltado ao projeto de tipo e ao produto a ser certificado. Embora qualquer pessoa
+  possa requerer tal certificado e que o RBAC 21 não estabeleça pré-requisitos quanto à capacidade
+  do requerente, a ANAC avalia a competência do requerente, instaurada em um projeto específico,
+  pois, para determinar seu nível de envolvimento, ela busca ter uma percepção de como tal
+  competência pode reduzir a probabilidade de alguma falha em cumprir com algum requisito
+  de certificação.
+
+  5.1.9. Ao avaliar a competência, a ANAC considera suas impressões obtidas ao longo do programa
+  em certificação. Também se considera o grau de definição e maturidade dos processos estabelecidos
+  pelo requerente naquele projeto (processos de demonstração, guarda e registro de demonstrações,
+  conformidade e execução de ensaios e inspeções) ou qualquer outra informação, independentemente
+  da fonte, que permita uma avaliação da competência do requerente.
+
+  5.1.10. Embora a competência do requerente seja avaliada no âmbito do projeto específico,
+  é importante observar também que isso não o exime de cumprir com todas as suas responsabilidades
+  previstas na legislação vigente, como aquelas estabelecidas nas seções 21.49, 21.50 ou 21.99
+  do RBAC 21. A ANAC poderá fiscalizar o detentor do certificado de tipo no cumprimento de
+  suas obrigações e aplicar as sanções cabíveis caso seja observado um não cumprimento com
+  alguma de suas responsabilidades definidas nos regulamentos vigentes.
+
+  NOTA - No caso de organizações de projeto certificadas segundo a Subparte J do RBAC 21,
+  é importante notar que essa avaliação de competência é contínua e não se restringe ao projeto
+  específico (ref. RBAC 21.257-I(a)).
+
+  5.1.11. Resumidamente, o processo consiste nas etapas abaixo, que serão detalhadas ao longo
+  desta Instrução Suplementar:
+
+  a) Requerimento;
+
+  b) Análise das informações do requerimento;
+
+  c) Recolhimento da Taxa de Fiscalização da Aviação Civil - TFAC;
+
+  d) Avaliação técnica;
+
+  e) Consolidação final;
+
+  f) Emissão do Certificado de Tipo.
+
+  5.2. Quem pode e como fazer o requerimento
+
+  5.2.1. Qualquer pessoa interessada pode requerer formalmente um Certificado de Tipo, segundo
+  a seção RBAC 21.13. Entretanto, por se tratar de um processo dependente de conhecimento
+  especializado de engenharia, é fortemente recomendado que essa pessoa (aqui chamada de requerente)
+  tenha qualificação e experiência técnica compatível com a complexidade do produto a ser
+  submetido para certificação. Quanto mais complexo é o produto, maior é a importância de
+  possuir uma equipe multidisciplinar que abranja as principais características de tal produto
+  (engenheiros especializados em estruturas, desempenho em voo, qualidade de voo, sistemas
+  elétricos, eletrônicos, hidráulicos, pneumáticos, pressurização, sistemas propulsivos, etc.).
+
+  5.2.2. O requerimento formal para obtenção do Certificado de Tipo (conforme previsto na
+  seção RBAC 21.15) pode ser feito através do preenchimento do formulário F-101-11, na sua
+  versão mais atual (ou uma carta com as mesmas informações do formulário). Esse requerimento,
+  cuja data de protocolo é a referência para a definição da base de certificação (conforme
+  será explicado mais à frente), deve ser acompanhado de:
+
+  a) No caso de aeronave, desenhos de três vistas do produto e de informações básicas preliminares
+  disponíveis;
+
+  b) No caso de motor de aeronave, descrição das características de projeto, características
+  de operação e limitações operacionais propostas do respectivo projeto.
+
+  5.2.3. No caso de uma pessoa jurídica, o requerimento deve ser assinado por uma pessoa física,
+  representante legal do requerente e com poderes para tal. Sua posição na empresa também
+  deve ser identificada no requerimento.
+
+  5.2.4. Adicionalmente, para facilitar a análise inicial da ANAC quanto à natureza do produto
+  a ser certificado e possível volume de trabalho, o requerente fornecerá, preferencialmente
+  no ato do requerimento, as informações disponíveis sobre:
+
+  a) Descrição sumária do produto (incluindo métodos construtivos e dimensões principais);
+
+  b) Limitações preliminares;
+
+  c) Sumário dos dados de desempenho;
+
+  d) Sumário de materiais e processos;
+
+  e) Proposta preliminar de base de certificação, assim como uma visão geral da estratégia
+  de demonstração de cumprimento; e
+
+  f) Outras informações relevantes para familiarização e avaliação da aeronave.
+
+  5.2.5. Caso a pessoa queira realizar a certificação de tipo como uma organização de projeto
+  certificada conforme a subparte J do RBAC 21, o requerimento deve incluir uma solicitação
+  formal de certificação como tal, uma proposta de Termos da Certificação, conforme a seção
+  21.251-I, o manual estabelecido conforme a seção 21.243-I e demais documentos solicitados
+  pela subparte do regulamento em referência. Caso a organização já seja certificada pela
+  mesma subparte do RBAC 21, deverá apresentar as informações descritas anteriormente, caso
+  os procedimentos aceitos não descrevam as informações que devem ser apresentadas.
+
+  NOTA - A IS 21.231-001 estabelece um meio aceitável de cumprimento com os requisitos da
+  subparte J para a certificação inicial como organização de projeto. Recomenda-se que o processo
+  de certificação como Organização de Projeto seja iniciado com a etapa de solicitação prévia,
+  antecipadamente ao requerimento para a certificação de tipo, para que as etapas para certificação
+  como Organização de Projeto descritas na IS 21.231-001 sejam respeitadas.
+
+  5.2.6. É desejável que potenciais requerentes estejam familiarizados com o processo de certificação.
+  Assim, antes de requerer formalmente um Certificado de Tipo, recomenda-se que o interessado
+  entre em contato com a ANAC e faça uma apresentação de seu projeto. O contato inicial fornecerá
+  uma oportunidade para desenvolver o conhecimento do processo de certificação de tipo a ser
+  aplicado. A ANAC pode prover materiais de orientação, políticas utilizadas, interpretações
+  regulatórias e responderá quaisquer dúvidas, mesmo antes da abertura formal do processo.
+  Quanto mais cedo o requerente contatar a ANAC, melhor será a chance de o projeto ser certificado
+  dentro das expectativas.
+
+  5.2.7. As instruções mais detalhadas, como formas de envio e endereço atualizado, podem
+  ser encontradas na Carta de Serviços ao Cidadão ou em cartilhas específicas, disponíveis
+  na página de internet do Governo Federal (www.gov.br/anac/pt-br).
+
+  5.3. Análise inicial
+
+  5.3.1. Tendo recebido o requerimento, a ANAC definirá um ponto focal de sua equipe, que
+  será responsável por coordenar as ações com o requerente. Este ponto focal é chamado de
+  Gerente do Programa de Certificação - GPC.
+
+  5.3.2. Ao final dessa análise inicial, a ANAC envia um ofício ao requerente, orientando
+  sobre:
+
+  a) A aceitação do requerimento e o número do processo;
+
+  b) O nome do GPC designado, bem como seus dados de contato;
+
+  c) A definição do código da TFAC e sua forma de recolhimento; e
+
+  d) Orientações técnicas preliminares, incluindo possíveis considerações sobre a base de
+  certificação.
+
+  5.3.3. A partir do envio do ofício acima, a ANAC fica no aguardo da resposta e da confirmação
+  do recolhimento da TFAC, antes de dar seguimento ao processo.
+
+  5.4. Avaliação técnica
+
+  5.4.1. Informações gerais
+
+  5.4.1.1. Após a confirmação do recolhimento da TFAC, a avaliação técnica do produto e de
+  seu projeto de tipo se inicia. Essa avaliação consiste em centenas e, dependendo das dimensões
+  e da complexidade do produto, milhares de análises e atividades de engenharia as quais representam
+  a parte mais longa e requer grande esforço técnico em todo o processo.
+
+  5.4.1.2. A avaliação técnica pode ser entendida como um processo composto por diversos subprocessos
+  que ocorrem em paralelo, pois eles estão agrupados com base em suas particularidades como
+  por exemplo, especialidade de engenharia. Didaticamente, pode-se dizer que são múltiplos
+  subprocessos se desenvolvendo e atingindo distintos níveis de maturidade, onde cada um atravessa
+  as etapas no diagrama a seguir, as quais se retroalimentam entre si quando necessário, devido
+  ao dinamismo do processo:
+
+
+  Diagrama simplificado do processo de avaliação técnica durante a certificação de tipo
+
+
+  5.4.1.3. Durante a investigação de cumprimento, a ANAC busca determinar se o projeto e o
+  produto satisfazem os requisitos da base de certificação. Neste ponto, é importante ter
+  em mente a diferença entre atividades de demonstração, de investigação e de determinação
+  quanto ao cumprimento com os requisitos.
+
+  a) A demonstração é função do requerente, de acordo com o parágrafo 21.20(a) do RBAC 21,
+  e consiste na execução de qualquer ensaio, análise, declaração, inspeção ou outra atividade
+  necessária para demonstrar que o projeto e o produto cumprem com os requisitos definidos
+  na base de certificação;
+
+  b) A investigação de cumprimento é ato instrumental da Agência, que se desenvolve de acordo
+  com os parágrafos 21.21(b)(1) ou 21.257-I(b) do RBAC 21, e consiste em atividades de exame
+  do projeto de tipo, realização de seus ensaios/inspeções e análises, com o fim de avaliar
+  se o projeto e o produto satisfazem os requisitos da base de certificação.
+
+  c) A determinação é função e ato final da Agência de emitir o certificado de tipo, de acordo
+  com o parágrafo pertinente da seção 21.21 do RBAC 21, e se baseia nas informações levantadas
+  durante atividades de investigação de cumprimento com os requisitos.
+
+  5.4.1.4. A demonstração de cumprimento e a investigação de cumprimento com requisitos podem
+  eventualmente provocar a repetição de ensaios e de inspeções. Para mitigar essas repetições,
+  uma prática bastante consolidada é o planejamento prévio das atividades a serem realizadas
+  pelo requerente e pela ANAC, que busca otimizar as atividades e, por parte da ANAC, permite
+  que ela prepare seus recursos para o atendimento da demanda. Esse planejamento é conhecido
+  como plano de certificação.
+
+  5.4.1.5. Em busca de eficiência, a ANAC procura otimizar seus recursos, priorizando sua
+  avaliação técnica dando maior atenção às premissas e metodologias empregadas pelo requerente.
+  Não se espera que a ANAC confira cada cálculo feito e cada dado obtido pelo requerente,
+  ou verifique que cada peça ou bit de um software funcione adequadamente em 100% do tempo
+  e em todo o envelope operacional.
+
+  5.4.1.6. Dado o volume de atividades, de informações e de complexas interações entre as
+  especialidades, é importante ressaltar que a produtividade das atividades durante as avaliações
+  técnicas é maior quanto maior for:
+
+  a) A qualificação e experiência da equipe técnica do requerente, em processos de certificação
+  de tipo;
+
+  b) A eficiência e qualidade da comunicação verbal e escrita entre as equipes da ANAC e da
+  engenharia do requerente.
+
+  5.4.1.7. No início do programa, é importante que protocolos de comunicação sejam acordados
+  entre a ANAC e o requerente. É esperado que esses protocolos incluam a identificação dos
+  canais de comunicação, a concordância em como eles podem ser acessados, e principalmente,
+  meios para que assegurem informações objetivas e claras.
+
+  a) Diferentes meios de comunicação entre ANAC e requerente podem ser utilizados, dependendo
+  da relevância e da natureza da informação e da necessidade de agilidade do processo. Como
+  exemplos, podemos citar e-mails, ligações telefônicas, apresentações, reuniões presenciais,
+  ofícios, cartas, relatórios etc;
+
+  b) O volume de interações entre a ANAC e o requerente torna a comunicação um aspecto fundamental
+  para o sucesso do programa, pois a agilidade e a qualidade da troca de informações afetam
+  significativamente o progresso das atividades de certificação;
+
+  c) Por outro lado, há necessidade de registrar as informações consideradas críticas ou relevantes,
+  a fim de se preservar o histórico, especialmente face às demandas de aeronavegabilidade
+  continuada e de modificações futuras;
+
+  d) Assim, é importante haver um equilíbrio entre a comunicação ágil e eficaz e a necessidade
+  de registro documental (formalismo), sendo que este último tem sua relevância, mas também
+  um custo, tanto para o requerente como para a ANAC.
+
+  5.4.2. Submissão de informações
+
+  5.4.2.1. É importante que o requerente informe à ANAC as características relevantes do produto,
+  a fim de permitir que a Agência consiga determinar os requisitos aplicáveis, entender as
+  estratégias propostas de demonstração, identificar pontos críticos ou itens de atenção,
+  definir seu nível de envolvimento e avaliar se o produto satisfaz os requisitos definidos.
+  Portanto, de acordo com os parágrafos RBAC 21.20(a) e 21.21(b), o requerente deve submeter
+  os meios de demonstração de cumprimento, o projeto de tipo, os relatórios de ensaios e os
+  cálculos necessários para demonstrar cumprimento com os requisitos aplicáveis.
+
+  5.4.2.2. Para fins desta IS, tais informações a serem submetidas pelo requerente compreendem
+  dois grupos:
+
+  a) Informações sujeitas à aprovação da ANAC, tais como aquelas descritivas do projeto de
+  tipo, enquadradas na definição da seção RBAC 21.31, as limitações operacionais ou quaisquer
+  outras informações que o regulamento venha requerer aprovação como, por exemplo, certas
+  partes do manual de voo; e
+
+  b) Informações não sujeitas à aprovação da ANAC, tais como aquelas de demonstração de cumprimento
+  com os requisitos da base de certificação, ou aquelas requeridas por seções como a 21.39
+  e 21.53 do RBAC 21.
+
+  5.4.2.3. Quanto às informações com a finalidade de descrever o projeto de tipo:
+
+  a) O nível de detalhe necessário é proporcional ao estágio do processo.
+
+  I - No início do programa, o detalhamento pode ser menor, porém suficiente para que a ANAC
+  consiga determinar os requisitos aplicáveis. Deste modo, normalmente as principais características
+  do produto, bem como as premissas de projeto costumam ser um bom ponto de partida;
+
+  II - Na fase de investigação de cumprimento, normalmente há necessidade de maiores detalhes
+  do projeto, pois muitas vezes a ANAC só consegue realizar tal avaliação se conhecer pormenores
+  de alguns componentes ou partes do produto.
+
+  b) Como é natural que o projeto de tipo sofra melhorias e correções durante a campanha de
+  certificação, é importante que o requerente mantenha um controle das alterações, atualizando
+  as informações descritivas relevantes do projeto de tipo, e informe a ANAC sempre que alguma
+  alteração tenha potencial para demandar uma revisão da base de certificação, de nível de
+  envolvimento, ou possa impactar uma atividade de investigação de cumprimento realizada ou
+  planejada pela ANAC;
+
+  c) Além disso, é recomendável que o requerente informe os tipos previstos de operação (operação
+  privada, transporte aéreo público, carga externa, pulverização agrícola etc.) e o tipo de
+  programa de manutenção ao qual o produto será submetido, para garantir sua aeronavegabilidade
+  continuada.
+
+  5.4.2.4. É esperado que as informações e dados a serem apresentados para a ANAC tenham robustez
+  e rastreabilidade. O formato de apresentação de informações fica a critério do requerente.
+  Documentos contendo informações relevantes ou críticas devem ser protocolados conforme instrução
+  vigente da ANAC. Quanto aos demais casos, o requerente deve seguir as rotinas previamente
+  acordadas com a ANAC para sua submissão.
+
+  5.4.2.5. O meio preferencial para submissão de informações é o eletrônico e poderá consistir
+  no envio ou na concessão de acesso, como por exemplo, através de um sistema. Neste caso,
+  as formas de acesso às informações serão acordadas com a ANAC.
+
+  5.4.2.6. No caso das informações relativas à demonstração, normalmente estas são apresentadas
+  na forma de relatórios de certificação, mas outros tipos de documentos também podem ser
+  utilizados. As seguintes orientações são importantes ao requerente registrar uma demonstração:
+
+  a) Independente do formato, quanto melhor a organização das informações prestadas, mais
+  eficiente tende a ser o andamento da investigação de cumprimento;
+
+  b) É esperado que o requerente apresente e esclareça os inter-relacionamentos das evidências
+  de forma didática, clara, suficientemente completa, lógica e coerente. Idealmente, um registro
+  bem elaborado permite que a ANAC entenda o raciocínio rapidamente e chegue a mesma conclusão
+  do requerente sem maiores esforços;
+
+  c) É recomendável que as informações de demonstração sejam apresentadas tão logo estejam
+  completas, de tal forma que a ANAC tenha condições de executar suas atividades dentro de
+  seu planejamento.
+
+  5.4.2.7. Embora a regra geral seja a transparência, conforme estabelece a Lei de Acesso
+  à Informação (Lei 12.527, de 18 de novembro de 2011) e o Decreto n° 7.724, de 16 de maio
+  de 2012, que regulamenta tal lei, cabe ressaltar que aquelas informações apresentadas à
+  ANAC pelo requerente durante a certificação de tipo (enquadrados nas leis federais que protegem
+  a livre concorrência, a propriedade industrial, o sigilo industrial e afins) são consideradas
+  exceções. Assim, são consideradas sigilosas e não classificadas, nos termos da Instrução
+  Normativa - IN 70/2013 da ANAC, não podendo por esta razão serem divulgadas ou utilizadas
+  por terceiros, a não ser com expressa autorização de seu detentor.
+
+  NOTA - Em casos específicos, o requerente pode estar submetido a regras contratuais de proteção
+  de certas informações. Dois exemplos disso são a certificação de tipo civil de uma aeronave
+  com finalidade militar e componentes sujeitos à regulamentação estadunidense do International
+  Traffic in Arms Regulations - ITAR. Estes casos específicos devem ser informados à ANAC
+  tão logo quanto possível, para que a ANAC e o requerente possam acordar procedimentos específicos
+  para manuseio apropriado de tais informações, como a segregação, controle de acesso, assinatura
+  de termos de responsabilidade, conforme os entendimentos jurídicos correntes.
+
+  5.4.3. Plano de certificação
+
+  5.4.3.1. O Plano de Certificação é o conjunto de documentos que descreve como o requerente
+  e a autoridade planejam realizar suas respectivas atividades.
+
+  5.4.3.2. O plano de certificação emitido pelo requerente é conhecido como Plano de Certificação
+  do Requerente - PCR e o da autoridade como Plano de Envolvimento da Autoridade - PEA. O
+  Plano de Certificação Específico do Programa - PCEP, por sua vez, é um plano conjunto do
+  requerente e autoridade, onde é estabelecida a metodologia a ser seguida em um programa
+  específico.
+
+  5.4.3.3. Os documentos, quando emitidos, permitem que o requerente e a autoridade identifiquem
+  os marcos relevantes, as atividades esperadas, colaborem na eliminação de atividades repetidas
+  e de outras ineficiências do processo, e organizem seus recursos.
+
+  5.4.4. Plano de Certificação do Requerente
+
+  5.4.4.1. Trata-se de um planejamento criado pelo requerente, trazendo de forma geral, o
+  plano para a realização das principais atividades (milestones) que o requerente julga serem
+  necessárias para a demonstração de cumprimento com os requisitos.
+
+  5.4.4.2. Embora sua confecção, atualização ou aceitação não seja requerida, o Plano de Certificação
+  do Requerente - PCR é uma prática reconhecida como fator de sucesso de um processo de certificação,
+  tanto quanto a custo quanto a atendimento de prazos. A coordenação das atividades do mesmo
+  com aquelas previstas no Plano de Envolvimento da Autoridade, permite que o processo de
+  certificação ocorra de maneira mais eficiente.
+
+  5.4.4.3. Espera-se que o PCR tenha uma natureza de um planejamento de alto nível, abrangendo
+  as principais atividades do requerente, e com o objetivo de facilitar a coordenação deste
+  planejamento estratégico com aquele feito pela autoridade. Portanto, não é esperado que
+  este documento seja demasiadamente detalhado. Tipicamente, o PCR traz as seguintes informações:
+
+  a) Uma descrição sucinta das características mais relevantes do projeto de tipo tendo em
+  vista o cumprimento com os requisitos da base de certificação;
+
+  b) Uma identificação dos requisitos aplicáveis dos RBAC de aeronavegabilidade e de proteção
+  ambiental, incluindo emendas de referência;
+
+  c) Uma identificação de potenciais isenções, condições especiais de acordo com a seção RBAC
+  21.16 e níveis equivalentes de segurança;
+
+  d) Uma identificação dos meios de cumprimento (por exemplo, análises, ensaios e inspeções)
+  planejados pelo requerente, relativos aos requisitos identificados conforme os itens b)
+  e c) dessa seção. No caso de demonstração de cumprimento mais complexa, é importante descrever
+  a estratégia de como os meios de cumprimento serão utilizados em sua produção; e
+
+  e) Um cronograma com os principais eventos (milestones) na atividade de demonstração de
+  cumprimento com os requisitos. Ao longo do processo, o detalhamento do cronograma pode ser
+  feito através do correspondente protocolo acordado entre requerente e autoridade.
+
+  NOTA 1: Os protocolos de comunicação referentes às atividades do PCR, quando utilizado,
+  serão acordados entre o requerente e a autoridade, normalmente em PCEP, estabelecendo como
+  e quais as informações mais detalhadas sobre as atividades de demonstração, como datas e
+  localidade, serão fornecidas e atualizadas.
+
+  NOTA 2: Uma vez que um cronograma tenha sido acordado, a ANAC prepara seus recursos humanos,
+  administrativos e logísticos. Em função disso, a ANAC espera que o requerente persiga as
+  datas acordadas, pois eventuais atrasos podem comprometer esse planejamento e, no final
+  das contas, colocar em risco a data final da certificação.
+
+  5.4.4.4. A fim de facilitar a organização da campanha de certificação, a ANAC espera que
+  o PCR seja apresentado ainda no início do programa de certificação, principalmente para
+  projetos de maior magnitude e/ou complexidade.
+
+  5.4.5. Plano de Certificação Específico do Programa
+
+  5.4.5.1. O PCEP é um plano opcional, acordado entre o requerente e a autoridade, o qual
+  estabelece os processos de trabalho e define a metodologia que será utilizada para o planejamento
+  e a troca de informações para que o processo de certificação seja eficiente. Os métodos
+  contemplados no PCEP dizem respeito a um programa, que pode abranger um projeto ou um conjunto
+  de projetos certificados sob o mesmo Certificado de Tipo (i.e. novos modelos e modificações
+  ao projeto de tipo).
+
+  5.4.5.2. Nesse contexto, o PCEP normalmente contém:
+
+  a) Protocolos de comunicação das atividades de demonstração e verificação entre o requerente
+  e a autoridade, incluindo protocolos para informações sobre atualizações dos mesmos;
+
+  b) Caso distinto desta IS, o critério para o estabelecimento do Nível de Envolvimento específico
+  para aquele programa;
+
+  c) Grau de sigilo das informações submetidas e processos de comunicação; e
+
+  d) Qualquer meio alternativo aos meios de cumprimentos estabelecidos nesta IS para cumprimento
+  com os requisitos do RBAC 21.
+
+  5.4.6. Termo de Mútuo Entendimento - TME
+
+  5.4.6.1. À medida em que o requerente adquire experiência e desenvolve e certifica outros
+  projetos, certas atividades junto à ANAC se tornam cotidianas e, nesses casos, surgem oportunidades
+  para otimizar os procedimentos nessa interface entre ANAC e requerente. São exemplos dessas
+  atividades as aprovações de pequenas modificações e de reparos, processamento de grandes
+  modificações, revisões de publicações como manual de voo, MMEL e ALIs, protocolos de comunicação,
+  formatos de documentos e formulários, tratativas junto às autoridades de validação, critérios
+  de classificação, gestão de credenciados, manuseio de informações restritas, diretrizes
+  conjuntas de conduta (“compliance”), protocolos para acesso de informações visando a aeronavegabilidade
+  continuada, etc.
+
+  5.4.6.2. Quando o requerente e a ANAC identificam esses benefícios mútuos, eles podem, se
+  assim desejarem, estabelecer, documentar e formalizar esses entendimentos otimizados sob
+  um Termo de Mútuo Entendimento. Esse termo, assinado conjuntamente pelos representantes
+  legais da ANAC e do requerente, se torna o protocolo que descreve como as atividades devem
+  ser desenvolvidas por ambas as partes naquele escopo específico.
+
+  5.4.7. Nível de Envolvimento
+
+  5.4.7.1. O Nível de Envolvimento - NDE é um dos elementos do PEA que, dada a natureza do
+  processo, tem por objetivo determinar suas atividades com vistas a minimizar a probabilidade
+  de existir algum não cumprimento com requisitos e, no caso de aeronave, alguma condição
+  insegura. Convém notar que essa expressão é cotidianamente usada com referência à investigação
+  de cumprimento, mas conceitualmente o envolvimento da ANAC é algo amplo e inclui a fase
+  de definição de requisitos aplicáveis e a fase pós-certificação (aeronavegabilidade continuada),
+  dentre outras atividades.
+
+  5.4.7.2. Quanto ao nível de envolvimento com respeito à investigação de cumprimento, a ANAC
+  elabora o NDE baseando-se na análise de risco, explicada no Apêndice C desta IS. O NDE é
+  entregue ao requerente e mantido atualizado durante o processo. Ao analisar em que áreas
+  atuará, a ANAC considera quatro dimensões:
+
+  a) A complexidade do projeto;
+
+  b) O emprego de novas tecnologias, requisitos ou metodologias;
+
+  c) A competência do requerente, que inclui capacidade técnica, a experiência em certificação
+  e seus processos e metodologias, etc; e
+
+  d) A severidade, isto é, as consequências em caso de restar algum não cumprimento ou alguma
+  condição insegura.
+
+  5.4.7.3. Quanto maior a competência do requerente, menor é a probabilidade de um não cumprimento
+  a um requisito de certificação. Assim, a ANAC pode tomar crédito para definir seu envolvimento
+  na avaliação de demonstração caso o requerente conte com alternativas como o credenciamento
+  do RBAC 183 (tanto pessoas físicas como jurídicas), uma certificação de organização de projeto
+  conforme a Subparte J do RBAC 21, ou mesmo que possua processos ou metodologias estruturados
+  de demonstração pré-reconhecidos pela ANAC.
+
+  5.4.7.4. No caso de pessoas físicas ou jurídicas credenciadas de acordo com o RBAC 183,
+  laudos, pareceres ou relatórios produzidos por tais pessoas avaliam o cumprimento com requisitos
+  e são de integral responsabilidade do requerente, de acordo com o parágrafo RBAC 183.1(c).
+  A avaliação do histórico das informações de demonstração pelo credenciado será considerada
+  pela ANAC na definição do Nível de Envolvimento, dada a notória especialização e credibilidade
+  (no caso de Profissionais Credenciados) ou dado a demonstração de que a organização possui
+  processos estruturados (no caso de pessoa jurídica credenciada).
+
+  5.4.7.5. Requerentes detentores de certificado de organização de projeto conforme a Subparte
+  J do RBAC 21 possuem, dentre outras características, um processo estruturado de verificação
+  independente das demonstrações de cumprimento e submetem, de acordo com o parágrafo 21.263-I(b)
+  do RBAC 21, documentos de cumprimento com os requisitos que não sofrem verificações adicionais
+  por parte da ANAC, sujeitos ao disposto no parágrafo 21.257-I(b) do RBAC 21. O parágrafo
+  21.257-I(b) estabelece obrigações para uma organização de projeto certificada para permitir
+  que a ANAC realize determinadas atividades, as quais, tipicamente, estarão elencadas no
+  Nível de Envolvimento.
+
+  NOTA - Como estabelecido na IS 21.231-001, uma organização de projeto certificada conforme
+  a subparte J do RBAC 21 deve estabelecer processos adequados para o projeto, demonstração
+  e verificação de cumprimento com os requisitos aplicáveis dos RBAC de aeronavegabilidade,
+  de ruído, de drenagem de combustível e emissões de motores de aeronaves e emissões de CO2
+  de aviões e demonstrar essa capacidade à ANAC.
+
+  5.4.7.6. Adicionalmente, o requerente não credenciado na Subparte D do RBAC 183 ou não certificado
+  pela Subparte J do RBAC 21 pode estruturar previamente um processo, ou estabelecer uma determinada
+  metodologia para demonstrar cumprimento, e submeter para reconhecimento da ANAC. Nestes
+  casos, tais processos ou metodologias podem ser considerados na redução de Nível de Envolvimento.
+
+  5.4.7.7. O NDE contém as atividades planejadas a serem realizadas pela ANAC, tais como:
+
+  a) Análises documentais a serem realizadas pela Agência (por exemplo, análise de relatórios
+  de certificação);
+
+  b) Execução de inspeções de engenharia , ensaios, ou auditorias, baseada na prerrogativa
+  do parágrafo RBAC 21.33(a);
+
+  c) Execução de inspeções de conformidade consideradas necessárias, pela ANAC, para verificação
+  de cumprimento (RBAC 21.33(a)) Eventualmente, o planejamento dessas atividades pode ficar
+  registrado num plano de conformidade.
+
+  5.4.7.8. No caso de os ensaios serem utilizados também para a demonstração de cumprimento
+  com os requisitos, a participação presencial da ANAC (conhecida como testemunhos de ensaio),
+  será acordada com o requerente, sendo que a Agência pode, inclusive, limitar sua participação
+  a determinados pontos de ensaio.
+
+  5.4.7.9. Deve-se destacar a importância de reforçar o caráter cooperativo da coordenação
+  entre o NDE e o PCR, pois isso minimiza o risco de o requerente repetir tardiamente um determinado
+  ensaio. Essa coordenação é particularmente relevante para aqueles ensaios mais custosos.
+
+  5.4.8. Definição da base de certificação
+
+  5.4.8.1. É responsabilidade da ANAC determinar os requisitos aplicáveis de acordo com a
+  seção RBAC 21.17, compondo assim a base de certificação. Embora o RBAC 21 mencione genericamente
+  “requisitos aplicáveis dos RBAC vigentes na data em que o requerimento foi apresentado”,
+  trata-se especificamente dos RBAC de aeronavegabilidade abrangidos pelos RBAC 23, 25, 27,
+  29, 33, 35 e requisitos equivalentes, e os de proteção ambiental (RBAC 34, 36 e 38)
+
+  5.4.8.2. A base de certificação depende das características específicas do produto e da
+  data em que o requerimento é protocolado junto à ANAC.
+
+  5.4.8.3. É fortemente recomendado que o requerente se antecipe e formule uma proposta desses
+  requisitos no início do programa de certificação, já que isso agiliza as discussões técnicas.
+  Essa proposta pode ser apresentada à ANAC através de um plano de certificação.
+
+  5.4.8.4. De acordo com o parágrafo RBAC 21.17(a), a data de requerimento estabelece a emenda
+  de referência dos RBAC aplicáveis. A partir desta emenda, a ANAC estabelece certas adaptações
+  de acordo as características específicas do produto. Essas adaptações estão previstas no
+  RBAC e consistem em:
+
+  a) Condição especial, que de acordo com o RBAC 21.16, é um instrumento que a ANAC utiliza
+  a fim de manter um nível de segurança equivalente ao estabelecido nos regulamentos, quando
+  considerar que não há requisitos de segurança adequados ou apropriados a um determinado
+  produto devido às suas características novas ou inusitadas. Portanto, a condição especial
+  não é um instrumento adequado para alterar o nível de segurança, mas sim preencher lacunas
+  para atingir o mesmo nível de segurança já estabelecido na emenda do RBAC aplicável. A expressão
+  “nova”, ou “inusitada”, aplica-se a características do projeto a ser certificado quando
+  comparadas aos RBAC aplicáveis;
+
+  b) Nível equivalente de segurança (ref. RBAC 21.21(b)(1)), que pode ser concedido a pedido
+  do requerente mediante justificativas quando:
+
+  I - O cumprimento literal do RBAC aplicável não pode ser demonstrado e o requerente pode
+  demonstrar que existem fatores compensatórios no projeto que estabelecem um nível equivalente
+  de segurança com o requisito afetado; ou
+
+  II - Em vez de cumprir com o requisito aplicável, o requerente propõe cumprimento com outro
+  requisito (não necessariamente oriundo de um RBAC) que provê um nível de segurança equivalente
+  e sobre o qual já houve acordo técnico entre autoridades e requerentes.
+
+  A justificativa de um nível equivalente de segurança contém, no mínimo, (1) lista dos requisitos
+  aplicáveis; (2) descrição das características de projeto, que requerem o nível equivalente
+  de segurança; (3) descrição de quaisquer modificações de projeto, limitações, ou equipamentos
+  impostos pela equivalência; e (4) explicação de como as ações tomadas levaram a um nível
+  equivalente de segurança pretendido pelos RBAC.
+
+  c) Isenção, que é uma dispensa de cumprimento com um requisito específico e pode ser concedida
+  a pedido do requerente. De acordo com a seção RBAC 11.31, a petição deve apresentar as razões
+  pelas quais a isenção não afetaria a segurança das operações ou as ações tomadas pelo peticionário
+  para manter o atendimento ao interesse público em um nível de segurança aceitável. A isenção
+  segue o rito de um processo normativo e, de acordo com este requisito, o prazo mínimo é
+  de 120 dias, exceto se comprovada a inviabilidade de tal prazo. Embora exista tal prazo
+  no RBAC 11, a ANAC recomenda que o dossiê justificando esta isenção seja submetido tão logo
+  seja possível, a fim de minimizar eventuais impactos no cronograma do processo de certificação.
+
+  5.4.8.5. A ANAC pode submeter as solicitações de isenção, de condição especial e de nível
+  equivalente de segurança à consulta pública ou a outros instrumentos de participação social,
+  de acordo com a complexidade da matéria, os efeitos esperados com o deferimento das solicitações
+  e o valor que pode ser agregado.
+
+  5.4.8.6. Com respeito ao tempo de validade da base de certificação durante o processo, o
+  parágrafo RBAC 21.17(c) estabelece que o requerimento para uma aeronave categoria transporte
+  é válido por 5 (cinco) anos e o requerimento para qualquer outra certificação de tipo tem
+  validade de 3 (três) anos, a menos que a ANAC aprove um período maior se o requerente demonstrar,
+  no momento da apresentação do requerimento, que seu produto requer um período maior para
+  o projeto, desenvolvimento e ensaios.
+
+  5.4.8.7. Conforme previsto no parágrafo RBAC 21.17(a)(1)(ii), o requerente pode voluntariamente
+  adotar emendas posteriores à data de requerimento.
+
+  5.4.8.8. Se o Certificado de Tipo não tiver sido emitido ou se ficar evidente que ele não
+  será emitido dentro do limite de tempo citado acima, o parágrafo RBAC 21.17(d) permite que
+  o requerente faça:
+
+  a) Um novo requerimento de Certificado de Tipo, passando a utilizar como referência de emenda
+  a data do novo requerimento; ou
+
+  b) Um pedido de extensão do requerimento original (que consiste em um deslocamento da data
+  originalmente protocolada para uma nova data mais recente) e cumprir com os requisitos de
+  aeronavegabilidade que estiverem vigentes em uma nova data a ser escolhida pelo requerente.
+  Esta nova data deve ser anterior à data de vencimento da base de certificação inicialmente
+  prevista e sua validade não excederá o período de três ou cinco anos, conforme estabelecido
+  no parágrafo RBAC 21.17(c) A Figura 1 a seguir ilustra como mecanismo do parágrafo RBAC
+  21.17(d) para adiamento da data original funciona:
+
+
+  Figura 1 - Mecanismo para extensão da validade da base de certificação conforme RBAC 21.17(d)
+
+
+  5.4.9. Meios de cumprimento
+
+  5.4.9.1. De acordo com o parágrafo RBAC 21.20(a), o requerente deve apresentar à ANAC os
+  meios pelos quais o cumprimento foi demonstrado. Os meios de cumprimento são os métodos
+  ou estratégias pelos quais o requerente demonstra o cumprimento. É a maneira pela qual o
+  requerente evidencia o cumprimento.
+
+  5.4.9.2. Embora o parágrafo RBAC 21.20(a) não defina o momento, os requerentes costumam
+  se antecipar e consultar a ANAC sobre os meios de cumprimento pretendidos, antes de avançarem
+  para a elaboração das demonstrações. Essa prática tem se revelado de suma importância para
+  o sucesso das campanhas de certificação, uma vez que mitiga o risco de retrabalho. Como
+  essas informações são dinâmicas, é importante que o requerente as mantenha atualizadas durante
+  o decorrer do programa.
+
+  5.4.9.3. Uma vez que os principais regulamentos de aeronavegabilidade (RBAC 23, 25, 27,
+  29, 33 e 35) são equivalentes aos adotados pela FAA, a ANAC, em geral, considera as FAA
+  Advisory Circulars - AC associadas a tais regulamentos como material orientativo quanto
+  aos meios aceitáveis de cumprimento. As AC trazem os meios de cumprimento mais consagrados
+  e são, por isso, largamente reconhecidas e aceitas pela ANAC. A ANAC pode também emitir
+  material orientativo para tratar assuntos específicos ou estabelecer diferenças de interpretação
+  ou de meios de cumprimento em relação aos aceitos pela FAA. Fóruns internacionais de harmonização,
+  alguns dos quais com participação da ANAC, também são fontes de orientações aceitáveis.
+  Entretanto, como pode haver defasagens entre as emendas ou diferenças nos regulamentos da
+  ANAC e da FAA, cabe ao requerente analisar a pertinência de adotar ou não uma determinada
+  AC.
+
+  a) O requerente não é obrigado a adotar determinada AC. Ele pode desenvolver e apresentar
+  os seus próprios meios de cumprimento. Nestes casos, o requerente deve ter em mente que
+  as discussões técnicas podem se alongar, especialmente quanto aos aspectos mais inovadores
+  da proposta. Portanto, é importante que o requerente antecipe essas discussões, a fim de
+  mitigar eventuais impactos adversos no planejamento do programa;
+
+  b) No mesmo sentido, se for o interesse do requerente, ele pode adotar parcialmente uma
+  AC mas, neste caso, será tratado de forma particular, como se fosse seu próprio meio de
+  cumprimento. A princípio, uma AC deveria ser considerada na íntegra, pois uma adoção parcial
+  poderia descaracterizar o meio aceitável de cumprimento;
+
+  c) Minutas de uma nova AC ou minutas de revisão de uma AC existente também podem ser utilizadas,
+  da seguinte forma:
+
+  I - Quando a minuta tratar de um assunto cuja discussão técnica foi esgotada e julgada satisfatória
+  nos fóruns apropriados, é possível adotá-la sem considerações adicionais; ou
+
+  II - Quando a minuta tratar de um assunto cuja discussão técnica ainda não foi esgotada
+  e encerrada, a sua utilização deve ser feita com critério e previamente discutida com a
+  ANAC.
+
+  d) Normas industriais de organizações reconhecidas (SAE, RTCA, etc.) também podem ser utilizadas
+  como material orientativo. As mais utilizadas normalmente são referenciadas pelas próprias
+  AC. Adicionalmente, no caso do RBAC 23 a partir da emenda 64, as normas consensuais reconhecidas
+  pela FAA, com ou sem desvios, conforme estabelecido por meio dos Avisos de Disponibilidade
+  (Notices of Availability - NOA) publicadas pela FAA, também são aceitas como meios de cumprimento,
+  a menos que exceções sejam estabelecidas em material orientativo da ANAC.
+
+  5.4.9.4. Eventualmente, o material orientativo aceito pela ANAC pode sofrer uma revisão.
+  Essa revisão geralmente traz aprimoramentos, seja em termos técnicos como também textuais,
+  de aderência regulamentar, de consistência com outros documentos, etc. e, assim, normalmente
+  acaba-se usando a revisão mais recente. Porém, isso depende de cada caso, pois a opção por
+  uma determinada revisão do material orientativo não é uma mera decisão documental. Independente
+  da revisão, o mais importante é que o material orientativo seja compatível tecnicamente
+  com a emenda dos requisitos da base de certificação, ou seja, com o nível de segurança e
+  de proteção ambiental pretendido por aquela determinada emenda de RBAC.
+
+  a) Cabe ressaltar que materiais orientativos podem contemplar diversos requisitos, por vezes
+  independentes entre si. Adicionalmente, um material orientativo pode ter sido revisado por
+  um ou mais motivos diferentes. Assim, é importante que essa análise de compatibilidade da
+  revisão do material orientativo enfoque o requisito isoladamente e considere conjuntamente
+  os motivos que provocaram a revisão do material orientativo. Os seguintes motivos estão
+  entre os mais comuns:
+
+  I - Revisão devido a uma nova emenda de requisito;
+
+  II - Revisão com a finalidade de fazer correções editoriais ou revisões de texto com o objetivo
+  de melhorar a redação, sem alteração de conteúdo;
+
+  III - Revisão para corrigir meio de cumprimento que tenha contribuído para alguma condição
+  insegura relacionada ao projeto;
+
+  IV - Revisão para melhorar tecnicamente o meio de cumprimento. A melhoria pode abranger
+  a inclusão ou alteração de aspectos, condições ou cenários a serem considerados, ou mesmo
+  técnicas ou métodos relacionados ao meio de cumprimento, implicando ou não em redução de
+  custos.
+
+  b) Por ser uma questão técnica, e não documental, em alguns casos é possível adotar uma
+  revisão recente decorrente de uma nova emenda, mesmo que a modificação adote uma emenda
+  anterior, se o método resultar no cumprimento dos requisitos da base de certificação. Da
+  mesma forma, há alguns casos onde é possível adotar uma revisão mais antiga de uma orientação
+  para uma base de certificação nova, desde que os objetivos dos requisitos tenham sido atingidos;
+
+  c) Adicionalmente, é preciso lembrar que uma revisão mais antiga não necessariamente implica
+  em custos menores de demonstração, pois o motivo da revisão da orientação pode ter sido
+  uma simplificação ou redução de custos;
+
+  5.4.9.5. Certos artigos, como assentos, freios, rádio comunicação, localizador de emergência,
+  dentre outros, podem ter aprovação prévia conforme uma Ordem Técnica Padrão - OTP (ou equivalente
+  estrangeira, como é o caso da Technical Standard Order - TSO) Nestes casos, a comprovação
+  documental da aprovação original em nível componente (como uma OTP) pode ser utilizada como
+  parte integral ou parcial da demonstração de cumprimento no nível aeronave (ou motor ou
+  hélice), dependendo do requisito e da revisão da OTP utilizada.
+
+  NOTA - Embora um artigo tenha uma aprovação OTP (ou equivalente), o requerente continua
+  responsável pelo cumprimento dos requisitos aplicáveis no nível do projeto de tipo.
+
+  5.4.9.6. Nem todo dado de demonstração precisa ser gerado pelo próprio requerente. Dados
+  técnicos oriundos de terceiros, de ferramentas computacionais ou de modelagem, de experiência
+  em serviço, ou mesmo análises qualitativas ou quantitativas de engenharia, ou de similaridade,
+  podem ser utilizados mesmo que não estejam previstos em materiais de orientação. Porém,
+  caso a forma de demonstração seja diferente da tradicionalmente utilizada pelo requerente
+  ou não esteja claramente prevista nos materiais orientativos, é altamente recomendável que
+  o requerente consulte a ANAC previamente, pois novos ensaios podem ser necessários para
+  fins de investigação de cumprimento.
+
+  5.4.10. Inspeções, ensaios e outros meios de produção de informação de demonstração
+
+  5.4.10.1. De acordo com o parágrafo RBAC 21.20(a), o requerente é responsável por demonstrar
+  que o projeto de tipo cumpre com os requisitos da base de certificação.
+
+  5.4.10.2. Uma parte significativa das informações de demonstração é obtida através da execução
+  de ensaios e inspeções. São exemplos típicos os ensaios em laboratório, em ironbirds e em
+  rigs, os ensaios em voo, inspeções de engenharia no protótipo e auditorias de software embarcado.
+  Conforme prevê o parágrafo RBAC 21.33(b), a execução dos ensaios e das inspeções é de responsabilidade
+  do requerente.
+
+  5.4.10.3. É importante frisar que a ANAC não possui laboratórios, ferramentas ou quaisquer
+  outras infraestruturas para a realização de ensaios ou inspeções. Também cabe ressaltar
+  que o uso de técnicas ou ferramentas de engenharia consagradas por si só é um facilitador,
+  mas não é suficiente para garantir a validade de um resultado, pois o requerente continua
+  tendo a necessidade de demonstrar a representatividade daquela determinada informação perante
+  aquele produto sob certificação.
+
+  5.4.10.4. Ainda de acordo com o parágrafo RBAC 21.33(b), esses ensaios e inspeções a serem
+  executados pelo requerente devem ser suficientes para:
+
+  a) Demonstrar o cumprimento com os requisitos aplicáveis; e
+
+  b) Estabelecer a conformidade com o projeto de tipo (desenhos, dimensões, especificações
+  de processos, materiais, etc.).
+
+  5.4.10.5. A conformidade com o projeto de tipo tem papel essencial para a representatividade
+  dos dados gerados em um determinado ensaio. Um espécime de ensaio é considerado conforme
+  o projeto de tipo se ele possuir as características necessárias para o objetivo de cada
+  ensaio. Portanto, essa conformidade nem sempre é a representação idêntica do projeto. Por
+  exemplo, se o ensaio busca avaliar o funcionamento das indicações ao piloto de um determinado
+  sistema, os equipamentos que geram tais indicações (caixas eletrônicas, sensores, displays,
+  etc) são relevantes e deveriam, portanto, ser avaliados quanto a sua representatividade.
+  Já os mecanismos que fixam estruturalmente esses elementos desse mesmo sistema podem não
+  ser relevantes para esse ensaio.
+
+  a) Os resultados das conformidades devem ser registrados e preservados (ver RBAC 21.33(b)
+  e 21.49) pelo requerente;
+
+  b) Em muitos casos, essa representação não idêntica foi planejada antes do início da fabricação
+  do espécime de ensaio ou da montagem das instalações do ensaio. Entretanto, pontos discrepantes
+  não planejados podem surgir durante a preparação do ensaio. Nestes casos, é importante que
+  essas discrepâncias sejam analisadas pelo requerente, sob o ponto de vista do objetivo do
+  ensaio, e tais análises sejam apropriadamente registradas. É importante que o conteúdo de
+  tais registros seja conciso e suficiente para compreender o raciocínio pelo qual entendeu-se
+  que o efeito sobre os resultados do ensaio era admissível;
+
+  NOTA - Para uma Organização de Projeto certificada, procedimentos devem ser estabelecidos
+  para que os pontos discrepantes não planejados sejam analisados e, quando puderem afetar
+  o cumprimento com os requisitos, aprovados pelo CVE (ver definição de CVE na IS 21.231-001).
+
+  c) Nos ensaios em que há participação da ANAC, é importante ressaltar que o requerente deve
+  fornecer uma declaração de conformidade conforme previsto no parágrafo RBAC 21.53(b), evidenciando
+  que o objeto a ser ensaiado esteja conforme o projeto de tipo de acordo com o parágrafo
+  RBAC 21.33(a)(1)
+
+  5.4.10.6. Adicionalmente, deve-se salientar a importância da “conformidade de setup”. Trata-se
+  de uma boa prática que se refere à conformidade de uma instalação de ensaio em relação a
+  uma proposta de ensaio, e não a um projeto de tipo. Deixar de evidenciar sua execução pode
+  provocar a realização de um novo ensaio ou retrabalho, pois esta evidenciação é uma atividade
+  crítica por permitir maior robustez da representatividade de tais informações, já que as
+  condições das instalações deste interferem diretamente em seus resultados (ver Apêndice
+  D desta IS para mais detalhes sobre representatividade) Por exemplo, se em uma determinada
+  estrutura o ponto teoricamente mais frágil é o ponto A e o carregamento for executado no
+  ponto B, deslocado vários centímetros do ponto ideal, o resultado deste ensaio acabará não
+  sendo representativo do ponto de vista do requisito aplicável, devido a não conformidade
+  da instalação de ensaio em relação à proposta de ensaio.
+
+  5.4.10.7. Quando ensaios em voo forem necessários para produzir evidências de demonstração,
+  os seguintes pontos devem ser considerados pelo requerente:
+
+  a) Tais voos são inerentemente de caráter experimental. Portanto, cabe ao requerente solicitar
+  um Certificado de Autorização de Voo Experimental - CAVE, de acordo com a seção RBAC 21.191.
+  Normalmente, inicia-se com o propósito de pesquisa e desenvolvimento e, posteriormente com
+  o progresso da maturidade do produto, solicita-se a inclusão do propósito de demonstração
+  de cumprimento de requisitos. O CAVE conterá as limitações operacionais apropriadas com
+  o estágio de desenvolvimento do produto;
+
+  b) Conforme a seção RBAC 21.37, é preciso apresentar um piloto que possua qualificações
+  e habilitações apropriadas, o qual será responsável pela condução dos ensaios em voo (a
+  Instrução Suplementar IS 61.15-001 traz informações adicionais); e
+
+  c) Conforme a seção RBAC 21.39, o requerente deve submeter à apreciação da ANAC um relatório
+  apresentando os cálculos e ensaios requeridos para a calibração da instrumentação a ser
+  usada nos ensaios em voo e para a redução dos dados de ensaios às condições atmosféricas
+  padrão.
+
+  5.4.10.8. O parágrafo RBAC 21.35 (b)(2) exige que o requerente realize os ensaios em voo
+  que a ANAC julgue necessários para determinar se há razoável segurança de que a aeronave,
+  seus componentes e seus equipamentos funcionam adequadamente (ou seja, desempenham a função
+  pretendida sem introduzir riscos à segurança) e são confiáveis (ou seja, continuarão a funcionar
+  adequadamente em serviço) Esse conjunto de ensaios são geralmente referenciados por seu
+  acrônimo na língua inglesa, ou “F&R” - Function and Reliability.
+
+  a) De acordo com o parágrafo RBAC 21.35(e)(2), o requerente deve interromper os ensaios
+  em voo até que uma ação corretiva apropriada tenha sido tomada quando encontrar itens de
+  não cumprimento com os requisitos pertinentes aos ensaios de F&R que possam tornar os dados
+  provenientes de eventuais ensaios adicionais sem sentido ou que possam tornar tais ensaios
+  indevidamente inseguros. O requerente deve corrigir qualquer não cumprimento com os padrões
+  de funcionalidade ou confiabilidade previstos nos requisitos de aeronavegabilidade aplicáveis
+  e qualquer característica insegura identificada durante o programa de ensaios antes da aprovação
+  do projeto sob os parágrafos 21.21(b)(1) e (2) Ensaios de demonstração de cumprimento ou
+  ensaios de F&R adicionais podem ser necessários se o requerente introduzir uma mudança ao
+  projeto em decorrência de tais correções;
+
+  b) Quanto ao tempo de voo da campanha de ensaios, haverá uma variação conforme a necessidade
+  de cada projeto de certificação, porém a campanha deverá incluir pelo menos o tempo de operação
+  com os motores definidos para o tipo certificado conforme o parágrafo 21.35(f);
+
+  c) O parágrafo RBAC 21.35 (b)(2) aplica-se a todos os projetos de certificação de tipo e
+  certificação suplementar de tipo (exceto aqueles abrangidos pelos RBAC 21.24 a 21.29), incluindo
+  aqueles que envolvem emendas a estes certificados;
+
+  d) Para os ensaios de F&R, o requerente, se assim desejar, poderá fornecer uma proposta
+  de campanha, a fim de colaborar com a ANAC na determinação dos ensaios a serem realizados.
+  Os procedimentos para a execução da campanha de ensaios são, geralmente, aqueles previstos
+  no Apêndice B da AC 25-7D da FAA (outras revisões poderão ser utilizadas a depender do projeto
+  a ser certificado) Caso estes procedimentos não sejam utilizados, um método alternativo
+  ao da AC supracitada poderá ser acordado entre a ANAC e o requerente para o projeto de certificação.
+
+  5.4.10.9. Para uma Organização de Projeto certificada, procedimentos para a realização de
+  inspeção de engenharia e testemunho de ensaio pelo CVE devem seguir as instruções contidas
+  na IS 21.231-001.
+
+  5.4.10.10. Adicionalmente ao item anterior, para uma Organização de Projeto certificada,
+  procedimentos para a realização de inspeção e testemunho de ensaios específicos ou de longa
+  duração, por exemplo ensaios estruturais de fadiga, devem seguir as instruções contidas
+  na IS 21.231-001.
+
+  5.4.10.11. Adicionalmente às questões de conformidade descritas acima, a seção 21.263-I(c)(8)
+  estabelece a prerrogativa de Organizações de Projeto certificadas emitirem Documento de
+  Liberação Autorizada (DLA) para atestar a conformidade de protótipo de motores de aeronaves,
+  hélices e artigos com os dados aplicáveis. Historicamente, essa atividade é parte integrante
+  da Certificação de Organização de Produção conforme a subparte G do RBAC 21. Entretanto,
+  por tratar-se de produtos e artigos experimentais (protótipo) em que não há um projeto de
+  tipo já aprovado, uma Organização de Projeto certificada pode ser habilitada a emitir o
+  DLA. O objetivo do documento é justamente atestar que determinado produto ou artigo protótipo
+  está conforme o projeto, auxiliando a manter o controle da configuração. Detalhes de como
+  a organização de projeto certificada estabelece os procedimentos para emissão do DLA podem
+  ser consultados na IS 21.231-001.
+
+  5.4.11. Atuação da ANAC na investigação de cumprimento
+
+  5.4.11.1. Durante a investigação de cumprimento, a ANAC realiza diversas atividades, conforme
+  planejado no nível de envolvimento. São exemplos de atividades:
+
+  a) Análises documentais (por exemplo, análise de relatórios de certificação);
+
+  b) Participação em ensaios (conhecidos como testemunhos de ensaio), presencial ou virtualmente;
+
+  c) Execução de inspeções ou auditorias, baseada na prerrogativa do parágrafo RBAC 21.33(a);
+
+  d) Execução de inspeções de conformidade consideradas necessárias, pela ANAC, conforme previsto
+  no parágrafo RBAC 21.33(a);
+
+  e) Análise de pontos de ensaio (ou aprovação de proposta de ensaio). O fato de a ANAC ter
+  a prerrogativa de, em qualquer momento, considerar que certas informações de demonstração
+  não estão satisfatórias pode provocar a necessidade de realizar um novo ensaio, eventualmente
+  em momento tardio. A fim de reduzir esse risco, o requerente pode submeter propostas de
+  ensaio antes de sua execução. Os ensaios mais sujeitos a esse risco são aqueles indicados
+  pela ANAC no NDE.
+
+  NOTA - Para o caso de organizações de projeto certificadas, também são aplicáveis os requisitos
+  do parágrafo 21.257-I(b) do RBAC 21.
+
+  5.4.11.2. Nos casos em que a ANAC participar/realizar o ensaio/inspeção, o requerente deve
+  fornecer uma declaração de conformidade à ANAC, conforme estabelece a seção RBAC 21.53,
+  para cada produto (ou parte deste) apresentado. O principal objetivo desta declaração é
+  o requerente garantir a representatividade do protótipo ou corpo-de-prova com relação ao
+  projeto de tipo em aprovação, mitigando assim o risco de a ANAC dispender recursos desnecessariamente
+  (principalmente tempo e custos de deslocamento).
+
+  5.4.11.3. Como parte do processo de certificação, a ANAC participa, com tripulação própria,
+  de ensaios em voo conduzidos pelo requerente utilizando o protótipo como veículo de ensaio.
+  A participação em ensaios em voo, incluindo ensaios de funcionamento e confiabilidade, visa
+  investigar o cumprimento com os requisitos aplicáveis.
+
+  a) É fundamental que o requerente demonstre suficiente maturidade do projeto, a representatividade
+  do protótipo e, principalmente, sua confiabilidade. Para tal, a seção RBAC 21.35 prevê que
+  o requerente mostre previamente:
+
+  I - O cumprimento com os requisitos estruturais aplicáveis dos RBAC, necessários para uma
+  operação segura desses voos. Em termos práticos, as comprovações de demonstração de tais
+  requisitos podem não estar completas neste momento, mas o requerente deve mostrar que, ainda
+  assim, o protótipo fornece um nível de segurança adequado;
+
+  II - A conclusão bem sucedida de inspeções e ensaios no solo, incluindo evidências de maturidade
+  dos softwares e/ou hardwares programáveis dos sistemas essenciais ao voo, caso aplicável;
+
+  III - A conformidade da aeronave com o projeto de tipo; e
+
+  IV - Que a ANAC recebeu o relatório dos ensaios em voo realizados pelo requerente (no caso
+  de aeronave a ser certificada pelo RBAC 25, assinado pelo piloto de ensaios do requerente)
+  contendo os resultados desses ensaios.
+
+  b) Autorização de Inspeção de Tipo - AIT. É um documento de coordenação elaborado pela ANAC
+  e tem por objetivo autorizar sua própria tripulação a iniciar a campanha de ensaios em voo.
+  Para emitir tal documento, a ANAC avalia se o projeto possui maturidade suficiente, se o
+  protótipo é representativo do projeto e se possui um nível adequado de segurança. Normalmente
+  ocorre em caso de novos modelos e decidido pontualmente para modificações, dependendo da
+  complexidade e do volume de atividades. A AIT representa um marco importante do progresso
+  do projeto de certificação e é emitida após o exame das informações de demonstração requeridas
+  para a certificação de tipo ter sido completado ou ter atingido um nível suficiente que
+  permita prever que o projeto e a aeronave cumprem com os requisitos aplicáveis. Em casos
+  excepcionais, um Ofício de Autorização de Voo - OAV pode ser emitido antes de uma AIT, autorizando
+  tripulação da ANAC a participar em voos no protótipo quando há a necessidade em casos particulares,
+  tais como voos de familiarização e participação antecipada da ANAC em alguma campanha de
+  ensaios específica. O Apêndice F desta IS contém mais detalhes sobre a AIT;
+
+  c) Preliminarmente ao início da participação da ANAC nos ensaios em voo, é esperado que
+  o requerente forneça condições para uma familiarização mínima da tripulação da ANAC, se
+  necessário;
+
+  d) Além disso, para cada ensaio em voo da ANAC, é importante que o requerente avalie tal
+  ensaio de acordo com um processo de gerenciamento de risco, a fim de determinar a aceitabilidade
+  dos riscos e definir potenciais perigos e procedimentos de mitigação.
+
+  5.4.11.4. Com base em suas atividades de investigação de cumprimento, a ANAC pode identificar
+  a insuficiência de informações, necessárias à análise de cumprimento de requisito. Nesses
+  casos, muitas vezes a alternativa acaba sendo realizar um novo ensaio (ou sua repetição
+  incluindo o ponto de ensaio faltante) e/ou inspeção, visando cumprir o parágrafo RBAC 21.33(a)
+  do RBAC 21, ou em virtude de manifestação da ANAC de acordo com o parágrafo RBAC 21.35(b)
+  do RBAC 21. Devido ao impacto que a realização de um novo ensaio pode causar no planejamento
+  do projeto de certificação, a ANAC reconhece a importância de comunicar essa necessidade
+  tão logo quanto possível.
+
+  5.4.11.5. Adicionalmente, embora a ANAC tenha a prerrogativa e possa decidir não analisar
+  quaisquer informações de comprovação, ou dados que as compõem, a ANAC pode rever sua posição,
+  com base em uma revisão da análise de risco original, a qualquer tempo, e proceder a essas
+  análises, seja antes ou depois da aprovação do projeto.
+
+  5.4.11.6. Em paralelo às atividades planejadas no NDE, ou seja, vinculadas à avaliação de
+  risco da ANAC, algumas atividades de demonstração podem ter envolvimento da Agência para
+  fins de sua familiarização sobre aquela determinada técnica ou metodologia. Neste caso,
+  tais intenções são informadas antecipadamente pela ANAC, a fim de minimizar os impactos
+  para o requerente.
+
+  5.4.11.7. No caso de um detentor de Certificação de Organização de Projeto - COPj, após
+  o requerimento para um certificado de tipo, o requerente deve definir protocolos de comunicação
+  com a ANAC para fornecer relatos periódicos sobre o progresso da “investigação do tipo”,
+  principalmente em relação aos ensaios planejados, garantindo o acompanhamento da ANAC, além
+  de possibilitar as averiguações previstas no 21.257-I(b).
+
+  NOTA - Nesta seção, a expressão “investigação do tipo” deve ser entendida conforme definida
+  na IS 21.231-001.
+
+  5.4.12. Registro de discussões técnicas
+
+  5.4.12.1. É importante destacar dois tipos de documentos que a ANAC costuma utilizar para
+  registro das discussões técnicas mais relevantes: a Ficha de Controle de Assuntos Relevantes
+  - FCAR e o Certification Action Item - CAI. O primeiro foca assuntos de maior relevância,
+  enquanto o segundo aborda itens com certo grau de importância, mas não tão relevantes para
+  serem abordados em uma FCAR.
+
+  5.4.12.2. A Ficha de Controle de Assuntos Relevantes - FCAR é uma ferramenta utilizada nos
+  processos de certificação para registro e controle das discussões e conclusões dos assuntos
+  relevantes, sendo muitas vezes usada para auxiliar na definição da base de certificação
+  do projeto de tipo. Primariamente, a FCAR visa fornecer uma visão geral desses itens relevantes;
+  um meio de determinar o status desses itens; e um registro sumário pós-certificação de como
+  esses itens foram solucionados. Embora a FCAR em si não seja um requisito, ela traz, em
+  seu conteúdo, informações normativas, quando associados a uma isenção, níveis equivalentes
+  de segurança e condições especiais, bem como fatores compensatórios ou condições associadas
+  a esta. Por fim, é importante notar que a FCAR, também registra as discussões relacionadas
+  a definição dessas normativas, que podem trazer informações importantes para a determinação
+  da intenção da normativa.
+
+  a) Dentre os assuntos relevantes comumente registrados através de FCAR, têm-se o Nível Equivalente
+  de Segurança, a Condição Especial e a Isenção, conforme definidos na seção 5.4.8 desta IS,
+  bem como o registro de meios de cumprimento. No caso de meios de cumprimento, a FCAR é utilizada
+  para o registro de um método particular para demonstração de cumprimento com um requisito,
+  resultado de peculiaridades no projeto de tipo ou da necessidade de definir condições específicas
+  ou estabelecer o ambiente no qual a comprovação deve ser demonstrada, ou seja, quando não
+  são utilizados os meios de cumprimento referenciados na seção 5.4.9 (por exemplo: AC e AMC).
+
+  b) A FCAR, em geral, segue o seguinte processo:
+
+  I - Após um item ser identificado como assunto relevante, a ANAC preparará a FCAR em estágio
+  1 contendo a descrição do assunto, discussão e a posição da agência. Para auxiliar na preparação
+  do documento, é recomendado que haja uma discussão entre os servidores da ANAC e os engenheiros
+  do requerente. O objetivo é que todos se envolvam nos detalhes técnicos do projeto para
+  que o documento esteja mais maduro no momento da emissão;
+
+  II - Após alinhamento do documento com o requerente, a ANAC emitirá o estágio 2 oficialmente;
+
+  III - Nesta fase, é muito importante que a resposta do requerente seja discutida com a ANAC
+  antes do envio. Com a resposta do requerente, a FCAR evolui para estágio 3. Caso sejam necessárias
+  outras rodadas de discussão, a ANAC inclui nova posição e envia para resposta do requerente.
+  Ao final do processo, a ANAC conclui a FCAR em estágio 4, consolidando a conclusão final,
+  separando as discussões daquilo que é normativo. O documento é, então, assinado e enviado
+  oficialmente para o requerente.
+
+  5.4.12.3. O Certification Action Item - CAI é uma ferramenta utilizada para documentar itens
+  de preocupação técnico-administrativa identificados durante um processo de certificação.
+  O CAI, por exemplo, pode ser utilizado para o registro de detalhamentos, incluindo pequenos
+  desvios, aos meios de cumprimento referenciados na seção 5.4.9 desta IS.
+
+  a) O CAI é gerido pela ANAC, permanecendo aberto enquanto a discussão existir. Quando um
+  consenso for atingido e não houver ação posterior o CAI será fechado. No entanto, pode haver
+  casos, também, em que a discussão técnico-administrativa é concluída, mas há a necessidade
+  de avaliação posterior do projeto. Nesses casos, uma vez que a discussão técnica for finalizada,
+  o CAI assume um status específico a ser definido nos protocolos de comunicação, para permitir
+  o registro adequado e uma fácil identificação;
+
+  b) A cada atualização do CAI, a ANAC informará o requerente através dos protocolos de comunicação
+  acordados;
+
+  c) Recomenda-se que todos os CAI devem estar fechados antes da aprovação, porém, como são
+  apenas documentos de registro, o status dos documentos não representa um impeditivo se todas
+  as condições necessárias para a emissão do certificado de tipo ou aprovação da modificação
+  previstas no RBAC 21 tiverem sido cumpridas.
+
+  5.4.13. Instruções para aeronavegabilidade continuada
+
+  5.4.13.1. As Instruções para Aeronavegabilidade Continuada, conhecidas também pelo seu acrônimo
+  em inglês, ICA (Instructions for Continued Airworthiness), são exigidas pela seção 21.50
+  do RBAC 21 e são instruções preparadas com o objetivo de fornecer dados, procedimentos e
+  demais informações necessárias à manutenção da aeronavegabilidade de um produto ou componente.
+  Seu conteúdo e formato são definidos em seções específicas dos requisitos de aeronavegabilidade
+  aplicáveis, como é o caso das seções 23.1529 do RBAC 23, 25.1529 e 25.1729 do RBAC 25, 27.1529
+  do RBAC 27, 29.1529 do RBAC 29, 31.82 do RBAC 31, 33.4 do RBAC 33 e 35.4 do RBAC 35.
+
+  5.4.13.2. Um subconjunto importante das ICA é chamado de Seção de Limitações de Aeronavegabilidade,
+  que é definida como parte do projeto de tipo na seção 21.31 do RBAC 21 e, como tal, requer
+  aprovação da ANAC, seja na emissão inicial do certificado de tipo, seja na aprovação de
+  uma modificação às mesmas.
+
+  5.4.13.3. Outras ICA também podem requerer aprovação da ANAC, dependendo da base de certificação
+  aplicável para o produto. Entretanto, embora sejam requeridas para aprovação, tais ICA não
+  são classificadas como Seção de Limitações de Aeronavegabilidade e, portanto, elas não fazem
+  parte do projeto de tipo. Um exemplo disso são certas ICA de EWIS (Electrical Wiring Interconnection
+  System) definidas pelo RBAC 25.
+
+  5.4.13.4. Em geral, as demais partes das ICA devem ser consideradas aceitáveis e não requerem
+  aprovação. Para estabelecer a aceitabilidade das ICA, a Agência poderá, previamente à aprovação
+  do projeto, solicitar as ICA ou, ainda, acordar um processo junto ao requerente para o desenvolvimento
+  de instruções que serão consideradas aceitáveis pela mesma. Caso exista um TME entre a ANAC
+  e o requerente, este processo pode estar registrado neste documento.
+
+  5.4.13.5. No caso de modificação de ICAs que não sejam parte da Seção das Limitações de
+  Aeronavegabilidade, ainda que não sejam decorrentes de modificação de projeto de tipo, um
+  processo poderá ser estabelecido pelo requerente visando a criação de ICAs aceitáveis. O
+  escopo desse processo deverá ser acordado com a ANAC e caso exista um TME entre a ANAC e
+  o requerente, este processo pode estar registrado neste documento.
+
+  NOTA 1: Este processo deve garantir que as aeronaves produzidas com a modificação terão
+  o conjunto completo das instruções para aeronavegabilidade continuada, quando da entrega
+  da aeronave ou quando da emissão do primeiro certificado de aeronavegabilidade padrão.
+
+  NOTA 2: Haverão casos em que uma modificação às ICA é resultado de uma modificação ao projeto
+  de tipo. Nesse contexto, a demonstração de cumprimento com a respectiva seção do requisito
+  associado à modificação do produto (por exemplo, a seção 25.1529 do RBAC 25) poderá ser
+  incluída no escopo da modificação. Contudo, nos casos de ICA que não requeiram a aprovação,
+  a ANAC apenas precisará considerar as ICA aceitáveis, não estando sujeitas às seções 21.95
+  e 21.97 do RBAC 21.
+
+  5.4.13.6. Conforme estabelecido nas seções específicas dos regulamentos de aeronavegabilidade,
+  as ICA podem estar incompletas na emissão do Certificado de Tipo (ou da aprovação da modificação)
+  Entretanto, a Seção de Limitações de Aeronavegabilidade é uma exceção e ela deve estar aprovada
+  pela ANAC. Porém, não é necessário que essa seção esteja no formato final publicável.
+
+  5.4.13.7. Caso estejam incompletas, é preciso que haja um programa que garanta a finalização
+  das ICA antes da entrega da primeira aeronave ou da emissão do certificado de aeronavegabilidade
+  padrão da aeronave, o que ocorrer depois. Esse programa deveria conter, no mínimo, o seguinte:
+
+  a) Uma lista das ICA (ou das partes afetadas pela modificação);
+
+  b) Um cronograma detalhado indicando a data das atividades necessárias para completar e
+  submeter as ICA para aceitação da ANAC ou para a finalização do processo acordado; e
+
+  c) Caso as ICA estejam disponíveis ao público antes de estarem completas, um alerta visível
+  deve ser adicionado às mesmas dizendo “Estas ICA estão incompletas. A aeronave só estará
+  apta ao retorno ao serviço após estas instruções serem consideradas aceitáveis pela ANAC”.
+  Alternativamente, esse alerta poderá ser adicionado às Especificações de Tipo ou à seção
+  “Limitações” de um CST ao invés das ICA, mas em qualquer dos casos, este poderá ser removido
+  e qualquer aeronave para as quais essas instruções sejam requeridas estará apta ao retorno
+  a serviço somente após as ICA serem consideradas aceitáveis pela ANAC.
+
+  5.4.13.8. A versão final, com todas as instruções para aeronavegabilidade continuada, deve
+  ser publicada até a data da emissão do primeiro certificado de aeronavegabilidade padrão
+  ou na entrega do primeiro produto, o que ocorrer por último.
+
+  5.4.13.9. Há alguns requisitos de aeronavegabilidade (por exemplo, a seção 25.571 do RBAC
+  25) que requerem ICA consideradas como Seção de Limitações de Aeronavegabilidade, mas às
+  vezes as informações completas para determinação final das tarefas programadas ou das limitações
+  a serem incluídas em tal seção não estão disponíveis no momento da aprovação do projeto.
+
+  5.4.13.10. Nestes casos, uma alternativa possível é a adoção na Seção de Limitações de Aeronavegabilidade
+  de condicionantes mais restritivos como, por exemplo, a redução da vida operacional limitando
+  a operação da aeronave a um determinado número de horas ou de ciclos. Com isso, o cumprimento
+  com os requisitos aplicáveis terá sido demonstrado. É importante notar que o alerta no TCDS
+  ou na seção de limitações de um CST não seria necessário, visto que o produto terá sido
+  fornecido com um conjunto completo de ICA, sendo possível, portanto, a obtenção de um certificado
+  de aeronavegabilidade padrão. Quando informações de demonstração adicionais estiverem disponíveis,
+  os condicionantes mais restritivos poderão ser revistos, excluídos ou modificados. Neste
+  caso, a revisão da Seção de Limitações de Aeronavegabilidade estará sujeita a um processo
+  de aprovação de uma grande modificação, em conformidade com a seção 21.97 do RBAC 21.
+
+  5.4.13.11. No caso de organizações de projeto certificadas conforme a subparte J do RBAC
+  21, algumas ICA podem ser emitidas conforme a prerrogativa estabelecida na certificação
+  da organização. As permissões e restrições para esta ação estão descritas na IS 21.231-001.
+
+  5.4.14. Manual de voo
+
+  5.4.14.1. O Manual de Voo é uma exigência para toda aeronave (ver RBAC 21.5) O requerente
+  é responsável por sua elaboração, desde que seu conteúdo atenda aos requisitos aplicáveis
+  em sua base de certificação. Em geral, o Manual de Voo é composto pelas limitações operacionais,
+  procedimentos operacionais, informações de desempenho e informações de ruído.
+
+  5.4.14.2. Convém destacar que as limitações operacionais são explicitamente citadas pela
+  seção 21.41 do RBAC 21 como parte do Certificado de Tipo. Velocidades limites, envelope
+  de temperatura, envelope de peso e balanceamento e tripulação mínima são exemplos de características
+  usualmente associadas às limitações operacionais.
+
+  NOTA - Alguns regulamentos de aeronavegabilidade podem estabelecer, como conteúdo do manual
+  de voo, limitações adicionais em cumprimento com requisitos ambientais (por exemplo, o RBAC
+  36) Porém, estas limitações não fazem parte das limitações operacionais, exceto se explicitamente
+  definido em contrário pela regulamentação aplicável.
+
+  5.4.14.3. No meio aeronáutico, há muitas referências à ideia de que o manual de voo é uma
+  publicação aprovada, porém isso consiste em uma simplificação, pois a ANAC aprova as informações
+  contidas em tal publicação, e não o documento em si. De fato, há partes aprovadas e não
+  aprovadas no manual. As partes aprovadas devem estar claramente identificadas e segregadas
+  das partes não aprovadas.
+
+  5.4.14.4. O conteúdo sujeito à aprovação depende do tipo de produto e de sua base de certificação
+  (ver seções RBAC 23.2620, RBAC 25.1581, RBAC 27.1581, RBAC 29.1581, RBAC 33.5, RBAC 35.3
+  e RBAC 36.1581) Através de tais seções é possível saber se, por exemplo, procedimentos operacionais,
+  informações de desempenho e informações de ruído devem ser aprovados ou não.
+
+  NOTA - O detentor do certificado de tipo e a ANAC podem estabelecer processos otimizados
+  para tratar de modificações de partes aprováveis do manual de voo, mas não necessariamente,
+  processos idênticos àqueles para aprovar as modificações do projeto de tipo, conforme as
+  seções 21.95 e 21.97 do RBAC 21. Este processo pode estar registrado em um documento específico
+  ou em TME.
+
+  5.4.14.5. No caso de organizações de projeto certificadas conforme a subparte J do RBAC
+  21, algumas modificações ao manual de voo podem ser emitidas conforme a prerrogativa estabelecida
+  na certificação da organização. As permissões e restrições para esta ação estão descritas
+  na IS 21.231-001.
+
+  5.5. Aspectos operacionais
+
+  5.5.1. Requisitos operacionais que exigem características específicas da aeronave
+
+  5.5.1.1. Há certos requisitos operacionais (RBAC 91, 121, 135, etc.) que não fazem parte
+  do conteúdo mínimo da certificação de tipo e que podem variar conforme o tipo de operação.
+  Convém atentar que a emissão do Certificado de Tipo não está atrelada aos requisitos operacionais
+  e teoricamente é possível que um projeto de tipo de aeronave seja certificado, mas a aeronave
+  não possa operar por não cumprir com os requisitos operacionais aplicáveis. Um exemplo disso
+  é a obrigatoriedade do Terrain Avoidance and Warning System - TAWS para certas aeronaves.
+
+  5.5.1.2. Embora a ANAC procure orientar quanto aos requisitos operacionais no início do
+  projeto de certificação, isso não exime o requerente de estudar o impacto de tais requisitos
+  em seu produto e identificar quais atividades complementares precisariam ser desenvolvidas
+  na certificação de tipo.
+
+  5.5.2. Avaliação operacional da aeronave
+
+  5.5.2.1. A avaliação operacional de aeronaves é uma atividade que ocorre paralelamente ao
+  processo de certificação de tipo, normalmente realizada em caso de um novo projeto de modelo
+  de aeronave ou modificação de projeto que seja substancialmente diferente do projeto original
+  em termos de treinamento de pilotos. A realização desta atividade fica a critério do detentor
+  ou requerente do Certificado de Tipo e serve como referência nos processos de certificação
+  de operadores aéreos, organizações de treinamento e certificação de pessoal. Entre os principais
+  objetivos da avaliação operacional, pode-se citar:
+
+  a) Determinar se um modelo de aeronave deve receber uma nova habilitação de tipo ou ser
+  incluído em uma já existente;
+
+  b) Determinar a necessidade de familiarização ou treinamento de diferenças, conforme prevê
+  o parágrafo 61.217(b) do RBAC 61; e
+
+  c) Prover recomendações de treinamento mínimo de tripulantes e respectivas áreas de ênfase,
+  exames de proficiência e experiência recente de pilotos.
+
+  5.5.2.2. Informações mais detalhadas podem ser encontradas na IS 00-007 ou na Carta de Serviços
+  ao Cidadão, disponível na página de internet da ANAC.
+
+  5.6. Consolidação final e emissão do Certificado de Tipo
+
+  5.6.1. Após demonstrar o cumprimento com todos os requisitos aplicáveis, e fornecer à ANAC
+  os meios pelos quais o cumprimento tenha sido demonstrado (vide parágrafo 21.20(a) do RBAC
+  21), o parágrafo RBAC 21.20(b) estabelece que o requerente deve fornecer também uma declaração
+  escrita e assinada, confirmando que ele cumpriu com os requisitos da base de certificação.
+  Essa declaração pode ser através de uma carta separada ou como parte da revisão final da
+  lista de verificação.
+
+  NOTA - Quando o requerente for detentor de Certificado de Organização de Projeto, a declaração
+  deve ser assinada após a verificação da conclusão satisfatória da investigação de tipo sob
+  o sistema de garantia de projeto, conforme o parágrafo 21.265-I (d) do RBAC 21.
+
+  5.6.2. No caso de requerentes não detentores de Certificado de Organização de Projeto, a
+  declaração deve ser assinada por uma pessoa física, representante legal do requerente e
+  com poderes para tal. Sua posição na empresa também deve ser identificada na declaração.
+  O texto da declaração deve estar em português e opcionalmente bilíngue (português e inglês),
+  e conter, no mínimo, o seguinte:
+
+  “Eu declaro que o projeto de tipo cumpre com todos os requisitos aplicáveis da base de certificação
+  [colocar uma referência], conforme evidenciado pelos métodos de cumprimento mencionados
+  em [citar referência ao plano de certificação ou lista de verificação]”.
+
+  5.6.3. No caso de requerentes detentores de Certificado de Organização de Projeto, a declaração
+  deve ser assinada pelo responsável pela organização de projeto, ou um representante autorizado
+  identificado como tal na declaração. O texto da declaração deve estar em português e opcionalmente
+  bilíngue (português e inglês), e conter, no mínimo, o seguinte:
+
+  “Eu declaro que o projeto de tipo cumpre com todos os requisitos aplicáveis da base de certificação
+  [colocar uma referência], conforme evidenciado pelos métodos de cumprimento mencionados
+  em [citar referência ao plano de certificação ou lista de verificação]; e que os procedimentos
+  especificados no manual da organização de projeto foram seguidos em todas as ações deste
+  projeto de certificação”.
+
+  5.6.4. Adicionalmente, o parágrafo RBAC 21.20(a) prevê que o requerente apresente os meios
+  pelos quais ele demonstrou os requisitos. Isso pode ser feito através do fornecimento de
+  uma lista de verificação, contendo as seguintes informações:
+
+  a) Dados do projeto em aprovação (por exemplo, lista mestre de desenhos), com identificação
+  de data e revisão;
+
+  b) Lista de todos os requisitos da base de certificação, incluindo emendas de referência;
+
+  c) Para cada requisito:
+
+  I - Meios de cumprimento (ensaio, análise de engenharia, inspeção etc.); e
+
+  II - Referência aos documentos que contém as informações de demonstração.
+
+  5.6.5. Essa declaração, requerida pelo parágrafo 21.20(b) do RBAC 21, está sujeita às provisões
+  da seção RBAC 21.2 “Falsificação de requerimentos, relatórios ou registros”.
+
+  5.6.6. Por fim, a ANAC emite o Certificado de Tipo e a correspondente Especificação de Tipo,
+  ao considerar, baseada em suas investigações de cumprimento, que o projeto de tipo e o produto
+  satisfazem os requisitos da base de certificação e que, no caso de aeronave, não há condição
+  insegura. Tais investigações focam-se nas premissas e metodologias utilizadas pelo requerente,
+  em detrimento da conferência da exatidão dos cálculos que fundamentam as informações submetidas.
+
+  5.6.7. A Especificação de Tipo contém as principais informações com respeito ao produto
+  aprovado. São exemplos de tais informações: modelo do motor, tipo de combustível, pesos
+  máximos, número de assentos, tripulação mínima, base de certificação e números de série
+  aplicáveis. Essas informações podem variar com o tipo de produto. Referência a manuais e
+  outras publicações pode ocorrer, como forma de simplificar a Especificação de Tipo e, até
+  mesmo, evitar eventuais informações conflitantes.
+
+  5.6.8. Ocasionalmente, alguns esclarecimentos adicionais que a ANAC tenha solicitado como
+  parte de sua investigação de cumprimento podem não estar completamente respondidos no momento
+  da emissão do Certificado de Tipo, mas isso não representa necessariamente um impeditivo,
+  caso não haja evidência concreta de um não cumprimento ou de condição insegura. Não havendo
+  tais evidências concretas, a emissão do certificado de tipo pode ocorrer. Esse entendimento
+  baseia-se no princípio de que, a priori, o projeto e o produto cumprem com os requisitos
+  da base de certificação, pois assim o requerente declarou conforme o RBAC 21.20(b), e que
+  as investigações de cumprimento realizadas até aquele momento não identificaram um não cumprimento
+  e nem uma condição insegura.
+
+  5.7. Desistência e extinção do processo
+
+  5.7.1. O requerente pode desistir de um processo de certificação mediante solicitação por
+  escrito.
+
+  5.7.2. A devolução de TFAC depende de cada caso e deve seguir os trâmites específicos definidos
+  pela ANAC.
+
+  5.8. Responsabilidades após a emissão do Certificado de Tipo
+
+  5.8.1. Diversas responsabilidades estão previstas no RBAC 21 para o detentor do Certificado
+  de Tipo. Em particular, esta seção destaca aquelas relacionadas com a aeronavegabilidade
+  continuada.
+
+  5.8.2. A disponibilidade e a guarda de registros relacionadas com um determinado Certificado
+  de Tipo são regradas pela seção 21.49 do RBAC 21.
+
+  a) O detentor de um Certificado de Tipo deve manter seu certificado disponível para qualquer
+  verificação requerida pela ANAC. Portanto, caso seja solicitado pela Agência, o detentor
+  deverá disponibilizar qualquer informação que faça parte do Certificado de Tipo (ver definição
+  de Certificado de Tipo, na seção 4 Definições, desta IS);
+
+  b) O detentor do certificado também deverá manter e colocar à disposição da ANAC todas as
+  informações relevantes do projeto, desenhos e relatórios de ensaios, incluindo registros
+  das inspeções, a fim de assegurar a aeronavegabilidade continuada do produto. Nesse contexto,
+  informações relevantes do projeto e dos desenhos são aquelas informações que constituem
+  o projeto de tipo (conforme a seção RBAC 21.31) aprovado através do certificado de tipo.
+  É importante que tais informações sejam mantidas de forma que se tenha robustez e rastreabilidade
+  delas;
+
+  c) Além dessas informações, que compõem o certificado de tipo, relatórios de ensaios e registros
+  de inspeções devem ser mantidos e colocados à disposição da ANAC a fim de assegurar a aeronavegabilidade
+  continuada do produto. Esses relatórios e registros referem-se às informações relativas
+  aos ensaios e inspeções executados em cumprimento ao parágrafo 21.33(b) do RBAC 21;
+
+  d) Certas restrições legais ou contratuais podem dificultar o acesso a estas informações.
+  Estas situações devem ser comunicadas à ANAC pelo requerente, para que se estabeleça meios
+  alternativos de disponibilização. É importante salientar que a forma para disponibilização
+  da informação à ANAC pode ser distinta quando se tratar de outras autoridades estrangeiras,
+  dependendo de restrições legais ou comerciais aplicáveis. Cabe ao requerente observar quaisquer
+  restrições e buscar apoio da ANAC para eventuais esclarecimentos junto às outras autoridades;
+
+  e) A forma de disponibilização de informações pode ser estabelecida em acordo com o detentor
+  de certificado emitido pela ANAC, podendo ser registrado em Termo de Mutuo Entendimento.
+  Caso o detentor do certificado de tipo também detiver uma COPj, esta forma pode ser a mesma
+  usada para apresentar à ANAC as declarações e documentos em cumprimento ao parágrafo 21.265-I
+  (d) do RBAC 21.
+
+  5.8.3. Conforme a seção 21.3 do RBAC 21, o detentor deve comunicar as dificuldades em serviço
+  encontradas em produtos aprovados sob o Certificado de Tipo. Adicionalmente, essa comunicação
+  deve:
+
+  a) Ser enviada à ANAC no prazo máximo de um dia útil após ser determinado que ocorreu uma
+  falha, mau funcionamento ou defeito que requeira ser comunicado;
+
+  b) Ser transmitida da forma e maneira aceitável pela ANAC e pelo meio mais rápido disponível;
+  e
+
+  c) Incluir, tanto quanto poss&iaciacute;vel, as seguintes informações, desde que elas estejam
+  disponíveis ou sejam aplicáveis:
+
+  I - A informação de identificação do produto e artigo aplicável, conforme requerido pelo
+  RBAC 45;
+
+  II - Identificação do sistema envolvido; e
+
+  III - Natureza da falha, mau funcionamento ou defeito.
+
+  5.8.4. De acordo com a seção RBAC 21.99, em caso de Diretriz de Aeronavegabilidade - DA,
+  o detentor do Certificado de Tipo do produto envolvido deve submeter à ANAC, para aprovação,
+  modificações apropriadas no projeto de tipo desde que a Agência assim as requeira por considerar
+  que tais modificações são necessárias para corrigir condições inseguras do produto. Após
+  a aprovação dessas modificações, o detentor do Certificado de Tipo deve divulgar, a todos
+  os operadores do produto a ser modificado, as informações descritivas das modificações aprovadas.
+
+  5.8.5. O detentor de um Certificado de Tipo, ou uma pessoa licenciada de um Certificado
+  de Tipo, deve colaborar com a organização responsável pela produção do produto certificado.
+  Essa colaboração tem dois objetivos:
+
+  a) Coordenação entre projeto e produção (RBAC 21.10(a)), que se dá através do fornecimento
+  de informações técnicas de projeto atuais, corretas e aprovadas. Para que esse fornecimento
+  seja considerado satisfatório os seguintes dados são esperados junto aos demais dados que
+  compõem as informações técnicas:
+
+  I - Nome: o nome do detentor do Certificado de Tipo ou, se for o caso, do licenciado de
+  um Certificado de Tipo, que é responsável pelo fornecimento das informações técnicas do
+  projeto aprovado. Essa informação é relevante quando o detentor do Certificado de Tipo e
+  a organização de produção não fizerem parte de uma mesma entidade;
+
+  II - Data: A data de liberação das informações técnicas do projeto aprovado;
+
+  III - Elegibilidade: Indicação para quais produtos ou artigos as informações técnicas do
+  projeto aprovado são aplicáveis;
+
+  IV - Identificação: Código de identificação da(s) peça(s) ou equipamento(s) que registra
+  as informações do projeto aprovado, considerando os requisitos de marcação estabelecidos
+  no RBAC 45;
+
+  V - Descrição: O nome ou descrição da(s) peças(s) ou documentos que registram as informações
+  do projeto aprovado;
+
+  VI - Limitações/Observações: Exposição de qualquer informação, diretamente ou por referência,
+  que precise ser identificada pela organização de produção na emissão do Certificado de Liberação
+  Autorizada;
+
+  VII - Aprovação: Prover informação sobre o status da aprovação do projeto relacionado às
+  informações técnicas fornecidas.
+
+  NOTA 1: É importante descrever como as informações de projeto são disponibilizadas à organização
+  de produção. Os dados técnicos do projeto aprovado podem ser transmitidos por meio eletrônico
+  desde que todas as informações requeridas estejam disponíveis.
+
+  NOTA 2: Os dados listados acima não são necessariamente apresentados ao mesmo tempo ou em
+  conjunto.
+
+  b) Aeronavegabilidade Continuada: Considera-se que o suporte adequado à aeronavegabilidade
+  continuada de um produto ou artigo refere-se ao fornecimento de informações sobre modificações
+  ao projeto relacionadas a uma condição insegura, como aquelas requeridas pela seção 21.99
+  do RBAC 21. O detentor do certificado de tipo deve prover à organização de produção as informações
+  técnicas contemplando qualquer outra informação relativa à aeronavegabilidade continuada
+  do produto, conforme definido nesta IS, bem como o conteúdo listado no item anterior e as
+  informações que permitam à organização de produção identificar os produtos ou artigos afetados
+  pela condição insegura.
+
+  5.9. Modificações em projeto de tipo aprovado
+
+  5.9.1. Uma vez que o projeto de tipo tenha sido aprovado, ele não pode ser modificado a
+  menos que o projeto dessa modificação seja considerado aprovado pela ANAC.
+
+  5.9.2. A aprovação de modificações ao projeto de tipo é regida pelas seções 21.95 e 21.97
+  do RBAC 21.
+
+  NOTA - A seção RBAC 21.31 vincula as características do projeto de tipo com a sujeição aos
+  requisitos de aeronavegabilidade e de proteção ambiental (para mais detalhes sobre os componentes
+  do projeto de tipo, veja a seção 4.6 desta IS). Portanto, é importante notar que algumas
+  modificações de projeto podem não ser consideradas como modificações ao projeto de tipo
+  (por exemplo: modificações às Instruções de Aeronavegabilidade Continuada que não sejam
+  parte das limitações de aeronavegabilidade; ou uma alteração de desenho trocando uma informação
+  sobre o fornecedor de um mesmo rebite padronizado conforme especificação industrial reconhecida
+  segundo o parágrafo RBAC 21.9(a)(3)).
+
+  5.9.3. A seção RBAC 21.41 estabelece os componentes de um certificado de tipo. Contudo,
+  os requisitos das seções 21.93 a 21.97 do RBAC 21 aplicam-se apenas às modificações ao projeto
+  de tipo, ou seja, excluem modificações ao certificado de tipo que não afetem o projeto de
+  tipo. Um exemplo disso seria a inclusão de uma especificação de combustível (por exemplo,
+  JET-A, JP-5, etc.) eventualmente definida na especificação de tipo, e que, por algum motivo,
+  nenhuma modificação física na aeronave seria necessária. Casos de modificações do certificado
+  de tipo recebem igualmente aprovação da ANAC, podendo, para tal, utilizar-se de métodos
+  específicos acordados com os requerentes (um TME, caso seja estabelecido, poderá trazer
+  informações sobre esses processos).
+
+  5.9.4. Classificação de modificações ao projeto de tipo aprovado
+
+  5.9.4.1. Conforme estabelecido pelo RBAC 21, uma modificação a um projeto aprovado será
+  classificada de diversas formas, sendo que cada classificação terá diferentes consequências
+  ao processo ou ao certificado de tipo modificado.
+
+  5.9.4.2. Pela seção 21.19 do RBAC 21, uma modificação ao certificado de tipo será classificada
+  como substancial ou não-substancial. A modificação substancial será aquela proposta para
+  um projeto, para a potência, para o empuxo ou para o peso, que é tão extensa que exige uma
+  investigação completa quanto à concordância com os regulamentos requeridos. Neste caso,
+  haverá a emissão de um novo Certificado de Tipo. Por conseguinte, uma modificação não-substancial
+  será uma modificação ao Certificado de Tipo existente, sendo a investigação de cumprimento
+  restrita à modificação e às áreas afetadas pela mesma (veja seção 5.9.5 desta IS para mais
+  detalhes).
+
+  5.9.4.3. No caso de uma modificação não substancial, a determinação dos requisitos aplicáveis
+  ao projeto da modificação é feita de acordo com a seção 21.101 do RBAC 21. Mudanças substanciais
+  tem os requisitos aplicáveis definidos pela seção 21.17 do RBAC 21.
+
+  NOTA: A seção 21.115 do RBAC 21 referencia a regra estabelecida na seção 21.101 do RBAC
+  21 para determinação de requisitos aplicáveis, e portanto, aplicam-se às orientações abaixo.
+
+  5.9.4.4. Como regra geral, o parágrafo (a) do RBAC 21.101 exige o cumprimento de emendas
+  mais recentes dos RBAC aplicáveis. Entretanto, os parágrafos (b) e (c) desta mesma seção
+  preveem algumas exceções, permitindo a adoção de emendas mais antigas. A ANAC, em cooperação
+  com a FAA, a EASA e o TCCA Canadá, elaboraram um guia (FAA Advisory Circular AC 21.101-1
+  ou documentos equivalentes nas autoridades supracitadas), contendo orientações sobre como
+  definir os requisitos aplicáveis e as áreas afetadas pela modificação.
+
+  NOTA: Em relação à atualização de materiais de orientação (Advisory Circulars, normas, padrões,
+  etc.), consulte a seção 5.4.9 desta IS.
+
+  5.9.4.5. Dentre as exceções supracitadas, encontram-se as modificações classificadas como
+  não significativas, que são aquelas cuja configuração geral ou princípio de construção são
+  mantidos, e cujas hipóteses adotadas para a certificação do produto a ser modificado permanecem
+  válidas (ref. RBAC 21.101(b)(1)(i) e (ii)).
+
+  5.9.4.6. A base de certificação de qualquer modificação é definida pela seção RBAC 21.101.
+  Para sua determinação, considera-se um projeto de tipo aprovado de referência (não necessariamente
+  a última configuração aprovada), que servirá de base para a avaliação das premissas acima
+  descritas. Essa configuração de referência também é conhecida como “baseline”.
+
+  5.9.4.7. Quanto à aeronavegabilidade, a modificação classifica-se em pequena e grande, dependendo
+  da magnitude do efeito dessa modificação em certos aspectos do projeto de tipo. Esta classificação
+  tem por objetivo definir o processo de aprovação e, consequentemente, o potencial envolvimento
+  da ANAC neste. Conforme a seção 21.93 do RBAC 21, essa classificação segue a seguinte premissa:
+
+  a) Pequena modificação: é aquela que não tem efeito apreciável no peso, no balanceamento,
+  na resistência estrutural, na confiabilidade, em características operacionais e em outras
+  características que afetem a aeronavegabilidade do produto; ou
+
+  b) Grande modificação: são todas as demais modificações, exceto como previsto no parágrafo
+  (b) do RBAC 21.93.
+
+  5.9.4.8. No caso das pequenas modificações, a ausência de apreciável efeito nos aspectos
+  descritos acima permite que a ANAC aprove a modificação sem a realização de atividades de
+  investigação, utilizando-se de um método aceitável a ser seguido pelo requerente, conforme
+  estabelecido na seção 21.95 do RBAC 21. Desta forma, através desse método, o projeto da
+  modificação será aprovado sem a apresentação prévia à ANAC de quaisquer informações ou dados
+  comprobatórios, ainda que o método possa prever a disponibilização, em um momento posterior,
+  de informações à Agência (vide seção 21.49 do RBAC 21) As seguintes diretrizes devem ser
+  observadas no caso de pequenas modificações:
+
+  a) Um método, para ser considerado aceitável pela ANAC, poderá ser proposto para aceitação
+  explícita da agência ou seguir um método publicado previamente (e.g. um método descrito
+  em uma IS) Porém, isso deve ser feito previamente à aprovação da modificação;
+
+  b) Caso o detentor de um Certificado de Tipo não possua um método aceitável, os projetos
+  de pequenas modificações devem ser encaminhados à ANAC para aprovação. Nesse caso, o requerente
+  deverá disponibilizar as informações de descrição e de demonstração da modificação, bem
+  como os meios pelos quais o cumprimento com os requisitos associados à modificação foram
+  demonstrados;
+
+  c) Uma organização de projeto também poderá aprovar pequenas modificações quando certificada,
+  através de procedimento relevante conforme a subparte J do RBAC 21 (parágrafos 21.243-I
+  (a) e 21.263-I (c)(2));
+
+  d) Como qualquer modificação, a base de certificação de uma pequena modificação é definida
+  pela seção RBAC 21.101. Porém, por sua própria definição, uma pequena modificação é não
+  significativa e portanto, deve cumprir com a base de certificação do projeto de tipo aprovado
+  de referência sendo modificado (“baseline”).
+
+  5.9.4.9. No caso de grandes modificações é possível haver, conforme Nível de Envolvimento
+  definido pela Agência, atividades de investigação de cumprimento realizadas pela ANAC previamente
+  à aprovação. O processo de aprovação de grandes modificações é muito similar a um processo
+  de certificação de tipo original, porém com escopo circunscrito à modificação e às áreas
+  afetadas pela modificação, conforme estabelece a seção 21.97 do RBAC 21, e detalhado no
+  item 5.9.5 da presente IS.
+
+  5.9.4.10. Atenção especial deve ser dada à definição das áreas afetadas pela modificação
+  que, consequentemente, é fator fundamental para a definição da base de certificação. A próxima
+  seção desta IS traz mais detalhes sobre essa definição.
+
+  5.9.4.11. Projetos de grandes modificações propostos por organização não detentora do certificado
+  de tipo são aprovadas através de um Certificado Suplementar de Tipo e não são escopo da
+  presente IS. Para mais informações, veja a IS 21-004.
+
+  5.9.4.12. No campo da proteção ambiental, resumidamente, o RBAC 21 define como modificação
+  acústica e a modificação de emissões aquelas modificações voluntárias que, respectivamente,
+  aumentem os níveis de ruído e de emissão de combustível drenado e de escapamento, conforme
+  critérios descritos em material de orientações específicos para cada tipo de modificação.
+  Para os propósitos de cumprimento com os requisitos de emissão de emissões de CO2, considerar-se-á
+  os critérios definidos no parágrafo RBAC 21.93(d)-I e os critérios definidos no próprio
+  RBAC 38 para definir quando a modificação deve ser submetida para a ANAC.
+
+  NOTA: Modificações que não são classificadas como, “modificações de emissão” ou “modificações
+  acústicas” não precisam demonstrar novamente cumprimento com os requisitos do RBAC 34 e
+  RBAC 36.
+
+  5.9.4.13. A classificação de modificações é um julgamento de engenharia, havendo casos em
+  que a classificação é mais evidente. Porém, em outros casos, isso pode não ser tão trivial
+  e ser possível justificar tanto uma classificação como outra (por exemplo, grande ou pequena
+  modificação) Essa subjetividade pode ser minimizada por meio de critérios desenvolvidos
+  pelo requerente. Em caso de dúvidas, uma consulta à ANAC é uma opção. Independente da classificação,
+  é importante esclarecer que a modificação esteja documentada (vide item 5.4.2 desta IS)
+  e que o projeto de tipo modificado deve cumprir com os requisitos da base de certificação.
+  Portanto, um “erro” na classificação em si não significa necessariamente um prejuízo à segurança
+  ou à proteção ambiental. Entretanto, pode indicar uma eventual deficiência de processo,
+  podendo levar a uma revisão do método aceitável.
+
+  5.9.4.14. O RBAC 21 também classifica as modificações em obrigatórias (ver RBAC 21.99),
+  que são aquelas que forem requeridas pela ANAC por considerar que tais modificações são
+  necessárias para corrigir condições inseguras do produto que fundamentam uma Diretriz de
+  Aeronavegabilidade emitida conforme a seção 39.5 do RBAC 39. Após requisição da ANAC, o
+  detentor do Certificado de Tipo deve submeter tais modificações apropriadas no projeto de
+  tipo para a ANAC, que as aprovará. É importante ressaltar que, para os propósitos da seção
+  21.99 do RBAC 21, considerar que a modificação, aprovada sob a seção 21.95 ou 21.97 do RBAC
+  21, é apropriada para corrigir ou mitigar condição insegura identificada.
+
+  5.9.5. Modificações em projeto de tipo: requisitos aplicáveis, áreas afetadas e demonstração
+
+  5.9.5.1. Independente da classificação, a modificação deve ter seu escopo, seus requisitos
+  aplicáveis e os requisitos associados à modificação definidos, e sua demonstração de cumprimento
+  com requisito realizada.
+
+  5.9.5.2. Quanto ao escopo, utiliza-se o conceito de áreas afetadas. A definição de tais
+  áreas é fundamental, pois ela é necessária para a determinação dos requisitos associados
+  à modificação e, por consequência, o que seria necessário fazer em termos da demonstração.
+
+  Define-se como área afetada qualquer área do projeto modificado que se relacione a qualquer
+  das seguintes condições:
+
+  a) Modificação física em sistema, equipamento, peça, ou componente, incluindo alterações
+  em softwares embarcados;
+
+  b) Alteração na funcionalidade de um sistema, equipamento, peça, ou componente, ainda que
+  fisicamente inalterados; ou
+
+  c) Alterações nas características funcionais do produto.
+
+  NOTA: De modo não exaustivo e nem de aplicação geral a todos os produtos, entende-se por
+  “características funcionais” do produto aeronáutico as características relacionadas ao seu
+  desempenho (distâncias de decolagem, gradientes de subida, valores de tração, rotação, vibração
+  etc.), qualidades de operação (estabilidade, controlabilidade, trimagem, autorrotação, resposta
+  ao comando de tração, indicação), envelope de cargas aerodinâmicas, estabilidade aeroelástica,
+  fadiga, proteção de ocupantes, compatibilidade eletromagnética, evacuação de cabine, interface
+  homem-máquina (fatores humanos), distorção do escoamento aerodinâmico na entrada de ar dos
+  motores, capacidade de frenagem, etc.
+
+  5.9.5.3. Na prática, uma modificação pode resultar em áreas claramente afetadas, outras
+  claramente não afetadas e áreas mais indefinidas. Neste último caso, é importante o exercício
+  da razoabilidade e proporcionalidade, considerando o valor que pode ser agregado em termos
+  de segurança.
+
+  5.9.5.4. Como exemplo, a instalação no painel de instrumentos de um único parafuso adicional,
+  com algumas gramas de peso, rigorosamente aumenta o peso da aeronave e pode mudar seu centro
+  de gravidade. Por aumentar o peso e alterar o centro de gravidade, teoricamente a qualidade
+  de voo da aeronave poderia ser considerada uma área afetada. Porém, neste exemplo hipotético,
+  pode-se notar que o benefício de considerar tais áreas como afetadas é praticamente imperceptível
+  e, neste caso, é razoável considerar como área não afetada.
+
+  5.9.5.5. Quanto aos requisitos aplicáveis, trata-se da base de certificação definida na
+  seção 4.2 desta IS. Os requisitos aplicáveis são definidos em cumprimento às seções 21.17,
+  21.101 e 21.115 do RBAC 21. Dependendo do tipo de modificação, esses requisitos podem ser
+  aqueles da base de certificação do produto sendo modificado (“baseline”) ou atualizados
+  conforme os critérios da seção RBAC 21.101.
+
+  5.9.5.6. O uso da expressão regulamentos aplicáveis é comum, e normalmente refere-se a uma
+  emenda específica de um regulamento (por exemplo, RBAC 23 emenda 64, RBAC 35 emenda 10)
+  que serve de base para aquele projeto. Contudo, devido às modificações aprovadas ao longo
+  da existência de um projeto de tipo, é possível haver diversas emendas aplicáveis a diferentes
+  áreas do projeto de tipo de um produto. Dessa forma, é mais adequado, para a determinação
+  da base de uma modificação, o uso da terminologia requisitos aplicáveis.
+
+  5.9.5.7. Apesar de o termo “requisitos aplicáveis” referir-se a toda a base de certificação,
+  nem todos esses requisitos estão associados à modificação. Apenas os requisitos associados
+  às áreas afetadas pela modificação devem ter o cumprimento com os requisitos demonstrados.
+  Portanto, entende-se que, no caso de modificações, o termo “requisitos aplicáveis” é limitado
+  ao escopo da modificação, ou seja, à própria modificação e suas áreas afetadas.
+
+  5.9.5.8. Assim, como explicitado acima, todo requisito aplicável deve ser demonstrado cumprimento.
+  Entretanto, particularmente no caso de manutenção da base de certificação do produto baseline,
+  a comprovação produzida em projeto de certificação concluído anteriormente pode ser aproveitada,
+  integralmente ou parcialmente, como demonstração. Na prática, isso significa que as demonstrações
+  dos requisitos aplicáveis podem ser divididas em dois grupos:
+
+  a) Requisitos cujas demonstrações utilizam a comprovação do produto baseline, sem revisão
+  ou inclusão de novas evidências. Nesse caso, para a modificação em aprovação, não há investigação
+  de cumprimento em cima daquela comprovação, já que ela foi objeto da aprovação do produto
+  baseline;
+
+  b) Requisitos cujas demonstrações dependem, ainda que parcialmente, da adição de novas evidências
+  para mostrar que as áreas afetadas pela modificação cumprem com os mesmos.
+
+  5.9.5.9. Independentemente se a modificação for considerada pequena ou grande, é esperado
+  que a modificação esteja documentada de forma objetiva e concisa. As seguintes informações
+  devem ser produzidas e registradas pelo detentor de certificado que deseja modificá-lo:
+
+  a) Descrição da modificação, incluindo a configuração baseline;
+
+  b) Listagem das áreas afetadas;
+
+  c) Classificação da modificação;
+
+  d) Requisitos aplicáveis;
+
+  e) Os meios pelos quais o cumprimento com os requisitos aplicáveis tenha sido demonstrado.
+  No caso em que o requerente entenda que a comprovação usada no baseline permanece válida,
+  uma justificativa objetiva e concisa será suficiente como demonstração de cumprimento.
+
+  5.9.5.10. Obviamente, as atividades de investigação de cumprimento da ANAC limitam-se ao
+  escopo da modificação em si. Porém, nem sempre o escopo é facilmente identificável. Assim,
+  visando explicar melhor em que consiste tal escopo, abaixo foi descrito o NÃO ESCOPO. Portanto,
+  não são objeto de investigação de cumprimento da ANAC para uma modificação em aprovação:
+
+  a) As áreas não afetadas ou os requisitos aplicáveis não associados à modificação em aprovação.
+  Muitas vezes, uma área ou um requisito está claramente fora do escopo. Porém, é importante
+  reconhecer que a definição das áreas afetadas é subjetiva e nem sempre as razões dessa definição
+  ficam claras. Assim, cabe lembrar que a ANAC pode solicitar informações sobre o raciocínio
+  utilizado para definir as áreas consideradas afetadas, as quais geralmente são fornecidos
+  na forma de breves comentários. Para casos mais complexos, a realização de reuniões prévias
+  é uma boa prática que agiliza a melhor compreensão da ANAC sobre o projeto (e o escopo)
+  da modificação;
+
+  b) A comprovação anterior, ao ser usada na demonstração da modificação em aprovação, desde
+  que tal comprovação não precise ser revisada ou complementada (ver a alínea (a) da seção
+  5.9.5.8 desta IS) O conteúdo da comprovação em si não é objeto de investigação para fins
+  da modificação em aprovação, pois tal comprovação está associada com o projeto já aprovado
+  do produto baseline. Entretanto, diferentemente do conteúdo, a ANAC pode solicitar informações
+  sobre o raciocínio utilizado para determinar a aplicabilidade da comprovação utilizada no
+  produto baseline.
+
+  5.9.5.11. Eventualmente, a ANAC pode identificar questões sobre pontos que estão fora do
+  escopo da modificação em aprovação. Nesta situação, a ANAC pode iniciar uma ação independente
+  e não vinculada à modificação em aprovação, com o objetivo de solicitar informações de acordo
+  com a seção 21.49 do RBAC 21. Tal ação é chamada de avaliação pós-certificação e é conduzida
+  conforme descrito na seção 5.11 desta IS.
+
+  5.9.5.12. No caso de grandes modificações, é importante notar que o parágrafo RBAC 21.97(a)(3)
+  exige que o requerente declare cumprimento com os requisitos aplicáveis. Conforme explicado
+  nessa seção, esses requisitos aplicáveis são aqueles definidos pelo escopo da modificação.
+
+  5.9.6. Método aceitável para aprovação de pequenas modificações
+
+  5.9.6.1. Como as pequenas modificações feitas segundo o método da seção RBAC 21.95 são consideradas
+  aprovadas pela ANAC, é esperado que tal método defina como o detentor do certificado de
+  tipo:
+
+  a) Classifica modificações (critério);
+
+  b) Garante a produção das informações descritas no item 5.9.5.9 desta IS, bem como essas
+  informações são controladas;
+
+  c) Garante a execução de eventuais ensaios e inspeções necessários, conforme a parágrafo
+  21.33 (b) do RBAC 21 e requeridos para demonstrar cumprimento com os requisitos;
+
+  d) Realiza o registro da aprovação, incluindo sua data.
+
+  5.9.6.2. Recomenda-se que o método de aprovação de pequenas modificações inclua uma verificação
+  independente para as novas informações de demonstração de cumprimento com os requisitos
+  aplicáveis, referenciados na alínea b) da seção 5.9.5.8 desta IS.
+
+  NOTA: A verificação independente consiste na análise do registro dos meios pelos quais o
+  cumprimento com os requisitos associados tenha sido demonstrado, sendo que tal verificação
+  deve ser feita por pessoa diferente da que produziu o registro verificado.
+
+  5.9.6.3. A ANAC pode solicitar, ocasionalmente ou periodicamente, mediante prerrogativa
+  da seção RBAC 21.49, dados e informações sobre as pequenas modificações realizadas de acordo
+  com o método aceito.
+
+  5.9.6.4. Esse método aceitável pode integrar um Termo de Mútuo Entendimento.
+
+  5.9.6.5. Depois de aceito, quaisquer mudanças no método que sejam significativas para garantir
+  o cumprimento com os requisitos aplicáveis da base de certificação devem ser aceitas pela
+  ANAC, mediante solicitação por escrito.
+
+  5.9.6.6. O detentor de certificado de tipo, que seja também detentor de Certificado de Organização
+  de Projeto na forma prevista na Subparte J-I do RBAC 21, possui duas alternativas:
+
+  a) Estabelecer um método aceitável conforme a seção 21.95 do RBAC 21; ou
+
+  b) Através de procedimento relevante para exercício da prerrogativa prevista no parágrafo
+  21.263-I (c)(2) do RBAC 21, dentro do escopo dos termos de certificação (de acordo com a
+  seção 21.251-I) Esta segunda opção é a mais recomendada, pois permite melhor otimização
+  por parte da ANAC e do detentor.
+
+  5.10. Emendas ao Certificado de Tipo
+
+  5.10.1. De acordo com a seção RBAC 21.41, o Certificado de Tipo é composto dos seguintes
+  elementos:
+
+  a) O projeto de tipo, que é estabelecido pela seção 21.31 do RBAC 21, incluindo entre outras
+  informações, aquelas necessárias para caracterizar o produto, incluindo sua configuração,
+  a seção de limitações de aeronavegabilidade etc.;
+
+  b) A base de certificação;
+
+  c) A especificação de tipo, como um documento que sumariza informações como as condições
+  e limitações para as quais o projeto de tipo e o produto demonstraram o cumprimento com
+  a base de certificação;
+
+  d) As limitações operacionais, que são estabelecidas pelas seções relevantes dos RBAC 23,
+  25, 27, 29, 31, 33, 35 ou requisitos equivalentes, e que devem ser fornecidas ao comprador
+  do produto do tipo aeronave na forma exigida pelo parágrafo 21.5(b)(1) do RBAC 21, ou seja,
+  descritas em manual de voo se requerido ou em publicações, marcas e placares requeridos
+  pelos regulamentos segundo os quais a aeronave recebeu a Certificação de Tipo; e
+
+  e) Quaisquer outras condições ou limitações estabelecidas pela ANAC de acordo com o previsto
+  no RBAC 21.
+
+  5.10.2. Portanto, qualquer mudança em um desses elementos consiste em uma emenda ao (ou
+  revisão do) Certificado de Tipo. Porém nem tudo representa uma revisão documental deste
+  certificado, ou seja, nem sempre existem alterações em uma especificação de tipo ou no próprio
+  certificado. Um exemplo de emenda em que há revisão documental é o Adendo ao Certificado
+  de Tipo, que geralmente ocorre em inclusões de novos modelos.
+
+  5.11. Avaliação pós-certificação
+
+  5.11.1. Após a aprovação do projeto de tipo, ou da sua modificação, o processo se conclui
+  com o ato da ANAC reconhecendo que o projeto e produto satisfazem os requisitos da base
+  de certificação. Entretanto, a ANAC pode iniciar uma avaliação posterior ao ato de aprovação
+  em situações específicas. Uma dessas situações são eventuais denúncias quanto a uma possível
+  condição insegura ou a um possível não cumprimento, que podem ocasionar uma abertura de
+  um processo de avaliação pós-certificação.
+
+  5.11.2. Nessa avaliação, a ANAC pode solicitar quaisquer dados do Certificado de Tipo, bem
+  como informações relevantes do projeto, desenhos e relatórios de ensaios, incluindo registros
+  das inspeções, conforme previsto na seção 21.49 do RBAC 21 (para mais detalhes, veja também
+  a seção 5.8.2 dessa IS).
+
+  5.11.3. Dentre as conclusões possíveis da avaliação pós-certificação, dois casos requerem
+  atenção especial:
+
+  a) Quando houver uma condição insegura associada àquele produto/projeto de tipo; ou
+
+  b) Quando houver um não cumprimento de requisito associado ao projeto de tipo aprovado.
+
+  5.11.4. A existência de uma condição insegura é evidenciada pela emissão de um Diretriz
+  de Aeronavegabilidade (ref. RBAC 39.5) e, conforme a seção 21.99 do RBAC 21, após a emissão
+  da mesma, um requerente deverá submeter modificações do projeto, se a ANAC assim requerer
+  por considerar que tais modificações são necessárias para corrigir as condições inseguras.
+  (veja a seção 5.9.4.14 desta IS).
+
+  5.11.5. O caso de um não cumprimento de requisito não possui um dispositivo regulamentar
+  que exija uma ação corretiva, exceto em uma situação em que haja simultaneamente uma condição
+  insegura, no qual aplica-se a orientação acima descrita. Portanto, um não cumprimento de
+  requisito da base de certificação sem condição insegura em um produto ou componente não
+  mais produzido, não demanda ações adicionais por parte do detentor do Certificado de Tipo.
+
+  5.11.6. Contudo, no caso de um produto ou componente ainda em produção, a ANAC e o detentor
+  do Certificado de Tipo podem estabelecer, quando houver benefício, um plano para correção
+  do projeto como por exemplo, incorporar uma modificação do projeto, a ser implementada na
+  produção de novas aeronaves a partir de um momento ou número de série específico.
+
+  NOTA: A utilização de informações ou dados conforme o plano de correção de projeto estabelecido
+  acima caracteriza o cumprimento com a seção 21.137(a) do RBAC 21, isto é, tais informações
+  consistem em dados aprovados, corretos e atualizados.
+
+  5.11.7. Salienta-se que, ainda que haja um não cumprimento de requisito ou condição insegura,
+  o projeto se mantém aprovado, a menos que a ANAC proceda com um processo administrativo
+  para suspender ou revogar tal aprovação.
+
+  5.11.8. Nota-se, ainda, que, embora o detentor do certificado tenha declarado cumprimento
+  (seções 21.20 e 21.97(b)) e possa sofrer as sanções previstas, o PSO-BR, em seu art. 16,
+  bem como o PSOE-ANAC, em seu art. 74, estabelecem que as fontes de relatos voluntários devem
+  ter seu sigilo e proteção garantidos pela Agência.
+
+  5.12. Transferência do Certificado de Tipo
+
+  5.12.1. O detentor de um Certificado de Tipo pode transferi-lo para outra pessoa, física
+  ou jurídica, conforme previsto na seção RBAC 21.47. O novo detentor assumirá as responsabilidades
+  descritas na seção 5.8 desta IS, sendo importante que ele tenha condições técnicas para
+  exercer tais responsabilidades.
+
+  5.12.2. Quando uma pessoa, física ou jurídica, se torna detentora de um Certificado de Tipo
+  através de uma transferência, passa a contar com todos os privilégios previstos na seção
+  RBAC 21.45.
+
+  5.12.3. A pessoa que assina a solicitação deve ser a atual detentora do Certificado de Tipo
+  (no caso de pessoa física) ou a procuradora legal. Neste último caso, uma comprovação deve
+  ser anexada junto com a solicitação.
+
+  5.12.4. A especificação de tipo correspondente será revisada para refletir o nome do novo
+  detentor do Certificado de Tipo.
+
+  5.12.5. Em caso de transferência de Certificado de Tipo para pessoa física ou jurídica estrangeira,
+  um acordo entre as autoridades de aeronavegabilidade de ambos os países deve existir, estabelecendo
+  ações e responsabilidades em relação à aceitação de produtos. É importante ressaltar que,
+  independentemente da existência de tal acordo, as responsabilidades quanto à aeronavegabilidade
+  continuada de aeronaves fabricadas sob este Certificado de Tipo são transferidas para o
+  novo País de Projeto (State of Design), conforme estabelecido pela Convenção de Aviação
+  Civil Internacional (Convenção de Chicago).
+
+  5.13. Cassação e suspensão do Certificado de Tipo
+
+  5.13.1. Segundo a seção RBAC 21.51, o Certificado de Tipo é efetivo até sua cassação ou
+  suspensão. A cassação pode ocorrer, por exemplo, quando o detentor não for mais capaz de
+  assegurar a aeronavegabilidade continuada. A suspensão é uma cassação temporária. A motivação
+  para a cassação/suspensão de um Certificado de Tipo pode resultar na suspensão dos certificados
+  de aeronavegabilidade das aeronaves fabricadas conforme este Certificado de Tipo, se a cassação
+  ou suspensão for motivada por condição insegura.
+
+  5.13.2. Ao iniciar um processo de cassação, o detentor do Certificado de Tipo deve apresentar
+  para a ANAC todas as informações de descrição e de demonstração que fundamentaram a emissão
+  do Certificado de Tipo e todas as modificações associadas realizadas pelo detentor. Essa
+  ação também pode ser apropriada em caso de suspensão, quando existir clara possibilidade
+  de cassação.
+
+  5.13.3. Em caso de suspensão ou cassação, o detentor deverá devolver à ANAC o original do
+  Certificado de Tipo. Em caso de suspensão, quando esta terminar, a ANAC reemitirá o Certificado
+  de Tipo para seu detentor.
+
+  5.13.4. Na especificação de tipo, a ANAC incluirá uma nota documentando a data da cassação/suspensão,
+  advertindo que a especificação de tipo não é mais válida para as aeronaves fabricadas após
+  aquela data.
+
+  5.14. Devolução do Certificado de Tipo pelo detentor
+
+  5.14.1. De acordo com a seção RBAC 21.51, o detentor do Certificado de Tipo pode devolver
+  o Certificado de Tipo. A devolução do Certificado de Tipo é uma ação na qual o detentor
+  renuncia ao Certificado de Tipo e seus privilégios associados (RBAC 21.45) A devolução encerra
+  a produção de aeronaves cobertas pelo referido Certificado de Tipo a partir da data da devolução,
+  mas não tem efeito sobre as aeronaves fabricadas antes da devolução quanto à certificação
+  de aeronavegabilidade.
+
+  5.14.2. A ANAC manterá todas as informações e dados que fundamentaram a emissão do Certificado
+  de Tipo (vide RBAC 21.41) Estas informações e dados serão utilizados pela ANAC para dar
+  suporte às atividades posteriores, tais como aprovações de modificações, fabricação de peças
+  de reposição, etc.
+
+  5.14.3. Quando um detentor de Certificado de Tipo iniciar um processo de devolução, a ANAC
+  solicitará a esse detentor o envio e a cessão dos direitos de uso de todos os dados e informaçccedil;ões
+  do projeto de tipo e das demonstrações realizadas, bem como dos dados técnicos que compõem
+  tais informações. Isto possibilitará que um possível sucessor assuma todas as responsabilidades
+  sobre a aeronavegabilidade continuada das aeronaves existentes, tal como no caso de transferência.
+
+  5.14.4. Na recusa em ceder os direitos de uso ou na inexistência de um sucessor que assuma
+  as responsabilidades pela aeronavegabilidade continuada, uma nota deve ser colocada na especificação
+  da aeronave. Essa nota mencionará que, quando ocorrer uma condição insegura, a ANAC suspenderá
+  todos os certificados de aeronavegabilidade das aeronaves fabricadas de acordo com o Certificado
+  de Tipo cancelado, pois não haverá um responsável que possa tomar as providências requeridas
+  pelo parágrafo RBAC 21.99(a) A nota também mencionará que as peças originais de reposição
+  não estarão disponíveis no futuro.
+
+  5.14.5. Na especificação de tipo, a ANAC incluirá uma nota documentando a data de cancelamento
+  do Certificado de Tipo, advertindo que somente as aeronaves fabricadas até a data do cancelamento
+  são elegíveis ao certificado de aeronavegabilidade.
+
+  5.15. Desmembramento de Certificado de Tipo
+
+  5.15.1. O desmembramento do Certificado de Tipo, ou seja, a remoção de um ou mais modelos
+  para a criação de um novo Certificado de Tipo, é uma ação incomum e considerada excepcional
+  pela ANAC, ainda que o RBAC 21 não impeça.
+
+  5.15.2. O trabalho para segregar pode ser complexo, especialmente porque normalmente os
+  modelos mais novos são derivações dos modelos mais antigos e pode haver diferentes composições
+  de configurações de produto, intercambiáveis entre si, as quais estão sujeitas a diferentes
+  emendas das bases de certificação.
+
+  5.16. Produção de aeronaves, motores e hélices, e seus componentes
+
+  5.16.1. De acordo com a seção RBAC 21.6, uma pessoa somente pode fabricar uma aeronave nova,
+  um motor novo de aeronave ou uma hélice nova, para fins de obtenção de um Certificado de
+  Aeronavegabilidade padrão (isto é, de acordo com o RBAC 21.183), se:
+
+  a) Ela for detentora de um Certificado de Tipo ou tiver um acordo de licenciamento com o
+  detentor do Certificado de Tipo autorizando a fabricação do produto; e
+
+  b) Ela atender as Subpartes F ou G do RBAC 21.
+
+  5.16.2. Em caso de licenciamento, o detentor do Certificado de Tipo continua responsável
+  pela aeronavegabilidade continuada do projeto de tipo aprovado. Portanto, o licenciado não
+  se torna detentor do Certificado de Tipo.
+
+  5.16.3. Ainda, é importante notar que, se uma pessoa tem conhecimento, ou deveria ter, que
+  um artigo de reposição ou modificação tem razoável probabilidade de ser instalado em um
+  produto de tipo certificado, esta pessoa não pode produzir este artigo a menos que o artigo
+  esteja enquadrado em alguma das possibilidades previstas na seção 21.9 do RBAC 21, ou seja:
+
+  a) produzido sob um certificado de tipo;
+
+  b) produzido sob uma aprovação de produção;
+
+  c) uma peça padronizada (tal como parafuso, porca e rebite) produzida de acordo com especificações
+  industriais e/ou governamentais reconhecidas pela ANAC;
+
+  d) uma parte comercial, conforme definido na seção 21.1;
+
+  e) produzido por um proprietário ou operador para a manutenção ou modificação do seu próprio
+  produto;
+
+  f) fabricado por um detentor de certificado apropriadamente qualificado com um sistema da
+  qualidade, e utilizado no reparo ou modificação de um produto ou artigo, em conformidade
+  com o RBAC 43; ou
+
+  g) produzido de uma outra maneira aprovada pela ANAC.
+
+  5.16.4. Uma pessoa que produz um artigo para reposição ou modificação para a venda somente
+  poderá apresentar essa peça como adequada para a instalação em um produto de tipo certificado
+  caso ela esteja conforme os itens (a) a (d) da seção acima.
+
+  5.17. Exportação de produtos com certificado de tipo brasileiro
+
+  5.17.1. O Brasil mantém acordos (entendimentos) internacionais sobre aeronavegabilidade
+  e segurança com diversos países e que facilitam a exportação de produtos aeronáuticos brasileiros.
+  Nesta seção 5.17, “acordo” abrange diversos termos tais como protocolos de entendimento,
+  memorandos de entendimento, arranjos de trabalho, dentre outros.
+
+  5.17.2. Esses acordos visam à cooperação entre autoridades de aviação civil para estabelecer
+  procedimentos específicos visando o reconhecimento e uniformização de atividades executadas
+  pela outra Parte. Tais acordos geram maior confiança entre as Partes, tendo como principal
+  benefício a eliminação ou mitigação de redundâncias. O escopo desses acordos inclui, mas
+  não se limita a:
+
+  a) Validação ou aceitação de certificado de tipo, variando de acordo com o tipo de produto;
+
+  b) Validação ou aceitação de aprovações de modificações de projeto, que às vezes abrangem
+  diferenças no critério de classificação das modificações;
+
+  c) Reconhecimento de certificado de organização de produção;
+
+  d) Aceitação de aprovação de peças de reposição;
+
+  e) Suporte para atividades de certificação de tipo, como o testemunho de ensaio ou inspeção
+  em nome da ANAC, especialmente no caso de fornecedores estrangeiros;
+
+  f) Protocolos de comunicação visando intercâmbio de informações quanto à aeronavegabilidade
+  continuada.
+
+  5.17.3. Todos os acordos em vigor podem ser acessados na página de internet da ANAC.
+
+  5.17.4. Cabe lembrar que a documentação técnica deve estar redigida na língua inglesa, já
+  que nenhum dos acordos acima requer aceitação pela outra Parte de documentação em português.
+
+  APÊNDICES
+
+  APÊNDICE A - CONTROLE DE ALTERAÇÕES
+
+  APÊNDICE B - LISTA DE REDUÇÕES
+
+  APÊNDICE C - CRITÉRIO DE NÍVEL DE ENVOLVIMENTO NA DEMONSTRAÇÃO DE CUMPRIMENTO
+
+  APÊNDICE D - TERMINOLOGIA PARA INFORMAÇÕES DE DEMONSTRAÇÃO
+
+  APÊNDICE E - AUTORIZAÇÃO PARA INSPEÇÃO DE TIPO
+
+  DISPOSIÇÕES FINAIS
+
+  7.1. Os casos omissos serão dirimidos pela ANAC.
+
+
+  APÊNDICE A - CONTROLE DE ALTERAÇÕES
+
+  ALTERAÇÕES REALIZADAS NA REVISÃO B
+
+  ITEM
+
+  ALTERAÇÃO REALIZADA
+
+  Cabeçalho
+
+  Atualização dos dados
+
+  1.3
+
+  Inclusão de item para estabelecimento da referência cruzada com a IS 21.231-001 quando o
+  processo de CT for realizado por uma Organização de Projeto certificada conforme a subparte
+  J do RBAC 21.
+
+  2.1
+
+  Atualização da seção 2 (Revogação)
+
+  3.4
+
+  Ajuste gramatical para melhor coesão do texto.
+
+  3.5
+
+  Inclusão da Subparte J do RBAC 21 na seção de fundamentos da IS.
+
+  5.2.2.
+
+  Atualização do nº do formulário e correção ortográfica no item (b).
+
+  5.2.5.
+
+  Inclusão de novo item e renumeração dos itens seguintes.
+
+  5.4.2.6.
+
+  Correção ortográfica.
+
+  5.4.7.3.
+
+  Alteração do item para melhor descrever o objetivo do estabelecimento da competência do
+  requerente.
+
+  5.4.7.4.
+
+  Alteração do item para melhor descrever o objetivo do estabelecimento da competência do
+  requerente.
+
+  5.4.7.5.
+
+  Alteração do item para esclarecer a sujeição dos documentos de cumprimento com os requisitos
+  às averiguações da ANAC por meio do 21.257-I(b) e inclusão de uma nota explicativa.
+
+  5.4.8.8(b)
+
+  Inclusão de legenda na Figura 1.
+
+  5.4.9.3.
+
+  Alteração do item para esclarecer a possibilidade de haver diferenças de entendimento entre
+  ANAC e outras autoridades de aviação civil para os materiais orientativos, permitindo, com
+  isso, a emissão de documentos orientativos próprios indicando tais diferenças. No item (d),
+  Correção no acrônimo AC.
+
+  5.4.10.5.
+
+  Inclusão da nota para esclarecer a necessidade de avaliação do CVE dos pontos discrepantes.
+
+  5.4.10.9. a 5.4.10.11.
+
+  Inclusão dos itens para esclarecer funções de inspeções, ensaios e outros meios de produção
+  de informação de demonstração na COPj e para esclarecer a prerrogativa de emissão da DLA.
+
+  5.4.11.1.
+
+  Introdução da nota para estabelecimento da referência cruzada com o parágrafo 21.257-I(b)
+  do RBAC 21 para a COPj.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- tipo
+- certificado
+- requerente
+- cumprimento
+- informacoes
+- requisitos
+- secao
+- caso
+- produto
+- pode
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

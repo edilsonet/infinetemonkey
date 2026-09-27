@@ -1,0 +1,68 @@
+id: is-is-145-214-001-g4-4-g
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: G4.4
+section_title: Natureza e variedade das defesas
+subsection_id: g
+cite: G4.4(g)
+title: G4.4(g)
+text: 'g) prover meios de escape e resgate.
+
+  G4.4.3. Na ordem das defesas listadas acima está implícito o conceito de “camadas sucessivas
+  de
+
+  proteção” (defenses-in-depth), cujo propósito é garantir a contenção de eventos adversos
+  à
+
+  segurança operacional, caso a defesa anterior venha a falhar.
+
+  G4.4.4. A multiplicidade de defesas progressivas é característica das organizações de alto
+  risco
+
+  (High Risk Organizations - HRO, cf. Perrow, 1981), cujas operações devem ser cotidiana-
+
+  mente monitoradas, a fim de que possam responder de modo proativo e eficaz às possíveis
+
+  consequências adversas.
+
+  G4.4.5. Esse encadeamento de defesas é responsável por proteger o sistema produtivo da organiza-
+
+  ção contra os modos de falhas simples (humanas ou técnicas). Devido à robustez dessa con-
+
+  figuração, em geral, essas organizações somente são afetadas por acidentes considerados
+
+  raros e de larga escala, cujos fatores contribuintes não são contidos pelo sofisticado sistema
+
+  de defesas.
+
+  G4.4.6. Apesar da eficácia elevada desse tipo de sistema de defesas, sua complexidade tende
+  a deixá-
+
+  lo mais “opaco” para os operadores, controladores e gestores do sistema produtivo por ele
+
+  protegido. Essa situação é propícia ao desenvolvimento de condições latentes, que em sín-
+
+  tese, consistem na degradação do próprio sistema de defesas, que podem não ser detectadas
+
+  pelo pessoal em questão.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- defesas
+- sistema
+- organizacoes
+- produtivo
+- acidentes
+- acima
+- adversas
+- adversos
+- afetadas
+- alto
+- anterior
+- apesar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

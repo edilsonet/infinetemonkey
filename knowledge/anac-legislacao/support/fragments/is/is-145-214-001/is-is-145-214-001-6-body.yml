@@ -1,0 +1,442 @@
+id: is-is-145-214-001-6-body
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: '6'
+section_title: Falha do sistema de fornecimento de combustível para o motor 2 (6,7%)
+subsection_id: body
+cite: '6'
+title: Falha do sistema de fornecimento de combustível para o motor 2 (6,7%)
+text: '6. Falha do sistema de fornecimento de combustível para o motor 2 (6,7%)
+
+  GI2.2. Árvore de problemas (adaptação da Árvore de falhas - Fault Tree Analysis - FTA)
+
+  Gi2.2.1. A Árvore de falhas é ferramenta de análise de risco típica da área de projetos
+  de equipamentos
+
+  ou sistemas, concebida para avaliar o impacto de falhas simples ou múltiplas na operação
+  de
+
+  sistemas mais complexos, a partir do conhecimento das taxas de falhas de componentes, equi-
+
+  pamentos ou diversos sistemas que operam conjuntamente.
+
+  Gi2.2.2. Devido à sua praticidade de permitir o estudo probabilístico de ocorrência de eventos
+  indese-
+
+  jados, essa ferramenta tem sido adaptada para avaliar as probabilidades de ocorrência de
+  even-
+
+  tos adversos à segurança operacional, a partir do conhecimento das probabilidades de falhas
+
+  na execução de processos, procedimentos, tarefas, etc.. Por isso, tal aplicação tem sido
+  comum
+
+  por parte de operadores aéreos.
+
+  Gi2.2.3. A seguir é apresentado um exemplo simples de utilização da árvore de falhas em
+  casos de
+
+  aeronavegabilidade, para analisar casos de motores aeronáuticos revisados em uma OM. Os
+
+  motores foram reprovados no banco de provas, devido a problemas inerentes ao próprio teste.
+
+  Isso implica em assumir que o processo de revisão foi feito de forma adequada.
+
+  Meio ambiente
+
+  MétodoMáquina
+
+  Medição Mão-de-obra
+
+  Motor revisado em
+
+  OM e reprovado no
+
+  banco de provas
+
+  Correlação do banco
+
+  de provas está vencida
+
+  Teste conduzido em de-
+
+  sacordo com instruções
+
+  de trabalho
+
+  Sensores do banco
+
+  estão com defeito
+
+  Motor instalado
+
+  no banco de
+
+  forma inadequada
+
+  Falha do sistema
+
+  de fornecimento
+
+  de combustível
+
+  para o motor
+
+  Material
+
+  Componentes escravos utili-
+
+  zados no teste estão com re-
+
+  visão vencidaData de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Exemplo 2
+
+  Identificação do problema: A partir das informações e dados apresentados no Exemplo 1 par-
+
+  tiu-se para a análise do problema utilizando-se a árvore de falhas adaptada.
+
+  Análise do problema: Para cada um dessas causas foram identificados os fatores contribuintes
+
+  (ex.: falha do sistema de fornecimento de combustível para o motor - falha da bomba, obstru-
+
+  ção de válvulas, danos às redes, nível de combustível insuficiente, etc.), bem como seus
+  per-
+
+  centuais de ocorrência, não listados aqui por concisão do exemplo.
+
+  Avaliação do problema: Do ponto de vista da segurança operacional, o problema foi conside-
+
+  rado crítico pelo GR da OM porque essas irregularidades só foram detectadas pelos inspetores
+
+  da qualidade que monitoravam a condução dos testes. Se houvesse falhas nessas inspeções,
+
+  tais ocorrências não seriam detectadas em tempo hábil, e motores seriam indevidamente libe-
+
+  rados em condição não aeronavegável.
+
+  Solução do problema: Diante dessa análise a organização, o GR definiu que seriam priorita-
+
+  riamente adotadas ações para reduzir o número de motores reprovados no teste devido à sua
+
+  condução em desacordo com a instrução de trabalho e à instalação inadequada, uma vez que
+
+  juntos respondem por 70% das ocorrências. Logo, as medidas implementadas foram as seguin-
+
+  tes: curso de reciclagem na instrução de teste de motores para os mecânicos e supervisores
+  do
+
+  banco de provas; reciclagem no procedimento de instalação dos motores no banco de provas
+
+  para mecânicos e inspetores do banco de provas; e criação de um novo procedimento de ins-
+
+  peções progressivas do trabalho para os supervisores do banco de provas.
+
+  Reavaliação do problema: Passado uma ano após a implementação dessas medidas, a OM
+
+  realizou novo levantamento e verificou que houve uma redução de 90% nos casos de motores
+
+  reprovados por irregularidades no cumprimento da instrução de trabalho. Para os casos as-
+
+  sociados a erros na instalação dos motores, a redução foi de 60%. Desse modo, o GR decidiu
+
+  que serão necessários novos estudos para elaborar medidas que levem à eliminação dessas
+
+  ocorrências.
+
+  0,25
+
+  Motores reprovados
+
+  no teste
+
+  Correlação Instrução
+
+  de trabalho
+
+  Componentes
+
+  escravos Sensores Instalação Combustível
+
+  para o motor
+
+  0,03
+
+  3
+
+  0,40 0,10 0,10 0,30 0,06
+
+  7
+
+  o
+
+  uData de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  GI2.3. Análise de Bow-tie (Bow-tie Analysis)
+
+  Gi2.3.1. Ferramenta de análise de riscos que permite visualizar graficamente causas e efeitos
+  associa-
+
+  dos a um determinado perigo. No diagrama característico dessa ferramenta o perigo sob aná-
+
+  lise é colocado no ponto central (“nó da gravata”), suas causas e consequências ficam à
+  es-
+
+  querda e à direita do nó, respectivamente, resultando numa configuração semelhante a uma
+
+  gravata borboleta (bow tie).
+
+  Gi2.3.2. Sobre as causas relacionadas ao perigo são elaboradas e implementadas medidas de
+  prevenção
+
+  ou contenção, a fim de permitir que as atividades/operações sejam realizadas sob riscos
+  con-
+
+  troláveis (defesas e controles implementados). Em caso de ineficácia dessas defesas e contro-
+
+  les, as medidas de mitigação ou recuperação visam atenuar as consequências adversas.
+
+  Gi2.3.3. Visando o detalhamento da análise, cada consequência deve estar associada também
+  a uma
+
+  determinada condição operacional (system state), conforme o diagrama complementado a se-
+
+  guir.
+
+  Gi2.3.4. O exemplo a seguir ilustra a utilização do bow-tie para a análise de riscos associados
+  a difi-
+
+  culdades em serviço, incidentes ou acidentes de aeronaves monomotoras relacionadas à falha
+
+  de magnetos.
+
+  Exemplo 3
+
+  PE-
+
+  RIGO
+
+  Condição
+
+  operacional
+
+  1
+
+  Condição
+
+  operacional
+
+  2
+
+  Condição
+
+  operacional
+
+  3
+
+  Causa 3
+
+  Causa 2
+
+  Causa 1
+
+  Consequência 1A
+
+  Consequência 1B
+
+  Consequência 1C
+
+  Consequência 2
+
+  Consequência 3A
+
+  Consequência 3B
+
+  EVENT
+
+  Perda dos contro-
+
+  les
+
+  Impactos sobre a segurança
+
+  PE-
+
+  RIGO
+
+  Consequência 1
+
+  Consequência 2
+
+  Consequência 3Causa 3
+
+  Causa 2
+
+  Causa 1Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Situação: Determinado aeroclube utiliza aeronaves monomotoras e bimotoras na instrução
+
+  de seus alunos. O aeroclube também possui certificação de OM de manutenção aeronáutica,
+
+  segundo a qual realiza a manutenção as aeronaves por ele operadas e de terceiros. Dentro
+
+  das limitações dessa certificação está realização da revisão geral dos motores convencio-
+
+  nais dessas aeronaves. Desejando adotar medidas preventivas que evitem dificuldades em
+
+  serviço, incidentes e acidentes, o GR do aeroclube, que também responde pela OM, deter-
+
+  minou a realização de um estudo específico para avaliar as consequências/impactos de fa-
+
+  lha de magnetos em aeronaves monomotoras, que por concisão do exemplo não são mos-
+
+  tradas aqui. O ponto principal dessa análise é entender as contribuições relativas à manu-
+
+  tenção para essas ocorrências.
+
+  Análise da situação: Reunindo mecânicos, inspetores e pilotos, o GASO realizou o estudo
+
+  dessa situação, utilizando-se do bow-tie para apresentar os resultados ao GR, conforme o
+
+  diagrama a seguir:
+
+  (*) Falhas súbitas são aquelas que após análise não podem ser atribuídas à falha no controle
+  de revisão, falha no serviço
+
+  de revisão ou falha na instalação do componente.
+
+  Avaliação da situação: Com exceção da falha súbita, que considera o magneto em “bom
+
+  estado” no momento da operação, todas as outras falhas são consideradas passíveis de
+
+  controle pela organização. Diante disso, foram estabelecidas as seguintes medidas preven-
+
+  tivas a fim de evitar a falha de um ou ambos os magnetos:
+
+   inclusão de dupla verificação do mapa de controle de revisão dos magnetos instalados
+
+  nos motores de aeronaves operadas pelo aeroclube;
+
+  Falha de
+
+  ambos
+
+  magnetos
+
+  Falha de um
+
+  magneto
+
+  Revisão
+
+  vencida
+
+  Falhas na
+
+  revisão
+
+  Falhas na
+
+  instala-
+
+  ção
+
+  Falhas
+
+  súbitas*
+
+  Falha
+
+  do mag-
+
+  neto
+
+  pouso
+
+  cruzeiro
+
+  decolagem
+
+  na partida
+
+  do motor
+
+  taxi
+
+  pouso
+
+  cruzeiro
+
+  decolagem
+
+  na partida
+
+  do motor
+
+  taxiData de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+   revisão do procedimento de revisão dos magnetos em relação às instruções do fabri-
+
+  cante dos motores e/ou dos magnetos;
+
+   auditoria interna do procedimento de revisão de magnetos, na busca por desvios na
+
+  execução dos serviços;
+
+   curso de reciclagem de instalação e teste de magnetos na aeronave para mecânicos; e
+
+   aviso aos pilotos na caderneta da aeronave com relação à importância e obrigatorie-
+
+  dade de registar dificuldades em serviço relacionadas aos magnetos.
+
+  Caso a organização disponha de dados (próprios ou de terceiros) de probabilidade da ocor-
+
+  rência de dificuldades de serviço, incidentes ou acidentes relacionados às falhas de magne-
+
+  tos, ela pode utilizar o bow-tie para avaliar a eficácia dessas medidas que visam redução
+  da
+
+  probabilidade dessas ocorrências.
+
+  GI2.4. Planilha de perigos (Hazard worksheet)
+
+  Gi2.4.1. Consiste numa planilha na qual se registra todo o processo de gerenciamento de
+  riscos rela-
+
+  cionados a determinado perigo. Dessa forma, auxilia no fornecimento de evidências de que
+
+  as situações de riscos à segurança operacional foram devidamente avaliadas, a fim de se
+  de-
+
+  cidir sobre a continuidade das atividades/operações.
+
+  Gi2.4.2. De modo geral, esse registro possui as seguintes informações:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- falha
+- falhas
+- revisao
+- motores
+- analise
+- consequencia
+- magnetos
+- motor
+- banco
+- medidas
+- combustivel
+- dessas
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

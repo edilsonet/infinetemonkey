@@ -1,0 +1,30 @@
+id: rbac-rbac-161-termos-e-definicoes-p
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: termos-e-definicoes
+section_title: Termos e definições
+subsection_id: p
+cite: termos-e-definicoes(p)
+title: termos-e-definicoes(p)
+text: '(p)
+
+  Residência multifamiliar: edificação destinada exclusivamente à habitação, isolada ou agrupada
+  horizontal ou verticalmente, com mais de uma unidade autônoma por lote.'
+keywords:
+- definicoes
+- termos
+- agrupada
+- autonoma
+- destinada
+- edificacao
+- exclusivamente
+- habitacao
+- horizontal
+- isolada
+- lote
+- multifamiliar
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

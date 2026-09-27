@@ -1,0 +1,111 @@
+id: is-is-117-001-definicoes-body
+kind: is
+document: is-117-001
+family: '117'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Para os efeitos desta IS, são válidas as definições contidas no RBAC nº 01 e no RBAC nº
+  117, além das abaixo listadas:
+
+  Alerta significa a habilidade de direcionar e sustentar a atenção, sendo influenciada pelo
+  sono anterior e pela perda de sono, ritmicidade circadiana, tempo na tarefa (duração do
+  trabalho contínuo) e outros fatores. O alerta manifesta-se como a habilidade de manter a
+  atenção necessária para desempenhar uma tarefa de um nível específico. A sonolência é associada
+  à redução do alerta.
+
+  Ciclo NREM/REM significa a alternância regular de sono NREM e sono REM durante um período
+  de sono, em um ciclo de aproximadamente 80 a 90 minutos.
+
+  Desempenho cognitivo significa a capacidade de processar o pensamento e se envolver em atividade
+  intelectual consciente, por exemplo, nos tempos de reação, resolução de problemas, atenção
+  vigilante, memória e transferência cognitiva. Vários estudos demonstraram os efeitos negativos
+  da perda de sono no desempenho cognitivo.
+
+  Dessincronização circadiana significa a perda da sincronização entre ritmos de um mesmo
+  organismo, pela quebra temporal interna (perda de aclimatação).
+
+  Impulso homeostático do sono significa a necessidade do corpo pelo sono de ondas lentas
+  (sono profundo) que cresce à medida que se permanece mais tempo acordado, e que é descarregada
+  durante o sono (“pressão do sono”).
+
+  Inércia do sono significa um estado no qual o indivíduo, logo após acordar, experimenta
+  desorientação temporária, letargia e prejuízo de desempenho. A duração e a intensidade da
+  inércia do sono são maiores quando o indivíduo não obteve sono suficiente anterior, quando
+  é acordado durante o sono profundo ou durante a Janela de Baixa do Alerta no Ritmo Circadiano.
+
+  Jet lag (jet: jato; lag: defasagem) significa a dessincronização entre o relógio biológico
+  e o ciclo dia/noite causado por voos transmeridionais (dessincronização circadiana, isto
+  é, perda da aclimatação).
+
+  Microssono significa um período curto (de segundos) em que o cérebro se “desliga” (desconecta)
+  do ambiente (ele para de processar as informações do meio) e cai incontrolavelmente no sono
+  leve. É um sinal de sonolência extrema.
+
+  Monofolga significa a folga concedida por período inferior a 48 horas consecutivas.
+
+  PVT (Psychomotor Vigilance Task ou teste de vigilância psicomotora) significa um teste visual
+  de tempo de reação, que não depende de aptidão ou habilidade do indivíduo e não apresenta
+  uma curva de aprendizagem. O teste é sensível mesmo a pequenas perdas de sono e informa
+  sobre a capacidade da atenção sustentada e da vigilância.
+
+  Sono de movimento não rápido dos olhos (sono não REM ou NREM) significa um tipo de sono
+  associado à desaceleração gradual da atividade elétrica no cérebro (visto como ondas cerebrais
+  medidas por eletrodos presos ao couro cabeludo, conhecido como eletroencefalograma - EEG).
+  À medida que as ondas cerebrais diminuem no sono não REM, elas também aumentam em amplitude,
+  com a atividade de grandes grupos de células cerebrais (neurônios) tornando-se sincronizadas.
+  O sono não REM costuma ser dividido em 3 estágios, com base nas características das ondas
+  cerebrais. Os estágios 1 e 2 representam um sono mais leve. O estágio 3 representa o sono
+  mais profundo e é conhecido como sono de ondas lentas.
+
+  Sono de movimento rápido dos olhos (sono REM) significa um tipo de sono durante o qual a
+  atividade elétrica do cérebro se assemelha à da vigília. No entanto, de tempos em tempos,
+  os olhos se movem sob as pálpebras fechadas - os “movimentos rápidos dos olhos” - e isso
+  geralmente é acompanhado por espasmos musculares e frequência cardíaca e respiração irregulares.
+  As pessoas acordadas do sono REM normalmente podem se lembrar de sonhos vívidos. Ao mesmo
+  tempo, o corpo não pode se mover em resposta aos sinais do cérebro, então os sonhos não
+  podem ser “representados”. O estado de paralisia durante o sono REM às vezes é conhecido
+  como "bloqueio REM".
+
+  Relógio biológico ou relógio circadiano ou relógio interno significa um marcapasso neuronal
+  localizado no cérebro que monitora o ciclo noite/dia e determina nossa preferência enquanto
+  espécie de dormir à noite.
+
+  Sonolência significa um estado de tendência crescente para dormir, resultante de perda de
+  sono ou vigília estendida, ritmicidade circadiana, medicações, ou diversos distúrbios do
+  sono. A sonolência se manifesta objetivamente como uma propensão aumentada em pegar no sono
+  rapidamente, e subjetivamente como uma necessidade crescente ou desejo de dormir. A sonolência
+  contribui para a fadiga mental.
+
+  Zeitgeber (do alemão, “doador de tempo”) significa qualquer marcador de tempo [sincronizador]
+  exógeno (externo) capaz de sincronizar a função do meio interno. Existem zeitgebers naturais,
+  sendo o mais forte a luz (fótico), mas temperatura, e padrões de alimentação/hidratação
+  e exercícios físicos também podem alterar as funções internas. Há ainda os zeitgebers considerados
+  sociais, os quais estão relacionados com a organização dos seres humanos em sociedade e
+  as necessidades de trabalho relacionadas com ela.'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- sono
+- significa
+- durante
+- perda
+- tempo
+- cerebro
+- ondas
+- sonolencia
+- alerta
+- atencao
+- atividade
+- cerebrais
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-117-001.md

@@ -1,0 +1,57 @@
+id: is-is-133-001-6-body
+kind: is
+document: is-133-001
+family: '133'
+section_id: '6'
+section_title: Combinação aeronave-carga.
+subsection_id: body
+cite: '6'
+title: Combinação aeronave-carga.
+text: '6. Combinação aeronave-carga.
+
+  O peso total deste helicóptero e combinação de carga não pode exceder: _____________
+
+
+  Fabricante e modelo __________________________ Matrícula _________________
+
+
+  Peso máximo da carga Classe A ________ # não pode exceder o peso bruto máximo de _________
+
+  Velocidade máxima a frente (em nós) ____________ Outros ___________________
+
+
+  Fabricante e modelo __________________________ Matrícula _________________
+
+  Peso máximo da carga Classe B ________ # não pode exceder o peso bruto máximo de _________
+
+  Velocidade máxima a frente (em nós) ____________ Outros ___________________
+
+  Nota: tenha muito cuidado ao transportar cargas externas Classe B, pois o tamanho e a forma
+  da carga podem afetar a capacidade de controle.
+
+
+  Fabricante e modelo __________________________ Matrícula _________________
+
+  Peso máximo da carga Classe C ________ # não pode exceder o peso bruto máximo de _________
+
+  Velocidade máxima a frente (em nós) ____________ Outros ___________________'
+keywords:
+- carga-externa
+- helicoptero
+- carga
+- peso
+- maximo
+- classe
+- combinacao
+- exceder
+- pode
+- aeronave
+- bruto
+- fabricante
+- frente
+- matricula
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

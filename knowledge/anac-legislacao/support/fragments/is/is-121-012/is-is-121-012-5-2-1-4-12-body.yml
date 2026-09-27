@@ -1,0 +1,46 @@
+id: is-is-121-012-5-2-1-4-12-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.4.12
+section_title: Falhas totais ou parciais de sistemas
+subsection_id: body
+cite: 5.2.1.4.12
+title: Falhas totais ou parciais de sistemas
+text: '5.2.1.4.12 Falhas totais ou parciais de sistemas
+
+  5.2.1.4.12.1 Durante uma operação ETOPS, a disponibilidade limitada de aeródromos de alternativa
+  e as grandes distâncias para alcançá-los requerem que as falhas totais ou parciais de sistemas
+  sejam cuidadosamente avaliadas, incluindo uma avaliação detalhada dos sistemas restantes
+  e da capacidade operacional do avião como um todo. Quando o tempo permitir, o piloto em
+  comando deve utilizar a comunicação com o centro de despacho do detentor de certificado
+  para obter as informações disponíveis e, então, determinar qual a forma mais segura de continuar
+  o voo, seja desviando e pousando no aeródromo de alternativa ou seguindo o voo inicialmente
+  planejado.
+
+  5.2.1.4.12.2 Se, como resultado da avaliação dos sistemas do avião, uma mudança no plano
+  de voo for requerida, o DOV deve prover ao piloto em comando informações atualizadas do
+  plano de voo revisado e uma atualização das condições, incluindo as condições meteorológicas
+  nos aeródromos de alternativa ETOPS. O DOV deve informar os pilotos sobre os aeródromos
+  adicionais ao longo da rota que poderiam ser utilizados como alternativa. Em nenhuma circunstância,
+  no plano de voo revisado, o tempo de desvio máximo pode ser excedido.'
+keywords:
+- transporte-aereo
+- operacoes
+- sistemas
+- alternativa
+- falhas
+- parciais
+- totais
+- aerodromos
+- plano
+- avaliacao
+- aviao
+- comando
+- condicoes
+- etops
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

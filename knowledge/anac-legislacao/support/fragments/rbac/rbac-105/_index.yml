@@ -28,10 +28,14 @@ sections:
 - '105.33'
 - '105.35'
 - '105.37'
+- aprovacao
 - preambulo
-fragment_count: 35
+- sumario
+fragment_count: 37
 fragment_ids:
 - rbac-rbac-105-preambulo-body
+- rbac-rbac-105-aprovacao-body
+- rbac-rbac-105-sumario-body
 - rbac-rbac-105-105-1-body
 - rbac-rbac-105-105-3-body
 - rbac-rbac-105-105-11-body
@@ -66,4 +70,4 @@ fragment_ids:
 - rbac-rbac-105-105-33-b
 - rbac-rbac-105-105-35-a
 - rbac-rbac-105-105-35-b
-parser_version: 6
+parser_version: 7

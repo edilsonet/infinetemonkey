@@ -1,0 +1,62 @@
+id: is-is-119-008-5-3-3-body
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.3.3
+section_title: Benefícios do PAADV
+subsection_id: body
+cite: 5.3.3
+title: Benefícios do PAADV
+text: '5.3.3 Benefícios do PAADV
+
+  5.3.3.1 Um PAADV pode requerer recursos humanos e financeiros de implementação significativos.
+  No entanto, se bem aplicados, podem vir a oferecer ganhos que superam os custos de implementação,
+  seja na área de gestão da segurança operacional ou no aumento da eficiência das operações
+  e na economia de recursos.
+
+  5.3.3.2 Aderência aos procedimentos. Programas de análises de dados bem-sucedidos inseridos
+  em uma cultura de segurança operacional positiva estimulam a aderência aos SOP e possibilitam
+  a detecção de qualquer comportamento que esteja fora do padrão pré-estabelecido. Além disso,
+  é possível detectar tendências adversas em qualquer fase do voo, permitindo assim a investigação
+  de eventos, incluindo aqueles que possam ter levado a consequências mais graves.
+
+  5.3.3.3 Melhoria dos processos. A análise dos dados de voos também pode permitir identificar
+  procedimentos não-padrão ou deficientes, ou ainda falhas nos procedimentos no controle de
+  tráfego aéreo (ATC) e anomalias no desempenho da aeronave. Um PAADV ainda permite o monitoramento
+  de vários parâmetros de perfil de voo, como por exemplo, a aderência aos SOP nas fases de
+  decolagem, subida, cruzeiro, descida, aproximação e pouso. Por fim, é possível também examinar
+  a efetividade de mudanças introduzidas na operação por meio de comparação antes/depois dos
+  parâmetros de voos e indicadores.
+
+  5.3.3.4 Investigação de eventos. Os dados do evento podem ser comparados com informações
+  de toda a frota para uma determinada localidade ou fase de voo, facilitando assim identificar
+  se o evento ocorreu de forma isolada ou se há um perigo sistêmico nas operações.
+
+  5.3.3.5 Monitoramento da aeronave, sistemas e componentes. Os programas de monitoramento
+  dos motores podem utilizar dados do PAADV para análise de tendência confiável, uma vez que
+  dados dos motores codificados manualmente são limitados em termos de precisão, oportunidade
+  e confiabilidade. Também é possível monitorar outros aspectos da fuselagem e sistemas. Ao
+  planejar isso, contudo, deve-se ter cuidado com a segurança dos dados identificados para
+  impedir o contato inadequado da equipe ou a identificação em assuntos operacionais.
+
+  5.4 PRÉ-REQUISITOS PARA UM PAADV EFETIVO'
+keywords:
+- certificacao-de-operador
+- operacoes
+- paadv
+- dados
+- aderencia
+- beneficios
+- monitoramento
+- podem
+- possivel
+- procedimentos
+- seguranca
+- aeronave
+- analise
+- assim
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

@@ -1,0 +1,40 @@
+id: is-is-121-017-5-2-2-2-a
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.2.2.2
+section_title: 'Pouso. Para pouso, o próprio TAF não fornece uma previsão de pressão. O planejamento
+  de voo deve considerar:'
+subsection_id: a
+cite: 5.2.2.2(a)
+title: 5.2.2.2(a)
+text: 'a) caso o aeródromo disponha de informes meteorológicos que atendam às seções 121.101
+  ou 121.119: a menor pressão atmosférica entre:
+
+  I. a pressão referente à elevação do aeródromo, considerando atmosfera padrão; e
+
+  II. a pressão vigente no aeródromo, reduzida de uma margem de segurança de:
+
+  A. 2 hPa para voos de até 2h;
+
+  B. 4 hPa para voos de mais de 2h; e'
+keywords:
+- transporte-aereo
+- operacoes
+- pressao
+- aerodromo
+- pouso
+- voos
+- atendam
+- atmosfera
+- atmosferica
+- caso
+- considerando
+- considerar
+- disponha
+- elevacao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

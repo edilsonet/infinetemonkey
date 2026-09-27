@@ -1,0 +1,58 @@
+id: is-is-135-009-5-3-7-body
+kind: is
+document: is-135-009
+family: '135'
+section_id: 5.3.7
+section_title: As demais alterações ao AOM deverão ser aceitas pela ANAC.
+subsection_id: body
+cite: 5.3.7
+title: As demais alterações ao AOM deverão ser aceitas pela ANAC.
+text: '5.3.7 As demais alterações ao AOM deverão ser aceitas pela ANAC.
+
+  5.3.8 O AOM deve ser enviado à ANAC em formato digital, acompanhado do formulário FOP 207
+  (previsto na IS nº 119-004), com a indicação do número de sua revisão, sendo que não é aceita
+  a indicação “Revisão Original”, mas Revisão 0.0, quando esta for aplicável. O operador deverá
+  declarar no FOP 207, claramente, quais seções do manual foram alteradas e quais partes se
+  encaixam nas situações listadas no item 5.3.5 que requeiram aprovação da ANAC.
+
+  5.3.9 Para aprovação de revisões do AOM, a ANAC emitirá o formulário FOP 211 (também previsto
+  na IS nº 119-004). O FOP 211 de aprovação mencionará, no campo “revisão”, apenas o campo
+  referente à revisão das partes aprovadas (“N1” no item 5.3.3 desta IS), explicitando que
+  aquela aprovação permanece válida qualquer que seja a revisão das partes aceitas do manual.
+
+  5.3.10 Para revisões que requeiram apenas aceitação, haverá emissão de FOP 212, para formalização
+  do recebimento do processo de aceitação. O operador poderá considerar que o AOM está aceito
+  se não houver notificação da ANAC rejeitando parte ou todo o material submetido, após o
+  envio da revisão aceita, mesmo antes da emissão do FOP 212.
+
+  5.4 Uso do manual pelo operador
+
+  5.4.1 O operador deve possuir um procedimento descrito em seu MGO para garantir que o AOM
+  aceito seja disponibilizado e atualizado para todas as pessoas relevantes.
+
+  5.4.2 Conforme prevê o parágrafo 135.81(c), o AOM deve ser obrigatoriamente disponibilizado
+  a bordo para a tripulação de voo, em via física ou digital (conforme aceito pela ANAC).
+
+  5.4.3 Adicionalmente, os funcionários do operador responsáveis pelo controle operacional
+  devem possuir acesso às partes do AOM que contenham informações relevantes para a liberação
+  da aeronave.'
+keywords:
+- taxi-aereo
+- operacoes
+- revisao
+- operador
+- aceitas
+- aprovacao
+- partes
+- aceito
+- alteracoes
+- demais
+- deverao
+- manual
+- aceita
+- aceitacao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-009.md

@@ -1,0 +1,35 @@
+id: iac-iac-001-1001a-11-1-9-1-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 11.1.9.1
+section_title: Se existirem anexos, estes deverão estar no final do texto e serão paginados
+  pela
+subsection_id: body
+cite: 11.1.9.1
+title: Se existirem anexos, estes deverão estar no final do texto e serão paginados pela
+text: '11.1.9.1 Se existirem anexos, estes deverão estar no final do texto e serão paginados
+  pela
+
+  numeração formada pela letra A, seguida de número arábico seqüencial que identificará o
+
+  anexo.
+
+  Exemplo: A-1 (Anexo um), A-2 (Anexo dois).'
+keywords:
+- anexo
+- anexos
+- deverao
+- estar
+- estes
+- existirem
+- final
+- paginados
+- texto
+- arabico
+- dois
+- exemplo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

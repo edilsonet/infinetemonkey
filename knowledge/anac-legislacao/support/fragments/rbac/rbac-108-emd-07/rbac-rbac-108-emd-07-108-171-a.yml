@@ -1,0 +1,33 @@
+id: rbac-rbac-108-emd-07-108-171-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.171'
+section_title: Despacho AVSEC do voo
+subsection_id: a
+cite: 108.171(a)
+title: 108.171(a)
+text: (a) O operador aéreo deve produzir o Despacho AVSEC do voo, por meio de profissional(is)
+  designado(s) e capacitado(s) conforme parágrafo 108.13(b), que deve ser composto pela documentação
+  que comprove a realização das atividades AVSEC necessárias para o voo. Cada formulário que
+  compõe o Despacho AVSEC deve possuir a identificação do profissional que o elabora.
+keywords:
+- seguranca
+- operador
+- avsec
+- despacho
+- profissional
+- aereo
+- atividades
+- cada
+- capacitado
+- compoe
+- composto
+- comprove
+- designado
+- documentacao
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

@@ -1,0 +1,54 @@
+id: is-is-91-001-k2-5-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K2.5
+section_title: 'Limites de temperatura. Os limites inferiores e superiores de temperatura
+  para aeronaves que utilizam sistema de navegação barométrico (baro-VNAV) estão identificados
+  na carta de aproximação. Aeronaves utilizando sistema de compensação de temperatura ou um
+  meio alternativo de navegação vertical (ex.: SBAS), podem desconsiderar os limites de temperatura
+  informados.'
+subsection_id: body
+cite: K2.5
+title: 'Limites de temperatura. Os limites inferiores e superiores de temperatura para aeronaves
+  que utilizam sistema de navegação barométrico (baro-VNAV) estão identificados na carta de
+  aproximação. Aeronaves utilizando sistema de compensação de temperatura ou um meio alternativo
+  de navegação vertical (ex.: SBAS), podem desconsiderar os limites de temperatura informados.'
+text: 'K2.5 Limites de temperatura. Os limites inferiores e superiores de temperatura para
+  aeronaves que utilizam sistema de navegação barométrico (baro-VNAV) estão identificados
+  na carta de aproximação. Aeronaves utilizando sistema de compensação de temperatura ou um
+  meio alternativo de navegação vertical (ex.: SBAS), podem desconsiderar os limites de temperatura
+  informados.
+
+  Nota 1: os limites de temperatura estabelecidos nas cartas são determinados em função do
+  livramento de obstáculos no segmento de aproximação final. Levando-se em consideração os
+  efeitos da temperatura no perfil vertical, pode ser necessário o ajuste da altitude mínima
+  nos segmentos de aproximação final e intermediária bem como na altitude de decisão.
+
+  Nota 2: variações de temperatura afetam a altitude indicada. Quando a temperatura atual
+  estiver acima da temperatura padrão (ISA) a aeronave estará voando acima da rampa prevista,
+  da mesma forma, quando a temperatura for inferior à ISA a aeronave estará com a altitude
+  real inferior à altitude indicada.
+
+  Nota 3: os pilotos são responsáveis pelas correções envolvendo os limites inferiores de
+  temperatura, devendo ajustar as seguintes altitudes mínimas publicadas:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- temperatura
+- limites
+- aeronaves
+- navegacao
+- sistema
+- altitude
+- aproximacao
+- inferiores
+- vertical
+- alternativo
+- baro
+- barometrico
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

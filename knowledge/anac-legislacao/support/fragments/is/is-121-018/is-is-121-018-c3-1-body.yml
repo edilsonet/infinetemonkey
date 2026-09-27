@@ -1,0 +1,45 @@
+id: is-is-121-018-c3-1-body
+kind: is
+document: is-121-018
+family: '121'
+section_id: C3.1
+section_title: A execução de um procedimento de aproximação de não precisão com a técnica
+  CDFA com guia vertical calculada por equipamentos a bordo da aeronave é considerada uma
+  operação de aproximação por instrumentos 3D. Dependendo das limitações do equipamento e
+  das fontes de informação usadas para a guia vertical, pode ser necessário que o piloto faça
+  um cross-check da guia com outras fontes de navegação durante a aproximação, para garantir
+  que seja observada a altura/altitude mínima sobre os fixos publicados.
+subsection_id: body
+cite: C3.1
+title: A execução de um procedimento de aproximação de não precisão com a técnica CDFA com
+  guia vertical calculada por equipamentos a bordo da aeronave é considerada uma operação
+  de aproximação por instrumentos 3D. Dependendo das limitações do equipamento e das fontes
+  de informação usadas para a guia vertical, pode ser necessário que o piloto faça um cross-check
+  da guia com outras fontes de navegação durante a aproximação, para garantir que seja observada
+  a altura/altitude mínima sobre os fixos publicados.
+text: C3.1 A execução de um procedimento de aproximação de não precisão com a técnica CDFA
+  com guia vertical calculada por equipamentos a bordo da aeronave é considerada uma operação
+  de aproximação por instrumentos 3D. Dependendo das limitações do equipamento e das fontes
+  de informação usadas para a guia vertical, pode ser necessário que o piloto faça um cross-check
+  da guia com outras fontes de navegação durante a aproximação, para garantir que seja observada
+  a altura/altitude mínima sobre os fixos publicados.
+keywords:
+- transporte-aereo
+- operacoes
+- aproximacao
+- guia
+- fontes
+- vertical
+- aeronave
+- altitude
+- altura
+- bordo
+- calculada
+- cdfa
+- check
+- considerada
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

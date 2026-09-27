@@ -1,0 +1,62 @@
+id: is-is-120-017-apendice-b-ajustes-em-tarefa-intervalo-diagrama-de-alto-nivel-body
+kind: is
+document: is-120-017
+family: '120'
+section_id: apendice-b-ajustes-em-tarefa-intervalo-diagrama-de-alto-nivel
+section_title: APÊNDICE B - AJUSTES EM TAREFA/INTERVALO - DIAGRAMA DE ALTO NÍVEL
+subsection_id: body
+cite: apendice-b-ajustes-em-tarefa-intervalo-diagrama-de-alto-nivel
+title: APÊNDICE B - AJUSTES EM TAREFA/INTERVALO - DIAGRAMA DE ALTO NÍVEL
+text: 'APÊNDICE B - AJUSTES EM TAREFA/INTERVALO - DIAGRAMA DE ALTO NÍVEL
+
+  Notas:
+
+  1. Instruções de Aeronavegabilidade Continuada (Instructions for Continued Airworthiness
+  - ICA) derivadas de
+
+  Certificado Suplementar de Tipo (CST) não devem ser tratadas diferentemente de qualquer
+  outra tarefa, a menos
+
+  que os documentos da ICA do detentor do CST forneçam instruções específicas para gerenciamento
+  de intervalos.
+
+  Coordenar com detentores do CST, apresentando feedback do desempenho do produto durante
+  iniciativas de análise
+
+  associadas a estes projetos, é uma boa prática para os operadores.
+
+  2. Exemplos incluem: Diretriz de Aeronavegabilidade (DA), Certification Maintenance Requirements
+  (CMR),
+
+  airworthiness limitation item (ALI), tarefas de limitações de aeronavegabilidade (airworthiness
+  limitation - AL),
+
+  tarefas fuel tank safety (FTS), tarefas com Failure Effect Category (FEC) 5 ou 8 indicadas
+  como associadas a CMR,
+
+  etc.
+
+  3. Os operadores não devem contar exclusivamente com a classificação de códigos FEC do detentor
+  do projeto de tipo.
+
+  A compreensão das funções sob análise e consequências associadas à falha funcional é benéfica.'
+keywords:
+- antidrogas
+- saude
+- tarefa
+- aeronavegabilidade
+- airworthiness
+- ajustes
+- alto
+- apendice
+- associadas
+- diagrama
+- intervalo
+- nivel
+- tarefas
+- analise
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

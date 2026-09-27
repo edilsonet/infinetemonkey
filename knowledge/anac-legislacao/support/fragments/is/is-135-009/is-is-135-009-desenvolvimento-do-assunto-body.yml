@@ -1,0 +1,68 @@
+id: is-is-135-009-desenvolvimento-do-assunto-body
+kind: is
+document: is-135-009
+family: '135'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Introdução
+
+  5.1.1 O parágrafo 135.81(c) do RBAC nº 135 determina que o operador deve manter atualizado
+  o Manual de Voo aprovado da Aeronave ou equivalente para cada modelo de aeronave usada em
+  operações segundo o RBAC nº 135.
+
+  5.1.2 Para satisfazer a seção 135.81(c) do RBAC nº 135, o operador pode utilizar o Manual
+  de Voo aprovado da aeronave (Airplane Flight Manual (AFM) para avião ou Rotorcraft Fllight
+  Manual (RFM) para helicóptero) para cada tipo da aeronave utilizada, ou pode elaborar, obter
+  aprovação e utilizar um Manual de Operações da Aeronave (AOM) para cada tipo de aeronave
+  operada.
+
+  5.1.3 O AFM ou RFM é um documento técnico elaborado pelo fabricante e aprovado pela autoridade
+  aeronáutica durante o processo de certificação da aeronave. Para aeronaves de asa fixa categoria
+  normal, a estrutura e o conteúdo do manual de voo estão previstos na seção 23.2620 do RBAC
+  nº 23 e na seção 25.1581 do RBAC nº 25. Para aeronaves de asa rotativa, a previsão está
+  na seção 27.1581 do RBAC nº 27 e na seção 29.1581do RBAC nº 29.
+
+  5.1.4 Geralmente, por se tratar de um documento de certificação de aeronavegabilidade, o
+  AFM ou RFM não aborda de maneira abrangente e didática todos os procedimentos e atribuições
+  da tripulação.
+
+  5.1.5 Já o AOM é um documento mais completo e didático, elaborado pelo operador aéreo (ou
+  pelo fabricante da aeronave, sob demanda do operador) com base nas informações técnicas
+  contidas no AFM ou RFM, mas complementando-as e organizando-as tendo em vista o fim específico
+  de orientar tripulantes e demais pessoas envolvidas diretamente na operação da aeronave
+  e no controle operacional.
+
+  5.1.6 Por isso, de uma maneira geral, a ANAC recomenda que o operador desenvolva e utilize
+  um AOM próprio, aprovado pela ANAC, que seja adequado à sua realidade operacional e atenda
+  aos critérios previstos nesta IS.
+
+  5.1.7 Embora seja permitido o operador substituir o AFM/RFM pelo AOM, caso o operador opte
+  por elaborar e utilizar o AOM, a ANAC recomenda que o AFM esteja disponível a bordo da aeronave,
+  para que seja consultado na eventualidade de alguma dúvida.
+
+  5.2 Conteúdo do manual'
+keywords:
+- taxi-aereo
+- operacoes
+- aeronave
+- manual
+- operador
+- secao
+- aprovado
+- assunto
+- cada
+- desenvolvimento
+- documento
+- seja
+- utilizar
+- aeronaves
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-009.md

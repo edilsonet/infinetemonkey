@@ -1,0 +1,24 @@
+id: rbac-rbac-155-generalidades-c
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: generalidades
+section_title: Generalidades
+subsection_id: c
+cite: generalidades(c)
+title: generalidades(c)
+text: '(c)
+
+  A FATO e a TLOF devem prover efeito solo.'
+keywords:
+- seguranca-aeroportuaria
+- generalidades
+- efeito
+- fato
+- prover
+- solo
+- tlof
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,33 @@
+id: is-is-91-001-j7-2-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: J7.2
+section_title: 'Uma aeronave pode ser considerada elegível para operações APV/Baro-VNAV, se
+  o AFM ou suplemento do AFM ou Especificação da Aeronave (TCDS para as aeronaves isentas
+  da certificação brasileira) ou POH contiver a declaração do fabricante ou do detentor do
+  CST que a aeronave está conforme um dos regulamentos listado abaixo:'
+subsection_id: a
+cite: J7.2(a)
+title: J7.2(a)
+text: a) aeronaves que cumprem com a AC 20-129 ou AC 20-138 (Revisão B ou superior); ou
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- aeronaves
+- abaixo
+- baro
+- brasileira
+- certificacao
+- considerada
+- contiver
+- cumprem
+- declaracao
+- detentor
+- elegivel
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

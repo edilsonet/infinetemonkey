@@ -1,0 +1,232 @@
+id: is-is-e94-003-5-h
+kind: is
+document: is-e94-003
+family: '94'
+section_id: '5'
+section_title: PROCEDIMENTOS
+subsection_id: h
+cite: 5(h)
+title: 5(h)
+text: 'h) a avaliação de risco, considerando os perigos, a probabilidade e severidade da consequência,
+
+  o risco associado, a tolerabilidade, o nível hierárquico da aprovação da operação e eventuais
+
+  medidas mitigatórias do risco. Pelo menos três tipos de situações deveriam ser considerados
+  na
+
+  avaliação em cada cenário (dentre outros que o operador puder identificar):
+
+  - perda do link;
+
+  - existência de tráfego aéreo local; e
+
+  - presença de pessoas não anuentes.
+
+  Nota: para a ANAC, a tolerabilidade deve levar em conta principalmente as consequências
+  para pessoas e para
+
+  o tráfego aéreo (que indiretamente afeta pessoas). Mas o operador pode incluir outros elementos
+  de risco
+
+  na sua análise, de acordo com a sua conveniência, como risco a bens materiais de terceiros,
+  etc...
+
+  Exemplo de aplicação:
+
+  Cenário operacional hipotético: realização de inspeções em linhas de transmissão com RPA.
+
+  Situação 1 Perda do link
+
+  Probabilidade de ocorrência
+
+  (vide item 4.1.2 desta IS)
+
+  3 (remoto). Há notícias de perda de link com o modelo de
+
+  aeronave considerado.Data de emissão: 3 de maio de 2017. IS nº E94-003
+
+  Revisão A
+
+  Severidade da ocorrência
+
+  (vide item 4.1.3 desta IS)
+
+  E (insignificante). Em caso de perda de link, a aeronave se dirigirá
+
+  para o crash site programado.
+
+  Risco
+
+  (vide item 4.1.4 desta IS) 3E
+
+  Tolerabilidade
+
+  (vide item 4.1.5 desta IS) Baixo risco
+
+  Nível hierárquico de
+
+  autorização da operação Operacional
+
+  Medidas de mitigação do
+
+  risco
+
+  Utilização de check list de pré-operação, com item específico de
+
+  verificação da programação do crash site.
+
+  Situação 2 Existência de tráfego aéreo local
+
+  Probabilidade de ocorrência
+
+  (vide item 4.1.2 desta IS) 1 (muito improvável). Não há notícias de tráfego aéreo na região.
+
+  Severidade da ocorrência
+
+  (vide item 4.1.3 desta IS)
+
+  A (catastrófico). Se ocorrer um encontro com aeronave tripulada
+
+  pode ocorrer queda da aeronave e morte de pessoas.
+
+  Risco
+
+  (vide item 4.1.4 desta IS) 1A
+
+  Tolerabilidade
+
+  (vide item 4.1.5 desta IS) Risco moderado
+
+  Nível hierárquico de
+
+  autorização da operação Chefia imediata.
+
+  Medidas de mitigação do
+
+  risco
+
+  Antes de autorizar a operação, chefia imediata deve se assegurar
+
+  da inexistência de tráfego aéreo no local da operação do dia, e da
+
+  conformidade com a regulamentação do DECEA.
+
+  Situação 3 Presença de pessoas não anuentes
+
+  Probabilidade de ocorrência
+
+  (vide item 4.1.2 desta IS)
+
+  1 (muito improvável). É bastante rara a ocorrência de pessoas não
+
+  anuentes a menos de 30 metros do local da operação e, em caso de
+
+  falha catastrófica, a probabilidade de atingir aquela pessoa é muito
+
+  pequena.
+
+  Severidade da ocorrência
+
+  (vide item 4.1.3 desta IS)
+
+  B (crítico). Se ocorrer um encontro em caso de falha catastrófica
+
+  do equipamento, a severidade provável são lesões sérias à pessoa
+
+  atingida ou morte.
+
+  Risco
+
+  (vide item 4.1.4 desta IS) 1B
+
+  Tolerabilidade
+
+  (vide item 4.1.5 desta IS) Risco baixo
+
+  Nível hierárquico de
+
+  autorização da operação Operacional
+
+  Medidas de mitigação do
+
+  risco
+
+  Utilização de check list de pré-operação, com item específico de
+
+  verificação da eventual presença de pessoas no local. Caso estas
+
+  pessoas estejam a menos de 30 metros do local da operação, a
+
+  operação não pode ser iniciada antes que essas pessoas sejam
+
+  removidas. Caso uma pessoa acesse acidentalmente a área dentro
+
+  do limite dos 30 metros durante a operação, a operação deverá ser
+
+  suspensa tão rápido quanto seja praticável.
+
+  Situação 4 Ventos acima de X nós no local da operação
+
+  Probabilidade de ocorrência
+
+  (vide item 4.1.2 desta IS) 4 (Ocasional).
+
+  Severidade da ocorrência
+
+  (vide item 4.1.3 desta IS)
+
+  A (Catastrófico). Destruição da aeronave e/ou possíveis danos à
+
+  linha de transmissão em caso de colisão.*
+
+  Risco
+
+  (vide item 4.1.4 desta IS) 4A
+
+  Tolerabilidade
+
+  (vide item 4.1.5 desta IS) Risco extremo
+
+  Nível hierárquico de
+
+  autorização da operação Presidente da empresaData de emissão: 3 de maio de 2017. IS nº E94-003
+
+  Revisão A
+
+  Medidas de mitigação do
+
+  risco
+
+  Interrupção da operação até que o vento fique abaixo de X nós.
+
+  Caso se decida operar nestas condições, é requerida a aprovação
+
+  do nível hierárquico mais alto da empresa (presidente).
+
+  * Embora não haja identificado na situação 4 um risco imediato a pessoas, é discrição do
+  operador agravar a
+
+  severidade com o fim de proteger os seus bens materiais ou os de terceiros. Desse modo,
+  ele pode classificar como
+
+  “catastrófica” a severidade onde outros, por não identificarem danos imediatos a pessoas,
+  poderiam optar por
+
+  classificar como “pequeno”, “significativo” ou “crítico”.'
+keywords:
+- risco
+- desta
+- operacao
+- vide
+- pessoas
+- ocorrencia
+- severidade
+- caso
+- local
+- hierarquico
+- nivel
+- probabilidade
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-003.md

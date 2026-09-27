@@ -1,0 +1,37 @@
+id: is-is-135-008a-5-2-12-g
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.2.12
+section_title: 'A implementação de qualquer SOP é mais eficaz quando:'
+subsection_id: g
+cite: 5.2.12(g)
+title: 5.2.12(g)
+text: 'g) os membros da tripulação estão cientes dos riscos / perigos potenciais se os SOP
+  não forem seguidos.
+
+  5.2.13 O detentor do certificado deve cuidar para que esse manual esteja sempre atualizado,
+  em acordo com o manual de voo da aeronave (AFM/RFM), checklists, boletins, relatórios e
+  diretrizes emitidas pelo fabricante ou autoridades de aviação.
+
+  5.3 Determinando quando os procedimentos necessitam ser projetados ou modificados'
+keywords:
+- taxi-aereo
+- operacoes
+- manual
+- acordo
+- aeronave
+- atualizado
+- autoridades
+- aviacao
+- boletins
+- certificado
+- checklists
+- cientes
+- cuidar
+- detentor
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

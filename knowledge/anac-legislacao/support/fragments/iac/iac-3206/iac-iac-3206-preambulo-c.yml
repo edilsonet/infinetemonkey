@@ -1,0 +1,34 @@
+id: iac-iac-3206-preambulo-c
+kind: iac
+document: iac-3206
+family: '320'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: c
+cite: preambulo(c)
+title: preambulo(c)
+text: 'c) Tripulação Mínima / Simples para aeronaves que requeiram a qualificação de tipo
+  - Um
+
+  piloto qualificado ao nível de piloto em comando no tipo, designado Comandante, o outro
+
+  com a qualificação ao nível de Co-Piloto no tipo, ambos titulares da qualificação IFR.
+
+  02 - Aviões operando segundo a regras de vôo por Instrumento (IFR)'
+keywords:
+- piloto
+- qualificacao
+- tipo
+- nivel
+- preambulo
+- aeronaves
+- ambos
+- avioes
+- comandante
+- comando
+- designado
+- instrumento
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-3206.md

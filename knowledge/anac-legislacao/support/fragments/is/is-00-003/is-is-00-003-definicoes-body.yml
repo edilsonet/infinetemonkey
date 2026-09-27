@@ -1,0 +1,531 @@
+id: is-is-00-003-definicoes-body
+kind: is
+document: is-00-003
+family: '0'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+
+  Lembre-se de todas as definições fornecidas no Doc 4444, exceto as seguintes: unidade de
+  aceitação / controlador, circuito de táxi AD, serviço fixo aeronáutico (AFS), estação fixa
+  aeronáutica, taxiamento aéreo, alocação, funil de aproximação, atribuição, convenção de
+  dados, processamento de dados, código discreto, valor "D", status de voo, efeito de solo,
+  unidade / controlador de recepção, unidade / controlador de envio, ponto de transferência
+  de controle, unidade / controlador de transferência, balão livre não tripulado
+
+
+  Capacidade do sistema ATS e gerenciamento de fluxo de tráfego aéreo (ATFM)
+
+
+  Explique quando e onde o serviço ATFM deve ser implementado.
+
+
+  Disposições gerais para serviços de tráfego aéreo
+
+
+  Descreva quem é responsável pelo fornecimento de informações de voo e serviço de alerta
+  em uma região de informação de voo (FIR) dentro do espaço aéreo controlado e em aeródromos
+  controlados.
+
+
+  Autorizações ATC
+
+
+  Explique ''o único escopo e propósito'' de uma autorização ATC.
+
+
+  Indique em que informações se baseia a emissão de uma autorização ATC.
+
+
+  Descreva o que um PIC deve fazer se uma autorização ATC não for adequada.
+
+
+  Indique quem tem a responsabilidade de cumprir as regras e regulamentos aplicáveis durante
+  o voo sob o controle de uma unidade ATC.
+
+
+  Cite os dois objetivos principais das autorizações emitidas por unidades ATC.
+
+
+  Indique porque as autorizações devem ser emitidas "com antecedência suficiente" para a aeronave
+  em rota.
+
+
+  Explique o que se entende pela expressão ''limite de liberação''.
+
+
+  Explique o significado das frases ''liberado via rota planejada de voo'', ''liberado via
+  (designação) partida'' e ''liberado via (designação) chegada'' em uma autorização ATC.
+
+
+  Liste quais itens de uma autorização ATC devem sempre ser lidos pela tripulação de voo.
+
+
+  Instruções de controle de velocidade horizontal
+
+
+  Explique o motivo do controle de velocidade pelo ATC.
+
+
+  Defina as alterações de velocidade máxima que o ATC pode impor.
+
+
+  Indique em qual distância do limite o PIC não deve esperar nenhum tipo de controle de velocidade.
+
+
+  Mudança de voo IFR para VFR
+
+
+  Explique como a mudança de IFR para VFR pode ser iniciada pelo PIC.
+
+
+  Indique a reação esperada da unidade ATC apropriada a um pedido de mudança de IFR para VFR.
+
+
+  Turbulência de rastro
+
+
+  Indique as categorias de turbulência de rastro da aeronave.
+
+
+  Indique os mínimos de separação na esteira de turbulência.
+
+
+  Descreva como uma aeronave "pesada" deve indicar isso no contato inicial de radiotelefonia
+  com ATS.
+
+
+  Procedimentos de configuração de altímetro
+
+
+  Defina os seguintes termos:
+
+
+  nível de transição;
+
+
+  camada de transição; e
+
+
+  altitude de transição.
+
+
+  Indique como a posição vertical de uma aeronave nas proximidades de um aeródromo deve ser
+  expressa na ou abaixo da altitude de transição, no ou acima do nível de transição, e durante
+  a subida ou descida através da camada de transição.
+
+
+  Descreva quando a altura de uma aeronave usando QFE durante uma aproximação NDB é referida
+  ao limite de pouso em vez da elevação do aeródromo.
+
+
+  Indique até que ponto as configurações de altímetro fornecidas para a aeronave devem ser
+  arredondadas para cima ou para baixo.
+
+
+  Defina a expressão "nível de voo mais baixo utilizável (praticável)".
+
+
+  Determine como a posição vertical de uma aeronave em um voo em rota é expressa em ou acima
+  do nível de voo mais baixo utilizável e abaixo do nível de voo mais baixo utilizável.
+
+
+  Indicar quem estabelece o nível de transição a ser usado nas proximidades de um aeródromo.
+
+
+  Decida como e quando um membro da tripulação de voo será informado sobre o nível de transição.
+
+
+  Declare se o piloto pode ou não solicitar que o nível de transição seja incluído na autorização
+  de aproximação.
+
+
+  Indique em que tipo de folga a configuração do altímetro QNH deve ser incluída.
+
+
+  Relatório de posição
+
+
+  Descreva quando os relatórios de posição devem ser feitos por uma aeronave voando em rotas
+  definidas por pontos significativos designados.
+
+
+  Liste os seis itens que normalmente são incluídos em um relatório de posição feito por voz.
+
+
+  Cite os requisitos para usar um relatório de posição simplificado com nível de voo, próxima
+  posição (e tempo excedido) e pontos significativos subsequentes omitidos.
+
+
+  Nomeie o item de um relatório de posição que deve ser encaminhado ao ATC com a chamada inicial
+  após a mudança para uma nova frequência.
+
+
+  Indique o item de um relatório de posição que pode ser omitido se SSR modo "C" for usado.
+
+
+  Explique em quais circunstâncias a velocidade no ar indicada deve ser incluída em um relatório
+  de posição.
+
+
+  Explique o significado da sigla ‘ADS’.
+
+
+  Declare para qual unidade um relatório de ADS deve ser feito.
+
+
+  Descreva como os relatórios de ADS devem ser feitos.
+
+
+  Descreva qual expressão deve preceder os valores de nível em um relatório de posição se
+  o nível for relatado em relação a 1013,2 hPa (pressão padrão).
+
+
+  Relatórios de informações operacionais e meteorológicas
+
+
+  Liste as ocasiões em que relatórios aéreos especiais devem ser feitos.
+
+
+  Métodos de separação e mínimos
+
+
+  Explique as disposições gerais para a separação do tráfego controlado.
+
+
+  Cite os diferentes tipos de separação usados na aviação.
+
+
+  Compreenda a diferença entre o tipo de separação fornecido nas várias classes de espaço
+  aéreo e os vários tipos de voo.
+
+
+  Indique quem é o responsável por evitar a colisão com outra aeronave ao operar em VMC.
+
+
+  Declare os documentos da ICAO nos quais os detalhes dos mínimos de separação atuais são
+  prescritos.
+
+
+  Descreva como a separação vertical é obtida.
+
+
+  Indique a separação vertical mínima necessária.
+
+
+  Descreva como os níveis de cruzeiro das aeronaves voando para o mesmo destino e na sequência
+  de aproximação esperada estão correlacionados uns com os outros.
+
+
+  Cite as condições que devem ser respeitadas quando duas aeronaves são liberadas para manter
+  uma separação vertical especificada entre elas durante a subida ou descida.
+
+
+  Liste os dois métodos principais de separação horizontal.
+
+
+  Descreva como a separação lateral de aeronaves no mesmo nível pode ser obtida.
+
+
+  Explique o termo ‘separação geográfica’.
+
+
+  Descreva a separação de rotas entre aeronaves usando o mesmo método ou auxílio de navegação.
+
+
+  Descreva os três meios básicos para o estabelecimento da separação longitudinal.
+
+
+  Descreva as circunstâncias em que uma redução nos mínimos de separação pode ser permitida.
+
+
+  Indica a separação de radar horizontal padrão em NM.
+
+
+  Descreva o método da técnica do número Mach.
+
+
+  Declare a separação de radar de esteira de turbulência para aeronaves nas fases APP e DEP
+  de um voo quando uma aeronave estiver operando diretamente atrás de outra aeronave no mesmo
+  ALT ou menos de 300 m (1 000 pés) abaixo.
+
+
+  Separação nas proximidades de aeródromos
+
+
+  Defina a expressão ‘tráfego local essencial’.
+
+
+  Indique qual possível decisão o PIC pode escolher tomar se a aeronave que está partindo
+  for acelerada, sugerindo uma direção de decolagem que não seja "no vento".
+
+
+  Declare a condição para permitir que o ATC inicie uma aproximação visual para um voo IFR.
+
+
+  Indique se o ATC deve separar ou não uma aeronave executando uma aproximação visual de outra
+  aeronave chegando ou partindo.
+
+
+  Indicar em que caso, quando a tripulação de voo não está familiarizada com o procedimento
+  de aproximação por instrumentos em execução, apenas a pista de aproximação final deve ser
+  enviada a eles pelo ATC.
+
+
+  Descreva qual nível de voo deve ser atribuído a uma aeronave que chega primeiro em uma posição
+  de espera para o pouso.
+
+
+  Fale sobre a prioridade que deve ser dada às aeronaves para pouso.
+
+
+  Compreenda a situação quando um piloto de uma aeronave em uma sequência de aproximação indica
+  sua intenção de aguardar para melhorias climáticas.
+
+
+  Explique o termo ''tempo esperado para aproximação'' e os procedimentos para seu uso.
+
+
+  Indique as razões que provavelmente poderiam levar à decisão de usar outra direção de decolagem
+  ou pouso que não a direção do vento.
+
+
+  Cite as possíveis consequências para um PIC se a "RWY em uso" não for considerada adequada
+  para a operação envolvida.
+
+
+  Procedimentos de separação diversos
+
+
+  Esteja familiarizado com a separação de aeronaves em voo.
+
+
+  Esteja familiarizado com a separação mínima entre as aeronaves que decolam.
+
+
+  Esteja familiarizado com a separação mínima entre as aeronaves que partem e chegam.
+
+
+  Familiarize-se com os mínimos de separação longitudinal de esteira de turbulência não radar.
+
+
+  Saiba sobre uma autorização para "manter a própria separação" enquanto estiver em VMC.
+
+
+  Dê uma breve descrição de ‘tráfego essencial’ e ‘informações essenciais de tráfego’.
+
+
+  Descreva as circunstâncias em que uma redução nos mínimos de separação pode ser permitida.
+
+
+  Chegada e partida da aeronave
+
+
+  Liste os elementos de informação que devem ser transmitidos a uma aeronave o mais cedo possível
+  se uma aproximação para pouso for pretendida.
+
+
+  Liste as informações a serem transmitidas a uma aeronave no início da aproximação final.
+
+
+  Liste as informações a serem transmitidas a uma aeronave durante a aproximação final.
+
+
+  Familiarize-se com todas as informações sobre chegada e / ou partida de aeronaves em pistas
+  paralelas ou quase paralelas, incluindo conhecimento sobre NTZ e NOZ e as várias combinações
+  de chegadas e / ou partidas paralelas.
+
+
+  Declare a sequência de prioridade entre o pouso da aeronave (ou no estágio final de uma
+  aproximação para pousar) e a aeronave que pretende decolar.
+
+
+  Explique os fatores que influenciam a sequência de aproximação.
+
+
+  Declare as mudanças significativas nas condições meteorológicas na área de decolagem ou
+  subida que devem ser transmitidas sem demora para uma aeronave decolando.
+
+
+  Descreva quais informações devem ser enviadas a uma aeronave que parte no que diz respeito
+  a recursos visuais ou não visuais.
+
+
+  Declare as mudanças significativas que devem ser transmitidas o mais cedo possível para
+  uma aeronave chegando, particularmente mudanças nas condições meteorológicas.
+
+
+  Procedimentos para serviço de controle de aeródromo
+
+
+  Descrever as tarefas gerais da torre de controle de aeródromo (TWR) ao emitir informações
+  e autorizações para aeronaves sob seu controle.
+
+
+  Liste para quais aeronaves e suas posições ou situações de voo a TWR deve evitar colisões.
+
+
+  Cite a falha operacional ou irregularidade do equipamento do AD que deve ser relatada à
+  TWR imediatamente.
+
+
+  Declare que, após um determinado período de tempo, a TWR deverá reportar ao ACC ou FIC se
+  uma aeronave não pousar como esperado.
+
+
+  Descreva os procedimentos a serem observados pela TWR sempre que as operações VFR forem
+  suspensas.
+
+
+  Explique o termo ‘RWY em uso’ e sua seleção.
+
+
+  Liste as informações que a TWR deve fornecer a uma aeronave:
+
+
+  antes do taxiamento para decolagem;
+
+
+  antes da decolagem;
+
+
+  antes de entrar no circuito de tráfego.
+
+
+  Explique que um relatório da direção do vento de superfície fornecido a um piloto pela TWR
+  é magnético.
+
+
+  Explique o significado exato da expressão ‘pista desocupada’.
+
+
+  Serviços de radar
+
+
+  Indique em que medida o uso de radar nos serviços de tráfego aéreo pode ser limitado.
+
+
+  Declare quais informações derivadas do radar devem estar disponíveis para exibição ao controlador,
+  no mínimo.
+
+
+  Cite os dois procedimentos básicos de identificação usados com o radar.
+
+
+  Defina o termo ''PSR''.
+
+
+  Descreva as circunstâncias em que uma aeronave equipada com serviço de radar deve ser informada
+  de sua posição.
+
+
+  Liste as possíveis formas de informações de posição transmitidas à aeronave pelos serviços
+  de radar.
+
+
+  Defina o termo ‘vetorização (por) radar’.
+
+
+  Declare os objetivos da vetorização por radar, conforme mostrado no Doc 4444 da ICAO.
+
+
+  Declare como a vetorização por radar deve ser alcançada.
+
+
+  Descrever as informações que devem ser fornecidas a uma aeronave quando a vetorização por
+  radar é encerrada e o piloto é instruído a retomar a navegação própria (por seus meios).
+
+
+  Explique os procedimentos para a condução de aproximações por radar de vigilância (surveillance
+  radar approaches - SRA).
+
+
+  Descreva que tipo de ação (em relação ao transponder) o piloto deve realizar em caso de
+  emergência se ele foi previamente orientado pelo ATC para operar o transponder em um código
+  específico.
+
+
+  Serviço de aviso ao tráfego aéreo
+
+
+  Descreva o objetivo e os princípios básicos do serviço de aviso ao tráfego aéreo.
+
+
+  Indicar a qual aeronave deve ser prestado o serviço de aviso ao tráfego aéreo.
+
+
+  Explique por que o serviço de aviso ao tráfego aéreo não fornece "autorizações", mas apenas
+  "informações consultivas (recomendações)".
+
+
+  Procedimentos relacionados a emergências, falha de comunicação e contingências
+
+
+  Indique o modo e o código do equipamento SSR que um piloto pode operar em um estado (geral)
+  de emergência ou (especificamente) no caso de a aeronave estar sujeita a interferência ilegal.
+
+
+  Declare os direitos especiais que uma aeronave em estado de emergência pode esperar do ATC.
+
+
+  Descreva a ação esperada da aeronave após receber uma transmissão do ATS sobre a descida
+  de emergência de uma aeronave.
+
+
+  Informar como pode ser verificado, em caso de falha na comunicação bidirecional, se a aeronave
+  está apta a receber transmissões da unidade ATS.
+
+
+  Explique a suposição com base na qual a separação deve ser mantida se uma aeronave é conhecida
+  por experimentar uma falha COM em VMC ou em IMC.
+
+
+  Indicar em que frequências as informações apropriadas, para uma aeronave que encontre em
+  falha COM nos dois sentidos, devem ser enviadas pela ATS.
+
+
+  Descreva as ações esperadas de uma unidade ATS após ter sido informada de que uma aeronave
+  está sendo interceptada dentro ou fora de sua área de responsabilidade.
+
+
+  Indique o que se entende pela expressão "aeronave perdida" e "aeronave não identificada".
+
+
+  Explique o nível mínimo para despejo de combustível e as razões para isso.
+
+
+  Explique a possível solicitação do ATC a uma aeronave para alterar seu indicativo de chamada
+  RTF.
+
+
+  Procedimentos diversos
+
+
+  Explique o significado de ‘AIRPROX’.
+
+
+  Determine a tarefa de um relatório de incidente de tráfego aéreo.
+
+
+  SERVIÇO DE INFORMAÇÕES AERONÁUTICAS'
+keywords:
+- aeronave
+- separacao
+- descreva
+- explique
+- indique
+- informacoes
+- aproximacao
+- radar
+- nivel
+- posicao
+- declare
+- trafego
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-003.md

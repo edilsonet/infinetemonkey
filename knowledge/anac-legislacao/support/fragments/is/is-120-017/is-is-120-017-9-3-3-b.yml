@@ -1,0 +1,55 @@
+id: is-is-120-017-9-3-3-b
+kind: is
+document: is-120-017
+family: '120'
+section_id: 9.3.3
+section_title: Rendimento da Tarefa
+subsection_id: b
+cite: 9.3.3(b)
+title: 9.3.3(b)
+text: 'b) nenhuma tarefa específica no conjunto de dados utilizado para a análise de tarefas
+  deve
+
+  ter um rendimento menor do que 80%.
+
+  Nota: a análise da execução consecutiva de tarefas pode ser útil para avaliar a eficácia
+  da
+
+  tarefa e do intervalo. Falhas descobertas com um rendimento relativamente baixo devem
+
+  ser consideradas como tal na análise geral. Entretanto, tarefas executadas com um
+
+  rendimento relativamente baixo e sem discrepâncias identificadas não devem ser utilizadas
+
+  para determinar ou analisar taxas de falhas no intervalo publicado, nem devem ser
+
+  classificadas como dados de tarefas desprovidas de não conformidades, ao se substanciar
+
+  escalonamentos a partir daquele intervalo. A segunda tarefa, ou tarefa subsequente, por
+  si
+
+  mesma resultando num rendimento de tarefa geral maior, pode ser útil para estes fins,
+
+  desde que falhas em serviço sejam identificadas e incorporadas nos dados.
+
+  Exemplo:'
+keywords:
+- antidrogas
+- saude
+- tarefa
+- rendimento
+- tarefas
+- analise
+- dados
+- falhas
+- intervalo
+- baixo
+- geral
+- identificadas
+- pode
+- relativamente
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

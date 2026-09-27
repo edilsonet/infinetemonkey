@@ -1,0 +1,609 @@
+id: is-is-91-409-001-22-12-2025-body
+kind: is
+document: is-91-409-001
+family: '91'
+section_id: 22.12.2025
+section_title: 22.12.2025
+subsection_id: body
+cite: 22.12.2025
+title: 22.12.2025
+text: '22.12.2025
+
+  Objetivo
+
+  Fornecer orientações para proprietários, operadores e pessoal de manutenção sobre quando
+  a revisão geral deve ser realizada em aeronaves operando segundo as regras do RBAC nº 91.
+  Incluem-se, neste contexto, aeronaves operando sob o RBAC nº 137.
+
+
+  REVOGAÇÃO
+
+  Esta IS revoga a IS nº 91.409-001 revisão B.
+
+
+  FUNDAMENTOS
+
+  O art. 87 da lei nº 7.565/86 (Código Brasileiro de Aeronáutica - CBAer) estabelece que a
+  prevenção de acidentes aeronáuticos é de responsabilidade de todas as pessoas, naturais
+  ou jurídicas, envolvidas com a fabricação, manutenção, e operação de aeronaves.
+
+  O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito
+  previsto em RBAC, poderá:
+
+  a) adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse
+  caso, a análise e concordância expressa do órgão competente da Anac.
+
+  O meio ou procedimento alternativo mencionado no parágrafo 3.2b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro
+  ato normativo.
+
+
+  DEFINIÇÕES
+
+  Esta IS utiliza os termos cujas definições podem ser encontradas na IS nº145.109-001 - Publicações
+  Técnicas: obtenção e controle pelas organizações de manutenção de produto aeronáutico e
+  RBAC nº145 - Organizações de manutenção de produto aeronáutico.
+
+  TBO - Time Between Overhaul (Tempo entre revisões gerais). Os fabricantes estabelecem os
+  tempos em operação entre as revisões gerais (ou os intervalos entre as revisões gerais).
+  Esses intervalos são estimados em número de horas, ciclos ou eventos que um produto ou artigo
+  aeronáutico pode operar de forma segura e confiável sem exceder os limites de desgaste do
+  produto em serviço.
+
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  Aspectos regulatórios
+
+  O nível mínimo requerido de manutenção e de segurança de um produto ou artigo aeronáutico
+  é garantido pelo cumprimento dos procedimentos normais de manutenção dentro dos prazos estabelecidos
+  pelos fabricantes (diário, pré-voo, checks de 25, 50, 100 horas, etc.).
+
+  Nota: o proprietário/operador é responsável por garantir as condições mínimas de segurança
+  da aeronave, isto é, ele é responsável por assegurar uma avaliação que verifique se não
+  há indicações de decréscimo de desempenho da aeronave, motor, hélice ou equipamentos (partes,
+  acessórios, instrumentos e demais componentes) e, se para corrigir esse decréscimo de desempenho,
+  é necessária a revisão geral recomendada. A seção 5.3 desta IS esclarece mais essa questão.
+
+  Para os fins de manutenção, manutenção preventiva ou alterações, o parágrafo 21.50(b) do
+  RBAC nº21 estabelece requisitos para que o detentor do projeto de tipo ou fabricante de
+  um produto aeronáutico disponibilize as Instruções de Aeronavegabilidade Continuada - ICA;
+
+  Nota: o Apêndice B desta IS contém alguns exemplos de ICA.
+
+  É importante esclarecer a diferença que os regulamentos de aeronavegabilidade fazem entre
+  2 (dois) tipos de documentos:
+
+  a) Programa de manutenção recomendado: são tarefas realizadas em diversos níveis de complexidade
+  (podem envolver desde uma inspeção simples até uma revisão geral), em que são verificados
+  itens que o fabricante considera como importantes para manter a confiabilidade e propiciar
+  a operação segura e de forma mais econômica.
+
+  b) Limitações de aeronavegabilidade: são tarefas de manutenção que afetam o nível mínimo
+  de segurança do produto aeronáutico. Incluem tarefas que visam detectar falhas latentes
+  que, em conjunto com uma ou mais falhas específicas adicionais, podem resultar em uma situação
+  perigosa ou catastrófica. São definidas pelo fabricante durante a certificação de tipo ou
+  suplementar de tipo, aprovadas pela autoridade de aviação civil e identificadas como tal
+  no Manual de Manutenção ou das Instruções para Aeronavegabilidade Continuada, tornando-se
+  de cumprimento obrigatório. As limitações de aeronavegabilidade envolvem prazos ou intervalos
+  máximos de utilização em termos de horas e/ou ciclos, ou outro valor mensurável.
+
+  Nota 1: o que caracteriza uma tarefa como uma limitação de aeronavegabilidade não tem, necessariamente,
+  relação com a complexidade da tarefa.
+
+  Nota 2: a alteração de uma limitação já publicada requer a prévia aprovação da autoridade,
+  e pode ser acompanhada da emissão de uma Diretriz de Aeronavegabilidade se a nova limitação
+  afetar a segurança.
+
+  As ICA contêm, entre outras, instruções referentes a:
+
+  a) programa de manutenção recomendado; e
+
+  b) limitações de aeronavegabilidade.
+
+  A título de ilustração, seguem exemplos de formas de apresentação das Limitações de Aeronavegabilidade
+  em publicações técnicas que contêm instruções de aeronavegabilidade continuada - ICA de
+  aeronaves:
+
+  a) Maintenance Manual - Chapter 4 - Airworthiness Limitations. Description - General - The
+  airworthiness Limitations section is EASA approved and variations must also be approved.
+
+  b) SERVICE MANUAL - SECTION I - AIRWORTHINESS LIMITATIONS - NOTE: The Airworthiness Limitations
+  section is FAA approved and specifies maintenance required under §§ 43.16 and 91.403 of
+  the Federal Aviation Regulations unless an alternative program has been FAA approved.
+
+  c) MODEL FXX MAINTENANCE MANUAL - CHAPTER 4 AIRWORTHINESS LIMITATIONS - NOTE - The Airworthiness
+  Limitations Section is FAA Approved and specifies maintenance required under 14 CFR 43.16
+  and 91.163 of Title 14 Code of Federal Regulations - CFR unless an alternative program has
+  been FAA approved. The following Airworthiness Limitations related to life of the airplane
+  and its components have been established with respect to this airplane. Refer to LIMITATIONS
+  in the Pilot’s Operating Handbook and the FAA Approved Airplane Flight Manual for more information
+  regarding the airplane’s flight limitations.
+
+  d) MAINTENANCE PLANNING DATA (MPD) DOCUMENT - SECTION 9 - AIRWORTHINESS LIMITATIONS - AWLs
+  AND CERTIFICATION MAINTENANCE REQUIREMENTS (CMRs) - A. SCOPE - The scheduled maintenance
+  requirements described in this section result from Model XXX airplane certification activities
+  with the U.S. Federal Aviation Administration - FAA. Accordingly, this FAA approved Airworthiness
+  Limitations and Certification Maintenance Requirements document is crossreferenced in the
+  Model XXX Type Certificate Data Sheet. These maintenance actions are mandatory. This Airworthiness
+  Limitations Section is FAA approved and specifies maintenance required under Federal Aviation
+  Regulation - FAR 43.16 and 91.403 unless an alternative program has been FAA approved.
+
+  e) Maintenance Review Board Report - APPENDIX A - AIRWORTHINESS LIMITATIONS AND CERTIFICATION
+  MAINTENANCE REQUIREMENTS - A. SECTION 9 - Section 9 has been removed from Appendix A of
+  this MRBR. The single source of Section 9 can be located in the MPD, D6xxWxxx.
+
+  f) Maintenance Review Board Report - APPENDIX A - AIRWORTHINESS LIMITATIONS - (AL) - 1.
+  General - This appendix contains all the Airworthiness Limitation - AL applicable for the
+  EMB-XXX and EMB-YYY aircraft (commercially known as EMBRAER XXX and YYY, respectively) and
+  all their versions. The Airworthiness Limitations are divided in the 4 parts of this appendix,
+  as follows:
+
+  • PART 1 - CERTIFICATION MAINTENANCE REQUIREMENTS (MRBR APPENDIX A PART 1)
+
+  • PART 2 - AIRWORTHINESS LIMITATION INSPECTIONS (MRBR APPENDIX A PART 2) - STRUCTURES
+
+  • PART 3 - FUEL SYSTEM LIMITATION ITEMS (MRBR APPENDIX A PART 3)
+
+  • PART 4 - LIFE-LIMITED ITEMS (MRBR APPENDIX A PART 4)
+
+  This Airworthiness Limitations Appendix is ANAC, FAA, TCCA and EASA approved and Specifies
+  maintenance required under §§ 43.16 and 91.403 of the Regulamento Brasileiro da Aviação
+  Civil, and/or Federal Aviation Regulations, and/or EASA CS25, and/or, TCCA CAR525 as applicable,
+  unless an alternative program has been ANAC and/or FAA and/or EASA and/or TCCA approved.
+
+  Nota: estes exemplos não representam uma lista exaustiva.
+
+  O RBAC nº 91 não apresenta regras específicas para o cumprimento dos tempos (intervalos)
+  recomendados entre as revisões gerais para os proprietários/operadores de aeronaves operando
+  segundo as regras do RBAC nº 91 que se enquadram no parágrafo 91.409(i). Esta IS apresenta
+  as orientações que devem ser atendidas por esses operadores. O cumprimento dos intervalos
+  de revisão geral é mandatório quando estiver especificado nas limitações de aeronavegabilidade
+  conforme o parágrafo 91.403(c) do RBAC nº 91.
+
+  Requisitos para tempo de vida limite e/ou tempo recomendado entre as revisões gerais:
+
+  a) parágrafo 91.403(c) do RBAC nº 91 estabelece que “somente é permitido operar uma aeronave
+  que possua um manual de manutenção do fabricante ou instruções para aeronavegabilidade continuada
+  contendo uma seção de limitações de aeronavegabilidade se os tempos para substituição de
+  componentes, os intervalos de inspeção e os procedimentos específicos contidos naquela seção
+  forem cumpridos. Alternativamente, podem ser utilizados os intervalos de inspeção e os procedimentos
+  estabelecidos nas especificações operativas emitidas segundo os regulamentos operacionais
+  de operadores certificados segundo o RBAC nº 119, ou estabelecidos em um programa de inspeções
+  aprovado segundo o parágrafo 91.409(e) deste Regulamento”;
+
+  b) seção 91.409 do RBAC nº 91 estabelece em seu parágrafo 91.409(f) que: “o proprietário
+  ou operador de cada aeronave descrita no parágrafo (e) desta seção deve selecionar, identificar
+  nos registros de manutenção da aeronave e usar um dos seguintes programas para a inspeção
+  dessa aeronave: (1) um programa de inspeção para aeronavegabilidade continuada fazendo parte
+  de um CAMP em uso por um detentor de certificado emitido segundo o RBAC nº 119 e operando
+  o mesmo tipo e modelo de aeronave, conforme especificações técnicas emitidas segundo o RBAC
+  nº 121 ou operando o mesmo tipo e modelo de aeronave segundo o RBAC nº 135 e mantendo-o
+  segundo o parágrafo 135.411(a)(2) do RBAC nº 135; (2) um programa de inspeções, aprovado
+  segundo o parágrafo 135.419 do RBAC nº 135 e correntemente em uso por uma empresa certificada
+  segundo o referido RBAC nº 135; (3) um programa atualizado de inspeções recomendado pelo
+  fabricante; ou (4) qualquer outro programa de inspeção, estabelecido pelo proprietário ou
+  operador da aeronave e aprovado pela Anac, conforme parágrafo (g) desta seção. No entanto,
+  a Anac pode requerer revisões nesse programa de acordo com as provisões da seção 91.415
+  deste Regulamento”;
+
+  c) parágrafos 119.49(a)(8), (b)(8) e (c)(8) do RBAC nº119 requerem que cada detentor de
+  certificado conduzindo operações regulares obtenha especificações operativas contendo limitações
+  de tempo, ou padrões para determinar limitações de tempo, para revisões gerais (overhaul),
+  inspeções e verificações em células, motores, hélices, rotores, componentes e equipamentos
+  de emergência;
+
+  Nota: no caso de aeronaves em operações não regulares sob o RBAC nº 135, o requisito se
+  aplica para aeronaves sujeitas a um programa de manutenção de aeronavegabilidade requerido
+  por 135.411(a)(2) do RBAC nº 135.
+
+  d) parágrafo 121.135(b)(18) do RBAC nº 121 requer que o manual do detentor de certificado
+  tenha os tempos limites, ou padrões para determinação de tempo limite para revisões gerais,
+  inspeções e verificações de células, grupos moto propulsores e equipamentos normais e de
+  emergência; e
+
+  e) parágrafos 135.421(a) e 135.421(b) do RBAC nº 135 estabelecem que: “o detentor de certificado
+  que opera uma aeronave com certificação de tipo para uma configuração para passageiros,
+  excluído qualquer assento de pilotos, com 9 assentos ou menos deve cumprir com o programa
+  de manutenção recomendado pelos fabricantes, ou com um programa aprovado pela Anac para
+  cada motor, hélice, rotor, componentes e para cada item de equipamento de emergência requerido
+  por este Regulamento”; e “para o propósito desta seção, um programa de manutenção do fabricante
+  é aquele contido no manual de manutenção ou nas instruções de manutenção especificadas pelo
+  fabricante, como requerido pelos RBAC, para a aeronave, motores, hélices, rotores, componentes
+  e equipamentos de emergência”.
+
+  Diretrizes da Aeronavegabilidade e regulamentos operacionais também podem impor instruções
+  de aeronavegabilidade continuada mandatórias.
+
+  Os períodos ou prazos de TBO geralmente estão transcritos em Boletins de Serviço (Service
+  Bulletins - SB), Cartas de Serviço (Service Letters - SL), Cartas de Informação (Service
+  Information Letters - SIL) e documentos semelhantes. Mesmo se os fabricantes indicarem os
+  períodos ou prazos de TBO como mandatórios nesses documentos, estes são considerados mandatórios
+  apenas quando aprovados pela autoridade aeronáutica. Os quadros abaixo representam, por
+  exemplo, a recomendação da Lycoming e da Continental engines para motores convencionais,
+  via SIL, e a recomendação da Pratt & Whitney Canada para motores a turbina, via SIL e SB:
+
+  LYCOMING RECOMMENDED TIME BETWEEN OVERHAUL PERIODS
+
+  Engine Models
+
+  Note
+
+  Hours
+
+  O-235 Series (except -F, -G, -J)
+
+  Recommended to be overhauled in the twelfth year
+
+  2400
+
+  Quadro 01 - Recomendação da Lycoming
+
+  CONTINENTAL ENGINE TIME BETWEEN OVERHAUL (TBO)
+
+  Engine Models
+
+  SEE NOTE
+
+  HRS
+
+  YRS
+
+  A65, A75 Series
+
+
+  1800
+
+  12
+
+  Quadro 02 - Recomendação da Continental engines
+
+  PRATT & WHITNEY CANADA TIME BETWEEN OVERHAUL
+
+  Engine Models
+
+  SEE NOTE
+
+  Hours
+
+  PT6A-60AG/65AG/67AF/67AG/F
+
+
+  3000
+
+  PT6A-52/60/61
+
+
+  3600
+
+  PT6B-36A/36B
+
+
+  4000
+
+  PT6A-65
+
+
+  6000
+
+  Quadro 03 - Recomendação da Pratt & Whitney Canada
+
+
+  Aspectos técnicos sobre a revisão geral
+
+  Uma vez compreendido que o prazo para a revisão geral é uma recomendação, a pergunta que
+  surge é: se alcançado o prazo recomendado, um motor, hélice ou equipamento (parte, acessório,
+  instrumento e demais componentes) necessita ser removido de serviço e enviado para a revisão
+  geral?
+
+  Essa questão é de grande relevância, por exemplo, no caso de motores. O proprietário/operador
+  de aeronave que opera segundo as regras do RBAC nº91 pode ter um motor vencendo, por exemplo,
+  o prazo calendárico de 12 (doze) anos - referente ao prazo calendárico em alguns motores
+  convencionais - e não possuir ainda acumuladas horas totais de operação recomendadas para
+  remoção para revisão geral. Nesse caso, pode-se optar por cumprir com a recomendação do
+  fabricante de revisão geral no prazo calendárico ou executar a revisão geral apenas quando
+  necessário, considerando uma avaliação operacional realizada de acordo com instruções do
+  fabricante, dessa forma podendo ultrapassar o tempo calendárico de 12 (doze) anos e mesmo
+  o período acumulado de horas de operação citados acima. Assim, vencidos quaisquer dos limites
+  recomendados, se a aeronave ainda se mostra segura e com bom desempenho (constatado a partir
+  de avaliação da condição geral conforme instruções do fabricante), é possível a continuidade
+  operacional.
+
+  Nota: as inspeções diárias, pré-voo, inspeções de 25, 50, 100 horas, anuais, etc. não podem
+  ser postergadas ou estendidas como se fosse o caso do TBO recomendado. É, inclusive, por
+  meio dessas inspeções, que podem resultar dados mensuráveis referentes a segurança e desempenho
+  para sustentar a decisão de não seguir o TBO recomendado. Adicionalmente, as discrepâncias
+  que eventualmente apareçam entre as inspeções devem ser reparadas, conforme a seção 91.405
+  do RBAC nº 91.
+
+  O TBO com base em prazo calendárico ou horas de operação acumuladas é uma boa estimativa
+  fornecida pelos fabricantes. São os prazos recomendados para motores mantidos e operados
+  conforme o manual de operação. Entretanto, mesmo seguindo as instruções de operação e manutenção,
+  um motor pode falhar ou apresentar sintomas de perda de desempenho muito antes do prazo
+  recomendado. Existem diversos fatores que afetam a vida do motor: fator de utilização, forma
+  de utilização, forma de manutenção preventiva e manutenção, utilização de peças originais,
+  ambiente em que se opera, qualidade de combustível, preservação quando não utilizado, etc.
+
+
+  É muito importante o proprietário/operador, caso opte por não seguir o TBO recomendado,
+  levar em consideração o exposto no item 5.1.3(a) desta IS sobre operação de forma mais econômica.
+  No momento em que finalmente se detecte uma anomalia (indício de desgaste excessivo), perda
+  de desempenho, etc. e se decida pela remoção para revisão geral, um reparo que antes seria
+  praticável, agora é inviável, requerendo substituições, invariavelmente refletindo no valor
+  do orçamento, possíveis problema de disponibilidade de peças e maior prazo para retorno
+  ao serviço.
+
+  Os proprietários e operadores de aeronaves devem seguir as instruções do fabricante do motor
+  para operar e manter o motor de maneira que garanta a prorrogação para realizar a revisão
+  geral.
+
+
+  Como reconhecer a obrigatoriedade de mandar fazer uma revisão geral
+
+  Para identificar se a execução da revisão geral dentro do prazo proposto pelo fabricante
+  é considerada mandatória pela Anac, deve-se verificar se o prazo de TBO está descrito na
+  seção Airworthiness Limitations, ou ainda, se esse prazo foi determinado por meio de uma
+  Diretriz de Aeronavegabilidade. Do contrário, tal prazo é considerado pela Anac apenas como
+  recomendação do fabricante, desde que a aeronave esteja operando conforme o RBAC nº 91.
+
+  Observe-se que na regulamentação atual da Anac, na prática, o adiamento da revisão geral
+  é aceitável (mantida as condições de monitoramento já mencionadas na nota do parágrafo 5.2.2
+  desta IS) e, em algum momento, a revisão geral poderá ter que ser executada.
+
+  É importante destacar que alguns fabricantes classificam alguns Boletins de Serviço (Ser-vice
+  Bulletins - SB), Cartas de Serviço (Service Letters - SL), Cartas de Informação (Ser-vice
+  Information Letters - SIL) e documentos semelhantes como mandatórios, embora não façam parte
+  da seção de Airworthiness Limitations ou estejam referenciados por uma Diretriz de Aeronavegabilidade.
+  Nestes casos, do ponto de vista da Anac, os prazos mencionados nesses documentos sobre revisão
+  geral são considerados simplesmente como recomendação do fabricante.
+
+  Adicionalmente, ressalta-se que os regulamentos tratam do nível mínimo requerido de manutenção
+  e que a responsabilidade por garantir que a aeronave está em condições de voo é do operador/proprietário.
+
+
+  APÊNDICES
+
+  APÊNDICE A - LISTA DE REDUÇÕES.
+
+  APÊNDICE B - EXTRATO DAS ICA P/ MOTORES (RBAC 33).
+
+  APÊNDICE C - PERGUNTAS MAIS FREQUENTES SOBRE TBO.
+
+  APÊNDICE D - CONTROLE DE ALTERAÇÔES.
+
+  DISPOSIÇÕES FINAIS
+
+  Os casos omissos serão dirimidos pela Anac.
+
+
+  APÊNDICE A- LISTA DE REDUÇÕES
+
+
+  A1. LISTA DE SIGLAS
+
+  a) AC Advisory Circular
+
+  b) AL Airworthiness Limitation
+
+  a) Anac Agência Nacional de Aviação Civil
+
+  b) AWL Airworthiness Limitations
+
+  c) CAMP Continuous Airworthiness Maintenance Program
+
+  d) CBAer Código Brasileira de Aeronáutica
+
+  e) CFR Code of Federal Regulation
+
+  f) CMR Certification Maintenance Requirements
+
+  g) EASA European Aviation Safety Agency
+
+  h) FAA Federal Aviation Administration
+
+  i) ICA Instruction for Continued Airworthiness
+
+  j) IS Instrução Suplementar
+
+  k) MPD Maintenance Planning Data
+
+  l) MRBR Maintenance Review Board Report
+
+  m) RBAC Regulamento Brasileiro da Aviação Civil
+
+  n) SB Service Bulletins
+
+  o) SIL Service Information Letters
+
+  p) SL Service Letters
+
+  q) TCCA Transport Canada Civil Aviation
+
+  r) TBO Time Between Overhaul
+
+
+  APÊNDICE B - EXTRATO DAS ICA PARA MOTORES (RBAC Nº 33)
+
+
+  B.1 ENGINE MAINTENANCE MANUAL OR SECTION.
+
+  a) Introduction information that includes an explanation of the engine''s features and data
+  to the extent necessary for maintenance or preventive maintenance.
+
+  b) A detailed description of the engine and its components, systems, and installations.
+
+  c) Installation instructions, including proper procedures for uncrating, deinhibiting, acceptance
+  checking, lifting, and attaching accessories, with any necessary checks.
+
+  d) Basic control and operating information describing how the engine components, systems,
+  and installations operate, and information describing the methods of starting, running,
+  testing, and spining the engine and its parts including any special procedures and limitations
+  that apply.
+
+  e) Servicing information that covers details regarding servicing points, capacities of tanks,
+  reservoirs, types of fluids to be used, pressures applicable to the various systems, locations
+  of lubrication points, lubricants to be used, and equipment required for servicing.
+
+  f) Scheduling information for each part of the engine that provides the recommended periods
+  at which it should be cleaned, inspected, adjusted, tested, and lubricated, and the degree
+  of inspection the applicable wear tolerances, and work recommended at these periods. However,
+  the applicant may refer to an accessory, instrument, or equipment manufacturer as the source
+  of this information if the applicant shows that the item has an exceptionally high degree
+  of complexity requiring specialized maintenance techniques, test equipment, or expertise.
+  The recommended overhaul periods and necessary cross references to the Airworthiness Limitations
+  section of the manual must also be included. In addition, the applicant must include an
+  inspection program that includes the frequency and extent of the inspections necessary to
+  provide for the continued airworthiness of the engine.
+
+  g) Troubleshooting information describing probable malfunctions, how to recognize those
+  malfunctions, and the remedial action for those malfunctions.
+
+  h) Information describing the order and method of removing the engine and its parts and
+  replacing parts, with any necessary precautions to be taken. Instructions for proper ground
+  handling, crating, and shipping must also be included.
+
+  i) A list of the tools and equipment necessary for maintenance and directions as to their
+  method of use.
+
+  B.2 ENGINE OVERHAUL MANUAL OR SECTION.
+
+  a) Disassembly information including the order and method of disassembly for overhaul.
+
+  b) Cleaning and inspection instructions that cover the materials and apparatus to be used
+  and methods and precautions to be taken during overhaul. Methods of overhaul inspection
+  must also be included.
+
+  c) Details of all fits and clearances relevant to overhaul.
+
+  d) Details of repair methods for worn or otherwise substandard parts and components along
+  with the information necessary to determine when replacement is necessary.
+
+  e) The order and method of assembly at overhaul.
+
+  f) Instructions for testing after overhaul.
+
+  g) Instructions for storage preparation, including any storage limits.
+
+  h) A list of tools needed for overhaul.
+
+  B.3 AIRWORTHINESS LIMITATIONS SECTION
+
+  The Instructions for Continued Airworthiness must contain a section titled Airworthiness
+  Limitations that is segregated and clearly distinguishable from the rest of the manual.
+  For all engines:
+
+  a) The Airworthiness Limitations section must set forth each mandatory replacement time,
+  inspection interval, and related procedure required for type certification. If the Instructions
+  for Continued Airworthiness consist of multiple documents, the section required under this
+  paragraph must be included in the principal manual.
+
+  b) This section must contain a legible statement in a prominent location that reads: “The
+  Airworthiness Limitations section is FAA approved and specifies maintenance required under
+  §§43.16 and 91.403 of Title 14 of the Code of Federal Regulations unless an alternative
+  program has been FAA approved.”
+
+
+  APÊNDICE C - PERGUNTAS MAIS FREQUENTES SOBRE TBO
+
+
+  C.1 É OBRIGATÓRIO O CUMPRIMENTO DOS TEMPOS ENTRE REVISÕES GERAIS - TBO (TIME BETWEEN OVERHAUL)
+  PARA GARANTIR A OPERAÇÃO SEGURA DOS MOTORES AERONÁUTICOS QUE EQUIPAM AERONAVES QUE SE ENQUADRAM
+  NO PARÁGRAFO 91.409(I) DO RBAC Nº 91?
+
+  A obrigatoriedade no cumprimento do TBO dependerá do processo de certificação do motor.
+  O TBO será obrigatório se constar das limitações de aeronavegabilidade, ou se for tornado
+  mandatório por regulamento ou Diretriz de Aeronavegabilidade. Nos demais casos, o TBO é
+  uma recomendação do fabricante e, portanto, de cumprimento facultativo. O TBO é específico
+  por modelo de motor, e os tempos de revisão recomendados são normalmente identificados em
+  Manuais de Manutenção, Boletins ou Cartas de Serviço do fabricante do motor.
+
+
+  C.2 O QUE SÃO LIMITAÇÕES DE AERONAVEGABILIDADE?
+
+  Limitações de aeronavegabilidade são tarefas de manutenção que afetam o nível mínimo de
+  segurança do produto aeronáutico. Incluem tarefas que visam detectar falhas latentes que,
+  em conjunto com uma ou mais falhas específicas adicionais, podem resultar em uma situação
+  perigosa ou catastrófica. São definidas pelo fabricante durante a certificação de tipo ou
+  suplementar de tipo, aprovadas pela autoridade de aviação civil e identificadas como tal
+  no Manual de Manutenção ou das Instruções para Aeronavegabilidade Continuada, tornando-se
+  de cumprimento obrigatório. As limitações de aeronavegabilidade envolvem prazos ou intervalos
+  máximos de utilização em termos de horas e/ou ciclos, ou outro valor mensurável.
+
+
+  C.3 O TBO É FACULTATIVO PARA QUALQUER AERONAVE QUE OPERA NO BRASIL SE NÃO CONSTAR DAS LIMITAÇÕES
+  DE AERONAVEGABILIDADE?
+
+  Não. O cumprimento do TBO recomendado pelos fabricantes é facultativo para aeronaves que
+  se enquadram no parágrafo 91.409(i) do RBAC nº 91. Os RBAC nº 121 e 135, por envolverem
+  empresas de serviço de transporte aéreo, exigem o cumprimento do programa de manutenção
+  recomendado pelo fabricante ou aprovado pela Anac.
+
+
+  C.4 SEGUNDO OS CRITÉRIOS DESTA IS, A REVISÃO GERAL DE UM MOTOR CONVENCIONAL JAMAIS SERÁ
+  EXECUTADA?
+
+  Não. O funcionamento de um motor provoca desgastes e em algum momento a revisão geral do
+  motor terá de ser feita. Ela poderá ser realizada dentro do TBO estabelecido pelo fabricante
+  ou dentro de outro intervalo, mas deverá ser realizada sempre que as condições do motor
+  estiverem deterioradas a ponto de requerer a revisão, ou quando o TBO for alcançado nas
+  situações em que ele for mandatório conforme citado na resposta da pergunta C.1.
+
+
+  C.5 COMO É POSSÍVEL SABER SE AS CONDIÇÕES DO MOTOR ESTÃO DETERIORADAS?
+
+  Quando o motor estiver fora dos parâmetros normais de operação previstos pelo fabricante
+  ou quando for identificado por meio de monitoramento. O monitoramento pode ser feito por
+  meio de métodos recomendados pelo fabricante. Também poderá ser usada a IS nº 91.409-002
+  para motores convencionais e a AC 120-113 da FAA para motores a turbina.
+
+
+  C.6 E SE O OPERADOR OPTAR POR NÃO REALIZAR O MONITORAMENTO DAS CONDIÇÕES DO MOTOR?
+
+  Caso o monitoramento das condições do motor não seja realizado, a Anac recomenda fortemente
+  a realização da revisão geral dentro do TBO recomendado pelo fabricante ou quando as suas
+  condições estiverem deterioradas, o que ocorrer primeiro.
+
+
+  APÊNDICE D - CONTROLE DE ALTERAÇÕES
+
+
+  ALTERAÇÕES REALIZADAS NA REVISÃO C
+
+  ITEM
+
+  ALTERADO
+
+  ALTERAÇÃO REALIZADA
+
+  Assunto
+
+  Atualizada a origem para SPO/GTNO.
+
+  3.2 a 3.5
+
+  Incluído'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- airworthiness
+- manutencao
+- aeronavegabilidade
+- limitations
+- maintenance
+- revisao
+- fabricante
+- geral
+- motor
+- section
+- aeronave
+- overhaul
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-001.md

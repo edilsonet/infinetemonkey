@@ -1,0 +1,44 @@
+id: is-is-121-021-9-2-2-b
+kind: is
+document: is-121-021
+family: '121'
+section_id: 9.2.2
+section_title: Melhorias nos aspectos dinâmicos do modelo de voo.
+subsection_id: b
+cite: 9.2.2(b)
+title: 9.2.2(b)
+text: b) A maioria dos tipos de aeronaves apresenta dinâmica de voo e características de controle
+  que são diferentes quanto aos ângulos de ataque de estol e apresentam valores maiores quando
+  comparados aos ângulos de ataque associados à ativação do aviso de estol. Essas características
+  são quase sempre degradadas e são exemplificadas pela redução da estabilidade, que às vezes
+  se torna negativa, e pela diminuição da eficácia dos comandos. Até agora, os FSTD exigiam
+  apenas treinamento de aproximação de estol (estol iminente) e, como tal, os pacotes de dados
+  desses dispositivos não necessariamente se concentram nas características de voo em ângulos
+  de ataque que vão além da primeira indicação de estol. Na maioria desses casos, o resultado
+  será que o FSTD apresentará características dinâmicas nos regimes de estol e pós-estol que
+  tornam a recuperação mais fácil do que aquela que ocorreria no avião real. Em particular,
+  a queda de asa que pode acompanhar um estol raramente é modelada. Dados de acidentes e estudos
+  recentes mostraram que os pilotos podem tentar controlar inadequadamente os eixos que estão
+  se tornando ou já se tornaram instáveis, em vez de reduzir primeiro o ângulo de ataque.
+  Esta aplicação da ordem incorreta de medidas na técnica de recuperação de estol só se tornaria
+  aparente se as características dinâmicas apropriadas do FSTD fossem exibidas.
+keywords:
+- transporte-aereo
+- operacoes
+- estol
+- caracteristicas
+- ataque
+- angulos
+- fstd
+- dados
+- desses
+- dinamicas
+- maioria
+- recuperacao
+- acidentes
+- acompanhar
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

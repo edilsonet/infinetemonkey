@@ -1,0 +1,51 @@
+id: is-is-91-001-e3-6-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E3.6
+section_title: Aeronaves equipadas com sensores GNSS. Quando utilizando GNSS, a aquisição
+  do sinal deve ser confirmada antes do início da decolagem. Para aeronaves que utilizam equipamentos
+  TSO-C129a, o aeroporto de origem deve ser carregado no plano de voo de forma a fornecer
+  monitoramento e sensibilidade adequados ao sistema de navegação. Para aeronaves que utilizam
+  aviônicos TSO-C145 ( ) / C146 ( ), se a decolagem tiver início em um waypoint na própria
+  pista, então o aeroporto de origem não necessita estar carregado no plano de voo para prover
+  o monitoramento e sensibilidade adequados.
+subsection_id: body
+cite: E3.6
+title: Aeronaves equipadas com sensores GNSS. Quando utilizando GNSS, a aquisição do sinal
+  deve ser confirmada antes do início da decolagem. Para aeronaves que utilizam equipamentos
+  TSO-C129a, o aeroporto de origem deve ser carregado no plano de voo de forma a fornecer
+  monitoramento e sensibilidade adequados ao sistema de navegação. Para aeronaves que utilizam
+  aviônicos TSO-C145 ( ) / C146 ( ), se a decolagem tiver início em um waypoint na própria
+  pista, então o aeroporto de origem não necessita estar carregado no plano de voo para prover
+  o monitoramento e sensibilidade adequados.
+text: 'E3.6 Aeronaves equipadas com sensores GNSS. Quando utilizando GNSS, a aquisição do
+  sinal deve ser confirmada antes do início da decolagem. Para aeronaves que utilizam equipamentos
+  TSO-C129a, o aeroporto de origem deve ser carregado no plano de voo de forma a fornecer
+  monitoramento e sensibilidade adequados ao sistema de navegação. Para aeronaves que utilizam
+  aviônicos TSO-C145 ( ) / C146 ( ), se a decolagem tiver início em um waypoint na própria
+  pista, então o aeroporto de origem não necessita estar carregado no plano de voo para prover
+  o monitoramento e sensibilidade adequados.
+
+  E4. CRITÉRIOS ESPECÍFICOS PARA PROCEDIMENTOS DE CHEGADA PADRÃO POR INSTRUMENTOS (STAR) RNAV
+  1 E 2'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronaves
+- adequados
+- aeroporto
+- carregado
+- decolagem
+- gnss
+- inicio
+- monitoramento
+- origem
+- plano
+- sensibilidade
+- utilizam
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

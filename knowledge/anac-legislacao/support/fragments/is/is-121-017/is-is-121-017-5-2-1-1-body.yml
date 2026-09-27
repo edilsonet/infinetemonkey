@@ -1,0 +1,39 @@
+id: is-is-121-017-5-2-1-1-body
+kind: is
+document: is-121-017
+family: '121'
+section_id: 5.2.1.1
+section_title: Decolagem
+subsection_id: body
+cite: 5.2.1.1
+title: Decolagem
+text: '5.2.1.1 Decolagem
+
+  5.2.1.1.1 O vento é um parâmetro necessário no cálculo do desempenho de decolagem, conforme
+  o parágrafo 121.189(e) do RBAC nº 121. Os aviões normalmente decolam com vento de proa,
+  a menos que obstáculos no entorno do aeródromo ou procedimentos do controle de tráfego aéreo
+  exijam algo diferente. Dessa forma, a consideração do vento na decolagem tende a ser um
+  fator benéfico ao desempenho do avião.
+
+  5.2.1.1.2 Conforme o item 3.1.1 da ICA 100-1, para operações VFR, e o item 4.1.1, para operações
+  IFR, é requerido que o aeródromo disponha de informações meteorológicas relativas ao vento
+  de superfície por, pelo menos, um dos seguintes meios:'
+keywords:
+- transporte-aereo
+- operacoes
+- decolagem
+- vento
+- aerodromo
+- desempenho
+- menos
+- aereo
+- algo
+- aviao
+- avioes
+- benefico
+- calculo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-017.md

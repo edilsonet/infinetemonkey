@@ -1,0 +1,36 @@
+id: is-is-91-001-e3-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: E3.4
+section_title: Aeronaves DME/DME. Pilotos de aeronaves sem GNSS, utilizando atualização DME/DME
+  sem entrada de sensor inercial, não podem utilizar o sistema RNAV até que a aeronave se
+  encontre em uma área com a cobertura DME adequada.
+subsection_id: body
+cite: E3.4
+title: Aeronaves DME/DME. Pilotos de aeronaves sem GNSS, utilizando atualização DME/DME sem
+  entrada de sensor inercial, não podem utilizar o sistema RNAV até que a aeronave se encontre
+  em uma área com a cobertura DME adequada.
+text: E3.4 Aeronaves DME/DME. Pilotos de aeronaves sem GNSS, utilizando atualização DME/DME
+  sem entrada de sensor inercial, não podem utilizar o sistema RNAV até que a aeronave se
+  encontre em uma área com a cobertura DME adequada.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronaves
+- adequada
+- aeronave
+- area
+- atualizacao
+- cobertura
+- encontre
+- entrada
+- gnss
+- inercial
+- pilotos
+- podem
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

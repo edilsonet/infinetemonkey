@@ -1,0 +1,36 @@
+id: is-is-175-009-5-3-7-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.7
+section_title: O campo “Número do voo” deve ser preenchido com os algarismos que representam
+  o
+subsection_id: body
+cite: 5.3.7
+title: O campo “Número do voo” deve ser preenchido com os algarismos que representam o
+text: '5.3.7 O campo “Número do voo” deve ser preenchido com os algarismos que representam
+  o
+
+  voo do operador aéreo. Não se deve utilizar letras que indiquem o trigrama ou código do
+
+  operador aéreo. Não pode haver espaços ou hífens.'
+keywords:
+- artigos-perigosos
+- carga
+- algarismos
+- campo
+- numero
+- preenchido
+- representam
+- aereo
+- operador
+- codigo
+- espacos
+- haver
+- hifens
+- indiquem
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

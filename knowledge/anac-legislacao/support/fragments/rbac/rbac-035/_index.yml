@@ -42,11 +42,18 @@ sections:
 - A35.2
 - A35.3
 - A35.4
+- apendice-a-do-rbac-35
 - apendice-a-do-rbac-35-instrucoes-para
+- aplicabilidade
+- aprovacao
 - preambulo
-fragment_count: 104
+- requisitos
+- sumario
+fragment_count: 112
 fragment_ids:
 - rbac-rbac-035-preambulo-body
+- rbac-rbac-035-requisitos-body
+- rbac-rbac-035-aprovacao-body
 - rbac-rbac-035-35-2-body
 - rbac-rbac-035-35-3-body
 - rbac-rbac-035-35-4-body
@@ -63,6 +70,7 @@ fragment_ids:
 - rbac-rbac-035-35-35-body
 - rbac-rbac-035-35-37-body
 - rbac-rbac-035-35-38-body
+- rbac-rbac-035-sumario-body
 - rbac-rbac-035-35-36-body
 - rbac-rbac-035-35-39-body
 - rbac-rbac-035-35-40-body
@@ -77,6 +85,10 @@ fragment_ids:
 - rbac-rbac-035-35-1-c
 - rbac-rbac-035-35-1-d
 - rbac-rbac-035-35-3-a
+- rbac-rbac-035-aplicabilidade-a
+- rbac-rbac-035-aplicabilidade-b
+- rbac-rbac-035-aplicabilidade-c
+- rbac-rbac-035-aplicabilidade-d
 - rbac-rbac-035-35-3-b
 - rbac-rbac-035-35-5-a
 - rbac-rbac-035-35-5-b
@@ -149,5 +161,6 @@ fragment_ids:
 - rbac-rbac-035-a35-2-b
 - rbac-rbac-035-a35-3-body
 - rbac-rbac-035-a35-3-a
+- rbac-rbac-035-apendice-a-do-rbac-35-body
 - rbac-rbac-035-a35-3-b
-parser_version: 6
+parser_version: 7

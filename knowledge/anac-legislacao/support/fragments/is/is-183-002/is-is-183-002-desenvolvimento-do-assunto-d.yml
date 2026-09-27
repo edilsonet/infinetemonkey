@@ -1,0 +1,48 @@
+id: is-is-183-002-desenvolvimento-do-assunto-d
+kind: is
+document: is-183-002
+family: '183'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: d
+cite: desenvolvimento-do-assunto(d)
+title: desenvolvimento-do-assunto(d)
+text: 'd) o PCP deve incluir a seguinte declaração no campo “Requisitos Aplicáveis e Escopo
+  dos Trabalhos” do formulário F-101-06: “Este formulário se refere a uma aeronave registrada
+  no exterior. A aceitação depende da autoridade da aviação civil de onde a aeronave está
+  registrada. O instalador deve determinar a compatibilidade destes dados com a configuração
+  da aeronave.”, porém a aprovação deve ser feita pela ANAC.
+
+  Atividade relacionada a motor, hélice e artigo: Nem sempre o PCP que está emitindo laudo
+  ou parecer sobre dados para um reparo, alteração ou modificação de um motor, hélice ou um
+  artigo ainda não instalados sabe onde ou quando o item será instalado. Consequentemente,
+  ele não pode saber qual será o registro da aeronave que terá o item instalado. O registro
+  da aeronave não é necessário nem relevante neste caso; o que é relevante é que o PCP trabalhe
+  dentro de seu Escopo Reconhecido ao executar suas análises.
+
+  Aprovação de um método alternativo de cumprimento de uma DA
+
+  Para emitir laudo ou parecer para um método alternativo de cumprimento (AMOC - Alternative
+  Means of Compliance) de uma Diretriz de Aeronavegabilidade (DA), um PCP da área de Estruturas
+  deve executar a análise do AMOC por meio do formulário F-101-06. A análise deve, pelo menos,
+  conter:'
+keywords:
+- delegacao
+- credenciamento
+- aeronave
+- formulario
+- alternativo
+- amoc
+- analise
+- aprovacao
+- artigo
+- assunto
+- cumprimento
+- dados
+- desenvolvimento
+- escopo
+categories:
+- delegacao
+- credenciamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-183-002.md

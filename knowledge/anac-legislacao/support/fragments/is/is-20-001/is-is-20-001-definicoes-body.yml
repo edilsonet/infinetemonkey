@@ -1,0 +1,162 @@
+id: is-is-20-001-definicoes-body
+kind: is
+document: is-20-001
+family: '20'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  As seguintes definições se aplicam no contexto desta IS:
+
+  Dados Relevantes à Operação (Operational Suitability Data - OSD): Significam as informações
+  produzidas na certificação de tipo que são relevantes à operação segura da aeronave e são
+  compostas pelo Dados Relevantes à Operação para Pilotos (Flight Crew Data - FCD) e Lista
+  Mestra de Equipamentos Mínimos (Master Minimum Equipment List - MMEL).
+
+  Dados técnicos aceitáveis: Significam dados que podem ser utilizados como base para substanciação
+  de pequenas alterações, mesmo que não tenham sido individualmente aceitos pela ANAC. Os
+  seguintes dados técnicos são considerados aceitáveis pela ANAC:
+
+  Manuais, boletins ou documentos de instalação de fabricantes não necessariamente aprovados
+  pela autoridade de aviação civil;
+
+  Instruções de Aeronavegabilidade Continuada (Instructions for Continued Airworthiness -
+  ICA) aplicáveis à aeronave, incluindo manuais de manutenção;
+
+  Material orientativo ou interpretativo, tais como Instruções Suplementares - IS, Advisory
+  Circulars - AC, entre outros, emitidos por autoridades de aviação civil (desde que sejam
+  expressamente aceitos pela ANAC);
+
+  Manuais dos operadores aéreos certificados que operam segundo as regras do RBAC 121 ou RBAC
+  135 e manuais das organizações de manutenção certificadas segundo o RBAC 145, aceitos pela
+  ANAC;
+
+  Normas: Associação Brasileira de Normas Técnicas - ABNT, Military Specifications and Standards
+  - MIL, American Society for Testing Materials - ASTM, Society of Automotive Engineers -
+  SAE, Radio Technical Commission for Aeronautics - RTCA, ou equivalentes;
+
+  Dados técnicos considerados aprovados no Brasil apresentados no item 4.4;
+
+  AC 43.13-1 e AC 43.13-2 da FAA; e
+
+  Outros dados técnicos aceitos ou aceitáveis descritos em portarias específicas publicadas
+  pela ANAC.
+
+  Dados técnicos aceitos: Significam dados que a ANAC aceitou formalmente para o propósito
+  para o qual foram criados.
+
+  Dados técnicos aprovados: Significam dados que podem ser utilizados como base para substanciação
+  de projetos de grandes modificações e grandes alterações, e que têm como origem ou são cobertos
+  por:
+
+  Certificado de Tipo - CT, Certificado Suplementar de Tipo - CST e Certificado de Produto
+  Aeronáutico Aprovado - CPAA (incluem-se nesta categoria os desenhos, especificações e outros
+  documentos que definem a configuração original do projeto aprovado);
+
+  Diretriz de Aeronavegabilidade - DA (consulte também o RBAC 39), ou documento equivalente,
+  emitida pela autoridade de aviação civil do país responsável pela emissão do CT (ou equivalente)
+  do produto aeronáutico, ou responsável pela aeronavegabilidade do produto aeronáutico;
+
+  Dados de projeto do fabricante ou do detentor do projeto de tipo aprovados pela ANAC, como
+  desenhos, materiais, especificações, processos etc, ou pela autoridade de aviação civil
+  do país do fabricante ou do país responsável pela emissão do certificado de tipo do produto
+  aeronáutico;
+
+  OSD emitidos ou aprovados pela ANAC ou, sob condições específicas, emitidos ou aprovados
+  pela autoridade de aviação civil do país responsável pela emissão do certificado de tipo
+  do produto aeronáutico ou do certificado suplementar de tipo aplicável à aeronave. Tais
+  condições específicas constam na IS 21.61-001, no caso de FCD, e IS 21.61-005, no caso de
+  MMEL;
+
+  Manuais e informações de serviço (manuais de reparo, boletins de serviço ou de informação,
+  ou outras publicações) emitidas pelo fabricante e aprovados pela autoridade de aviação civil
+  do país do fabricante ou do país responsável pela emissão do certificado de tipo do produto
+  aeronáutico, quando houver aceitação direta por acordo bilateral ou evidência de aprovação
+  na ANAC;
+
+  Dados com procedimentos de inspeção da AC 43.13-1 “Acceptable Methods, Techniques, and Practices
+  - Aircraft Inspection and Repair” e os dados para alteração contidos na AC 43.13-2, “Acceptable
+  Methods, Techniques, and Practices - Aircraft Alterations”, em suas revisões vigentes, podem
+  ser usados como dados aprovados para grandes alterações quando o capítulo, página e respectivo
+  parágrafo da AC supramencionada são listados no campo 8 do formulário ANAC F-400-04 (SEGVOO
+  001), quando o responsável determinou que:
+
+  I - são apropriados ao produto sendo alterado;
+
+  II - são diretamente aplicáveis à alteração sendo feita; e
+
+  III - não são contrários aos dados do fabricante.
+
+  Qualquer outro dado técnico que tenha sido especificamente aprovado pela ANAC (ou por pessoa
+  por ela designada para tal).
+
+  Grande alteração: Significa uma alteração não listada na especificação técnica aprovada
+  da aeronave, motor ou hélice e que:
+
+  Pode afetar apreciavelmente o peso, o balanceamento, a resistência estrutural, desempenho,
+  operação do grupo motopropulsor, características de voo ou qualquer outra característica
+  ligada à aeronavegabilidade; ou
+
+  Não é executada de acordo com práticas aceitáveis ou que não pode ser executada usando operações
+  elementares.
+
+  Grande modificação: Significa uma modificação que não se enquadra na definição de pequena
+  modificação.
+
+  Grande modificação aos OSD: Significa uma modificação que não se enquadra na definição de
+  pequena modificação aos OSD.
+
+  Modificação acústica: Significa, para os propósitos de cumprimento com o RBAC 36, qualquer
+  modificação voluntária no projeto de tipo das aeronaves e condições especificadas no parágrafo
+  21.93(b) do RBAC 21 relacionadas a ruído.
+
+  Modificação de emissões: Significa, para os propósitos de cumprimento com o RBAC 34, qualquer
+  modificação no projeto de tipo do avião ou do motor a qual possa aumentar emissão de combustível
+  drenado e de escapamento de aviões.
+
+  Organização de Projeto Certificada: Significa qualquer pessoa jurídica devidamente estabelecida,
+  certificada conforme a Subparte J do RBAC nº 21, que desenvolva projeto de produto aeronáutico,
+  suas modificações e dados técnicos de reparos e alterações a esses produtos.
+
+  Pequena alteração: Significa uma alteração em aeronave, motor ou hélice que não se enquadra
+  na definição de grande alteração.
+
+  Pequena modificação: Significa uma modificação ao projeto de tipo da aeronave, motor ou
+  hélice que não tem apreciável efeito no peso, no balanceamento, na resistência estrutural,
+  na confiabilidade, em características operacionais e em outras características que afetem
+  a aeronavegabilidade do produto.
+
+  Pequena modificação aos OSD: Significa uma modificação que não possui efeito apreciável
+  aos OSD. Os critérios para determinação se os efeitos são apreciáveis aos OSD constam na
+  IS 21.61-001, no caso de FCD, e na IS 21.61-005, no caso de MMEL.
+
+  Profissional Credenciado em Projeto - PCP: Significa uma Pessoa Física credenciada pela
+  ANAC para emitir laudos, pareceres ou relatórios relativos a projetos aeronáuticos, nos
+  termos do RBAC 183 e da IS 183-002.
+
+  Responsável Técnico - RT: Significa uma pessoa física ou jurídica legalmente habilitada,
+  por exemplo, engenheiro aeronáutico, mecânico-aeronáutico ou com atribuições equivalentes,
+  ou Empresa de Engenharia devidamente inscrita junto ao Conselho Regional de Engenharia e
+  Agronomia - CREA, competente para exercer responsabilidade técnica de atividades desenvolvidas
+  para fins de certificação de modificação de projeto de tipo de produto aeronáutico ou de
+  grande alteração de aeronave.'
+keywords:
+- dados
+- modificacao
+- tipo
+- significa
+- aeronautico
+- produto
+- projeto
+- alteracao
+- aprovados
+- aeronave
+- certificado
+- responsavel
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-20-001.md

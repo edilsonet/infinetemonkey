@@ -1,0 +1,75 @@
+id: is-is-91-012-1-5-3-12-1-4-f
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.3.12.1.4
+section_title: 'Os principais motivos que podem fundamentar a solicitação de extensão de prazo
+  são:'
+subsection_id: f
+cite: 5.3.12.1.4(f)
+title: 5.3.12.1.4(f)
+text: 'f) auditoria: o operador deve incluir o programa de auto-extensão de prazo de itens
+  da MEL em suas auditorias SASC, com uma frequência inicial de 12 meses ou menos.
+
+  5.3.12.2.3 O objetivo desse programa é garantir que os operadores não utilizem a extensão
+  do prazo de reparo de forma corriqueira, para se desviar dos prazos previstos na MEL, pois
+  extensões somente são consideradas válidas quando ocorrem por razões fora do controle do
+  operador, como, por exemplo, indisponibilidade do componente ou dificuldade na identificação
+  da falha.
+
+  5.3.12.2.4 Caso seja observado abuso ou uso indiscriminado do privilégio de extensão por
+  parte do operador (por exemplo, ao deixar de utilizar todos os meios disponíveis para executar
+  uma manutenção no intervalo previsto na MEL, ou por deixar de realizar os procedimentos
+  previstos em seu programa de auto-extensão de prazo de itens da MEL), a autorização poderá
+  ser revogada pela Anac.
+
+  5.4 Operação com equipamentos e instrumentos inoperantes, sem MEL aprovada
+
+  5.4.1 Para operações exclusivamente conduzidas sob o RBAC nº 91, ou seja, para as quais
+  não se aplicam outros regulamentos de operação, como o RBAC nº 121, 129, 135 ou a Subparte
+  K do RBAC nº 91, o parágrafo 91.213(d) do RBAC nº 91 permite a operação da aeronave com
+  itens inoperantes mesmo que a aeronave não possua uma MEL aprovada. A operação segundo o
+  parágrafo 91.213(d) não requer solicitação específica do operador à Anac e não requer uma
+  autorização da Anac para o operador ou para a aeronave. Conforme o parágrafo 91.213(d)-I,
+  assim como ocorre quando uma MEL é aprovada, uma aeronave com itens inoperantes de acordo
+  com o parágrafo 91.213(d) também é considerada pela Anac como estando apropriadamente modificada.
+
+  Nota: não é objetivo desta IS estabelecer todas as formas pelas quais pode ocorrer a operação
+  da aeronave com um item inoperante. A título de exemplo, o parágrafo 91.213(e) também permite
+  a operação da aeronave com itens inoperantes, desde que haja uma autorização especial de
+  voo, emitida de acordo com as seções 21.197 e 21.199 do RBAC nº 21.
+
+  5.4.1.1 Operadores de aviação geral que possuam MEL aprovada para uma aeronave sob a seção
+  91.213 do RBAC nº 91 devem utilizar essa MEL aprovada para atender à seção 91.213. Tais
+  operadores não podem, portanto, se utilizar do parágrafo 91.213(d) para operar com itens
+  inoperantes.
+
+  5.4.1.2 Operadores que possuam MEL aprovada nos termos dos RBAC nº 121 ou 135 ou da Subparte
+  K do RBAC nº 91, para uma aeronave específica ou para uma frota, quando realizando operações
+  sob o RBAC nº 91 (por exemplo, traslados), devem utilizar essa MEL aprovada para atender
+  à seção 91.213. Tais operadores não podem, portanto, se utilizar do parágrafo 91.213(d)
+  para operar com itens inoperantes.
+
+  5.4.2 O operador deve atender as condições descritas nos parágrafos 5.4.2.1 a 5.4.2.4 desta
+  IS para determinar se a aeronave pode operar com um determinado item inoperante, de acordo
+  com o parágrafo 91.213(d). Esses passos são ilustrados no Apêndice D desta IS.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- paragrafo
+- aprovada
+- inoperantes
+- operacao
+- operador
+- extensao
+- operadores
+- utilizar
+- exemplo
+- prazo
+- acordo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

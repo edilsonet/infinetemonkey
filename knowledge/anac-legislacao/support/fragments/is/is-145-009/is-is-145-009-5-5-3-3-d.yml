@@ -1,0 +1,51 @@
+id: is-is-145-009-5-5-3-3-d
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.3.3
+section_title: Autoinclusão
+subsection_id: d
+cite: 5.5.3.3(d)
+title: 5.5.3.3(d)
+text: 'd) os procedimentos devem prever a verificação de características relativas à similaridade
+  em relação a artigos já presentes em sua EO ou LC. Os procedimentos desenvolvidos devem
+  prever que a OM apenas autoinclua artigos com um nível de similaridade adequado em relação
+  aos que já possui em sua capacidade autorizada. No caso de autoinclusão em EO, os procedimentos
+  devem estabelecer que a OM pode exercer sua prerrogativa de autoinclusão considerando características
+  similares e combinadas como: aeronave de asa fixa / asa rotativa, pressurizada/ não pressurizada,
+  motorização convencional ou à turbina, material da hélice, etc.
+
+  NOTA 1: A IS nº 145-001 apresenta as características mínimas que devem ser avaliadas para
+  a determinação do nível de similaridade, que é um conceito-chave no processo de autoinclusão.
+
+  NOTA 2: A aprovação da autoinclusão de um artigo somente deve ser feita pelo Responsável
+  Técnico que tenha cadastro na ANAC para a classe e categoria específica, ou por pessoa qualificada
+  por ele delegada, conforme estabelecido em procedimento da OM.
+
+  5.5.3.4 Autoavaliação: a autoavaliação é um procedimento executado pela OM, conforme descrito
+  em seus manuais, com o objetivo de verificar se a organização satisfaz a todos os requisitos
+  de instalações, recursos, equipamentos, materiais, dados técnicos, processos e pessoal treinado
+  para executar manutenção em um artigo.
+
+  5.5.3.4-I Qualificação para executar autoavaliação: uma pessoa executando a autoavaliação
+  requerida pela seção 145.215-I(c) do RBAC nº 145 deve possuir as seguintes qualificações:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- autoinclusao
+- autoavaliacao
+- caracteristicas
+- procedimentos
+- similaridade
+- artigo
+- artigos
+- executar
+- nivel
+- nota
+- pessoa
+- pressurizada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

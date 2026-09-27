@@ -1,0 +1,53 @@
+id: is-is-145-009-aprovacao-g
+kind: is
+document: is-145-009
+family: '145'
+section_id: aprovacao
+section_title: Aprovação
+subsection_id: g
+cite: aprovacao(g)
+title: aprovacao(g)
+text: 'g) Procedimento Modelo 4 - Formato de Fluxograma
+
+  I- O fluxograma seguinte ilustra outro método possível de apresentar um procedimento. Embora
+  o modelo ilustre um procedimento simples, processos complexos podem ser apresentados utilizando
+  um fluxograma. A pessoa usando o manual deve estar familiarizada e se sentir confortável
+  com fluxogramas e seus símbolos.
+
+  II- O fluxograma de processo pode ser usado para elaborar um procedimento que não foi documentado
+  anteriormente. O procedimento pode ser inicialmente desenhado em papel, usando um fluxograma,
+  e depois descrito usado um formato narrativo no manual. Esse processo funciona bem quando
+  os usuários do manual se sentem mais confortáveis com os procedimentos narrativos do que
+  com fluxogramas.
+
+  III- Outro uso possível para o fluxograma é verificar se o procedimento narrativo funciona.
+  Esse processo é essencialmente o oposto do processo anteriormente descrito. Enquanto se
+  lê a narrativa do processo, o fluxograma é criado para representar visualmente as diferentes
+  etapas. Uma análise do fluxograma mostrará qualquer redundância ou falta de etapas.
+
+  IV- O fluxograma pode também ser usado durante um processo de auditoria. O auditor cria
+  um fluxograma durante a análise do desempenho de um processo particular. O auditor então
+  compara o processo que ele ou ela observou com o processo descrito no manual. Quaisquer
+  diferenças podem ser anotadas no relatório do auditor.
+
+  Figura 1 - Fluxograma de Procedimentos'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- fluxograma
+- processo
+- procedimento
+- manual
+- auditor
+- descrito
+- pode
+- usado
+- analise
+- anteriormente
+- aprovacao
+- durante
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

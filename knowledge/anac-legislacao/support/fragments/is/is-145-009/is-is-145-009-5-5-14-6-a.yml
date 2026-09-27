@@ -1,0 +1,45 @@
+id: is-is-145-009-5-5-14-6-a
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.14.6
+section_title: 'Exemplos: Os seguintes cenários são exemplos de um programa de ação corretiva:'
+subsection_id: a
+cite: 5.5.14.6(a)
+title: 5.5.14.6(a)
+text: 'a) Cenário 1
+
+  Durante o processo de inspeção final de uma aeronave em uma OM depois de um serviço qualquer,
+  o chefe dos inspetores efetuou uma revisão na documentação. Durante a revisão, descobriu-se
+  que uma das discrepâncias encontradas durante o serviço não havia sido corrigida. Uma análise
+  adicional da documentação revelou que nenhum reparo havia sido executado para corrigir essa
+  discrepância. Entrevistas mantidas com os mecânicos trabalhando na aeronave revelaram que
+  a peça faltante para completar o reparo estava no setor de compras. O chefe dos inspetores
+  perguntou por que ninguém escreveu que a peça estava sendo comprada. Um dos mecânicos respondeu
+  que não havia instrução em lugar algum que os orientasse onde escrever que a peça estava
+  com pedido de compra. O procedimento requeria que o mecânico descrevesse as ações tomadas
+  para resolver a discrepância, e assinar no campo apropriado. O procedimento não indicava
+  qual ação tomar se a peça estivesse em pedido de compra. O que inicialmente parecia uma
+  falha do mecânico para escrever que a peça estava em pedido de compra, tornou-se uma falta
+  de procedimento escrito no MOM. Desenvolvido um procedimento escrito para o mecânico seguir,
+  a OM corrigiu a deficiência.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- peca
+- estava
+- procedimento
+- compra
+- durante
+- havia
+- mecanico
+- pedido
+- acao
+- aeronave
+- chefe
+- discrepancia
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

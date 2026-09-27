@@ -1,0 +1,82 @@
+id: is-is-120-016-definicoes-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: definicoes
+section_title: Definições
+subsection_id: body
+cite: definicoes
+title: Definições
+text: 'Definições
+
+  Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01, bem como as
+  seguintes definições:
+
+  4.1 Equivalente: Para um detentor de COA, o termo é empregado para indicar algo que detém
+  mesmo nível de segurança, mesma finalidade e é capaz de produzir o mesmo resultado, ainda
+  que não seja literalmente igual.
+
+  4.2 Extensão de Tarefa de Manutenção: prolongamento excepcional do intervalo para a execução
+  de tarefas de manutenção, além do previsto nas tolerâncias indicadas pelo fabricante. Deve
+  ser expressamente autorizada pela ANAC antes de seu uso. Não trata a presente definição
+  de aumento de intervalos de manutenção (escalation).
+
+  4.3 Limitação de Manutenção: Descrição da capacidade de execução de manutenção de um artigo.
+  Deve refletir a complexidade e a extensão da manutenção, indicar o artigo ao qual a limitação
+  é referente, assim como a base onde a manutenção é realizada.
+
+  4.4 Programa de Manutenção de Aeronavegabilidade Continuada (PMAC): Programa composto por
+  dez elementos, que tem por objetivo o fortalecimento das atividades de gerenciamento da
+  segurança operacional relacionadas às atividades de manutenção. Possui como objetivos garantir
+  que: (1) cada aeronave liberada para voo esteja em condições aeronavegáveis e tenha sido
+  apropriadamente mantida; (2) todos os serviços de manutenção e/ou alterações foram executados
+  de acordo com o sistema de manuais de manutenção do operador; e (3) todos os serviços foram
+  executados por pessoal competente, com equipamentos e instalações apropriados.
+
+  4.5 Programa de Manutenção Recomendado pelo Fabricante: programa de manutenção recomendado
+  pelo detentor do certificado de tipo (ou certificado suplementar de tipo), que contém todas
+  as instruções de manutenção aplicáveis a um determinado artigo, incluindo, por exemplo:
+  plano de inspeções programadas, fichas de inspeção, descrição detalhada das tarefas, práticas
+  de manutenção recomendadas, critérios para manutenção não programada, limites de tempo de
+  utilização de partes, procedimentos de preservação, etc.
+
+  4.6 Programação de Manutenção: culturalmente conhecida como Programa de Manutenção Aprovado
+  (PMA). Estabelecido através de aprovação da ANAC, é um dos elementos do Programa de Manutenção
+  (PMAC).
+
+  4.7 Sistema de Manuais de Manutenção: conjunto de manuais que contém procedimentos, instruções
+  e orientações de aeronavegabilidade continuada para uso do pessoal de manutenção e de operações
+  na execução de seus deveres.
+
+  Nota: também chamado de Manual de Manutenção no conceito da Federal Aviation Administration
+  - FAA, deve cobrir todo o conteúdo aplicável à manutenção requerido pela regulamentação
+  nacional, em especial às seções 121.133, 121.135 e 121.369 do RBAC nº 121 e 135.21, 135.23
+  e 135.427 do RBAC nº 135. Abrange o Manual Geral de Manutenção, descrito nesta IS, a Programação
+  de Manutenção, a lista de itens IIO, o Programa de Treinamento de Manutenção, o Manual SASC,
+  o Programa de Confiabilidade, a Lista de Equipamentos Mínimos, o Manual de Operações Especiais
+  (RVSM, CAT II/III, PBN, ETOPS etc) e quaisquer outros manuais aplicáveis à manutenção, incluindo
+  as publicações técnicas utilizadas na manutenção das aeronaves, emitidas pelo fabricante
+  ou autoridade aeronáutica do país de projeto ou pela ANAC.
+
+  4.8 Tolerância de Tarefa de Manutenção: prazo adicional, além do intervalo previamente estabelecido,
+  definido nas publicações técnicas do fabricante, para execução das tarefas de manutenção.'
+keywords:
+- antidrogas
+- saude
+- manutencao
+- programa
+- definicoes
+- execucao
+- fabricante
+- manuais
+- manual
+- artigo
+- tarefas
+- aeronavegabilidade
+- alem
+- aplicaveis
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

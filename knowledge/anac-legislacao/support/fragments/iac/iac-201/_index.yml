@@ -1,0 +1,38 @@
+document: iac-201
+kind: iac
+title: IAC 201
+ementa: 07/02/1997
+family: '201'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-201
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-201/@@display-file/arquivo_norma/IAC0201.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-201/@@display-file/arquivo_norma/IAC0201.pdf
+language: pt
+foreign_annex: false
+sections:
+- '13'
+- '26'
+- '9'
+- anexo-01
+- anexo-02
+- anexo-03
+- preambulo
+fragment_count: 15
+fragment_ids:
+- iac-iac-201-preambulo-body
+- iac-iac-201-preambulo-a
+- iac-iac-201-preambulo-b
+- iac-iac-201-preambulo-c
+- iac-iac-201-preambulo-d
+- iac-iac-201-preambulo-e
+- iac-iac-201-preambulo-f
+- iac-iac-201-preambulo-g
+- iac-iac-201-preambulo-h
+- iac-iac-201-anexo-01-body
+- iac-iac-201-anexo-02-body
+- iac-iac-201-9-body
+- iac-iac-201-13-body
+- iac-iac-201-26-body
+- iac-iac-201-anexo-03-body
+parser_version: 7

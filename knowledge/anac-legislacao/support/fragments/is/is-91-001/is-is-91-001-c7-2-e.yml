@@ -1,0 +1,40 @@
+id: is-is-91-001-c7-2-e
+kind: is
+document: is-91-001
+family: '91'
+section_id: C7.2
+section_title: 'Ao planejar operações em áreas onde o RNAV 10 é aplicado, o operador deve
+  avaliar o efeito dos ventos (em particular, o efeito dos ventos de proa). O operador pode
+  optar por realizar esta avaliação uma única vez para a rota pretendida ou realizar avaliações
+  para cada voo realizado. Ao realizar a avaliação mencionada o operador deve considerar os
+  aspectos destacados abaixo:'
+subsection_id: e
+cite: C7.2(e)
+title: C7.2(e)
+text: 'e) cálculo único baseado na probabilidade de 75 por cento componentes de vento: alguns
+  provedores de dados sobre ventos estabelecem a probabilidade de se experimentar uma determinada
+  componente de vento entre pares de cidades em uma base anual. Caso um operador opte por
+  realizar um cálculo único para determinar sua capacidade relacionada ao limite de tempo
+  para operações RNAV 10, este operador deve utilizar a probabilidade anual de 75 por cento
+  para a determinação do efeito dos componentes de vento (a utilização deste parâmetro mostra-se
+  como uma estimativa aceitável para consideração dos efeitos das componentes de vento); e'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- operador
+- realizar
+- vento
+- componentes
+- efeito
+- probabilidade
+- ventos
+- anual
+- avaliacao
+- calculo
+- cento
+- operacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

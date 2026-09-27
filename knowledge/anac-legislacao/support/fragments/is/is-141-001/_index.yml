@@ -1,0 +1,68 @@
+document: is-141-001
+kind: is
+title: IS 141-001E
+ementa: Procedimentos para a comunicação da relação de alunos matriculados e instrutores pelos
+  Centros de Instrução de Aviação Civil - Ciacs
+family: '141'
+categories:
+- escolas
+- treinamento
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-001
+language: pt
+foreign_annex: false
+sections:
+- 5.1.2.4
+- 5.1.3.2
+- 5.2.2
+- 5.3.1.7
+- 5.3.4
+- 5.3.5
+- apendice-a
+- apendice-a-lista-de-reducoes
+- apendice-b
+- apendice-b-orientacoes-para-o-registro-de-informacoes
+- apendice-b-orientacoes-para-o-registro-de-informacoes-a92722
+- apendice-c
+- apendice-c-controle-de-alteracoes
+- apendice-c-controle-de-revisoes
+- aprovacao
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- introducao
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 28
+fragment_ids:
+- is-is-141-001-preambulo-body
+- is-is-141-001-aprovacao-body
+- is-is-141-001-objetivo-body
+- is-is-141-001-revogacao-body
+- is-is-141-001-revogacao-a
+- is-is-141-001-revogacao-b
+- is-is-141-001-definicoes-body
+- is-is-141-001-desenvolvimento-do-assunto-body
+- is-is-141-001-introducao-body
+- is-is-141-001-introducao-a
+- is-is-141-001-introducao-b
+- is-is-141-001-introducao-c
+- is-is-141-001-introducao-d
+- is-is-141-001-apendice-a-lista-de-reducoes-body
+- is-is-141-001-apendice-b-orientacoes-para-o-registro-de-informacoes-a92722-body
+- is-is-141-001-apendice-c-controle-de-revisoes-body
+- is-is-141-001-disposicoes-finais-body
+- is-is-141-001-apendice-b-orientacoes-para-o-registro-de-informacoes-body
+- is-is-141-001-apendice-c-controle-de-alteracoes-body
+- is-is-141-001-5-1-2-4-body
+- is-is-141-001-5-1-3-2-body
+- is-is-141-001-5-2-2-body
+- is-is-141-001-5-3-1-7-body
+- is-is-141-001-5-3-4-body
+- is-is-141-001-5-3-5-body
+- is-is-141-001-apendice-a-body
+- is-is-141-001-apendice-b-body
+- is-is-141-001-apendice-c-body
+parser_version: 7

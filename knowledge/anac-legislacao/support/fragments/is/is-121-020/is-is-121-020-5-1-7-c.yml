@@ -1,0 +1,55 @@
+id: is-is-121-020-5-1-7-c
+kind: is
+document: is-121-020
+family: '121'
+section_id: 5.1.7
+section_title: Os critérios desta IS são adicionais aos estabelecidos para gerenciamento de
+  aeródromos utilizados em operações regulares constantes na IS nº 121-005.
+subsection_id: c
+cite: 5.1.7(c)
+title: 5.1.7(c)
+text: 'c) Grupo C - aeródromos que requerem considerações adicionais em relação aos aeródromos
+  do Grupo B, incluindo os que apresentem especificidades como, por exemplo:
+
+  I - aeródromos em altitudes elevadas (acima de 8.000ft);
+
+  II - trajetória de aproximação com ângulos acima de 4,5º (steep angle approaches);
+
+  III - trajetórias de decolagem ou de arremetida que requeiram ângulo de inclinação (bank
+  angle) superior a 15º entre 200 e 400ft, ou superior a 20º acima de 400ft;
+
+  IV - trajetória de aproximação final (após o FAF/FAP) que requeira ângulo de inclinação
+  (bank angle) superior a 20º em trechos a 500ft ou mais alto, ou superior a 3º em trechos
+  abaixo de 500ft;
+
+  V - trajetória de aproximação ou decolagem em meio a terreno elevado ou terreno montanhoso;
+  ou
+
+  VI - procedimentos de aproximação (VFR ou IFR) complexos ou que não atendam os parâmetros
+  e critérios definidos como padrão pelo DECEA para procedimentos no Brasil, ou pela OACI
+  para procedimentos em outros países.
+
+  Nota: observa-se que, dependendo do critério que motive a classificação do aeródromo em
+  Grupo B ou C, essa classificação pode ser específica para um modelo de aeronave. Por exemplo,
+  um aeródromo com pista considerada de largura normal para um modelo de aeronave pode ser
+  considerada estreita para outro modelo.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromos
+- aproximacao
+- superior
+- acima
+- angle
+- grupo
+- modelo
+- procedimentos
+- trajetoria
+- 400ft
+- 500ft
+- adicionais
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

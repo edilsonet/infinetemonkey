@@ -1,0 +1,87 @@
+id: is-is-00-004-1-b
+kind: is
+document: is-00-004
+family: '0'
+section_id: '1'
+section_title: Sim, o parágrafo 121.361(b) do RBAC nº 121 é aplicável à aeronave como um todo;
+  e
+subsection_id: b
+cite: 1(b)
+title: 1(b)
+text: '(b) O parágrafo (a) desta seção não se aplica a:
+
+  (1) aeronave que tenha recebido o certificado de certificação de tipo original dentro dos
+  36 meses precedentes; e
+
+  (2) aeronave operada sob um sistema de peso e balanceamento aprovado nas especificações
+  operativas do detentor de certificado.
+
+  Para atender a este requisito, periodicamente as aeronaves são colocadas sobre balanças
+  (pesagem real) e, a partir das medidas obtidas em cada uma das balanças, posteriormente
+  é obtido (calculado) o peso vazio e o centro de gravidade.
+
+  Ocorre que algumas aeronaves são utilizadas, não só no transporte de passageiros, mas também
+  de cargas, enfermos etc. E mesmo quando transportando passageiros, por exemplo, se pode
+  optar por colocar mais ou menos assentos, dependendo da quantidade de pessoas que se deseja
+  levar e do conforto pretendido. Para isso, se utilizam as configurações internas aprovadas.
+
+  Destaca-se que, para garantir uma operação segura, é necessário que se estabeleça, o peso
+  vazio e o centro de gravidade para cada uma dessas configurações.
+
+  Diante disso, questiona-se:
+
+  É possível obter o peso vazio e o centro de gravidade associados a uma determinada configuração
+  a partir de outro método que não a pesagem real com balanças?
+
+  INTERPRETAÇÃO
+
+  Sim, a partir do peso vazio e do centro de gravidade já obtidos, por meio de pesagem real,
+  para uma determinada configuração interna conhecida, é possível obter, por meio de cálculos
+  adicionais, o peso vazio e o centro de gravidade para outra configuração interna aprovada.
+  Para tanto, é necessário que se tenha conhecimento, adicionalmente, dos pesos e das posições
+  de todos os equipamentos que precisam ser removidos, acrescentados ou reposicionados durante
+  a alteração.
+
+  De qualquer forma, exceto nos casos previstos no parágrafo 135.185(b) do RBAC nº 135, deve
+  ser realizada pelo menos uma pesagem real da aeronave, em uma das configurações internas
+  utilizadas, a cada 36 meses.
+
+  FUNDAMENTO DA INTERPRETAÇÃO
+
+  O parágrafo 135.185(a) do RBAC nº 135 requer que, exceto nos casos previstos no parágrafo
+  135.185(b), seja realizada pelo menos uma pesagem real da aeronaves nos 36 meses precedentes,
+  porém não determina que a pesagem deva ser realizada para cada configuração interna, nem
+  estabelece que a única forma de obtenção do peso vazio e do centro de gravidade associados
+  a uma determinada configuração seja a pesagem real.
+
+  O requisito menciona explicitamente que os valores devem ser calculados com base em valores
+  estabelecidos em pesagem real, não entrando no mérito da extensão ou do tipo de cálculo
+  necessário. Assim, para determinação dos peso vazio e do centro de gravidade de uma determinada
+  configuração interna aprovada, são aceitáveis tanto a pesagem real da aeronave na configuração
+  específica; quanto a pesagem real da aeronave em outra configuração interna aprovada, desde
+  que sejam feitos cálculos adicionais para obtenção do peso vazio e do centro de gravidade
+  associados à configuração a ser utilizada na operação. Em ambos os casos, é exigido que
+  se faça ao menos uma pesagem real e que se realizem cálculos (em menor ou maior extensão)
+  para se obter o peso vazio e o centro de gravidade.
+
+  PALAVRAS-CHAVE
+
+
+  PESO VAZIO; CENTRO DE GRAVIDADE; 135.185; PESAGEM; BALANÇAS; CÁLCULOS; C.G.'
+keywords:
+- pesagem
+- peso
+- centro
+- gravidade
+- real
+- vazio
+- configuracao
+- aeronave
+- interna
+- paragrafo
+- balancas
+- cada
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-004.md

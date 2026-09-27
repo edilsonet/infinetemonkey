@@ -1,0 +1,31 @@
+id: is-is-121-020-d3-2-c
+kind: is
+document: is-121-020
+family: '121'
+section_id: D3.2
+section_title: 'O operador deve monitorar e reportar como dificuldade em serviço, em adição
+  ao requerido pela seção 121.703 do RBAC nº 121, os seguintes eventos:'
+subsection_id: c
+cite: D3.2(c)
+title: D3.2(c)
+text: c) qualquer outro problema que seja relevante para a operação.
+keywords:
+- transporte-aereo
+- operacoes
+- adicao
+- dificuldade
+- eventos
+- monitorar
+- operacao
+- operador
+- outro
+- problema
+- relevante
+- reportar
+- requerido
+- secao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

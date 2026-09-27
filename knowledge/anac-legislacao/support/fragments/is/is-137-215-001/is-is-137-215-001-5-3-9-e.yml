@@ -1,0 +1,73 @@
+id: is-is-137-215-001-5-3-9-e
+kind: is
+document: is-137-215-001
+family: '137'
+section_id: 5.3.9
+section_title: 'Os processos de identificação de perigos normalmente incluem os seguintes
+  passos:'
+subsection_id: e
+cite: 5.3.9(e)
+title: 5.3.9(e)
+text: 'e) distribuição de relatórios consolidados sobre as informações de segurança operacional,
+  obtidas a partir dos dados coletados e analisados, para o gestor responsável, para que ele
+  possa avaliar a implantação de medidas.
+
+  5.3.10 Deve ser estabelecida uma forma de proteger, quando necessário, as fontes para a
+  identificação de perigos à segurança operacional, em especial aquelas obtidas por relatos
+  voluntários, de forma a não haver represálias a quem identifica e relata os perigos e, assim,
+  tornar o sistema eficaz.
+
+  5.4 Avaliação e mitigação dos riscos decorrentes dos perigos identificados
+
+  5.4.1 Idealmente, uma vez tendo sido identificado um perigo, ele deve ser eliminado. Mas
+  sabe-se que isso nem sempre é possível e pode ser necessário ter que conviver com o perigo,
+  pelo que então deve-se passar à fase de avaliação do risco à operação diante do perigo que
+  não se consegue eliminar, a fim de verificar se o risco pode ser ao menos mitigado. Por
+  exemplo, “voar à baixa altura” é um perigo, pois em caso de falha de equipamento ou mesmo
+  erro de operação, o piloto tem pouco tempo para uma reação antes que a aeronave atinja o
+  solo. Mas esse perigo é inerente à operação aeroagrícola e não se pode eliminá-lo, de modo
+  que o risco deve ser avaliado e, se for o caso, mitigado.
+
+  5.4.2 É importante ter em conta que a legislação e a regulamentação da ANAC e de outras
+  autoridades já estabelecem regras que têm por fim mitigar o risco operacional, de modo que
+  o seu descumprimento tem o potencial de aumentar consideravelmente o risco de um evento
+  de segurança operacional (como um acidente ou incidente).
+
+  5.4.3 Mas, para além do estrito cumprimento da legislação e da regulamentação, pode haver
+  medidas adicionais que podem ser implementadas pelo operador para reduzir ainda mais o risco.
+  Normalmente, a implementação de tais medidas mitigadoras obedece ao critério do custo financeiro
+  versus benefício da implementação, e pode haver situações em que o operador preferirá não
+  implementar tais medidas, por considerar que o custo é muito alto e o benefício muito baixo
+  (por exemplo, reduzir o intervalo das manutenções de 100 horas para 50 horas mais do que
+  dobraria o custo da manutenção, ao passo que o ganho para a segurança operacional pode não
+  ser significativo).
+
+  5.4.4 Assim, o fato de o risco ser considerado significativo não implica necessariamente
+  que o operador não possa realizar a operação (considerando que toda a legislação e regulamentação
+  estejam sendo cumpridas), mas o operador deve sempre, na medida do possível, se esmerar
+  em encontrar medidas mitigadoras eficazes e com custo aceitável, usando como referência
+  inclusive experiências bem-sucedidas de outros operadores.
+
+  5.4.5 A fim de conseguir explorar as melhores ideias, o operador pode realizar periodicamente
+  sessões de brainstorming com seus pilotos e demais funcionários, a fim de verificar se obtém
+  alguma ideia viável para a melhoria das mitigações atualmente em prática.'
+keywords:
+- aeroagricola
+- operacoes
+- pode
+- risco
+- medidas
+- operacional
+- operador
+- perigo
+- custo
+- operacao
+- perigos
+- seguranca
+- haver
+- legislacao
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-215-001.md

@@ -1,0 +1,37 @@
+id: is-is-91-001-e2-2-d
+kind: is
+document: is-91-001
+family: '91'
+section_id: E2.2
+section_title: 'Procedimentos operacionais gerais para operações RNAV 1 e 2:'
+subsection_id: d
+cite: E2.2(d)
+title: E2.2(d)
+text: d) sempre que possível, rotas RNAV 1 ou RNAV 2 devem ser carregadas diretamente do banco
+  de dados de navegação em sua totalidade, ao invés da inserção no plano de voo de waypoints
+  individuais provenientes da base de dados. Entretanto, é permitida a seleção e inserção
+  individual de waypoints ou fixos oriundos da base de dados de navegação, desde que todos
+  os fixos ao longo da rota publicada a ser voada estejam inseridos. Além disso, a rota pode
+  ser subsequentemente modificada por meio da inserção ou remoção de waypoints específicos
+  em virtude de solicitações do controle de tráfego aéreo. Da mesma forma como descrito no
+  item anterior, a criação de novos waypoints não é permitida;
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- waypoints
+- dados
+- insercao
+- rnav
+- base
+- fixos
+- navegacao
+- permitida
+- rota
+- aereo
+- alem
+- anterior
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

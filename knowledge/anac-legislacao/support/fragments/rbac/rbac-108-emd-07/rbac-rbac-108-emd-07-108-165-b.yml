@@ -1,0 +1,45 @@
+id: rbac-rbac-108-emd-07-108-165-b
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.165'
+section_title: Controle de acesso à aeronave
+subsection_id: b
+cite: 108.165(b)
+title: 108.165(b)
+text: '(b) No caso de aeronaves estacionadas e fora de operação:
+
+  (1) na aeronave que não estiver em serviço, o operador aéreo deve manter a aeronave desacoplada
+  de escadas e/ou pontes de embarque e, ainda, trancada e lacrada ou sob constante vigilância;
+
+  (2) no caso de não haver vigilância, os trens de pouso e demais pontos de acesso de aeronave
+  que necessitem permanecer abertos, como, por exemplo, os acessos ao motor e os painéis de
+  inspeção, devem ser protegidos com coberturas especiais ou inspecionados visualmente antes
+  da operação da aeronave;
+
+  (3) para a aeronave que estiver em manutenção (mesmo fora de hangar), o operador aéreo deve
+  atribuir responsabilidades ao pessoal de manutenção, com o objetivo de evitar o acesso de
+  pessoa não autorizada na aeronave; e
+
+  (4) em caso de dúvida ou suspeita na identificação de pessoas que se aproximem ou embarquem
+  na aeronave, o operador aéreo deve acionar o setor de segurança do aeródromo e a PF ou,
+  na sua ausência, o órgão de segurança pública responsável pelas atividades de polícia no
+  aeródromo.'
+keywords:
+- seguranca
+- operador
+- aeronave
+- acesso
+- aereo
+- caso
+- aerodromo
+- estiver
+- fora
+- manutencao
+- operacao
+- vigilancia
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

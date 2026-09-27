@@ -1,0 +1,71 @@
+id: is-is-119-004l-5-2-9-body
+kind: is
+document: is-119-004l
+family: '119'
+section_id: 5.2.9
+section_title: Gerenciamento da frota de aeronaves
+subsection_id: body
+cite: 5.2.9
+title: Gerenciamento da frota de aeronaves
+text: '5.2.9 Gerenciamento da frota de aeronaves
+
+  5.2.9.1 A seção 119.49 do RBAC nº 119 estabelece o conteúdo das EO de um detentor de certificado
+  emitido segundo o RBAC nº 119 para operações segundo o RBAC nº 135.
+
+  5.2.9.2 Embora, a princípio, se preveja que as marcas de nacionalidade e matrícula das aeronaves
+  devam ser incluídas nas EO dos detentores de certificado operando segundo o RBAC nº 135
+  (119.49(a)(4) e (c)(6)), o RBAC permite o controle por parte do próprio detentor de certificado.
+
+  5.2.9.3 Dessa maneira, é responsabilidade do detentor de certificado possuir e formalizar
+  em seus manuais de operação e de manutenção, processos e procedimentos para gerenciamento
+  de sua frota.
+
+  5.2.9.4 De acordo com a seção 135.143 do RBAC nº 135 é responsabilidade do detentor de certificado
+  garantir que cada aeronave esteja com os equipamentos necessários para cada tipo de operação
+  aprovados e em condições operáveis antes de ser designada para operação segundo o RBAC nº
+  135.
+
+  5.2.9.5 Durante o processo de certificação inicial de uma organização requerente ou de inclusão
+  de novo modelo nas EO de um detentor de certificado, deverá ser demonstrado que a organização
+  requerente ou o detentor de certificado possui processo de gerenciamento de frota documentado
+  e efetivo que garanta o atendimento dos requisitos operacionais, de equipamentos, de manutenção
+  e de registro da legislação aplicável, nas operações segundo o RBAC nº 135.
+
+  5.2.9.6 Para cumprimento das seções 119.49(a)(4)(i) e 119.49(c)(6)(i) do RBAC nº 119, os
+  detentores de certificado deverão manter atualizada a listagem de cada aeronave (tipo, matrícula
+  e número de série) operada, detalhando as suas capacidades e autorizações (no mesmo formato
+  e detalhamento que as EO apresentam para o modelo), de forma a garantir que somente aeronaves
+  capacitadas são designadas para as operações autorizadas para o modelo nas EO.
+
+  5.2.9.7 A listagem de aeronaves também deve incluir aquelas que estão sujeitas a um programa
+  de manutenção de aeronavegabilidade requerido pela seção 135.411(a)(2) do RBAC nº 135 e
+  aquelas sujeitas a um programa de inspeções de aeronavegabilidade requerido pela seção 135.419
+  do RBAC nº 135.
+
+  5.2.9.8 Essa listagem deve ser mantida na sede administrativa e nas bases (principais e
+  secundárias) operacionais e de manutenção e disponibilizada à Anac sempre que solicitada
+  ao detentor de certificado.
+
+  5.2.9.9 Essa listagem deve ser mantida a bordo da aeronave, quando realizando operações
+  segundo o RBAC nº 135. Caso seja do interesse da empresa, é aceitável que o documento a
+  bordo de uma dada aeronave (matrícula) possua somente as informações da listagem relativas
+  àquela aeronave.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- certificado
+- detentor
+- aeronaves
+- segundo
+- aeronave
+- frota
+- gerenciamento
+- listagem
+- manutencao
+- secao
+- cada
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

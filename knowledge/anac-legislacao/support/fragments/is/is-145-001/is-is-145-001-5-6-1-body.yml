@@ -1,0 +1,38 @@
+id: is-is-145-001-5-6-1-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: 5.6.1
+section_title: Emissão do Certificado
+subsection_id: body
+cite: 5.6.1
+title: Emissão do Certificado
+text: '5.6.1 Emissão do Certificado
+
+  5.6.1.1 Caso a OM ainda não tenha enviado nas fases anteriores o comprovante de recolhimento
+  da TFAC aplicável, deverá fazê-lo na Fase 5, sendo condição necessária para a emissão do
+  Certificado da Organização de Manutenção - COM.
+
+  5.6.1.2 Uma vez considerada satisfatória a auditoria de certificação inicial (incluindo
+  as soluções corretivas decorrentes das não conformidades encontradas), é emitido, em formato
+  eletrônico, o COM.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- certificado
+- emissao
+- anteriores
+- aplicavel
+- auditoria
+- caso
+- certificacao
+- comprovante
+- condicao
+- conformidades
+- considerada
+- corretivas
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

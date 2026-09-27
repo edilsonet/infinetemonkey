@@ -1,0 +1,88 @@
+id: is-is-91-014-definicoes-body
+kind: is
+document: is-91-014
+family: '91'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01, na seção
+  135.361 do RBAC nº 135, nas IS nº 119-004 e 91-013 e as seguintes definições:
+
+  4.1.1 Relatório de avaliação operacional: relatório de avaliação de um tipo de aeronave
+  que contém requisitos mínimos de treinamento para a aeronave. São chamados AVOP quando emitidos
+  pela ANAC, FSB reports quando emitidos pelo FAA e OSD (anteriormente OEB reports) quando
+  emitidos pela EASA; e
+
+  4.1.2 Temperatura de referência: a temperatura de referência do aeródromo é a média mensal
+  das temperaturas máximas diárias para o mês mais quente do ano (sendo que o mês mais quente
+  será o mês com maior temperatura mensal média).
+
+  4.2 Lista de abreviaturas:
+
+  AFM - Aircraft flight manual (manual de voo aprovado - avião)
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  EA - Especificações Administrativas
+
+  EASA - European Union Aviation Safety Agency
+
+  EO - Especificações Operativas
+
+  FAA - Federal Aviation Administration
+
+  FAI - Formulário de Análise de Impacto
+
+  FSB - Flight Standardization Board
+
+  ICAO - International Civil Aviation Organization
+
+  IS - Instrução Suplementar
+
+  LDA - Landing distance available (distância disponível para pouso)
+
+  MGO - Manual Geral de Operações
+
+  MGSO - Manual de Gerenciamento da Segurança Operacional
+
+  MO - Manual de Operações
+
+  OEB - Operational Evaluation Board
+
+  OSD - Operational Suitability Data (dados de adequação operacional)
+
+  RBAC - Regulamento Brasileiro de Aviação Civil
+
+  RESA - Runway End Safety Area (área de segurança de fim de pista)
+
+  RVR - Runway visual range (alcance visual na pista)
+
+  SOP - Standard operating procedures (procedimentos operacionais padronizados)
+
+  SPO - Superintendência de Padrões Operacionais
+
+  TFAC - Taxa de Fiscalização da Aviação Civil'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- definicoes
+- manual
+- civil
+- aviacao
+- aviation
+- emitidos
+- operacional
+- temperatura
+- aeronave
+- area
+- avaliacao
+- board
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-014.md

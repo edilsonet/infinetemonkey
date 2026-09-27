@@ -27,41 +27,22 @@ text: '153.223
   Data da emissão: 15 de março de 2021
 
 
-  SUBPARTE E - MANUTENÇÃO AEROPORTUÁRIA
-
-  Requisitos
-
-  Descrição
-
-  Aeródromos
-
-  OBS
-
-  Classe I
-
-  Classe II
-
-  Classe III
-
-  Classe IV
-
-  Tipo A
-
-  Tipo B'
+  SUBPARTE E - MANUTENÇÃO AEROPORTUÁRIA'
 keywords:
 - aerodromos
 - operacao-aeroportuaria
-- classe
 - obrigatorio
 - exigido
-- tipo
 - aeroportuaria
 - area
 - data
-- descricao
 - emissao
 - equipamentos
 - manutencao
+- marco
+- operacional
+- sinalizacao
+- subparte
 categories:
 - aerodromos
 - operacao-aeroportuaria

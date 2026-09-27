@@ -1,0 +1,120 @@
+id: is-is-91-001-4-f
+kind: is
+document: is-91-001
+family: '91'
+section_id: '4'
+section_title: Conteúdo do FOSA
+subsection_id: f
+cite: 4(f)
+title: 4(f)
+text: 'f) conclusões e recomendações.
+
+  4.2 O FOSA deve identificar as condições e perigos específicos associados à aeronave, seu
+  desempenho, serviços de navegação, procedimentos operacionais, etc. Em muitos casos os potenciais
+  perigos já foram identificados durante processos anteriores. Nestes casos as análises anteriores
+  devem ser consideradas na elaboração do FOSA a fim de auxiliar na análise do caso, evitar
+  esforços desnecessários e reduzir a incidência de multi-mitigações para um risco que possa
+  requerer apenas uma mitigação.
+
+  4.3 O FOSA utiliza métodos qualitativos e experiência operacional na análise das informações
+  relevantes. A avaliação do grau de probabilidades e severidades deve obedecer aos critérios
+  definidos na tabela abaixo:
+
+  SEVERIDADE
+
+  Nível
+
+  Consequência
+
+  Catastrófico
+
+  · Equipamentos destruídos; e
+
+  · múltiplas vítimas.
+
+  Crítico
+
+  · Redução significativa das margens de segurança: dano físico ou carga de trabalho em que
+  as condições impedem o desempenho das funções de forma precisa e completa;
+
+  · várias vítimas ou ferimentos graves; e
+
+  · danos significativos aos equipamentos.
+
+  Significante
+
+  · Redução significativa das margens de segurança: dano físico ou aumento na carga de trabalho
+  em que as condições reduzem a capacidade de desempenhar suas funções de forma efetiva;
+
+  · incidente grave; e
+
+  · lesões às pessoas.
+
+  Pouco Significante
+
+  · Interferência;
+
+  · limitações operacionais;
+
+  · uso de procedimentos de emergência; e
+
+  · incidentes menores.
+
+  Desprezível
+
+  · Consequências leves.
+
+
+  PROBABILIDADE
+
+  Nível
+
+  Consequência
+
+  Frequente
+
+  · É provável que ocorra muitas vezes (tem ocorrido frequentemente).
+
+  Ocasional
+
+  · É provável que ocorra algumas vezes (tem ocorrido com pouca frequência).
+
+  Remoto
+
+  · Improvável, mas possível que venha ocorrer (ocorre raramente).
+
+  Improvável
+
+  · Bastante improvável que ocorra (não se tem notícias que tenha ocorrido).
+
+  Muito improvável
+
+  · Quase impossível que ocorra.
+
+
+  4.4 É importante observar que determinado risco pode sofrer avaliações diferentes em FOSAs
+  distintos, visto que uma falha ou condição está intimamente associada as condições específicas
+  das operações.
+
+  4.5 Os itens abaixo são exemplos de condições frequentes associadas a operações específicas
+  que devem ser consideradas na elaboração do FOSA.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- condicoes
+- fosa
+- improvavel
+- ocorra
+- ocorrido
+- abaixo
+- analise
+- anteriores
+- carga
+- casos
+- consequencia
+- consideradas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

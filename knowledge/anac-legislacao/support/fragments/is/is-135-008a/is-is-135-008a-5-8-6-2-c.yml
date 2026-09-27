@@ -1,0 +1,67 @@
+id: is-is-135-008a-5-8-6-2-c
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.8.6.2
+section_title: 'Políticas e procedimentos para intervenções previstas devem ser estabelecidas
+  e incluem:'
+subsection_id: c
+cite: 5.8.6.2(c)
+title: 5.8.6.2(c)
+text: 'c) condições de tomada de controle.
+
+  5.8.6.3 Intervenção humano a humano. Se ocorrer um problema na trajetória de voo, o PM deve
+  notificar o PF e esperar que o PF, em seguida, o corrija. Uma forma de o PM conseguir notificar
+  o PF é verbalizar um call-out de desvio, seguido de uma reação esperada do PF para este
+  call-out por meio de uma ação corretiva.
+
+  5.8.6.3.1 Os SOP devem indicar o que dizer, como dizer, em que momento dizer e com que nível
+  de assertividade apropriado. Os SOP devem também abordar se ou quando o PM deve assumir
+  o papel do PF, se for verificado que o PF não está corrigindo o problema da trajetória de
+  voo em tempo hábil. Considerações para a decisão de assumir o controle devem incluir incapacitação
+  ou ausência de resposta ou correção da trajetória de voo após duas chamadas. O SOP também
+  deve especificar quais os call-outs específicos e que ações associadas são necessárias em
+  uma tomada de controle para assegurar que ocorra uma troca positiva de controle da aeronave.
+  As políticas devem ser claras para garantir que não haja confusão sobre quem é o PF a todo
+  momento.
+
+  5.8.6.3.2 Da mesma forma, os SOP devem descrever como o PF notifica o PM acerca de um problema
+  de orientação de voo. Por exemplo, em algumas operações, se o piloto automático estiver
+  desligado com o diretor de voo (FD) ligado, o PF voa a aeronave manualmente, enquanto o
+  PM faz todas as inserções de orientação de voo. Nessa situação, considerando que o PM faça
+  uma inserção errônea de orientação de voo e o PF perceba isso, uma intervenção implicaria
+  em o PF verbalizar ao PM o erro e a correção desejada (por exemplo, “modo de aproximação
+  ainda não está armado - arme aproximação por favor."). Assim, o texto pode ser: “PM comunicando
+  eficazmente ao PF sobre o problema da trajetória de voo, esperando que o PF, em seguida,
+  corrija o problema”; ou “PF comunicando ao PM sobre um problema de orientação de voo (se
+  o PM é o responsável pelas inserções de orientação de voo), esperando que o PM corrija esse
+  problema."
+
+  5.8.6.3.3 Outro exemplo é quando o PM avisa “1 dot acima” e o PF responde “Corrigindo”,
+  e retorna à rampa do glide em tempo hábil. Se, por exemplo, o PF não responder a duas chamadas
+  sucessivas, então, pelo SOP do operador, a fim de se manter a segurança operacional, o PM
+  avisa “eu tenho o controle, arremetendo”, e inicia uma arremetida como PF.
+
+  Nota: O controle da trajetória de voo é responsabilidade do PF, enquanto a orientação da
+  trajetória de voo pode ser responsabilidade de qualquer um dos pilotos, dependendo do SOP
+  do operador.'
+keywords:
+- taxi-aereo
+- operacoes
+- problema
+- controle
+- orientacao
+- trajetoria
+- exemplo
+- call
+- corrija
+- dizer
+- aeronave
+- aproximacao
+- assumir
+- avisa
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

@@ -1,0 +1,41 @@
+document: is-21-197-001
+kind: is
+title: IS 21.197-001A
+ementa: Autorização Especial de Voo (AEV)
+family: '21'
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-21-197-001
+language: pt
+foreign_annex: false
+sections:
+- aplicabilidade
+- aprovacao
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 14
+fragment_ids:
+- is-is-21-197-001-preambulo-body
+- is-is-21-197-001-aprovacao-body
+- is-is-21-197-001-objetivo-body
+- is-is-21-197-001-revogacao-body
+- is-is-21-197-001-fundamentos-body
+- is-is-21-197-001-fundamentos-a
+- is-is-21-197-001-fundamentos-b
+- is-is-21-197-001-definicoes-body
+- is-is-21-197-001-desenvolvimento-do-assunto-body
+- is-is-21-197-001-aplicabilidade-body
+- is-is-21-197-001-aplicabilidade-a
+- is-is-21-197-001-aplicabilidade-b
+- is-is-21-197-001-aplicabilidade-c
+- is-is-21-197-001-disposicoes-finais-body
+parser_version: 7

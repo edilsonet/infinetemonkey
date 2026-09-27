@@ -3,23 +3,11 @@ kind: rbac
 document: rbac-175
 family: '175'
 section_id: '175.103'
-section_title: '175.103'
+section_title: Classes, divisões, grupos de embalagem - definições
 subsection_id: body
 cite: '175.103'
-title: '175.103'
-text: '175.103
-
-  Classes, divisões, grupos de embalagem -
-
-  definições
-
-  8.000,00
-
-  14.000,00
-
-  20.000,00
-
-  1 por volume'
+title: Classes, divisões, grupos de embalagem - definições
+text: 175.103 Classes, divisões, grupos de embalagem - definições
 keywords:
 - artigos-perigosos
 - carga
@@ -28,7 +16,6 @@ keywords:
 - divisoes
 - embalagem
 - grupos
-- volume
 categories:
 - artigos-perigosos
 - carga

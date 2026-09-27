@@ -1,0 +1,52 @@
+id: is-is-91-001-j6-1-f
+kind: is
+document: is-91-001
+family: '91'
+section_id: J6.1
+section_title: 'Para a condução de operações RNP APCH com baro-VNAV, além dos tópicos destacados
+  no item 5.8 e no Apêndice I desta IS, de forma complementar, o operador deve atentar para
+  abordar e incorporar em seu programa de treinamento os itens apresentados abaixo:'
+subsection_id: f
+cite: J6.1(f)
+title: J6.1(f)
+text: 'f) procedimentos de operação dos sistemas baro-VNAV, incluindo como realizar as seguintes
+  ações:
+
+  i. carregar e voar um procedimento RNP APCH com baro-VNAV;
+
+  ii. verificação de waypoints e do plano de voo programado;
+
+  iii. aderir às restrições de altitude e/ou velocidade associadas a um procedimento de aproximação;
+
+  iv. compreender e utilizar a terminologia, simbologia, restrições e demais características
+  relevantes dos procedimentos, conforme apresentado nas cartas de procedimentos;
+
+  v. utilizar procedimentos com mínimos LNAV/VNAV e características associadas, como por exemplo,
+  o emprego de DA/H;
+
+  vi. determinar os erros/desvios verticais;
+
+  vii. compreender o significado de descontinuidades verticais de trajetória e os procedimentos
+  operacionais associados; e
+
+  viii. alterar os aeroportos de destino e alternativos; e'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- vnav
+- baro
+- apch
+- associadas
+- caracteristicas
+- compreender
+- procedimento
+- restricoes
+- utilizar
+- verticais
+- abaixo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

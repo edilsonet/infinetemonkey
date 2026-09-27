@@ -1,0 +1,39 @@
+id: is-is-91-001-l6-3-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: L6.3
+section_title: Considerações pré-voo e de decolagem para operações RNP AR DP
+subsection_id: c
+cite: L6.3(c)
+title: L6.3(c)
+text: 'c) No caso de o procedimento RNP AR DP possuir curvas RF leg próximas ao DER, a aeronave
+  e o piloto voando (PF) devem ser capazes de acompanhar a trajetória LNAV do procedimento
+  de forma a garantir que a trajetória da aeronave é tangente ao fixo que define o início
+  da curva RF leg. A definição da trajetória na base de dados de navegação pode se iniciar
+  no início da cabeceira de aproximação da pista de decolagem (approach end of takeoff runway)
+  de forma a viabilizar que o sistema RNP seja capaz de realizar curvas próximas ao DER (ex:
+  curvas se iniciando antes de 1 NM a partir do DER). Caso o procedimento possua uma curva
+  muito próxima ao DER, pode ser necessário aplicar uma restrição de velocidade para que o
+  sistema RNP seja capaz de realizar os cálculos antecipados requeridos para cumprimento da
+  trajetória (ver L3.4 ).'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- trajetoria
+- curvas
+- procedimento
+- aeronave
+- capaz
+- caso
+- curva
+- decolagem
+- forma
+- inicio
+- pode
+- proximas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

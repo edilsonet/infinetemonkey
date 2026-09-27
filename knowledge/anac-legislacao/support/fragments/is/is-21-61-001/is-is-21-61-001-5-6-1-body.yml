@@ -1,0 +1,67 @@
+id: is-is-21-61-001-5-6-1-body
+kind: is
+document: is-21-61-001
+family: '21'
+section_id: 5.6.1
+section_title: Design changes affecting FCD
+subsection_id: body
+cite: 5.6.1
+title: Design changes affecting FCD
+text: '5.6.1 Design changes affecting FCD
+
+  5.6.1.1 Exceto como descrito no item 5.6.1.3, o detentor ou requerente de uma aprovação
+  para uma modificação ao certificado de tipo ou certificado suplementar de tipo de uma aeronave
+  contendo FCD deve demonstrar que os FCD existentes permanecem válidos ou complementar o
+  requerimento de aprovação da modificação com uma atualização dos FCD afetados.
+
+  5.6.1.1 Except as described in item 5.6.1.3, the holder of or applicant to an approval for
+  a change to a type certificate or supplemental type certificate of an aircraft having FCD
+  shall demonstrate that the existing FCD remain valid or complement the change approval application
+  with an update to the affected FCD.
+
+  5.6.1.2 O requerente pode obter aprovação da modificação ao projeto de tipo antes de atualizar
+  os FCD ou demonstrar que os FCD existentes permanecem válidos, no entanto, tal atualização
+  ou demonstração deve ser feita antes da operação de uma aeronave com certificado de aeronavegabilidade
+  padrão brasileiro com a modificação incorporada. Se for esse o caso, o documento de aprovação
+  da modificação ao projeto de tipo especificará essa condição.
+
+  5.6.1.2 The applicant may obtain the design change approval before updating the FCD or demonstrating
+  that the existing FCD remain valid, however, such update or demonstration must be done before
+  the operation of an aircraft having a Brazilian standard certificate of airworthiness with
+  the embodied modification. If that is the case, the design change approval document will
+  specify that condition.
+
+  5.6.1.3 Se o requerente não cumprir os itens 5.6.1.1 e 5.6.1.2, a ANAC avaliará quais são
+  os possíveis efeitos dessa modificação de projeto para os FCD existentes e poderá limitá-los
+  para aeronaves que tenham a modificação ao projeto de tipo incorporada. Isso pode resultar
+  em determinações mais restritivas do que aquelas esperadas se os itens 5.6.1.1 e 5.6.1.2
+  fossem seguidos. Com base na complexidade da modificação e na experiência anterior da ANAC
+  em modificações semelhantes, a avaliação da ANAC pode ter os seguintes resultados:
+
+  5.6.1.3 If the applicant does not comply with items 5.6.1.1 and 5.6.1.2, ANAC will assess
+  which are the possible effects of that design change to the existing FCD and may limit them
+  for aircraft having the embodied design change. This may result in more restrictive determinations
+  than those expected to exist if items 5.6.1.1 and 5.6.1.2 were followed. Based on the complexity
+  of the change and on ANAC previous experience on similar changes, ANAC assessment may have
+  the following results:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- change
+- design
+- that
+- tipo
+- approval
+- aprovacao
+- changes
+- affecting
+- aircraft
+- applicant
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-001.md

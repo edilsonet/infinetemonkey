@@ -1,0 +1,78 @@
+id: is-is-91-409-002-desenvolvimento-do-assunto-body
+kind: is
+document: is-91-409-002
+family: '91'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Motores convencionais de quatro, seis e oito cilindros são normalmente instalados em
+  pequenas aeronaves mono e multimotoras, certificadas segundo o FAR/RBAC nº 23, em virtude
+  de sua alta confiabilidade. O tempo recomendado entre revisão geral (TBO) para esses motores
+  varia entre 1400 e 2000 horas e/ou 12 anos. A IS nº 91.409-001 estabelece as situações em
+  que o TBO recomendado pelo fabricante é considerado obrigatório para aeronaves operando
+  segundos as regras do RBAC nº 91.
+
+  5.2 Apesar das melhorias ao longo dos anos no projeto e desempenho dos motores convencionais,
+  os relatórios finais de ocorrências, emitidos pelo órgão investigador brasileiro, revelam
+  que as causas gerais de falhas de motores a pistão, que culminam na perda de potência em
+  voo, permanecem as mesmas desde a certificação desses produtos.
+
+  5.3 De acordo com o Relatório Anual de Segurança Operacional - RASO 2022 (disponível no
+  link), do total de ocorrências aeronáuticas registradas entre os anos de 2018 e 2022, os
+  eventos de Falha do Motor em Voo (SCF-PP) aparecem relacionados a 24% das ocorrências, sendo
+  o principal tipo de ocorrência no período.
+
+  5.4 Esta IS aborda os principais fatores contribuintes que podem levar à falha do motor
+  em voo e traz orientações importantes aos pilotos, operadores e pessoal de manutenção, contribuindo,
+  de forma efetiva, para a redução do número de acidentes e incidentes aeronáuticos no país.
+  A IS está dividida em duas seções principais: a primeira seção trata das principais causas
+  que levam à falha do motor em voo e ações a serem adotadas para prevenir ou reduzir esse
+  tipo de ocorrência; e a segunda seção apresenta as orientações e procedimentos para implementação
+  de um programa de monitoramento de tendências para motor convencional.
+
+  5.5 Esta IS é um dos muitos esforços da ANAC no sentido de eliminar ou reduzir as ocorrências
+  aeronáuticas relacionadas à falha de motor em voo. Com esse instrumento, somado aos esforços
+  individuais e coletivos da comunidade aeronáutica, espera-se eliminar ou diminuir drasticamente
+  os fatores contribuintes relacionados a esse tipo de ocorrência, os quais podem levar a
+  uma situação perigosa ou catastrófica, com perdas materiais e vidas.
+
+
+  PRINCIPAIS CAUSAS DE FALHA DO MOTOR EM VOO
+
+  6.1 Falta de treinamento
+
+  6.1.1 O uso inadequado dos sistemas de controle e de alimentação do motor continua sendo
+  uma das principais causas de falhas do motor em voo que resultam em acidentes ou incidentes
+  graves.
+
+  6.1.2 A maior parte dessas falhas é resultante de um planejamento de voo e/ou inspeção pré-voo
+  deficiente ou procedimentos inadequados de gerenciamento de combustível, como: fuel starvation
+  (combustível nos tanques, mas que não é fornecido ao(s) motor(es)); e fuel exhaustion (ausência
+  de combustível nos tanques).
+
+  6.1.3 Pilotos e operadores devem sempre rever os procedimentos relacionados ao sistema de
+  combustível e operação do motor ou motores da aeronave para garantir que:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- motor
+- falha
+- motores
+- principais
+- causas
+- combustivel
+- ocorrencias
+- anos
+- assunto
+- desenvolvimento
+- falhas
+- ocorrencia
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-002.md

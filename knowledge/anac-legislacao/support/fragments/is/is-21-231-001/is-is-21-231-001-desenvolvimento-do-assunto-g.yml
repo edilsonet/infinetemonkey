@@ -1,0 +1,102 @@
+id: is-is-21-231-001-desenvolvimento-do-assunto-g
+kind: is
+document: is-21-231-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: g
+cite: desenvolvimento-do-assunto(g)
+title: desenvolvimento-do-assunto(g)
+text: 'g) Publicação de informações ou instruções técnicas cujo conteúdo foi gerado conforme
+  os procedimentos do Sistema de Garantia do Projeto do detentor do certificado de Organização
+  de Projeto, conforme a prerrogativa estabelecida no parágrafo 21.263-I(c)(3) do RBAC nº
+  21.
+
+  I - Essas informações ou instruções são emitidas para disponibilizar aos proprietários e
+  operadores dados necessários para implementar uma modificação ao produto, um reparo ou uma
+  inspeção. Algumas informações são também emitidas para prover às organizações de manutenção
+  e outros interessados os dados para execução de manutenção.
+
+  NOTA: Algumas publicações podem conter a expressão "informações ou instruções técnicas cujo
+  conteúdo foi aprovado pela Organização de Projeto". Conforme o item 4.1, a aprovação, neste
+  caso, refere-se às ações internas da organização para garantir que os dados são corretos
+  e aplicáveis. Tais informações ou instruções técnicas podem, portanto, ser consideradas
+  aprovadas, quando aplicável. Ademais, entende-se que a expressão está relacionada a dados
+  pertinentes ao projeto do produto, não se referindo, portanto, a revisões tipográficas,
+  textuais ou outros tipos de informações (Ex. preço, planejamento, informações logísticas).
+
+  II - O procedimento para publicar informações ou instruções técnicas cujo conteúdo foi gerado
+  conforme os procedimentos do Sistema de Garantia do Projeto do detentor do certificado de
+  Organização de Projeto deve endereçar os seguintes pontos:
+
+  i. A preparação da publicação;
+
+  ii. A verificação da consistência técnica com o projeto aprovado (projeto de tipo, modificação
+  de projeto de tipo ou aos OSD ou dado técnico para grande reparo ou grande alteração), incluindo
+  efetividade de produtos, descrição e os efeitos na aeronavegabilidade (especialmente quando
+  limitações são mudadas);
+
+  iii. A verificação da viabilidade das instruções em levar o produto à conformidade com o
+  projeto aprovado;
+
+  iv. Os papéis responsáveis pela publicação, e;
+
+  v. A supervisão de modificações iniciadas por fornecedores quanto a sua adequação aos pontos
+  acima.
+
+  III - A Seção de Limitações de Aeronavegabilidade (Airworthiness Limitations Section - ALS),
+  os Certification Maintenance Requirements - CMR, as Instruções de Aeronavegabilidade Continuada
+  (Instructions for Continued Airworthiness - ICA) relativas à Electrical Wiring Interconnecion
+  System - EWIS e o Maintenance Review Board - MRB Report não estão contidos no escopo desta
+  prerrogativa e, portanto, continuarão sendo aprovados exclusivamente pela ANAC.
+
+  IV - Todavia, a prerrogativa em referência se aplica à publicação de procedimentos associados
+  a limitações de aeronavegabilidade. Alguns requisitos de aeronavegabilidade, por exemplo,
+  aqueles contidos nas seções 25.571 e 25.981 do RBAC 25, determinam que procedimentos relacionados
+  a certas limitações de aeronavegabilidade sejam incluídos na seção de limitações de aeronavegabilidade
+  aprovada pela ANAC. Entretanto, é tradicionalmente aceito que estes procedimentos sejam
+  publicados em outras seções, sem a necessidade da seção de limitações trazer o detalhamento
+  de tais procedimentos, estando assim condicionados a uma aprovação por referência pela ANAC.
+  Para esses casos, a prerrogativa permite que a Organização de Projeto publique tais procedimentos
+  após a aprovação pela ANAC da seção de limitações que os referencia, pois é considerado
+  que o conteúdo do procedimento detalhado relacionado a uma determinada limitação de aeronavegabilidade
+  foi aprovado sob a autoridade de detentor do Certificado de Organização de Projeto.
+
+  V - A prerrogativa em referência se aplica, também, à publicação de revisões isoladas ("stand-alone")
+  de ICA, em que seu conteúdo será avaliado e aceito pela organização certificada, conforme
+  os requisitos da subparte J.
+
+  VI - As ICA contidas no manual de reparo estrutural (Structural Repair Manual - SRM), ou
+  outra denominação semelhante, poderão ser emitidas pela Organização de Projeto, conforme
+  esta prerrogativa, desde que a prerrogativa de aprovação de dados técnicos para grande reparo
+  (parágrafo 21.263-I(c)(5) do RBAC nº 21) esteja contida nos Termos da Certificação da organização.
+
+  VII - A Organização de Projeto não poderá publicar informações ou instruções técnicas sob
+  esta prerrogativa se estas forem relacionadas a uma grande modificação ou referenciadas
+  por uma Diretriz de Aeronavegabilidade - DA.
+
+  VIII - As ICA que devem ser consideradas aceitáveis e não requerem uma aprovação da ANAC
+  não estão no escopo desta prerrogativa. Entretanto, este parágrafo está associado apenas
+  a alterações em ICA que estão dentro do escopo de uma aprovação de modificação ao projeto
+  de tipo. Alterações de ICA "stand-alone" serão publicadas conforme os processos associados
+  à prerrogativa em tela.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- organizacao
+- prerrogativa
+- informacoes
+- instrucoes
+- limitacoes
+- procedimentos
+- aprovacao
+- conteudo
+- dados
+- publicacao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-231-001.md

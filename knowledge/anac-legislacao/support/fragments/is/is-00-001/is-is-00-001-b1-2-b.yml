@@ -1,0 +1,37 @@
+id: is-is-00-001-b1-2-b
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.2
+section_title: SISTEMAS
+subsection_id: b
+cite: B1.2(b)
+title: B1.2(b)
+text: '(b) SISTEMA DE PILOTO AUTOMÁTICO
+
+  I- Falha de operação do sistema de piloto automático quando engajado;
+
+  II- Dificuldade na controlabilidade da aeronave quando o sistema de piloto automático esti-
+
+  ver engajado;
+
+  III- Falha de qualquer dispositivo de desconexão do sistema de piloto automático;
+
+  IV- Alteração inadvertida do modo do sistema de piloto automático.'
+keywords:
+- automatico
+- piloto
+- sistema
+- engajado
+- falha
+- aeronave
+- alteracao
+- controlabilidade
+- desconexao
+- dificuldade
+- dispositivo
+- esti
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

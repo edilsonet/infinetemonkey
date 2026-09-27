@@ -1,0 +1,47 @@
+id: is-is-120-017-9-4-1-a
+kind: is
+document: is-120-017
+family: '120'
+section_id: 9.4.1
+section_title: Ações Recomendadas de Programação de Manutenção. Ver Apêndice B, Ajustes em
+subsection_id: a
+cite: 9.4.1(a)
+title: 9.4.1(a)
+text: 'a) escalonar (aumento) ou desescalonar (diminuição) o intervalo atual da programação
+  de
+
+  manutenção;
+
+  Nota 1: O operador não pode escalonar Itens de Limitações de Aeronavegabilidade
+
+  (Airworthiness Limitation Items - ALI) usando seu programa de confiabilidade.
+
+  Nota 2: Exceto como apresentado na Seção de Limitações de Aeronavegabilidade
+
+  (Airworthiness Limitation Section - ALS) operadores não podem escalonar tarefas que são
+
+  “marcadas”, ou de outra forma identificadas, como uma tarefa CMR (Certification
+
+  Maintenance Requirement) além do intervalo do System Safety Assessment (SSA).
+
+  Referência na AC 25-19 da FAA, Certification Maintenance Requirements.'
+keywords:
+- antidrogas
+- saude
+- escalonar
+- aeronavegabilidade
+- airworthiness
+- certification
+- intervalo
+- limitacoes
+- limitation
+- maintenance
+- manutencao
+- nota
+- programacao
+- acoes
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

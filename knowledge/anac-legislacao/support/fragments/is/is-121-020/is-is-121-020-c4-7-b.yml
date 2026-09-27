@@ -1,0 +1,44 @@
+id: is-is-121-020-c4-7-b
+kind: is
+document: is-121-020
+family: '121'
+section_id: C4.7
+section_title: Modelagem do aeródromo no simulador de voo
+subsection_id: b
+cite: C4.7(b)
+title: C4.7(b)
+text: 'b) para simuladores não qualificados pela ANAC (como os operados por centros de treinamento
+  estrangeiros com certificação validada pela ANAC, conforme RBAC nº 142 e IS nº 142-002):
+
+  I - por meio do certificado de qualificação do simulador, que deve conter esse aeródromo
+  como avaliado na qualificação de acordo com os requisitos de aeródromos classe I estabelecidos
+  no Title 14 CFR Part 60, Apêndice A, Tabela A3B - Functions and Subjective Tests - Class
+  I Airport Models, aprovado em 30 de março de 2016, incluindo as correções publicadas em
+  20 de maio de 2016. Nesse caso, a empresa aérea deve enviar à GCTA cópia do certificado
+  de qualificação válido; ou
+
+  II - por meio de declaração de conformidade ao Title 14 CFR Part 60, Apêndice A, Tabela
+  A3B - Functions and Subjective Tests - Class I Airport Models, aprovado em 30 de março de
+  2016, incluindo as correções publicadas em 20 de maio de 2016. Nesse caso, a empresa aérea
+  deve providenciar e se responsabilizar pela declaração de conformidade, a qual deve ser
+  enviada à GCTA.'
+keywords:
+- transporte-aereo
+- operacoes
+- qualificacao
+- aerea
+- aerodromo
+- airport
+- apendice
+- aprovado
+- caso
+- certificado
+- class
+- conformidade
+- correcoes
+- declaracao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

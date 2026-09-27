@@ -1,0 +1,52 @@
+id: is-is-145-009-5-5-12-10-b
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.12.10
+section_title: Sistema de Arquivamento de Registro Eletrônico.
+subsection_id: b
+cite: 5.5.12.10(b)
+title: 5.5.12.10(b)
+text: 'b) Antes de introduzir um sistema eletrônico, devem ser estabelecidos os procedimentos
+  operacionais de arquivamento por computador. O manual deve incluir:
+
+  I- Procedimentos para disponibilizar os registros requeridos para o pessoal do CENIPA e
+  da ANAC. Um empregado ou representante familiarizado com o sistema computadorizado pode
+  ser necessário para assistir o pessoal do CENIPA ou da ANAC a acessar as informações arquivadas
+  no sistema. O sistema deve ser capaz de produzir cópias em papel, por solicitação da ANAC,
+  das informações observadas;
+
+  II- Procedimento para efetuar uma análise do sistema computadorizado dos códigos de identificação
+  pessoal, para evitar a duplicação de senhas (se aplicável);
+
+  III- Procedimentos para auditorias periódicas do sistema de computador, para assegurar a
+  integridade do sistema e em cada estação de trabalho;
+
+  IV- Procedimento para assegurar que qualquer registro para um artigo possa ser transferido
+  para o proprietário/operador com a informação requerida, em um formato aceitável, eletronicamente
+  ou em papel;
+
+  V- Descrição do procedimento de treinamento e os requisitos necessários para acessar o sistema
+  computadorizado; e
+
+  VI- Procedimentos tratando de cópias de segurança periódicas (back-up) dos registros e arquivos.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- sistema
+- procedimentos
+- computadorizado
+- pessoal
+- procedimento
+- acessar
+- arquivamento
+- assegurar
+- cenipa
+- computador
+- copias
+- eletronico
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

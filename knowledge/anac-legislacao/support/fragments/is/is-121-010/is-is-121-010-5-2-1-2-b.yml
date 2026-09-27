@@ -1,0 +1,35 @@
+id: is-is-121-010-5-2-1-2-b
+kind: is
+document: is-121-010
+family: '121'
+section_id: 5.2.1.2
+section_title: As informações contidas no sistema de documentos de segurança operacional devem
+  ser
+subsection_id: b
+cite: 5.2.1.2(b)
+title: 5.2.1.2(b)
+text: 'b) informações sensíveis quanto ao tempo (time-sensitive information) - informações
+
+  que podem afetar o nível de segurança ou atrasar a operação se não estiverem disponíveis
+
+  num curto período (ex: análises de pistas);'
+keywords:
+- transporte-aereo
+- operacoes
+- informacoes
+- seguranca
+- afetar
+- analises
+- atrasar
+- contidas
+- curto
+- disponiveis
+- documentos
+- estiverem
+- information
+- nivel
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-010.md

@@ -120,10 +120,14 @@ sections:
 - '90.91'
 - apendice-a-do-rbac-no-90
 - apendice-a-do-rbac-no-90-aprovacao-de-manuais-e-treinamentos
+- aprovacao
 - preambulo
-fragment_count: 650
+- sumario
+fragment_count: 652
 fragment_ids:
 - rbac-rbac-90-preambulo-body
+- rbac-rbac-90-aprovacao-body
+- rbac-rbac-90-sumario-body
 - rbac-rbac-90-90-3-body
 - rbac-rbac-90-90-5-body
 - rbac-rbac-90-90-11-body
@@ -773,4 +777,4 @@ fragment_ids:
 - rbac-rbac-90-90-389-a
 - rbac-rbac-90-90-389-b
 - rbac-rbac-90-apendice-a-do-rbac-no-90-body
-parser_version: 6
+parser_version: 7

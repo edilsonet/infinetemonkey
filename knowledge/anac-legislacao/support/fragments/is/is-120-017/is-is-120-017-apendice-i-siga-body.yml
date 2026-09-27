@@ -1,0 +1,173 @@
+id: is-is-120-017-apendice-i-siga-body
+kind: is
+document: is-120-017
+family: '120'
+section_id: apendice-i-siga
+section_title: Apêndice I. Siga
+subsection_id: body
+cite: apendice-i-siga
+title: Apêndice I. Siga
+text: 'Apêndice I. Siga
+
+  os requisitos da
+
+  AD para ajustes de
+
+  intervalos.
+
+  Assegure-se de que os
+
+  dados de substanciação
+
+  contabilizam não
+
+  conformidades anteriores
+
+  e ações corretivas. 4
+
+  Revise os registros
+
+  dos reparos ou
+
+  alterações
+
+  anteriores que
+
+  possam requerer
+
+  acompanhamento
+
+  individual com
+
+  base no novo
+
+  intervalo.
+
+  Revise o escopo, tipo e/ou o
+
+  intervalo de execução da tarefa.
+
+  Não Sim
+
+  Sim
+
+  Não
+
+  Sim
+
+  Não
+
+  Sim
+
+  NãoData de emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X
+
+  Nota 1. Informação Geral:
+
+  a. As partes de atuação de itens como trem de pouso, controles de voo, portas, etc., são
+  tratados
+
+  sob a análise de sistemas.
+
+  b. Componentes dinâmicos como rolamentos de dobradiças são tratados como componente de
+
+  sistema.
+
+  c. Encaixes de fixação dos atuadores na célula são tratados como análise de estrutura.
+
+  d. Pontos de encaixe estrutura-estrutura não associados de outra forma com um sistema da
+
+  aeronave (por exemplo, fixações em pylon e barras diagonais) e dotadas de rolamentos devem
+  ser
+
+  tratados como estruturas.
+
+  e. Considerações especiais devem ser dadas às análises associadas com pontos de encaixe
+  na
+
+  estrutura, já que a análise estrutural pode não providenciar consideração total quanto a
+  desgaste e
+
+  deterioração. Essas análises devem ser comparadas com a análise de sistema apropriada, conforme
+
+  aplicável.
+
+  f. Desgaste é encontrado tipicamente em buchas, rolamentos, batentes, ferrolhos, travas,
+  guias,
+
+  comandos, roldanas, cabos, polias ou assoalhos. O desgaste pode influenciar cargas e resistência,
+
+  levar ao posicionamento incorreto e jogo livre adverso, ou mudar a resistência à deterioração
+
+  ambiental. O desgaste pode ser sistemático para partes com funções de contato, ou aleatório
+  para
+
+  partes que normalmente não deveriam ter contato, ou que não deveriam estar sujeitas a movimento
+
+  relativo.
+
+  g. Estruturas não metálicas são suscetíveis a danos e/ou deterioração como descolamentos
+  e
+
+  delaminações. Essas estruturas normalmente não são suscetíveis a degradação devido ao ambiente
+
+  (como por exemplo corrosão). O operador deve prestar atenção especial a estruturas não metálicas
+  e
+
+  quaisquer particularidades associadas com as fontes de dano aplicáveis.
+
+  Nota 2.
+
+  a. Relativo ao modo de falha visado e intenção original.
+
+  b. Referência no MSG-3, seção 2-3-7.1 (Tabela 2-3-7.1, Criteria for Task Selection) para
+
+  orientações quanto à aplicabilidade e eficácia de segurança.
+
+  c. Coordene com o detentor do projeto de tipo quando dados da análise de tarefas do MSG-3
+
+  forem necessários para realizar a avaliação.
+
+  Nota 3. Considere todas as fontes de dano: deterioração ambiental (Environmental Deterioration
+  -
+
+  ED) - corrosão, corrosão de tensão, delaminação, descolamento, etc.; dano por fatiga (Fatigue
+
+  Damage - FD); dano acidental (Accidental Damage), e dano por desgaste (Wear Damage - WD).
+
+  Nota 4. Espera-se que o programa controle corrosão para o Nível 1 ou melhor. Programas iniciais
+
+  assumem que uma aeronave é operada num ambiente típico. Se as análises refletem uma tendência
+
+  em defeitos de corrosão que exceda o Nível 1, o programa de controle de corrosão para a
+  área
+
+  afetada deve ser revisado pelo operador com o objetivo de assegurar Nível 1 ou melhor.Data
+  de emissão: 20 de março de 2025 IS nº 120-017
+
+  Revisão AX
+
+  X'
+keywords:
+- antidrogas
+- saude
+- corrosao
+- analise
+- dano
+- desgaste
+- deterioracao
+- estrutura
+- estruturas
+- nota
+- tratados
+- analises
+- apendice
+- damage
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

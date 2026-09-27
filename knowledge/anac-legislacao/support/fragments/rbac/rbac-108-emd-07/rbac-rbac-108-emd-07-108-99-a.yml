@@ -1,0 +1,41 @@
+id: rbac-rbac-108-emd-07-108-99-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.99'
+section_title: Inspeção de segurança e cadeia segura de provisões de bordo e de serviço de
+  bordo
+subsection_id: a
+cite: 108.99(a)
+title: 108.99(a)
+text: '(a) O operador aéreo deve garantir a realização da inspeção das provisões de bordo
+  e de serviço de bordo no acesso às ARS ou implementar uma cadeia segura sobre esses insumos.
+
+  (1) A cadeia segura é implementada por medidas que garantam que nas atividades de produção,
+  armazenamento e transporte de provisões de bordo e de serviço de bordo sejam aplicados controles
+  de segurança que evitem a introdução de armas, explosivos, artefatos QBRN ou substâncias
+  e materiais proibidos em alguma dessas fases.
+
+  (2) O reconhecimento da cadeia segura é formalizado por meio de auditoria interna inicial
+  do operador aéreo e aprovação de PSESCA pelo operador de aeródromo, que devem abranger as
+  atividades descritas no parágrafo 108.99(a)(1).
+
+  (Redação dada pela Resolução nº 604, de 29.01.2021)'
+keywords:
+- seguranca
+- operador
+- bordo
+- cadeia
+- segura
+- provisoes
+- servico
+- aereo
+- atividades
+- inspecao
+- abranger
+- acesso
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

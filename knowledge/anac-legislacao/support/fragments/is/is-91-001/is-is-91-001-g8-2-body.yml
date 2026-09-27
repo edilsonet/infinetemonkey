@@ -1,0 +1,45 @@
+id: is-is-91-001-g8-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: G8.2
+section_title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento, SID e STAR RNP 1, antes de voar em condições IMC para assegurar
+  a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  SIDs e STARs publicados. Para tanto, o operador deve, pelo menos, realizar a comparação
+  entre os dados de navegação dos procedimentos RNP 1, SIDs e STARs que serão inseridos no
+  FMS com cartas e mapas vigentes que contenham os procedimentos SID e STARs publicados.
+subsection_id: body
+cite: G8.2
+title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador deve
+  validar cada procedimento, SID e STAR RNP 1, antes de voar em condições IMC para assegurar
+  a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  SIDs e STARs publicados. Para tanto, o operador deve, pelo menos, realizar a comparação
+  entre os dados de navegação dos procedimentos RNP 1, SIDs e STARs que serão inseridos no
+  FMS com cartas e mapas vigentes que contenham os procedimentos SID e STARs publicados.
+text: G8.2 Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento, SID e STAR RNP 1, antes de voar em condições IMC para assegurar
+  a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  SIDs e STARs publicados. Para tanto, o operador deve, pelo menos, realizar a comparação
+  entre os dados de navegação dos procedimentos RNP 1, SIDs e STARs que serão inseridos no
+  FMS com cartas e mapas vigentes que contenham os procedimentos SID e STARs publicados.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- stars
+- dados
+- navegacao
+- operador
+- publicados
+- sids
+- aeronave
+- assegurar
+- banco
+- cada
+- cartas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

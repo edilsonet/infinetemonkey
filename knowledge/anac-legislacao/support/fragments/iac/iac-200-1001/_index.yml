@@ -1,0 +1,57 @@
+document: iac-200-1001
+kind: iac
+title: IAC 200-1001
+ementa: 27/06/2005
+family: '200'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-200-1001
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-200-1001/@@display-file/arquivo_norma/IAC200_1001.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-200-1001/@@display-file/arquivo_norma/IAC200_1001.pdf
+language: pt
+foreign_annex: false
+sections:
+- 3.1.1
+- 3.1.2
+- 3.1.3
+- 3.1.4
+- 3.1.5
+- 4.2.1
+- 4.2.2
+- '9'
+- introducao
+- preambulo
+- sumario
+fragment_count: 30
+fragment_ids:
+- iac-iac-200-1001-preambulo-body
+- iac-iac-200-1001-sumario-body
+- iac-iac-200-1001-introducao-body
+- iac-iac-200-1001-3-1-1-body
+- iac-iac-200-1001-3-1-2-body
+- iac-iac-200-1001-3-1-3-body
+- iac-iac-200-1001-3-1-4-body
+- iac-iac-200-1001-3-1-5-body
+- iac-iac-200-1001-4-2-1-body
+- iac-iac-200-1001-4-2-2-body
+- iac-iac-200-1001-4-2-2-a
+- iac-iac-200-1001-4-2-2-b
+- iac-iac-200-1001-4-2-2-c
+- iac-iac-200-1001-4-2-2-d
+- iac-iac-200-1001-4-2-2-e
+- iac-iac-200-1001-4-2-2-f
+- iac-iac-200-1001-4-2-2-g
+- iac-iac-200-1001-4-2-2-h
+- iac-iac-200-1001-4-2-2-l
+- iac-iac-200-1001-4-2-2-m
+- iac-iac-200-1001-4-2-2-i
+- iac-iac-200-1001-4-2-2-j
+- iac-iac-200-1001-4-2-2-k
+- iac-iac-200-1001-4-2-2-n
+- iac-iac-200-1001-4-2-2-o
+- iac-iac-200-1001-4-2-2-p
+- iac-iac-200-1001-4-2-2-q
+- iac-iac-200-1001-4-2-2-r
+- iac-iac-200-1001-4-2-2-s
+- iac-iac-200-1001-9-body
+parser_version: 7

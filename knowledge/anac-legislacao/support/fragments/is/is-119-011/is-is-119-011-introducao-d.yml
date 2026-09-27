@@ -1,0 +1,37 @@
+id: is-is-119-011-introducao-d
+kind: is
+document: is-119-011
+family: '119'
+section_id: introducao
+section_title: Introdução
+subsection_id: d
+cite: introducao(d)
+title: introducao(d)
+text: 'd) alterações no sistema de documentos de segurança operacional, se aplicável (vide
+  parágrafo 5.2.13 e 5.2.14 desta IS).
+
+  Ao final do processo, são emitidas as revisões das Especificações Operativas.
+
+  A Anac pode, a qualquer momento, por razões de segurança operacional, limitar ou suspender
+  autorizações emitidas em conformidade com esta IS. Particularmente, se configuram casos
+  típicos em que essa situação pode ocorrer:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- emitidas
+- introducao
+- operacional
+- pode
+- seguranca
+- alteracoes
+- aplicavel
+- autorizacoes
+- casos
+- configuram
+- conformidade
+- desta
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-011.md

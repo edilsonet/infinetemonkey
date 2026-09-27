@@ -1,0 +1,73 @@
+id: is-is-119-008-4-1-8-body
+kind: is
+document: is-119-008
+family: '119'
+section_id: 4.1.8
+section_title: 'Dado identificado: qualquer dado de voo coletado ou registrado antes da remoção
+  de todos os dados de identificação.'
+subsection_id: body
+cite: 4.1.8
+title: 'Dado identificado: qualquer dado de voo coletado ou registrado antes da remoção de
+  todos os dados de identificação.'
+text: '4.1.8 Dado identificado: qualquer dado de voo coletado ou registrado antes da remoção
+  de todos os dados de identificação.
+
+  4.1.9 Dados de tendência: informações estatísticas associadas com categorias de eventos
+  verificadas em programas de monitoramento de dados de voo, baseadas na análise dos dados
+  coletados de forma sistêmica de múltiplas aeronaves.
+
+  4.1.10 Dados de voo: valores numéricos, contínuos ou dicotômicos (ex.: ligado ou desligado),
+  capturados por sensores (dispositivos eletrônicos ou mecânicos), que monitoram o funcionamento
+  de componentes e sistemas de uma aeronave e procedimentos operacionais no decorrer de um
+  voo.
+
+  4.1.11 Debriefing: reunião realizada pela gestão do núcleo de Operações de Voo do PAADV
+  com os tripulantes técnicos envolvidos em um evento, que poderá ou não gerar recomendações
+  de segurança operacional.
+
+  4.1.12 Erro: resultado de uma ação que não atinge o objetivo pretendido. O erro não é intencional
+  e é parte inerente ao ser humano, originando-se de deficiências na interação entre os indivíduos,
+  do indivíduo com o meio e do indivíduo com a máquina.
+
+  4.1.13 Excedência (exceedance) ou Evento: situação em que haja extrapolação dos limites
+  de segurança operacional estabelecidos pelo fabricante e/ou operador da aeronave e que a
+  avaliação de risco a classifique como intolerável.
+
+  4.1.14 Gatekeeper (Agente de ligação): representante do Grupo de Voo, que tem como objetivo
+  primário garantir a confidencialidade dos dados nos casos de acionamento do Comitê de Casos
+  Egrégios, sendo ele o elo entre o piloto envolvido no evento e o Comitê.
+
+  4.1.15 Gatilho: também conhecido pela expressão trigger, é uma programação criada para detecção
+  automática de um determinado evento em um software de análise de voo, levando-se em consideração
+  regras e limites pré-estabelecidos na linha de programação de acordo com a sua finalidade,
+  podendo ser classificado de acordo com a severidade.
+
+  4.1.16 Gestor do programa: responsável pela condução do programa e pela guarda e sigilo,
+  quando aplicável, dos dados em conformidade com o Programa de Acompanhamento e Análise de
+  Dados de Voo.
+
+  4.1.17 Informação de voo: qualquer dado transmitido, registrado ou coletado pelo uso de
+  um registrador de dados de voo. O termo informação inclui ainda fitas, transcrições, relatórios,
+  anotações, memorandos, demonstrativos, estudos, tabelas, gráficos, animações em 3D, ou qualquer
+  outra descrição, análise ou compilação de dados coletados de um voo ou uma série deles,
+  ou ainda qualquer informação obtida por meio de entrevista realizada pelo gatekeeper.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- dados
+- dado
+- analise
+- coletado
+- evento
+- registrado
+- identificacao
+- identificado
+- informacao
+- programa
+- remocao
+- todos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

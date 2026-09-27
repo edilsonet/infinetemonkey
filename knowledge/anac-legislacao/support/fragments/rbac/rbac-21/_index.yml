@@ -176,10 +176,14 @@ sections:
 - '21.95'
 - '21.97'
 - '21.99'
+- aprovacao
 - preambulo
-fragment_count: 558
+- sumario
+fragment_count: 560
 fragment_ids:
 - rbac-rbac-21-preambulo-body
+- rbac-rbac-21-aprovacao-body
+- rbac-rbac-21-sumario-body
 - rbac-rbac-21-21-1-body
 - rbac-rbac-21-21-2-body
 - rbac-rbac-21-21-3-body
@@ -737,4 +741,4 @@ fragment_ids:
 - rbac-rbac-21-21-621-b
 - rbac-rbac-21-21-621-c-i
 - rbac-rbac-21-21-621-d-i
-parser_version: 6
+parser_version: 7

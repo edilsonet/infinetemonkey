@@ -1,0 +1,44 @@
+id: is-is-21-61-005-5-3-2-4-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.2.4
+section_title: Only MMEL written in Portuguese or English are approved by ANAC.
+subsection_id: body
+cite: 5.3.2.4
+title: Only MMEL written in Portuguese or English are approved by ANAC.
+text: '5.3.2.4 Only MMEL written in Portuguese or English are approved by ANAC.
+
+  5.3.2.5 Cada item da MMEL deve se enquadrar em uma categoria específica, em relação ao tempo
+  permitido até que o reparo seja efetuado. Ao contar o tempo para reparo, o dia em que o
+  mau funcionamento foi descoberto, de acordo com o diário de bordo da aeronave, é excluído.
+  Assim, se, por exemplo, um item deve ser reparado dentro de 3 dias e a falha foi registrada
+  em 1º de janeiro às 10:00, o reparo deve ser realizado até 24:00 de 4 de janeiro.
+
+  5.3.2.5 Each MMEL item must fall into a specific category, regarding time allowed until
+  repair is provided. When counting the time for repair, the day on which the malfunction
+  was detected, according to the aircraft logbook, is excluded. Thus, if, for example, an
+  item must be rectified within 3 days and the failure was registered on January 1st at 10:00,
+  the repair must be carried out by 24:00 on January 4th.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- approved
+- english
+- must
+- only
+- portuguese
+- repair
+- reparo
+- written
+- janeiro
+- january
+- tempo
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

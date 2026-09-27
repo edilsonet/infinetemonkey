@@ -1,0 +1,41 @@
+id: is-is-91-001-k4-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K4.2
+section_title: Navegação vertical (VNAV). O sistema de navegação vertical permite a aeronave
+  voar nivelada ou em trajetória descendente seguindo informações armazenadas em seu banco
+  de dados. O perfil vertical é baseado em restrições de altitude ou de ângulo de descida
+  (VPA) conforme apropriado.
+subsection_id: body
+cite: K4.2
+title: Navegação vertical (VNAV). O sistema de navegação vertical permite a aeronave voar
+  nivelada ou em trajetória descendente seguindo informações armazenadas em seu banco de dados.
+  O perfil vertical é baseado em restrições de altitude ou de ângulo de descida (VPA) conforme
+  apropriado.
+text: 'K4.2 Navegação vertical (VNAV). O sistema de navegação vertical permite a aeronave
+  voar nivelada ou em trajetória descendente seguindo informações armazenadas em seu banco
+  de dados. O perfil vertical é baseado em restrições de altitude ou de ângulo de descida
+  (VPA) conforme apropriado.
+
+  K5. REQUISITOS DE EQUIPAMENTOS EMBARCADOS'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- vertical
+- navegacao
+- aeronave
+- altitude
+- angulo
+- apropriado
+- armazenadas
+- banco
+- baseado
+- dados
+- descendente
+- descida
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

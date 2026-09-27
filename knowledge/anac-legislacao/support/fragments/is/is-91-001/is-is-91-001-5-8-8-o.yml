@@ -1,0 +1,45 @@
+id: is-is-91-001-5-8-8-o
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.8.8
+section_title: Operações PBN utilizando o GNSS
+subsection_id: o
+cite: 5.8.8(o)
+title: 5.8.8(o)
+text: 'o) diferenças entre procedimentos GNSS e não GNSS, em especial as diferenças entre
+  as aproximações GNSS e demais operações de aproximação, com os respectivos mínimos associados
+  (quando aplicável).
+
+  5.9 Base de dados de navegação
+
+  5.9.1 A informação armazenada na base de dados de navegação define a orientação lateral
+  e longitudinal da aeronave para as operações PBN. As atualizações das bases de dados de
+  navegação são realizadas a cada 28 dias, segundo o ciclo AIRAC. Os dados de navegação utilizados
+  em cada atualização são críticos para a integridade das rotas e procedimentos PBN que serão
+  executados.
+
+  5.9.2 Para a execução das operações RNAV 10 (RNP 10) e RNAV 5 não é mandatória a utilização
+  de bancos de dados de navegação. Já para os operadores que pretendam voar rotas ou procedimentos
+  baseados em RNAV 1 e 2, RNP 4, RNP 1 e 2, RNP APCH (com ou sem baro-VNAV), devem atentar-se
+  para as seguintes ações relacionadas com as bases de dados de navegação:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- dados
+- navegacao
+- gnss
+- operacoes
+- procedimentos
+- rnav
+- base
+- bases
+- cada
+- diferencas
+- rotas
+- acoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

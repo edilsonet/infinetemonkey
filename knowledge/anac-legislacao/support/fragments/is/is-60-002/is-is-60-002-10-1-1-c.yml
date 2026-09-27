@@ -1,0 +1,37 @@
+id: is-is-60-002-10-1-1-c
+kind: is
+document: is-60-002
+family: '60'
+section_id: 10.1.1
+section_title: 'As etapas de uma qualificação especial são descritas a seguir:'
+subsection_id: c
+cite: 10.1.1(c)
+title: 10.1.1(c)
+text: 'c) Fase 3: Aprovação prévia das modificações ou necessidade de inspeção.
+
+  Se a ANAC julgar que as informações prestadas são suficientes e não há a necessidade de
+  inspeção no FSTD, o operador receberá uma resposta de que as modificações foram aprovadas
+  e pode, assim, proceder com o uso do FSTD com as modificações realizadas. Neste caso, o
+  processo se encerra nesta etapa. Caso contrário, a ANAC irá coordenar com o operador uma
+  data e horário para avaliar presencialmente o que se faça necessário para a aprovação das
+  modificações.'
+keywords:
+- simuladores
+- treinamento
+- modificacoes
+- aprovacao
+- caso
+- fstd
+- inspecao
+- necessidade
+- operador
+- aprovadas
+- assim
+- avaliar
+- contrario
+- coordenar
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

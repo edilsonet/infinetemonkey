@@ -1,0 +1,37 @@
+id: is-is-133-001-1-body
+kind: is
+document: is-133-001
+family: '133'
+section_id: '1'
+section_title: Certificação.
+subsection_id: body
+cite: '1'
+title: Certificação.
+text: '1. Certificação.
+
+  Nenhuma pessoa pode operar esta aeronave com uma carga externa, a menos que essa pessoa
+  possua uma Autorização para Operação com Carga Externa emitida pela Anac e tenha uma declaração
+  atestando sua competência ou um registro em sua caderneta de voo indicando que atende ao
+  previsto no parágrafo 133.37(a)(1) do RBAC n° 133. A declaração de competência ou o registro
+  do teste de habilidade e conhecimento em sua caderneta de voo deve estar na posse dessa
+  pessoa durante a realização das operações sob o RBAC nº 133.'
+keywords:
+- carga-externa
+- helicoptero
+- certificacao
+- pessoa
+- caderneta
+- carga
+- competencia
+- declaracao
+- externa
+- registro
+- aeronave
+- atende
+- atestando
+- autorizacao
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

@@ -1,0 +1,46 @@
+id: is-is-121-021-4-1-13-body
+kind: is
+document: is-121-021
+family: '121'
+section_id: 4.1.13
+section_title: Estado energético. Quantidade de cada tipo de energia (cinética, potencial
+  ou química) disponível para a aeronave em um determinado momento.
+subsection_id: body
+cite: 4.1.13
+title: Estado energético. Quantidade de cada tipo de energia (cinética, potencial ou química)
+  disponível para a aeronave em um determinado momento.
+text: '4.1.13 Estado energético. Quantidade de cada tipo de energia (cinética, potencial ou
+  química) disponível para a aeronave em um determinado momento.
+
+  4.1.14 Estado indesejado da aeronave (UAS). Os estados indesejados da aeronave são desvios
+  de posição ou velocidade da aeronave induzidos pela tripulação de voo, aplicação incorreta
+  de controles de voo ou configuração incorreta de sistemas, associados a uma redução nas
+  margens de segurança. Os estados indesejados das aeronaves que resultam de uma gestão ineficaz
+  de ameaças e/ou erros podem levar a situações comprometedoras e reduzir as margens de segurança
+  nas operações de voo. Muitas vezes considerados à beira de se tornar um incidente ou acidente,
+  os estados indesejados das aeronaves devem ser gerenciados pelas tripulações de voo (OACI
+  Doc 9868).
+
+  4.1.15 Estresse. Resposta a um evento ameaçador que inclui efeitos fisiológicos, psicológicos
+  e cognitivos. Esses efeitos podem variar de positivos a negativos e podem aumentar ou diminuir
+  o desempenho.'
+keywords:
+- transporte-aereo
+- operacoes
+- aeronave
+- estado
+- cada
+- cinetica
+- determinado
+- disponivel
+- energetico
+- energia
+- estados
+- indesejados
+- momento
+- podem
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

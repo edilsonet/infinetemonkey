@@ -1,0 +1,34 @@
+id: is-is-145-002-5-5-2-2-b
+kind: is
+document: is-145-002
+family: '145'
+section_id: 5.5.2.2
+section_title: 'The application for certificate renewal must include the following documents:'
+subsection_id: b
+cite: 5.5.2.2(b)
+title: 5.5.2.2(b)
+text: 'b) the current version of the maintenance organization certificate, operations specifications
+  and capability list, or equivalent documents, accepted/approved by the local CAA;
+
+  Note: if there have been changes to these documents that could impact Brazilian certification,
+  the AMO must clearly inform what these impacts were.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- documents
+- certificate
+- must
+- these
+- accepted
+- application
+- approved
+- been
+- brazilian
+- capability
+- certification
+- changes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-002.md

@@ -1,0 +1,37 @@
+id: is-is-145-001-5-7-5-3-a
+kind: is
+document: is-145-001
+family: '145'
+section_id: 5.7.5.3
+section_title: 'Requisitos a serem demonstrados pela OM certificada na Categoria Rádio:'
+subsection_id: a
+cite: 5.7.5.3(a)
+title: 5.7.5.3(a)
+text: a) possuir ou ter acesso ao Manual de Revisão Geral (Component Maintenance & Overhaul
+  Manual) desses equipamentos o qual deve estar atualizado de acordo com o último índice emitido
+  pelo fabricante desses equipamentos e possuir assinatura ou autorização de uso por parte
+  do proprietário da documentação técnica, conforme previsto na IS n° 145.109-001. Para a
+  instalação e remoção de artigos da Categoria Rádio em aeronave, deve possuir ou ter acesso
+  aos manuais atualizados necessários que podem incluir Diagrama Elétrico e Manual de Manutenção
+  da aeronave, instruções de instalação previstas na documentação do Certificado Suplementar
+  de Tipo (CST), entre outros, conforme necessário para a execução da atividade;
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- manual
+- possuir
+- acesso
+- aeronave
+- categoria
+- desses
+- documentacao
+- equipamentos
+- instalacao
+- radio
+- acordo
+- artigos
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

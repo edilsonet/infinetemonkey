@@ -1,0 +1,52 @@
+id: is-is-91-010-9-2-4-d
+kind: is
+document: is-91-010
+family: '91'
+section_id: 9.2.4
+section_title: 'O treinamento inicial dos pilotos para comunicações por data link deve incluir,
+  no mínimo, os seguintes procedimentos:'
+subsection_id: d
+cite: 9.2.4(d)
+title: 9.2.4(d)
+text: 'd) atrasos excessivos no envio/recebimento de mensagens.
+
+  11.5 O Programa de Monitoramento de Desempenho do operador deve prever procedimentos para
+  que quaisquer situações de falha ou desempenho inaceitável sejam devidamente registradas
+  e tratadas pelo operador, sejam estes reportes provenientes de fontes internas ou externas
+  (ex: informações de falhas encaminhadas ao operador pelos órgãos ATC). O tratamento das
+  falhas deve incluir, no mínimo, a identificação da causa raiz da falha, a implementação
+  das soluções julgadas pertinentes e o monitoramento da efetividade das soluções implementadas.
+
+  PROCESSO DE AUTORIZAÇÃO
+
+  12.1. Introdução
+
+  12.1.1. O processo de autorização para as operações de que trata esta IS deverá seguir o
+  previsto na IS nº 91-013, 119-001 ou 119-004, conforme o operador atue sob a Subparte K
+  do RBAC nº 91 ou sob os RBAC nº 121 ou 135 respectivamente. Para operadores regidos pelo
+  RBAC nº 91 (exceto Subparte K), a autorização de LOA deve ser realizada mediante petição
+  simples, anexando-se a documentação comprobatória prevista nesta IS.
+
+  12.1.2. Embora seja único, o processo de autorização do uso de comunicação por enlace de
+  dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C)
+  por operadores aéreos brasileiro deverá ser submetido a dois tipos de aprovações:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- autorizacao
+- operador
+- processo
+- desempenho
+- devera
+- falha
+- falhas
+- incluir
+- minimo
+- monitoramento
+- operadores
+- procedimentos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

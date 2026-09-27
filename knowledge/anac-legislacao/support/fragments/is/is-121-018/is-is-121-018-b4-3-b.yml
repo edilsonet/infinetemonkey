@@ -1,0 +1,180 @@
+id: is-is-121-018-b4-3-b
+kind: is
+document: is-121-018
+family: '121'
+section_id: B4.3
+section_title: 'A visibilidade mínima para operações para circular deve ser de, pelo menos,
+  o maior dos seguintes valores:'
+subsection_id: b
+cite: B4.3(b)
+title: B4.3(b)
+text: 'b) a visibilidade mínima conforme Tabela B13.
+
+
+  Tabela B12 - MDH para aproximações para circular, conforme categoria do avião
+
+
+  Categoria do avião
+
+  A
+
+  B
+
+  C
+
+  D
+
+  MDH (pés)
+
+  400
+
+  500
+
+  600
+
+  700
+
+
+  Tabela B13 - Valores mínimos de visibilidade (em m) para aproximações para circular, conforme
+  categoria do avião e a OCH (em pés)
+
+  OCH (pés)
+
+  Categoria do avião
+
+  A
+
+  B
+
+  C
+
+  D
+
+  E
+
+  De 350 a 449
+
+  1600
+
+  NA
+
+  NA
+
+  NA
+
+  NA
+
+  De 450 a 549
+
+  1600
+
+  1600
+
+  2400
+
+  NA
+
+  NA
+
+  De 550 a 600
+
+  1600
+
+  1600
+
+  2400
+
+  3200
+
+  3200
+
+  De 601 a 670
+
+  1600
+
+  1600
+
+  2800
+
+  3200
+
+  3600
+
+  De 671 a 740
+
+  1600
+
+  1600
+
+  3200
+
+  3600
+
+  4000
+
+  De 741 a 810
+
+  1600
+
+  1600
+
+  3600
+
+  4000
+
+  4400
+
+  De 811 a 880
+
+  2000
+
+  2000
+
+  4000
+
+  4400
+
+  4800
+
+  De 881 a 950
+
+  2000
+
+  2000
+
+  4400
+
+  4800
+
+  4800
+
+  A partir de 951
+
+  2000
+
+  2400
+
+  4800
+
+  4800
+
+  4800'
+keywords:
+- transporte-aereo
+- operacoes
+- aviao
+- categoria
+- circular
+- tabela
+- visibilidade
+- aproximacoes
+- minima
+- valores
+- maior
+- menos
+- minimos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

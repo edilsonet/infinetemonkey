@@ -1,0 +1,54 @@
+id: is-is-145-009-5-5-11-2-l
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.11.2
+section_title: 'Sistema e procedimentos: esta seção do MCQ deve incluir a descrição do sistema
+  e procedimentos usados para:'
+subsection_id: l
+cite: 5.5.11.2(l)
+title: 5.5.11.2(l)
+text: 'l) Quais são os procedimentos para detectar e reportar peças não aprovadas suspeitas?
+
+  5.5.11.11 Inspeção preliminar de artigos: Essa inspeção é usualmente uma avaliação de um
+  artigo para determinar o escopo do trabalho solicitado pelo cliente e a manutenção requerida
+  ou ações de alterações. O cumprimento de Diretrizes de Aeronavegabilidade - DA e Instruções
+  de Aeronavegabilidade Continuada - ICA deve também ser determinado. Essa inspeção pode envolver
+  uma desinstalação ou desmontagem se o artigo é um motor, módulo, hélice, acessório ou subconjunto
+  ou um grande componente. Os procedimentos em manual devem descrever o que constitui uma
+  inspeção preliminar no escopo de certificação de uma OM, como essa inspeção é executada,
+  e como o artigo será identificado através de todo ciclo de reparo. Os resultados dessa inspeção
+  devem ser documentados e pode ser necessário comunicá-los ao cliente para aprovação de orçamento.
+  Os formulários usados para registrar essa inspeção devem identificar o artigo, até que o
+  ciclo de manutenção/reparo esteja concluído. Para algumas OM, isso pode incluir afixar uma
+  etiqueta/formulário ao artigo enquanto ele estiver no ciclo de reparo. Outras OM que utilizam
+  meios eletrônicos, tais como código de barras, podem não precisar afixar fisicamente um
+  formulário ou etiqueta, mas usar outro tipo de identificação, de modo que o status do artigo
+  possa ser determinado, se necessário. Quaisquer defeitos ou discrepâncias constatadas durante
+  essa inspeção precisam ser documentados (usualmente abre-se uma ficha de discrepância/não
+  rotina) e as respectivas ações corretivas devem ser realizadas durante as atividades de
+  manutenção, para que se possa declarar o produto como aeronavegável. A utilização de um
+  sistema de numeração das discrepâncias e dos documentos em aberto permite o rastreamento
+  destas até o seu fechamento. A OM deve notificar o cliente de quaisquer defeitos que estejam
+  fora do escopo autorizado pelo cliente para o reparo. Os provedores de funções de manutenção
+  são responsáveis somente pelo trabalho para o qual forem contratados a executar, e não de
+  todo trabalho que precisa ser executado. Os procedimentos no manual da empresa devem detalhar:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- artigo
+- procedimentos
+- cliente
+- reparo
+- ciclo
+- escopo
+- pode
+- sistema
+- trabalho
+- acoes
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

@@ -1,0 +1,112 @@
+id: is-is-43-13-003-5-9-2-body
+kind: is
+document: is-43-13-003
+family: '43'
+section_id: 5.9.2
+section_title: Caso uma OM seja subcontratada para serviços de RI, a OM deve estender as medidas
+  de
+subsection_id: body
+cite: 5.9.2
+title: Caso uma OM seja subcontratada para serviços de RI, a OM deve estender as medidas de
+text: '5.9.2 Caso uma OM seja subcontratada para serviços de RI, a OM deve estender as medidas
+  de
+
+  salvaguarda (radioproteção) das pessoas do contratante.
+
+  5.10 Publicações Técnicas
+
+  Uma OM deve manter um controle apropriado de publicações técnicas (documentos de
+
+  serviço, dados técnicos aceitáveis/aprovados, etc.) relativas aos END. Para facilitar o
+  con-
+
+  trole das publicações, a ANAC recomenda que a OM mantenha uma lista dessas publica-
+
+  ções, incluindo as normas de ensaios adotadas (SAE, MIL, ASTM, AIA, ABNT, CNEN,
+
+  CONTER, etc.) para a elaboração de procedimentos específicos, e referencie quais são as
+
+  utilizadas dos clientes. No caso específico de prestadores de serviço, as publicações técni-27/09/2013
+  IS Nº 43.13-003
+
+  Revisão C
+
+  cas dos produtos aeronáuticos a serem inspecionados devem ser obtidas diretamente do
+
+  contratante. É importante ser observado que a OM descreva o nome do documento e a data
+
+  ou letra de revisão, como forma de estabelecer a rastreabilidade.
+
+  5.11 Normas aceitáveis para a elaboração de procedimentos específicos
+
+  A certificação de uma OM em Serviços Especializados é feita com base na presunção de
+
+  normas ou especificações da indústria adotadas ou desenvolvidas pela OM, aceitas pela
+
+  ANAC. As normas aceitáveis para a elaboração de procedimentos específicos são as elabo-
+
+  radas por organizações nacionais ou internacionalmente reconhecidas, tais como American
+
+  Society for Testing and Materials - ASTM, Associação Brasileira de Normas Técnicas -
+
+  ABNT, Society of Automotive Engineers - SAE, etc.
+
+  Tipo de ensaio Norma
+
+  Ensaios por Líquido Penetrante - LP ASTM E 1417 (*)
+
+  Ensaios por Partículas Magnéticas - PM ASTM E 1444 (*)
+
+  Ensaios por Correntes Parasitas - CP ABNT NBR 15548 (ou equivalente)
+
+  Ensaios por Ultrassom - US
+
+  SAE-AMS-2154 (*)
+
+  ASTM E 2375 (*)
+
+  ASTM E 317 (*)
+
+  Ensaios Radiográficos - RI ASTM E 1742 (*)
+
+  Ensaios por Termografia - IV De acordo com a publicação técnica aplicável
+
+  (por exemplo: Manual NDT)
+
+  Ensaios por Shearografia - SG De acordo com a publicação técnica aplicável
+
+  (por exemplo: Manual NDT)
+
+  (*): ou NBR equivalente
+
+  TABELA 1: Relação de normas aceitáveis.
+
+  5.12 Normas de Qualificação e Certificação de Pessoal
+
+  As normas aceitáveis de qualificação e certificação em END para empresas localizadas no
+
+  estrangeiro e certificadas por autoridade estrangeira que requerem certificação pela ANAC
+
+  e requerentes brasileiros para OM no Brasil estão relacionadas na IS 145.163-001.
+
+  5.13 Blocos de ensaio ou calibração'
+keywords:
+- manutencao
+- aeronavegabilidade
+- ensaios
+- normas
+- astm
+- aceitaveis
+- caso
+- certificacao
+- publicacoes
+- servicos
+- abnt
+- elaboracao
+- especificos
+- estender
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-13-003.md

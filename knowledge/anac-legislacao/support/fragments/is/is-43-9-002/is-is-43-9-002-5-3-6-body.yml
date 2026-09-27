@@ -1,0 +1,48 @@
+id: is-is-43-9-002-5-3-6-body
+kind: is
+document: is-43-9-002
+family: '43'
+section_id: 5.3.6
+section_title: 'Campo 5 - Ordem de Serviço/Contrato/Nota Fiscal (Work Order, Contract or Invoice):'
+subsection_id: body
+cite: 5.3.6
+title: 'Campo 5 - Ordem de Serviço/Contrato/Nota Fiscal (Work Order, Contract or Invoice):'
+text: '5.3.6 Campo 5 - Ordem de Serviço/Contrato/Nota Fiscal (Work Order, Contract or Invoice):
+
+  Indique o número da Ordem de Serviço ou outro tipo de documento de registro primário de
+
+  manutenção. Se anexo, inclua datas e o número de páginas do documento anexo à Etiqueta.
+
+  Se esse documento contém as informações requeridas pelos campos 6 a 11 da Etiqueta,
+
+  esses campos devem ser identificados com um hífen se um original ou uma cópia
+
+  autenticada do documento for anexado à Etiqueta. Nesse caso, o campo 12 deve conter a
+
+  seguinte frase: “Esta Etiqueta aprova para o retorno ao serviço os motores de aeronaves,
+
+  hélices e artigos listados no documento nº______, datado de _________, contendo ____
+
+  páginas.” Em adição, o documento deve ter referência ao número da Etiqueta constante do
+
+  Campo 3.'
+keywords:
+- manutencao
+- aeronavegabilidade
+- documento
+- campo
+- etiqueta
+- servico
+- ordem
+- contract
+- contrato
+- fiscal
+- invoice
+- nota
+- numero
+- order
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-9-002.md

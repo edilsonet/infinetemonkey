@@ -1,0 +1,32 @@
+id: is-is-91-001-m8-1-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: M8.1
+section_title: Generalidades
+subsection_id: b
+cite: M8.1(b)
+title: M8.1(b)
+text: b) A especificação para a operação A-RNP exige que a aeronave utilize sistema GNSS.
+  O sistema GNSS deve ser o principal sensor de navegação, seja como sistema de navegação
+  autônomo, ou como parte de um sistema multissensor.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- sistema
+- gnss
+- navegacao
+- aeronave
+- autonomo
+- especificacao
+- exige
+- generalidades
+- multissensor
+- operacao
+- parte
+- principal
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,47 @@
+id: is-is-91-001-g4-7-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: G4.7
+section_title: Para aeronaves com sistemas RNP 1 equipadas com GNSS TSO-C129a, se a STAR RNP
+  1 tiver início em um ponto distante a mais de 30 NM do ponto de referência do aeroporto
+  (ARP) e um indicador de desvio lateral estiver sendo utilizado, a escala máxima selecionada
+  não deve exceder 1 NM antes do início da STAR. Para aeronaves utilizando displays de desvio
+  lateral (ou seja, display de mapas de navegação), a escala deve ser selecionada de acordo
+  com o procedimento STAR RNP 1, e o diretor de voo ou piloto automático devem ser utilizados.
+subsection_id: body
+cite: G4.7
+title: Para aeronaves com sistemas RNP 1 equipadas com GNSS TSO-C129a, se a STAR RNP 1 tiver
+  início em um ponto distante a mais de 30 NM do ponto de referência do aeroporto (ARP) e
+  um indicador de desvio lateral estiver sendo utilizado, a escala máxima selecionada não
+  deve exceder 1 NM antes do início da STAR. Para aeronaves utilizando displays de desvio
+  lateral (ou seja, display de mapas de navegação), a escala deve ser selecionada de acordo
+  com o procedimento STAR RNP 1, e o diretor de voo ou piloto automático devem ser utilizados.
+text: 'G4.7 Para aeronaves com sistemas RNP 1 equipadas com GNSS TSO-C129a, se a STAR RNP
+  1 tiver início em um ponto distante a mais de 30 NM do ponto de referência do aeroporto
+  (ARP) e um indicador de desvio lateral estiver sendo utilizado, a escala máxima selecionada
+  não deve exceder 1 NM antes do início da STAR. Para aeronaves utilizando displays de desvio
+  lateral (ou seja, display de mapas de navegação), a escala deve ser selecionada de acordo
+  com o procedimento STAR RNP 1, e o diretor de voo ou piloto automático devem ser utilizados.
+
+  G5. PROCEDIMENTOS DE CONTINGÊNCIA'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- star
+- aeronaves
+- desvio
+- escala
+- inicio
+- lateral
+- ponto
+- selecionada
+- acordo
+- aeroporto
+- automatico
+- c129a
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

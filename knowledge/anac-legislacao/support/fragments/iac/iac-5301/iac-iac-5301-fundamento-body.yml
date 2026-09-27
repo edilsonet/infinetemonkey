@@ -1,0 +1,38 @@
+id: iac-iac-5301-fundamento-body
+kind: iac
+document: iac-5301
+family: '530'
+section_id: fundamento
+section_title: FUNDAMENTO
+subsection_id: body
+cite: fundamento
+title: FUNDAMENTO
+text: 'FUNDAMENTO
+
+  Lei No 7.565, de 19 Dez 86, que dispõe sobre o Código Brasileiro de Aeronáutica;
+
+  Decreto N.º 65.144, de 12 Set. 69, que institui o Sistema de Aviação Civil; e
+
+  Portaria No 774/GM-2, de 13 Nov. 97, que estabelece critérios e procedimentos para a
+
+  utilização de áreas aeroportuárias, edificadas ou não, de instalações, de equipamentos,
+  de
+
+  facilidades e de serviços nos aeroportos e dá outras providências.'
+keywords:
+- fundamento
+- aeronautica
+- aeroportos
+- aeroportuarias
+- areas
+- aviacao
+- brasileiro
+- civil
+- codigo
+- criterios
+- decreto
+- dispoe
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-5301.md

@@ -1,0 +1,57 @@
+id: is-is-121-010-5-2-2-1-body
+kind: is
+document: is-121-010
+family: '121'
+section_id: 5.2.2.1
+section_title: O sistema de documentos de segurança operacional deve ser validado antes de
+  sua
+subsection_id: body
+cite: 5.2.2.1
+title: O sistema de documentos de segurança operacional deve ser validado antes de sua
+text: '5.2.2.1 O sistema de documentos de segurança operacional deve ser validado antes de
+  sua
+
+  implementação, sob condições realistas. A validação deve envolver aspectos críticos do
+
+  uso das informações, a fim de verificar a sua eficácia. As prováveis interações que podem
+
+  ocorrer durante as operações entre diferentes grupos e profissionais também devem ser
+
+  incluídas no processo de validação.
+
+  Exemplo: se o operador aéreo pretender se desviar de recomendações do fabricante da aeronave,
+  é
+
+  recomendável que os procedimentos e listas de verificação sejam previamente validados
+
+  em um simulador de voo. Nos casos de informações críticas, repetidas validações podem
+
+  ser necessárias para teste de todos os cenários operacionais relevantes e todas as possíveis
+
+  alternativas de decisão (ex: lista de verificação de emergência para fogo no motor). Em
+
+  outros casos, pode ser suficiente para a validação a observação de um voo em avião ou
+
+  então a simples conferência dos procedimentos propostos com a legislação e demais
+
+  políticas do operador aéreo.'
+keywords:
+- transporte-aereo
+- operacoes
+- documentos
+- operacional
+- seguranca
+- sistema
+- validacao
+- validado
+- aereo
+- casos
+- informacoes
+- operador
+- podem
+- procedimentos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-010.md

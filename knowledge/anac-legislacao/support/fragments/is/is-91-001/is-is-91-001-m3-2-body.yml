@@ -1,0 +1,38 @@
+id: is-is-91-001-m3-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M3.2
+section_title: O piloto deve manter a linha central da trajetória no segmento RF. Para operações
+  normais, os erros/desvios da trajetória desejada devem ser limitados à metade da precisão
+  de navegação associada ao procedimento (por exemplo, 0,5 NM para um procedimento com precisão
+  de 1 NM).
+subsection_id: body
+cite: M3.2
+title: O piloto deve manter a linha central da trajetória no segmento RF. Para operações normais,
+  os erros/desvios da trajetória desejada devem ser limitados à metade da precisão de navegação
+  associada ao procedimento (por exemplo, 0,5 NM para um procedimento com precisão de 1 NM).
+text: M3.2 O piloto deve manter a linha central da trajetória no segmento RF. Para operações
+  normais, os erros/desvios da trajetória desejada devem ser limitados à metade da precisão
+  de navegação associada ao procedimento (por exemplo, 0,5 NM para um procedimento com precisão
+  de 1 NM).
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- precisao
+- procedimento
+- trajetoria
+- associada
+- central
+- desejada
+- desvios
+- erros
+- exemplo
+- limitados
+- linha
+- manter
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

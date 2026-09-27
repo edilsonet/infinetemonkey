@@ -1,0 +1,34 @@
+id: is-is-91-001-k4-1-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: K4.1
+section_title: 'Navegação lateral (LNAV). Para os propósitos deste Apêndice, procedimentos
+  RNP AR APCH são baseados em equipamentos que automaticamente determinam a posição da aeronave
+  no plano horizontal utilizando informações provenientes da base de dados do sistema FMS
+  e informações provenientes dos seguintes tipos de sensores:'
+subsection_id: b
+cite: K4.1(b)
+title: K4.1(b)
+text: b) INS ou IRS; com atualização de posição automática suportada por sinais de rádio navegação;
+  ou
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- informacoes
+- navegacao
+- posicao
+- provenientes
+- aeronave
+- apch
+- apendice
+- atualizacao
+- automatica
+- automaticamente
+- base
+- baseados
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,217 @@
+id: is-is-21-013-4-body
+kind: is
+document: is-21-013
+family: '21'
+section_id: '4'
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: '4'
+title: DEFINIÇÕES
+text: '4. DEFINIÇÕES
+
+  4.1. GNSS: O GNSS é um sistema global de determinação de posição e tempo (sincronismo),
+
+  que inclui uma ou mais constelações de satélites, receptores de bordo e monitores de
+
+  integridade, bem como os sistemas de aprimoramento de sinal necessários à adequação aos
+
+  requisitos de desempenho de navegação para cada tipo de operação. Alguns dos sistemas
+
+  GNSS conhecidos são o norte-americano GPS, o europeu Galileu, o russo GLONASS, entre
+
+  outros;16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  4.2. Equipamentos GNSS: São equipamentos de navegação por satélite, destinados a satisfazer
+
+  os requisitos de aviação civil de precisão, disponibilidade, continuidade e integridade.
+
+  Equipamentos GNSS podem utilizar ou exigir a presença de altímetro e podem fornecer
+
+  informações de navegação para vários instrumentos compatíveis, tais como CDI, HSI ou
+
+  EHSI, MFD, DV e PA;
+
+  4.3. Equipamentos GNSS Stand alone: São equipamentos GNSS que podem estar em interface
+
+  com sensores de altitude barométrica ou altímetros compatíveis, para correção ou
+
+  compensação, ou para auxiliar na orientação de navegação vertical. Equipamentos GNSS
+
+  stand alone podem estar em interface com CDI, EHSI, HSI, MFD, DV, PA, TAWS, ou
+
+  sistemas ADS-B. Os sensores GNSS stand alone não são integrados com outras fontes de
+
+  navegação ou com um computador de navegação do tipo FMS para geração de um curso que
+
+  utiliza mais de uma fonte de navegação;
+
+  Nota 1: Equipamentos que possuem a função GNSS e outras fontes de navegação (VOR,
+
+  ADF, entre outras) coexistentes no mesmo equipamento, porém não integradas entre si,
+
+  também poderá ser considerado stand alone;
+
+  Nota 2: Sistemas GNSS stand alone são aqueles aprovados em conformidade apenas com a
+
+  TSO-C146 (AR) Classe 1, 2 ou 3 ou ter uma aprovação de classe A1 da TSO-C129 (AR).
+
+  4.4. Sistemas de Navegação Multisensor (Multi-Sensor Navigation System): Este tipo de
+
+  sistema de navegação calcula e exibe uma posição oriunda de uma única ou várias fontes de
+
+  navegação como, por exemplo, GNSS ou GNSS-WAAS, LORAN-C, VOR/DME,
+
+  DME/DME, ou INS/IRS/IRU;
+
+  Nota: Instalações de equipamentos/sensores GNSS integrados em um FMS (não-stand
+
+  alone) não são objetos desta IS.
+
+  4.5. Sistemas de Aprimoramento de Sinal (Augmentation System): O GNSS também pode
+
+  incluir sistemas de aprimoramento de sinal, tais como o SBAS, GBAS e ABAS. Tais
+
+  sistemas minimizaram as limitações de precisão, integridade, disponibilidade e continuidade
+
+  das informações provenientes das constelações básicas de satélites, permitindo operações
+  de
+
+  navegação mais precisas, que podem incluir aproximações de precisão. Um dos sistemas
+
+  SBAS utilizado no Hemisfério Norte é o sistema norte-americano WAAS. É possível a
+
+  instalação de um equipamento GNSS que possua a funcionalidade SBAS/WAAS
+
+  incorporada, porém o SBAS/WAAS não está em operação no Brasil;
+
+  Nota: Esta IS não abrange a funcionalidade de aprimoramento de sinal - Augmentation
+
+  System.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  4.6. Sistemas GNSS Interligados e Não Interligados: no âmbito desta IS, sistemas GNSS não
+
+  interligados são os sistemas GNSS stand alone, não interligados a qualquer instrumento da
+
+  aeronave que esteja relacionado à navegação GNSS, tais como os instrumentos/
+
+  equipamentos de navegação, controle de voo ou outros, como equipamentos EHSI/HSI,
+
+  CDI, RMI, FMS, PA e DV; ou seja, são instalados de forma isolada dos instrumentos,
+
+  equipamentos e sistemas de controle e navegação da aeronave. As instalações que possuem
+
+  interligações apenas com instrumentos dedicados exclusivamente aos equipamentos GNSS
+
+  (por exemplo, um repetidor CDI dedicado ao GNSS, um anunciador também dedicado ao
+
+  GNSS, entre outros), também podem ser consideradas como não interligadas. Os demais
+
+  sistemas GNSS stand alone que possuem interligação com algum instrumento, equipamento
+
+  ou sistema da aeronave que esteja relacionado à navegação GNSS são denominados sistemas
+
+  GNSS interligados;
+
+  4.7. Precisão: É o grau de conformidade entre a informação sobre posição e hora que
+
+  proporciona o sistema de navegação e a posição e hora verdadeiras;
+
+  4.8. Integridade: É a garantia de que todas as funções do sistema de navegação estão dentro
+  dos
+
+  limites de desempenho operacional. É a capacidade do sistema de navegação aérea de
+
+  proporcionar aos usuários avisos oportunos nos casos em que ele não deva ser utilizado;
+
+  4.9. Disponibilidade: É o percentual de tempo em que são utilizáveis as informações providas
+
+  por um sistema de navegação. É uma indicação da capacidade desse sistema em proporcionar
+
+  informações utilizáveis dentro de uma determinada zona de cobertura, bem como do
+
+  percentual de tempo em que se transmitem sinais de navegação, a partir de fontes externas.
+
+  A disponibilidade é função das características físicas do entorno e da capacidade técnica
+  das
+
+  instalações dos transmissores;
+
+  4.10. Continuidade: É a capacidade do sistema em proporcionar informações válidas de
+
+  navegação para a operação pretendida, sem a ocorrência de interrupções não programadas;
+
+  4.11. Funcionalidade: É o conjunto de funções específicas necessárias para cada tipo de
+  operação
+
+  PBN;
+
+  4.12. PBN: O conceito de PBN estabelece que os requisitos do sistema RNAV da aeronave sejam
+
+  definidos em termos de: precisão, integridade, disponibilidade, continuidade e
+
+  funcionalidade. Ele representa a mudança da navegação baseada em sensores para a
+
+  navegação baseada em desempenho;
+
+  4.13. RNAV: O acrônimo RNAV aparece com dois significados distintos nos textos de referência.
+
+  Pode significar sistema ou método de navegação de área, que permite a operação da aeronave
+
+  em qualquer curso desejado dentro de um setor onde haja cobertura de sinal das estações
+  de
+
+  navegação de referência, ou onde exista a capacidade da aeronave navegar somente com
+
+  sistemas embarcados, ou ainda a combinação das duas condições. É também utilizado como
+
+  um designador de um dos tipos de navegação PBN existentes (RNAV e RNP);16-12-2016 IS nº
+  21-013
+
+  Revisão B
+
+  4.14. RNP: É um dos dois tipos de navegação PBN existentes. RNAV e RNP são
+
+  fundamentalmente sistemas similares. A principal diferença entre eles são os requisitos
+  para
+
+  os sistemas a bordo da aeronave referentes ao monitoramento e alerta de desempenho. A
+
+  especificação de navegação que inclui o requisito de monitoramento e alerta de desempenho
+
+  se refere somente a RNP;
+
+  4.15. Erros: Os três principais erros no contexto PBN são Path Definion Error (PDE), Flight
+
+  Technical Error (FTE) e Navigation System Error (NSE). A distribuição destes erros é
+
+  assumida como sendo independente, de média zero e Gaussiana. Portanto, a distribuição do
+
+  erro total do sistema, Total System Error (TSE), é também gaussiana, com desvio padrão
+
+  igual à raiz quadrada da soma do quadrado dos desvios padrão destes três erros:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- navegacao
+- gnss
+- sistemas
+- sistema
+- equipamentos
+- alone
+- stand
+- aeronave
+- podem
+- capacidade
+- desempenho
+- disponibilidade
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

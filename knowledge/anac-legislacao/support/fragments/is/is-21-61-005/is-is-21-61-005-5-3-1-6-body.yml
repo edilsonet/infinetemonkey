@@ -1,0 +1,60 @@
+id: is-is-21-61-005-5-3-1-6-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.1.6
+section_title: The simultaneous application of two MMEL items is prohibited when one is used
+  as a mitigation means to justify the other.
+subsection_id: body
+cite: 5.3.1.6
+title: The simultaneous application of two MMEL items is prohibited when one is used as a
+  mitigation means to justify the other.
+text: '5.3.1.6 The simultaneous application of two MMEL items is prohibited when one is used
+  as a mitigation means to justify the other.
+
+  5.3.1.7 Todos os itens não incluídos na MMEL devem estar operacionais, a menos que sejam
+  considerados itens não relacionados à segurança operacional. Tais itens não precisam ser
+  incluídos na MMEL, a menos que assim deseje o requerente.
+
+  5.3.1.7 All items not included in the MMEL are required to be operative unless they are
+  considered to be non-safety-related items. Such items need not be included in the MMEL,
+  unless so desired by the applicant.
+
+  5.3.1.8 Itens não relacionados à segurança operacional incluem aqueles itens relacionados
+  à conveniência, conforto ou entretenimento dos passageiros e também equipamentos que são
+  usados somente em solo para fins de manutenção. Conveniência, conforto ou entretenimento
+  dos passageiros podem incluir itens como equipamentos de cozinha, sistemas de entretenimento,
+  banheiros, luzes de leitura, etc. Itens como estes são normalmente incluídos em outro documento,
+  chamado Lista de Equipamentos e Acessórios Não Essenciais (Nonessential Equipment and Furnishings
+  - NEF). Para aeronaves a serem operadas no Brasil, consulte a IS 118-001 “Lista de equipamentos
+  e acessórios de aeronave considerados não essenciais”.
+
+  5.3.1.8 Non-safety-related items include those items related to the convenience, comfort,
+  or entertainment of passengers and also equipment that is used only on ground for maintenance
+  purpose. Convenience, comfort, or entertainment of the passengers may include items such
+  as galley equipment, entertainment systems, toilets, reading lights, etc. Such items are
+  typically included in another document, called the Nonessential Equipment and Furnishings
+  - NEF List. For aircraft to be operated in Brazil, refer to IS 118-001 “List of aircraft
+  equipment and furnishings considered non-essential”.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- items
+- mmel
+- equipment
+- equipamentos
+- used
+- application
+- entertainment
+- entretenimento
+- furnishings
+- included
+- incluidos
+- justify
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

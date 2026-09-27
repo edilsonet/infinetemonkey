@@ -1,0 +1,43 @@
+id: rbac-rbac-120-aprovacao-body
+kind: rbac
+document: rbac-120
+family: '120'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 190, de 31.05.2011
+
+  Resolução nº 273, de 29.05.2013
+
+  Resolução nº 326, de 10.06.2014
+
+  Resolução nº 605, de 11.02.2021
+
+  Resolução nº 737, de 09.02.2024
+
+  Superintendência de Padrões Operacionais - SPO
+
+  Data de Emissão:
+
+  15.02.2024
+
+  01.03.2024'
+keywords:
+- antidrogas
+- saude
+- resolucao
+- aprovacao
+- data
+- emissao
+- operacionais
+- padroes
+- superintendencia
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-120.md

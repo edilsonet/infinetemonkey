@@ -1,0 +1,146 @@
+id: is-is-91-002-5-body
+kind: is
+document: is-91-002
+family: '91'
+section_id: '5'
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: '5'
+title: DEFINIÇÕES
+text: '5. DEFINIÇÕES
+
+  5.1 No escopo da presente Instrução Suplementar, são válidas todas as definições contidas
+  no
+
+  5.2 Aplicativos Tipo A. São aplicativos que podem substituir material impresso,
+
+  desenvolvidos originalmente ao planejamento do voo, utilizáveis no solo ou durantes as
+
+  fases não críticas do voo. Normalmente disponibilizam informações estáticas. Exemplos
+
+  de aplicativos Tipo A são listados no Apêndice A.
+
+  5.3 Aplicativos Tipo B. São aplicativos que podem substituir material impresso, capazes
+  de
+
+  disponibilizar informações aeronáuticas aos tripulantes nos postos de pilotagem.
+
+  Destinam-se ao planejamento do voo e podem ser utilizados em todas as fases do voo.
+
+  Disponibilizam informações estáticas e interativas. Exemplos de aplicativos Tipo B são
+
+  listados no Apêndice A.
+
+  5.4 Aplicativos Tipo C. São aplicativos aprovados pela autoridade aeronáutica com base na
+
+  instrução RTCA/DO-178-B ou outro meio aceitável. São integrados com os sistemas
+
+  aviônicos da aeronave, possuem capacidade de comunicação, navegação ou
+
+  monitoramento que requerem certificação e aprovação de instalação. São aplicativos
+
+  destinados a todas as fases do voo e a indisponibilidade do aplicativo deve ser considerada
+
+  uma situação crítica.
+
+  5.5 Computador Portátil. Computador pessoal disponível comercialmente, não
+
+  necessariamente desenvolvido para fins aeronáuticos, dispensa certificação e programa
+
+  de manutenção específica.
+
+  5.6 Dispositivo Eletrônico Portátil (PED). Referência na seção 91.21 do RBHA 91.
+
+  5.7 Electronic Chart Display (ECD). Dispositivo cuja funcionalidade permite a visualização
+
+  de informações aeronáuticas equivalentes às cartas aeronáuticas. De acordo com o
+
+  capítulo 20 do Anexo 4 à Convenção de Aviação Civil Internacional, ECD podem ser
+
+  dispositivos portáteis ou instalados na aeronave.
+
+  5.8 Electronic Flight Bag. É um sistema (hardware + software) desenvolvido para uso em
+
+  solo ou em voo que possibilita aos pilotos o armazenamento e a visualização de
+
+  documentos em formato digital assim como a utilização de aplicativos direcionados à
+
+  operação da aeronave e/ou planejamento do voo.Origem: SPO 3/10
+
+  Data de emissão: 28 de junho de 2019 IS nº 91-002
+
+  Revisão D
+
+  5.9 Electronic Flight Bag Classe 1. Computador pessoal disponível comercialmente,
+
+  considerado um PED. Não possui projeto ou instalação certificada pela autoridade
+
+  aeronáutica. Não são instalados na aeronave e não realizam troca de dados com os
+
+  sistemas da aeronave. Possuem alimentação por meio de bateria própria, podendo ser
+
+  conectados à aeronave para recarga. Os EFB Classe 1 quando utilizados com aplicativos
+
+  Tipo B devem ser fixados apropriadamente de modo que não interfiram nos comandos da
+
+  aeronave e estejam visíveis em todas as fases do voo.
+
+  5.10 Electronic Flight Bag Classe 2. Computador pessoal disponível comercialmente,
+
+  considerado um PED. Os EFB Classe 2 são fixados na aeronave, porém não possuem
+
+  projeto ou instalação certificada pela autoridade aeronáutica. Os tripulantes devem ser
+
+  capazes de remover ou fixar a sua base com facilidade. Possuem alimentação por meio
+
+  de bateria própria, podendo ser conectados à aeronave para recarga. Os EFB Classe 2
+
+  podem ser conectados à fonte de alimentação da aeronave, portas de dados ou ter antenas
+
+  instaladas, desde que tais conexões atendam aos critérios estabelecidos na AC 20-173
+
+  da Federal Aviation Administration (FAA) dos EUA. (Os componentes dos EFB Classe
+
+  2 portáteis não são considerados incorporados à aeronave e não necessitam de TC ou
+
+  STC).
+
+  5.11 Electronic Flight Bag Classe 3. Dispositivo integrado à aeronave que requer certificação
+
+  da autoridade, conforme AC-20-173 da Federal Aviation Administration (FAA) dos EUA.
+
+  5.12 Fases críticas do voo. São as fases nas quais a carga de trabalho e o nível de atenção
+
+  requerido são notadamente elevados. Incluem as operações de táxi, procedimentos de
+
+  decolagens e aproximações e sempre que a aeronave estiver abaixo de 10.000 pés de
+
+  altura.
+
+  5.13 Informação estática. Informação disponibilizada pelo EFB que não é processada
+
+  internamente, sendo o resultado de leitura de dados previamente inseridos.
+
+  5.14 Informação interativa. Informação resultante do processamento de informações
+
+  disponibilizadas ou inseridas no software.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- aplicativos
+- classe
+- fases
+- tipo
+- electronic
+- informacoes
+- podem
+- autoridade
+- computador
+- definicoes
+- flight
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-002.md

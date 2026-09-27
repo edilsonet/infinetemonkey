@@ -1,0 +1,96 @@
+id: is-is-23-002-5-8-1-body
+kind: is
+document: is-23-002
+family: '23'
+section_id: 5.8.1
+section_title: Deve haver saídas de emergência acessíveis, de acordo com a base de certificação
+  original do avião ou de acordo com as regras operacionais aplicáveis.
+subsection_id: body
+cite: 5.8.1
+title: Deve haver saídas de emergência acessíveis, de acordo com a base de certificação original
+  do avião ou de acordo com as regras operacionais aplicáveis.
+text: '5.8.1 Deve haver saídas de emergência acessíveis, de acordo com a base de certificação
+  original do avião ou de acordo com as regras operacionais aplicáveis.
+
+  5.8.2 O RBAC 135.87(c) (7) requer que a tripulação de uma aeronave tenha acesso a pelo menos
+  uma saída de emergência ou a uma saída normal. No caso de um impacto contra o solo (crash
+  landing) sempre há a possibilidade da saída de um lado estar impossibilitada de ser utilizada
+  devido à existência de um fogo externo daquele lado da aeronave ou pelo fato da fuselagem
+  ter rolado sobre aquele lado. Por esta razão, apesar do RBAC 135.87(c) (7) requerer apenas
+  uma saída para toda a aeronave, é recomendada a instalação de uma machadinha acessível aos
+  tripulantes e, em adição, é fortemente recomendado que haja pelo menos uma saída adicional,
+  de emergência ou normal, acessível aos tripulantes, instalada do lado oposto ao da saída
+  existente.
+
+  5.8.3 Quando são utilizadas saídas de emergência ao invés das saídas localizadas na cabine
+  de pilotagem, devem ser impostas limitações de carregamento ou o projeto deve prever meios
+  que assegurem que os acessos às saídas não estejam comprometidos por um carregamento inadequado
+  ou por uma movimentação da carga.
+
+  5.8.4 Se além dos tripulantes, for transportado um número limitado de outras pessoas tais
+  como seguranças da empresa ou da empresa cujo produto está sendo transportado, deve haver
+  saídas de emergência disponíveis, de acordo com a base de certificação adotada.
+
+  5.9 VENTILAÇÃO
+
+  5.9.1 Deve haver meios e deve ser desenvolvido um procedimento para eliminar quantidades
+  perigosas de fumaça, de agentes extintores ou de gases tóxicos de todo compartimento ocupado
+  por tripulantes ou por outras pessoas.
+
+  5.9.2 Informações referentes à detecção, penetração, ensaios de evacuação de fumaça e relativas
+  aos procedimentos de emergência a serem inseridos no suplemento ao manual de voo da aeronave,
+  podem ser obtidas na AC 25-9, emitida pela FAA-USA.
+
+  5.9.3 É recomendável que uma aeronave com compartimento de carga Classe A, B, ou E esteja
+  equipada com equipamento portátil de oxigênio com óculos contra fumaça ou com máscaras do
+  tipo full-face, ou com um equipamento portátil de proteção de respiração (Protective Breathing
+  Equipment - PBE), para cada ocupante, de acordo com o RBAC/14 CFR Part 25.1439.
+
+  5.10 AERONAVES DE PEQUENO PORTE
+
+  5.10.1 As aeronaves de pequeno porte com motores a pistão, monomotoras (similares aos aviões
+  Piper modelos PA-32 série, Neiva modelos EMB-720 e EMB-721 séries, Cessna modelos 210 série,
+  Beech/Raytheon modelos 35 série), mas não exclusivamente estes aviões e bimotoras (similares
+  aos aviões Piper modelos PA-34 série, Neiva modelos EMB-810 série, Cessna modelos 310 série,
+  Beech/Raytheon modelos 95 série), mas não exclusivamente estes aviões, nas quais a carga
+  será fixada por meio de rede aprovada pela autoridade aeronáutica, é recomendável a instalação
+  de:
+
+  Extintor de incêndio adicional de acordo com a AC 20-42 emitida pela FAA-USA; e
+
+  Equipamento portátil de oxigênio com óculos contra fumaça ou com máscaras do tipo full-face,
+  ou com um equipamento portátil de proteção de respiração (PBE), para cada ocupante, de acordo
+  com o RBAC/14 CFR Part 25.1439.
+
+  5.11 PROCEDIMENTOS E LIMITAÇÕES
+
+  5.11.1 As informações de carregamento e as limitações operacionais devem conter as instruções
+  para obter acesso às saídas de emergência e para combater um fogo no compartimento de carga,
+  assim como as instruções de pesagem e balanceamento.
+
+  5.11.2 Deve ser elaborado um suplemento ao manual de voo com as limitações, condições e
+  procedimentos que serão acrescentados ou modificados em consequência da aeronave ser modificada
+  para transporte de carga.
+
+  5.11.3 As instruções de aeronavegabilidade continuada podem ser incluídas no suplemento
+  ao manual de vôo, em um suplemento ao manual de manutenção, ou em outro documento específico.'
+keywords:
+- aeronavegabilidade
+- aeronaves-pequenas
+- acordo
+- emergencia
+- modelos
+- saidas
+- serie
+- aeronave
+- saida
+- carga
+- haver
+- avioes
+- base
+- certificacao
+categories:
+- aeronavegabilidade
+- aeronaves-pequenas
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-23-002.md

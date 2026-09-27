@@ -1,0 +1,54 @@
+id: is-is-60-001-disposicoes-gerais-body
+kind: is
+document: is-60-001
+family: '60'
+section_id: disposicoes-gerais
+section_title: disposições gerais
+subsection_id: body
+cite: disposicoes-gerais
+title: disposições gerais
+text: 'disposições gerais
+
+  5.1 Esta Instrução Suplementar (IS), emitida conforme o previsto na Resolução nº 30, de
+  21 de maio de 2008, se aplica aos operadores de FSTD, definidos no RBAC 60.7.
+
+  5.2 Esta IS contém instruções para um operador de FSTD implantar e manter um sistema de
+  gerenciamento da qualidade, com o objetivo de monitorar e analisar continuamente a capacidade
+  do operador em disponibilizar um FSTD satisfatório para uso frequente.
+
+  cONCEITOS DO QMS
+
+  6.1 O objetivo de um operador de FSTD implantar um sistema de gerenciamento da qualidade
+  de FSTD é garantir que esse operador desenvolva ferramentas próprias para que ele mesmo
+  possa garantir o cumprimento contínuo dos requisitos de qualificação de seus FSTDs. Dessa
+  forma, espera-se que, após a conclusão da qualificação inicial de um FSTD, o operador será
+  capaz de manter seu desempenho original durante todo o período em que ele continuar qualificado
+  pela ANAC.
+
+  6.2 O sistema de gerenciamento da qualidade (QMS) para FSTD é, portanto, um conjunto de
+  atividades coordenadas para orientar e controlar as ações de um operador a fim de fornecer
+  um FSTD satisfatório para uso regular. O maior benefício do QMS é definir os processos,
+  que resultarão na entrega de um simulador que atende aos requisitos de qualificação para
+  fornecer treinamento, verificações de proficiência e experiência de voo da tripulação.
+
+  6.3 Os elementos básicos de um QMS são:'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- operador
+- disposicoes
+- gerais
+- gerenciamento
+- qualidade
+- qualificacao
+- sistema
+- fornecer
+- garantir
+- implantar
+- manter
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

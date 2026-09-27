@@ -1,0 +1,50 @@
+id: is-is-91-001-l3-3-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: L3.3
+section_title: Altura mínima para navegação lateral
+subsection_id: b
+cite: L3.3(b)
+title: L3.3(b)
+text: 'b) Caso a aeronave não possua funcionalidade para acoplar o LNAV em solo ou atender
+  ao item L3.3 a) desta IS, pode ser aprovado um meio de realizar o acoplamento manual, no
+  limite de até 400 ft, por meio de procedimentos e treinamentos para pilotos. Esses procedimentos
+  e treinamentos devem garantir que cada piloto aciona o sistema RNP em seu lado na cabine
+  de comando, assim como o piloto automático ou o diretor de voo (flight director), em tempo
+  para cumprir com a trajetória de um procedimento RNP AR DP quando esse procedimento inclui
+  uma curva (RF leg) próxima ao início da decolagem. A posição ou o momento em que o piloto
+  acopla o LNAV e o piloto automático ou diretor de voo deve ainda cumprir com quaisquer limitações
+  previstas em AFM ou seus suplementos. Isso é necessário para garantir que o sistema RNP
+  da aeronave possa conduzir uma computação antecipada da curva e prover direcionamento de
+  voo para o piloto automático para permitir o início da curva (RF leg) e sua continuidade
+  no caso de curvas próximas ao início da decolagem.
+
+  Nota: dependendo das características do procedimento RNP AR DP (ex: curva próxima ao DER)
+  e da aeronave, exigir o acoplamento do piloto automático antes da primeira curva pode aumentar
+  a carga de trabalho dos pilotos, assim como dificultar a manutenção da trajetória requerida.
+  Dessa forma, o operador deve avaliar se o uso somente do diretor de voo é vantajoso, ou
+  seja, permite a manutenção da trajetória com menos carga de trabalho para os pilotos. Essa
+  avaliação deve incluir situações de contingência, e deve fazer parte do FOSA. Determinada
+  a opção mais vantajosa, o uso do diretor de voo ou o uso do piloto automático deve ser definido
+  como padrão para a operação RNP AR DP.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- piloto
+- automatico
+- curva
+- diretor
+- aeronave
+- inicio
+- pilotos
+- procedimento
+- trajetoria
+- acoplamento
+- assim
+- carga
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,108 @@
+id: is-is-145-214-001-apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen-i
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen
+section_title: APÊNDICE D - CRITÉRIOS E RECOMENDAÇÕES PARA DEFINIÇÃO E IMPLEMEN-
+subsection_id: i
+cite: apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen(i)
+title: apendice-d-criterios-e-recomendacoes-para-definicao-e-implemen(i)
+text: 'i) Finalmente é importante salientar que mais do que melhorar processos setoriais e
+  apri-
+
+  morar aquele indicadores, o que se espera é uma melhoria global da gestão da segurança
+
+  operacional e da segurança em si.
+
+  Passo 7 - Avaliação da eficácia dos indicadores (IDSO).
+
+  Os IDSO, incluindo as métricas e metas definidas, devem ser periodicamente analisados,
+
+  avaliados e adequados, considerando:
+
+  - A experiência adquirida;
+
+  - Novas questões de segurança identificadas;
+
+  - Alterações na natureza dos riscos;
+
+  - Mudanças na política de segurança, objetivos ou prioridades identificadas;
+
+  - Mudanças na regulamentação aplicável;
+
+  - Reformulação de processos;
+
+  - Mudanças organizacionais, dentre outras.
+
+  O ciclo de revisão (periodicidade) deve ser definido e documentado. Revisões periódicas
+
+  ajudam a garantir que os indicadores continuam adequados para fornecer as informações
+
+  necessárias para conduzir e monitorar o desempenho de segurança. Isso também auxilia a
+
+  identificar quando um indicador “de direcionamento” específico não é mais necessário (por
+
+  exemplo, porque as mudanças positivas pretendidas foram alcançadas) e permite focar os
+
+  IDSO sempre nas questões mais importantes relacionadas à segurança operacional.Data de emissão:
+  8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Após os dois ou três primeiros ciclos de revisão, o PSAC deve ter recolhido dados suficientes
+
+  e adquirido experiência necessária, a ponto de ser capaz de identificar quais são os seus
+
+  IDSO chaves, ou seja, aqueles que são mais relevantes e eficazes para aprimorar o desem-
+
+  penho da segurança operacional. Nesta fase é possível estabelecer novas metas para esses
+
+  IDSO chaves extrapolando os dados coletados durante os ciclos anteriores. Essas projeções
+
+  precisam considerar a "dinâmica" da organização. Pode também ser comparado o conjunto
+
+  de IDSO adotado pelo PSAC, com aqueles implementados por outras organizações dentro
+
+  de seu segmento, mas nunca será possível simplesmente copiar os IDSO sem verificar a
+
+  aderência com a política, objetivos, processos etc..
+
+  D3.6. Exemplos de indicadores para uso em OM certificadas segundo RBAC 145
+
+  D3.6.1. No presente tópico, são apresentadas algumas sugestões de indicadores. É sempre
+  bom res-
+
+  saltar que os indicadores são definidos em função de algo que se quer medir. A tabela a
+
+  seguir destina-se apenas a apresentar algumas ideias, não devendo de maneira nenhuma ser
+
+  adotada diretamente.
+
+  D3.6.2. Outro ponto importante já foi comentado no passo - 6, e refere-se ao fato de que
+  não é pos-
+
+  sível atuar de forma proativa, utilizando indicadores que meçam diretamente acidentes e
+
+  incidentes, ou seja indicadores reativos. Indicadores proativos são em geral medidas indire-
+
+  tas e de correlações pouco objetivas. Como exemplos podem ser citados:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- indicadores
+- idso
+- seguranca
+- mudancas
+- operacional
+- processos
+- revisao
+- adequados
+- algumas
+- apendice
+- aqueles
+- chaves
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

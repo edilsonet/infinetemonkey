@@ -1,0 +1,35 @@
+id: is-is-119-008-5-5-4-c
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.5.4
+section_title: Restrição ao uso de dados de CVR, CARS, AIR e AIRS
+subsection_id: c
+cite: 5.5.4(c)
+title: 5.5.4(c)
+text: 'c) Utilizados para inspeção do funcionamento dos equipamentos de gravação.
+
+  5.5.4.2 Os registros e transcrições de FDR, ADRS, AIR classes B e C e AIRS classes B e C
+  não podem ser utilizados para propósitos que não sejam de investigação de acidentes e incidentes,
+  conforme dispositivos estabelecidos pelo CENIPA, exceto quando esses registros e transcrições
+  estiverem sob a proteção de informações previstas nesta IS e forem:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- airs
+- classes
+- registros
+- transcricoes
+- utilizados
+- acidentes
+- adrs
+- cars
+- cenipa
+- dados
+- dispositivos
+- equipamentos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

@@ -1,0 +1,63 @@
+id: is-is-145-163-001-definicoes-b
+kind: is
+document: is-145-163-001
+family: '145'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: b
+cite: definicoes(b)
+title: definicoes(b)
+text: 'b) operação que estabelece, numa primeira etapa e sob condições especificadas, uma
+  relação entre os valores e as incertezas de medição fornecidas por padrões e as indicações
+  correspondentes com as incertezas associadas; numa segunda etapa, utiliza esta informação
+  para estabelecer uma relação visando a obtenção de um resultado de medição a partir de uma
+  indicação.
+
+  Certificação em END: uma declaração escrita pela OM que uma pessoa qualificada em END atende
+  ao estabelecido em seu programa de treinamento aprovado pela ANAC.
+
+  NOTA - em lugar do termo “certificação”, a ANAC utiliza o termo “autorização”. Portanto,
+  a pessoa “certificada” em certo Nível (pelas normas de qualificação e certificação) é a
+  pessoa “autorizada” por uma OM para a execução de END.
+
+  Critério de aceitação/rejeição: parâmetro estabelecido em norma ou procedimento específico,
+  qualificando e/ou quantificando uma indicação, utilizado na decisão em aceitar ou rejeitar
+  um artigo, como resultado de uma inspeção por END.
+
+  Documentação (geral): registro escrito, impresso ou informação eletrônica que fornece uma
+  evidência.
+
+  Documentos de Serviço: documento emitido pelo detentor do projeto de tipo do produto aeronáutico
+  (aeronave, motor, hélice, equipamento ou componente), que fornece métodos, técnicas e práticas
+  aceitáveis para a execução de manutenção, manutenção preventiva e alterações. Esses documentos
+  incluem, mas não estão limitados a, ICA (Instruções de Aeronavegabilidade Continuada), manuais
+  de manutenção (inclusive de componentes), boletins de serviço, manuais de reparos estruturais,
+  cartas de serviço, etc..
+
+  Ensaio Não Destrutivo - END: teste, inspeção, exame ou avaliação que pode ser aplicado a
+  um artigo para determinar a integridade, composição, dimensões, propriedades elétricas ou
+  térmicas, por uma técnica que não afete a utilização futura do mesmo, ou seja, sem causar
+  mudanças em quaisquer destas características. Nondestructive Inspection - NDI, Nondestructive
+  Testing - NDT e Nondestructive Evaluation - NDE possuem o mesmo significado.
+
+  Exame: documento controlado, conduzido em conformidade com um procedimento definido no programa
+  de treinamento da OM, com a finalidade de avaliar algo ou alguém.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- certificacao
+- nondestructive
+- pessoa
+- servico
+- artigo
+- definicoes
+- documento
+- documentos
+- estabelecido
+- etapa
+- exame
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-163-001.md

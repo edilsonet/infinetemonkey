@@ -1,0 +1,49 @@
+id: is-is-121-001-5-2-5-1-g
+kind: is
+document: is-121-001
+family: '121'
+section_id: 5.2.5.1
+section_title: 'O guia de rota deve ser aprovado em qualquer uma das condições abaixo:'
+subsection_id: g
+cite: 5.2.5.1(g)
+title: 5.2.5.1(g)
+text: 'g) quando houver alteração do conjunto de informações disponibilizadas para cada aeródromo,
+  rota ou área.
+
+  5.2.5.2 O envio do guia de rota para análise da ANAC e as iterações do processo de aceitação
+  seguem, de forma geral, os procedimentos previstos na IS nº 119-001.
+
+  5.2.5.3 Para abertura do processo de análise do guia de rota, o operador deve protocolar
+  um FOP 107. Exceto para a revisão original, o operador deve descrever no FOP 107 todas as
+  modificações realizadas na revisão.
+
+  5.2.5.4 Durante um processo de análise do guia de rota, o operador deve enviar suas respostas
+  a não-conformidades identificadas pela ANAC por meio de FOP 125. O FOP 125 deve descrever
+  as modificações realizadas na versão do manual, em relação à versão anteriormente analisada,
+  sejam modificações motivadas por não-conformidade identificada pela ANAC, sejam modificações
+  incluídas a critério do operador.
+
+  5.2.5.5 O FOP 111 de aprovação do guia de rota deverá mencionar, no campo de “revisão”,
+  apenas o campo referente à revisão aprovada do manual (“N1” no item 5.2.2 desta IS), explicitando
+  que aquela aprovação permanece válida qualquer que seja a revisão dos conteúdos que não
+  requerem nova aprovação do guia de rota (“N2” no item 5.2.2 desta IS).'
+keywords:
+- transporte-aereo
+- operacoes
+- rota
+- guia
+- revisao
+- modificacoes
+- operador
+- analise
+- aprovacao
+- processo
+- campo
+- descrever
+- desta
+- manual
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

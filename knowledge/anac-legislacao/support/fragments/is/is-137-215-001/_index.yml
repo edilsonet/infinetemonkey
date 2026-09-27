@@ -1,0 +1,66 @@
+document: is-137-215-001
+kind: is
+title: IS 137.215-001A
+ementa: Orientações para o gerenciamento do risco das operações aeroagrícolas sob o RBAC nº
+  137 Em vigor em 2 de outubro de 2023
+family: '137'
+categories:
+- aeroagricola
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-137-215-001
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-137-215-001
+language: pt
+foreign_annex: false
+sections:
+- 5.1.4
+- 5.1.5
+- 5.3.1
+- 5.3.6
+- 5.3.9
+- 5.4.6
+- apendice-a-controle-de-alteracoes
+- apendices
+- aprovacao
+- definicoes
+- desenvolvimento-do-assunto
+- disposicoes-finais
+- fundamentos
+- objetivo
+- preambulo
+- revogacao
+fragment_count: 32
+fragment_ids:
+- is-is-137-215-001-preambulo-body
+- is-is-137-215-001-aprovacao-body
+- is-is-137-215-001-objetivo-body
+- is-is-137-215-001-revogacao-body
+- is-is-137-215-001-fundamentos-body
+- is-is-137-215-001-fundamentos-a
+- is-is-137-215-001-fundamentos-b
+- is-is-137-215-001-definicoes-body
+- is-is-137-215-001-desenvolvimento-do-assunto-body
+- is-is-137-215-001-5-1-4-body
+- is-is-137-215-001-5-1-4-a
+- is-is-137-215-001-5-1-4-b
+- is-is-137-215-001-5-1-4-c
+- is-is-137-215-001-5-1-5-body
+- is-is-137-215-001-5-1-5-a
+- is-is-137-215-001-5-1-5-b
+- is-is-137-215-001-5-1-5-c
+- is-is-137-215-001-5-3-1-body
+- is-is-137-215-001-5-3-6-body
+- is-is-137-215-001-5-3-6-a
+- is-is-137-215-001-5-3-6-b
+- is-is-137-215-001-5-3-6-c
+- is-is-137-215-001-5-3-9-body
+- is-is-137-215-001-5-3-9-a
+- is-is-137-215-001-5-3-9-b
+- is-is-137-215-001-5-3-9-c
+- is-is-137-215-001-5-3-9-d
+- is-is-137-215-001-5-3-9-e
+- is-is-137-215-001-5-4-6-body
+- is-is-137-215-001-apendices-body
+- is-is-137-215-001-disposicoes-finais-body
+- is-is-137-215-001-apendice-a-controle-de-alteracoes-body
+parser_version: 7

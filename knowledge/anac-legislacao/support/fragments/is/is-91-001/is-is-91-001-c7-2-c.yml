@@ -1,0 +1,40 @@
+id: is-is-91-001-c7-2-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: C7.2
+section_title: 'Ao planejar operações em áreas onde o RNAV 10 é aplicado, o operador deve
+  avaliar o efeito dos ventos (em particular, o efeito dos ventos de proa). O operador pode
+  optar por realizar esta avaliação uma única vez para a rota pretendida ou realizar avaliações
+  para cada voo realizado. Ao realizar a avaliação mencionada o operador deve considerar os
+  aspectos destacados abaixo:'
+subsection_id: c
+cite: C7.2(c)
+title: C7.2(c)
+text: 'c) ponto de término para o cálculo: o ponto final deve ser um dos seguintes:
+
+  i. o ponto em que a aeronave começa a navegar tendo como referência auxílios convencionais
+  à navegação (VOR, DME, NDB) e/ou o ponto em que a aeronave ingressa na zona de cobertura
+  do radar do controle de tráfego aéreo; ou
+
+  ii. o primeiro ponto em que é esperada a atualização do sistema de navegação;'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- ponto
+- operador
+- realizar
+- aeronave
+- avaliacao
+- efeito
+- navegacao
+- ventos
+- abaixo
+- aereo
+- aplicado
+- areas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

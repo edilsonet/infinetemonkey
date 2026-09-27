@@ -1,0 +1,40 @@
+id: is-is-145-009-aprovacao-f
+kind: is
+document: is-145-009
+family: '145'
+section_id: aprovacao
+section_title: Aprovação
+subsection_id: f
+cite: aprovacao(f)
+title: aprovacao(f)
+text: 'f) Análise do Modelo 3
+
+  I- Este formato é frequentemente usado para procedimentos incluídos em documentos do sistema
+  de qualidade ISO 9000. Nota-se que estão previstos campos para documentar aprovação e liberação
+  do documento (parte de um sistema de controle de documento) e os termos utilizados dentro
+  do procedimento são definidos. Documentos adicionais associados com este procedimento estão
+  listados. O formato é estruturado em algumas organizações. O procedimento segue um padrão
+  de sistema de numeração para cada parte do procedimento, permitindo referência precisa para
+  parágrafos que possam ser discutidos ou revisados. As instruções de trabalho e registros
+  podem seguir a mesma convenção numérica (Exemplo: Procedimento de Qualidade 4.12, Instrução
+  de Trabalho 4.12 e Formulário 4.12).'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- procedimento
+- aprovacao
+- sistema
+- documento
+- documentos
+- estao
+- formato
+- parte
+- qualidade
+- trabalho
+- adicionais
+- algumas
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

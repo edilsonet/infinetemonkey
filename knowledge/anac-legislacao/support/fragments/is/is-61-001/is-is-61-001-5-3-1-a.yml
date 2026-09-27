@@ -1,0 +1,43 @@
+id: is-is-61-001-5-3-1-a
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.3.1
+section_title: 'Cada linha da tabela “Lançamento de Horas”, localizada na parte inferior da
+  tela da Figura 2 pode possuir os seguintes status:'
+subsection_id: a
+cite: 5.3.1(a)
+title: 5.3.1(a)
+text: 'a) RASCUNHO: registro de voo preenchido, mas pendente de confirmação. As horas de voo
+  com status RASCUNHO não são contabilizadas para o piloto e não geram nenhum direito ou obrigação
+  perante a ANAC. Caso constate algum erro e deseje apagar ou refazer aquele registro, por
+  meio do botão “excluir” (localizado à direita da linha) pode apagar definitivamente o registro.
+  Caso entenda que o registro esteja correto e deseje computá-lo permanente e definitivamente,
+  deve utilizar o botão “enviar”, quando o registro passará então para o status CADASTRADO.
+  Uma vez enviado o registro (status CADASTRADO), caso a ANAC constate informações ou dados
+  inexatos ou adulterados, fica-se sujeito às providências administrativas previstas na Lei
+  nº 7.565/86 - Código Brasileiro de Aeronáutica (CBA) ou na legislação complementar, além
+  das sanções penais e civis cabíveis, uma vez que tal fato poderá comprometer a segurança
+  de voo;'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- registro
+- status
+- caso
+- apagar
+- botao
+- cadastrado
+- constate
+- definitivamente
+- deseje
+- horas
+- linha
+- pode
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

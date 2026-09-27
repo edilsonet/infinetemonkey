@@ -1,0 +1,44 @@
+id: is-is-119-002-apendice-k-criterio-para-afericao-da-complexidade-do-5ed9f8-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: apendice-k-criterio-para-afericao-da-complexidade-do-5ed9f8
+section_title: APÊNDICE K - CRITÉRIO PARA AFERIÇÃO DA COMPLEXIDADE DO OPERADOR
+subsection_id: body
+cite: apendice-k-criterio-para-afericao-da-complexidade-do-5ed9f8
+title: APÊNDICE K - CRITÉRIO PARA AFERIÇÃO DA COMPLEXIDADE DO OPERADOR
+text: 'APÊNDICE K - CRITÉRIO PARA AFERIÇÃO DA COMPLEXIDADE DO OPERADOR
+
+  PARA OS PROPÓSITOS DA IMPLANTAÇÃO E MANUTENÇÃO DO SGSO
+
+  K1 Este Apêndice estabelece parâmetros que permitem aferir a complexidade das empresas
+
+  que operam segundo o RBAC 135 para os propósitos da implantação e manutenção do
+
+  Sistema de Gerenciamento da Segurança Operacional (SGSO).
+
+  K2 São apresentadas três categorias de complexidade: alta, média e baixa. A aferição da
+
+  complexidade da empresa se dará da seguinte maneira, devendo a empresa iniciar pelo
+
+  item K2.1, abaixo:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- complexidade
+- afericao
+- apendice
+- criterio
+- operador
+- empresa
+- implantacao
+- manutencao
+- propositos
+- sgso
+- abaixo
+- aferir
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

@@ -1,0 +1,32 @@
+id: rbac-rbac-161-aplicabilidade-c
+kind: rbac
+document: rbac-161
+family: '161'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: c
+cite: aplicabilidade(c)
+title: aplicabilidade(c)
+text: '(c)
+
+  Todo aeródromo civil público deve ter obrigatoriamente um PZR que será registrado pela ANAC
+  nos termos deste RBAC.
+
+  (Redação dada pela Resolução nº 609, de 23.02.2021)'
+keywords:
+- aplicabilidade
+- aerodromo
+- civil
+- dada
+- deste
+- obrigatoriamente
+- publico
+- redacao
+- registrado
+- resolucao
+- termos
+- todo
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-161.md

@@ -1,0 +1,90 @@
+id: is-is-145-009-b1-14-m
+kind: is
+document: is-145-009
+family: '145'
+section_id: B1.14
+section_title: Sistema de Inspeção
+subsection_id: m
+cite: B1.14(m)
+title: B1.14(m)
+text: 'm) Calibração de ferramentas/equipamentos/dispositivos de medida e teste.
+
+  I- Quem (por título) é responsável pelo sistema de calibração?
+
+  II- Qual é a base para os intervalos de teste, tais como fabricante, prática padrão da indústria,
+  e outros?
+
+  III- A técnica de calibração é recomendada pelo fabricante ou prática padrão da indústria?
+
+  IV- Como é identificado o equipamento calibrado?
+
+  V- A técnica de calibração é documentada?
+
+  VI- Qual procedimento é usado para alterar os intervalos entre calibrações?
+
+  VII- Os resultados reais de calibração são registrados para justificar alterações nos intervalos
+  entre calibrações?
+
+  VIII- Os procedimentos asseguram que a calibração é rastreável ao INMETRO, fabricante ou
+  a um padrão aceitável pela ANAC?
+
+  IX- Os procedimentos asseguram que o equipamento é removido do serviço e calibrado, quando
+  a calibração estiver vencida?
+
+  X- Os procedimentos incluem o retorno de qualquer produto inspecionado, se foi constatado
+  que o equipamento de medida estava fora de tolerância quando o trabalho foi executado?
+
+  XI- Como é tratado o equipamento que não é submetido à calibração quando vencer, i.e., perdido
+  ou calibração vencida?
+
+  XII- Como é registrada a calibração? Os resultados reais em cada ponto de teste são registrados?
+
+  XIII- Se um equipamento de teste automático é usado, ele é incluído no sistema de calibração?
+
+  XIV- O procedimento descreve as informações que devem constar no adesivo de calibração do
+  equipamento?
+
+  XV- Como é identificado e registrado o equipamento que deve ser calibrado antes de cada
+  utilização?
+
+  XVI- Como é identificado o equipamento que não requer calibração?
+
+  XVII- Os procedimentos tratam da aceitação de novo equipamento de teste de precisão no inventário?
+
+  XVIII- Os procedimentos cobrem a calibração executada por pessoa externa?
+
+  XIX- Os procedimentos cobrem a calibração de ferramentas de propriedade de empregado?
+
+  XX- Quem (por título) é responsável pelos registros de calibração recebidos de pessoa externa?
+
+  XXI- Os procedimentos cobrem requisitos de calibração, padrões, documentação e rastreabilidade
+  de ferramentas, que a organização arrendou de terceiros?
+
+  XXII- Os procedimentos descrevem a análise dos registros da entidade de calibração contratada,
+  quanto à rastreabilidade, precisão e aceitação?
+
+  XXIII- Se a OM incluir um banco de provas de motor ou APU, o MCQ inclui procedimentos para
+  correlação, calibração e limitações, se aplicável?
+
+  XXIV- Se a organização executa END, o manual inclui procedimentos para certificação dos
+  blocos de referência de inspeção de END fabricados pela organização (se algum for usado)?'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- calibracao
+- procedimentos
+- equipamento
+- teste
+- calibrado
+- cobrem
+- fabricante
+- ferramentas
+- identificado
+- intervalos
+- organizacao
+- padrao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

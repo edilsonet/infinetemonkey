@@ -1,0 +1,32 @@
+id: is-is-91-001-4-5-1-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: 4.5.1
+section_title: 'Aeronave:'
+subsection_id: a
+cite: 4.5.1(a)
+title: 4.5.1(a)
+text: 'a) falhas nos sistemas de: navegação, orientação de voo, instrumentos de voo utilizados
+  durante aproximação e aproximação perdida. (Exemplo: perda da atualização de posição pelo
+  GNSS, falhas do receptor, AP indisponível, falha no FMS, etc.);'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aproximacao
+- falhas
+- aeronave
+- atualizacao
+- durante
+- exemplo
+- falha
+- gnss
+- indisponivel
+- instrumentos
+- navegacao
+- orientacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

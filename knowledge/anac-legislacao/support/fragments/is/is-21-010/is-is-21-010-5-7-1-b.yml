@@ -1,0 +1,57 @@
+id: is-is-21-010-5-7-1-b
+kind: is
+document: is-21-010
+family: '21'
+section_id: 5.7.1
+section_title: 'A Design Approval Letter - DAL may be issued when:'
+subsection_id: b
+cite: 5.7.1(b)
+title: 5.7.1(b)
+text: 'b) The ANAC design approval has been requested, for products considered as critical
+  or complex during the validation, type certification or supplemental type certification
+  processes (see paragraph 21.621(d)-I of RBAC 21).
+
+  5.7.2 A carta de aprovação de projeto pode ser emitida se existir um acordo de importação/exportação
+  para estes artigos entre o Brasil e a autoridade do detentor da autorização da TSO/ETSO
+  (ou documento equivalente) ou, caso não haja tal acordo, se a ANAC considerar que os requisitos
+  utilizados nesse país se equivalem ou superem os requisitos de desempenho estabelecidos
+  na OTP aplicável, e ainda que o artigo seja produzido segundo um sistema da qualidade similar
+  aos estabelecidos na seção 21.137 do RBAC 21.
+
+  5.7.2 The Design Approval Letter may be issued if there is an import/export agreement for
+  those articles between Brazil and the authority of the TSO/ETSO (or equivalent document)
+  holder or, if there is no such agreement, if the ANAC finds that the requirements used in
+  this country are equal to or exceed the performance requirements established in the applicable
+  OTP, and that the article is produced according to a quality system similar to those established
+  in section 21.137 of RBAC 21.
+
+  5.7.3 O fabricante deve preencher o formulário de requerimento F-101-11(disponível em www.anac.gov.br/certificacao),
+  ou elaborar uma carta com as informações solicitadas em tal formulário, e encaminhar à ANAC
+  através da autoridade do Estado de Projeto. O formulário ou a carta deve incluir as seguintes
+  informações:
+
+  5.7.3 The manufacturer must complete the ANAC form F-101-11 (available at https://sistemas.anac.gov.br/certificacao/indexE.asp),
+  or send an application letter with the information required in the form, through the State
+  of Design Authority. The application form or the application letter shall include the following
+  information:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- design
+- letter
+- application
+- approval
+- carta
+- form
+- formulario
+- acordo
+- agreement
+- authority
+- autoridade
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

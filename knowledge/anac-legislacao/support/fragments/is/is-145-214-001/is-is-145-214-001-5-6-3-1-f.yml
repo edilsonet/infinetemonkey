@@ -1,0 +1,124 @@
+id: is-is-145-214-001-5-6-3-1-f
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: 5.6.3.1
+section_title: Elemento 3.1 - Processo de monitoramento e medição do desempenho da segurança
+subsection_id: f
+cite: 5.6.3.1(f)
+title: 5.6.3.1(f)
+text: 'f) Um dos indicadores que compõe o conjunto mencionado na alínea “c” deste parágrafo
+  é
+
+  o Índice de Retrabalho (IR). O IR é o indicador que a OM deverá informar periodicamente
+
+  à ANAC, e a sua definição toma por base as alíneas “d” e “e” do subparágrafo D2.8.4
+
+  (Apêndice D desta IS).
+
+  I- O IR é um aspecto importante em termos de segurança operacional. Em princípio,
+
+  um serviço de retrabalho é uma manutenção destinada a corrigir um problema que
+
+  aconteceu em um artigo que sofreu previamente um serviço de manutenção e que
+
+  teve uma aprovação para retorno ao serviço - APRS. Assim, considera-se que o IR
+
+  pode ser uma indicação de erros ou de falhas de manutenção que poderiam ter
+
+  sido evitados.
+
+  II- O IR consiste no número total de retrabalhos devido a reclamações e devoluções
+
+  do cliente referente aos serviços que tiveram APRS pela própria OM, dividido
+
+  pelo total de APRS no período considerado.
+
+  III- O retrabalho considerado para este indicador consiste apenas no retrabalho após a
+
+  APRS do artigo. Se um serviço de manutenção necessitar de correções que foram
+
+  detectadas durante a inspeção final, tais correções não são consideradas como
+
+  retrabalho para fins do presente indicador, tendo em vista que faz parte do
+
+  processo da empresa realizar a inspeção do serviço, não tendo o artigo ainda
+
+  recebido APRS.
+
+  IV- Fórmula de cálculo: IR = r / APRS * 100%, onde r é o número de retrabalhos
+
+  aferido no mês de referência e APRS é o número de aprovações para retorno ao
+
+  serviço aferido no mesmo período.Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  V- O IR deve estar associado a um objetivo de segurança operacional (conforme
+
+  subparágrafo 5.6.1.1, alínea “d”) e a uma meta de segurança operacional
+
+  (conforme subparágrafo 5.6.1.1, alínea “f”).
+
+  VI- O IR deverá ser calculado mensalmente e os resultados mensais serão
+
+  comunicados à ANAC a cada três meses.
+
+  VII- Os meses de referência para comunicação dos valores mensais do IR para a ANAC
+
+  são: abril (para os meses de janeiro, fevereiro e março), julho (para os meses de
+
+  abril, maio e junho), outubro (para os meses de julho, agosto e setembro) e janeiro
+
+  (para os meses de outubro, novembro e dezembro).
+
+  VIII- O IR deverá ser protocolado e enviado à ANAC até o dia 15 do mês de referência
+
+  para comunicação, em conjunto com os três últimos resultados apurados, caso haja
+
+  retificação nos valores devido a informações tardias dos clientes quanto aos
+
+  retrabalhos.
+
+  IX- Além do IR, a OM deve enviar os valores totais de retrabalho e do número de
+
+  APRS no período. O formato recomendado para a comunicação das informações
+
+  solicitadas é:
+
+  Mês N° de retrabalhos Nº de APRS IR
+
+  X- O acompanhamento do indicador das OM pela ANAC não visa à punição e seus
+
+  valores não serão divulgados de forma individualizada.
+
+  XI- É fortemente recomendável que a OM também acompanhe os processos do
+
+  Sistema de Controle de Qualidade da OM (RBAC 145.211) através de indicadores
+
+  de desempenho. Assim, conhecendo o desempenho dos processos do Sistema de
+
+  Controle de Qualidade, será possível compreender o comportamento ao longo do
+
+  tempo do IR, o que facilitará a tomada de decisões sobre eventuais ações
+
+  corretivas.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- aprs
+- meses
+- retrabalho
+- servico
+- indicador
+- numero
+- retrabalhos
+- seguranca
+- valores
+- alinea
+- artigo
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

@@ -1,0 +1,86 @@
+id: is-is-119-002-4-4-1-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: 4.4.1
+section_title: Política e objetivos de segurança operacional
+subsection_id: body
+cite: 4.4.1
+title: Política e objetivos de segurança operacional
+text: '4.4.1 Política e objetivos de segurança operacional
+
+  O importante é verificar se as responsabilidades estão bem definidas e por escrito, bem
+  como se o
+
+  Detentor de Certificado possui o pessoal de administração requerido para operações conduzidas,
+
+  segundo a Seção 119.67, e com a qualificação compatível com o estabelecido na Seção 119.69.
+
+  Além disso, deve ser verificado se as responsabilidades e os compromissos da administração
+  estão
+
+  compatíveis com o disposto no Apêndice Q (d) do RBAC 121 ou no Apêndice H, item H135.1(d)
+  do
+
+  RBAC 135.
+
+  Outro ponto a ser destacado é a necessidade de rever as políticas e os objetivos estabelecidos
+  para
+
+  a segurança operacional do Gestor Responsável de um Detentor de Certificado em relação ao
+
+  disposto no RBAC. As políticas e objetivos devem vir por escrito e assinado pelo Gestor
+  Responsável
+
+  no MGSO.
+
+  A Documentação é outra parte que precisa ser bem definida, de forma que seja possível implantar
+
+  um sistema explícito e no qual os dados e informações são tratados como fonte importante
+  para a
+
+  avaliação do desempenho da segurança operacional do Detentor de Certificado.
+
+  A Documentação envolve não apenas o próprio MGSO, mas uma forma de estabelecer e divulgar
+
+  os componentes e elementos implantados em cada fase. Especial atenção deve ser dada aoData
+  da emissão: 9 de novembro de 2012 IS nº 119-002
+
+  REVISÃO D
+
+  processo de registro dos perigos, as análises e avaliações dos riscos associados a cada,
+  bem como
+
+  às medidas de defesa (tecnologia, treinamento e regulação) existentes e adicionais relacionados
+
+  com a manutenção das atividades dentro do NADSO acordado pelo Gestor Responsável de um
+
+  Detentor de Certificado com a ANAC.
+
+  As mudanças implantadas para a evolução de gerenciamento dos riscos à segurança operacional
+
+  reativa para preventiva ou preditiva devem também estar documentadas e permitirem o
+
+  rastreamento do processo desde a origem (identificação dos perigos) até o resultado da avaliação
+
+  de cada risco decorrente dos perigos identificados.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operacional
+- seguranca
+- objetivos
+- certificado
+- detentor
+- cada
+- gestor
+- perigos
+- politica
+- responsavel
+- administracao
+- apendice
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

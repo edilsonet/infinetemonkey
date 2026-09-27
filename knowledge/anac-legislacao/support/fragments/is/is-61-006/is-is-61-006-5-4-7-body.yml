@@ -1,0 +1,82 @@
+id: is-is-61-006-5-4-7-body
+kind: is
+document: is-61-006
+family: '61'
+section_id: 5.4.7
+section_title: Endosso para navegação solo de aluno piloto - 61.67(c)(1) e (2)
+subsection_id: body
+cite: 5.4.7
+title: Endosso para navegação solo de aluno piloto - 61.67(c)(1) e (2)
+text: '5.4.7 Endosso para navegação solo de aluno piloto - 61.67(c)(1) e (2)
+
+  Válido por 90 dias
+
+  Quem pode endossar:
+
+  1 - Detentor da habilitação vigente de Instrutor de Voo (INVA, INVH, INPL, etc.); ou
+
+  2 - Piloto designado para ministrar instrução de voo em um operador que possua programa
+  de treinamento aprovado pela ANAC, quando ministrando instrução no âmbito da entidade a
+  que está vinculado. (ex: operadores 142, 135 e 90).
+
+  “Instrução prévia mínima ao endosso:
+
+  O aluno piloto deve ter recebido instrução duplo comando na rota a ser voada, conforme previsto
+  no parágrafo 61.67(c)(2)(ii) e, caso a navegação solo seja realizada em espaço aéreo controlado
+  (ainda que compreenda somente um segmento parcial da rota), também a instrução prevista
+  na seção 61.69 do RBAC nº 61.
+
+  O instrutor deve ter repassado antes do voo todo o planejamento de navegação realizado pelo
+  aluno, bem como consultado no briefing os dados relevantes da aeronave e da rota, tais como
+  meteorologia, NOTAM, reportes de manutenção etc., conforme previsto no parágrafo 61.67(c)(2)(i).
+
+  Adicionalmente, durante toda a duração do voo é atribuição do instrutor permanecer em solo
+  monitorando o andamento da navegação pelos meios disponíveis, tais como rádio ou telefone
+  (no caso de paradas intermediárias), bem como o desenvolvimento da meteorologia em rota.
+
+  Ressalta-se que este endosso para navegação solo tem a validade de 90 dias e se sobrepõe
+  à validade do endosso de voo solo local, sendo o suficiente para a realização de qualquer
+  voo solo (navegação ou local) dentro de sua validade, devendo o instrutor observar o disposto
+  no item 61.67 (c)(2)(ii).
+
+  Endosso na CIV Digital:
+
+  O endosso referente a liberação para realização de voos solo navegação deverá ser registrado
+  na CIV Digital após conclusão da correspondente etapa do Programa de Instrução do CIAC,
+  devidamente aprovado pela ANAC.:
+
+  1- Instrutor registra o endosso em sua CIV Digital, indicando o CANAC do aluno, que por
+  sua vez deve confirmar o registro;
+
+  2- Uma vez confirmado pelo aluno, o voo da etapa final do Programa de Instrução na CIV Digital
+  passa para o status “Cadastrado”, devendo o instrutor então selecionar o botão “Endossar”
+  na linha da CIV Digital correspondente ao voo;
+
+  3- Na tela seguinte (vide figura abaixo), no campo Filtro, deverá selecionar o Tipo de Endosso
+  “Navegação solo de aluno piloto” e a Categoria da aeronave utilizada na instrução (por exemplo
+  “Avião”, “Helicóptero”, “Planador” etc.).
+
+  4- O campo “Endosso*” ficará filtrado com “Navegação solo de aluno piloto / categoria”,
+  bastando selecionar o botão Salvar para concluir o registro.”'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- endosso
+- navegacao
+- solo
+- aluno
+- instrucao
+- piloto
+- instrutor
+- digital
+- rota
+- programa
+- selecionar
+- validade
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-006.md

@@ -1,0 +1,62 @@
+id: is-is-135-008a-5-6-6-body
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.6.6
+section_title: Prevenindo erros na lista de verificação
+subsection_id: body
+cite: 5.6.6
+title: Prevenindo erros na lista de verificação
+text: '5.6.6 Prevenindo erros na lista de verificação
+
+  5.6.6.1 Todos os itens da lista de verificação estão sujeitos a interrupção em qualquer
+  ponto do voo pelo ATC ou por outros motivos operacionais. No entanto, dados operacionais
+  indicam que as tripulações de voo são mais susceptíveis a interrupção e distração em solo,
+  durante as fases antes do voo (ou seja, "ANTES DA PARTIDA", "PUSHBACK", "PARTIDA", "TÁXI"
+  e "ANTES DA DECOLAGEM") devido à pressão do tempo e interrupções do pessoal de suporte (por
+  exemplo, equipe de rampa).
+
+  5.6.6.2 Pessoal de apoio ao treinamento. Muitas das distrações ou interrupções que ocorrem
+  na área de rampa podem ser reduzidas ao mínimo pelos operadores da aeronave por meio do
+  treinamento do pessoal de suporte. Os operadores devem assegurar que o pessoal do apoio
+  de solo que se comunica diretamente com a tripulação de voo esteja familiarizado com os
+  procedimentos usados ​​na cabine de comando e ciente da necessidade de se evitar a interrupção
+  da tripulação durante o fluxo da lista de verificação. As pessoas que entram na cabine de
+  comando para conversar com a tripulação ou entram em contato com a tripulação por meio de
+  um interfone devem indicar a sua presença e, a menos que exista uma emergência, abster-se
+  de interromper qualquer atividade da cabine de comando ou conversar com a tripulação até
+  que a tripulação indique que completou suas tarefas e está ciente de sua presença.
+
+  5.6.6.3 Reiniciar a partir do começo. Recomenda-se que, sempre que a tripulação não tiver
+  certeza quanto ao seu progresso na lista de verificação, o PIC deve, sem hesitação, ordenar
+  que a seção apropriada da lista de verificação seja reiniciada desde o começo.
+
+  5.6.6.4 Limitações cognitivas. As limitações cognitivas experimentadas pelos seres humanos
+  ao lidar com o estresse, as demandas de tarefas concomitantes e a pressão do tempo estão
+  por trás de muitos dos erros cometidos pelas tripulações quando respondem a emergências.
+  Incluir mais informações nas listas de verificação pode reduzir a carga de memória e outras
+  demandas cognitivas. No entanto, quanto mais informações forem incluídas em uma lista de
+  verificação, mais longa ela fica e mais tempo será necessário para concluí-la. Os desenvolvedores
+  de listas de verificação devem incluir itens nas listas que relembrem as tripulações de
+  informações que eles não conseguem se lembrar facilmente e outras sugestões que lhes atendam,
+  enquanto respondem a uma situação específica.'
+keywords:
+- taxi-aereo
+- operacoes
+- verificacao
+- lista
+- tripulacao
+- erros
+- pessoal
+- cabine
+- cognitivas
+- comando
+- informacoes
+- interrupcao
+- listas
+- prevenindo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

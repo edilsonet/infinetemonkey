@@ -1,0 +1,64 @@
+id: is-is-94-002-5-4-4-body
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.4
+section_title: Operação do enlace de comando e controle - RBAC-E 94.405(b)
+subsection_id: body
+cite: 5.4.4
+title: Operação do enlace de comando e controle - RBAC-E 94.405(b)
+text: '5.4.4 Operação do enlace de comando e controle - RBAC-E 94.405(b)
+
+  O requerente deve apresentar uma análise com base nas especificações dos equipamentos
+
+  (rádios, antenas) utilizados na RPA e na estação de pilotagem remota (Remote Pilot Station
+
+  - RPS) e nos dados obtidos durante ensaios em voo, que demonstre que a maior distância
+
+  entre RPA-RPS especificada nas limitações operacionais do RPAS é adequada para o
+
+  funcionamento do sistema;
+
+  Deve ser demonstrado através de ensaios que o sistema de comunicação empregado pelo
+
+  enlace de comando e controle, em condições ambientais representativas da operação, é capaz
+
+  de operar satisfatoriamente, transmitindo e/ou recebendo a quantidade de informação
+
+  requerida para o voo seguro, a uma distância pelo menos 20% maior que o máximo alcance
+
+  especificado entre o RPS e a RPA. Nesta distância devem também ser realizadas curvas de
+
+  360° para a direita e para a esquerda com ângulos de rolagem igual ou superior a 10°.
+
+  O efeito de condições climáticas e topologia deverá ser levado em conta na determinação
+  do
+
+  alcance máximo do enlace de comando e controle.
+
+  Caso o projeto preveja o chaveamento entre estações de comando e controle durante a
+
+  operação da RPA, deve ser demonstrado que o chaveamento se dá de forma adequada, sem
+
+  oscilações ou perturbações que afetem o voo seguro da RPA.
+
+  Para autorização de RPAS que se destine a operação além da linha de visada visual (Beyond
+
+  Visual Line of Sight - BVLOS), os seguintes itens adicionais se aplicam:'
+keywords:
+- comando
+- controle
+- operacao
+- enlace
+- distancia
+- adequada
+- alcance
+- chaveamento
+- condicoes
+- demonstrado
+- durante
+- ensaios
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

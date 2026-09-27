@@ -1,0 +1,66 @@
+id: is-is-145-001-5-6-1-3-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: 5.6.1.3
+section_title: O Certificado contém o endereço, local da auditoria de certificação inicial,
+  conforme o item 5.5.2 desta IS.
+subsection_id: body
+cite: 5.6.1.3
+title: O Certificado contém o endereço, local da auditoria de certificação inicial, conforme
+  o item 5.5.2 desta IS.
+text: '5.6.1.3 O Certificado contém o endereço, local da auditoria de certificação inicial,
+  conforme o item 5.5.2 desta IS.
+
+  5.6.1.4 A prerrogativa de executar serviços de manutenção em outra localidade é concedida
+  em caráter excepcional e temporário, de acordo com o requerido pelo parágrafo 145.203(a)
+  do RBAC nº 145 e seguindo os procedimentos descritos nos manuais da OM.
+
+  5.6.1.5 A prerrogativa de executar serviços de manutenção em outra localidade de forma recorrente
+  é concedida de acordo com o requerido pelo parágrafo 145.203(b) do RBAC nº 145 e seguindo
+  os procedimentos descritos nos manuais da OM.
+
+  5.6.1.6 Quando se tratar de OM que possua várias bases de manutenção, ou caso seja necessário
+  estabelecer uma base permanente em outro local, o requerente deve solicitar a certificação
+  de cada base seguindo os requisitos aplicáveis do RBAC nº 145, e de acordo com esta IS.
+
+  5.6.1.7 Dependendo da localização geográfica, se situada no mesmo aeródromo, mesmo município
+  ou regiões próximas à base à qual estão vinculadas, a OM poderá ter instalações fixas adicionais
+  (facilidades) sem ter que certificar isoladamente cada facilidade como uma oficina independente
+  ou base secundária. Nesse caso, a ANAC avaliará a localização (distância entre as instalações),
+  o nível de manutenção realizado e se a inspeção das instalações fixas adicionais poderá
+  ser feita durante a auditoria da base. O manual da OM deverá descrever os serviços realizados
+  em cada instalação fixa adicional e como se dará o controle e movimentação de materiais,
+  dados técnicos, pessoal e ferramental entre essas instalações. A autorização do uso de instalações
+  fixas adicionais deve constar nas Especificações Operativas da OM. As instalações fixas
+  adicionais deverão estar sob total controle da base à qual são vinculadas.
+
+  NOTA 1: de acordo com os critérios estabelecidos no item 5.6.1.7, poderão possuir instalações
+  fixas adicionais, tanto base principal como base secundária.
+
+  NOTA 2: as instalações fixas adicionais não precisam estar completamente equipadas com ferramentas,
+  equipamentos e peças, mas devem tê-los disponíveis quando executarem o trabalho.
+
+  NOTA 3: caso a instalação fixa adicional não possa ser inspecionada pela ANAC quando da
+  auditoria da base à qual ela está vinculada, seja por questões geográficas ou em virtude
+  do nível de manutenção pretendido, a OM será notificada da necessidade de certificação dessa
+  instalação como uma oficina independente ou base secundária.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- base
+- instalacoes
+- adicionais
+- fixas
+- auditoria
+- certificacao
+- acordo
+- local
+- cada
+- caso
+- certificado
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

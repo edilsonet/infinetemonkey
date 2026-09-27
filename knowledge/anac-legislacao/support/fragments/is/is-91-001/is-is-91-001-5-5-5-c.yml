@@ -1,0 +1,105 @@
+id: is-is-91-001-5-5-5-c
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.5.5
+section_title: 'A LOA é uma autorização do operador, de forma que aeronaves com mais de um
+  operador podem:'
+subsection_id: c
+cite: 5.5.5(c)
+title: 5.5.5(c)
+text: 'c) ser autorizadas a operar PBN apenas com operadores específicos.
+
+  5.6 Autorização para Operações de Aviação Geral
+
+  5.6.1 Esta seção se aplica apenas para operações de aviação geral, operando em voos nacionais
+  sob a égide do RBAC nº 91, exceto Subparte K, que operam ou pretendam operar as seguintes
+  especificações PBN: RNAV 10, RNAV 5, RNAV 2, RNAV 1, RNP 4, RNP 2, RNP APCH.
+
+  5.6.2 Aos operadores citados em 5.6.1 será considerada como LOA a comprovação da capacidade
+  da aeronave e a evidência de demonstração de conhecimentos e de proficiência dos tripulantes
+  na execução de procedimentos PBN atualizados nos últimos 2 anos.
+
+  5.6.3 A capacidade da aeronave é comprovada por meio de vistoria realizada por oficina homologada,
+  conforme o item 5.4.2.2 desta IS. O resultado da vistoria deve ser declarado por meio de
+  laudo específico, F-900-76, evidenciando a capacidade da aeronave para cada especificação
+  PBN pretendida.
+
+  5.6.4 O laudo que atesta a capacidade PBN da aeronave é documento comprobatório de porte
+  obrigatório a bordo da aeronave para operadores realizando operações PBN, tendo validade
+  de 2 anos após a data de emissão.
+
+  5.6.5 A demonstração de conhecimentos e de proficiência será realizada durante o exame de
+  habilitação IFR. O examinador deverá declarar na Ficha de Avaliação de Piloto - FAP - para
+  concessão ou revalidação da habilitação IFR, que o candidato está apto a executar procedimentos
+  PBN. Os pilotos não precisam portar a FAP, mas deverão ter meios de demonstrar a uma fiscalização
+  que seus conhecimentos e proficiência na execução de procedimentos PBN foram avaliados nos
+  últimos 2 anos.
+
+  5.7 Procedimentos Operacionais
+
+  5.7.1 Os procedimentos operacionais aqui apresentados devem ser seguidos por todas as especificidades
+  PBN tratadas por este documento. Esta seção trata dos procedimentos operacionais de um modo
+  geral, devendo ser complementada pelos procedimentos operacionais específicos a cada distinta
+  operação RNAV ou RNP descritos nos apêndices correspondentes desta IS.
+
+  5.7.2 Os itens tratados nesta seção devem ser padronizados e incorporados em programas de
+  treinamento, em políticas, procedimentos e práticas operacionais desenvolvidas e executadas
+  pelos operadores. Com este intuito, é esperado que os tópicos que se seguem sejam abordados
+  pelos operadores.
+
+  5.7.3 Operadores e pilotos que pretendam realizar operações PBN devem atentar para o correto
+  preenchimento do plano de voo, em especial os campos correspondentes à capacidade de navegação,
+  de modo a refletir as autorizações possuídas.
+
+  Nota: somente a comprovação da capacidade da aeronave em executar operações PBN não é suficiente
+  para que os operadores realizem tais operações e consecutivamente preencham os planos de
+  voo indicando esta capacidade. Para a condução destas operações os operadores devem possuir
+  autorizações operacionais expedidas pela ANAC, cujos meios aceitáveis para a emissão são
+  os expostos nesta IS.
+
+  5.7.4 Operadores e pilotos somente podem solicitar rotas ou procedimentos PBN se o operador
+  tiver obtido junto à ANAC a autorização para condução destas operações e a tripulação técnica
+  tiver realizado todo o treinamento correspondente. Se aeronave, operador ou tripulação não
+  cumprirem com os critérios estabelecidos por esta IS com a respectiva aprovação para a condução
+  das operações PBN e receberem autorização do controle para conduzir uma operação desta natureza,
+  o piloto deve comunicar ao ATC sobre sua incapacidade em realizar a operação em questão
+  e requisitar instruções para realização de procedimento alternativo.
+
+  5.7.5 A tripulação deve se atentar ao cumprimento de quaisquer instruções e procedimentos
+  nos manuais das aeronaves e dos sistemas PBN, ou outros procedimentos identificados pelo
+  titular do CT ou CST, como necessários para o atendimento aos critérios de desempenho esperados
+  para a realização dos procedimentos PBN.
+
+  5.7.6 Durante a fase de planejamento pré-voo, a disponibilidade da infraestrutura de auxílios
+  à navegação requeridos para as rotas a serem voadas, incluindo as contingências não-RNAV,
+  devem ser confirmadas para o período das operações pretendidas.
+
+  5.7.7 Após o recebimento da autorização inicial e após posteriores mudanças de rota indicadas
+  pelo ATC, os pilotos devem verificar a correta inserção das rotas, assegurando que a sequência
+  de waypoints fornecida pelo sistema de navegação, quando disponível, corresponda à rota
+  autorizada pelo controle e à rota descrita nas cartas de navegação correspondentes.
+
+  5.7.8 É esperado que todos os pilotos mantenham as aeronaves no centro das trajetórias planejadas,
+  de acordo com o exibido pelos indicadores de desvio lateral embarcados na aeronave e/ou
+  piloto automático, a menos que autorizados pelo ATC ou em condições de emergência.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- operacoes
+- operadores
+- aeronave
+- capacidade
+- operacionais
+- rnav
+- autorizacao
+- pilotos
+- navegacao
+- operador
+- pelos
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,169 @@
+id: is-is-21-013-7-e
+kind: is
+document: is-21-013
+family: '21'
+section_id: '7'
+section_title: CRITÉRIOS PARA INSTALAÇÃO GNSS
+subsection_id: e
+cite: 7(e)
+title: 7(e)
+text: 'e) Para operações GNSS IFR em ÁREA TERMINAL e APROXIMAÇÃO DE NÃO-
+
+  PRECISÃO, é necessário que a seleção de curso no HSI/EHSI ou no CDI seja
+
+  automática.
+
+  7.9. TIPOS DE OPERAÇÕES E CRITÉRIOS ESPECÍFICOS PARA GNSS EM
+
+  OPERAÇÕES PBN
+
+  Para GNSS interligado, instalado para operações IFR PBN, são válidos todos os critérios
+
+  anteriormente para VFR e devem ser considerados ainda os critérios a seguir:16-12-2016 IS
+  nº 21-013
+
+  Revisão B
+
+  7.9.1. Os critérios de aeronavegabilidade dependem do tipo de operação PBN pretendido pelo
+
+  requerente. O tipo de operação, por sua vez, pode ser limitado pelas características do
+
+  sistema e da aeronave. As operações PBN abordadas por este documento, com suas
+
+  respectivas precisões e áreas de atuação, são apresentadas na Tabela 2;
+
+  Designação da
+
+  Operação
+
+  Precisão Lateral
+
+  da Navegação Área de Aplicação
+
+  RNP 10 (RNAV 10) 10 Em rota - Oceânica/Remota
+
+  RNAV 5 5 Em rota - Continental
+
+  RNAV 1 e 2 1 e 2 Em rota - Continental/Área Terminal
+
+  RNP 4 4 Em rota - Oceânica/Remota
+
+  RNP 1 1 Área Terminal
+
+  RNP APCH 0.3
+
+  AproximaçãoRNP AR APCH 0.5 - 0.1
+
+  APV/BARO-VNAV -
+
+  Tabela 2: Áreas de aplicação e precisões laterais associadas aos procedimentos PBN.
+
+  Nota: Os valores de precisão lateral de navegação estão expressos em milhas náuticas (NM)
+
+  mantidas por, pelo menos, 95% do tempo de voo, a partir do centro da trajetória desejada.
+
+  7.9.2. Embora as distintas operações PBN possuam aspectos em comum, o cumprimento aos
+
+  critérios estabelecidos nesta IS deve ser satisfeito individualmente para cada uma das
+
+  operações pretendidas. De tal maneira, exceto quando explicitamente declarado, a
+
+  demonstração de conformidade com uma determinada operação PBN não garante a
+
+  conformidade com as demais;
+
+  7.9.3. Ainda que a qualificação TSO dos equipamentos GNSS seja suficiente para demonstrar
+
+  atendimento com parte dos critérios de desempenho e funcionalidade dos espaços RNP,
+
+  muitos destes critérios dependem da integração dos componentes do equipamento e do
+
+  equipamento à aeronave. Assim, é sempre necessário verificar o atendimento aos critérios
+
+  de desempenho e funcionalidade desta IS a partir do equipamento instalado.
+
+  7.9.4. Critérios Específicos para operações PBN
+
+  7.9.4.1. Elegibilidade
+
+  A Tabela 3 a seguir define os tipos de equipamentos GNSS que são aceitos para utilização
+
+  em cada tipo de operação PBN, desde que sua instalação seja realizada de acordo com esta
+
+  IS, ou documento equivalente;
+
+  TIPO DE EQUIPAMENTO RNAV 10
+
+  RNP 10 RNAV 5 RNAV
+
+  1 e 2 RNP 4 RNP 1
+
+  Básico
+
+  RNP 1
+
+  Avançado
+
+  RNP
+
+  APCH
+
+  TSO-C129 (AR) - classe A1 A definir X X A definir X A definir X
+
+  TSO-C129 (AR) - classe A2 A definir X A definir A definir
+
+  TSO-C146 (AR) - classes
+
+  gama 1, 2, 3 A definir X X A definir X A definir X
+
+  Tabela 3: Tipos de equipamentos GNSS para operação PBN16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  Nota: Não há, até a data da publicação desta IS, cobertura SBAS/WAAS no Brasil. O
+
+  requerente deve levar em consideração a necessidade de realização de ensaios de certificação
+
+  caso queira obter a aprovação de um sistema SBAS/WAAS sem restrições.
+
+  7.9.4.2. Precisão
+
+  Durante a operação PBN, o erro total lateral do sistema deve ser no máximo os valores
+
+  apresentados na Tabela 4 a seguir durante 95% do tempo total de voo.
+
+  Erro máximo total lateral e longitudinal de sistema PBN (NM)
+
+  RNAV 10
+
+  RNP 10 RNAV 5 RNAV 2 RNAV 1 RNP 4 RNP 1
+
+  Básico
+
+  RNP 1
+
+  Avançado
+
+  RNP APCH'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- criterios
+- rnav
+- definir
+- operacoes
+- gnss
+- operacao
+- tabela
+- apch
+- area
+- equipamento
+- lateral
+- precisao
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

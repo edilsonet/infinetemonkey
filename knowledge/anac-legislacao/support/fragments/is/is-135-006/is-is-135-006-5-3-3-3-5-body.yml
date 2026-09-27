@@ -1,0 +1,32 @@
+id: is-is-135-006-5-3-3-3-5-body
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.3.3.5
+section_title: Voos com dois aeródromos de alternativa de destino (135.218(b))
+subsection_id: body
+cite: 5.3.3.3.5
+title: Voos com dois aeródromos de alternativa de destino (135.218(b))
+text: '5.3.3.3.5 Voos com dois aeródromos de alternativa de destino (135.218(b))
+
+  5.3.3.4 O parágrafo 135.218(b) do RBAC nº 135 requer que sejam selecionados pelo menos dois
+  aeródromos de alternativa de destino se, para o aeródromo de destino:'
+keywords:
+- taxi-aereo
+- operacoes
+- destino
+- aerodromos
+- alternativa
+- dois
+- voos
+- aerodromo
+- menos
+- paragrafo
+- requer
+- sejam
+- selecionados
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

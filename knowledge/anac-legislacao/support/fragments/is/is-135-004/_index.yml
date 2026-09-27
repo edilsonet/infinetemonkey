@@ -1,0 +1,31 @@
+document: is-135-004
+kind: is
+title: IS 135-004A
+ementa: Procedimentos para credenciamento de comissário de voo como examinador em operador
+  sob o RBAC nº 135.
+family: '135'
+categories:
+- taxi-aereo
+- operacoes
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-004
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-004/@@display-file/arquivo_norma/IS135-004A.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-135-004/@@display-file/arquivo_norma/IS135-004A.pdf
+language: pt
+foreign_annex: false
+sections:
+- apendice-a-controle-de-alteracoes
+- apendice-b-modelo-de-requerimento-de-credenciamento-de
+- apendice-c-modelo-de-oficio-de-encaminhamento-das-correcoes
+- preambulo
+fragment_count: 9
+fragment_ids:
+- is-is-135-004-preambulo-body
+- is-is-135-004-preambulo-a
+- is-is-135-004-preambulo-b
+- is-is-135-004-preambulo-i
+- is-is-135-004-preambulo-c
+- is-is-135-004-preambulo-v
+- is-is-135-004-apendice-a-controle-de-alteracoes-body
+- is-is-135-004-apendice-b-modelo-de-requerimento-de-credenciamento-de-body
+- is-is-135-004-apendice-c-modelo-de-oficio-de-encaminhamento-das-correcoes-body
+parser_version: 7

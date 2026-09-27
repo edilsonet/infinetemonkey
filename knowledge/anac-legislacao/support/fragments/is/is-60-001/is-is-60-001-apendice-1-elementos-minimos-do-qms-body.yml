@@ -1,0 +1,176 @@
+id: is-is-60-001-apendice-1-elementos-minimos-do-qms-body
+kind: is
+document: is-60-001
+family: '60'
+section_id: apendice-1-elementos-minimos-do-qms
+section_title: Apêndice 1 -ELEMENTOS MÍNIMOS DO qms
+subsection_id: body
+cite: apendice-1-elementos-minimos-do-qms
+title: Apêndice 1 -ELEMENTOS MÍNIMOS DO qms
+text: 'Apêndice 1 -ELEMENTOS MÍNIMOS DO qms
+
+  A tabela E1 lista os elementos mínimos que o QMS e, como consequência, o Manual QMS deve
+  conter. Adicionalmente, o operador pode acrescentar quaisquer outros processos ao seu sistema
+  QMS de FSTD, envolvendo elementos além daqueles listados na tabela. Tais processos podem
+  conter: processo de feedback de clientes, processo de agendamentos do cliente, processos
+  de auditoria de fornecedor de peças e serviços, dentre outros.
+
+  O manual QMS pode fazer referência a outros manuais ou instruções de trabalho do operador
+  para determinadas políticas, processos ou procedimentos, mas deve conter ao menos essas
+  referências em seu teor.
+
+  Tabela E1
+
+  Item
+
+  Elementos mínimos do Manual QMS
+
+  Referência RBAC
+
+  1
+
+  Um manual QMS que descreva as políticas, processos ou procedimentos determinados nesta tabela.
+
+  60.5(a)
+
+  2
+
+  A política, processo ou procedimento especificando como o operador irá identificar deficiências
+  no QMS.
+
+  60.5(b)
+
+  3
+
+  A política, processo ou procedimento especificando como o operador irá documentar como o
+  QMS será alterado para corrigir as deficiências.
+
+  60.5(b)
+
+  4
+
+  A política, processo ou procedimento especificando como o operador vai encaminhar e propor
+  mudanças no QMS (para os manuais que não atendem aos requisitos mínimos e notificadas pela
+  ANAC) e o uso de mudanças aprovadas pela ANAC.
+
+  60.5(c)
+
+  5
+
+  A política, processo ou procedimento especificando como o operador irá documentar que pelo
+  menos um FSTD é usado dentro do programa de treinamento de voo aprovado pela ANAC para a
+  aeronave ou o conjunto de aeronaves pelo menos uma vez a cada 12 meses.
+
+  60.7(b)(2)
+
+  6
+
+  A política, processo ou procedimento especificando como o operador irá documentar que outros
+  FSTDs são usados dentro do programa de treinamento de voo aprovado pela ANAC, do operador
+  de FSTD ou de outro detentor de certificado, para a aeronave simulada, pelo menos uma vez
+  a cada 12 meses, após a avaliação inicial, após recorrente ou após modificações do simulador.
+
+  60.7(c)(1)
+
+  7
+
+  A política, processo ou procedimento especificando como o operador vai obter uma declaração
+  escrita a cada 12 meses de um piloto qualificado que tenha voado a aeronave ou conjunto
+  de aeronaves (como apropriado) nos 12 meses precedentes, atestando que o desempenho e a
+  qualidade de voo do FSTD representam a aeronave ou conjunto de aeronaves simuladas (dentro
+  do envelope de funcionamento normal). Requerido apenas para o FSTD que não é usado em programa
+  de treinamento de vôo aprovado pela ANAC. Adicionalmente, o operador deve descrever como
+  irá manter as duas últimas declarações escritas para consulta da ANAC.
+
+  60.7(c)(2)
+
+  8
+
+  A política, processo ou procedimento especificando um mecanismo para receber e gerenciar
+  os relatos escritos sobre o FSTD e sua operação por parte de instrutores, checadores, avaliadores
+  e pessoal de manutenção (incluindo técnicos e engenheiros).
+
+  60.9(b)(1)
+
+  9
+
+  A política, processo ou procedimento que especifica como e onde o Certificado de Qualificação
+  do FSTD emitido pela ANAC será acessado (fixado no FSTD, acessado em local adjacente ao
+  FSTD ou acessado por meio de um terminal apropriado.).
+
+  60.9(b)(2)
+
+  10
+
+  A política, processo ou procedimento especificando como o operador irá selecionar e indicar
+  o Representante do operador junto à ANAC.
+
+  60.9(c)
+
+  11
+
+  A política, processo ou procedimento especificando a autoridade e responsabilidade do Representante
+  do operador (que deve ser vinculado à organização) para o seguinte:
+
+  60.9(c)(2)
+
+  11.1
+
+  Monitoramento da qualificação em andamento do FSTD a ele designado, para garantir que todas
+  as questões relativas à qualificação são conduzidas conforme exigido pelo RBAC 60;
+
+  60.9(c)(2)(i)
+
+  11.2
+
+  Garantir que o manual QMS e seu conteúdo seja estabelecido, executado e mantido adequadamente,
+  além de promover e supervisionar as políticas do QMS, práticas ou procedimentos e modificar
+  como necessário;
+
+  60.9(c)(2)(ii)
+
+  11.3
+
+  Regularmente informar à Gerencia do Operador sobre a situação da qualificação dos FSTD(s)
+  em curso e a eficácia e eficiência do QMS;
+
+  60.9(c)(2)(iii)
+
+  11.4
+
+  Servir como ponto de contato primário para os assuntos entre o operador e a ANAC sobre a
+  qualificação de FSTD conforme o disposto no RBAC 60.
+
+  60.9(c)(3)
+
+  12
+
+  A política, processo ou procedimento de como delegar à terceiros as atribuições descritas
+  nos itens c(2) e c(3) do RBAC 60 em cada um dos locais de operação do operador.
+
+  60.9(c)(4)
+
+  13
+
+  Quanto aos requisitos de dados objetivos do FSTD. A política, processo ou procedimento especificando
+  como o operador:'
+keywords:
+- simuladores
+- treinamento
+- operador
+- processo
+- fstd
+- politica
+- procedimento
+- especificando
+- elementos
+- minimos
+- manual
+- processos
+- qualificacao
+- aeronave
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-001.md

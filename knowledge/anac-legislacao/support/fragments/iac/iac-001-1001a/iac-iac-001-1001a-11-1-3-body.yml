@@ -1,0 +1,28 @@
+id: iac-iac-001-1001a-11-1-3-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 11.1.3
+section_title: INTRODUÇÃO
+subsection_id: body
+cite: 11.1.3
+title: INTRODUÇÃO
+text: '11.1.3 INTRODUÇÃO
+
+  É a página que introduz a idéia principal do assunto a ser tratado e deve ser
+
+  posicionada após o Sumário.'
+keywords:
+- introducao
+- assunto
+- ideia
+- introduz
+- pagina
+- posicionada
+- principal
+- sumario
+- tratado
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

@@ -1,0 +1,34 @@
+id: is-is-175-009-5-3-13-a
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.13
+section_title: O campo “Número operacional do CT-e” deve ser preenchido com o número de controle
+subsection_id: a
+cite: 5.3.13(a)
+title: 5.3.13(a)
+text: 'a) Operadores aéreos que utilizam o padrão de numeração do conhecimento aéreo
+
+  composto de onze dígitos devem, obrigatoriamente, preencher esse campo. O
+
+  preenchimento eletrônico deve ser apenas com números, sem espaços ou símbolos.'
+keywords:
+- artigos-perigosos
+- carga
+- campo
+- numero
+- aereo
+- aereos
+- composto
+- conhecimento
+- controle
+- digitos
+- eletronico
+- espacos
+- numeracao
+- numeros
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

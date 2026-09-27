@@ -1,0 +1,137 @@
+id: is-is-119-004l-aplicabilidade-body
+kind: is
+document: is-119-004l
+family: '119'
+section_id: aplicabilidade
+section_title: Aplicabilidade
+subsection_id: body
+cite: aplicabilidade
+title: Aplicabilidade
+text: 'Aplicabilidade
+
+  Tipo de Análise
+
+  MGO
+
+  Manual Geral de Operações
+
+  Requerido para todos os operadores.
+
+  Deve ser elaborado de acordo com a IS nº 135-002. Pode ser apresentado em um ou mais volumes
+
+  Partes aceitas e partes aprovadas
+
+  PTO
+
+  Programa de Treinamento Operacional
+
+  Requerido para todos os operadores. Operadores Simples devem observar o seção 6.6 desta
+  IS.
+
+  Deve ser elaborado de acordo com a IS nº 135-003.
+
+  Aprovação Inicial e Aprovação Final
+
+  MGSO
+
+  Manual de Gerenciamento da Segurança Operacional
+
+  Requerido para os operadores classificados como Operadores Padrão. Operadores Simples devem
+  observar a seção 6.5 desta IS.
+
+  Deve ser elaborado de acordo com a IS nº 119-002.
+
+  Aceitação
+
+  PRE
+
+  Plano de Resposta a Emergências
+
+  Requerido para operadores classificados como Operadores Padrão.
+
+  Deve ser enviado como parte do MGSO e elaborado de acordo com a IS nº 119-002.
+
+  Aceitação
+
+  PAADV
+
+  Programa de Acompanhamento e Análise de Dados de Voo
+
+  Requerido para operadores de aviões cujo peso máximo de decolagem aprovado seja superior
+  a 27000 kg.
+
+  Deve ser elaborado de acordo com a IS nº 119-008.
+
+  Aceitação
+
+  PPSP
+
+  Programa de Prevenção do Risco Associado ao Uso de Substâncias Psicoativas na Aviação Civil
+
+  Requerido para todos os operadores. Deve ser elaborado de acordo com o RBAC nº 120 e IS
+  nº 120-002.
+
+  Aceitação da declaração de conformidade da IS nº 120-002 ou aprovação do PPSP em caso de
+  procedimentos alternativos.
+
+  PAVAAF
+
+  Plano de Assistência às Vítimas de Acidentes Aeronáuticos e Apoio aos Familiares
+
+  Requerido para os operadores classificados como Operadores Padrão.
+
+  O Operador deve declarar que tem ciência da IAC 200-1001 ou norma que vier a substituí-la,
+  e que cumprirá com os requisitos e procedimentos estabelecidos na Resolução.
+
+  Aceitação
+
+  PSOA
+
+  Programa de Segurança do Operador Aéreo
+
+  Requerido para todos os operadores.
+
+  O operador deve declarar que cumpre integralmente os procedimentos da IS nº 108-001, ou
+  então apresentar o PSOA caso o operador deseje implementar procedimentos alternativos aos
+  estabelecidos pela IS nº 108-001.
+
+  Aceitação em caso da declaração de cumprimento da IS nº 108-001 e aprovação em caso de procedimentos
+  alternativos
+
+  SOP
+
+  Procedimentos Operacionais Padronizados
+
+  Requerido para todos os operadores.
+
+  Deve ser elaborado de acordo com a IS nº 135-008.
+
+  Aceitação
+
+  AOM
+
+  Manual de Operações da Aeronave do Operador
+
+  Requerido para operadores que optem por não utilizar o AFM ou RFM das aeronaves.
+
+  Deve ser elaborado de acordo com a IS nº 135-009.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operadores
+- requerido
+- acordo
+- elaborado
+- aceitacao
+- procedimentos
+- operador
+- todos
+- aprovacao
+- caso
+- programa
+- alternativos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

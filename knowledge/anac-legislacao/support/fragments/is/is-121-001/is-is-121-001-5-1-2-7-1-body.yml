@@ -1,0 +1,41 @@
+id: is-is-121-001-5-1-2-7-1-body
+kind: is
+document: is-121-001
+family: '121'
+section_id: 5.1.2.7.1
+section_title: 'Equipamentos e instalações de comunicação:'
+subsection_id: body
+cite: 5.1.2.7.1
+title: 'Equipamentos e instalações de comunicação:'
+text: '5.1.2.7.1 Equipamentos e instalações de comunicação:
+
+  5.1.2.7.1.1 equipamentos de comunicação disponíveis nos aviões, para cada modelo de aeronave.
+  Caso haja diferenças de equipamentos entre diferentes matrículas de um mesmo modelo, o operador
+  deve possuir um sistema que permita aos tripulantes e demais empregados do operador saber,
+  a um dado momento, quais os equipamentos disponíveis para cada matrícula;
+
+  5.1.2.7.1.2 equipamentos de comunicação disponibilizados pelo operador, em solo, como VHF
+  e telefones das estações de linha, de acordo com o requerido pelas seções 121.99 (operações
+  regulares) ou 121.122 (operações não regulares) do RBAC nº 121; e
+
+  5.1.2.7.1.3 instalações de comunicação dos órgãos de controle do tráfego aéreo (informação
+  normalmente constante nas cartas).'
+keywords:
+- transporte-aereo
+- operacoes
+- equipamentos
+- comunicacao
+- instalacoes
+- operador
+- cada
+- disponiveis
+- modelo
+- regulares
+- acordo
+- aereo
+- aeronave
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-001.md

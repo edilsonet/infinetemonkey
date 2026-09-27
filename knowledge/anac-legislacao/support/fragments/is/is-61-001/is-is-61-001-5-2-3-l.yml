@@ -1,0 +1,80 @@
+id: is-is-61-001-5-2-3-l
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.2.3
+section_title: 'A seguir aparecerá uma tela, conforme mostrada na Figura 2, na qual devem
+  ser observadas as orientações dadas na sequência para lançamento de cada voo:'
+subsection_id: l
+cite: 5.2.3(l)
+title: 5.2.3(l)
+text: 'l) Instrumento simulado: informar o tempo de voo (hh:mm) de instrução (ou exame de
+  proficiência) de voo por instrumentos realizada sob condições simuladas, seja em voo em
+  aeronave sob regras de voo visual (VFR), seja em FSTD.
+
+  5.2.4 Ao finalizar o preenchimento dos campos, o usuário deve selecionar o botão “Salvar
+  rascunho”. Neste momento o registro efetuado aparecerá na tabela “Lançamento de horas”,
+  localizada na parte inferior da tela exibida na Figura 2, sob o status “RASCUNHO”.
+
+  5.2.5 Para um piloto desempenhando a função de INV, o tempo de voo em instrução será contabilizado
+  integralmente para fins de concessão de licença de piloto de grau superior da seguinte forma:
+
+  i. Quando ministrando instrução para PP: o Instrutor de Voo deve registrar o voo na função
+  a bordo de “Instrutor Voo”, indicando o CANAC do Aluno Piloto. Após o Aluno Piloto confirmar
+  o lançamento em sua CIV, fica ratificado o lançamento na CIV do Instrutor de Voo na Função
+  “Instrutor Voo”, sendo tais horas consideradas, integralmente, para comprovação de experiência
+  como Piloto em Comando para obtenção de licenças de nível superior.
+
+  ii. Quando ministrando instrução para PC: O Aluno Piloto lança o voo na função a bordo de
+  “Piloto em Comando” indicando que o voo foi realizado dentro de um curso de piloto comercial
+  aprovado pela ANAC. Assim, habilita-se ao Aluno Piloto campo para informação do CANAC do
+  Instrutor. Após confirmação dada pelo Instrutor de Voo em sua própria CIV, esse voo passa,
+  então, a ser contabilizado como hora de voo na função de “Instrutor de Voo - Observador”,
+  sendo tais horas consideradas, integralmente, para comprovação de experiência como Piloto
+  em Comando para obtenção de licenças de hierarquia superior.
+
+  5.2.6 No caso de aeronaves certificadas para operação com tripulação mínima de 1 (um) piloto,
+  deve se realizar o lançamento do voo, indicando a função a bordo de co-piloto e, adicionalmente,
+  se o voo se dá em uma das seguintes condições:
+
+  i. Single pilot
+
+  ii. Single pilot com co-piloto, por questão regulamentar
+
+  iii. Dual pilot
+
+  A contabilização de horas de voo se dará, como previsto nas seções 61.29.(d) e 61.29.(e)
+  do RBAC 61, da seguinte maneira:
+
+  i. Co-piloto em aeronave Single pilot: os voos e relacionadas horas lançadas não são consideradas
+  para efeitos de processos de licenças e habilitações. Os registros, contudo, podem ser utilizados
+  pelo piloto para comprovação de experiência em processos seletivos de empregos, por exemplo.
+
+  ii. Co-piloto em aeronave Single pilot, por questão regulamentar: serão consideradas, para
+  fins de processos de licenças e habilitações, metade das horas relacionadas aos voos registrados
+  sob essa condição. O exemplo mais comum de tal situação é o de algumas operações sob o RBAC
+  nº 135, quando os requisitos do RBAC nº 135 exigirem um piloto segundo em comando.
+
+  iii. Co-piloto em aeronave Dual pilot: todas as horas de voo relacionadas a voos em tais
+  condições serão consideradas para fins de processos de licenças e habilitações.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- piloto
+- horas
+- instrutor
+- funcao
+- pilot
+- consideradas
+- lancamento
+- aeronave
+- aluno
+- comando
+- instrucao
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

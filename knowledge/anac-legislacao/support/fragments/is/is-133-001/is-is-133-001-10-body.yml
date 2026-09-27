@@ -1,0 +1,45 @@
+id: is-is-133-001-10-body
+kind: is
+document: is-133-001
+family: '133'
+section_id: '10'
+section_title: Precauções de segurança.
+subsection_id: body
+cite: '10'
+title: Precauções de segurança.
+text: '10. Precauções de segurança.
+
+  Conduza todas as operações Classe D usando apenas dispositivos de elevação de pessoal aprovados
+  pela Anac. A tripulação deve calcular a capacidade de pairar com um motor inoperante no
+  peso operacional e altitude antes de cada operação Classe D (seção 29.865 do RBAC nº 29
+  e parágrafo 133.45(e)(1), (2) e (4) do RBAC n° 133). Conduza cada operação com um mínimo
+  de dois membros da tripulação a bordo do helicóptero. Manter comunicação de intercomunicação
+  entre o piloto e outro tripulante. Este segundo tripulante deve ser capaz de avisar o piloto
+  sobre o status do dispositivo de elevação e ser capaz de liberar o dispositivo vazio caso
+  seja necessário. Esta liberação deve exigir duas ações separadas e distintas: armar o sistema
+  e pressionar o botão de liberação. Sempre que possível, uma terceira pessoa associada à
+  operação estará posicionada na superfície e se comunicando por rádio com o piloto. O objetivo
+  desta pessoa é aconselhar o piloto sobre qualquer item relacionado à segurança e supervisionar
+  a carga ou descarga do dispositivo de elevação de pessoal. Além disso, essa pessoa deve
+  garantir que não seja excedido o peso máximo determinado pelo piloto apropriado para esta
+  operação.'
+keywords:
+- carga-externa
+- helicoptero
+- piloto
+- operacao
+- seguranca
+- dispositivo
+- elevacao
+- pessoa
+- precaucoes
+- cada
+- capaz
+- classe
+- conduza
+- liberacao
+categories:
+- carga-externa
+- helicoptero
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-133-001.md

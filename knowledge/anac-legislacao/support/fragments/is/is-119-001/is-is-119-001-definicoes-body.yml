@@ -1,0 +1,167 @@
+id: is-is-119-001-definicoes-body
+kind: is
+document: is-119-001
+family: '119'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes
+  definições:
+
+  4.1.1 avaliação preliminar de documentos: verificação sucinta feita por um servidor integrante
+  da equipe de certificação, visando a avaliar se a qualidade geral dos manuais, programas
+  e demais documentos que devem compor o PSF é aceitável e se o material apresentado está
+  apto para o prosseguimento do processo. O resultado favorável de uma avaliação preliminar
+  não implica em aceitação ou aprovação da documentação requerida para cada fase do processo;
+
+  4.1.2 base de manutenção: é um setor de uma empresa aérea, localizada em um aeroporto, responsável
+  por oferecer suporte às atividades específicas de manutenção de aeronaves naquela localidade.
+  A base de manutenção é composta por sua estrutura física, material e pessoal necessário
+  para as atividades de manutenção;
+
+  4.1.3 certificado de operador aéreo (COA): significa certificado de empresa de transporte
+  aéreo (certificado ETA), até que seja publicada emenda do RBAC nº 119 que passará a utilizar
+  o termo “certificado de operador aéreo”. Modelo do COA está exposto no Apêndice B desta
+  IS;
+
+  4.1.4 coordenador de certificação: é o servidor designado pelo escritório emissor de certificado
+  (EsEC) para coordenar um processo de certificação de empresa de transporte aéreo;
+
+  4.1.5 equipe de certificação: equipe formada por servidores de diversas superintendências
+  da Anac e designados por suas respectivas gerências para conduzir o processo de certificação
+  junto ao coordenador de certificação do EsEC, bem como analisar os manuais, programas e
+  documentos e coordenar as inspeções de responsabilidade de seus setores. A equipe de certificação
+  poderá ser modificada no decorrer do processo e será automaticamente desfeita ao término
+  deste;
+
+  4.1.6 escritório emissor de certificado (EsEC): é o setor da Anac encarregado da condução
+  do processo de certificação de uma empresa de transporte aéreo. Na atual estrutura da Agência
+  Nacional de Aviação Civil (Anac) o EsEC é a Gerência de Operações de Empresas de Transporte
+  Aéreo - 121 (GCTA) da Superintendência de Padrões operacionais (SPO);
+
+  4.1.7 especificações operativas (EO): documento emitido pela Anac que define, lista e estabelece
+  especificamente para um operador aéreo suas instalações, pessoal de administração, frota,
+  área de operação, autorizações e/ou limitações de operações específicas, informações sobre
+  manutenção de aeronaves e, se existirem, isenções ou desvios. A revisão mais recente das
+  EO revoga as revisões anteriores a partir da data de emissão. As EO são vinculadas ao COA,
+  mas não constituem parte dele. As características do operador são vinculadas às informações
+  contidas em suas EO; e
+
+  4.1.8 formulário padronizado (FOP): documento que tem como objetivo delimitar informações
+  por assuntos específicos de forma padronizada em substituição a cartas, memorandos e ofícios.
+  Os FOP são utilizados nas interações entre o requerente e a Anac e nas comunicações internas
+  da Agência relativas ao processo de certificação.
+
+  4.2 Lista de abreviaturas (em ordem alfabética):
+
+  AFM - aircraft flight manual (manual de voo aprovado - avião)
+
+  AOM - aircraft operating manual (manuais de operação da aeronave)
+
+  AVSEC - aviation security (segurança da aviação civil contra atos de interferência ilícita)
+
+  CDL - Configuration Deviation List (Lista de Desvios de Configuração)
+
+  COA - certificado de operador aéreo
+
+  CRM - corporate resource management (gerenciamento de recursos de equipes)
+
+  DOV - despachante operacional de voo
+
+  EO - especificações operativas
+
+  EsEC - escritório emissor de certificado
+
+  ETOPS - extended operations (operação prolongada)
+
+  FCOM - flight crew operating manual
+
+  GCTA - Gerência de Operações de Empresas de Transporte Aéreo 121
+
+  GNSS - global navigation satellite systems
+
+  GRU - guia de recolhimento da união
+
+  IAC - Instrução de Aviação Civil
+
+  IS - Instrução Suplementar
+
+  LBM - Lista de Bases de Manutenção
+
+  MAP - manual de artigos perigosos
+
+  MCmsV - manuais de comissários de voo
+
+  MEL - minimum equipment list (lista de equipamentos mínimos)
+
+  MGM - manual geral de manutenção
+
+  MGO - manual geral de operações
+
+  MGSO - manual de gerenciamento de segurança operacional
+
+  MMEL - master minimum equipment list (lista mestra de equipamentos mínimos)
+
+  NAT-HLA - North Atlantic high level airspace
+
+  OACI - Organização da Aviação Civil Internacional
+
+  PBN - performance based navigation
+
+  PMnt - programa de manutenção de aeronaves
+
+  PTM - programa de treinamento de manutenção
+
+  PTO - programa de treinamento operacional
+
+  PSOA - programa de segurança de operador aéreo
+
+  PSF - pacote de solicitação formal
+
+  QRH - quick reference handbook
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  RNP - required navigation performance
+
+  ROP - reunião de orientação prévia
+
+  RSF - reunião de solicitação formal
+
+  RVSM - reduced vertical separation minimum (separação vertical mínima reduzida)
+
+  SASC - sistema de análise e supervisão continuada
+
+  SGSO - sistema de gerenciamento da segurança operacional
+
+  SOP - standard operational procedures (procedimentos operacionais padronizados)
+
+  SPO - Superintendência de Padrões Operacionais
+
+  TFAC - taxa de fiscalização da aviação civil
+
+  USOAP - Universal Safety Oversight Audit Programme'
+keywords:
+- certificacao-de-operador
+- operacoes
+- aereo
+- certificacao
+- manutencao
+- certificado
+- manual
+- processo
+- aviacao
+- civil
+- lista
+- operador
+- definicoes
+- esec
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-001.md

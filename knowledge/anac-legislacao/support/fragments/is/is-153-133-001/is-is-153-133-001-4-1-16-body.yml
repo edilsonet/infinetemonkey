@@ -1,0 +1,70 @@
+id: is-is-153-133-001-4-1-16-body
+kind: is
+document: is-153-133-001
+family: '153'
+section_id: 4.1.16
+section_title: 'Pista molhada: significa a situação em que a intensidade de chuva na pista
+  de pouso e decolagem é superior a 5,0 mm/h ou razão equivalente.'
+subsection_id: body
+cite: 4.1.16
+title: 'Pista molhada: significa a situação em que a intensidade de chuva na pista de pouso
+  e decolagem é superior a 5,0 mm/h ou razão equivalente.'
+text: '4.1.16 Pista molhada: significa a situação em que a intensidade de chuva na pista de
+  pouso e decolagem é superior a 5,0 mm/h ou razão equivalente.
+
+  4.1.17 Pista seca: a situação em que não há precipitação e a superfície da pista de pouso
+  e decolagem estiver livre de umidade visível e não contaminada, dentro do comprimento e
+  da largura que estão sendo utilizados.
+
+  4.1.18 Reporte de Ação de Frenagem (Report of Braking Action - RBA): código referente à
+  condição geral de frenagem a ser reportada pelos pilotos. Esse código leva em consideração
+  a desaceleração de frenagem percebida pelo piloto em relação ao esforço de frenagem aplicado
+  ao trem de pouso, além do controle direcional da aeronave na pista de pouso e decolagem.
+
+  4.1.19 Reporte de Condição de Pista (Runway Codition Report - RCR): conjunto de informações
+  sobre as condições de superfície de pista de pouso e decolagem, dispostas de forma codificada
+  e que inclui o RWYCC.
+
+  4.1.20 Terço de Pista: segmento de pista de pouso e decolagem correspondente a um terço
+  (1/3) da extensão total da distância disponível para corrida de decolagem. Os terços são
+  designados como 1º terço, 2º terço e 3º terço, considerados nos trabalhos de inspeção da
+  pista, sempre a partir da cabeceira de menor designação.
+
+  ESTRUTURA DO DOCUMENTO
+
+  5.1 Esta IS está estruturada da seguinte forma:
+
+  5.1.1 Os itens que detalham o cumprimento de requisito trazem, no início do parágrafo, a
+  notação “FC” (Forma de Cumprimento), seguida do parágrafo do RBAC a que correspondem. Sua
+  observância é obrigatória, mas pode o regulado submeter à aprovação da Superintendência
+  de Infraestrutura Aeroportuária (SIA) - previamente à sua adoção - meio ou procedimento
+  alternativo, na forma prevista na Resolução ANAC nº 30, artigo 14, § 1º e 2º;
+
+  5.1.2 Sempre que um item for classificado como “FC” (Forma de Cumprimento), todos os seus
+  subitens, exceto aqueles que tratarem expressamente de uma recomendação, fazem parte do
+  conjunto de informações que compõem a forma de cumprimento;
+
+  5.1.3 Os itens que se iniciam com a notação “Recomendação”, apesar de não trazerem comando
+  obrigatório, representam as práticas que a ANAC entende como desejáveis para o aumento da
+  segurança e da eficiência das operações, merecendo os melhores esforços dos operadores de
+  aeródromos para sua consecução;'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- pista
+- decolagem
+- pouso
+- forma
+- terco
+- cumprimento
+- frenagem
+- situacao
+- chuva
+- equivalente
+- intensidade
+- molhada
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-133-001.md

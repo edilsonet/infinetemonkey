@@ -1,0 +1,104 @@
+id: is-is-145-009-5-5-9-1-b
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.9.1
+section_title: 'Referências: RBAC nº 145, Seções 145.211; 145.155; 145.157; e 145.161.'
+subsection_id: b
+cite: 5.5.9.1(b)
+title: 5.5.9.1(b)
+text: 'b) Métodos de inspeção, técnicas, práticas, auxílios, equipamentos e ferramentas utilizados
+  para determinar a aeronavegabilidade de um artigo.
+
+  NOTA 1: Uma pessoa deve ser autorizada pela OM para executar inspeções. Uma OM deve estabelecer
+  os procedimentos de como fará para fornecer tal autorização.
+
+  NOTA 2: Necessidade de pessoal habilitado pelo RBAC nº 65. A seção 145.155 do RBAC nº 145
+  estabelece as condições para o pessoal de inspeção com licença de MMA. As tarefas que não
+  requerem licença conforme o RBAC nº 65 são tarefas tais como: inspeção de recebimento de
+  materiais aeronáuticos e/ou de suprimentos da OM e inspeção por END, etc. Entretanto, inspeção
+  preliminar, inspeção para detectar danos ocultos e os Itens de Inspeção Obrigatória (a seção
+  121.371 do RBAC nº 121) necessitam serem inspecionados por pessoas habilitadas conforme
+  RBAC nº 65.
+
+  NOTA 3: No passado, as pessoas que executam END eram denominadas de inspetores de END. Atualmente
+  não se utiliza mais essa denominação. A IS nº 43.13-003 e a IS nº 145.163-001 descrevem
+  as denominações apropriadas para essas pessoas.
+
+  NOTA 4: A OM deve observar que há tarefas onde um “inspetor” age como supervisor de quem
+  executa a tarefa de manutenção (de acordo com o disposto na seção 43.3 do RBAC nº 43), tarefas
+  onde efetivamente executa as tarefas e assina como “inspetor” (ex: tarefas de double-check),
+  e tarefas onde o “inspetor” assume uma tarefa de efetivamente inspecionar o item em manutenção,
+  manutenção preventiva e alterações, conforme o disposto na seção 145.155 do RBAC nº 145
+  e, finalmente, tarefas onde realiza inspeções para cumprir com requisitos IIO.
+
+  NOTA 5: O pessoal de inspeção também deve ser proficiente na utilização de equipamentos
+  e auxílios de inspeção, apropriados ao artigo sendo inspecionado. Os inspetores devem ser
+  relacionados em uma lista e aqueles que trabalham em uma OM certificada no Brasil, devem
+  compreender, ler e escrever em português. O pessoal de inspeção também deve ser capaz de
+  ler e entender o idioma em que são apresentados os dados técnicos, e as instruções de aeronavegabilidade
+  continuada (documentos de serviço), que são necessárias para a realização dos serviços constantes
+  das especificações operativas da OM.
+
+  5.5.9.3 Estabelecer as qualificações do pessoal da inspeção: a OM deve estabelecer as qualificações
+  do pessoal de inspeção. Uma qualificação inicial pode ser baseada em teste ou na experiência
+  pregressa, ou treinamento. Se o inspetor tiver experiência pregressa, o sumário histórico
+  deve descrever os tipos de inspeções e o trabalho de manutenção executados, os métodos e
+  as técnicas utilizadas, e o total de anos de experiência como inspetor, conforme requerido
+  pela seção 145.161 do RBAC nº 145. O procedimento deve estabelecer o mínimo de experiência
+  requerida, antes que um inspetor possa ser relacionado na lista do pessoal de inspeção e
+  quem (por título) fará esse julgamento.
+
+  5.5.9.4 Treinamento: a OM também deve descrever como os inspetores se qualificam através
+  de treinamento em serviço (On The Job Training - OJT), e/ou treinamento em sala de aula.
+  Esse treinamento pode ser descrito na seção que descreve o programa de treinamento para
+  todo pessoal da OM. O treinamento deve incluir a qualificação inicial, bem como o treinamento
+  recorrente ou teste para manter a proficiência. O pessoal de inspeção pode também requerer
+  treinamento adicional especial em novas técnicas. Isso pode ser necessário depois que componentes
+  adicionais foram acrescentados nas categorias, ou lista de capacidade da organização, ou
+  quando novos auxílios de inspeção ou técnicas são aplicados.
+
+  5.5.9.5 Especificações e dados atualizados: o pessoal da inspeção necessita de dados técnicos
+  atualizados para executar adequadamente os seus trabalhos. Eles devem conhecer as especificações
+  atualizadas envolvendo tolerâncias de inspeção, limitações, procedimentos estabelecidos
+  pelo fabricante, boletins de serviços e diretrizes de aeronavegabilidade. O pessoal da inspeção
+  precisa também estar familiarizado com os manuais da OM, bem como com os regulamentos aeronáuticos
+  brasileiros aplicáveis. Os procedimentos nos manuais devem indicar onde os dados técnicos
+  estão localizados, quem é responsável por manter os dados atualizados, e como os inspetores
+  serão informados das alterações.
+
+  5.5.9.6 Autorização para aprovar um artigo para retorno ao serviço (quanto ao serviço executado):
+  O pessoal autorizado a aprovar um artigo para retorno ao serviço quanto ao serviço executado
+  por meio do formulário ANAC F-100-01, ou por uma aprovação para retorno ao serviço em caderneta
+  ou outro documento, em uma OM localizada no Brasil deve possuir licença segundo o RBAC nº
+  65, com habilitação apropriada. Se a OM estiver localizada fora do Brasil, a pessoa autorizada
+  a executar a inspeção final e aprovar um artigo para retorno ao serviço deve atender aos
+  requisitos do RBAC nº 145. Se o pessoal da inspeção final está autorizado a aprovar um artigo
+  para retorno ao serviço quanto ao serviço executado, os procedimentos no manual devem informar
+  como ele é qualificado e autorizado.
+
+  5.5.9.7 Iniciando os procedimentos no MCQ: as seguintes questões ou aspectos são sugeridos
+  como uma orientação, com a finalidade de auxiliar a OM a iniciar a criação dos procedimentos
+  no MCQ. Elas não devem ser consideradas como tendo abrangido todos os aspectos necessários.
+  Cada OM é única, e por isso, pode requerer procedimentos adicionais para validar os requisitos
+  regulatórios e as necessidades da OM:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- inspecao
+- pessoal
+- servico
+- treinamento
+- tarefas
+- procedimentos
+- artigo
+- inspetor
+- secao
+- dados
+- nota
+- pode
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

@@ -1,0 +1,72 @@
+id: is-is-145-009-5-5-11-2-d
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.11.2
+section_title: 'Sistema e procedimentos: esta seção do MCQ deve incluir a descrição do sistema
+  e procedimentos usados para:'
+subsection_id: d
+cite: 5.5.11.2(d)
+title: 5.5.11.2(d)
+text: 'd) Execução de inspeção final e aprovação para retorno ao serviço dos artigos mantidos.
+
+  5.5.11.3 Orientação para iniciar os procedimentos de inspeção: os aspectos e questões apresentados
+  nos parágrafos seguintes são sugeridos como uma orientação geral, com a finalidade de auxiliar
+  a OM a iniciar os procedimentos no MCQ. Eles não devem ser considerados como tendo abrangido
+  todos os aspectos necessários. Cada OM é única, e por isso, pode requerer procedimentos
+  adicionais para validar os requisitos regulatórios e as necessidades da OM.
+
+  5.5.11.4 Geral: a OM deve descrever o sistema de inspeção em detalhe, desde o estabelecimento
+  de compra de materiais e artigos para a utilização na manutenção; como o material e os artigos
+  são inspecionados no momento de seu recebimento na OM, incluindo o recebimento de artigos
+  fornecido pelos clientes; o acompanhamento da situação do produto e da manutenção através
+  de cada etapa da inspeção; e como é realizada a aprovação para retorno ao serviço após a
+  inspeção final. Descrever cada etapa em um formato facilmente compreensível pelos empregados.
+  Um fluxograma pode ser útil para desenvolver esses procedimentos. Essa seção deve também
+  descrever o sistema para controle e documentação do trabalho em andamento (sistema de ordem
+  de serviço).
+
+  5.5.11.5 Relatórios de dificuldade em serviço: a seção 145.221 do RBAC nº 145 requer que
+  a OM envie à ANAC os reportes de dificuldades em serviço na forma estabelecida pela Resolução
+  nº 714, de 26 de abril de 2023 (Programa de Reportes Mandatórios de Segurança Operacional)
+  e dentro do prazo estabelecido na Resolução. O MOM deve conter procedimentos descrevendo
+  como o reporte será enviado para a ANAC, no formato aceitável pela agência, bem como ao
+  detentor do projeto de tipo, projeto suplementar de tipo ou certificado de produto aeronáutico
+  aprovado, dentro do prazo estabelecido na Resolução. As instruções para o preenchimento
+  do relatório devem ser incluídas na seção ou manual de formulários do MCQ. Os procedimentos
+  devem estar adequados ao estabelecido na Resolução nº 714, de 26 de abril de 2023, ou normativo
+  que venha a substitui-la.
+
+  5.5.11.6 Continuidade da responsabilidade da inspeção (livro de passagem de turno): incluir
+  procedimentos para assegurar que as responsabilidades de seus inspetores são apropriadamente
+  cumpridas caso eles não possam completar a tarefa em um determinado turno. Se a OM utiliza
+  múltiplos turnos de trabalho, incluir procedimentos para assegurar a continuidade da responsabilidade
+  para manutenção em andamento, através de livro de passagem de turno ou documento similar.
+
+  5.5.11.7 Política de recebimento: esta seção do MCQ deve cobrir os procedimentos usados
+  para aceitação de materiais de consumo e artigos, incluindo os dos clientes. Procedimentos
+  incluídos nesta seção dependem do tamanho, complexidade e certificação da OM. O MCQ deve
+  descrever genericamente como o material é indexado, armazenado e os procedimentos de requisição
+  para a manutenção ou alterações. Uma descrição geral de como o almoxarifado opera em relação
+  ao manuseio e armazenamento dos materiais e artigos deve ser incluída nesta seção do MCQ.
+  Adicionalmente, esta seção pode incluir o método para manuseio, armazenamento e utilização,
+  de materiais e artigos com vida-limite em prateleira (shelf life).'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- procedimentos
+- secao
+- artigos
+- inspecao
+- servico
+- sistema
+- descrever
+- incluir
+- materiais
+- resolucao
+- cada
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

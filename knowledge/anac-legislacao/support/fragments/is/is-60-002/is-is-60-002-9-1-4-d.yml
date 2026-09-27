@@ -1,0 +1,49 @@
+id: is-is-60-002-9-1-4-d
+kind: is
+document: is-60-002
+family: '60'
+section_id: 9.1.4
+section_title: As etapas de uma qualificação recorrente são descritas a seguir.
+subsection_id: d
+cite: 9.1.4(d)
+title: 9.1.4(d)
+text: 'd) Fase 4: Certificação.
+
+  A ANAC emite o Certificado de Qualificação, após constatar que o FSTD continua cumprindo
+  os requisitos aplicáveis, e o processo é finalizado.
+
+  Modificação de FSTD ou Adição de Capacidades (rbac 60.16 E 60.23)
+
+  10.1 Um FSTD já qualificado pela ANAC pode ser modificado por diversos motivos, tais como:
+  atualização da tecnologia de projeção de imagem, atualização de modelos aerodinâmicos ou
+  de motor, atualização de aviônicos ou inclusão de capacidades (ex.: EFVS, CAT III, RNP AR).
+  Antes de utilizar um FSTD modificado é necessário que a ANAC avalie essa modificação, nos
+  casos em que essa modificação se enquadre em um dos seguintes casos:
+
+
+  Sejam adicionados ou removidos equipamentos ou dispositivos que simulem as características
+  da aeronave, resultando em uma alteração no Certificado de Qualificação ou no MQTG; ou
+
+  Sejam realizadas alterações no hardware ou software do FSTD com a intenção de impactar a
+  simulação da dinâmica de solo ou de voo, seja o desempenho ou a qualidade de voo do FSTD
+  (incluindo o control loading e os sistemas de movimento, visual ou som).'
+keywords:
+- simuladores
+- treinamento
+- fstd
+- atualizacao
+- modificacao
+- qualificacao
+- capacidades
+- casos
+- certificado
+- modificado
+- sejam
+- adicao
+- adicionados
+- aerodinamicos
+categories:
+- simuladores
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-60-002.md

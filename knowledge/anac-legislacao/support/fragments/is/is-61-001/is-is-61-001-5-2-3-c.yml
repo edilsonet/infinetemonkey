@@ -1,0 +1,57 @@
+id: is-is-61-001-5-2-3-c
+kind: is
+document: is-61-001
+family: '61'
+section_id: 5.2.3
+section_title: 'A seguir aparecerá uma tela, conforme mostrada na Figura 2, na qual devem
+  ser observadas as orientações dadas na sequência para lançamento de cada voo:'
+subsection_id: c
+cite: 5.2.3(c)
+title: 5.2.3(c)
+text: 'c) Função a bordo: selecionar a função conforme especificado abaixo:
+
+  i. Co-piloto: função exclusiva para o titular de uma licença e habilitação atuando como
+  segundo em comando em aeronave certificada para operação com tripulação mínima de 2 (dois)
+  pilotos, com exceção do previsto no parágrafo 5.2.5 desta IS;
+
+  ii. Instrutor voo: função exclusiva para um instrutor de voo devidamente habilitado e qualificado
+  pela ANAC ministrando instrução a bordo da aeronave. Ao selecionar esta opção será habilitada
+  uma caixa adicional para o instrutor especificar o CANAC do aluno;
+
+  iii. Piloto em comando: função exclusiva para o piloto devidamente habilitado atuando nos
+  termos da Título V, Capítulo III do CBA.
+
+  iv. Instrutor de voo em solo: função exclusiva para um instrutor de voo devidamente habilitado
+  e qualificado pela ANAC ministrando instrução prática de voo posicionado em solo, isto é,
+  fora da aeronave. Ao selecionar esta opção será habilitada uma caixa adicional para o instrutor
+  especificar o CANAC do aluno. Tal função deve ser selecionada somente naquelas situações
+  em que não seja cabível que o instrutor esteja a bordo, seja para execução do voo solo do
+  aluno piloto, seja para execução de treinamento em aeronave que não disponha de assento
+  para o instrutor; e
+
+  v. Piloto em instrução: disponível exclusivamente para voos de instrução em duplo comando
+  realizados até o dia 26/08/2018. Para voos de instrução realizados a partir de 27/08/2018,
+  as horas como “Piloto em Instrução” são decorrentes do que é inserido pelo instrutor de
+  voo, conforme parágrafo 5.3.2 desta IS.'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- instrutor
+- funcao
+- instrucao
+- piloto
+- aeronave
+- exclusiva
+- aluno
+- bordo
+- comando
+- devidamente
+- habilitado
+- seja
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-61-001.md

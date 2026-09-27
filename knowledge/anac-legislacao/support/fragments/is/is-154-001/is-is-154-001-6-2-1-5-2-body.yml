@@ -1,0 +1,85 @@
+id: is-is-154-001-6-2-1-5-2-body
+kind: is
+document: is-154-001
+family: '154'
+section_id: 6.2.1.5.2
+section_title: A barra de alinhamento deve coincidir com a projeção do eixo da aeronave e
+  ter, no mínimo, 15 metros de comprimento.
+subsection_id: body
+cite: 6.2.1.5.2
+title: A barra de alinhamento deve coincidir com a projeção do eixo da aeronave e ter, no
+  mínimo, 15 metros de comprimento.
+text: '6.2.1.5.2 A barra de alinhamento deve coincidir com a projeção do eixo da aeronave
+  e ter, no mínimo, 15 metros de comprimento.
+
+
+  Figura 13 - Exemplos de utilização da barra de alinhamento
+
+  6.2.1.6 A linha de parada indica ao piloto o ponto pretendido de parada da aeronave na posição
+  de estacionamento. O uso dessa sinalização é indicado quando as aeronaves acessam a posição
+  de estacionamento por meios próprios, sem auxílio de sistema visual de orientação de estacionamento
+  ou de sinaleiro.
+
+  6.2.1.6.1 A linha de parada deve ter largura e comprimento não inferiores a 15 centímetros
+  e 6 metros, respectivamente. Ela deve ser perpendicular à linha de entrada e posicionada
+  a 2 metros do eixo desta, do lado do piloto à esquerda, conforme Figura 14.
+
+  6.2.1.6.2 Recomenda-se que a largura da linha de parada seja igual a 30 centímetros e que
+  o comprimento esteja de acordo com a Tabela 3, conforme a aeronave crítica à qual se destina
+  a posição de estacionamento.
+
+  Tabela 3 - Comprimento da linha de parada Letra do código da aeronave crítica Comprimento
+  da linha de parada (m) A e B 6 C 11 D, E e F 16
+
+
+  6.2.1.6.3 Quando houver apenas uma linha de parada na posição de estacionamento, a sua posição
+  em relação ao eixo da pista de táxi deve ser adequada à aeronave crítica que utiliza a posição.
+  Nesses casos, a linha de parada pode ser complementada com uma sinalização horizontal de
+  “STOP”, conforme Figura 14.
+
+
+  Figura 14 - Linha de parada com sinalização horizontal de “STOP”
+
+  6.2.1.6.4 Em posições de estacionamento atendidas por ponte de embarque, ou quando requerido
+  para preservar os espaçamentos em relação a obstáculos, pode ser necessário o emprego de
+  mais de uma linha de parada. Elas devem, então, ser codificadas por uma sinalização horizontal
+  de identificação de acordo com a aeronave à qual se destina cada linha, como exemplificado
+  na Figura 15.
+
+  6.2.1.6.5 As sinalizações horizontais de identificação da linha de parada devem ficar acima
+  da linha de parada, conforme exemplo (a) da Figura 15. No entanto, se não houver espaço
+  suficiente, elas podem ser colocadas ao lado da respectiva linha de parada, centralizadas
+  em relação a esta, conforme exemplo (b) da Figura 15.
+
+
+  Figura 15 - Múltiplas linhas de parada codificadas
+
+  6.2.1.6.6 As características e dimensões das sinalizações horizontais de “STOP” e de identificação
+  de linha de parada podem ser consultadas nos itens 6.2.4.3 e 6.2.4.2, respectivamente, desta
+  IS.
+
+  6.2.1.7 A linha de roda (“T”) indica ao sinaleiro o lugar de parada das rodas do trem de
+  pouso de nariz da aeronave na posição de estacionamento. Essa sinalização deve ser utilizada
+  em posições de estacionamento que contam com auxílio de sinaleiro.
+
+  6.2.1.7.1 A linha de roda deve ter, no mínimo, 15 centímetros de largura e 1,80 metro de
+  comprimento. No entanto, para facilitar a visualização por parte do sinaleiro, é recomendável
+  que ela tenha 30 centímetros de largura e o contorno, quando houver, 15 centímetros.'
+keywords:
+- seguranca-aeroportuaria
+- linha
+- parada
+- aeronave
+- comprimento
+- estacionamento
+- figura
+- posicao
+- centimetros
+- eixo
+- metros
+- sinalizacao
+- alinhamento
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-001.md

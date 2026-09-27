@@ -1,0 +1,99 @@
+id: is-is-119-011-definicoes-body
+kind: is
+document: is-119-011
+family: '119'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Para os efeitos desta IS, são válidas as definições listadas na seção 01.1 do RBAC nº 01
+  e as seguintes definições:
+
+  Código compartilhado (
+
+  codeshare
+
+  )
+
+  significa, conforme a Resolução nº 692, de 21 de setembro de 2022, um acordo de cooperação
+  comercial por meio do qual uma empresa aérea permite que outra empresa aérea utilize seu
+  código designador em um voo da primeira, ou por meio do qual 2 (duas) empresas aéreas compartilham
+  o mesmo código em um voo.
+
+  Operador comercial
+
+  significa o operador responsável pelos aspectos comerciais do voo, incluindo o disposto
+  nas Resoluções nº 400/2016 (Condições Gerais de Transporte Aéreo), nº 280/2013 (acessibilidade
+  de passageiros com necessidade de assistência especial ao transporte aéreo), nº 440/2017
+  (processo de registro dos serviços de transporte aéreo) e nº 682/2022 (regras de alocação
+  e monitoramento do uso da infraestrutura aeroportuária), bem como na IAC 200-1001 (plano
+  de assistência às vítimas de acidentes aeronáuticos e apoio aos seus familiares) e demais
+  regulamentações relacionadas à oferta e à prestação do serviço de transporte aéreo.
+
+  Operador técnic
+
+  o
+
+  significa o operador responsável pelos aspectos técnico-operacionais do voo, incluindo o
+  disposto dos RBAC aplicáveis, de acordo com os procedimentos estabelecidos em seu sistema
+  de documentos de segurança operacional. É o detentor do Certificado de Operador Aéreo (COA)
+  sob o qual ocorre o voo, o operador registrado da aeronave e quem exerce o controle operacional.
+
+  Lista de abreviaturas:
+
+  ACMI -
+
+  Aircraft, Crew, Maintenance, and Insurance
+
+  .
+
+  Anac - Agência Nacional de Aviação Civil
+
+  Avsec -
+
+  Aviation security
+
+  CCM - Centro de controle de manutenção
+
+  CCO - Centro de controle de operações
+
+  COA - Certificado de Operador Aéreo
+
+  EO - Especificações operativas
+
+  IATA -
+
+  International Air Transport Association
+
+  IOSA -
+
+  IATA Operational Safety Audit
+
+  IS - Instrução Suplementar
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  SPO - Superintendência de Padrões Operacionais'
+keywords:
+- certificacao-de-operador
+- operacoes
+- operador
+- aereo
+- definicoes
+- transporte
+- codigo
+- controle
+- qual
+- significa
+- acordo
+- aerea
+- aspectos
+- assistencia
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-011.md

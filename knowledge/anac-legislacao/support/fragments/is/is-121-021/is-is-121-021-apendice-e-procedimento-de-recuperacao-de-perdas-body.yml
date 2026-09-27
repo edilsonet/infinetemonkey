@@ -1,0 +1,69 @@
+id: is-is-121-021-apendice-e-procedimento-de-recuperacao-de-perdas-body
+kind: is
+document: is-121-021
+family: '121'
+section_id: apendice-e-procedimento-de-recuperacao-de-perdas
+section_title: APÊNDICE E - PROCEDIMENTO DE RECUPERAÇÃO DE PERDAS
+subsection_id: body
+cite: apendice-e-procedimento-de-recuperacao-de-perdas
+title: APÊNDICE E - PROCEDIMENTO DE RECUPERAÇÃO DE PERDAS
+text: 'APÊNDICE E - PROCEDIMENTO DE RECUPERAÇÃO DE PERDAS
+
+
+  E1. Deve ser o procedimento específico da aeronave aprovado pelo OEM. Se tal procedimento
+  de recuperação aprovado pelo OEM não existir, o procedimento de recuperação de estol específico
+  do avião desenvolvido pelo operador com base no modelo de recuperação de estol nos parágrafos
+  abaixo pode ser aplicado.
+
+  E2. Os OEM (Airbus, ATR, Boeing, Bombardier e Embraer) contribuíram para a criação de um
+  padrão de recuperação de estol que oferece recursos comuns entre várias aeronaves. As etapas
+  básicas foram identificar as diferenças das aeronaves (por exemplo, empurradores/propulsores,
+  turbojatos ou turboélices, motores montados nas asas, motores montados na cauda, ​​fly-by-wire
+  ou sistemas de controle de voo convencionais, etc.), encontrando os pontos comuns, e prossiga
+  para encontrar um padrão de recuperação de perdas direto e eficaz. Além de apresentar as
+  etapas de recuperação, a norma também fornece os fundamentos de cada etapa do procedimento
+  para permitir que OEM e operadores determinem melhor a aplicabilidade de suas aeronaves
+  específicas.
+
+  E3. O padrão de recuperação de perdas desenvolvido é fornecido na tabela abaixo. Embora
+  os procedimentos devam se aplicar à maioria das aeronaves atualmente, os procedimentos recomendados
+  pelo OEM podem divergir da tabela devido a características específicas da aeronave. Itens
+  específicos, como alterações de configuração (por exemplo, extensão de flaps), que podem
+  ser necessários em um ponto específico durante o procedimento de recuperação, não estão
+  incluídos na tabela, mas podem ser incluídos em um procedimento específico para uma aeronave
+  em questão. Espera-se que os OEM se desviem deste padrão, se necessário, devido às características
+  operacionais da aeronave. Para operadores sem um procedimento de recuperação de perda OEM,
+  o padrão de recuperação de perda abaixo é recomendado como referência ao desenvolver procedimentos
+  de recuperação de operador.
+
+  E4. A redução de AOA deve ser primordial em todos os procedimentos de prevenção e recuperação
+  de perdas. Os operadores devem consultar os OEM de suas aeronaves para garantir que tenham
+  o procedimento apropriado de prevenção e recuperação de perdas implementado. Procedimentos
+  desatualizados devem ser atualizados de acordo com este guia.
+
+
+  Padrão de Recuperação de Perdas
+
+  1
+
+  A/P e A/T ................................................................ DESCONECTAR'
+keywords:
+- transporte-aereo
+- operacoes
+- recuperacao
+- procedimento
+- perdas
+- padrao
+- aeronaves
+- procedimentos
+- aeronave
+- especifico
+- abaixo
+- apendice
+- estol
+- operadores
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

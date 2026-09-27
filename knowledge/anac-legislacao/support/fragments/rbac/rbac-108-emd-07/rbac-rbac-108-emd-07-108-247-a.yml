@@ -1,0 +1,32 @@
+id: rbac-rbac-108-emd-07-108-247-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.247'
+section_title: Sistema Confidencial de Relatos
+subsection_id: a
+cite: 108.247(a)
+title: 108.247(a)
+text: (a) O operador aéreo deve manter um canal de comunicação para recebimento de relatos
+  e informações AVSEC fornecidas por fontes diversas, tais como tripulantes, equipe de apoio
+  de solo e agentes de proteção.
+keywords:
+- seguranca
+- operador
+- relatos
+- aereo
+- agentes
+- apoio
+- avsec
+- canal
+- comunicacao
+- confidencial
+- diversas
+- equipe
+- fontes
+- fornecidas
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

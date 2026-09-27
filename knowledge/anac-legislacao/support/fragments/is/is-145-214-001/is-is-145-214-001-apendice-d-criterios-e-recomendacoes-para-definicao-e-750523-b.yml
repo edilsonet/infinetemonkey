@@ -1,0 +1,309 @@
+id: is-is-145-214-001-apendice-d-criterios-e-recomendacoes-para-definicao-e-750523-b
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: apendice-d-criterios-e-recomendacoes-para-definicao-e-750523
+section_title: APÊNDICE D - CRITÉRIOS E RECOMENDAÇÕES PARA DEFINIÇÃO E IMPLEMEN-
+subsection_id: b
+cite: apendice-d-criterios-e-recomendacoes-para-definicao-e-750523(b)
+title: apendice-d-criterios-e-recomendacoes-para-definicao-e-750523(b)
+text: 'b) Sejam criados indicadores tão complicados ou com dados de tão difícil obtenção,
+  que se
+
+  tornem inexequíveis.
+
+  Nesse ponto é que podem ser considerados que segmentos / áreas / processos podem usar
+
+  indicadores de direcionamento, e para quais seria aconselhável o uso de indicadores de
+
+  monitoramento. Também deve ser levado em consideração que para ser eficaz na avaliação
+
+  da segurança operacional, o conjunto de indicadores deve ser suficientemente amplo para
+
+  abranger todos os aspectos fundamentais, e não apresentar uma visão demasiadamente limi-
+
+  tada, que pode induzir a conclusões equivocadas sobre o desempenho da segurança operaci-
+
+  onal da organização.
+
+  Muitas são as fontes de dados que podem e devem ser exploradas nessa busca de uma visão
+
+  abrangente do ambiente operacional:
+
+  - Resultados de auditorias internas e externas;
+
+  - Dados dos processos identificação de perigos e gerenciamento de risco nas operações (pro-
+
+  cessos-chave);
+
+  - Processo de relatos voluntários (dependendo da maturidade do sistema);
+
+  - Dados gerados pelos segmentos da aviação que guardem similaridade com a atividade do
+
+  PSAC (em particular enquanto o sistema não gerar por si só, dados suficientes).
+
+  - Número de voos;
+
+  - Características das “pernas de voo”;
+
+  - Tipo / tamanho / idade / diversidade da frota;
+
+  - Dados de aberturas e fechamento de ordens de serviço / faturamento;
+
+  - Troca de pessoal técnico;
+
+  - Dados do sistema de garantia e/ou controle da qualidade;
+
+  - Relatórios de confiabilidade;
+
+  - Freqüência / quantidade de itens MEL nas liberações de aeronaves; dentre outros.
+
+  Orientação sobre atributos necessários para os dados, de maneira a permitir que norteiem
+  as
+
+  tomadas de decisão com base nos riscos, e considerações para a gestão de dados podem ser
+
+  encontrados no documento do SM-ICG - "Risk Base Decision Making Princípios".
+
+  (link atual - http://www.skybrary.aero/index.php/Risk_Based_Decision_Making_Princi-
+
+  ples )Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Passo 4 - Efetiva definição dos indicadores
+
+  Uma vez que o escopo e foco do conjunto de indicadores de desempenho de segurança ope-
+
+  racional (IDSO) foram determinados e a disponibilidade de dados / informações revista, os
+
+  detalhes agora precisam ser definidos. Cada IDSO deve possuir um documento de registro
+
+  composto de:
+
+  DOCUMENTO DE REGISTRO DO INDICADOR
+
+  1 Título / identifica-
+
+  ção
+
+  É a forma como cada indicador será conhecido, e deve sinteti-
+
+  zar o que ele representa. Pode ser adotada uma sigla para faci-
+
+  litar.
+
+  2 Data da compilação Como a compilação dos dados gera resultados que normal-
+
+  mente requerem algum tipo de ação por parte dos gestores,
+
+  deve ser fixado um intervalo de tempo ou uma data limite para
+
+  entrega dos dados, cálculo do indicador e divulgação dos resul-
+
+  tados.
+
+  3 Descrição Deve ser apresentada uma descrição geral e objetiva do indica-
+
+  dor, de suas características e fatores que influenciaram a sua
+
+  criação. Tem característica reativa ou proativa?
+
+  4 Objetivo Por que ele foi criado? O que ele mede? Grau de cumprimento
+
+  da política / objetivos, algum processo crítico para a segurança,
+
+  a maturidade do processo?
+
+  5 Fórmula de cálculo Caso exista uma fórmula do cálculo desse indicador, a fórmula
+
+  (com legenda) deve estar registrada. Devem ser priorizados os
+
+  indicadores quantitativos, de forma a permitir um melhor
+
+  acompanhamento das tendências.
+
+  6 Interpretação de
+
+  Resultados
+
+  É recomendada a inclusão de informações que orientem quanto
+
+  à forma de interpretação dos resultados (índices) e tendências.
+
+  7 Comentários /
+
+  ações recomenda-
+
+  das
+
+  Nesse campo podem ser apontadas algumas ações a serem to-
+
+  madas em função dos índices resultantes, em particular, caso
+
+  as tendências sejam desfavoráveis ou contrários aos objetivos.
+
+  8 Gráfico A transformação dos resultados obtidos em algum tipo de grá-
+
+  fico facilita enormemente a visualização dos resultados, as ten-
+
+  dências e consequentemente as medidas corretivas a serem
+
+  adotadas. Para esse fim, e também para facilitar os próprios
+
+  cálculos, é altamente recomendável o uso de planilhas eletrô-
+
+  nicas para o gerenciamento dos indicadores.
+
+  Tabela 07 - Registro de indicadores
+
+  Nota 01 - Os indicadores devem apresentar clareza, resultados inequívocos, serem auditáveis
+  e pro-
+
+  teções no sentido de evitar qualquer possibilidade de manipulação dos dados e resultados.Data
+  de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  Nota 02 - O fato de algum provedor não alcançar alguma meta prevista para um indicador,
+  por si
+
+  só não será considerado uma não-conformidade, exatamente para incentivar a adoção de metas
+
+  mais ambiciosas e também para desestimular manipulações que camuflem os resultados.
+
+  Nota 03 - A seção 7.1 deste apêndice- Modelo de registro do indicador, apresenta um exemplo
+  de
+
+  documento de registro de indicador que pode ser adotado.
+
+  Nota 04 - Indicadores puramente qualitativos devem ser evitados, mas caso sejam adotados
+  por
+
+  necessidades específicas, as avaliações devem ser feitas por agentes não diretamente envolvidos
+  com
+
+  o processo em questão e devem ser evitadas as subjetividades.
+
+  Nota 05 - Dependendo do porte e complexidade da estrutura do PSAC e dos processos, pode
+  ser
+
+  adotada uma estrutura hierárquica também para os indicadores. Dessa forma, indicadores de
+  níveis
+
+  mais baixos podem alimentar indicadores de nível mais elevados. Isso também pode facilitar
+  a visu-
+
+  alização de condições setoriais e a adoção de correções em pontos ou processos específicos,
+
+  Alguns erros que devem ser evitados:
+
+  - A utilização de indicadores para eventos de nível inferior (por exemplo, ocorrências de
+
+  solo, lesões decorrentes de turbulência em voo) que não predizem adequadamente a
+
+  ocorrência de incidentes graves e acidentes. Em alguns casos, incidentes menores podem
+
+  não estar obrigatoriamente relacionadas com causas de eventos mais graves, a menos
+
+  que existam as causas subjacentes ou ocultas. Uma análise cuidadosa é necessária.
+
+  - A seleção de indicadores que meçam coisas ou ações que já estão sendo tomadas ou que
+
+  não são suficientemente ambiciosas com relação ao resultado a ser obtido no tocante à
+
+  segurança. Um exemplo de tais indicadores poderia ser: Monitoramento do número de
+
+  pedidos de modificação de procedimentos operacionais em curso.
+
+  - Que os indicadores sejam vistos simplesmente como uma métrica para ações que estão
+
+  sendo tomadas, de forma a conseguir uma boa pontuação, ao invés de ser usado para me-
+
+  lhorar o desempenho de segurança operacional efetivamente.
+
+  Passo 5 - Coleta de dados, compilação e distribuição dos resultados
+
+  Após a definição dos IDSO- Indicadores de desempenho de segurança operacional, o
+
+  próximo passo é decidir como serão coletados os dados e como os resultados serão distribu-
+
+  ídos. A metodologia de coleta de dados e compilação, bem como qual a aparência dos rela-
+
+  tórios, atribuições e responsabilidades pela coleta e comunicação / disseminação dos resul-
+
+  tados apurados, devem ser especificadas e documentadas. Procedimentos de coleta de dados
+
+  também devem considerar a freqüência com que os dados devem ser coletados e os resulta-
+
+  dos reportados para cada IDSO. Algumas dessas questões já foram abordadas nos passos3 e
+
+  4.Data de emissão: 8 de junho de 2018. IS nº 145.214-001
+
+  Revisão B
+
+  A apresentação deve levar em conta o público-alvo. Por exemplo, se forem acompanhados
+
+  vários indicadores que abordam a mesma questão chave, pode ser útil identificar um sub-
+
+  conjunto de indicadores mais relevantes aos quais deve ser dada maior ênfase no relatório
+
+  encaminhado à Alta Direção. Resultados dos indicadores devem ser apresentados de forma
+
+  a facilitar a compreensão de todos os desvios e identificar tendências importantes (placares,
+
+  histogramas, gráficos lineares. etc.).
+
+  Passo 6 - Análise dos dados
+
+  É a etapa mais relevante para a segurança operacional, considerando que os indicadores
+
+  existem para manter uma condição já alcançada ou melhorá-la. Em outras palavras, es-
+
+  truturar todo esse sistema de medição e mantê-lo envolve esforço e consumo de recursos de
+
+  toda ordem, espera-se algum resultado de todo esse empreendimento. Obter bons resultados
+
+  em auditorias da Autoridade, de clientes ou qualquer outra, deve ser encarado como uma
+
+  consequência de processos bem delineados e um SGSO bem estruturado, e não o foco dos
+
+  esforços. Quando o PSAC conseguir utilizar os indicadores para garantir que as metas sejam
+
+  alcançadas, os processos sejam aprimorados e a todos tenham uma real percepção de que a
+
+  melhoria da segurança operacional está ocorrendo de forma contínua e consistente, a finali-
+
+  dade da utilização dos indicadores terá sido alcançada.
+
+  Dentro desse contexto, podemos concluir que para a tomada de decisões corretas e a conse-
+
+  quente implementação de medidas assertivas, a correta compreensão do que os indicadores
+
+  estão dizendo, é fundamental. Na maioria dos casos, os índices gerados pelos indicadores,
+
+  não são leituras diretas sobre a condição de segurança ou insegurança do PSAC, e sim indi-
+
+  cações indiretas e muitas vezes de difícil percepção. Por conseguinte, é importante conside-
+
+  rar:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- indicadores
+- dados
+- resultados
+- seguranca
+- forma
+- indicador
+- podem
+- operacional
+- pode
+- processos
+- sejam
+- algum
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

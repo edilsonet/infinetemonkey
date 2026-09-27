@@ -1,0 +1,68 @@
+id: is-is-135-008a-5-9-4-d
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.9.4
+section_title: 'Os procedimentos e responsabilidades normais devem incluir, pelo menos:'
+subsection_id: d
+cite: 5.9.4(d)
+title: 5.9.4(d)
+text: 'd) cruzeiro e descida:
+
+  I - execução, leitura e conferência dos itens da lista de verificação/ (checklist de cruzeiro);
+
+  II - gerenciamento das condições meteorológicas em rota;
+
+  III - monitoramento das condições meteorológicas para o destino e alternativa(s);
+
+  IV - gerenciamento da autonomia (combustível, condições meteorológicas e regras de voo);
+
+  V - uso do radar meteorológico;
+
+  VI - transferência de controle da aeronave;
+
+  VII - procedimento sterile cockpit;
+
+  VIII - uso do automatismo/piloto automático;
+
+  IX - procedimentos para obtenção das condições meteorológicas do destino antes da descida;
+
+  X - briefing das condições meteorológicas;
+
+  XI - briefing dos NOTAMs;
+
+  XII - briefing das condições técnicas da aeronave (limitações que possam impactar a performance
+  de pouso);
+
+  XIII - briefing da performance de pouso (pesos, flapes, condições da pista molhada ou contaminada);
+
+  XIV - briefing da STAR autorizada (se aplicável);
+
+  XV - briefing do procedimento autorizado (IAP) (se aplicável);
+
+  XVI - briefing para pouso em condições visuais (se aplicável);
+
+  XVII - briefing do combustível remanescente; e
+
+  XVIII - briefing do procedimento de aproximação perdida (configuração da aeronave, altitudes,
+  velocidades, obstáculos, restrições do ATC);'
+keywords:
+- taxi-aereo
+- operacoes
+- briefing
+- condicoes
+- meteorologicas
+- aeronave
+- aplicavel
+- pouso
+- procedimento
+- combustivel
+- cruzeiro
+- descida
+- destino
+- gerenciamento
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

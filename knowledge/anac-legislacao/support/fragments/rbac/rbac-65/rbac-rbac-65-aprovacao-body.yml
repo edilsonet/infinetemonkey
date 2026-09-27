@@ -1,0 +1,25 @@
+id: rbac-rbac-65-aprovacao-body
+kind: rbac
+document: rbac-65
+family: '65'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 469, de 16 de maio de 2018.'
+keywords:
+- licencas
+- mecanicos
+- pessoal
+- aprovacao
+- maio
+- resolucao
+categories:
+- licencas
+- mecanicos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-65.md

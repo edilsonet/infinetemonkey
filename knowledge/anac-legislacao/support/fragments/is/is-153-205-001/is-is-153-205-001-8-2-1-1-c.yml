@@ -1,0 +1,74 @@
+id: is-is-153-205-001-8-2-1-1-c
+kind: is
+document: is-153-205-001
+family: '153'
+section_id: 8.2.1.1
+section_title: 'A profundidade da macrotextura do pavimento deve ser medida:'
+subsection_id: c
+cite: 8.2.1.1(c)
+title: 8.2.1.1(c)
+text: 'c) adotar ações corretivas se a condição descrita no parágrafo 8.2.3(b) for observada,
+  a fim de garantir que a pista tenha drenagem suficiente para não acumular água acima do
+  limite citado.
+
+  8.3 Método da mancha de areia para medição da textura superficial de pavimentos
+
+  8.3.1 Consiste no espalhamento uniforme de um volume conhecido de areia sobre uma área da
+  superfície do pavimento da pista de pouso e decolagem, e na determinação da distância média
+  entre os picos e vales da macrotextura do pavimento (profundidade da macrotextura) mediante
+  a divisão do volume de areia utilizado pela área de espalhamento.
+
+  8.3.2 O equipamento utilizado consiste em um cilindro metálico com volume interno de 24cm³
+  (vinte e quatro centímetros cúbicos) e de um espalhador tipo carimbo manual (vide Figura
+  01). A areia a ser utilizada deve possuir granulometria contida entre as peneiras nº 50
+  e nº 100 (conforme classificação da Associação Brasileira de Normas Técnicas - ABNT), isto
+  é, passando na peneira nº 50 e sendo retida pela peneira nº 100.
+
+
+  Cilindro Metálico Carimbo (espalhador)
+
+  Volume = 24 cm3
+
+  Figura 1 - Equipamentos utilizados no ensaio tipo mancha de areia.
+
+  8.3.3 Para efetuar a medição, o cilindro metálico deve ser enchido completamente com a areia
+  especificada. Derrama-se a areia do cilindro sobre o local escolhido do pavimento e espalha-se
+  a areia o mais uniformemente possível sobre a superfície do pavimento, procurando formar
+  uma figura geométrica conhecida, por exemplo, um círculo. Feito isso, o próximo passo é
+  o cálculo da área dessa figura geométrica, sendo que o instrumento utilizado para medir
+  as dimensões da referida figura geométrica deve ter precisão milimétrica.
+
+  8.3.4 Observada a compatibilidade entre unidades de medidas adotadas, o cálculo da profundidade
+  média da macrotextura da superfície do pavimento deve ser realizado a partir das seguintes
+  equações:
+
+  (1)
+
+  (2)
+
+  (3)
+
+  8.3.5 No mínimo três tomadas de profundidade da macrotextura de cada medição, conforme a
+  equação (1), devem ser realizadas nas áreas consideradas deterioradas. Um maior número de
+  tomadas deve ser feito sempre que deficiências da macrotextura superficial do pavimento
+  forem observadas.'
+keywords:
+- aerodromos
+- operacao-aeroportuaria
+- areia
+- pavimento
+- macrotextura
+- figura
+- cilindro
+- profundidade
+- volume
+- area
+- geometrica
+- medicao
+- metalico
+- superficie
+categories:
+- aerodromos
+- operacao-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-153-205-001.md

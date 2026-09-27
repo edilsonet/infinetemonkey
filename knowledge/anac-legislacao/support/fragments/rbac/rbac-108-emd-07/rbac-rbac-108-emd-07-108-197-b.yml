@@ -1,0 +1,30 @@
+id: rbac-rbac-108-emd-07-108-197-b
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.197'
+section_title: Acesso à cabine de comando
+subsection_id: b
+cite: 108.197(b)
+title: 108.197(b)
+text: (b) O operador aéreo deve manter a porta da cabine trancada durante o voo, abrindo-a
+  somente para entrada e saída de pessoal autorizado.
+keywords:
+- seguranca
+- operador
+- cabine
+- abrindo
+- acesso
+- aereo
+- autorizado
+- comando
+- durante
+- entrada
+- manter
+- pessoal
+- porta
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

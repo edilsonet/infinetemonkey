@@ -1,0 +1,31 @@
+id: rbac-rbac-039-aprovacao-body
+kind: rbac
+document: rbac-039
+family: '39'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução Nº 185, de 1º de março de 2011, publicada no
+
+  Diário Oficial da União Nº 43, Seção 1, página 6, de 2 de
+
+  março de 2011.'
+keywords:
+- diretrizes-de-aeronavegabilidade
+- aprovacao
+- marco
+- diario
+- oficial
+- pagina
+- publicada
+- resolucao
+- secao
+- uniao
+categories:
+- diretrizes-de-aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-039.md

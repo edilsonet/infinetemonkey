@@ -1,0 +1,32 @@
+id: rbac-rbac-25-preambulo-f
+kind: rbac
+document: rbac-25
+family: '25'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: f
+cite: preambulo(f)
+title: preambulo(f)
+text: (f) In meeting the requirements of §§ 25.105(d), 25.125, 25.233, and 25.237, the wind
+  velocity must be measured at a height of 10 meters above the surface, or corrected for the
+  difference between the height at which the wind velocity is measured and the 10-meter height.
+keywords:
+- aeronavegabilidade
+- transporte
+- height
+- measured
+- preambulo
+- velocity
+- wind
+- above
+- between
+- corrected
+- difference
+- meeting
+- meter
+- meters
+categories:
+- aeronavegabilidade
+- transporte
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-25.md

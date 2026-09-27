@@ -55,41 +55,22 @@ text: '153.35
   Data da emissão: 15 de março de 2021
 
 
-  SUBPARTE B - OPERADOR DE AERÓDROMO
-
-  Requisitos
-
-  Descrição
-
-  Aeródromos
-
-  OBS
-
-  Classe I
-
-  Classe II
-
-  Classe III
-
-  Classe IV
-
-  Tipo A
-
-  Tipo B'
+  SUBPARTE B - OPERADOR DE AERÓDROMO'
 keywords:
 - aerodromos
 - operacao-aeroportuaria
 - obrigatorio
-- classe
 - exigido
 - aerodromo
 - existencia
-- tipo
 - aeroportuaria
 - atividades
 - data
-- descricao
 - domestica
+- emissao
+- especificas
+- exigida
+- fauna
 categories:
 - aerodromos
 - operacao-aeroportuaria

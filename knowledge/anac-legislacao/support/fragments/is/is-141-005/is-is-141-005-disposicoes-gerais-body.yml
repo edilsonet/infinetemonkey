@@ -1,0 +1,719 @@
+id: is-is-141-005-disposicoes-gerais-body
+kind: is
+document: is-141-005
+family: '141'
+section_id: disposicoes-gerais
+section_title: Disposições Gerais
+subsection_id: body
+cite: disposicoes-gerais
+title: Disposições Gerais
+text: 'Disposições Gerais
+
+  O
+
+  Programa Brasileiro para a Segurança Operacional da Aviação Civil (PSO-BR)
+
+  é o documento que consolida a proposta conjunta das duas autoridades brasileiras relacionadas
+  com o gerenciamento da segurança operacional da aviação civil brasileira, a ANAC e o COMAER,
+  na busca pelo atendimento ao previsto no Anexo 19 à Convenção sobre Aviação Civil Internacional
+  - CACI. O PSO-BR foi assinado pelas duas autoridades brasileiras em 08 de janeiro de 2009,
+  tendo sido revisado no ano de 2017.
+
+  A partir do PSO-BR, a ANAC e o COMAER passaram a dispor de orientações específicas para
+  a elaboração de seus Programas de Segurança Operacional Específicos (PSOE). O
+
+  PSOE-ANAC
+
+  e o PSOE-COMAER constituem as partes integrantes do PSO-BR.
+
+  O
+
+  PSOE-ANAC
+
+  estabelece a política e as diretrizes de segurança operacional da ANAC, orientando o planejamento
+  e a execução de suas atribuições na área de segurança operacional, conforme definidas em
+  lei.
+
+  A seção 141.27 do
+
+  prevê o estabelecimento, implementação e manutenção de um SGSO por Centros de Instrução
+  de Aviação Civil (CIAC) tipos 2 ou 3.
+
+  A implementação do SGSO é a incorporação de princípios e ferramentas de gestão visando a
+  melhoria da segurança das operações aéreas. A aplicação destes referenciais propõe a ampliação
+  do controle dos riscos operacionais e a produção de resultados mensuráveis sobre segurança,
+  condições requeridas para obtenção e revalidação de certificações e autorizações.
+
+  Destaca-se que o SGSO do CIAC deve permitir a comunicação eficaz entre seus sistemas, visando
+  o intercâmbio de dados, informações, experiências e soluções de problemas relacionados à
+  prestação de seus serviços.
+
+  Esta IS foi estruturada considerando os requisitos para a implantação e manutenção do SGSO
+  conforme dispostos no
+
+  e no
+
+  PSOE-ANAC
+
+  .
+
+  Sistema de Ger
+
+  enciamento de Segurança Operacional (SGSO)
+
+  A estruturação do SGSO deve possuir, no mínimo, os seguintes componentes e elementos:
+
+  Componente 1 - Política e objetivos da segurança operacional;
+
+  Elemento 1.1 - Responsabilidade e comprometimento da alta direção;
+
+  Elemento 1.2 - Responsabilidade primária acerca da segurança operacional;
+
+  Elemento 1.3 - Designação do pessoal-chave de segurança operacional;
+
+  Elemento 1.4 - Coordenação do Plano de Resposta à Emergência (PRE); e
+
+  Elemento 1.5 - Documentação do SGSO.
+
+  Componente 2 - Gerenciamento de riscos à segurança operacional;
+
+  Elemento 2.1 - Processo de identificação de perigos; e
+
+  Elemento 2.2 - Processo de avaliação e controle de riscos.
+
+  Componente 3 - Garantia da segurança operacional;
+
+  Elemento 3.1 - Processo de monitoramento e medição do desempenho da segurança operacional;
+
+  Elemento 3.2 - Processo de gerenciamento de mudanças; e
+
+  Elemento 3.3 - Processo de melhoria contínua do SGSO.
+
+  Componente 4 - Promoção da segurança operacional;
+
+  Elemento 4.1 - Treinamento e qualificação; e
+
+  Elemento 4.2 - Divulgação do SGSO e da comunicação acerca da segurança operacional.
+
+  Conforme apresentado no
+
+  PSOE-ANAC
+
+  , com o propósito de promover a implementação do SGSO de modo compatível com os diferentes
+  contextos operacionais, o sistema deve ser adequado ao porte de cada organização e à complexidade
+  das atividades desenvolvidas.
+
+  Ressalta-se que o escopo do SGSO deve abranger todas as atividades do CIAC aprovadas ou
+  autorizadas pela ANAC. Quaisquer modificações nas atividades devem desencadear a revisão
+  do SGSO e sua adequação, conforme necessário.
+
+  O SGSO deverá fornecer subsídios para o Sistema de Garantia da Qualidade na elaboração e
+  manutenção de um perfil de risco organizacional e um plano de gerenciamento destes riscos.
+
+  As observações a seguir apresentam um detalhamento sobre os elementos do SGSO:
+
+  O
+
+  elemento 1.1 “Responsabilidade e comprometimento da alta direção”
+
+  do CIAC deve definir uma política de segurança operacional que:
+
+  Reflita o comprometimento organizacional acerca da segurança operacional;
+
+  Contenha uma declaração explícita de comprometimento com a provisão dos recursos necessários
+  à implementação da política de segurança operacional;
+
+  Contenha os procedimentos para o reporte de segurança operacional;
+
+  Indique claramente a distinção entre erro e violação e, adicionalmente, indique qual será
+  a postura adotada para cada caso;
+
+  Seja formalmente aprovada pelo gestor responsável do detentor de certificado;
+
+  Seja divulgada, com aprovação visível do gestor responsável, para toda a organização; e
+
+  Seja revista periodicamente para garantir que permaneça relevante e apropriada ao detentor
+  de certificado.
+
+  O
+
+  elemento 1.2 "Responsabilidade primária acerca da segurança operacional"
+
+  do CIAC deve:
+
+  Identificar um Gestor Responsável que, a despeito de outras funções, possua responsabilidade
+  final, em nome do detentor de certificado, pela implementação, operação e manutenção do
+  SGSO.
+
+  O Gestor Responsável é a pessoa que tem a autoridade final no CIAC quanto à segurança operacional.
+  Ele quem tem a responsabilidade para estabelecer e promover as políticas e objetivos da
+  segurança operacional.
+
+  O regulamento atribui diretamente ao Gestor Responsável a responsabilidade final pela Segurança
+  Operacional do CIAC. Deve ser possível verificar a atribuição de poderes ao Gestor Responsável
+  no documento que o designa ou em outro instrumento também legítimo perante os atos constitutivos
+  da empresa de forma que esse possua a autonomia necessária para a manutenção da Segurança
+  Operacional.
+
+  Normalmente os cargos de Presidente ou Diretor/Administrador são os que costumam possuir
+  os atributos exigidos para o cargo.
+
+  O Gestor Responsável deve possuir, pelo menos, as responsabilidades abaixo:
+
+  I-
+
+  Provimento e alocação dos recurso
+
+  s humanos, técnicos
+
+  e financeiros necessários à eficácia e eficiência do SGSO;
+
+  I
+
+  I- Responsabilidade direta pela condução das atividades do CIAC;
+
+  III- Autoridade final pelas operações do CIAC;
+
+  IV- Estabelecimento e promoção da política de segurança operacional;
+
+  V- Estabelecimento dos objetivos e metas de segurança operacional;
+
+  VI- Responsabilidade final por solucionar os todos os problemas de segurança operacional;
+  e
+
+  VII-
+
+  Estabelecimento e manutenção da capacidade do CIAC em aprimorar a segurança operacional
+  através das informações coletadas pelo seu sistema de reportes.
+
+  As responsabilidades (no sentido de
+
+  “accountable”
+
+  ) do Gestor Responsável não poderão ser delegadas a outras pessoas.
+
+  No caso de alteração do Gestor Responsável, o CIAC deverá comunicar à Gerência de Formação
+  e Qualificação de Pessoal (GFOP)
+
+  antes da sua entrada em exercício
+
+  , conforme procedimentos constantes na IS n
+
+  º
+
+  141-004 (IS de Certificação). A entrada em exercício da pessoa contratada não depende de
+  aprovação prévia da ANAC.
+
+  O
+
+  elemento 1.3 “Designação do pessoal-chave de segurança operacional”
+
+  do CIAC deve:
+
+  Designar formalmente um Gerente de Segurança Operacional (GSO) que atenda aos requisitos
+  estabelecidos pela ANAC e que terá as responsabilidades abaixo:
+
+  I-
+
+  Gerenciar a implantação do SGSO, em nome do Gestor Responsável;
+
+  II- Prestar suporte às atividades de identificação de perigo e análise de risco, podendo,
+  inclusive, executá-las;
+
+  III-
+
+  Monitorar ações corretivas e avaliar seus resultados;
+
+  IV- Apresentar informes periódicos sobre a eficácia do SGSO e propor melhorias;
+
+  V- Manter os registros e documentos do SGSO;
+
+  VI- Planejar e prestar suporte ao treinamento de SGSO do pessoal do CIAC; e
+
+  VII- Assessorar o gestor responsável, devendo ter, dentro do âmbito do CIAC: a
+
+  cesso di
+
+  reto ao gestor responsável e, se existirem, aos demais gestores do CIAC, a
+
+  cesso aos dado
+
+  s e às informações sob qualquer aspecto relacionado à segurança operacional do detentor
+  de certificado, e a
+
+  uto
+
+  no
+
+  mia administrativa para auditar e investigar qualquer setor ou processo relacionado à segurança
+  operacional do detentor de certificado;
+
+  A seleção do profissional que ocupará o cargo de GSO é fundamental para a garantia da segurança
+  operacional. Deve ser estabelecido um processo que permita a identificação do profissional
+  com as qualificações adequadas, devendo este estar ciente das responsabilidades de segurança
+  das operações que estão associadas à sua função. Recomenda-se que o GSO tenha experiência
+  em instrução de voo e formação compatível com o cargo.
+
+  O GSO deverá possuir contrato de trabalho junto ao CIAC para exercer as suas atribuições.
+
+  Um dos principais fatores de sucesso do SGSO está na indicação da função de GSO. Este profissional
+  deve ter acesso direto ao gestor responsável e amplo conhecimento sobre as operações da
+  empresa, de modo a permitir o gerenciamento efetivo da segurança das atividades. Desta forma,
+  espera-se do GSO a demonstração de qualificações gerenciais que expressem autoridade compatível
+  com as responsabilidades relacionadas à segurança operacional.
+
+  O cargo de GSO não pode ser acumulado com o cargo de Gestor Responsável, tampouco com o
+  de Coordenador de Curso. Recomenda-se que o GSO faça parte do quadro de instrutores de voo
+  do CIAC.
+
+  É esperado que o GSO seja reconhecido pela alta direção como representante do gestor responsável
+  para os assuntos de segurança operacional, sendo um profissional capaz de apoiá-lo com informações
+  e relatórios que assegurem o processo de melhoria contínua da segurança.
+
+  É importante destacar, entretanto, que a responsabilidade primária quanto a operação e manutenção
+  do SGSO é do gestor responsável; e não do GSO. Desta forma, será atribuída ao gestor responsável
+  as implicações sobre o desempenho do sistema.
+
+  No caso de CIAC satélite, o CIAC poderá contar com um único GSO, recomendando-se que seja
+  indicado um auxiliar local.
+
+  No caso de alteração do GSO, o CIAC deverá comunicar à GFOP antes da sua entrada em exercício,
+  conforme procedimentos constantes na IS nº 141-004 (IS de Certificação). A entrada em exercício
+  da pessoa contratada não depende de aprovação prévia da ANAC.
+
+  No
+
+  caso de
+
+  vacância do cargo do GSO
+
+  , a ANAC deverá ser comunicada em até 5 dias.
+
+  O CIAC deverá realizar a substituição do profissional em até 60 dias corridos
+
+  , conforme parágrafo 141.61(k) do RBAC nº 141, bem como realizar o gerenciamento de risco
+  relacionado à gestão da mudança durante o período de vacância do cargo.
+
+  O
+
+  elemento 1.4 "Coordenação do Plano de Resposta à Emergência (PRE)"
+
+  do CIAC deve:
+
+  Desenvolver um PRE contendo as ações necessárias para gerenciar os procedimentos em caso
+  de emergência, contendo:
+
+  I-
+
+  As atribuições de cada funcionário do CIAC envolvido no PRE;
+
+  II-
+
+  Os telefones e contatos necessários de acordo com os procedimentos previstos no plano;
+
+  III-
+
+  O retorno das atividades a operação normal;
+
+  IV-
+
+  A comunicação aos familiares dos envolvidos na ocorrência; e
+
+  V-
+
+  A coordenação com os Planos de Emergência de Aeródromo (PLEM) dos aeródromos onde opere.
+
+  O PRE deve ser amplamente disseminado entre os funcionários do CIAC, garantindo que todos
+  estejam cientes dos procedimentos previstos e suas responsabilidades no caso de ativação
+  do plano.
+
+  A documentação do PRE deverá estar inclusa no Manual de Gerenciamento de Segurança Operacional
+  (MGSO).
+
+  O CIAC deverá desenvolver cartões/checklists com procedimentos e número de contatos para
+  auxiliar os funcionários no caso de ativação do PRE. Sugere-se que seja adotado o modelo
+  de PRE anexo ao modelo de MGSO fornecido pela ANAC, conforme referenciado no Apêndice C,
+  devendo estar distribuído em locais de fácil acesso nos locais de operação do CIAC.
+
+  Cabe ao
+
+  CIAC definir as situações que levem a ativação e encerramento do PRE.
+
+  O
+
+  CIAC
+
+  deverá realizar, no mínimo uma vez ao ano, um treinamento simulado de ativação do PRE.
+
+  O
+
+  elemento 1.5 “Documentação do SGSO”
+
+  do CIAC deve:
+
+  Desenvolver e manter a documentação que defina:
+
+  I- A política e os objetivos de Segurança Operacional;
+
+  II- Os requisitos (exigências) do SGSO;
+
+  III- Os processos e procedimentos do SGSO;
+
+  IV- As responsabilidades pelos processos e procedimentos do SGSO, abrangendo obrigações
+  e prerrogativas;
+
+  V- O MGSO; e
+
+  VI- Os produtos do SGSO, como por exemplo, relatórios de vistorias, análise de riscos realizadas,
+  relatos de perigos identificados, atas de reuniões, ações mitigadoras adotadas, treinamentos
+  ministrados, entre outros.
+
+  O Plano de Implementação do SGSO é requerido apenas no caso de novos CIAC, durante o processo
+  de certificação.
+
+  Toda documentação relacionada ao SGSO deverá estar arquivada nas dependências do CIAC, estando
+  prontamente disponível durante qualquer fiscalização por parte da ANAC. No caso de CIAC
+  satélite, a entidade deverá definir o local de guarda da documentação, entretanto a mesma
+  deverá estar prontamente disponível na localidade onde ocorrer a fiscalização.
+
+  A documentação deverá ser arquivada por um prazo mínimo de 5 anos, a fim de permitir sua
+  rastreabilidade.
+
+  O
+
+  elemento 2.1 "Processo de identificação de perigos"
+
+  do CIAC deve:
+
+  Estabelecer processos que assegurem a identificação dos perigos associados à sua atividade;
+  e
+
+  Utilizar métodos reativos, proativos e preditivos em seus processos de identificação de
+  perigos.
+
+  Deverá ser implementado no CIAC um sistema de reportes de caráter
+
+  voluntário, confidencial e não punitivo, no que diz respeito a erros não premeditados ou
+  inadvertidos, exceto em casos que envolvam negligência ou violação intencional. Para tanto
+  deverá utilizar formulários para recebimento de Relatórios da Aviação Civil (RAC), podendo
+  ser em meio impresso ou eletrônico. Independentemente do meio escolhido, deverá haver na
+  sede do CIAC uma estrutura adequada para recebimento dos relatos.
+
+  O
+
+  elemento 2.2 “Processo de avaliação e controle de riscos”
+
+  do CIAC deve:
+
+  Estabelecer processos que assegurem a avaliação, classificação e mitigação dos riscos associados
+  aos perigos identificados, considerando os itens abaixo:
+
+  I-
+
+  Avaliação em termos de probabilidade e severidade;
+
+  II-
+
+  Classificação resultante, em termos de tolerabilidade; e
+
+  III-
+
+  Mitigação de cada risco levando em consideração o nível aceitável de segurança operacional.
+
+  O CIAC deverá realizar, no mínimo, duas vezes ao ano uma Vistoria de Segurança Operacional
+  com o objetivo de identificar perigos e tendências de segurança operacional e avaliar os
+  eventuais riscos associados.
+
+  O
+
+  elemento 3.1 “Processo de monitoramento e medição do desempenho da segurança operacional”
+
+  do CIAC deve:
+
+  Monitorar e avaliar o desempenho da segurança operacional do CIAC;
+
+  Acompanhar as ações de mitigação de risco implantadas e comprovar a sua eficácia; e
+
+  Estabelecer indicadores e metas de segurança operacional para avaliar o desempenho da segurança
+  operacional, considerando os itens abaixo:
+
+  I- No mínimo, os indicadores previstos no Apêndice B deverão ser medidos e monitorados pelo
+  CIAC;
+
+  II- Recomenda-se que sejam desenvolvidos campos específicos nas fichas de registro de instrução
+  (
+
+  debriefing
+
+  ) para anotação dos indicadores relacionados ao voo;
+
+  III- O CIAC é encorajado a desenvolver novos indicadores de acordo com seu ambiente operacional
+  e suas necessidades; e
+
+  IV- Para o caso de
+
+  novo
+
+  requerente de Certificado de CIAC ou mesmo CIAC que comprovadamente ainda não detenham registros
+  operacionais suficientes para o pleno estabelecimento de metas de segurança, poderão ser
+  aceitas metas globais que visem a coleta de dados para a constituição de histórico operacional.
+  Tal condição deve estar explícita no MGSO do CIAC como sendo de caráter transitório, idealmente
+  não superior a 1 (um) ano, com o objetivo de possibilitar a adequada coleta de dados para
+  o estabelecimento de metas aderentes ao contexto operacional de cada organização.
+
+  O
+
+  elemento 3.2 “Processo de gerenciamento de mudanças”
+
+  do CIAC deve:
+
+  Desenvolver e manter processos para identificar as mudanças que possam afetar a segurança
+  operacional do detentor de certificado; e
+
+  Gerenciar os riscos decorrentes dessas mudanças;
+
+  No mínimo, na ocorrência de ao menos um dos fatos relacionados abaixo, deverá ser realizada
+  uma análise de possíveis impactos na segurança operacional:
+
+  I- Alteração do Gestor Responsável;
+
+  II- Alteração do Gerente de Segurança Operacional;
+
+  III- Alteração do coordenador de curso prático;
+
+  IV- Contratação de um novo instrutor de voo;
+
+  V- Inclusão de um novo curso prático de voo e/ou alteração de programa de instrução nas
+  Especificações Operativas do CIAC;
+
+  VI- Inclusão de uma aeronave de modelo diferente daquelas operadas pelo CIAC;
+
+  VII- Alteração e/ou inclusão de aeródromo de operação do CIAC; e
+
+  VIII- Qualquer outra alteração que requeira a produção do Formulário de Análise de Impacto
+  (FAI) conforme a IS n° 141-004.
+
+  O
+
+  elemento 3.3 “Processo de melhoria contínua do SGSO”
+
+  do CIAC deve:
+
+  Estabelecer e manter processos para monitorar a eficácia do seu SGSO;
+
+  Buscar, de forma contínua, a melhoria do desempenho da segurança operacional; e
+
+  Definir
+
+  as metas de desempenho da segurança operacional em conjunto com a ANAC.
+
+  O
+
+  elemento 4.1 “Treinamento e qualificação”
+
+  do CIAC deve:
+
+  Desenvolver um programa de treinamento específico que assegure que todo o pessoal do CIAC
+  esteja adequadamente qualificado e treinado para exercer as funções e atribuições estabelecidas
+  pelo SGSO; e
+
+  Adequar o conteúdo e a carga horária do treinamento para cada função prevista pelo SGSO.
+  O treinamento deverá ter seu conteúdo e carga horária adaptadas para as diferentes funções
+  e atribuições do pessoal do CIAC, conforme as atividades desempenhadas por cada um no SGSO.
+
+  O treinamento de SGSO do pessoal do CIAC deve abranger, pelo menos:
+
+  I-
+
+  Os conceitos básicos de SGSO, incluindo a estrutura de elementos e componentes;
+
+  II-
+
+  A política, objetivos e metas de segurança operacional do CIAC;
+
+  III-
+
+  As responsabilidades e prerrogativas estabelecidas dentro do CIAC pelo SGSO;
+
+  IV-
+
+  Princípios básicos de gerenciamento de risco e como esses princípios foram aplicados no
+  CIAC;
+
+  V-
+
+  Sistemas de reporte do CIAC;
+
+  VI-
+
+  Atividades e programas de suporte ao gerenciamento da segurança operacional desenvolvidos
+  pelo CIAC (incluindo programas de avaliações e de auditorias); e
+
+  VII-
+
+  Canais de comunicação para disseminação de segurança operacional disponibilizados pelo CIAC.
+
+  O CIAC deve elaborar e implantar processos para validar a eficácia do treinamento ministrado.
+
+  No mínimo, os seguintes eventos/treinamentos deverão ser desenvolvidos pelo CIAC:
+
+  I- Capacitação em SGSO; e
+
+  II- Incentivo ao uso dos formulários de Relatos de Aviação Civil - RAC.
+
+  O
+
+  elemento 4.2 “Divulgação do SGSO e da comunicação acerca da segurança operacional”
+
+  do CIAC deve:
+
+  Desenvolver e manter processos formais para difundir e comunicar aspectos de segurança operacional
+  do detentor de certificado, de forma que possam:
+
+  I- Assegurar que todo pessoal esteja informado sobre o SGSO, com o nível de detalhe adequado
+  às suas funções e atribuições;
+
+  II- Transmitir informação crítica sobre segurança operacional;
+
+  III- Explicar por que são tomadas ações específicas de segurança operacional;
+
+  IV- Explicar por que são introduzidos ou modificados procedimentos operacionais;
+
+  V- Incentivar a participação do pessoal do CIAC em eventos correlatos de segurança operacional
+  desenvolvidos pela comunidade aeronáutica; e
+
+  VI- Compartilhar informações úteis à segurança operacional entre os operadores da indústria.
+
+  Manual de Gerenciamento de Segurança Operacional (MGSO)
+
+  O MGSO é o documento que concentra as diretrizes, regras, processos e procedimentos que
+  estruturam o SGSO do CIAC e deve:
+
+  Descrever a política e objetivos da segurança operacional do detentor de certificado, bem
+  como os processos adotados para a garantia dessa segurança durante a realização de suas
+  atividades diárias;
+
+  Apresentar os compromissos do gestor responsável de um detentor e/ou requerente de um certificado
+  em relação à implantação e operação de seu SGSO; e
+
+  Divulgar as medidas de segurança operacional adotadas para o atendimento à política estabelecida,
+  de forma a envolver a todos da organização e aos seus parceiros e terceirizados.
+
+  O GSO do CIAC é responsável por elaborar e atualizar o MGSO, bem como garantir que seu conteúdo
+  esteja adequado ao regulamento.
+
+  No caso de CIAC satélite, deverá haver apenas um MGSO da entidade englobando as atividades
+  de todos os seus satélites.
+
+  Cada revisão do MGSO deve ser formalmente aprovada pelo Gestor Responsável e encaminhado
+  à ANAC conforme procedimentos e formulários previstos na IS nº 141-004.
+
+  O conteúdo do MGSO torna-se aplicável e mandatório ao CIAC na data prevista de entrada em
+  vigor, devendo ser respeitado e cumprido por todos os funcionários e colabores do CIAC.
+  O não cumprimento às regras estabelecidas pelo MGSO será caracterizado como implantação/operação
+  deficiente do SGSO.
+
+  O MGSO não isenta o CIAC de nenhuma regra aplicável, sob nenhuma hipótese.
+
+  O MGSO deve possuir pelo menos os itens abaixo:
+
+  Capa contendo número da revisão;
+
+  Termo de aprovação do MGSO e designação do GSO (contendo assinaturas do Gestor Responsável
+  e do Gerente de Segurança Operacional);
+
+  Introdução;
+
+  Política e Objetivos de Segurança Operacional;
+
+  Gerenciamento dos Riscos à Segurança Operacional;
+
+  Garantia da Segurança Operacional;
+
+  Promoção da Segurança Operacional; e
+
+  Plano de Resposta a Emergência.
+
+  O Apêndice C desta IS as orientações para desenvolvimento do MGSO. A ANAC disponibiliza
+  um modelo de MGSO no endereço:
+
+  https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios
+
+  , contemplando as disposições prevista nesta IS.
+
+  Recomenda-se a utilização deste modelo, porém o CIAC poderá adotar um formato próprio, desde
+  que contemple todas as disposições contidas no presente normativo.
+
+  Relatório Semestral
+
+  O CIAC deve encaminhar,
+
+  semestralmente
+
+  , os dados relativos ao gerenciamento da segurança operacional em formulário padrão à Gerência
+  de Formação e Qualificação de Pessoal (GFOP) através do protocolo eletrônico no Sistema
+  SEI
+
+  no site da ANAC:
+
+  https://www.anac.gov.br/acesso-a-informacao/protocolo-eletronico/
+
+  .
+
+  Podem encaminhar o relatório através do SEI apenas o Gestor Responsável, Gerente de Segurança
+  Operacional ou terceiro devidamente indicado em instrumento de Procuração.
+
+  Para envio do relatório, deverá ser escolhido no SEI o tipo de processo:
+
+  CERTIFICAÇÃO RBAC nº 141: Relatório semestral de SGSO
+
+  . Não será aceito o envio dos relatórios através de outro meio.
+
+  Os relatórios semestrais devem ser preenchidos de forma a refletir o desempenho do CIAC
+  a cada semestre do ano. Sendo que notadamente o primeiro semestre compreende ao período
+  entre 1º de janeiro e 30 junho e o segundo semestre ao período entre 1º de julho e 31 de
+  dezembro.
+
+  Os relatórios semestrais devem ser encaminhados até o término do mês subsequente ao semestre
+  em questão. Mais detalhadamente, os relatórios do primeiro semestre de cada ano devem ser
+  enviados até o dia 31 de julho do ano em questão, ao passo que os relatórios do segundo
+  semestre devem ser enviados no mais tardar até o dia 31 de janeiro do ano seguinte.
+
+  Mesmo que o CIAC esteja com suas atividades interrompidas, por motivo de suspensão ou inatividade,
+  os relatórios semestrais deverão ser encaminhados. A obrigação do envio cessa apenas com
+  a revogação ou cassação do certificado de CIAC.
+
+  Caso o CIAC necessite retificar alguma informação constante em um relatório encaminhado
+  à ANAC, esse deverá encaminhar um novo relatório completo, contendo todas as informações
+  atualizadas, referente ao semestre a ser corrigido.
+
+  A falta do envio das informações requeridas nos prazos estabelecidos pode indicar falhas
+  no gerenciamento da segurança operacional por parte do CIAC, podendo levar a interrupção
+  de suas atividades práticas de voo.
+
+  Independentemente dos relatórios semestrais de SGSO, os CIAC devem realizar os reportes
+  mandatórios definidos na
+
+  Resolução nº 714, de 26 de abril de 2023
+
+  , nos meios e prazos nela indicados.'
+keywords:
+- escolas
+- treinamento
+- ciac
+- seguranca
+- operacional
+- sgso
+- elemento
+- responsavel
+- devera
+- gestor
+- mgso
+- processo
+- gerenciamento
+- atividades
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-005.md

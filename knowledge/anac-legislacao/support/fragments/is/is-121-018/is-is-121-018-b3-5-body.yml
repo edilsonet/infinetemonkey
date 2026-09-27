@@ -1,0 +1,1102 @@
+id: is-is-121-018-b3-5-body
+kind: is
+document: is-121-018
+family: '121'
+section_id: B3.5
+section_title: Quando os auxílios visuais ou não visuais especificados para a aproximação
+  e que se consideram disponíveis para a determinação dos mínimos operacionais estão indisponíveis,
+  deve ser determinado um mínimo operacional revisado.
+subsection_id: body
+cite: B3.5
+title: Quando os auxílios visuais ou não visuais especificados para a aproximação e que se
+  consideram disponíveis para a determinação dos mínimos operacionais estão indisponíveis,
+  deve ser determinado um mínimo operacional revisado.
+text: 'B3.5 Quando os auxílios visuais ou não visuais especificados para a aproximação e que
+  se consideram disponíveis para a determinação dos mínimos operacionais estão indisponíveis,
+  deve ser determinado um mínimo operacional revisado.
+
+
+  Tabela B4 - Mínimos de visibilidade ou RVR para cada tipo de pista
+
+  Tipo de pista
+
+  Visibilidade ou RVR mínimo (m)
+
+  Pista para operação por instrumentos
+
+  Pista de aproximação por precisão, Categoria I
+
+  RVR 550
+
+  Pista de aproximação de não-precisão
+
+  RVR 750
+
+  Pista para operação visual
+
+  Mínimos para circular, conforme Tabela B13
+
+
+  Tabela B5 - Mínimos operacionais para ILS CAT I, PAR(3) e APV todas as categorias) e NPA
+  (categorias C, D e E)
+
+  DH ou MDH (pés)
+
+  Classificação das instalações das luzes
+
+  FALS
+
+  IALS
+
+  BALS
+
+  NALS
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  De 0 a 200
+
+  550(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  De 201 a 210
+
+  550(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  De 211 a 220
+
+  550(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  De 221 a 230
+
+  550(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  De 231 a 240
+
+  550(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  De 241 a 250
+
+  550(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1100
+
+  1300
+
+  De 251 a 260
+
+  550(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1100
+
+  1300
+
+  De 261 a 280
+
+  600(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1250
+
+  1300
+
+  De 281 a 300
+
+  650(1)(2)
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1250
+
+  1400
+
+  De 301 a 320
+
+  700
+
+  800
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1250
+
+  1400
+
+  De 321 a 340
+
+  750
+
+  800
+
+  1100
+
+  1200
+
+  1250
+
+  1300
+
+  1400
+
+  1500
+
+  De 341 a 360
+
+  850
+
+  900
+
+  1100
+
+  1200
+
+  1250
+
+  1400
+
+  1550
+
+  1600
+
+  De 361 a 380
+
+  1000
+
+  1000
+
+  1100
+
+  1300
+
+  1400
+
+  1500
+
+  1550
+
+  1700
+
+  De 381 a 400
+
+  1000
+
+  1100
+
+  1250
+
+  1400
+
+  1400
+
+  1600
+
+  1700
+
+  1800
+
+  De 401 a 420
+
+  1100
+
+  1200
+
+  1400
+
+  1500
+
+  1550
+
+  1700
+
+  1700
+
+  1900
+
+  De 421 a 440
+
+  1100
+
+  1300
+
+  1400
+
+  1600
+
+  1700
+
+  1800
+
+
+  2000
+
+  De 441 a 460
+
+  1250
+
+  1400
+
+  1550
+
+  1700
+
+  1700
+
+  1900
+
+
+  2100
+
+  De 461 a 480
+
+  1400
+
+  1500
+
+  1700
+
+  1800
+
+  1800
+
+  2000
+
+
+  2200
+
+  De 481 a 500
+
+  1400
+
+  1500
+
+  1700
+
+  1800
+
+  1800
+
+  2100
+
+
+  2300
+
+  De 501 a 520
+
+  1550
+
+  1600
+
+
+  1900
+
+  1900
+
+  2100
+
+
+  2400
+
+  De 521 a 540
+
+  1700
+
+  1700
+
+
+  2000
+
+
+  2200
+
+
+  2400
+
+  De 541 a 560
+
+  1700
+
+  1800
+
+
+  2100
+
+
+  2300
+
+
+  2500
+
+  De 561 a 580
+
+
+  1900
+
+
+  2200
+
+
+  2400
+
+
+  2600
+
+  De 581 a 600
+
+
+  2000
+
+
+  2300
+
+
+  2500
+
+
+  2700
+
+  De 601 a 620
+
+
+  2100
+
+
+  2400
+
+
+  2600
+
+
+  2800
+
+  De 621 a 640
+
+
+  2200
+
+
+  2500
+
+
+  2700
+
+
+  2900
+
+  De 641 a 660
+
+
+  2300
+
+
+  2600
+
+
+  2800
+
+
+  3000
+
+  De 661 a 680
+
+
+  2400
+
+
+  2700
+
+
+  2900
+
+
+  3100
+
+  De 681 a 700
+
+
+  2500
+
+
+  2800
+
+
+  3000
+
+
+  3200
+
+  De 701 a 720
+
+
+  2600
+
+
+  2900
+
+
+  3100
+
+
+  3300
+
+  De 721 a 740
+
+
+  2700
+
+
+  3000
+
+
+  3200
+
+
+  3400
+
+  De 741 a 760
+
+
+  2700
+
+
+  3000
+
+
+  3300
+
+
+  3500
+
+  De 761 a 800
+
+
+  2900
+
+
+  3200
+
+
+  3400
+
+
+  3600
+
+  De 801 a 850
+
+
+  3100
+
+
+  3400
+
+
+  3600
+
+
+  3800
+
+  De 851 a 900
+
+
+  3300
+
+
+  3600
+
+
+  3800
+
+
+  4000
+
+  De 901 a 950
+
+
+  3600
+
+
+  3900
+
+
+  4100
+
+
+  4300
+
+  De 951 a 1000
+
+
+  3800
+
+
+  4100
+
+
+  4300
+
+
+  4500
+
+  De 1001 a 1100
+
+
+  4100
+
+
+  4400
+
+
+  4600
+
+
+  4900
+
+  De 1101 a 1200
+
+
+  4600
+
+
+  4900
+
+
+  5000
+
+
+  5000
+
+  A partir de 1201
+
+
+  5000
+
+
+  5000
+
+
+  5000
+
+
+  5000
+
+  Notas:
+
+  (1) - CAT I com luzes de zona de toque da pista e luzes de eixo de pista
+
+  (2) - CAT I sem luzes de zona de toque da pista ou luzes de eixo de pista, autorizado quando
+  o comprimento mínimo da pista é de 1500 m e com aproximação utilizando diretor de voo, piloto
+  automático ou HUD até a DA
+
+  (3) - Para DH/MDH inferior a 200 pés, consultar a tabela B6
+
+
+  Tabela B6 - Mínimos operacionais para PAR (todas as categorias)
+
+  DH ou MDH (pés)
+
+  Classificação das instalações das luzes
+
+  ALS com luzes de zona de toque da pista e luzes de eixo de pista
+
+  ALS/SSALR/
+
+  SALS/SSALS
+
+  MALR/MALS/
+
+  ODALS
+
+  Sem luzes
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  Inferior a 200
+
+  300
+
+  350
+
+  450
+
+  500
+
+  700
+
+  750
+
+  700
+
+  750
+
+
+  Tabela B7 - Mínimos operacionais para NPA (categoria A)
+
+  DH ou MDH (pés)
+
+  Classificação das instalações das luzes
+
+  FALS
+
+  IALS
+
+  BALS
+
+  NALS
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  De 250 a 880
+
+  700(1)
+
+  750(1)
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1550
+
+  1600
+
+  A partir de 881
+
+  1100
+
+  1200
+
+  1550
+
+  1600
+
+  1550
+
+  1600
+
+  1700
+
+  2000
+
+  Nota:
+
+  (1) - Para NDB, RVR 1100 e VIS 1200 m.
+
+
+  Tabela B8 - Mínimos operacionais para NPA (categoria B)
+
+  DH ou MDH (pés)
+
+  Classificação das instalações das luzes
+
+  FALS
+
+  IALS
+
+  BALS
+
+  NALS
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  RVR (m)
+
+  VIS (m)
+
+  De 250 a 740
+
+  700(1)
+
+  750(1)
+
+  1100
+
+  1200
+
+  1100
+
+  1200
+
+  1550
+
+  1600
+
+  De 741 a 950
+
+  1100
+
+  1200
+
+  1550
+
+  1600
+
+  1550
+
+  1600
+
+  1700
+
+  2000
+
+  A partir de 951
+
+  1550
+
+  1600
+
+  1700
+
+  2000
+
+  1700
+
+  2000
+
+
+  2400
+
+  Nota:
+
+  (1) - Para NDB, RVR 1100 e VIS 1200 m.
+
+
+  Tabela B9 - Mínimos operacionais para NPA (categorias C, D e E)
+
+
+  RVR
+
+  VIS
+
+  Se os procedimentos obedecerem aos seguintes critérios:
+
+  - final deslocada de até 5º
+
+  - Segmento de aproximação final mínimo de 3 NM
+
+  - Procedimento com FAF; e
+
+  - distância do FAF à cabeceira de até 8 NM (se a tabela de tempo/distância é publicada)
+
+  700
+
+  750
+
+  Demais situações
+
+  1100
+
+  1200
+
+
+  Tabela B10 - RVR mínimo de acordo com os auxílios visuais e não visuais e o equipamento
+  a bordo utilizado
+
+
+  Tipo de aproximação
+
+  Instalações
+
+  RVR mínimo
+
+  Operações 3D
+
+  Luzes de zona de toque de pista; e
+
+  Luzes de eixo de pista
+
+  Sem limite
+
+  Sem luzes de zona de toque da pista ou luzes de eixo de pista, mas com:
+
+  - uso de HUDLS ou sistema equivalente; e
+
+  - diretor de voo ou piloto automático acoplado até a DH
+
+  Sem limite
+
+  Sem luzes de zona de toque da pista ou luzes de eixo de pista; e
+
+  Sem uso de HUDLS ou sistema equivalente nem de
+
+  diretor de voo ou piloto automático acoplado até a DH
+
+  750 m
+
+  Operações 2D
+
+  Offset na trajetória final da aproximação de até 15º para aviões categoria A ou B, ou de
+  até 5º para aviões categoria C ou D
+
+  750 m
+
+  Offset na trajetória final da aproximação superior a 15º para aviões categoria A ou B
+
+
+  1000 m
+
+  Offset na trajetória final da aproximação superior a 5º para aviões categoria C ou D
+
+
+  1200 m
+
+
+  Tabela B11 - Sistemas de luzes de aproximação
+
+  Classificação do sistema de iluminação
+
+  Comprimento, configuração e intensidade das luzes de aproximação
+
+  FALS
+
+  DECEA e FAA: ALSF-1, ALSF-2, SSALR, MALSR
+
+  Intensidade média ou alta e/ou luzes estroboscópicas
+
+  Para o DECEA: comprimento de 720 m ou mais
+
+
+  OACI e EASA: Sistema de iluminação CAT I (HIALS≥720 m*)
+
+  Luzes da linha de eixo posicionadas de maneira a oferecer informação de distância (conforme
+  154.305(h)(2)(i)(A) do RBAC nº 154) ou consistente de barreta (conforme 154.305(h)(2)(i)(B)).
+
+  IALS
+
+  DECEA e FAA: MALSF, MALS, SSALF, SSALS, SALS/SALSF Intensidade média ou alta e/ou luzes
+  estroboscópicas
+
+  Para o DECEA: comprimento de 420 a 719 m
+
+
+  OACI e EASA: Sistema de luzes de aproximação simples (HIALS de 420 a 719 m)
+
+  Fonte de luz única (conforme 154.305(h)(2)(ii)(A) do RBAC nº 154) ou barreta (154.305(h)(2)(ii)(B))
+
+  BALS
+
+  DECEA e FAA: ODALS
+
+  Intensidade média ou alta e/ou luzes estroboscópicas
+
+  Para o DECEA: comprimento o de 210 a 419 m
+
+
+  OACI e EASA: Qualquer outro sistema de luzes de aproximação (HIALS, MALS ou ALS de 210 a
+  419 m)
+
+  NALS
+
+  DECEA e FAA: sistema de luzes com comprimento interior a 210 m ou sem luzes de aproximação
+
+
+  OACI e EASA: Qualquer outro sistema de luzes de aproximação (HIALS, MALS ou ALS < 210 m)
+  ou sem luzes de aproximação
+
+  Nota: as classificações dos sistemas de luzes conforme DECEA e FAA se encontram no Order
+  8260.3D - United States Standard for Terminal Instrument Procedures (TERPS), disponível
+  em https://www.faa.gov/documentLibrary/media/Order/Order_82603E_CHG-01_Consolidated.pdf.'
+keywords:
+- transporte-aereo
+- operacoes
+- luzes
+- pista
+- aproximacao
+- tabela
+- minimos
+- decea
+- minimo
+- operacionais
+- sistema
+- visuais
+- categoria
+- eixo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

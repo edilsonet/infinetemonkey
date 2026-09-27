@@ -1,0 +1,40 @@
+id: is-is-175-009-5-3-18-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.18
+section_title: O campo “Número de volumes” deve indicar o número de volumes de artigos perigosos,
+subsection_id: body
+cite: 5.3.18
+title: O campo “Número de volumes” deve indicar o número de volumes de artigos perigosos,
+text: '5.3.18 O campo “Número de volumes” deve indicar o número de volumes de artigos perigosos,
+
+  ou seja, cada embalagem devidamente marcada e etiquetada (por ex.: número de caixas,
+
+  de tambores, de bombonas, dentre outros). Esse campo não deve ser preenchido com o
+
+  número de ULD, páletes ou contêineres. No caso de material radioativo, como de acordo
+
+  com o item 5.3.3 haverá apenas um registro do relatório para cada volume declarado, esse
+
+  campo deverá ser preenchido como “1” (um volume).'
+keywords:
+- artigos-perigosos
+- carga
+- numero
+- volumes
+- campo
+- artigos
+- indicar
+- perigosos
+- cada
+- preenchido
+- volume
+- acordo
+- bombonas
+- caixas
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

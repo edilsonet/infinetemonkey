@@ -1,0 +1,66 @@
+id: is-is-175-005-4-body
+kind: is
+document: is-175-005
+family: '175'
+section_id: '4'
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: '4'
+title: DEFINIÇÕES
+text: '4. DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS adotam-se as definições do RBAC nº 175, da IS nº 175-001 e
+  demais IS associadas, da Resolução nº 714, de 26 de abril de 2023 e as seguintes definições:
+
+  4.1.1 acidente com artigo perigoso: uma ocorrência associada e relacionada ao transporte
+  de artigos perigosos por via aérea, não necessariamente ocorrida a bordo de uma aeronave,
+  que resulte em morte ou lesão grave a uma pessoa ou danos consideráveis a bens ou ao meio
+  ambiente;
+
+  Nota: um acidente com artigos perigosos pode também constituir um acidente aeronáutico,
+  conforme especificado no Anexo 13 à Convenção de Chicago - Investigação de Acidente e Incidente
+  Aeronáutico.
+
+  4.1.2 artigo perigoso mal declarado: artigo perigoso apresentado, intencionalmente ou não,
+  como carga geral, bagagem ou mala postal, com informações ausentes, incompletas ou erradas,
+  seja na documentação ou no volume, de forma que não permita ao operador aéreo a adequada
+  identificação do artigo, podendo comprometer os princípios da segurança operacional;
+
+  4.1.3 artigo perigoso não declarado: artigo perigoso apresentado, intencionalmente ou não,
+  como carga geral, bagagem ou mala postal, de forma que não permita ao operador aéreo ciência
+  imediata ou evidente da presença de tal artigo, podendo comprometer os princípios da segurança
+  operacional;
+
+  Nota: artigos perigosos mal declarados ou não declarados classificam-se como discrepâncias,
+  conforme a seção 175.3 do RBAC n° 175.
+
+  4.1.4 condição latente: condição que não se configura como ocorrência com artigo perigoso,
+  mas que, se não sanada, pode gerar um incidente ou acidente com artigos perigosos, tal como
+  regulamentação inapropriada, procedimentos de segurança operacional ineficientes ou potenciais
+  falhas humanas.
+
+  4.1.5 notificante significa a pessoa física ou jurídica, operador aéreo ou qualquer outra
+  entidade relacionada ao transporte aéreo que, ao notar a existência de determinada ocorrência
+  com o transporte de artigos perigosos em sua posse ou na posse de terceiros, notifica à
+  Agência Nacional de Aviação Civil em consonância com os requisitos do RBAC nº 175 por meio
+  dos procedimentos descritos na presente IS;'
+keywords:
+- artigos-perigosos
+- carga
+- artigo
+- perigoso
+- acidente
+- artigos
+- definicoes
+- perigosos
+- aereo
+- ocorrencia
+- operacional
+- operador
+- seguranca
+- transporte
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-005.md

@@ -1,0 +1,24 @@
+id: iac-iac-001-1001a-2-1-1-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 2.1.1
+section_title: TÍTULO DO ÍTEM
+subsection_id: body
+cite: 2.1.1
+title: TÍTULO DO ÍTEM
+text: '2.1.1 TÍTULO DO ÍTEM
+
+  Redação do texto x x x x x x xxxxxxxxxxxxxxxxxxxx x x x x x x x x x x x x x x x
+
+  x x x x x xxxxxxxxxxxxxxxx:'
+keywords:
+- titulo
+- redacao
+- texto
+- xxxxxxxxxxxxxxxx
+- xxxxxxxxxxxxxxxxxxxx
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

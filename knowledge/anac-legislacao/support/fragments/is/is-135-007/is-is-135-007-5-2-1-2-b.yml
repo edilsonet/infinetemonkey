@@ -1,0 +1,61 @@
+id: is-is-135-007-5-2-1-2-b
+kind: is
+document: is-135-007
+family: '135'
+section_id: 5.2.1.2
+section_title: Pouso
+subsection_id: b
+cite: 5.2.1.2(b)
+title: 5.2.1.2(b)
+text: 'b) o avião pousa na pista mais conveniente, considerando a direção e a velocidade prováveis
+  do vento, as características de manobrabilidade no solo do tipo de avião e outras variáveis
+  como auxílios de pouso e terreno.
+
+  Nota: se em razão de condições conhecidas ou previstas (como procedimentos do controle de
+  tráfego aéreo ou condições da infraestrutura de solo), somente uma pista e direção puder
+  ser utilizada, então essa pista e direção deve ser considerada para a condição de ar calmo
+  - independentemente de a outra direção ser mais favorável.
+
+  5.2.1.2.2 Normalmente, a condição com ar calmo é a mais restritiva, considerando que, se
+  houver vento, o avião poderia, em tese, pousar com vento de proa, contribuindo para o desempenho
+  de pouso do avião. No entanto, comprimentos de LDA diferentes para cada cabeceira, limitação
+  por obstáculos no entorno do aeródromo ou por procedimentos do controle de tráfego aéreo
+  podem fazer com que a segunda condição seja mais restritiva.
+
+  5.2.1.2.3 O cumprimento dos requisitos de desempenho de pouso no aeródromo de destino, considerando
+  a pista e a direção mais favorável na condição de ar calmo, é obrigatório. Dessa forma,
+  caso isso não ocorra, o voo não pode ser despachado/liberado.
+
+  5.2.1.2.4 No entanto, conforme os parágrafos 135.375(b) e 135.385(c) e (g), se não puder
+  se garantir o cumprimento na condição de vento esperado, o voo pode ainda assim ser despachado/liberado
+  desde que se indique um aeródromo de alternativa que cumpra com os requisitos aplicáveis.
+
+  Nota: essa exigência pode fazer com que seja obrigatório indicar um aeródromo de alternativa
+  mesmo para voos VFR. Nesse caso específico, o voo deve possuir autonomia (em termos de combustível
+  e óleo lubrificante) para voar até o aeródromo de alternativa - ainda que tal situação não
+  esteja prevista na seção 135.209 do RBAC nº 135
+
+  5.2.1.2.5 Recomenda-se, como forma de evitar desvio para a alternativa, por impossibilidade
+  de execução do pouso, que, para o planejamento de voo se considere para a condição de ar
+  calmo a cabeceira que possui a maior limitação em termos peso de pouso (normalmente, a que
+  possui menor LDA).'
+keywords:
+- taxi-aereo
+- operacoes
+- condicao
+- pouso
+- aerodromo
+- direcao
+- alternativa
+- aviao
+- calmo
+- pista
+- vento
+- considerando
+- pode
+- aereo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-007.md

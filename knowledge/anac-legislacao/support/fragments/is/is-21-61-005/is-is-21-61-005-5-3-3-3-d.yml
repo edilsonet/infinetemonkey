@@ -1,0 +1,55 @@
+id: is-is-21-61-005-5-3-3-3-d
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.3.3
+section_title: 'An acceptable level of safety can be maintained for an MMEL item through one
+  or a combination of the following means:'
+subsection_id: d
+cite: 5.3.3.3(d)
+title: 5.3.3.3(d)
+text: 'd) development of maintenance procedures (such as deactivation and securing the system/component
+  of concern, additional verification tasks).
+
+  5.3.3.4 Testes de voo em uma aeronave ou em um Dispositivo de Treinamento para Simulação
+  de Voo (Flight Simulation Training Device - FSTD) representativo do projeto de tipo podem
+  ser usados para ajudar a avaliar um item da MMEL, em particular as consequências do item
+  falhado na carga de trabalho da tripulação e nos fatores humanos.
+
+  5.3.3.4 Flight testing on an aircraft or on a Flight Simulation Training Device - FSTD representative
+  of the type design may be used to help evaluate an MMEL item, in particular the consequences
+  of the failed item on crew workload and human factors.
+
+  5.3.3.5 Quando um item proposto para a MMEL for necessário para a tripulação executar um
+  procedimento anormal ou de emergência existente, as consequências de sua indisponibilidade
+  devem ser avaliadas, levando-se em conta a potencial escalada da gravidade da condição de
+  falha em voo.
+
+  5.3.3.5 When an item proposed for the MMEL is necessary for the crew to perform an existing
+  non-normal or emergency procedure, the consequences of its unavailability should be evaluated,
+  taking into account the potentially worsening of the severity of the in-flight failure condition.
+
+  5.3.3.6 Itens que são alimentados por um barramento de emergência ou equivalente e requeridos
+  para a realizar um procedimento de emergência normalmente não são permitidos na MMEL.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- mmel
+- flight
+- emergencia
+- consequences
+- consequencias
+- crew
+- device
+- fstd
+- particular
+- procedimento
+- simulation
+- training
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

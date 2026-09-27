@@ -1,0 +1,35 @@
+id: iac-iac-187-1001-5-2-2-c
+kind: iac
+document: iac-187-1001
+family: '187'
+section_id: 5.2.2
+section_title: DEPÓSITO POR INTERMÉDIO DOS TERMINAIS DE AUTO-ATENDIMENTO DO BANCO
+subsection_id: c
+cite: 5.2.2(c)
+title: 5.2.2(c)
+text: 'c) código identificador (composto de UG, GESTÃO E CÓDIGO FINALIDADE DE DEPÓ-
+
+  SITO): 12003300001220809 (para serviços de inspeção, fiscalização, taxas, emolumentos
+
+  e fornecimentos de editais), ou 12003300001220817 (para multas), ou
+
+  12003300001107085 (para adicional tarifário), conforme a finalidade do serviço pretendi-
+
+  do.'
+keywords:
+- codigo
+- finalidade
+- adicional
+- atendimento
+- auto
+- banco
+- composto
+- depo
+- deposito
+- editais
+- emolumentos
+- fiscalizacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-187-1001.md

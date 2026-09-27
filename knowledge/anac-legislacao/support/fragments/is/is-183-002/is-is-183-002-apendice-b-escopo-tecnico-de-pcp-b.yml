@@ -1,0 +1,381 @@
+id: is-is-183-002-apendice-b-escopo-tecnico-de-pcp-b
+kind: is
+document: is-183-002
+family: '183'
+section_id: apendice-b-escopo-tecnico-de-pcp
+section_title: APÊNDICE B - ESCOPO TÉCNICO de PCP
+subsection_id: b
+cite: apendice-b-escopo-tecnico-de-pcp(b)
+title: apendice-b-escopo-tecnico-de-pcp(b)
+text: 'b) tomadas elétricas de assentos.
+
+  B.7.2.3 - Iluminação Externa e de cockpit: Sistemas de luzes de posição, anticolisão, inspeção
+  de asa e faróis de pouso e táxi, bem como suas proteções e indicações; sistema de iluminação
+  normal de cockpit, incluindo suas proteções e indicações.
+
+  B.7.2.4 - Compatibilidade Eletromagnética: Compatibilidade eletromagnética entre os diversos
+  sistemas eletroeletrônicos da aeronave, incluindo a avaliação de acoplamentos e possíveis
+  interferências eletromagnéticas entre equipamentos, cablagens e antenas (por exemplo, o
+  escopo dos parágrafos 25.1353(a) e 25.1431(c) do RBAC 25,).
+
+  B.7.2.5 - Metalização Elétrica e Eletricidade Estática: Principalmente o escopo da seção
+  25.899 e do parágrafo 25.1353(c) do RBAC 25.
+
+  B.7.2.6 - Proteção de Sistemas Eletroeletrônicos contra HIRF: Proteção dos sistemas eletrônicos
+  da aeronave contra efeitos adversos de campos eletromagnéticos irradiados de alta intensidade,
+  por exemplo, o escopo da seção 25.1317 do RBAC 25.
+
+  B.7.2.7 - Proteção de Sistemas Eletroeletrônicos contra Raios: Proteção dos sistemas eletroeletrônicos
+  contra efeitos adversos de raios (por exemplo, o escopo da seção 25.1316 do RBAC 25).
+
+  B.7.2.8 - Proteção de Estruturas de Aeronaves contra Raios: Trata-se de toda a proteção
+  da aeronave contra efeitos adversos de raios, excetuando-se apenas a proteção de sistemas
+  eletroeletrônicos (Área do item B7.2.8) e a proteção de sistemas de combustível (Área do
+  item B7.2.10), tratadas por requisitos de certificação e áreas de credenciamento específicas.
+  Aplica-se, por exemplo, à proteção de estruturas da aeronave e aos sistemas ou partes de
+  sistemas que não sejam eletroeletrônicos. Ex.: no RBAC 25 refere-se ao escopo do requisito
+  da subseção 25.581.
+
+  B.7.2.9 - Proteção de Estruturas de Tanques e Sistemas de Combustível contra Raios: Trata-se
+  da proteção do sistema de combustível (incluindo a estrutura dos tanques de combustível)
+  contra fontes de ignição causadas por raios. Ex. no RBAC 25 refere-se principalmente ao
+  requisito da seção 25.954, sendo atualmente aplicável também o requisito da seção 25.981(a)(3)
+  referente a fontes de ignição causadas por raios.
+
+  B.7.2.10 - EWIS
+
+  B.7.2.11 - Especiais: Esta Área de Atuação é destinada a designações específicas deste quadro
+  área função.
+
+  B.7.2.12 - Iluminação de cabine, luzes de serviço e luzes de emergência: Sistema de iluminação
+  normal e de emergência da cabine de passageiros, iluminação de compartimentos de carga e
+  seus painéis de controle, bem como suas proteções e indicações.
+
+  B.7.2.13 - Sistemas e equipamentos diversos: Trata de requisitos de certificação da subparte
+  F (“Electrical System and Equipment”) que são aplicáveis a componentes elétricos dos diversos
+  sistemas das aeronaves, como por exemplo, dispositivos de proteção elétrica; motores e atuadores
+  elétricos; baterias dedicadas.
+
+  B.8 - ENGENHARIA DE INTEGRAÇÃO DE SISTEMAS (NÍVEL AERONAVE)
+
+  B.8.1 - Descrição Geral
+
+  B.8.1.1 - Avaliação de segurança de sistemas no nível aeronave; avaliação de segurança da
+  aeronave quanto ao risco de fluidos inflamáveis, falhas não contidas de rotores, fogo que
+  atravessa a carcaça do motor e APU, e falhas de pneus e rodas; avaliação de sobrevivência
+  dos sistemas da aeronave a ameaças físicas externas; proteção de segurança da informação
+  de sistemas da aeronave (cyber security).
+
+  B.8.2 - Áreas de Atuação
+
+  B.8.2.1 - Desenvolvimento integrado de sistemas: avaliação integrada de segurança dos sistemas
+  da aeronave incluindo atividades como: Aircraft Funcional Hazard Assessment (AFHA), Preliminary
+  Aircraft Safety Assessment (PASA), Aircraft Safety Assessment (ASA), Zonal Safety Analysis
+  (ZSA), Particular Risk Analysis (PRA), Common Mode Analysis (CMA).
+
+  B.8.2.2 - Proteção de áreas com fluidos inflamáveis: avaliação da segurança da aeronave
+  quanto ao risco de fogo devido à presença de fluidos inflamáveis.
+
+  B.8.2.3 - Falhas não contidas de rotores (rotor burst): avaliação da segurança da aeronave
+  quanto ao risco de falhas não contidas de rotores do motor e APU.
+
+  B.8.2.4 - Proteção contra fogo que atravessa a carcaça do motor e APU (burnthrough): avaliação
+  da segurança da aeronave quanto ao risco de fogo que atravessa a carcaça do motor e APU
+  (burnthrough).
+
+  B.8.2.5 - Falhas de pneus e rodas (tire burst, tire thread flailing, wheel rim release):
+  avaliação da segurança da aeronave quanto ao risco de falhas de pneus e rodas tais como
+  tire burst, tire thread flailing, e wheel rim release.
+
+  B.8.2.6 - Sobrevivência de Sistemas (Survivability of Systems): avaliação da segurança da
+  aeronave quanto ao risco de dano físico aos sistemas devido a atos de interferência ilícita.
+
+  B.8.2.7 - Proteção e Segurança da Informação de Sistemas (Cyber Security): avaliação da
+  segurança da aeronave quanto ao risco de comprometimento de sistemas eletroeletrônicos devido
+  a atos de interferência ilícita.
+
+  B.9 - ENGENHARIA DE RADIOCOMUNICAÇÃO E RADIONAVEGAÇÃO
+
+  B.9.1 - Descrição geral
+
+  B.9.1.1 - Sistemas de radiocomunicação e radionavegação, sob o prisma dos requisitos OTP
+  (TSO).
+
+  B.9.2 - Áreas de Atuação
+
+  B.9.2.1 - Radiocomunicação
+
+  B.9.2.2 - Radionavegação
+
+  B.9.2.3 - Painéis de controle
+
+  B.9.2.4 - Antenas
+
+  B.9.2.5 - Reservado
+
+  B.9.2.6 - Reservado
+
+  B.9.2.7 - Reservado
+
+  B.9.2.8 - Reservado
+
+  B.9.2.9 - Reservado
+
+  B.9.2.10 - Reservado
+
+  B.9.2.11 - Reservado
+
+  B.9.2.12 - Especiais: Esta Área de Atuação é destinada a designações específicas deste quadro
+  área função.
+
+  B.10 - ENGENHARIA DE MOTORES
+
+  B.10.1 - Descrição geral
+
+  B.10.1.1 - Motores e seus componentes e acessórios, incluindo instalação, montagem e falhas.
+
+  B.10.2 - Áreas de Atuação
+
+  B.10.2.1 - Motores e turbinas
+
+  B.10.2.2 - Motores a pistão
+
+  B.10.2.3 - Reservado
+
+  B.10.2.4 - Reservado
+
+  B.10.2.5 - Reservado
+
+  B.10.2.6 - Reservado
+
+  B.10.2.7 - Reservado
+
+  B.10.2.8 - Reservado
+
+  B.10.2.9 - Reservado
+
+  B.10.2.10 - Reservado
+
+  B.10.2.11 - Reservado
+
+  B.10.2.12 - Especiais: Esta Área de Atuação é destinada a designações específicas deste
+  quadro área função.
+
+  B.11 - ENGENHARIA DE HÉLICES
+
+  B.11.1 - Descrição geral
+
+  B.11.1.1 - Hélices e seus componentes e acessórios, incluindo instalação, montagem e falhas.
+
+  B.11.2 - Áreas de Atuação
+
+  B.11.2.1 - Hélices de passo variável
+
+  B.11.2.2 - Hélices de passo fixo
+
+  B.11.2.3 - Reservado
+
+  B.11.2.4 - Reservado
+
+  B.11.2.5 - Reservado
+
+  B.11.2.6 - Reservado
+
+  B.11.2.7 - Reservado
+
+  B.11.2.8 - Reservado
+
+  B.11.2.9 - Reservado
+
+  B.11.2.10 - Reservado
+
+  B.11.2.11 - Reservado
+
+  B.11.2.12 - Especiais: Esta Área de Atuação é destinada a designações específicas deste
+  quadro área função.
+
+  B.12 - ENGENHARIA DE ENSAIOS EM VOO
+
+  B.12.1 - Descrição geral
+
+  B.12.1.1 - Aspectos relativos ao voo, incluindo: desempenho, qualidade de voo e sistemas;
+  limitações operacionais; fator humano; instalação e instrumentação de ensaios; redução e
+  expansão de dados.
+
+  B.12.2 - Áreas de Atuação
+
+  B.12.2.1 - Desempenho - Asa fixa
+
+  B.12.2.2 - Características de voo - Asa fixa
+
+  B.12.2.3 - Aerodinâmica - Asa fixa
+
+  B.12.2.4 - Desempenho - Asa rotativa
+
+  B.12.2.5 - Características de voo - Asa rotativa
+
+  B.12.2.6 - Aerodinâmica - Asa rotativa
+
+  B.12.2.7 - Sistemas em geral
+
+  B.12.2.8 - Sistemas de controle automático de voo
+
+  B.12.2.9 - Sistema de proteção contra gelo
+
+  B.12.2.10 - Reservado
+
+  B.12.2.11 - Reservado
+
+  B.12.2.12 - Especiais: Esta Área de Atuação é destinada a designações específicas deste
+  quadro área função.
+
+  B.13 - PILOTO DE ENSAIOS EM VOO
+
+  B.13.1 - Descrição geral
+
+  B.13.1.1 - Aspectos relativos ao voo, sob o aspecto da pilotagem, incluindo: desempenho,
+  qualidade de voo e sistemas; limitações operacionais; e fator humano.
+
+  B.13.2 - Áreas de Atuação
+
+  B.13.2.1 - Desempenho - Asa fixa
+
+  B.13.2.2 - Características de voo - Asa fixa
+
+  B.13.2.3 - Aerodinâmica - Asa fixa
+
+  B.13.2.4 - Desempenho - Asa rotativa
+
+  B.13.2.5 - Características de voo - Asa rotativa
+
+  B.13.2.6 - Aerodinâmica - Asa rotativa
+
+  B.13.2.7 - Sistemas em geral
+
+  B.13.2.8 - Sistemas de controle automático de voo
+
+  B.13.2.9 - Sistemas de proteção contra gelo
+
+  B.13.2.10 - Reservado
+
+  B.13.2.11 - Reservado
+
+  B.13.2.12 - Especiais: Esta Área de Atuação é destinada a designações específicas deste
+  quadro área função.
+
+  B.14 - ENGENHARIA ACÚSTICA
+
+  B.14.1 - Descrição geral
+
+  B.14.1.1 - Emissões de ruído oriundas de aeronaves, motores e APU.
+
+  B.14.2 - Áreas de Atuação
+
+  B.14.2.1 - Acústica
+
+  B.14.2.2 - Reservado
+
+  B.14.2.3 - Reservado
+
+  B.14.2.4 - Reservado
+
+  B.14.2.5 - Reservado
+
+  B.14.2.6 - Reservado
+
+  B.14.2.7 - Reservado
+
+  B.14.2.8 - Reservado
+
+  B.14.2.9 - Reservado
+
+  B.14.2.10 - Reservado
+
+  B.14.2.11 - Reservado
+
+  B.14.2.12 - Especiais: Esta Área de Atuação é destinada a designações específicas deste
+  quadro área função.
+
+  B.15 - ENGENHARIA DE PROCESSOS DE SOFTWARE, AEH E SISTEMAS
+
+  B.15.1 - Descrição geral
+
+  B.15.1.1 - Aspectos de integridade de itens de software ou AEH presentes em sistemas e equipamentos
+  embarcados em aeronaves e avaliação de processos de desenvolvimento aplicado a sistemas,
+  incluindo avaliação específica para sistemas IMA (Integrated Modular Avionics). As atividades
+  incluem substanciações analíticas e avaliações de processos, incluindo avaliação de relatórios
+  de certificação e auditorias.
+
+  B.15.1.2 - No contexto deste documento, AEH (Airborne Electronic Hardware) é um termo geral
+  que abrange tanto os itens de hardware eletrônico simples (SEH) quanto os itens de hardware
+  eletrônico complexos (CEH), limitado aos dispositivos eletrônicos customizados por microcodificação,
+  tais como: ASIC (Application Specific Integrated Circuits), PLD (Programmable Logic Devices),
+  e FPGA (Field Programmable Gate Arrays).
+
+  B.15.2 - Áreas de Atuação
+
+  B.15.2.1 - Geral
+
+  B.15.2.2 - Propulsão
+
+  B.15.2.3 - Sistemas Mecânicos
+
+  B.15.2.4 - Sistemas Eletrônicos
+
+  B.15.2.5 - Motores
+
+  B.15.2.6 - Hélices
+
+  B.15.2.7 - Radiocomunicação e Radionavegação
+
+  B.15.2.8 - Sistemas Elétricos
+
+  B.15.2.9 - Reservado
+
+  B.15.2.10 - Reservado
+
+  B.15.2.11 - Reservado
+
+  B.15.2.12 - Especiais: Esta Área de Atuação é destinada a designações específicas deste
+  quadro área função.
+
+  B.16 - ENGENHARIA DE INTERIORES
+
+  B.16.1 - Descrição geral
+
+  B.16.1.1 - Arranjos de interior de aeronave: Inclui crashworthiness; flutuação e pouso forçado
+  na água; perfil de tolerância humana; inflamabilidade; informações e instruções para os
+  passageiros; sistemas de proteção contra fogo e equipamentos e saídas de emergência.
+
+  B.16.2 - Áreas de Atuação
+
+  B.16.2.1 - Inflamabilidade de Materiais Interiores: Inclui análise e acompanhamento de ensaios
+  de materiais utilizados nos compartimentos de interior das aeronaves, mantas de insonorização
+  e cablagem da fuselagem, bem como ensaios de contenção de fogo em lixeiras.
+
+  B.16.2.2 - Portas, Escotilhas e Saídas de Emergência: Incluem todas as portas e acessos
+  da aeronave, no que se refere aos aspectos de análise e avaliação de mecanismos de portas
+  e saídas de emergência em seu arranjo, sinalização, funcionalidade e acessos.
+
+  B.16.2.3 - Proteção dos ocupantes e Poltronas: Inclui os aspectos de proteção do ocupante
+  nas instalações e acessibilidade de:'
+keywords:
+- delegacao
+- credenciamento
+- reservado
+- sistemas
+- protecao
+- aeronave
+- area
+- atuacao
+- avaliacao
+- geral
+- contra
+- areas
+- seguranca
+- incluindo
+categories:
+- delegacao
+- credenciamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-183-002.md

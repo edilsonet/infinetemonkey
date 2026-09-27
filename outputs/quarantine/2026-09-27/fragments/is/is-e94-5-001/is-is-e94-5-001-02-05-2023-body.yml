@@ -1,0 +1,285 @@
+id: is-is-e94-5-001-02-05-2023-body
+kind: is
+document: is-e94-5-001
+family: '94'
+section_id: 02.05.2023
+section_title: 02.05.2023
+subsection_id: body
+cite: 02.05.2023
+title: 02.05.2023
+text: '02.05.2023
+
+
+  PREÂMBULO
+
+  O requisito E94.5(b) do RBAC-E 94 estabelece critérios para operações com Sistema de Aeronave
+  Remotamente Pilotada (RPAS) para aplicar agrotóxicos e afins, adjuvantes, fertilizantes,
+  inoculantes, corretivos e sementes, sendo permitido, nesses casos, que o RPAS não possua
+  um projeto autorizado pela ANAC.
+
+  No entanto, caso o fabricante tenha o interesse de autorizar seu projeto de RPAS para essas
+  operações, deverá atender os critérios estabelecidos nesta Instrução Suplementar, desenvolvidos
+  de acordo com a Metodologia SORA. Para os casos não previstos nesta IS, aplicam-se os critérios
+  estabelecidos na Subparte E do RBAC-E 94.
+
+  OBJETIVO
+
+  Esta Instrução Suplementar - IS tem o objetivo de estabelecer critérios para autorização
+  de projeto de Sistema de Aeronave Remotamente Pilotada (RPAS) destinado à aplicação de agrotóxicos
+  e afins, adjuvantes, fertilizantes, inoculantes, corretivos e sementes.
+
+  REVOGAÇÃO
+
+  Não aplicável.
+
+  FUNDAMENTOS
+
+  A Lei 11.182/2005 (Lei de Criação da ANAC) estabelece no seu Art. 8, que " Cabe à ANAC adotar
+  as medidas necessárias para o atendimento do interesse público e para o desenvolvimento
+  e fomento da aviação civil, (...) atuando com independência, legalidade, impessoalidade
+  e publicidade (...)".
+
+  O mesmo artigo determina em seu inciso X, que compete à ANAC "regular e fiscalizar os serviços
+  aéreos, os produtos e processos aeronáuticos, a formação e o treinamento de pessoal especializado,
+  os serviços auxiliares, a segurança da aviação civil, a facilitação do transporte aéreo,
+  (...) e as demais atividades de aviação civil".
+
+  O requisito E94.5(b) do RBAC-E 94 estabelece critérios para operações com RPAS para aplicar
+  agrotóxicos e afins, adjuvantes, fertilizantes, inoculantes, corretivos e sementes.
+
+  O requisito E94.401(b)(1)(i) do RBAC-E 94 estabelece que a ANAC pode determinar forma diferente
+  da estabelecida pela Subparte E do RBAC-E 94 para autorização de projeto de RPAS.
+
+  O art. 14 da Resolução nº 30, de 21 de maio de 2008, modificado pela Resolução n° 162, de
+  20 de julho de 2010, também determina, em seu § 1°, que o administrado que pretenda, para
+  qualquer finalidade, demonstrar o cumprimento de requisito poderá adotar os meios e procedimentos
+  previamente especificados em IS ou apresentar meio ou procedimento alternativo devidamente
+  justificado, exigindo-se, nesse caso, a análise e concordância expressa do órgão competente
+  da ANAC. O § 2° do mesmo artigo estabelece que o meio ou procedimento alternativo deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  DEFINIÇÕES
+
+  São consideradas válidas as definições contidas na seção E94.3 do RBAC-E nº 94.
+
+  DESENVOLVIMENTO DO ASSUNTO
+
+  Geral
+
+  Aplicabilidade
+
+  Esta IS é aplicável para autorização de projeto de RPAS destinado à aplicação de agrotóxicos
+  e afins, adjuvantes, fertilizantes, inoculantes, corretivos e sementes.
+
+  Condições operacionais gerais
+
+  A altura máxima de operação deve ser igual à estabelecida na Folha de Especificações do
+  Projeto Autorizado (DADS) do modelo de RPAS e deve ser menor ou igual a 400 pés AGL.
+
+  As operações devem ser realizadas na linha de visada visual (VLOS), sendo admitido o uso
+  de observador(es) para operações em linha de visada visual estendida (EVLOS).
+
+  As operações devem ser realizadas a uma distância máxima de 1.000 (um mil) metros do piloto
+  remoto ou observador.
+
+  Durante a operação normal da RPA deve ser possível a intervenção do piloto remoto em qualquer
+  fase do voo.
+
+  Um piloto remoto somente pode operar uma única RPA por vez, exceto se de outra forma autorizado
+  pela ANAC.
+
+  A RPA deve ter energia cinética máxima de impacto no solo menor que 34 (trinta e quatro)
+  kJ (quilojoules).
+
+  Autorização de projeto
+
+  A autorização para um projeto de RPAS será concedida pela ANAC mediante apresentação de
+  formulário próprio com as principais características do modelo e declaração por um requerente
+  de que:
+
+  a) possui um manual de voo do RPAS que estabeleça as condições, as limitações e os procedimentos
+  para a operação segura do RPAS de maneira compatível com os demais critérios desta IS;
+
+  b) possui um programa de manutenção para garantir a aeronavegabilidade continuada do RPAS
+  e que atenda aos critérios do Apêndice B desta IS;
+
+  c) foi desenvolvido um programa de treinamento que permite que o produto seja operado de
+  forma segura por um piloto remoto nas condições estabelecidas nesta IS;
+
+  d) estabeleceu mecanismos para coletar (preferencialmente de maneira automática) indicadores
+  sobre possíveis falhas, mau-funcionamentos e defeitos de componentes que possam impactar
+  a segurança operacional; e
+
+  e) o RPAS foi objeto de uma investigação de segurança operacional, conforme definido pela
+  ANAC conforme Apêndice C desta IS, que demonstra a sua compatibilidade com o critério de
+  risco em solo (GRC) e que não há risco inaceitável de que a aeronave saia do volume de voo
+  autorizado.
+
+  A declaração deve ser assinada por um representante legal do requerente e por um responsável
+  técnico com atribuição adequada junto ao CREA.
+
+  NOTA 1 - O responsável técnico pode ser também o representante legal do requerente.
+
+  O programa de manutenção pode estar contido no manual de voo.
+
+  Uma modificação no produto apenas pode ser disponibilizada para os operadores após ter sido
+  avaliada pelo Responsável Técnico e determinado que não há impacto nos dados apresentados
+  anteriormente.
+
+  NOTA 2 - O responsável técnico poderá estabelecer uma relação de componentes que não tem
+  impacto nos dados apresentados e que podem ser modificados pelo detentor da autorização
+  sem necessidade de emissão de nova avaliação específica.
+
+  Os documentos contendo as informações requeridas nos itens 5.3.1.a), b), c) e e) desta IS
+  devem ser anexados ao peticionamento de autorização.
+
+  A autorização será concedida mediante conferência administrativa da existência dos documentos
+  requeridos.
+
+  Não obstante o item anterior, a ANAC poderá revisar o conteúdo técnico da documentação apresentada
+  para fins de fiscalização ou investigação.
+
+  APÊNDICES
+
+  Apêndice A - Lista de Siglas
+
+  Apêndice B - Programa de manutenção
+
+  Apêndice C - Investigação de segurança
+
+  DISPOSIÇÕES FINAIS
+
+  O cumprimento dos critérios estabelecidos nesta Instrução Suplementar não isenta qualquer
+  pessoa de cumprir as regras aplicáveis editadas pela ANATEL, DECEA e MAPA em suas respectivas
+  matérias de competência.
+
+  A ANAC poderá solicitar, a qualquer momento, dados e comprovações a qualquer uma das partes
+  envolvidas para verificar a real aderência aos objetivos desta IS.
+
+  Caso qualquer uma das partes envolvidas não cumpra com as condições estabelecidas nos programas
+  e manuais estabelecidos ou com os critérios dessa Instrução Suplementar, a ANAC poderá suspender
+  ou cancelar autorização e/ou certificados correspondentes, sem prejuízo das demais ações
+  sancionatórias cabíveis.
+
+  Os casos omissos serão dirimidos pela ANAC.
+
+
+  APÊNDICE A - LISTA DE SIGLAS
+
+  A1) SIGLAS
+
+  a) ANAC - Agência Nacional de Aviação Civil
+
+  b) Anatel - Agência Nacional de Telecomunicações
+
+  c) CREA - Conselho Regional de Engenharia e Agronomia
+
+  d) DADS - Design Authorization Data Sheet ou Folha de Especificações do Projeto Autorizado
+
+  e) DECEA - Departamento de Controle do Espaço Aéreo
+
+  f) EASA - European Union Aviation Safety Agency
+
+  g) EVLOS - Extended Visual Line of Sight ou Linha de Visada Visual Estendida
+
+  h) GRC - Ground Risk Criteria ou Critério de Risco em Solo
+
+  i) IS - Instrução Suplementar
+
+  j) JARUS - Joint Authorities for Rulemaking of Unmanned Systems
+
+  k) MAPA - Ministério da Agricultura, Pecuária e Abastecimento
+
+  l) RBAC - Regulamento Brasileiro da Aviação Civil
+
+  m) RPA - Remotely Piloted Aircraft ou Aeronave Remotamente Pilotada
+
+  n) RPAS - Remotely Piloted Aircraft System ou Sistema de Aeronave Remotamente Pilotada
+
+  o) SAR - Superintendência de Aeronavegabilidade
+
+  p) SORA - Specific Operational Risk Assessment ou Avaliação de Risco Operacional Específico
+
+  q) VLOS - Visual Line of Sight ou Linha de Visada Visual
+
+
+  APÊNDICE B - PROGRAMA DE MANUTENÇÃO
+
+  B.1 - O programa de manutenção deve identificar as tarefas que apenas podem ser realizadas
+  pelo detentor da autorização do projeto, ou pessoas ou instituições credenciadas pelo detentor,
+  e aquelas que podem ser feitas pelo próprio operador.
+
+  B.2 - O programa de manutenção somente poderá atribuir ao operador a responsabilidade por
+  tarefas de manutenção mais simples que não requeiram conhecimentos, habilidades ou ferramentas
+  especiais tais como montagem/desmontagem, limpeza e troca de componentes cuja falha não
+  afete a segurança operacional.
+
+  B.3 - O detentor da autorização é responsável por disponibilizar um modo (por meio de cadernetas
+  físicas, meio eletrônico ou combinação desses) que permita acesso aos registros das ações
+  de manutenção realizadas, não sendo necessário o registro daquelas realizadas pelo próprio
+  operador.
+
+  B.4 - O programa de manutenção deve estabelecer um meio para que o operador do RPAS possa
+  determinar se qualquer modificação (em especial, aquelas que possam ser disponibilizadas
+  por terceiros como, por exemplo, atualizações de software ou novos tipos de cargas-paga)
+  foi avaliada pelo detentor da autorização do projeto e está autorizada para uso.
+
+
+  APÊNDICE c - INVESTIGAÇÃO DE SEGURANÇA
+
+  C.1 - A investigação técnica deve ser feita e assinado por um engenheiro com qualificação
+  e atribuição adequada no CREA que pode ser também o responsável técnico pela autorização
+  do produto junto à ANAC.
+
+  C.2 - A investigação técnica deve demonstrar um nível de risco solo menor ou igual a 2 (dois)
+  de acordo com a metodologia SORA publicada pela JARUS e EASA.
+
+  C.2.1 - A RPA deve possuir uma energia cinética menor que 34 kJ.
+
+  NOTA 1 - A demonstração de energia cinética não é requerida caso a RPA possua peso máximo
+  de decolagem menor que 115 kg e uma velocidade operacional máxima menor que 24 m/s.
+
+  NOTA 2 - A energia cinética calculada deverá considerar apenas a altura máxima do solo.
+  As operações realizadas até 5 metros acima do dossel das árvores não precisam ser consideradas
+  para efeito dessa demonstração.
+
+  C.3 - Não pode haver falha simples não-mitigada de sistema que possa resultar na saída do
+  volume de voo autorizado (fly-away).
+
+  C.3.1 - Falha simples de sistema que poderia resultar em fly-away deve ser mitigada por
+  meio de:
+
+  a) detecção por sistema (anúncio) ou observação visual (VLOS) com ação automática ou do
+  piloto remoto que previna o fly-away; e/ou
+
+  b) limitações operacionais adicionais (por exemplo, distância mínima de áreas povoadas e
+  locais com movimento/presença significativa de terceiros como rodovias e centros de lazer/compras)
+  que mitiguem o perigo para um nível de risco aceitável.
+
+  C.4 - Os dispositivos, sensores e demais componentes técnicos (incluindo redundâncias) considerados
+  na investigação devem ser claramente identificados na documentação.
+
+  C.5 - A investigação do responsável técnico deve ser documentada em relatório enviado junto
+  com a declaração.
+
+  C.6 - Qualquer desvio dos critérios estabelecidos neste Apêndice deve ser claramente identificado
+  e informado para a ANAC no momento do peticionamento da autorização do projeto do RPAS para
+  que possa ser avaliado quanto à sua aceitabilidade.'
+keywords:
+- rpas
+- autorizacao
+- projeto
+- criterios
+- apendice
+- manutencao
+- investigacao
+- programa
+- operacoes
+- pode
+- responsavel
+- seguranca
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-5-001.md

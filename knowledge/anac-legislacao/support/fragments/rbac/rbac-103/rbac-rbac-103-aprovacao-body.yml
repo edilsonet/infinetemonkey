@@ -1,0 +1,24 @@
+id: rbac-rbac-103-aprovacao-body
+kind: rbac
+document: rbac-103
+family: '103'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 473, de 07.06.2018. [Emenda nº 00]
+
+  Resolução nº 645, de 18.11.2021. [Emenda nº 01]'
+keywords:
+- ultraleves
+- operacoes
+- aprovacao
+- resolucao
+categories:
+- ultraleves
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-103.md

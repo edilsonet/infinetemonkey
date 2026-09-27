@@ -1,0 +1,45 @@
+id: is-is-135-006-5-3-2-body
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.2
+section_title: Requisitos de condições meteorológicas
+subsection_id: body
+cite: 5.3.2
+title: Requisitos de condições meteorológicas
+text: '5.3.2 Requisitos de condições meteorológicas
+
+  5.3.2.1 O parágrafo 135.219(a) basicamente requer que as condições meteorológicas de todos
+  os aeródromos envolvidos (seja de decolagem, de destino, de alternativa em rota ou de alternativa
+  de destino) estejam, no horário estimado de utilização, iguais ou acima dos mínimos aplicáveis
+  - sendo a única exceção o aeródromo de destino, que pode estar abaixo dos mínimos ou não
+  dispor de informações meteorológicas, conforme permitido pelo parágrafo 135.218(b).
+
+  Nota: o mesmo requisito de estar igual ou acima dos mínimos se aplica ao aeródromo de alternativa
+  de decolagem, conforme o parágrafo 135.217(b) do RBAC nº 135.
+
+  5.3.2.2 No caso de voos com decolagem ou pouso IFR é requerido que, no aeródromo em que
+  ocorre o procedimento IFR, haja informações meteorológicas providas pelo órgão competentes
+  do país sobrevoado (ou por provedor reconhecido por esse órgão). Assim, conforme a seção
+  135.213, o piloto deve utilizar essas informações para o cumprimento dos requisitos que
+  requerem a utilização de informações meteorológicas.'
+keywords:
+- taxi-aereo
+- operacoes
+- meteorologicas
+- condicoes
+- informacoes
+- requisitos
+- aerodromo
+- alternativa
+- decolagem
+- destino
+- minimos
+- paragrafo
+- acima
+- estar
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

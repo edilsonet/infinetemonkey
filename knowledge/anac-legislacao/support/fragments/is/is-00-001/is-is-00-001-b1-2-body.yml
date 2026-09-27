@@ -1,0 +1,38 @@
+id: is-is-00-001-b1-2-body
+kind: is
+document: is-00-001
+family: '0'
+section_id: B1.2
+section_title: SISTEMAS
+subsection_id: body
+cite: B1.2
+title: SISTEMAS
+text: 'B1.2 SISTEMAS
+
+  B1.2.1 Os critérios a seguir são gerais e aplicáveis a qualquer sistema da aeronave:
+
+  NOTA: O banco de dados do sistema de dificuldades em serviço utiliza o sistema ATA 2200
+
+  para a codificação de sistemas e subsistemas de aeronaves e suas respectivas descrições.
+  A
+
+  codificação ATA 2200 deverá ser usada ao se fazer o relatório, sendo um campo selecionável
+
+  do sistema de dificuldades em serviço.'
+keywords:
+- sistema
+- sistemas
+- codificacao
+- dificuldades
+- servico
+- aeronave
+- aeronaves
+- aplicaveis
+- banco
+- campo
+- criterios
+- dados
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-001.md

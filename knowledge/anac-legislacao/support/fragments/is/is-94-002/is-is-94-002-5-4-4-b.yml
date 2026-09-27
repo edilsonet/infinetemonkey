@@ -1,0 +1,27 @@
+id: is-is-94-002-5-4-4-b
+kind: is
+document: is-94-002
+family: '94'
+section_id: 5.4.4
+section_title: Operação do enlace de comando e controle - RBAC-E 94.405(b)
+subsection_id: b
+cite: 5.4.4(b)
+title: 5.4.4(b)
+text: 'b) A operação adequada do(s) enlace(s) C2 não deve ser afetada por falhas de sistemas
+
+  não requeridos ou não essenciais;'
+keywords:
+- enlace
+- operacao
+- adequada
+- afetada
+- comando
+- controle
+- essenciais
+- falhas
+- requeridos
+- sistemas
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-94-002.md

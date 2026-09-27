@@ -1,0 +1,536 @@
+id: is-is-145-001-apendice-b-procedimentos-para-autoinclusao-de-artigos-em-lista-de-capacidade-ou-em-especificacoes-operativas-body
+kind: is
+document: is-145-001
+family: '145'
+section_id: apendice-b-procedimentos-para-autoinclusao-de-artigos-em-lista-de-capacidade-ou-em-especificacoes-operativas
+section_title: APÊNDICE B - Procedimentos para Autoinclusão de artigos em LISTA DE CAPACIDADE
+  ou EM ESPECIFICAÇÕES OPERATIVAS
+subsection_id: body
+cite: apendice-b-procedimentos-para-autoinclusao-de-artigos-em-lista-de-capacidade-ou-em-especificacoes-operativas
+title: APÊNDICE B - Procedimentos para Autoinclusão de artigos em LISTA DE CAPACIDADE ou EM
+  ESPECIFICAÇÕES OPERATIVAS
+text: 'APÊNDICE B - Procedimentos para Autoinclusão de artigos em LISTA DE CAPACIDADE ou EM
+  ESPECIFICAÇÕES OPERATIVAS
+
+
+  B.1 ELEGIBILIDADE
+
+  B.1.1 A autoinclusão é um processo em que a OM, previamente autorizada pela ANAC em suas
+  Especificações Operativas, realiza uma autoavaliação de sua capacidade frente aos requisitos
+  regulamentares presentes no RBAC n° 145 para executar manutenção em determinado artigo pertencente
+  às categorias Célula, Motor, Hélice, Rádio, Instrumento ou Acessório sem a necessidade de
+  análise e aprovação prévia por parte da ANAC.
+
+  B.1.2 Na autoinclusão ocorre uma maior alocação de responsabilidades na OM, o que requer,
+  em contrapartida, que ela atinja maior maturidade organizacional, com um melhor controle
+  sobre os seus processos, e com implementação de procedimentos robustos de autoavaliação.
+
+  B.1.3 A prerrogativa de autoinclusão é uma autorização de caráter precário concedida pela
+  ANAC que é baseada na confiança da Agência no sistema de qualidade da organização, podendo
+  ser revogada a qualquer tempo.
+
+  B.1.4 A autoavaliação, que se constitui em um processo crítico para a autoinclusão, deve
+  se basear em evidências documentadas pela OM de que ela possui a capacidade de manutenção
+  pretendida e, portanto, de que ela cumpre com os requisitos regulamentares do RBAC n° 145.
+
+  B.1.5 O(A) Responsável Técnico(a) (RT) é o(a) responsável final da OM pela adequada execução
+  dos processos de autoavaliação perante a ANAC, conforme categoria e classe às quais esteja
+  vinculado(a).
+
+  B.1.6 Uma autorização para realização de autoinclusão pode ser concedida à OM que deseje
+  incluir artigos em suas Especificações Operativas - no caso de modelos de aeronave, motor
+  ou hélice - ou em sua Lista de Capacidade - no caso de artigos pertencentes às categorias
+  Rádio, Instrumento ou Acessório.
+
+  B.1.7 Em ambos os casos, a autorização para a realização de autoinclusão deve constar nas
+  Especificações Operativas da OM.
+
+  B.1.8 Para que uma OM obtenha uma autorização para autoinclusão, ela deve cumprir os critérios
+  estabelecidos neste Apêndice.
+
+  B.1.9 Uma OM é elegível a obter autorização para realização de autoinclusão se, concomitantemente,
+  cumprir com os seguintes critérios:
+
+  i. possuir o COM emitido conforme o RBAC n° 145 há pelo menos 3 (três) anos para autoinclusão
+  em LC ou em EO limitada ao Nível 1, ou há pelo menos 5 (cinco) anos para autoinclusão em
+  EO nos Níveis 2 e 3;
+
+  NOTA: o cômputo do tempo de certificação da organização não considerará o período em que
+  o certificado da OM estiver suspenso, seja por solicitação da empresa ou por medidas administrativas
+  adotadas pela ANAC.
+
+  ii. Possuir em seus manuais procedimentos de autoavaliação aceitáveis pela ANAC abordando,
+  dentre outros aspectos, formas de execução, registro e interação com a ANAC. As instruções
+  sobre o desenvolvimento de tais procedimentos estão descritas na IS n° 145-009;
+
+  iii. possuir histórico de envio no prazo dos relatórios periódicos previstos na seção 145.221-I
+  do RBAC n° 145, por meio do Sistema de Gestão de Relatórios de Aeronavegabilidade Continuada
+  - SIGRAC, ou sistema eletrônico que venha a substituí-lo, nos 6 (seis) meses precedentes
+  à solicitação; e
+
+  iv. tiver obtido resultado satisfatório em pelo menos 03 (três) processos de inclusão em
+  EO ou LC, após avaliação da ANAC, com base no procedimento de autoavaliação descrito em
+  seus manuais.
+
+  NOTA 1: entende-se por “satisfatório” um processo de autoavaliação que, após a análise pela
+  ANAC, tenha sido considerado livre de não conformidade relacionada à execução incorreta
+  ou insuficiente dos procedimentos de autoavaliação, incluindo o preenchimento do formulário
+  de autoavaliação.
+
+  NOTA 2: o processo de inclusão utilizando o procedimento de autoavaliação pode ocorrer anteriormente
+  à solicitação de autorização para a autoinclusão. Contudo, o processo deve se basear em
+  procedimento de autoavaliação aceitável pela ANAC.
+
+  B.1.10 Além dos critérios de elegibilidade apresentados acima, a ANAC poderá considerar,
+  para fins de concessão da autorização, o histórico de atuação da OM nos 5 (cinco) anos precedentes
+  à solicitação, o que incluirá a avaliação do desempenho da organização em atividades de
+  vigilância e processos, bem como a avaliação de medidas aplicadas, sancionatórias ou de
+  natureza cautelar, tais como suspensões (totais ou parciais) do certificado ou de autorizações
+  concedidas à OM.
+
+  B.1.11 A ANAC se reserva o direito de não autorizar ou de revogar uma autorização para autoinclusão
+  caso sejam verificadas deficiências no sistema de controle de qualidade da OM. Vide seção
+  B.5 deste Apêndice para mais detalhes.
+
+  B.1.12 Critérios específicos são apresentados a seguir para a obtenção de autorização para
+  autoinclusão em Lista de Capacidade ou nas Especificações Operativas.
+
+  B.2 AUTORIZAÇÃO PARA AUTOINCLUSÃO NA LISTA DE CAPACIDADE
+
+  B.2.1 Para que uma OM obtenha autorização da ANAC para a autoinclusão de artigos pertencentes
+  às categorias Rádio, Instrumento ou Acessório em sua Lista de Capacidade, ela deve atender
+  aos critérios de elegibilidade (vide item B.1.9). No caso de OMs que pretendam obter autorização
+  para autoinclusão de APU que opere como fonte de alimentação em voo (elétrica, hidráulica
+  ou pneumática), a organização deverá cumprir, adicionalmente, com os critérios apresentados
+  no Nível 3 de autoinclusão (vide item B.4.4.I).
+
+  B.2.2 A autoinclusão é limitada às categorias e classes de Rádio, Instrumento e Acessório
+  que a OM já possua em seu COM, até o maior nível de complexidade já certificado na LC da
+  organização. De outra forma, as inclusões devem ser realizadas conforme previsto na seção
+  5.10 desta IS, com avaliação e aprovação prévia da ANAC.
+
+  B.2.3 A solicitação de autorização para execução de autoinclusão em LC deve ser enviada
+  para a ANAC conforme orientações do Formulário F-143-43.
+
+  B.2.4 A critério da ANAC, poderão ser realizadas atividades para a verificação das informações
+  pertinentes à solicitação.
+
+  B.2.5 Um processo para obtenção de aprovação contendo a prerrogativa de autoinclusão é concluído
+  com o registro, pela ANAC, dessa autorização nas Especificações Operativas da OM.
+
+  B.2.6 Uma vez que a organização obtenha a autorização para autoinclusão em suas EO, a organização
+  deve executar seus procedimentos de autoavaliação antes de autoincluir um determinado serviço
+  na sua LC, e deve protocolar na ANAC a versão revisada da lista. Somente após o envio da
+  LC revisada para a ANAC, a OM estará autorizada a realizar a manutenção pretendida.
+
+
+  B.3 AUTORIZAÇÃO PARA AUTOINCLUSÃO NAS ESPECIFICAÇÕES OPERATIVAS
+
+
+  B.3.1 Uma autorização para autoinclusão nas Especificações Operativas poderá ser concedida
+  a uma OM para expansão de sua capacidade de manutenção no que se refere a serviços em artigos
+  que se enquadrem nas categorias Célula, Motor e/ou Hélice. De forma geral, não é autorizada
+  autoinclusão de Serviços Especializados nas EO, considerando que há características particulares
+  para cada serviço enquadrado nessa categoria.
+
+  B.3.2 A autoinclusão é limitada a artigos pertencentes às categorias e classes de Célula,
+  Motor e/ou Hélice que a OM já possua em seu COM. Inclusões de novas categorias e/ou classes
+  no certificado da OM devem ser feitas com processos enviados para avaliação e aprovação
+  prévia da ANAC.
+
+  NOTA: por exemplo, uma OM que possua em seu COM apenas a categoria Célula Classe 3 e pretenda
+  incluir em EO um modelo de aeronave que se enquadre na categoria Célula Classe 4, deverá
+  seguir o processo descrito na seção 5.10 desta IS, não podendo utilizar a prerrogativa de
+  autoinclusão nesse caso.
+
+  B.3.3 A autorização para autoinclusão em EO é concedida pela ANAC em 3 (três) níveis distintos
+  para as categorias de Célula e Motor, e em 2 (dois) níveis distintos para a categoria Hélice.
+
+  B.3.4 Para qualquer dos níveis, a OM deve atender aos critérios de elegibilidade (vide seção
+  B.1.9) bem como aos critérios específicos de cada nível, estabelecidos conforme detalhamento
+  apresentado na seção B.4 deste Apêndice, conforme o nível pretendido pela OM.
+
+  B.3.5 Uma solicitação de autorização para execução de autoinclusão em EO deve ser enviada
+  para a ANAC conforme orientações do Formulário F-143-44.
+
+  B.3.6 A critério da ANAC, poderão ser realizadas atividades para a verificação das informações
+  pertinentes à solicitação, incluindo a autoavaliação do SGSO.
+
+  B.3.7 Um processo para obtenção de aprovação contendo a prerrogativa de autoinclusão é concluído
+  com o registro, pela ANAC, dessa autorização nas Especificações Operativas da OM, incluindo
+  o detalhamento do nível de autoinclusão autorizado. Uma vez incluída a autorização para
+  execução de autoinclusão em sua EO, a organização poderá fazer uso da prerrogativa.
+
+
+  B.4 NÍVEIS DE AUTOINCLUSÃO EM EO - CATEGORIAS CÉLULA, MOTOR E HÉLICE
+
+
+  B.4.1 A autoinclusão em EO de modelos de aeronaves, motores e hélices, bem como de serviços
+  de manutenção em tais artigos, é permitida dentro da mesma categoria e classe que a OM já
+  possua em seu COM. Ela poderá ser realizada a partir de níveis conforme definições, restrições
+  e critérios apresentados a seguir.
+
+  B.4.2 AUTOINCLUSÃO NÍVEL 1: O Nível 1 de autoinclusão permite que a OM realize serviços
+  em modelos de aeronave e motor considerando artigos e/ou serviços de menor complexidade
+  e, ainda, limitado pelo tipo de operação em que o artigo é utilizado. A Tabela B.4.1 apresenta,
+  em detalhes, as características e restrições do Nível 1.
+
+  B.4.2.I Para a obtenção de autorização de autoinclusão em Nível 1, a OM deve atender aos
+  critérios de elegibilidade apresentados na seção B.1.9.
+
+  B.4.2.II Uma vez incluída a autorização para execução de autoinclusão em Nível 1 nas Especificações
+  Operativas da organização, o uso dessa prerrogativa requer que a OM realize uma autoavaliação
+  demonstrando possuir os recursos requeridos, e retenha os registros correspondentes, antes
+  da execução de cada serviço.
+
+  B.4.2.III Nesse caso, a OM pode executar o serviço objeto da autoinclusão, devendo informá-lo
+  no relatório mensal requerido pela seção 145.221-I do RBAC n° 145, sem que seja necessário
+  protocolar na ANAC a autoavaliação correspondente.
+
+  B.4.2.IV Exceto se determinado de outra forma pela ANAC, não haverá a emissão de nova EO
+  em decorrência de autoinclusão de modelos ou serviços pela OM conforme as prerrogativas
+  do Nível 1.
+
+  B.4.3 AUTOINCLUSÃO NÍVEL 2: o Nível 2 de autoinclusão permite que a OM autoinclua modelos
+  de aeronave, motor e hélice, considerando artigos e/ou serviços em uma gama maior de possibilidades
+  em comparação com o Nível 1. A Tabela B.4.2 apresenta, em detalhes, as características e
+  restrições do Nível 2.
+
+  B.4.3.I Para a obtenção de autorização de autoinclusão em Nível 2, além de atendidos os
+  critérios de elegibilidade (vide seção B.1.9), a OM deve possuir SGSO implantado e tendo
+  atingido o estágio “Operacional” da escala PAOE (Presente, Adequado, Operacional, Efetivo),
+  evidenciado a partir de autoavaliação conduzida pela OM conforme método aceitável pela ANAC.
+
+  NOTA: é considerado um método aceitável pela ANAC o uso do formulário F-146-01_2 para autovaliação
+  do SGSO da OM. O formulário está disponível na página de Formulários Padronizados:
+
+  https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-manutencao/formularios-padronizados
+
+  B.4.3.II Após a inclusão de autorização em suas EO, a organização deverá executar seus procedimentos
+  de autoavaliação antes de autoincluir um determinado modelo, devendo protocolar na ANAC
+  os documentos que deram suporte à conclusão de que a OM possui capacidade para realizar
+  manutenção no modelo objeto da inclusão. Após o protocolo, a OM estará autorizada a realizar
+  a manutenção no modelo de artigo pretendido. A ANAC conduzirá os trâmites administrativos
+  com vistas a atualizar a EO com o novo modelo incluído.
+
+  B.4.4 AUTOINCLUSÃO NÍVEL 3: o Nível 3 de autoinclusão permite que a OM autoinclua modelos
+  de aeronave, motor e hélice, considerando artigos e/ou serviços em um maior nível de complexidade
+  em comparação com os níveis anteriores. A Tabela B.4.3 apresenta, em detalhes, as características
+  e restrições do Nível 3.
+
+  B.4.4.I Para a obtenção de autorização de autoinclusão em Nível 3, além de atendidos os
+  critérios de elegibilidade (vide seção B.1.9), a OM deve atender, concomitantemente, aos
+  critérios abaixo especificados:
+
+  i. possuir SGSO implantado e tendo atingido o estágio “Efetivo” da escala PAOE (Presente,
+  Adequado, Operacional, Efetivo), a partir de autoavaliação conduzida pela OM conforme método
+  aceitável pela ANAC; e
+
+  NOTA: é considerado um método aceitável pela ANAC o uso do formulário F-146-01_2 para autovaliação
+  do SGSO da OM. O formulário está disponível na página de Formulários Padronizados:
+
+  https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-manutencao/formularios-padronizados
+
+  ii. possuir um sistema de monitoramento implementado com auditoria interna independente.
+  Um meio aceitável para a implementação do sistema consta do APÊNDICE C desta IS.
+
+  B.4.4.II Após a inclusão de autorização em suas EO, a organização deverá executar seus procedimentos
+  de autoavaliação antes de autoincluir um determinado modelo, devendo protocolar na ANAC
+  os documentos que deram suporte à conclusão de que a OM possui capacidade para realizar
+  manutenção no modelo objeto da inclusão. Após o protocolo, a OM estará autorizada a realizar
+  a manutenção no modelo de artigo pretendido. A ANAC conduzirá os trâmites administrativos
+  com vistas a atualizar a EO com o novo modelo incluído.
+
+  B.4.5 As características para a Autoinclusão nos Níveis 1, 2 e 3 em EO estão sumarizadas
+  nas Tabelas B.4.1, B.4.2 e B.4.3, respectivamente, apresentadas a seguir.
+
+  Tabela B.4.1: Características da Autoinclusão Nível 1 em Célula e Motor.
+
+  AUTOINCLUSÃO NÍVEL 1
+
+  CARACTERÍSTICAS
+
+  CÉLULA
+
+  MOTOR
+
+  Prerrogativa geral
+
+  Execução de manutenção de baixa complexidade como manutenção preventiva (conforme Apêndice
+  A do RBAC n° 43) e inspeção de até 50 FH (conforme previsto no manual do fabricante), com
+  ações corretivas de mesmo nível de complexidade.
+
+  Execução de manutenção de baixa complexidade, com o motor instalado na aeronave, como manutenção
+  preventiva (conforme Apêndice A do RBAC n° 43) e inspeções de até 50 FH (conforme previsto
+  no manual do fabricante).
+
+  Tipos de Artigos (por categoria de certificação ou outras características)
+
+  Limitado às categorias de certificação de aeronaves:
+
+  · Aviões certificados conforme RBAC n° 23 (níveis 1 a 3 na Emenda 64 ou posterior), ou certificados
+  anteriormente nas categorias Normal, Primária, Restrita ou Acrobática, e que utilizem motor
+  convencional (pistão) ou turboélice; e
+
+  · Helicópteros certificados conforme RBAC n° 27 nas categorias Normal, Primária, Restrita
+  ou Acrobática, e que utilizem motor convencional (pistão) ou turboeixo.
+
+  (*NOTA)
+
+  Motores convencionais (pistão), turboélice ou turboeixo.
+
+  Tipos de Operadores
+
+  Operações privadas sob o RBAC n° 91, Serviços Aéreos Especializados (SAE), aeronaves operadas
+  por centros de instrução de pilotos ou administração pública.
+
+  Operações privadas sob o RBAC n° 91, Serviços Aéreos Especializados (SAE), aeronaves operadas
+  por centros de instrução de pilotos ou administração pública.
+
+  Restrições
+
+  Restrito a aeronaves dentro das mesmas categorias e classes contidas no COM da OM, bem como
+  às características combinadas das aeronaves que já estejam contempladas na EO da organização
+  como: aeronave de asa fixa / asa rotativa, pressurizada/ não pressurizada, motorização convencional,
+  turboélice ou turboeixo.
+
+  Restrito a motores da mesma classe já constante no COM da OM bem como com características
+  que estejam contempladas na EO da organização como: motor convencional (pistão), turboélice
+  ou turboeixo.
+
+  Critérios para Concessão
+
+  Cumprir com os critérios de elegibilidade apresentados na seção B.1.9.
+
+  * NOTA: caso a aeronave seja isenta de certificação de tipo conforme previsto no parágrafo
+  21.29(d)-I do RBAC n° 21, deve ser avaliada a categoria de certificação da aeronave conforme
+  consta no Type Certificate Data Sheet (TCDS) emitido pela autoridade primária do seu Estado
+  de Projeto.
+
+  AUTOINCLUSÃO NÍVEL 2
+
+  CARACTERÍSTICAS
+
+  CÉLULA
+
+  MOTOR
+
+  HÉLICE
+
+  Prerrogativa geral
+
+  Execução de manutenção até o maior nível de complexidade já certificado na EO.
+
+  · Motores convencionais (pistão): inspeções não contempladas no Nível 1, montagens/desmontagens
+  e revisão geral (overhaul), limitado ao máximo nível de complexidade já certificado na EO;
+
+  · Motores turboélice ou turboeixo: inspeções não contempladas no Nível 1, hot section inspection
+  (HSI), light maintenance e light overhaul (conforme previstos no manual do fabricante),
+  limitado ao máximo nível de complexidade já certificado na EO.
+
+
+  Execução de manutenção até o máximo nível de serviço já certificado na EO.
+
+  Tipos de Artigos (por categoria de certificação ou outras características)
+
+  Limitado às categorias de certificação de aeronaves:
+
+  · Aviões certificados conforme RBAC n° 23 (níveis 1 a 3 na Emenda 64 ou posterior), ou certificados
+  anteriormente nas categorias Normal, Primária, Restrita ou Acrobática, e que utilizem motor
+  convencional (pistão) ou turboélice; e
+
+  · Helicópteros certificados conforme RBAC n° 27 nas categorias Normal, Primária, Restrita
+  ou Acrobática, e que utilizem motor convencional (pistão) ou turboeixo.
+
+  (*NOTA 1)
+
+  Motores convencionais (pistão), turboélice ou turboeixo.
+
+  Hélices a serem instaladas em aviões não certificados na categoria Transporte.
+
+  (**NOTA 2)
+
+  Tipos de Operadores
+
+  Operações privadas sob o RBAC n° 91, Serviços Aéreos Especializados, aeronaves operadas
+  por centros de instrução de pilotos ou administração pública.
+
+  Sem restrições.
+
+  Sem restrições.
+
+  Restrições
+
+  Restrito a aeronaves dentro das mesmas categorias e classes contidas no COM da OM, bem como
+  às características combinadas de aeronaves que já estão contempladas na EO da organização
+  como: aeronave de asa fixa / asa rotativa, pressurizada/ não pressurizada, motorização convencional,
+  turboélice ou turboeixo.
+
+  Restrito a motores da mesma classe já constante no COM da OM bem como com características
+  que já estejam contemplados na EO da organização como: motor convencional (pistão), turboélice
+  ou turboeixo.
+
+  Restrito a hélices de mesmas características combinadas daquelas já contempladas na EO da
+  OM, considerando: material (madeira, metal, material composto), ser retrátil ou não-retrátil,
+  ser de passo fixo ou variável, presença de sistema de proteção contra gelo (de-ice ou anti-ice).
+
+  Critérios para Concessão
+
+  · Cumprir com os critérios de elegibilidade (vide seção B.1.9); e
+
+  · Possuir SGSO implantado e tendo atingido o estágio “Operacional” da escala PAOE, a partir
+  de autoavaliação conduzida pela OM conforme método aceitável pela ANAC (vide Formulário
+  F-146-01_2).
+
+  Tabela B.4.2: Características da Autoinclusão Nível 2 em Célula, Motor e Hélice.
+
+
+  * NOTA 1: caso a aeronave seja isenta de certificação de tipo conforme previsto no parágrafo
+  21.29(d)-I do RBAC n° 21, deve ser avaliada a categoria de certificação da aeronave conforme
+  consta no Type Certificate Data Sheet (TCDS) emitido pela autoridade primária do seu Estado
+  de Projeto.
+
+
+  ** NOTA 2: essa informação se refere à certificação de tipo do avião no qual a hélice será
+  instalada, estando disponível na Especificação de Avião (EA) ou no Type Certificate Data
+  Sheet (TCDS) do modelo do avião em questão. A categoria Transporte inclui aviões certificados
+  segundo regulamentos como: RBHA 25, RBAC n° 25, FAA 14 CFR part 25, EASA CS 25 ou equivalentes.
+
+
+  AUTOINCLUSÃO NÍVEL 3
+
+  CARACTERÍSTICAS
+
+  CÉLULA
+
+  MOTOR
+
+  HÉLICE
+
+  Prerrogativa geral
+
+  Execução de manutenção até o maior nível de complexidade já certificado na EO.
+
+  · Motores turboélice ou turboeixo: execução de heavy maintenance e revisão geral (overhaul);
+
+  · Motores turbofan ou turbojato: todos os níveis de manutenção; e
+
+  · Unidades Auxiliares de Potência (APU) que operem como fonte de alimentação em voo: todos
+  os níveis de manutenção.
+
+
+  As prerrogativas estão limitadas até o máximo nível de complexidade já certificado na EO.
+
+  Execução de manutenção até o máximo nível já certificado na EO.
+
+  Tipos de Artigos (por categoria de certificação ou outras características)
+
+  Não há restrição.
+
+  · Motores turboélice, turboeixo, turbofan ou turbojato;
+
+  · APUs que operem como fonte de alimentação em voo.
+
+  Hélices a serem instaladas em aviões certificados na categoria Transporte. (*NOTA)
+
+  Restrições
+
+  Restrito às categorias e classes já constantes no COM bem como restrito às características
+  combinadas de aeronaves que já estão contempladas na EO da OM como: aeronave de asa fixa
+  / asa rotativa, pressurizada/ não pressurizada, motorização convencional, turboélice, turboeixo,
+  turbofan ou turbojato.
+
+  Restrito a motores com características que já estão contemplados na EO da OM como: turboélice,
+  turboeixo, turbofan ou turbojato.
+
+  Restrito a APUs que operem como fonte de alimentação em voo e com características semelhantes
+  àqueles modelos já contemplados na Lista de Capacidade da OM.
+
+  Restrito a hélices de mesmas características combinadas daquelas já contempladas na EO da
+  OM, considerando: material (metal, material composto), presença de sistema de proteção contra
+  gelo (de-ice ou anti-ice), dentre outras características.
+
+  Critérios para Concessão
+
+  · Cumprir com os critérios de elegibilidade (vide seção B.1.9);
+
+  · Possuir SGSO implantado e tendo atingido o estágio “Efetivo” da escala PAOE, a partir
+  de autoavaliação conduzida pela OM conforme método aceitável pela ANAC (vide Formulário
+  F-146-01_2); e
+
+  · Possuir sistema de monitoramento implementado com auditoria interna independente. Um meio
+  aceitável para a implementação do sistema consta do Apêndice C desta IS.
+
+  Tabela B.4.3: Características da Autoinclusão Nível 3 em Célula, Motor e Hélice.
+
+
+  * NOTA: essa informação refere-se à certificação de tipo do avião no qual a hélice será
+  instalada, estando disponível na Especificação de Avião (EA) ou no Type Certificate Data
+  Sheet (TCDS) do modelo do avião em questão. A categoria Transporte inclui aviões certificados
+  segundo regulamentos como: RBHA 25, RBAC n° 25, FAA 14 CFR part 25, EASA CS 25 ou equivalentes.
+
+
+  B.5 MEDIDAS ADMINISTRATIVAS PREVISTAS PELA ANAC
+
+
+  B.5.1 A qualquer momento, caso a ANAC constate que a OM perdeu a capacidade técnica de executar
+  os procedimentos de autoavaliação e autoinclusão, ou se for constatado que a organização
+  deixou de cumprir com qualquer dos critérios a ela aplicáveis - sejam critérios de elegibilidade
+  ou aqueles referentes aos níveis específicos -, a agência poderá suspender ou cancelar a
+  autorização da organização. Deficiências identificadas no sistema de controle de qualidade
+  da OM ou no processo de monitoramento com auditoria interna independente, quando aplicável,
+  também poderão motivar a suspensão ou o cancelamento da autorização, ou mesmo a sua não
+  concessão pela agência.
+
+  NOTA: a autorização para autoinclusão ficará automaticamente suspensa caso a Organização
+  de Manutenção esteja sem um(a) Responsável Técnico(a) a ela vinculado(a), conforme a categoria
+  do artigo pelo qual o(a) profissional é responsável. A autorização será automaticamente
+  reestabelecida após o cadastro de novo(a) RT na Agência, exceto se determinado de outra
+  forma pela ANAC.
+
+  B.5.2 Nas circunstâncias em que a ANAC constatar que a OM intencionalmente conduziu autoavaliações
+  inadequadas e forneceu informações inexatas ou adulteradas, resultado de um processo deliberadamente
+  negligente, objetivando receber indevidamente a autorização para executar autoinclusão,
+  o pleito será indeferido.
+
+  B.5.3 Nas circunstâncias em que a ANAC constatar que a OM intencionalmente conduziu autoavaliações
+  inadequadas e autoincluiu artigos sem possuir efetivamente capacidade técnica de manutenção,
+  resultado de um processo deliberadamente negligente, a autorização para executar autoinclusão
+  será cancelada pela Agência e removida da EO, bem como todos os artigos autoincluídos pela
+  OM em sua EO ou LC que tenham sido afetados.
+
+  NOTA: exceto se de outra forma demonstrado pela OM e aceito pela ANAC, os artigos impactados
+  serão considerados não-aeronavegáveis.
+
+  B.5.4 Nos casos enquadrados sob os itens B.5.2 e B.5.3 desta seção, a organização ficará
+  impedida de receber autorização para autoinclusão por um período de 5 (cinco) anos contados
+  a partir da data do ato de indeferimento ou de cancelamento da autorização, conforme aplicável,
+  duplicando esse período em caso de reincidência.
+
+  B.5.5 Sem prejuízo às ações previstas nesta seção, a Organização de Manutenção estará sujeita
+  às demais sanções administrativas previstas no Código Brasileiro de Aeronáutica (CBAer),
+  Lei n° 7.565, de 19 de dezembro de 1986, e em linha com o estabelecido na Resolução n° 472,
+  de 06 de junho de 2018.
+
+  B.5.6 Como consequência das sanções administrativas, a ANAC poderá efetuar o descadastramento
+  do(a) Responsável Técnico(a) da OM, conforme previsto no parágrafo 145.151(a)-V(1) do RBAC
+  n° 145.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- autoinclusao
+- nivel
+- autorizacao
+- caracteristicas
+- autoavaliacao
+- motor
+- criterios
+- organizacao
+- artigos
+- categorias
+- categoria
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-001.md

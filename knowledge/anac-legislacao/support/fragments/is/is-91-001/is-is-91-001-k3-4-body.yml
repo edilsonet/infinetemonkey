@@ -1,0 +1,43 @@
+id: is-is-91-001-k3-4-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K3.4
+section_title: Em alguns casos, conforme estabelecido nos itens K8.7 e K8.9 , é requerido
+  que o operador submeta o FOSA à ANAC antes de iniciar a operar um novo procedimento RNP
+  AR APCH. Em todos os demais casos, quando não é explicitamente requerido por esta IS que
+  o FOSA deve ser submetido à ANAC, antes de iniciar a operar um novo procedimento RNP AR
+  APCH é requerido que o operador elabore ou revise o FOSA e mantenha-o arquivado, à disposição
+  da ANAC.
+subsection_id: body
+cite: K3.4
+title: Em alguns casos, conforme estabelecido nos itens K8.7 e K8.9 , é requerido que o operador
+  submeta o FOSA à ANAC antes de iniciar a operar um novo procedimento RNP AR APCH. Em todos
+  os demais casos, quando não é explicitamente requerido por esta IS que o FOSA deve ser submetido
+  à ANAC, antes de iniciar a operar um novo procedimento RNP AR APCH é requerido que o operador
+  elabore ou revise o FOSA e mantenha-o arquivado, à disposição da ANAC.
+text: K3.4 Em alguns casos, conforme estabelecido nos itens K8.7 e K8.9 , é requerido que
+  o operador submeta o FOSA à ANAC antes de iniciar a operar um novo procedimento RNP AR APCH.
+  Em todos os demais casos, quando não é explicitamente requerido por esta IS que o FOSA deve
+  ser submetido à ANAC, antes de iniciar a operar um novo procedimento RNP AR APCH é requerido
+  que o operador elabore ou revise o FOSA e mantenha-o arquivado, à disposição da ANAC.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- fosa
+- requerido
+- apch
+- casos
+- iniciar
+- novo
+- operador
+- operar
+- procedimento
+- alguns
+- arquivado
+- demais
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

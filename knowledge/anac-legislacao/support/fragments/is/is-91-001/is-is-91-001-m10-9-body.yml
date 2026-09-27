@@ -1,0 +1,33 @@
+id: is-is-91-001-m10-9-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: M10.9
+section_title: Havendo transições FRTs (Fixed Radius Transition) na trajetória original, a
+  trajetória deslocada deve manter o raio de curvatura do segmento original.
+subsection_id: body
+cite: M10.9
+title: Havendo transições FRTs (Fixed Radius Transition) na trajetória original, a trajetória
+  deslocada deve manter o raio de curvatura do segmento original.
+text: M10.9 Havendo transições FRTs (Fixed Radius Transition) na trajetória original, a trajetória
+  deslocada deve manter o raio de curvatura do segmento original.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- original
+- trajetoria
+- curvatura
+- deslocada
+- fixed
+- frts
+- havendo
+- manter
+- radius
+- raio
+- segmento
+- transicoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

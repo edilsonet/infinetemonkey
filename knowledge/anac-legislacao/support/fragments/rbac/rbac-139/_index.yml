@@ -44,11 +44,15 @@ sections:
 - '139.601'
 - '139.7'
 - apendice-a-do-rbac-no-139
-- apendice-a-do-rbac-no-139-valores-de-multa-aplicaveis-as-infracoes-relacionadas-a-este-regulamento
+- apendice-a-do-rbac-no-139-valores-de-multa-aplicaveis-bc53c8
+- aprovacao
 - preambulo
-fragment_count: 115
+- sumario
+fragment_count: 117
 fragment_ids:
 - rbac-rbac-139-preambulo-body
+- rbac-rbac-139-aprovacao-body
+- rbac-rbac-139-sumario-body
 - rbac-rbac-139-139-1-body
 - rbac-rbac-139-139-3-body
 - rbac-rbac-139-139-7-body
@@ -78,7 +82,7 @@ fragment_ids:
 - rbac-rbac-139-139-503-body
 - rbac-rbac-139-139-505-body
 - rbac-rbac-139-139-601-body
-- rbac-rbac-139-apendice-a-do-rbac-no-139-valores-de-multa-aplicaveis-as-infracoes-relacionadas-a-este-regulamento-body
+- rbac-rbac-139-apendice-a-do-rbac-no-139-valores-de-multa-aplicaveis-bc53c8-body
 - rbac-rbac-139-139-1-a
 - rbac-rbac-139-139-1-b
 - rbac-rbac-139-139-1-c
@@ -163,4 +167,4 @@ fragment_ids:
 - rbac-rbac-139-139-601-f
 - rbac-rbac-139-apendice-a-do-rbac-no-139-body
 - rbac-rbac-139-139-401-body
-parser_version: 6
+parser_version: 7

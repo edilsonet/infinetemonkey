@@ -1,0 +1,66 @@
+id: is-is-21-010-5-10-4-c
+kind: is
+document: is-21-010
+family: '21'
+section_id: 5.10.4
+section_title: 'The export airworthiness approval is not applicable in the following cases:'
+subsection_id: c
+cite: 5.10.4(c)
+title: 5.10.4(c)
+text: 'c) commercial parts.
+
+  5.10.5 Acordos internacionais. Não obstante o previsto nesta seção, a aprovação de aeronavegabilidade
+  para exportação deve seguir o disposto nos acordos internacionais vigentes entre Brasil
+  e o país (ou união de países) exportador. Os acordos internacionais podem ser consultados
+  no sítio da ANAC na internet.
+
+  5.10.5 International agreements. Notwithstanding the aspects listed in this section, the
+  export airworthiness approval shall follow the previsions of international agreements in
+  force between Brazil and exporting country (or union of countries). International agreements
+  may be consulted in the ANAC webpage.
+
+  5.11 Aspectos aduaneiros da importação de produtos
+
+  5.11 Customs aspects of products import
+
+  5.11.1 Para os produtos aeronáuticos importados são aplicáveis os requisitos estabelecidos
+  pela a ANAC e pela autoridade aduaneira brasileira. O descumprimento de quaisquer desses
+  requisitos pode implicar na aplicação de sanções por quaisquer das autoridades.
+
+  5.11.1 Requirements issued by ANAC and by the Brazilian customs authority are applicable
+  to the import of aeronautical products. Noncompliance with any of such requirements may
+  result in sanctions applied by any of the authorities.
+
+  5.11.2 Sem prejuízo à documentação específica requerida pela autoridade aduaneira, a aprovação
+  de aeronavegabilidade para exportação descrita na seção 5.10 desta IS deve ter sido emitida
+  previamente ao embarque ou voo ao Brasil do produto importado e deve estar disponível para
+  a ANAC e para a autoridade aduaneira no momento da entrada do produto no Brasil, exceto
+  nas situações previstas no parágrafo 5.11.3 abaixo.
+
+  5.11.2 Notwithstanding the documentation required by the customs authority, the export airworthiness
+  approval described in section 5.10 of this IS shall have been issued prior to the shipping
+  or flight to Brazil of the imported product and it shall be available to ANAC and to the
+  customs authority in the moment of entry of the product in Brazil, except in the cases listed
+  in paragraph 5.11.3 below.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- customs
+- acordos
+- aduaneira
+- agreements
+- airworthiness
+- approval
+- authority
+- autoridade
+- brasil
+- brazil
+- export
+- internacionais
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

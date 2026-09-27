@@ -1,0 +1,40 @@
+id: is-is-145-002-5-5-2-2-f
+kind: is
+document: is-145-002
+family: '145'
+section_id: 5.5.2.2
+section_title: 'The application for certificate renewal must include the following documents:'
+subsection_id: f
+cite: 5.5.2.2(f)
+title: 5.5.2.2(f)
+text: 'f) current revision of repair station´s manuals accepted or approved by the local CAA,
+  which are required for its local certification, ex.: handbook or manuals of repair station
+  (maintenance organization), quality control, training program and safety management system
+  manual;
+
+  Note: this set of manuals must also include the SMS manual, accepted or approved by the
+  local CAA in its last revision. If the AMO does not have an SMS manual accepted/approved
+  by the local authority, it must prepare and submit to Anac an updated SMS manual in accordance
+  with the characteristics specified in Supplementary Instruction IS No. 145.214-001 (Portuguese
+  only). A template for this manual (Portuguese only) can be found at Ref. 06 (check note
+  at 5.2.4);'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- manual
+- local
+- accepted
+- approved
+- manuals
+- must
+- include
+- note
+- only
+- portuguese
+- repair
+- revision
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-002.md

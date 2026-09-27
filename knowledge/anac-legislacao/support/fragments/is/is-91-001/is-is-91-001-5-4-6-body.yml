@@ -1,0 +1,163 @@
+id: is-is-91-001-5-4-6-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.4.6
+section_title: Parecer de aprovação de aeronavegabilidade
+subsection_id: body
+cite: 5.4.6
+title: Parecer de aprovação de aeronavegabilidade
+text: '5.4.6 Parecer de aprovação de aeronavegabilidade
+
+  5.4.6.1 A aprovação de aeronavegabilidade consiste em condição necessária, mas não suficiente
+  para o usuário receber a autorização de operação para a operação pretendida. O parecer com
+  a aprovação deve conter ainda a classificação dos conjuntos de sensores que atendem aos
+  critérios técnicos mínimos e qualquer outra peculiaridade da operação, sempre que aplicável.
+  A tabela abaixo mostra a classificação das operações divididas pelos conjuntos de sensores,
+  com os respectivos códigos OACI.
+
+
+  Código OACI
+
+  Especificações de Navegação RNAV
+
+  A1
+
+  RNAV 10 (RNP 10)
+
+  B2
+
+  RNAV 5 - GNSS
+
+  B3
+
+  RNAV 5 - DME/DME
+
+  B4
+
+  RNAV 5 - VOR/DME
+
+  B5
+
+  RNAV 5 - INS ou IRS
+
+  C1
+
+  RNAV 2 - Todos os sensores
+
+  C2
+
+  RNAV 2 - GNSS
+
+  C3
+
+  RNAV 2 - DME/DME
+
+  C4
+
+  RNAV 2 - DME/DME/IRU
+
+  D1
+
+  RNAV 1 - Todos os sensores
+
+  D2
+
+  RNAV 1 - GNSS
+
+  D3
+
+  RNAV 1 - DME/DME
+
+  D4
+
+  RNAV 1 - DME/DME/IRU
+
+  Tabela 4: relação das especificações de navegação RNAV e cada código OACI correspondente.
+
+
+  Código OACI
+
+  Especificações de Navegação RNP
+
+  *
+
+  RNP 2 Oceânico/Remoto
+
+  *
+
+  RNP 2 Continental
+
+  L1
+
+  RNP 4
+
+  O2
+
+  RNP 1 - GNSS
+
+  **
+
+  A-RNP
+
+  S1
+
+  RNP APCH
+
+  S2
+
+  RNP APCH com BARO-VNAV
+
+  T1
+
+  RNP AR APCH com RF
+
+  T2
+
+  RNP AR APCH sem RF
+
+  ***
+
+  RNP AR DP
+
+  Tabela 5: relação das especificações de navegação RNP e cada código OACI correspondente.
+
+  * Até a publicação da Revisão I desta IS a OACI não determinou o código para as operações
+  RNP 2.
+
+  ** Até a publicação da Revisão I desta IS a OACI não determinou o código para as operações
+  A-RNP.
+
+  *** Até a publicação da Revisão I desta IS a OACI não determinou o código para as operações
+  RNP AR DP.
+
+  5.5 Aprovação Operacional5.5.
+
+  5.5.1 A comprovação da capacidade das aeronaves em executar os procedimentos PBN por si
+  só não caracteriza a autorização para a execução desses procedimentos, sendo igualmente
+  necessária a verificação da capacidade do operador realizar os procedimentos normais e de
+  contingência associados para cada conjunto distinto de aeronaves e dispositivos relacionados
+  com os quais se pretenda realizar as operações.
+
+  5.5.2 Tendo em vista a elaboração dos procedimentos operacionais descritos no item 5.7 desta
+  IS, o operador deverá apresentar para a ANAC os seguintes documentos:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rnav
+- oaci
+- codigo
+- aprovacao
+- operacoes
+- aeronavegabilidade
+- apch
+- desta
+- especificacoes
+- gnss
+- navegacao
+- parecer
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

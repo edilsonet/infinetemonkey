@@ -1,0 +1,120 @@
+id: is-is-43-001-4-c
+kind: is
+document: is-43-001
+family: '43'
+section_id: '4'
+section_title: DEFINIÇÕES
+subsection_id: c
+cite: 4(c)
+title: 4(c)
+text: 'c) Peças para as quais inspeções e testes foram realizados, por pessoas devidamente
+  cer-
+
+  tificadas e autorizadas, a determinar a conformidade com dados aprovados pela A-
+
+  NAC.
+
+  4.3 Peça normalizada: Peça fabricada de acordo com especificações governamentais ou de
+
+  larga aceitação pela indústria que inclui projeto, fabricação e requisitos de identificação.
+  A
+
+  especificação deve incluir toda a informação necessária para produzir a peça em série. A
+
+  especificação deve ser publicada de maneira que qualquer um possa fabricar a peça. Al-
+
+  guns exemplos incluem, mas não se limitam à: National Aerospace Standards - NAS,
+
+  Air Force-Navy Aeronautical Standard - AN, Society of Automotive Engineers - SA-
+
+  E, Aerospace Standard - AS, Military Standard - MS, etc.
+
+  4.4 Peça Produzida pelo Operador/Proprietário: Peça produzida por um opera-
+
+  dor/proprietário para instalação em aeronave própria. Por exemplo: empresa de transporte
+
+  aéreo certificada. Um proprietário/operador é considerado um produtor de uma peça, se o
+
+  mesmo participa no controle de projeto, de fabricação, ou de qualidade. O controle de pro-
+
+  jeto abrange supervisão da fabricação ou fornecimento de: dados de projeto, materiais,
+
+  processos de fabricação, métodos de montagem, ou procedimentos de controle de qualida-
+
+  de.
+
+  4.5 Peças suspeitas: Uma peça suspeita é uma peça que, por qualquer razão, acredita-se não
+
+  ser uma “peça aprovada” ou “peça aceitável”, embora esteja denominada como tal. As sus-
+
+  peitas podem incluir diferenças no acabamento, tamanho, coloração, falta ou improprieda-
+
+  de de identificação, documentação incompleta, ou qualquer outra indicação questionável.
+
+  4.6 Produto Classe I: Uma aeronave, motor ou hélice completos que possuem um CHT de
+
+  acordo com os regulamentos aplicáveis e para os quais foi emitida uma especificação de ti-
+
+  po.
+
+  4.7 Produto Classe II: Um produto Classe II é um componente maior de um produto Classe I
+
+  (exemplo: asas, fuselagens, conjuntos de empenagens, trem-de-pouso, transmissões de po-
+
+  tência, superfícies de comando) cuja falha pode prejudicar a segurança do produto Classe
+  I.
+
+  É, ainda, qualquer peça, material ou dispositivo aprovado e fabricado de acordo com uma
+
+  OTP, conforme a Subparte O do RBAC 21.
+
+  4.8 Produto Classe III: Um produto Classe III é qualquer peça ou componente não enquadra-
+
+  do como produto Classe I ou II, incluindo peças normalizadas, tais como as peças “AN”,2009-05-11
+  IS nº 43-001
+
+  Revisão A
+
+  “NAS”, “SAE”.
+
+  4.9 Produto novo: Um produto, acessório, peça, ou material que não possui tempo ou ciclos
+
+  de operação.
+
+  NOTA: Um produto novo com CHT pode possuir tempo/ciclos de uso quando, por exem-
+
+  plo, há a utilização do produto em ensaios realizados pelo fabricante.
+
+  4.10 Excedentes: Descreve um produto, conjunto, peça, ou material que foi declarado como
+
+  excedente pelas Forças Armadas, fabricantes, proprietários/operadores, empresas de manu-
+
+  tenção aeronáutica, ou quaisquer outros fornecedores de peças. Esses produtos devem de-
+
+  monstrar rastreabilidade com um procedimento de fabricação aprovado pela ANAC.
+
+  4.11 Revisado: Descreve uma estrutura ou motor ou hélice aeronáuticos, dispositivo, ou parte
+
+  de um componente que, pela utilização de métodos, técnicas, e práticas aceitas pelo órgão
+
+  certificador, foi submetido a:'
+keywords:
+- manutencao
+- aeronavegabilidade
+- peca
+- produto
+- classe
+- fabricacao
+- pecas
+- acordo
+- componente
+- controle
+- especificacao
+- material
+- projeto
+- proprietario
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-001.md

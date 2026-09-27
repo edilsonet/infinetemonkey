@@ -1,0 +1,61 @@
+id: is-is-145-009-5-5-12-1-e
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.12.1
+section_title: 'Referências: RBACs nº 43 e 145, seções 43.9 e 145.219; e parágrafo 145.209(i).'
+subsection_id: e
+cite: 5.5.12.1(e)
+title: 5.5.12.1(e)
+text: 'e) Resultados de testes funcionais e/ou de calibração.
+
+  5.5.12.7 Aprovação para retorno ao serviço: a OM deve prover uma liberação para retorno
+  ao serviço ou um Certificado de Liberação Autorizada - Formulário ANAC F-100-01, conforme
+  aplicável, ao proprietário/operador. Os registros devem incluir uma cópia da aprovação para
+  retorno ao serviço ou do formulário preenchido. Os procedimentos devem descrever quem revisa
+  os registros quanto à sua exatidão e integridade, antes da aprovação para o retorno ao serviço,
+  a menos que a informação esteja incluída em outra parte do manual.
+
+  NOTA 1: Os registros não poderão ser escritos utilizando-se lápis ou lapiseira.
+
+  NOTA 2: Observada a necessidade de correção de um determinado registro, é aceitável que
+  se faça seu cancelamento, sem torná-lo ilegível. Para tanto, recomenda-se que seja feito
+  um traço simples sobre a informação cancelada, sendo vetado o uso de corretivo escolar ou
+  similar.
+
+  NOTA 3: O RT deve garantir que somente pessoas autorizadas e qualificadas efetuem correções
+  em registros.
+
+  5.5.12.8 Disponibilização: os registros devem estar disponíveis para a ANAC e o CENIPA (Centro
+  de Investigação e Prevenção de Acidentes Aeronáuticos). Os registros devem estar organizados
+  para uma fácil recuperação. Os procedimentos devem descrever a localização dos registros
+  e o sistema usado pare recuperar esses registros. Algumas OM arquivam seus registros em
+  locais remotos. O manual deve incluir procedimentos descrevendo a duração do arquivamento
+  e o processo de recuperação. As provisões de arquivamento devem incluir a proteção ambiental,
+  bem como a segurança.
+
+  5.5.12.9 Requisitos: os procedimentos devem incluir o título da pessoa responsável por manter
+  os registros para a OM, e onde os registros estão localizados. Os registros devem ser mantidos
+  por pelo menos 5 (cinco) anos da data em que o artigo foi aprovado para retorno ao serviço.
+  A ordem de compra ou o contrato do cliente pode requerer um arquivamento por um período
+  maior.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- registros
+- retorno
+- servico
+- incluir
+- procedimentos
+- aprovacao
+- arquivamento
+- nota
+- descrever
+- estar
+- formulario
+- informacao
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

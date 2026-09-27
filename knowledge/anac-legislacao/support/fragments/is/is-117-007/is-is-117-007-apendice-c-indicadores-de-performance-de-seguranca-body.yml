@@ -1,0 +1,126 @@
+id: is-is-117-007-apendice-c-indicadores-de-performance-de-seguranca-body
+kind: is
+document: is-117-007
+family: '117'
+section_id: apendice-c-indicadores-de-performance-de-seguranca
+section_title: APÊNDICE C. INDICADORES DE PERFORMANCE DE SEGURANÇA
+subsection_id: body
+cite: apendice-c-indicadores-de-performance-de-seguranca
+title: APÊNDICE C. INDICADORES DE PERFORMANCE DE SEGURANÇA
+text: 'APÊNDICE C. INDICADORES DE PERFORMANCE DE SEGURANÇA
+
+  RELACIONADOS ÀS JORNADAS
+
+  C.1. Os operadores devem manter registros de escalas e tempos de voo, períodos de jornada
+  e
+
+  períodos de descanso dos membros da tripulação. Dados que detalham os horários reais de
+
+  trabalho dos membros da tripulação podem ser comparados com o cronograma original de
+
+  trabalho para gerar SPIs relacionados a escala e jornadas, juntamente com seus valores
+
+  aceitáveis, ajudando a identificar momentos em escalas e atribuições em que a fadiga pode
+
+  ser maior do que o esperado.
+
+  C.1.1. A Tabela a seguir contém alguns exemplos de SPIs relacionados a escalas e jornadas,
+
+  juntamente com suas metas.
+
+  SPI Valores aceitáveis (metas)
+
+  Frequência com que a jornada máxima prevista
+
+  (por exemplo, de 13 horas) é ultrapassada
+
+  A jornada máxima não será excedida em mais
+
+  de 5% dos dias em qualquer período de 28 dias.
+
+  Número de jornadas de voo encerrando-se [x]
+
+  minutos depois do programado.
+
+  Se o horário de apresentação for anterior às
+
+  05h00, extensões de jornada de [x] minutos ou
+
+  mais não devem ocorrer em mais de [y]% dos
+
+  dias em qualquer período de 28 dias.
+
+  Frequência em que o intervalo mínimo entre
+
+  jornadas é reduzido
+
+  Aceitável em não mais do que [x]% dos voos em
+
+  qualquer período de 28 dias.
+
+  Não é aceitável operar na próxima jornada.
+
+  Com que frequência as jornadas terminam na
+
+  janela de baixa do alerta no ritmo circadiano
+
+  (WOCL)
+
+  Para tripulações simples, nenhuma jornada com
+
+  duração superior a [x] horas será programada
+
+  para terminar na WOCL. Atrasos são aceitáveis
+
+  em não mais do que 5% dos voos em qualquer
+
+  período de 28 dias.
+
+  Número de combinações de jornadas
+
+  identificadas como de alto risco de fadiga.
+
+  Por exemplo: não mais do que três jornadas
+
+  consecutivas com início cedo podem ser
+
+  programadas, ou, não mais do que duas jornadas
+
+  consecutivas na madrugada podem ser
+
+  programadas.
+
+  Sem exceções.
+
+  Número de vezes que o tempo de notificação
+
+  para sobreaviso ou para reserva é inferior a [x]
+
+  minutos.
+
+  Não deve exceder [x]% em nenhum período de
+
+  28 dias.Data de emissão: 29 de outubro de 2024 IS nº 117-007
+
+  Revisão A'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- jornadas
+- dias
+- periodo
+- aceitaveis
+- apendice
+- escalas
+- frequencia
+- indicadores
+- minutos
+- numero
+- performance
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-117-007.md

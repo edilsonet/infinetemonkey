@@ -1,0 +1,106 @@
+id: is-is-120-016-7-6-6-3-body
+kind: is
+document: is-120-016
+family: '120'
+section_id: 7.6.6.3
+section_title: Requisitos específicos de manutenção para os principais componentes da aeronave.
+subsection_id: body
+cite: 7.6.6.3
+title: Requisitos específicos de manutenção para os principais componentes da aeronave.
+text: '7.6.6.3 Requisitos específicos de manutenção para os principais componentes da aeronave.
+
+  7.6.6.3.1 Programa de Manutenção do Motor. O Programa de Manutenção do motor deve cobrir
+  tanto a manutenção realizada com os motores instalados (on-wing) como a manutenção realizada
+  com os motores “fora da asa” (off-wing), para cada modelo de motor operado. Se a aeronave
+  possuir Unidade Auxiliar de Potência (APU), a empresa poderá incluir a manutenção da APU
+  como parte da programação de manutenção do motor. Geralmente, a manutenção on-wing requerida
+  para o motor e APU está contida na programação de manutenção. Contido no manual de manutenção,
+  o Programa de Manutenção off-wing deve fornecer informações sobre a programação de remoção
+  e envio do motor ou APU para a oficina ou os intervalos para limpeza, ajuste, inspeção,
+  teste e lubrificação de cada parte do motor ou APU. Recomenda-se que o operador inclua em
+  seu manual de manutenção o nível de detalhamento da inspeção, as tolerâncias de desgaste
+  aplicáveis e o trabalho necessário quando o motor ou APU estiver na oficina.
+
+  7.6.6.3.2 Programa de Manutenção da Hélice. Se aplicável, o Programa de Manutenção da hélice
+  deve cobrir tanto a manutenção realizada com as hélices instaladas (on-wing) como a manutenção
+  realizada com as hélices “fora da asa” (off-wing), para cada modelo de hélice operado. Geralmente,
+  a manutenção on-wing requerida para o sistema de hélices está contida na programação de
+  manutenção. Contido no manual de manutenção, o Programa de Manutenção off-wing deve fornecer
+  informações sobre a programação de remoção e envio da hélice para a oficina ou os intervalos
+  para limpeza, inspeção, ajuste, teste e lubrificação de cada parte do sistema de hélice
+  que requer essa manutenção. Recomenda-se que a empresa inclua em seu manual de manutenção
+  o nível de detalhamento das inspeções, as tolerâncias de desgaste aplicáveis e o trabalho
+  necessário nesses períodos. Algumas hélices modernas são construídas com materiais compostos
+  e, portanto, podem exigir ferramentas especiais, procedimentos de reparo e treinamento especializado
+  para o pessoal de manutenção da empresa.
+
+  7.6.6.3.3 Programa de Manutenção de Partes e Componentes. Na maioria das vezes, esta seção
+  do Programa de Manutenção contempla as tarefas que necessitam ser realizadas em oficina,
+  que podem incluir tanto tarefas programadas como não programadas. A empresa pode realizar
+  essas tarefas em local distinto de onde a empresa realiza a manutenção de suas aeronaves.
+  O Programa de Manutenção de partes e componentes deve contemplar tanto a manutenção realizada
+  com as partes e componentes instalados (on-wing) como a manutenção realizada com as partes
+  e componentes “fora da asa” (off-wing), para cada modelo de partes e componentes operado.
+  Geralmente, a manutenção on-wing requerida para as partes e componentes está contida na
+  programação de manutenção. Contido no manual de manutenção, o Programa de Manutenção off-wing
+  deve fornecer informações sobre a programação de remoção e envio das partes e componentes
+  para a oficina ou os intervalos para limpeza, ajuste, inspeção, teste e lubrificação de
+  cada elemento da parte e componente que requer essa manutenção. Recomenda-se que a empresa
+  inclua em seu manual de manutenção o nível de detalhamento das inspeções, as tolerâncias
+  de desgaste aplicáveis e o trabalho necessário quando a parte ou componente estiver na oficina.
+
+  7.7 Programação de Manutenção
+
+  7.7.1 Programação de Manutenção. Os parágrafos 119.49(a)(8), (b)(8) e (c)(8) do RBAC nº
+  119 e o parágrafo 121.135(b) do RBAC nº 121 requerem que a empresa tenha bem definidos seus
+  tempos limites de manutenção, também chamados de programação de manutenção. A regulamentação
+  permite, ainda, que a empresa use padrões para determinar e alterar sua programação de manutenção,
+  utilizando um programa de confiabilidade aprovado pela Anac, ou ainda solicitando ajuste
+  da programação diretamente à Anac. A programação de manutenção estabelece “o quê”, “como”
+  e “quando” em relação a manutenção a ser realizada nos produtos aeronáuticos da empresa.
+  É possível para a empresa também agrupar as tarefas individuais de sua programação de manutenção
+  em pacotes periódicos de trabalho, conforme sua necessidade. Esses pacotes de tarefas devem
+  proporcionar uma sucessão contínua das tarefas de manutenção necessárias ou desejáveis para
+  toda a aeronave.
+
+  NOTA 1: Solicitações à Anac de aprovação de programação de manutenção, devido a alteração
+  de intervalos de manutenção, deverão ser feitas com uma antecedência mínima de 30 dias.
+
+  NOTA 2: A empresa não deve confundir o significado dos termos "Instruções para aeronavegabilidade
+  continuada" (ICA), exigido pela seção 25.1529 do RBAC nº 25, " tempos limite" (programação
+  de manutenção), exigido pela seção 121.135(b)(18) do RBAC nº 121, e " limitações de aeronavegabilidade"
+  (AL), exigido pelo RBAC nº 25, Apêndice H, seção H25.4. Embora relacionados, cada termo
+  tem um significado específico dentro do contexto em que aparece.
+
+  7.7.2 O Papel da Anac em Relação a Programação de Manutenção. A Anac aprova a programação
+  de manutenção da empresa, conforme procedimentos de revisão da empresa aprovados pela Anac,
+  através de suas Especificações Operativas (EO), ou outro documento, e o Sistema de Análise
+  e Supervisão Continuada (SASC) monitora essa programação para verificar sua eficácia (ou
+  seja, se ela produz os resultados desejados). O SASC é a principal fonte de informação para
+  indicar uma mudança necessária na programação de manutenção. (O SASC é descrito na seção
+  7.12 desta IS e em mais detalhes na edição atual da AC 120-79 da FAA, intitulada "Developing
+  and Implementing an Air Carrier Continuing Analysis and Surveillance System"). Espera-se
+  que a empresa corrija prontamente quaisquer deficiências na sua programação de manutenção.
+  Conforme previsto nos parágrafos 121.373(b) do RBAC nº 121, e 135.431(b) do RBAC nº 135,
+  se a empresa não fizer as alterações necessárias, a Anac pode exigir que a empresa altere
+  sua programação de manutenção ou qualquer outro elemento de seu PMAC considerado deficiente.'
+keywords:
+- antidrogas
+- saude
+- manutencao
+- programacao
+- empresa
+- wing
+- programa
+- componentes
+- motor
+- cada
+- partes
+- realizada
+- manual
+- oficina
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-016.md

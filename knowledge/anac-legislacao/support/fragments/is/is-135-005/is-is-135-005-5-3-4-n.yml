@@ -1,0 +1,92 @@
+id: is-is-135-005-5-3-4-n
+kind: is
+document: is-135-005
+family: '135'
+section_id: 5.3.4
+section_title: 'O currículo de exercício prático do treinamento do tripulante em operações
+  aeromédicas deve ser constituído dos seguintes componentes curriculares:'
+subsection_id: n
+cite: 5.3.4(n)
+title: 5.3.4(n)
+text: 'n) outras condições especiais julgadas pertinentes pelo operador aéreo.
+
+  5.5 Equipamentos Específicos para a Operação Aeromédica
+
+  5.5.1 No caso de a instalação dos equipamentos que compõem o kit aeromédico na aeronave
+  ser enquadrada na definição de grande alteração, conforme definição contida no RBAC nº 01
+  e detalhada no Apêndice A do RBAC n° 43, esses equipamentos devem ser instalados de acordo
+  com dados técnicos previamente aprovados pela ANAC. Instruções para a aprovação de grandes
+  alterações em aeronaves com marcas brasileiras podem ser encontradas na IS nº 21-004.
+
+  5.5.2 Caso a instalação dos equipamentos seja feita com base em um Certificado Suplementar
+  de Tipo (CST), os dados técnicos já estarão aprovados. Nesse caso, devem ser seguidas as
+  instruções de instalação previstas na documentação do CST e ser efetuado o registro da grande
+  alteração conforme previsto nas seções 43.13 e 43.9(d) do RBAC n° 43, respectivamente.
+
+  5.5.3 Tipicamente o CST apresenta instruções e suplementos operacionais, dados de peso e
+  balanceamento e instruções para a aeronavegabilidade continuada (ICA). Se o CST possuir
+  tarefas de manutenção periódicas, e caso a aeronave possua programação de manutenção aprovada,
+  a programação deverá ser revisada para contemplar as tarefas previstas no CST e submetida
+  à aprovação da ANAC, em linha com o previsto na IS n° 120-016. Em todos os casos, o operador
+  deverá atualizar o controle de manutenção das aeronaves com as tarefas previstas no CST.
+
+  5.5.4 Devem ser cumpridos os períodos de inspeção, testes hidrostáticos, periodicidade de
+  aferição de instrumentos de medição e de cheque da fixação da estrutura de suporte e dos
+  equipamentos conforme instruções aceitas, validadas ou aprovadas pela ANAC (por exemplo:
+  ICA no fabricante da aeronave, CST, STC). Os períodos de inspeção, teste e cheque de equipamentos
+  devem ser incluídos na programação de manutenção da aeronave, caso possua. Em todos os casos,
+  o controle de manutenção deve ser atualizado.
+
+  5.5.5 É necessário considerar que os equipamentos médicos também podem ser afetados pelos
+  equipamentos eletrônicos da aeronave. Assim, recomenda-se que eles sejam verificados quanto
+  à sua precisão antes de serem usados em um paciente.
+
+  5.5.6 Os desfibriladores devem ser testados no solo antes de serem usados em voo. Visando
+  evitar choques elétricos inadvertidos em tripulantes e passageiros, deve ser incorporado
+  meio apropriado para afastar o paciente da estrutura da aeronave.
+
+  5.5.7 Equipamentos, dispositivos de retenção, materiais e/ou acessórios especiais que sejam
+  necessários para o transporte de pacientes deverão estar fixados de modo a não comprometer
+  a segurança da operação.
+
+  5.5.8 Remoções e substituições são atividades de manutenção, conforme definição presente
+  na seção 01.1 do RBAC n° 01 e nesses casos devem ser realizadas e aprovadas pelas pessoas
+  previstas nas seções 43.3 e 43.7 do RBAC n° 43, respectivamente.
+
+  5.5.9 Os componentes dos sistemas de oxigênio (cilindros, tubulações, medidores, reguladores,
+  etc.) que tenham sido instalados na aeronave segundo dados técnicos aprovados, tornam-se
+  acessórios da mesma.
+
+  5.5.10 O sistema de oxigênio medicinal com um único ponto de reabastecimento pode ser reabastecido
+  por pessoa treinada pelo operador sob supervisão de pessoa autorizada conforme previsto
+  no RBAC nº 43.
+
+  5.5.11 A garrafa de oxigênio instalada em suporte na cabine de passageiros, dispondo de
+  regulador, traqueia e máscara, pode ser removida e reabastecida por pessoa treinada pelo
+  operador sob supervisão de pessoa autorizada conforme previsto no RBAC nº 43.
+
+  5.5.12 Se o reabastecimento exigir remoção e instalação de cilindros ou desconexão de tubulações,
+  qualquer que seja o tipo de conector usado, este deve ser realizado por pessoa competente
+  devidamente treinada conforme o programa de treinamento aprovado do operador aéreo operando
+  sob o RBAC n°135. A aprovação para retorno ao serviço deve ser feita por pessoal autorizado
+  conforme seção 43.7 do RBAC nº 43.'
+keywords:
+- taxi-aereo
+- operacoes
+- equipamentos
+- aeronave
+- manutencao
+- caso
+- instrucoes
+- operador
+- pessoa
+- dados
+- instalacao
+- aprovacao
+- aprovados
+- casos
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-005.md

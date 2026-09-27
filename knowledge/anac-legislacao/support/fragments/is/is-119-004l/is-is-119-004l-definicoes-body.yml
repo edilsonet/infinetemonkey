@@ -1,0 +1,103 @@
+id: is-is-119-004l-definicoes-body
+kind: is
+document: is-119-004l
+family: '119'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas na seção 01.1 do RBAC nº
+  01 e as seguintes definições:
+
+  4.1.1 aceitação: procedimento segundo o qual a Anac autoriza a utilização de um documento,
+  manual, programa, etc, ou suas revisões, sem que necessariamente seja realizada avaliação
+  prévia do cumprimento dos requisitos regulamentares. Nesse caso, o operador atua sob sua
+  própria responsabilidade, até que a Anac avalie a conformidade desse documento, manual,
+  programa, etc;
+
+  4.1.2 aprovação: procedimento segundo o qual a Anac autoriza a utilização de um documento,
+  manual, programa, etc. ou suas revisões, mediante avaliação prévia do cumprimento dos requisitos
+  regulamentares. Nesse caso, a vigência da autorização terá início na data definida no documento
+  de aprovação emitido pela Agência, não sendo permitida a utilização antes da aprovação;
+
+  4.1.3 avaliação preliminar de documentos: verificação sucinta feita por um servidor integrante
+  da equipe de certificação, visando a avaliar se a qualidade geral dos manuais, programas
+  e demais documentos que devem compor o PSF é aceitável e se o material apresentado está
+  apto para o prosseguimento do processo. O resultado favorável de uma avaliação preliminar
+  não implica em aceitação ou aprovação da documentação requerida para cada fase do processo;
+
+  4.1.4 base de manutenção: local onde se realizam as atividades de manutenção. Uma base de
+  manutenção é composta por sua estrutura física, material e pessoal necessário para as atividades
+  de manutenção;
+
+  4.1.5 certificado de operador aéreo (COA): Documento por meio do qual a Anac atesta que
+  uma empresa está certificada para prestar serviços de transporte aéreo, após ter demonstrado
+  possuir condições técnico-operacionais, conforme a legislação vigente e de acordo com os
+  procedimentos estabelecidos em seus manuais e programas, autorizados ou limitados em suas
+  Especificações Operativas (EO). O modelo do COA está exposto no Apêndice B desta IS;
+
+  4.1.6 coordenador de certificação: é o servidor designado pelo escritório emissor de certificado
+  (EsEC) para coordenar um processo de certificação de empresa de transporte aéreo. O coordenador
+  poderá ser alterado no decorrer do processo;
+
+  4.1.7 equipe de certificação: equipe de servidores da Anac designados por suas respectivas
+  gerências para conduzir o processo de certificação junto ao coordenador de certificação
+  do EsEC, bem como analisar os manuais, programas e documentos e coordenar as inspeções de
+  responsabilidade de seus setores. A equipe de certificação poderá ser modificada no decorrer
+  do processo e será automaticamente desfeita ao término deste;
+
+  4.1.8 escritório emissor de certificado (EsEC): é o setor da Anac encarregado da condução
+  do processo de certificação de uma empresa de transporte aéreo. Na atual estrutura da Agência
+  Nacional de Aviação Civil (Anac), o EsEC é a Gerência Técnica de Certificação (GTCE) da
+  Gerência de Operações da Aviação Geral (GOAG) da Superintendência de Padrões operacionais
+  (SPO);
+
+  4.1.9 especificações operativas (EO): documento emitido pela Anac que define, lista e estabelece
+  especificamente para um operador aéreo suas instalações, pessoal de administração, frota,
+  área de operação, autorizações e/ou limitações de operações específicas, informações sobre
+  manutenção de aeronaves e, se existirem, isenções ou desvios. A revisão mais recente das
+  EO revoga as revisões anteriores a partir da data de emissão. As EO são vinculadas ao COA,
+  mas não constituem parte dele. As características do operador são vinculadas às informações
+  contidas em suas EO. O modelo das EO está exposto no Apêndice B desta IS;
+
+  4.1.10 formulário de análise de impacto (FAI): documento por meio do qual, a organização
+  requerente descreve o estudo realizado, de forma abrangente, acerca do planejamento e impactos
+  da certificação, ou de cada solicitação de alteração ao COA, às EO ou ambos;
+
+  4.1.11 formulário padronizado (FOP): documento que tem como objetivo delimitar informações
+  por assuntos específicos de forma padronizada em substituição a cartas, memorandos e ofícios.
+  Os FOP são utilizados nas interações entre o requerente e a Anac e nas comunicações internas
+  da Agência relativas ao processo de certificação;
+
+  4.1.12 iteração: ciclo de avaliação documental sobre uma proposta solicitada pela organização
+  requerente, para a qual é requerida uma avaliação preliminar, uma aceitação ou aprovação
+  de manuais ou programas. As iterações estão relacionadas a quaisquer documentos que instruam
+  o processo de certificação e que atestem o cumprimento de requisitos, inclusive em alterações
+  ao COA e às EO;
+
+  4.1.13 material técnico: são documentos, manuais, programas, certificados, declarações,
+  contratos, etc., necessários à instrução do processo de certificação, conforme requerido
+  nas fases aplicáveis;'
+keywords:
+- certificacao-de-operador
+- operacoes
+- certificacao
+- processo
+- documento
+- avaliacao
+- aereo
+- aprovacao
+- definicoes
+- documentos
+- manuais
+- manutencao
+- programas
+- qual
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

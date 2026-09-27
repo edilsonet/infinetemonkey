@@ -1,0 +1,46 @@
+id: is-is-21-010-5-7-1-d
+kind: is
+document: is-21-010
+family: '21'
+section_id: 5.7.1
+section_title: 'A Design Approval Letter - DAL may be issued when:'
+subsection_id: d
+cite: 5.7.1(d)
+title: 5.7.1(d)
+text: 'd) A statement from the applicant through its State of Design Authority, with certification
+  by the State of Design Authorithy, that the performance of the article complies with the
+  applicable TSO/ETSO (or equivalent document) or with other standards accepted by ANAC as
+  providing an equivalent level of safety.
+
+  5.7.4 A validação de um artigo TSO/ETSO (ou equivalente) não constitui aprovação automática
+  da instalação do mesmo. A instalação do artigo deve ser aprovada pela ANAC de acordo com
+  o que provê o parágrafo 5.2.7 desta IS.
+
+  5.7.4 The validation of a TSO/ETSO article (or equivalent) does not constitute automatic
+  approval of the installation itself. The article installation shall be approved by ANAC
+  in accordance with paragraph 5.2.7 of this IS.
+
+  5.7.5 Os artigos TSO/ETSO (ou equivalente) importados devem estar acompanhados de uma aprovação
+  de aeronavegabilidade para exportação (EASA Form 1, FAA Form 8130-3 ou equivalente).'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- etso
+- with
+- article
+- design
+- equivalent
+- equivalente
+- approval
+- aprovacao
+- artigo
+- form
+- instalacao
+- installation
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

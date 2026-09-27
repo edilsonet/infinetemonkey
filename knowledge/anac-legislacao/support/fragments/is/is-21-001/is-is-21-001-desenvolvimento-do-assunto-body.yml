@@ -1,0 +1,107 @@
+id: is-is-21-001-desenvolvimento-do-assunto-body
+kind: is
+document: is-21-001
+family: '21'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1. Visão geral
+
+  5.1.1. Emitido de acordo com a seção RBAC 21.21, o Certificado de Tipo é o instrumento pelo
+  qual a ANAC reconhece que o projeto de tipo da aeronave, motor ou hélice satisfaz os requisitos
+  da base de certificação e que, no caso de aeronave, nenhum aspecto ou característica torna
+  a aeronave insegura para a categoria na qual a certificação foi requerida.
+
+  5.1.2. O Certificado de Tipo é uma aprovação de projeto e é uma das condições para que uma
+  aeronave obtenha um Certificado de Aeronavegabilidade padrão OACI - Organização de Aviação
+  Civil Internacional, ou seja, um certificado que seja reconhecido internacionalmente de
+  acordo com a Convenção Internacional de Aviação Civil (ou Convenção de Chicago) (referência:
+  RBAC 21.183).
+
+  NOTA - A seção RBAC 21.183 requer que a aeronave tenha um projeto aprovado. No caso de uma
+  aeronave de projeto nacional, essa aprovação ocorre através de um Certificado de Tipo emitido
+  pela autoridade aeronáutica brasileira. No caso de aeronave de projeto estrangeiro, normalmente
+  há um Certificado de Tipo brasileiro correspondente, mas há exceções em que a ANAC aceita
+  o certificado emitido pela autoridade do país que tem jurisdição sobre o detentor do Certificado
+  de Tipo (para saber mais sobre tais exceções, consulte a Instrução Suplementar 21-010).
+
+  5.1.3. Os procedimentos e requisitos adotados pela ANAC em um processo de certificação de
+  tipo são compatíveis com aqueles exigidos por autoridades de aviação civil em diversos mercados
+  internacionais de produtos aeronáuticos, o que contribui para a maior aceitabilidade dos
+  produtos aeronáuticos nacionais certificados pela ANAC visando sua exportação.
+
+  5.1.4. A obtenção de um Certificado de Tipo é resultado de um processo interativo e iterativo
+  entre requerente e ANAC com diversas atividades de engenharia, que abrangem um número de
+  análises, testes, ensaios e inspeções que variam de acordo com a complexidade do projeto
+  da aeronave, motor ou hélice, podendo atingir uma ordem de grandeza de dezenas e até mesmo
+  de milhares de atividades.
+
+  5.1.5. No Brasil, qualquer pessoa, física ou jurídica, pode requerer um Certificado de Tipo.
+  Para obtenção deste certificado, além de submeter o requerimento formal conforme a seção
+  RBAC 21.15, o requerente deverá, conforme exigido pela seção RBAC 21.20, demonstrar o cumprimento
+  com todos os requisitos aplicáveis (RBAC 21.17), inclusive com a realização de ensaios e
+  inspeções, conforme previsto nas seções RBAC 21.33 e 21.35, fornecendo à ANAC os meios pelos
+  quais o cumprimento tenha sido demonstrado, bem como uma declaração de que o projeto de
+  tipo e o produto cumprem tais requisitos.
+
+  5.1.6. Além dessas informações e da declaração, o requerente deverá submeter também os documentos
+  previstos no parágrafo RBAC 21.21(b), e nas seções 21.39 e 21.53 do RBAC 21.
+
+  5.1.7. Por fim, a seção RBAC 21.21 estabelece que o Certificado de Tipo será emitido se
+  a ANAC, após examinar o projeto de tipo e realizar todos os ensaios e inspeções necessários,
+  considerar que o projeto de tipo e o produto satisfazem os requisitos aplicáveis, que quaisquer
+  disposições de aeronavegabilidade não cumpridas foram compensadas por fatores que fornecem
+  um nível de segurança equivalente e que, no caso de uma aeronave, nenhum aspecto ou característica
+  torna a aeronave insegura para a categoria na qual a certificação foi requerida.
+
+  5.1.8. O processo de obtenção de um Certificado de Tipo é um exercício essencialmente técnico
+  com escopo voltado ao projeto de tipo e ao produto a ser certificado. Embora qualquer pessoa
+  possa requerer tal certificado e que o RBAC 21 não estabeleça pré-requisitos quanto à capacidade
+  do requerente, a ANAC avalia a competência do requerente, instaurada em um projeto específico,
+  pois, para determinar seu nível de envolvimento, ela busca ter uma percepção de como tal
+  competência pode reduzir a probabilidade de alguma falha em cumprir com algum requisito
+  de certificação.
+
+  5.1.9. Ao avaliar a competência, a ANAC considera suas impressões obtidas ao longo do programa
+  em certificação. Também se considera o grau de definição e maturidade dos processos estabelecidos
+  pelo requerente naquele projeto (processos de demonstração, guarda e registro de demonstrações,
+  conformidade e execução de ensaios e inspeções) ou qualquer outra informação, independentemente
+  da fonte, que permita uma avaliação da competência do requerente.
+
+  5.1.10. Embora a competência do requerente seja avaliada no âmbito do projeto específico,
+  é importante observar também que isso não o exime de cumprir com todas as suas responsabilidades
+  previstas na legislação vigente, como aquelas estabelecidas nas seções 21.49, 21.50 ou 21.99
+  do RBAC 21. A ANAC poderá fiscalizar o detentor do certificado de tipo no cumprimento de
+  suas obrigações e aplicar as sanções cabíveis caso seja observado um não cumprimento com
+  alguma de suas responsabilidades definidas nos regulamentos vigentes.
+
+  NOTA - No caso de organizações de projeto certificadas segundo a Subparte J do RBAC 21,
+  é importante notar que essa avaliação de competência é contínua e não se restringe ao projeto
+  específico (ref. RBAC 21.257-I(a)).
+
+  5.1.11. Resumidamente, o processo consiste nas etapas abaixo, que serão detalhadas ao longo
+  desta Instrução Suplementar:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- certificado
+- tipo
+- aeronave
+- requerente
+- caso
+- competencia
+- requisitos
+- secao
+- cumprimento
+- emitido
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

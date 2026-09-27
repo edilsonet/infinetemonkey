@@ -1,0 +1,312 @@
+id: is-is-117-003-117-61-body
+kind: is
+document: is-117-003
+family: '117'
+section_id: '117.61'
+section_title: '117.63'
+subsection_id: body
+cite: '117.61'
+title: '117.63'
+text: '117.61 117.63
+
+  NB x
+
+  (exceto 117.5) x x
+
+  GRF x x x x
+
+  GRF x x x x
+
+  SGRF x x x
+
+  Tabela 1: Níveis de gerenciamento da fadiga e requisitos do RBAC nº 117 associados.Data
+  de emissão: 31 de janeiro de 2020 IS nº 117-003
+
+  Revisão B
+
+  5.1.7. Esta IS tem como objetivo fornecer orientação para atender aos requisitos do GRF.
+  Parte
+
+  deste material é relevante para um detentor de COA que pretenda candidatar-se a um
+
+  SGRF ou opere sob um SGRF.
+
+  5.1.8. Para os operadores que escolherem desenvolver e implementar um SGRF, deve-se
+
+  consultar as orientações contidas na IS nº 117-004.
+
+  5.1.9. A fim de fornecer aos leitores orientações relevantes para seus interesses, esta
+  IS é
+
+  dividida em cinco partes principais:
+
+  a. Seção 5: Introdução (esta parte)
+
+  b. Seção 6: Obrigações dos operadores GRF;
+
+  c. Seção 7: Obrigações individuais dos tripulantes;
+
+  d. Seção 8: Necessidade de implantar um SGRF para um operador do GRF; e
+
+  e. Seção 9: Procedimentos de certificação.
+
+  5.1.10. Os apêndices e anexos desta IS cobrem áreas mais específicas de orientação, tais
+  como
+
+  interpretar e exemplificar os limites e requisitos do RBAC nº 117.
+
+  5.2 Qual apêndice do RBAC nº 117 é mais apropriado à minha operação?
+
+  5.2.1. Os apêndices do RBAC nº 117 disponíveis para um operador dependerão do tipo de
+
+  operações que ele realiza. Pode haver mais de um apêndice disponível para o operador,
+
+  cabendo a este determinar qual é o mais adequado.
+
+  5.2.2. Apêndice A do RBAC nº 117 - NB
+
+  a. O Apêndice A está disponível para todos os operadores que realizem qualquer tipo
+
+  de operação que não requeira a extrapolação dos limites contidos na Lei nº
+
+  13.475/17.
+
+  b. Este Apêndice é o mais apropriado para operações que não excedam as limitações
+
+  da Lei nº 13.475/17, incluindo:
+
+  i. operações de serviço aéreo especializado;
+
+  ii. operações privadas sob o RBHA 91, ou regulamento que venha a substituí-
+
+  lo, quando realizando operações sem fins lucrativos com pilotos contratados,
+
+  a serviço do operador;
+
+  iii. treinamento em voo de tripulantes (mesmo aqueles que são realizados por
+
+  operadores dos RBAC nº 121 ou 135);
+
+  iv. exame em voo de tripulantes visando a emissão de uma licença (mesmo
+
+  aqueles que são realizados por operadores dos RBAC nº 121 ou 135);
+
+  v. operações segundo os RBAC nº 121 ou 135, desde que tais operações não se
+
+  enquadrem nos itens 5.2.3 ou 5.2.4 abaixo.
+
+  5.2.3. Apêndice B do RBAC nº 117 - GRFData de emissão: 31 de janeiro de 2020 IS nº 117-003
+
+  Revisão B
+
+  a. O Apêndice B está disponível para operadores de transporte aéreo público que
+
+  realizem operações com dois ou mais pilotos, incluindo operações complexas.
+
+  b. Operação complexa significa uma operação que envolva uma ou mais das seguintes
+
+  condições:
+
+  i. uma tripulação composta ou de revezamento;
+
+  ii. uma jornada que envolva uma diferença de três fusos horários ou mais; ou
+
+  iii. uma jornada que seja iniciada quando o tripulante de uma tripulação simples,
+
+  composta ou de revezamento estiver:
+
+  A. em um estado desconhecido de aclimatação; ou
+
+  B. não aclimatado ao local onde a jornada se inicia.
+
+  c. Este Apêndice é o mais apropriado para as operações segundo os RBAC nº 121 ou
+
+  135 que desejem exceder as limitações da Lei nº 13.475/17 e operem no Brasil ou
+
+  no exterior com tripulações simples, compostas ou de revezamento.
+
+  d. Consulte a seção 9 desta IS para visualizar os procedimentos de certificação ao GRF
+
+  dos operadores dos RBAC nº 121 ou 135.
+
+  5.2.4. Apêndice C do RBAC nº 117 - GRF
+
+  a. O Apêndice C está disponível para operadores de transporte aéreo público que
+
+  realizem operações com dois pilotos, excluindo as operações complexas.
+
+  b. O Apêndice C é mais adequado que o Apêndice B para a operações domésticas ou
+
+  internacionais com dois pilotos, mas que não cruzem três fusos ou mais.
+
+  c. O Apêndice C não se aplica às operações com tripulação aumentada ou operações
+
+  que cruzem 3 fusos ou mais na mesma jornada ou operações cujos tripulantes
+
+  estejam não-aclimatados ou em estado desconhecido de aclimatação.
+
+  d. Consulte a seção 9 desta IS para visualizar os procedimentos de certificação ao GRF
+
+  dos operadores dos RBAC nº 121 ou 135.
+
+  5.2.5. Exemplos (não exaustivo; apenas ilustram as regras do RBAC nº 117; cada operador
+  deve
+
+  verificar quais são as regras a ele aplicáveis e, deste modo, verificar sob qual dos
+
+  apêndices do RBAC nº 117 ele pode operar):
+
+  a. um operador privado possui um R22, o qual é utilizado apenas em pequenos voos
+
+  ao redor da sua base principal e não extrapola as limitações contidas na Lei nº
+
+  13.475/17. Nesta situação, é mais conveniente que as suas operações sejam
+
+  integralmente realizadas de acordo com o Apêndice A do RBAC nº 117;
+
+  b. um operador privado possui um G650, o qual é utilizado tanto em viagens nacionais
+
+  quanto internacionais, cruzando três fusos ou mais. No entanto, todas as operações
+
+  respeitam as limitações contidas na Lei nº 13.475/17. Nesta situação, é mais
+
+  conveniente que que as suas operações sejam integralmente realizadas de acordo
+
+  com o Apêndice A do RBAC nº 117;Data de emissão: 31 de janeiro de 2020 IS nº 117-003
+
+  Revisão B
+
+  c. um operador de táxi aéreo possui cinco aeronaves C208, as quais são utilizadas em
+
+  voos cargueiros dentro do Brasil, sem extrapolar as limitações contidas na Lei nº
+
+  13.475/17. Nesta situação, é mais conveniente que que as suas operações sejam
+
+  integralmente realizadas de acordo com o Apêndice A do RBAC nº 117;
+
+  d. um operador de táxi aéreo possui um grande acervo de aeronaves, incluindo King
+
+  Air, Phenom 300 e Falcon 7x, as quais são utilizadas para voo pelo Brasil e pela
+
+  América Latina. No entanto, todas as operações respeitam as limitações contidas na
+
+  Lei nº 13.475/17. Nesta situação, é mais conveniente que que as suas operações
+
+  sejam integralmente realizadas de acordo com o Apêndice A do RBAC nº 117;
+
+  e. um operador de táxi aéreo possui um grande acervo de aeronaves, incluindo King
+
+  Air, Phenom 300 e Falcon 7x, as quais são utilizadas para voo pelo Brasil e pela
+
+  América Latina. As suas operações, no entanto, extrapolam as limitações contidas
+
+  na Lei nº 13.475/17. Nesta situação, é mais conveniente que as suas operações
+
+  sejam integralmente realizadas de acordo com o Apêndice C do RBAC nº 117, uma
+
+  vez que ocorrem exclusivamente no Brasil e na América Latina, não sendo
+
+  consideradas operações complexas;
+
+  f. um operador de táxi aéreo possui um grande acervo de aeronaves, incluindo King
+
+  Air, Phenom 300 e Falcon 7x, as quais são utilizadas para voo pelo Brasil, pela
+
+  América Latina e Europa. As suas operações, no entanto, extrapolam as limitações
+
+  contidas na Lei nº 13.475/17. Nesta situação, é mais conveniente que as suas
+
+  operações sejam integralmente realizadas de acordo com o Apêndice B do RBAC
+
+  nº 117, uma vez que as operações para a Europa são consideradas complexas;
+
+  g. um operador regular nacional ou internacional possui aeronaves ATR-42, B737 e
+
+  A320, as quais são utilizadas para voo pelo Brasil, pela América Latina ou costa
+
+  leste dos EUA, respeitando todas as limitações contidas na Lei nº 13.475/17. Nesta
+
+  situação, é mais conveniente que as suas operações sejam integralmente realizadas
+
+  de acordo com o Apêndice A do RBAC nº 117;
+
+  h. um operador regular possui aeronaves ATR-42, B737 e A320, as quais são
+
+  utilizadas para voo pelo Brasil, pela América Latina ou costa leste dos EUA (todas
+
+  com tripulações simples). As suas operações, no entanto, extrapolam as limitações
+
+  contidas na Lei nº 13.475/17. Nesta situação, é mais conveniente que as suas
+
+  operações sejam integralmente realizadas de acordo com o Apêndice C do RBAC
+
+  nº 117, uma vez que ocorrem exclusivamente no Brasil e na América Latina, não
+
+  sendo consideradas operações complexas;
+
+  i. um operador regular possui aeronaves ATR-42, B737, A320 e B777, as quais são
+
+  utilizadas para voo pelo Brasil, pela América Latina, costa leste dos EUA e Europa.
+
+  As suas operações, no entanto, extrapolam as limitações contidas na Lei nº
+
+  13.475/17. Nesta situação, é mais conveniente que as suas operações sejam
+
+  integralmente realizadas de acordo com o Apêndice B do RBAC nº 117, uma vez
+
+  que as operações para a Europa são consideradas complexas;
+
+  j. um operador não-regular possui aeronaves B-767 de carga, as quais são utilizadas
+
+  para voo pelo Brasil, pela América Latina ou costa leste dos EUA, respeitando todas
+
+  as limitações contidas na Lei nº 13.475/17. Nesta situação, é mais conveniente que
+
+  as suas operações sejam integralmente realizadas de acordo com o Apêndice A do
+
+  Revisão B
+
+  k. um operador não-regular possui aeronaves B-767 de carga, as quais são utilizadas
+
+  para voo pelo Brasil, pela América Latina ou costa leste dos EUA (todas com
+
+  tripulações simples). As suas operações, no entanto, extrapolam algumas das
+
+  limitações contidas na Lei nº 13.475/17. Nesta situação, é mais conveniente que as
+
+  suas operações sejam integralmente realizadas de acordo com o Apêndice C do
+
+  não sendo consideradas operações complexas;
+
+  l. um operador não-regular possui aeronaves B-767 de carga, as quais são utilizadas
+
+  para voo pelo Brasil, pela América Latina, costa leste dos EUA e Europa. As suas
+
+  operações, no entanto, extrapolam as limitações contidas na Lei nº 13.475/17. Nesta
+
+  situação, é mais conveniente que as suas operações sejam integralmente realizadas
+
+  de acordo com o Apêndice B do RBAC nº 117, uma vez que as operações para a
+
+  Europa são consideradas complexas.'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- apendice
+- operador
+- limitacoes
+- brasil
+- contidas
+- acordo
+- conveniente
+- integralmente
+- possui
+- realizadas
+- sejam
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-117-003.md

@@ -1,0 +1,57 @@
+id: is-is-145-214-001-g3-6-body
+kind: is
+document: is-145-214-001
+family: '145'
+section_id: G3.6
+section_title: Identificação da necessidade de implementação de defesas e controles adicionais
+subsection_id: body
+cite: G3.6
+title: Identificação da necessidade de implementação de defesas e controles adicionais
+text: 'G3.6 Identificação da necessidade de implementação de defesas e controles adicionais
+
+  G3.6.1. Outro resultado possível para a avaliação citada no parágrafo 3.5.1 é que as defesas
+  e con-
+
+  troles preexistentes não são suficientes para mitigar os riscos identificados. Nessa situação
+
+  defesas e controles adicionais devem ser implementados.
+
+  G3.6.2. As defesas e controles adicionais devem ser desenvolvidos, aprovados e monitorados,
+  con-
+
+  forme disposto nos parágrafos 3.5.2 e 3.5.4 desta IS.
+
+  G3.6.3. O volume e/ou a complexidade de defesas e controles adicionais podem apontar para
+  neces-
+
+  sidade de estabelecer um plano de ação ou de implementação. Esse plano permite que a
+
+  organização programe e acompanhe a implementação e a eficácia das novas defesas e con-
+
+  troles de riscos. Cabe somente ao GR ou RSO, conforme requerido, autorizar a postergação
+
+  de prazos previamente estabelecidos nesse planejamento. Deve fazê-lo sob argumentação
+
+  devidamente consistente, mediante avaliações técnicas e/ou evidências que comprovem que
+
+  não há impactos negativos para a segurança operacional.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- defesas
+- adicionais
+- controles
+- implementacao
+- identificacao
+- necessidade
+- plano
+- riscos
+- troles
+- acao
+- acompanhe
+- apontar
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-214-001.md

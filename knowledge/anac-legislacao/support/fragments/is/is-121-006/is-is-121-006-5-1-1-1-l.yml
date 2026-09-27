@@ -1,0 +1,51 @@
+id: is-is-121-006-5-1-1-1-l
+kind: is
+document: is-121-006
+family: '121'
+section_id: 5.1.1.1
+section_title: 'O programa de treinamento operacional deve ser composto das seguintes partes:'
+subsection_id: l
+cite: 5.1.1.1(l)
+title: 5.1.1.1(l)
+text: 'l) a periodicidade com que deve ser aplicado.
+
+  5.1.1.4 Todas as páginas do Programa de Treinamento Operacional devem ser unicamente identificadas
+  (por números, letras ou combinações destes) e conter o nome do detentor de certificado,
+  o número e a data da revisão referente à última alteração do manual.
+
+  5.1.1.5 A seu critério, o detentor de certificado pode ou não optar por elaborar um programa
+  de treinamento operacional em diferentes volumes: por exemplo, um volume para cada modelo
+  de aeronave (ou para cada grupo de modelos de aeronave) ou um volume para cada função (pilotos,
+  mecânicos de voo, comissários e despachantes operacionais de voo). Neste caso, se considera
+  que cada um destes documentos compõe um volume do programa de treinamento operacional requerido
+  pelo regulamento. Cada volume deverá ser claramente identificado pelo seu título na capa
+  e ter controle de revisões e sumário de modificações próprios. Todos os volumes dos manuais
+  compõem parte do mesmo Programa de Treinamento Operacional e, portanto, no caso de qualquer
+  revisão em um volume separado, o operador deverá verificar o impacto das modificações nos
+  demais volumes. Não obstante, no caso de separação de volumes, cada manual será considerado
+  independente para fins de análise, aprovação e cobrança de taxas.
+
+  5.1.1.6 A cada nova revisão submetida para análise, todas as alterações com relação à última
+  revisão aprovada devem ser indicadas com uma barra vertical adjacente ao texto. Nas revisões
+  seguintes, caso não haja nova alteração, a barra vertical de revisões anteriores deve ser
+  removida.'
+keywords:
+- transporte-aereo
+- operacoes
+- cada
+- operacional
+- programa
+- treinamento
+- volume
+- caso
+- revisao
+- volumes
+- revisoes
+- aeronave
+- alteracao
+- analise
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-006.md

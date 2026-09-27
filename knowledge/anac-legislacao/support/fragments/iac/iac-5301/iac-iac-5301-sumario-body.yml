@@ -1,0 +1,48 @@
+id: iac-iac-5301-sumario-body
+kind: iac
+document: iac-5301
+family: '530'
+section_id: sumario
+section_title: SUMÁRIO
+subsection_id: body
+cite: sumario
+title: SUMÁRIO
+text: 'SUMÁRIO
+
+  1 INTRODUÇÃO ..................................................................................................................................
+  4
+
+  2 COMPOSIÇÃO ..................................................................................................................................
+  4
+
+  3 LOCALIZAÇÃO ................................................................................................................................
+  4
+
+  4 SINALIZAÇÃO ..................................................................................................................................
+  5
+
+  5 ÁREAS NECESSÁRIAS PARA ABRIGAR A SAC ........................................................................
+  5
+
+  6 APROVAÇÃO DOS PROJETOS DAS SAC......................................................................................
+  6
+
+  7 DISPOSIÇÕES FINAIS .....................................................................................................................
+  6'
+keywords:
+- sumario
+- abrigar
+- aprovacao
+- areas
+- composicao
+- disposicoes
+- finais
+- introducao
+- localizacao
+- necessarias
+- projetos
+- sinalizacao
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-5301.md

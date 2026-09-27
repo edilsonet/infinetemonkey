@@ -1,0 +1,166 @@
+id: is-is-121-006-definicoes-body
+kind: is
+document: is-121-006
+family: '121'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as seguintes definições em adição ao descrito
+  nos RBAC nº 01, 119 e 121:
+
+  4.1.1 Aprovação final: um documento da ANAC que autoriza o operador a realizar treinamentos
+  de acordo com um currículo específico ou segmento de currículo de seu PTO sem depender da
+  avaliação de eficácia da ANAC.
+
+  4.1.2 Aprovação inicial: um documento da ANAC que condicionalmente autoriza um operador
+  a iniciar treinamento sob um currículo específico ou segmento de currículo pendente de uma
+  avaliação da eficácia do treinamento.
+
+  4.1.3 Categorias de treinamento: uma classificação de treinamento com base na qualificação
+  anterior do membro da tripulação de voo, tripulação de cabine ou despachante operacional
+  de voo. As categorias de treinamento consistem em um ou mais currículos. As 6 categorias
+  de treinamento são o Inicial de Contratação, Inicial de Equipamento, Transição, Elevação
+  de Nível, Periódico e Requalificação.
+
+  4.1.4 Currículo: uma programação de treinamento completa específica para um tipo de aeronave,
+  uma função e uma categoria de treinamento. Um exemplo é um "Currículo Inicial de Contratação
+  DOV B-727". Cada currículo é composto por vários segmentos de currículos.
+
+  4.1.5 Dados relevantes à operação (Operational Suitability Data - OSD): informações produzidas
+  durante a certificação de tipo que são relevantes para a operação segura da aeronave, cujos
+  elementos incluem FCD e MMEL.
+
+  4.1.6 Dados relevantes à operação para pilotos (Flight Crew Data - FCD): OSD relacionados
+  à determinação da habilitação de tipo para piloto e especificações recomendadas para treinamento
+  mínimo, exame e experiência recente.
+
+  4.1.7 Elemento: uma parte integral, relacionada a assuntos teóricos (não relacionada a tarefas)
+  de um módulo de treinamento, verificação ou qualificação. Por exemplo, um módulo de treinamento
+  de energia elétrica pode incluir elementos que descrevam como operam um sistema de energia
+  de corrente contínua (DC), um sistema de energia de corrente alternada (CA) ou um circuito
+  de proteção.
+
+  4.1.8 Evento: uma parte integral, relacionada a tarefas práticas, de um módulo de treinamento,
+  verificação ou qualificação que requer o uso de procedimentos específicos. Um evento de
+  treinamento oferece ao aluno uma oportunidade de instrução, demonstração e/ou prática usando
+  procedimentos específicos. Um evento de verificação ou qualificação fornece a um avaliador
+  a oportunidade de avaliar a capacidade de um aluno realizar corretamente uma tarefa específica
+  sem instrução ou supervisão.
+
+  4.1.9 Função: a posição funcional ou operacional de um tripulante ou despachante operacional
+  de voo. Para as operações do RBAC nº 121, as funções são piloto em comando (PIC), segundo
+  em comando (SIC), comissário de voo (CMS), mecânico de voo (MCV) e despachante operacional
+  de voo (DOV).
+
+  4.1.10 Horas programadas: de acordo com o RBAC nº 121, seção 121.403, cada currículo deve
+  incluir as horas programadas que o operador aplicará ao treinamento. Para o treinamento
+  Inicial de Contratação, Inicial de Equipamento e Periódicos, o RBAC nº 121, subparte N,
+  especifica as horas mínimas programadas que cada currículo deve incluir, podendo ser reduzido
+  de acordo com a seção 121.405. Embora a subparte N não especifique horas mínimas programadas
+  para as outras categorias de treinamento, o operador ainda deve incluir horas programadas
+  em cada currículo. Essas horas devem proporcionar uma oportunidade para instrução, demonstração,
+  prática e testes (conforme apropriado). Este tempo deve ser especificado em horas na ementa
+  do segmento de currículo e de seus módulos de treinamento.
+
+  4.1.11 Material didático: material de instrução desenvolvido para cada currículo. Pode incluir
+  a informação em planos de aula, guias de instrutores, programas de software de computador,
+  programas audiovisuais, recursos instrucionais, apostilas e cadernos de exercícios, manuais
+  de operação de aeronaves e folhetos. O material deve refletir com precisão os requisitos
+  do currículo, ser efetivamente organizado e integrar-se adequadamente com os métodos de
+  instrução.
+
+  4.1.12 Métodos de instrução: metodologia para transmitir informações a um aluno. Pode incluir
+  palestras, demonstrações, apresentações audiovisuais, workshops de estudo dirigidos e exercícios.
+  Os dispositivos de treinamento em solo (ground training device, GTD), dispositivos de treinamento
+  de simulação de voo (flight simulation training device, FSTD), aeronaves e estações de computador
+  também são considerados métodos de instrução.
+
+  4.1.13 Módulo de treinamento: uma subparte de um segmento de currículo que constitui uma
+  unidade lógica e autônoma. Um módulo contém elementos ou eventos relacionados a um assunto
+  específico. Por exemplo, um segmento de currículo de solo pode logicamente ser dividido
+  em módulos pertencentes a sistemas de aeronaves (como hidráulicos, pneumáticos e elétricos).
+  Como outro exemplo, um segmento de currículo de voo é normalmente dividido em sessões de
+  voo, cada uma das quais é um módulo separado. Um módulo de treinamento inclui a ementa,
+  o material didático apropriado e os métodos de instrução. Ele é geralmente, mas não necessariamente,
+  finalizado em uma única sessão de treinamento.
+
+  4.1.14 Programa de treinamento: sistema de instrução que inclui currículos de treinamento,
+  instalações, equipamentos, simuladores, instrutores, examinadores credenciados, material
+  didático, métodos de instrução e controle de qualidade. O sistema deve atender os requisitos
+  do RBAC nº 121 para garantir que cada tripulante e DOV seja adequadamente treinado para
+  cada aeronave, cada função e cada tipo de operação em que será empregado. O sistema deve
+  ser formalizado por meio do documento Programa de Treinamento Operacional (PTO) do detentor
+  de certificado.
+
+  4.1.15 Segmento de currículo: a maior subdivisão de um currículo, contendo essencialmente
+  assuntos e atividades de treinamento baseados em requisitos regulamentares. Os segmentos
+  de currículo são subdivisões lógicas de um currículo, que podem ser avaliadas separadamente
+  e aprovadas individualmente. Exemplos: segmento de currículo de solo e um segmento de currículo
+  de voo. Cada segmento de currículo consiste em um ou mais módulos de treinamento.
+
+  4.1.16 Treinamento modular: o conceito segundo o qual as subdivisões lógicas dos programas
+  de treinamento são desenvolvidas, revisadas, aprovadas e modificadas como unidades individuais.
+  Os segmentos de currículos e os módulos de treinamento podem ser usados em múltiplos currículos.
+  A abordagem modular permite uma grande flexibilidade no desenvolvimento de programas e reduz
+  a carga de trabalho administrativo tanto para operadores como para os instrutores no desenvolvimento
+  e aprovação desses programas.
+
+  4.2 Ainda para os efeitos desta IS, são válidas as seguintes siglas:
+
+  CMS Comissário de Voo
+
+  COA Certificado de Operador Aéreo
+
+  CTAC Centro de Treinamento de Aviação Civil
+
+  DOV Despachante Operacional de Voo
+
+  EO Especificações Operativas
+
+  FCD Dados relevantes à operação para pilotos (Flight Crew Data)
+
+  FSTD Flight Simulator Training Device
+
+  GTD Ground Training Device
+
+  MCV Mecânico de Voo
+
+  MEL Lista de Equipamentos Mínimos
+
+  MMEL Lista Mestra de Equipamentos Mínimos
+
+  PIC Piloto em Comando
+
+  PTO Programa de Treinamento Operacional
+
+  RBAC Regulamento Brasileiro de Aviação Civil
+
+  SIC Segundo em Comando
+
+  SPO Superintendência de Padrões Operacionais
+
+  TFAC Taxa de Fiscalização de Aviação Civil'
+keywords:
+- transporte-aereo
+- operacoes
+- treinamento
+- curriculo
+- cada
+- instrucao
+- segmento
+- horas
+- modulo
+- operacional
+- incluir
+- inicial
+- operacao
+- curriculos
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-006.md

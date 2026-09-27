@@ -1,0 +1,41 @@
+id: is-is-119-001-5-3-11-5-f
+kind: is
+document: is-119-001
+family: '119'
+section_id: 5.3.11.5
+section_title: 'Conteúdo da LBM. A LBM deve conter, no mínimo:'
+subsection_id: f
+cite: 5.3.11.5(f)
+title: 5.3.11.5(f)
+text: 'f) o nível de complexidade da manutenção por localidade e por modelo de aeronave, podendo
+  ser descrito em termos de tarefas, blocos de tarefas (checks) ou conforme relacionado no
+  Programa de Manutenção aprovado.
+
+  Nota: um modelo de LBM em formato editável encontra-se disponível no sítio da Anac, no endereço
+  eletrônico: https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/modelos-e-formularios.
+
+  5.3.12 Para solicitações de alteração de EO não contempladas nos parágrafos anteriores,
+  a empresa de transporte aéreo deverá encaminhar FOP 119 acompanhado da documentação aplicável
+  do pacote de solicitação formal previsto no parágrafo 5.2.9.6 desta IS.
+
+  5.4 Revisão de manuais'
+keywords:
+- certificacao-de-operador
+- operacoes
+- manutencao
+- modelo
+- tarefas
+- acompanhado
+- aereas
+- aereo
+- aeronave
+- alteracao
+- anteriores
+- aplicavel
+- aprovado
+- assuntos
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-001.md

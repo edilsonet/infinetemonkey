@@ -1,0 +1,42 @@
+id: rbac-rbac-60-requisitos-a
+kind: rbac
+document: rbac-60
+family: '60'
+section_id: requisitos
+section_title: Requisitos
+subsection_id: a
+cite: requisitos(a)
+title: requisitos(a)
+text: '(a) Quando solicitado pela ANAC, o
+
+  operador deve disponibilizar todos os
+
+  equipamentos especiais e pessoal qualificado
+
+  necessários para realizar ou auxiliar na
+
+  realização dos testes durante a qualificação
+
+  inicial, qualificação recorrente ou avaliações
+
+  especiais do FSTD.'
+keywords:
+- simuladores
+- treinamento
+- especiais
+- qualificacao
+- requisitos
+- auxiliar
+- avaliacoes
+- disponibilizar
+- durante
+- equipamentos
+- fstd
+- inicial
+- necessarios
+- operador
+categories:
+- simuladores
+- treinamento
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-60.md

@@ -1,0 +1,1273 @@
+id: is-is-21-004-20-02-2025-body
+kind: is
+document: is-21-004
+family: '21'
+section_id: 20.02.2025
+section_title: 20.02.2025
+subsection_id: body
+cite: 20.02.2025
+title: 20.02.2025
+text: '20.02.2025
+
+  Objetivo
+
+  Esta Instrução Suplementar - IS tem por objetivo fornecer informações para aprovação, de
+  grandes modificações e de dados técnicos para grandes alterações em aeronaves com marcas
+  brasileiras, ou que venham a ter marcas brasileiras, pela Gerência de Certificação de Projeto
+  de Produto Aeronáutico - GCPP da Agência Nacional de Aviação Civil (nesta IS simplesmente
+  referenciada por GCPP). Descreve também as atividades envolvidas e como ocorre a formalização
+  dessa aprovação, bem como as providências que devem ser adotadas após a incorporação da
+  modificação na aeronave.
+
+  Esta IS é aplicável aos processos de grande modificação ou grande alteração conduzidos junto
+  à GCPP, definidas pela subparte E do RBAC 21 ou conforme o RBAC 43, abrangendo:
+
+  a) As projetadas no Brasil ou no exterior e que serão incorporadas em aeronaves com marcas
+  brasileiras; ou
+
+  b) As aprovadas por Supplemental Type Certificate - STC, ou documento similar, emitido por
+  autoridade de aviação civil estrangeira, e que devem, obrigatoriamente, obter validação
+  brasileira antes de sua incorporação em aeronaves com marcas brasileiras.
+
+  NOTA 1 - Grandes modificações e grandes alterações incorporadas na aeronave antes de sua
+  importação serão processadas pela ANAC-SAR de acordo com os critérios estabelecidos na IS
+  21-010 ou, caso exista, no respectivo acordo bilateral vigente entre os países.
+
+  NOTA 2 - Grandes Modificações ao projeto de tipo são aprovadas por meio de um processo de
+  Certificação Suplementar de Tipo (CST) ou, quando a solicitação for feita pelo fabricante
+  ou detentor do Certificado de Tipo da aeronave, através de uma Emenda ao Projeto de Tipo.
+  Esta IS não abrange o processo de aprovação de Grandes Modificações por Emenda ao Projeto
+  de Tipo, restringindo-se aos processos via CST.
+
+  NOTA 3 - Pequenas alterações em aeronaves não requerem a aprovação de dados técnicos por
+  parte da ANAC, não sendo necessária a aprovação pela GCPP ou pelas demais unidades da ANAC.
+  Pequenas alterações requerem dados aceitáveis pela ANAC e são registradas conforme requisitos
+  do RBAC 43.
+
+  NOTA 4 - Pequenas modificações ao projeto de tipo podem ser aprovadas sob um método aceitável
+  pela ANAC antes que o detentor de um Certificado de Tipo ou de um CST submeta quaisquer
+  dados de substanciação ou de descrição (seção 21.95 do RBAC 21). Esta IS não trata deste
+  tipo de processo.
+
+  NOTA 5 - Determinadas grandes alterações consideradas de menor complexidade podem ter seus
+  dados técnicos aprovados através de um processo simplificado em relação ao processo descrito
+  na presente IS. Orienta-se verificar a IS 20-001 a fim de determinar quais as grandes alterações
+  são consideradas elegíveis para aprovação via processo simplificado.
+
+  NOTA 6 - Conforme parágrafo 43.1(d) do RBAC 43, as instruções presentes nesta IS não são
+  aplicáveis para aeronaves leves esportivas quando envolver produtos não produzidos segundo
+  uma aprovação da ANAC.
+
+  Esta IS descreve um meio aceitável, mas não o único meio para obter a certificação. Os procedimentos
+  apresentados nesta IS visam atender o requerido para aprovação de uma Grande Modificação
+  conforme o RBAC 21 Subparte E ou de uma Grande Alteração conforme o RBAC 43.
+
+  Revogação
+
+  Esta IS substitui a IS 21-004G.
+
+  Fundamentos
+
+  O Art. 68 da Lei Federal nº 7.565, de 19 de dezembro de 1986, prevê que a autoridade de
+  aviação civil (Lei nº 11.182, de 27 de setembro de 2005) emitirá certificado de tipo para
+  aeronaves, motores e hélices que satisfizerem os requisitos aplicáveis dos Regulamentos
+  Brasileiros da Aviação Civil - RBAC.
+
+  O RBAC 21, em sua Subparte D, apresenta a classificação das modificações ao projeto de tipo,
+  estabelece a forma de aprovação de pequenas e grandes modificações, bem como indica os requisitos
+  de aeronavegabilidade aplicáveis a uma modificação.
+
+  O RBAC 21, em sua Subparte E, estabelece requisitos para a emissão de um certificado suplementar
+  de tipo para aprovação de grandes modificações.
+
+  O parágrafo 43.5(b)-I do RBAC 43 estabelece a necessidade da emissão de um formulário aprovado
+  pela ANAC para uma grande alteração.
+
+  O parágrafo 43.7(i) do RBAC 43 estabelece que os serviços sejam executados com base em dados
+  técnicos aprovados.
+
+  A seção 43.9 do RBAC 43 estabelece o conteúdo, forma e disposição de registros de manutenção,
+  manutenção preventiva, reconstrução e alteração em artigo aeronáutico.
+
+  A seção 43.13 do RBAC 43 apresenta as regras de execução geral de manutenção, manutenção
+  preventiva e alteração de artigo aeronáutico.
+
+  A Resolução ANAC nº 30/2008, em seu artigo 14, estabelece que a Instrução Suplementar é
+  norma de caráter geral, que objetiva esclarecer, detalhar e orientar a aplicação de requisito
+  previsto em RBAC. O parágrafo 1º do mesmo artigo determina que, para demonstrar o cumprimento
+  de requisito previsto em RBAC, o administrado poderá adotar os meios e procedimentos previamente
+  especificados em IS ou apresentar meio ou procedimento alternativo devidamente justificado,
+  exigindo-se, nesse caso, a análise e concordância expressa da ANAC. O meio ou procedimento
+  alternativo deve garantir nível de segurança igual ou superior ao estabelecido pelo requisito
+  aplicável ou concretizar o objetivo do procedimento normatizado em IS.
+
+  Definições
+
+  Dados Relevantes à Operação (Operational Suitability Data - OSD): Significam as informações
+  produzidas na certificação de tipo que são relevantes à operação segura da aeronave e são
+  compostas pelo Dados Relevantes à Operação para Pilotos (Flight Crew Data - FCD) e Lista
+  Mestra de Equipamentos Mínimos (Master Minimum Equipment List - MMEL).
+
+  Dados Técnicos Aceitáveis: São dados que podem ser utilizados como base para substanciação
+  de pequenas alterações, mesmo que não tenham sido individualmente aceitos pela ANAC. Os
+  seguintes dados técnicos são considerados aceitáveis pela ANAC:
+
+  Manuais, boletins ou documentos de instalação de fabricantes não necessariamente aprovados
+  pela autoridade de aviação civil;
+
+  Instruções de Aeronavegabilidade Continuada (Instructions for Continued Airworthiness -
+  ICA) aplicáveis à aeronave, incluindo manuais de manutenção;
+
+  Material orientativo ou interpretativo, tais como: Instruções Suplementares - IS emitidas
+  pela ANAC; Advisory Circulars - AC ou similares, emitidos por autoridades de aviação civil
+  (desde que sejam expressamente aceitos pela ANAC);
+
+  Manuais dos operadores aéreos certificados que operam segundo as regras do RBAC 121 ou RBAC
+  135 e manuais das organizações de manutenção certificadas segundo o RBAC 145, aceitos pela
+  ANAC;
+
+  Normas: Associação Brasileira de Normas Técnicas - ABNT, Military Specifications and Standards
+  - MIL, American Society for Testing Materials - ASTM, Society of Automotive Engineers -
+  SAE, Radio Technical Commission for Aeronautics - RTCA (Requirements and Technical Concepts
+  for Aviation), ou equivalentes;
+
+  Dados técnicos considerados aprovados no Brasil apresentados na Seção 4.4;
+
+  AC 43.13-1 e AC 43.13-2 da Federal Aviation Administration - FAA; e
+
+  Outros dados técnicos aceitos ou aceitáveis descritos em portarias específicas publicadas
+  pela ANAC.
+
+  Dados técnicos aceitos: Dados que a ANAC aceitou formalmente para o propósito para o qual
+  foram criados.
+
+  Dados Técnicos Aprovados: São dados que podem ser utilizados como base para substanciação
+  de projetos de grandes modificações e grandes alterações, e que têm como origem ou são cobertos
+  por:
+
+  Certificado de Tipo - CT, Certificado Suplementar de Tipo - CST e Certificado de Produto
+  Aeronáutico Aprovado - CPAA (incluem-se nesta categoria os desenhos, especificações e outros
+  documentos que definem a configuração original do projeto aprovado);
+
+  Diretriz de Aeronavegabilidade - DA (consulte também o RBAC 39), ou documento equivalente,
+  emitida pela autoridade de aviação civil do país responsável pela emissão do CT (ou equivalente)
+  do produto aeronáutico, ou responsável pela aeronavegabilidade do produto aeronáutico;
+
+  Desenhos de projeto do fabricante ou do detentor do projeto de tipo, relatórios de engenharia
+  ou especificações de processo do fabricante aprovadas pela ANAC, ou pela autoridade de aviação
+  civil do país do fabricante ou do país responsável pela emissão do certificado de tipo do
+  produto aeronáutico;
+
+  OSD emitidos ou aprovados pela ANAC ou, sob condições específicas, emitidos ou aprovados
+  pela autoridade de aviação civil do país responsável pela emissão do certificado de tipo
+  do produto aeronáutico ou do certificado suplementar de tipo aplicável à aeronave. Tais
+  condições específicas constam na IS 21.61-001, no caso de FCD, e IS 21.61-005, no caso de
+  MMEL;
+
+  Manuais e informações de serviço (manuais de reparo, boletins de serviço ou de informação,
+  ou outras publicações) emitidas pelo fabricante e aprovados pela autoridade de aviação civil
+  ou do país do fabricante ou do país responsável pela emissão do certificado de tipo do produto
+  aeronáutico, quando houver aceitação direta por acordo bilateral ou evidência de aprovação
+  na ANAC; ou
+
+  Dados com procedimentos de inspeção da AC 43.13-1 “Acceptable Methods, Techniques, and Practices
+  - Aircraft Inspection and Repair” e os dados para alteração contidos na AC 43.13-2, “Acceptable
+  Methods, Techniques, and Practices - Aircraft Alterations”, em suas revisões vigentes, podem
+  ser usados como dados aprovados para grandes alterações quando o capítulo, página e respectivo
+  parágrafo da AC supramencionada são listados no campo 8 do formulário ANAC F-400-04 (SEGVOO
+  001), quando o responsável determinou que:
+
+  I - são apropriados ao produto sendo alterado;
+
+  II - são diretamente aplicáveis à alteração sendo feita; e
+
+  III - não são contrários aos dados do fabricante referentes a estrutura da aeronave, motor,
+  propulsor ou artigos.
+
+  Qualquer outro dado técnico que tenha sido especificamente aprovado pela ANAC (ou por pessoa
+  por ela designada para tal).
+
+  Grande Alteração: Significa uma alteração não listada na especificação técnica aprovada
+  da aeronave, motor ou hélice e que:
+
+  Pode afetar apreciavelmente o peso, balanceamento, resistência estrutural, desempenho, operação
+  do grupo motopropulsor, características de voo ou qualquer outra característica ligada à
+  aeronavegabilidade; ou
+
+  Não é executada de acordo com práticas aceitáveis ou que não pode ser executada usando operações
+  elementares.
+
+  Grande modificação: Significa uma modificação que não se enquadra na definição de pequena
+  modificação.
+
+  Grande modificação aos OSD: Significa uma modificação que não se enquadra na definição de
+  pequena modificação aos OSD.
+
+  Modificação acústica: Significa, para os propósitos de cumprimento com o RBAC 36, qualquer
+  modificação voluntária no projeto de tipo das aeronaves e condições especificadas no parágrafo
+  21.93(b) do RBAC 21 que possa aumentar os níveis de ruído.
+
+  Modificação de emissões: Significa, para os propósitos de cumprimento com o RBAC 34, qualquer
+  modificação no projeto de tipo do avião ou do motor a qual possa aumentar emissão de combustível
+  drenado e de escapamento de aviões.
+
+  Organização de Projeto Certificada: Qualquer pessoa jurídica devidamente estabelecida, certificada
+  conforme a Subparte J do RBAC nº 21, que desenvolva projeto de produto aeronáutico, suas
+  modificações ou dados técnicos de reparos ou alterações a esses produtos.
+
+  Pequena alteração: Uma alteração em aeronave, motor ou hélice que não se enquadra na definição
+  de grande alteração.
+
+  Pequena modificação: Significa uma modificação ao projeto de tipo da aeronave, motor ou
+  hélice que não tem apreciável efeito no peso, no balanceamento, na resistência estrutural,
+  na confiabilidade, em características operacionais e em outras características que afetem
+  a aeronavegabilidade do produto.
+
+  Pequena modificação aos OSD: Significa uma modificação que não possui efeito apreciável
+  aos OSD. Os critérios para determinação se os efeitos são apreciáveis aos OSD constam na
+  IS 21.61-001, no caso de FCD, e na IS 21.61-005, no caso de MMEL.
+
+  Profissional Credenciado em Projeto (PCP): É a Pessoa Física credenciada pela ANAC para
+  emitir laudos, pareceres ou relatórios relativos a projetos aeronáuticos, nos termos do
+  RBAC 183 e da IS 183-002.
+
+  Responsável Técnico - RT: Pessoa física ou jurídica legalmente habilitada, por exemplo,
+  engenheiro aeronáutico, mecânico-aeronáutico ou com atribuições equivalentes, ou Empresa
+  de Engenharia devidamente inscrita junto ao Conselho Regional de Engenharia e Agronomia
+  - CREA, competente para exercer responsabilidade técnica de atividades desenvolvidas para
+  fins de certificação de modificação de projeto de tipo de produto aeronáutico.
+
+  Desenvolvimento do Assunto
+
+  Pontos importantes sobre grandes modificações
+
+  Como a emissão de um CST ou de um F-400-04 (SEGVOO 001), com assinatura no campo 3, constituem
+  a aprovação da ANAC a uma grande modificação ou aos dados técnicos para grande alteração
+  em produto aeronáutico previamente certificado, cabe à ANAC realizar tarefas como: conduzir
+  reuniões de familiarização; discutir o plano de certificação adotado; fazer a análise dos
+  documentos técnicos; emitir certificados de voo experimental; determinar o cumprimento com
+  requisitos aplicáveis; testemunhar ou não os ensaios; etc. Este processo pode demandar um
+  certo tempo de execução. Portanto, antes de submeter um novo requerimento para uma grande
+  modificação, a ANAC encoraja a utilização de CST já aprovados no Brasil. A consulta a um
+  CST já aprovado, que satisfaz o propósito do requerente, poderá ser feita no endereço eletrônico
+  https://sistemas.anac.gov.br/Certificacao/PST/index_pst.asp.
+
+  NOTA 1 - Uma modificação ao certificado de tipo é classificada como pequena ou grande (veja
+  a seção 21.93 do RBAC 21). Uma grande modificação tem efeito apreciável no peso, balanceamento,
+  resistência estrutural, confiabilidade, características operacionais, ou outras características
+  que afetem a aeronavegabilidade do produto aeronáutico. Todas as outras modificações são
+  consideradas pequenas. Cabe ao requerente fazer a classificação inicial da modificação ao
+  projeto de tipo como grande ou pequena, com base na seção 21.93 do RBAC 21. A classificação
+  de alterações é de responsabilidade do operador da aeronave junto com a pessoa ou organização
+  de manutenção executante do serviço. As alterações em aeronaves são tratadas no âmbito do
+  RBAC 43, sendo que para realizar a classificação, recomenda-se consultar o Apêndice A deste
+  regulamento. Na análise, o responsável pela classificação pode adotar também outros documentos,
+  como as próprias Advisory Circulars da FAA, quando estas forem aceitas pela ANAC.
+
+  NOTA 2 - Caso a modificação possa aumentar os níveis de ruído, exceto nos casos previstos
+  no parágrafo 21.93(b) do RBAC 21, deverá ser verificado o cumprimento com o RBAC 36.
+
+  NOTA 3 - Caso a modificação no projeto de tipo do avião ou do motor possa aumentar a emissão
+  de combustível drenado e de escapamento de aviões, deverá ser verificado o cumprimento com
+  o RBAC 34.
+
+  NOTA 4 - Caso a modificação possa afetar os dados relevantes à operação (OSD), deverá ser
+  verificado o cumprimento com o parágrafo 21.107-I do RBAC 21.
+
+  O requerente é o responsável por demonstrar que o produto modificado cumpre com os regulamentos
+  aplicáveis. Isto é feito através da submissão dos dados de substanciação, como análises
+  computacionais, resultados de ensaios (incluindo ensaios em voo), que demonstrem que a aeronave,
+  motor, ou hélice modificadas cumprem com os requisitos aplicáveis. Os dados enviados pelo
+  requerente devem conter detalhes e substanciação suficientes para descrever completamente
+  o projeto da modificação, e para demonstrar que o projeto atende os padrões de aeronavegabilidade
+  aplicáveis.
+
+  O requerente deve conduzir todas as inspeções de conformidade e determinar que a modificação
+  está em conformidade com os dados descritivos, de acordo com o parágrafo 21.33(b) do RBAC
+  21. Testes são requeridos para demonstrar cumprimento com os regulamentos aplicáveis. Resultados
+  de testes de, mas não limitados a, componentes, ensaios no solo e ensaios em voo podem ser
+  necessários. Ensaios de componentes demonstram que a parte, o componente ou suas funcionalidades
+  atendem aos padrões de aeronavegabilidade aplicáveis. Ensaios no solo e em voo demonstram
+  que a modificação cumpre com os requisitos de aeronavegabilidade. As verificações feitas
+  pela ANAC não isentam a responsabilidade do requerente em mostrar o cumprimento com os requisitos.
+
+  Adicionalmente aos aspectos regulatórios, a ANAC estabelece seu nível de envolvimento e
+  supervisão em cada projeto, em função da sua complexidade. Projetos mais complexos tendem
+  a demandar maior envolvimento do corpo técnico da ANAC.
+
+  Modos de aprovação das grandes modificações ou dos dados técnicos para grandes alterações
+  conduzidas pela GCPP
+
+  As grandes modificações referenciadas no parágrafo 1.2 desta IS são aprovadas pela GCPP
+  segundo uma das seguintes maneiras:
+
+  Pela emissão de um CST do tipo múltiplo aprovando o projeto, quando o requerente deseja
+  incorporar uma grande modificação desenvolvida por ele em um dado produto aeronáutico (aeronave/motor/hélice)
+  que estejam dentro do mesmo certificado de tipo;
+
+  NOTA 1 - Um CST múltiplo poderá ser emendado ou revisado, inclusive para a inclusão de um
+  novo modelo de produto aeronáutico, desde que este esteja dentro do certificado de tipo
+  para o qual o CST já foi aprovado.
+
+  NOTA 2 - Um CST múltiplo com Lista de Modelos Aprovado - LMA poderá ser emendado ou revisado,
+  inclusive para a inclusão de um novo modelo de produto aeronáutico (estando este dentro
+  do certificado de tipo já listado na LMA, ou mesmo caso este esteja dentro de outro certificado
+  de tipo ainda não listado na LMA já aprovada), desde que a base de certificação do novo
+  modelo seja apropriada e compatível com a dos demais modelos e tipos anteriormente aprovados.
+
+  NOTA 3 - Um CST múltiplo não pode ser transformado em CST múltiplo com Lista de Modelos
+  Aprovado (LMA), exceto nos casos de equivalência entre aeronaves produzidas no Brasil sob
+  licença, por exemplo, análogos às aeronaves Embraer x Piper.
+
+  Pela emissão de um CST do tipo limitado aprovando o projeto, quando o requerente deseja
+  incorporar uma grande modificação desenvolvida por ele para um único número de série ou
+  aplicável à uma quantidade limitada e definida de números de série de um dado produto aeronáutico
+  (aeronave/motor/hélice), desde que estejam todos os números de série dentro de um mesmo
+  certificado de tipo. Neste caso, os dados referentes à modificação não são considerados
+  válidos para incorporação em outros números de série do produto. Para a obtenção de uma
+  aprovação de grande modificação através de um CST do tipo limitado as seguintes condições
+  devem ser observadas:
+
+  I - Sejam solicitações de autoridades de aviação civil estrangeiras (FAA, Transport Canada
+  Civil Aviation - TCCA, European Union Aviation Safety Agency - EASA etc.) para validação
+  de um CST estrangeiro (limited/one-only) no Brasil; ou
+
+  II - O requerente pretende modificar apenas um específico número de série ou grupo limitado
+  de números de série, e não tem interesse, condições técnicas ou condições econômicas de
+  estabelecer um sistema de controle de qualidade para fabricação de peças ou kits; e
+
+  III - A modificação proposta for considerada complexa ou de grande monta para uma aprovação
+  por meio do formulário F-400-04 (SEGVOO 001). São exemplos: conversões aeromédicas, prospecções
+  geofísicas, conversão para cargueiro etc.
+
+  NOTA 1 - Um CST limitado a um ou mais números de série poderá ser emendado ou revisado,
+  porém o detentor não está apto a qualquer aprovação de produção, incluindo CPAA e/ou COP.
+
+  NOTA 2 - Caso um CST limitado tenha sido emitido em nome da parte que efetivamente desenvolveu
+  o projeto da modificação, e que responde pela aeronavegabilidade continuada dos produtos
+  aeronáuticos modificados através do mesmo, este CST poderá ser emendado, inclusive para
+  a inclusão de um ou mais números de série de um mesmo modelo e tipo igual ao que já foi
+  aprovado no CST, desde que não seja caracterizada produção em série do produto, o qual deverá
+  ser testado e controlado pelo detentor do CST que é responsável pela aeronavegabilidade
+  continuada do projeto. Revisões ou emendas devem ser solicitadas formalmente pelo detentor
+  do CST, e implica na revisão de toda a documentação técnica pertinente, além de nova inspeção
+  de engenharia e ensaios, a critério da ANAC.
+
+  NOTA 3 - Um CST limitado não pode ser transformado em CST múltiplo de nenhum tipo.
+
+  Pela emissão de um CST do tipo múltiplo com LMA aprovando o projeto, quando o requerente
+  deseja incorporar uma grande modificação desenvolvida por ele em um conjunto de produtos
+  aeronáuticos (aeronave/motor/hélice) que estejam dentro de certificados de tipo diferentes.
+  Neste caso, as seguintes condições devem ser atendidas:
+
+  I - Sejam solicitações de autoridades estrangeiras (FAA, TCCA, EASA etc.) para validação
+  de um CST estrangeiro com Lista de Modelos Aprovada (Approved Model List - AML) no Brasil;
+
+  II - Sejam solicitações para modificações “simples” de instalação de aviônicos em aeronaves
+  não pressurizadas, certificadas conforme o RBAC 23 e 27 ou regulamentação equivalente do
+  Estado de Projeto. Entende-se aqui por “simples” as modificações que não alterem a disposição
+  (layout) original do painel de instrumentos primários da aeronave, não fazem interface com
+  sistemas de controle de voo (comandos de voo, piloto automático, diretor de voo) e não aumentam
+  a carga de trabalho da tripulação; ou que sejam solicitações para modificações simples de
+  interiores de aeronaves (layout). Entende-se aqui por “simples” as modificações que não
+  alterem o Peso Máximo de Decolagem - PMD, as características operacionais ou de voo ou o
+  desempenho, e que não afetem significativamente a integridade estrutural da aeronave;
+
+  III - A documentação referente ao CST consiste em um projeto principal, de dados de certificação
+  para a modificação pretendida e também de documentação de instalação para todos os produtos
+  certificados elegíveis na LMA ou documentação separada para cada modelo de produto certificado
+  elegível;
+
+  IV - Qualquer diferença de projeto ou diferença de instalação entre os produtos elegíveis
+  seja devidamente identificada no projeto e nos dados de instalação;
+
+  V - A complexidade da instalação deve ser similar para todos os produtos elegíveis;
+
+  VI - A base de certificação a ser adotada deve ser apropriada e compatível, de forma a abranger
+  a todo o conjunto de modelos e tipos elegíveis;
+
+  VII - A modificação não deve requerer uma reavaliação substancial da aeronavegabilidade
+  dos produtos certificados;
+
+  VIII - As características operacionais e/ou de voo e o desempenho voo dos produtos certificados
+  devem permanecer inalterados;
+
+  IX - A modificação não deve alterar os níveis de ruído ou emissões dos produtos.
+
+  NOTA 1 - Um CST múltiplo com LMA poderá ser emendado ou revisado, inclusive para alteração
+  de modelos de produto aeronáutico.
+
+  Dados técnicos para grandes alterações em aeronaves são aprovados pela GCPP por meio da
+  emissão do formulário F-400-04 (SEGVOO 001) com aprovação no campo 3 pela ANAC, quando o
+  requerente desejar incorporar a grande alteração em uma única aeronave, caracterizada por
+  seu tipo, modelo e número de série, o que não autoriza o requerente a incorporar a alteração
+  em outras aeronaves do mesmo tipo e modelo.
+
+  NOTA 1 - Um dado técnico para grande alteração aprovada através da emissão do formulário
+  F-400-04 (SEGVOO 001) não poderá ser revisado ou emendado.
+
+  Determinadas grandes alterações consideradas de menor complexidade podem ter seus dados
+  técnicos aprovados através de um processo de aprovação simplificada em relação ao processo
+  descrito na presente IS. Orienta-se verificar a IS 20-001 a fim de determinar quais as grandes
+  alterações são consideradas elegíveis para aprovação simplificada.
+
+  Responsabilidades no processo de aprovação de uma grande modificação ou grande alteração
+
+  A aprovação de uma grande modificação ou de dados técnicos para grande alteração é um processo
+  que objetiva assegurar que uma aeronave com uma modificação incorporada atende aos requisitos
+  mínimos definidos nos regulamentos de aeronavegabilidade aplicáveis, além dos requisitos
+  operacionais aplicáveis definidos nos regulamentos RBAC 91, RBAC 121 e RBAC 135, e envolve
+  responsabilidades tanto daqueles que pretendem modificar a aeronave como da ANAC.
+
+  São responsabilidades dos que pretendem modificar uma aeronave (requerentes):
+
+  Solicitar a abertura de um processo de aprovação da grande modificação ou de dados técnicos
+  para grande alteração junto à GCPP;
+
+  Submeter à GCPP os documentos administrativos e os documentos técnicos referentes à modificação,
+  conforme Apêndices B e C desta IS;
+
+  Apresentar quaisquer esclarecimentos e dados técnicos complementares solicitados pela GCPP;
+
+  Apresentar uma Lista Mestra dos Documentos Técnicos, um Plano de Certificação (contendo
+  a Base de Certificação), um Compliance Checklist - CCL (contendo os Means of Compliance
+  - MOC), os Relatórios de Substanciação, e os desenhos requeridos, conforme recomendações
+  contidas na IS 21-021 e de acordo com o Apêndice C desta IS;
+
+  Realizar as análises e executar todos os Ensaios no Solo, os Testes de Electromagnetic Interference
+  / Electromagnetic Compatibility - EMI/EMC (se aplicáveis) e os Ensaios em Voo (se aplicáveis)
+  julgados necessários pela GCPP, bem como elaborar os relatórios dos Resultados de Ensaios
+  (se aplicáveis);
+
+  Permitir as inspeções, pela GCPP, quando necessárias, para determinação da conformidade
+  das modificações (ou alterações) em relação aos dados técnicos apresentados, bem como para
+  determinação do cumprimento dos requisitos de aeronavegabilidade e operacionais aplicáveis
+  ao projeto;
+
+  Permitir que a GCPP testemunhe ou realize, quando aplicáveis, os Ensaios no Solo, os Testes
+  de EMI/EMC e os Ensaios em Voo, necessários à verificação do cumprimento dos requisitos
+  de aeronavegabilidade e operacionais; e
+
+  Apresentar a declaração de cumprimento com todos os requisitos aplicáveis, conforme a seção
+  21.20 e o parágrafo 21.97(a)(3) do RBAC 21.
+
+  Demonstrar que os OSD são válidos à aeronave com a modificação incorporada ou complementar
+  o requerimento de aprovação da modificação com a atualização dos dados relevantes à operação
+  afetados.
+
+  Desenvolvimento do processo de aprovação
+
+  Orientação ao processo: Antes de iniciar um processo para aprovação de grande modificação
+  ou de dados técnicos para grande alteração, a GCPP pode responder a questionamentos referentes
+  aos procedimentos de certificação, bem como orientar quanto ao material regulatório apropriado,
+  políticas comuns ou outros materiais de orientação pertinentes. Informações gerais, incluindo
+  normas, guias práticos, dicas, situação de processos, dentre outros, podem ser obtidas por
+  meio do endereço eletrônico:
+
+  https://sistemas.anac.gov.br/certificacao/CHST/CHST.asp.
+
+  Reunião Inicial: Antes da abertura de um processo de modificação uma reunião inicial pode
+  ser solicitada pelo requerente ou pela ANAC. Nesta reunião uma breve apresentação do projeto
+  pode ser feita pelo requerente, e constitui uma boa oportunidade para descrever os detalhes
+  técnicos da modificação à ANAC. O principal propósito é familiarizar a autoridade com a
+  proposta de projeto, sobretudo, identificar especificidades do sistema ou instalação, bem
+  como novas tecnologias ou configurações. Além disto, nesta ocasião, pode-se informar o requerente
+  quanto à necessidade de se requerer um CPAA e/ou respectivo Certificado de Organização de
+  Produção - COP, de cumprir com requisitos adicionais conforme seção 21.101 do RBAC 21, de
+  condições especiais aplicáveis conforme seção 21.16 do RBAC 21, de meios alternativos de
+  cumprimento etc. (Obs. vide a AC 21.101-1 da FAA como referência).
+
+  Plano de certificação: O requerente deverá apresentar um plano de certificação para o projeto
+  de grande modificação ou grande alteração proposto. Este documento é uma das primeiras atividades
+  do processo. Nele será definida a base de certificação utilizada, condições especiais, níveis
+  equivalentes de segurança, isenções, lista dos requisitos aplicáveis, meios de cumprimento
+  e proposta de cronograma, ou seja, o plano de certificação será uma provisão ou guia do
+  processo. Ressalta-se que este documento será acordado entre as partes envolvidas e que
+  poderá ser revisado, se necessário, sempre que ocorrer alguma alteração nas premissas originalmente
+  utilizadas. Um modelo de plano de certificação pode ser consultado na IS 21-021 (Apêndice
+  C).
+
+  NOTA 1 - No acordo do Plano de Certificação entre o requerente e a ANAC, a ANAC determinará
+  seu nível de envolvimento na determinação do cumprimento com os requisitos aplicáveis, podendo,
+  a seu critério, solicitar o envolvimento de profissionais credenciados para determinação
+  de cumprimento com requisitos específicos da base.
+
+  NOTA 2 - Caso a aprovação esteja sendo conduzida por uma Organização de Projeto Certificada,
+  deverá ser acordada a coordenação de todas as tarefas relativas ao processo de certificação
+  junto à ANAC.
+
+  NOTA 3 - Para os elementos OSD, referenciar os requisitos 21.61-I e 21.107-I do RBAC 21.
+
+  Abertura do processo: Um processo de aprovação de uma grande modificação ou de dados técnicos
+  para grande alteração é iniciado quando do recebimento, pela ANAC, de um requerimento (formulário
+  F-300-03 ou F-101-11) ou carta equivalente, protocolado pelo requerente no Sistema Eletrônico
+  de Informações - SEI, nos termos da Resolução ANAC n° 520/2019​. Junto à carta ou formulário
+  deve ser enviado também o Plano de Certificação.
+
+  As grandes modificações propostas podem ser:
+
+  Projetadas no Brasil e a serem incorporadas no Brasil: Além do requerimento ou carta supracitados
+  no item 5.4.4, é necessária a apresentação das documentações administrativa e técnica, descritas
+  nos Apêndices B e C desta IS, para a condução do processo. A ausência ou situação irregular
+  de algum documento poderá causar a paralisação do processo, que ficará aguardando a devida
+  complementação ou regularização.
+
+  NOTA 1 - O projeto de grande modificação ou grande alteração deve ser assumido por um RT
+  (pessoa física ou jurídica).
+
+  NOTA 2 - De acordo com a seção 21.9 do RBAC 21, o requerente de um CST que pretenda fabricar
+  e comercializar partes, peças, componentes ou kits relativos à modificação, a serem instalados
+  por ele mesmo ou por outros, deverá requerer uma aprovação de produção (COP) e/ou o correspondente
+  CPAA, conforme o parágrafo 21.8(a) do RBAC 21, para cada parte, peça, componente ou kit.
+  Isto implica em desenvolver e manter um sistema de controle de qualidade, para demonstrar
+  sua capacidade de reproduzir a modificação aprovada. Deste modo, é necessário que se faça
+  outro requerimento para obtenção do COP e/ou CPAA, conforme descrito em instruções específicas
+  da ANAC.
+
+  NOTA 3 - Para os CST que incluem a fabricação de peças simples, suportes, bandejas e outros
+  itens que são produzidos utilizando-se práticas normais de manutenção, conforme as AC 43.13-1
+  e AC 43.13-2 da FAA, não há necessidade de obtenção de CPAA e/ou respectivo COP.
+
+  NOTA 4 - Existe a possibilidade de o requerente obter um CST múltiplo, com a aprovação conjunta
+  de um único artigo/kit. Neste caso, o artigo/kit deve ser claramente identificado no campo
+  Limitações e Condições do CST e deve ser produzido conforme a seção 21.9 do RBAC 21. Esta
+  possibilidade é para atender o requerente que deseje produzir um único artigo/kit, que poderá
+  ser instalado em qualquer aeronave de modelo especificado no CST. Um exemplo disso ocorre
+  quando o requerente deseja alugar uma plataforma de câmera filmadora, que poderá ser instalada
+  em qualquer aeronave de mesmo modelo.
+
+  Projetadas no exterior: Quando a grande modificação estiver aprovada por STC (ou documento
+  similar) emitido por autoridade de aviação civil estrangeira, e ainda não tiver sido validada
+  no Brasil, a abertura do processo de validação será mediante solicitação do detentor do
+  projeto à ANAC, através da autoridade primária (do Estado de projeto). Os procedimentos
+  de validação de um STC (ou similar) estão descritos na IS 21-010.
+
+  NOTA 1 - Cabe ao interessado acionar o detentor do STC (ou similar) para que este solicite
+  a validação da modificação no Brasil. Ressalta-se que não cabe a ANAC fazer tal solicitação
+  junto ao detentor do STC.
+
+  Taxas dos serviços de certificação: Após a avaliação dos documentos administrativos e técnicos
+  requeridos, a ANAC informará o número do processo ao requerente, o código e o valor da Taxa
+  de Fiscalização da Aviação Civil - TFAC referente aos serviços de certificação a serem prestados,
+  para que o requerente possa emitir e quitar a GRU. As TFAC são regulamentadas através da
+  Resolução ANAC n° 653/2021.
+
+  NOTA - Somente após a comprovação do efetivo pagamento dos serviços de certificação, através
+  da quitação da GRU emitida pelo próprio requerente conforme instruções recebidas, é que
+  o corpo técnico da GCPP iniciará a análise do processo em questão.
+
+  Submissão de dados técnicos: Devem ser submetidos todos os dados à ANAC para revisão e aceitação.
+  O requerente é o responsável por demonstrar cumprimento com todos os regulamentos aplicáveis.
+  Dados do projeto de tipo e de substanciação devem mostrar que a proposta cumpre com todos
+  os requisitos da base de certificação estabelecida. Dados do projeto de tipo são desenhos,
+  materiais e processos, limitações de aeronavegabilidade etc. Ademais, dados de substanciação
+  são necessários para demonstrar cumprimento com a base de certificação, tais como: relatórios
+  de análise e de teste; relatórios de resultados de ensaio no solo e em voo.
+
+  NOTA - Quando houver o envolvimento de PCP, o PCP deverá apresentar o formulário F-101-06
+  conforme IS 183-002 (em sua última revisão). Quando houver o envolvimento de uma Organização
+  de Projeto Certificada, a organização deverá apresentar o documento estabelecido na sua
+  certificação.
+
+  O Apêndice C apresenta a lista com a documentação aplicável ao processo de CST e F-400-04
+  (SEGVOO 001). A forma de elaboração e apresentação da documentação técnica pode ser consultada
+  através da IS 21-021.
+
+  Análise dos dados técnicos: A ANAC examinará os dados submetidos, em conjunto com o parecer
+  do PCP (caso um PCP seja envolvido) ou em conjunto com os dados submetidos por uma Organização
+  de Projeto Certificada (quando aplicável) e assim determinará o cumprimento com a base de
+  certificação proposta para o projeto.
+
+  Inspeções de conformidade: O parágrafo 21.33(a) do RBAC 21 requer que o requerente permita
+  à ANAC conduzir qualquer inspeção de conformidade julgada necessária durante o processo
+  de certificação. As inspeções de conformidade têm por objetivo verificar que os componentes,
+  partes, instalações, funcionalidades e a infraestrutura de testes estão conforme os dados
+  do projeto. O corpo técnico da ANAC é responsável por determinar a necessidade da realização
+  de inspeções e requerer, conforme aplicável, apoio dos inspetores de fabricação em casos
+  específicos. Os inspetores ou algum profissional credenciado ou uma Organização de Projeto
+  Certificada poderão conduzir inspeções para verificar que o produto está conforme os desenhos,
+  especificações, processos especiais etc.
+
+  NOTA - Ressalta-se que a instalação de uma grande modificação em aeronave protótipo, com
+  o processo ainda não aprovado pela ANAC, cessará a condição original de aeronavegabilidade
+  da mesma.
+
+  Declaração de conformidade: O Responsável Técnico - RT pela modificação ou alteração deverá
+  verificar a conformidade da aeronave, das peças, componentes ou sistemas instalados com
+  os dados técnicos apresentados e com as propostas de ensaios aprovadas, e registrar essa
+  conformidade no formulário F-300-18 (Declaração de Conformidade) e enviá-lo à ANAC. No caso
+  de uma Organização de Projeto Certificada, a Declaração de Conformidade deve ser emitida
+  conforme os procedimentos estabelecidos em sua certificação.
+
+  Inspeção e ensaios de peças, componentes e partes que integram a modificação
+
+  Antes da instalação da grande modificação, alguns ensaios podem ser necessários para verificar
+  que certos componentes, peças ou partes, cumprem com os requisitos aplicáveis. As propostas
+  para cada ensaio de certificação devem ser submetidas pelo RT à ANAC para aprovação.
+
+  NOTA - No caso de uma Organização de Projeto Certificada, seguir os procedimentos estabelecidos
+  em sua certificação para a Proposta de Ensaios, Declaração de Conformidade, inspeções e
+  ensaios de peças, componentes e partes que integram a modificação.
+
+  Após a aprovação da proposta de ensaio, o requerente deverá enviar a Declaração de Conformidade
+  (formulário F-300-18) do corpo de prova e das instalações de ensaio.
+
+  Após o recebimento da Declaração de Conformidade, a ANAC, ou o profissional credenciado
+  pela ANAC, realizará, quando considerar necessário, a inspeção das instalações de ensaios
+  e dos corpos de prova, e testemunhará os ensaios correspondentes.
+
+  Inspeção de engenharia: Esta inspeção tem a finalidade de avaliar se o sistema e seus componentes
+  são compatíveis e cumprem com os requisitos de aeronavegabilidade e os padrões operacionais.
+  Caso julgue necessário, a ANAC testemunhará esta inspeção (conforme seção 21.33 do RBAC
+  21).
+
+  Ensaios de desenvolvimento: Dependendo do projeto, podem ser necessários ensaios mecânicos,
+  estruturais, de inflamabilidade, de qualificação, de voo de desenvolvimento, para verificação
+  de funcionamento de sistemas e equipamentos instalados, entre outros, conforme aplicável.
+  Os respectivos relatórios de resultados, contendo laudos, conclusões, especificações técnicas
+  etc., poderão ser aceitos pela ANAC no âmbito do processo de certificação.
+
+  Certificado de autorização de voo experimental (CAVE): Para a condução de ensaio ou qualquer
+  outro teste de desenvolvimento em voo, requerido pela seção 21.35 do RBAC 21, o requerente
+  deve garantir que a aeronave disponha do CAVE, emitido pela ANAC, para o propósito de pesquisa
+  e desenvolvimento, conforme parágrafo 21.191(a) do RBAC 21.
+
+  Ensaios no solo e testes de EMI/EMC
+
+  Ensaios e testes no solo serão realizados pelo requerente e testemunhados pela ANAC ou profissional
+  credenciado ou Compliance Verification Expert - CVE da Organização de Projeto Certificada,
+  quando esta considerar necessário, após a instalação ter sido realizada e apresentada a
+  Declaração de Conformidade.
+
+  Tais procedimentos deverão ser executados para demonstrar que a modificação (ou alteração),
+  já instalada na aeronave, cumpre: com os requisitos de aeronavegabilidade e operacionais
+  aplicáveis, com as condições especiais, com os níveis equivalentes de segurança exigidos
+  pela ANAC, e/ou com os meios alternativos de cumprimento propostos.
+
+  Após a execução dos ensaios no solo e testes de EMI/EMC é responsabilidade do requerente
+  elaborar e encaminhar para a ANAC os relatórios de resultados, devidamente assinados pelo
+  RT.
+
+  Ensaios em voo de desenvolvimento e voo de demonstração de cumprimento com requisitos
+
+  Os ensaios em voo são requeridos pela ANAC para modificações que afetam o desempenho da
+  aeronave, a qualidade de voo, a carga de trabalho do piloto, a operação do sistema de propulsão,
+  a manobrabilidade ou outras características de voo. Também podem requerer ensaios em voo
+  alterações nos sistemas em geral, equipamentos, instrumentação, aviônicos e manuais de voo.
+
+  Sempre que a ANAC julgar necessário, os ensaios em voo de desenvolvimento deverão ser executados
+  cobrindo o envelope de voo afetado pela modificação. Estes ensaios serão realizados sem
+  a participação da ANAC.
+
+  Os voos de demonstração de cumprimento a requisitos são de responsabilidade e execução do
+  requerente. A ANAC ou profissional credenciado ou CVE da Organização de Projeto Certificada,
+  a critério da ANAC, poderá testemunhar os referidos ensaios. Após a execução dos ensaios
+  em voo de desenvolvimento ou dos voos de demonstração de cumprimento a requisitos, é responsabilidade
+  do requerente elaborar e encaminhar para a ANAC os relatórios de resultados, devidamente
+  assinados pelo RT e pelo piloto que executou os ensaios.
+
+  A preparação da aeronave para ensaios em voo, conforme previsto nas propostas de ensaio
+  previamente aprovadas, é responsabilidade do requerente, e consiste, entre outras, nas seguintes
+  atividades:
+
+  I - Instalação e calibração das instrumentações de ensaio;
+
+  II - Apresentação da aeronave na configuração prevista para o ensaio (ex. peso e balanceamento,
+  configuração de cargas externas, etc.); e
+
+  III - Assegurar que a aeronave protótipo esteja em condições de aeronavegabilidade apropriada,
+  conforme RBAC 21.
+
+  Instrução para aeronavegabilidade continuada (Instructions for Continued Airworthiness -
+  ICA)
+
+  É necessária a elaboração de uma ICA, conforme a seção 21.50 do RBAC 21. A elaboração da
+  ICA deve contemplar o conteúdo dos Apêndices “Instructions for Continued Airworthiness”
+  referentes aos respectivos RBAC (RBAC 23, 25, 27, 29, 33 e 35), conforme aplicável à modificação
+  ou alteração proposta. Recomenda-se utilizar, como referência, os modelos disponibilizados
+  pelos fabricantes dos equipamentos a serem instalados na modificação ou alteração proposta.
+
+  NOTA - Se o projeto de uma grande modificação ou grande alteração não afetar a aeronavegabilidade
+  continuada da aeronave, o requerente deve fazer esta declaração. Caso contrário, o requerente
+  deverá elaborar instruções de aeronavegabilidade continuada, conforme aplicável, sendo que
+  se a modificação afetar a seção de limitações de aeronavegabilidade da ICA, esta seção deverá
+  ser aprovada pela ANAC.
+
+  Suplemento ao manual de voo (Aircraft Flight Manual Supplement - AFMS ou Rotorcraft Flight
+  Manual Supplement - RFMS)
+
+  Se o projeto de uma grande modificação ou grande alteração provocar mudança nas limitações,
+  procedimentos para operação ou desempenho da aeronave (mesmo quando a aeronave original
+  não possui um AFM/RFM aprovado) será necessária a elaboração de um AFMS/RFMS, aprovado pela
+  ANAC, conforme requerido pelas seções 21.5, 23.1581 (ou 23.2620, conforme emenda do RBAC
+  23 aplicável), 25.1581, 27.1581, 29.1581 e 31.81 dos RBAC 21, 23, 25, 27, 29 e 31, respectivamente.
+
+  Lista Mestra de Equipamentos Mínimos (Master Minimum Equipment List - MMEL)
+
+  Caso a aeronave possua MMEL, o requerente deverá avaliar a compatibilidade entre tais modificações
+  (ou alterações) e a MMEL da aeronave. Caso adequações sejam necessárias ou caso se pretenda
+  adicionar novos itens à lista, o requerente deverá apresentar, para aprovação da ANAC, uma
+  proposta de Suplemento à MMEL da aeronave. Para os casos mais simples em que não exista
+  impacto à MMEL, por exemplo, onde equipamentos isolados (stand-alone) são adicionados sem
+  impacto às funcionalidades existentes, uma declaração de não-impacto é suficiente para o
+  cumprimento da seção 21.107-I do RBAC 21. Caso esta avaliação não seja realizada, a ANAC
+  poderá limitar os itens da MMEL da aeronave afetados pela modificação.
+
+  NOTA 1 - Quando não há impacto à MMEL e o requerente opta por não elaborar um Suplemento
+  à MMEL para cobrir os equipamentos adicionados à aeronave, tais equipamentos deverão permanecer
+  sempre operantes, mesmo se sua falha resultar em efeito desprezível à segurança operacional.
+  A ausência de um suplemento à MMEL pode afetar negativamente a disponibilidade da aeronave
+  modificada.
+
+  NOTA 2 - A MMEL não é obrigatória para pequenas aeronaves de asas rotativas, pequenos aviões
+  com motores convencionais, aeronaves categoria primária, planadores ou aeronaves mais leves
+  que o ar. Todavia, se quaisquer dessas aeronaves possuírem uma MMEL, é necessária a análise
+  quanto ao possível impacto da modificação na MMEL da aeronave.
+
+  Ressalta-se que qualquer pendência relacionada à MMEL não impede a emissão do CST relacionado
+  a modificação, devendo o Suplemento à MMEL ser aprovado antes do retorno ao serviço da aeronave
+  com a modificação incorporada.
+
+  Para maiores informações a respeito da MMEL, consultar a IS 21.61-005.
+
+  Dados Relevantes à Operação para Pilotos (Flight Crew Data - FCD)
+
+  De forma equivalente a MMEL, o requerente deverá avaliar possíveis impactos aos FCD. Caso
+  sejam necessárias novas atividades relacionadas a avaliação operacional da aeronave modificada,
+  o requerente deverá apresentar uma proposta de modificação aos dados relacionados ao treinamento
+  mínimo, exame e manutenção de experiência recente associados.
+
+  Caso a ANAC tenha estabelecido FCD para qualquer aeronave, é necessária a análise de possível
+  impacto da modificação nos FCD existentes. Para os casos mais simples, uma declaração de
+  não-impacto é suficiente para o cumprimento da seção 21.107-I do RBAC 21. Caso esta avaliação
+  não seja realizada, a ANAC poderá limitar os aspectos dos FCD da aeronave afetados pela
+  modificação.
+
+  NOTA - Os FCD não são obrigatórios para nenhuma aeronave, além disso, somente são aplicáveis
+  a aeronaves para as quais é requerida uma habilitação de tipo para pilotos, nos termos do
+  RBAC 61, ou seja, aeronaves com tripulação mínima de 2 pilotos, aeronaves com PMD superior
+  a 5670 kg ou 12500 lb com exceção de balões livres e dirigíveis, aviões com motor a reação,
+  aeronaves de sustentação por potência e outras aeronaves que a ANAC considere necessário
+  o estabelecimento de tal habilitação. Todavia, se a ANAC tiver estabelecido FCD, é necessária
+  a análise de possível impacto da modificação aos FCD da aeronave.
+
+  Ressalta-se que qualquer pendência relacionada aos FCD não impede a emissão do CST relacionado
+  a modificação, devendo as atividades de avaliação operacional serem realizadas antes do
+  retorno ao serviço da aeronave com a modificação incorporada.
+
+  Para maiores informações a respeito deste processo, consultar a IS 21.61-001.
+
+  Declaração de cumprimento com os requisitos
+
+  O requerente deve apresentar esta declaração, conforme parágrafos 21.20(b) e 21.97(a)(3)
+  do RBAC 21, antes da conclusão do processo, depois de cumpridos todos os requisitos aplicáveis.
+
+  Reforça-se, também, que conforme parágrafo 21.107-I(e)(3) do RBAC 21, o requerente deve
+  apresentar uma declaração de cumprimento com os requisitos de OSD antes de obter a aprovação
+  desses dados.
+
+  Envolvimento de profissionais credenciados ou de Organizações de Projeto Certificadas
+
+  Quando autorizado pela GCPP, um profissional credenciado pode participar do trabalho de
+  aprovação de grande modificação ou grande alteração conduzido junto à GCPP.
+
+  No caso de envolvimento de um PCP, cada profissional deve observar os procedimentos previstos
+  na IS 183-002, seguindo os critérios do Quadro e Função previstos para sua área de atuação.
+  A relação dos profissionais credenciados pela SAR/GCPP está disponível na página da SAR/GCPP
+  na internet, no endereço eletrônico: https://sistemas.anac.gov.br/certificacao/ReprCredenc/ReprCredenc.asp.
+
+  No caso do envolvimento de Organizações de Projeto Certificadas, estas devem desenvolver
+  suas atividades de acordo com os procedimentos estabelecidos por ela e aceitos/aprovados
+  pela ANAC na certificação, dentro do escopo definido.
+
+  Cabe ressaltar que a certificação de uma organização de projeto é um processo específico
+  para cada organização, que deverá utilizar os processos e procedimentos estabelecidos e
+  acordados com a ANAC para a submissão de dados, e não podem ser automaticamente expandidos
+  para outras organizações, conforme IS 21.231-001.
+
+  Encerramento do processo de aprovação
+
+  O requerente, conforme sua conveniência, a qualquer tempo, pode solicitar o cancelamento
+  de um processo em andamento e que esteja sendo conduzido por ele.
+
+  Caso um processo permaneça por mais de 4 (quatro) meses corridos sem que o requerente tenha
+  respondido a todas as pendências identificadas pela ANAC, ele será cancelado compulsoriamente
+  pela GCPP e o cancelamento informado ao requerente por meio de um ofício.
+
+  NOTA 1 - O prazo previsto neste item pode ser estendido por igual período, apenas uma única
+  vez durante todo o curso do processo, mediante prévia solicitação do requerente.
+
+  NOTA 2 - O disposto no item 5.6.2 se aplica também a pendências relacionadas ao fornecimento
+  de resultados de ensaios ou de agendamentos de inspeções e ensaios com participação da ANAC.
+
+  Uma vez cancelado o processo não poderá ser reaberto, independente de que tal solicitação
+  seja feita por parte do requerente ou de alguma outra parte interessada. Entretanto caso
+  o requerente deseje, não há óbice em ele solicitar a abertura de um novo processo - ainda
+  que com o mesmo escopo e aplicabilidade daquele ora cancelado - seguindo as mesmas orientações
+  do parágrafo 5.4.4 desta IS.
+
+  O processo será encerrado e a modificação aprovada, por uma das formas apresentadas na subseção
+  5.2 desta IS, após a aceitação ou aprovação pela GCPP de todos os dados técnicos, relatórios,
+  inspeções, ensaios, manuais de instalação, instruções para aeronavegabilidade continuada,
+  suplementos ao manual de voo (quando aplicável) e eventual documentação adicional necessária
+  para a conclusão do processo.
+
+  NOTA 1 - Quando houver fabricação e comercialização de partes, peças, componentes ou kits,
+  aprovados através de um CST múltiplo, a emissão de um CPAA e/ou respectivo COP será necessária.
+
+  NOTA 2 - Quando houver necessidade de atualização dos OSD, uma nota será introduzida na
+  seção de Limitações e Condições sobre a necessidade de aprovação dos dados antes do retorno
+  ao serviço da aeronave com a modificação incorporada. Caso a ANAC imponha limitações aos
+  OSD em razão do não atendimento às demonstrações previstas no parágrafo 21.107-I, tais limitações
+  também constarão na seção de Limitações e Condições do CST.
+
+  Validade da Aprovação
+
+  A menos que a ANAC tenha estabelecido um prazo de validade, uma aprovação de grande modificação
+  tem validade até ser suspensa ou cassada pela ANAC, ou devolvida por seu detentor.
+
+  Restrição de acesso e uso de documentos
+
+  As previsões legais de restrição de acesso a documentos são listadas durante o cadastro
+  dos documentos, sendo responsabilidade do requerente utilizar a classificação correta. Os
+  documentos gerados pela ANAC no processo administrativo serão classificados conforme a legislação
+  vigente.
+
+  Os documentos apresentados pelos requerentes e classificados como restritos somente serão
+  disponibilizados aos próprios requerentes, às pessoas por ele autorizadas, ou conforme a
+  legislação vigente permitir.
+
+  Adicionalmente, o requerente deverá apresentar autorização de uso dos dados técnicos produzidos
+  ou detidos por terceiros, de forma a preservar sua propriedade intelectual.
+
+  Transferência de propriedade de um CST
+
+  Para transferência de um CST (dos tipos limitado, múltiplo ou múltiplo com LMA), aplicável
+  ao caso em que o atual detentor e o futuro detentor são entes legalmente estabelecidos no
+  território nacional, é necessário:
+
+  Do detentor atual (Transferente):
+
+  Informar ao novo detentor, por escrito, quais aeronaves (identificadas por proprietário/número
+  de série/marcas) já foram modificadas pelo CST;
+
+  Enviar uma declaração à ANAC de que toda a documentação técnica do CST, inclusive revisões
+  anteriores, foi entregue ao novo detentor e que este foi informado sobre todas as aeronaves
+  já modificadas pelo CST;
+
+  Enviar uma carta assinada à ANAC solicitando formalmente a transferência do CST, e autorizando
+  a ANAC a reemiti-lo em nome do novo detentor.
+
+  Do novo detentor (Adquirente):
+
+  Enviar uma declaração à ANAC de que está ciente de suas responsabilidades como detentor
+  de um CST, conforme o RBAC 21, incluindo a aeronavegabilidade continuada das aeronaves já
+  modificadas pelo CST e as que venham a ser modificadas por este.
+
+  As documentações acima podem ser digitalizadas e enviadas à SAR/GCPP/GTPR/CCST através do
+  e-mail ccst@anac.gov.br, ou enviada via correspondência para endereço da GCPP, consultado
+  no site da ANAC www.anac.gov.br.
+
+  NOTA 1 - A transferência só poderá ser efetivada após o recebimento de toda a documentação
+  indicada nos itens 5.9.1.1 e 5.9.1.2 acima, e após a avaliação positiva por parte da ANAC
+  de que o novo detentor é capaz de responder pelas responsabilidades inerentes ao CST.
+
+  NOTA 2 - Em caso de deferimento da transferência por parte da ANAC, o CST será reemitido
+  em nome do novo detentor, e tanto o novo detentor quanto o antigo serão notificados via
+  e-mail, ou via correspondência física, acerca da conclusão do processo de transferência.
+
+  NOTA 3 - Em cumprimento à seção 21.9 do RBAC 21, no caso de fabricação e comercialização
+  de partes, peças, componentes e/ou kits relativos à modificação, primeiramente, o novo detentor
+  deverá obter uma certificação de Produção, conforme os procedimentos estabelecidos no MPR/SAR-121.
+
+  NOTA 4 - Uma Grande Alteração através do formulário F-400-04 (SEGVOO 001) não é transferível,
+  já que ela representa o registro de uma alteração aplicável a um único número de série específico
+  do produto.
+
+  Providências posteriores à incorporação de grandes modificações e grandes alterações
+
+  Após a incorporação de uma grande modificação ou grande alteração, o formulário F-400-04
+  (SEGVOO 001) e demais registros devem ser conservados pelo operador e, no caso de venda,
+  transferidos ao comprador da aeronave, conforme seções 91.417 e 91.419 do RBAC 91.
+
+  A organização de manutenção envolvida deve conservar os registros da grande alteração conforme
+  seção 145.219 do RBAC 145.
+
+  Caso a grande alteração possua um suplemento ao manual de voo, este suplemento se torna
+  parte integrante do manual de voo da aeronave e deve ser mantido a bordo conforme seção
+  91.9 do RBAC 91.
+
+  Conforme o parágrafo 21.61-I(f) do RBAC 21, os dados relevantes à operação incluídos no
+  certificado suplementar de tipo devem ser colocados, na forma e maneira aceitáveis à ANAC
+  (ver IS 21.61-001 e IS 21.61-005), à disposição da ANAC e de qualquer pessoa que necessite
+  de tais dados para cumprimento dos RBAC.
+
+  Devem também ser cumpridas as condições relativas a guarda de registros e documentos a bordo
+  presentes no documento de aprovação da grande modificação ou da grande alteração, sem prejuízo
+  aos requisitos presentes em RBAC (ex: ICA, manual de instalação, ordem de serviço, desenhos,
+  outros documentos aprovados, etc.).
+
+  NOTA - Conforme parágrafo 21.50(b) do RBAC 21, o detentor da aprovação deve colocar as ICA
+  à disposição de qualquer pessoa a quem os RBAC requeiram o cumprimento de qualquer condição
+  de tais instruções.
+
+  APÊNDICES
+
+  APÊNDICE A - LISTA DE REDUÇÕES
+
+  APÊNDICE B - DOCUMENTOS ADMINISTRATIVOS REQUERIDOS
+
+  APÊNDICE C - DOCUMENTOS TÉCNICOS REQUERIDOS
+
+  APÊNDICE D - FLUXOGRAMA SIMPLIFICADO
+
+  APÊNDICE E - CONTROLE DE ALTERAÇÕES
+
+  DISPOSIÇÕES FINAIS
+
+  Os casos omissos serão dirimidos pela ANAC.
+
+
+  APÊNDICE A - LISTA DE REDUÇÕES
+
+
+  A.1 SIGLAS E ABREVIATURAS
+
+  a) ABNT Associação Brasileira de Normas Técnicas
+
+  b) AC Advisory Circular (emitida pela FAA)
+
+  c) AFMS Aircraft Flight Manual Supplement
+
+  d) AML Approved Models List
+
+  e) ANAC Agência Nacional de Aviação Civil
+
+  f) ART Anotação de Responsabilidade Técnica
+
+  g) ASTM American Society for Testing Materials
+
+  h) CAVE Certificado de Autorização de Voo Experimental (ANAC)
+
+  i) CCL Compliance Checklist (Lista de Requisitos Aplicáveis ao Projeto)
+
+  j) CCST Coordenadoria de Certificação Suplementar de Tipo (ANAC)
+
+  k) COP Certificado de Organização de Produção
+
+  l) CPAA Certificado de Produto Aeronáutico Aprovado
+
+  m) CST Certificado (ou Certificação) Suplementar de Tipo
+
+  n) CREA Conselho Regional de Engenharia e Agronomia
+
+  o) CT Certificado de Tipo
+
+  p) CVE Compliance Verification Expert
+
+  q) DA Diretriz de Aeronavegabilidade
+
+  r) EASA European Union Aviation Safety Agency
+
+  s) EMC Electromagnetic Compatibility
+
+  t) EMI Electromagnetic Interference
+
+  u) FAA Federal Aviation Administration
+
+  v) FCD Flight Crew Data (Dados Relevantes à Operação para Pilotos)
+
+  w) GCPP Gerência de Certificação de Projeto de Produto Aeronáutico (ANAC)
+
+  x) GRU Guia de Recolhimento da União
+
+  y) GTAC Gerência Técnica de Aeronavegabilidade Continuada (ANAC)
+
+  z) GTPR Gerência Técnica de Programas de Certificação (ANAC)
+
+  aa) ICA Instruções de Aeronavegabilidade Continuada (Instructions for Continued Airworthiness)
+
+  ab) IS Instrução Suplementar
+
+  ac) LMA Lista de Modelos Aprovados
+
+  ad) MIL Military Standards (Norma, Especificação Militar)
+
+  ae) MMEL Master Minimum Equipment List (Lista Mestra Mínima de Equipamentos)
+
+  af) MOC Means of Compliance (Métodos de Cumprimento de Requisitos)
+
+  ag) MPR Manual de Procedimentos
+
+  ah) OSD Operational Suitability Data (Dados Relevantes à Operação)
+
+  ai) PCP Profissional Credenciado em Projeto
+
+  aj) PMD Peso Máximo de Decolagem
+
+  ak) RBAC Regulamento Brasileiro da Aviação Civil (ANAC)
+
+  al) RFMS Rotorcraft Flight Manual Supplement
+
+  am) RT Responsável Técnico
+
+  an) RTCA Radio Technical Commission for Aeronautics
+
+  ao) SAE Society of Automotive Engineers
+
+  ap) SAR Superintendência de Aeronavegabilidade (ANAC)
+
+  aq) SEGVOO 001 Formulário de Registro de Grande Alteração e Grande Reparo (ANAC)
+
+  ar) SEI Sistema Eletrônico de Informações
+
+  as) STC Supplemental Type Certificate (emitido pela FAA, TCCA, EASA, e outras autoridades
+  de certificação estrangeiras)
+
+  at) TCCA Transport Canada Civil Aviation
+
+  au) TFAC Taxa de Fiscalização da Aviação Civil
+
+
+  APÊNDICE B - DOCUMENTOS ADMINISTRATIVOS REQUERIDOS
+
+
+  Nº
+
+  Tipo de Documento
+
+  CST
+
+  F-400-04 (SEGVOO 001)
+
+  01
+
+  Formulário F-300-03 ou F-101-11, requerimento, ou uma carta de solicitação de aprovação
+  de grande modificação, com as informações solicitadas em tal formulário. (4)
+
+  X
+
+  X
+
+  02
+
+  Declaração de responsabilidade pela modificação, informando o nome, endereço e CPF ou número
+  de registro no CREA do RT pela modificação perante a ANAC.
+
+  X
+
+  X
+
+  03
+
+  Número da ART relativa ao serviço de engenharia a ser executado que contenha descrição do
+  projeto submetido à ANAC. (A ART deve estar quitada para ser considerada válida)
+
+  X
+
+  X
+
+  04
+
+  Declaração do proprietário de cada aeronave protótipo autorizando o requerente a utilizar
+  a aeronave como protótipo para a certificação do projeto.
+
+  X (1) (2)
+
+  --
+
+  05
+
+  Declaração do proprietário da aeronave, autorizando o requerente a conduzir o processo de
+  certificação da modificação
+
+  --
+
+  X (1) (2)
+
+  06
+
+  Autorização para o piloto da ANAC-SAR-GCPP participar dos ensaios em voo, isentando a ANAC-SAR-GCPP
+  de quaisquer ônus e responsabilidades por ocasionais danos ocorridos na aeronave durante
+  a realização dos ensaios em voo.
+
+  X (3)
+
+  X (3)
+
+  07
+
+  Formulário F-400-05, Ficha de Dados Complementares. (4)
+
+  X (1)
+
+  X (1)
+
+  08
+
+  Formulário F-400-06, Ficha de Configuração dos Instrumentos e Equipamentos Instalados na
+  Aeronave. (4)
+
+  X
+
+  X
+
+  09
+
+  Cópia do comprovante de pagamento da TFAC.
+
+  X
+
+  X
+
+  10
+
+  Formulário F-300-18G, Declaração de Conformidade, preenchida e assinada pelo RT. (4)
+
+  X (5)
+
+  X (5)
+
+  11
+
+  Declaração do requerente de cumprimento com requisitos (seção 21.20 e parágrafo 21.97(a)(3)
+  do RBAC 21).
+
+  X(6)
+
+  --
+
+  12
+
+  Declaração do requerente de cumprimento com requisitos para os OSD (parágrafo 21.107-I(e)(3)
+  do RBAC 21).
+
+  X(7)
+
+  --
+
+  (1) - requerido durante o processo, precedente às inspeções e ensaios.
+
+  (2) - aplicável apenas quando o requerente não for o proprietário da aeronave.
+
+  (3) - aplicável apenas para processos que requeiram ensaios em voo realizados pela ANAC.
+
+  (4) - formulário disponível na página de internet da ANAC https://sistemas.anac.gov.br/certificacao/Form/Form.asp
+
+  (5) - a ser entregue após o RT realizar a inspeção de conformidade.
+
+  (6) - a ser entregue antes da conclusão do processo, depois de cumpridos todos os requisitos.
+
+  (7) - a ser entregue antes da aprovação dos OSD.
+
+  NOTA - Poderão ser necessários outros documentos, conforme a modificação pretendida
+
+
+  APÊNDICE C - DOCUMENTOS TÉCNICOS REQUERIDOS
+
+
+  C.1.1 Devem ser apresentados os seguintes documentos:
+
+  a) Plano de Certificação;
+
+  b) Lista Mestra de Documentos;
+
+  c) Manual de Instalação (projetos de aprovação por CST);
+
+  d) Instruções de Instalação (projetos de aprovação por formulário F-400-04 (SEGVOO 001));
+
+  e) Propostas de Suplementos ao Manual de Voo (se aplicável);
+
+  f) Propostas de Suplementos à MMEL e aos FCD (se aplicável);
+
+  g) Instruções para Aeronavegabilidade Continuada;
+
+  h) Outros relatórios técnicos, abrangendo:
+
+  I - Descrição da modificação
+
+  II - Projeto estrutural;
+
+  III - Projeto elétrico;
+
+  IV - Análise de Falhas;
+
+  V - Ensaios, Propostas de Ensaios e Resultados de Ensaios;
+
+  VI - Desenhos;
+
+  VII - Demonstrações de cumprimento com requisitos; e
+
+  VIII - Qualificação de equipamentos.
+
+  i) Cópia física ou digital dos Manuais de Operação e de Instalação dos equipamentos.
+
+  C.1.2 Outros documentos podem ser necessários, conforme a modificação.
+
+  C.1.3 Instruções relativas à elaboração dos documentos técnicos podem ser encontradas na
+  IS 21-021.
+
+
+  APÊNDICE D - FLUXOGRAMA SIMPLIFICADO
+
+
+  APÊNDICE E - CONTROLE DE ALTERAÇÕES
+
+
+  ALTERAÇÕES REALIZADAS NA REVISÃO H
+
+  ITEM
+
+  ALTERADO
+
+  ALTERAÇÃO REALIZADA
+
+  Diversos
+
+  Ajustes editoriais diversos sem impacto no conteúdo.
+
+  2.1
+
+  Atualização da revisão da IS revogada para G.
+
+  4.1
+
+  Inclusão da definição de OSD e renumeração dos itens subsequentes. 4.2(b) (antigo 4.1(b))
+  Inclusão do termo em inglês correspondente à sigla ICA 4.2(g) (antigo 4.1(g)) Atualização
+  da referência cruzada de 4.3 para 4.4. 4.4(d) Inclusão dos OSD como dados técnicos aprovados,
+  e renumeração das alíneas subsequentes. 4.7 Inclusão da definição de grande modificação
+  aos OSD. 4.13 Inclusão da definição de pequena modificação aos OSD. 5.1.1 Inclusão da NOTA
+  4. 5.2.1(b)(I) Inclusão do texto completo para as siglas TCCA e EASA. 5.3.2 Inclusão da
+  alínea (i) 5.4.3 Inclusão da NOTA 3. 5.4.4 Inclusão do texto completo para a sigla SEI,
+  com adequação considerando o atual sistema de protocolo eletrônico. 5.4.5 Inclusão do texto
+  completo para a sigla TFAC. 5.4.6 Substituição da referência ao formulário F-200-06 pelo
+  F-101-06. 5.4.17 Remoção da MMEL do escopo desta seção (migrado para 5.4.18). 5.4.18 Nova
+  seção sobre aspectos de MMEL (inclui o conteúdo migrado da seção 5.4.17). 5.4.19 Nova seção
+  sobre aspectos de FCD. 5.4.20 (antigo 5.4.18) Inclusão do item 5.4.20.2. 5.6.2 Alteração
+  dos critérios para cancelamento do processo de aprovação. 5.6.4 Inclusão da NOTA 2. 5.10
+  Inclusão de novo item 5.10.4 com renumeração dos itens subsequentes. Apêndice A Inclusão
+  das siglas FCD e OSD, com readequação da numeração dos itens. Apêndice B Inclusão da declaração
+  de cumprimento com os requisitos de OSD na lista de documentos administrativos, com inclusão
+  da nota de rodapé 7. Apêndice C, item C.1.1 Inclusão de nova alínea (f), com renumeração
+  das alíneas posteriores. Apêndice E Atualização do apêndice para listar as alterações implementadas
+  nesta revisão.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- modificacao
+- dados
+- aeronave
+- grande
+- requerente
+- nota
+- processo
+- tipo
+- aprovacao
+- ensaios
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-004.md

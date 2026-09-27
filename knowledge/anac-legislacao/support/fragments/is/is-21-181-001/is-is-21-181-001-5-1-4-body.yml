@@ -1,0 +1,45 @@
+id: is-is-21-181-001-5-1-4-body
+kind: is
+document: is-21-181-001
+family: '21'
+section_id: 5.1.4
+section_title: A aeronave que tiver o seu CA suspenso por qualquer código e vier a ocorrer
+  vencimento do
+subsection_id: body
+cite: 5.1.4
+title: A aeronave que tiver o seu CA suspenso por qualquer código e vier a ocorrer vencimento
+  do
+text: '5.1.4 A aeronave que tiver o seu CA suspenso por qualquer código e vier a ocorrer vencimento
+  do
+
+  CVA, automaticamente o código “S8” é incluído na codificação da situação da aeronave.
+
+  Caso esteja apenas com o CA suspenso por não apresentação do CVA (código “S8”) e vier
+
+  a ocorrer qualquer situação passível de enquadramento nos códigos numéricos, aqueles
+
+  aplicáveis são adicionados à codificação. O Apêndice C lista os códigos possíveis
+
+  relacionados a situação do CA.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- codigo
+- aeronave
+- ocorrer
+- suspenso
+- vier
+- situacao
+- tiver
+- vencimento
+- codificacao
+- codigos
+- adicionados
+- apendice
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-181-001.md

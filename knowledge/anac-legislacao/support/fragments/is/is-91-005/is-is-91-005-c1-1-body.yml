@@ -9,53 +9,18 @@ subsection_id: body
 cite: C1.1
 title: 'O conjunto mínimo de equipamentos para operação no espaço aéreo RVSM consiste de:'
 text: 'C1.1 O conjunto mínimo de equipamentos para operação no espaço aéreo RVSM consiste
-  de:
-
-  a) dois sistemas independentes de medição de altitude. Cada um dos sistemas deve ter os
-  seguintes elementos:
-
-  I. sistema ou tomada estática de acoplamento cruzado, com proteção contra gelo se a tomada
-  estiver localizada em zonas expostas à formação de gelo;
-
-  II. um equipamento para: medir a pressão estática detectada pela fonte estática em altitude
-  de pressão e exibir esta informação (altitude barométrica) para a tripulação de voo na cabine
-  de comando;
-
-  III. um equipamento para proporcionar um sinal digitalmente codificado correspondente à
-  altitude de pressão exibida, para propósito de reporte automático de altitude;
-
-  IV. correção do erro da tomada de pressão estática, quando seja necessário cumprir com os
-  requisitos de performance do Apêndice D desta IS, conforme corresponda; e
-
-  V. sinais relacionados com a altitude selecionada pelo piloto para o controle e alerta automáticos
-  de altitude. Preferencialmente esses sinais devem ser derivados de um sistema de medição
-  de altitude que cumpra com todos os requisitos desta IS, porém o cumprimento dos requisitos
-  do Apêndice D desta IS são obrigatórios.
-
-  b) um transponder de radar de vigilância secundário dotado de um sistema de reporte de altitude
-  que tenha capacidade de conexão com o sistema de medição de altitude para a manutenção da
-  mesma;
-
-  c) um sistema de alerta de altitude; e
-
-  d) um sistema automático de controle de altitude.
-
-  C2. ALTIMETRIA'
+  de:'
 keywords:
 - operacoes-gerais
 - regras-de-voo
-- altitude
-- sistema
-- estatica
-- pressao
 - aereo
 - conjunto
 - consiste
-- desta
 - equipamentos
 - espaco
-- medicao
 - minimo
+- operacao
+- rvsm
 categories:
 - operacoes-gerais
 - regras-de-voo

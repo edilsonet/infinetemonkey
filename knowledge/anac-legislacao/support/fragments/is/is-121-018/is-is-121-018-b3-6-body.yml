@@ -1,0 +1,51 @@
+id: is-is-121-018-b3-6-body
+kind: is
+document: is-121-018
+family: '121'
+section_id: B3.6
+section_title: Quando uma aproximação é conduzida com um motor inoperante, para garantir o
+  cumprimento do gradiente de aproximação perdida do procedimento e livrar os obstáculos,
+  pode ser necessário aumentar a DA/H. Nesse sentido, algumas cartas estabelecem mínimos distintos
+  de acordo com o gradiente de aproximação perdida, que devem ser incorporados nos mínimos
+  operacionais de aeródromo do detentor de certificado. Além disso, uma perda de altura superior
+  à normal é esperada no início do “go around”, quando o trem de pouso e os flapes são recolhidos.
+  Nesse caso, a DA/H não pode ser menor que a altura contida no AFM/AOM que indica a altura
+  mínima para um pouso em seguida a uma aproximação com um motor inoperante.
+subsection_id: body
+cite: B3.6
+title: Quando uma aproximação é conduzida com um motor inoperante, para garantir o cumprimento
+  do gradiente de aproximação perdida do procedimento e livrar os obstáculos, pode ser necessário
+  aumentar a DA/H. Nesse sentido, algumas cartas estabelecem mínimos distintos de acordo com
+  o gradiente de aproximação perdida, que devem ser incorporados nos mínimos operacionais
+  de aeródromo do detentor de certificado. Além disso, uma perda de altura superior à normal
+  é esperada no início do “go around”, quando o trem de pouso e os flapes são recolhidos.
+  Nesse caso, a DA/H não pode ser menor que a altura contida no AFM/AOM que indica a altura
+  mínima para um pouso em seguida a uma aproximação com um motor inoperante.
+text: B3.6 Quando uma aproximação é conduzida com um motor inoperante, para garantir o cumprimento
+  do gradiente de aproximação perdida do procedimento e livrar os obstáculos, pode ser necessário
+  aumentar a DA/H. Nesse sentido, algumas cartas estabelecem mínimos distintos de acordo com
+  o gradiente de aproximação perdida, que devem ser incorporados nos mínimos operacionais
+  de aeródromo do detentor de certificado. Além disso, uma perda de altura superior à normal
+  é esperada no início do “go around”, quando o trem de pouso e os flapes são recolhidos.
+  Nesse caso, a DA/H não pode ser menor que a altura contida no AFM/AOM que indica a altura
+  mínima para um pouso em seguida a uma aproximação com um motor inoperante.
+keywords:
+- transporte-aereo
+- operacoes
+- aproximacao
+- altura
+- gradiente
+- inoperante
+- minimos
+- motor
+- nesse
+- perdida
+- pode
+- pouso
+- acordo
+- aerodromo
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-018.md

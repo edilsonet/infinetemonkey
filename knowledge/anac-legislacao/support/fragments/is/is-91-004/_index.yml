@@ -1,0 +1,39 @@
+document: is-91-004
+kind: is
+title: IS 91-004B
+ementa: Instruções e procedimentos para autorização de operações de aproximação de precisão
+  ILS categorias II e III por operadores aéreos regidos pelo RBHA 91.
+family: '91'
+categories:
+- operacoes-gerais
+- regras-de-voo
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-004
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-004/@@display-file/arquivo_norma/IS%2091-004%20Revis%C3%A3o%20B.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-004/@@display-file/arquivo_norma/IS%2091-004%20Revis%C3%A3o%20B.pdf
+language: pt
+foreign_annex: false
+sections:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- preambulo
+fragment_count: 15
+fragment_ids:
+- is-is-91-004-preambulo-body
+- is-is-91-004-1-body
+- is-is-91-004-2-body
+- is-is-91-004-3-body
+- is-is-91-004-3-a
+- is-is-91-004-3-b
+- is-is-91-004-3-c
+- is-is-91-004-3-d
+- is-is-91-004-4-body
+- is-is-91-004-4-a
+- is-is-91-004-4-c
+- is-is-91-004-4-b
+- is-is-91-004-5-body
+- is-is-91-004-5-a
+- is-is-91-004-5-b
+parser_version: 7

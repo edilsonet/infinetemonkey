@@ -1,0 +1,62 @@
+id: is-is-21-61-005-5-3-2-2-d
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.2.2
+section_title: 'Each MMEL must contain the following:'
+subsection_id: d
+cite: 5.3.2.2(d)
+title: 5.3.2.2(d)
+text: 'd) The list of items, including for each item:
+
+  I- a categoria de intervalo de reparo;
+
+  I- the rectification interval category;
+
+  II- o número instalado ou um símbolo de traço, conforme aplicável;
+
+  II- the number installed or a dash symbol, as applicable;
+
+  III- o número necessário ou um símbolo de traço, conforme aplicável;
+
+  III- the number required or a dash symbol, as applicable;
+
+  IV- o símbolo do procedimento operacional, se aplicável;
+
+  IV- the operational procedure symbol, as applicable;
+
+  V- o símbolo do procedimento de manutenção, se aplicável;
+
+  V- the maintenance procedure symbol, as applicable;
+
+  VI- indicações de placares, se aplicável; e
+
+  VI- placarding indications, as applicable; and
+
+  VII- quaisquer condições e limitações associadas, incluindo a intenção e a periodicidade
+  para a realização dos procedimentos operacionais e de manutenção, conforme aplicável.
+
+  VII- any associated conditions and limitations, including the intent and periodicity for
+  the accomplishment of the operational and maintenance procedures, as applicable.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aplicavel
+- applicable
+- simbolo
+- symbol
+- dash
+- each
+- including
+- maintenance
+- manutencao
+- number
+- numero
+- operational
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

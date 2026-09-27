@@ -46,50 +46,22 @@ text: '60.37
 
   Quality Management Systems for Flight Simulation Training
 
-  Devices
-
-  Apêndice A - Requisitos de Desempenho para
-
-  Qualificação de Simulador de Voo (FFS) de avião
-
-  Apêndice B - Requisitos de Desempenho para
-
-  Qualificação de Dispositivo de Treinamento de Voo
-
-  (FTD) de avião
-
-  Apêndice C - Requisitos de Desempenho para
-
-  Qualificação de Simulador de Voo (FFS) de helicótero
-
-
-  Apêndice D - Requisitos de Desempenho para
-
-  Qualificação de Dispositivo de Treinamento de Voo
-
-  (FTD) de helicóptero
-
-  Apêndice E - Requisitos para o Sistema de
-
-  Gerenciamento da Qualidade (QMS) para FSTD
-
-
-  Data da emissão: 20 de março de 2020.'
+  Devices'
 keywords:
 - simuladores
 - treinamento
-- apendice
 - appendix
 - flight
 - performance
-- qualificacao
 - qualification
-- requisitos
 - standards
-- desempenho
 - devices
 - training
 - airplane
+- full
+- helicopter
+- simulators
+- avaliacao
 categories:
 - simuladores
 - treinamento

@@ -1,0 +1,337 @@
+id: is-is-141-001-introducao-d
+kind: is
+document: is-141-001
+family: '141'
+section_id: introducao
+section_title: Introdução
+subsection_id: d
+cite: introducao(d)
+title: introducao(d)
+text: 'd) alterar/corrigir ou excluir algum registro de instrutor por constatação de equívoco
+  executado pelo responsável indicado
+
+  Certificação RBAC 141: Sistema S141 - Requerimento de alteração/correção/exclusão de dados
+  de instrutor
+
+  Os registros de cursos teóricos, realizados em períodos anteriores à data de Certificação
+  do Ciac, constavam no Sistema SACI, e os procedimentos de inclusão, alteração ou exclusão
+  desses registros seguiam as orientações da Instrução Suplementar IS 141-001C (Revogada).
+  Nas situações de registros antigos, que não foram executados à época da instrução, é necessário
+  realizar peticionamento eletrônico no Sistema SEI, por meio do Tipo de Processo “Certificação
+  de Organizações de Formação: Alteração de Dados de Turma”. O referido normativo não previa
+  registros de alunos em cursos práticos.
+
+
+  Corpo Docente
+
+  Inclusão de Registro dos Instrutores
+
+  O Ciac deve comunicar, por meio do Sistema S141, a contratação e desligamento de instrutores
+  designados para ministrarem as disciplinas mínimas e as instruções de voo do(s) curso(s)
+  previstas na Base de Certificação.
+
+  O instrutor pode ministrar mais de uma disciplina, desde que possua as qualificações requeridas,
+  e o Ciac registre o período de vínculo para cada disciplina.
+
+  Os vínculos de instrutores das disciplinas suplementares, não previstas na Base de Certificação,
+  não necessitam de registro no Sistema S141.
+
+  O Ciac deve informar à Anac a relação de instrutores das disciplinas relacionadas na Base
+  de Certificação e dos instrutores de voo, após a concessão do acesso ao Sistema S141.
+
+  A Data de Início da vinculação de todos os instrutores deve ser posterior à data de Certificação
+  do Ciac, uma vez que os períodos anteriores de vinculação se correlacionam aos requisitos
+  dos RBHA revogados, e que possuíam sistema distinto.
+
+  A comunicação do início do vínculo ou o desligamento do instrutor deve ocorrer, preferencialmente,
+  em até 15 (quinze) dias após a contratação ou desligamento.
+
+  O Ciac deve anexar ao registro do instrutor, no Sistema S141, a documentação específica
+  de formação e experiência requeridas para a disciplina ou instrução de voo que irá ministrar.
+  São exemplos da referida documentação:
+
+  Habilitação como instrutor de voo correspondente;
+
+  Experiência de horas de voo;
+
+  Experiência docente (período);
+
+  Experiência na área de conhecimento;
+
+  Certificados;
+
+  Comprovação de horas de voo (se não estiverem na CIV Digital).
+
+  O Ciac pode consultar no Sistema S141 os registros de outros vínculos do profissional, exclusivamente
+  cadastrados pela Anac, para as funções de:
+
+  Gestor Responsável;
+
+  Gerente da Qualidade;
+
+  Gerente de Segurança Operacional;
+
+  Coordenador;
+
+  Examinador Credenciado.
+
+  O Ciac deve, imediatamente após a vinculação do profissional ao sistema, cadastrar todos
+  os vínculos de instrutor para esse profissional, e obrigatoriamente inserir a Data de Início
+  para cada vínculo de curso e sua(s) respectiva(s) disciplina(s).
+
+  O Ciac poderá gerir os registros dos vínculos de seus profissionais através da geração de
+  planilha de dados, e verificar possíveis inconsistências nos registros.
+
+  O Ciac, antes de solicitar a revogação de sua Certificação, deve realizar o desligamento
+  de todos os instrutores no Sistema S141. Se o pedido de revogação for para um determinado
+  curso, o desligamento de vínculos deve ocorrer para as disciplinas correspondentes.
+
+
+  Exclusão de Registro dos Instrutores
+
+  Para excluir ou editar um registro de vínculo finalizado, o Ciac deve requerer o procedimento
+  de exclusão ou edição por meio de peticionamento eletrônico no Sistema SEI, conforme as
+  situações e os tipos de processos descritos no subparágrafo [5.1.3.1] desta IS.
+
+
+  Corpo Discente
+
+  Inclusão de Registro dos Alunos
+
+  O Ciac deve registrar o início e a conclusão do curso (teórico ou prático), e respectivo
+  resultado final de seus alunos, em consonância com os termos do parágrafo 141.79(g) do RBAC
+  nº 141.
+
+  Antes de registrar a matrícula ou conclusão de um curso no Sistema S141, o Ciac deve verificar
+  se o aluno cumpre todos os requisitos mínimos descritos na Base de Certificação do curso,
+  como por exemplo:
+
+  idade;
+
+  escolaridade;
+
+  Certificado Médico Aeronáutico válido (se aplicável);
+
+  aprovação em exame teórico da Anac (se aplicável);
+
+  possuir licença ou habilitação específica (se aplicável);
+
+  quantitativo de horas cadastradas em CIV (se aplicável); entre outros.
+
+  O aluno deve possuir, obrigatoriamente, um Código Anac para que o Ciac efetue, no Sistema
+  S141, o registro de sua matrícula em um curso, conforme roteiro descrito no endereço apresentado
+  no Apêndice B desta IS.
+
+  O Sistema S141 verifica, de forma automática, se o aluno cumpre os requisitos do curso no
+  momento do registro de sua matrícula, como também no momento do registro de sua aprovação.
+
+  O Ciac pode solicitar, por meio de peticionamento eletrônico no Sistema SEI, a intervenção
+  da Anac, quando alguma funcionalidade do Sistema S141 não permitir registros, conforme as
+  situações e os tipos de processos descritos no subparágrafo [5.1.3.1] desta IS.
+
+  O Ciac deve especificar em qual curso o aluno está iniciando sua instrução, bem como o Código
+  do Programa de Instrução e a respectiva Revisão com situação regular.
+
+  O Ciac deve comunicar a matrícula do aluno no Programa de Instrução de um curso (teórico
+  ou prático) em até 30 (trinta) dias contados a partir do início do curso (primeiro dia de
+  instrução). Para a contagem de prazo, serão consideradas:
+
+  Data de Início informada; e
+
+  Data de realização do procedimento de inclusão (ou edição/alteração/correção) do registro.
+
+  Para o registro da matrícula de um aluno transferido de um curso ou Programa de Instrução
+  (transferência interna), ou entre Ciacs (transferência externa), com aproveitamento de estudos
+  ou experiência, a Data de Início será a data do primeiro dia de instrução (teórica ou prática)
+  na nova matrícula, pois a instrução recebida em período anterior constará do documento Histórico
+  da Instrução do aluno, com o detalhamento do que foi aproveitado.
+
+  O Ciac deve anexar o Histórico da Instrução ao registro de matrícula do aluno transferido,
+  proveniente de outro Ciac/Escola de Aviação Civil/Aeroclube, ou de outro curso do próprio
+  Ciac.
+
+  O Ciac deve informar a data de Previsão de Término do curso levando-se em consideração a
+  carga horária prevista no Programa de Instrução para um curso completo, ou redimensionada/reduzida
+  para as situações de aproveitamento de estudos ou experiência anterior para a conclusão
+  do curso.
+
+  O aluno será identificado no Sistema S141 com um Código de Matrícula padronizado, e com
+  a situação “Matriculado”, que perdurará enquanto o procedimento de conclusão do curso não
+  for executado pelo Ciac, seguindo as orientações constantes no Apêndice B desta IS.
+
+  O aluno não poderá ter dois registros, no sistema S141, com situação “Matriculado” para
+  um mesmo curso (Curso - Especialidade - Tipo), e para a realização de um novo registro de
+  matrícula, será necessária a conclusão do registro mais antigo por parte do Ciac responsável
+  pela informação.
+
+  O Ciac poderá gerir os registros de todos os seus alunos, cadastrados no sistema S141, através
+  da geração de Relatório, e verificar possíveis inconsistências nos registros.
+
+
+  Conclusão de Registro dos Alunos
+
+  O Ciac deve comunicar a conclusão do registro de um aluno matriculado em um curso (teórico
+  ou prático), atribuindo a situação “Aprovado”, “Reprovado” ou “Transferido”, em até 10 (dez)
+  dias contados a partir do término do curso, anexando a documentação correspondente. Para
+  a contagem de prazo, serão consideradas:
+
+  Data de Término informada; e
+
+  Data de realização do procedimento de conclusão (ou edição/alteração/correção) do registro.
+
+  O Ciac deverá garantir que o aluno está com os registros de horas e endossos na Caderneta
+  Individual de Voo - CIV Digital do aluno, antes de iniciar o procedimento de conclusão do
+  registro em um curso prático.
+
+  O Ciac deve monitorar se a conclusão do curso pelo aluno ocorrerá até o dobro do período
+  estabelecido entre a Data de Início e a data de Previsão de Término, conforme parágrafo
+  141.81(b)(3) do RBAC nº 141, e concluir o registro quando esse período for ultrapassado,
+  atribuir a situação “Reprovado” e anexar, obrigatoriamente, o Histórico da Instrução no
+  Sistema S141. O mesmo procedimento deve ser realizado no caso de um aluno que não obteve
+  o aproveitamento e/ou frequência mínima para aprovação em determinado curso. Em ambos os
+  casos o candidato pode buscar aproveitamento de estudos em um eventual novo curso.
+
+  A Anac atribuirá a situação “Cancelado” para os registros não concluídos pelos Ciacs Revogados,
+  Suspensos ou Cassados a fim de possibilitar a transferência do aluno para outro Ciac. Tal
+  procedimento não desobriga o Ciac de fornecer o Histórico da Instrução ao aluno.
+
+  O Ciac, antes de solicitar a revogação da Sede ou Satélite, ou Programa de Instrução, deve
+  concluir todos os registros de alunos matriculados no Ciac, ou Programa de Instrução a ser
+  revogado, atribuir a situação “Transferido”, e anexar, obrigatoriamente, o Histórico da
+  Instrução no Sistema S141.
+
+  O Ciac deve dispor de documentos adicionais relacionados à matrícula, ao período de instrução,
+  e à conclusão do curso do aluno, que apresentem relevância para o esclarecimento de situações
+  diversas, e poderá anexar esses documentos nos registros do aluno no Sistema S141.
+
+  O Ciac deve concluir o registro do aluno que solicitar a transferência para outro Ciac (transferência
+  externa) em momento subsequente à solicitação, atribuir a situação “Transferido”, e anexar,
+  obrigatoriamente, o Histórico da Instrução no Sistema S141.
+
+  NOTA: para as situações de abandono, adicionalmente aos procedimentos anteriores, o Ciac
+  deve anexar um comprovante/declaração da ciência do abandono (e-mail por exemplo), e indicar
+  a data da ciência do fato no campo “Data de Término”, cumprindo, assim, o prazo de conclusão
+  do registro.
+
+  O Ciac deve concluir o registro do aluno que desejar continuar sua instrução em outro curso
+  (transferência interna), atribuir a situação “Transferido” e anexar, obrigatoriamente, o
+  Histórico da Instrução, resultando em um novo registro de matrícula no Sistema S141.
+
+  O procedimento de transferência interna entre Programas de Instrução distintos para um mesmo
+  curso não requer nova matrícula, bastando indicar o Programa de Instrução de conclusão,
+  e anexar ao registro do aluno uma Declaração de Adequação de Instrução (S141) no momento
+  da conclusão do registro, utilizando-se do modelo disponível no endereço: https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios.
+
+  As situações mais comuns que justificam a indicação de Programa de Instrução de conclusão
+  distinto do Programa de Instrução inicial do curso são as alterações de:
+
+  modalidade do curso;
+
+  aeronaves monomotoras e multimotoras;
+
+  aeronaves triciclos e convencionais;
+
+  programas normais, integrados ou reduzidos.
+
+  A Declaração de Adequação de Instrução deve conter o detalhamento de como o aluno cumpriu
+  as diferenças entre os Programas de Instrução, a exemplo de:
+
+  detalhamento da transição entre as modalidades de ensino;
+
+  detalhamento das diferenças de disciplinas e carga horária;
+
+  avaliações adicionais de conhecimento teórico;
+
+  treinamento de adaptação ao novo modelo de aeronave;
+
+  lições ou atividades práticas específicas;
+
+  avaliação prática para determinação do treinamento de adaptação; entre outros.
+
+
+  Histórico da Instrução e Certificado de Conclusão
+
+  O Histórico da Instrução (teórica/prática) deve ser assinado pelo coordenador do curso,
+  ou de cargo superior, conforme os modelos sugeridos no endereço: https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-instrucao/formacao-e-qualificacao-de-pessoas/modelos-e-formularios,
+  e anexado, obrigatoriamente, ao registro do aluno com as situações “Aprovado”, “Reprovado”
+  ou “Transferido”.
+
+  O Histórico da Instrução Prática pode ser substituído pelo relatório da CIV Digital do aluno,
+  desde que possua a descrição das Lições/Missões realizadas no decorrer do curso.
+
+  Os registros do aproveitamento de estudos ou experiência prévia, devem constar do Histórico
+  da Instrução produzido pelo Ciac.
+
+  O Certificado de Conclusão do curso deve ser assinado pelo coordenador do curso, ou por
+  profissional de cargo superior, e anexado, obrigatoriamente, ao registro do aluno com situação
+  “Aprovado”.
+
+  O Certificado de Conclusão do curso deve conter as mesmas datas de início e término indicadas
+  no registro do aluno aprovado, representando o período de sua última matrícula, uma vez
+  que o período anterior estará descrito no Histórico da Instrução como aproveitamento de
+  estudos ou experiência.
+
+  O Ciac pode revisar seu MIP (Manual de Instruções e Procedimentos) adotando os modelos sugeridos
+  pela Anac de Certificado de Conclusão e Histórico da Instrução, uma vez que foram elaborados
+  com os itens obrigatórios do RBAC nº 141 e IS nº 141-007.
+
+  O Ciac com autorização do Ministério da Educação, que possuir curso(s) e Programa(s) de
+  Instrução integrado(s) a um curso técnico ou de graduação, pode utilizar os modelos apresentados
+  em seu MIP com terminologia e sistemas de avaliação distintos desde que compatíveis com
+  as exigências e elementos mínimos descritos no RBAC nº 141 e na IS nº 141-007.
+
+  Edição de Registro dos Alunos
+
+  O Ciac poderá editar os registros de seus alunos sempre que for constatado algum equívoco,
+  por parte do responsável indicado, no momento da inserção dos dados. As informações passíveis
+  de edição são as seguintes:
+
+  Programa de Instrução no qual o aluno iniciou o curso;
+
+  data de início;
+
+  previsão de término;
+
+  data de término;
+
+  situação do aluno (Aprovado, Reprovado, Transferido);
+
+  Programa de Instrução em que o aluno concluiu/interrompeu o curso; e
+
+  atualização/substituição/exclusão de documentos inseridos.
+
+  O Ciac deve observar os procedimentos adequados, a qualidade dos dados informados, e o atendimento
+  dos prazos estabelecidos, para mitigar a ocorrência de erros nos momentos de inclusão e
+  conclusão dos registros, e consequentemente diminuir a necessidade de correção/alteração.
+
+  Exclusão de Registro dos Alunos
+
+  Para excluir um registro de matrícula:
+
+  cadastrado equivocadamente; ou
+
+  de aluno que desistiu do curso sem realizar nenhuma avaliação teórica ou missão prevista
+  para um curso prático;
+
+  o Ciac deve requerer o procedimento através de protocolo eletrônico no Sistema SEI, conforme
+  a situação a), descrita no subparágrafo [5.1.3.1] desta IS.'
+keywords:
+- escolas
+- treinamento
+- ciac
+- curso
+- instrucao
+- registro
+- aluno
+- sistema
+- conclusao
+- s141
+- registros
+- data
+- matricula
+- historico
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-001.md

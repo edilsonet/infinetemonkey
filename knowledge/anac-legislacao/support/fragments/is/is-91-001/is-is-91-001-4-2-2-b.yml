@@ -1,0 +1,52 @@
+id: is-is-91-001-4-2-2-b
+kind: is
+document: is-91-001
+family: '91'
+section_id: 4.2.2
+section_title: 'Campo de visão primário: área abrangida por um ângulo de 15° em torno da linha
+  de visão primária do piloto.'
+subsection_id: b
+cite: 4.2.2(b)
+title: 4.2.2(b)
+text: 'b) flyover way-point: fixo de navegação onde a curva é iniciada sobre o mesmo a fim
+  de permitir a captura da trajetória a ser voada.
+
+  4.2.6 Global positioning system (GPS): sistema de satélite norte-americano que utiliza medidas
+  precisas de distância para determinar a posição, velocidade e hora em qualquer ponto no
+  planeta. O GPS é composto por no mínimo 24 satélites distribuídos em 6 planos orbitais e
+  por uma estrutura no solo para monitoramento e controle.
+
+  4.2.7 Navegação baseada em desempenho ou performance-based navigation (PBN): requisitos
+  específicos de navegação de área aplicáveis às aeronaves conduzindo operações em rotas ATS,
+  em procedimentos de aproximação ou espaços aéreos específicos.
+
+  4.2.8 Navegação vertical barométrica (baro-VNAV): função de alguns sistemas RNAV que disponibiliza
+  ao piloto a trajetória vertical da aeronave. A trajetória vertical é fornecida por meio
+  de informação barométrica de altitude e normalmente é estimada geometricamente entre dois
+  pontos fixos ou um ângulo baseado em um único ponto.
+
+  4.2.9 Operação PBN: operação realizada em uma rota ou procedimento cuja execução requer
+  que o conjunto de sistemas da aeronave, qualificação da tripulação e sistemas de gerenciamento
+  de tráfego aéreo atendam às especificações expressas em termos de precisão, integridade,
+  disponibilidade, continuidade e funcionalidade, compreendendo especificações de RNAV ou
+  RNP, associados a um determinado nível de precisão para cada tipo de operação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- navegacao
+- operacao
+- sistemas
+- trajetoria
+- vertical
+- aeronave
+- angulo
+- area
+- barometrica
+- especificacoes
+- especificos
+- piloto
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

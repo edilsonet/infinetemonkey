@@ -1,0 +1,52 @@
+id: is-is-145-009-5-5-14-1-c
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.14.1
+section_title: 'Referência: RBAC nº 145, parágrafo 145.211(c).'
+subsection_id: c
+cite: 5.5.14.1(c)
+title: 5.5.14.1(c)
+text: 'c) Identificar possíveis deteriorações nos níveis de segurança de voo de produtos já
+  trabalhados e propor ações corretivas.
+
+  NOTA 1: A ação corretiva pode ocorrer em duas circunstâncias: antes que um artigo seja aprovado
+  para retorno ao serviço, e após o artigo ter sido aprovado para retorno ao serviço. Caso
+  a não conformidade seja identificada antes do retorno ao serviço a OM deve verificar o artigo
+  para impedir que qualquer discrepância relacionada à não conformidade tenha sido transmitida
+  para o artigo e, caso positivo, a ação corretiva deve ser aplicada de forma imediata, antes
+  do retorno ao serviço. Caso a OM detecte que uma deficiência compromete a aeronavegabilidade
+  e afeta a segurança de voo após um artigo ter sido aprovado para retorno ao serviço, a OM
+  deve ter meios para rapidamente determinar a gravidade da discrepância e requerer a ação
+  corretiva mais segura. A ação mais segura, no caso de uma aeronave, pode não ser o imediato
+  retorno do artigo, mas sim sua imediata indisponibilização para voo. Esse tipo de ação deve
+  ser coordenado com o operador/proprietário da aeronave e justifica um serviço em outra localidade
+  para a OM.
+
+  NOTA 2: O MOM deve descrever como um item é corrigido após a identificação de uma não conformidade.
+  A análise das instalações, facilidades, equipamentos, qualificações do pessoal, e procedimentos
+  deve assegurar que uma eventual deficiência não seja um problema sistêmico. Se a análise
+  indicar que o procedimento é deficiente, a ação corretiva deve incluir uma revisão completa
+  e melhoria do procedimento. Se a análise indicar que faltou qualificação ou treinamento
+  do pessoal, a ação corretiva deve remediar a deficiência. Em qualquer dos casos, os procedimentos
+  devem indicar como o retrabalho é documentado.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- acao
+- artigo
+- retorno
+- servico
+- corretiva
+- caso
+- analise
+- aprovado
+- conformidade
+- deficiencia
+- indicar
+- seja
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

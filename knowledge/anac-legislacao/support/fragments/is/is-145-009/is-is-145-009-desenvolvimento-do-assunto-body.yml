@@ -1,0 +1,145 @@
+id: is-is-145-009-desenvolvimento-do-assunto-body
+kind: is
+document: is-145-009
+family: '145'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: DESENVOLVIMENTO DO ASSUNTO
+text: 'DESENVOLVIMENTO DO ASSUNTO
+
+  5.1 Histórico: A revisão do RBHA 145 pela ANAC foi fundamentada na necessidade de atualização
+  de vários de seus requisitos, dados os avanços da tecnologia e da atividade regulatória
+  sob as empresas de manutenção aeronáutica. O fruto deste trabalho foi a edição do RBAC nº
+  145, que reorganizou os requisitos aplicáveis às agora denominadas OM, reduzindo redundâncias
+  do regulamento anterior e eliminando informações obsoletas. Ele introduziu e também esclareceu
+  os requisitos mínimos para a elaboração de um manual que descreve a política e os procedimentos
+  da OM, daqui em diante denominado de Manual da Organização de Manutenção - MOM, e de um
+  manual que descreve o sistema de controle da qualidade utilizado pela OM, daqui em diante
+  denominado Manual de Controle da Qualidade - MCQ, além de descrever os itens que devem ser
+  incluídos nesses manuais.
+
+  NOTA 1: Embora uma OM possa optar por trabalhar com outros níveis de sistemas de qualidade,
+  o MCQ trata apenas do que se refere ao controle da qualidade.
+
+  5.2 Conjunto de Manuais - Características
+
+  5.2.1 Combinação de Informações: um requerente ou uma OM pode combinar as partes requeridas
+  pelas seções 145.209 e 145.211 do RBAC nº 145 em uma única seção ou capítulo do manual.
+  Por exemplo, os procedimentos requeridos na seção 145.209 do RBAC nº 145 para revisão do
+  MOM, e os procedimentos requeridos na seção 145.211 do RBAC nº 145 para revisão do MCQ podem
+  ser combinados em um único capítulo/seção intitulado “Revisão do Manual”. Além disso, a
+  OM pode utilizar as partes aplicáveis da International Organization for Standardization
+  - ISO, ou outro sistema de qualidade, tal como do American Society for Quality - ASQ, para
+  mostrar cumprimento com o RBAC nº 145.
+
+  5.2.1.1 O quadro que segue ilustra apenas uma das muitas possíveis combinações que o requerente/OM
+  pode usar para estruturar um sistema único de manuais. Ele inclui os procedimentos requeridos
+  para ambos, MOM e MCQ. Outras combinações são possíveis, dependendo da categoria, tamanho
+  e complexidade da OM. O conteúdo do manual deve incluir os procedimentos aplicáveis requeridos
+  pelos regulamentos, mas pode ser formatado de modo que seja compreensível pelos empregados
+  da OM.
+
+  Quadro 1 - Combinação do MOM com o MCQ
+
+  Elemento do MOM
+
+  +
+
+  Elemento do MCQ
+
+  =
+
+  Título Possível
+
+  Capítulo/seção
+
+  Manter e revisar informações do contrato
+
+  +
+
+  Qualificar e fiscalizar pessoal não detentor de licença de MMA (Mecânico de Manutenção Aeronáutica)
+
+  =
+
+  Contratação
+
+  Revisão do manual, notificação à ANAC, identificação e controle de seções
+
+  +
+
+  Revisão de manual de notificação à ANAC
+
+  =
+
+  Controle do Manual
+
+  Registros e sistema de conservação de registro
+
+  +
+
+  Obter e manter atualizados os dados técnicos
+
+  =
+
+  Controle de Documento
+
+  NOTA 1: Embora o Gestor Responsável - GR (ver definição no RBAC nº 145) seja o responsável
+  final pela OM, os manuais devem ser elaborados e/ou aprovados pelo Responsável Técnico -
+  RT (ver definição no RBAC nº 145) da OM, em consonância com as atribuições esperadas deste
+  profissional previstas na IS nº 145.151-001.
+
+  5.2.2 Disponibilidade: o MOM deve estar atualizado e ser acessível ao pessoal da própria
+  OM, conforme requerido pela Subparte D do RBAC nº 145. O manual pode conter mais procedimentos
+  do que os requeridos pelos regulamentos, para a OM descrever todas as funções, responsabilidades
+  e procedimentos necessários do seu sistema da qualidade. Os procedimentos descritos no manual
+  devem assegurar que a OM pode satisfatoriamente executar a manutenção de acordo com a(s)
+  sua(s) categoria(s). Nesse aspecto, uma OM certificada na categoria de Serviço Especializado
+  poderia ter diferentes procedimentos em seu manual, quando comparado com uma OM com, por
+  exemplo, Categoria de Célula, Classe 3. Cada manual deve ser desenvolvido baseado nas categorias
+  autorizadas para a OM, seu tamanho e complexidade.
+
+  5.2.3 Lista de Verificação: uma lista de verificação (ver Apêndice B) pode ser utilizada
+  para auxiliar o requerente/detentor do certificado para revisar o conteúdo do seu manual.
+  A totalidade dos itens presentes na lista de verificação pode não ser aplicável a todas
+  as OM devido às diferenças na categoria, tamanho e tipo de manutenção executada.
+
+  5.2.4 Declaração de conformidade: o parágrafo 145.51(a)(1)-I do RBAC nº 145 estabelece que
+  a OM deve elaborar uma declaração de conformidade. A declaração de conformidade relaciona
+  cada requisito dos RBAC nº 43 e 145, aplicáveis à OM, e endereça em que parte dos manuais
+  a OM descreve como cumpre com tais requisitos. A ANAC considera a declaração de conformidade
+  uma boa prática derivada da indústria e tem o objetivo de simplificar o trabalho da OM.
+  A declaração pode ser uma tabela que demonstre o requisito e o seu meio de cumprimento.
+  Um modelo de declaração de conformidade aceitável pela ANAC pode ser encontrado no formulário
+  F-143-40 na página de formulários padronizados no endereço eletrônico:
+
+  https://www.gov.br/anac/pt-br/assuntos/regulados/organizacoes-de-manutencao/formularios-padronizados.
+
+  5.2.5 Submissão do Manual: o requerente/OM deve submeter os manuais no formato estabelecido
+  pela ANAC por meio do sistema eletrônico disponibilizado pela Agência. Ao submeter o manual
+  por meio eletrônico, é desejável que o documento apresentado permita a pesquisa de palavras
+  em seu texto. A OM deve seguir os procedimentos descritos no seu manual quando submeter
+  revisões ao manual existente. (Ver subseção 5.3 desta IS, Revisão e controle do manual).
+
+  5.2.6 Conteúdo Requerido: os requisitos regulatórios básicos para o conteúdo do manual estão
+  listados abaixo, e são discutidos em detalhe nas seções seguintes desta IS:'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- manual
+- pode
+- procedimentos
+- controle
+- revisao
+- declaracao
+- manuais
+- qualidade
+- sistema
+- categoria
+- conformidade
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

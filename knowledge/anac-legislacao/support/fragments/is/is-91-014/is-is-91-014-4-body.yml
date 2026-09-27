@@ -1,0 +1,92 @@
+id: is-is-91-014-4-body
+kind: is
+document: is-91-014
+family: '91'
+section_id: '4'
+section_title: Apresentação e análise dos resultados
+subsection_id: body
+cite: '4'
+title: Apresentação e análise dos resultados
+text: '4. Apresentação e análise dos resultados
+
+
+  Com base nas informações coletadas sobre a pista do aeródromo e nos dados de desempenho
+  indicados no AFM do modelo de aeronave em questão, indicar:
+
+  - O fator pretendido a ser empregado no cálculo do comprimento efetivo de pista requerido
+  para pouso; e
+
+  - Os comprimentos de pista requeridos para pouso completo do modelo de aeronave no aeródromo
+  (descrever a situação considerada no estudo: peso de pouso previsto, condição da pista,
+  condições específicas consideradas na operação, etc.).
+
+  Considerar, ao menos, os fatores de correção devido à elevação em relação ao nível do mar,
+  temperatura de referência e outros que se façam importantes segundo análise do operador,
+  que impactam no comprimento de pista requerido para pouso.
+
+
+  Exemplo para síntese da apresentação dos resultados (Tabela 1) - o operador poderá customizar
+  a apresentação dos resultados da forma que melhor representar sua realidade operacional
+  e as especificidades de suas operações. Poderá ainda conter figuras, gráficos e outros elementos.
+
+
+  Tabela 1 - Estudo da operação na pista VVVV do aeródromo XXXX com a aeronave modelo YYYY
+
+  Comp. da pista (m)
+
+  Largura da pista (m)
+
+  Temp. de referência
+
+  Condição da pista
+
+  Peso considerado no Pouso
+
+  Material da pista / PCN
+
+  Altitude (m)
+
+  Declividade longitudinal da pista (greide)
+
+  LDA (m)
+
+  Comp. de pista para pouso completo (m)
+
+  ...
+
+  ...
+
+  ...
+
+  ...
+
+  ...
+
+  ...
+
+  ...
+
+
+  ...
+
+  ...'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- pista
+- pouso
+- apresentacao
+- resultados
+- analise
+- aerodromo
+- aeronave
+- modelo
+- comp
+- completo
+- comprimento
+- condicao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-014.md

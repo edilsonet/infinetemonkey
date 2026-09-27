@@ -1,0 +1,82 @@
+id: is-is-21-010-5-5-10-b
+kind: is
+document: is-21-010
+family: '21'
+section_id: 5.5.10
+section_title: 'At least the following documents are also required for each delivered aircraft:'
+subsection_id: b
+cite: 5.5.10(b)
+title: 5.5.10(b)
+text: 'b) Aircraft with a Brazilian type certificate, with a major change approved through
+  a supplemental type certificate (or equivalent document) issued in the United States of
+  America, Canada or European Union, provided that records show that this change has been
+  incorporated, in this same aircraft, for more than:
+
+  I - 6.000 horas de voo, se helicóptero com 10 ou mais assentos para passageiros, ou avião
+  a ser operado segundo o RBAC 121; ou
+
+  I - 6,000 flight hours, for helicopter having 10 or more passenger seats, or airplane to
+  be operated under RBAC 121; or
+
+  II - 600 horas de voo, para as outras aeronaves.
+
+  II- 600 flight hours, for other aircraft.
+
+  5.6.2 O critério descrito no parágrafo 5.6.1 não se aplica aos casos em que o CST for referente
+  à troca de tipo de combustível ou à troca por motores e/ou hélices que não possuem CT brasileiro
+  ou não estão isentos de certificação de tipo no Brasil. Nestes casos, deverá haver validação
+  do CT da hélice e do motor e consequente validação do CST.
+
+  5.6.2 The criterion described in paragraph 5.6.1 does not apply to cases in which the supplemental
+  type certificate refers to fuel type exchange or to engines and/or propellers exchange to
+  ones that do not have the Brazilian type certificate or are not exempt from the type certificate
+  in Brazil. In these cases, there shall be validation of the type certificate of the propeller
+  and engine and consequently validation of the supplemental type certificate.
+
+  5.6.3 É importante destacar que a aceitação descrita no parágrafo 5.6.1 se limita à aeronave
+  na qual a grande modificação está instalada. A mesma grande modificação instalada (ou a
+  ser instalada) em outras situações não descritas no critério acima deverá ser validada no
+  Brasil.
+
+  5.6.3 It is important to feature that the acceptance described in this paragraph 5.6.1 is
+  limited to the aircraft in which the major change is installed. The same major change, installed
+  (or to be installed) in other situations not described in the above criterion shall be validated
+  in Brazil.
+
+  5.6.4 As demais modificações realizadas com aprovação estrangeira, usando dados técnicos
+  aprovados ou aceitáveis, não cobertas pelos parágrafos 5.2.5 ou 5.6.1, podem ser aceitas
+  durante a Vistoria Técnica Inicial - VTI, a menos que, dentro do conhecimento da ANAC, se
+  identifique algo que contrarie as regras de segurança de voo.
+
+  5.6.4 Other modifications performed with foreign approval, using approved or acceptable
+  technical data, not included in paragraphs 5.2.5 or 5.6.1, may be accepted during the initial
+  airworthiness inspection, unless there is an identification of non-compliance with, within
+  ANAC knowledge, the safety rules.
+
+  5.7 Procedimentos para marcação de OTP ou aprovação da ANAC para projeto de artigos TSO/ETSO
+  (ou documento equivalente)
+
+  5.7 Procedures for OTP Marking or ANAC Design Approval for TSO/ETSO (or equivalent document)
+  articles'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- type
+- certificate
+- aircraft
+- change
+- that
+- with
+- described
+- instalada
+- installed
+- major
+- other
+- supplemental
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

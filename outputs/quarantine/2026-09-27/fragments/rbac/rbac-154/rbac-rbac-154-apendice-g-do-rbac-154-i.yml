@@ -1,0 +1,129 @@
+id: rbac-rbac-154-apendice-g-do-rbac-154-i
+kind: rbac
+document: rbac-154
+family: '154'
+section_id: apendice-g-do-rbac-154
+section_title: APÊNDICE G DO RBAC 154
+subsection_id: i
+cite: apendice-g-do-rbac-154(i)
+title: apendice-g-do-rbac-154(i)
+text: '(i) Tipo de operação. Deve ser considerado, em particular, se o aeródromo será utilizado
+  sob
+
+  todas as condições meteorológicas ou somente sob condições meteorológicas visuais e se o
+
+  aeródromo destinar-se-á ao uso diurno e noturno, ou somente diurno.
+
+  (ii) Condições climatológicas. Um estudo da distribuição de ventos deve ser feito para
+
+  determinar o fator de utilização. Com relação a esse assunto, os seguintes aspectos devem
+  ser levados
+
+  em consideração:
+
+  (A) Os dados estatísticos sobre os ventos, utilizados para o cálculo do fator de utilização,
+
+  estão normalmente disponíveis em faixas de velocidade e direção, e a acurácia dos resultados
+  obtidos
+
+  depende, em grande parte, da distribuição das observações assumidas dentro dessas faixas.
+  Na
+
+  ausência de qualquer informação segura, como sobre a real distribuição, deve-se assumir
+  uma
+
+  distribuição uniforme, desde que, em relação às orientações de pista mais favoráveis, isso
+  resulte em
+
+  um valor de fator de utilização discretamente conservativo.
+
+  (B) Os componentes máximos de ventos médios de través apresentados no parágrafo
+
+  G.1(a)(4) se referem a circunstâncias normais. Existem alguns fatores que podem exigir que
+  uma
+
+  redução desses valores máximos seja considerada em um aeródromo em particular. Esses fatores
+
+  incluem:
+
+  1. as grandes variações que podem existir nas características de tratamento e
+
+  componentes máximos permissíveis de vento de través, entre vários tipos de aeronaves (inclusive
+
+  tipos futuros) dentro de cada um dos três grupos mostrados no parágrafo G.1(a)(4);
+
+  2. predominância e natureza das rajadas;
+
+  3. predominância e natureza de turbulência;
+
+  4. a disponibilidade de uma pista de pouso e decolagem secundária;
+
+
+  Data da emissão: 16 de junho de 2021.
+
+
+  5. a largura das pistas de pouso e decolagem
+
+  6. as condições da superfície da pista de pouso e decolagem - a presença de água e
+
+  gelo na pista de pouso e decolagem reduz substancialmente o componente permissível de vento
+  de
+
+  través; e
+
+  7. a força do vento, associada ao componente de vento de través limitante.
+
+  Deve ser feito um estudo sobre a ocorrência de baixa visibilidade e/ou presença de nuvens
+  de base
+
+  baixa. Deve ser considerada a frequência, bem como a direção e a velocidade do vento.
+
+  (iii) Topografia do local do aeródromo, suas aproximações e vizinhanças, em particular:
+
+  (A) conformidade com as superfícies limitadoras de obstáculos;
+
+  (B) uso atual e futuro do solo. A orientação e o layout devem ser selecionados de modo
+
+  a proteger ao máximo possível as áreas particularmente sensíveis, tais como zonas residenciais,
+
+  escolas e hospitais, contra o desconforto causado pelo ruído das aeronaves.
+
+  (C) comprimentos atuais e futuros da pista de pouso e decolagem;
+
+  (D) custos com a construção; e
+
+  (E) possibilidade de instalação de auxílios visuais e não visuais adequados para
+
+  aproximação.
+
+  (iv) Tráfego aéreo no entorno do aeródromo, em particular:
+
+  (A) proximidade de outros aeródromos ou rotas ATS;
+
+  (B) densidade do tráfego; e
+
+  (C) controle do tráfego aéreo e procedimentos de aproximação perdida.
+
+  (4) Escolha de componentes máximos permissíveis de vento de través
+
+  Deve ser assumido que o pouso ou decolagem de aeronaves são, em circunstâncias normais,
+
+  comprometidos, quando o componente de vento de través exceder:'
+keywords:
+- seguranca-aeroportuaria
+- vento
+- decolagem
+- pouso
+- traves
+- aerodromo
+- pista
+- condicoes
+- distribuicao
+- maximos
+- particular
+- aeronaves
+- componente
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-154.md

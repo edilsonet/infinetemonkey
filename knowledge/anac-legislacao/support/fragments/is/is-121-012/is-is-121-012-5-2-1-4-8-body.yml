@@ -1,0 +1,70 @@
+id: is-is-121-012-5-2-1-4-8-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: 5.2.1.4.8
+section_title: Desvio para alternativa.
+subsection_id: body
+cite: 5.2.1.4.8
+title: Desvio para alternativa.
+text: '5.2.1.4.8 Desvio para alternativa.
+
+  5.2.1.4.8.1 Durante uma operação ETOPS, um desvio pode ocorrer por outros motivos além de
+  parada de motor ou falhas de sistemas, tais como emergências médicas, fogo a bordo ou despressurização.
+  A natureza da emergência e as suas possíveis consequências para o avião, os passageiros
+  e a tripulação determinarão a linha de ação mais adequada a cada contingência específica.
+  A tripulação de voo deve decidir a melhor linha de ação baseada nas informações disponíveis.
+  Os aeródromos de alternativa ETOPS requeridos pela seção 121.624 do RBAC nº 121 e listados
+  no plano de voo fornecem uma opção ao piloto em comando. Entretanto, a autoridade do piloto
+  em comando não é limitada por tais opções e podem ser utilizados outros aeródromos disponíveis,
+  desde que justificadamente.
+
+  5.2.1.4.8.2 Igualmente, as velocidades utilizadas podem ser diferentes da utilizada no planejamento.
+  Por exemplo, para o caso de desvio para alternativa em razão de emergências médicas, pode
+  ser utilizada uma velocidade mais alta e o desvio para um aeródromo mais próximo, de forma
+  a diminuir o tempo até o pouso. Devem ser consideradas, no entanto, as consequências dessas
+  decisões, de forma a não comprometer a segurança da operação em outros aspectos (por exemplo,
+  na garantia do combustível reserva e na execução do pouso no aeródromo escolhido).
+
+  5.2.1.4.8.3 Pode ser necessário especificar procedimentos para pouso com o avião mais pesado
+  que o normal, em razão de o desvio para a alternativa poder ocorrer em pontos da rota em
+  que o avião ainda possui muito combustível. Outro procedimento que pode ser útil para tal
+  situação é o alijamento de combustível, se aplicável (vide parágrafo 5.2.1.2.4.3.2 desta
+  IS).
+
+  5.2.1.4.9 Gestão de combustível. O detentor de certificado deve estabelecer procedimentos
+  de gestão de combustível durante o voo em rota, conforme a seção 121.648 do RBAC nº 121.
+  Tais procedimentos devem prover uma verificação cruzada independente dos indicadores de
+  quantidade de combustível, por exemplo, comparando o total de combustível no início do voo
+  subtraído do combustível efetivamente consumido com a quantidade de combustível remanescente
+  indicada no planejamento.
+
+  5.2.1.4.9.1 Ao identificar discrepâncias entre o combustível remanescente real e o combustível
+  remanescente planejado, a gestão de combustível deve levar em consideração as razões para
+  tais discrepâncias, como as diferenças de altitude, peso e horário previsto de pouso em
+  relação ao planejado.
+
+  5.2.1.4.10 Os requisitos de desempenho dos aviões (Subparte I do RBAC nº 121), particularmente
+  os requisitos de separação do terreno após falha de motor, e de suprimento de oxigênio a
+  bordo (121.333) devem ser observados durante o voo. No entanto, não há procedimentos especificamente
+  aplicáveis a voo ETOPS referentes a esses requisitos.'
+keywords:
+- transporte-aereo
+- operacoes
+- combustivel
+- desvio
+- alternativa
+- pode
+- pouso
+- procedimentos
+- tais
+- aviao
+- durante
+- etops
+- exemplo
+- gestao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

@@ -1,0 +1,44 @@
+id: is-is-21-005-introducao-i
+kind: is
+document: is-21-005
+family: '21'
+section_id: introducao
+section_title: Introdução
+subsection_id: i
+cite: introducao(i)
+title: introducao(i)
+text: '(i) definição da base de certificação;
+
+  (ii) descrição do artigo cuja aprovação é pretendida e dos números de parte que constituem
+  o artigo;
+
+  (iii) a apresentação da lista de verificação de cumprimento de requisitos, indicando para
+  cada um dos requisitos aplicáveis, a forma de cumprimento (por ensaio, análise, cálculo
+  etc.), o título, a versão, a seção e o número do documento de substanciação correspondente
+  (relatório, desenho, especificação etc.). Tais documentos devem ser colocado à disposição
+  da ANAC para análise quando solicitado;
+
+  (iv) Quando aplicável, indicação do conjunto final (aeronave, motor ou hélice) onde o artigo
+  deverá ser instalado, usado ou aplicado (RBAC 21, Subparte K apenas);'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- artigo
+- analise
+- cumprimento
+- introducao
+- requisitos
+- aeronave
+- aplicado
+- aplicaveis
+- aplicavel
+- apresentacao
+- aprovacao
+- base
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-005.md

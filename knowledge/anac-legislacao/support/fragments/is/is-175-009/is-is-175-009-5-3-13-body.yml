@@ -1,0 +1,47 @@
+id: is-is-175-009-5-3-13-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.13
+section_title: O campo “Número operacional do CT-e” deve ser preenchido com o número de controle
+subsection_id: body
+cite: 5.3.13
+title: O campo “Número operacional do CT-e” deve ser preenchido com o número de controle
+text: '5.3.13 O campo “Número operacional do CT-e” deve ser preenchido com o número de controle
+
+  comumente utilizado pelo conhecimento aéreo composto por uma sequência numérica de
+
+  onze dígitos. Os três primeiros dígitos representam um código que os operadores de
+
+  transporte aéreo associados à IATA possuem. Em seguida um número de série de sete
+
+  dígitos determinados pelo operador de tansporte aéreo. Para finalizar, um dígito
+
+  verificador, que é um sistema de módulo sete imponderado, o qual divide o número de
+
+  série do conhecimento aéreo por sete e usa o resto como dígito de verificação.Data de emissão:
+  15 de março de 2021
+
+  IS nº 175-009
+
+  Revisão B'
+keywords:
+- artigos-perigosos
+- carga
+- numero
+- aereo
+- campo
+- controle
+- digitos
+- operacional
+- preenchido
+- sete
+- conhecimento
+- digito
+- serie
+- associados
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

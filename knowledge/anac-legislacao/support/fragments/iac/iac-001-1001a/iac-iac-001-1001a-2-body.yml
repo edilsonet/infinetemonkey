@@ -1,0 +1,27 @@
+id: iac-iac-001-1001a-2-body
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: '2'
+section_title: Página 2
+subsection_id: body
+cite: '2'
+title: Página 2
+text: '2. Página 2
+
+  Acrescentar nos cantos esquerdo e direito superiores,
+
+  respectivamente: “IAC 001-1001B” e “2005”.'
+keywords:
+- pagina
+- 1001b
+- acrescentar
+- cantos
+- direito
+- esquerdo
+- respectivamente
+- superiores
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

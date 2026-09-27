@@ -1,0 +1,50 @@
+id: is-is-91-001-h4-3-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H4.3
+section_title: Durante a inicialização do sistema os pilotos devem confirmar que a base de
+  dados de navegação está vigente e verificar a posição correta da aeronave. Os pilotos também
+  devem verificar se a rota atribuída pelo ATC foi ingressada corretamente quando a autorização
+  foi recebida originalmente e em caso de um desvio de rota posterior. Os pilotos devem então
+  assegurar que as sequências dos pontos de referência representados no sistema de navegação
+  coincidam com a rota representada nas cartas correspondentes e rota atribuída.
+subsection_id: body
+cite: H4.3
+title: Durante a inicialização do sistema os pilotos devem confirmar que a base de dados de
+  navegação está vigente e verificar a posição correta da aeronave. Os pilotos também devem
+  verificar se a rota atribuída pelo ATC foi ingressada corretamente quando a autorização
+  foi recebida originalmente e em caso de um desvio de rota posterior. Os pilotos devem então
+  assegurar que as sequências dos pontos de referência representados no sistema de navegação
+  coincidam com a rota representada nas cartas correspondentes e rota atribuída.
+text: 'H4.3 Durante a inicialização do sistema os pilotos devem confirmar que a base de dados
+  de navegação está vigente e verificar a posição correta da aeronave. Os pilotos também devem
+  verificar se a rota atribuída pelo ATC foi ingressada corretamente quando a autorização
+  foi recebida originalmente e em caso de um desvio de rota posterior. Os pilotos devem então
+  assegurar que as sequências dos pontos de referência representados no sistema de navegação
+  coincidam com a rota representada nas cartas correspondentes e rota atribuída.
+
+  Nota: os pilotos podem observar uma pequena diferença entre a informação de navegação contida
+  na carta e a navegação primária. As diferenças de três (3) graus ou menos podem ser o resultado
+  da influência da variação magnética do fabricante do equipamento, e são operacionalmente
+  aceitáveis.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rota
+- pilotos
+- navegacao
+- atribuida
+- sistema
+- verificar
+- aeronave
+- assegurar
+- autorizacao
+- base
+- cartas
+- caso
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

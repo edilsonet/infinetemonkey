@@ -1,0 +1,46 @@
+id: is-is-135-008a-5-9-4-a
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.9.4
+section_title: 'Os procedimentos e responsabilidades normais devem incluir, pelo menos:'
+subsection_id: a
+cite: 5.9.4(a)
+title: 5.9.4(a)
+text: 'a) procedimentos pré-voo:
+
+  I - condições técnicas da aeronave (MEL);
+
+  II - database EFB/FMS/GNSS;
+
+  III - NOTAM;
+
+  IV - meteorologia;
+
+  V - navegação e combustível requerido;
+
+  VI - inspeção externa;
+
+  VII - briefing aos passageiros; e
+
+  VIII - análise de performance requerida para decolagem;'
+keywords:
+- taxi-aereo
+- operacoes
+- procedimentos
+- aeronave
+- analise
+- briefing
+- combustivel
+- condicoes
+- database
+- decolagem
+- externa
+- gnss
+- incluir
+- inspecao
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

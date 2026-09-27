@@ -1,0 +1,63 @@
+id: is-is-121-020-5-3-2-body
+kind: is
+document: is-121-020
+family: '121'
+section_id: 5.3.2
+section_title: Aeródromos do Grupo B
+subsection_id: body
+cite: 5.3.2
+title: Aeródromos do Grupo B
+text: '5.3.2 Aeródromos do Grupo B
+
+  5.3.2.1 Para operação que tenha como destino ou alternativa aeródromo do Grupo B, em adição
+  ao requerido para aeródromos do Grupo A, o operador deve previamente qualificar os pilotos
+  em comando de forma a assegurar que tenham conhecimento das especificidades e características
+  relevantes à operação no respectivo aeródromo antes de iniciar a operação.
+
+  5.3.2.2 A qualificação dos pilotos em comando deve se dar por meio de instrução teórica
+  e deve ser registrada. A instrução teórica deve incluir informações pictóricas da operação
+  no aeródromo específico e pode ser ministrada na modalidade à distância, em formato de briefing
+  organizado (self-briefing).
+
+  Nota: o operador pode organizar as informações a seu critério, por exemplo, agrupando informações
+  de um ou mais aeródromos com determinada característica (dentre os critérios elencados nos
+  parágrafos 5.2.1(b) e (c) desta IS), desde que haja informação sobre cada aeródromo específico
+  ao qual a qualificação se aplica.
+
+  5.3.2.3 O registro deve permitir conhecer quais são os aeródromos para os quais o piloto
+  está qualificado e deve ser recuperável para controle próprio do operador, e para eventual
+  apresentação à ANAC mediante solicitação. No caso de uso do formato de self-briefing, é
+  aceitável que o registro consista da confirmação de leitura do material pelo piloto. É aceitável
+  que o registro seja mantido juntamente com os demais registros de treinamento do respectivo
+  piloto em comando conforme requerido pela seção 121.683 do RBAC nº 121 e detalhado na IS
+  nº 121-006.
+
+  5.3.2.4 A qualificação de pilotos em comando em aeródromos do Grupo B tem validade de 12
+  meses. A qualificação pode ser renovada ou recuperada por meio da operação no respectivo
+  aeródromo como membro da tripulação requerida ou como observador, ou por meio da repetição
+  da instrução programada - sendo que, para recuperação, a atuação como piloto em comando
+  somente pode ocorrer se o piloto segundo em comando tiver realizado uma operação nesse aeródromo
+  (incluindo pouso e decolagem), enquanto trabalhando como piloto do avião, dentro dos 12
+  meses precedentes. O operador deve implementar um controle da validade dessas qualificações
+  de forma a impedir a operação de pilotos em comando em aeródromos para os quais não estejam
+  com qualificação válida.'
+keywords:
+- transporte-aereo
+- operacoes
+- aerodromos
+- comando
+- operacao
+- aerodromo
+- grupo
+- piloto
+- qualificacao
+- operador
+- pilotos
+- pode
+- briefing
+- informacoes
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-020.md

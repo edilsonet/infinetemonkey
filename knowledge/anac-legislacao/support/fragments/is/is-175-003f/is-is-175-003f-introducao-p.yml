@@ -1,0 +1,37 @@
+id: is-is-175-003f-introducao-p
+kind: is
+document: is-175-003f
+family: '175'
+section_id: introducao
+section_title: Introdução
+subsection_id: p
+cite: introducao(p)
+title: introducao(p)
+text: 'p) 99 - outro. Nesse caso, deve-se especificar no campo observações.
+
+  O preenchimento do campo descrito em 5.3.23 ocorre de forma numérica no CT-e; entretanto,
+  o DACTE deve ser impresso com o texto completo. O texto completo deve estar disposto no
+  campo observações ou outro local adequado de acordo com a necessidade do operador aéreo.
+
+  O grupo de “informações de tarifa” é composto por três campos. O primeiro é para referenciar
+  qual é a “classe” da tarifa, a qual deve ser prenchida da seguinte forma:'
+keywords:
+- artigos-perigosos
+- carga
+- campo
+- completo
+- forma
+- introducao
+- observacoes
+- outro
+- qual
+- tarifa
+- texto
+- acordo
+- adequado
+- aereo
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-003f.md

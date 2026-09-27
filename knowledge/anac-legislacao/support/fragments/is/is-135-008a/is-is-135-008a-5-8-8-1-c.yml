@@ -1,0 +1,40 @@
+id: is-is-135-008a-5-8-8-1-c
+kind: is
+document: is-135-008a
+family: '135'
+section_id: 5.8.8.1
+section_title: 'O desempenho do monitoramento pode ser significativamente melhorado por meio
+  de:'
+subsection_id: c
+cite: 5.8.8.1(c)
+title: 5.8.8.1(c)
+text: 'c) execução pelos pilotos dos SOP e estratégias constantes nesta IS.
+
+  5.8.8.2 Se não foram concebidos de forma adequada, alguns SOP podem até prejudicar o monitoramento
+  eficaz. Por exemplo, um operador que demandou um anúncio no sistema de áudio da aeronave
+  quando subindo e descendo pela altitude de 10.000 pés. Essa exigência teve o efeito não
+  intencional de “dividir a cabine de comando” em um momento em que alterações de frequência
+  e novas autorizações de altitude eram prováveis. Quando o operador reviu seus procedimentos,
+  ele percebeu que esse procedimento não contribuía para ter ambos os pilotos “no circuito”
+  em um ponto crítico, e, consequentemente, decidiu eliminá-lo. Os operadores devem rever
+  os SOP existentes e modificar aqueles que podem prejudicar o monitoramento.'
+keywords:
+- taxi-aereo
+- operacoes
+- monitoramento
+- altitude
+- operador
+- pilotos
+- podem
+- prejudicar
+- adequada
+- aeronave
+- alguns
+- alteracoes
+- ambos
+- anuncio
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-008a.md

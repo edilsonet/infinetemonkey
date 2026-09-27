@@ -1,0 +1,48 @@
+id: is-is-154-5-001-desenvolvimento-do-assunto-body
+kind: is
+document: is-154-5-001
+family: '154'
+section_id: desenvolvimento-do-assunto
+section_title: desenvolvimento do assunto
+subsection_id: body
+cite: desenvolvimento-do-assunto
+title: desenvolvimento do assunto
+text: 'desenvolvimento do assunto
+
+  O RBAC 154 traz requisitos para o projeto de aeródromos, sendo este também utilizado como
+  referência para o processo de certificação operacional de aeroportos, conforme estabelece
+  a seção 154.601.
+
+  Dos requisitos do RBAC 154, merecem destaque, para fins de aplicação da presente IS, os
+  requisitos relacionados à “subparte C - Características Físicas”, tendo em vista que a adequação
+  de uma infraestrutura a estes requisitos tende a ser mais onerosa ao operador de aeródromo
+  (em termos de custo e de tempo necessário para a adequação ao requisito).
+
+  Ainda, dentre os requisitos de características físicas, merecem destaque os requisitos de
+  dimensões de faixa de pista (e, consequentemente, de separação entre pista de pouso e decolagem
+  e pista de táxi) e de RESA, cuja adequação depende, em muitos casos, de desapropriação de
+  áreas no entorno do aeródromo, e por isso, orientações mais específicas constam nos apêndices
+  ao presente documento.
+
+  A seguir, apresenta-se uma proposta de estrutura para a análise de risco, ressaltando-se
+  que, dependendo da característica da não conformidade, um ou mais itens dessa estrutura,
+  que sejam ou não pertinentes ao problema específico, poderão ser acrescentados ou suprimidos
+  à petição pelo operador de aeródromo:'
+keywords:
+- seguranca-aeroportuaria
+- requisitos
+- adequacao
+- aerodromo
+- assunto
+- desenvolvimento
+- pista
+- caracteristicas
+- destaque
+- estrutura
+- fisicas
+- merecem
+- operador
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-154-5-001.md

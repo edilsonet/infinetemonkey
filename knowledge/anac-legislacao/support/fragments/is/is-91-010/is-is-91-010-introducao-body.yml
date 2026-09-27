@@ -1,0 +1,45 @@
+id: is-is-91-010-introducao-body
+kind: is
+document: is-91-010
+family: '91'
+section_id: introducao
+section_title: INTRODUÇÃO
+subsection_id: body
+cite: introducao
+title: INTRODUÇÃO
+text: 'INTRODUÇÃO
+
+  5.1 Data Link (ou enlace de dados) é um termo que identifica genericamente diversos recursos
+  tecnológicos que permitem a ligação remota de dois ou mais dispositivos para fins de troca
+  de dados. Na aviação moderna, existem diversas aplicações para sistemas que suportam troca
+  de dados via Data Link.
+
+  5.2 Esta Instrução Suplementar tem por escopo estabelecer procedimentos para obtenção de
+  autorização operacional para o uso da tecnologia de Data Link para as seguintes aplicações:
+  a) Comunicação por enlace de dados controlador-piloto (CPDLC); e b) Vigilância dependente
+  automática - Contrato (ADS-C).
+
+  5.3 Outras aplicações de sistemas de Data Link na aviação encontram-se fora do escopo desta
+  IS.
+
+  5.4 CPDLC e ADS-C'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- dados
+- data
+- link
+- aplicacoes
+- introducao
+- aviacao
+- cpdlc
+- enlace
+- escopo
+- sistemas
+- troca
+- automatica
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

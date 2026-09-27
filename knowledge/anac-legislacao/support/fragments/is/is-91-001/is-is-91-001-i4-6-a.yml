@@ -1,0 +1,36 @@
+id: is-is-91-001-i4-6-a
+kind: is
+document: is-91-001
+family: '91'
+section_id: I4.6
+section_title: Intervenções do controle de tráfego aéreo na área terminal podem incluir vetoração
+  radar, a interceptação de um segmento inicial ou intermediário de uma aproximação, autorizações
+  “direto para” (“direct to”) que fazem com que não sejam executados os segmentos iniciais
+  do procedimento, ou a inserção de waypoints carregados diretamente do banco de dados da
+  aeronave. Ao seguir as instruções do tráfego aéreo, a tripulação deve estar ciente das implicações
+  dos sistemas RNP.
+subsection_id: a
+cite: I4.6(a)
+title: I4.6(a)
+text: a) A inserção manual de coordenadas nos sistemas RNAV por parte da tripulação não é
+  permitida para operações em área terminal.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aereo
+- area
+- insercao
+- sistemas
+- terminal
+- trafego
+- tripulacao
+- aeronave
+- aproximacao
+- autorizacoes
+- banco
+- carregados
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

@@ -1,0 +1,64 @@
+id: is-is-135-006-4-1-1-d
+kind: is
+document: is-135-006
+family: '135'
+section_id: 4.1.1
+section_title: 'Ambiente hostil significa um ambiente em que:'
+subsection_id: d
+cite: 4.1.1(d)
+title: 4.1.1(d)
+text: 'd) há um risco inaceitável de pôr em perigo pessoas ou propriedades no solo.
+
+  4.1.2 Plano operacional de voo significa o plano do operador para a condução segura do voo,
+  considerando o desempenho da aeronave, outras limitações operacionais e as condições relevantes
+  esperadas na rota e nos aeródromos envolvidos.
+
+  4.2 Lista de abreviaturas:
+
+  ANAC - Agência Nacional de Aviação Civil
+
+  DA/H - Decision altitude/height (altitude/altura de decisão)
+
+  EO - Especificações operativas
+
+  ETOPS - Extended operations (operações prolongadas)
+
+  IFR - Instrument flight rules (regras de voo por instrumentos)
+
+  IS - Instrução Suplementar
+
+  MDA/H - Minimum descent altitude/height (altitude/altura mínima de descida)
+
+  PNR - Ponto de não retorno
+
+  RBAC - Regulamento Brasileiro da Aviação Civil
+
+  RVR - Runway visual range (alcance visual de pista)
+
+  SPO - Superintendência de Padrões Operacionais
+
+  TAF - Terminal aerodrome forecast (previsão de aeródromo)
+
+  VMC - Visual meteorological conditions (condições meteorológicas de voo visual)
+
+  VFR - Visual flight rules (regras de voo visual)'
+keywords:
+- taxi-aereo
+- operacoes
+- visual
+- altitude
+- altura
+- ambiente
+- aviacao
+- civil
+- condicoes
+- flight
+- height
+- operacionais
+- plano
+- regras
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

@@ -1,0 +1,36 @@
+id: is-is-175-009-5-3-14-body
+kind: is
+document: is-175-009
+family: '175'
+section_id: 5.3.14
+section_title: O campo “Chave de acesso do CT-e” deve ser preenchido com a chave de acesso
+  do CT-
+subsection_id: body
+cite: 5.3.14
+title: O campo “Chave de acesso do CT-e” deve ser preenchido com a chave de acesso do CT-
+text: '5.3.14 O campo “Chave de acesso do CT-e” deve ser preenchido com a chave de acesso
+  do CT-
+
+  e, contendo 44 dígitos. Quando o transporte for internacional, o campo deve ser
+
+  preenchido com “N/A”. Não pode haver espaços ou hífens.'
+keywords:
+- artigos-perigosos
+- carga
+- acesso
+- chave
+- campo
+- preenchido
+- contendo
+- digitos
+- espacos
+- haver
+- hifens
+- internacional
+- pode
+- transporte
+categories:
+- artigos-perigosos
+- carga
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-175-009.md

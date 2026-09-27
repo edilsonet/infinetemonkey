@@ -1,0 +1,87 @@
+id: is-is-21-001-5-4-11-7-d
+kind: is
+document: is-21-001
+family: '21'
+section_id: 5.4.11.7
+section_title: 5.4.11.7
+subsection_id: d
+cite: 5.4.11.7(d)
+title: 5.4.11.7(d)
+text: '(d) Severidade: A severidade é determinada pelo resultado de uma avaliação do impacto
+  potencial de uma falha em não cumprir com uma parte dos requisitos da base de certificação
+  frente à segurança ou à proteção ambiental do produto.
+
+  C.7 A determinação do ADC deve considerar o escopo e tamanho do projeto de certificação.
+  Em projetos mais simples, os ADC podem endereçar todas as atividades e dados em uma dada
+  disciplina técnica (por exemplo, aviônica, desempenho, estruturas, sistemas hidromecânicos)
+  ou no projeto como um todo.
+
+  C.8 Um ADC não deve ser tão grande que, por combinação com outras atividades não relacionadas,
+  torne-se sem significado. De forma análoga, não deve ser tão pequeno que não possa ser considerado
+  isoladamente em relação a outras atividades.
+
+  C.9 A determinação dos ADC será feita pela ANAC. A fim de auxiliar a determinação de NDE
+  pela ANAC, o requerente poderá sugerir uma divisão em ADC, pois um ADC adequado facilitará
+  a análise do plano de certificação quanto aos critérios de novidade, complexidade e severidade.
+  A ANAC poderá utilizar esta divisão sugerida pelo requerente na íntegra ou determinar sua
+  própria divisão, não havendo, portanto, necessidade de novas ações do requerente no que
+  tange aos ADC.
+
+  C.10 No processo de determinação do Nível de Envolvimento, a novidade poderá estar ou não
+  presente no ADC, o qual, por sua vez, será classificado como complexo ou não-complexo. A
+  competência do requerente será classificada como alta, média ou baixa, conquanto a severidade
+  será classificada como crítica ou não-crítica.
+
+  C.11 O uso de Pessoas Credenciadas, física ou jurídica, em um determinado ADC tende a reduzir
+  a probabilidade da falha na identificação de um não cumprimento e, assim, reduzir o nível
+  de envolvimento da ANAC. O mesmo efeito ocorre quando o requerente é uma Organização Certificada
+  de Projeto atuando dentro dos seus termos de certificação, ou se o requerente possui processos
+  ou metodologias estruturados de demonstração de determinado requisito já reconhecidos previamente
+  pela ANAC.
+
+  C.12 O resultado da análise é uma classe de risco, sendo que a menor representa um envolvimento
+  mínimo da ANAC e a maior representa um envolvimento máximo da ANAC.
+
+  NOTA: Quando a definição de uma classe de risco for baseada na indicação da participação
+  de Profissional Credenciado, é possível otimizar o uso desse profissional no nível de uma
+  tarefa específica. De fato, não é esperado que a ANAC e o Profissional Credenciado participem
+  da mesma atividade (por exemplo, revisão de informações de demonstração, ensaio ou inspeções
+  no âmbito de sua investigação) e portanto, o Profissional Credenciado, ainda que inicialmente
+  previsto, pode não ser mais envolvido em atividades específicas que a ANAC tenha decidido
+  participar. Nesses casos recomenda-se que a ANAC e o requerente interajam para alinhar estas
+  participações.
+
+
+  APÊNDICE D - TERMINOLOGIA PARA INFORMAÇÕES DE DEMONSTRAÇÃO
+
+
+  D.1 Este Apêndice contém uma terminologia para os pareceres da ANAC quanto a informações
+  de demonstração, com a finalidade de promover a uniformidade e assim mitigar as falhas de
+  comunicação.
+
+  D.2 Uma vez que a ANAC receba o registro contendo as informações de demonstração, quatro
+  situações podem ocorrer conforme será explicado na sequência.
+
+  D.3 Porém, antes de tudo, para fins desta terminologia define-se uma informação de demonstração
+  válida como aquela que atende simultaneamente os seguintes quesitos:'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- requerente
+- demonstracao
+- atividades
+- determinacao
+- envolvimento
+- informacoes
+- profissional
+- severidade
+- credenciado
+- divisao
+- nivel
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-001.md

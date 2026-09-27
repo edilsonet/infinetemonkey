@@ -1,0 +1,45 @@
+id: is-is-91-012-1-4-1-12-body
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 4.1.12
+section_title: 'Itens em excesso: itens instalados de forma redundante aos requeridos pelos
+  RBAC aplicáveis.'
+subsection_id: body
+cite: 4.1.12
+title: 'Itens em excesso: itens instalados de forma redundante aos requeridos pelos RBAC aplicáveis.'
+text: '4.1.12 Itens em excesso: itens instalados de forma redundante aos requeridos pelos
+  RBAC aplicáveis.
+
+  4.1.13 MEL para uma frota: MEL desenvolvida por um operador para diversas aeronaves de sua
+  frota, sem especificar as marcas de nacionalidade e de matrícula de cada aeronave à qual
+  a MEL é aplicável, desde que as aeronaves sejam de modelos abrangidos pela mesma MMEL.
+
+  4.1.14 Nota: no campo de observações e exceções da MEL, uma nota fornece informação adicional
+  para consideração do pessoal de operações ou de manutenção do operador, com objetivo de
+  orientar o uso da MEL, sem impor condições ou limitações à operação.
+
+  4.1.15 Políticas (policies) de MEL: padrões e práticas aceitáveis, publicadas pela Anac,
+  para a liberação de certos itens da MEL, conforme previsto na IS nº 21.61-005.
+
+  Nota: as políticas de MEL da Anac serão disponibilizadas em https://www.gov.br/anac/pt-br/assuntos/regulados/manutencao-aeronautica/mel.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aplicaveis
+- excesso
+- forma
+- instalados
+- nota
+- pelos
+- redundante
+- requeridos
+- aeronaves
+- frota
+- manutencao
+- operador
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

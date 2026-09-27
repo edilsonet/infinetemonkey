@@ -1,0 +1,42 @@
+id: is-is-43-9-002-5-3-7-body
+kind: is
+document: is-43-9-002
+family: '43'
+section_id: 5.3.7
+section_title: 'Campo 6 - Item (Item): Quando se emitir a Etiqueta, um n.º único de item ou
+  n.º múltiplo'
+subsection_id: body
+cite: 5.3.7
+title: 'Campo 6 - Item (Item): Quando se emitir a Etiqueta, um n.º único de item ou n.º múltiplo'
+text: '5.3.7 Campo 6 - Item (Item): Quando se emitir a Etiqueta, um n.º único de item ou n.º
+  múltiplo
+
+  de itens pode ser usado para vários part number com o destino final em comum. Itens
+
+  múltiplos devem ser numerados, em sequência. Caso o espaço seja insuficiente para todos
+
+  os itens a serem aprovados, deve-se abrir nova Etiqueta, com outro número (Campo 3), ou
+
+  pode-se utilizar uma lista anexa à Etiqueta, com referência cruzada ao seu número (Campo
+
+  3). Nesse último caso, insira “Lista em anexo” (veja item 5.3.6 desta IS).'
+keywords:
+- manutencao
+- aeronavegabilidade
+- campo
+- etiqueta
+- emitir
+- multiplo
+- unico
+- caso
+- lista
+- numero
+- pode
+- abrir
+- anexa
+- anexo
+categories:
+- manutencao
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-43-9-002.md

@@ -1,0 +1,62 @@
+id: is-is-91-001-5-7-9-k
+kind: is
+document: is-91-001
+family: '91'
+section_id: 5.7.9
+section_title: 'Devem ser observados os procedimentos operacionais específicos dos equipamentos
+  RNAV/RNP, incluindo:'
+subsection_id: k
+cite: 5.7.9(k)
+title: 5.7.9(k)
+text: 'k) embora o sistema GNSS como um todo tenha evoluído para que o GNSS possa ser utilizado
+  como meio primário de navegação, alguns sistemas embarcados, por suas características de
+  fabricação ou instalação, são limitados para serem utilizados apenas como meios suplementares
+  de navegação. Nestes casos, a tripulação deve, no planejamento e na execução da navegação
+  GNSS, ter ciência que há a possibilidade de reverter, a partir de qualquer ponto dos trechos
+  GNSS, a meios convencionais de navegação baseados em rádio auxílios e prosseguir ao destino
+  ou alternativa utilizando estes meios convencionais.
+
+  5.8 Programa de treinamento comum a todas as operações PBN
+
+  5.8.1 Os operadores devem assegurar que seus pilotos estejam devidamente capacitados para
+  realizar as operações PBN. Neste sentido, a presente seção aborda os assuntos que devem
+  constar como parte do programa de instrução a ser ministrado aos tripulantes.
+
+  5.8.2 De modo complementar ao exposto nesta seção, as especificidades de treinamento para
+  cada modalidade distinta de operação PBN devem ser consultadas nos respectivos apêndices
+  desta IS que tratam da operação em questão, podendo resultar em itens adicionais ao treinamento
+  comum aqui abordado.
+
+  5.8.3 Não são necessários programas de treinamento exclusivos para operações PBN, contudo,
+  deve ser possível identificar as práticas e procedimentos relativos a estas operações inseridas
+  no programa de treinamento proposto.
+
+  5.8.4 Para prestadores de serviço de transporte aéreo (aqueles que operam segundo os RBAC
+  nº 121 e 135) e administradores de programa segundo a Subparte K do RBAC nº 91, o treinamento
+  visando capacitar seu pessoal para a condução de operações PBN só pode ser iniciado após
+  a aprovação prévia do respectivo programa de treinamento por parte da ANAC.
+
+  5.8.5 Para operadores que possuam em suas frotas diferentes modelos de aeronaves e/ou versões
+  distintas de equipamentos de navegação, atenção especial deve ser dada ao treinamento do
+  pessoal envolvido com as operações PBN, exaltando as eventuais diferenças entre os modelos
+  e suas respectivas limitações na execução destas operações.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- treinamento
+- operacoes
+- navegacao
+- programa
+- gnss
+- meios
+- comum
+- convencionais
+- equipamentos
+- execucao
+- modelos
+- operacao
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

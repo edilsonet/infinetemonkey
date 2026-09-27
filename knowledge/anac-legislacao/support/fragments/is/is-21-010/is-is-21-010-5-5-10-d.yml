@@ -1,0 +1,72 @@
+id: is-is-21-010-5-5-10-d
+kind: is
+document: is-21-010
+family: '21'
+section_id: 5.5.10
+section_title: 'At least the following documents are also required for each delivered aircraft:'
+subsection_id: d
+cite: 5.5.10(d)
+title: 5.5.10(d)
+text: 'd) Summary of maintenance, repairs and alterations performed during the aircraft life
+  (for used aircraft only).
+
+  5.5.11 Um CST brasileiro e a Folha de Continuação (Continuation Sheet) correspondente serão
+  emitidos com base no cumprimento de requisitos estabelecido no relatório de validação referido
+  no parágrafo 5.5.6 acima.
+
+  5.5.11 A Brazilian STC and the corresponding Continuation Sheet will be issued upon compliance
+  with the requirements established in the validation report referred to in item 5.5.6 above.
+
+  5.5.12 Se o requerente for o fabricante da aeronave, motor ou hélice, as averiguações da
+  análise do programa de CST podem ser adicionadas ao relatório de validação referido nos
+  parágrafos 5.3.8 ou 5.4.5, e a aceitação correspondente da ANAC incluída na Especificação
+  da Aeronave - veja parágrafos 5.3.13 e 5.4.8, como aplicável.
+
+  5.5.12 If the applicant is the aircraft, engine, or propeller manufacturer, the supplemental
+  type certificate program review findings may be added to the validation report referred
+  to in paragraphs 5.3.8 or 5.4.5 above, and the corresponding ANAC acceptance included in
+  the TCDS - see paragraphs 5.3.13 and 5.4.8, as applicable.
+
+  5.5.13 Todos os artigos para instalação em aeronaves registradas no Brasil ou em motores
+  e hélices operando no Brasil, como parte de uma certificação suplementar de tipo validada,
+  devem ser artigos considerados aprovados de acordo com esta IS.
+
+  5.5.13 All articles for installation in aircraft registered in Brazil or in aircraft engines
+  and propellers operating in Brazil, as part of a validated STC, must be approved according
+  to this IS.
+
+  5.6 Aceitação de grande modificação já instalada na aeronave no momento da importação
+
+  5.6 Acceptance of a major change already installed in aircraft at the moment of the import
+
+  5.6.1 Uma grande modificação com aprovação estrangeira através de CST pode ter sua instalação
+  considerada como aceita pela ANAC, de acordo com a fundamentação apresentada no parágrafo
+  3.6 desta IS, sem necessidade de validação brasileira, nos seguintes casos (exceto aqueles
+  descritos no parágrafo 5.6.2 desta IS):
+
+  5.6.1 A major change with foreign approval (through supplemental type certificate) may have
+  its installation considered acceptable to ANAC, in accordance with the paragraph 3.6, without
+  the need for Brazilian validation, in the following cases (except those described in paragraph
+  5.6.2 of this IS):'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aircraft
+- aeronave
+- paragrafo
+- validacao
+- validation
+- with
+- above
+- acceptance
+- aceitacao
+- acordo
+- artigos
+- brasil
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-010.md

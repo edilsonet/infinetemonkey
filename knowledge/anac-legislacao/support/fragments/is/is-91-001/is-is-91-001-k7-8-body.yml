@@ -1,0 +1,41 @@
+id: is-is-91-001-k7-8-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: K7.8
+section_title: Modificação da aeronave. Se qualquer sistema (software ou hardware) requerido
+  para operações RNP AR APCH for instalado ou modificado, tal modificação deve ser aprovada
+  pela ANAC. O operador deve necessariamente obter uma nova aprovação operacional suportada
+  pelo fabricante e pela documentação de qualificação da aeronave.
+subsection_id: body
+cite: K7.8
+title: Modificação da aeronave. Se qualquer sistema (software ou hardware) requerido para
+  operações RNP AR APCH for instalado ou modificado, tal modificação deve ser aprovada pela
+  ANAC. O operador deve necessariamente obter uma nova aprovação operacional suportada pelo
+  fabricante e pela documentação de qualificação da aeronave.
+text: 'K7.8 Modificação da aeronave. Se qualquer sistema (software ou hardware) requerido
+  para operações RNP AR APCH for instalado ou modificado, tal modificação deve ser aprovada
+  pela ANAC. O operador deve necessariamente obter uma nova aprovação operacional suportada
+  pelo fabricante e pela documentação de qualificação da aeronave.
+
+  K8. APROVAÇÃO OPERACIONAL'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- modificacao
+- aprovacao
+- operacional
+- apch
+- aprovada
+- documentacao
+- fabricante
+- hardware
+- instalado
+- modificado
+- necessariamente
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

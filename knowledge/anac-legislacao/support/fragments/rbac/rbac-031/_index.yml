@@ -53,10 +53,16 @@ sections:
 - A31.4
 - apendice-a-do-rbac-31
 - apendice-a-do-rbac-31-instrucoes-de
+- aplicabilidade
+- aprovacao
 - preambulo
-fragment_count: 122
+- requisitos
+- sumario
+fragment_count: 126
 fragment_ids:
 - rbac-rbac-031-preambulo-body
+- rbac-rbac-031-requisitos-body
+- rbac-rbac-031-aprovacao-body
 - rbac-rbac-031-31-1-body
 - rbac-rbac-031-31-12-body
 - rbac-rbac-031-31-17-body
@@ -70,9 +76,11 @@ fragment_ids:
 - rbac-rbac-031-31-43-body
 - rbac-rbac-031-31-46-body
 - rbac-rbac-031-31-49-body
-- rbac-rbac-031-31-51-body
+- rbac-rbac-031-sumario-body
+- rbac-rbac-031-aplicabilidade-body
 - rbac-rbac-031-31-14-body
 - rbac-rbac-031-31-45-body
+- rbac-rbac-031-31-51-body
 - rbac-rbac-031-31-55-body
 - rbac-rbac-031-31-59-body
 - rbac-rbac-031-31-61-body
@@ -178,4 +186,4 @@ fragment_ids:
 - rbac-rbac-031-a31-4-g
 - rbac-rbac-031-a31-4-h
 - rbac-rbac-031-a31-4-i
-parser_version: 6
+parser_version: 7

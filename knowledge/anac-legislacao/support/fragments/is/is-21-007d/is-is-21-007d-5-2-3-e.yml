@@ -1,0 +1,68 @@
+id: is-is-21-007d-5-2-3-e
+kind: is
+document: is-21-007d
+family: '21'
+section_id: 5.2.3
+section_title: 'In addition to the standards in paragraph 5.2.2, if the aircraft is an airplane,
+  ANAC accepts the standards:'
+subsection_id: e
+cite: 5.2.3(e)
+title: 5.2.3(e)
+text: 'e) F3768-25 Standard Specification for IFR Operations in IMC for a Light-Sport Aircraft.
+
+  5.2.4 Sempre que uma nova revisão de uma norma consensual é aceita, tanto a revisão anterior
+  quanto a revisão atual poderão ser usadas no processo de emissão do certificado de aeronavegabilidade
+  inicial de uma aeronave leve esportiva pelo período indicado no FAA Notice of Availability
+  (NOA), disponível em https://www.faa.gov/aircraft/gen_av/light_sport/accepted_standards.
+
+  5.2.4 Whenever a new revision of a consensus standard is accepted, either the previous revision
+  or the current revision may be used in the process of issuing the initial certificate of
+  airworthiness for a light-sport aircraft for the period indicated in the FAA Notice of Availability
+  (NOA), available at https://www.faa.gov/aircraft/gen_av/light_sport/accepted_standards.
+
+  5.2.5 Esse período permitirá que aeronaves que iniciaram o processo de de emissão do certificado
+  de aeronavegabilidade inicial usando a revisão anterior possam concluí-lo. Decorrido esse
+  período, os fabricantes devem usar a revisão atual e devem identificar a revisão atual na
+  declaração de conformidade do fabricante para a emissão do certificado de aeronavegabilidade
+  inicial de aeronaves leves esportivas, a menos que a ANAC publique uma notificação em contrário.
+
+  5.2.5 This period will allow aircraft that have started the process of issuing the initial
+  certificate of airworthiness using the previous revision to complete that process. After
+  this period, manufacturers must use the current revision and must identify the current revision
+  in the manufacturer''s statement of compliance for issuing the initial certificate of airworthiness
+  for light-sport aircraft unless the ANAC publishes a notification otherwise.
+
+  5.2.6 O processo de emissão do certificado de aeronavegabilidade é feito a cada número de
+  série da aeronave devendo o fabricante cumprir com a norma consensual na revisão aceita
+  pela ANAC na data de assinatura da declaração de conformidade.
+
+  5.2.6 The process of issuing the certificate of airworthiness occurs for each aircraft serial
+  number, and the manufacturer must comply with the consensus standard in its revision accepted
+  by the ANAC on the date of signature of the statement of compliance.
+
+  5.2.7 Em casos que a aeronave seja entregue com alguma parte desmontada devido ao transporte,
+  é recomendável que o fabricante forneça instruções de montagem dessa partes.
+
+  5.2.7 In cases where the aircraft is delivered with a disassembled part due to transport,
+  it is recommended that the manufacturer provide assembly instructions for these parts.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- aircraft
+- revisao
+- revision
+- light
+- sport
+- accepted
+- airworthiness
+- certificado
+- certificate
+- emissao
+- issuing
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-007d.md

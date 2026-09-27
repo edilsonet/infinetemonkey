@@ -48,10 +48,14 @@ sections:
 - '141.95'
 - '141.97'
 - '141.99'
+- aprovacao
 - preambulo
-fragment_count: 182
+- sumario
+fragment_count: 184
 fragment_ids:
 - rbac-rbac-141-preambulo-body
+- rbac-rbac-141-aprovacao-body
+- rbac-rbac-141-sumario-body
 - rbac-rbac-141-141-1-body
 - rbac-rbac-141-141-5-body
 - rbac-rbac-141-141-7-body
@@ -233,4 +237,4 @@ fragment_ids:
 - rbac-rbac-141-141-99-f
 - rbac-rbac-141-141-99-g
 - rbac-rbac-141-141-99-i
-parser_version: 6
+parser_version: 7

@@ -1,0 +1,33 @@
+id: iac-iac-180-1003-anexo-3-identificacao-no-leme-direcional-de-aeronaves-c107c2-body
+kind: iac
+document: iac-180-1003
+family: '180'
+section_id: anexo-3-identificacao-no-leme-direcional-de-aeronaves-c107c2
+section_title: ANEXO 3 - IDENTIFICAÇÃO NO LEME DIRECIONAL DE AERONAVES DE ASA FIXA
+subsection_id: body
+cite: anexo-3-identificacao-no-leme-direcional-de-aeronaves-c107c2
+title: ANEXO 3 - IDENTIFICAÇÃO NO LEME DIRECIONAL DE AERONAVES DE ASA FIXA
+text: 'ANEXO 3 - IDENTIFICAÇÃO NO LEME DIRECIONAL DE AERONAVES DE ASA FIXA
+
+  1) NO LEME DIRECIONAL (AMBOS OS LADOS)
+
+  3) NA DERIVA VERTICAL FIXA EM CASO DE IMPOSSIBILIDADE TÉCNICA DE PINTURA NO LEME
+
+  DIRECIONAL (AMBOS OS LADOS)'
+keywords:
+- direcional
+- leme
+- fixa
+- aeronaves
+- anexo
+- identificacao
+- ambos
+- lados
+- caso
+- deriva
+- impossibilidade
+- pintura
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-180-1003.md

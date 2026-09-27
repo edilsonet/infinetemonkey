@@ -1,0 +1,230 @@
+id: is-is-117-004-apendice-a-utilizando-matrizes-de-risco-na-avaliacao-949dd4-body
+kind: is
+document: is-117-004
+family: '117'
+section_id: apendice-a-utilizando-matrizes-de-risco-na-avaliacao-949dd4
+section_title: Apêndice A. Utilizando Matrizes de Risco na Avaliação da Fadiga.
+subsection_id: body
+cite: apendice-a-utilizando-matrizes-de-risco-na-avaliacao-949dd4
+title: Apêndice A. Utilizando Matrizes de Risco na Avaliação da Fadiga.
+text: 'Apêndice A. Utilizando Matrizes de Risco na Avaliação da Fadiga.
+
+  A.1. Introdução
+
+  A.1.1. Normalmente, o risco de segurança é definido como a probabilidade e a severidade
+  projetadas da consequência de um resultado gerado por um perigo existente ou uma situação.
+  A matriz de probabilidade e severidade é comumente utilizada por provedores de serviço na
+  avaliação de qualquer tipo de perigo e auxilia decidir se é necessário investir recursos
+  na sua mitigação. O nível de risco associado ao perigo e se ele é “tolerável” é determinado
+  pelo seu posicionamento na matriz. A principal desvantagem do uso de matrizes de risco é
+  que os controles e as mitigações não são levados em conta sistematicamente.
+
+  A.1.2. A Tabela 1 apresenta um exemplo das categorias de classificação de severidade constante
+  da Instrução Suplementar 119-002D.
+
+  A.1.3. A Tabela 2 apresenta uma matriz de tolerabilidade de riscos baseada no DOC 9966.
+
+
+  Tabela 1. Classificações de Severidade (Fonte: DOC 9966, 2ª ed., 2016).
+
+
+  Tabela 2. Matriz de Tolerabilidade de Riscos (Fonte: DOC 9966, 2ª ed., 2016).
+
+
+  A.1.4. Quando utilizam matrizes de risco, é esperado que os provedores de serviço customizem
+  as categorias de severidade e probabilidade. Cabe ressaltar que a utilidade da Tabela 1
+  nas avaliações do risco de fadiga é limitada, porque a consequência de um desempenho afetado
+  pela fadiga enquanto cumprindo uma tarefa crítica de segurança é sempre catastrófico.
+
+  A.1.5. Com relação aos riscos de fadiga:
+
+  a. para entender a severidade das consequências, é necessário considerar não apenas quão
+  fatigado um tripulante pode estar, mas também o impacto resultante no seu desempenho e como
+  este desempenho rebaixado vai se manifestar no trabalho.
+
+  b. é a tarefa sendo realizada (com fadiga) que determina a severidade das consequências.
+  Por exemplo, se uma pessoa operacional cai no sono no escritório enquanto cumpre uma tarefa
+  administrativa, não há consequências de segurança imediatas. Entretanto, se a mesma pessoa
+  cai no sono na cabine de comando ou no escritório enquanto cumpre uma tarefa crítica de
+  segurança, isso pode resultar em um acidente.
+
+  A.1.6. Em outras palavras, para avaliar diferentes tipos de fadiga utilizando a matriz de
+  risco, diferentes classificações de severidade são necessárias para melhor refletirem a
+  variedade de possíveis consequências no desempenho afetado pela fadiga. As classificações
+  de probabilidade dependerão no tipo de classificação de severidade utilizado. Ainda, quando
+  se utiliza matrizes de risco no SGRF, é necessário para os especialistas em fadiga customizarem
+  suas matrizes pela seleção cuidadosa de como a severidade e a probabilidade são classificadas.
+
+  A.2. Classificações de severidade
+
+  A.2.1. Como mencionado, diferentes classificações de severidade são necessárias para melhor
+  refletirem a variedade de possíveis consequências no desempenho afetado pela fadiga. Exemplos
+  de métodos de classificação de severidade incluem:
+
+  a. classificações de severidade podem refletir os “níveis de fadiga percebidos”, no sentido
+  de, quanto mais fatigada se sente a pessoa, mais seu desempenhe irá decair. Na Tabela 3,
+  a escala subjetiva de Samn-Perelli é utilizada;
+
+  b. modelos biomatemáticos objetivam predizer o nível médio de fadiga de um tripulante em
+  diferentes pontos ao longo de um planejamento. Uma vez que o usuário do modelo consiga relacionar
+  os resultados encontrados com o contexto operacional da organização, as classificações de
+  severidade podem ser baseadas em limites definidos pelos modelos biomatemáticos;
+
+  c. a classificação da severidade pode refletir o número de fatores de fadiga relevantes
+  associados a uma jornada específica ou um padrão de organização de trabalho, como pode ser
+  visto abaixo.
+
+
+  Adaptado de Cassiano, SK. (2017). A Fadiga em Foco na Aviação: Adaptação Brasileira da Samn
+  Perelli Scale. Revista Conexão Sipaer, Vol. 8, No. 3, pp. 19-28.
+
+  Tabela 3. Exemplo de classificação de severidade: níveis percebidos de fadiga
+
+  (Fonte: DOC 9966, 2ª ed., 2016)
+
+
+  A.3. Classificações de probabilidade
+
+  A.3.1. Geralmente a probabilidade de fadiga é baseada nas estimativas subjetivas da frequência
+  de uma consequência em particular de um desempenho que esteja afetado pela fadiga. Por depender
+  um contexto, há infinitas variáveis que influenciam as consequências operacionais.
+
+  A.3.2. Quando um fator de fadiga específico relacionado a um tipo de turno ou escala de
+  trabalho está sendo avaliado (por exemplo, menos de 7 horas de repouso entre jornadas; inicio
+  de jornada antes das 07:00), a frequência mensurável em que o tripulante possa sofrê-lo
+  ou estar exposto a ele pode ser preferível para determinar as classificações de probabilidade.
+
+  A.4. Exemplo de avaliação de riscos de fadiga de uma jornada específica ou de um padrão
+  de organização do trabalho.
+
+  A.4.1. Num SGRF, o operador deverá considerar os riscos de fadiga associados a uma jornada
+  específica ou um padrão de organização do trabalho para poder determinar as estratégias
+  de mitigação apropriadas. Muitas ferramentas e métodos diferentes para a avaliação de riscos
+  estão disponíveis e podem ser usados em combinação.
+
+  A.4.2. Uma forma de estimar o risco associado de fadiga a um padrão de trabalho particular
+  é por meio do uso de modelos biomatemáticos. Os modelos atuais normalmente são desenhados
+  para predizer a fadiga do tripulante (por meio de medidas de desempenho ou escalas subjetivas),
+  e não as consequências para a segurança que aquele nível de fadiga pode gerar num ambiente
+  operacional específico. Por isso, embora úteis, as decisões operacionais não devem se basear
+  exclusivamente em limites gerados por modelos biomatemáticos.
+
+  A.4.3. Um método alternativo na avaliação da fadiga em relação a uma jornada em particular
+  ou um padrão de organização de trabalho foi descrito por Tritschler (2015) e está resumido
+  abaixo. O método é baseado no reconhecimento de que a fadiga é resultado de perda de sono,
+  vigília estendida, influências circadianas e carga de trabalho. Nele, os “fatores da fadiga”
+  (isto é, fatores que são associados ao aumento da fadiga) são identificados por meio de
+  estudos científicos internos, literatura científica relevante, pesquisas internas e experiência
+  no gerenciamento da fadiga do operador aéreo.
+
+  A.4.4. Este tipo de método pode ser utilizado para:
+
+  a. identificar as causas da fadiga associadas a uma jornada ou a um tipo de turno específico;
+
+  b. fornecer um valor específico e comparável de “fator de fadiga” a uma jornada específica
+  ou tipo de turno;
+
+  c. identificar mitigações efetivas para a uma jornada ou tipo de turno específico (parte
+  do processo de mitigação);
+
+  d. possibilitar a comparação entre as mesmas viagens ou atividades em momentos diferentes;
+
+  e. ser o ponto de início de um caso de segurança específico (safety case).
+
+  A.4.5. A realização de pesquisas minuciosas e o fornecimento de informações por parte do
+  pessoal operacional são essenciais para a identificação de uma lista significativa de fatores
+  de fadiga; e são críticos para o sucesso do uso deste tipo de método. Pelo uso de listas
+  customizadas geradas a partir de circunstâncias específicas vivenciadas pelo provedor de
+  certificado, este método pode ser adotado para qualquer operação.
+
+  A.4.6. Método de avaliação de fadiga de Tritschler:
+
+  a. no primeiro passo deste método, para uma jornada ou padrão de organização de trabalho
+  específico, todos os fatores de fadiga são identificados como “presente” ou “absente” no
+  pior cenário possível sob certas condições;
+
+  b. no segundo passo, cada fator considerado “presente” é avaliado para determinar ser evitado
+  por meio da mitigação. O número de fatores de fadiga remanescentes é utilizado para determinar
+  se o cenário com mitigação é aceitável; e
+
+  c. um terceiro passo pode ser adicionado usando a matriz de risco que apresenta uma avaliação
+  adicional dos fatores de fadiga para verificar o risco de fadiga acumulada num dado período.
+  Isso introduz a dimensão “frequência da exposição”, que permite a categorização do risco
+  de fadiga de acordo com o número de vezes em que uma viagem com um escore particular é programada.
+
+  A.4.7. No exemplo abaixo, o método foi aplicado num voo curto de uma jornada específica
+  entre Colônia (CGN) - Tenerife (TFS) - Colônia (CGN). Cada fator identificado é relevante
+  e para este tipo de operação e é vinculado a um estudo da operação específica.
+
+  A.4.7.1. Passo 1.
+
+  a. O formulário apresentado na Tabela 4 apresenta uma Tabela de Avaliação e Mitigação de
+  Fatores da Fadiga que lista os fatores de fadiga identificados pelo provedor. No primeiro
+  passo, eles foram identificados como “presente” (1) ou “absente” (--) na coluna “pior cenário”.
+
+  b. A Tabela 5 categoriza a avaliação dos diferentes números dos fatores de fadiga sob condições
+  existentes (isto é, sem mitigação). No exemplo, o escore de fator de fadiga 11 significa
+  que nas condições existente e no pior cenário, esta jornada não pode ser realizada se o
+  número de fatores não for reduzido por meio da mitigação.
+
+  A.4.7.2. Passo 2.
+
+  a. O formulário apresentado na Tabela 4 Tabela 4. Exemplo de avaliação e mitigação de fatores
+  da fadiga
+
+  (Fonte: DOC 9966, 2ª ed., 2016).é novamente utilizado para pontuação de cada fator de fadiga
+  presente (n = 11) como “evitável” (0) ou não (1) na coluna “Mitigado”. Uma descrição de
+  como ele pode ser mitigado (a mitigação) é anotada na coluna “Comentários”. No exemplo,
+  há 6 fatores de fadiga remanescentes.
+
+  b. A Tabela 6 categoriza a aceitabilidade do escore de fator de fadiga mitigado. O exemplo
+  de 6 pontos significa que, com mitigações extras identificadas, os prejuízos advindos da
+  fadiga estarão aumentados, mas aceitáveis.
+
+  A.4.7.3. Passo 3.
+
+  a. A Tabela 7 apresenta uma avaliação de risco adicional dos fatores de fadiga com o objetivo
+  de verificar o risco de fadiga acumulada num dado período. Aqui, a dimensão “frequência
+  na exposição” foi adicionada à matriz, permitindo a categorização do risco de fadiga de
+  acordo com o número de vezes que uma viagem com determinado escore é programada. Novamente,
+  as categorias devem ser identificadas por cada operador para seu contexto específico.
+
+
+  Tabela 4. Exemplo de avaliação e mitigação de fatores da fadiga
+
+  (Fonte: DOC 9966, 2ª ed., 2016).
+
+
+  A seguir, o Passos citados em A.4.7.
+
+
+  Tabela 5. Exemplo de categorização para a avaliação dos escores dos fatores de fadiga sob
+  as condições existentes (Passo 1) (Fonte: DOC 9966, 2ª ed., 2016).
+
+
+  Tabela 6. Exemplo de categorização para a tolerabilidade dos escores dos fatores de fadiga
+  após as ações mitigadoras (Passo 2) (Fonte: DOC 9966, 2ª ed., 2016).
+
+
+  Tabela 7. Exemplo de matriz de tolerabilidade de risco para fadiga acumulada (Passo 3) (Fonte:
+  DOC 9966, 2ª ed., 2016).'
+keywords:
+- fadiga
+- jornada
+- operacoes
+- risco
+- tabela
+- fatores
+- severidade
+- avaliacao
+- exemplo
+- mitigacao
+- pode
+- passo
+- classificacoes
+categories:
+- fadiga
+- jornada
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-117-004.md

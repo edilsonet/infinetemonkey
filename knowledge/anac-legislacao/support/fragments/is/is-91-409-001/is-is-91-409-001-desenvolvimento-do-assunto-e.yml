@@ -1,0 +1,186 @@
+id: is-is-91-409-001-desenvolvimento-do-assunto-e
+kind: is
+document: is-91-409-001
+family: '91'
+section_id: desenvolvimento-do-assunto
+section_title: DESENVOLVIMENTO DO ASSUNTO
+subsection_id: e
+cite: desenvolvimento-do-assunto(e)
+title: desenvolvimento-do-assunto(e)
+text: 'e) parágrafos 135.421(a) e 135.421(b) do RBAC nº 135 estabelecem que: “o detentor de
+  certificado que opera uma aeronave com certificação de tipo para uma configuração para passageiros,
+  excluído qualquer assento de pilotos, com 9 assentos ou menos deve cumprir com o programa
+  de manutenção recomendado pelos fabricantes, ou com um programa aprovado pela Anac para
+  cada motor, hélice, rotor, componentes e para cada item de equipamento de emergência requerido
+  por este Regulamento”; e “para o propósito desta seção, um programa de manutenção do fabricante
+  é aquele contido no manual de manutenção ou nas instruções de manutenção especificadas pelo
+  fabricante, como requerido pelos RBAC, para a aeronave, motores, hélices, rotores, componentes
+  e equipamentos de emergência”.
+
+  Diretrizes da Aeronavegabilidade e regulamentos operacionais também podem impor instruções
+  de aeronavegabilidade continuada mandatórias.
+
+  Os períodos ou prazos de TBO geralmente estão transcritos em Boletins de Serviço (Service
+  Bulletins - SB), Cartas de Serviço (Service Letters - SL), Cartas de Informação (Service
+  Information Letters - SIL) e documentos semelhantes. Mesmo se os fabricantes indicarem os
+  períodos ou prazos de TBO como mandatórios nesses documentos, estes são considerados mandatórios
+  apenas quando aprovados pela autoridade aeronáutica. Os quadros abaixo representam, por
+  exemplo, a recomendação da Lycoming e da Continental engines para motores convencionais,
+  via SIL, e a recomendação da Pratt & Whitney Canada para motores a turbina, via SIL e SB:
+
+  LYCOMING RECOMMENDED TIME BETWEEN OVERHAUL PERIODS
+
+  Engine Models
+
+  Note
+
+  Hours
+
+  O-235 Series (except -F, -G, -J)
+
+  Recommended to be overhauled in the twelfth year
+
+  2400
+
+  Quadro 01 - Recomendação da Lycoming
+
+  CONTINENTAL ENGINE TIME BETWEEN OVERHAUL (TBO)
+
+  Engine Models
+
+  SEE NOTE
+
+  HRS
+
+  YRS
+
+  A65, A75 Series
+
+
+  1800
+
+  12
+
+  Quadro 02 - Recomendação da Continental engines
+
+  PRATT & WHITNEY CANADA TIME BETWEEN OVERHAUL
+
+  Engine Models
+
+  SEE NOTE
+
+  Hours
+
+  PT6A-60AG/65AG/67AF/67AG/F
+
+
+  3000
+
+  PT6A-52/60/61
+
+
+  3600
+
+  PT6B-36A/36B
+
+
+  4000
+
+  PT6A-65
+
+
+  6000
+
+  Quadro 03 - Recomendação da Pratt & Whitney Canada
+
+
+  Aspectos técnicos sobre a revisão geral
+
+  Uma vez compreendido que o prazo para a revisão geral é uma recomendação, a pergunta que
+  surge é: se alcançado o prazo recomendado, um motor, hélice ou equipamento (parte, acessório,
+  instrumento e demais componentes) necessita ser removido de serviço e enviado para a revisão
+  geral?
+
+  Essa questão é de grande relevância, por exemplo, no caso de motores. O proprietário/operador
+  de aeronave que opera segundo as regras do RBAC nº91 pode ter um motor vencendo, por exemplo,
+  o prazo calendárico de 12 (doze) anos - referente ao prazo calendárico em alguns motores
+  convencionais - e não possuir ainda acumuladas horas totais de operação recomendadas para
+  remoção para revisão geral. Nesse caso, pode-se optar por cumprir com a recomendação do
+  fabricante de revisão geral no prazo calendárico ou executar a revisão geral apenas quando
+  necessário, considerando uma avaliação operacional realizada de acordo com instruções do
+  fabricante, dessa forma podendo ultrapassar o tempo calendárico de 12 (doze) anos e mesmo
+  o período acumulado de horas de operação citados acima. Assim, vencidos quaisquer dos limites
+  recomendados, se a aeronave ainda se mostra segura e com bom desempenho (constatado a partir
+  de avaliação da condição geral conforme instruções do fabricante), é possível a continuidade
+  operacional.
+
+  Nota: as inspeções diárias, pré-voo, inspeções de 25, 50, 100 horas, anuais, etc. não podem
+  ser postergadas ou estendidas como se fosse o caso do TBO recomendado. É, inclusive, por
+  meio dessas inspeções, que podem resultar dados mensuráveis referentes a segurança e desempenho
+  para sustentar a decisão de não seguir o TBO recomendado. Adicionalmente, as discrepâncias
+  que eventualmente apareçam entre as inspeções devem ser reparadas, conforme a seção 91.405
+  do RBAC nº 91.
+
+  O TBO com base em prazo calendárico ou horas de operação acumuladas é uma boa estimativa
+  fornecida pelos fabricantes. São os prazos recomendados para motores mantidos e operados
+  conforme o manual de operação. Entretanto, mesmo seguindo as instruções de operação e manutenção,
+  um motor pode falhar ou apresentar sintomas de perda de desempenho muito antes do prazo
+  recomendado. Existem diversos fatores que afetam a vida do motor: fator de utilização, forma
+  de utilização, forma de manutenção preventiva e manutenção, utilização de peças originais,
+  ambiente em que se opera, qualidade de combustível, preservação quando não utilizado, etc.
+
+
+  É muito importante o proprietário/operador, caso opte por não seguir o TBO recomendado,
+  levar em consideração o exposto no item 5.1.3(a) desta IS sobre operação de forma mais econômica.
+  No momento em que finalmente se detecte uma anomalia (indício de desgaste excessivo), perda
+  de desempenho, etc. e se decida pela remoção para revisão geral, um reparo que antes seria
+  praticável, agora é inviável, requerendo substituições, invariavelmente refletindo no valor
+  do orçamento, possíveis problema de disponibilidade de peças e maior prazo para retorno
+  ao serviço.
+
+  Os proprietários e operadores de aeronaves devem seguir as instruções do fabricante do motor
+  para operar e manter o motor de maneira que garanta a prorrogação para realizar a revisão
+  geral.
+
+
+  Como reconhecer a obrigatoriedade de mandar fazer uma revisão geral
+
+  Para identificar se a execução da revisão geral dentro do prazo proposto pelo fabricante
+  é considerada mandatória pela Anac, deve-se verificar se o prazo de TBO está descrito na
+  seção Airworthiness Limitations, ou ainda, se esse prazo foi determinado por meio de uma
+  Diretriz de Aeronavegabilidade. Do contrário, tal prazo é considerado pela Anac apenas como
+  recomendação do fabricante, desde que a aeronave esteja operando conforme o RBAC nº 91.
+
+  Observe-se que na regulamentação atual da Anac, na prática, o adiamento da revisão geral
+  é aceitável (mantida as condições de monitoramento já mencionadas na nota do parágrafo 5.2.2
+  desta IS) e, em algum momento, a revisão geral poderá ter que ser executada.
+
+  É importante destacar que alguns fabricantes classificam alguns Boletins de Serviço (Ser-vice
+  Bulletins - SB), Cartas de Serviço (Service Letters - SL), Cartas de Informação (Ser-vice
+  Information Letters - SIL) e documentos semelhantes como mandatórios, embora não façam parte
+  da seção de Airworthiness Limitations ou estejam referenciados por uma Diretriz de Aeronavegabilidade.
+  Nestes casos, do ponto de vista da Anac, os prazos mencionados nesses documentos sobre revisão
+  geral são considerados simplesmente como recomendação do fabricante.
+
+  Adicionalmente, ressalta-se que os regulamentos tratam do nível mínimo requerido de manutenção
+  e que a responsabilidade por garantir que a aeronave está em condições de voo é do operador/proprietário.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- geral
+- revisao
+- prazo
+- fabricante
+- recomendacao
+- manutencao
+- motor
+- aeronave
+- instrucoes
+- motores
+- operacao
+- recomendado
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-409-001.md

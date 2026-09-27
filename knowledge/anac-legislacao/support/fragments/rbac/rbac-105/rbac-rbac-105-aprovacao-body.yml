@@ -1,0 +1,29 @@
+id: rbac-rbac-105-aprovacao-body
+kind: rbac
+document: rbac-105
+family: '105'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 188, de 24 de maio de 2011. [Emenda nº 00]
+
+  Resolução nº 476, de 7 de junho de 2018. [Emenda nº 01]
+
+  Resolução nº 512, de 11 de abril de 2019. [Emenda nº 02]'
+keywords:
+- paraquedismo
+- operacoes
+- aprovacao
+- resolucao
+- abril
+- junho
+- maio
+categories:
+- paraquedismo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-105.md

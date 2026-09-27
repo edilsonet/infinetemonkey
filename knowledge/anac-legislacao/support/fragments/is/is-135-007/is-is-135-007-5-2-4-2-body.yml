@@ -1,0 +1,45 @@
+id: is-is-135-007-5-2-4-2-body
+kind: is
+document: is-135-007
+family: '135'
+section_id: 5.2.4.2
+section_title: Pouso
+subsection_id: body
+cite: 5.2.4.2
+title: Pouso
+text: '5.2.4.2 Pouso
+
+  5.2.4.2.1 Para o pouso, os parágrafos 135.385(d), (e) e (f) do RBAC nº 135 requerem que,
+  para aviões a reação, sejam verificados requisitos de desempenho específicos para pistas
+  molhadas (ou escorregadias) ou contaminadas. Na ausência de informações meteorológicas que
+  atendam à seção 135.213 no aeródromo de destino, deve se considerar a pista molhada ou,
+  caso existam dados aprovados de distância de pouso com a pista contaminada, aceitos pela
+  ANAC, contaminada.
+
+  5.3 Monitoramento das operações
+
+  5.3.1 O detentor de certificado deve monitorar as operações realizadas com base nesta IS
+  por meio de seu Sistema de gerenciamento da segurança operacional (SGSO).
+
+  5.3.2 Caso o detentor de certificado possua programa de análise e acompanhamento de dados
+  de voo (PAADV), deve utilizar os dados do PAADV no monitoramento das operações realizadas
+  com base nesta IS. Nesse caso, o detentor de certificado deve monitorar:'
+keywords:
+- taxi-aereo
+- operacoes
+- pouso
+- caso
+- certificado
+- dados
+- detentor
+- base
+- contaminada
+- monitoramento
+- monitorar
+- paadv
+- pista
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-007.md

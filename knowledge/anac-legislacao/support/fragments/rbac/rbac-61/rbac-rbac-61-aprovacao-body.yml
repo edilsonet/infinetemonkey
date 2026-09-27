@@ -1,0 +1,50 @@
+id: rbac-rbac-61-aprovacao-body
+kind: rbac
+document: rbac-61
+family: '61'
+section_id: aprovacao
+section_title: 'Aprovação:'
+subsection_id: body
+cite: aprovacao
+title: 'Aprovação:'
+text: 'Aprovação:
+
+  Resolução nº 237, de 05.06.2012. [Emenda nº 00]
+
+  Resolução nº 276, de 18.06.2013. [Emenda nº 01]
+
+  Resolução nº 305, de 18.02.2014. [Emenda nº 02]
+
+  Resolução nº 327, de 20.06.2014. [Emenda nº 03]
+
+  Resolução nº 344, de 17.09.2014. [Emenda nº 04]
+
+  Resolução nº 347, de 10.11.2014. [Emenda nº 05]
+
+  Resolução nº 378, de 18.03.2016. [Emenda nº 06]
+
+  Resolução nº 460, de 21.12.2017. [Emenda nº 07]
+
+  Resolução nº 475, de 07.06.2018. [Emenda nº 08]
+
+  Resolução nº 504, de 13.02.2019. [Emenda nº 09]
+
+  Resolução nº 512, de 11.04.2019. [Emenda nº 10]
+
+  Resolução nº 514, de 25.04.2019. [Emenda nº 11]
+
+  Resolução nº 536, de 04.12.2019. [Emenda nº 12]
+
+  Resolução nº 547, de 19.03.2020. [Emenda nº 13]'
+keywords:
+- licencas
+- pilotos
+- pessoal
+- resolucao
+- aprovacao
+categories:
+- licencas
+- pilotos
+- pessoal
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-61.md

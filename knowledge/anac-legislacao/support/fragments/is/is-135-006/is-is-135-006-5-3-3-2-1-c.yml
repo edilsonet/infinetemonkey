@@ -1,0 +1,36 @@
+id: is-is-135-006-5-3-3-2-1-c
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.3.3.2.1
+section_title: 'O parágrafo 135.217(a) do RBAC nº 135 requer que o detentor de certificado
+  selecione um aeródromo de alternativa de decolagem se:'
+subsection_id: c
+cite: 5.3.3.2.1(c)
+title: 5.3.3.2.1(c)
+text: 'c) para aviões com 3 ou mais motores: velocidade de cruzeiro (com todos os motores
+  operando), determinada a partir do manual de operações do avião, em condições de atmosfera
+  padrão e ar calmo, considerando o peso de decolagem real
+
+  5.3.3.2.7 Para o horário estimado de utilização do aeródromo de alternativa de decolagem,
+  devem ser consideradas margens adequadas, conforme 135.219(c) e 5.3.2.5 desta IS.'
+keywords:
+- taxi-aereo
+- operacoes
+- decolagem
+- aerodromo
+- alternativa
+- motores
+- adequadas
+- atmosfera
+- aviao
+- avioes
+- calmo
+- certificado
+- condicoes
+- consideradas
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

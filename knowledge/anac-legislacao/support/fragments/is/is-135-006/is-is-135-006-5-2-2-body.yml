@@ -1,0 +1,47 @@
+id: is-is-135-006-5-2-2-body
+kind: is
+document: is-135-006
+family: '135'
+section_id: 5.2.2
+section_title: Requisitos de condições meteorológicas
+subsection_id: body
+cite: 5.2.2
+title: Requisitos de condições meteorológicas
+text: '5.2.2 Requisitos de condições meteorológicas
+
+  5.2.2.1 A seção 135.205 menciona “as informações meteorológicas atualizadas [referentes
+  às] (...) condições meteorológicas ao longo da, ou da parte da rota a ser voada sob VFR”.
+  No caso de voos VFR ou parte VFR, pode ser que os aeródromos de origem, de destino ou de
+  alternativa (se aplicável) não possuam informações meteorológicas; dessa forma, a regra
+  menciona de forma genérica as “condições meteorológicas ao longo da rota”. No entanto, quando
+  se tratar de operações de decolagem ou pouso realizadas em VFR, essas condições incluem
+  as condições dos aeródromos de decolagem ou pouso, conforme aplicável.
+
+  Nota: observa-se que essa regra não impõe a necessidade de que existam informações meteorológicas
+  para os aeródromos em que se realizam operações VFR. No entanto, quando houver informações
+  meteorológicas, elas devem ser compatíveis com a realização das operações de decolagem ou
+  de pouso (conforme aplicável) em VFR.
+
+  5.2.2.2 As seções 135.207 (aplicável para operações com helicópteros) e 135.211 (aplicável
+  para operações com passageiros), por sua vez, estabelecem condições de visibilidade, que
+  devem ser observadas na execução das operações e, na medida do possível, no planejamento,
+  de acordo com as informações meteorológicas disponíveis:'
+keywords:
+- taxi-aereo
+- operacoes
+- meteorologicas
+- condicoes
+- aplicavel
+- informacoes
+- aerodromos
+- decolagem
+- pouso
+- requisitos
+- entanto
+- forma
+- longo
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-006.md

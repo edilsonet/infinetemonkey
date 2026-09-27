@@ -1,0 +1,64 @@
+id: is-is-120-017-8-3-1-c
+kind: is
+document: is-120-017
+family: '120'
+section_id: 8.3.1
+section_title: Documentos fonte do detentor do projeto. Revisões nos documentos de referência,
+subsection_id: c
+cite: 8.3.1(c)
+title: 8.3.1(c)
+text: 'c) avaliação de defeitos repetitivos, incluindo:
+
+  I - no Fault Found (NFF). NFF ocorre quando um sistema é testado após
+
+  uma falha reportada, não sendo a mesma replicada durante o teste;
+
+  II - rogue units. Uma rogue unit é uma unidade serializada substituível
+
+  específica de linha (line replaceable unit - LRU) que tenha demonstrado
+
+  um histórico de falhas idênticas que podem ou não resultar num excesso
+
+  no número definido de remoções repetitivas não programadas de um
+
+  operador numa vida em serviço curta associada;
+
+  III - unidades crônicas. Uma unidade crônica é uma LRU serializada
+
+  específica que tenha demonstrado histórico de falhas de sistemas
+
+  diferentes, resultando num excesso no número definido de remoções
+
+  repetitivas não programadas de um operador numa vida em serviço curta
+
+  associada; e
+
+  IV - sistemas ou aeronaves crônicos. Um sistema ou aeronave crônico é
+
+  identificado por um número de série de aeronave específico que tenha
+
+  demonstrado um histórico de defeitos repetitivos de manutenção não
+
+  programada no mesmo sistema ou subsistema durante um período
+
+  definido pelo operador;'
+keywords:
+- antidrogas
+- saude
+- definido
+- demonstrado
+- historico
+- numero
+- operador
+- sistema
+- tenha
+- aeronave
+- associada
+- curta
+- defeitos
+- documentos
+categories:
+- antidrogas
+- saude
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-120-017.md

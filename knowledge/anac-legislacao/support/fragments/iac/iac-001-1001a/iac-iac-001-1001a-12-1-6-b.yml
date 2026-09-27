@@ -1,0 +1,30 @@
+id: iac-iac-001-1001a-12-1-6-b
+kind: iac
+document: iac-001-1001a
+family: '1'
+section_id: 12.1.6
+section_title: NUMERAÇÃO PROGRESSIVA E APRESENTAÇÃO
+subsection_id: b
+cite: 12.1.6(b)
+title: 12.1.6(b)
+text: 'b) o texto do item com título começará sob a primeira letra do respectivo título e
+  terá
+
+  continuidade sob o primeiro algarismo do indicativo numérico anterior;'
+keywords:
+- titulo
+- algarismo
+- anterior
+- apresentacao
+- comecara
+- continuidade
+- indicativo
+- letra
+- numeracao
+- numerico
+- primeira
+- primeiro
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/iac/iac-001-1001a.md

@@ -1,0 +1,56 @@
+id: is-is-91-001-j1-9-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J1.9
+section_title: De acordo com as definições constantes no Anexo 6, parte I, da Convenção de
+  Aviação Civil Internacional, as operações de aproximação RNP APCH com APV/Baro-VNAV são
+  classificadas como operações de aproximação e pouso com guia vertical (approach and landing
+  operations with vertical guidance). Embora não sejam classificados como procedimentos de
+  aproximação de precisão, os procedimentos baro-VNAV são promulgados com altitude/altura
+  de decisão (DA/H); adicionalmente, estes últimos procedimentos também não podem ser confundidos
+  com os procedimentos de aproximação e pouso de não precisão, que por sua vez são elaborados
+  de modo a especificar uma altitude/altura mínima de descenso (MDA/H) abaixo da qual as aeronaves
+  só podem descer se os pilotos tiverem em vista as referências visuais necessárias.
+subsection_id: body
+cite: J1.9
+title: De acordo com as definições constantes no Anexo 6, parte I, da Convenção de Aviação
+  Civil Internacional, as operações de aproximação RNP APCH com APV/Baro-VNAV são classificadas
+  como operações de aproximação e pouso com guia vertical (approach and landing operations
+  with vertical guidance). Embora não sejam classificados como procedimentos de aproximação
+  de precisão, os procedimentos baro-VNAV são promulgados com altitude/altura de decisão (DA/H);
+  adicionalmente, estes últimos procedimentos também não podem ser confundidos com os procedimentos
+  de aproximação e pouso de não precisão, que por sua vez são elaborados de modo a especificar
+  uma altitude/altura mínima de descenso (MDA/H) abaixo da qual as aeronaves só podem descer
+  se os pilotos tiverem em vista as referências visuais necessárias.
+text: 'J1.9 De acordo com as definições constantes no Anexo 6, parte I, da Convenção de Aviação
+  Civil Internacional, as operações de aproximação RNP APCH com APV/Baro-VNAV são classificadas
+  como operações de aproximação e pouso com guia vertical (approach and landing operations
+  with vertical guidance). Embora não sejam classificados como procedimentos de aproximação
+  de precisão, os procedimentos baro-VNAV são promulgados com altitude/altura de decisão (DA/H);
+  adicionalmente, estes últimos procedimentos também não podem ser confundidos com os procedimentos
+  de aproximação e pouso de não precisão, que por sua vez são elaborados de modo a especificar
+  uma altitude/altura mínima de descenso (MDA/H) abaixo da qual as aeronaves só podem descer
+  se os pilotos tiverem em vista as referências visuais necessárias.
+
+  J2. APV/BARO-VNAV - PROCEDIMENTOS OPERACIONAIS'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- aproximacao
+- baro
+- vnav
+- altitude
+- altura
+- operacoes
+- podem
+- pouso
+- precisao
+- vertical
+- abaixo
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

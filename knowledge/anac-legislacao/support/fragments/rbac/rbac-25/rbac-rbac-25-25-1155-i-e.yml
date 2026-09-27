@@ -1,0 +1,37 @@
+id: rbac-rbac-25-25-1155-i-e
+kind: rbac
+document: rbac-25
+family: '25'
+section_id: 25.1155-I
+section_title: Reverse thrust and propeller pitch settings below the flight regime
+subsection_id: e
+cite: 25.1155-I(e)
+title: 25.1155-I(e)
+text: '(e) A caution provided to the flight crew when a cockpit control is displaced from
+  the flight regime (forward thrust regime for turbo-jet powered airplanes) into a position
+  to select propeller pitch settings below the flight regime (reverse thrust for turbo-jet
+  powered airplanes) outside the approved in-flight operating envelope. This caution need
+  not be provided if the means required by the paragraph (b) of this section is a mechanical
+  baulk that prevents movement of the control.
+
+  (Seção incluída pela Resolução nº 777, de 21.08.2025)'
+keywords:
+- aeronavegabilidade
+- transporte
+- flight
+- regime
+- thrust
+- airplanes
+- below
+- caution
+- control
+- pitch
+- powered
+- propeller
+- provided
+- reverse
+categories:
+- aeronavegabilidade
+- transporte
+language: en
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-25.md

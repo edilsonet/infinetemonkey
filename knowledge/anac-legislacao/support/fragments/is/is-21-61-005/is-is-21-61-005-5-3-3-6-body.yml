@@ -1,0 +1,68 @@
+id: is-is-21-61-005-5-3-3-6-body
+kind: is
+document: is-21-61-005
+family: '21'
+section_id: 5.3.3.6
+section_title: Items which are powered by an emergency bus or equivalent and required to accomplish
+  an emergency procedure are normally not allowed in the MMEL.
+subsection_id: body
+cite: 5.3.3.6
+title: Items which are powered by an emergency bus or equivalent and required to accomplish
+  an emergency procedure are normally not allowed in the MMEL.
+text: '5.3.3.6 Items which are powered by an emergency bus or equivalent and required to accomplish
+  an emergency procedure are normally not allowed in the MMEL.
+
+  5.3.3.7 O relaxamento na MMEL pode ser concedido para itens que são alimentados por um barramento
+  de emergência, desde que o requerente demonstre por meio de ensaio em voo, análise ou uma
+  combinação de ambos, que o relaxamento não afeta a conclusão bem-sucedida e o resultado
+  do procedimento conforme esperados, e nem tem a sua complexidade aumentada para a tripulação.
+
+  5.3.3.7 MMEL relief may be granted for items that are powered by an emergency bus, provided
+  that the applicant demonstrates by flight test, analysis, or a combination of both, that
+  the MMEL relief neither affects the successful intended completion and outcome of the procedure,
+  nor increases its complexity for the crew.
+
+  5.3.3.8 Procedimentos de emergência são específicos de cada aeronave. Por exemplo, alguns
+  procedimentos podem direcionar o piloto a fisicamente girar o interruptor de energia de
+  emergência para a posição ligada quando uma falha elétrica completa ocorrer em voo. Uma
+  consequência da seleção do interruptor de energia de emergência para a posição ligada pode
+  ser que o único sistema de comunicação disponível seja o sistema #1, e o único sistema de
+  navegação disponível seja o sistema #1. Essa configuração não deve permitir operações com
+  o sistema de rádio #1 na MEL. No entanto, outras aeronaves podem ser projetadas com um sistema
+  elétrico que selecionará automaticamente qualquer fonte de alimentação elétrica disponível
+  durante uma anormalidade elétrica. Para tal projeto, não seria apropriado limitar o relaxamento
+  do rádio apenas ao sistema de rádio #2, uma vez que ambos os rádios podem ser alimentados
+  em quaisquer circunstâncias.
+
+  5.3.3.8 Emergency procedures are specific to each aircraft. For example, some procedures
+  may direct the pilot to physically turn the emergency power switch to the ON position when
+  a complete electrical failure occurs in flight. One consequence of the selection of the
+  emergency power switch to ON can be that the only communications system available is the
+  #1 system, and the only navigation system available is the #1 system. That configuration
+  must not allow operations with the radio system #1 on the MEL. However, other aircraft may
+  be designed with an electrical system that will automatically select any available electrical
+  power supply during an electrical abnormality. For such a design, it would not be appropriate
+  to limit the radio relief to just the #2 system, since both radios are able to be powered
+  under any circumstances.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- emergency
+- sistema
+- system
+- mmel
+- that
+- powered
+- radio
+- electrical
+- emergencia
+- items
+- procedure
+- accomplish
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: mixed
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-61-005.md

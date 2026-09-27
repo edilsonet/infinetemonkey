@@ -1,0 +1,55 @@
+id: is-is-145-009-5-5-1-7-b
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.1.7
+section_title: 'Exemplos de possíveis formatos de lista:'
+subsection_id: b
+cite: 5.5.1.7(b)
+title: 5.5.1.7(b)
+text: 'b) Exemplo 2
+
+  MOM Data: 13/11/ 2001
+
+  Revisão Nº 1
+
+  Seção III
+
+  SEÇÃO de PESSOAL
+
+  Título:
+
+  Inspetor
+
+  Assinatura Autorizada:
+
+  Kelly Ribeiro
+
+  Licença ANAC:
+
+  Mecânico Célula, GMP e Aviônica nº 123456789
+
+  Autorizado a Assinar:
+
+  Livro de Bordo e outras aprovações para retorno ao serviço, Relatórios de Mau Funcionamento
+  e Defeitos.'
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- secao
+- aprovacoes
+- assinar
+- assinatura
+- autorizada
+- autorizado
+- avionica
+- bordo
+- celula
+- data
+- defeitos
+- exemplo
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

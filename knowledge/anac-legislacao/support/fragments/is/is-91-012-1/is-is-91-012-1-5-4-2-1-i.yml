@@ -1,0 +1,42 @@
+id: is-is-91-012-1-5-4-2-1-i
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.4.2.1
+section_title: 'A aeronave deve se enquadrar nas situações previstas em 91.213(d)(1):'
+subsection_id: i
+cite: 5.4.2.1(i)
+title: 5.4.2.1(i)
+text: 'i) aeronave de controle pendular para a qual não se tenha desenvolvido uma MMEL.
+
+  Nota 1: considera-se que foi desenvolvida uma MMEL para a aeronave se existe MMEL aprovada
+  pela Anac para a aeronave, em conformidade com a IS nº 21.61-005.
+
+  Nota 2: para os propósitos de determinar se foi desenvolvida MMEL para uma determinada aeronave,
+  uma MMEL genérica (aplicável a diferentes aeronaves, como, por exemplo, aviões monomotores)
+  não é considerada, mesmo que a aeronave esteja no escopo da MMEL genérica.
+
+  5.4.2.2 Deve ser verificado se o item que está inoperante é requerido por alguma das condições
+  a seguir. Caso o item seja requerido por alguma delas, a aeronave deve ser considerada não-aeronavegável
+  e, portanto, o item inoperante deve ser substituído ou reparado antes de a aeronave ser
+  operada.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- mmel
+- alguma
+- considerada
+- desenvolvida
+- generica
+- inoperante
+- nota
+- requerido
+- aeronavegavel
+- aeronaves
+- aplicavel
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

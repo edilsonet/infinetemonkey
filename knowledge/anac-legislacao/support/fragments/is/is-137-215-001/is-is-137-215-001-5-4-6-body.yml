@@ -1,0 +1,78 @@
+id: is-is-137-215-001-5-4-6-body
+kind: is
+document: is-137-215-001
+family: '137'
+section_id: 5.4.6
+section_title: As mitigações adotadas devem se refletir nos manuais do operador e eventualmente
+  nas listas de verificação (checklists) disponibilizadas aos pilotos.
+subsection_id: body
+cite: 5.4.6
+title: As mitigações adotadas devem se refletir nos manuais do operador e eventualmente nas
+  listas de verificação (checklists) disponibilizadas aos pilotos.
+text: '5.4.6 As mitigações adotadas devem se refletir nos manuais do operador e eventualmente
+  nas listas de verificação (checklists) disponibilizadas aos pilotos.
+
+  5.4.7 Quando não for intuitivo ao piloto porque é que certos procedimentos mitigatórios
+  devem ser realizados, a instrução deveria vir acompanhada de uma explicação do porquê aquele
+  procedimento ser importante ou necessário.
+
+  5.4.8 Para auxiliar a avaliação do risco, o operador pode considerar o uso de ferramentas
+  mentais, tais como a matriz de riscos do SGSO, onde o risco é avaliado em termos de probabilidade
+  de ocorrência e severidade da consequência, tomando como referência a pior condição possível.
+
+  5.4.9 Mitigações que podem ser adotadas pelo operador são: envolver hierarquias mais altas
+  para aprovação de operações consideradas de mais alto risco, estabelecimento de horários
+  especiais para operação (para evitar ofuscamento pela luz do Sol ou evitar horários em que
+  é maior a probabilidade de ocorrência de neblina, por exemplo), treinamentos especiais,
+  dentre outras.
+
+  5.5 Treinamento inicial e periódico
+
+  5.5.1 O parágrafo 137.207(b) requer que um piloto somente seja designado para uma operação
+  aeroagrícola depois de ter sido submetido a treinamento(s) adequado(s) para a atividade,
+  e tal(is) treinamento(s) deve(m) garantir que o piloto se mantenha adequadamente qualificado
+  para a operação e familiarizado com as peculiaridades do local da operação, da aeronave
+  e do operador.
+
+  5.5.2 Desse modo, para que se mantenha qualificado, é necessário que o piloto receba, minimamente,
+  um treinamento inicial e, depois, treinamentos periódicos subsequentes para a reciclagem
+  do conhecimento. A ANAC não estabeleceu obrigatoriedade de envio de um programa de treinamento
+  para aprovação ou aceitação, nem estabeleceu um prazo para os treinamentos periódicos, e
+  estes ficam a critério do operador, mas recomenda-se que eles sejam realizados anualmente
+  ou no início de cada safra.
+
+  5.5.3 É importante observar que os treinamentos visam abordar principalmente situações anormais
+  que normalmente não ocorrem no dia a dia operacional do piloto, a fim de garantir que o
+  piloto realmente conhece as reações adequadas para cada situação abordada.
+
+  5.5.4 O parágrafo 137.207(b) do RBAC nº 137 também requer que faça parte, obrigatoriamente,
+  do treinamento do piloto, os aspectos de prevenção à distração do piloto devido a fatores
+  físicos, auditivos, visuais e cognitivos, aspectos de gerenciamento de recursos de cabine
+  com tripulação simples, os perigos já conhecidos pelo operador e as lições aprendidas ao
+  longo do tempo com o gerenciamento de risco.
+
+  5.5.5 Neste sentido, o gerenciamento de risco previsto nesta IS deve se reflitir também
+  nos currículos de treinamento. As diversas situações de perigo identificadas e suas mitigações
+  devem ser apresentadas aos pilotos e debatidas em aula. Também é esperado que, para cada
+  treinamento, os perigos a serem debatidos sejam atualizados, incorporando os novos que tiverem
+  sido descobertos e retirando do escopo aqueles perigos que já tiverem sido eliminados.'
+keywords:
+- aeroagricola
+- operacoes
+- operador
+- piloto
+- treinamento
+- mitigacoes
+- risco
+- adotadas
+- operacao
+- pilotos
+- treinamentos
+- cada
+- checklists
+- disponibilizadas
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-215-001.md

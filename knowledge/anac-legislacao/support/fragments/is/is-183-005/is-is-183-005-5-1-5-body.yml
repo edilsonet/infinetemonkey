@@ -1,0 +1,76 @@
+id: is-is-183-005-5-1-5-body
+kind: is
+document: is-183-005
+family: '183'
+section_id: 5.1.5
+section_title: Grupos de Credenciamento de PCA
+subsection_id: body
+cite: 5.1.5
+title: Grupos de Credenciamento de PCA
+text: '5.1.5 Grupos de Credenciamento de PCA
+
+  5.1.5.1 Grupos: Os PCA estão divididos em grupos e subgrupos, de acordo com o escopo técnico
+  para Credenciamento. Esta IS aborda apenas os grupos A, B e C e subgrupos A1, A2, B1 e B2.
+  A Tabela 1 apresenta as atribuições de cada um desses grupos e seus subgrupos (quando houver):
+
+  TABELA 1: Grupos de Credenciamento de PCA.
+
+  Função
+
+  Grupo
+
+  Subgrupo
+
+  Limitação
+
+  Vistoria técnica de aeronave para emissão de Certificado de Aeronavegabilidade Padrão
+
+  A
+
+  A1
+
+  Aeronaves que operam segundo o RBAC n° 121.
+
+  A2
+
+  Aviões certificados na categoria transporte (RBAC n° 25 e equivalentes de outras AAC).
+
+  B
+
+  B1
+
+  Aeronaves que operam segundo o RBAC n° 135, exceto as que se enquadram no subgrupo A2.
+
+  B2
+
+  Aeronaves de asas rotativas certificadas na categoria transporte (RBAC n° 29 e equivalentes
+  de outras AAC).
+
+  C
+
+  -
+
+  Aeronaves que não se enquadrem nos grupos A ou B.
+
+
+  NOTA - O PCA somente poderá realizar vistoria em aeronave certificada ou que opere ou que
+  se pretenda operar segundo o regulamento ligado ao grupo ou subgrupo no qual ele está credenciado.'
+keywords:
+- delegacao
+- credenciamento
+- grupos
+- aeronaves
+- segundo
+- subgrupo
+- subgrupos
+- aeronave
+- categoria
+- equivalentes
+- grupo
+- operam
+- outras
+categories:
+- delegacao
+- credenciamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-183-005.md

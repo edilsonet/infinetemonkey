@@ -1,0 +1,103 @@
+id: is-is-121-021-apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem-b
+kind: is
+document: is-121-021
+family: '121'
+section_id: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem
+section_title: APÊNDICE C - SEQUÊNCIAS DE INSTRUÇÕES RECOMENDADAS PELO OEM
+subsection_id: b
+cite: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem(b)
+title: apendice-c-sequencias-de-instrucoes-recomendadas-pelo-oem(b)
+text: 'b) Fatores ambientais - efeitos do gelo em aeronaves turboélice
+
+  I. Condições: entrar em uma situação de baixa potência como resultado de uma falha em monitorar
+  adequadamente o desempenho da aeronave em condições de gelo.
+
+  II. Treinamento: demonstrar o uso correto dos SOP da aeronave para monitorar o status de
+  energia da aeronave, detectar um declínio insustentável no desempenho da aeronave e iniciar
+  a mudança necessário no perfil de voo do avião para retornar a um estado de energia aceitável.
+
+  III. Justificativa: as tripulações de voo devem considerar as condições de gelo na atmosfera
+  quando houver umidade visível em qualquer forma (como nuvens, neblina, chuva, neve e cristais
+  de gelo) e a temperatura do ar for mais fria do que o especificado na orientação do OEM
+  (OAT, SAT ou TAT).
+
+  Nota: o monitoramento constante da taxa de subida e velocidade deve ser realizado para permitir
+  a detecção de condições de formação de gelo que podem não ser óbvias do ponto de vista visual
+  (como acúmulo de gelo claro, por exemplo).
+
+  Portanto, assim que uma perda de desempenho for detectada e mesmo que a formação de gelo
+  não possa ser identificada ou considerada como a causa de tal perda de desempenho, descer
+  sem demora da altitude atual deve sempre ser considerado como um possível curso de ação
+  para recuperar ou evitar uma perda de rendimento maior.
+
+  Como regra geral e com base na experiência, tais condições ambientais têm uma extensão vertical
+  limitada. Descendo várias centenas a alguns milhares de pés, geralmente é possível sair
+  de tais condições. A descida combina três efeitos positivos: permite que a tripulação de
+  voo mude de altitude para aumentar a velocidade enquanto reduz o ângulo de ataque, a temperatura
+  externa geralmente aumenta e os motores fornecem mais potência.
+
+  Em subida, deve ser utilizado o modo de piloto automático em modo IAS ou equivalente, que
+  protege a aeronave contra possíveis perdas de desempenho (gradientes de vento, formação
+  de gelo). Recomenda-se definir o alvo IAS com uma margem de velocidade acima da velocidade
+  mínima para voar em condições de gelo.
+
+  Dados os fatores que influenciam a razão de subida (peso, temperatura etc.), pode não ser
+  fácil para a tripulação detectar um desempenho de subida abaixo do normal. No entanto, o
+  valor da razão de subida fornece à tripulação uma indicação essencial do desempenho absoluto
+  da aeronave. Sempre que uma diminuição no desempenho for detectada, a tripulação de voo
+  deve considerar se será necessário interromper a subida e escolher um nível de cruzeiro
+  abaixo do alvo inicial até que a aeronave recupere o desempenho.
+
+  O mais tardar, uma razão média de subida que diminui abaixo de um valor mínimo predeterminado
+  deve resultar na interrupção da subida (por exemplo, 100 pés/min ou menos é uma indicação
+  de que a aeronave atingiu seu teto operacional). Nivelar o avião pode não ser suficiente
+  para ganhar velocidade suficiente, o que deve levar a tripulação a descer para um nível
+  mais baixo.
+
+  Em cruzeiro, a potência é geralmente fixa. Dependendo da altitude e da temperatura, esse
+  nível de potência deve levar a aeronave a um IAS de cruzeiro específico. Essa velocidade
+  alvo deve ser conhecida e antecipada pela tripulação de voo para que um desvio desse valor
+  possa ser facilmente identificado.
+
+  Assim que uma perda de velocidade for identificada, a tripulação deve avaliar se a diminuição
+  de velocidade pode ou não ser controlada. Caso a velocidade alvo não possa ser mantida,
+  a tripulação deve tomar todas as medidas necessárias para manter a velocidade com margem
+  suficiente acima da velocidade mínima para voo de cruzeiro. Para recuperar ou manter a velocidade,
+  uma primeira ação pode se aumentar a potência até a potência máxima disponível. Se isso
+  não for suficiente e o IAS continuar a diminuir, a tripulação deve preparar uma estratégia
+  de descida (MSA disponível, rota de fuga, coordenação com mensagens ATC, PAN PAN ou Mayday
+  se necessário para executar uma descida imediata).
+
+  O tempo disponível para a tripulação desde o momento em que identifica a perda de velocidade
+  até o momento em que precisa agir depende da margem disponível acima da velocidade mínima
+  e da taxa de acúmulo de gelo. Por esta razão, é recomendado, se as condições de formação
+  de gelo forem prováveis ​​na rota planejada, escolher um nível de voo que forneça uma velocidade
+  de cruzeiro de um valor predeterminado acima da velocidade mínima de formação de gelo para
+  voo de cruzeiro. Para fornecer essa margem, a orientação do OEM para o tipo específico de
+  aeronave deve ser seguida.
+
+  O mais tardar, quando a velocidade indicada, depois de ter diminuído, se aproximar da velocidade
+  mínima para condições de formação de gelo, a tripulação aplicará imediatamente o procedimento
+  AFM aplicável e iniciará uma descida.
+
+  C1.12. Esteira de turbulência'
+keywords:
+- transporte-aereo
+- operacoes
+- velocidade
+- gelo
+- tripulacao
+- aeronave
+- condicoes
+- desempenho
+- subida
+- cruzeiro
+- formacao
+- potencia
+- minima
+- perda
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-021.md

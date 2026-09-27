@@ -1,0 +1,31 @@
+id: rbac-rbac-108-emd-07-108-139-a
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.139'
+section_title: Transporte aéreo de valores
+subsection_id: a
+cite: 108.139(a)
+title: 108.139(a)
+text: (a) O operador aéreo deve realizar o transporte de valores seguindo procedimentos de
+  segurança previstos em um plano de segurança específico para o transporte aéreo de valores
+  do aeródromo, compatível com os valores a serem transportados e com comunicação prévia com
+  os operadores dos aeródromos envolvidos.
+keywords:
+- seguranca
+- operador
+- valores
+- aereo
+- transporte
+- aerodromo
+- aerodromos
+- compativel
+- comunicacao
+- envolvidos
+- especifico
+- operadores
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

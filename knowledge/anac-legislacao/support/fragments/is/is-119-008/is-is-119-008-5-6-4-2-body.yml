@@ -1,0 +1,54 @@
+id: is-is-119-008-5-6-4-2-body
+kind: is
+document: is-119-008
+family: '119'
+section_id: 5.6.4.2
+section_title: A Figura 1 permite uma visualização dos núcleos de atuação em um PAADV e o
+  fluxo de trabalho esperado no programa.
+subsection_id: body
+cite: 5.6.4.2
+title: A Figura 1 permite uma visualização dos núcleos de atuação em um PAADV e o fluxo de
+  trabalho esperado no programa.
+text: '5.6.4.2 A Figura 1 permite uma visualização dos núcleos de atuação em um PAADV e o
+  fluxo de trabalho esperado no programa.
+
+
+  Figura 1: Núcleos de atuação em um Programa de Acompanhamento e Análise de Dados de Voo
+  (PAADV) e fluxo de trabalho.
+
+
+  5.7 CONTATO COM A TRIPULAÇÃO
+
+  5.7.1 Há situações em que a análise dos dados do FDM em uma estação de solo pode não permitir
+  um diagnóstico conclusivo do ocorrido em um determinado evento, sendo necessário obter informações
+  adicionais para elucidar o contexto operacional em que o voo estava inserido.
+
+  5.7.2 O contato com a tripulação pode ser a melhor forma de entender o “como” e o “por quê”
+  o voo foi conduzido de tal forma. As informações fornecidas pela tripulação podem ser de
+  grande valia para a área de segurança operacional, pois permitem uma análise mais precisa
+  da ocorrência do ponto de vista do SGSO. Além disso, podem ser úteis a outros setores que
+  utilizam os dados do PAADV, como operações de voo, flight standards, treinamento, dentre
+  outros.
+
+  5.7.3 O operador aéreo deve elaborar procedimentos para o contato com a tripulação, assim
+  como formalizá-los em sua documentação do PAADV, e devem conter no mínimo:'
+keywords:
+- certificacao-de-operador
+- operacoes
+- paadv
+- atuacao
+- figura
+- fluxo
+- nucleos
+- programa
+- trabalho
+- tripulacao
+- analise
+- contato
+- dados
+- esperado
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-008.md

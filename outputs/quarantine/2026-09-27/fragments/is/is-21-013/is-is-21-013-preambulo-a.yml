@@ -1,0 +1,2926 @@
+id: is-is-21-013-preambulo-a
+kind: is
+document: is-21-013
+family: '21'
+section_id: preambulo
+section_title: Preambulo e sumario
+subsection_id: a
+cite: preambulo(a)
+title: preambulo(a)
+text: '(a) (b)
+
+  A definir 2 A definir 2 0,6
+
+  a) Segmentos inicial, intermediário e de aproximação perdida de um procedimento de aproximação.
+
+  b) Segmento final de um procedimento de aproximação.
+
+  Tabela 7 - Valor máximo de TSE lateral para geração de alerta
+
+  7.9.4.7. Requisitos funcionais
+
+  a) Informações de navegação e Anúncios
+
+  I. Os seguintes anúncios e informações devem estar disponíveis para o(s) piloto(s)
+
+  conforme localizações apresentadas a seguir para as operações IFR PBN.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  i. Piloto:
+
+  Informação ou Anunciação
+
+  Lo
+
+  cal
+
+  iza
+
+  ção
+
+  Campo de Visão Primário
+
+  Ótimo Máximo
+
+  Curso e desvio lateral da rota (CDI, HSI ou
+
+  EHSI convencionais, ou um display do tipo
+
+  mapa de navegação)
+
+  X
+
+  Fonte de navegação X1
+
+  Anúncio de Falha (bandeira) X2
+
+  TO/FROM X2
+
+  Anúncio de Integridade (INTEG) 5 X3 X4
+
+  Modo de Aproximação (TERM/APR, APR
+
+  ARM/ACT ou equivalente) 5 X
+
+  Anúncios de Status (MSG e WPT ou
+
+  equivalentes) 5 X
+
+  Anúncios de Modos OBS/AUTO ou
+
+  MAN/LEG, SUSP e XTRK ou equivalentes6
+
+  Tabela 8 - Anúncios e informações requeridas para o piloto para operações IFR PBN
+
+  1A indicação de Fonte de Navegação deve estar no mesmo lado do indicador do tipo CDI em
+  relação à centerline e é
+
+  necessária somente se houver a possibilidade de apresentar mais de uma fonte de navegação
+  no mesmo indicador.
+
+  2Esses anúncios devem ser apresentados em conjunto com o desvio de curso, no mesmo instrumento.
+
+  3O anúncio de integridade (INTEG) deve estar no Campo de Visão Primário Ótimo para operações
+  do tipo RNP.
+
+  4O anúncio de integridade (INTEG) deve estar no Campo de Visão Primário Máximo para operações
+  do tipo RNAV.
+
+  5É aceitável que estes anúncios estejam disponíveis na própria unidade GNSS, desde que instalada
+  no Campo de Visão
+
+  apropriado do piloto.
+
+  6Os anúncios de modos OBS/AUTO ou MAN/LEG, SUSP e XTRK ou equivalentes devem estar disponíveis
+  para o piloto.
+
+  É aceitável que estejam disponíveis na própria unidade GNSS.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  ii. Segundo Piloto:
+
+  Quando forem requeridos dois pilotos, deve ser considerada a Tabela 8 ou a
+
+  Tabela 9 a seguir:
+
+  Informação ou Anunciação
+
+  Localização
+
+  Campo de Visão Primário
+
+  Ótimo Máximo
+
+  Curso e desvio lateral da rota X1
+
+  Fonte de navegação X2
+
+  Anúncio de Falha (bandeira) X3
+
+  TO/FROM X1
+
+  Anúncio de Integridade (INTEG) X1
+
+  Modo de Aproximação (TERM/APR, APR
+
+  ARM/ACT ou equivalente)
+
+  X1
+
+  Anúncios de Status (MSG e WPT ou
+
+  equivalentes)
+
+  X1
+
+  Anúncios de Modos OBS/AUTO ou
+
+  MAN/LEG, SUSP e XTRK ou equivalentes4
+
+  Tabela 9 - Anúncios e informações requeridas para o segundo piloto para operações IFR PBN
+
+  1A instalação do próprio equipamento GNSS no Campo de Visão Primário Máximo do segundo piloto,
+  desde que todas estas
+
+  informações estejam disponíveis nele, é aceita para atender este requisito.
+
+  2O anúncio da fonte de navegação selecionada para o segundo piloto somente será aplicável
+  em instalações com display do
+
+  tipo CDI externo e integrado a mais de uma fonte de navegação.
+
+  3Para instalações em que o próprio CDU do equipamento GNSS for utilizado para apresentar
+  informações de curso e desvio
+
+  lateral da rota, o apagamento do display é aceito como equivalente ao anúncio de falha (bandeira).
+
+  4Os anúncios de modos OBS/AUTO ou MAN/LEG, SUSP e XTRK ou equivalentes devem estar disponíveis
+  para o segundo
+
+  piloto. É aceitável que estejam disponíveis na própria unidade GNSS.
+
+  II. Quando houver a possibilidade de um determinado modelo de aeronave ser
+
+  requerido a operar com um ou dois pilotos, a depender da operação, pode-se ter os
+
+  seguintes cenários:
+
+  i. Quando os anúncios/informações requeridos e suas posições estiverem
+
+  disponíveis para o piloto, conforme Tabela 8 e não disponíveis para o segundo
+
+  piloto:
+
+  Neste caso, deverá ser inserida uma limitação no SMV informando que a
+
+  operação PBN está limitada a operações em que seja requerido apenas um
+
+  piloto;
+
+  ii. Quando os anúncios/informações requeridos e suas posições estiverem
+
+  disponíveis para o piloto, conforme Tabela 8 e disponíveis para o segundo
+
+  piloto conforme Tabela 9:16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  Neste caso, deverá ser inserida uma limitação no SMV informando que durante
+
+  a operação PBN o piloto em comando sentado no assento da esquerda (para
+
+  avião, ou direita para helicóptero) deverá estar no controle da aeronave;
+
+  iii. Quando os anúncios/informações requeridos e suas posições estiverem
+
+  disponíveis para o piloto e para o segundo piloto, conforme Tabela 8:
+
+  Neste caso, nenhuma limitação adicional é necessária;
+
+  iv. Quando os anúncios/informações requeridas e suas posições estiverem
+
+  disponíveis para o segundo piloto, conforme Tabela 8, e não disponíveis para
+
+  o piloto (ref. GNSS 2):
+
+  Neste caso, deverá haver instalado pelo menos um segundo equipamento
+
+  GNSS (ref. GNSS 1) cujos anúncios/informações e suas posições estejam
+
+  disponíveis para o piloto, conforme Tabela 8;
+
+  Deverá ser observado o cumprimento dos itens 7.3.1 e 7.3.2 desta IS; e
+
+  Deverá ser inserida uma limitação no SMV informando que a operação PBN
+
+  com o GNSS 2 estará limitada a quando a aeronave for operada com dois
+
+  pilotos;
+
+  Nota: Este cenário trata da instalação de dois equipamentos GNSS com
+
+  informações segregadas entre piloto e segundo piloto. Para instalações duplas
+
+  com os anúncios/informações e suas posições disponíveis para os dois pilotos,
+
+  referir-se ao cenário (iii.) acima.
+
+  III. Em adição ao apresentado acima, os seguintes requisitos para apresentação dos
+
+  dados de navegação são necessários para uma operação PBN:
+
+  i. Os indicadores de desvio lateral devem possuir limites de indicação e escala
+
+  compatíveis com qualquer fase do voo (deve ser possível, em qualquer situação
+
+  de desvio lateral, fazer uma leitura deste de forma a identificar com facilidade,
+
+  clareza e resolução suficientes, a posição lateral da aeronave em relação à rota
+
+  a ser voada e em relação aos limites que devem ser mantidos);
+
+  ii. A escala do indicador de desvio lateral deve corresponder a qualquer alerta e
+
+  anúncio de limites, se instalados;
+
+  iii. As escalas e os limites de indicação de desvio lateral podem ser ajustados
+
+  manual ou automaticamente, de acordo com a fase de voo. Os limites de
+
+  indicação devem ser conhecidos, ou serem disponibilizados num display, para
+
+  a tripulação mensurar os valores de acordo com a fase de voo;
+
+  iv. A indicação de desvio lateral do curso deve ser automaticamente escravizada
+
+  ao GNSS. Caso haja um seletor de curso no indicador de desvio lateral (por
+
+  exemplo, no caso de o indicador ser um HSI/EHSI), é recomendado que a
+
+  seleção de curso seja automática.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  v. Caso o requerente opte por utilizar um display do tipo mapa de navegação, ele
+
+  deve estar localizado no campo de visão primário e oferecer funcionalidades
+
+  equivalentes às de um instrumento do tipo CDI, ou seja, deve ser possível, com
+
+  a utilização de uma escala apropriada, em qualquer fase do voo e em qualquer
+
+  situação de desvio lateral, identificar com facilidade, clareza e precisão
+
+  suficientes a posição lateral da aeronave em relação à rota a ser voada e em
+
+  relação aos limites que devem ser mantidos.
+
+  b) Banco de dados
+
+  A Tabela 10 a seguir apresenta os requisitos necessários para o banco de dados de um
+
+  sistema PBN:
+
+  REQUISITO
+
+  RNAV 5
+
+  RNAV 1 e 2
+
+  RNP 1
+
+  RNP APCH
+
+  Meios para armazenamento de no mínimo quatro waypoints. X
+
+  Banco de dados de navegação, contendo os dados de navegação oficiais promulgado
+
+  pela autoridade pertinente. Esse banco de dados deve ser protegido contra modificação
+
+  que a tripulação pretenda fazer nele.
+
+  X X X
+
+  Meio de exibir a data de validade do banco de dados de navegação.
+
+  Nota: Os bancos de dados utilizados devem cumprir com a RTCA DO-200A ou
+
+  EUROCAE ED76.
+
+  X X X
+
+  Meios para acessar o banco de dados e apresentar as informações de navegação
+
+  armazenadas (procedimentos, auxílios, aeródromos e waypoints etc.). X X X
+
+  Capacidade de carregar nos sistemas PBN, a partir do banco de dados de navegação,
+
+  pelo nome e por inteiro, os procedimentos de navegação (por exemplo, procedimentos
+
+  SID e STAR).
+
+  X X
+
+  Capacidade de carregar no sistema RNP APCH, a partir do banco de dados de
+
+  navegação, pelo nome e por inteiro, os procedimentos de aproximação. X
+
+  As rotas de navegação (exceto procedimentos SID e STAR) podem ser carregadas
+
+  manualmente, waypoint por waypoint. X
+
+  Tabela 10 - Requisitos necessários para o banco de dados de um sistema PBN
+
+  c) Apresentação de informações para a navegação
+
+  O sistema deve prover, em local visível, de forma contínua ou facilmente acessível, as
+
+  seguintes informações contidas na Tabela 11, a seguir, conforme o tipo de operação
+
+  PBN:16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  REQUISITO
+
+  RNAV 5
+
+  RNAV 1 e 2
+
+  RNP 1
+
+  RNP APCH
+
+  A identificação do próximo waypoint. X X X
+
+  A velocidade no solo ou o tempo para o próximo waypoint. X X X X
+
+  A distância e a proa para o próximo waypoint. X X X X
+
+  A distância entre dois waypoints do plano de voo. X
+
+  Tabela 11 - Informações de navegação requeridas para operação PBN
+
+  d) Capacidade de executar a função DIRECT TO (esta função não é obrigatória para
+
+  operações PBN do tipo RNAV 5);
+
+  e) Capacidade de sequenciamento automático das pernas de navegação, bem como a
+
+  capacidade de exibição (evidência) do sequenciamento executado à tripulação (por
+
+  sequenciamento automático das pernas de navegação entende-se a transição de uma
+
+  perna de navegação ativa à outra, na sequência e no momento adequado, com a
+
+  consequente exibição do novo desvio de curso em relação à nova perna de navegação
+
+  ativa) (esta função não é obrigatória para operações PBN do tipo RNAV 5);
+
+  f) Capacidade de executar os procedimentos de navegação conforme carregados a partir
+
+  do banco de dados, incluindo a capacidade de realizar transições do tipo fly-by e fly-
+
+  over, conforme definidas na RTCA/DO-236B, parágrafo 3.2.5.4.1 (esta função não é
+
+  obrigatória para operações PBN do tipo RNAV 5);
+
+  g) Capacidade de executar automaticamente as transições conforme as seguintes
+
+  definições da norma ARINC 424: IF, CF, DF e TF (esta função não é obrigatória para
+
+  operações PBN do tipo RNAV 5);
+
+  Nota 1: A capacidade do sistema em executar automaticamente as transições acima não
+
+  significa, necessariamente, que o sistema precisa estar acoplado a um DV ou PA. As
+
+  transições podem ser executadas pela tripulação conforme indicações fornecidas pelo
+
+  sistema;
+
+  Nota 2: Os segmentos de aproximação perdida de operações RNP APCH podem ser
+
+  baseados em meios convencionais de navegação. Neste caso, os requisitos RNP APCH
+
+  não são aplicáveis neste segmento.
+
+  8. VERIFICAÇÃO DA INSTALAÇÃO E DE SEU FUNCIONAMENTO NO SOLO
+
+  Como parte dos procedimentos para aprovação de instalações GNSS, as seguintes verificações
+
+  no solo devem ser efetuadas:
+
+  8.1. Verificar a posição da antena, com o afastamento mínimo de 3 pés (aproximadamente 1,0
+  m)
+
+  em relação a outras antenas ou conforme recomendado pelo fabricante, selagem, reforço e
+
+  vedação em aeronaves pressurizadas. O mínimo recomendado para afastamento entre cabos
+
+  de antena e outros cabos é de 7,6 cm ou 3,0 pol. A antena não deve ser pintada;16-12-2016
+  IS nº 21-013
+
+  Revisão B
+
+  8.2. Verificar a posição e inscrição dos placares aplicáveis;
+
+  8.3. Verificar a posição dos anunciadores de fonte de navegação e demais anunciadores e
+
+  repetidores. Verificar a adequação das luzes e cores, conforme aplicável;
+
+  8.4. Verificar a localização e a fixação das caixas de transferência, relés, módulos de
+  acoplamento,
+
+  entre outros e a independência da proteção e alimentação elétricas das mesmas, conforme
+
+  aplicável;
+
+  8.5. Verificar se os fios de alimentação e interface estão na bitola adequada e se são de
+  qualidade
+
+  aeronáutica;
+
+  8.6. Verificar identificação, valores, conformidade com o projeto e acesso aos disjuntores;
+
+  8.7. Verificar se o local de instalação do equipamento não está sujeito a condições ambientais
+
+  excessivas (temperatura, pressão, umidade etc.) e se os limites de operação do equipamento
+
+  são compatíveis com os limites ambientais onde será instalado na aeronave;
+
+  8.8. Verificar se o equipamento instalado não apresenta reflexos indesejáveis, se as suas
+
+  informações são legíveis durante o dia e à noite (caso aplicável) e se os seus comandos
+  são
+
+  acessíveis e visíveis (inclusive disjuntores);
+
+  8.9. Verificar a variação de intensidade luminosa (DIM/BRT) do display e anunciadores/avisos,
+
+  bem como verificar se os anunciadores e demais anúncios luminosos possuem dispositivo de
+
+  teste de lâmpadas (test lamps), conforme aplicável;
+
+  8.10. Verificar se o Manual de Operação do equipamento GNSS e demais funcionalidades
+
+  instaladas (exemplo: adendo para TAWS, entre outros) estão a bordo da aeronave, anotando
+
+  o PN e da revisão em vigor (incluindo a data da revisão);
+
+  8.11. Verificar se há interrupção do funcionamento do equipamento GNSS quando se abre o
+
+  disjuntor ou quando a aeronave está em emergência elétrica;
+
+  8.12. Verificar os procedimentos de inicialização, autoteste, versão do software, validade
+  do
+
+  database, número de satélites capturados e qualidade dos sinais recebidos;
+
+  8.13. Verificar se o equipamento GNSS, quando operando, não causa interferência nos demais
+
+  sistemas da aeronave (VHF, HF, VOR, DME, ADF, rádio altímetro etc.). O chaveamento de
+
+  fontes elétricas (geradores, alternadores) não deverá influir significativamente nas
+
+  informações apresentadas pelo GNSS;
+
+  8.14. Para instalações GNSS devem ser verificadas as interferências harmônicas das frequências
+  de
+
+  VHF, conforme descrito nessa IS. É importante ressaltar que, nas instalações de sistemas
+
+  GNSS para PBN, não é aceitável que o GNSS sofra interferência significativa de qualquer
+
+  equipamento de bordo.
+
+  Nota: Um modelo de cartão de ensaios no solo é apresentado no Apêndice C desta IS.16-12-2016
+  IS nº 21-013
+
+  Revisão B
+
+  9. APÊNDICES
+
+  9.1. Apêndice A - LISTA DE REDUÇÕES
+
+  9.2. Apêndice B - REFERÊNCIAS
+
+  9.3. Apêndice C - MODELO DE CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO
+
+  SOLO
+
+  9.4. Apêndice D - MODELO DE SUPLEMENTO AO MANUAL DE VOO
+
+  9.5. Apêndice E - MODELO DE CARTÃO DE TESTE PARA ENSAIOS EM VOO
+
+  10. DISPOSIÇÕES FINAIS
+
+  10.1. Os casos omissos serão dirimidos pela ANAC.
+
+  10.2. Esta IS entra em vigor na data de sua publicação.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  APÊNDICE A - LISTA DE REDUÇÕES
+
+  ABAS Aircraft-Based Augmentation System
+
+  AC Advisory Circular
+
+  ADAHRS Air Data, Attitude and Heading Reference System
+
+  ADF Automatic Direction Finder
+
+  ADS-B Automatic Dependent Surveillance - Broadcast
+
+  AMC Acceptable Means of Compliance
+
+  ANAC Agência Nacional de Aviação Civil
+
+  APV Approach Procedures with Vertical Guidance
+
+  AR All Revisions
+
+  CDI Course Deviation Indicator
+
+  CDU Control Display Unit
+
+  CF Course to Fix
+
+  CFR Code of Federal Regulations
+
+  CST Certificado Suplementar de Tipo
+
+  DF Direct to Fix
+
+  DME Distance Measuring Equipment
+
+  DV Diretor de Voo
+
+  EASA European Aviation Safety Agency
+
+  EHSI Electronic HSI
+
+  ELT Emergency Locator Transmitter
+
+  EMC Electromagnetic Compatibility
+
+  EMI Electromagnetic Interference
+
+  FAA Federal Aviation Administration
+
+  FDE Fault Detection and Exclusion
+
+  FTE Flight Technical Error
+
+  FMS Flight Management System
+
+  GAMA General Aviation Manufacturers Association
+
+  GBAS Ground-Based Augmentation System
+
+  GLONASS Global Navigation Satellite System
+
+  GNSS Global Navigation Satellite System
+
+  GPS Global Positioning System
+
+  HF High Frequency
+
+  HSI Horizontal Situation Indicator
+
+  HTAWS Helicopter TAWS
+
+  IAC Instrument Approach Chart
+
+  ICAO International Civil Aviation Organization
+
+  IF Initial Fix
+
+  IFR Instrument Flight Rules
+
+  ILS Instrument Landing System
+
+  INS Inertial Navigation System
+
+  IRS Inertial Reference System
+
+  IRU Inertial Reference Unit
+
+  IS Instrução Suplementar
+
+  JAA Joint Aviation Authorities
+
+  LODA Letter of Design Approval16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  MEMS Microelectromechanical Sensors
+
+  MFD Multifunction Display
+
+  MG Miscellaneous Guidance
+
+  NM Nautical Miles
+
+  NSE Navigation System Error
+
+  PA Piloto Automático
+
+  PBN Performance-Based Navigation
+
+  PDE Path Definion Error
+
+  PN Part Number
+
+  PVT Positioning, Velocity, and Timing
+
+  RAIM Receiver Autonomous Integrity Monitoring
+
+  RBAC Regulamento Brasileiro da Aviação Civil
+
+  RMI Radio Magnetic Indicator
+
+  RNAV Area Navigation
+
+  RNP Required Navigation Performance
+
+  RTCA Radio Technical Commission for Aeronautics
+
+  SAR Superintendência de Aeronavegabilidade
+
+  SATCOM Satellite Communication
+
+  SBAS Satellite-Based Augmentation System
+
+  SID Standard Instrument Departure
+
+  SMV Suplemento ao Manual de Voo
+
+  SRVSOP Sistema Regional de Cooperación para la Vigilancia de la Seguridad
+
+  Operacional
+
+  STAR Standard Terminal Arrival Routes
+
+  TAWS Terrain Awareness and Warning System
+
+  TF Track to Fix
+
+  TGL Temporary Guidance Leaflet
+
+  TSE Total System Error
+
+  TSO Technical Standard Order
+
+  TSOA TSO Authorization
+
+  UTC Coordinated Universal Time
+
+  VFR Visual Flight Rules
+
+  VHF Very High Frequency
+
+  VHF-COMM VHF Communication
+
+  VNAV Vertical Navigation
+
+  VOR VHF Omnidirectional Radio Range
+
+  WAAS Wide Area Augmentation System
+
+  WGS-84 World Geodetic System 198416-12-2016 IS nº 21-013
+
+  Revisão B
+
+  APÊNDICE B - REFERÊNCIAS
+
+  AC 20-138C Airworthiness Approval of Positioning and Navigation Systems
+
+  AC 23.1311-1C Installation of Electronic Display in Part 23 Airplanes
+
+  AC 43.13-1B Acceptable Methods, Techniques, and Practices - Aircraft Inspection and
+
+  Repair
+
+  AC 43.13-2B Acceptable Methods, Techniques, and Practices - Aircraft Alterations
+
+  ANAC Policy File “Aeronavegabilidade de aeronave com GNSS TSO 129 e TSO 146 stand
+
+  alone aprovado para IFR no suplemento do Manual de Voo para PBN.” de
+
+  22/07/2013.
+
+  ANAC Policy File “Detalhar interpretações de itens da IS 21-013A relativos às instalações
+  de
+
+  equipamentos GNSS (Global Navigation Satellite Systems) stand alone para
+
+  operações IFR PBN (Performance-Based Navigation).” de 23/07/2013.
+
+  System) em operações IFR em rota e em terminais e em procedimentos de
+
+  aproximação de não-precisão por instrumentos no espaço aéreo brasileiro.
+
+  ICAO/DOC 9613 Performance-based Navigation (PBN) Manual
+
+  ou que venham a ter marcas brasileiras
+
+  RBAC 21 Certificação de Produto Aeronáutico
+
+  RBAC 23 Requisitos de Aeronavegabilidade: Aviões Categoria Normal, Utilidade,
+
+  Acrobática e Transporte Regional
+
+  RBAC 25 Requisitos de Aeronavegabilidade: Aviões Categoria Transporte
+
+  RBAC 27 Requisitos de Aeronavegabilidade: Aeronaves de Asas Rotativas Categoria
+
+  Normal
+
+  RBAC 29 Requisitos de Aeronavegabilidade: Aeronaves de Asas Rotativas Categoria
+
+  Transporte
+
+  RTCA/DO-160 Environmental Conditions and Test Procedures for Airborne Equipment
+
+  TSO-C146 Stand-Alone Airborne Navigation Equipment using the Global Positioning
+
+  System Augmented by the Satellite Based Augmentation System (SBAS)
+
+  TSO-C129 Airborne Supplemental Navigation Equipment using the Global Positioning
+
+  System (GPS)16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  APÊNDICE C - MODELO DE CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO
+
+  SOLO
+
+  O objetivo deste apêndice é fornecer um modelo para a elaboração de “cartões de testes”
+  para a
+
+  Inspeção e Ensaios no Solo e de EMI-EMC.
+
+  A elaboração de cartões de teste não exclui a necessidade da elaboração de uma Proposta
+  de Ensaios
+
+  no Solo e de EMI/EMC. A apresentação de cartões de testes preenchidos não exclui a necessidade
+  da
+
+  apresentação da Declaração de Conformidade bem como de um Relatório com os Resultados da
+
+  Inspeção e de Ensaios no Solo e de EMI/EMC.
+
+  Para ensaios de integração, é necessário descrever como o teste de integração foi realizado
+  e qual foi
+
+  o comportamento observado nesta falha. Exemplo: <Com o GNSS selecionado como fonte de
+
+  navegação, ao desconectar o disjuntor ‘GPS 1’ do GNSS, aparece um ‘X’ vermelho no EHSI.>
+
+  Adicionar outras linhas/campos/folhas, se necessário. Verificar quais são os itens aplicáveis.
+
+  Numerar as páginas do cartão. Exemplo: Folha 01 de 04
+
+  Este é apenas um exemplo, que deve ser adaptado levando em consideração a instalação efetuada
+  e
+
+  os manuais de instalação aplicáveis:
+
+  CARTÃO DE TESTES PARA A INSPEÇÃO E ENSAIOS NO SOLO E DE EMI-EMC
+
+  PROCESSO Processo: H.___-_______-___ Requerente:_____________________________________________
+
+  (Empresa que conduz o processo)
+
+  Documento de Referência:__________________________________ Rev. ___ Data:__/__/_______
+
+  (Lista Mestra de Documentos/Relatório de Engenharia)
+
+  AERONAVE
+
+  Fabricante: _________________________ Especificação:_______________  TCDS ou 
+
+  EA/ER
+
+  Base de certificação: _________ (RBAC/RBHA/FAR/JAR)
+
+  Modelo: Base da Aeronave (Segundo o Certificado de Matrícula):
+
+  Cidade:______________________________U.F.___Pressurizada? sim  não
+
+  Protótipo?  sim  não 1P  ou 2P  (Segundo o Certificado de Aeronavegabilidade)
+
+  Matrícula: Proprietário/Operador: __________________________
+
+  Número de Série:
+
+  SISTEMA Descrição do
+
+  Sistema:__________________________________________________________________
+
+  ___________________________________________________________________________________
+
+  ___________________________________________________________________________________
+
+  __
+
+  PARTICIPANTES Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  Nome__________________________________Função________________________________
+
+  LOCAL Local da Inspeção / Ensaios:
+
+  ______________________________________________________________
+
+  ___________________________________________________________________________________
+
+  Data da Inspeção / Ensaios:__/__/_______
+
+  Folha 01 de 0416-12-2016 IS nº 21-013
+
+  Revisão B
+
+  Revisão B
+
+  Exemplo de roteiro para inspeção:
+
+  INSPEÇÃO
+
+  Inspeção Sat. Não
+
+  Sat.
+
+  Posição da antena do GNSS (afastamento de outras: 3 pés)
+
+  Selagem, reforço e vedação da antena
+
+  Cabos da antena do GNSS afastados dos outros (mínimo 7,6 cm ou 3 pol.)
+
+  Fios de alimentação com bitola adequada e de qualidade aeronáutica
+
+  Posição e independência da alimentação das caixas de transferência
+
+  Posição e inscrição dos placares (listar os placares instalados)
+
+  _______________________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Posição dos anunciadores de fonte de navegação (listar os anunciadores instalados)
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Posição dos demais anunciadores (listar os anunciadores instalados)
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Posição do display do GNSS Instalado no campo de visão primário  sim  não
+
+  Disjuntores (Completar a tabela)
+
+  Identificação Valor (A) Conformidade com o projeto e acesso
+
+  Comandos acessíveis
+
+  Fixação de todos os componentes do sistema
+
+  Verificar se o local de instalação do equipamento não está sujeito a condições
+
+  ambientais excessivas (temperatura, pressão, umidade, entre outros) e se os limites de
+
+  operação do equipamento são compatíveis com os limites ambientais onde será
+
+  instalado na aeronave.
+
+  Coerência com Relatório Técnico de Instalação, Desenhos e Suplemento ao Manual de
+
+  Voo
+
+  Manual de Operação do equipamento a bordo (Completar a tabela)
+
+  Nome Part Number Revisão Data
+
+  __/__/_______
+
+  __/__/_______
+
+  __/__/_______
+
+  Folha 02 de 04
+
+  Alguns itens podem não ser aplicáveis16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  Exemplo de roteiro para ensaios:
+
+  ENSAIOS
+
+  Ensaios Sat. Não
+
+  Sat.
+
+  Procedimentos de inicialização/autoteste
+
+  Versões dos softwares (anotar versão/data, conforme aplicável)
+
+  Validade dos bancos de dados (anotar versão/data, conforme aplicável)
+
+  Variação de intensidade luminosa (“DIM/BRT”) do Display e anunciadores/avisos
+
+  (Descrever como é efetuado o teste)
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  _______________________________________________________________________
+
+  Teste da iluminação dos anunciadores (Descrever como é efetuado o teste)__________
+
+  ________________________________________________________________________
+
+  ________________________________________________________________________
+
+  Reflexos indesejáveis no display e nos anunciadores
+
+  Adequação das luzes e cores dos anunciadores
+
+  Integração com altímetro com codificador (Descrever teste de integração) ___________
+
+  ________________________________________________________________________
+
+  Integração com Sistema de Áudio (Descrever teste de integração) __________________
+
+  ________________________________________________________________________
+
+  Integração com MFD (Descrever teste de integração) ___________________________
+
+  _______________________________________________________________________
+
+  Integração com HSI (Descrever teste de integração) _____________________________
+
+  ________________________________________________________________________
+
+  Integração com ______________ (Descrever teste de integração)
+
+  _______________________________________________________________________
+
+  Número de satélites capturados (anotar)
+
+  Qualidade de sinais recebidos (anotar)
+
+  Verificação de existência de interferência mútua entre GNSS e outros equipamentos de
+
+  bordo (Dentre os testes com outros equipamentos verificar as frequências 121.150 / 121.175
+
+  / 121.185 / 121.190 / 121.200 / 130.285 / 131.250 / 131.275 / 131.290 / 131.300 MHz para
+
+  todos os VHF-COMM existentes, durante uma transmissão contínua de 35s).
+
+  Piloto Automático sai do modo NAV na troca de fonte de navegação (GNSS/VOR-ILS e
+
+  VOR-ILS/GNSS) (GNSS/ILS)  sim  não
+
+  Interrupção do funcionamento do GNSS na abertura do disjuntor e na condição de aeronave
+
+  em emergência
+
+  Conformidade das integrações e do funcionamento com Relatórios Técnicos e com
+
+  Suplemento ao Manual de Voo
+
+  Folha 03 de 0416-12-2016 IS nº 21-013
+
+  Revisão B
+
+  COMENTÁRIOS E CONCLUSÕES
+
+  Comentários e conclusões
+
+  1.
+
+  2.
+
+  3.
+
+  4.
+
+  5.
+
+  6.
+
+  7.
+
+  8.
+
+  9.
+
+  10.
+
+  11.
+
+  12.
+
+  13.
+
+  14.
+
+  15.
+
+  16.
+
+  PENDÊNCIAS
+
+  Pendências
+
+  17.
+
+  18.
+
+  19.
+
+  20.
+
+  21.
+
+  22.
+
+  23.
+
+  24.
+
+  25.
+
+  26.
+
+  27.
+
+  28.
+
+  29.
+
+  30.
+
+  31.
+
+  32.
+
+  33.
+
+  34.
+
+  35.
+
+  36.
+
+  37.
+
+  38.
+
+  APROVAÇÃO
+
+  Não requer voo □
+
+  Cartão elaborado por:________________________________________ Data ____/_____/_________
+
+  Inspeção e Ensaios realizados por: ______________________________ Data ____/_____/_________
+
+  Resultado obtido aprovado por: ________________________________ Data ____/_____/_________
+
+  Folha 04 de 0416-12-2016 IS nº 21-013
+
+  Revisão B
+
+  APÊNDICE D - EXEMPLO DE SUPLEMENTO AO MANUAL DE VOO
+
+  Este modelo tem o objetivo de servir como guia para a elaboração e avaliação do Suplemento
+  ao
+
+  Manual de Voo das instalações de equipamentos usando GNSS stand alone.
+
+  A intenção deste apêndice é fornecer uma orientação geral para a criação de um SMV. A informação
+
+  e estrutura abaixo não se destinam a cobrir todas as possíveis integrações nas aeronaves
+  ou a
+
+  capacidade total dos equipamentos e não devem ser interpretadas de forma a limitar o teor
+  incluído
+
+  em um SMV. A linguagem e estrutura deste modelo devem ser adaptadas conforme a instalação,
+  a
+
+  capacidade dos equipamentos e respectivas limitações.
+
+  Recomenda-se utilizar o estilo de texto Normal (Arial 10 normal).
+
+  Entre os sinais “<” e “>” há a definição do que deverá ser escrito conforme cada instalação
+
+  (equipamento GNSS, displays, chaves, anunciadores, modo de operação, entre outros).
+
+  O texto em itálico e entre parênteses fornece maiores explicações sobre o texto que deverá
+  ser inserido
+
+  no suplemento.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  (para H.20)
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  <INSERIR O FABRICANTE E O TIPO DA AERONAVE>
+
+  EQUIPADO COM
+
+  <INSERIR A MARCA/MODELO/FABRICANTE DO EQUIPAMENTO GNSS>
+
+  SUPLEMENTO Nº <INSERIR O NÚMERO DO PROCESSO>/ANAC/<ANO DA APROVAÇÃO DESTE
+
+  SUPLEMENTO (Exemplo: H.XX-XXXX-X/ANAC/20XX)>
+
+  Este Suplemento é aprovado pela ANAC de acordo com o RBAC 21 e deve ser anexado ao Manual
+  de Voo
+
+  da aeronave abaixo especificada, quando o Sistema <Inserir a marca/modelo/fabricante do
+  equipamento
+
+  GNSS> estiver instalado na aeronave.
+
+  Aprovação ANAC: _______________________________________________
+
+  <Inserir o nome do Gerente da GCPR>
+
+  Gerente de Programas de Certificação
+
+  Data: <Inserir a data de aprovação (Dia com dois algarismos, mês com três letras e ano com
+  quatro
+
+  algarismos, separados por “/”. Exemplo: “08/mai/2012”)>.
+
+  Tipo da Aeronave: <Inserir o tipo da aeronave>.
+
+  Número de Série: <Inserir o número de série da aeronave (Somente para processos H.20)>
+
+  Marcas: <Inserir as marcas de matrícula da aeronave (Somente para processos H.20)>
+
+  Esta aeronave deve ser operada de acordo com as limitações e as instruções do Manual de
+  Voo e com as
+
+  adições ou os cancelamentos estabelecidos neste Suplemento.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  (para H.20)
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  LISTA DE PÁGINAS EFETIVAS
+
+  PÁGINA REVISÃO DATA
+
+  1 Original
+
+  2 Original
+
+  3 Original
+
+  4 Original
+
+  5 Original
+
+  6 Original
+
+  LISTA DE REVISÕES APROVADAS
+
+  REV.
+
+  N
+
+  PÁGINAS
+
+  REVISADAS DESCRIÇÃO APROVAÇÃO* DATA
+
+  *Gerente de Programas de Certificação16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  (para H.20)
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  SEÇÃO 1 - GENERALIDADES
+
+  1.1 Este suplemento fornece as informações necessárias à operação da aeronave, quando o
+  <Inserir o
+
+  modelo e o fabricante do equipamento GNSS> estiver instalado. As informações contidas neste
+
+  suplemento devem ser utilizadas em conjunto com o Manual de Voo completo da aeronave.
+
+  1.2 Este suplemento foi aprovado como parte integrante e permanente do Manual de Voo, nele
+  devendo
+
+  permanecer inserido sempre que o <Inserir o modelo do equipamento GNSS> estiver instalado.
+
+  1.3 O <Inserir o modelo do equipamento GNSS> é constituído de <Listar os itens que constituem
+  o
+
+  equipamento>.
+
+  1.4 O <Inserir o modelo do equipamento GNSS> tem a finalidade de fornecer ao piloto informações
+  de
+
+  posição para navegação, recebidas através de sinais provenientes de satélites. Os planos
+  de voo são
+
+  inseridos na unidade receptora através dos waypoints a serem voados. Um display tipo CDI
+  no receptor
+
+  de GPS fornece informações de desvio de curso, que também são repetidas no <EHSI ou HSI
+  ou CDI
+
+  ou outro dispositivo> da aeronave quando o GPS estiver selecionado como fonte de navegação.
+
+  (Aplicável apenas quando houver interligação com CDI/HSI/EHSI).
+
+  1.5 As informações de navegação são baseadas no sistema de referência WGS-84, e somente
+  poderão
+
+  ser usadas onde as Cartas Aeronáuticas também sejam baseadas no sistema de referência WGS-84.
+
+  1.6 O <Inserir o modelo do equipamento GNSS> foi fabricado e instalado de acordo com a <Inserir
+  o
+
+  número, a revisão e a classe da TSO> e satisfaz o que está estabelecido na IS-21-013B para
+
+  navegação IFR com fonte de navegação GPS em operações <Inserir as operações aprovadas
+
+  (exemplo: RNAV 5, RNAV 2, RNAV 1, RNP 1, RNP APCH, IFR EM ROTA, ARÉA TERMINAL e/ou
+
+  APROXIMAÇÃO DE NÃO-PRECISÃO)>.
+
+  A operação em APROXIMAÇÕES DE NÃO-PRECISÃO inclui aquelas baseadas em auxílios à
+
+  navegação convencionais onde haja a expressão “ou GPS” no seu título (Para IFR em APROXIMAÇÃO
+  DE
+
+  NÃO PRECISÃO) e aquelas que contêm a expressão “GPS”, “RNAV(GPS)” e “RNAV(GNSS)” no seu
+  título
+
+  para procedimentos com mínimos estabelecidos para navegação lateral “LNAV” (Para RNP APCH).
+
+  Nota: A função SBAS (Satellite Based Augmentation System) não está aprovada para utilização
+  nesta
+
+  instalação. (Aplicável apenas para os equipamentos que possuem a função SBAS)
+
+  1.7 <Listar os equipamentos que estão interligados ao equipamento GNSS>
+
+  1.8 <Informar de forma sucinta como é a ligação do GNSS com o piloto automático/diretor
+  de voo>
+
+  (Somente se tal ligação existir. Por exemplo: “O piloto automático/diretor de voo pode ser
+  utilizado para
+
+  navegação GPS se um plano de voo estiver ativo no <Inserir o modelo do equipamento GNSS>,
+  a fonte
+
+  de navegação GPS estiver selecionada no EHSI e o modo de navegação NAV do piloto
+
+  automático/diretor de voo for acionado.”; “O piloto automático/diretor de voo pode ser utilizado
+  para
+
+  navegação GPS se um plano de voo estiver ativo no <Inserir o modelo do equipamento GNSS>,
+  o
+
+  modo HDG do piloto automático/diretor de voo for acionado, e a função GPS do <Inserir modelo
+  do
+
+  conversor de guiagem lateral> também for acionada.”)16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  (para H.20)
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  SEÇÃO 2 - LIMITAÇÕES
+
+  2.1 O Manual de Operação <Inserir nome do manual>, PN <Inserir PN do manual>, revisão <Inserir
+  o
+
+  número da revisão>, datada de <Inserir a data da revisão>, ou revisões posteriores aprovadas,
+  deve
+
+  estar imediatamente disponível para a tripulação durante o voo a bordo da aeronave.
+
+  2.2 O <Inserir o modelo do equipamento GNSS> está aprovado apenas para operações <Inserir
+  as
+
+  operações aprovadas. Ex: IFR EM ROTA, ÁREA TERMINAL, APROXIMAÇÃO DE NÃO-PRECISÃO,
+
+  RNAV 5, RNAV 2, RNAV 1, RNP 1 e/ou RNP APCH>.
+
+  2.3 Durante as operações PBN, o primeiro piloto deverá estar no controle da aeronave, caso
+  contrário, a
+
+  operação PBN deverá ser abandonada. (Aplicável no caso descrito no Item 7.9.4.7.(a).II.ii
+  desta IS).
+
+  2.4 O equipamento <Inserir o modelo do equipamento GNSS> não está aprovado para operações
+  <Inserir
+
+  as operações não aprovadas> nos casos que sejam requeridos dois pilotos. (Aplicável no caso
+  descrito
+
+  no Item 7.9.4.7.(a).II.i desta IS).
+
+  2.5 O equipamento <Inserir o modelo do equipamento GNSS 2> está aprovado para operação <Inserir
+  as
+
+  operações aprovadas> somente para o segundo piloto e está aprovado apenas para voos que
+  sejam
+
+  operados por dois pilotos. (Aplicável no caso descrito no Item 7.9.4.7.(a).II.iv desta IS).
+
+  2.6 Para operações RNP 1 e RNP APCH, o equipamento está aprovado apenas para voos que sejam
+
+  operados por dois pilotos. (Aplicável no caso de o acesso aos controles ou aumento de carga
+  de
+
+  trabalho requerer dois pilotos).
+
+  2.7 O <Inserir o modelo do equipamento GNSS> deve utilizar as seguintes, ou posteriores
+  aprovadas,
+
+  versões de software:
+
+  Software Versão
+
+  <Inserir o nome do software> <Inserir identificação da versão>
+
+  2.8 Para utilização da fonte de navegação GPS, o banco de dados instalado no <Inserir o
+  modelo do
+
+  equipamento GNSS> deve estar atualizado (Aplicável para aprovações IFR).
+
+  2.9 Os dois equipamentos GNSS devem ter o mesmo banco de dados para que seja possível inserir
+  planos
+
+  de voo de um equipamento para o outro. (Aplicável no caso descrito no Item 7.9.4.7.(a).II.iv
+  desta IS).
+
+  2.10 A atualização de dados e a operação do <Inserir o modelo do equipamento GNSS> no modo
+  de
+
+  manutenção são proibidas durante operação normal da aeronave em voo (Esta limitação deverá
+  ser
+
+  inserida sempre que for possível ao piloto acessar a página de manutenção do equipamento
+  em voo).
+
+  2.11 Outros meios de navegação disponíveis, apropriados e aprovados para a navegação pretendida,
+
+  devem estar instalados e operativos e deve ser possível, a partir de qualquer ponto da navegação,
+
+  prosseguir ao destino ou à alternativa utilizando tais meios de navegação. (Aplicável para
+  aprovações
+
+  IFR)
+
+  2.12 A instalação do <Inserir o modelo do equipamento GNSS> está aprovada somente para operação
+  VFR.
+
+  É proibida a operação IFR utilizando o GPS como fonte de navegação (Esta limitação é válida
+  somente
+
+  para as instalações que não estão aprovadas para operação IFR).
+
+  (para H.20)16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  2.13 A altitude geométrica fornecida pelo <Inserir o modelo do equipamento GNSS> não é adequada
+  para
+
+  o controle de tráfego aéreo. O altímetro barométrico deve ser usado para o controle de tráfego
+  aéreo.
+
+  Portanto, é proibido o uso da altitude fornecida pelo <Inserir o modelo do equipamento GNSS>
+  para
+
+  navegação.
+
+  2.14 A utilização do modo de navegação <Inserir o modo de navegação do PA/DV pertinente
+  para a
+
+  realização de um procedimento de aproximação> do piloto automático/diretor de voo é obrigatória
+
+  durante a realização de um procedimento de aproximação quando operando RNP APCH (Esta limitação
+
+  é válida somente para as operações RNP APCH em que o cumprimento dos requisitos para TSE
+
+  máximo somente é possível com a utilização do PA/DV).
+
+  2.15 A fonte de navegação GPS deverá ser selecionada (Ou, no caso onde a seleção do curso
+  GPS seja
+
+  manual, “A fonte de navegação GPS e o curso GPS deverão ser selecionados”) no <Inserir o
+  indicador
+
+  de navegação que apresenta as informações de curso e desvio de curso GNSS: EHSI, HSI, CDI
+  etc.>
+
+  sempre que o modo de navegação <Indicar o modo de navegação do PA/DV que segue o plano de
+  voo
+
+  ativo no equipamento GNSS> for acoplado. (Esta limitação é válida somente para os casos
+  onde exista
+
+  a possibilidade de o PA/DV seguir a fonte de navegação GNSS independentemente da fonte de
+
+  navegação selecionada no indicador de navegação).
+
+  2.16 A seleção do modo cursor automático no <Inserir o instrumento de navegação: EHSI, HSI,
+  CDI etc.> é
+
+  obrigatória antes da operação IFR com fonte de navegação GPS em procedimentos IFR em ÁREA
+
+  TERMINAL, APROXIMAÇÃO DE NÃO-PRECISÃO, RNP1 e RNP APCH. (Limitação válida somente
+
+  para aprovações de operação IFR em ÁREA TERMINAL, APROXIMAÇÃO DE NÃO-PRECISÃO, RNP1
+
+  e RNP APCH).
+
+  2.17 Os procedimentos de subida (SID) e procedimentos de descida (STAR) utilizando a fonte
+  de navegação
+
+  GPS deverão ser executados conforme as cartas aprovadas contidas no banco de dados do <Inserir
+  o
+
+  modelo do equipamento GNSS>, não podendo ser realizados com base em dados introduzidos
+
+  manualmente (Limitação válida somente para aprovações de operação IFR em ÁREA TERMINAL,
+
+  RNAV 1 e RNP 1).
+
+  2.18 Os procedimentos de subida (SID), procedimentos de descida (STAR) e procedimentos de
+
+  aproximações de não precisão utilizando o <Inserir o modelo do equipamento GNSS> deverão
+  ser
+
+  executados conforme as cartas aprovadas contidas no banco de dados do equipamento GNSS,
+  não
+
+  podendo ser realizados com base em dados introduzidos manualmente (limitação válida somente
+  para
+
+  aprovações de operação IFR em ÁREA TERMINAL, APROXIMAÇÃO DE NÃO-PRECISÃO, RNAV 1,
+
+  RNP 1 e RNP APCH).
+
+  2.19 As informações provenientes do modo de gerenciamento de combustível do <Inserir o modelo
+  do
+
+  equipamento GNSS> (autonomia, combustível restante, entre outras) não podem ser usadas para
+
+  efeito de planejamento e controle da navegação.
+
+  2.20 As informações provenientes do modo de navegação vertical do <Inserir o modelo do equipamento
+
+  GNSS> não substituem as informações providas pelo altímetro primário da aeronave para efeito
+  de
+
+  separação vertical com o terreno.
+
+  2.21 A operação da função SBAS do <Inserir o modelo do equipamento GNSS> não está aprovada
+  e deve
+
+  estar desabilitada durante o voo. (Limitação válida somente para equipamentos GNSS que possuam
+  a
+
+  função SBAS)
+
+  2.22 São proibidas aproximações ILS, LDA ou SDF utilizando o GPS como fonte de navegação
+  (Limitação
+
+  válida somente para aprovações de operação IFR APROXIMAÇÃO DE NÃO-PRECISÃO e RNP
+
+  APCH).
+
+  (para H.20)16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  2.23 O uso do <Inserir o modelo do equipamento GNSS> não substitui as cartas aeronáuticas
+  em vigor
+
+  (Limitação válida quando o equipamento GNSS apresentar cartas de navegação).
+
+  2.24 O piloto deverá desacoplar o modo de navegação do piloto automático/diretor de voo
+  sempre que a
+
+  fonte de navegação GPS for selecionada para navegação (Limitação válida somente para os
+  casos
+
+  onde não haja a anunciação clara dos modos de operação do PA/DV no painel de instrumentos
+  do
+
+  piloto).
+
+  2.25 Para operações RNP 1 e RNP APCH que exijam dois pilotos, os <Inserir os modelos dos
+  equipamentos
+
+  GNSS> deverão estar sincronizados por meio da função <Inserir a função que permite que o
+  plano de
+
+  voo inserido em um equipamento GNSS seja transferido para o outro equipamento GNSS
+
+  automaticamente> antes de selecionar qualquer plano de voo GPS para navegação (Limitação
+  válida
+
+  somente para os casos onde há mais de um equipamento GNSS instalado e onde tais equipamentos
+
+  possuam uma função que transfira automaticamente o plano de voo inserido em qualquer equipamento
+
+  GNSS para os outros equipamentos GNSS)
+
+  2.26 Para qualquer tipo de navegação com fonte GPS os <Inserir os modelos dos equipamentos
+  GNSS>
+
+  deverão apresentar o mesmo plano de voo GPS para navegação (Limitação válida somente para
+  os
+
+  casos onde há mais de um equipamento GNSS instalado e onde tais equipamentos não possuam
+  uma
+
+  função que transfira automaticamente o plano de voo inserido em qualquer equipamento GNSS
+  para
+
+  os outros equipamentos GNSS).
+
+  2.27 O piloto não poderá utilizar a fonte de navegação GPS 2 (LNAV 2) em operações do tipo
+  IFR ÁREA
+
+  TERMINAL, APROXIMAÇÃO DE NÃO-PRECISÃO, RNP 1 e RNP APCH (Limitação válida somente
+
+  para aeronaves com dois GNS instalados e sem anunciação INTEG para o piloto relativa ao
+
+  equipamento GNSS localizado no painel de instrumentos do copiloto).
+
+  2.28 As operações IFR em ÁREA TERMINAL, APROXIMAÇÃO DE NÃO-PRECISÃO, RNP 1 e RNP APCH
+
+  não estão aprovadas nas situações onde sejam requeridos dois pilotos (Limitação válida para
+  os casos
+
+  onde não há anunciação INTEG ou qualquer outra informação prevista no campo de visão primário
+  do
+
+  copiloto).
+
+  2.29 A fase final das aproximações com uso da fonte de navegação GPS somente poderá ser
+  realizada se
+
+  o modo aproximação for ativado (<Inserir as anunciações que aparecem para indicar que o
+  modo
+
+  aproximação foi ativado> (exemplos: APR, LNAV etc.)). (Limitação válida somente para aprovações
+  de
+
+  operação IFR APROXIMAÇÃO DE NÃO-PRECISÃO e RNP APCH).
+
+  2.30 Durante o voo a função TERRAIN deverá estar inibida (Limitação válida somente para
+  os equipamentos
+
+  GNSS que possuam a função TERRAIN, que mostra alertas de proximidade com terreno sem ter
+  uma
+
+  aprovação para funcionar como TAWS).
+
+  2.31 A apresentação da informação de desvio lateral de curso no EHSI/HSI ou no CDI, com
+  fonte de
+
+  navegação GNSS, independe do curso selecionado. Portanto, se o curso selecionado estiver
+  180°
+
+  defasado em relação ao curso real, a informação de desvio lateral de curso no EHSI/HSI ou
+  no CDI
+
+  será oposta à situação real. (Limitação válida somente para IFR EM ROTA e RNAV 5 quando
+  a seleção
+
+  de curso não for automática).
+
+  2.32 <Incluir qualquer limitação adicional relacionada com a instalação em questão>
+
+  (para H.20)16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  SEÇÃO 3 - PROCEDIMENTOS ANORMAIS E DE EMERGÊNCIA
+
+  3.1 Durante a operação IFR EM ROTA utilizando GPS fora do conceito PBN, caso ocorra perda
+  da função
+
+  de monitoramento da integridade (função RAIM - Receiver Autonomous Integrity Monitoring),
+  o piloto
+
+  deverá reverter para um meio de navegação alternativo apropriado e aprovado para a fase
+  de voo ou
+
+  realizar a cada 15 minutos uma comparação dos dados da fonte de navegação GPS com as demais
+
+  fontes de navegação aprovadas e operacionais. (Limitação válida para aprovações de operação
+  IFR
+
+  EM ROTA).
+
+  3.2 Durante as operações IFR em ÁREA TERMINAL e APROXIMAÇÃO DE NÃO-PRECISÃO utilizando
+
+  GPS fora do conceito PBN e as operações PBN RNAV 5 e RNAV 2, caso ocorra perda da função
+  de
+
+  monitoramento da integridade (função RAIM - Receiver Autonomous Integrity Monitoring), o
+  piloto
+
+  deverá reverter para um meio de navegação alternativo apropriado e aprovado para a fase
+  de voo.
+
+  (Limitação válida para aprovações de operação IFR em ÁREA TERMINAL, APROXIMAÇÃO DE NÃO-
+
+  PRECISÃO, RNAV 5 e RNAV 2).
+
+  3.3 Para as operações PBN RNAV 1, RNP 1 ou RNP APCH, caso ocorra a perda da função de
+
+  monitoramento da integridade (função RAIM - Receiver Autonomous Integrity Monitoring), a
+
+  navegação com fonte de navegação GPS deverá ser abandonada. (Limitação válida para todas
+  as
+
+  aprovações de operação PBN, exceto RNAV 5 ou RNAV 2).
+
+  3.4 No caso de falha, perda de sinal ou perda de energia do <Inserir o modelo do equipamento
+  GNSS>,
+
+  com a fonte de navegação LNAV selecionada no <Inserir o indicador de navegação: EHSI, HSI,
+  CDI
+
+  etc.)> e o piloto automático/diretor de voo acoplado, desarmar o modo de navegação <Inserir
+  o modo
+
+  de navegação do PA/DV utilizado para navegação GNSS> do piloto automático/diretor de voo
+  e
+
+  prosseguir o voo manualmente ou por meio do modo HDG do piloto automático/diretor de voo,
+  ou
+
+  acoplar o modo de navegação <Inserir o modo de navegação do PA/DV apropriado) com fonte
+  de
+
+  navegação VOR selecionada no <Inserir o indicador de navegação: EHSI, HSI, CDI etc.)>. É
+
+  recomendável, antes de reacoplar o modo de navegação <Inserir o modo de navegação do PA/DV
+
+  utilizado para navegação com nova fonte> com nova fonte de navegação, colocar a aeronave
+  em rota
+
+  convergente com novo curso desejado.
+
+  3.5 <Incluir qualquer outro procedimento anormal ou de emergência pertinente>
+
+  SEÇÃO 4 - PROCEDIMENTOS NORMAIS
+
+  4.1 Os procedimentos normais de operação do sistema estão definidos no Manual de Operação
+  <Inserir
+
+  nome do manual>, PN <Inserir PN do manual>, revisão <Inserir o número da revisão>, datada
+  de
+
+  <Inserir a data da revisão>, ou revisões posteriores aprovadas.
+
+  4.2 Realizar o teste das lâmpadas dos anunciadores externos de GPS (Somente para as instalações
+  onde
+
+  há anunciadores externos de GNSS).
+
+  4.3 Realizar o teste do <Inserir o modelo do equipamento GNSS> e da sua interligação com
+  o <Inserir o
+
+  indicador de navegação (EHSI, HSI, CDI etc.)>.
+
+  4.4 Certificar-se que os bancos de dados do <Inserir o modelo do equipamento GNSS> estejam
+
+  atualizados.
+
+  4.5 Certificar-se que os bancos de dados dos <Inserir os modelos dos equipamentos GNSS>
+  contenham
+
+  a mesma atualização (mesmo ciclo) (Procedimento válido somente para os casos onde há mais
+  de um
+
+  equipamento GNSS instalado)16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  (para H.20)
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  4.6 Inibir a função TERRAIN antes do voo (a anunciação TER INHB aparece na parte inferior
+  do display do
+
+  <Inserir o modelo do equipamento GNSS>). (Limitação válida somente para os equipamentos
+  GNSS
+
+  que possuam a função TERRAIN, que mostra alertas de proximidade com terreno sem ter uma
+
+  aprovação para funcionar como TAWS).
+
+  4.7 Acoplamento do piloto automático/diretor de voo para navegação GPS: <Descrever os procedimentos
+
+  de acoplamento da fonte de navegação GNSS ao PA/DV> (Exemplo:
+
+  - Inserir um plano de voo;
+
+  - Selecionar a fonte de navegação GPS no EHSI;
+
+  - Selecionar o curso GPS desejado (apresentado no “display” do GPSABC);
+
+  - Selecionar o modo de navegação NAV do piloto automático/diretor de voo; e
+
+  - Se o curso não foi capturado, colocar o indicador HDG na proa apropriada para intercepção
+  do
+
+  curso.)
+
+  Quando a aeronave atingir o primeiro waypoint na sequência do plano de voo, a curva para
+  o próximo
+
+  waypoint será feita automaticamente (Somente para os casos onde há mudança de curso GNSS
+  automática
+
+  no indicador de navegação).
+
+  Quando a aeronave atingir o primeiro waypoint na sequência do plano de voo, é necessário
+  a seleção
+
+  do novo curso desejado no cursor do <Inserir o indicador de navegação (EHSI, HSI, CDI etc.)>
+  (Somente para
+
+  os casos onde há mudança de curso GNSS automática no indicador de navegação).
+
+  4.8 Mudança de fonte de navegação com piloto automático/diretor de voo acoplado: <Descrever
+  os
+
+  procedimentos de mudança da fonte de navegação com o PA/DV> (Exemplo:
+
+  - Selecionar um plano de voo ativo ou uma estação de VOR/ILS ativa;
+
+  - Colocar o indicador HDG na proa atual da aeronave;
+
+  - Desarmar o modo de navegação NAV do piloto automático/diretor de voo;
+
+  - Selecionar a fonte de navegação desejada no EHSI;
+
+  - Selecionar o curso desejado (no caso de curso GPS, selecionar o apresentado no “display”
+  do
+
+  GPSABC);
+
+  - Selecionar novamente o modo de navegação NAV do piloto automático/diretor de voo; e
+
+  - Se o curso não foi capturado, colocar o indicador HDG na proa apropriada para intercepção
+  do
+
+  curso.)
+
+  4.9 Desabilitar a função SBAS do <Inserir o modelo do equipamento GNSS> (Procedimento válido
+  somente
+
+  para equipamentos GNSS que possuem a função SBAS).
+
+  4.10 Verificar a disponibilidade da função RAIM para o horário e local previsto de destino
+  (RAIM preditivo).
+
+  Caso haja previsão de indisponibilidade da função RAIM, a navegação pretendida para o horário
+  de
+
+  indisponibilidade deverá ser planejada com a utilização de outros auxílios de navegação
+  aérea.
+
+  4.11 Comparar as informações do banco de dados do <Inserir o modelo do equipamento GNSS>
+  com as
+
+  informações constantes nas cartas de subida (SID), cartas de descida (STAR) e cartas de
+  aproximação
+
+  aplicáveis, incluindo transições e posição dos waypoints.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  (para H.20)
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  4.12 Inserir nos planos de voo a serem apresentados para os órgãos de tráfego aéreo somente
+  aeródromos
+
+  alternativos que possuam procedimentos de descida com auxílios de navegação no solo convencionais
+
+  (exemplos: VOR, ILS, ADF etc.). No entanto, quando no aeródromo alternativo, o piloto pode
+  realizar
+
+  uma aproximação baseada em fonte de navegação GPS se o <Inserir o modelo do equipamento
+
+  GNSS> indicar que a integridade (RAIM) está disponível para realizar essa aproximação (Procedimento
+
+  válido para as aprovações de operação PBN RNP APCH).
+
+  4.13 Sincronizar os <Inserir os modelos dos equipamentos GNSS> por meio da função <Inserir
+  a função
+
+  que permite que o plano de voo inserido em um equipamento GNSS seja transferido para o outro
+
+  equipamento GNSS automaticamente> antes de selecionar qualquer plano de voo GPS para
+
+  navegação (Válido somente para os casos onde há mais de um equipamento GNSS instalado e
+  onde
+
+  tais equipamentos possuam uma função que transfira automaticamente o plano de voo inserido
+  em
+
+  qualquer equipamento GNSS para os outros equipamentos GNSS).
+
+  4.14 Inserir o mesmo plano de voo nos <Inserir os modelos dos equipamentos GNSS> antes de
+  iniciar a
+
+  navegação GPS para navegação (Válido somente para os casos onde há mais de um equipamento
+
+  GNSS instalado e onde tais equipamentos não possuam uma função que transfira automaticamente
+  o
+
+  plano de voo inserido em qualquer equipamento GNSS para os outros equipamentos GNSS).
+
+  4.15 Verificar se o modo aproximação foi ativado antes de prosseguir na fase final do procedimento
+  de
+
+  aproximação GPS. (Procedimento válido para as aprovações de operação IFR APROXIMAÇÃO DE
+
+  NÃO PRECISÃO e RNP APCH).
+
+  4.16 Verificar se o modo aproximação foi ativado antes de prosseguir na fase final do procedimento
+  de
+
+  aproximação GPS (LNAV, LPV, LNAV/VNAV, VNAV+V). Embora os modos LPV, VNAV/VNAV e
+
+  VNAV+V sejam anunciados, somente a operação LNAV está autorizada, o que obriga a utilização
+  da
+
+  altitude mínima de descida LNAV (Procedimento válido para as aprovações de operação IFR
+
+  APROXIMAÇÃO DE NÃO-PRECISÃO e RNP APCH)
+
+  4.17 O piloto deverá desacoplar o modo de navegação do piloto automático/diretor de voo
+  sempre que a
+
+  fonte de navegação GPS for selecionada para navegação (Válido somente para os casos onde
+  não há
+
+  a anunciação clara dos modos de operação do PA/DV no painel de instrumentos do piloto).
+
+  4.18 <Incluir qualquer outro procedimento normal necessário>
+
+  SEÇÃO 5 - DESEMPENHO
+
+  Não aplicável.
+
+  SEÇÃO 6 - PESO E BALANCEAMENTO
+
+  <Referenciar os dados de peso e balanceamento atualizados, se aplicável. Caso não seja necessário
+
+  referenciar os dados de peso e balanceamento referentes ao sistema instalado, informar “Não
+  aplicável” >.16-12-2016 IS nº 21-013
+
+  Revisão B
+
+  (para H.20)
+
+  <INSERIR O EXPLORADOR DA AERONAVE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO EXPLORADOR DA AERONAVE> SUPLEMENTO ANAC
+
+  (para H.02)
+
+  <INSERIR O REQUERENTE> MANUAL DE VOO
+
+  <INSERIR O ENDEREÇO DO REQUERENTE> SUPLEMENTO ANAC
+
+  SEÇÃO 7 - DESCRIÇÃO DO SISTEMA
+
+  7.1 Para conhecimento detalhado do <inserir o modelo do equipamento GNSS>, consultar o Manual
+  de
+
+  Operação <Inserir nome do manual>, PN <Inserir PN do manual>, revisão <Inserir o número
+  da
+
+  revisão>, datada de <Inserir a data da revisão>, ou revisões posteriores aprovadas.
+
+  <Descrever sucintamente a finalidade e a constituição do sistema de navegação GNSS>
+
+  <Listar os equipamentos e instrumentos que estão interligados com o equipamento GNSS>
+
+  <Quando houver acoplamento com o PA/DV, descrever como é esse acoplamento e o que ocorre
+  quando há
+
+  perda de sinal GNSS ou falha do equipamento GNSS>
+
+  <Descrever todos os anunciadores e chaves externas que fazem parte do sistema de navegação
+  GNSS>
+
+  <Descrever como é feito o teste de lâmpada dos anunciadores externos>
+
+  <Descrever como é feito o controle de luminosidade dos anunciadores externos>
+
+  <Descrever a alimentação do sistema, barramentos e disjuntores/fusíveis (valores e identificação)>APÊNDICE
+  E - MODELO DE CARTÃO DE TESTE PARA ENSAIOS EM VOO
+
+  O objetivo deste apêndice é fornecer um modelo para a elaboração de “cartões de testes”
+  para Ensaios
+
+  em Voo.
+
+  A elaboração de cartões de teste não exclui a necessidade da elaboração de uma Proposta
+  de Ensaios
+
+  em Voo. A apresentação de cartões de testes preenchidos não exclui a necessidade da apresentação
+
+  da Declaração de Conformidade bem como, se aplicável, de um Relatório com os Resultados
+  de
+
+  Ensaios em Voo.
+
+  Para ensaios de integração, é necessário descrever como o teste de integração foi realizado
+  e qual foi
+
+  o comportamento observado nesta falha. Exemplo: “Com o GNSS selecionado como fonte de
+
+  navegação, ao desconectar o disjuntor ‘GPS 1’ do GNSS, aparece um ‘X’ vermelho no EHSI”.
+
+  Adicionar outras linhas/campos/folhas, se necessário. Verificar quais são os itens aplicáveis.
+
+  Numerar as páginas do cartão. Exemplo: Folha 01 de 04
+
+  Este é apenas um exemplo, que deve ser adaptado levando em consideração a instalação efetuada
+  e
+
+  os manuais de instalação aplicáveis.Origem: SAR 40/65
+
+  CARTÃO DE ENSAIOS EM VOO
+
+  GNSS stand alone
+
+  Objetivo do Ensaio
+
+  Avaliar a instalação do equipamento < > para operação IFR:
+
+  <TIPO DA OPERAÇÃO DESEJADA - >.
+
+  Aeronave
+
+  <TIPO: E MARCAS DA AERONAVE:
+
+  >.
+
+  Processo
+
+  <PROCESSO: >.
+
+  Tripulação
+
+  Piloto de ensaio
+
+  Engenheiro de ensaio
+
+  Piloto do requerente
+
+  Dados do voo
+
+  Data Aeródromo Pousos Tempo de voo
+
+  Hora (UTC)
+
+  Início do táxi (avião)
+
+  Partida do motor (H) Decolagem Pouso Final do táxi (avião)
+
+  Corte do motor (H)
+
+  PONTOS DE ENSAIO
+
+  1 Avaliação de cabine no solo
+
+  1.1 Placares
+
+   Anotar todos os placares referentes à instalação GNSS.
+
+  1.2 Posição atual, sinal dos satélites, precisão e RAIM
+
+   Anotar a posição atual indicada no equipamento GNSS e comparar com a posição real.
+
+  Posição GNSS: ________________ Posição real: _____________________
+
+   Anotar a quantidade de satélites recebidos e o erro estimado do sistema GNSS.
+
+  Número de satélites recebidos: ______________ Erros:Origem: SAR 41/65
+
+   Verificar a função RAIM a quantidade de satélites recebidos e o erro estimado do sistema
+  GNSS.
+
+  RAIM atual: RAIM preditivo:
+
+  1.3 Funcionamento do equipamento GNSS
+
+   Acionar o teste do equipamento GNSS e verificar e anotar as informações no CDI, HSI ou
+  EHSI.
+
+  Evento Resultado esperado Resultado obtido
+
+  Deslocamento do CDI
+
+  Aparecimento de
+
+  bandeira
+
+  Proa para o destino
+
+  Distância para o destino
+
+  Tempo para o destino
+
+  Curso selecionado
+
+  Anunciações
+
+   Anotar a versão dos softwares instalados no equipamento GNSS
+
+  1.4 Controles, displays e anúncios de GNSS
+
+   Anotar os displays GNSS e instrumentos de navegação GNSS existentes.
+
+   Descrever e avaliar como são realizados o controle de iluminação dos anúncios, display
+  e controles de
+
+  GNSS, e como é o teste da fonte luminosa dos anúncios de GNSS.
+
+  Resultados esperados Aceit. Inac.
+
+  Todos os displays, assim como avisos e alarmes luminosos, deverão ter controle
+
+  de intensidade luminosa. Adicionalmente, avisos e alarmes luminosos deverão
+
+  possuir meio de teste de sua fonte luminosa.Origem: SAR 42/65
+
+   Anotar e avaliar os anúncios de GNSS para o 1P.
+
+  Tipo do Anúncio Instrumento de
+
+  navegação Anunciador remoto Equipamento GNSS
+
+  Fonte VOR
+
+  Fonte GNSS
+
+  Integridade
+
+  Proximidade WPT
+
+  Mensagens
+
+  Modo OBS
+
+  Modo em rota
+
+  Modo terminal
+
+  Modo aproximação
+
+  TO-FROM
+
+  Falhas
+
+  Resultados esperados Aceit. Inac.
+
+  Anunciação da fonte de navegação. Local: dentro do instrumento de navegação
+
+  ou próximo dele, no mesmo lado da centerline do “T” básico. Cor: branco, verde,
+
+  azul, ciano, âmbar ou amarelo.
+
+  Integridade. Local: CVPO (RNP) ou CVPM (RNAV). Cor: vermelho, âmbar ou
+
+  amarelo.
+
+  Proximidade WPT. Local: CVPM. Cor: branco, verde, azul, ciano, âmbar ou
+
+  amarelo.
+
+  Mensagens. Local: CVPM. Cor: âmbar ou amarelo.
+
+  Modo OBS. Local: CVPM. Cor: branco, verde, azul ou ciano.
+
+  Modos em rota, terminal e aproximação. Local: CVPM. Cor: branco, verde, azul
+
+  ou ciano.
+
+  TO-FROM. Local: no instrumento de navegação primário - CVPO.
+
+  Falhas. Local: no instrumento de navegação primário - CVPO. Cor: vermelho,
+
+  amarelo ou âmbar.
+
+  CVPO - Campo de Visão Primário Ótimo
+
+  CVPM - Campo de Visão Primário Máximo
+
+   Anotar e avaliar os anúncios de GNSS para o 2P.
+
+  Tipo do Anúncio Instrumento de
+
+  navegação do 2P
+
+  Anunciador remoto
+
+  do 2P Equipamento GNSS
+
+  Fonte VOR
+
+  Fonte GNSS
+
+  Integridade
+
+  Proximidade WPT
+
+  Mensagens
+
+  Modo OBS
+
+  Modo em rotaOrigem: SAR 43/65
+
+  Modo terminal
+
+  Modo aproximação
+
+  TO-FROM
+
+  Falhas
+
+  Resultados esperados Aceit. Inac.
+
+  Anunciação da fonte de navegação. Local: dentro do instrumento de navegação
+
+  ou próximo dele, no mesmo lado da centerline do “T” básico. Cor: branco, verde,
+
+  azul, ciano, âmbar ou amarelo.
+
+  Integridade. Local: CVPO (RNP) ou CVPM (RNAV). Cor: vermelho, âmbar ou
+
+  amarelo.
+
+  Proximidade WPT. Local: CVPM. Cor: branco, verde, azul, ciano, âmbar ou
+
+  amarelo.
+
+  Mensagens. Local: CVPM. Cor: âmbar ou amarelo.
+
+  Modo OBS. Local: CVPM. Cor: branco, verde, azul ou ciano.
+
+  Modos em rota, terminal e aproximação. Local: CVPM. Cor: branco, verde, azul
+
+  ou ciano.
+
+  TO-FROM. Local: no instrumento de navegação primário - CVPO.
+
+  Falhas. Local: no instrumento de navegação primário - CVPO. Cor: vermelho,
+
+  amarelo ou âmbar.
+
+  Resultados esperados - alternativos com limitação de operação Aceit. Inac.
+
+  Anunciação da fonte de navegação. Local: no caso de utilização de um CDI, HSI
+
+  ou EHSI, dentro do instrumento de navegação ou próximo dele, no mesmo lado
+
+  da centerline do “T” básico; no caso de utilização do display do GNSS, no próprio
+
+  GNSS. Cor: branco, verde, azul, ciano, âmbar ou amarelo.
+
+  Integridade. Local: CVPM. Cor: vermelho, âmbar ou amarelo.
+
+  Proximidade WPT. Local: CVPM. Cor: branco, verde, azul, ciano, âmbar ou
+
+  amarelo.
+
+  Mensagens. Local: CVPM. Cor: âmbar ou amarelo.
+
+  Modo OBS. Local: CVPM. Cor: branco, verde, azul ou ciano.
+
+  Modos em rota, terminal e aproximação. Local: CVPM. Cor: branco, verde, azul
+
+  ou ciano.
+
+  TO-FROM. Local: quando usar CDI, HSI ou EHSI, no próprio instrumento -
+
+  CVPM; quando não houver CDI, HSI ou EHSI, no display do GNSS - CVPM.
+
+  Falhas. Local: quando usar CDI, HSI ou EHSI, no próprio instrumento - CVPM;
+
+  quando não houver CDI, HSI ou EHSI, no display do GNSS - CVPM.
+
+   Verificar a visibilidade dos desvios de curso de GNSS (1P e 2P, se houver).
+
+  Resultados esperados - 1P Aceit. Inac.
+
+  Cursor e indicação de desvio de curso visualizados com clareza e com mínimo
+
+  de desvio de olhar (CDI existentes nas CDU não são aceitos para operações IFR).
+
+  Cursor e indicação de desvio de curso devem estar no CVPO.
+
+  Resultados esperados - 2P (opção sem limitação operacional) Aceit. Inac.
+
+  Cursor e indicação de desvio de curso visualizados com clareza e com mínimo
+
+  de desvio de olhar (CDI existentes nas CDU não são aceitos para operações IFR).
+
+  Cursor e indicação de desvio de curso devem estar no CVPO.
+
+  Resultados esperados - 2P (opção com limitação operacional) Aceit. Inac.Origem: SAR 44/65
+
+  Cursor e indicação de desvio de curso visualizados com clareza no CVPM -
+
+  aceitável indicação no próprio display do equipamento GNSS.
+
+   Verificar a acessibilidade aos controles (1P e 2P) de GNSS.
+
+  Resultados esperados Aceit. Inac.
+
+  Controles prontamente acessíveis a partir do assento de cada piloto requerido.
+
+  Controles não podem ser ativados inadvertidamente.
+
+  Controles acessíveis à tripulação mínima requerida, com a tripulação sentada na
+
+  posição normal, executando movimentos naturais que não imponham carga de
+
+  trabalho adicional excessiva.
+
+   Verificar como é o manuseio dos controles.
+
+  Resultados esperados Aceit. Inac.
+
+  Manuseio somente com uma mão.
+
+  Manuseio não deve obstruir o respectivo display.
+
+  Manuseio com retorno ao piloto da ação executada.
+
+  Acionamento de apenas um controle de cada vez para a ativação de determinada
+
+  função.
+
+  Controles que acionam funções de manutenção não prontamente acessíveis aos
+
+  pilotos.
+
+   Verificar como é a identificação dos controles.
+
+  Resultados esperados Aceit. Inac.
+
+  Controles fácil e prontamente identificados.
+
+  Se um controle é usado para múltiplas funções, essas devem ser distinguidas
+
+  entre ativa e não ativa.
+
+   Verificar a instalação de mais de um equipamento GNSS (somente para as instalações com
+  mais de um
+
+  GNSS)
+
+  Resultados esperados Aceit. Inac.
+
+  O piloto e o copiloto devem ser capazes de ver e manusear o GNSS oposto, sem
+
+  interferência nos comandos, manetes, controles etc.
+
+  A carga de trabalho associada à atualização manual de dados para manter
+
+  consistência entre os dois equipamentos não deve ser elevada.
+
+  Não pode haver dúvida sobre qual equipamento está sendo usado como meio de
+
+  navegação.Origem: SAR 45/65
+
+  Os controles, displays e anúncios não podem causar informação enganosa,
+
+  confusão para o piloto ou carga de trabalho inaceitável devido à possibilidade de
+
+  inconsistências a partir de diferenças nos equipamentos.
+
+  As escalas dos CDI devem ser compatíveis entre si ou identificadas corretamente.
+
+  A simbologia dos displays e anúncios devem ser compatíveis entre os GNSS, de
+
+  forma a não causar qualquer tipo de conflito durante a interpretação das
+
+  informações de navegação.
+
+  A falha em um GNSS não pode interferir no funcionamento do outro GNSS.
+
+  A apresentação dos parâmetros de navegação deve usar unidades de medida
+
+  consistentes entre os GNSS.
+
+  Os GNSS devem usar o mesmo banco de dados.
+
+   Verificar se existem as informações contidas na tabela seguinte e anotar onde as mesmas
+  são
+
+  apresentadas:
+
+  Informação Local
+
+  Identificação do próximo waypoint
+
+  Velocidade no solo
+
+  Tempo para a próximo waypoint
+
+  Distância para o próximo waypoint
+
+  Proa para o próximo waypoint
+
+  Distância entre dois waypoints (plano de voo)
+
+  Resultados esperados Aceit. Inac.
+
+  O sistema deve prover, em local visível, de forma contínua ou facilmente
+
+  acessível, as seguintes informações: identificação do próximo waypoint (todas -
+
+  RNAV5); velocidade no solo ou tempo para o próximo waypoint (todas); distância
+
+  e proa para o próximo waypoint (todas); e distância entre dois waypoints do plano
+
+  de voo (RNP APCH).
+
+  1.5 Seleção da fonte de navegação
+
+   Descrever e avaliar como é a seleção da fonte de navegação apresentada no instrumento
+  de navegação.
+
+  Resultados esperados Aceit. Inac.
+
+  Sistemas com possibilidade de apresentar informações de múltiplas fontes de
+
+  navegação (RNAV ou convencionais) em um único indicador (CDI, HSI, EHSI,
+
+  entre outros) deverão possuir um meio de seleção da fonte de navegação
+
+  desejada pelo piloto.
+
+  O anúncio de navegação deve estar no CVPO, dentro ou próximo ao instrumento
+
+  de navegação primário. Quando externo, estar localizado no lado da centerline
+
+  do “T” básico.
+
+  1.6 Banco de dados de navegaçãoOrigem: SAR 46/65
+
+   Anotar e avaliar como se faz para verificar a validade do banco de dados do equipamento
+  GNSS.
+
+  Resultados esperados Aceit. Inac.
+
+  Existência de meio de exibição da data de validade do banco de dados de
+
+  navegação.
+
+  Capacidade de carregar nos sistemas PBN, a partir do banco de dados de
+
+  navegação, pelo nome e por inteiro, os procedimentos de navegação (por
+
+  exemplo, procedimentos SID - Standard Instrument Departure e STAR -
+
+  Standard Terminal Arrive Route). (RNAV 2 RNAV 1 e RNP 1)
+
+  1.7 Ajuste manual de pressão barométrica corrigida para o equipamento GNSS (se existir)
+
+   Avaliar a carga de trabalho para introduzir o ajuste de pressão barométrica no equipamento
+  GNSS e
+
+  verificar se existe alerta para o piloto realizar tal operação.
+
+  Resultados esperados Aceit. Inac.
+
+  Deve ser fornecido um alerta para o piloto durante a aproximação, indicando a
+
+  necessidade de introduzir o ajuste da pressão barométrica no equipamento
+
+  GNSS.
+
+  1.8 Função OBS
+
+   Verificar e anotar como é acionada a função OBS do GNSS.
+
+  1.9 Configuração do equipamento GNSS
+
+   Anotar a configuração do equipamento GNSS.
+
+  Ação Anotar
+
+  (1) Selecionar medidas usuais
+
+  (2) Selecionar alarme de WPT < 2MN e < 1 min
+
+  (3) Selecionar SBAS OFF
+
+  (4) Selecionar modo automático de operação do GNSS
+
+  (5) Inserir plano de voo GNSS com mudança de perna de
+
+  navegação com mais de 90º e procedimento de subidaOrigem: SAR 47/65
+
+  1.10 Mapeamento remoto
+
+   Verificar se há mapeamento de waypoints remoto e descrever.
+
+  2 Interligação do diretor de voo/piloto automático com o sistema de navegação GNSS
+
+  (1) Ativar um plano de voo GNSS com mudança de perna de navegação com mais de 90º com procedimento
+
+  de subida;
+
+  (2) Selecionar fonte de navegação GNSS no indicador de navegação;
+
+  (3) Selecionar o modo de operação do GNSS desejado;
+
+  (4) Posicionar a aeronave afastada lateralmente pelo menos 3 MN do curso GNSS e a mais de
+  5 min do
+
+  próximo waypoint;
+
+  (5) Acoplar o modo de navegação “NAV” desejado do DV/PA;
+
+  (6) Inserir uma proa de interceptação defasada 60º com o curso ativo;
+
+  (7) Repetir os passos (4) a (6) para todos os modos de operação do GNSS (5 MN, 2 MN e 1
+  MN);
+
+  (8) Repetir os passos os ensaios com os modos de navegação “APR” e “GNSS”.
+
+   Verificar e descrever:
+
+  - Como é anunciado o acoplamento do modo de navegação do DV/PA;
+
+  - Como é o comportamento do DV/PA durante a interceptação do curso, a manutenção da rota
+  e a
+
+  mudança de perna de navegação; e
+
+  - Como é a mudança de proa do cursor no CDI, HSI ou EHSI (automática ou não).
+
+  OBSERVAÇÃO: verificar as indicações coerentes do DV enquanto o PA comanda a aeronave.
+
+  Evento Resultados obtidos
+
+  Modo NAV Modo APR Modo GNSS
+
+  Anunciação do modo de
+
+  navegação do DV/PA
+
+  Acoplamento dos modos de
+
+  navegação do DV/PA
+
+  Comportamento do DV/PA
+
+  durante a interceptação
+
+  Comportamento do DV/PA
+
+  na manutenção da rota
+
+  GNSS
+
+  Comportamento do DV/PA
+
+  durante a mudança de
+
+  perna de navegação
+
+  Mudança de proa do curso
+
+  no CDI, HSI ou EHSI
+
+  Resultados esperados Aceit. Inac.
+
+  Os modos de operação do DV/PA, bem como os modos armados para
+
+  engajamento, devem ter uma indicação contínua e inequívoca, o que inclui uma
+
+  indicação clara de quando o modo foi selecionado manualmente pela tripulação, ou
+
+  automaticamente pelo sistema.Origem: SAR 48/65
+
+  É fortemente recomendado que os modos de navegação do DV/PA relacionados
+
+  com a fonte de navegação sejam inibidos se a fonte apresentada no indicador de
+
+  navegação não for a mesma fonte acoplada ao DV/PA.
+
+  O equipamento GNSS deve ser compatível com os modos de operação do DV/PA.
+
+  Por exemplo, as funções “armar” (arm), “engajar” (engage) e a sequência para
+
+  desengajar (disengage sequence) do GNSS devem ser consistentes no tempo de
+
+  resposta para anúncios e acoplamento/desacoplamento do DV/PA.
+
+  Nos casos onde o TSE não puder ser comprovado sem o uso do DV/PA, ele deve
+
+  ser capaz de executar a mudança automática de curso nos waypoints (fly-by ou fly-
+
+  over) sem a interferência do piloto, com desempenho adequado. Do mesmo modo,
+
+  a seleção de curso no HSI/EHSI ou no CDI deverá ser automática.
+
+  Se o equipamento de navegação for conectado a um seletor de redução de ângulo
+
+  de inclinação lateral da aeronave, tal seletor não poderá limitar o ângulo de
+
+  inclinação lateral da aeronave durante um procedimento de aproximação.
+
+  A integração do DV/PA com o equipamento GNSS deve ser de forma que não sejam
+
+  alteradas a filosofia de cabine original nem a finalidade do GNSS.
+
+  3 Indicação de desvio lateral
+
+   Verificar a compatibilidade e a coerência da indicação de desvio lateral de curso no indicador
+  de
+
+  navegação principal com o desvio apresentado no equipamento GNSS em todos os modos de operação
+
+  GNSS.
+
+  Resultados esperados Aceit. Inac.
+
+  Compatibilidade no modo de operação 5 MN.
+
+  Compatibilidade no modo de operação 2 MN.
+
+  Compatibilidade no modo de operação 1 MN.
+
+  Compatibilidade no modo de operação 0,3 MN.
+
+   Verificar como e feita a indicação de desvio lateral de curso no indicador de navegação
+  principal.
+
+  Resultados esperados Aceit. Inac.
+
+  Os indicadores de desvio lateral devem possuir limites de indicação e escala
+
+  compatíveis com qualquer fase do voo (deve ser possível, em qualquer situação de
+
+  desvio lateral, fazer uma leitura deste, de forma a identificar, com facilidade, clareza
+
+  e resolução suficientes, a posição lateral da aeronave em relação à rota a ser voada,
+
+  e em relação aos limites que devem ser mantidos).
+
+  A escala do indicador de desvio lateral deve corresponder a qualquer alerta e
+
+  anúncio de limites, se instalados.
+
+  As escalas e os limites de indicação de desvio lateral podem ser ajustados manual
+
+  ou automaticamente, de acordo com a fase de voo. Os limites de indicação devem
+
+  ser conhecidos, ou serem disponibilizados num display, para a tripulação mensurar
+
+  os valores de acordo com a fase de voo.
+
+  A indicação de desvio lateral do curso deve ser automaticamente escravizada ao
+
+  GNSS. Caso haja um seletor de curso no indicador de desvio lateral (por exemplo,
+
+  no caso de o indicador ser um HSI ou EHSI), é recomendado que a seleção de
+
+  curso seja automática.
+
+  4 Função DIRECT TOOrigem: SAR 49/65
+
+   Verificar o funcionamento da função DIRECT TO.
+
+  5 Mudança de fonte de navegação ILS automática
+
+   Selecionar uma frequência de ILS, verificar a mudança automática ou não da fonte de navegação
+  de
+
+  GNSS para VOR/ILS e anotar o resultado.
+
+  6 Visibilidade
+
+   Verificar a interferência da luz solar no display do equipamento GNSS e nos anunciadores
+  remotos.
+
+  7 Chaveamento de fontes de navegação
+
+  (1) Acoplar o modo de navegação NAV do DV/PA
+
+  7.1 Mudança de GNSS para VOR (VOR com sinal)
+
+  (1) Navegar com fonte GNSS e DV/PA acoplado;
+
+  (2) Selecionar uma estação VOR com sinal;
+
+  (3) Voar num curso GNSS diferente da proa para a estação VOR selecionada;
+
+  (4) Mudar a fonte de navegação de GNSS para VOR.
+
+   Verificar e anotar o comportamento do DV/PA, aeronave e anunciações.
+
+  7.2 Mudança de VOR para GNSS (GNSS com plano ativo)
+
+  (1) Navegar com fonte VOR e DV/PA acoplado;
+
+  (2) Ativar um plano de voo no GNSS;
+
+  (3) Mudar a fonte de navegação de VOR para GNSS.
+
+   Verificar e anotar o comportamento do DV/PA, aeronave e anunciações.
+
+  7.3 Mudança de GNSSS para VOR (VOR sem sinal)Origem: SAR 50/65
+
+  (1) Navegar com fonte GNSS e DV/PA acoplado;
+
+  (2) Selecionar uma estação VOR sem sinal;
+
+  (3) Mudar a fonte de navegação de GNSS para VOR.
+
+   Verificar e anotar o comportamento do DV/PA, aeronave e anunciações.
+
+  7.4 Mudança de VOR para GNSS (GNSS sem plano ativo)
+
+  (1) Navegar com fonte VOR e DV/PA acoplado;
+
+  (2) Apagar qualquer plano de voo ativo no GNSS;
+
+  (3) Mudar a fonte de navegação de VOR para GNSS.
+
+   Verificar e anotar o comportamento do DV/PA, aeronave e anunciações.
+
+  8 Verificação de falhas
+
+  (1) Acoplar o modo de navegação NAV do DV/PA;
+
+  (2) Selecionar a fonte de navegação GNSS;
+
+  (3) Ativar um plano de voo GNSS.
+
+  8.1 VOR sem sinal - desligamento na chave liga/desliga
+
+  (1) Selecionar uma estação de VOR sem sinal;
+
+  (2) Desligar o GNSS na chave.
+
+   Verificar e anotar o comportamento do DV/PA, aeronave e anunciações.
+
+  8.2 VOR com sinal - desligamento na chave liga/desliga
+
+  (1) Selecione uma estação VOR com sinal;
+
+  (2) Desligue o GNSS no botão.
+
+   Verificar e anotar o comportamento do DV/PA, aeronave e anunciações.
+
+  8.3 VOR sem sinal - desligamento pelo disjuntor
+
+  (1) Selecionar uma estação VOR sem sinal;
+
+  (2) Desarmar o disjuntor do GNSS.
+
+   Verificar e anotar o comportamento do DV/PA, aeronave e anunciações.Origem: SAR 51/65
+
+  9 Interferência eletromagnética
+
+   Verificar se existe interferência eletromagnética do equipamento GNSS nos demais equipamentos
+  e
+
+  instrumentos da aeronave e vice-versa.
+
+  Resultados esperados Aceit. Inac.
+
+  O equipamento GNSS não deve ser a fonte de condução indesejável ou
+
+  interferência irradiada, ou ser adversamente afetado por condução ou
+
+  interferência irradiada a partir de outros equipamentos ou sistemas instalados na
+
+  aeronave. Especial atenção com VHF, DME e ADF.
+
+  10 Recepção do sinal GNSS em curva
+
+   Verificar o recebimento do sinal GNSS durante curva.
+
+  (1) Selecionar página que informe a qualidade do sinal das estações GNSS em uso;
+
+  (2) Realizar uma curva de 360º para cada lado com inclinação de asa de 30º;
+
+  (3) Verificar o comportamento dos sinais de GNSS e se há perda de sinal GNSS significativo
+  a ponto de
+
+  haver anúncio de falha.
+
+  Resultados esperados Aceit. Inac.
+
+  Sem perda de sinal significativo de GNSS e sem anúncio de falha
+
+  11 Funcionamento do GNSS e DV/PA durante o procedimento de descida
+
+  (1) Inserir um procedimento de descida RNAV no plano de voo;
+
+  (2) Acoplar o modo de navegação NAV (ou GNSS) do DV/PA;
+
+  (3) Verificar o comportamento do DV/PA.
+
+  (4) Acompanhar e anotar as anunciações do modo de navegação do GNSS;
+
+  (5) Acoplar o modo de navegação APR quando na perna de aproximação final.
+
+   Realizar uma aproximação de não-precisão (somente para aprovação RNP APCH) e anotar o
+
+  comportamento do DV/PA e sequência de anunciações
+
+  Evento Resultados obtidos
+
+  Procedimento inserido
+
+  Comportamento do DV/PA
+
+  Anunciações dos modos de
+
+  navegação do GNSS (SUSP,
+
+  APR, LNAV, MAPR etc.)
+
+  Resultados esperados Aceit. Inac.
+
+  Comportamento do DV/PA adequado.
+
+  Anunciação do modo de navegação APR a 2 minutos do FAF.Origem: SAR 52/65
+
+  Anunciação do modo de navegação MAPR após o ponto de decisão.
+
+  12 Aproximação de descida ILS
+
+  (1) Equipamento GNSS ligado com um plano de voo ativo;
+
+  (2) Modo de navegação APR do DV/PA acoplado;
+
+  (3) Selecionar fonte de navegação ILS;
+
+  (4) Selecionar frequência ILS correspondente.
+
+   Realizar uma aproximação de descida ILS e verificar o comportamento do DV/PA e do sinal
+  ILS,
+
+  observando se há qualquer tipo de interferência do equipamento GNSS.'
+keywords:
+- certificacao
+- projeto
+- aeronavegabilidade
+- gnss
+- navegacao
+- inserir
+- equipamento
+- fonte
+- aeronave
+- piloto
+- modo
+- operacao
+- verificar
+- curso
+- manual
+categories:
+- certificacao
+- projeto
+- aeronavegabilidade
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-21-013.md

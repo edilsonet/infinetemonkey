@@ -1,0 +1,37 @@
+id: is-is-137-201-001-5-1-2-c
+kind: is
+document: is-137-201-001
+family: '137'
+section_id: 5.1.2
+section_title: Esta IS não autoriza nenhuma outra modificação além daquela relacionada à conversão
+  do avião e motor para o uso do etanol.
+subsection_id: c
+cite: 5.1.2(c)
+title: 5.1.2(c)
+text: 'c) A seguinte declaração deve ser emitida por um piloto habilitado para a aeronave:
+
+  “Eu declaro que a combinação aeronave/motor/hélice foi avaliada em voo em todas as manobras
+  típicas da operação agrícola usando etanol e que o motor operou sem evidência de mau funcionamento
+  e dentro das limitações estabelecidas nas especificações: Especificação da Aeronave nº______________;
+  Especificação do Motor nº_______________; Especificação da Hélice nº______________; Nome
+  do Piloto:________________ Certificado de Habilitação Técnica nº______________.”'
+keywords:
+- aeroagricola
+- operacoes
+- motor
+- aeronave
+- especificacao
+- etanol
+- helice
+- piloto
+- agricola
+- alem
+- autoriza
+- avaliada
+- aviao
+- certificado
+categories:
+- aeroagricola
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-137-201-001.md

@@ -1,0 +1,45 @@
+id: is-is-91-001-j8-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: J8.2
+section_title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento APV/Baro-VNAV, antes de voar em condições IMC para assegurar
+  a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  publicados. Para tanto, o operador deve, pelo menos, realizar a comparação entre os dados
+  de navegação dos procedimentos APV/Baro-VNAV que serão inseridos no FMS com cartas e mapas
+  vigentes que contenham os procedimentos publicados.
+subsection_id: body
+cite: J8.2
+title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador deve
+  validar cada procedimento APV/Baro-VNAV, antes de voar em condições IMC para assegurar a
+  compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  publicados. Para tanto, o operador deve, pelo menos, realizar a comparação entre os dados
+  de navegação dos procedimentos APV/Baro-VNAV que serão inseridos no FMS com cartas e mapas
+  vigentes que contenham os procedimentos publicados.
+text: J8.2 Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada procedimento APV/Baro-VNAV, antes de voar em condições IMC para assegurar
+  a compatibilidade com sua aeronave e que as trajetórias resultantes correspondem aos procedimentos
+  publicados. Para tanto, o operador deve, pelo menos, realizar a comparação entre os dados
+  de navegação dos procedimentos APV/Baro-VNAV que serão inseridos no FMS com cartas e mapas
+  vigentes que contenham os procedimentos publicados.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- procedimentos
+- baro
+- dados
+- navegacao
+- operador
+- publicados
+- vnav
+- aeronave
+- assegurar
+- banco
+- cada
+- cartas
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

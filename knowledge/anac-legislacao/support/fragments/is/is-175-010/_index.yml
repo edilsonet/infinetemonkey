@@ -1,0 +1,65 @@
+document: is-175-010
+kind: is
+title: IS 175-010D
+ementa: Guia de resposta a emergências para incidentes aeronáuticos envolvendo artigos perigosos
+  Em vigor em 1º de janeiro de 2025
+family: '175'
+categories:
+- artigos-perigosos
+- carga
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-010
+pdf_url: ''
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-010
+language: pt
+foreign_annex: false
+sections:
+- '1'
+- '11'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- 7.2.1
+- '8'
+- 8.3.1
+- 8.4.1
+- apendice-a-controle-de-alteracoes
+- aprovacao
+- preambulo
+fragment_count: 32
+fragment_ids:
+- is-is-175-010-preambulo-body
+- is-is-175-010-aprovacao-body
+- is-is-175-010-1-body
+- is-is-175-010-2-body
+- is-is-175-010-3-body
+- is-is-175-010-3-a
+- is-is-175-010-3-b
+- is-is-175-010-4-body
+- is-is-175-010-5-body
+- is-is-175-010-6-body
+- is-is-175-010-6-a
+- is-is-175-010-6-b
+- is-is-175-010-6-c
+- is-is-175-010-6-d
+- is-is-175-010-7-body
+- is-is-175-010-7-a
+- is-is-175-010-7-b
+- is-is-175-010-7-c
+- is-is-175-010-7-e
+- is-is-175-010-7-d
+- is-is-175-010-8-body
+- is-is-175-010-8-a
+- is-is-175-010-8-b
+- is-is-175-010-8-c
+- is-is-175-010-8-d
+- is-is-175-010-8-e
+- is-is-175-010-8-f
+- is-is-175-010-apendice-a-controle-de-alteracoes-body
+- is-is-175-010-11-body
+- is-is-175-010-7-2-1-body
+- is-is-175-010-8-3-1-body
+- is-is-175-010-8-4-1-body
+parser_version: 7

@@ -1,0 +1,56 @@
+id: is-is-121-012-b2-4-body
+kind: is
+document: is-121-012
+family: '121'
+section_id: B2.4
+section_title: Capacidade de comunicação. O detentor de certificado deve possuir capacidade
+  efetiva de comunicação por voz ou datalink para toda a rota. Para as operações ETOPS, os
+  requisitos ETOPS são suficientes. Para as operações não ETOPS, as comunicações do avião
+  com o detentor de certificado podem utilizar voz HF, datalink HF, voz do SATCOM ou datalink
+  do SATCOM. Em razão das limitações do VHF e da SATCOM por voz, as comunicações com o ATC
+  provavelmente irão requerer voz HF em partes das rotas. A ANAC reconhece que o SATCOM pode
+  não estar disponível por curtos períodos durante voos sobre os polos. A comunicação com
+  rádios HF também pode ser afetada durante períodos de erupção solar (solar flare). O detentor
+  de certificado deve considerar as predições de atividade de erupção solar e seus efeitos
+  na comunicação para cada voo que seja despachado nessas áreas.
+subsection_id: body
+cite: B2.4
+title: Capacidade de comunicação. O detentor de certificado deve possuir capacidade efetiva
+  de comunicação por voz ou datalink para toda a rota. Para as operações ETOPS, os requisitos
+  ETOPS são suficientes. Para as operações não ETOPS, as comunicações do avião com o detentor
+  de certificado podem utilizar voz HF, datalink HF, voz do SATCOM ou datalink do SATCOM.
+  Em razão das limitações do VHF e da SATCOM por voz, as comunicações com o ATC provavelmente
+  irão requerer voz HF em partes das rotas. A ANAC reconhece que o SATCOM pode não estar disponível
+  por curtos períodos durante voos sobre os polos. A comunicação com rádios HF também pode
+  ser afetada durante períodos de erupção solar (solar flare). O detentor de certificado deve
+  considerar as predições de atividade de erupção solar e seus efeitos na comunicação para
+  cada voo que seja despachado nessas áreas.
+text: B2.4 Capacidade de comunicação. O detentor de certificado deve possuir capacidade efetiva
+  de comunicação por voz ou datalink para toda a rota. Para as operações ETOPS, os requisitos
+  ETOPS são suficientes. Para as operações não ETOPS, as comunicações do avião com o detentor
+  de certificado podem utilizar voz HF, datalink HF, voz do SATCOM ou datalink do SATCOM.
+  Em razão das limitações do VHF e da SATCOM por voz, as comunicações com o ATC provavelmente
+  irão requerer voz HF em partes das rotas. A ANAC reconhece que o SATCOM pode não estar disponível
+  por curtos períodos durante voos sobre os polos. A comunicação com rádios HF também pode
+  ser afetada durante períodos de erupção solar (solar flare). O detentor de certificado deve
+  considerar as predições de atividade de erupção solar e seus efeitos na comunicação para
+  cada voo que seja despachado nessas áreas.
+keywords:
+- transporte-aereo
+- operacoes
+- comunicacao
+- satcom
+- certificado
+- datalink
+- detentor
+- etops
+- solar
+- capacidade
+- comunicacoes
+- durante
+- erupcao
+categories:
+- transporte-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-121-012.md

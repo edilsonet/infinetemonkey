@@ -1,0 +1,54 @@
+id: is-is-119-002-10-8-2-body
+kind: is
+document: is-119-002
+family: '119'
+section_id: 10.8.2
+section_title: O gestor responsável do detentor de certificado deve designar um grupo de
+subsection_id: body
+cite: 10.8.2
+title: O gestor responsável do detentor de certificado deve designar um grupo de
+text: '10.8.2 O gestor responsável do detentor de certificado deve designar um grupo de
+
+  planejamento composto por diretores, gerentes e supervisores chave da organização,
+
+  para o desenho, desenvolvimento e implantação do SGSO, que deve contar com o
+
+  diretor ou gerente de segurança operacional, ou a pessoa selecionada para assumir a
+
+  função. O ponto inicial, considerando o processo de certificação de cinco fases adotado
+
+  pela ANAC, deveria ser uma reunião entre o grupo de planejamento (H135.1(d)(4)(ii)
+
+  ou Apêndice Q (d)(4)(ii)) e a Agência (INSPAC), pelo menos três meses antes da data
+
+  prevista para a entrega do MGSO no Apêndice R (1º de maio de 2011) ou no Apêndice
+
+  I (1º de agosto de 2011). Nessa reunião, o Gestor Responsável deveria apresentar ao
+
+  INSPAC os estudos relativos à descrição do Ambiente Operacional (sistema) e à
+
+  Análise do Faltante em relação aos requisitos, bem assim a forma como pretende
+
+  implantar a nova cultura na organização, a ser consolidado no Plano de Implantação do
+
+  SGSO.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- gestor
+- grupo
+- responsavel
+- apendice
+- certificado
+- designar
+- detentor
+- deveria
+- implantacao
+- inspac
+- operacional
+- organizacao
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-002.md

@@ -1,0 +1,48 @@
+id: is-is-00-008e-9-7-body
+kind: is
+document: is-00-008e
+family: '0'
+section_id: '9.7'
+section_title: A alteração de endereço de e-mail só poderá ser executada pelo próprio usuário
+  quando estiver logado dentro do ambiente do SACI. Portanto, o usuário precisará ter login
+  e senha de acesso ao SACI. Caso não possua ou não lembre e não consiga recuperar a senha
+  de acesso ao SACI (ver item 8.7 desta IS), por questões de segurança de suas informações,
+  para alterar o e-mail em seu cadastro o interessado deverá enviar à GCEP (por meio do Protocolo
+  Eletrônico) o requerimento padrão (cf. Apêndice A) devidamente assinado, solicitando a alteração
+  do e-mail, com cópia de sua carteira de identidade, conforme orientações disponibilizadas
+  no item 5.12 desta IS.
+subsection_id: body
+cite: '9.7'
+title: A alteração de endereço de e-mail só poderá ser executada pelo próprio usuário quando
+  estiver logado dentro do ambiente do SACI. Portanto, o usuário precisará ter login e senha
+  de acesso ao SACI. Caso não possua ou não lembre e não consiga recuperar a senha de acesso
+  ao SACI (ver item 8.7 desta IS), por questões de segurança de suas informações, para alterar
+  o e-mail em seu cadastro o interessado deverá enviar à GCEP (por meio do Protocolo Eletrônico)
+  o requerimento padrão (cf. Apêndice A) devidamente assinado, solicitando a alteração do
+  e-mail, com cópia de sua carteira de identidade, conforme orientações disponibilizadas no
+  item 5.12 desta IS.
+text: 9.7 A alteração de endereço de e-mail só poderá ser executada pelo próprio usuário quando
+  estiver logado dentro do ambiente do SACI. Portanto, o usuário precisará ter login e senha
+  de acesso ao SACI. Caso não possua ou não lembre e não consiga recuperar a senha de acesso
+  ao SACI (ver item 8.7 desta IS), por questões de segurança de suas informações, para alterar
+  o e-mail em seu cadastro o interessado deverá enviar à GCEP (por meio do Protocolo Eletrônico)
+  o requerimento padrão (cf. Apêndice A) devidamente assinado, solicitando a alteração do
+  e-mail, com cópia de sua carteira de identidade, conforme orientações disponibilizadas no
+  item 5.12 desta IS.
+keywords:
+- mail
+- saci
+- acesso
+- alteracao
+- desta
+- senha
+- usuario
+- alterar
+- ambiente
+- apendice
+- assinado
+- cadastro
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-00-008e.md

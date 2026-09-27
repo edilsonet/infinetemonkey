@@ -1,0 +1,73 @@
+id: is-is-91-010-7-2-2-c
+kind: is
+document: is-91-010
+family: '91'
+section_id: 7.2.2
+section_title: 'As seguintes informações devem constar expressamente da declaração de conformidade:'
+subsection_id: c
+cite: 7.2.2(c)
+title: 7.2.2(c)
+text: 'c) as sub-redes compatíveis com o sistema de Data Link da aeronave. Caso seja utilizado
+  um padrão de sub-rede não constante da Tabela 1, a declaração de conformidade deve fazer
+  referência expressa às normas técnicas que definiram o referido padrão.
+
+  7.3 Gravação de dados de voo
+
+  7.3.1 Conforme requerido pelo parágrafo 91.609(j) do RBAC nº 91, para todas as aeronaves
+  que operam sob este regulamento e para as quais seja requerido possuir gravador de voz na
+  cabine (CVR) e um gravador de dados de voo (FDR), se tiverem instalado um equipamento de
+  comunicação por Data Link a partir de 21 de março de 2021, o operador deve demonstrar à
+  ANAC que o CVR possui a capacidade para gravar todas as mensagens enviadas e recebidas por
+  Data Link.
+
+  Nota: o parágrafo 91.609(j) do RBAC nº 91 não estabelece uma data de instalação do Data
+  Link para aplicabilidade da obrigatoriedade de gravação - diferentemente do que ocorre no
+  regulamento de origem (14 CFR Part 91, da FAA) e nos RABC nº 121 e 135. Por meio desta IS,
+  fixa-se a interpretação de que deve ser considerada a data de 21 de março de 2021, considerando
+  o art. 9º, inciso IV da Resolução nº 546, de 18 de maio de 2020.
+
+  7.3.2 Conforme requerido pelo parágrafo 121.359(k) do RBAC nº 121 e pelo parágrafo 135.151(h)
+  do RBAC nº 135, para todas as aeronaves que operam sob estes regulamentos e para as quais
+  seja requerido possuir CVR e FDR, se tiverem instalado um equipamento de comunicação por
+  Data Link após 7 de abril de 2012, o operador deve demonstrar à ANAC que o CVR possui a
+  capacidade para gravar todas as mensagens enviadas e recebidas por Data Link.
+
+  7.4 Manutenção
+
+  7.4.1 MGM: O operador é responsável pela manutenção de todos os sistemas de Data Link utilizados
+  em suas aeronaves. Os procedimentos para manutenção dos sistemas de Data Link da aeronave
+  devem constar do Manual Geral de Manutenção do operador, para operadores certificados sob
+  os RBAC nº 121 ou 135; e dos procedimentos específicos de manutenção, para operadores sob
+  a Subparte K do RBAC nº 91.
+
+  7.4.2 Caso os procedimentos contidos no MGM do operador já contemplem as exigências constantes
+  no item 7.4.1 desta IS, esses procedimentos existentes devem ser referenciados no texto
+  do MGM dedicado aos procedimentos de manutenção dos sistemas de Data Link.
+
+  7.4.3 MEL: Caso a MEL vigente preveja a operação com equipamentos ou funções do seu sistema
+  de Data Link inoperantes ou caso o operador pretenda despachar aeronave com esses itens
+  inoperantes, este deve atualizar a Lista de Equipamentos Mínimos (MEL) aplicável à aeronave.
+
+  7.4.4 Caso o operador realize operações em espaços aéreos nos quais CPDLC, ADS-C e/ou desempenho
+  RCP/RSP são requeridos, a MEL deve prever expressamente a restrição à operação nestes espaços
+  aéreos.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- data
+- link
+- operador
+- manutencao
+- caso
+- procedimentos
+- aeronave
+- paragrafo
+- requerido
+- todas
+- aeronaves
+- quais
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

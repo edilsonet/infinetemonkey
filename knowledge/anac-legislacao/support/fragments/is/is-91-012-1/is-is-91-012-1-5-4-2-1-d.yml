@@ -1,0 +1,39 @@
+id: is-is-91-012-1-5-4-2-1-d
+kind: is
+document: is-91-012-1
+family: '91'
+section_id: 5.4.2.1
+section_title: 'A aeronave deve se enquadrar nas situações previstas em 91.213(d)(1):'
+subsection_id: d
+cite: 5.4.2.1(d)
+title: 5.4.2.1(d)
+text: 'd) deve ser verificado se é requerido que o item esteja operacional por uma diretriz
+  de aeronavegabilidade (DA). As DA emitidas pela Anac podem ser consultadas em https://sistemas.anac.gov.br/certificacao/DA/DA.asp.
+  Porém, caso o operador não seja familiarizado com a consulta a DA, recomenda-se consultar
+  um mecânico de manutenção aeronáutica ou uma organização de manutenção aeronáutica para
+  determinar se alguma DA aplicável à aeronave requer o item operacional. Ressalta-se que,
+  de acordo com o parágrafo 91.403(a) do RBAC nº 91, o operador da aeronave é primariamente
+  o responsável pela conservação dessa aeronave em condições aeronavegáveis.
+
+  5.4.2.3 Caso o item não seja requerido por nenhum dos requisitos supracitados, é possível
+  operar a aeronave com esse item inoperante. Para tanto, o item deve ser:'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- aeronave
+- aeronautica
+- caso
+- manutencao
+- operacional
+- operador
+- requerido
+- seja
+- acordo
+- aeronavegabilidade
+- aeronavegaveis
+- alguma
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-012-1.md

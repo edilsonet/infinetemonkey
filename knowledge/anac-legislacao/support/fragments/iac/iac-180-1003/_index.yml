@@ -1,0 +1,56 @@
+document: iac-180-1003
+kind: iac
+title: IAC 180-1003
+ementa: 17/08/2004
+family: '180'
+categories:
+- legislacao
+page_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-180-1003
+pdf_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-180-1003/@@display-file/arquivo_norma/IAC180_1003.pdf
+archive_url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/iac/iac-180-1003/@@display-file/arquivo_norma/IAC180_1003.pdf
+language: pt
+foreign_annex: false
+sections:
+- 3.1.1
+- 3.1.2
+- 3.1.3
+- 3.2.1
+- 3.2.2
+- 3.2.3
+- 3.2.4
+- 3.2.5
+- anexo-1-identificacao-na-fuselagem-de-aeronaves-de-as-806cf1
+- anexo-1-identificacao-na-fuselagem-de-aeronaves-de-asa-fixa
+- anexo-2-identificacao-na-deriva-vertical-de-aeronaves-4207c5
+- anexo-2-identificacao-na-deriva-vertical-de-aeronaves-de-asa
+- anexo-3-identificacao-no-leme-direcional-de-aeronaves-c107c2
+- anexo-3-identificacao-no-leme-direcional-de-aeronaves-de-asa
+- anexo-no3-caso-existam-imposicoes-tecnicas-que-impeca-1cca5b
+- preambulo
+- sumario
+fragment_count: 23
+fragment_ids:
+- iac-iac-180-1003-preambulo-body
+- iac-iac-180-1003-sumario-body
+- iac-iac-180-1003-3-1-1-body
+- iac-iac-180-1003-3-1-2-body
+- iac-iac-180-1003-3-1-3-body
+- iac-iac-180-1003-3-2-1-body
+- iac-iac-180-1003-3-2-2-body
+- iac-iac-180-1003-3-2-3-body
+- iac-iac-180-1003-3-2-4-body
+- iac-iac-180-1003-3-2-5-body
+- iac-iac-180-1003-anexo-1-identificacao-na-fuselagem-de-aeronaves-de-as-806cf1-body
+- iac-iac-180-1003-anexo-2-identificacao-na-deriva-vertical-de-aeronaves-de-asa-body
+- iac-iac-180-1003-anexo-3-identificacao-no-leme-direcional-de-aeronaves-de-asa-body
+- iac-iac-180-1003-3-1-2-a
+- iac-iac-180-1003-3-1-2-b
+- iac-iac-180-1003-3-2-1-a
+- iac-iac-180-1003-3-2-1-b
+- iac-iac-180-1003-3-2-1-c
+- iac-iac-180-1003-anexo-no3-caso-existam-imposicoes-tecnicas-que-impeca-1cca5b-body
+- iac-iac-180-1003-3-2-3-a
+- iac-iac-180-1003-anexo-1-identificacao-na-fuselagem-de-aeronaves-de-asa-fixa-body
+- iac-iac-180-1003-anexo-2-identificacao-na-deriva-vertical-de-aeronaves-4207c5-body
+- iac-iac-180-1003-anexo-3-identificacao-no-leme-direcional-de-aeronaves-c107c2-body
+parser_version: 7

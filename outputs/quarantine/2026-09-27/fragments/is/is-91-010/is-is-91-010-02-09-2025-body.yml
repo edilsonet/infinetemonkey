@@ -1,0 +1,172 @@
+id: is-is-91-010-02-09-2025-body
+kind: is
+document: is-91-010
+family: '91'
+section_id: 02.09.2025
+section_title: 02.09.2025
+subsection_id: body
+cite: 02.09.2025
+title: 02.09.2025
+text: '02.09.2025
+
+  OBJETIVO
+
+  1.1 Apresentar procedimentos para autorização do uso de comunicação por enlace de dados
+  controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C) por operadores
+  aéreos brasileiros.
+
+  1.2 Esta IS se aplica a qualquer operador aéreo brasileiro regido pelo RBAC nº 121, RBAC
+  nº 135 ou RBAC nº 91, que tenha ou solicite autorização para o uso de comunicação por enlace
+  de dados controlador-piloto (CPDLC) e de vigilância dependente automática-contrato (ADS-C).
+
+
+  REVOGAÇÃO
+
+  2.1 Esta IS revoga a IS nº 91-010, Revisão C.
+
+
+  FUNDAMENTOS
+
+  3.1 A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar
+  - IS, norma suplementar de caráter geral editada pelo superintendente da área competente,
+  objetivando esclarecer, detalhar e orientar a aplicação de requisito previsto em RBAC.
+
+  3.2 O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito
+  previsto em RBAC, poderá:
+
+  a) adotar os meios e procedimentos previamente especificados em IS; ou
+
+  b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se, nesse
+  caso, a análise e concordância expressa do órgão competente da ANAC
+
+  3.3 O meio ou procedimento alternativo mencionado no item 3.2(b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  3.4 A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC
+  ou outro ato normativo.
+
+  3.5 Esta IS tem por objetivo oferecer método aceitável de cumprimento às seções 91.102(a),
+  91.111 e 91.119 do RBAC nº 91; 121.99 e 121.122 do RBAC nº 121; e 135.165 do RBAC nº 135,
+  mediante o uso de aplicações de Data Link. Todavia, ressalta-se que o uso de equipamentos
+  de enlace de dados para comunicação via CPDLC não dispensa a disponibilidade de quaisquer
+  equipamentos de comunicação por voz requeridos nas aeronaves, os quais são os meios primários
+  para cumprimentos dos requisitos de equipamentos e sistemas de comunicação.
+
+
+  DEFINIÇÕES
+
+  4.1 Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01, 91, 121
+  e 135 e as seguintes definições:
+
+  a) Aplicação de Data Link: é a implementação de tecnologia de data link para obter funcionalidades
+  operacionais de gerenciamento de tráfego aéreo (ATM).
+
+  b) CNS/ATM: A expressão CNS/ATM reúne quatro termos: Comunicação Aeronáutica (representada
+  pela letra C), Navegação Aérea (representada pela letra N), Vigilância (letra S, de Surveillance)
+  e Gerenciamento de Tráfego Aéreo (ou ATM acrônimo em inglês de Air Traffic Management).
+  O CNS/ATM é um conceito que se fundamenta na integração de tecnologias, processos e recursos
+  humanos, destinados a suportar a evolução do transporte aéreo mundial de forma segura e
+  eficiente, aplicando em grande escala a tecnologia satelital, a comunicação digital e a
+  gestão estratégica do tráfego aéreo.
+
+  c) Data link: enlace de dados.
+
+  4.2 Lista de abreviaturas:
+
+  a) AFM: Aircraft flight manual
+
+  b) AFMS: Aircraft flight manual supplement
+
+  c) ADS-C: Vigilância dependente automática - Contrato (Automatic Dependent Surveillance
+  - Contract);
+
+  d) ATS: Serviço de tráfego aéreo
+
+  e) ATSU: Unidade ATS (ATS Unit)
+
+  f) CPDLC: comunicação por enlace de dados controlador-piloto (controller pilot data link
+  communications)
+
+  g) CSP: provedor de serviços de comunicação
+
+  h) CST: Certificado suplementar de tipo
+
+  i) DECEA: Departamento de Controle do Espaço Aéreo
+
+  j) EA: Especificações de aeronave
+
+  k) EO: Especificações operativas
+
+  l) FAA: Federal Aviation Administration
+
+  m) HF: High frequency
+
+  n) LOA: Letter of authorization
+
+  o) MCA: Manual do Comando da Aeronáutica
+
+  p) MEL: Lista de equipamentos mínimos
+
+  q) MGM: Manual geral de manutenção
+
+  r) MV: Manual de voo
+
+  s) PBCS: comunicação e vigilância baseada em desempenho (performance-based communication
+  and surveillance)
+
+  t) PBN: navegação baseada em desempenho (performance based navigation)
+
+  u) POH: Pilot’s operating handbook
+
+  v) RCP: Required communication performance
+
+  w) RSP: Required surveillance performance
+
+  x) RNAV: Area navigation
+
+  y) RNP: Required navigation performance
+
+  z) SMV: Suplemento ao manual de voo
+
+  aa) STC: Supplemental type certificate
+
+  bb) TCDS: Type certificate datasheet
+
+
+  INTRODUÇÃO
+
+  5.1 Data Link (ou enlace de dados) é um termo que identifica genericamente diversos recursos
+  tecnológicos que permitem a ligação remota de dois ou mais dispositivos para fins de troca
+  de dados. Na aviação moderna, existem diversas aplicações para sistemas que suportam troca
+  de dados via Data Link.
+
+  5.2 Esta Instrução Suplementar tem por escopo estabelecer procedimentos para obtenção de
+  autorização operacional para o uso da tecnologia de Data Link para as seguintes aplicações:
+  a) Comunicação por enlace de dados controlador-piloto (CPDLC); e b) Vigilância dependente
+  automática - Contrato (ADS-C).
+
+  5.3 Outras aplicações de sistemas de Data Link na aviação encontram-se fora do escopo desta
+  IS.
+
+  5.4 CPDLC e ADS-C'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- comunicacao
+- dados
+- data
+- link
+- aereo
+- enlace
+- cpdlc
+- manual
+- vigilancia
+- performance
+- aplicacoes
+- automatica
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

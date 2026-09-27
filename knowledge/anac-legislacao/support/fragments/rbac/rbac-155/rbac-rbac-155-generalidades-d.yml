@@ -1,0 +1,32 @@
+id: rbac-rbac-155-generalidades-d
+kind: rbac
+document: rbac-155
+family: '155'
+section_id: generalidades
+section_title: Generalidades
+subsection_id: d
+cite: generalidades(d)
+title: generalidades(d)
+text: '(d)
+
+  Não é permitida a utilização simultânea de dois ou mais helicópteros em uma FATO. Enquanto
+  um helicóptero estiver utilizando determinada FATO, esta permanecerá indisponível para operações
+  de pousos e de decolagens de outros helicópteros.'
+keywords:
+- seguranca-aeroportuaria
+- fato
+- generalidades
+- helicopteros
+- decolagens
+- determinada
+- dois
+- enquanto
+- estiver
+- helicoptero
+- indisponivel
+- operacoes
+- outros
+categories:
+- seguranca-aeroportuaria
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-155.md

@@ -1,0 +1,40 @@
+id: is-is-145-009-5-5-11-16-e
+kind: is
+document: is-145-009
+family: '145'
+section_id: 5.5.11.16
+section_title: Aprovação para retorno ao serviço e Certificado de Liberação Autorizada (Formulário
+  ANAC F-100-01)
+subsection_id: e
+cite: 5.5.11.16(e)
+title: 5.5.11.16(e)
+text: e) A aprovação para retorno ao serviço pode ser um documento separado, incluído na ordem
+  de serviço, ou anotação nos registros de manutenção do produto. Se a manutenção foi um grande
+  reparo, a OM pode usar uma ordem de serviço em vez do formulário para aprovação de grandes
+  reparos/alterações para registrar o trabalho e aprovar o artigo para retorno ao serviço
+  (ver o RBAC nº 43, Apêndice B para detalhes). Se a manutenção executada foi incorporar uma
+  grande alteração, a OM deve usar o formulário ANAC F-400-04 (SEGVOO 001) para registrar
+  e aprovar para retorno ao serviço o trabalho executado. A IS nº 43.9-001- Instruções para
+  Preenchimento do Formulário ANAC F-400-04, descreve como preencher o formulário para registro
+  e/ou aprovação de grandes reparos/alterações. Se a OM optar por utilizar o formulário ANAC
+  F-400-04 para aprovação de grandes reparos/alterações, uma cópia do formulário e instruções
+  para o seu preenchimento devem ser incluídos na seção de formulários do manual.
+keywords:
+- organizacao-de-manutencao
+- manutencao
+- formulario
+- servico
+- aprovacao
+- retorno
+- alteracoes
+- grandes
+- reparos
+- aprovar
+- grande
+- instrucoes
+- ordem
+categories:
+- organizacao-de-manutencao
+- manutencao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-145-009.md

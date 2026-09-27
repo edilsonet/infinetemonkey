@@ -1,0 +1,45 @@
+id: is-is-91-010-fundamentos-b
+kind: is
+document: is-91-010
+family: '91'
+section_id: fundamentos
+section_title: FUNDAMENTOS
+subsection_id: b
+cite: fundamentos(b)
+title: fundamentos(b)
+text: 'b) apresentar meio ou procedimento alternativo devidamente justificado, exigindo-se,
+  nesse caso, a análise e concordância expressa do órgão competente da ANAC
+
+  3.3 O meio ou procedimento alternativo mencionado no item 3.2(b) desta IS deve garantir
+  nível de segurança igual ou superior ao estabelecido pelo requisito aplicável ou concretizar
+  o objetivo do procedimento normalizado em IS.
+
+  3.4 A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC
+  ou outro ato normativo.
+
+  3.5 Esta IS tem por objetivo oferecer método aceitável de cumprimento às seções 91.102(a),
+  91.111 e 91.119 do RBAC nº 91; 121.99 e 121.122 do RBAC nº 121; e 135.165 do RBAC nº 135,
+  mediante o uso de aplicações de Data Link. Todavia, ressalta-se que o uso de equipamentos
+  de enlace de dados para comunicação via CPDLC não dispensa a disponibilidade de quaisquer
+  equipamentos de comunicação por voz requeridos nas aeronaves, os quais são os meios primários
+  para cumprimentos dos requisitos de equipamentos e sistemas de comunicação.'
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- comunicacao
+- equipamentos
+- procedimento
+- requisitos
+- alternativo
+- fundamentos
+- meio
+- objetivo
+- aceitavel
+- aeronaves
+- analise
+- aplicacoes
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-010.md

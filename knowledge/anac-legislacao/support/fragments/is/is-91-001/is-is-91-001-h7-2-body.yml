@@ -1,0 +1,45 @@
+id: is-is-91-001-h7-2-body
+kind: is
+document: is-91-001
+family: '91'
+section_id: H7.2
+section_title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada rota RNP 2, antes de voar em condições IMC para assegurar a compatibilidade
+  com sua aeronave e que as trajetórias resultantes correspondem às rotas publicadas. Para
+  tanto, o operador deve, pelo menos, realizar a comparação entre os dados de navegação das
+  rotas RNP 2 que serão inseridos no FMS com cartas e mapas vigentes que contenham as rotas
+  publicadas.
+subsection_id: body
+cite: H7.2
+title: Após o recebimento de uma nova versão do banco de dados de navegação, o operador deve
+  validar cada rota RNP 2, antes de voar em condições IMC para assegurar a compatibilidade
+  com sua aeronave e que as trajetórias resultantes correspondem às rotas publicadas. Para
+  tanto, o operador deve, pelo menos, realizar a comparação entre os dados de navegação das
+  rotas RNP 2 que serão inseridos no FMS com cartas e mapas vigentes que contenham as rotas
+  publicadas.
+text: H7.2 Após o recebimento de uma nova versão do banco de dados de navegação, o operador
+  deve validar cada rota RNP 2, antes de voar em condições IMC para assegurar a compatibilidade
+  com sua aeronave e que as trajetórias resultantes correspondem às rotas publicadas. Para
+  tanto, o operador deve, pelo menos, realizar a comparação entre os dados de navegação das
+  rotas RNP 2 que serão inseridos no FMS com cartas e mapas vigentes que contenham as rotas
+  publicadas.
+keywords:
+- operacoes-gerais
+- regras-de-voo
+- rotas
+- dados
+- navegacao
+- operador
+- publicadas
+- aeronave
+- assegurar
+- banco
+- cada
+- cartas
+- comparacao
+- compatibilidade
+categories:
+- operacoes-gerais
+- regras-de-voo
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-91-001.md

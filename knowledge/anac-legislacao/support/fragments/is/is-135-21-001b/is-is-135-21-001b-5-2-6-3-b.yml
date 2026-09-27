@@ -1,0 +1,35 @@
+id: is-is-135-21-001b-5-2-6-3-b
+kind: is
+document: is-135-21-001b
+family: '135'
+section_id: 5.2.6.3
+section_title: Manutenção não programada. O MGM deve estabelecer procedimentos para a execução
+  de manutenção não programada.
+subsection_id: b
+cite: 5.2.6.3(b)
+title: 5.2.6.3(b)
+text: b) O livro de bordo deve ter provisão para os registros necessários de forma a permitir
+  ao piloto em comando a verificação de aeronavegabilidade prevista na Seção 135.71, do RBAC
+  nº 135. Por exemplo, tais registros poderão conter a correspondente aprovação para retorno
+  ao serviço, incluindo o tipo da última inspeção prevista executada, e da parada programada
+  seguinte da aeronave para inspeção.
+keywords:
+- taxi-aereo
+- operacoes
+- programada
+- inspecao
+- manutencao
+- registros
+- aeronave
+- aeronavegabilidade
+- aprovacao
+- bordo
+- comando
+- conter
+- correspondente
+- estabelecer
+categories:
+- taxi-aereo
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-135-21-001b.md

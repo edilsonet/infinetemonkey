@@ -1,0 +1,41 @@
+id: is-is-119-004l-5-2-11-2-5-f
+kind: is
+document: is-119-004l
+family: '119'
+section_id: 5.2.11.2.5
+section_title: 'Conteúdo da LBM. A LBM deve conter, no mínimo:'
+subsection_id: f
+cite: 5.2.11.2.5(f)
+title: 5.2.11.2.5(f)
+text: 'f) o nível de complexidade da manutenção por localidade e por modelo de aeronave, podendo
+  ser descrito em termos de tarefas, blocos de tarefas (checks) ou conforme relacionado no
+  Programa de Manutenção aprovado.
+
+  Nota 1: um modelo de LBM em formato editável encontra-se disponível no sítio da Anac no
+  endereço eletrônico: https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/modelos-e-formularios.
+
+  Nota 2: é possível que, nos casos de aprovação de revisão, a LBM seja gerada automaticamente
+  pela Anac, bastando para isso que o operador manifeste o desejo de que a Anac gere a LBM
+  aprovada, ao invés apenas de indicar que a LBM apresentada pelo operador está aprovada.
+
+  Nota 3: as LBM atualizadas estão disponíveis ao público no endereço: https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/especificacoes-operativas.'
+keywords:
+- certificacao-de-operador
+- operacoes
+- nota
+- aereas
+- aprovada
+- assuntos
+- empresas
+- endereco
+- https
+- manutencao
+- modelo
+- operador
+- regulados
+- tarefas
+categories:
+- certificacao-de-operador
+- operacoes
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-119-004l.md

@@ -1,0 +1,142 @@
+id: is-is-141-005-definicoes-body
+kind: is
+document: is-141-005
+family: '141'
+section_id: definicoes
+section_title: DEFINIÇÕES
+subsection_id: body
+cite: definicoes
+title: DEFINIÇÕES
+text: 'DEFINIÇÕES
+
+  Para os efeitos desta IS, são válidas as definições listadas nas:
+
+  seção 01.1 do RBAC nº 01; e
+
+  seção 141.3 do RBAC
+
+  nº 141.
+
+  Além disso, são válidas as seguintes definições:
+
+  Consequência
+
+  : resultado potencial de um perigo.
+
+  Gerenciamento dos Riscos à Segurança Operacional (GRSO)
+
+  :
+
+  a identificação dos perigos, a análise e a eliminação e/ou mitigação dos riscos que ameaçam
+  as capacidades de uma organização da aviação civil, de forma que sejam mantidos em um nível
+  aceitável.
+
+  Gestor responsável
+
+  : pessoa física, designada pelo detentor e/ou requerente de certificado para atuar em seu
+  nome, com autoridade corporativa para assegurar que todas as atividades de operações e de
+  manutenção do detentor de certificado possam ser financiadas e realizadas com o nível de
+  segurança operacional requerido pela ANAC e estabelecido no SGSO da organização.
+
+  Indicadores de Desempenho de Segurança Operacional
+
+  :
+
+  uma medição quantitativa do desempenho de segurança operacional de um CIAC, expressos em
+  termos quantificáveis, associados aos resultados de uma dada atividade realizada pelo provedor
+  de serviços
+
+  Manual de Gerenciamento de Segurança Operacional (MGSO)
+
+  :
+
+  documento, em papel ou mídia eletrônica, que tem por objetivo formalizar e divulgar a abordagem
+  de segurança operacional da empresa.
+
+  Metas de Desempenho da Segurança Operacional
+
+  :
+
+  uma referência de nível de desempenho de segurança operacional desejado para um CIAC em
+  um prazo definido, devendo ser expressas em termos numéricos e acompanhadas pela ANAC.
+
+  Perigo
+
+  :
+
+  a condição, objeto ou atividade que potencialmente pode causar lesões a pessoas, danos a
+  bens (equipamentos ou estruturas),
+
+  redução de efetivo
+
+  ou redução da habilidade para desempenhar uma função determinada.
+
+  Probabilidade
+
+  :
+
+  no contexto do SGSO, a possibilidade de que um evento, como consequência de um perigo existente,
+  possa ocorrer.
+
+  Risco
+
+  :
+
+  a avaliação das consequências de um perigo, expressa em termos de probabilidade e severidade,
+  tomando como referência a pior condição possível.
+
+  Segurança operacional
+
+  :
+
+  é o estado no qual o risco de lesões a pessoas ou danos a bens se reduzem e se mantêm em
+  um nível aceitável ou abaixo deste, por meio de um processo contínuo de identificação de
+  perigos e gestão de riscos.
+
+  Severidade
+
+  :
+
+  grau da consequência de um evento, como decorrência de um perigo existente ou de uma situação
+  insegura, tomando como referência a pior condição possível.
+
+  Sistema de Garantia da Qualidade
+
+  :
+
+  é um sistema que garante que a instrução ministrada pelo CIAC atinja os objetivos propostos
+  e que todos os procedimentos do CIAC se mantenham de acordo com os requisitos estabelecidos
+  no RBAC n° 141.
+
+  Sistema de Gerenciamento da Segurança Operacional (SGSO)
+
+  :
+
+  é um conjunto de ferramentas gerenciais e métodos organizados de maneira a apoiar as decisões
+  que devem ser tomadas por um CIAC com relação ao risco relativo às suas atividades diárias.
+
+  Responsabilidade (no sentido de "accountable")
+
+  :
+
+  obrigação de prestar contas por suas próprias ações.'
+keywords:
+- escolas
+- treinamento
+- operacional
+- seguranca
+- ciac
+- definicoes
+- perigo
+- desempenho
+- nivel
+- condicao
+- consequencia
+- gerenciamento
+- referencia
+- risco
+categories:
+- escolas
+- treinamento
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-141-005.md

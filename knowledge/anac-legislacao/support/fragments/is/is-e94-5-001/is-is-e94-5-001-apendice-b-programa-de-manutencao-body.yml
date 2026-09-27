@@ -1,0 +1,46 @@
+id: is-is-e94-5-001-apendice-b-programa-de-manutencao-body
+kind: is
+document: is-e94-5-001
+family: '94'
+section_id: apendice-b-programa-de-manutencao
+section_title: APÊNDICE B - PROGRAMA DE MANUTENÇÃO
+subsection_id: body
+cite: apendice-b-programa-de-manutencao
+title: APÊNDICE B - PROGRAMA DE MANUTENÇÃO
+text: 'APÊNDICE B - PROGRAMA DE MANUTENÇÃO
+
+  B.1 - O programa de manutenção deve identificar as tarefas que apenas podem ser realizadas
+  pelo detentor da autorização do projeto, ou pessoas ou instituições credenciadas pelo detentor,
+  e aquelas que podem ser feitas pelo próprio operador.
+
+  B.2 - O programa de manutenção somente poderá atribuir ao operador a responsabilidade por
+  tarefas de manutenção mais simples que não requeiram conhecimentos, habilidades ou ferramentas
+  especiais tais como montagem/desmontagem, limpeza e troca de componentes cuja falha não
+  afete a segurança operacional.
+
+  B.3 - O detentor da autorização é responsável por disponibilizar um modo (por meio de cadernetas
+  físicas, meio eletrônico ou combinação desses) que permita acesso aos registros das ações
+  de manutenção realizadas, não sendo necessário o registro daquelas realizadas pelo próprio
+  operador.
+
+  B.4 - O programa de manutenção deve estabelecer um meio para que o operador do RPAS possa
+  determinar se qualquer modificação (em especial, aquelas que possam ser disponibilizadas
+  por terceiros como, por exemplo, atualizações de software ou novos tipos de cargas-paga)
+  foi avaliada pelo detentor da autorização do projeto e está autorizada para uso.'
+keywords:
+- manutencao
+- programa
+- detentor
+- operador
+- apendice
+- autorizacao
+- meio
+- realizadas
+- aquelas
+- podem
+- projeto
+- proprio
+categories:
+- legislacao
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/is/is-e94-5-001.md

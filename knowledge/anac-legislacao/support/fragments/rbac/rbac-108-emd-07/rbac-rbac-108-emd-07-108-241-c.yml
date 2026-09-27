@@ -1,0 +1,45 @@
+id: rbac-rbac-108-emd-07-108-241-c
+kind: rbac
+document: rbac-108-emd-07
+family: '108'
+section_id: '108.241'
+section_title: Atividades de Controle de Qualidade AVSEC
+subsection_id: c
+cite: 108.241(c)
+title: 108.241(c)
+text: '(c) Na execução das auditorias internas o operador aéreo deve observar as seguintes
+  disposições:
+
+  (1) o escopo da auditoria interna deve englobar todos os requisitos AVSEC aplicáveis ao
+  operador aéreo nos termos da regulamentação vigente e do PSOA;
+
+  (2) a auditoria deve ser realizada em cada base do operador aéreo e abranger tanto as medidas
+  e procedimentos operacionalizados pelo próprio operador aéreo quanto os operacionalizados
+  por terceiros vinculados; (Redação dada pela Resolução nº 604, de 29.01.2021)
+
+  (3) a auditoria deve ser conduzida por Auditor(es) AVSEC que não realize(m) atividade operacional
+  AVSEC sob responsabilidade do operador aéreo na base auditada; e
+
+  (4) a auditoria deve incluir, no mínimo, entrevistas com os profissionais responsáveis por
+  AVSEC, profissionais envolvidos diretamente na execução dos procedimentos de segurança,
+  além das verificações de documentos e procedimentos descritos no PSOA e na regulamentação
+  vigente.'
+keywords:
+- seguranca
+- operador
+- aereo
+- avsec
+- auditoria
+- procedimentos
+- base
+- execucao
+- operacionalizados
+- profissionais
+- psoa
+- regulamentacao
+- vigente
+categories:
+- seguranca
+- operador
+language: pt
+source_path: knowledge/anac-legislacao/support/extracted/rbac/rbac-108-emd-07.md

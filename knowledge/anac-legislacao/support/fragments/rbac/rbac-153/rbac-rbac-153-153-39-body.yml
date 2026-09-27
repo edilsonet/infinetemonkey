@@ -25,58 +25,18 @@ text: '153.39
   Data da emissão: 15 de março de 2021
 
 
-  SUBPARTE B - OPERADOR DE AERÓDROMO
-
-  Requisitos
-
-  Descrição
-
-  Aeródromos
-
-  OBS
-
-  Classe I
-
-  Classe II
-
-  Classe III
-
-  Classe IV
-
-  Tipo A
-
-  Tipo B
-
-
-  153.39(d) e (e) - execução,
-
-  desenvolvimento ou monitoramento
-
-  de atividades
-
-  Não exigido
-
-  Obrigatório
-
-  Obrigatório
-
-  Obrigatório
-
-  Obrigatório'
+  SUBPARTE B - OPERADOR DE AERÓDROMO'
 keywords:
 - aerodromos
 - operacao-aeroportuaria
 - obrigatorio
-- classe
-- tipo
 - aerodromo
-- atividades
 - data
-- descricao
-- desenvolvimento
 - documentacao
 - emissao
-- execucao
+- marco
+- operador
+- subparte
 categories:
 - aerodromos
 - operacao-aeroportuaria

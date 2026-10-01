@@ -44,8 +44,16 @@ BACKOFF_BASE = 2.0
 
 API = "https://api.cloudflare.com/client/v4"
 
-# Metadata keys defined as indexes on the first upsert. Vectorize allows ten;
-# the indexed value must be 64 bytes or fewer, hence the truncation.
+# bge-m3 caps the TOTAL tokens of one embedding request, not each text. The
+# observed limit is 60000, and a fixed 50-text batch of ~1700-token chunks
+# reached 82050 and was rejected. Batches are therefore built by token budget,
+# never by a fixed count, with headroom for the est_tokens approximation being
+# slightly low.
+MODEL_MAX_TOKENS = 60_000
+BATCH_TOKEN_BUDGET = 48_000
+
+# Metadata keys defined as indexes on the index. Vectorize allows ten; the
+# indexed value must be 64 bytes or fewer, hence the truncation.
 METADATA_INDEX_KEYS = [
     "kind", "code", "family", "cite", "cite_kind",
     "section_id", "language", "chunk_index", "document_title",
@@ -126,6 +134,30 @@ def api_request(url: str, token: str, method: str = "GET",
     raise RuntimeError(f"request failed after {MAX_ATTEMPTS} attempts: {last_error}")
 
 
+def batch_by_tokens(chunks: list[dict], budget: int = BATCH_TOKEN_BUDGET) -> list[list[dict]]:
+    """Group chunks so each Workers AI call stays under the model token cap.
+
+    A fixed count is wrong here: chunks vary from a few hundred to ~2300
+    estimated tokens, so 50 small chunks is safe and 50 large ones overflows.
+    A single chunk can never exceed the budget on its own given the chunker's
+    2328-token maximum, but guard anyway rather than send a request we know will
+    be rejected.
+    """
+    batches: list[list[dict]] = []
+    current: list[dict] = []
+    used = 0
+    for chunk in chunks:
+        tokens = max(1, int(chunk.get("est_tokens", 0)))
+        if current and (used + tokens > budget or len(current) >= AI_BATCH):
+            batches.append(current)
+            current, used = [], 0
+        current.append(chunk)
+        used += tokens
+    if current:
+        batches.append(current)
+    return batches
+
+
 def load_manifest() -> dict:
     path = CHUNKS / "manifest.json"
     if not path.exists():
@@ -167,6 +199,28 @@ def save_state(state: dict) -> None:
 
 def vectorize_url(account: str, index: str, suffix: str) -> str:
     return f"{API}/accounts/{account}/vectorize/v2/indexes/{index}{suffix}"
+
+
+def ensure_index(account: str, token: str, args: argparse.Namespace) -> None:
+    """Create the Vectorize index if it is absent.
+
+    The API expects dimensions and metric nested under "config"; passing them at
+    the top level returns 3003 "Config must be provided". Dimensions are fixed at
+    creation, so the manifest's value is asserted before the call rather than
+    after a partial write.
+    """
+    collections = vectorize_url(account, args.index, "").rsplit("/indexes/", 1)[0]
+    try:
+        api_request(f"{collections}/{args.index}", token)
+        log(f"[index] {args.index} exists")
+        return
+    except RuntimeError:
+        pass
+    result = api_request(collections, token, method="POST", payload={
+        "name": args.index,
+        "config": {"dimensions": 1024, "metric": "cosine"},
+    })
+    log(f"[index] created {args.index}")
 
 
 def embed_batch(account: str, token: str, texts: list[str],
@@ -248,8 +302,11 @@ def main(argv: list[str]) -> int:
     est_tokens = sum(c["est_tokens"] for c in chunks)
     log(f"[plan] {len(chunks)} chunks, {total_chars} chars, ~{est_tokens} tokens, "
         f"namespace={args.namespace}")
-    log(f"[plan] AI calls: {-(-len(chunks) // AI_BATCH)}, upsert calls: "
-        f"{-(-len(chunks) // UPSERT_BATCH)}")
+    plan_batches = batch_by_tokens(chunks)
+    log(f"[plan] AI calls: {len(plan_batches)}, upsert calls: "
+        f"{-(-len(chunks) // UPSERT_BATCH)}, "
+        f"largest batch: {max(sum(c.get('est_tokens', 0) for c in b) for b in plan_batches)} tokens "
+        f"(model cap {MODEL_MAX_TOKENS})")
 
     if args.dry_run:
         account = os.environ.get("CLOUDFLARE_ACCOUNT_ID")
@@ -261,7 +318,7 @@ def main(argv: list[str]) -> int:
             "namespace": args.namespace,
             "model": args.model,
             "dimensions": manifest["embed_dimensions"],
-            "ai_calls": -(-len(chunks) // AI_BATCH),
+            "ai_calls": len(plan_batches),
             "upsert_calls": -(-len(chunks) // UPSERT_BATCH),
             "est_tokens": est_tokens,
         }, indent=2))
@@ -281,13 +338,21 @@ def main(argv: list[str]) -> int:
 
     state = load_state()
     url = vectorize_url(account, args.index, "")
-    defined = False
     embedded = 0
     upserted = 0
     started = time.time()
 
-    for i in range(0, len(chunks), AI_BATCH):
-        batch = chunks[i : i + AI_BATCH]
+    # Metadata indexes are declared once, on the index itself, before any
+    # upsert. Declaring them per upsert call is not a thing the API accepts, and
+    # filters cannot be used until they exist.
+    ensure_index(account, token, args)
+    api_request(url, token, method="PUT",
+                payload={"metadata_index": {
+                    key: {"type": "string", "case_sensitive": False}
+                    for key in METADATA_INDEX_KEYS
+                }})
+
+    for batch in batch_by_tokens(chunks):
         vectors = embed_batch(account, token, [c["embed_text"] for c in batch], limiter)
         embedded += len(batch)
 
@@ -306,12 +371,6 @@ def main(argv: list[str]) -> int:
             }
             api_request(url, token, method="POST", payload=payload)
             upserted += len(sub)
-            # defineMetadataIndexes is a per-call option declaring the index for
-            # the keys in that batch; re-declaring every batch is wasted work.
-            if not defined:
-                api_request(f"{url}/indexes", token, method="POST",
-                            payload={"metadataIndexes": METADATA_INDEX_KEYS})
-                defined = True
 
         for chunk in batch:
             state[chunk["code"]] = {

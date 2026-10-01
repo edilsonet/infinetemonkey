@@ -1,0 +1,17 @@
+# Runtime dependencies for the ANAC ingest and RAG tooling.
+#
+# Only PyYAML is required. ingest.py imports bs4, lxml and pymupdf lazily
+# inside html_to_text() and pdf_to_text(), and segment.py, query.py and
+# chunk.py are stdlib-only on top of PyYAML. So an offline machine that only
+# needs to read the corpus, re-chunk it or query the keyword index installs
+# nothing else.
+#
+# Install the full set only to re-fetch or re-extract from the network:
+#   ./.venv/Scripts/python.exe -m pip install -r tools/anac_ingest/requirements.txt
+
+PyYAML>=6.0
+
+# Fetching and extraction (ingest.py, fetch_via_reader.py only)
+beautifulsoup4>=4.12
+lxml>=5.0
+pymupdf>=1.24

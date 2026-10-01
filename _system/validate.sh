@@ -29,6 +29,7 @@ REPO_MD_WALK_PRUNES=(
   "$REPO_ROOT/docs"
   "$REPO_ROOT/intake"
   "$REPO_ROOT/data/source-archives"
+  "$REPO_ROOT/.venv"
 )
 
 GENERATED_MD_WALK_PRUNES=(
@@ -52,6 +53,8 @@ GENERATED_MD_WALK_PRUNES=(
   "*/tools/client-export/overlay/*"
   "*/node_modules"
   "*/node_modules/*"
+  "*/.venv"
+  "*/.venv/*"
 )
 
 # Files that are plumbing and do not need frontmatter
@@ -755,6 +758,7 @@ repo_walk_prunes = {
     "swarms",
     "docs",
     "intake",
+    ".venv",
 }
 graph_roots = ["knowledge", "_system", "entities", "workflows", "intake"]
 
@@ -897,6 +901,7 @@ def walk_repo_markdown():
             d for d in dirs
             if not (
                 d == "node_modules"
+                or d == ".venv"
                 or (rel_root == "." and d in repo_walk_prunes)
                 or (rel_root == "data" and d == "source-archives")
                 or (

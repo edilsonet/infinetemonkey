@@ -1,0 +1,40 @@
+{
+  // Cloudflare Worker for the ANAC semantic retrieval layer.
+  //
+  // This is the RECALL path. The keyword index in support/indexes/ stays the
+  // PRECISION path and is still served locally by tools/anac_ingest/query.py.
+  // Neither replaces the other; see _system/retrieval-load-order-policy.md.
+  //
+  // Deploy:  npx wrangler deploy
+  // Local:   npx wrangler dev --local   (only this mode can reach a local LLM)
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "anac-rag",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-30",
+  "observability": { "enabled": true },
+
+  "ai": { "binding": "AI" },
+
+  "vectorize": [
+    {
+      "binding": "VECTORIZE",
+      "index_name": "anac-legislacao"
+      // index_namespace is deliberately NOT set here. The live namespace lives
+      // in vars.INDEX_NAMESPACE so a corpus version bump is a one-line edit
+      // plus a redeploy, which is the blue/green switch.
+    }
+  ],
+
+  "vars": {
+    "INDEX_NAMESPACE": "anac-2026-09",
+    "MODEL_ID": "@cf/baai/bge-m3",
+    "TOP_K_SEMANTIC": "8",
+    "TOP_K_FINAL": "6",
+    "MIN_SCORE": "0.55",
+    "MAX_QUERY_CHARS": "2000",
+    "MAX_CONTEXT_CHARS": "7200",
+    "MAX_CHUNK_CHARS": "1200",
+    "RATE_LIMIT_PER_MIN": "30",
+    "CORS_ORIGINS": "app://obsidian.md,capacitor://localhost,http://localhost:8080"
+  }
+}

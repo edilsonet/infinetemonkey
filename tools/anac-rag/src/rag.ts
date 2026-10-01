@@ -48,8 +48,22 @@ function escapeFilterValue(value: string): string {
   return value.replace(/['\\]/g, "");
 }
 
+/**
+ * Number() never returns null or undefined, so `Number(x) ?? 0.55` was dead
+ * code: a missing or malformed var yielded NaN, every score comparison became
+ * false and every slice empty, and the endpoint reported that as a coverage
+ * gap. A config error must never present as "this is not in the corpus".
+ */
+function num(value: unknown, fallback: number): number {
+  const n = Number(value);
+  return Number.isFinite(n) ? n : fallback;
+}
+
 export async function embed(env: Env, texts: string[]): Promise<number[][]> {
-  let response: AiResponse;
+  // AiResponse was removed in workers-types v4; the run result is a plain record
+// narrowed by the cast below. Annotating it with the v3 type is a hard compile
+// error under strict mode.
+let response: Record<string, unknown>;
   try {
     response = await env.AI.run(env.MODEL_ID, { text: texts });
   } catch (err) {
@@ -109,8 +123,8 @@ export async function retrieve(env: Env, options: QueryOptions): Promise<Retriev
     );
   }
 
-  const minScore = options.min_score ?? Number(env.MIN_SCORE) ?? 0.55;
-  const topK = Math.min(options.top_k ?? Number(env.TOP_K_FINAL) ?? 6, 50);
+  const minScore = options.min_score ?? num(env.MIN_SCORE, 0.55);
+  const topK = Math.min(options.top_k ?? num(env.TOP_K_FINAL, 6), 50);
 
   return (matches.matches || [])
     .filter((m) => (m.score ?? 0) >= minScore)

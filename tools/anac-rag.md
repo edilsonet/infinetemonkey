@@ -130,6 +130,6 @@ requires a bearer.
 
 ## Next integration step
 
-A Worker deploy, then the eight-question retrieval check in
+A Worker deploy, then the nine-question retrieval check in
 `knowledge/anac-legislacao/support/chunks/eval-set.jsonl`, before this pointer's
 `confidence` rises above 0.85.

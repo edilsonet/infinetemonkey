@@ -36,9 +36,14 @@ export function buildContext(chunks: RetrievedChunk[], env: Env): string {
   const blocks: string[] = [];
   let used = 0;
   for (const chunk of chunks) {
-    const citeLabel = chunk.cites.length > 1 ? chunk.cites.join(", ") : chunk.cite;
+    // One bracket per cite. Joining them into a single "[38.5, 38.6]" group
+    // shows the model a format the post-check does not accept: the extractor
+    // captures the whole bracketed run as one citation, fails to match it, and
+    // marks a correct answer ungrounded.
+    const citeLabel = chunk.cites.length > 0 ? chunk.cites : [chunk.cite];
+    const label = citeLabel.map((c) => `[${c}]`).join(" ");
     const body = chunk.text.length > maxChunk ? chunk.text.slice(0, maxChunk) + "..." : chunk.text;
-    const block = `[${citeLabel}] ${chunk.document_title}\n${body}`;
+    const block = `${label} ${chunk.document_title}\n${body}`;
     if (used + block.length > maxContext) break;
     blocks.push(block);
     used += block.length;
@@ -140,6 +145,27 @@ export function checkCitations(answer: string, chunks: RetrievedChunk[]): Citati
       dropped,
     };
   }
+
+  if (dropped.length > 0) {
+    // Detection is not enforcement. An answer carrying an invented cite must not
+    // reach the operator merely because one genuine cite also appeared, and it
+    // must not stay marked grounded. Strip the fabricated brackets and say so.
+    let scrubbed = answer;
+    for (const cite of dropped) {
+      scrubbed = scrubbed.split(`[${cite}]`).join("[citacao nao verificada]");
+    }
+    return {
+      grounded: false,
+      answer:
+        scrubbed.trim() +
+        `\n\n[aviso: ${dropped.length} citacao(oes) emitida(s) pelo modelo nao constam nos fragmentos recuperados ` +
+        `(${dropped.join(", ")}). Foram marcadas como nao verificadas.]` +
+        "\nVerifique knowledge/anac-legislacao/synthesis/lacunas-de-cobertura.md.",
+      citations: valid,
+      dropped,
+    };
+  }
+
   return { grounded: true, answer, citations: valid, dropped };
 }
 

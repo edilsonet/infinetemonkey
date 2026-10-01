@@ -67,7 +67,16 @@ EMBED_DIMENSIONS = 1024
 
 
 class CitableError(Exception):
-    """A chunk could not be attributed to a real fragment of its document."""
+    """A chunk could not be attributed to a real fragment of its document.
+
+    Carries the offending chunk_id as a field, not only inside the message.
+    The caller filters on this; a formatted string never equals a bare id, so
+    filtering on the message made the quarantine path unreachable.
+    """
+
+    def __init__(self, chunk_id: str, message: str) -> None:
+        super().__init__(f"{chunk_id}: {message}")
+        self.chunk_id = chunk_id
 
 
 def log(message: str) -> None:
@@ -154,14 +163,15 @@ def window(text: str, size: int, overlap: int) -> list[str]:
         if len(para) > size:
             flush()
             pieces = hard_split(para)
-            for i, piece in enumerate(pieces):
-                out.append(piece)
-                # Overlap forward from the tail of this piece so a requirement
-                # split across the break stays retrievable from the next one.
-                if i < len(pieces) - 1:
-                    tail = piece[-overlap:]
-                    if tail.strip():
-                        out.append(tail)
+            carry = ""
+            for piece in pieces:
+                # The overlap is prefixed onto the next window rather than
+                # emitted as its own window. Emitting it separately produced
+                # 993 chunks whose entire text already existed in the previous
+                # chunk of the same document: duplicate vectors competing for
+                # the same query, and effective top-k diversity cut in half.
+                out.append(carry + piece if carry else piece)
+                carry = piece[-overlap:]
             continue
         if length + len(para) > size and buf:
             flush()
@@ -210,9 +220,11 @@ def build_chunk(blocks: list[dict], window_index: int, window_count: int,
     return {
         # Document-scoped and structural, never content-derived: two runs over
         # an unchanged document must produce identical ids so a Vectorize upsert
-        # is idempotent. chunk_index disambiguates windows that happen to open on
-        # the same block.
-        "chunk_id": f"{doc['kind']}:{doc['code']}:c{chunk_index}:{first['id']}",
+        # is idempotent. kind + code + chunk_index is already globally unique,
+        # and keeping the id short matters: Vectorize caps vector ids at 64
+        # characters, and appending the full fragment slug pushed 1127 of them
+        # past that. Separators are hyphens, not colons, for the same reason.
+        "chunk_id": f"{doc['kind']}-{doc['code']}-c{chunk_index}",
         "chunk_index": chunk_index,
         "window_index": window_index,
         "window_count": window_count,
@@ -289,13 +301,17 @@ def pack_document(doc: dict, blocks: list[dict], preamble: str) -> list[dict]:
 
 def assert_citable(chunk: dict, doc_cites: set[str]) -> None:
     if not chunk["cite_base"]:
-        raise CitableError(f"{chunk['chunk_id']}: empty cite")
+        raise CitableError(chunk["chunk_id"], "empty cite")
     if chunk["cite_base"] not in doc_cites:
         raise CitableError(
-            f"{chunk['chunk_id']}: cite {chunk['cite_base']!r} is not a fragment of {chunk['code']}"
+            chunk["chunk_id"],
+            f"cite {chunk['cite_base']!r} is not a fragment of {chunk['code']}",
         )
     if len(chunk["cites"]) > MAX_CITATIONS:
-        raise CitableError(f"{chunk['chunk_id']}: {len(chunk['cites'])} citations exceeds {MAX_CITATIONS}")
+        raise CitableError(
+            chunk["chunk_id"],
+            f"{len(chunk['cites'])} citations exceeds {MAX_CITATIONS}",
+        )
 
 
 def chunk_document(doc: dict) -> tuple[list[dict], list[str]]:
@@ -335,7 +351,7 @@ def chunk_document(doc: dict) -> tuple[list[dict], list[str]]:
         # A document too small to section becomes one citable-by-title chunk.
         body = text or doc["title"]
         return [{
-            "chunk_id": f"{doc['kind']}:{doc['code']}:document:w0",
+            "chunk_id": f"{doc['kind']}-{doc['code']}-document",
             "chunk_index": 0, "window_index": 0, "window_count": 1,
             "cite": doc["title"],
             "cite_base": doc["title"],
@@ -360,16 +376,18 @@ def chunk_document(doc: dict) -> tuple[list[dict], list[str]]:
             "chunker_version": CHUNKER_VERSION,
             "embed_model": EMBED_MODEL,
             "embed_dimensions": EMBED_DIMENSIONS,
-        }], []
+        }], [], set()
 
     chunks = pack_document(doc, blocks, preamble)
     errors: list[str] = []
+    failed: set[str] = set()
     for chunk in chunks:
         try:
             assert_citable(chunk, doc_cites)
         except CitableError as exc:
             errors.append(str(exc))
-    return chunks, errors
+            failed.add(exc.chunk_id)
+    return chunks, errors, failed
 
 
 def verify_cites(chunks: list[dict]) -> tuple[int, list[str]]:
@@ -417,13 +435,13 @@ def main(argv: list[str]) -> int:
 
     for doc in documents:
         try:
-            chunks, errors = chunk_document(doc)
+            chunks, errors, failed = chunk_document(doc)
         except Exception as exc:  # noqa: BLE001 - one bad document must not stop the run
             log(f"[{doc['kind']}:{doc['code']}] ERROR {exc}")
             quarantined.append({"code": doc["code"], "error": str(exc)})
             continue
-        bad = [c for c in chunks if c["chunk_id"] in set(errors)]
-        good = [c for c in chunks if c["chunk_id"] not in set(errors)]
+        bad = [c for c in chunks if c["chunk_id"] in failed]
+        good = [c for c in chunks if c["chunk_id"] not in failed]
         if bad:
             stamp = time.strftime("%Y-%m-%d")
             dest = QUARANTINE / stamp

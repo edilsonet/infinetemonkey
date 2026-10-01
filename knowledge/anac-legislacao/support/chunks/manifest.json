@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T23:55:58Z",
+  "generated": "2026-10-01T02:20:36Z",
   "chunker_version": 1,
   "parser_version": 7,
   "embed_model": "@cf/baai/bge-m3",
@@ -9,14 +9,14 @@
   "overlap_chars": 450,
   "max_citations": 8,
   "documents": 285,
-  "chunks": 7956,
+  "chunks": 6963,
   "by_kind": {
-    "rbac": 1909,
-    "is": 5919,
-    "iac": 128
+    "rbac": 1816,
+    "is": 5039,
+    "iac": 108
   },
-  "total_chars": 16968035,
+  "total_chars": 16968042,
   "quarantined": 0,
   "verify_cites": "pass",
-  "cites_verified": 0
+  "cites_verified": 35145
 }

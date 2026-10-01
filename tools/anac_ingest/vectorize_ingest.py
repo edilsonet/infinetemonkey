@@ -54,9 +54,12 @@ BATCH_TOKEN_BUDGET = 48_000
 
 # Metadata keys defined as indexes on the index. Vectorize allows ten; the
 # indexed value must be 64 bytes or fewer, hence the truncation.
+# chunk_index is deliberately absent: it is an integer, so it needs its own
+# "number" declaration rather than joining this string map, and nothing filters
+# on it.
 METADATA_INDEX_KEYS = [
     "kind", "code", "family", "cite", "cite_kind",
-    "section_id", "language", "chunk_index", "document_title",
+    "section_id", "language", "document_title",
 ]
 MAX_INDEXED_VALUE = 60  # leaves room inside the 64-byte cap
 
@@ -356,7 +359,7 @@ def main(argv: list[str]) -> int:
                     for key in METADATA_INDEX_KEYS
                 }})
 
-    for batch in batch_by_tokens(chunks):
+    for i, batch in enumerate(batch_by_tokens(chunks)):
         vectors = embed_batch(account, token, [c["embed_text"] for c in batch], limiter)
         embedded += len(batch)
 

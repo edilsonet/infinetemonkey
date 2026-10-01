@@ -102,13 +102,17 @@ async function handleChat(request: Request, env: Env): Promise<Response> {
     );
   }
 
-  const result = await generate(
-    env,
-    message,
-    Array.isArray(body.history) ? body.history : [],
-    chunks,
-    GAPS_FILE,
-  );
+  // History is caller-supplied and lands after the system message, so an
+// unfiltered turn with role "system" would override the citation discipline.
+// Keep only real dialogue turns and bound the length.
+  const history: ChatMessage[] = (Array.isArray(body.history) ? body.history : [])
+    .filter(
+      (m): m is ChatMessage =>
+        !!m && (m.role === "user" || m.role === "assistant") && typeof m.content === "string",
+    )
+    .slice(-10);
+
+  const result = await generate(env, message, history, chunks, GAPS_FILE);
 
   return jsonResponse(
     {

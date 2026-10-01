@@ -52,6 +52,29 @@ METADATA_INDEX_KEYS = [
 ]
 MAX_INDEXED_VALUE = 60  # leaves room inside the 64-byte cap
 
+# Credential sources, in priority order. A real environment variable always
+# wins, so CI and shell exports keep working unchanged.
+#
+# .env is listed in the repo .gitignore (line 23) and is never staged. This
+# exists so the operator can keep the token on disk instead of pasting it into
+# a chat. Nothing here prints a value, only whether one was found.
+DOTENV_PATH = ROOT / ".env"
+
+
+def load_dotenv() -> None:
+    """Populate os.environ from .env without overwriting real variables."""
+    if not DOTENV_PATH.exists():
+        return
+    for raw in DOTENV_PATH.read_text(encoding="utf-8", errors="replace").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
 
 def log(message: str) -> None:
     print(message, file=sys.stderr)
@@ -113,11 +136,15 @@ def load_manifest() -> dict:
 def load_chunks(only: list[str] | None) -> list[dict]:
     chunks: list[dict] = []
     for path in sorted(CHUNKS.rglob("*.jsonl")):
+        # eval-set.jsonl sits in the same directory and is a question set, not
+        # a chunk file. Identify chunks by required field rather than by name.
         with path.open(encoding="utf-8") as handle:
             for line in handle:
                 if not line.strip():
                     continue
                 chunk = json.loads(line)
+                if not isinstance(chunk, dict) or "embed_text" not in chunk:
+                    continue
                 if only and chunk["code"] not in only:
                     continue
                 chunks.append(chunk)
@@ -364,6 +391,7 @@ def run_probe(token: str, account: str, args: argparse.Namespace,
 
 
 if __name__ == "__main__":
+    load_dotenv()
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     if hasattr(sys.stderr, "reconfigure"):

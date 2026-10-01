@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T02:20:36Z",
+  "generated": "2026-10-01T02:24:49Z",
   "chunker_version": 1,
   "parser_version": 7,
   "embed_model": "@cf/baai/bge-m3",
@@ -18,5 +18,5 @@
   "total_chars": 16968042,
   "quarantined": 0,
   "verify_cites": "pass",
-  "cites_verified": 35145
+  "cites_verified": 0
 }

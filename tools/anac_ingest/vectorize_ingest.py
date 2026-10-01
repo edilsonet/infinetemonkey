@@ -349,15 +349,24 @@ def main(argv: list[str]) -> int:
     upserted = 0
     started = time.time()
 
-    # Metadata indexes are declared once, on the index itself, before any
-    # upsert. Declaring them per upsert call is not a thing the API accepts, and
-    # filters cannot be used until they exist.
+    # Metadata indexes make kind/family filtering possible. They are declared on the
+    # index, and the PUT is rejected by some API-token auth schemes ("Method not
+    # allowed for this authentication scheme"). That must not block the upload:
+    # retrieval works without metadata indexes, only the optional filter does
+    # not. Fail soft, say so loudly, and let the caller decide.
     ensure_index(account, token, args)
-    api_request(url, token, method="PUT",
-                payload={"metadata_index": {
-                    key: {"type": "string", "case_sensitive": False}
-                    for key in METADATA_INDEX_KEYS
-                }})
+    try:
+        api_request(f"{url}/metadata_index", token, method="PUT",
+                    payload={"metadata_index": {
+                        key: {"type": "string", "case_sensitive": False}
+                        for key in METADATA_INDEX_KEYS
+                    }})
+        log("[meta] metadata indexes declared")
+    except RuntimeError as exc:
+        log(f"[meta] WARNING metadata indexes not declared ({exc}).")
+        log("[meta] Upload continues; /query works, but the kind and family "
+            "filters will not. Declare them from the dashboard, or use a token "
+            "whose scheme permits the PUT, to enable filtering.")
 
     for i, batch in enumerate(batch_by_tokens(chunks)):
         vectors = embed_batch(account, token, [c["embed_text"] for c in batch], limiter)

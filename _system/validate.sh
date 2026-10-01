@@ -1344,6 +1344,8 @@ if command -v rg >/dev/null 2>&1; then
       -g '!**/archive/**' \
       -g '!**/support/**' \
       -g '!**/quarantine/**' \
+      -g '!**/node_modules/**' \
+      -g '!**/.venv/**' \
       -g '!**/waves/surfaces/dist/**'; then
     ERRORS+=("EM/EN DASH FOUND: see rg output above")
     FAIL=1
@@ -1361,6 +1363,8 @@ else
       --exclude-dir="archive" \
       --exclude-dir="support" \
       --exclude-dir="quarantine" \
+      --exclude-dir="node_modules" \
+      --exclude-dir=".venv" \
       "\xE2\x80\x94|\xE2\x80\x93" "$REPO_ROOT" 2>/dev/null | grep -v "^Binary"; then
     ERRORS+=("EM/EN DASH FOUND: see grep output above")
     FAIL=1

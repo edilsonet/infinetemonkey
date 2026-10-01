@@ -209,14 +209,18 @@ def ensure_index(account: str, token: str, args: argparse.Namespace) -> None:
     creation, so the manifest's value is asserted before the call rather than
     after a partial write.
     """
-    collections = vectorize_url(account, args.index, "").rsplit("/indexes/", 1)[0]
+    index_url = vectorize_url(account, args.index, "")
+    # The collections endpoint is <base>/indexes. Deriving it by slicing the
+    # index URL produces either /vectorize/v2 or /indexes/indexes depending on
+    # how much you strip, so build it from the known base instead.
+    collections = f"{API}/accounts/{account}/vectorize/v2/indexes"
     try:
-        api_request(f"{collections}/{args.index}", token)
+        api_request(index_url, token)
         log(f"[index] {args.index} exists")
         return
     except RuntimeError:
         pass
-    result = api_request(collections, token, method="POST", payload={
+    api_request(collections, token, method="POST", payload={
         "name": args.index,
         "config": {"dimensions": 1024, "metric": "cosine"},
     })

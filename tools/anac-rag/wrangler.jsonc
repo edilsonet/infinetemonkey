@@ -19,14 +19,18 @@
     {
       "binding": "VECTORIZE",
       "index_name": "anac-legislacao"
-      // index_namespace is deliberately NOT set here. The live namespace lives
-      // in vars.INDEX_NAMESPACE so a corpus version bump is a one-line edit
-      // plus a redeploy, which is the blue/green switch.
+      // No index_namespace here on purpose. Leaving it unset means "default",
+      // which is where the corpus actually lives. See vars.INDEX_NAMESPACE.
     }
   ],
 
   "vars": {
-    "INDEX_NAMESPACE": "anac-2026-09",
+    // Empty means "use the index default namespace", which is where the corpus
+    // actually is. Upserts that named "anac-2026-09" reported success but the
+    // vectors landed in the default namespace, and a query scoped to that name
+    // returned zero. Set this to a non-empty value only once an upsert has been
+    // verified to actually land in the namespace you name.
+    "INDEX_NAMESPACE": "",
     "MODEL_ID": "@cf/baai/bge-m3",
     "TOP_K_SEMANTIC": "8",
     "TOP_K_FINAL": "6",

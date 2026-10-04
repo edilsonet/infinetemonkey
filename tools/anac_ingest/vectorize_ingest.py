@@ -57,7 +57,11 @@ BATCH_CHAR_BUDGET = int(MODEL_MAX_TOKENS * MEASURED_CHARS_PER_TOKEN * 0.85)
 # Index and namespace names live here so the ingest and verify_cloud agree by
 # construction rather than by two literals that can drift apart.
 INDEX_NAME_DEFAULT = "anac-legislacao"
-NAMESPACE_DEFAULT = "anac-2026-09"
+# Empty means the index default namespace. Naming a namespace in the upsert
+# reported success but the vectors landed in the default one, so a query scoped
+# to that name returned zero. Writing to the default is what the corpus already
+# does and what the Worker queries.
+NAMESPACE_DEFAULT = ""
 
 # Metadata keys defined as indexes on the index. Vectorize allows ten; the
 # indexed value must be 64 bytes or fewer, hence the truncation.
@@ -402,7 +406,7 @@ def main(argv: list[str]) -> int:
         for j in range(0, len(batch), UPSERT_BATCH):
             sub = batch[j : j + UPSERT_BATCH]
             payload = {
-                "namespace": args.namespace,
+                **({"namespace": args.namespace} if args.namespace else {}),
                 "vectors": [
                     {
                         "id": chunk["chunk_id"],
@@ -455,7 +459,7 @@ def prune(token: str, account: str, args: argparse.Namespace,
     log(f"[prune] deleting {len(orphans)} orphaned vectors")
     delete_url = vectorize_url(account, args.index, "/delete_by_ids")
     api_request(delete_url, token, method="POST",
-                payload={"namespace": args.namespace, "ids": orphans})
+                payload={**({"namespace": args.namespace} if args.namespace else {}), "ids": orphans})
 
 
 def run_probe(token: str, account: str, args: argparse.Namespace,

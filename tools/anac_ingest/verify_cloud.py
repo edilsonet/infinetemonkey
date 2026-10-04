@@ -86,7 +86,7 @@ def main(argv: list[str]) -> int:
     parser.add_argument("--strict", action="store_true", help="exit 1 when unhealthy")
     parser.add_argument("--index", default=INDEX_NAME_DEFAULT)
     parser.set_defaults()
-    parser.add_argument("--namespace", default=NAMESPACE_DEFAULT)
+    parser.add_argument("--namespace", default=NAMESPACE_DEFAULT, help="vazio = namespace padrao do indice")
     args = parser.parse_args(argv)
 
     load_dotenv()
@@ -126,12 +126,16 @@ def main(argv: list[str]) -> int:
     # levels as the Workers binding. "includeMetadata" is silently ignored, and
     # it was that wrong key that made this verifier report missing metadata for
     # an index that had it.
-    in_ns, first = probe(f"ns={args.namespace}", {
-        "namespace": args.namespace, "topK": 3, "vector": vector, "returnMetadata": "all",
-    })
     default_ns, first_default = probe("sem namespace", {
         "topK": 3, "vector": vector, "returnMetadata": "all",
     })
+    first = first_default
+    if args.namespace:
+        in_ns, first_ns = probe(f"ns={args.namespace}", {
+            "namespace": args.namespace, "topK": 3, "vector": vector, "returnMetadata": "all",
+        })
+    else:
+        in_ns = default_ns
 
     findings: list[str] = []
 

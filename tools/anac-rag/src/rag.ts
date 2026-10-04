@@ -90,7 +90,13 @@ export async function retrieve(env: Env, options: QueryOptions): Promise<Retriev
     );
   }
 
-  const namespace = options.namespace || env.INDEX_NAMESPACE;
+  // The corpus lives in the index's default namespace. An upsert carrying
+// "namespace": "anac-2026-09" reported success but the vectors landed in the
+// default namespace, so scoping a query to that name returns nothing. Rather
+// than guess at a cause, query what actually holds the data: no namespace
+// means the default one. An explicit namespace still overrides, so the
+// behaviour can be switched back without another redeploy.
+const namespace = options.namespace || env.INDEX_NAMESPACE || undefined;
   const [vector] = await embed(env, [query]);
   if (!vector) {
     throw new HttpError(502, "upstream_error", "Embedding returned no vector", true);

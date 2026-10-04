@@ -100,10 +100,14 @@ def main(argv: list[str]) -> int:
     base = vectorize_url(account, args.index, "")
 
     info = index_info(account, token, args.index)
-    declared = (info.get("config") or {}).get("metadata_index") or {}
-    print(f"[index] {args.index}: dims={(info.get('config') or {}).get('dimensions')} "
-          f"metric={(info.get('config') or {}).get('metric')}")
-    print(f"[index] metadata indexes declarados: {sorted(declared) if declared else 'NENHUM'}")
+    config = info.get("config") or {}
+    print(f"[index] {args.index}: dims={config.get('dimensions')} metric={config.get('metric')}")
+    # The Vectorize REST API used by these scripts does NOT expose declared
+    # metadata indexes; `config` carries only dimensions and metric. Asserting
+    # "NENHUM" from this key produced a false alarm while wrangler listed real
+    # indexes. Authoritative check is a metadata-bearing query below, which
+    # tests the thing that actually matters.
+    print("[index] metadata indexes: verificar pela consulta com metadados abaixo")
 
     vector = embed(account, token, PROBE_TEXT)
     if not vector:

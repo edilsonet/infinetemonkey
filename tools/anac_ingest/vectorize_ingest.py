@@ -54,6 +54,11 @@ MEASURED_CHARS_PER_TOKEN = 1.40
 MODEL_MAX_TOKENS = 60_000
 BATCH_CHAR_BUDGET = int(MODEL_MAX_TOKENS * MEASURED_CHARS_PER_TOKEN * 0.85)
 
+# Index and namespace names live here so the ingest and verify_cloud agree by
+# construction rather than by two literals that can drift apart.
+INDEX_NAME_DEFAULT = "anac-legislacao"
+NAMESPACE_DEFAULT = "anac-2026-09"
+
 # Metadata keys defined as indexes on the index. Vectorize allows ten; the
 # indexed value must be 64 bytes or fewer, hence the truncation.
 # chunk_index is deliberately absent: it is an integer, so it needs its own
@@ -298,8 +303,8 @@ def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--only", action="append", default=[])
-    parser.add_argument("--namespace", default="anac-2026-09")
-    parser.add_argument("--index", default="anac-legislacao")
+    parser.add_argument("--namespace", default=NAMESPACE_DEFAULT)
+    parser.add_argument("--index", default=INDEX_NAME_DEFAULT)
     parser.add_argument("--model", default="@cf/baai/bge-m3",
                         help="must match the model recorded in manifest.json")
     parser.add_argument("--prune", action="store_true",

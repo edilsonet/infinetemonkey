@@ -81,6 +81,9 @@ $PY tools/anac_ingest/vectorize_ingest.py --namespace anac-2026-09
 # Prove corpus and query sides share one vector space.
 $PY tools/anac_ingest/vectorize_ingest.py --probe 5
 
+# Is the cloud actually in step with the corpus? Counts only, no corpus text.
+$PY tools/anac_ingest/verify_cloud.py
+
 cd tools/anac-rag && npx wrangler dev --local
 ```
 

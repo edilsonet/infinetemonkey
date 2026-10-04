@@ -28,21 +28,15 @@ export interface QueryOptions {
   namespace?: string;
 }
 
-/** Metadata fields indexed at ingest time. Keep in sync with chunk.py. */
-const METADATA_KEYS = [
-  "cite",
-  "cite_base",
-  "cites",
-  "kind",
-  "code",
-  "family",
-  "section_id",
-  "section_title",
-  "document_title",
-  "text",
-  "source_path",
-  "page_url",
-];
+/**
+ * Ask for every metadata field. The binding takes a level ("all" | "indexed" |
+ * "none"), not a list of keys; passing an array is a type error and, where it
+ * was tolerated, silently returned no metadata at all.
+ *
+ * "all" rather than "indexed" because /query must return `text`, which is the
+ * citation's own words and is not an indexed field.
+ */
+const METADATA_RETRIEVAL = "all" as const;
 
 function escapeFilterValue(value: string): string {
   return value.replace(/['\\]/g, "");
@@ -102,17 +96,20 @@ export async function retrieve(env: Env, options: QueryOptions): Promise<Retriev
     throw new HttpError(502, "upstream_error", "Embedding returned no vector", true);
   }
 
-  const clauses: string[] = [];
-  if (options.kind) clauses.push(`kind = '${escapeFilterValue(options.kind)}'`);
-  if (options.family) clauses.push(`family = '${escapeFilterValue(options.family)}'`);
+  // The binding takes a structured filter object, not a SQL-ish string. Passing
+// "kind = 'rbac'" was both a type error and, had it been tolerated, a filter
+// that matched nothing.
+const filter: Record<string, string> = {};
+  if (options.kind) filter.kind = escapeFilterValue(options.kind);
+  if (options.family) filter.family = escapeFilterValue(options.family);
 
   let matches: VectorizeMatches;
   try {
     matches = await env.VECTORIZE.query(vector, {
       namespace,
       topK: Number(env.TOP_K_SEMANTIC) || 8,
-      ...(clauses.length ? { filter: clauses.join(" AND ") } : {}),
-      returnMetadata: METADATA_KEYS,
+      ...(Object.keys(filter).length ? { filter } : {}),
+      returnMetadata: METADATA_RETRIEVAL,
     });
   } catch (err) {
     throw new HttpError(

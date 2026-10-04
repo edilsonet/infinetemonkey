@@ -122,11 +122,15 @@ def main(argv: list[str]) -> int:
         print(f"[query {label:22}] count={res.get('count', 0)}")
         return len(matches), (matches[0] if matches else None)
 
+    # The REST API takes returnMetadata: "all" | "indexed" | "none", the same
+    # levels as the Workers binding. "includeMetadata" is silently ignored, and
+    # it was that wrong key that made this verifier report missing metadata for
+    # an index that had it.
     in_ns, first = probe(f"ns={args.namespace}", {
-        "namespace": args.namespace, "topK": 3, "vector": vector, "includeMetadata": [True],
+        "namespace": args.namespace, "topK": 3, "vector": vector, "returnMetadata": "all",
     })
     default_ns, first_default = probe("sem namespace", {
-        "topK": 3, "vector": vector, "includeMetadata": [True],
+        "topK": 3, "vector": vector, "returnMetadata": "all",
     })
 
     findings: list[str] = []

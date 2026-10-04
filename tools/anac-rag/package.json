@@ -5,13 +5,17 @@
   "description": "Cloudflare Worker: semantic retrieval over the ANAC RBAC, IS and IAC corpus",
   "type": "module",
   "scripts": {
-    "dev": "wrangler dev --local",
+    "dev": "wrangler dev --local --port 5000",
     "deploy": "wrangler deploy",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250109.0",
+    "@cloudflare/workers-types": "^4.20260702.1",
     "typescript": "^5.7.0",
-    "wrangler": "^3.99.0"
+    "wrangler": "^4.147.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true,
+    "workerd@1.20261001.1": true
   }
 }

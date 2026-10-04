@@ -45,13 +45,12 @@ BACKOFF_BASE = 2.0
 API = "https://api.cloudflare.com/client/v4"
 
 # bge-m3 caps the TOTAL tokens of one embedding request, not each text. The
-# limit is 60000. Batches are sized by CHARACTER count rather than by the
-# chunker's est_tokens field, because that field assumes 3.1 chars/token while
-# the model actually produced 1.79 on this corpus: Portuguese legal prose packs
-# far more tokens per character than the estimate assumed, and a batch built on
-# it reached 84800 real tokens. 1.79 is measured, not assumed; the headroom
-# factor keeps the worst case under the cap.
-MEASURED_CHARS_PER_TOKEN = 1.79
+# limit is 60000. Token density varies across this corpus: measured batches came
+# out at 1.79 and 1.42 chars/token, so no single constant is safe. The budget
+# below uses the denser end of what was observed as a first line of defence,
+# and embed_adaptive() halves any batch the model still rejects, which is what
+# actually makes this reliable rather than the constant.
+MEASURED_CHARS_PER_TOKEN = 1.40
 MODEL_MAX_TOKENS = 60_000
 BATCH_CHAR_BUDGET = int(MODEL_MAX_TOKENS * MEASURED_CHARS_PER_TOKEN * 0.85)
 
@@ -245,6 +244,26 @@ def embed_batch(account: str, token: str, texts: list[str],
     return data
 
 
+def embed_adaptive(account: str, token: str, chunks: list[dict],
+                   limiter: RateLimiter) -> list[list[float]]:
+    """Embed a batch, halving it whenever the model reports a token overflow.
+
+    Token density is not constant across this corpus: two measured batches came
+    out at 1.79 and 1.42 chars/token. No fixed chars-per-token constant is
+    therefore safe, and guessing one repeatedly failed. Splitting on the error
+    is self-calibrating and costs a retry only on the batches that need it.
+    """
+    try:
+        return embed_batch(account, token, [c["embed_text"] for c in chunks], limiter)
+    except RuntimeError as exc:
+        if "Max context" not in str(exc) or len(chunks) == 1:
+            raise
+        mid = len(chunks) // 2
+        log(f"  token overflow on {len(chunks)} chunks, splitting {mid}+{len(chunks) - mid}")
+        return (embed_adaptive(account, token, chunks[:mid], limiter)
+                + embed_adaptive(account, token, chunks[mid:], limiter))
+
+
 def metadata_for(chunk: dict) -> dict:
     meta = {
         "kind": chunk["kind"],
@@ -372,7 +391,7 @@ def main(argv: list[str]) -> int:
             "whose scheme permits the PUT, to enable filtering.")
 
     for i, batch in enumerate(batch_by_tokens(chunks)):
-        vectors = embed_batch(account, token, [c["embed_text"] for c in batch], limiter)
+        vectors = embed_adaptive(account, token, batch, limiter)
         embedded += len(batch)
 
         for j in range(0, len(batch), UPSERT_BATCH):

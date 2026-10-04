@@ -45,12 +45,15 @@ BACKOFF_BASE = 2.0
 API = "https://api.cloudflare.com/client/v4"
 
 # bge-m3 caps the TOTAL tokens of one embedding request, not each text. The
-# observed limit is 60000, and a fixed 50-text batch of ~1700-token chunks
-# reached 82050 and was rejected. Batches are therefore built by token budget,
-# never by a fixed count, with headroom for the est_tokens approximation being
-# slightly low.
+# limit is 60000. Batches are sized by CHARACTER count rather than by the
+# chunker's est_tokens field, because that field assumes 3.1 chars/token while
+# the model actually produced 1.79 on this corpus: Portuguese legal prose packs
+# far more tokens per character than the estimate assumed, and a batch built on
+# it reached 84800 real tokens. 1.79 is measured, not assumed; the headroom
+# factor keeps the worst case under the cap.
+MEASURED_CHARS_PER_TOKEN = 1.79
 MODEL_MAX_TOKENS = 60_000
-BATCH_TOKEN_BUDGET = 48_000
+BATCH_CHAR_BUDGET = int(MODEL_MAX_TOKENS * MEASURED_CHARS_PER_TOKEN * 0.85)
 
 # Metadata keys defined as indexes on the index. Vectorize allows ten; the
 # indexed value must be 64 bytes or fewer, hence the truncation.
@@ -137,25 +140,24 @@ def api_request(url: str, token: str, method: str = "GET",
     raise RuntimeError(f"request failed after {MAX_ATTEMPTS} attempts: {last_error}")
 
 
-def batch_by_tokens(chunks: list[dict], budget: int = BATCH_TOKEN_BUDGET) -> list[list[dict]]:
+def batch_by_tokens(chunks: list[dict], budget: int = BATCH_CHAR_BUDGET) -> list[list[dict]]:
     """Group chunks so each Workers AI call stays under the model token cap.
 
-    A fixed count is wrong here: chunks vary from a few hundred to ~2300
-    estimated tokens, so 50 small chunks is safe and 50 large ones overflows.
-    A single chunk can never exceed the budget on its own given the chunker's
-    2328-token maximum, but guard anyway rather than send a request we know will
-    be rejected.
+    Budgeted in characters of embed_text, converted with the measured token
+    density rather than the chunker's estimate. A fixed count is wrong here
+    regardless: chunks vary from a few hundred to ~2400 estimated tokens, so the
+    same count is safe for small documents and fatal for large ones.
     """
     batches: list[list[dict]] = []
     current: list[dict] = []
     used = 0
     for chunk in chunks:
-        tokens = max(1, int(chunk.get("est_tokens", 0)))
-        if current and (used + tokens > budget or len(current) >= AI_BATCH):
+        chars = len(chunk.get("embed_text", "")) or 1
+        if current and (used + chars > budget or len(current) >= AI_BATCH):
             batches.append(current)
             current, used = [], 0
         current.append(chunk)
-        used += tokens
+        used += chars
     if current:
         batches.append(current)
     return batches
@@ -310,10 +312,11 @@ def main(argv: list[str]) -> int:
     log(f"[plan] {len(chunks)} chunks, {total_chars} chars, ~{est_tokens} tokens, "
         f"namespace={args.namespace}")
     plan_batches = batch_by_tokens(chunks)
+    largest = max(sum(len(c.get("embed_text", "")) for c in b) for b in plan_batches)
     log(f"[plan] AI calls: {len(plan_batches)}, upsert calls: "
         f"{-(-len(chunks) // UPSERT_BATCH)}, "
-        f"largest batch: {max(sum(c.get('est_tokens', 0) for c in b) for b in plan_batches)} tokens "
-        f"(model cap {MODEL_MAX_TOKENS})")
+        f"largest batch: {largest} chars "
+        f"(~{largest / MEASURED_CHARS_PER_TOKEN:.0f} tokens, model cap {MODEL_MAX_TOKENS})")
 
     if args.dry_run:
         account = os.environ.get("CLOUDFLARE_ACCOUNT_ID")
@@ -385,7 +388,9 @@ def main(argv: list[str]) -> int:
                     for k, chunk in enumerate(sub)
                 ],
             }
-            api_request(url, token, method="POST", payload=payload)
+            # The upsert lives on the /upsert subresource. POSTing to the index
+            # root returns 405 with an empty body.
+            api_request(f"{url}/upsert", token, method="POST", payload=payload)
             upserted += len(sub)
 
         for chunk in batch:

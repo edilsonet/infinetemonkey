@@ -44,6 +44,9 @@ paraphrase in this file.
 4. If two fragments conflict, prefer the later emenda in the catalog and surface the
    conflict instead of averaging them.
 5. Raw PDFs and HTML are provenance. They are not the retrieval surface.
+6. Recall may be delegated. `tools/anac-rag` may surface a fragment you did not think to
+   look up. Its hits still resolve to fragment identifiers, so rule 2 applies unchanged:
+   open the fragment YAML before quoting it. A vector hit is a pointer, not a source.
 
 ## The four layers
 
@@ -60,3 +63,5 @@ YAML fragment. If the fragment is missing, say the coverage gap and point to
 ## Changelog
 
 - 2026-09-14: Initial retrieval doctrine for the ANAC namespace standup.
+- 2026-09-30: Added hard rule 6 for delegated recall via `tools/anac-rag`. `verified_at` and
+  `verified_by` left unchanged for the operator.

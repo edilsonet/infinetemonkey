@@ -15,12 +15,19 @@ Rule LOAD-1: surfaces are designed for the reader that actually retrieves today.
 consumer is named, not assumed.
 
 - Today: Claude Code and Codex file-reading agents. They retrieve by `Glob`, `Grep`, and
-  `Read` over the working tree. There is no embedding index and no vector store in the
-  baseline. The retrieval surface is the filesystem: folder names, frontmatter, `INDEX.md`,
-  and `[[wikilinks]]`.
-- Later: an MCP server or a RAG retriever may sit in front of the same tree as an optional
-  adapter. It is not in the baseline. If one is planned, this policy is updated to name it
-  so surfaces account for it.
+  `Read` over the working tree. The retrieval surface is the filesystem: folder names,
+  frontmatter, `INDEX.md`, and `[[wikilinks]]`.
+- Since 2026-09-30: a semantic retriever also sits in front of the same tree. `tools/anac-rag`
+  is a Cloudflare Worker over a Vectorize index of heading-aware windows built from
+  `knowledge/anac-legislacao/support/extracted/`. It is an adapter at the edge. It is **not**
+  the retrieval surface, it does not change the entity model, and the filesystem stays
+  authoritative. Every vector carries the fragment identifier of the citation block it was
+  cut from, so a semantic hit resolves to the same fragment the keyword index would name.
+- The reader is therefore hybrid, and the load order below is two-stage. **Precision first:**
+  canon, then `support/indexes/keyword-index.yml`, then only the named fragments.
+  **Recall second:** `POST /query` on `tools/anac-rag` when the keyword index has no key for
+  the phrasing. Precision resolves the question; recall rescues a phrasing the index missed.
+  Neither replaces the other.
 
 Because the reader today greps and reads files, the load order is expressed as a sequence
 of files to read, not as a query to an index. Every rule below assumes a file-reading

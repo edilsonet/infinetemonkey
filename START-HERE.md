@@ -48,9 +48,22 @@ This working copy is also a personal infinite brain for Brazilian civil aviation
 Any file-reading AI should treat `knowledge/anac-legislacao/` as the domain namespace.
 
 To answer a legal question: read `knowledge/anac-legislacao/INDEX.md`, then
-`support/indexes/keyword-index.yml`, then only the listed fragment YAML files.
+`support/indexes/keyword-index.yml`, then only the listed fragment YAML files. When the
+question is natural language and the keyword index has no key for it, query the semantic
+retriever at `tools/anac-rag` (`POST /query`) for recall. Neither path replaces the other;
+see `_system/retrieval-load-order-policy.md` Rule LOAD-1.
 
 To refresh the corpus: `python3 tools/anac_ingest/ingest.py`
+
+To refresh the semantic index after a corpus change:
+
+```bash
+PY=./.venv/Scripts/python.exe
+$PY tools/anac_ingest/chunk.py --dry-run --verify-cites
+$PY tools/anac_ingest/chunk.py
+$PY tools/anac_ingest/vectorize_ingest.py --dry-run
+$PY tools/anac_ingest/vectorize_ingest.py
+```
 
 Coverage after the 2026-09-14 ingest (Arquivo.pt only): 45 RBAC and 8 IS with
 text, 0 IAC, 10177 unique fragments. Gaps live in

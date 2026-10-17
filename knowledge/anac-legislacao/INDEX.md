@@ -23,6 +23,10 @@ grafo fragmentado da norma. Nao e um starter reduzido: carrega a base completa
 
 - **Onde esta a regra sobre X** (manutencao, licenca, operador, aerodromo): leia o
   indice de palavras-chave, depois so os YAML em `support/fragments/`.
+- **A pergunta esta em linguagem natural e o indice nao tem a chave**: use o recuperador
+  semantico `tools/anac-rag` (`POST /query`). Ele devolve janelas com o `cite` exato de
+  origem. Caminho de recall, nao substitui o indice. Precisa de `ANAC_RAG_TOKEN`; sem ele,
+  volte ao indice por palavras-chave.
 - **O que e RBAC, IS ou IAC**: `concepts/rbac.md`, `concepts/is.md`, `concepts/iac.md`.
 - **Como fragmentar ou reingerir**: `pillars/fragmentacao-legislativa.md` e
   `playbooks/ingerir-legislacao-anac.md`.

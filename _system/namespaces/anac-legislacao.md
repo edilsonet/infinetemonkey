@@ -1,7 +1,7 @@
 ---
 id: namespace-anac-legislacao
 name: anac-legislacao
-purpose: "Corpus operativo da legislacao ANAC: RBAC, IS e IAC fragmentados ate subsecao, com indice por palavras-chave para qualquer agente de arquivos."
+purpose: "Corpus operativo da legislacao ANAC: RBAC, IS e IAC fragmentados ate subsecao, com indice por palavras-chave para precisao e um recuperador semantico (tools/anac-rag, Cloudflare Vectorize) para recall."
 owner: the-operator
 lifecycle_state: research
 created: 2026-09-14
@@ -17,7 +17,7 @@ canon_posture: full
 freshness_posture: review-on-edit
 archive_posture: support
 expected_folders: [INDEX.md, canon, pillars, concepts, decisions, playbooks, support, synthesis]
-notes: "Born V2. Raw PDFs and HTML live in support/. Fragments and keyword indexes also live in support/ so legal punctuation does not trip node lint. Canon states retrieval doctrine, not the statutes themselves."
+notes: "Born V2. Raw PDFs and HTML live in support/. Fragments, keyword indexes, and the embeddable chunks also live in support/ so legal punctuation does not trip node lint. Canon states retrieval doctrine, not the statutes themselves. Two retrieval paths: the keyword index is precision, tools/anac-rag is recall. Neither replaces the other."
 ---
 
 # anac-legislacao

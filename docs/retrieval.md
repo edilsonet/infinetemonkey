@@ -84,6 +84,28 @@ of truth. The optional adapter is purely a search accelerator.
 This is consistent with v3.1 Principle 3 (ports and adapters): runtime is an
 adapter at the edge, the canonical model is the core.
 
+### What shipped: the ANAC vector adapter
+
+One deployment has already crossed that threshold. `tools/anac-rag` is a Cloudflare
+Worker over a Vectorize index of the ANAC corpus (285 RBAC, IS and IAC documents re-cut
+into 7,956 heading-aware windows by `tools/anac_ingest/chunk.py`, embedded with Workers AI
+`@cf/baai/bge-m3`). It exposes `POST /query`, `POST /chat` and `GET /health`.
+
+Two properties keep it an accelerator rather than a second source of truth:
+
+- **The filesystem is still the surface.** The Worker does not change the entity model,
+  and nothing in the ontology is stored in the index.
+- **Every vector resolves to a fragment.** A chunk boundary always lands on a citation
+  boundary, so a semantic hit names the same fragment identifier the keyword index names.
+
+The reader is therefore hybrid: precision first (canon, keyword index, named fragments),
+recall second (`POST /query`) when the index has no key for the phrasing. See
+`_system/retrieval-load-order-policy.md` Rule LOAD-1.
+
+Adding a second such adapter in another deployment is the same exercise: chunk against
+citation boundaries, keep the index versioned by namespace, and make the chunk identifier
+structural rather than content-derived so a re-run stays idempotent.
+
 ---
 
 ## The schema reference
